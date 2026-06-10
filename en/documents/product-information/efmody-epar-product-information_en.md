@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 14:28:08
+document_datetime: 2026-06-09 09:54:50
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/efmody-epar-product-information_en.pdf
 document_name: efmody-epar-product-information_en.pdf
 version: success
-processing_time: 8.2086698
-conversion_datetime: 2026-03-01 20:21:29.813688
+processing_time: 12.3305877
+conversion_datetime: 2026-06-10 13:49:38.143934
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ Efmody 5 mg modified-release hard capsules
 
 A capsule (approximately19 mm long) with an opaque blue cap and opaque white body printed with 'CHC 5 mg' containing white to off white granules.
 
-## Efmody 10 mg modified-release hard capsules
+Efmody 10 mg modified-release hard capsules
 
 A capsule (approximately19 mm long) with an opaque green cap and opaque white body printed with 'CHC 10 mg' containing white to off white granules.
 
@@ -61,7 +61,7 @@ Efmody is indicated in adolescents aged 12 years and over and adults for the:
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Treatment should be initiated by physicians experienced in the management of AI and/or CAH.
 
@@ -133,7 +133,7 @@ In the clinical development programme 2 patients ≤ 18 years of age have been t
 
 ## Method of administration
 
-## Oral use.
+Oral use.
 
 Patients should be advised to swallow the modified-release hard capsules with water to wash the capsules down.
 
@@ -270,35 +270,34 @@ Events of adrenal insufficiency, including acute events, were reported in 7.9% o
 
 The adverse reactions reported for Efmody in the pooled population (n= 203) in the clinical trial programme for CAH and AI, and from post-marketing surveillance, are tabulated below. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1 000), very rare (&lt; 1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-## Table 1. Adverse reactions
+Table 1. Adverse reactions
 
-| MedDRA system organ classification                   | Event                                                                                                                                                  | Frequency   |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Blood and Lymphatic System Disorders                 | Increased tendency to bruise                                                                                                                           | Uncommon    |
-| Endocrine disorders                                  | Adrenocortical insufficiency including acute events 1                                                                                                  | Unknown     |
-| Endocrine disorders                                  | Cushingoid                                                                                                                                             | Uncommon    |
-| Gastrointestinal disorders                           | Abdominal pain upper Diarrhoea Nausea                                                                                                                  | Common      |
-| General disorders and administration site conditions | Fatigue                                                                                                                                                | Very common |
-| General disorders and administration site conditions | Asthenia Fat tissue increased                                                                                                                          | Common      |
-| General disorders and administration site conditions | Oedema peripheral Swelling Thirst                                                                                                                      | Uncommon    |
-| Infections and infestations                          | Paronychia                                                                                                                                             | Uncommon    |
-| Investigations                                       | Blood potassium decreased Blood testosterone decreased Blood testosterone increased Low density lipoprotein increased Renin increased Weight increased | Common      |
-| Investigations                                       | Bone density decreased                                                                                                                                 | Uncommon    |
+| MedDRA system organ classification                   | Event                                                 | Frequency   |
+|------------------------------------------------------|-------------------------------------------------------|-------------|
+| Blood and Lymphatic System Disorders                 | Increased tendency to bruise                          | Uncommon    |
+| Endocrine disorders                                  | Adrenocortical insufficiency including acute events 1 | Unknown     |
+| Endocrine disorders                                  | Cushingoid                                            | Uncommon    |
+| Gastrointestinal disorders                           | Abdominal pain upper Diarrhoea Nausea                 | Common      |
+| General disorders and administration site conditions | Fatigue                                               | Very common |
+| General disorders and administration site conditions | Asthenia Fat tissue increased                         | Common      |
+| General disorders and administration site conditions | Oedema peripheral Swelling Thirst                     | Uncommon    |
+| Infections and infestations                          | Paronychia                                            | Uncommon    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Osteocalcin decreased Renin decreased Urine output decreased                        |          |
-|-------------------------------------------------|-------------------------------------------------------------------------------------|----------|
-| Metabolism and nutrition disorders              | Abnormal weight gain Decreased appetite Increased appetite Impaired fasting glucose | Common   |
-| Metabolism and nutrition disorders              | Blood glucose increased Fluid retention Hyperinsulinaemia Hyperlipidaemia           | Uncommon |
-| Musculoskeletal and connective tissue disorders | Arthralgia Muscle fatigue Muscle weakness Myalgia Pain in extremity                 | Common   |
-| Nervous System Disorders                        | Carpal tunnel syndrome Dizziness Headache Hypoaesthesia Paraesthesia                | Common   |
-| Nervous System Disorders                        | Somnolence                                                                          | Uncommon |
-| Psychiatric disorders                           | Abnormal dreams Depressed mood Insomnia Irritability Sleep disorder Stress          | Common   |
-| Reproductive System and Breast Disorders        | Heavy menstrual bleed Menstruation irregular                                        | Uncommon |
-| Skin and subcutaneous tissue disorders          | Acne Hirsutism                                                                      | Common   |
-| Skin and subcutaneous tissue disorders          | Hyperhidrosis Skin striae                                                           | Uncommon |
-| Vascular Disorders                              | Hypertension                                                                        | Uncommon |
+| Investigations                                  | Blood potassium decreased Blood testosterone decreased Blood testosterone increased Low density lipoprotein increased Renin increased Weight increased   | Common   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Investigations                                  | Bone density decreased Osteocalcin decreased Renin decreased Urine output decreased                                                                      | Uncommon |
+| Metabolism and nutrition disorders              | Abnormal weight gain Decreased appetite Increased appetite Impaired fasting glucose                                                                      | Common   |
+| Metabolism and nutrition disorders              | Blood glucose increased Fluid retention Hyperinsulinaemia Hyperlipidaemia                                                                                | Uncommon |
+| Musculoskeletal and connective tissue disorders | Arthralgia Muscle fatigue Muscle weakness Myalgia Pain in extremity                                                                                      | Common   |
+| Nervous System Disorders                        | Carpal tunnel syndrome Dizziness Headache Hypoaesthesia Paraesthesia                                                                                     | Common   |
+| Nervous System Disorders                        | Somnolence                                                                                                                                               | Uncommon |
+| Psychiatric disorders                           | Abnormal dreams Depressed mood Insomnia Irritability Sleep disorder Stress                                                                               | Common   |
+| Reproductive System and Breast Disorders        | Heavy menstrual bleed Menstruation irregular                                                                                                             | Uncommon |
+| Skin and subcutaneous tissue disorders          | Acne Hirsutism                                                                                                                                           | Common   |
+| Skin and subcutaneous tissue disorders          | Hyperhidrosis Skin striae                                                                                                                                | Uncommon |
+| Vascular Disorders                              | Hypertension                                                                                                                                             | Uncommon |
 
 ## Description of selected adverse reactions
 
@@ -306,11 +305,11 @@ Acute adrenal insufficiency should be monitored for and treated promptly in pati
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroids especially when a patient has a history of allergies to medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 Historical cohorts of adults treated from childhood for AI and CAH have been found to have reduced bone mineral density and increased fracture rates (see section 4.4) - it is unclear if these relate to hydrocortisone therapy using current replacement regimens.
 
 Historical cohorts of adults treated from childhood for AI and CAH have been found to have raised cardiovascular risk factors and a higher risk of cerebrovascular disease than the general population - it is unclear if these relate to hydrocortisone therapy using current replacement regimens.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -338,25 +337,23 @@ Hydrocortisone is a glucocorticoid. Glucocorticoids have multiple effects in mul
 
 Hydrocortisone is a glucocorticoid and the synthetic form of endogenously produced cortisol. Glucocorticoids are adrenocortical steroids, both naturally occurring and synthetic, which are readily absorbed from the gastro-intestinal tract. Cortisol is the principal corticosteroid secreted by the adrenal cortex. Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have saltretaining properties, are used as replacement therapy in adrenocortical deficiency states. They are also used for their potent anti-inflammatory effects in disorders of many organ systems. Glucocorticoids cause profound and varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 ## CAH
 
-A double blind double dummy study (DIUR-014) of 53 participants with CAH (21 hydroxylase deficiency) randomised participants to either twice daily Efmody or twice daily immediate release hydrocortisone (IRHC) after 4 weeks run in on 30mg IRHC daily.  At baseline (randomisation) 28.6 % of participants allocated to the IRHC cohort were in biochemical control compared to 52.0% of participants allocated to Chronocort.  Following randomisation participants had blinded titration of dosing at 3 visits with dose reductions (in 5 mg steps at each visit) conducted if  participants had 17-
+A double blind double dummy study (DIUR-014) of 53 participants with CAH (21 hydroxylase deficiency) randomised participants to either twice daily Efmody or twice daily immediate release hydrocortisone (IRHC) after 4 weeks run in on 30mg IRHC daily.  At baseline (randomisation) 28.6 % of participants allocated to the IRHC cohort were in biochemical control compared to 52.0% of participants allocated to Chronocort.  Following randomisation participants had blinded titration of dosing at 3 visits with dose reductions (in 5 mg steps at each visit) conducted if participants had 17OHP &lt;300 ng/dL and A4 &lt;150 ng/dL in men and &lt;200 ng/dL in women. The difference between Chronocort and IRHC treatment in the proportion of participants in biochemical response was 84.0% vs 14.3% at Week 10 and 72.0% vs 17.9% at Week 16. After 28 weeks the study demonstrated that more participants were biochemical responders with Efmody treatment (40.0%) compared to IHRC treatment (14.3%) (p=0.015).  Biochemical responders were defined as having a 0800hrs 17-OHP concentration ≤ 1200 ng/dL (36.4 nmol/L) plus a 0800hrs A4 concentration ≤ 150 ng/dL (5.2 nmol/L) for men or ≤ 200 ng/dL (7.0 nmol/L) for women plus a total daily dose of hydrocortisone after 28 weeks of randomized treatment of not more than 25 mg (if the participant was in biochemical control at baseline) or not more than 30 mg (if the participant was not in biochemical control at (baseline.. Overall, participants had a lower mean daily dose following Efmody treatment (20.2 mg) compared to IRHC treatment (26.0 mg) (p&lt;0.001).
 
-<div style=\"page-break-after: always\"></div>
-
-OHP &lt;300 ng/dL and A4 &lt;150 ng/dL in  men and &lt;200 ng/dL in women. The difference between Chronocort and IRHC treatment in the proportion of participants in biochemical response was 84.0% vs 14.3% at Week 10 and 72.0% vs 17.9% at Week 16. After 28 weeks the study demonstrated that more participants were biochemical responders with Efmody treatment (40.0%) compared to IHRC treatment (14.3%) (p=0.015).  Biochemical responders were defined as having a 0800hrs 17-OHP concentration ≤ 1200 ng/dL (36.4 nmol/L) plus a 0800hrs A4 concentration ≤ 150 ng/dL (5.2 nmol/L) for men or ≤ 200 ng/dL (7.0 nmol/L) for women plus a total daily dose of hydrocortisone after 28 weeks of randomized treatment of not more than 25 mg (if the participant was in biochemical control at baseline) or not more than 30 mg (if the participant was not in biochemical control at (baseline.. Overall, participants had a lower mean daily dose following Efmody treatment (20.2 mg) compared to IRH C treatment (26.0 mg) (p&lt;0.001).
-
-An open label study  (DIUR-005) in 122 participants with CAH (21-hydroxylase deficiency) randomised to Efmody or continuation of standard care with blinded titration of dose and regular overnight profiles failed to meet its primary endpoint of superiority in change from baseline to 24 weeks of the mean of the 24-hour standard deviation score (SDS) profile for 17-hydroxyprogesterone (17-OHP). The percentage of patients with controlled 09:00 hours 17OHP (&lt;36nmol/l) was 50% at baseline and at 24 weeks was 91% in the Efmody cohort and 71% in the standard therapy cohort. Efmody patients suffered no adrenal crises (compared to 3 in the control arm) and had fewer sick day episodes where increased dosing due to stress was required (26 vs 36 in the control arm) despite reporting more episodes of intercurrent infective or gastro-intestinal illness.
+An open label study  (DIUR-005) in 122 participants with CAH (21-hydroxylase deficiency) randomised to Efmody or continuation of standard care with blinded titration of dose and regular overnight profiles failed to meet its primary endpoint of superiority in change from baseline to 24 weeks of the mean of the 24-hour standard deviation score (SDS) profile for 17-hydroxyprogesterone (17-OHP). The percentage of patients with controlled 09:00 hours 17-OHP (&lt;36nmol/l) was 50% at baseline and at 24 weeks was 91% in the Efmody cohort and 71% in the standard therapy cohort. Efmody patients suffered no adrenal crises (compared to 3 in the control arm) and had fewer sick day episodes where increased dosing due to stress was required (26 vs 36 in the control arm) despite reporting more episodes of intercurrent infective or gastro-intestinal illness.
 
 Figure 1. End of study geometric mean 24-hour profile of 17-OHP after 24 weeks intensive treatment with either Efmody (closed circles) or standard therapy (open circles).
 
 <!-- image -->
 
-A safety extension study of 91 patients with titration by investigators (DIUR-006) was characterised by dose reductions with median daily dose of Efmody at 18 months (n=50) being 20 mg (from a median baseline daily dose of 30 mg) with 17-OHP levels remaining in the clinically determined optimal range and androstenedione at or below the reference range for normal individual.
-
 <div style=\"page-break-after: always\"></div>
+
+A safety extension study of 91 patients with titration by investigators (DIUR-006) was characterised by dose reductions with median daily dose of Efmody at 18 months (n=50) being 20 mg (from a median baseline daily dose of 30 mg) with 17-OHP levels remaining in the clinically determined optimal range and androstenedione at or below the reference range for normal individual.
 
 ## AI
 
@@ -378,13 +375,15 @@ IRHC: immediate-release hydrocortisone (Baseline)
 
 Following a single oral administration in fasted dexamethasone-suppressed healthy adults, the rate of absorption of hydrocortisone from  Efmody 20 mg was delayed and reduced compared to immediate release hydrocortisone tablets 20 mg, as reflected by a lower Cmax and a significantly longer Tmax for Efmody (median Tmax for serum cortisol of 4.5 hours and 0.88 hours for Efmody and hydrocortisone tablets respectively). Efmody appeared to be more bioavailable relative to immediate release hydrocortisone tablets, with overall exposure to serum cortisol and derived free cortisol approximately 19% and 13% higher respectively for Efmody.
 
-In the same population, food (high fat meal started 30 minutes before dosing) was found to delay and reduce the rate of absorption of hydrocortisone from Efmody 20 mg, as reflected by a longer Tmax (median Tmax for serum cortisol of 6.75 hours and 4.5 hours for fed and fasted subjects respectively) and lower Cmax (reduced by approximately 20% in fed subjects). Overall exposure appeared similar in fed and fasted subjects (90% confidence intervals for the fed/fasted ratio of the geometric least square mean of AUC0-t and AUC0-inf were within 80-125%). This effect is therefore not considered clinically significant.
+In the same population, food (high fat meal started 30 minutes before dosing) was found to delay and reduce the rate of absorption of hydrocortisone from Efmody 20 mg, as reflected by a longer Tmax (median Tmax for serum cortisol of 6.75 hours and 4.5 hours for fed and fasted subjects respectively)
 
 <div style=\"page-break-after: always\"></div>
 
+and lower Cmax (reduced by approximately 20% in fed subjects). Overall exposure appeared similar in fed and fasted subjects (90% confidence intervals for the fed/fasted ratio of the geometric least square mean of AUC0-t and AUC0-inf were within 80-125%). This effect is therefore not considered clinically significant.
+
 ## Distribution
 
-At least 90% of circulating hydrocortisone is reversibly bound to protein.
+At least 90%  of circulating hydrocortisone is reversibly bound to protein.
 
 The binding is accounted for by two protein fractions. One, corticosteroid-binding globulin is a glycoprotein; the other is albumin.
 
@@ -418,25 +417,29 @@ Administration of corticosteroids to pregnant animals can cause abnormalities of
 
 ## Granules
 
-Microcrystalline cellulose (E\\_461) Povidone (E\\_1201) Methacrylic acid-methyl methacrylate copolymer (1:2) (E\\_1205) Methacrylic acid-methyl methacrylate copolymer (1:1) (E\\_1205) Talc (E\\_553b) Dibutyl sebacate
-
-## Capsule
-
-## Gelatin
+Microcrystalline cellulose (E\\_461) Povidone (E\\_1201) Methacrylic acid-methyl methacrylate copolymer (1:2) (E\\_1205) Methacrylic acid-methyl methacrylate copolymer (1:1) (E\\_1205) Talc (E\\_553b)
 
 <div style=\"page-break-after: always\"></div>
 
-## Efmody 5 mg modified-release hard capsules (white/blue)
+Dibutyl sebacate
+
+Capsule
+
+Gelatin
+
+Efmody 5 mg modified-release hard capsules (white/blue)
 
 Titanium dioxide (E 171)
 
 Indigotine (E 132)
 
-## Efmody 10 mg modified-release hard capsules (white/green)
+Efmody 10 mg modified-release hard capsules (white/green)
 
-Titanium dioxide (E 171) Indigotine (E 132) Yellow iron oxide (E 172)
+Titanium dioxide (E 171) Indigotine (E 132)
 
-## Printing ink
+Yellow iron oxide (E 172)
+
+Printing ink
 
 Shellac Black iron oxide (E 172) Propylene glycol Potassium hydroxide
 
@@ -476,7 +479,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -554,7 +557,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Efmody 5 mg modified-release hard capsules hydrocortisone
+Efmody 5 mg modified-release hard capsules
+
+hydrocortisone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
@@ -592,11 +597,11 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -610,7 +615,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Efmody 5 mg
 
@@ -676,9 +681,7 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen
-
-The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -750,13 +753,11 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen
-
-The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -770,7 +771,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Efmody 10 mg
 
@@ -836,9 +837,7 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen
-
-The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -910,15 +909,15 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1549/004  100 (2x50) capsules
+EU/1/21/1549/004 100 (2x50) capsules
 
 ## 13. BATCH NUMBER
 
@@ -928,7 +927,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Efmody 5 mg
 
@@ -938,9 +937,7 @@ Efmody 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,11 +989,11 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1010,7 +1007,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Efmody 10 mg
 
@@ -1203,13 +1200,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -If you have any reaction like swelling or shortness of breath after taking Efmody, get medical help straight away and tell your doctor as soon as possible as these can be signs of an severe allergic reaction (anaphylactoid reactions) (see section 2).
 - -Adrenal crisis and adrenal insufficiency symptoms have been reported commonly (may affect up to 1 in 10 people). If you get less hydrocortisone than you need you may become seriously unwell. If you feel unwell and particularly if you start vomiting you must tell your doctor straight away as you may need extra hydrocortisone or an injection of hydrocortisone.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - -Tiredness (fatigue)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1217,11 +1214,11 @@ Very common (may affect more than 1 in 10 people)
 - -Feeling sick (nausea)Diarrhoea
 - -Loss of energy or weakness (asthenia)
 - -Increased fat tissue
-- -Changes in blood tests of potassium  (hypokalaemia or low potassium)
+- -Changes in blood tests of potassium (hypokalaemia or low potassium)
 - -Changes in blood tests of testosterone (blood testosterone decreased or increased)
 - -Changes in blood tests of low-density lipoprotein (raised LDL-cholesterol)
 - -Changes in blood tests of kidney (renin increased)
-- -Weight gain  (weight increase including abnormal weight gain)
+- -Weight gain (weight increase including abnormal weight gain)
 - -Decreased appetite
 - -Increased appetite
 - -Changes in blood test of glucose, level increased when fasting (impaired fasting glucose)
@@ -1260,13 +1257,13 @@ Very common (may affect more than 1 in 10 people)
 - -Stretch marks (skin striae)
 - -Increased blood pressure
 
-## Unknown (frequency cannot be estimated from the available data)
+<div style=\"page-break-after: always\"></div>
+
+Unknown (frequency cannot be estimated from the available data)
 
 - -Insufficient cortisol in the blood, including adrenal crisis (adrenal insufficiency including acute adrenocortical insufficiency)
 
 Long-term treatment with hydrocortisone may reduce bone density. Your doctor will monitor your bones (see section 2).
-
-<div style=\"page-break-after: always\"></div>
 
 People who require treatment with steroids may have a higher risk of heart disease. Your doctor will monitor you for this.
 
@@ -1294,6 +1291,8 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
@@ -1301,9 +1300,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Efmody contains
 
 - -The active substance is hydrocortisone
-
-<div style=\"page-break-after: always\"></div>
-
 - o Efmody 5 mg modified-release hard capsules: each modified-release capsule contains 5 mg of hydrocortisone
 - o Efmody 10 mg modified-release hard capsules: each modified-release capsule contains 10 mg of hydrocortisone
 - -The other ingredients are:
@@ -1318,9 +1314,7 @@ Gelatin.
 
 Efmody 5 mg modified-release hard capsules (white/blue) Titanium dioxide (E 171) and indigotine (E 132)
 
-Efmody 10 mg modified-release hard capsules (white/green)
-
-Titanium dioxide (E 171), indigotine (E 132) and yellow iron oxide (E 172)
+Efmody 10 mg modified-release hard capsules (white/green) Titanium dioxide (E 171), indigotine (E 132) and yellow iron oxide (E 172)
 
 ## Printing ink
 
@@ -1328,27 +1322,27 @@ The printing ink on the capsules contains shellac, black iron oxide (E 172), pro
 
 ## What Efmody looks like and contents of the pack
 
-- -Efmody 5 mg modified-release hard capsules A capsule (approximately 19 mm long) with an opaque blue cap and opaque white body printed with 'CHC 5mg' containing white to off white granules.
+- -Efmody 5 mg modified-release hard capsules
 
-A capsule (approximately 19 mm long) with an opaque green cap and opaque white body
+A capsule (approximately 19 mm long) with an opaque blue cap and opaque white body printed with 'CHC 5mg' containing white to off white granules.
 
-- -Efmody 10 mg modified-release hard capsules printed with 'CHC 10mg' containing white to off white granules.
+- -Efmody 10 mg modified-release hard capsules A capsule (approximately 19 mm long) with an opaque green cap and opaque white body printed with 'CHC 10mg' containing white to off white granules.
 
 Efmody comes in a high density polyethylene bottles with child resistant, tamper-evident polypropylene screw cap with integrated desiccant.
 
 Each bottle contains 50 modified-release hard capsules.
 
-## Pack sizes:
+Pack sizes: Carton containing 1 bottle of 50 modified-release hard capsules.
 
-Carton containing 1 bottle of 50 modified-release hard capsules. Carton containing 2 bottles of 50 modified-release hard capsules (100 capsules).
+Carton containing 2 bottles of 50 modified-release hard capsules (100 capsules).
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
-Immedica Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
-
-<div style=\"page-break-after: always\"></div>
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## Manufacturer
 

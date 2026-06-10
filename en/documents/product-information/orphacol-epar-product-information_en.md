@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-21 14:22:16
+document_datetime: 2026-06-09 11:22:13
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orphacol-epar-product-information_en.pdf
 document_name: orphacol-epar-product-information_en.pdf
 version: success
-processing_time: 5.200375
-conversion_datetime: 2026-04-25 16:45:03.21997
+processing_time: 7.7844703
+conversion_datetime: 2026-06-10 13:47:44.447484
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ Orphacol 250 mg capsules Oblong, opaque, green and white capsule.
 
 ## 4.1 Therapeutic indications
 
-Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency in infants, children and adolescents aged 1 month to 18 years and adults.
+Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency in infants, children and adolescents aged 1 month to 18 years and adults.
 
 ## 4.2 Posology and method of administration
 
@@ -66,17 +66,17 @@ In case of persistent lack of therapeutic response to cholic acid monotherapy, o
 
 The dose must be adjusted for each patient in a specialised unit according to blood and/or urine chromatographic bile acid profiles.
 
-## 3β -HydroxyΔ 5 -C27-steroid oxidoreductase deficiency
+## 3β-Hydroxy-Δ 5 -C27-steroid oxidoreductase deficiency
 
 The daily dose ranges from 5 to 15 mg/kg in infants, children, adolescents and adults. In all age groups, the minimum dose is 50 mg and the dose is adjusted in 50 mg steps. In adults, the daily dose should not exceed 500 mg.
 
-## Δ 4 -3-Oxosteroid5β -reductase deficiency
+## Δ 4 -3-Oxosteroid-5β-reductase deficiency
 
 The daily dose ranges from 5 to 15 mg/kg in infants, children, adolescents and adults. In all age groups, the minimum dose is 50 mg and the dose is adjusted in 50 mg steps. In adults, the daily dose should not exceed 500 mg.
 
 The daily dose may be divided if it consists of more than one capsule in order to mimic the continuous production of cholic acid in the body and to reduce the number of capsules that need to be taken per administration.
 
-During the initiation of therapy and dose adjustment, serum and/or urine bile acid levels should be monitored intensively (at least every three months during the first year of treatment, every six months during the second year) using suitable analytical techniques. The concentrations of the abnormal bile acid metabolites synthesised in 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency (3β, 7α -dihydroxy- and 3β, 7α, 12α -trihydroxy-5cholenoic acids) or in Δ 4 -3-Oxosteroid5β -reductase deficiency (3-oxo7α -hydroxy- and 3-oxo7α, 1 2α -dihydroxy-4-cholenoic acids) should be determined. At each investigation, the need for dose adjustment should be considered. The lowest dose of cholic acid that effectively reduces the bile acid metabolites to as close to zero as possible should be chosen.
+During the initiation of therapy and dose adjustment, serum and/or urine bile acid levels should be monitored intensively (at least every three months during the first year of treatment, every six months during the second year) using suitable analytical techniques. The concentrations of the abnormal bile acid metabolites synthesised in 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase deficiency (3β, 7α-dihydroxy- and 3β, 7α, 12α-trihydroxy-5-cholenoic acids) or in Δ 4 -3-Oxosteroid-5β-reductase deficiency (3-oxo-7α-hydroxy- and 3-oxo-7α, 12α-dihydroxy-4-cholenoic acids) should be determined. At each investigation, the need for dose adjustment should be considered. The lowest dose of cholic acid that effectively reduces the bile acid metabolites to as close to zero as possible should be chosen.
 
 Patients that have previously been treated with other bile acids or other cholic acid preparations should be closely monitored in the same manner during the initiation of treatment with Orphacol. The dose should be adjusted accordingly, as described above.
 
@@ -98,9 +98,9 @@ No data are available for patients with renal impairment. The dose of cholic aci
 
 <div style=\"page-break-after: always\"></div>
 
-Limited data are available for patients with minor to severe hepatic impairment related to 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency. Patients are expected to present with some degree of hepatic impairment at diagnosis, which improves under cholic acid therapy. The dose of cholic acid should be adjusted individually.
+Limited data are available for patients with minor to severe hepatic impairment related to 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency. Patients are expected to present with some degree of hepatic impairment at diagnosis, which improves under cholic acid therapy. The dose of cholic acid should be adjusted individually.
 
-No experience exists in patients with hepatic impairment from causes other than 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency and no dose recommendation can be given. Patients with hepatic impairment should be monitored closely (see section 4.4).
+No experience exists in patients with hepatic impairment from causes other than 3βHydroxy-Δ 5 -C27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency and no dose recommendation can be given. Patients with hepatic impairment should be monitored closely (see section 4.4).
 
 ## Familial hypertriglyceridemia
 
@@ -138,9 +138,9 @@ Orphacol capsules contain lactose. Patients with rare hereditary problems of gal
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Phenobarbital and primidone, which is partially metabolized in phenobarbital, antagonise the effect of cholic acid. Use of phenobarbital or primidone in patients with 3β -HydroxyΔ 5 -C27-steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency treated with cholic acid is contraindicated (see section 4.3). Alternative treatments should be used.
+Phenobarbital and primidone, which is partially metabolized in phenobarbital, antagonise the effect of cholic acid. Use of phenobarbital or primidone in patients with 3β-Hydroxy-Δ 5 -C27-steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency treated with cholic acid is contraindicated (see section 4.3). Alternative treatments should be used.
 
-Ciclosporin alters the pharmacokinetics of cholic acid by inhibition of the hepatic uptake and hepatobiliary secretion of bile acids, as well as its pharmacodynamics by inhibition of cholesterol 7α -hydroxylase. Co-administration should be avoided. If administration of ciclosporin is considered necessary, serum and urine bile acid levels should be closely monitored and the cholic acid dose adjusted accordingly.
+Ciclosporin alters the pharmacokinetics of cholic acid by inhibition of the hepatic uptake and hepatobiliary secretion of bile acids, as well as its pharmacodynamics by inhibition of cholesterol 7α-hydroxylase. Co-administration should be avoided. If administration of ciclosporin is considered necessary, serum and urine bile acid levels should be closely monitored and the cholic acid dose adjusted accordingly.
 
 Bile acid sequestrants (cholestyramine, colestipol, colesevelam) and certain antacids (e.g. aluminium hydroxide) bind bile acids and lead to their elimination. Administration of these medicinal products is expected to reduce the effect of cholic acid. The dose of bile acid sequestrants or antacids must be separated from the dose of cholic acid by an interval of 5 hours, regardless of which medicinal product is administered first.
 
@@ -222,13 +222,13 @@ In the case of an accidental overdose, treatment should be continued at the reco
 
 Pharmacotherapeutic group: Bile and liver therapy, bile acid and derivatives, ATC code: A05AA03
 
-Cholic acid is the predominant primary bile acid in man. In patients with inborn deficiency of 3β -HydroxyΔ 5 -C27steroid oxidoreductase and Δ 4 -3-Oxosteroid5β -reductase, the biosynthesis of primary bile acids is reduced or absent. Both inborn diseases are extremely rare, with a prevalence in Europe of about 3 to 5 patients with 3β -HydroxyΔ 5 -C27-steroid oxidoreductase deficiency per 10 million inhabitants, and an estimated ten-fold lower prevalence for Δ 4 -3-Oxosteroid5β -reductase deficiency. In the absence of treatment, unphysiologic cholestatic and hepatotoxic bile acid metabolites are predominant in the liver, serum and urine. The rational basis for treatment consists of restoration of the bile aciddependent component of bile flow enabling restoration of biliary secretion and biliary elimination of toxic metabolites; inhibition of the production of the toxic bile acid metabolites by negative feedback on cholesterol 7α -hydroxylase, which is the rate-limiting enzyme in bile acid synthesis; and improvement of the patient's nutritional status by correcting intestinal malabsorption of fats and fat -soluble vitamins.
+Cholic acid is the predominant primary bile acid in man. In patients with inborn deficiency of 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase and Δ 4 -3-Oxosteroid-5β-reductase, the biosynthesis of primary bile acids is reduced or absent. Both inborn diseases are extremely rare, with a prevalence in Europe of about 3 to 5 patients with 3β-Hydroxy-Δ 5 -C27-steroid oxidoreductase deficiency per 10 million inhabitants, and an estimated ten-fold lower prevalence for Δ 4 -3-Oxosteroid-5β-reductase deficiency. In the absence of treatment, unphysiologic cholestatic and hepatotoxic bile acid metabolites are predominant in the liver, serum and urine. The rational basis for treatment consists of restoration of the bile aciddependent component of bile flow enabling restoration of biliary secretion and biliary elimination of toxic metabolites; inhibition of the production of the toxic bile acid metabolites by negative feedback on cholesterol 7α-hydroxylase, which is the rate-limiting enzyme in bile acid synthesis; and improvement of the patient's nutritional status by correcting intestinal malabsorption of fats and fat-soluble vitamins.
 
-Clinical experience has been reported in the literature from small cohorts of patients and single case reports; absolute patient numbers are small due to the rarity of the conditions. This rarity also made the conduct of controlled clinical studies impossible. Overall, cholic acid treatment results for about 60 patients with 3β -HydroxyΔ 5 -C27-steroid oxidoreductase deficiency are reported in the literature. Detailed long-term data on treatment with cholic acid monotherapy are available for 14 patients observed for up to 12.9 years. Cholic acid treatment results for seven patients with Δ 4 -3-Oxosteroid5β -reductase deficiency for up to 14 years are reported in the literature. Detailed medium- to long-term data are available for 5 of these patients, of whom 1 has been treated with cholic acid monotherapy. Oral cholic acid therapy has been shown to: postpone or obviate the need for liver transplantation; restore normal laboratory parameters; improve histological lesions of the liver, and significantly improve all of the patient's symptoms. Mass spectrometry analysis of urine during cholic acid therapy shows the presence of cholic acid and a marked reduction, or even complete elimination of the toxic bile acid metabolites. This reflects restoration of an effective feedback control of bile acid synthesis and a metabolic equilibrium. In addition, blood cholic acid concentration was normal and fat-soluble vitamins were restored to their normal range.
+Clinical experience has been reported in the literature from small cohorts of patients and single case reports; absolute patient numbers are small due to the rarity of the conditions. This rarity also made the conduct of controlled clinical studies impossible. Overall, cholic acid treatment results for about 60 patients with 3β-Hydroxy-Δ 5 -C27-steroid oxidoreductase deficiency are reported in the literature. Detailed long-term data on treatment with cholic acid monotherapy are available for 14 patients observed for up to 12.9 years. Cholic acid treatment results for seven patients with Δ 4 -3-Oxosteroid-5β-reductase deficiency for up to 14 years are reported in the literature. Detailed medium- to long-term data are available for 5 of these patients, of whom 1 has been treated with cholic acid monotherapy. Oral cholic acid therapy has been shown to: postpone or obviate the need for liver transplantation; restore normal laboratory parameters; improve histological lesions of the liver, and significantly improve all of the patient's symptoms. Mass spectrometry analysis of urine during cholic acid therapy shows the presence of cholic acid and a marked reduction, or even complete elimination of the toxic bile acid metabolites. This reflects restoration of an effective feedback control of bile acid synthesis and a metabolic equilibrium. In addition, blood cholic acid concentration was normal and fat-soluble vitamins were restored to their normal range.
 
 ## Paediatric population
 
-The clinical experience reported in the literature is from a patient population with inborn deficiency of 3β -HydroxyΔ 5 -C27steroid oxidoreductase or Δ 4 -3-Oxosteroid5β -reductase that includes principally infants from the age of one month, children and adolescents. However, absolute numbers of cases are small.
+The clinical experience reported in the literature is from a patient population with inborn deficiency of 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase or Δ 4 -3-Oxosteroid-5β-reductase that includes principally infants from the age of one month, children and adolescents. However, absolute numbers of cases are small.
 
 This medicinal product has been authorised under 'Exceptional Circumstances'.
 
@@ -240,7 +240,7 @@ The European Medicines Agency will review any new information which may become a
 
 ## 5.2 Pharmacokinetic properties
 
-Cholic acid, a primary bile acid, is partially absorbed in the ileum. The remaining part is transformed by reduction of the 7 α -hydroxy group to de oxycholic acid (3α , 12α -dihydroxy) by intestinal bacteria. Deoxycholic acid is a secondary bile acid. More than 90% of the primary and secondary bile acids are reabsorbed in the ileum by a specific active transporter and are recycled to the liver by the portal vein; the remainder is excreted in the faeces. A small fraction of bile acids is excreted in urine.
+Cholic acid, a primary bile acid, is partially absorbed in the ileum. The remaining part is transformed by reduction of the 7α-hydroxy group to deoxycholic acid (3α, 12α-dihydroxy) by intestinal bacteria. Deoxycholic acid is a secondary bile acid. More than 90% of the primary and secondary bile acids are reabsorbed in the ileum by a specific active transporter and are recycled to the liver by the portal vein; the remainder is excreted in the faeces. A small fraction of bile acids is excreted in urine.
 
 No pharmacokinetic study data for Orphacol are available.
 
@@ -354,41 +354,39 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+##  Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+##  Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
-The MAH, in agreement with the competent authorities in the Member States, shall implement, prior to the launch, an educational programme for physicians aiming to provide educational material on correct
+The MAH, in agreement with the competent authorities in the Member States, shall implement, prior to the launch, an educational programme for physicians aiming to provide educational material on correct diagnosis and therapeutic managements of the treatment of inborn errors in primary bile acid synthesis due to 3β-Hydroxy-Δ 5 -C27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency and to inform on expected and potential risks associated with the treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-diagnosis and therapeutic managements of the treatment of inborn errors in primary bile acid synthesis due to 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency and to inform on expected and potential risks associated with the treatment.
-
 The physician educational programme should contain the following key elements:
 
-- Prescription of a supratherapeutic dose (MedDRA term: drug toxicity)
-- Risk of gallstones
+-  Prescription of a supratherapeutic dose (MedDRA term: drug toxicity)
+-  Risk of gallstones
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due Date                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| theravia S.A. commits to monitor the safety and efficacy in patients treated with Orphacol from a patient surveillance database for which the protocol has been endorsed by the CHMP and is documented in the Orphacol RMP. The objectives of this surveillance programme is to monitor accumulating data on efficacy and safety in the treatment of inborn errors in primary bile acid synthesis due to 3β -Hydroxy- Δ 5 -C 27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid- 5β -reductase deficiency with Orphacol in infants, children, adolescents and adults. Reports on recruitment progress of the patient surveillance database will be analysed and reported to the CHMP at the time of PSURs (for safety) and of the Annual Re- assessments (for efficacy and safety). Progress and results from the database will form the basis of the annual reassessments of the benefit/risk profile of Orphacol. | - PSUR - Annual Re- assessment |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Due Date                       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| theravia S.A. commits to monitor the safety and efficacy in patients treated with Orphacol from a patient surveillance database for which the protocol has been endorsed by the CHMP and is documented in the Orphacol RMP. The objectives of this surveillance programme is to monitor accumulating data on efficacy and safety in the treatment of inborn errors in primary bile acid synthesis due to 3β-Hydroxy-Δ 5 -C 27 -steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid-5β-reductase deficiency with Orphacol in infants, children, adolescents and adults. Reports on recruitment progress of the patient surveillance database will be analysed and reported to the CHMP at the time of PSURs (for safety) and of the Annual Re- assessments (for efficacy and safety). Progress and results from the database will form the basis of the annual reassessments of the benefit/risk profile of Orphacol. | - PSUR - Annual Re- assessment |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -494,7 +492,7 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -508,12 +506,12 @@ SN: {number} NN: {number}
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 | 5.   | OTHER   |
 |------|---------|
@@ -589,11 +587,9 @@ During your treatment, your doctor will carry out various blood and urine tests 
 
 Tell your doctor or pharmacist if you are taking, have recently taken any or might take other medicines.
 
-Some medicines used to lower cholesterol levels, so-called bile acid sequestrants (cholestyramine, colestipol, colesevelam), and medicines to treat heartburn that contain aluminium may lessen the effect of
+Some medicines used to lower cholesterol levels, so-called bile acid sequestrants (cholestyramine, colestipol, colesevelam), and medicines to treat heartburn that contain aluminium may lessen the effect of Orphacol. If you take these medicines, take Orphacol at least 5 hours before or at least 5 hours after taking these other medicines.
 
 <div style=\"page-break-after: always\"></div>
-
-Orphacol. If you take these medicines, take Orphacol at least 5 hours before or at least 5 hours after taking these other medicines.
 
 Ciclosporin (a medicine used to suppress the immune system) may also change the effect of Orphacol. Please tell your doctor if you are taking ciclosporin.
 
@@ -681,7 +677,7 @@ Medicines should not be disposed of via wasterwater or household waste. Ask your
 
 -
 
-The active substance is cholic acid.
+- The active substance is cholic acid.
 
 Orphacol 50 mg
 
@@ -723,7 +719,9 @@ Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+België/Belgique/Belgien
+
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
 Lietuva
 
@@ -733,9 +731,7 @@ THERAVIA Tel.: +33 (0)1 72 69 01 86
 
 ## България
 
-THERAVIA
-
-Te л .: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA Teл.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Česká republika
 
@@ -743,7 +739,7 @@ THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Danmark
 
-Immedica Pharma AB Tlf: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S Tlf.: +4570715000 medinfo@norgine.com
 
 ## Deutschland
 
@@ -755,7 +751,9 @@ THERAVIA Tel.: +33 (0)1 72 69 01 86
 
 ## Ελλάδα
 
-THERAVIA Τηλ : 0080044145096 question@theravia.com
+THERAVIA Τηλ: 0080044145096
+
+question@theravia.com
 
 ## España
 
@@ -771,7 +769,9 @@ Medis Adria d.o.o. Tel: +385 (1) 230 3446 info@medisadria.hr
 
 ## Ireland
 
-THERAVIA Tel: Tel : +353-(0)1-903 8043 question@theravia.com
+THERAVIA
+
+Tel: +44 1895 826606
 
 ## Luxembourg/Luxemburg
 
@@ -787,19 +787,15 @@ THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Nederland
 
-Norgine Pharma B.V. Tel: +31 20 567 0998
-
-medinfo@norgine.com
+Norgine Pharma B.V. Tel: +31 20 567 0998 medinfo@norgine.com
 
 ## Norge
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S Tlf: +4570715000 medinfo@norgine.com
 
 ## Österreich
 
-THERAVIA
-
-Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Polska
 
@@ -815,9 +811,7 @@ THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Slovenija
 
-Tel: +386 (1) 589 6900
-
-Medis d.o.o. info@medis.si
+Medis d.o.o. Tel: +386 (1) 589 6900 info@medis.si
 
 <div style=\"page-break-after: always\"></div>
 
@@ -841,7 +835,9 @@ medinfo@norgine.com
 
 THERAVIA
 
-Τηλ : +33 (0)1 72 69 01 86 question@theravia.com
+Τηλ: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Latvija
 
@@ -871,10 +867,16 @@ question@theravia.com
 
 ## Suomi/Finland
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S
+
+Puh/Tel: +4570715000
+
+medinfo@norgine.com
 
 ## Sverige
 
-Immedica Pharma AB Tel: +46 (0)8 533 39 500
+Norgine Danmark A/S
 
-info@immedica.com
+Tel: +4570715000
+
+medinfo@norgine.com

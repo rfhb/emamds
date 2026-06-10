@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-09 10:34:31
+document_datetime: 2026-06-09 11:29:13
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neofordex-epar-product-information_en.pdf
 document_name: neofordex-epar-product-information_en.pdf
 version: success
-processing_time: 7.3891161
-conversion_datetime: 2026-04-13 13:58:15.208233
+processing_time: 9.9247244
+conversion_datetime: 2026-06-10 13:48:38.339039
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,9 @@ Each tablet contains 98.1 mg lactose. For the full list of excipients, see secti
 
 ## 3. PHARMACEUTICAL FORM
 
-Tablet White, oblong (11 mm × 5.5 mm) tablet, with '40 mg' engraved  on one side..
+Tablet
+
+White, oblong (11 mm × 5.5 mm) tablet, with '40 mg' engraved  on one side..
 
 ## 4. CLINICAL PARTICULARS
 
@@ -198,11 +200,9 @@ If the patient experiences any thromboembolic events, treatment must be disconti
 
 The combination of dexamethasone with lenalidomide in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8). Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8). Neutropenia was the most frequently reported Grade 3 or 4 haematological adverse reaction in patients with relapsed/refractory multiple myeloma treated with the combination of dexamethasone with pomalidomide. Patients should be monitored for haematological adverse reactions, especially neutropenia. Patients should be advised to promptly report febrile episodes. A dose reduction of lenalidomide or pomalidomide may be required. In case of neutropenia, the physician should consider the use of growth factors in patient management.
 
-The combination of dexamethasone with lenalidomide in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients) (see section 4.8). Thrombocytopenia was also reported very commonly by patients with relapsed/refractory multiple myeloma treated with the combination of dexamethasone with pomalidomide. Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae
+The combination of dexamethasone with lenalidomide in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients) (see section 4.8). Thrombocytopenia was also reported very commonly by patients with relapsed/refractory multiple myeloma treated with the combination of dexamethasone with pomalidomide. Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant treatment susceptible to induce bleeding. A dose reduction of lenalidomide or pomalidomide may be required.
 
 <div style=\"page-break-after: always\"></div>
-
-and epistaxes, especially in case of concomitant treatment susceptible to induce bleeding. A dose reduction of lenalidomide or pomalidomide may be required.
 
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of dexamethasone/lenalidomide treatment and monthly thereafter to monitor for cytopenias.
 
@@ -356,11 +356,9 @@ The adverse reactions observed in patients treated with dexamethasone are listed
 
 The incidence rate of certain adverse reactions varies depending on the combination treatment used.
 
-The combination of lenalidomide with dexamethasone in relapsed or refractory multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated
+The combination of lenalidomide with dexamethasone in relapsed or refractory multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients). Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients). A similar incidence of high-grade neutropenia was reported in newly diagnosed patients treated with the combination of lenalidomide and dexamethasone.
 
 <div style=\"page-break-after: always\"></div>
-
-patients compared with 0.6% in placebo/dexamethasone-treated patients). Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients). A similar incidence of high-grade neutropenia was reported in newly diagnosed patients treated with the combination of lenalidomide and dexamethasone.
 
 Neutropenia occurred in 45.3% of relapsed and refractory multiple myeloma patients who received low dose dexamethasone plus pomalidomide (Pom + LD-Dex), and in 19.5% of patients who received high dose dexamethasone (HD-Dex). Neutropenia was Grade 3 or 4 in 41.7% of patients who received Pom + LD-Dex, compared with 14.8% who received HD-Dex. In Pom + LD-Dex treated patients neutropenia was infrequently serious (2.0% of patients), did not lead to treatment discontinuation, and was associated with treatment interruption in 21.0% of patients, and with dose reduction in 7.7% of patients. Febrile neutropenia (FN) was experienced in 6.7% of patients who received Pom + LD-Dex, and in no patients who received HD-Dex. All were reported to be Grade 3 or 4. FN was reported to be serious in 4.0% of patients. FN was associated with dose interruption in 3.7% of patients, and with dose reduction in 1.3% of patients, and with no treatment discontinuations.
 
@@ -497,7 +495,9 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -540,6 +540,8 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
@@ -580,15 +582,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-THERAVIA 16 Rue Montrosier France
-
-92200 Neuilly-sur-Seine
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -602,7 +600,7 @@ LOT
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 neofordex
 
@@ -620,32 +618,44 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-Neofordex 40 mg tablet dexamethasone
-
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
-
-THERAVIA
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Neofordex 40 mg tablet dexamethasone
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+THERAVIA
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -655,9 +665,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Neofordex 40 mg tablet
-
-## dexamethasone
+## Neofordex 40 mg tablet dexamethasone
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -711,7 +719,9 @@ You should tell your doctor if you have symptoms of tumour lysis syndrome such a
 
 ## Long-term treatment
 
-During treatment with this medicine it is important to maintain a balanced diet (low in sugar and sodium, high in protein). Water and sodium retention is common and can lead to hypertension. Your doctor will advise on an appropriate diet, and may prescribe potassium, calcium or vitamin D supplements.
+During treatment with this medicine it is important to maintain a balanced diet (low in sugar and sodium, high in protein). Water and sodium retention is common and can lead to hypertension.
+
+Your doctor will advise on an appropriate diet, and may prescribe potassium, calcium or vitamin D supplements.
 
 Glucocorticoid therapy like dexamethasone may reduce the effect of medicines to treat diabetes or hypertension. The dose of these medicines may have to be increased by your doctor.
 
@@ -975,9 +985,9 @@ Each carton contains 10 x 1 tablets in OPA/Aluminium /PVC-Aluminium perforated u
 
 ## Marketing Authorisation Holder and Manufacturer
 
-92200 Neuilly-sur-Seine
-
 THERAVIA 16 Rue Montrosier France
+
+92200 Neuilly-sur-Seine
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -991,7 +1001,11 @@ question@theravia.com
 
 ## Lietuva
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Immedica Pharma AB
+
+Tel/Puh: +46 (0)8 533 39 500
+
+info@immedica.com
 
 ## България
 
@@ -1003,7 +1017,11 @@ question@theravia.com
 
 ## Luxembourg/Luxemburg
 
-THERAVIA Tél/Tel: +352 278 62 329 question@theravia.com
+THERAVIA
+
+Tél/Tel: +352 278 62 329
+
+question@theravia.com
 
 ## Česká republika
 
@@ -1023,7 +1041,11 @@ question@theravia.com
 
 ## Danmark
 
-Immedica Pharma AB Tlf: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S
+
+Tlf.: +4570715000
+
+medinfo@norgine.com
 
 ## Malta
 
@@ -1059,7 +1081,11 @@ info@immedica.com
 
 ## Norge
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S
+
+Tlf: +4570715000
+
+medinfo@norgine.com
 
 ## Ελλάδα
 
@@ -1077,7 +1103,9 @@ question@theravia.com
 
 ## España
 
-THERAVIA Tel: + 34 914 146 613
+THERAVIA
+
+Tel: + 34 914 146 613
 
 question@theravia.com
 
@@ -1097,11 +1125,7 @@ Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
 
 ## Hrvatska
 
-THERAVIA
-
-Tel: +33 (0)1 72 69 01 86
-
-question@theravia.com
+THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Ireland
 
@@ -1113,11 +1137,7 @@ question@theravia.com
 
 ## Ísland
 
-Immedica Pharma AB
-
-Sími: + 46 (0)8 533 39 500
-
-info@immedica.com
+Immedica Pharma AB Sími: + 46 (0)8 533 39 500 info@immedica.com
 
 ## Italia
 
@@ -1153,32 +1173,22 @@ question@theravia.com
 
 ## România
 
-THERAVIA
-
-Tel: +33 (0)1 72 69 01 86
-
-question@theravia.com
+THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Slovenija
 
-THERAVIA
-
-Tel: +33 (0)1 72 69 01 86
-
-question@theravia.com
+THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Slovenská republika
 
-THERAVIA
-
-Tel.: +33 (0)1 72 69 01 86
-
-question@theravia.com
+THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Suomi/Finland
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S Puh/Tel: +4570715000 medinfo@norgine.com
 
 ## Sverige
 
-Immedica Pharma AB Tel: +46 (0)8 533 39 500 info@immedica.com
+Norgine Danmark A/S Tel: +4570715000
+
+medinfo@norgine.com

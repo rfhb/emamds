@@ -1,36 +1,30 @@
 ---
-document_datetime: 2026-04-21 14:22:50
+document_datetime: 2026-06-09 11:22:38
 document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 14.4447119
-conversion_datetime: 2026-04-25 16:15:55.225158
+processing_time: 2.6923617
+conversion_datetime: 2026-06-10 13:51:55.258657
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-EUROPEAN MEDICINES AGENCY
-
-SCIENCE MEDICINES
-
 ## Orphacol
 
 Procedural steps taken and scientific information after the authorisation*
 
 *Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | - Notification acc. Article 61(3) - Accepted | 20/04/2026                          |                                             | PL                               |           |
-
-HEALTH
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Article 61(3) /      | Outcome: | 08/06/2026                          |                                             | PL                               |           |
 
 <!-- image -->
 
@@ -38,18 +32,21 @@ HEALTH
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000342032                           | Update of the package leaflet with revised contact details of local representatives.                                                                                                                                                                                                                                     |            |                 |                                                                                                                                                                                                                                                                                                      |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Variation type IA_IN / EMA/VR/0000333960   | Q.II.b.2.c) Addition or replacement of a site responsible for batch release (QP certification) - Q.II.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                             | 13/03/2026 | Annex II and PL |                                                                                                                                                                                                                                                                                                      |
-| Annual reassessment - H / EMA/S/0000310692 | 12th annual re-assessment                                                                                                                                                                                                                                                                                                | 26/02/2026 |                 | The CHMP, having reviewed the evidence of compliance with the specific obligations and the impact of the data submitted by the MAH on the benefit/risk profile of the medicinal product, concluded that the marketing authorisation under exceptional cirumstances of Orphacol should be maintained. |
-| Article 61(3) / EMA/N/0000324497           | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                                                                                                                                                                                        | 13/02/2026 | PL              |                                                                                                                                                                                                                                                                                                      |
-| Variation type IA / EMA/VR/0000315658      | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted | 03/12/2025 |                 |                                                                                                                                                                                                                                                                                                      |
+| EMA/N/0000350675                           | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                                     |            |                 |                                                                                                                                                                                                                                                                                                      |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Article 61(3) / EMA/N/0000342032           | Outcome: - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                            | 20/04/2026 | PL              |                                                                                                                                                                                                                                                                                                      |
+| Variation type IA_IN / EMA/VR/0000333960   | Outcome: Q.II.b.2.c) Addition or replacement of a site responsible for batch release (QP certification) - Q.II.b.2.c.1 Not including batch control/testing - Accepted | 13/03/2026 | Annex II and PL |                                                                                                                                                                                                                                                                                                      |
+| Annual reassessment - H / EMA/S/0000310692 | Outcome: 12th annual re-assessment                                                                                                                                    | 26/02/2026 |                 | The CHMP, having reviewed the evidence of compliance with the specific obligations and the impact of the data submitted by the MAH on the benefit/risk profile of the medicinal product, concluded that the marketing authorisation under exceptional cirumstances of Orphacol should be maintained. |
+| Article 61(3) / EMA/N/0000324497           | Outcome: - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                            | 13/02/2026 | PL              |                                                                                                                                                                                                                                                                                                      |
+| Variation type IA /                        | Outcome:                                                                                                                                                              | 03/12/2025 |                 |                                                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                       | A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted                                                                                                                                                                                                                                           |            |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Variation type IA / EMA/VR/0000289930 | B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.f Changes to quality control testing arrangements for the active substance-replacement or addition of a site where batch control/testing takes place - Accepted | 28/08/2025 |
-| Variation type IB / EMA/VR/0000272396 | This was an application for a group of variations. B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.e Minor change to the restricted part of an Active Substance Master File - Accepted B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                                | 17/06/2025 |
+| EMA/VR/0000315658                     | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted   |            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IA / EMA/VR/0000289930 | Outcome: B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.f Changes to quality control testing arrangements for the active substance-replacement or addition of a site where batch control/testing takes place - Accepted                                                                         | 28/08/2025 |
 
 <div style=\"page-break-after: always\"></div>
+
+| Variation type IB / EMA/VR/0000272396   | Outcome: This was an application for a group of variations. B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.e Minor change to the restricted part of an Active Substance Master File - Accepted B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted   | 17/06/2025   |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|

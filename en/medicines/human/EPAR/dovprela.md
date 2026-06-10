@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-05-07 11:10:00
+document_datetime: 2026-06-09 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dovprela.html
 document_name: dovprela.html
 version: success
-processing_time: 0.118487
-conversion_datetime: 2026-05-10 12:34:59.894739
+processing_time: 0.1527508
+conversion_datetime: 2026-06-10 13:36:50.186799
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Dovprela (previously Pretomanid FGK)
+
 # Dovprela (previously Pretomanid FGK)
 
 [RSS](/en/individual-human-medicine.xml/67308)
@@ -60,7 +136,7 @@ Expand section
 
 Collapse section
 
-## How is Dovprela used?
+### How is Dovprela used?
 
 The medicine can only be obtained with a prescription and prescribers should take into account official guidance on the use of antibiotics. Treatment should be started and monitored by a doctor experienced in managing drug-resistant tuberculosis.
 
@@ -68,11 +144,11 @@ Dovprela is available as tablets to be taken with food once daily for 26 weeks. 
 
 For more information about using Dovprela, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Dovprela work?
+### How does Dovprela work?
 
 The way the active substance in Dovprela works is not fully understood. It is thought to block the building of the cell walls of the bacteria that cause tuberculosis ( *Mycobacterium tuberculosis* ) by interfering with the production of one of the cell wall components. Pretomanid is also thought to trigger the production of substances that are toxic for the bacteria (reactive nitrogen species). These actions are expected to kill the bacteria.
 
-## What benefits of Dovprela have been shown in studies?
+### What benefits of Dovprela have been shown in studies?
 
 A main study showed that Dovprela taken with bedaquiline and linezolid for 6 months is effective at clearing the bacteria that cause tuberculosis in patients with either extensively drug-resistant tuberculosis or multidrug-resistant (MDR) tuberculosis when other treatments did not work or caused too many side effects.
 
@@ -82,7 +158,7 @@ In this study, 90% of patients with extensively drug-resistant tuberculosis (63 
 
 A second main study showed that Dovprela taken with bedaquiline, linezolid and moxifloxacin for 6 months was at least as effective as standard treatment given for 9 to 24 months in treating people with rifampicin-resistant tuberculosis. The study looked at how many people had an unfavourable outcome (treatment stopped, treatment not working, infection returned, or patient died). In this study, 12% (16 out of 138) of people treated with Dovprela plus bedaquiline, linezolid and moxifloxacin had an unfavourable outcome compared with 41% (56 out of 137) of those receiving standard treatment.
 
-## What are the risks associated with Dovprela?
+### What are the risks associated with Dovprela?
 
 For the full list of side effects and restrictions with Dovprela, see the package leaflet.
 
@@ -90,7 +166,7 @@ The most common side effects with Dovprela when used together with bedaquiline a
 
 The most common side effects with Dovprela when used together with bedaquiline, linezolid and moxifloxacin (which may affect more than 1 in 10 people) include increased blood levels of liver enzymes and QT prolongation (abnormal electrical activity of the heart seen on an electrocardiogram [ECG]).
 
-## Why is Dovprela authorised in the EU?
+### Why is Dovprela authorised in the EU?
 
 At the time of approval, treatment options were limited for patients with difficult-to-treat, life-threatening tuberculosis. Dovprela used with bedaquiline and linezolid was shown to be effective at treating difficult-to-treat tuberculosis. Although the number of patients included in the main study was small and the effects of the combination were not compared with those of other treatments, the European Medicines Agency considered that the high cure rate in the study, the shorter treatment duration and simplification of treatment compared to existing therapies are significant benefits.
 
@@ -102,13 +178,13 @@ The European Medicines Agency decided that Dovprela's benefits are greater than 
 
 Dovprela was originally given 'conditional authorisation'. The authorisation was then switched to standard authorisation as the company has provided additional data requested by the Agency.
 
-## What measures are being taken to ensure the safe and effective use of Dovprela?
+### What measures are being taken to ensure the safe and effective use of Dovprela?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Dovprela have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Dovprela are continuously monitored. Side effects reported with Dovprela are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Dovprela
+### Other information about Dovprela
 
 Pretomanid FGK received a conditional marketing authorisation valid throughout the EU on 31 July 2020. The name of the medicine was changed to Dovprela on 11 January 2021.
 
@@ -124,7 +200,7 @@ English (EN) (244.8 KB - PDF)
 
 [View](/en/documents/overview/dovprela-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-119)
+[Other languages (22)](#file-language-dropdown-957)
 
 български (BG) (259.52 KB - PDF)
 
@@ -156,7 +232,7 @@ Deutsch (DE) (236.86 KB - PDF)
 
 [View](/de/documents/overview/dovprela-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (228.97 KB - PDF)
+eesti (ET) (228.97 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 19/02/2026
 
@@ -186,13 +262,13 @@ italiano (IT) (231.14 KB - PDF)
 
 [View](/it/documents/overview/dovprela-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (271.65 KB - PDF)
+latviešu (LV) (271.65 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 19/02/2026
 
 [View](/lv/documents/overview/dovprela-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (253.63 KB - PDF)
+lietuvių (LT) (253.63 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 19/02/2026
 
@@ -246,7 +322,7 @@ slovenščina (SL) (252.56 KB - PDF)
 
 [View](/sl/documents/overview/dovprela-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (229.02 KB - PDF)
+suomi (FI) (229.02 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 19/02/2026
 
@@ -260,9 +336,9 @@ svenska (SV) (230.32 KB - PDF)
 
 Pretomanid FGK : EPAR - Risk management plan
 
-English (EN) (539.16 KB - PDF)
+English (EN) (562.91 KB - PDF)
 
-**First published:** 11/08/2020 **Last updated:** 05/07/2024
+**First published:** 11/08/2020 **Last updated:** 09/06/2026
 
 [View](/en/documents/rmp-summary/pretomanid-fgk-epar-risk-management-plan_en.pdf)
 
@@ -276,7 +352,7 @@ English (EN) (213.57 KB - PDF)
 
 [View](/en/documents/product-information/dovprela-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-621)
+[Other languages (24)](#file-language-dropdown-874)
 
 български (BG) (320.35 KB - PDF)
 
@@ -308,7 +384,7 @@ Deutsch (DE) (233.93 KB - PDF)
 
 [View](/de/documents/product-information/dovprela-epar-product-information_de.pdf)
 
-eesti keel (ET) (208.54 KB - PDF)
+eesti (ET) (208.54 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
@@ -332,25 +408,19 @@ hrvatski (HR) (222.63 KB - PDF)
 
 [View](/hr/documents/product-information/dovprela-epar-product-information_hr.pdf)
 
-íslenska (IS) (211.57 KB - PDF)
-
-**First published:** 11/08/2020 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/dovprela-epar-product-information_is.pdf)
-
 italiano (IT) (221.68 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/dovprela-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (381.17 KB - PDF)
+latviešu (LV) (381.17 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/dovprela-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (237.16 KB - PDF)
+lietuvių (LT) (237.16 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
@@ -373,12 +443,6 @@ Nederlands (NL) (215.62 KB - PDF)
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/dovprela-epar-product-information_nl.pdf)
-
-norsk (NO) (204.36 KB - PDF)
-
-**First published:** 11/08/2020 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/dovprela-epar-product-information_no.pdf)
 
 polski (PL) (255.56 KB - PDF)
 
@@ -410,7 +474,7 @@ slovenščina (SL) (221.05 KB - PDF)
 
 [View](/sl/documents/product-information/dovprela-epar-product-information_sl.pdf)
 
-Suomi (FI) (218.69 KB - PDF)
+suomi (FI) (218.69 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
@@ -421,6 +485,18 @@ svenska (SV) (210.43 KB - PDF)
 **First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/dovprela-epar-product-information_sv.pdf)
+
+Íslenska (IS) (211.57 KB - PDF)
+
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information/dovprela-epar-product-information_is.pdf)
+
+norsk (NO) (204.36 KB - PDF)
+
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information/dovprela-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000343394
 
@@ -448,7 +524,7 @@ English (EN) (10.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dovprela-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (44.33 KB - PDF)
 
@@ -480,7 +556,7 @@ Deutsch (DE) (14.4 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (10.06 KB - PDF)
+eesti (ET) (10.06 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
@@ -504,25 +580,19 @@ hrvatski (HR) (40.67 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (7.74 KB - PDF)
-
-**First published:** 11/08/2020 **Last updated:** 07/02/2021
-
-[View](/is/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (10.11 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/it/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.25 KB - PDF)
+latviešu (LV) (42.25 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/lv/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (42.2 KB - PDF)
+lietuvių (LT) (42.2 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
@@ -545,12 +615,6 @@ Nederlands (NL) (10.28 KB - PDF)
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/nl/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (10.17 KB - PDF)
-
-**First published:** 11/08/2020 **Last updated:** 07/02/2021
-
-[View](/no/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (21.74 KB - PDF)
 
@@ -582,7 +646,7 @@ slovenščina (SL) (23.59 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (7.84 KB - PDF)
+suomi (FI) (7.84 KB - PDF)
 
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
@@ -593,6 +657,18 @@ svenska (SV) (10.29 KB - PDF)
 **First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/sv/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (7.74 KB - PDF)
+
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
+
+[View](/is/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (10.17 KB - PDF)
+
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
+
+[View](/no/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -644,7 +720,7 @@ Marketing authorisation holder
 
 Mylan IRE Healthcare Limited
 
-Unit 35/36 Grange Parade
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
 
 Opinion adopted
 
@@ -656,7 +732,7 @@ Marketing authorisation issued
 
 Revision
 
-14
+15
 
 ## Assessment history
 
@@ -664,13 +740,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Dovprela : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (136.26 KB - PDF)
+English (EN) (158.57 KB - PDF)
 
-**First published:** 09/02/2021 **Last updated:** 07/05/2026
+**First published:** 09/02/2021 **Last updated:** 09/06/2026
 
 [View](/en/documents/procedural-steps-after/dovprela-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -704,7 +780,7 @@ English (EN) (1.68 MB - PDF)
 
 [View](/en/documents/variation-report/dovprela-h-c-005167-ii-0013-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Pretomanid FGK : Orphan maintenance assessment report (initial authorisation)
 
@@ -758,6 +834,6 @@ English (EN) (163.31 KB - PDF)
 
 **This page was last updated on**
 
-07/05/2026
+09/06/2026
 
 ## Share this page

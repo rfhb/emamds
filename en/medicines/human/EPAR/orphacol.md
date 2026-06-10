@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-21 14:24:00
+document_datetime: 2026-06-09 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orphacol.html
 document_name: orphacol.html
 version: success
-processing_time: 0.1431018
-conversion_datetime: 2026-04-25 16:09:57.40766
+processing_time: 0.1704907
+conversion_datetime: 2026-06-10 13:35:05.629681
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Orphacol
+
 # Orphacol
 
 [RSS](/en/individual-human-medicine.xml/65542)
@@ -55,7 +131,7 @@ Expand section
 
 Collapse section
 
-## What is Orphacol and what is it used for?
+### What is Orphacol and what is it used for?
 
 Orphacol is a medicine containing cholic acid, a substance found in the bile, which is used to digest fats.
 
@@ -63,45 +139,45 @@ It is used to treat adults and children from one month of age who have a genetic
 
 Because the number of patients with inborn errors in primary bile acid synthesis is low, the condition is considered 'rare', and Orphacol was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 December 2002.
 
-## How is Orphacol used?
+### How is Orphacol used?
 
 The medicine can only be obtained with a prescription and treatment with Orphacol should be started and supervised by a doctor specialised in liver disease.
 
 Orphacol is available as capsules and should be taken every day at approximately the same time, with a meal. The daily dose is between 5 and 15 mg per kilogram body weight, adjusted for each patient according to the state of their bile acid, with a minimum daily dose of 50 mg and a maximum of 500 mg. For small children who cannot swallow capsules, the contents can be mixed in with infant formula or juice. Treatment should be stopped if liver function does not improve within three months.
 
-## How does Orphacol work?
+### How does Orphacol work?
 
 Cholic acid is the main primary bile acid produced by the liver. The cholic acid contained in Orphacol replaces the patient's missing cholic acid. This helps to decrease the production of abnormal bile acids and contributes to the normal activity of bile in the digestive system, thereby relieving the symptoms of the condition.
 
-## What benefits of Orphacol have been shown in studies?
+### What benefits of Orphacol have been shown in studies?
 
 Because cholic acid is a well-known substance, and its use in these enzyme deficiencies is well established, the applicant presented data from the scientific literature. The applicant presented data on 49 patients with inborn errors in primary bile acid synthesis, taken from the scientific literature (38 patients with 3β-Hydroxy-Δ5 -C27-steroid oxidoreductase deficiency and 11 patients with Δ4 -3-Oxosteroid-5β-reductase deficiency). It compared the outcomes of 28 patients who received cholic acid with others who were given different bile acids or did not receive bile acid treatment.
 
 In the scientific literature, cholic acid treatment was shown to reduce the amount of abnormal bile acids in patients, to restore the normal functions of the liver and to help delay or prevent the need for a liver transplant.
 
-## What are the risks associated with Orphacol?
+### What are the risks associated with Orphacol?
 
 The side effects seen with Orphacol were diarrhoea, pruritus (itching), increases in transaminases (liver enzymes) and possibly gallstones, although their frequency could not be reliably estimated from the available limited data.
 
 Orphacol should not be used in people who may be hypersensitive (allergic) to cholic acid or any of the other ingredients. It must not be taken by patients already taking phenobarbital, a medicine used to treat epilepsy.
 
-## Why is Orphacol approved?
+### Why is Orphacol approved?
 
 The Committee for Medicinal Products for Human Use (CHMP) noted that the use of cholic acid to treat inborn errors in primary bile-acid synthesis was well established in medical practice and documented in the scientific literature, although the number of documented cases was low due to the rarity of the condition. It decided that based on the evidence from the scientific literature, Orphacol's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
 Orphacol has been authorised under 'exceptional circumstances'. This means that because the disease is rare, it has not been possible to obtain complete information about Orphacol. Every year, the European Medicines Agency will review any new information that may become available and this summary will be updated as necessary.
 
-## What information is still awaited for Orphacol?
+### What information is still awaited for Orphacol?
 
 Since Orphacol has been approved under exceptional circumstances, the company that markets Orphacol will establish a database of patients treated with Orphacol to monitor the safety and effectiveness of the treatment, and will submit the results to the CHMP at regular, specified intervals.
 
-## What measures are being taken to ensure the safe and effective use of Orphacol?
+### What measures are being taken to ensure the safe and effective use of Orphacol?
 
 A risk-management plan has been developed to ensure that Orphacol is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Orphacol, including the appropriate precautions to be followed by healthcare professionals and patients.
 
 The company that makes Orphacol will also provide doctors in all Member States who will use Orphacol with a pack containing product literature and information regarding the correct diagnosis of these disease conditions, the risks of side effects and how to use the medicine properly.
 
-## Other information about Orphacol
+### Other information about Orphacol
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Orphacol on 12 September 2013.
 
@@ -115,7 +191,7 @@ English (EN) (85.95 KB - PDF)
 
 [View](/en/documents/overview/orphacol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-14)
+[Other languages (22)](#file-language-dropdown-653)
 
 български (BG) (106.45 KB - PDF)
 
@@ -147,7 +223,7 @@ Deutsch (DE) (87.58 KB - PDF)
 
 [View](/de/documents/overview/orphacol-epar-summary-public_de.pdf)
 
-eesti keel (ET) (82.51 KB - PDF)
+eesti (ET) (82.51 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -177,13 +253,13 @@ italiano (IT) (87.57 KB - PDF)
 
 [View](/it/documents/overview/orphacol-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (118.5 KB - PDF)
+latviešu (LV) (118.5 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/lv/documents/overview/orphacol-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (103.09 KB - PDF)
+lietuvių (LT) (103.09 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -237,7 +313,7 @@ slovenščina (SL) (98.48 KB - PDF)
 
 [View](/sl/documents/overview/orphacol-epar-summary-public_sl.pdf)
 
-Suomi (FI) (87.07 KB - PDF)
+suomi (FI) (87.07 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -261,161 +337,161 @@ English (EN) (105.97 KB - PDF)
 
 Orphacol : EPAR - Product Information
 
-English (EN) (262.74 KB - PDF)
+English (EN) (228.69 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/en/documents/product-information/orphacol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-980)
 
-български (BG) (340.63 KB - PDF)
+български (BG) (424.3 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/bg/documents/product-information/orphacol-epar-product-information_bg.pdf)
 
-español (ES) (241.92 KB - PDF)
+español (ES) (234.79 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/es/documents/product-information/orphacol-epar-product-information_es.pdf)
 
-čeština (CS) (299.54 KB - PDF)
+čeština (CS) (365.56 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/cs/documents/product-information/orphacol-epar-product-information_cs.pdf)
 
-dansk (DA) (236.93 KB - PDF)
+dansk (DA) (232.86 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/da/documents/product-information/orphacol-epar-product-information_da.pdf)
 
-Deutsch (DE) (256.49 KB - PDF)
+Deutsch (DE) (247.24 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/de/documents/product-information/orphacol-epar-product-information_de.pdf)
 
-eesti keel (ET) (228.52 KB - PDF)
+eesti (ET) (224.15 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/et/documents/product-information/orphacol-epar-product-information_et.pdf)
 
-ελληνικά (EL) (396.29 KB - PDF)
+ελληνικά (EL) (470.94 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/el/documents/product-information/orphacol-epar-product-information_el.pdf)
 
-français (FR) (311.45 KB - PDF)
+français (FR) (301.47 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/fr/documents/product-information/orphacol-epar-product-information_fr.pdf)
 
-hrvatski (HR) (307.73 KB - PDF)
+hrvatski (HR) (367.85 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/hr/documents/product-information/orphacol-epar-product-information_hr.pdf)
 
-íslenska (IS) (236.67 KB - PDF)
+italiano (IT) (238.03 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
-
-[View](/is/documents/product-information/orphacol-epar-product-information_is.pdf)
-
-italiano (IT) (242.91 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/it/documents/product-information/orphacol-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (282.23 KB - PDF)
+latviešu (LV) (363.15 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/lv/documents/product-information/orphacol-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (298.99 KB - PDF)
+lietuvių (LT) (376.6 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/lt/documents/product-information/orphacol-epar-product-information_lt.pdf)
 
-magyar (HU) (312.48 KB - PDF)
+magyar (HU) (358.22 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/hu/documents/product-information/orphacol-epar-product-information_hu.pdf)
 
-Malti (MT) (315.97 KB - PDF)
+Malti (MT) (391.39 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/mt/documents/product-information/orphacol-epar-product-information_mt.pdf)
 
-Nederlands (NL) (258.96 KB - PDF)
+Nederlands (NL) (251.9 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/nl/documents/product-information/orphacol-epar-product-information_nl.pdf)
 
-norsk (NO) (232.66 KB - PDF)
+polski (PL) (384.13 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
-
-[View](/no/documents/product-information/orphacol-epar-product-information_no.pdf)
-
-polski (PL) (289.04 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/pl/documents/product-information/orphacol-epar-product-information_pl.pdf)
 
-português (PT) (312.42 KB - PDF)
+português (PT) (304.78 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/pt/documents/product-information/orphacol-epar-product-information_pt.pdf)
 
-română (RO) (287.95 KB - PDF)
+română (RO) (385.18 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/ro/documents/product-information/orphacol-epar-product-information_ro.pdf)
 
-slovenčina (SK) (290.42 KB - PDF)
+slovenčina (SK) (363.37 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/sk/documents/product-information/orphacol-epar-product-information_sk.pdf)
 
-slovenščina (SL) (279.06 KB - PDF)
+slovenščina (SL) (332.55 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/sl/documents/product-information/orphacol-epar-product-information_sl.pdf)
 
-Suomi (FI) (276.27 KB - PDF)
+suomi (FI) (260.3 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/fi/documents/product-information/orphacol-epar-product-information_fi.pdf)
 
-svenska (SV) (235.29 KB - PDF)
+svenska (SV) (231.44 KB - PDF)
 
-**First published:** 02/10/2013 **Last updated:** 21/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
 
 [View](/sv/documents/product-information/orphacol-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000342032
+Íslenska (IS) (231.46 KB - PDF)
 
-20/04/2026
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
+
+[View](/is/documents/product-information/orphacol-epar-product-information_is.pdf)
+
+norsk (NO) (228.76 KB - PDF)
+
+**First published:** 02/10/2013 **Last updated:** 09/06/2026
+
+[View](/no/documents/product-information/orphacol-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000350675
+
+08/06/2026
 
 icon globe
 
@@ -439,7 +515,7 @@ English (EN) (81.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-330)
+[Other languages (24)](#file-language-dropdown-392)
 
 български (BG) (87.45 KB - PDF)
 
@@ -471,7 +547,7 @@ Deutsch (DE) (84.28 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (80.82 KB - PDF)
+eesti (ET) (80.82 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
@@ -495,25 +571,19 @@ hrvatski (HR) (286.06 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (83.8 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 06/10/2017
-
-[View](/is/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (81.48 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
 [View](/it/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (84.17 KB - PDF)
+latviešu (LV) (84.17 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
 [View](/lv/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (84.83 KB - PDF)
+lietuvių (LT) (84.83 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
@@ -536,12 +606,6 @@ Nederlands (NL) (80.34 KB - PDF)
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
 [View](/nl/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (84.65 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 06/10/2017
-
-[View](/no/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (84.3 KB - PDF)
 
@@ -573,7 +637,7 @@ slovenščina (SL) (81.91 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (81.39 KB - PDF)
+suomi (FI) (81.39 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 06/10/2017
 
@@ -585,6 +649,18 @@ svenska (SV) (82.14 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (83.8 KB - PDF)
+
+**First published:** 02/10/2013 **Last updated:** 06/10/2017
+
+[View](/is/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (84.65 KB - PDF)
+
+**First published:** 02/10/2013 **Last updated:** 06/10/2017
+
+[View](/no/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_no.pdf)
+
 Orphacol : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (41.66 KB - PDF)
@@ -593,7 +669,7 @@ English (EN) (41.66 KB - PDF)
 
 [View](/en/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-274)
 
 български (BG) (82.69 KB - PDF)
 
@@ -625,7 +701,7 @@ Deutsch (DE) (40.49 KB - PDF)
 
 [View](/de/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
-eesti keel (ET) (41.23 KB - PDF)
+eesti (ET) (41.23 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -649,25 +725,19 @@ hrvatski (HR) (60.94 KB - PDF)
 
 [View](/hr/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_hr.pdf)
 
-íslenska (IS) (27.3 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 02/10/2013
-
-[View](/is/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
 italiano (IT) (41.57 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/it/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
-latviešu valoda (LV) (73.51 KB - PDF)
+latviešu (LV) (73.51 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/lv/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (74.75 KB - PDF)
+lietuvių (LT) (74.75 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -690,12 +760,6 @@ Nederlands (NL) (41.76 KB - PDF)
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/nl/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
-
-norsk (NO) (41.54 KB - PDF)
-
-**First published:** 02/10/2013 **Last updated:** 02/10/2013
-
-[View](/no/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 polski (PL) (72.82 KB - PDF)
 
@@ -727,7 +791,7 @@ slovenščina (SL) (69.08 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
-Suomi (FI) (40.82 KB - PDF)
+suomi (FI) (40.82 KB - PDF)
 
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
@@ -738,6 +802,18 @@ svenska (SV) (39.25 KB - PDF)
 **First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/sv/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
+
+Íslenska (IS) (27.3 KB - PDF)
+
+**First published:** 02/10/2013 **Last updated:** 02/10/2013
+
+[View](/is/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
+
+norsk (NO) (41.54 KB - PDF)
+
+**First published:** 02/10/2013 **Last updated:** 02/10/2013
+
+[View](/no/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 ## Product details
 
@@ -788,7 +864,7 @@ Marketing authorisation holder
 
 Theravia
 
-16 rue Montrosier
+16 rue Montrosier 92200 Neuilly-sur-Seine France
 
 Opinion adopted
 
@@ -800,7 +876,7 @@ Marketing authorisation issued
 
 Revision
 
-18
+19
 
 ## Assessment history
 
@@ -808,13 +884,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Orphacol : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.25 KB - PDF)
+English (EN) (154.83 KB - PDF)
 
-**First published:** 16/02/2026 **Last updated:** 21/04/2026
+**First published:** 16/02/2026 **Last updated:** 09/06/2026
 
 [View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -826,7 +902,7 @@ English (EN) (256.16 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Orphacol : EPAR - Public assessment report
 
@@ -852,6 +928,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-21/04/2026
+09/06/2026
 
 ## Share this page

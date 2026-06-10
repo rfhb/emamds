@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 12:22:16
+document_datetime: 2026-06-08 10:02:33
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jentadueto-epar-product-information_en.pdf
 document_name: jentadueto-epar-product-information_en.pdf
 version: success
-processing_time: 10.8396927
-conversion_datetime: 2026-01-03 12:35:10.664703
+processing_time: 19.2599066
+conversion_datetime: 2026-06-10 13:49:11.224361
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,7 +94,9 @@ As metformin is excreted by the kidney, Jentadueto should be used with caution a
 
 ## Renal impairment
 
-A GFR should be assessed before initiation of treatment with metformin containing products and at least annually thereafter. In patients at an increased risk of further progression of renal impairment and in the elderly, renal function should be assessed more frequently, e.g. every 3-6 months. Factors that may increase the risk of lactic acidosis (see 4.4) should be reviewed before considering initiation of metformin in patients with GFR&lt; 60 mL/min.
+A GFR should be assessed before initiation of treatment with metformin containing products and at least annually thereafter. In patients at an increased risk of further progression of renal impairment and in the elderly, renal function should be assessed more frequently, e.g. every 3-6 months. Factors that may increase the risk of lactic acidosis (see 4.4) should be reviewed before considering
+
+initiation of metformin in patients with GFR&lt; 60 mL/min.
 
 If no adequate strength of Jentadueto is available, individual monocomponents should be used instead of the fixed dose combination.
 
@@ -159,11 +161,9 @@ In case of dehydration (severe diarrhoea or vomiting, fever or reduced fluid int
 
 Medicinal products that can acutely impair renal function (such as antihypertensives, diuretics and NSAIDs) should be initiated with caution in metformin-treated patients. Other risk factors for lactic acidosis are excessive alcohol intake, hepatic impairment, inadequately controlled diabetes, ketosis, prolonged fasting and any conditions associated with hypoxia, as well as concomitant use of medicinal products that may cause lactic acidosis (see sections 4.3 and 4.5).
 
-Patients and/or care-givers should be informed of the risk of lactic acidosis. Lactic acidosis is
+Patients and/or care-givers should be informed of the risk of lactic acidosis. Lactic acidosis is characterised by acidotic dyspnea, abdominal pain, muscle cramps, asthenia and hypothermia followed by coma. In case of suspected symptoms, the patient should stop taking metformin and seek immediate medical attention. Diagnostic laboratory findings are decreased blood pH (&lt; 7.35), increased plasma lactate levels (&gt; 5 mmol/L) and an increased anion gap and lactate/pyruvate ratio.
 
 <div style=\"page-break-after: always\"></div>
-
-characterised by acidotic dyspnea, abdominal pain, muscle cramps, asthenia and hypothermia followed by coma. In case of suspected symptoms, the patient should stop taking metformin and seek immediate medical attention. Diagnostic laboratory findings are decreased blood pH (&lt; 7.35), increased plasma lactate levels (&gt; 5 mmol/L) and an increased anion gap and lactate/pyruvate ratio.
 
 ## Patients with known or suspected mitochondrial diseases
 
@@ -241,11 +241,9 @@ Co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg 
 
 ## Rifampicin:
 
-Multiple co-administration of 5 mg linagliptin with rifampicin, a potent inductor of P-glycoprotein and CYP3A4, resulted in a 39.6% and 43.8% decreased linagliptin steady-state AUC and Cmax
+Multiple co-administration of 5 mg linagliptin with rifampicin, a potent inductor of P-glycoprotein and CYP3A4, resulted in a 39.6% and 43.8% decreased linagliptin steady-state AUC and Cmax respectively, and about 30% decreased DPP-4 inhibition at trough. Thus full efficacy of linagliptin in combination with strong P-gp inducers might not be achieved, particularly if these are administered long-term. Co-administration with other potent inducers of P-glycoprotein and CYP3A4, such as carbamazepine, phenobarbital and phenytoin has not been studied.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively, and about 30% decreased DPP-4 inhibition at trough. Thus full efficacy of linagliptin in combination with strong P-gp inducers might not be achieved, particularly if these are administered long-term. Co-administration with other potent inducers of P-glycoprotein and CYP3A4, such as carbamazepine, phenobarbital and phenytoin has not been studied.
 
 ## Effects of linagliptin on other medicinal products
 
@@ -414,11 +412,9 @@ Gastrointestinal disorders such as, nausea, vomiting, diarrhoea and decreased ap
 
 ## Linagliptin cardiovascular and renal safety study (CARMELINA)
 
-The CARMELINA study evaluated the cardiovascular and renal safety of linagliptin versus placebo in patients with type 2 diabetes and with increased CV risk evidenced by a history of established macrovascular or renal disease (see section 5.1). The study included 3 494 patients treated with linagliptin (5 mg) and 3 485 patients treated with placebo. Both treatments were added to standard of care targeting regional standards for HbA1c and CV risk factors. The overall incidence of adverse events and serious adverse events in patients receiving linagliptin was similar to that in patients
+The CARMELINA study evaluated the cardiovascular and renal safety of linagliptin versus placebo in patients with type 2 diabetes and with increased CV risk evidenced by a history of established macrovascular or renal disease (see section 5.1). The study included 3 494 patients treated with linagliptin (5 mg) and 3 485 patients treated with placebo. Both treatments were added to standard of care targeting regional standards for HbA1c and CV risk factors. The overall incidence of adverse events and serious adverse events in patients receiving linagliptin was similar to that in patients receiving placebo. Safety data from this study was in line with previous known safety profile of linagliptin.
 
 <div style=\"page-break-after: always\"></div>
-
-receiving placebo. Safety data from this study was in line with previous known safety profile of linagliptin.
 
 In the treated population, severe hypoglycaemic events (requiring assistance) were reported in 3.0% of patients on linagliptin and in 3.1% on placebo. Among patients who were using sulfonylurea at baseline, the incidence of severe hypoglycaemia was 2.0% in linagliptin-treated patients and 1.7% in placebo treated patients. Among patients who were using insulin at baseline, the incidence of severe hypoglycaemia was 4.4% in linagliptin-treated patients and 4.9% in placebo treated patients.
 
@@ -517,11 +513,9 @@ The efficacy and safety of linagliptin 2.5 mg twice daily versus 5 mg once daily
 
 ## Linagliptin as add-on to a combination of metformin and sulphonylurea therapy
 
-A placebo-controlled study of 24 weeks in duration was conducted to evaluate the efficacy and safety of linagliptin 5 mg to placebo, in patients not sufficiently treated with a combination with metformin
+A placebo-controlled study of 24 weeks in duration was conducted to evaluate the efficacy and safety of linagliptin 5 mg to placebo, in patients not sufficiently treated with a combination with metformin and a sulphonylurea. Linagliptin provided significant improvements in HbA1c (-0.62% change compared to placebo), from a mean baseline HbA1c of 8.14%. Linagliptin also showed significant improvements in patients achieving a target HbA1c of &lt; 7.0% (31.2% on linagliptin versus 9.2% on placebo), and also for fasting plasma glucose (FPG) with -12.7 mg/dl reduction compared to placebo. Body weight did not differ significantly between the groups.
 
 <div style=\"page-break-after: always\"></div>
-
-and a sulphonylurea. Linagliptin provided significant improvements in HbA1c (-0.62% change compared to placebo), from a mean baseline HbA1c of 8.14%. Linagliptin also showed significant improvements in patients achieving a target HbA1c of &lt; 7.0% (31.2% on linagliptin versus 9.2% on placebo), and also for fasting plasma glucose (FPG) with -12.7 mg/dl reduction compared to placebo. Body weight did not differ significantly between the groups.
 
 ## Linagliptin as add on to a combination of metformin and empagliflozin therapy
 
@@ -798,7 +792,7 @@ Date of latest renewal: 22 March 2017
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1218,7 +1212,8 @@ Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-- EU/1/12/780/015 10 × 1 film-coated tablets
+EU/1/12/780/015 10 × 1 film-coated tablets
+
 - EU/1/12/780/016 14 × 1 film-coated tablets
 - EU/1/12/780/017 28 × 1 film-coated tablets
 - EU/1/12/780/018 30 × 1 film-coated tablets
@@ -1811,11 +1806,9 @@ You should continue your diet during treatment with Jentadueto and take care tha
 
 ## If you take more Jentadueto than you should
 
-If you take more Jentadueto tablets than you should have, you may experience lactic acidosis. Symptoms of lactic acidosis are non-specific such as feeling or being very sick, vomiting, stomach ache with muscle cramps, a general feeling of not being well with severe tiredness, and difficulty in breathing. Further symptoms are reduced body temperature and heartbeat. If this happens to you, you may need immediate hospital treatment, as lactic acidosis can lead to coma. Stop taking this
+If you take more Jentadueto tablets than you should have, you may experience lactic acidosis. Symptoms of lactic acidosis are non-specific such as feeling or being very sick, vomiting, stomach ache with muscle cramps, a general feeling of not being well with severe tiredness, and difficulty in breathing. Further symptoms are reduced body temperature and heartbeat. If this happens to you, you may need immediate hospital treatment, as lactic acidosis can lead to coma. Stop taking this medicine immediately and contact a doctor or the nearest hospital straight away (see section 2). Take the medicine pack with you.
 
 <div style=\"page-break-after: always\"></div>
-
-medicine immediately and contact a doctor or the nearest hospital straight away (see section 2). Take the medicine pack with you.
 
 ## If you forget to take Jentadueto
 
@@ -1855,7 +1848,8 @@ Some patients have had the following side effects while taking Jentadueto:
 
 Some patients have experienced the following side effects while taking Jentadueto with insulin
 
-- -Uncommon: liver function disorders, constipation
+- -
+- Uncommon: liver function disorders, constipation
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1921,11 +1915,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
 
-Dragenopharm Apotheker Püschl GmbH Göllstraße 1 84529 Tittmoning Germany
+Dragenopharm Apotheker Püschl GmbH Göllstraße 1 84529 Tittmoning Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1933,7 +1925,7 @@ Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## България
 
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ клон България Тел: +359 2 958 79 98
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
 
 ## Česká republika
 
@@ -1941,7 +1933,7 @@ Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Deutschland
 
@@ -1973,7 +1965,7 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Lietuva
 
@@ -1997,7 +1989,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2045,7 +2037,7 @@ Tel: +371 67 240 011
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 ## Suomi/Finland
 
@@ -2058,9 +2050,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

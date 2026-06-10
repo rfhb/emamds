@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-12 14:08:35
+document_datetime: 2026-06-08 16:40:46
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/omjjara-epar-product-information_en.pdf
 document_name: omjjara-epar-product-information_en.pdf
 version: success
-processing_time: 10.2283467
-conversion_datetime: 2025-12-25 12:07:59.925021
+processing_time: 17.5122747
+conversion_datetime: 2026-06-10 13:48:15.416352
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -218,11 +218,9 @@ Lymphoma and other malignancies have been reported in patients receiving JAK inh
 
 Based on the potential of Omjjara to increase the plasma concentrations of certain medicinal products (e.g., sensitive breast cancer resistance protein [BCRP] substrates, such as rosuvastatin and sulfasalazine), patients should be monitored for adverse reactions with co-administration (see section 4.5).
 
-Co-administration of strong cytochrome P450 (CYP) 3A4 inducers may lead to decreased exposure of Omjjara and consequently a risk for reduced efficacy. Therefore, additional monitoring of the
+Co-administration of strong cytochrome P450 (CYP) 3A4 inducers may lead to decreased exposure of Omjjara and consequently a risk for reduced efficacy. Therefore, additional monitoring of the clinical signs and symptoms of myelofibrosis is recommended with concomitant use of Omjjara and strong CYP3A4 inducers (including but not limited to carbamazepine, phenobarbital, phenytoin, and St John's wort [ Hypericum perforatum ]) (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-clinical signs and symptoms of myelofibrosis is recommended with concomitant use of Omjjara and strong CYP3A4 inducers (including but not limited to carbamazepine, phenobarbital, phenytoin, and St John's wort [ Hypericum perforatum ]) (see section 4.5).
 
 ## Women of childbearing potential
 
@@ -242,7 +240,7 @@ Momelotinib undergoes metabolism though multiple CYP enzymes (including CYP3A4, 
 
 ## Strong CYP3A4 inducers
 
-Multiple doses of rifampicin (600 mg daily for 7 days) decreased momelotinib Cmax by 29.4% and AUCinf by 46.1% when compared with momelotinib (200 mg single dose) plus rifampicin single-dose (600 mg), to capture the induction effect of rifampicin. Co-administration of strong CYP3A4 inducers may lead to decreased momelotinib exposure and consequently a risk for reduced efficacy. Therefore, additional monitoring of the clinical signs and symptoms of myelofibrosis is recommended with concomitant use of momelotinib and strong CYP3A4 inducers (including but not limited to carbamazepine, phenobarbital, phenytoin, and St John's wort [ Hypericum perforatum ]).
+Multiple doses of rifampicin (600 mg daily for 7 days) decreased momelotinib Cmax by 29.4% and AUCinf by 46.1% when compared with momelotinib (200 mg single dose) plus rifampici n single-dose (600 mg), to capture the induction effect of rifampicin. Co-administration of strong CYP3A4 inducers may lead to decreased momelotinib exposure and consequently a risk for reduced efficacy. Therefore, additional monitoring of the clinical signs and symptoms of myelofibrosis is recommended with concomitant use of momelotinib and strong CYP3A4 inducers (including but not limited to carbamazepine, phenobarbital, phenytoin, and St John's wort [ Hypericum perforatum ]).
 
 Multiple doses of rifampicin (600 mg daily for 7 days) did not change momelotinib Cmax and decreased momelotinib AUCinf by 15.3% when compared with momelotinib alone (200 mg single dose), capturing the combined effect of CYP3A4 induction and organic anion transporting peptide (OATP)1B1 and OATP1B3 inhibition. Momelotinib can be co-administered with rifampicin without a dose modification.
 
@@ -308,13 +306,23 @@ The most common severe adverse reaction (≥ Grade 3) was thrombocytopenia (12%)
 
 The following adverse reactions have been identified in 448 patients exposed to Omjjara during a median duration of 24 weeks during clinical trials (see section 5.1). Adverse reactions are listed by MedDRA system organ classification (SOC) and by frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequencies are defined as:
 
-Very common: ≥1/10
+Very common:
 
-Common: ≥1/100 to &lt;1/10
+≥1/10
 
-Uncommon: ≥1/1 000 to &lt;1/100
+Common:
 
-Rare: ≥1/10 000 to &lt;1/1 000
+≥1/100 to &lt;1/10
+
+Uncommon:
+
+≥1/1 000 to &lt;1/100
+
+Rare:
+
+≥1/10 000 to &lt;1/1 000
+
+Not known: cannot be estimated from the available data
 
 Table 2: Summary of adverse reactions reported in Phase 3 studies in adults with myelofibrosis
 
@@ -324,21 +332,22 @@ Table 2: Summary of adverse reactions reported in Phase 3 studies in adults with
 | Infections and infestations          | COVID-19 pneumonia                                                                                                                                                                                                                                                                                   | Uncommon             |
 | Blood and lymphatic system disorders | Thrombocytopenia a                                                                                                                                                                                                                                                                                   | Very common          |
 | Blood and lymphatic system disorders | Neutropenia b                                                                                                                                                                                                                                                                                        | Common               |
+| Immune system disorders              | Hypersensitivity c                                                                                                                                                                                                                                                                                   | Not known            |
 | Metabolism and nutrition disorders   | Vitamin B1 deficiency                                                                                                                                                                                                                                                                                | Common               |
 | Nervous system disorders             | Dizziness, headache                                                                                                                                                                                                                                                                                  | Very common          |
-| Nervous system disorders             | Syncope, peripheral neuropathy c , paraesthesia                                                                                                                                                                                                                                                      | Common               |
+| Nervous system disorders             | Syncope, peripheral neuropathy d , paraesthesia                                                                                                                                                                                                                                                      | Common               |
 | Eye disorders                        | Blurred vision                                                                                                                                                                                                                                                                                       | Common               |
-| Ear and labyrinth disorders          | Vertigo                                                                                                                                                                                                                                                                                              | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class (SOC)                             | Adverse reaction                                                             | Frequency category   |
 |------------------------------------------------------|------------------------------------------------------------------------------|----------------------|
+| Ear and labyrinth disorders                          | Vertigo                                                                      | Common               |
 | Vascular disorders                                   | Hypotension, haematoma, flushing                                             | Common               |
 | Respiratory, thoracic and mediastinal disorders      | Cough                                                                        | Very common          |
 | Gastrointestinal disorders                           | Diarrhoea, abdominal pain, nausea                                            | Very common          |
 | Gastrointestinal disorders                           | Vomiting, constipation                                                       | Common               |
-| Skin and subcutaneous tissue disorders               | Rash d                                                                       | Common               |
+| Skin and subcutaneous tissue disorders               | Rash e                                                                       | Common               |
 | Musculoskeletal and connective tissue disorders      | Arthralgia, pain in extremity                                                | Common               |
 | General disorders and administration site conditions | Asthenia, fatigue                                                            | Very common          |
 | General disorders and administration site conditions | Pyrexia                                                                      | Common               |
@@ -347,8 +356,9 @@ Table 2: Summary of adverse reactions reported in Phase 3 studies in adults with
 
 - a Thrombocytopenia includes platelet count decreased.
 - b Neutropenia includes neutrophil count decreased.
-- c Peripheral neuropathy includes peripheral sensory neuropathy, peripheral motor neuropathy, neuropathy peripheral, peripheral sensorimotor neuropathy, neuralgia, and polyneuropathy.
-- d Rash includes rash maculo-papular, rash erythematous, drug eruption, rash follicular, rash macular, and rash pustular.
+- c Adverse drug reaction derived from post-marketing experience.
+- d Peripheral neuropathy includes peripheral sensory neuropathy, peripheral motor neuropathy, neuropathy peripheral, peripheral sensorimotor neuropathy, neuralgia, and polyneuropathy.
+- e Rash includes rash maculo-papular, rash erythematous, drug eruption, rash follicular, rash macular, and rash pustular.
 
 ## Description of selected adverse reactions
 
@@ -372,7 +382,7 @@ In the three randomised clinical trials, new or worsening elevations of ALT and 
 
 ## Rash
 
-Cases of rash (including a case of Toxic Epidermal Necrolysis [TEN]) requiring hospitalisation have been reported in the post-marketing setting.
+Cases of rash (including erythema multiforme and a case of Toxic Epidermal Necrolysis [TEN]) requiring hospitalisation have been reported in the post-marketing setting.
 
 ## Reporting of suspected adverse reactions
 
@@ -390,7 +400,7 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors. ATC
 
 ## Mechanism of action
 
-Momelotinib and its major human circulating metabolite (M21), are inhibitors of wild type Janus Kinase 1 and 2 (JAK1/JAK2) and mutant JAK2 V617F , which contribute to signalling of a number of cytokines and growth factors that are important for haematopoiesis and immune function. JAK1 and JAK2 recruit and activate STAT (signal transducer and activator of transcription) proteins that control gene transcription impacting inflammation, haematopoiesis, and immune regulation. Myelofibrosis is a myeloproliferative neoplasm associated with constitutive activation and dysregulated JAK signalling that contributes to elevated inflammation and hyperactivation of activin A receptor type 1 (ACVR1), also known as activin receptor-like kinase 2 (ALK-2). Additionally, momelotinib and M21 are direct inhibitors of ACVR1, which further down regulates liver hepcidin expression resulting in increased iron availability and red blood cell production. Momelotinib and M21 potentially inhibit additional kinases, such as other JAK family members, inhibitor of κB kinase ( IKK), interleukin-1 receptor-associated kinase 1 (IRAK1), and others.
+Momelotinib and its major human circulating metabolite (M21), are inhibitors of wild type Janus Kinase 1 and 2 (JAK1/JAK2) and mutant JAK2 V617F , which contribute to signalling of a number of cytokines and growth factors that are important for haematopoiesis and immune function. JAK1 and JAK2 recruit and activate STAT (signal transducer and activator of transcription) proteins that control gene transcription impacting inflammation, haematopoiesis, and immune regulation. Myelofibrosis is a myeloproliferative neoplasm associated with constitutive activation and dysregulated JAK signalling that contributes to elevated inflammation and hyperactivation of activin A receptor type 1 (ACVR1), also known as activin receptor-like kinase 2 (ALK-2). Additionally, momelotinib and M21 are direct inhibitors of ACVR1, which further down regulates liver hepcidin expression resulting in increased iron availability and red blood cell production. Momelotinib and M21 potentially inhibit additional kinases, such as other JAK family members, i nhibitor of κB kinase ( IKK), interleukin-1 receptor-associated kinase 1 (IRAK1), and others.
 
 ## Pharmacodynamic effects
 
@@ -404,11 +414,11 @@ The efficacy of momelotinib in the treatment of patients with myelofibrosis was 
 
 ## Myelofibrosis patients who have been treated with ruxolitinib
 
-MOMENTUM was a double-blind, 2:1 randomised, active-controlled Phase 3 study in 195 symptomatic and anaemic patients with myelofibrosis who had previously received a JAK inhibitor. All patients had received ruxolitinib and 4.6% of patients had also received fedratinib; prior JAK inhibitor treatment was for ≥ 90 days or ≥ 28 days if therapy was interrupted by the need for red blood cell transfusions or due to Grade 3 or 4 thrombocytopenia, anaemia, or haematoma. Patients were treated with Omjjara 200 mg once daily or danazol 300 mg twice daily for 24 weeks, followed by open-label treatment with Omjjara. The two primary efficacy endpoints were percentage of patients with total symptom score (TSS) reduction of 50% or greater from baseline to week 24 (as measured by the Myelofibrosis Symptom Assessment Form [MFSAF] v4.0), and the percentage of patients who were transfusion independent (TI) at week 24 (defined as no transfusions and all haemoglobin values ≥8 g/dL in the 12 weeks prior to week 24). A key secondary endpoint measured the percentage of subjects with ≥35% reduction in spleen volume from baseline at week 24.
+MOMENTUM was a double-blind, 2:1 randomised, active-controlled Phase 3 study in 195 symptomatic and anaemic patients with myelofibrosis who had previously received a JAK inhibitor. All patients had received ruxolitinib and 4.6% of patients had also received fedratinib; prior JAK inhibitor treatment was for ≥ 90 days or ≥ 28 days if therapy was interrupted by the need for red blood cell transfusions or due to Grade 3 or 4 thrombocytopenia, anaemia, or haematoma. Patients were treated with Omjjara 200 mg once daily or danazol 300 mg twice daily for 24 weeks, followed by open-label treatment with Omjjara. The two primary efficacy endpoints were percentage of patients with total symptom score (TSS) reduction of 50% or greater from baseline to week 24 (as measured by the Myelofibrosis Symptom Assessment Form [MFSAF] v4.0), and the percentage of patients who were transfusion independent (TI) at week 24 (defined as no transfusions and all haemoglobin values ≥ 8 g/dL in the 12 weeks prior to week 24). A key secondary endpoint measured the percentage of subjects with ≥35% reduction in spleen volume from baseline at week 24.
 
 Per eligibility criteria, patients were symptomatic with a MFSAF TSS of ≥10 points at screening (mean MFSAF TSS 27 at baseline), and anaemic with haemoglobin (Hgb) values &lt;10 g/dL. The MFSAF daily diary captured the core symptoms of MF: night sweats, abdominal discomfort, pain under the left rib, fatigue, early satiety, pruritus, and bone pain. The inactivity item was excluded from the TSS calculation. Each of the symptoms of the MFSAF v.4.0 were measured on a scale of 0 (absent) to 10 (worst imaginable). Eligible patients were also required to have an enlarged spleen at baseline and a minimum baseline platelet count of 25 × 10 9 /L.
 
-Patients had received prior JAK inhibitor therapy for a median duration of 99 weeks. The median age was 71 years (range 38 to 86 years); 79% were 65 years or older, and 31% were aged 75 years or older, and 63% were male. Sixty-four percent (64%) of patients had primary myelofibrosis, 19% had post-PV myelofibrosis, and 17% had post-ET myelofibrosis. Five percent (5%) of patients had intermediate-1 risk, and 57% had intermediate-2 risk, and 35% had high-risk disease, determined by the Dynamic International Prognostic Scoring System (DIPSS). Sixteen percent (16%) of patients had severe thrombocytopenia (defined as platelet values of less than 50 × 10 9 /L). Forty-eight percent (48%) of patients had severe anaemia (defined as baseline Hgb values &lt;8 g/dL). Within the 8 weeks prior to enrolment, 79% had red blood cell transfusions. At baseline, 13% and 15% of patients treated with Omjjara and danazol, respectively, were transfusion independent (no transfusions and all haemoglobin values ≥8 g/dL in the 12 weeks prior to dosing). The baseline median Hgb value was 8.0 g/dL (range 3.8 g/dL to 10.7 g/dL), and the median platelet count was 96 × 10 9 /L (range 24 × 10 9 /L to 733 × 10 9 /L). The baseline median palpable spleen length was 11.0 cm below the left costal margin; the median spleen volume (measured by magnetic resonance imaging [MRI] or computed tomography [CT])] was 2105 cm 3  (range 609 to 9717 cm 3 ).
+Patients had received prior JAK inhibitor therapy for a median duration of 99 weeks. The median age was 71 years (range 38 to 86 years); 79% were 65 years or older, and 31% were aged 75 years or older, and 63% were male. Sixty-four percent (64%) of patients had primary myelofibrosis, 19% had post-PV myelofibrosis, and 17% had post-ET myelofibrosis. Five percent (5%) of patients had intermediate-1 risk, and 57% had intermediate-2 risk, and 35% had high-risk disease, determined by the Dynamic International Prognostic Scoring System (DIPSS). Sixteen percent (16%) of patients had severe thrombocytopenia (defined as platelet values of less than 50 × 10 9 /L). Forty-eight percent (48%) of patients had severe anaemia (defined as baseline Hgb values &lt;8 g/dL). Within the 8 weeks prior to enrolment, 79% had red blood cell transfusions. At baseline, 13% and 15% of patients treated with Omjjara and danazol, respectively, were transfusion independent (no transfusions and all ha emoglobin values ≥8 g/dL in the 12 weeks prior to dosing). The baseline median Hgb value was 8.0 g/dL (range 3.8 g/dL to 10.7 g/dL), and the median platelet count was 96 × 10 9 /L (range 24 × 10 9 /L to 733 × 10 9 /L). The baseline median palpable spleen length was 11.0 cm below the left costal margin; the median spleen volume (measured by magnetic resonance imaging [MRI] or computed tomography [CT])] was 2105 cm 3  (range 609 to 9717 cm 3 ).
 
 At week 24, a significantly higher percentage of patients treated with Omjjara achieved a TSS reduction of 50% or greater from baseline (superiority, one of the primary endpoints) and a spleen volume reduction by 35% or greater from baseline (superiority, one of the secondary endpoints) (table 3).
 
@@ -433,17 +443,15 @@ A numerically higher percent of patients treated with Omjjara (30%; 39/130) achi
 
 SIMPLIFY-1 was a double-blind, randomised, active-controlled study in 432 patients with myelofibrosis who had not previously received a JAK inhibitor. Post-hoc analyses were conducted in a subgroup of 181 patients with moderate to severe anaemia (Hgb &lt;10 g/dL). The baseline characteristics and efficacy results are provided for this subgroup.
 
-In the overall population, the primary efficacy endpoint was percentage of patients with spleen volume response (reduction by 35% or greater) at week 24. Secondary endpoints included modified Myeloproliferative Neoplasm Symptom Assessment Form (MPN-SAF) TSS response rate at week 24 (defined as the percentage of patients with TSS reduction of 50% or greater from baseline to week 24) and transfusion independence at week 24 (defined as no transfusions and all Hgb values ≥8 g/dL in the 12 weeks prior to week 24).
+In the overall population, the primary efficacy endpoint was percentage of patients with spleen volume response (reduction by 35% or greater) at week 24. Secondary endpoints included modified Myeloproliferative Neoplasm Symptom Assessment Form (MPN-SAF) TSS response rate at week 24 (defined as the percentage of patients with TSS reduction of 50% or greater from baseline to week 24) and transfusion independence at week 24 (defined as no transfusions and all Hgb values ≥ 8 g/dL in the 12 weeks prior to week 24).
 
 Per eligibility criteria, patient TSS response was measured by the modified MPN-SAF v2.0 diary (mean MPN-SAF TSS 19 at baseline). The inactivity item was excluded from the TSS calculation. Eligible patients were also required to have an enlarged spleen at baseline and a minimum baseline platelet count of 50 × 10 9 /L.
 
 In the anaemic subgroup, the median age was 68 years (range 25 to 86 years) with 67% of patients older than 65 years, and 19% were aged 75 years or older, and 59% male. Sixty-three percent (63%) of patients had primary myelofibrosis, 13% had post-PV myelofibrosis, and 24% had post-ET myelofibrosis. Four percent (4%) of patients had intermediate-1 risk, and 25% had intermediate-2 risk, and 71% had high-risk disease, determined by the International Prognostic Scoring System (IPSS). In this study, 42% of patients had moderate to severe anaemia (defined as baseline Hgb values &lt;10 g/dL). Within the 8 weeks prior to enrolment, 55% of patients had red blood cell transfusions. At baseline, 29% and 44% of patients treated with Omjjara and ruxolitinib, respectively, were transfusion independent (no transfusions and all haemoglobin values ≥8 g/dL in the 12 weeks prior to dosing). The baseline median Hgb value was 8.8 g/dL (range 6 g/dL to 10 g/dL), and the median platelet count was 193 × 10 9 /L at baseline (range 54 × 10 9 /L to 2865 × 10 9 /L). The baseline median palpable spleen length was 12.0 cm below the left costal margin; the median spleen volume (measured by MRI or CT) was 1843 cm 3  (range 352 to 9022 cm 3 ). The baseline characteristics of the overall population were similar to the anaemic subgroup, with the exception of anaemia severity and transfusion requirements.
 
-Patients were treated with Omjjara 200 mg daily or ruxolitinib adjusted dose twice daily for 24 weeks, followed by open-label treatment with Omjjara without tapering of ruxolitinib. The efficacy of
+Patients were treated with Omjjara 200 mg daily or ruxolitinib adjusted dose twice daily for 24 weeks, followed by open-label treatment with Omjjara without tapering of ruxolitinib. The efficacy of Omjjara in SIMPLIFY-1 was based on post-hoc analysis of spleen volume response (reduction by 35% or greater) in the subgroup of patients with anaemia (Hgb values &lt;10 g/dL) (table 4). In this subgroup, a numerically lower percent of patients treated with Omjjara (25%) achieved a TSS reduction of 50% or greater at week 24 compared with ruxolitinib (36%).
 
 <div style=\"page-break-after: always\"></div>
-
-Omjjara in SIMPLIFY-1 was based on post-hoc analysis of spleen volume response (reduction by 35% or greater) in the subgroup of patients with anaemia (Hgb values &lt;10 g/dL) (table 4). In this subgroup, a numerically lower percent of patients treated with Omjjara (25%) achieved a TSS reduction of 50% or greater at week 24 compared with ruxolitinib (36%).
 
 Table 4: Percent of patients achieving spleen volume reduction at week 24 in the anaemic subgroup (SIMPLIFY-1)
 
@@ -476,11 +484,9 @@ Based on in vitro assessment, momelotinib is predominantly metabolised by multip
 
 ## Elimination
 
-Following an oral dose of momelotinib 200 mg, the mean terminal half-life (t½) of momelotinib
+Following an oral dose of momelotinib 200 mg, the mean terminal half-life (t½) of momelotinib was approximately 4 to 8 hours; the half-life of M21 was similar. Based on a clinical study, the apparent total clearance (CL/F) of momelotinib was 103 L/h in patients with myelofibrosis.
 
 <div style=\"page-break-after: always\"></div>
-
-was approximately 4 to 8 hours; the half-life of M21 was similar. Based on a clinical study, the apparent total clearance (CL/F) of momelotinib was 103 L/h in patients with myelofibrosis.
 
 Momelotinib is mainly eliminated through metabolism and then excreted to faeces. Following a single oral dose of [ 14 C]-labelled momelotinib in healthy male subjects, 69% of radioactivity was excreted in the faeces (13% of dose as unchanged momelotinib), and 28% in the urine (&lt;1% of dose as unchanged momelotinib).
 
@@ -582,7 +588,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -604,11 +610,9 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## C. AUTHORISATION
-
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -618,7 +622,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-GlaxoSmithKline Trading Services Limited 12 River Walk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -703,7 +707,7 @@ Store in the original bottle in order to protect from moisture. Do not remove th
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -713,8 +717,7 @@ EU/1/23/1782/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -799,8 +802,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -808,8 +811,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -862,30 +865,35 @@ Store in the original bottle in order to protect from moisture. Do not remove th
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1782/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Omjjara 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -959,8 +967,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -968,8 +976,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1021,7 +1029,7 @@ Store in the original bottle in order to protect from moisture. Do not remove th
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1031,11 +1039,11 @@ EU/1/23/1782/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Omjjara 200 mg
 
@@ -1101,8 +1109,8 @@ Store in the original bottle in order to protect from moisture. Do not remove th
 
 GlaxoSmithKline Trading Services Limited
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1782/003
 
@@ -1114,8 +1122,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1123,8 +1131,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1136,7 +1144,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Omjjara 100 mg film -coated tablets Omjjara 150 mg film -coated tablets Omjjara 200 mg film -coated tablets momelotinib
+Omjjara 100 mg film -coated tablets Omjjara 150 mg film -coated tablets Omjjara 200 mg film -coated tablets
+
+momelotinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1180,9 +1190,7 @@ An enlarged spleen is one of the characteristics of myelofibrosis. Myelofibrosis
 - if you are allergic to momelotinib or any of the other ingredients of this medicine (listed in section 6). If you are not sure whether this applies to you, do not take Omjjara until you have checked with your doctor.
 - if you are pregnant or breast-feeding.
 
-## Warnings and precautions
-
-## Tell your doctor
+## Warnings and precautions Tell your doctor
 
 Talk to your doctor, pharmacist, or nurse before taking Omjjara or during your treatment with Omjjara:
 
@@ -1324,11 +1332,11 @@ Talk to your doctor, pharmacist or nurse if you get any side effects that concer
 
 Some side effects could be serious. Seek medical help immediately before taking the next scheduled dose if you experience the following serious side effects:
 
+<div style=\"page-break-after: always\"></div>
+
 ## Very common side effects
 
-May affect more than 1 in 10 people:
-
-<div style=\"page-break-after: always\"></div>
+## May affect more than 1 in 10 people:
 
 - infections - signs or symptoms may include fever, chills, cough, breathing problems, diarrhoea, vomiting, pain or burning feeling when passing urine
 - low blood platelet count (thrombocytopenia ) which can result in bruising or bleeding for longer than usual if you hurt yourself
@@ -1373,13 +1381,17 @@ May affect more than 1 in 10 people:
 - changes in blood test results ( alanine aminotransferase increased and aspartate aminotransferase increased ). These may be signs of liver problems.
 - bruising ( contusion )
 
+## Other side effects reported (frequency not known)
+
+- allergic reactions ( hypersensitivity )
+
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor, pharmacist or nurse if any of the side effects listed becomes severe or troublesome , or if you notice any side effects not listed in this leaflet.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Omjjara
 
@@ -1400,11 +1412,9 @@ The active substance is momelotinib.
 - Each 100 mg film-coated tablet contains momelotinib dihydrochloride monohydrate equivalent to 100 mg of momelotinib.
 - Each 150 mg film-coated tablet contains momelotinib dihydrochloride monohydrate equivalent to 150 mg of momelotinib.
 - Each 200 mg film-coated tablet contains momelotinib dihydrochloride monohydrate equivalent to 200 mg of momelotinib.
-- The other excipients are:
-
-Tablet core: microcrystalline cellulose, lactose monohydrate, sodium starch glycolate (type A), magnesium stearate, silica colloidal anhydrous, and propyl gallate.
-
-Tablet coating: Opadry II brown containing polyvinyl alcohol, macrogols, titanium dioxide (E171), talc, iron oxide yellow (E172) and iron oxide red (E172).
+- ·
+- The other excipients are: Tablet core: microcrystalline cellulose, lactose monohydrate, sodium starch glycolate (type A), magnesium stearate, silica colloidal anhydrous, and propyl gallate. Tablet coating: Opadry II brown containing polyvinyl alcohol, macrogols, titanium dioxide
+- (E171), talc, iron oxide yellow (E172) and iron oxide red (E172).
 
 See section 2 Omjjara contains lactose and sodium.
 
@@ -1418,13 +1428,13 @@ Omjjara 200 mg film-coated tablets are capsule shaped brown tablets with an unde
 
 Omjjara film-coated tablets are supplied in a white bottle with a seal and a child-resistant cap. Each bottle contains 30 tablets, a silica gel desiccant, a polyester coil, and is packed in a cardboard carton.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder and Manufacturer
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -1432,7 +1442,7 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 ## България
 
-GlaxoSmithKline (Ireland) Limited Teл.: + 359 80018205
+GlaxoSmithKline (Ireland) Limited Te л .: + 359 80018205
 
 ## Česká republika
 
@@ -1464,18 +1474,6 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline (Ireland) Limited Tel: + 385 800787089
-
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
 ## Lietuva
 
 GlaxoSmithKline (Ireland) Limited Tel: + 370 80000334
@@ -1498,9 +1496,7 @@ GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -1508,55 +1504,67 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. Z o.o.
-
-Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda.
+
+Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
-GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
-
-## Slovenija
-
-GlaxoSmithKline (Ireland) Limited Tel: + 386 80688869
-
-## Slovenská republika
-
-GlaxoSmithKline (Ireland) Limited Tel: + 421 800500589
+GlaxoSmithKline (Ireland) Limited Tel: + 385 800787089
 
 <div style=\"page-break-after: always\"></div>
 
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 353 (0)1 4955000
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
 ## Italia
 
-GlaxoSmithKline S.p.A.
-
-Tel: + 39 (0)45 7741 111
+GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Tηλ: + 357 80070017
+GlaxoSmithKline Trading Services Limited T ηλ : + 357 80070017
 
 ## Latvija
 
-GlaxoSmithKline (Ireland) Limited Tel: + 371 80205045
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 371 80205045
 
 ## This leaflet was last revised in MM/YYYY
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+
+## Slovenija
+
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 386 80688869
+
+## Slovenská republika
+
+GlaxoSmithKline (Ireland) Limited Tel: + 421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
+GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 

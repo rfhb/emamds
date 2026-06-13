@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-07-29 11:40:07
+document_datetime: 2026-06-12 12:22:05
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/amlodipine-valsartan-mylan-epar-product-information_en.pdf
 document_name: amlodipine-valsartan-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 24.2306837
-conversion_datetime: 2025-12-20 15:28:03.535239
+processing_time: 28.6226376
+conversion_datetime: 2026-06-13 20:25:33.4514
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -36,7 +34,7 @@ Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets
 
 Each film-coated tablet contains 5 mg of amlodipine (as amlodipine besilate) and 160 mg of valsartan.
 
-## Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets
+Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets
 
 Each film-coated tablet contains 10 mg of amlodipine (as amlodipine besilate) and 160 mg of valsartan.
 
@@ -54,7 +52,7 @@ Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets
 
 Yellow, oval, approximately 15.6 mm × 7.8 mm, biconvex film-coated tablet debossed with 'AV2' on one side and 'M' on the other side.
 
-## Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets
+Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets
 
 Light brown, oval, approximately 15.6 mm × 7.8 mm, biconvex film-coated tablet debossed with 'AV3' on one side and 'M' on the other side.
 
@@ -120,14 +118,14 @@ It is recommended to take Amlodipine/Valsartan Mylan with some water. The medici
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances, to dihydropyridine derivatives, or to any of the excipients listed in section 6.1.
-- Severe hepatic impairment, biliary cirrhosis or cholestasis.
-- Concomitant use of Amlodipine/Valsartan Mylan with aliskiren-containing medicinal products in patients with diabetes mellitus or renal impairment (GFR &lt;60 ml/min/1.73 m 2 ) (see sections 4.5 and 5.1).
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6).
-- Severe hypotension.
-- Shock (including cardiogenic shock).
-- Obstruction of the outflow tract of the left ventricle (e.g. hypertrophic obstructive cardiomyopathy and high grade aortic stenosis).
-- Haemodynamically unstable heart failure after acute myocardial infarction.
+-  Hypersensitivity to the active substances, to dihydropyridine derivatives, or to any of the excipients listed in section 6.1.
+-  Severe hepatic impairment, biliary cirrhosis or cholestasis.
+-  Concomitant use of Amlodipine/Valsartan Mylan with aliskiren-containing medicinal products in patients with diabetes mellitus or renal impairment (GFR &lt;60 ml/min/1.73 m 2 ) (see sections 4.5 and 5.1).
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6).
+-  Severe hypotension.
+-  Shock (including cardiogenic shock).
+-  Obstruction of the outflow tract of the left ventricle (e.g. hypertrophic obstructive cardiomyopathy and high grade aortic stenosis).
+-  Haemodynamically unstable heart failure after acute myocardial infarction.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -229,11 +227,9 @@ Concomitant use of amlodipine with strong or moderate CYP3A4 inhibitors (proteas
 
 ## CYP3A4 inducers (anticonvulsant agents [e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone], rifampicin, Hypericum perforatum)
 
-Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during
+Upon co-administration of known inducers of the CYP3A4, the plasma concentration of amlodipine may vary. Therefore, blood pressure should be monitored and dose regulation considered both during and after concomitant medicinal product particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).
 
 <div style=\"page-break-after: always\"></div>
-
-and after concomitant medicinal product particularly with strong CYP3A4 inducers (e.g. rifampicin, hypericum perforatum).
 
 ## Simvastatin
 
@@ -315,7 +311,7 @@ There are no clinical studies on fertility with amlodipine/valsartan.
 
 ## Valsartan
 
-Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day. This dose is 6 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
+Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day. This dose is 6 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
 
 ## Amlodipine
 
@@ -335,13 +331,13 @@ The safety of amlodipine/valsartan has been evaluated in five controlled clinica
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions have been ranked under headings of frequency using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 | MedDRA System organ                  | Adverse reactions                        | Frequency            | Frequency   | Frequency   |
 |--------------------------------------|------------------------------------------|----------------------|-------------|-------------|
 | class                                |                                          | Amlodipine/Valsartan | Amlodipine  | Valsartan   |
-| Infections and                       | Nasopharyngitis                          | Common               | -           | -           |
-| infestations                         | Influenza                                | Common               | -           | -           |
+| Infections and infestations          | Nasopharyngitis                          | Common               | -           | -           |
+| Infections and infestations          | Influenza                                | Common               | -           | -           |
 | Blood and lymphatic system disorders | Haemoglobin and haematocrit decreased    | -                    | -           | Not known   |
 | Blood and lymphatic system disorders | Leukopenia                               | -                    | Very rare   | -           |
 | Blood and lymphatic system disorders | Neutropenia                              | -                    | -           | Not known   |
@@ -352,44 +348,43 @@ Adverse reactions have been ranked under headings of frequency using the followi
 
 <div style=\"page-break-after: always\"></div>
 
-|                            | Hyponatraemia                                                                         | Uncommon   | -                   | -                  |
-|----------------------------|---------------------------------------------------------------------------------------|------------|---------------------|--------------------|
-| Psychiatric disorders      | Depression                                                                            | -          | Uncommon            | -                  |
-| Psychiatric disorders      | Anxiety                                                                               | Rare       | -                   | -                  |
-| Psychiatric disorders      | Insomnia/sleep disorders                                                              | -          | Uncommon            | -                  |
-| Psychiatric disorders      | Mood swings                                                                           | -          | Uncommon            | -                  |
-|                            | Confusion                                                                             | -          | Rare                | -                  |
-| Nervous system disorders   | Coordination abnormal                                                                 | Uncommon   | -                   | -                  |
-| Nervous system disorders   | Dizziness                                                                             | Uncommon   | Common              | -                  |
-| Nervous system disorders   | Dizziness postural                                                                    | Uncommon   | -                   | -                  |
-| Nervous system disorders   | Dysgeusia                                                                             | -          | Uncommon            | -                  |
-| Nervous system disorders   | Extrapyramidal disorder                                                               | -          | Not known           | -                  |
-| Nervous system disorders   | Headache                                                                              | Common     | Common              | -                  |
-| Nervous system disorders   | Hypertonia                                                                            | -          | Very rare           | -                  |
-| Nervous system disorders   | Paraesthesia                                                                          | Uncommon   | Uncommon            | -                  |
-| Nervous system disorders   | Peripheral neuropathy,                                                                | -          | Very rare           | -                  |
-| Nervous system disorders   | Somnolence                                                                            | Uncommon   | Common              | -                  |
-| Nervous system disorders   | Syncope                                                                               | -          | Uncommon            | -                  |
-| Nervous system disorders   | Tremor                                                                                | -          | Uncommon            | -                  |
-| Nervous system disorders   | Hypoesthesia                                                                          | -          | Uncommon            | -                  |
-| Eye disorders              | Visual disturbance                                                                    | Rare       | Uncommon            | -                  |
-| Eye disorders              | Visual impairment                                                                     | Uncommon   | Uncommon            | -                  |
-| Ear and labyrinth          | Tinnitus                                                                              | Rare       | Uncommon            | -                  |
-| disorders                  | Vertigo                                                                               | Uncommon   | -                   | Uncommon           |
-| Cardiac                    | Palpitations                                                                          | Uncommon   | Common              | -                  |
-| disorders                  | Syncope                                                                               | Rare       | -                   | -                  |
-| disorders                  | Tachycardia                                                                           | Uncommon   | -                   | -                  |
-| disorders                  | Arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation) | -          | Very rare           | -                  |
-| disorders                  | Myocardial infarction                                                                 | -          | Very rare           | -                  |
-| Vascular disorders         | Flushing                                                                              | -          | Common              | -                  |
-| Vascular disorders         | Hypotension                                                                           | Rare       | Uncommon            | -                  |
-| Vascular disorders         | Orthostatic hypotension                                                               | Uncommon   | -                   | -                  |
-| Respiratory, thoracic and  | Vasculitis                                                                            | -          | Very rare Very rare | Not known Uncommon |
-| mediastinal disorders      | Cough                                                                                 | Uncommon   |                     |                    |
-|                            | Dyspnoea Pharyngolaryngeal                                                            | - Uncommon | Uncommon -          | - -                |
-|                            | pain Rhinitis                                                                         | -          | Uncommon            | -                  |
-| Gastrointestinal disorders | Abdominal discomfort,                                                                 |            | Common              |                    |
-|                            | abdominal pain upper                                                                  | Uncommon   |                     | Uncommon           |
+|                                       | Hyponatraemia                                                                         | Uncommon   | -                   | -                  |
+|---------------------------------------|---------------------------------------------------------------------------------------|------------|---------------------|--------------------|
+| Psychiatric disorders                 | Depression                                                                            | -          | Uncommon            | -                  |
+| Psychiatric disorders                 | Anxiety                                                                               | Rare       | -                   | -                  |
+| Psychiatric disorders                 | Insomnia/sleep disorders                                                              | -          | Uncommon            | -                  |
+| Psychiatric disorders                 | Mood swings                                                                           | -          | Uncommon            | -                  |
+|                                       | Confusion                                                                             | -          | Rare                | -                  |
+| Nervous system disorders              | Coordination abnormal                                                                 | Uncommon   | -                   | -                  |
+| Nervous system disorders              | Dizziness                                                                             | Uncommon   | Common              | -                  |
+| Nervous system disorders              | Dizziness postural                                                                    | Uncommon   | -                   | -                  |
+| Nervous system disorders              | Dysgeusia                                                                             | -          | Uncommon            | -                  |
+| Nervous system disorders              | Extrapyramidal disorder                                                               | -          | Not known           | -                  |
+| Nervous system disorders              | Headache                                                                              | Common     | Common              | -                  |
+| Nervous system disorders              | Hypertonia                                                                            | -          | Very rare           | -                  |
+| Nervous system disorders              | Paraesthesia                                                                          | Uncommon   | Uncommon            | -                  |
+| Nervous system disorders              | Peripheral neuropathy, neuropathy                                                     | -          | Very rare           | -                  |
+| Nervous system disorders              | Somnolence                                                                            | Uncommon   | Common              | -                  |
+| Nervous system disorders              | Syncope                                                                               | -          | Uncommon            | -                  |
+| Nervous system disorders              | Tremor                                                                                | -          | Uncommon            | -                  |
+| Nervous system disorders              | Hypoesthesia                                                                          | -          | Uncommon            | -                  |
+| Eye disorders                         | Visual disturbance                                                                    | Rare       | Uncommon            | -                  |
+|                                       | Visual impairment                                                                     | Uncommon   | Uncommon            | -                  |
+| Ear and labyrinth                     | Tinnitus                                                                              | Rare       | Uncommon            | -                  |
+| disorders                             | Vertigo                                                                               | Uncommon   | -                   | Uncommon           |
+| Cardiac                               | Palpitations                                                                          | Uncommon   | Common              | -                  |
+| disorders                             | Syncope                                                                               | Rare       | -                   | -                  |
+| disorders                             | Tachycardia                                                                           | Uncommon   | -                   | -                  |
+| disorders                             | Arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation) | -          | Very rare           | -                  |
+| disorders                             | Myocardial infarction                                                                 | -          | Very rare           | -                  |
+| Vascular disorders                    | Flushing                                                                              | -          | Common              | -                  |
+| Vascular disorders                    | Hypotension                                                                           | Rare       | Uncommon            | -                  |
+| Vascular disorders                    | Orthostatic hypotension                                                               | Uncommon   | -                   | -                  |
+| Respiratory, thoracic and mediastinal | Vasculitis Cough                                                                      | - Uncommon | Very rare Very rare | Not known Uncommon |
+|                                       | Dyspnoea                                                                              | -          | Uncommon            | -                  |
+| disorders                             | Pharyngolaryngeal pain                                                                | Uncommon   | -                   | -                  |
+|                                       | Rhinitis                                                                              | -          | Uncommon            | -                  |
+| Gastrointestinal disorders            | Abdominal discomfort, abdominal pain upper                                            | Uncommon   | Common              | Uncommon           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -409,13 +404,13 @@ Adverse reactions have been ranked under headings of frequency using the followi
 |                                                 | Hepatitis                                                        | -        | Very rare  | -         |
 |                                                 | Intrahepatic cholestasis, jaundice                               | -        | Very rare  | -         |
 | Skin and subcutaneous tissue disorders          | Alopecia                                                         | -        | Uncommon   | -         |
-| Skin and subcutaneous tissue disorders          | Angioedema                                                       | -        | Very rare  | Not known |
-| Skin and subcutaneous tissue disorders          | Dermatitis bullous                                               | -        | -          | Not known |
-| Skin and subcutaneous tissue disorders          | Erythema                                                         | Uncommon | -          | -         |
-| Skin and subcutaneous tissue disorders          | Erythema multiforme                                              | -        | Very rare  | -         |
-| Skin and subcutaneous tissue disorders          | Exanthema                                                        | Rare     | Uncommon   | -         |
-| Skin and subcutaneous tissue disorders          | Hyperhidrosis                                                    | Rare     | Uncommon   | -         |
-| Skin and subcutaneous tissue disorders          | Photosensitivity reaction                                        | -        | Uncommon   | -         |
+|                                                 | Angioedema                                                       | -        | Very rare  | Not known |
+|                                                 | Dermatitis bullous                                               | -        | -          | Not known |
+|                                                 | Erythema                                                         | Uncommon | -          | -         |
+|                                                 | Erythema multiforme                                              | -        | Very rare  | -         |
+|                                                 | Exanthema                                                        | Rare     | Uncommon   | -         |
+|                                                 | Hyperhidrosis                                                    | Rare     | Uncommon   | -         |
+|                                                 | Photosensitivity reaction                                        | -        | Uncommon   | -         |
 |                                                 | Pruritus                                                         | Rare     | Uncommon   | Not known |
 |                                                 | Purpura                                                          | -        | Uncommon   | -         |
 |                                                 | Rash                                                             | Uncommon | Uncommon   | Not known |
@@ -431,7 +426,7 @@ Adverse reactions have been ranked under headings of frequency using the followi
 |                                                 | Muscle spasm                                                     | Rare     | Uncommon   | -         |
 |                                                 | Myalgia                                                          | -        | Uncommon   | Not known |
 |                                                 | Ankle swelling                                                   | -        | Common     | -         |
-|                                                 | Sensation of                                                     | Rare     | -          | -         |
+|                                                 | Sensation of heaviness                                           | Rare     | -          | -         |
 | Renal and urinary disorders                     | Blood creatinine increased                                       | -        | -          | Not known |
 |                                                 | Micturition disorder                                             | -        | Uncommon   | -         |
 |                                                 | Nocturia                                                         | -        | Uncommon   | -         |
@@ -442,9 +437,9 @@ Adverse reactions have been ranked under headings of frequency using the followi
 
 |                                                      | Renal failure and impairment   | -      | -        | Not known   |
 |------------------------------------------------------|--------------------------------|--------|----------|-------------|
-| Reproductive system and                              | Impotence                      | -      | Uncommon | -           |
-| Reproductive system and                              | Erectile dysfunction           | Rare   | -        | -           |
-| breast disorders                                     | Gynaecomastia                  | -      | Uncommon | -           |
+| Reproductive system and breast                       | Impotence                      | -      | Uncommon | -           |
+| Reproductive system and breast                       | Erectile dysfunction           | Rare   | -        | -           |
+| disorders                                            | Gynaecomastia                  | -      | Uncommon | -           |
 | General disorders and administration site conditions | Asthenia                       | Common | Uncommon | -           |
 | General disorders and administration site conditions | Discomfort, malaise            | -      | Uncommon | -           |
 | General disorders and administration site conditions | Fatigue                        | Common | Common   | Uncommon    |
@@ -465,13 +460,13 @@ Adverse reactions have been ranked under headings of frequency using the followi
 
 Peripheral oedema, a recognised adverse reaction of amlodipine, was generally observed at a lower incidence in patients who received the amlodipine/valsartan combination than in those who received amlodipine alone. In double-blind, controlled clinical trials, the incidence of peripheral oedema by dose was as follows:
 
-| %of patients who experienced   | %of patients who experienced   |   Valsartan (mg) | Valsartan (mg)   | Valsartan (mg)   |   Valsartan (mg) |   Valsartan (mg) |
-|--------------------------------|--------------------------------|------------------|------------------|------------------|------------------|------------------|
-| peripheral                     | peripheral                     |              0   | 40               | 80               |            160   |            320   |
-|                                | 0                              |              3   | 5.5              | 2.4              |              1.6 |              0.9 |
-|                                | 2.5                            |              8   | 2.3              | 5.4              |              2.4 |              3.9 |
-|                                | 5                              |              3.1 | 4.8              | 2.3              |              2.1 |              2.4 |
-|                                | 10                             |             10.3 | NA               | NA               |              9   |              9.5 |
+| %of patients who experienced peripheral oedema   |   %of patients who experienced peripheral oedema |   Valsartan (mg) | Valsartan (mg)   | Valsartan (mg)   |   Valsartan (mg) |   Valsartan (mg) |
+|--------------------------------------------------|--------------------------------------------------|------------------|------------------|------------------|------------------|------------------|
+|                                                  |                                                  |                0 | 40               | 80               |              160 |              320 |
+|                                                  |                                                0 |              3.0 | 5.5              | 2.4              |              1.6 |              0.9 |
+|                                                  |                                              2.5 |              8.0 | 2.3              | 5.4              |              2.4 |              3.9 |
+|                                                  |                                                5 |              3.1 | 4.8              | 2.3              |              2.1 |              2.4 |
+|                                                  |                                               10 |             10.3 | NA               | NA               |              9.0 |              9.5 |
 
 The mean incidence of peripheral oedema evenly weighted across all doses was 5.1 % with the amlodipine/valsartan combination.
 
@@ -487,9 +482,7 @@ Adverse reactions previously reported with one of the individual components (aml
 
 <div style=\"page-break-after: always\"></div>
 
-Very rare
-
-Leukocytopenia, thrombocytopenia, allergic reactions, hyperglycaemia, hypertonia, peripheral neuropathy, myocardial infarction, arrhythmia (including bradycardia, ventricular tachycardia and atrial fibrillation), vasculitis, pancreatitis, gastritis, gingival hyperplasia, hepatitis, jaundice, hepatic enzymes increased*, angioedema, erythema multiforme, urticaria, exfoliative dermatitis, Stevens-Johnson syndrome, Quincke oedema, photosensitivity.
+Very rare Leukocytopenia, thrombocytopenia, allergic reactions, hyperglycaemia, hypertonia, peripheral neuropathy, myocardial infarction, arrhythmia (including bradycardia, ventricular tachycardia and atrial fibrillation), vasculitis, pancreatitis, gastritis, gingival hyperplasia, hepatitis, jaundice, hepatic enzymes increased*, angioedema, erythema multiforme, urticaria, exfoliative dermatitis, Stevens-Johnson syndrome, Quincke oedema, photosensitivity.
 
 Not known
 
@@ -501,9 +494,7 @@ Exceptional cases of extrapyramidal syndrome have been reported.
 
 ## Valsartan
 
-Not known
-
-Decrease in haemoglobin, decrease in haematocrit, neutropenia, thrombocytopenia, increase of serum potassium, elevation of liver function values including increase of serum bilirubin, renal failure and impairment, elevation of serum creatinine, angioedema, myalgia, vasculitis, hypersensitivity including serum sickness.
+Not known Decrease in haemoglobin, decrease in haematocrit, neutropenia, thrombocytopenia, increase of serum potassium, elevation of liver function values including increase of serum bilirubin, renal failure and impairment, elevation of serum creatinine, angioedema, myalgia, vasculitis, hypersensitivity including serum sickness.
 
 ## Reporting of suspected adverse reactions
 
@@ -539,7 +530,7 @@ The combination of amlodipine and valsartan produces dose-related additive reduc
 
 ## Placebo-controlled trials
 
-Over 1,400 hypertensive patients received amlodipine/valsartan once daily in two placebo-controlled trials. Adults with mild to moderate uncomplicated essential hypertension (mean sitting diastolic blood pressure ≥95 and &lt;110 mmHg) were enrolled. Patients with high cardiovascular risks - heart failure, type I and poorly controlled type II diabetes and history of myocardial infarction or stroke within one year - were excluded.
+Over 1,400 hypertensive patients received amlodipine/valsartan once daily in two placebo-controlled trials. Adults with mild to moderate uncomplicated essential hypertension (mean sitting diastolic blood pressure ≥ 95 and &lt;110 mmHg) were enrolled. Patients with high cardiovascular risks - heart failure, type I and poorly controlled type II diabetes and history of myocardial infarction or stroke within one year - were excluded.
 
 ## Active-controlled trials in patients who were non-responders to monotherapy
 
@@ -547,11 +538,11 @@ A multicentre, randomised, double-blind, active-controlled, parallel-group trial
 
 A multicentre, randomised, double-blind, active-controlled, parallel-group trial showed normalisation of blood pressure (trough sitting diastolic blood pressure &lt;90 mmHg at the end of the trial) in patients not adequately controlled on amlodipine 10 mg in 78 % of patients treated with amlodipine/valsartan 10 mg/160 mg, compared to 67 % of patients remaining on amlodipine 10 mg. The addition of valsartan 160 mg produced an additional reduction in systolic/diastolic blood pressure of 2.9/2.1 mmHg compared to patients who remained on amlodipine 10 mg only.
 
-Amlodipine/valsartan was also studied in an active-controlled study of 130 hypertensive patients with mean sitting diastolic blood pressure ≥110 mmHg and &lt;120 mmHg. In this study (baseline blood pressure 171/113 mmHg), an amlodipine/valsartan regimen of 5 mg/160 mg titrated to 10 mg/160 mg reduced sitting blood pressure by 36/29 mmHg as compared to 32/28 mmHg with a regimen of lisinopril/hydrochlorothiazide 10 mg/12.5 mg titrated to 20 mg/12.5 mg.
+Amlodipine/valsartan was also studied in an active-controlled study of 130 hypertensive patients with mean sitting diastolic blood pressure ≥ 110 mmHg and &lt;120 mmHg. In this study (baseline blood pressure 171/113 mmHg), an amlodipine/valsartan regimen of 5 mg/160 mg titrated to 10 mg/160 mg reduced sitting blood pressure by 36/29 mmHg as compared to 32/28 mmHg with a regimen of lisinopril/hydrochlorothiazide 10 mg/12.5 mg titrated to 20 mg/12.5 mg.
 
 In two long-term follow-up studies the effect of amlodipine/valsartan was maintained for over one year. Abrupt withdrawal of amlodipine/valsartan has not been associated with a rapid increase in blood pressure.
 
-Age, gender, race or body mass index (≥30 kg/m 2 , &lt;30 kg/m 2 ) did not influence the response to amlodipine/valsartan.
+Age, gender, race or body mass index ( ≥ 30 kg/m 2 , &lt;30 kg/m 2 ) did not influence the response to amlodipine/valsartan.
 
 Amlodipine/valsartan has not been studied in any patient population other than hypertension.
 
@@ -579,11 +570,9 @@ A randomised double-blind morbidity-mortality study called the Antihypertensive 
 
 A total of 33,357 hypertensive patients aged 55 or older were randomised and followed for a mean of 4.9  years. The patients had at least one additional coronary heart disease risk factor, including: previous myocardial infarction or stroke (&gt;6 months prior to enrollment) or documentation of other atherosclerotic cardiovascular disease (overall 51.5 %), type 2 diabetes (36.1 %), high density lipoprotein - cholesterol &lt;35 mg/dl or &lt;0.906 mmol/l (11.6 %), left ventricular hypertrophy diagnosed by electrocardiogram or echocardiography (20.9 %), current cigarette smoking (21.9 %).
 
-The primary endpoint was a composite of fatal coronary heart disease or non-fatal myocardial infarction. There was no significant difference in the primary endpoint between amlodipine-based therapy and chlorthalidone-based therapy: risk ratio (RR) 0.98 95 % CI (0.90-1.07) p=0.65. Among secondary endpoints, the incidence of heart failure (component of a composite combined cardiovascular endpoint) was significantly higher in the amlodipine group as compared to the chlorthalidone group (10.2 % versus 7.7 %, RR 1.38, 95 % CI [1.25-1.52] p&lt;0.001). However, there
+The primary endpoint was a composite of fatal coronary heart disease or non-fatal myocardial infarction. There was no significant difference in the primary endpoint between amlodipine-based therapy and chlorthalidone-based therapy: risk ratio (RR) 0.98 95 % CI (0.90-1.07) p=0.65. Among secondary endpoints, the incidence of heart failure (component of a composite combined cardiovascular endpoint) was significantly higher in the amlodipine group as compared to the chlorthalidone group (10.2 % versus 7.7 %, RR 1.38, 95 % CI [1.25-1.52] p&lt;0.001). However, there was no significant difference in all-cause mortality between amlodipine-based therapy and chlorthalidone-based therapy RR 0.96 95 % CI [0.89-1.02] p=0.20.
 
 <div style=\"page-break-after: always\"></div>
-
-was no significant difference in all-cause mortality between amlodipine-based therapy and chlorthalidone-based therapy RR 0.96 95 % CI [0.89-1.02] p=0.20.
 
 ## Valsartan
 
@@ -605,11 +594,9 @@ These studies have shown no significant beneficial effect on renal and/or cardio
 
 ACE inhibitors and ARBs should therefore not be used concomitantly in patients with diabetic nephropathy (see section 4.4).
 
-ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE inhibitor or an ARB in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in
+ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE inhibitor or an ARB in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -657,7 +644,7 @@ Valsartan is not transformed to a high extent as only about 20 % of dose is reco
 
 ## Elimination
 
-Valsartan shows multiexponential decay kinetics (t½α &lt;1 h and t½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83 % of dose) and urine (about 13 % of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30 % of total clearance). The half-life of valsartan is 6 hours.
+Valsartan shows multiexponential decay kinetics (t½ α &lt;1 h and t ½ß about 9 h). Valsartan is primarily eliminated in faeces (about 83 % of dose) and urine (about 13 % of dose), mainly as unchanged drug. Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30 % of total clearance). The half-life of valsartan is 6 hours.
 
 ## Special populations
 
@@ -699,11 +686,11 @@ Reproductive studies in rats and mice have shown delayed date of delivery, prolo
 
 ## Impairment of fertility
 
-There was no effect on the fertility of rats treated with amlodipine (males for 64 days and females 14 days prior to mating) at doses up to 10 mg/kg/day (8 times* the maximum recommended human dose of 10 mg on a mg/m 2  basis). In another rat study in which male rats were treated with amlodipine besilate for 30 days at a dose comparable with the human dose based on mg/kg, decreased plasma follicle-stimulating hormone and testosterone were found as well as decreases in sperm density and in the number of mature spermatids and Sertoli cells.
+There was no effect on the fertility of rats treated with amlodipine (males for 64 days and females 14 days prior to mating) at doses up to 10 mg/kg/day (8 times* the maximum recommended human dose of 10 mg on a mg/m 2 basis). In another rat study in which male rats were treated with amlodipine besilate for 30 days at a dose comparable with the human dose based on mg/kg, decreased plasma follicle-stimulating hormone and testosterone were found as well as decreases in sperm density and in the number of mature spermatids and Sertoli cells.
 
 ## Carcinogenesis, mutagenesis
 
-Rats and mice treated with amlodipine in the diet for two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg/kg/day showed no evidence of carcinogenicity. The highest dose (for mice, similar to, and for rats twice* the maximum recommended clinical dose of 10 mg on a mg/m 2  basis) was close to the maximum tolerated dose for mice but not for rats.
+Rats and mice treated with amlodipine in the diet for two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg/kg/day showed no evidence of carcinogenicity. The highest dose (for mice, similar to, and for rats twice* the maximum recommended clinical dose of 10 mg on a mg/m 2 basis) was close to the maximum tolerated dose for mice but not for rats.
 
 Mutagenicity studies revealed no drug related effects at either the gene or chromosome levels.
 
@@ -713,9 +700,9 @@ Mutagenicity studies revealed no drug related effects at either the gene or chro
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
-In rats, maternally toxic doses (600 mg/kg/day) during the last days of gestation and lactation led to lower survival, lower weight gain and delayed development (pinna detachment and ear-canal opening) in the offspring (see section 4.6). These doses in rats (600 mg/kg/day) are approximately 18 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
+In rats, maternally toxic doses (600 mg/kg/day) during the last days of gestation and lactation led to lower survival, lower weight gain and delayed development (pinna detachment and ear-canal opening) in the offspring (see section 4.6). These doses in rats (600 mg/kg/day) are approximately 18 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
 
-In non-clinical safety studies, high doses of valsartan (200 to 600 mg/kg body weight) caused in rats a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit) and evidence of changes in renal haemodynamics (slightly raised blood urea nitrogen, and renal tubular hyperplasia and basophilia in males). These doses in rats (200 and 600 mg/kg/day) are approximately 6 and 18 times the maximum recommended human dose on a mg/m 2  basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
+In non-clinical safety studies, high doses of valsartan (200 to 600 mg/kg body weight) caused in rats a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit) and evidence of changes in renal haemodynamics (slightly raised blood urea nitrogen, and renal tubular hyperplasia and basophilia in males). These doses in rats (200 and 600 mg/kg/day) are approximately 6 and 18 times the maximum recommended human dose on a mg/m 2 basis (calculations assume an oral dose of 320 mg/day and a 60 kg patient).
 
 In marmosets at comparable doses, the changes were similar though more severe, particularly in the kidney where the changes developed to a nephropathy including raised blood urea nitrogen and creatinine.
 
@@ -729,7 +716,9 @@ Hypertrophy of the renal juxtaglomerular cells was also seen in both species. Al
 
 ## Amlodipine/Valsartan Mylan 5 mg/80 mg film-coated tablets
 
-Tablet core Cellulose microcrystalline Crospovidone Magnesium stearate Colloidal anhydrous silica
+## Tablet core
+
+Cellulose microcrystalline Crospovidone Magnesium stearate Colloidal anhydrous silica
 
 ## Coating
 
@@ -739,9 +728,7 @@ Hypromellose Titanium dioxide (E171) Macrogol 8000 Talc Iron oxide yellow (E172)
 
 ## Tablet core
 
-Cellulose microcrystalline
-
-Crospovidone Magnesium stearate Colloidal anhydrous silica Iron oxide yellow
+Cellulose microcrystalline Crospovidone Magnesium stearate Colloidal anhydrous silica Iron oxide yellow
 
 Coating Hypromellose Titanium dioxide (E171) Macrogol 8000 Talc Iron oxide yellow (E172) Vanillin
 
@@ -753,9 +740,7 @@ Cellulose microcrystalline Crospovidone Magnesium stearate Colloidal anhydrous s
 
 ## Coating
 
-Hypromellose Titanium dioxide (E171) Macrogol 8000 Talc Iron oxide yellow (E172) Iron oxide red (E172) Iron oxide black (E172)
-
-Vanillin
+Hypromellose Titanium dioxide (E171) Macrogol 8000 Talc Iron oxide yellow (E172) Iron oxide red (E172) Iron oxide black (E172) Vanillin
 
 <div style=\"page-break-after: always\"></div>
 
@@ -793,7 +778,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited
+
+Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -809,9 +796,7 @@ EU/1/16/1092/014 EU/1/16/1092/015 EU/1/16/1092/016 EU/1/16/1092/017 EU/1/16/1092
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 22 March 2016
-
-Date of latest renewal: 14 January 2021
+Date of first authorisation: 22 March 2016 Date of latest renewal: 14 January 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -834,7 +819,7 @@ Name and address of the manufacturers responsible for batch release
 
 Mylan Hungary Kft. Mylan utca 1, Komárom - 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352 Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352 Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -844,20 +829,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -933,11 +918,11 @@ For Bottle packs: After first opening use within 100 days. Open date: \\_\\_\\_\
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
@@ -946,14 +931,12 @@ Ireland
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/16/1092/001 EU/1/16/1092/002 EU/1/16/1092/003 EU/1/16/1092/004 EU/1/16/1092/005 EU/1/16/1092/006 EU/1/16/1092/007 EU/1/16/1092/008 EU/1/16/1092/009 EU/1/16/1092/010 EU/1/16/1092/011 EU/1/16/1092/012
-
-EU/1/16/1092/013
+EU/1/16/1092/001 EU/1/16/1092/002 EU/1/16/1092/003 EU/1/16/1092/004 EU/1/16/1092/005 EU/1/16/1092/006 EU/1/16/1092/007 EU/1/16/1092/008 EU/1/16/1092/009 EU/1/16/1092/010 EU/1/16/1092/011 EU/1/16/1092/012 EU/1/16/1092/013
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
+Lot amlodipine/valsartan mylan 5 mg/80 mg
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -966,31 +949,29 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-amlodipine/valsartan mylan 5 mg/80 mg
-
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Amlodipine/Valsartan Mylan 5 mg/80 mg tablets amlodipine/valsartan
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1025,17 +1006,15 @@ Each tablet contains 5 mg amlodipine (as amlodipine besilate) and 80 mg valsarta
 
 ## Film-coated tablet.
 
-28 film-coated tablets
+- 28 film-coated tablets
 
-56 film-coated tablets
+- 56 film-coated tablets
 
-98 film-coated tablets
+- 98 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1060,18 +1039,18 @@ Discard date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1090,8 +1069,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1130,8 +1109,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besilate) and 160 mg valsart
 
 - 28 film-coated tablets
 - 56 film-coated tablets
-
-98 film-coated tablets
+- 98 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1158,23 +1136,23 @@ For Bottle packs: After first opening use within 100 days. Open date: \\_\\_\\_\
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/16/1092/014 EU/1/16/1092/015 EU/1/16/1092/016 EU/1/16/1092/017 EU/1/16/1092/018 EU/1/16/1092/019 EU/1/16/1092/020 EU/1/16/1092/021 EU/1/16/1092/022 EU/1/16/1092/023 EU/1/16/1092/024 EU/1/16/1092/025 EU/1/16/1092/026
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
+Lot amlodipine/valsartan mylan 5 mg/160 mg
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -1187,31 +1165,29 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-amlodipine/valsartan mylan 5 mg/160 mg
-
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Amlodipine/Valsartan Mylan 5 mg/160 mg tablets amlodipine/valsartan
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1246,7 +1222,7 @@ Each tablet contains 5 mg amlodipine (as amlodipine besilate) and 160 mg valsart
 
 ## Film-coated tablet
 
-- 28 film-coated tablets
+28 film-coated tablets
 
 56 film-coated tablets
 
@@ -1258,7 +1234,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1281,38 +1257,36 @@ Discard date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1373,20 +1347,16 @@ Keep out of the sight and reach of children.
 
 EXP
 
-For Bottle packs: After first opening use within 100 days.
-
-Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-Discard date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+For Bottle packs: After first opening use within 100 days. Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Discard date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
@@ -1395,14 +1365,12 @@ Ireland
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/16/1092/027 EU/1/16/1092/028 EU/1/16/1092/029 EU/1/16/1092/030 EU/1/16/1092/031 EU/1/16/1092/032 EU/1/16/1092/033 EU/1/16/1092/034 EU/1/16/1092/035 EU/1/16/1092/036 EU/1/16/1092/037 EU/1/16/1092/038
-
-EU/1/16/1092/039
+EU/1/16/1092/027 EU/1/16/1092/028 EU/1/16/1092/029 EU/1/16/1092/030 EU/1/16/1092/031 EU/1/16/1092/032 EU/1/16/1092/033 EU/1/16/1092/034 EU/1/16/1092/035 EU/1/16/1092/036 EU/1/16/1092/037 EU/1/16/1092/038 EU/1/16/1092/039
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
+Lot amlodipine/valsartan Mylan 10 mg/160 mg
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -1415,31 +1383,29 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-amlodipine/valsartan Mylan 10 mg/160 mg
-
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Amlodipine/Valsartan Mylan 10 mg/160 mg tablets amlodipine/valsartan
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1486,7 +1452,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1509,15 +1475,13 @@ Discard date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
-
-Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1539,8 +1503,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1574,8 +1538,8 @@ amlodipine/valsartan
 
 Amlodipine/Valsartan Mylan tablets contain two active substances called amlodipine and valsartan. Both of these substances help to control high blood pressure.
 
-- -Amlodipine belongs to a group of substances called 'calcium channel blockers'. Amlodipine stops calcium from moving into the blood vessel wall which stops the blood vessels from tightening.
-- -Valsartan belongs to a group of substances called 'angiotensin-II receptor antagonists'. Angiotensin II is produced by the body and makes the blood vessels tighten, thus increasing the blood pressure. Valsartan works by blocking the effect of angiotensin II.
+-  Valsartan belongs to a group of substances called 'angiotensin-II receptor antagonists'. Angiotensin II is produced by the body and makes the blood vessels tighten, thus increasing the blood pressure. Valsartan works by blocking the effect of angiotensin II.
+-  Amlodipine belongs to a group of substances called 'calcium channel blockers'. Amlodipine stops calcium from moving into the blood vessel wall which stops the blood vessels from tightening.
 
 This means that both of these substances help to stop the blood vessels tightening. As a result, the blood vessels relax and blood pressure is lowered.
 
@@ -1585,17 +1549,17 @@ Amlodipine/Valsartan Mylan is used to treat high blood pressure in adults whose 
 
 ## Do not take Amlodipine/Valsartan Mylan:
 
-- -if you are allergic to amlodipine or to any other calcium channel blockers. This may involve itching, reddening of the skin or difficulty in breathing.
-- -if you are allergic to valsartan or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, talk to your doctor before taking Amlodipine/Valsartan Mylan.
-- -if you have severe liver problems or bile problems such as biliary cirrhosis or cholestasis.
-- -if you are more than 3 months pregnant (It is also better to avoid Amlodipine/Valsartan Mylan in early pregnancy, see Pregnancy section).
-- -if you have severe low blood pressure (hypotension).
-- -if you have narrowing of the aortic valve (aortic stenosis) or cardiogenic shock (a condition where your heart is unable to supply enough blood to the body).
-- -if you suffer from heart failure after a heart attack.
+-  if you are allergic to amlodipine or to any other calcium channel blockers. This may involve itching, reddening of the skin or difficulty in breathing.
+-  if you are allergic to valsartan or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, talk to your doctor before taking Amlodipine/Valsartan Mylan.
+-  if you have severe liver problems or bile problems such as biliary cirrhosis or cholestasis.
+-  if you are more than 3 months pregnant (It is also better to avoid Amlodipine/Valsartan Mylan in early pregnancy, see Pregnancy section).
+-  if you have severe low blood pressure (hypotension).
+-  if you have narrowing of the aortic valve (aortic stenosis) or cardiogenic shock (a condition where your heart is unable to supply enough blood to the body).
+-  if you suffer from heart failure after a heart attack.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## If any of the above applies to you, do not take Amlodipine/Valsartan Mylan and talk to your doctor.
 
@@ -1603,18 +1567,18 @@ Amlodipine/Valsartan Mylan is used to treat high blood pressure in adults whose 
 
 Talk to your doctor before taking Amlodipine/Valsartan Mylan:
 
-- -if you have been sick (vomiting or diarrhoea).
-- -if you have liver or kidney problems.
-- -if you have had a kidney transplant or if you had been told that you have a narrowing of your kidney arteries.
-- -if you have a condition affecting the renal glands called 'primary hyperaldosteronism'.
-- -if you have had heart failure or have experienced a heart attack. Follow your doctor's instructions for the starting dose carefully. Your doctor may also check your kidney function.
-- -if your doctor has told you that you have a narrowing of the valves in your heart (called 'aortic or mitral stenosis') or that the thickness of your heart muscle is abnormally increased (called 'obstructive hypertrophic cardiomyopathy').
-- -if you have experienced swelling, particularly of the face and throat, while taking other medicines (including angiotensin converting enzyme inhibitors). If you get these symptoms, stop taking Amlodipine/Valsartan Mylan and contact your doctor straight away. You should never take Amlodipine/Valsartan Mylan again.
-- -if you have kidney problems where the blood supply to your kidneys is reduced (renal artery stenosis)
-- -if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Amlodipine/Valsartan Mylan. Your doctor will decide on further treatment. Do not stop taking Amlodipine/Valsartan Mylan on your own.
-- -if you are taking any of the following medicines used to treat high blood pressure:
-- -an angiotensin converting enzyme (ACE) inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
-- -aliskiren.
+-  if you have been sick (vomiting or diarrhoea).
+-  if you have liver or kidney problems.
+-  if you have had a kidney transplant or if you had been told that you have a narrowing of your kidney arteries.
+-  if you have a condition affecting the renal glands called 'primary hyperaldosteronism'.
+-  if you have had heart failure or have experienced a heart attack. Follow your doctor's instructions for the starting dose carefully. Your doctor may also check your kidney function.
+-  if you have experienced swelling, particularly of the face and throat, while taking other medicines (including angiotensin converting enzyme inhibitors). If you get these symptoms, stop taking Amlodipine/Valsartan Mylan and contact your doctor straight away. You should never take Amlodipine/Valsartan Mylan again.
+-  if your doctor has told you that you have a narrowing of the valves in your heart (called 'aortic or mitral stenosis') or that the thickness of your heart muscle is abnormally increased (called 'obstructive hypertrophic cardiomyopathy').
+-  if you have kidney problems where the blood supply to your kidneys is reduced (renal artery stenosis)
+-  if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Amlodipine/Valsartan Mylan. Your doctor will decide on further treatment. Do not stop taking Amlodipine/Valsartan Mylan on your own.
+-  if you are taking any of the following medicines used to treat high blood pressure:
+-  an angiotensin converting enzyme (ACE) inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
+-  aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -1628,29 +1592,31 @@ Do not give this medicine to children and adolescents below 18 years old.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Your doctor may need to change your dose and/or to take other precautions. In some cases you may have to stop taking one of the medicines. This applies especially to the medicines listed below:
 
-- -ACE inhibitors or aliskiren (see also information under the headings 'Do not take Amlodipine/Valsartan Mylan' and 'Warnings and precautions');
-- -diuretics (a type of medicine also called 'water tablets' which increases the amount of urine you produce);
-- -lithium (a medicine used to treat some types of depression);
-- -potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium and other substances that may increase potassium levels;
-- -certain types of painkillers called non-steroidal anti-inflammatory medicines (NSAIDs) or selective cyclooxygenase-2 inhibitors (COX-2 inhibitors). Your doctor may also check your kidney function;
-- -anticonvulsant agents (e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone);
+-  ACE inhibitors or aliskiren (see also information under the headings 'Do not take Amlodipine/Valsartan Mylan' and 'Warnings and precautions');
+-  diuretics (a type of medicine also called 'water tablets' which increases the amount of urine you produce);
+-  lithium (a medicine used to treat some types of depression);
+-  potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium and other substances that may increase potassium levels;
+-  certain types of painkillers called non-steroidal anti-inflammatory medicines (NSAIDs) or selective cyclooxygenase-2 inhibitors (COX-2 inhibitors). Your doctor may also check your kidney function;
+-  anticonvulsant agents (e.g. carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone);
 
 <div style=\"page-break-after: always\"></div>
 
-- -St. John's wort;
-- -nitroglycerin and other nitrates, or other substances called 'vasodilators';
-- -medicines used for HIV/AIDS (e.g. ritonavir, indinavir, nelfinavir);
-- -medicines used to treat fungal infections (e.g. ketoconazole, itraconazole);
-- -medicines used to treat bacterial infections (such as rifampicin, erythromycin, clarithromycin, talithromycin);
-- -verapamil, diltiazem (heart medicines);
-- -simvastatin (a medicine used to control high cholesterol levels);
-- -dantrolene (infusion for severe body temperature abnormalities);
-- -tacrolimus (used to control your body's immune response, enabling your body to accept the transplanted organ);
-- -medicines used to protect against transplant rejection (ciclosporin).
+-  St. John's wort;
+-  nitroglycerin and other nitrates, or other substances called 'vasodilators';
+-  medicines used for HIV/AIDS (e.g. ritonavir, indinavir, nelfinavir);
+-  medicines used to treat fungal infections (e.g. ketoconazole, itraconazole);
+-  medicines used to treat bacterial infections (such as rifampicin, erythromycin, clarithromycin, talithromycin);
+-  verapamil, diltiazem (heart medicines);
+-  simvastatin (a medicine used to control high cholesterol levels);
+-  dantrolene (infusion for severe body temperature abnormalities);
+-  tacrolimus (used to control your body's immune response, enabling your body to accept the transplanted organ);
+-  medicines used to protect against transplant rejection (ciclosporin).
 
 ## Amlodipine/Valsartan Mylan with food and drink
 
-Grapefruit and grapefruit juice should not be consumed by people who are taking Amlodipine/Valsartan Mylan. This is because grapefruit and grapefruit juice can lead to an increase in the blood levels of the active substance amlodipine, which can cause an unpredictable increase in the blood pressure lowering effect of Amlodipine/Valsartan Mylan.
+Grapefruit and grapefruit juice should not be consumed by people who are taking
+
+Amlodipine/Valsartan Mylan. This is because grapefruit and grapefruit juice can lead to an increase in the blood levels of the active substance amlodipine, which can cause an unpredictable increase in the blood pressure lowering effect of Amlodipine/Valsartan Mylan.
 
 ## Pregnancy and breast-feeding
 
@@ -1660,7 +1626,7 @@ You must tell your doctor if you think you are (or might become) pregnant. Your 
 
 ## Breast-feeding
 
-Tell your doctor if you are breast-feeding or about to start breast-feeding.
+## Tell your doctor if you are breast-feeding or about to start breast-feeding.
 
 Amlodipine has been shown to pass into breast milk in small amounts.
 
@@ -1678,9 +1644,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 The usual dose of Amlodipine/Valsartan Mylan is one tablet per day.
 
-- -It is preferable to take your medicine at the same time each day.
-- -Swallow the tablets with a glass of water.
-- -You can take Amlodipine/Valsartan Mylan with or without food. Do not take Amlodipine/Valsartan Mylan with grapefruit or grapefruit juice.
+-  It is preferable to take your medicine at the same time each day.
+-  Swallow the tablets with a glass of water.
+-  You can take Amlodipine/Valsartan Mylan with or without food. Do not take Amlodipine/Valsartan Mylan with grapefruit or grapefruit juice.
 
 Depending on how you respond to the treatment, your doctor may suggest a higher or lower strength.
 
@@ -1694,7 +1660,9 @@ Your doctor should exercise caution when increasing your dose.
 
 ## If you take more Amlodipine/Valsartan Mylan than you should
 
-If you have taken too many tablets of Amlodipine/Valsartan Mylan, consult a doctor immediately. Excess fluid may accumulate in your lungs (pulmonary oedema) causing shortness of breath that may develop up to 24-48 hours after intake.
+If you have taken too many tablets of Amlodipine/Valsartan Mylan, consult a doctor immediately.
+
+Excess fluid may accumulate in your lungs (pulmonary oedema) causing shortness of breath that may develop up to 24-48 hours after intake.
 
 ## If you forget to take Amlodipine/Valsartan Mylan
 
@@ -1714,7 +1682,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 A few patients have experienced these serious side effects. If any of the following happen, tell your doctor straight away:
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 Allergic reaction with symptoms such as rash, itching, swelling of face or lips or tongue, difficulty breathing, low blood pressure (feeling of faintness, light-headedness).
 
@@ -1724,7 +1692,7 @@ Intestinal angioedema: a swelling in the gut presenting with symptoms like abdom
 
 ## Other possible side effects of Amlodipine/Valsartan Mylan:
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 Influenza (flu); blocked nose, sore throat and discomfort when swallowing; headache; swelling of arms, hands, legs, ankles or feet; tiredness; asthenia (weakness); redness and warm feeling of the face and/or neck; low level of potassium in blood.
 
@@ -1746,12 +1714,12 @@ Side effects reported with amlodipine or valsartan alone and either not observed
 
 ## Consult a doctor immediately if you experience any of the following very rare, severe side effects after taking this medicine:
 
-- -Sudden wheeziness, chest pain, shortness of breath or difficulty in breathing.
-- -Swelling of eyelids, face or lips.
-- -Swelling of the tongue and throat which causes great difficulty breathing.
-- -Severe skin reactions including intense skin rash, hives, reddening of the skin over your whole body, severe itching, blistering, peeling and swelling of the skin, inflammation of the mucous membranes (Stevens-Johnson Syndrome, toxic epidermal necrolysis) or other allergic reactions.
-- -Heart attack, abnormal heart beat.
-- -Inflamed pancreas, which may cause severe abdominal and back pain accompanied with feeling of being very unwell.
+-  Sudden wheeziness, chest pain, shortness of breath or difficulty in breathing.
+-  Swelling of eyelids, face or lips.
+-  Swelling of the tongue and throat which causes great difficulty breathing.
+-  Severe skin reactions including intense skin rash, hives, reddening of the skin over your whole body, severe itching, blistering, peeling and swelling of the skin, inflammation of the mucous membranes (Stevens-Johnson Syndrome, toxic epidermal necrolysis) or other allergic reactions.
+-  Heart attack, abnormal heart beat.
+-  Inflamed pancreas, which may cause severe abdominal and back pain accompanied with feeling of being very unwell.
 
 The following side effects have been reported. If any of these cause you problems or if they last for more than one week, you should contact your doctor.
 
@@ -1771,7 +1739,9 @@ Decreased number of white blood cells, decrease in blood platelets which may res
 
 ## Valsartan
 
-Uncommon (may affect up to 1 in 100 people) Vertigo, tiredness
+## Uncommon (may affect up to 1 in 100 people)
+
+Vertigo, tiredness
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -1793,7 +1763,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
-For bottle packs: After first opening use within 100 days. This medicine does not require any special storage conditions.
+## For bottle packs: After first opening use within 100 days.
+
+This medicine does not require any special storage conditions.
 
 Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
 
@@ -1827,11 +1799,17 @@ The other ingredients are cellulose microcrystalline; crospovidone; magnesium st
 
 ## What Amlodipine/Valsartan Mylan looks like and contents of the pack
 
-Amlodipine/Valsartan Mylan 5 mg/80 mg film-coated tablets Amlodipine/Valsartan Mylan 5 mg/80 mg film-coated tablets (tablets) are light yellow, round, biconvex film-coated tablets marked with 'AV1' on one side and 'M' on the other side.
+Amlodipine/Valsartan Mylan 5 mg/80 mg film-coated tablets
 
-Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets (tablets) are yellow, oval, biconvex film-coated tablets marked with 'AV2' on one side and 'M' on the other side.
+Amlodipine/Valsartan Mylan 5 mg/80 mg film-coated tablets (tablets) are light yellow, round, biconvex film-coated tablets marked with 'AV1' on one side and 'M' on the other side.
 
-Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets (tablets) are light brown, oval, biconvex film-coated tablets marked with 'AV3' on one side and 'M' on the other side.
+## Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets
+
+Amlodipine/Valsartan Mylan 5 mg/160 mg film-coated tablets (tablets) are yellow, oval, biconvex film-coated tablets marked with 'AV2' on one side and 'M' on the other side.
+
+## Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets
+
+Amlodipine/Valsartan Mylan 10 mg/160 mg film-coated tablets (tablets) are light brown, oval, biconvex film-coated tablets marked with 'AV3' on one side and 'M' on the other side.
 
 Amlodipine/Valsartan Mylan is available in blister packs containing 14, 28, 30, 56, 90 or 98 tablets. All packs are available in perforated unit dose blisters; the 14, 28, 56 and 98 tablet packs are also available in standard blisters.
 
@@ -1843,9 +1821,11 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-Mylan Hungary Kft. Mylan utca 1, Komárom - 2900 Hungary
+Mylan Hungary Kft.
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352 Germany
+Mylan utca 1, Komárom - 2900 Hungary
+
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352 Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1863,19 +1843,25 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
-Viatris (Belgique/Belgien)
+Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-## Česká republika
+(Belgique/Belgien)
 
-Viatris CZ s.r.o. Tel: + 420 222 004 400
+## Č eská republika
+
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
 
 ## Magyarország
 
@@ -1889,9 +1875,9 @@ Malta
 
 Viatris ApS
 
-Tlf: +45 28 11 69 32
-
 <div style=\"page-break-after: always\"></div>
+
+Tlf: +45 28 11 69 32
 
 ## Deutschland
 
@@ -1907,7 +1893,9 @@ Viatris OUTel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: + 30 2100 100 002
+Τηλ
+
+: + 30 2100 100 002
 
 ## España
 
@@ -1949,7 +1937,9 @@ Tel: + 39 02 612 46921
 
 CPO Pharmaceuticals Ltd
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
@@ -1991,9 +1981,7 @@ Tel: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda.
-
-Tel: + 351 214 127 200
+Mylan, Lda. Tel: + 351 214 127 200
 
 ## România
 
@@ -2020,6 +2008,8 @@ Viatris OyPuh
 Tel: + 358 20 720 9555
 
 ## Sverige
+
+Viatris AB
 
 Viatris AB
 

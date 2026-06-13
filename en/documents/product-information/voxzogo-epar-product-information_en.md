@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-18 14:20:23
-document_pages: 57
+document_datetime: 2026-06-11 09:26:22
+document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/voxzogo-epar-product-information_en.pdf
 document_name: voxzogo-epar-product-information_en.pdf
 version: success
-processing_time: 19.5800324
-conversion_datetime: 2025-12-20 14:24:37.331238
+processing_time: 40.3660336
+conversion_datetime: 2026-06-13 20:01:12.990496
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -221,15 +221,13 @@ b. Injection site reactions include the preferred terms; injection site erythema
 
 In ACH study 111301, patients aged ≥ 5 years, 13% of patients treated with vosoritide compared to 5% of patients treated with placebo, experienced events of decreases in blood pressure which were transient and resolved without intervention. The median time to onset from injection was 31 (18 to 120) minutes with resolution within 31 (5 to 90) minutes. The reported events were identified predominantly during periods of frequent vital signs monitoring at clinical visits after dosing over a 52-week treatment period. 2% of patients had a symptomatic episode with dizziness and vomiting.
 
-In study 111-206, events of decrease in blood pressure occurred in 2 patients (5%) aged &lt; 5 years treated with vosoritide compared to 2 patients (6%) on placebo. In patients &gt; 2 years to &lt; 5 years of age, events of decrease in blood pressure were reported in 1 patient (5%) treated with vosoritide compared to 1 patient (6 %) on placebo. In patients 6 months to &lt; 2 years of age, events of decrease in blood pressure were reported in 0 patients treated with vosoritide compared to 1 patient (13%) on placebo. In patients &lt; 6 months of age, events of decrease in blood pressure were reported in 1 patient (8%) treated with vosoritide compared to 0 patients on placebo.  All events were transient, resolved without intervention and were not treatment limiting.
+In study 111-206, events of decrease in blood pressure occurred in 2 patients (5%) aged &lt; 5 years treated with vosoritide compared to 2 patients (6%) on placebo. In patients &gt; 2 years to &lt; 5 years of age, events of decrease in blood pressure were reported in 1 patient (5%) treated with vosoritide compared to 1 patient (6 %) on placebo. In patients 6 months to &lt; 2 years of age, events of decrease in blood pressure were reported in 0 patients treated with vosoritide compared to 1 patient (13%) on placebo. In patients &lt; 6 months of age, events of decrease in blood pressure were reported in 1 patient (8%) treated with vosoritide compared to 0 patients on placebo. All events were transient, resolved without intervention and were not treatment limiting.
 
 ## Injection site reactions
 
-In ACH study 111-301, in patients aged ≥ 5 years, injection site reactions were reported in 85% patients treated with vosoritide compared to 82% patients on placebo. Patients receiving this medicinal product who experienced injection site reactions reported a median of 76 events, compared to patients receiving placebo who reported a median of 7.5 events over a 52-week period. The most common injection site reactions (occurring in at least 10% of patients treated with vosoritide) were injection site reaction (73%), injection site erythema (68%), injection site swelling (38%), and injection site urticaria (13%). All injection site reactions were Grade 1 (mild) in severity, with the exception of 5 events in two patients that were Grade 2 (moderate). Reported Grade 2 events included; two patients who reported two events of injection site urticaria, and one event of injection site vesicles. In study 111-206, patients aged &lt; 5 years, injections site reactions were reported in 86% of patients treated with vosoritide compared to 53% patients on placebo. Patients receiving vosoritide who experienced injection site reactions reported a median of 224 events, compared to patients receiving placebo who reported a median of 114 events over a 52-week period, all of which were Grade 1 (mild) in severity. In patients &gt; 2 years to &lt; 5 years of age, injection site reactions were reported in 84% patients treated with vosoritide compared to 44% patients on placebo. In patients 6 months to &lt; 2 years of age, events of injection site reactions were reported in 83% patients treated with vosoritide
+In ACH study 111-301, in patients aged ≥ 5 years, injection site reactions were reported in 85% patients treated with vosoritide compared to 82% patients on placebo. Patients receiving this medicinal product who experienced injection site reactions reported a median of 76 events, compared to patients receiving placebo who reported a median of 7.5 events over a 52-week period. The most common injection site reactions (occurring in at least 10% of patients treated with vosoritide) were injection site reaction (73%), injection site erythema (68%), injection site swelling (38%), and injection site urticaria (13%). All injection site reactions were Grade 1 (mild) in severity, with the exception of 5 events in two patients that were Grade 2 (moderate). Reported Grade 2 events included; two patients who reported two events of injection site urticaria, and one event of injection site vesicles. In study 111-206, patients aged &lt; 5 years, injections site reactions were reported in 86% of patients treated with vosoritide compared to 53% patients on placebo. Patients receiving vosoritide who experienced injection site reactions reported a median of 224 events, compared to patients receiving placebo who reported a median of 114 events over a 52-week period, all of which were Grade 1 (mild) in severity. In patients &gt; 2 years to &lt; 5 years of age, injection site reactions were reported in 84% patients treated with vosoritide compared to 44% patients on placebo. In patients 6 months to &lt; 2 years of age, events of injection site reactions were reported in 83% patients treated with vosoritide compared to 50% patients on placebo. In patients &lt; 6 months of age, injection site reactions were reported in 92% patients treated with vosoritide compared to 75% patients on placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-compared to 50% patients on placebo. In patients &lt; 6 months of age, injection site reactions were reported in 92% patients treated with vosoritide compared to 75% patients on placebo.
 
 Across all age groups, injection site reactions were transient, and not treatment limiting.
 
@@ -267,7 +265,7 @@ Exposure-dependent (AUC and Cmax) increases from baseline in urinary cyclic guan
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of vosoritide in patients with achondroplasia with confirmed FGFR3 mutation were assessed in a randomised, double-blind, placebo-controlled 52-week study (ACH study 111-301). In ACH study 111-301, patients were randomised to either vosoritide (n=60) or placebo (n=61) and the dose of vosoritide was 15 μg/kg administered subcutaneously once daily. Prior to randomisation, all patients enrolled in an observational study (ACH study 111-901) for paediatric patients with achondroplasia for at least a 6-month period during which baseline standing height and other pre-treatment growth assessments were collected. Patients with limb-lengthening surgery in the prior 18 months or who planned to have limb-lengthening surgery during the study period were excluded. The study comprised a 52-week placebo-controlled treatment phase followed by an open-label treatment extension study in which all patients received vosoritide. The primary efficacy endpoint was the change from baseline in AGV at Week 52 compared with placebo.
+The efficacy and safety of vosoritide in patients with achondroplasia with confirmed FGFR3 mutation were assessed in a randomised, double-blind, placebo-controlled 52-week study (ACH study 111-301). In ACH study 111-301, patients were randomised to either vosoritide (n=60) or placebo (n=61) and the dose of vosoritide was 15 μg/kg administered subcutan eously once daily. Prior to randomisation, all patients enrolled in an observational study (ACH study 111-901) for paediatric patients with achondroplasia for at least a 6-month period during which baseline standing height and other pre-treatment growth assessments were collected. Patients with limb-lengthening surgery in the prior 18 months or who planned to have limb-lengthening surgery during the study period were excluded. The study comprised a 52-week placebo-controlled treatment phase followed by an open-label treatment extension study in which all patients received vosoritide (ACH study 111-302). The primary efficacy endpoint was the change from baseline in AGV at Week 52 compared with placebo.
 
 Patients with achondroplasia were also treated with vosoritide 15 μg/kg/day in an open label, dose -escalation study and in its long-term extension study (ACH study 111-205). Data was collected from observational studies in patients to characterise the natural history of achondroplasia. Height data from untreated patients with achondroplasia in the same age range as the clinical studies was used as an historical control to assess the effect on height after up to 5 years of vosoritide treatment.
 
@@ -328,9 +326,9 @@ The observed increase in growth occurred proportionally in both the spine and th
 
 Figure 1 shows the effect of Voxzogo over the two-year period in the Voxzogo treatment group, as well as the effect in the placebo control group after receiving daily subcutaneous injections of Voxzogo for 52 weeks in the open label extension study. Improvements in AGV were maintained during continued Voxzogo therapy, with no evidence of tachyphylaxis.
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1: Mean (±SD) 12-Month Interval AGV Over Time
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -338,21 +336,31 @@ The figure includes all subjects enrolled in the pivotal trial who had a height 
 
 12-Month AGV at post-baseline visits is derived over the previous 12 months. For example, 12-Month Interval AGV at Week 52 111-302 = [(Height at Week 52 111-302 Visit- Height at Week 52 111-301 Visit)/(Date of Week 52 111-302 Visit - Date of Week 52 111-301 Visit)] x 365.25.
 
-## Open-label extension study
+## Open-label extension studies
 
-In the long-term extension study (ACH study 111-205), 10 patients were treated with Voxzogo 15 µg/kg/day dose continuously for up to 5 years. The mean (SD) improvement in AGV compared to baseline at 60 months was 1.34 (1.31) cm/year.
+In the long-term extension study ACH study 111-205, 10 patients were treated with Voxzogo 15 µg/kg/day dose continuously for up to 5 years. The mean (SD) improvement in AGV compared to baseline at 60 months was 1.34 (1.31) cm/year.
 
-The gain in height after 5 years of treatment with 15 µg/kg/day of Voxzogo was compared with an age and sex matched historical control. The 5-year cross-sectional comparative analysis adjusted for baseline height differences, demonstrated, there was a statistically significant mean (95% CI) difference in height in favour of Voxzogo (9.08 [5.77, 12.38] cm; p=0.0002) compared with untreated patients with achondroplasia.
+The gain in height after 5 years of treatment with 15 µg/kg/day of Voxzogo was compared with an age and sex matched historical control. The 5-year cross-sectional comparative analysis adjusted for baseline height differences, demonstrated a statistically significant mean (95% CI) difference in height in favour of Voxzogo (9.08 [5.77, 12.38] cm; p=0.0002) compared with untreated patients with achondroplasia.
+
+In long-term extension study ACH study 111-302, gain in height after 6 years of treatment with 15 µg/kg/day of Voxzogo (N=39) was compared with an age and sex matched historical control. The 6-year cross-sectional comparative analysis adjusted for baseline height differences demonstrated a statistically significant mean (95% CI) difference in height in favour of Voxzogo (11.35 [9.98, 12.73] cm; p&lt;0.0001) and an improvement in average stature referenced height Z-score of +1.43 SDS (95% CI: 1.24, 1.63; p&lt;0.0001) compared with untreated patients with achondroplasia.
+
+The mean increase in bone age was comparable to the mean increase in chronological age, indicating no acceleration of bone maturation.
 
 ## Paediatric population &lt;5 years
 
-A total of 75 patients aged 4.4 months to 59.8 months at day 1 of dosing were enrolled in a randomized, double-blind, placebo-controlled 52-week study. At least 6 months of baseline growth data were collected in the observational study for patients who were aged 6 months and over at randomization, and at least 3-months baseline data for those subjects aged under 6 months at randomization. A total of 64 patients were randomised to receive vosoritide treatment or placebo and 11 patients received open-label treatment. At 52 weeks, patients treated with vosoritide had an improvement in Height Z-score +0.30 SDS (95% CI 0.07, 0.54) compared to placebo.
-
-Nine children aged &gt;24 to &lt;60 months were treated with vosoritide for 3 years and showed an improvement in Height Z-score of + 1.22 SDS (95% CI 0.78, 1.66) and a LS mean difference in height of 5.73 cm (95%CI 3.54, 7.93) compared with an age and sex matched historical control of untreated patients with achondroplasia.
+A total of 75 patients aged 4.4 months to 59.8 months at day 1 of dosing were enrolled in a randomized, double-blind, placebo-controlled 52-week study (ACH study 111-206). At least 6 months of baseline growth data were collected in the observational study for patients who were aged 6 months and over at randomization, and at least 3-months baseline data for those subjects aged under 6 months at randomization. A total of 64 patients were randomised to receive Voxzogo treatment or placebo and 11 patients received open-label treatment. At 52 weeks, patients treated with Voxzogo had an improvement in height Z-score +0.30 SDS (95% CI 0.07, 0.54) compared to placebo.  Height Z-score is standardized by age and sex and thus can be referred to when comparing the treatment effect across the age groups.
 
 <div style=\"page-break-after: always\"></div>
 
-Eleven children aged &gt;6 to &lt;24 months were treated with vosoritide for 2 years and showed an improvement in Height Z-score of + 0.79 SDS (95% CI 0.29, 1.28) and a LS mean difference in height of 2.69 cm (95%CI 1.00, 4.38) compared with an age and sex matched historical control of untreated patients with achondroplasia.
+## Open label extension study 111-208
+
+Nineteen patients aged 24 to &lt;60 months were treated with Voxzogo for 5 years and showed an improvement in average stature referenced height Z-score of +1.23 SDS (95% CI 0.75, 1.71; p&lt;0.0001) and a difference in height of 7.30 cm (95% CI 4.56, 10.04; p&lt;0.0001) in favour of Voxzogo compared with an age and sex matched historical control of untreated patients with achondroplasia.
+
+Ten patients aged 6 to &lt;24 months were treated with Voxzogo for 5 years and showed an improvement in average stature referenced height Z-score of +1.13 SDS (95% CI 0.51, 1.74; p=0.0024) and a difference in height of 6.69 cm (95% CI 4.09, 9.30; p=0.0003) in favour of Voxzogo compared with an age and sex matched historical control of untreated patients with achondroplasia.
+
+Nine patients aged 0 to &lt;6 months were treated with Voxzogo for 4 years and showed an improvement in average stature referenced height Z-score of +0.86 SDS (95% CI 0.32, 1.40; p=0.0060) and a difference in height of 2.81 cm (95% CI 1.18, 4.45; p=0.0041) in favour of Voxzogo compared with an age and sex matched historical control of untreated patients with achondroplasia.
+
+The mean increase in bone age was comparable to the mean increase in chronological age, indicating no acceleration of bone maturation.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -364,13 +372,15 @@ In 8 patients aged 6 months to &lt; 2 years old, receiving 30 µg/kg once daily 
 
 ## Absorption
 
-Vosoritide was absorbed with a median Tmax of 15 minutes. The mean (± SD) peak concentration (Cmax) and area under the concentration-time curve from time zero to the last measurable concentration (AUC0-t) observed after 52 weeks of treatment was 5 800 (±3 680), and 290 000 (± 235 000) pg-min/mL respectively. The bioavailability of vosoritide was not assessed in clinical studies.
+Vosoritide was absorbed with a median Tmax of 15 minutes. The mean (± SD) peak concentration (Cmax) and area under the concentration-time curve from time zero to the last measurable concentration (AUC0-t) observed after 52 weeks of treatment was 5 800 (±3 680) pg/mL, and 290 000 (± 235 000) pg-min/mL respectively. The bioavailability of vosoritide was not assessed in clinical studies.
 
 ## Distribution
 
 The mean (± SD) apparent volume of distribution after 52 weeks of treatment was 2 910 (± 1 660) mL/kg.
 
 ## Biotransformation
+
+<div style=\"page-break-after: always\"></div>
 
 The metabolism of vosoritide is expected to occur via catabolic pathways and be degraded into small peptide fragments and amino acids.
 
@@ -387,8 +397,6 @@ The increase in plasma exposure (AUC and Cmax) with dose was greater than dose p
 ## Special populations
 
 No clinically significant differences in the vosoritide pharmacokinetics was observed based on age (0.9 to 16 years), sex, race or ethnicity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Body weight
 
@@ -410,6 +418,8 @@ Transient decreases in blood pressure and increases in heart rate were observed 
 
 Adverse effects on body posture, bone shape, mobility, and bone strength were observed in normal animals in repeat-dose toxicity studies in rats and monkeys. In monkeys, the NOAEL for vosoritide is 25 μg/kg (mean C max value of 1 170 pg/mL; approximately equivalent to the recommended human dose in a 20 kg human) when administered daily via subcutaneous injection for 44 weeks.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Carcinogenicity / mutagenicity
 
 Carcinogenicity and genotoxicity studies have not been performed with vosoritide. Based on the mechanism of action, vosoritide is not expected to be tumorigenic.
@@ -424,8 +434,6 @@ Vosoritide was not associated with effects on reproductive performance, in utero
 
 Vosoritide was detected in the breast milk in rats.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -434,7 +442,7 @@ Vosoritide was detected in the breast milk in rats.
 
 Citric acid (E 330) Sodium citrate (E 331) Trehalose dihydrate Mannitol (E 421) Methionine Polysorbate 80 (E 433)
 
-Solvent
+## Solvent
 
 Water for injections
 
@@ -444,7 +452,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Unopened vials
+## Unopened vials
 
 4 years
 
@@ -455,6 +463,8 @@ Chemical and physical stability has been demonstrated for 3 hours at 25°C.
 From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the solution should be used immediately.
 
 If not used immediately, Voxzogo must be administered within 3 hours of reconstitution (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -468,13 +478,11 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-Vosoritide 0.4 mg powder and solvent for solution for injection
+## Vosoritide 0.4 mg powder and solvent for solution for injection
 
-Powder
+## Powder
 
-2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and white flip cap.
-
-<div style=\"page-break-after: always\"></div>
+2 mL vial (glass) with rubber stopper (bromobutyl) and white flip cap.
 
 ## Solvent
 
@@ -484,7 +492,7 @@ Pre-filled syringe (glass) with plunger (bromobutyl) and tip cap with a luer loc
 
 ## Powder
 
-2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and magenta flip cap.
+2 mL vial (glass) with rubber stopper (bromobutyl) and magenta flip cap.
 
 ## Solvent
 
@@ -494,13 +502,13 @@ Pre-filled syringe (glass) with plungers (bromobutyl) and tip cap with a luer lo
 
 ## Powder
 
-2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and grey flip cap.
+2 mL vial (glass) with rubber stopper (bromobutyl) and grey flip cap.
 
 ## Solvent
 
 Pre-filled syringe (glass) with plungers (bromobutyl) and tip cap with a luer lock and tamper evident seal containing 0.6 mL of water for injections
 
-## Each carton contains:
+Each carton contains:
 
 - 10 vials of Voxzogo
 - 10 pre-filled syringes of water for injections
@@ -516,6 +524,9 @@ Pre-filled syringe (glass) with plungers (bromobutyl) and tip cap with a luer lo
 - o Alcohol pads
 - o Gauze or bandages
 - o Sharps container
+
+<div style=\"page-break-after: always\"></div>
+
 - The Voxzogo vial and solvent in a pre-filled syringe (water for injections) should be removed from the refrigerator and allowed to reach room temperature before reconstituting Voxzogo.
 - The solvent needle must be attached to the solvent in the pre-filled syringe (water for injections).
 - The entire solvent volume must be injected into the vial.
@@ -526,8 +537,6 @@ Pre-filled syringe (glass) with plungers (bromobutyl) and tip cap with a luer lo
 - For administration, the required dose volume must be extracted from the vial using the supplied administration syringe (see Table 1).
 - Each vial and pre-filled syringe are for single use only.
 - Only the administration syringe provided should be used.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 
@@ -911,7 +920,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-0.56 mg
+0.56 mg Solvent for Voxzogo SC use after reconstitution EXP
 
 | 6.   | OTHER   |
 |------|---------|
@@ -925,15 +934,11 @@ Lot
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Solvent for Voxzogo SC use after reconstitution
-
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1098,7 +1103,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-1.2 mg
+1.2 mg Solvent for Voxzogo SC use after reconstitution EXP
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1112,15 +1117,11 @@ Lot
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Solvent for Voxzogo SC use after reconstitution
-
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1173,7 +1174,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-Voxzogo 0.4 mg powder and solvent for solution for injection Voxzogo 0.56 mg powder and solvent for solution for injection Voxzogo 1.2 mg powder and solvent for solution for injection vosoritide
+Voxzogo 0.4 mg powder and solvent for solution for injection Voxzogo 0.56 mg powder and solvent for solution for injection Voxzogo 1.2 mg powder and solvent for solution for injection
+
+vosoritide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you or your child may get. See the end of section 4 for how to report side effects.
 
@@ -1491,7 +1494,9 @@ ATTENTION: Do not place the cap back on the needle.
 
 Step 12: Make sure you have the prescribed dose in the syringe, then remove the vial and prepare to give the dose.
 
-ATTENTION: Confirm amount matches the prescribed dose before removing vial.
+Confirm amount matches the
+
+ATTENTION: prescribed dose before removing vial.
 
 <!-- image -->
 

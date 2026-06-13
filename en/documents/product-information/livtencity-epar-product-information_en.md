@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-05 14:22:34
-document_pages: 35
+document_datetime: 2026-06-12 09:13:43
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/livtencity-epar-product-information_en.pdf
 document_name: livtencity-epar-product-information_en.pdf
 version: success
-processing_time: 9.6344993
-conversion_datetime: 2025-12-30 10:22:36.452605
+processing_time: 10.6143904
+conversion_datetime: 2026-06-13 20:16:43.625987
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -118,8 +118,8 @@ LIVTENCITY has the potential to increase the concentrations of immunosuppressant
 
 The concomitant use of LIVTENCITY and certain medicinal products may result in known or potentially significant medicinal product interactions, some of which may lead to:
 
--  possible clinically significant adverse reactions from greater exposure of concomitant medicinal products.
--  reduced therapeutic effect of LIVTENCITY.
+- possible clinically significant adverse reactions from greater exposure of concomitant medicinal products.
+- reduced therapeutic effect of LIVTENCITY.
 
 See Table 1 for steps to prevent or manage these known or potentially significant medicinal product interactions, including dosing recommendations (see sections 4.3 and 4.5).
 
@@ -135,11 +135,9 @@ Maribavir is primarily metabolised by CYP3A, and medicinal products that induce 
 
 Co-administration of maribavir and medicinal products that are inhibitors of CYP3A may result in increased plasma concentrations of maribavir (see section 5.2). However, no dose adjustment is needed when maribavir is co-administered with CYP3A inhibitors.
 
-Concomitant administration of strong or moderate CYP3A inducers, (such as rifampicin, rifabutin, carbamazepine, phenobarbital, phenytoin, efavirenz and St John's wort), is expected to significantly
+Concomitant administration of strong or moderate CYP3A inducers, (such as rifampicin, rifabutin, carbamazepine, phenobarbital, phenytoin, efavirenz and St John's wort), is expected to significantly decrease maribavir plasma concentrations, which may result in decrease in efficacy. Therefore, alternative medicinal products with no CYP3A induction potential should be considered. Coadministration of maribavir with strong cytochrome P450 3A (CYP3A) inducers rifampicin, rifabutin or St. John's wort is not recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-decrease maribavir plasma concentrations, which may result in decrease in efficacy. Therefore, alternative medicinal products with no CYP3A induction potential should be considered. Coadministration of maribavir with strong cytochrome P450 3A (CYP3A) inducers rifampicin, rifabutin or St. John's wort is not recommended.
 
 If co-administration of maribavir with other strong or moderate CYP3A inducers (e.g., carbamazepine, efavirenz, phenobarbital and phenytoin) cannot be avoided, the maribavir dose should be increased to 1 200 mg twice daily (see sections 4.2 and 5.2).
 
@@ -163,30 +161,28 @@ In vitro , maribavir inhibits MATE1. There are no clinical data available whethe
 
 ## General information
 
-If dose adjustments of concomitant medicinal products are made due to treatment with maribavir, doses should be readjusted after treatment with maribavir is completed. Table 1 provides a listing of established or potentially clinically significant medicinal product interactions. The medicinal product
+If dose adjustments of concomitant medicinal products are made due to treatment with maribavir, doses should be readjusted after treatment with maribavir is completed. Table 1 provides a listing of established or potentially clinically significant medicinal product interactions. The medicinal product interactions described are based on studies conducted with maribavir or are predicted medicinal product interactions that may occur with maribavir (see sections 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
 
-interactions described are based on studies conducted with maribavir or are predicted medicinal product interactions that may occur with maribavir (see sections 4.4 and 5.2).
-
 Table 1: Interactions and dose recommendations with other medicinal products.
 
-| Medicinal product by therapeutic area                                                     | Effect on geometric mean ratio (90 %CI) (likely mechanism of action)                                                            | Recommendation concerning co-administration with maribavir                                                                                                                                               |
-|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Acid-reducing agents                                                                      | Acid-reducing agents                                                                                                            | Acid-reducing agents                                                                                                                                                                                     |
-| antacid (aluminium and magnesium hydroxide oral suspension) (20 mL single dose, maribavir | ↔ maribavir AUC 0.89 (0.83, 0.96) C max 0.84 (0.75, 0.94)                                                                       | No dose adjustment is required.                                                                                                                                                                          |
-| famotidine                                                                                | Interaction not studied. Expected: ↔ maribavir                                                                                  | No dose adjustment is required.                                                                                                                                                                          |
-| pantoprazole                                                                              | Interaction not studied. Expected: ↔ maribavir                                                                                  | No dose adjustment is required.                                                                                                                                                                          |
-| omeprazole                                                                                | ↔ maribavir ↑ plasma omeprazole/5- hydroxyomeprazole concentration ratio 1.71 (1.51, 1.92) at 2h post-dose (CYP2C19 inhibition) | No dose adjustment is required.                                                                                                                                                                          |
-| Antiarrhythmics                                                                           | Antiarrhythmics                                                                                                                 | Antiarrhythmics                                                                                                                                                                                          |
-| digoxin (0.5 mg single dose, 400 mg twice daily maribavir)                                | ↔ digoxin AUC 1.21 (1.10, 1.32) C max 1.25 (1.13, 1.38) (P-gp inhibition)                                                       | Use caution when maribavir and digoxin are co-administered. Monitor serum digoxin concentrations. The dose of sensitive P-gp substrates such as digoxin may need to be reduced when co-administered with |
-| Antibiotics                                                                               | Antibiotics                                                                                                                     | Antibiotics                                                                                                                                                                                              |
-| clarithromycin                                                                            | Interaction not studied. Expected: ↑ maribavir (CYP3A inhibition)                                                               | No dose adjustment is required.                                                                                                                                                                          |
-| Anticonvulsants                                                                           | Anticonvulsants                                                                                                                 | Anticonvulsants                                                                                                                                                                                          |
-| carbamazepine phenobarbital phenytoin                                                     | Interaction not studied. Expected: ↓ maribavir (CYP3A induction)                                                                | A dose adjustment of maribavir to 1 200 mg twice daily is recommended when co-administration with these anticonvulsants.                                                                                 |
-| Antifungals                                                                               | Antifungals                                                                                                                     | Antifungals                                                                                                                                                                                              |
-| ketoconazole (400 mg single dose, maribavir 400 mg single dose)                           | ↑ maribavir AUC 1.53 (1.44, 1.63) C max 1.10 (1.01, 1.19) (CYP3A and P-gp inhibition)                                           | No dose adjustment is required.                                                                                                                                                                          |
-| voriconazole (200 mg twice daily, maribavir 400 mg twice daily)                           | Expected: ↑ maribavir (CYP3A inhibition) ↔ voriconazole AUC 0.93 (0.83, 1.05)                                                   | No dose adjustment is required.                                                                                                                                                                          |
+| Medicinal product by therapeutic area                                                     | Effect on geometric mean ratio (90 %CI) (likely mechanism of action)                                                           | Recommendation concerning co-administration with maribavir                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Acid-reducing agents                                                                      | Acid-reducing agents                                                                                                           | Acid-reducing agents                                                                                                                                                                                                |
+| antacid (aluminium and magnesium hydroxide oral suspension) (20 mL single dose, maribavir | ↔maribavir AUC 0.89 (0.83, 0.96) C max 0.84 (0.75, 0.94)                                                                       | No dose adjustment is required.                                                                                                                                                                                     |
+| famotidine                                                                                | Interaction not studied. Expected: ↔maribavir                                                                                  | No dose adjustment is required.                                                                                                                                                                                     |
+| pantoprazole                                                                              | Interaction not studied. Expected: ↔maribavir                                                                                  | No dose adjustment is required.                                                                                                                                                                                     |
+| omeprazole                                                                                | ↔maribavir ↑ plasma omeprazole/5- hydroxyomeprazole concentration ratio 1.71 (1.51, 1.92) at 2h post-dose (CYP2C19 inhibition) | No dose adjustment is required.                                                                                                                                                                                     |
+| Antiarrhythmics                                                                           | Antiarrhythmics                                                                                                                | Antiarrhythmics                                                                                                                                                                                                     |
+| digoxin (0.5 mg single dose, 400 mg twice daily maribavir)                                | ↔digoxin AUC 1.21 (1.10, 1.32) C max 1.25 (1.13, 1.38) (P-gp inhibition)                                                       | Use caution when maribavir and digoxin are co-administered. Monitor serum digoxin concentrations. The dose of sensitive P-gp substrates such as digoxin may need to be reduced when co-administered with maribavir. |
+| Antibiotics                                                                               | Antibiotics                                                                                                                    | Antibiotics                                                                                                                                                                                                         |
+| clarithromycin                                                                            | Interaction not studied. Expected: ↑ maribavir (CYP3A inhibition)                                                              | No dose adjustment is required.                                                                                                                                                                                     |
+| Anticonvulsants                                                                           | Anticonvulsants                                                                                                                | Anticonvulsants                                                                                                                                                                                                     |
+| carbamazepine phenobarbital phenytoin                                                     | Interaction not studied. Expected: ↓ maribavir (CYP3A induction)                                                               | A dose adjustment of maribavir to 1 200 mg twice daily is recommended when co-administration with these anticonvulsants.                                                                                            |
+| Antifungals                                                                               | Antifungals                                                                                                                    | Antifungals                                                                                                                                                                                                         |
+| ketoconazole (400 mg single dose, maribavir 400 mg single dose)                           | ↑ maribavir AUC 1.53 (1.44, 1.63) C max 1.10 (1.01, 1.19) (CYP3A and P-gp inhibition)                                          | No dose adjustment is required.                                                                                                                                                                                     |
+| voriconazole (200 mg twice daily, maribavir 400 mg twice daily)                           | Expected: ↑ maribavir (CYP3A inhibition) ↔voriconazole AUC 0.93 (0.83, 1.05)                                                   | No dose adjustment is required.                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -199,7 +195,7 @@ Table 1: Interactions and dose recommendations with other medicinal products.
 | rifabutin                                                          | Interaction not studied. Expected: ↓ maribavir (CYP3A induction)                                                  | Co-administration of maribavir and rifabutin is not recommended due to potential for a decrease in efficacy of maribavir.                                  |
 | rifampicin (600 mg once daily, maribavir 400 mg twice daily)       | ↓ maribavir AUC 0.40 (0.36, 0.44) C max 0.61 (0.52, 0.72) C trough 0.18 (0.14, 0.25) (CYP3A and CYP1A2 induction) | Co-administration of maribavir and rifampin is not recommended due to potential for a decrease in efficacy of maribavir.                                   |
 | Antitussives                                                       |                                                                                                                   |                                                                                                                                                            |
-| dextromethorphan (30 mg single dose, maribavir 400 mg twice daily) | ↔ dextrorphan AUC 0.97 (0.94, 1.00) C max 0.94 (0.88, 1.01) (CYP2D6 inhibition)                                   | No dose adjustment is required.                                                                                                                            |
+| dextromethorphan (30 mg single dose, maribavir 400 mg twice daily) | ↔dextrorphan AUC 0.97 (0.94, 1.00) C max 0.94 (0.88, 1.01) (CYP2D6 inhibition)                                    | No dose adjustment is required.                                                                                                                            |
 | CNS stimulants                                                     |                                                                                                                   |                                                                                                                                                            |
 | Herbal products                                                    |                                                                                                                   |                                                                                                                                                            |
 | St. John's wort ( Hypericum perforatum )                           | Interaction not studied. Expected: ↓ maribavir (CYP3A induction)                                                  | Co-administration of maribavir and St. John's wort is not recommended due to potential for a decrease in efficacy of maribavir.                            |
@@ -207,8 +203,9 @@ Table 1: Interactions and dose recommendations with other medicinal products.
 | Non-nucleoside reverse transcriptase inhibitors                    | Non-nucleoside reverse transcriptase inhibitors                                                                   |                                                                                                                                                            |
 | Efavirenz Etravirine Nevirapine                                    | Interaction not studied. Expected: ↓ maribavir (CYP3A induction)                                                  | A dose adjustment of maribavir to 1 200 mg twice daily is recommended when co-administration with these a non-nucleoside reverse transcriptase inhibitors. |
 | Nucleoside reverse transcriptase inhibitors                        | Nucleoside reverse transcriptase inhibitors                                                                       |                                                                                                                                                            |
-| Tenofovir disoproxil Tenofovir alafenamide Abacavir                | Interaction not studied. Expected: ↔ maribavir ↔ nucleoside reverse                                               | No dose adjustment is required.                                                                                                                            |
+| Tenofovir disoproxil Tenofovir alafenamide Abacavir                | Interaction not studied. Expected: ↔maribavir ↔nucleoside reverse                                                 | No dose adjustment is required.                                                                                                                            |
 | Lamivudine Emtricitabine                                           | transcriptase inhibitors                                                                                          |                                                                                                                                                            |
+| Protease inhibitors                                                |                                                                                                                   |                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -216,7 +213,7 @@ Table 1: Interactions and dose recommendations with other medicinal products.
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ritonavir- boosted protease inhibitors (atazanavir, darunavir, lopinavir)    | Interaction not studied. Expected: ↑ maribavir (CYP3A inhibition)                                             | No dose adjustment is required.                                                                                                                                      |
 | Integrase strand transfer inhibitors                                         | Integrase strand transfer inhibitors                                                                          | Integrase strand transfer inhibitors                                                                                                                                 |
-| dolutegravir                                                                 | Interaction not studied. Expected: ↔ maribavir ↔ dolutegravir                                                 | No dose adjustment is required.                                                                                                                                      |
+| dolutegravir                                                                 | Interaction not studied. Expected: ↔maribavir ↔dolutegravir                                                   | No dose adjustment is required.                                                                                                                                      |
 | HMG-CoA reductase inhibitors                                                 | HMG-CoA reductase inhibitors                                                                                  | HMG-CoA reductase inhibitors                                                                                                                                         |
 | atorvastatin fluvastatin simvastatin                                         | Interaction not studied. Expected: ↑ HMG-CoA reductase inhibitors (BCRP inhibition)                           | No dose adjustment is required.                                                                                                                                      |
 | rosuvastatin a                                                               | Interaction not studied. Expected: ↑ rosuvastatin (BCRP inhibition)                                           | The patient should be closely monitored for rosuvastatin-related events, especially the occurrence of myopathy and rhabdomyolysis.                                   |
@@ -224,11 +221,11 @@ Table 1: Interactions and dose recommendations with other medicinal products.
 | cyclosporine a everolimus a sirolimus a                                      | Interaction not studied. Expected: ↑ cyclosporine, everolimus, sirolimus (CYP3A/P-gp inhibition)              | Frequently monitor cyclosporine, everolimus and sirolimus levels, especially following initiation and after discontinuation of maribavir and adjust dose, as needed. |
 | tacrolimus a                                                                 | ↑ tacrolimus AUC 1.51 (1.39, 1.65) C max 1.38 (1.20, 1.57) C trough 1.57 (1.41, 1.74) (CYP3A/P-gp inhibition) | Frequently monitor tacrolimus levels, especially following initiation and after discontinuation of maribavir and adjust dose, as needed.                             |
 | Oral anticoagulants                                                          | Oral anticoagulants                                                                                           | Oral anticoagulants                                                                                                                                                  |
-| warfarin (10 mg single dose, maribavir 400 mg twice daily)                   | ↔ S-warfarin AUC 1.01 (0.95, 1.07) (CYP2C9 inhibition)                                                        | No dose adjustment is required.                                                                                                                                      |
+| warfarin (10 mg single dose, maribavir 400 mg twice daily)                   | ↔S-warfarin AUC 1.01 (0.95, 1.07) (CYP2C9 inhibition)                                                         | No dose adjustment is required.                                                                                                                                      |
 | Oral contraceptives                                                          | Oral contraceptives                                                                                           | Oral contraceptives                                                                                                                                                  |
-| systemically acting oral contraceptive steroids                              | Interaction not studied. Expected: ↔ oral contraceptive steroids (CYP3A inhibition)                           | No dose adjustment is required.                                                                                                                                      |
+| systemically acting oral contraceptive steroids                              | Interaction not studied. Expected: ↔oral contraceptive steroids (CYP3A inhibition)                            | No dose adjustment is required.                                                                                                                                      |
 | Sedatives                                                                    | Sedatives                                                                                                     | Sedatives                                                                                                                                                            |
-| midazolam (0.075 mg/kg single dose, maribavir 400 mg twice daily for 7 days) | ↔ midazolam AUC 0.89 (0.79, 1.00) C max 0.82 (0.70, 0.96)                                                     | No dose adjustment is required.                                                                                                                                      |
+| midazolam (0.075 mg/kg single dose, maribavir 400 mg twice daily for 7 days) | ↔midazolam AUC 0.89 (0.79, 1.00) C max 0.82 (0.70, 0.96)                                                      | No dose adjustment is required.                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -334,11 +331,9 @@ Maribavir does not affect the UL54 encoded DNA polymerase that, when presenting 
 
 ## In clinical studies
 
-In Phase 2 Study 202 and Study 203 evaluating maribavir in 279 HSCT or SOT recipients, post-treatment pUL97 genotyping data from 23 of 29 patients who initially achieved viraemia clearance and later experienced recurrent CMV infection while on maribavir showed 17 patients with mutations T409M or H411Y and 6 patients with mutation C480F. Among 25 patients who did not respond to &gt; 14 days of maribavir therapy, 9 had mutations T409M or H411Y, and 5 patients had mutation C480F. Additional pUL27 genotyping was performed on 39 patients in Study 202 and 43 patients in Study 203. The only resistance-associated amino acid substitution in pUL27 that was not detected at baseline was G344D. Phenotypic analysis of pUL27 and pUL97 recombinants showed that pUL97 mutations T409M, H411Y, and C480F conferred 78-fold, 15-fold, and 224-fold increases,
+In Phase 2 Study 202 and Study 203 evaluating maribavir in 279 HSCT or SOT recipients, post-treatment pUL97 genotyping data from 23 of 29 patients who initially achieved viraemia clearance and later experienced recurrent CMV infection while on maribavir showed 17 patients with mutations T409M or H411Y and 6 patients with mutation C480F. Among 25 patients who did not respond to &gt; 14 days of maribavir therapy, 9 had mutations T409M or H411Y, and 5 patients had mutation C480F. Additional pUL27 genotyping was performed on 39 patients in Study 202 and 43 patients in Study 203. The only resistance-associated amino acid substitution in pUL27 that was not detected at baseline was G344D. Phenotypic analysis of pUL27 and pUL97 recombinants showed that pUL97 mutations T409M, H411Y, and C480F conferred 78-fold, 15-fold, and 224-fold increases, respectively, in maribavir EC50 compared with the wild-type strain, whereas the pUL27 mutation G344D showed no difference in maribavir EC50 as compared to the wild-type strain.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively, in maribavir EC50 compared with the wild-type strain, whereas the pUL27 mutation G344D showed no difference in maribavir EC50 as compared to the wild-type strain.
 
 In Phase 3 Study 303 evaluating maribavir in patients with phenotypic resistance to valganciclovir/ganciclovir, DNA sequence analysis of the entire coding regions of pUL97 and pUL27 was performed on 134 paired sequences from maribavir-treated patients. The treatment-emergent pUL97 substitutions F342Y (4.5-fold), T409M (78-fold), H411L/N/Y (69-, 9-, and 12-fold, respectively), and/or C480F (224-fold) were detected in 60 subjects and were associated with non-response (47 subjects were on-treatment failures and 13 subjects were relapsers). One subject with the pUL27 L193F substitution (2.6-fold reduced susceptibility to maribavir) at baseline did not meet the primary endpoint. In addition, the following multiple mutations were associated with non-response; F342Y+T409M+H411N (78-fold), C480F+H411L+H411Y (224-fold), F342Y+H411Y (56-fold), T409M+C480F (224-fold), H411Y+C480F (224-fold), H411N+C480F (224-fold), and T409M+H411Y (78-fold).
 
@@ -395,23 +390,21 @@ CMV=cytomegalovirus, DNA=deoxyribonucleic acid, HSCT=haematopoietic stem cell tr
 
 a  Baseline was defined as the last value on or before the first dose date of study-assigned treatment, or date of randomisation for patients who did not receive study-assigned treatment.
 
-b Percentages are based on the number of subjects in the randomised set within each column. Most recent anti-CMV agent, used to confirm refractory eligibility criteria.
+b  Percentages are based on the number of subjects in the randomised set within each column. Most recent anti-CMV agent, used to confirm refractory eligibility criteria.
 
 c The most recent transplant.
 
-d Percentages are based on the number of patients within the category.
+d  Percentages are based on the number of patients within the category.
 
-e Viral load was defined for analysis by the baseline central specialty laboratory plasma CMV DNA qPCR results as high (≥91 000 IU/mL), intermediate (≥ 9 100 and &lt; 91 000 IU/mL), and low (&lt; 9 100 IU/mL).
+e  Viral load was defined for analysis by the baseline central specialty laboratory plasma CMV DNA qPCR results as high (≥91 000 IU/mL), intermediate (≥ 9 100 and &lt; 91 000 IU/mL), and low (&lt; 9 100 IU/mL).
 
-f Confirmed by Endpoint Adjudication Committee (EAC).
+f  Confirmed by Endpoint Adjudication Committee (EAC).
 
-g Patients could have CMV syndrome and tissue invasive disease.
+g  Patients could have CMV syndrome and tissue invasive disease.
 
-The primary efficacy endpoint was confirmed CMV viraemia clearance (plasma CMV DNA concentration below the lower limit of quantification (&lt; LLOQ; i.e. &lt; 137 IU/mL) at Week 8 regardless of whether either study-assigned treatment was discontinued before the end of the stipulated 8 weeks of therapy. The key secondary endpoint was CMV viraemia clearance and CMV infection symptom control at Week 8 with maintenance of this treatment effect through Study Week 16. CMV infection symptom control was defined as resolution or improvement of tissue-invasive disease or
+The primary efficacy endpoint was confirmed CMV viraemia clearance (plasma CMV DNA concentration below the lower limit of quantification (&lt; LLOQ; i.e. &lt; 137 IU/mL) at Week 8 regardless of whether either study-assigned treatment was discontinued before the end of the stipulated 8 weeks of therapy. The key secondary endpoint was CMV viraemia clearance and CMV infection symptom control at Week 8 with maintenance of this treatment effect through Study Week 16. CMV infection symptom control was defined as resolution or improvement of tissue-invasive disease or CMV syndrome for symptomatic patients at baseline, or no new symptoms for patients who were asymptomatic at baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-CMV syndrome for symptomatic patients at baseline, or no new symptoms for patients who were asymptomatic at baseline.
 
 For the primary endpoint, LIVTENCITY was superior to IAT (56% vs. 24%, respectively, p &lt; 0.001). For the key secondary endpoint, 19% vs. 10% achieved both CMV viraemia clearance and CMV infection symptom control in the LIVTENCITY and IAT group, respectively (p=0.013) (see Table 4).
 
@@ -424,15 +417,13 @@ Table 4: Primary and key secondary efficacy endpoint analysis (randomised set) i
 | Responders                                                                                                                                    | 28 (24)                                                                                                                                       | 131 (56)                                                                                                                                      |
 | Adjusted difference in proportion of responders (95% CI) a                                                                                    |                                                                                                                                               | 32.8 (22.8, 42.7)                                                                                                                             |
 | p-value: adjusted a                                                                                                                           |                                                                                                                                               | < 0.001                                                                                                                                       |
-| Key secondary endpoint: Achievement of CMVviraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b | Key secondary endpoint: Achievement of CMVviraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b | Key secondary endpoint: Achievement of CMVviraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b |
+| Key secondary endpoint: Achievement ofCMV viraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b | Key secondary endpoint: Achievement ofCMV viraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b | Key secondary endpoint: Achievement ofCMV viraemia clearance and CMVinfection symptom control b at week 8, with maintenance through week 16 b |
 | Overall                                                                                                                                       |                                                                                                                                               |                                                                                                                                               |
 | Responders                                                                                                                                    | 12 (10)                                                                                                                                       | 44 (19)                                                                                                                                       |
 | Adjusted difference in proportion of responders (95% CI) a                                                                                    |                                                                                                                                               | 9.45 (2.0, 16.9)                                                                                                                              |
 | p-value: adjusted a                                                                                                                           |                                                                                                                                               | 0.013                                                                                                                                         |
 
 The treatment effect was consistent across transplant type, age group, and the presence of CMV syndrome/disease at baseline. However, LIVTENCITY was less effective against subjects with increased CMV DNA levels (≥ 50 000 IU/mL) and patients with absence of genotypic resistance (see Table 5).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 5: Percentage of Responders by subgroup in Study 303
 
@@ -456,6 +447,8 @@ Table 5: Percentage of Responders by subgroup in Study 303
 | 45 to 64 years                         | 19/69         | 28            | 71/126                                  | 56                                      |
 | ≥ 65 years                             | 1/16          | 6             | 32/54                                   | 59                                      |
 
+<div style=\"page-break-after: always\"></div>
+
 CMV=cytomegalovirus, DNA=deoxyribonucleic acid, HSCT=haematopoietic stem cell transplant, SOT=solid organ transplant
 
 ## Recurrence
@@ -474,11 +467,9 @@ Maribavir pharmacological activity is due to the parent medicinal product. The p
 
 In transplant recipients, maribavir steady state exposure following oral administration of 400 mg twice daily doses are provided below, based on a population pharmacokinetics analysis. Steady-state was reached in 2 days, with an accumulation ratio of 1.47 for AUC and 1.37 for Cmax. The intrasubject variability (&lt; 22%) and intersubject variability (&lt; 37%) in maribavir PK parameters are low to moderate.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 6: Maribavir pharmacokinetic properties in transplant recipients based on a population pharmacokinetics analysis
 
-| Parameter GM(%CV)                                           | AUC 0- tau µg*h/mL                                          | C max µg/mL                                                 | C trough µg/mL                                              |
+| ParameterGM(%CV)                                            | AUC 0- tau µg*h/mL                                          | C max µg/mL                                                 | C trough µg/mL                                              |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Maribavir 400 mg twice daily                                | 142 (48.5%)                                                 | 20.1 (35.5%)                                                | 5.43 (85.9%)                                                |
 | GM: Geometric mean, %CV: Geometric coefficient of variation | GM: Geometric mean, %CV: Geometric coefficient of variation | GM: Geometric mean, %CV: Geometric coefficient of variation | GM: Geometric mean, %CV: Geometric coefficient of variation |
@@ -490,6 +481,8 @@ Maribavir was rapidly absorbed with peak plasma concentrations occurring 1.0 to 
 ## Effect of food
 
 In healthy subjects, oral administration of a single 400 mg dose of maribavir with a high fat, high caloric meal resulted in no change in the overall exposure (AUC) and a 28% decrease in Cmax of maribavir, which was not considered clinically relevant.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -507,8 +500,6 @@ Maribavir is primarily eliminated by hepatic metabolism via CYP3A4 (primary meta
 
 Based on in vitro studies, metabolism of maribavir is not mediated by CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A5, 1A4, UGT1A6, UGT1A10, or UGT2B15.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 The elimination half-life and oral clearance of maribavir are estimated at 4.3 hours and 2.67 L/h, respectively, in transplant patients. After single dose oral administration of [ 14 C]-maribavir, approximately 61% and 14% of the radioactivity were recovered in urine and faeces, respectively, primarily as the major and inactive metabolite. Urinary excretion of unchanged maribavir is minimal.
@@ -522,6 +513,8 @@ No clinically significant effect of mild, moderate or severe renal impairment (m
 ## Hepatic impairment
 
 No clinically significant effect of moderate hepatic impairment (Child-Pugh Class B, score of 7-9) was observed on total or unbound maribavir PK parameters following a single dose of 200 mg of maribavir. Compared to the healthy control subjects, AUC and Cmax were 26% and 35% higher, respectively, in subjects with moderate hepatic impairment. It is not known whether the exposure to maribavir will increase in patients with severe hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Age, gender, race, ethnicity, and weight
 
@@ -541,8 +534,6 @@ Maribavir did not demonstrate phototoxicity in vitro , therefore, the potential 
 
 Maribavir was detected at low levels in the choroid plexus of rats and the brain and CSF of the monkey (see section 4.4 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Carcinogenesis
 
 No carcinogenic potential was identified in rats up to 100 mg/kg/day at which exposures in males and females were 0.2 and 0.36 times, respectively the human exposure at the RHD. In male mice, an equivocal elevation in the incidence of haemangioma, haemangiosarcoma, and combined haemangioma/ haemangiosarcoma across multiple tissues at 150 mg/kg/day is of uncertain relevance in terms of its translation to human risk given the lack of an effect in female mice or in rats after 104 weeks of administration, lack of neoplastic proliferative effects in male and female mice after 13 weeks administration, the negative genotoxicity package and the difference in duration of administration in humans. There were no carcinogenic findings at the next lower dose of 75 mg/kg/day, which is approximately 0.35 and 0.25 in males and females, respectively, the human exposure at the RHD.
@@ -550,6 +541,8 @@ No carcinogenic potential was identified in rats up to 100 mg/kg/day at which ex
 ## Mutagenesis
 
 Maribavir was not mutagenic in a bacterial mutation assay, nor clastogenic in the bone marrow micronucleus assay. In mouse lymphoma assays, maribavir demonstrated mutagenic potential in the absence of metabolic activation and the results were equivocal in the presence of metabolic activation. Overall, the weight of evidence indicates that maribavir does not exhibit genotoxic potential.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reproduction
 
@@ -571,13 +564,9 @@ In rabbits, maribavir was not teratogenic at doses up to 100 mg/kg/day (approxim
 
 Microcrystalline cellulose (E460(i)) Sodium starch glycolate Magnesium stearate (E470b)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Film-coating
 
-Polyvinyl alcohol (E1203) Macrogol (polyethylene glycol) (E1521) Titanium dioxide (E171) Talc (E553b)
-
-Brilliant blue FCF aluminum lake (EU) (E133)
+Polyvinyl alcohol (E1203) Macrogol (polyethylene glycol) (E1521) Titanium dioxide (E171) Talc (E553b) Brilliant blue FCF aluminum lake (EU) (E133)
 
 ## 6.2 Incompatibilities
 
@@ -590,6 +579,8 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 Do not store above 30 °C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -605,15 +596,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
 
 Ireland
 
@@ -621,17 +604,13 @@ E-mail: medinfoEMEA@takeda.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1672/001
-
-EU/1/22/1672/002
+EU/1/22/1672/001 EU/1/22/1672/002
 
 EU/1/22/1672/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 09 November 2022
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -660,7 +639,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -668,14 +647,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -805,7 +784,7 @@ Each tablet contains 200 mg of maribavir.
 
 ## Film-coated tablet
 
-- 28 film-coated tablets
+28 film-coated tablets
 
 56 film-coated tablets
 
@@ -905,8 +884,8 @@ CMV is a virus that a lot of people have without symptoms and normally just stay
 
 ## Do not take LIVTENCITY
 
--  if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
--  if you take either of these medicines:
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you take either of these medicines:
 - o ganciclovir (used to manage CMV infection)
 - o valganciclovir (used to manage CMV infection)
 
@@ -932,21 +911,21 @@ There are some medicines you must not take with LIVTENCITY. See list under 'Do n
 
 Also tell your doctor if you are taking any of the following medicines. This is because your doctor may have to change your medicines or change the dose of your medicines:
 
--  rifabutin, rifampicin - for tuberculosis (TB) or related infections
--  St. John's wort ( Hypericum perforatum ) - a herbal medicine for depression and sleep problems
--  statins, such as atorvastatin, fluvastatin, rosuvastatin, simvastatin, pravastatin, pitavastatin - for high cholesterol
--  carbamazepine, phenobarbital, phenytoin - usually for fits or seizures (epilepsy)
--  efavirenz, etravirine, nevirapine - used to treat HIV infection
--  antacid (aluminium and magnesium hydroxide oral suspension) - for heartburn or indigestion due to excess stomach acid
--  famotidine - for heartburn or indigestion due to excess stomach acid
--  digoxin - heart medicine
--  clarithromycin- antibiotic
--  ketoconazole and voriconazole - for fungal infections
--  diltiazem - heart medicine
--  dextromethorphan - cough medicine
--  warfarin - anticoagulant
--  oral contraceptive steroids - for birth control
--  midazolam - used as a sedative
+- rifabutin, rifampicin - for tuberculosis (TB) or related infections
+- St. John's wort ( Hypericum perforatum ) - a herbal medicine for depression and sleep problems
+- statins, such as atorvastatin, fluvastatin, rosuvastatin, simvastatin, pravastatin, pitavastatin - for high cholesterol
+- carbamazepine, phenobarbital, phenytoin - usually for fits or seizures (epilepsy)
+- efavirenz, etravirine, nevirapine - used to treat HIV infection
+- antacid (aluminium and magnesium hydroxide oral suspension) - for heartburn or indigestion due to excess stomach acid
+- famotidine - for heartburn or indigestion due to excess stomach acid
+- digoxin - heart medicine
+- clarithromycin- antibiotic
+- ketoconazole and voriconazole - for fungal infections
+- diltiazem - heart medicine
+- dextromethorphan - cough medicine
+- warfarin - anticoagulant
+- oral contraceptive steroids - for birth control
+- midazolam - used as a sedative
 
 You can ask your doctor, pharmacist or nurse for a list of medicines that may interact with LIVTENCITY.
 
@@ -994,19 +973,19 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people):
 
--  changes in the way things taste
--  feeling sick (nausea)
--  diarrhoea
--  being sick (vomiting)
--  tiredness (fatigue)
+- changes in the way things taste
+- feeling sick (nausea)
+- diarrhoea
+- being sick (vomiting)
+- tiredness (fatigue)
 
 Common (may affect up to 1 in 10 people):
 
--  Increased blood levels of medicines used to prevent transplant rejections
--  stomach (abdominal) pain
--  loss of appetite
--  headache
--  weight loss
+- Increased blood levels of medicines used to prevent transplant rejections
+- stomach (abdominal) pain
+- loss of appetite
+- headache
+- weight loss
 
 ## Reporting of side effects
 
@@ -1028,12 +1007,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What LIVTENCITY contains
 
-- -The active substance is maribavir. Each film-coated tablet contains 200 mg maribavir
-- -The other ingredients (excipients) are
+- -The active substance is maribavir. Each film-coated tablet contains 200 mg maribavir.
+- -The other ingredients (excipients) are:
 - -Tablet core:
-- -Microcrystalline cellulose (E460(i)), Sodium starch glycolate (see section 2), Magnesium stearate (E470b)
+- -Microcrystalline cellulose (E460(i)), sodium starch glycolate (see section 2), magnesium stearate (E470b).
 - -Film coating:
-- -Polyvinyl alcohol (E1203), Macrogol (i.e. polyethylene glycol) (E1521), Titanium dioxide (E171), Talc (E553b), Brilliant blue FCF aluminum lake (EU) (E133)
+- -Polyvinyl alcohol (E1203), macrogol (i.e. polyethylene glycol) (E1521), titanium dioxide (E171), talc (E553b), brilliant blue FCF aluminum lake (EU) (E133).
 
 ## What LIVTENCITY looks like and contents of the pack
 
@@ -1045,23 +1024,17 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
-
-Ireland
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## Manufacturer
 
-Takeda Ireland Limited Bray Business Park Kilruddery Co. Wicklow Ireland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Takeda Ireland Limited Bray Business Park Kilruddery Co. Wicklow Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11
-
-medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -1073,7 +1046,7 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722 medinfoEMEA@
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
@@ -1081,7 +1054,7 @@ Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
@@ -1089,7 +1062,7 @@ Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
@@ -1117,7 +1090,7 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -1133,7 +1106,9 @@ Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
+Takeda Pharma Sp. z o.o. Tel.: +48223062447
+
+medinfoEMEA@takeda.com
 
 ## Portugal
 
@@ -1145,64 +1120,40 @@ Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
-## Slovenská republika
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-medinfoEMEA@takeda.com
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 ## Italia
 
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
-
-medinfoEMEA@takeda.com
-
-## Suomi/Finland
-
-Takeda Oy
-
-Puh/Tel: 0800 774 051
-
-medinfoEMEA@takeda.com
+Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-Τakeda ΕΛΛΑΣ Α.Ε.
-
-Τηλ.: +30 210 6387800
-
-medinfoEMEA@takeda.com
-
-## Sverige
-
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Latvija
 
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel: +44 (0) 2830 640 902 medinfoEMEA@takeda.com
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
+
+## Sverige
+
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com

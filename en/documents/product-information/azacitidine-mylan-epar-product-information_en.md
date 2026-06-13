@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-12 11:06:25
+document_datetime: 2026-06-12 11:27:05
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/azacitidine-mylan-epar-product-information_en.pdf
 document_name: azacitidine-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 9.5731431
-conversion_datetime: 2025-12-25 01:42:27.748544
+processing_time: 12.3037372
+conversion_datetime: 2026-06-13 20:23:54.19596
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -75,19 +75,17 @@ Liver function tests, serum creatinine and serum bicarbonate should be determine
 
 Haematological toxicity is defined as the lowest count reached (nadir) in a given cycle if platelets ≤ 50.0 x 10 9 /L and/or absolute neutrophil count (ANC) ≤ 1 x 10 9 /L.
 
-Recovery is defined as an increase of cell line(s) where haematological toxicity was observed of at least half of the absolute difference of nadir and the baseline count plus the nadir count (i.e. blood count at recovery ≥ nadir count + (0.5 x [|baseline count - nadir count|]).
+Recovery is defined as an increase of cell line(s) where haematological toxicity was observed of at least half of the absolute difference of nadir and the baseline count plus the nadir count (i.e. blood count at recovery ≥ nadir count + (0.5 x [ |baseline count - nadir count|]).
 
-## Patients without reduced baseline blood counts (i.e. white blood cells (WBC) ≥ 3.0 x 10 9 /L and ANC ≥ 1.5 x 10 9 /L, and platelets ≥ 75.0 x 10 9 /L) prior to the first treatment
+Patients without reduced baseline blood counts (i.e. white blood c ells (WBC) ≥ 3.0 x 10 9 /L and ANC ≥ 1.5 x 10 9 /L , and platelets ≥ 75.0 x 10 9 /L) prior to the first treatment
 
 If haematological toxicity is observed following Azacitidine Mylan treatment, the next cycle of the therapy should be delayed until the platelet count and the ANC have recovered. If recovery is achieved within 14 days, no dose adjustment is necessary. However, if recovery has not been achieved within 14 days, the dose should be reduced according to the following table. Following dose modifications, the cycle duration should return to 28 days.
 
 | Cycle Nadir count   | Cycle Nadir count     | Dose in the next cycle, if recovery* is not achieved within 14 days (%)   |
 |---------------------|-----------------------|---------------------------------------------------------------------------|
-| ANC (x 10 9 /L)     | Platelets (x 10 9 /L) | Dose in the next cycle, if recovery* is not achieved within 14 days (%)   |
+| ANC (x 10 9 /L)     | Platelets (x 10 9 /L) |                                                                           |
 | ≤ 1.0               | ≤ 50.0                | 50%                                                                       |
 | > 1.0               | > 50.0                | 100%                                                                      |
-
-*Recovery = counts ≥ nadir count + (0.5 x [baseline count - nadir count])
 
 Patients with reduced baseline blood counts (i.e. WBC &lt; 3.0 x 10 9 /L or ANC &lt; 1.5 x 10 9 /L or platelets &lt; 75.0 x 10 9 /L) prior to the first treatment
 
@@ -100,8 +98,6 @@ If the decrease in WBC or ANC or platelets is greater than 50% from that prior t
 |                           | Recovery* ≤ 21 days                                                     | Recovery* > 21 days                                                     |
 | 15-50%                    | 100%                                                                    | 50%                                                                     |
 | < 15%                     | 100%                                                                    | 33%                                                                     |
-
-*Recovery = counts ≥ nadir count + (0.5 x [baseline count - nadir count])
 
 Following dose modifications, the next cycle duration should return to 28 days.
 
@@ -175,11 +171,9 @@ The patients at risk of tumour lysis syndrome are those with high tumour burden 
 
 ## Differentiation syndrome
 
-Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving injectable azacitidine. Differentiation syndrome may be fatal and symptoms and
+Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving injectable azacitidine. Differentiation syndrome may be fatal and symptoms and clinical findings include respiratory distress, pulmonary infiltrates, fever, rash, pulmonary oedema, peripheral oedema, rapid weight gain, pleural effusions, pericardial effusions, hypotension and renal dysfunction (see section 4.8). Treatment with high-dose IV corticosteroids and haemodynamic monitoring should be considered at first onset of symptoms or signs suggestive of differentiation syndrome. Temporary discontinuation of injectable azacitidine should be considered until resolution of symptoms and if resumed, caution is advised.
 
 <div style=\"page-break-after: always\"></div>
-
-clinical findings include respiratory distress, pulmonary infiltrates, fever, rash, pulmonary oedema, peripheral oedema, rapid weight gain, pleural effusions, pericardial effusions, hypotension and renal dysfunction (see section 4.8). Treatment with high-dose IV corticosteroids and haemodynamic monitoring should be considered at first onset of symptoms or signs suggestive of differentiation syndrome. Temporary discontinuation of injectable azacitidine should be considered until resolution of symptoms and if resumed, caution is advised.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -191,7 +185,7 @@ No formal clinical drug interaction studies with azacitidine have been conducted
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential / Contraception in males and females
+## Women of childbearing potential / Contraception in males and females
 
 Women of childbearing potential have to use effective contraception during and for at least 6 months after treatment. Men should be advised not to father a child while receiving treatment and must use effective contraception during and for at least 3 months after treatment.
 
@@ -266,6 +260,10 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 | Renal and urinary disorders                          |                                                                                                                              | renal failure*, haematuria, elevated serum creatinine                                                                                                                | renal tubular acidosis                                      |                                             |                      |
 | General disorders and administration site conditions | pyrexia*, fatigue, asthenia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage (at injection site), malaise, chills, catheter site haemorrhage |                                                             | injection site necrosis (at injection site) |                      |
 | Investigations                                       | weight decreased                                                                                                             |                                                                                                                                                                      |                                                             |                                             |                      |
+
+* = rarely fatal cases have been reported
+
+a = see section 4.4
 
 ## Description of selected adverse reactions
 
@@ -353,11 +351,9 @@ DNA hypomethylation of aberrantly methylated genes involved in normal cell cycle
 
 ## Adult population (MDS, CMML and AML [20-30% marrow blasts])
 
-The efficacy and safety of azacitidine were studied in an international, multicentre, controlled, open-label, randomised, parallel-group, Phase 3 comparative study (AZA PH GL 2003 CL 001) in
+The efficacy and safety of azacitidine were studied in an international, multicentre, controlled, open-label, randomised, parallel-group, Phase 3 comparative study (AZA PH GL 2003 CL 001) in adult patients with: intermediate-2 and high-risk MDS according to the International Prognostic Scoring System (IPSS), refractory anaemia with excess blasts (RAEB), refractory anaemia with excess blasts in transformation (RAEB-T) and modified chronic myelomonocytic leukaemia (mCMML) according to the French American British (FAB) classification system. RAEB-T patients (21-30% blasts) are now considered to be AML patients under the current WHO classification system. Azacitidine plus best supportive care (BSC) (n = 179) was compared to conventional care regimens (CCR). CCR consisted of BSC alone (n = 105), low-dose cytarabine plus BSC (n = 49) or standard induction chemotherapy plus BSC (n = 25). Patients were pre-selected by their physician to 1 of the 3 CCR prior to randomisation. Patients received this pre-selected regimen if not randomised to azacitidine. As part of the inclusion criteria, patients were required to have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2. Patients with secondary MDS were excluded from the study. The primary endpoint of the study was overall survival. Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days, followed by a rest period of 21 days (28-day treatment cycle) for a median of 9 cycles (range = 1-39) and a mean of 10.2 cycles. Within the Intent to Treat population (ITT), the median age was 69 years (range 38 to 88 years).
 
 <div style=\"page-break-after: always\"></div>
-
-adult patients with: intermediate-2 and high-risk MDS according to the International Prognostic Scoring System (IPSS), refractory anaemia with excess blasts (RAEB), refractory anaemia with excess blasts in transformation (RAEB-T) and modified chronic myelomonocytic leukaemia (mCMML) according to the French American British (FAB) classification system. RAEB-T patients (21-30% blasts) are now considered to be AML patients under the current WHO classification system. Azacitidine plus best supportive care (BSC) (n = 179) was compared to conventional care regimens (CCR). CCR consisted of BSC alone (n = 105), low-dose cytarabine plus BSC (n = 49) or standard induction chemotherapy plus BSC (n = 25). Patients were pre-selected by their physician to 1 of the 3 CCR prior to randomisation. Patients received this pre-selected regimen if not randomised to azacitidine. As part of the inclusion criteria, patients were required to have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2. Patients with secondary MDS were excluded from the study. The primary endpoint of the study was overall survival. Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days, followed by a rest period of 21 days (28-day treatment cycle) for a median of 9 cycles (range = 1-39) and a mean of 10.2 cycles. Within the Intent to Treat population (ITT), the median age was 69 years (range 38 to 88 years).
 
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), azacitidine treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001. The hazard ratio (HR) for the treatment effect was 0.58 (95% CI: 0.43, 0.77). The two-year survival rates were 50.8% in patients receiving azacitidine versus 26.2% in patients receiving CCR (p &lt; 0.0001).
 
@@ -381,9 +377,7 @@ Response was assessed by the investigator or by the Independent Review Committee
 
 In patients with one or more cytogenetic abnormalities at baseline, the percentage of patients with a major cytogenetic response was similar in the azacitidine and combined CCR groups. Minor cytogenetic response was statistically significantly (p = 0.0015) higher in the azacitidine group (34%) compared with the combined CCR group (10%).
 
-Adult population aged 65 years or older with AML with &gt; 30% marrow blasts
-
-The results presented below represent the intent-to-treat population studied in AZA-AML-001 (see section 4.1 for the approved indication).
+Adult population aged 65 years or older with AML with &gt; 30% marrow blasts The results presented below represent the intent-to-treat population studied in AZA-AML-001 (see section 4.1 for the approved indication).
 
 The efficacy and safety of azacitidine was studied in an international, multicentre, controlled, open-label, parallel group Phase 3 study in patients 65 years and older with newly diagnosed de novo or secondary AML with &gt; 30% bone marrow blasts according to the WHO classification, who were not eligible for HSCT. Azacitidine plus BSC (n = 241) was compared to CCR. CCR consisted of BSC alone (n = 45), low dose cytarabine plus BSC (n = 158), or standard intensive chemotherapy with cytarabine and anthracycline plus BSC (n = 44). Patients were pre-selected by their physician to 1 of the 3 CCRs prior to randomization. Patients received the pre-selected regimen if not randomised to azacitidine. As part of the inclusion criteria, patients were required to have an ECOG performance status of 0-2 and intermediate- or poor-risk cytogenetic abnormalities. The primary endpoint of the study was overall survival.
 
@@ -401,7 +395,7 @@ The Cox PH model adjusted for pre-specified baseline prognostic factors defined 
 
 In addition, although the study was not powered to demonstrate a statistically significant difference when comparing azacitidine to the preselection CCR treatment groups, the survival of azacitidine treated patients was longer when compared to CCR treatment options BSC alone, low-dose cytarabine plus BSC and were similar when compared to standard intensive chemotherapy plus BSC.
 
-In all pre-specified subgroups (age [&lt; 75 years and ≥ 75 years], gender, race, ECOG performance status [0 or 1 and 2], baseline cytogenetic risk [intermediate and poor], geographic region, WHO classification of AML [including AML with myelodysplasia-related changes], baseline WBC count [≤ 5 x10 9 /L and &gt; 5 x 10 9 /L], baseline bone marrow blasts [≤ 50% and &gt; 50%] and prior history of MDS) there was a trend in OS benefit in favour of azacitidine. In a few pre-specified subgroups, the OS HR reached statistical significance including patients with poor cytogenetic risk, patients with AML with myelodysplasia-related changes, patients &lt; 75 years, female patients and white patients.
+In all pre-specified subgroups ( age [&lt; 75 years and ≥ 75 years], gender, race, ECOG performance status [ 0 or 1 and 2], baseline cytogenetic risk [ intermediate and poor], geographic region, WHO classification of AML [ including AML with myelodysplasia-related changes], baseline WBC count [≤ 5 x10 9 /L and &gt; 5 x 10 9 /L], baseline bone marrow blasts [≤ 50% and &gt; 50%] and prior history of MDS) there was a trend in OS benefit in favour of azacitidine. In a few pre-specified subgroups, the OS HR reached statistical significance including patients with poor cytogenetic risk, patients with AML with myelodysplasia-related changes, patients &lt; 75 years, female patients and white patients.
 
 Haematologic and cytogenetic responses were assessed by the investigator and by the IRC with similar results. Overall response rate (complete remission [CR] + complete remission with incomplete blood count recovery [CRi]) as determined by the IRC was 27.8% in the azacitidine group and 25.1% in the combined CCR group (p = 0.5384). In patients who achieved CR or CRi, the median duration of remission was 10.4 months (95% CI = 7.2, 15.2) for the azacitidine subjects and 12.3 months (95% CI = 9.0, 17.0) for the CCR subjects. A survival benefit was also demonstrated in patients that had not achieved a complete response for azacitidine compared to CCR.
 
@@ -479,7 +473,7 @@ Pharmacokinetic data from Study AZA-JMML-001 were pooled together and compared t
 
 In Study AZA-AML-004, pharmacokinetic analysis was determined from 6 of the 7 paediatric patients, which had at least one measurable postdose pharmacokinetic concentration (see section 5.1). The median age (range) of the AML patients was 6.7 (2-12) years.
 
-Following multiple doses of 100 mg/m 2 , the geometric means for Cmax and AUC0-tau on Cycle 1 Day 7 were 1557 ng/mL and 899.6 ng∙h/mL, respectively, with high inter-subject variability (CV% of 201.6% and 87.8%, respectively) observed. Azacitidine rapidly reached Cmax, with a median time of 0.090 hours post-intravenous administration and declined with a geometric mean t1/2 of 0.380 hours. The geometric means for clearance and volume of distribution were 127.2 L/h and 70.2 L, respectively.
+Following multiple doses of 100 mg/m 2 , the geometric means for Cmax and AUC0-tau on Cycle 1 Day 7 were 1557 ng/mL and 899.6 ng∙h/mL, respectively, with high inter -subject variability (CV% of 201.6% and 87.8%, respectively) observed. Azacitidine rapidly reached Cmax, with a median time of 0.090 hours post-intravenous administration and declined with a geometric mean t1/2 of 0.380 hours. The geometric means for clearance and volume of distribution were 127.2 L/h and 70.2 L, respectively.
 
 Pharmacokinetic (azacitidine) exposure observed in children with AML at molecular relapse after CR1 was comparable to exposure from pooled data of 10 children with MDS and 18 children with JMML and also comparable to azacitidine exposure in adults with MDS.
 
@@ -600,9 +594,7 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1426/001
-
-EU/1/20/1426/002
+EU/1/20/1426/001 EU/1/20/1426/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -627,7 +619,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release APIS Labor GmbH Resslstraße 9 Ebenthal 9065 Austria
+Name and address of the manufacturer(s) responsible for batch release
+
+APIS Labor GmbH Resslstraße 9 Ebenthal 9065 Austria
 
 Or
 
@@ -639,7 +633,7 @@ Drehm Pharma GmbH Hietzinger Hauptstraße 37 Wien, 1130, Austria
 
 Or
 
-Mylan Germany GmbH Benzstrasse 1, Bad Homburg 61352, Germany
+Viatris Germany GmbH Benzstrasse 1, Bad Homburg 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -764,23 +758,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Azacitidine Mylan 25 mg/mL powder for injection azacitidine Subcutaneous use (SC)
 
-2.
+## 2. METHOD OF ADMINISTRATION
 
-METHOD OF ADMINISTRATION
-
-3.
+3. EXPIRY DATE
 
 EXP
 
-4.
+## 4. BATCH NUMBER
 
 Lot
 
@@ -788,22 +778,17 @@ Lot
 
 100 mg
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Cytotoxic
-
-EXPIRY DATE
-
-BATCH NUMBER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Azacitidine Mylan 25 mg/mL powder for suspension for injection
 
@@ -918,7 +903,7 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Tell your doctor straight away if you notice any of the following side effects:
+## Tell your doctor straight away if you notice any of the following side effects:
 
 - Drowsiness, shaking, jaundice, abdominal bloating and easy bruising . These may be symptoms of liver failure and can be life-threatening.
 - Swelling of the legs and feet, back pain, reduced passing of water, increased thirst, rapid pulse, dizziness and nausea, vomiting or reduced appetite and feelings of confusion, restlessness or fatigue. These may be symptoms of kidney failure and can be life-threatening.
@@ -1084,11 +1069,9 @@ Drehm Pharma GmbH Hietzinger Hauptstraße 37 Wien, 1130, Austria
 
 Or
 
-Mylan Germany GmbH Benzstrasse 1, Bad Homburg 61352, Germany
+Viatris Germany GmbH Benzstrasse 1, Bad Homburg 61352, Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1098,11 +1081,13 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел.: +359 2 44 55 400
+Тел .
 
-## Česká republika
+: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1112,37 +1097,47 @@ Tel: + 420 222 004 400
 
 Viatris ApS
 
-Tlf: +45 28 11 69 32
+Tlf
+
+: +45 28 11 69 32
 
 ## Deutschland
 
 Viatris Healthcare GmbH
 
-Tel: +49 800 0700 800
+Tel:
+
++49 800 0700 800
 
 ## Eesti
 
 Viatris OÜ
 
-Tel: + 372 6363 052
+Tel:
+
++ 372 6363 052
 
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 002
+Τηλ: +30 210 0 100 002
 
 ## España
 
 Viatris Pharmaceuticals, S.L.
 
-Tel: + 34 900 102 712
+Tel:
+
++ 34 900 102 712
 
 ## France
 
 Viatris Santé
 
-Tél: +33 4 37 25 75 00
+Tél:
+
++33 4 37 25 75 00
 
 ## Hrvatska
 
@@ -1154,13 +1149,17 @@ Tel: +385 1 23 50 599
 
 Viatris Limited
 
-Tel: +353 1 8711600
+Tel:
+
++353 1 8711600
 
 ## Ísland
 
 Icepharma hf.
 
-Sími: +354 540 8000
+Sími
+
+: +354 540 8000
 
 ## Italia
 
@@ -1172,13 +1171,15 @@ Tel: + 39 (0) 2 612 46921
 
 Viatris UAB
 
-Tel: +370 5 205 1288
+Tel:
+
++370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
 Viatris
 
-Tél/Tel: + 32 (0)2 658 61 00
+Tél/ Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
@@ -1204,13 +1205,17 @@ Tel: +31 (0)20 426 3300
 
 Viatris AS
 
-Tlf: + 47 66 75 33 00
+Tlf : + 47 66 75 33 00
 
 ## Österreich
 
 Viatris Austria GmbH
 
-Tel: +43 1 86390
+Tel:
+
++43 1
+
+86390
 
 ## Polska
 
@@ -1240,7 +1245,11 @@ Tel: + 386 1 23 63 180
 
 Viatris Slovakia s.r.o.
 
-Tel: +421 2 32 199 100
+Tel:
+
++421
+
+2 32 199 100
 
 ## Suomi/Finland
 
@@ -1250,17 +1259,17 @@ Puh/Tel: +358 20 720 9555
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
+CPO Pharmaceuticals Limited Τηλ : +357 22863100
 
-Τηλ: +357 22863100
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
 Viatris SIA
 
-Tel: +371 676 055 80
+Tel:
 
-<div style=\"page-break-after: always\"></div>
++371 676 055 80
 
 ## This leaflet was last revised in {MM/YYYY}
 

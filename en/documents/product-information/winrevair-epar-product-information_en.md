@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 11:30:47
+document_datetime: 2026-06-11 11:53:54
 document_pages: 139
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/winrevair-epar-product-information_en.pdf
 document_name: winrevair-epar-product-information_en.pdf
 version: success
-processing_time: 46.2991147
-conversion_datetime: 2026-04-05 12:32:53.447172
+processing_time: 114.318219
+conversion_datetime: 2026-06-13 20:00:17.558975
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -88,12 +88,12 @@ Table 1: Injection volume for dose of 0.3 mg/kg
 | 107.5 - 124.1               |                      0.7 | Kit containing 1 x 45 mg vial |
 | 124.2 - 140.8               |                      0.8 | Kit containing 1 x 45 mg vial |
 | 140.9 - 157.4               |                      0.9 | Kit containing 1 x 45 mg vial |
-| 157.5 - 174.1               |                      1   | Kit containing 1 x 60 mg vial |
+| 157.5 - 174.1               |                      1.0 | Kit containing 1 x 60 mg vial |
 | 174.2 - 180.0               |                      1.1 | Kit containing 1 x 60 mg vial |
 
 ## Recommended target dose
 
-Three weeks after a single starting dose of  0.3 mg/kg, the dose should be escalated to the recommended target dose of 0.7 mg/kg after verifying acceptable Hgb and platelet count (see section 4.2 ' Dose adjustments due to increase in haemoglobin or decreased platelet count' ). Treatment should be continued at 0.7 mg/kg every 3 weeks unless dose adjustments are required.
+Three weeks after a single starting dose of  0.3 mg/kg, the dose should be escalated to the recommended target dose of 0.7 mg/kg after verifying acceptable Hgb and platelet count (see section 4.2 'Dose adjustments due to increase in haemoglobin or decreased platelet count' ). Treatment should be continued at 0.7 mg/kg every 3 weeks unless dose adjustments are required.
 
 Table 2: Injection volume for dose of 0.7 mg/kg
 
@@ -105,7 +105,7 @@ Table 2: Injection volume for dose of 0.7 mg/kg
 | 46.1 - 53.2                 |                      0.7 | Kit containing 1 x 45 mg vial  |
 | 53.3 - 60.3                 |                      0.8 | Kit containing 1 x 45 mg vial  |
 | 60.4 - 67.4                 |                      0.9 | Kit containing 1 x 45 mg vial  |
-| 67.5 - 74.6                 |                      1   | Kit containing 1 x 60 mg vial  |
+| 67.5 - 74.6                 |                      1.0 | Kit containing 1 x 60 mg vial  |
 | 74.7 - 81.7                 |                      1.1 | Kit containing 1 x 60 mg vial  |
 | 81.8 - 88.9                 |                      1.2 | Kit containing 1 x 60 mg vial  |
 | 89.0 - 96.0                 |                      1.3 | Kit containing 2 x 45 mg vials |
@@ -115,7 +115,7 @@ Table 2: Injection volume for dose of 0.7 mg/kg
 | 117.5 - 124.6               |                      1.7 | Kit containing 2 x 45 mg vials |
 | 124.7 - 131.7               |                      1.8 | Kit containing 2 x 45 mg vials |
 | 131.8 - 138.9               |                      1.9 | Kit containing 2 x 60 mg vials |
-| 139.0 - 146.0               |                      2   | Kit containing 2 x 60 mg vials |
+| 139.0 - 146.0               |                      2.0 | Kit containing 2 x 60 mg vials |
 | 146.1 - 153.2               |                      2.1 | Kit containing 2 x 60 mg vials |
 | 153.3 - 160.3               |                      2.2 | Kit containing 2 x 60 mg vials |
 | 160.4 - 167.4               |                      2.3 | Kit containing 2 x 60 mg vials |
@@ -168,11 +168,9 @@ It should be reconstituted bef ore use. The reconstituted medicinal product is a
 
 Winrevair should be administered by subcutaneous injection in the abdomen (at least 5 cm away from navel), upper arm, or upper thigh. It should not be injected into sites that are scarred, tender, or bruised. The same injection site should not be used on two consecutive injections.
 
-Winrevair powder and solvent for solution for injection is intended for use under the guidance of a healthcare professional (HCP). Patients and caregivers may administer the medicinal product when considered appropriate and when they receive training from a HCP in how to reconstitute, prepare, measure and inject Winrevair powder and solvent for solution for injection. A HCP should confirm at a subsequent visit, soon af ter training, that the patient or caregiver can perf orm these steps correctly. A HCP should also con sider reconf irming the patient's or caregiver's administration technique if  the
+Winrevair powder and solvent for solution for injection is intended for use under the guidance of a healthcare professional (HCP). Patients and caregivers may administer the medicinal product when considered appropriate and when they receive training from a HCP in how to reconstitute, prepare, measure and inject Winrevair powder and solvent for solution for injection. A HCP should confirm at a subsequent visit, soon af ter training, that the patient or caregiver can perf orm these steps correctly. A HCP should also con sider reconf irming the patient's or caregiver's administration technique if  the dose is adjusted, if the patient requires a dif f erent kit, if  the patient develops erythrocytosis (see section 4.4), or at any time at the discretion of the HCP.
 
 <div style=\"page-break-after: always\"></div>
-
-dose is adjusted, if the patient requires a dif f erent kit, if  the patient develops erythrocytosis (see section 4.4), or at any time at the discretion of the HCP.
 
 Refer to section 6.6 for detailed instructions on the proper preparation and administration of Winrevair.
 
@@ -317,7 +315,7 @@ Cases of new-onset or worsening of pericardial effusions (including cardiac tamp
 
 ## Elderly
 
-With the exception of bleeding events (a collective group of adverse events of  clinical interest), there were no differences in safety between the &lt; 65-yearold and ≥ 65-year-old subgroups.
+With the exception of bleeding events (a collective group of adverse events of  clinical interest), there were no differences in safety between the &lt; 65-year-o ld and ≥ 65-year-old subgroups.
 
 In STELLAR, bleeding events occurred more commonly in the older sotatercept subgroup (52% versus 31.9% in patients &lt; 65-year-old); however, there was no notable imbalance between age categories for any specific bleeding event. Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 8.0% of patients ≥ 65-year-old taking sotatercept.
 
@@ -357,11 +355,9 @@ Sotatercept consists of a recombinant homodimeric activin receptor type IIA-Fc (
 
 A phase 2 clinical study (PULSAR) assessed pulmonary vascular resistance (PVR) in patients with PAH after 24 weeks of treatment with sotatercept. The decrease from baseline in PVR was signif icantly greater in the sotatercept 0.7 mg/kg and 0.3 mg/kg groups compared with the placebo group. The placebo-adjusted least squares (LS) mean difference from baseline was -269.4 dyn*sec/cm 5 (95% CI: -365.8, -173.0) f or the sotatercept 0.7 mg/kg group and -151.1 dyn*sec/cm 5 (95% CI: -249.6, -52.6) for the sotatercept 0.3 mg/kg group.
 
-In rat models of PAH, a sotatercept analogue reduced expression of pro-inflammatory markers at the pulmonary arterial wall, reduced leucocyte recruitment, inhibited proliferation of endothelial and smooth muscle cells, and promoted apoptosis in diseased vasculature. These cellular changes were
+In rat models of PAH, a sotatercept analogue reduced expression of pro-inflammatory markers at the pulmonary arterial wall, reduced leucocyte recruitment, inhibited proliferation of endothelial and smooth muscle cells, and promoted apoptosis in diseased vasculature. These cellular changes were associated with thinner vessel walls, reversed arterial and right ventricular remodelling, and improved haemodynamics.
 
 <div style=\"page-break-after: always\"></div>
-
-associated with thinner vessel walls, reversed arterial and right ventricular remodelling, and improved haemodynamics.
 
 ## Immunogenicity
 
@@ -608,11 +604,9 @@ See the separate Instructions for Use booklet provided in the kit for detailed s
 - The prefilled syringe provided with the vial 45 mg contains 1.0 mL of sterile water.
 - The prefilled syringe provided with the vial 60 mg contains 1.3 mL of sterile water.
 
-After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The
+After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration after reconstitution is 50 mg/mL.
 
 <div style=\"page-break-after: always\"></div>
-
-final concentration after reconstitution is 50 mg/mL.
 
 - -Gently swirl the vial to reconstitute the medicinal product. Do not shake or vigorously agitate.
 - -Allow the vial to stand f or up to 3 minutes to allow bubbles to disappear.
@@ -729,7 +723,7 @@ Table 1: Injection volume for dose of 0.3 mg/kg
 | 107.5 - 124.1               |                      0.7 | Pack containing 1 x 45 mg vial |
 | 124.2 - 140.8               |                      0.8 | Pack containing 1 x 45 mg vial |
 | 140.9 - 157.4               |                      0.9 | Pack containing 1 x 45 mg vial |
-| 157.5 - 174.1               |                      1   | Pack containing 1 x 60 mg vial |
+| 157.5 - 174.1               |                      1.0 | Pack containing 1 x 60 mg vial |
 | 174.2 - 180.0               |                      1.1 | Pack containing 1 x 60 mg vial |
 
 ## Recommended target dose
@@ -748,7 +742,7 @@ Table 2: Injection volume for dose of 0.7 mg/kg
 | 46.1 - 53.2                 |                      0.7 | Pack containing 1 x 45 mg vial  |
 | 53.3 - 60.3                 |                      0.8 | Pack containing 1 x 45 mg vial  |
 | 60.4 - 67.4                 |                      0.9 | Pack containing 1 x 45 mg vial  |
-| 67.5 - 74.6                 |                      1   | Pack containing 1 x 60 mg vial  |
+| 67.5 - 74.6                 |                      1.0 | Pack containing 1 x 60 mg vial  |
 | 74.7 - 81.7                 |                      1.1 | Pack containing 1 x 60 mg vial  |
 | 81.8 - 88.9                 |                      1.2 | Pack containing 1 x 60 mg vial  |
 | 89.0 - 96.0                 |                      1.3 | Pack containing 2 x 45 mg vials |
@@ -758,7 +752,7 @@ Table 2: Injection volume for dose of 0.7 mg/kg
 | 117.5 - 124.6               |                      1.7 | Pack containing 2 x 45 mg vials |
 | 124.7 - 131.7               |                      1.8 | Pack containing 2 x 45 mg vials |
 | 131.8 - 138.9               |                      1.9 | Pack containing 2 x 60 mg vials |
-| 139.0 - 146.0               |                      2   | Pack containing 2 x 60 mg vials |
+| 139.0 - 146.0               |                      2.0 | Pack containing 2 x 60 mg vials |
 | 146.1 - 153.2               |                      2.1 | Pack containing 2 x 60 mg vials |
 | 153.3 - 160.3               |                      2.2 | Pack containing 2 x 60 mg vials |
 | 160.4 - 167.4               |                      2.3 | Pack containing 2 x 60 mg vials |
@@ -791,11 +785,9 @@ No dose adjustment is required in elderly patients ≥ 65 years old (see section
 
 ## Renal impairment
 
-No dose adjustment is required based on renal impairment (see section 5.2). Limited data are available
+No dose adjustment is required based on renal impairment (see section 5.2). Limited data are available on the use of sotatercept in PAH patients with severe renal impairment (estimated glomerular f iltration rate (eGFR) &lt; 30 mL/min/1.73m 2 ).
 
 <div style=\"page-break-after: always\"></div>
-
-on the use of sotatercept in PAH patients with severe renal impairment (estimated glomerular f iltration rate (eGFR) &lt; 30 mL/min/1.73m 2 ).
 
 ## Hepatic impairment
 
@@ -955,11 +947,9 @@ Cases of new-onset or worsening of pericardial effusions (including cardiac tamp
 
 With the exception of bleeding events (a collective group of adverse events of  clinical interest), there were no differences in safety between the &lt; 65-yearold and ≥ 65-year-old subgroups.
 
-In STELLAR, bleeding events occurred more commonly in the older sotatercept subgroup (52% versus 31.9% in patients &lt; 65-year-old); however, there was no notable imbalance between age
+In STELLAR, bleeding events occurred more commonly in the older sotatercept subgroup (52% versus 31.9% in patients &lt; 65-year-old); however, there was no notable imbalance between age categories for any specific bleeding event. Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 8.0% of patients ≥ 65-year-old taking sotatercept.
 
 <div style=\"page-break-after: always\"></div>
-
-categories for any specific bleeding event. Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 8.0% of patients ≥ 65-year-old taking sotatercept.
 
 In ZENITH, bleeding events occurred more commonly in the older sotatercept subgroup (73.3% versus 60.7% in patients &lt; 65-year-old). Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 13.3% of patients ≥ 65-year-old taking sotatercept.
 
@@ -1017,13 +1007,11 @@ The primary efficacy endpoint was the change from baseline at Week 24 in 6-Minut
 
 The secondary endpoints included improvements in multicomponent improvement (MCI), PVR, Nterminal pro-B-type natriuretic peptide (NT-proBNP), WHO FC, time to death or first occurrence of clinical worsening events.
 
-MCI was a pre-defined endpoint measured by the proportion of patients achieving all three of the following criteria at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m),
+MCI was a pre-defined endpoint measured by the proportion of patients achieving all three of the following criteria at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m), improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NTproBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II.
 
 <div style=\"page-break-after: always\"></div>
 
-improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NTproBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II.
-
-Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of  PAH (worsened WHO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
+Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of PAH (worsened W HO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
 
 At Week 24, 38.9% of sotatercept-treated patients showed improvement in MCI versus 10.1% in the placebo group (p &lt; 0.001). The median treatment difference in PVR between sotatercept and placebo group was -234.6 dyn*sec/cm 5 (95% CI: -288.4, -180.8; p &lt; 0.001). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was -441.6 pg/mL (95% CI: -573.5, 309.6; p &lt; 0.001). Improvement in WHO FC from baseline occurred in 29% of patients in sotatercept versus 13.8% in placebo (p &lt; 0.001).
 
@@ -1041,7 +1029,7 @@ Table 4: Death or clinical worsening events
 | PAH-specific hospitalisation (≥ 24 hours)                                                     | 0 (0.0)                 | 8 (5.0)             |
 | Deterioration ofPAH †                                                                         | 4 (2.5)                 | 15 (9.4)            |
 
-* A subject can have more than one assessment recorded f or their f irst event of clinical worsening. There were 2 participants receiving placebo and no participant receiving sotatercept who had more than one assessment recorded for their first event of clin ical worsening. This analysis excluded the component ' need to initiate rescue therapy with an approved PAH therapy or need to increase the dose of  inf usion prostacyclin by 10% or more'.
+* A subject can have more than one assessment recorded f or their f irst event of clinical worsening. There were 2 participants receiving placebo and no participant receiving sotatercept who had more than one assessment recorded for their first event of clinical worsening. This analysis excluded the component ' need to initiate rescue therapy with an approved PAH therapy or need to increase the dose of  inf usion prostacyclin by 10% or more'.
 
 † Deterioration of PAH is defined by both of the following events occurring at any time, even if  they began at dif ferent times, as compared to their baseline values: (a) Worsened WHO functional class (II to III, III to IV, II to IV, etc.); and (b) Decrease in 6MWD by ≥ 15% (confirmed by two 6MWTs at least 4 hours apart but no more than one week).
 
@@ -1053,7 +1041,7 @@ The efficacy of sotatercept was evaluated in adult patients with PAH WHO FC III 
 
 <div style=\"page-break-after: always\"></div>
 
-Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29.1% were ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
+Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29 .1% were ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
 
 The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff.
 
@@ -1067,7 +1055,7 @@ Table 5: Components of the primary endpoint
 | Participants with first event ofthe composite, by component b          |                              |                          |                                   |
 | All-cause death c                                                      | 6 (7.0)                      | 3 (3.5)                  |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 1 (1.2)                  |                                   |
-| PAHworsening related hospitalisation of≥ 24 hours                      | 8 (9.3)                      | 43 (50.0)                |                                   |
+| PAH worsening related hospitalisation of ≥ 24 hours                    | 8 (9.3)                      | 43 (50.0)                |                                   |
 | Participants with any events ofthe components ofthe composite d        |                              |                          |                                   |
 | All-cause death c,e                                                    | 7 (8.1)                      | 13 (15.1)                |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 6 (7.0)                  |                                   |
@@ -1095,11 +1083,9 @@ Based on the primary endpoint result, the study was stopped for favourable effic
 
 Other secondary endpoints included improvements in transplant-free survival, NT-proBNP, mean pulmonary arterial pressure (PAP), PVR, 6MWD, cardiac output, and WHO FC.
 
-The point estimate for the transplant-free survival f avoured the sotatercept treatment group over the placebo group (HR: 0.34; 95% CI: 0.15, 0.78). At Week 24, the median treatment difference in NTproBNP between the sotatercept and placebo groups was -2339.1 pg/mL (95% CI: (-3378.7 to -1299.4). The median treatment difference in mean PAP between the sotatercept and placebo groups was -21.2 mm Hg (95% CI: -27.8 to -14.6). The median treatment difference in PVR between the sotatercept and placebo groups was -339.6 dyn*sec/cm 5 (95% CI: -511.1 to -168.1). The median treatment dif f erence in 6MWD between the sotatercept and placebo groups was 63.0 m (95% CI: 23.2 to 102.7). The median treatment difference in cardiac output between the sotatercept and placebo
+The point estimate for the transplant-free survival f avoured the sotatercept treatment group over the placebo group (HR: 0.34; 95% CI: 0.15, 0.78). At Week 24, the median treatment difference in NTproBNP between the sotatercept and placebo groups was -2339.1 pg/mL (95% CI: (-3378.7 to -1299.4). The median treatment difference in mean PAP between the sotatercept and placebo groups was -21.2 mm Hg (95% CI: -27.8 to -14.6). The median treatment difference in PVR between the sotatercept and placebo groups was -339.6 dyn*sec/cm 5 (95% CI: -511.1 to -168.1). The median treatment dif f erence in 6MWD between the sotatercept and placebo groups was 63.0 m (95% CI: 23.2 to 102.7). The median treatment difference in cardiac output between the sotatercept and placebo groups was 0.5 L/min (95% CI: -0.2 to 1.2). Improvement in WHO FC from baseline occurred in 55.8% of patients in sotatercept versus 27.9% in placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-groups was 0.5 L/min (95% CI: -0.2 to 1.2). Improvement in WHO FC from baseline occurred in 55.8% of patients in sotatercept versus 27.9% in placebo.
 
 ## Paediatric population
 
@@ -1137,11 +1123,9 @@ The clearance and central volume of distribution of sotatercept increase with in
 
 ## Renal impairment
 
-Sotatercept pharmacokinetics was comparable in PAH patients with mild to moderate renal impairment (eGFR ranging from 30 to 89 mL/min/1.73m 2 ) to those with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ). Severe renal impairment (eGFR ranging from 15 to 30 mL/min/1.73m 2 , n = 3) had no impact on the PK of sotatercept. Additionally, sotatercept PK is comparable between non-PAH end-stage renal disease (ESRD) patients (eGFR &lt; 15 mL/min/1.73m 2 ) and patients with
+Sotatercept pharmacokinetics was comparable in PAH patients with mild to moderate renal impairment (eGFR ranging from 30 to 89 mL/min/1.73m 2 ) to those with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ). Severe renal impairment (eGFR ranging from 15 to 30 mL/min/1.73m 2 , n = 3) had no impact on the PK of sotatercept. Additionally, sotatercept PK is comparable between non-PAH end-stage renal disease (ESRD) patients (eGFR &lt; 15 mL/min/1.73m 2 ) and patients with normal renal function. Sotatercept is not dialyzable during haemodialysis. Limited data are available on the use of sotatercept in PAH patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ).
 
 <div style=\"page-break-after: always\"></div>
-
-normal renal function. Sotatercept is not dialyzable during haemodialysis. Limited data are available on the use of sotatercept in PAH patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ).
 
 ## Hepatic impairment
 
@@ -1297,6 +1281,8 @@ Detailed information on this medicinal product is available on the website of  t
 Name and address of the manufacturer of the biological active substance
 
 Abbvie Bioresearch Center 100 Research Drive Worcester, MA 01605 USA
+
+Samsung Biologics Co. Ltd 300 Songdo Bio-Daero, Yeonsu-Gu, Incheon, 21987, Republic of Korea
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1554,9 +1540,7 @@ NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Solvent for Winrevair 45 mg
 
-2.
-
-METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
 3.
 
@@ -2237,11 +2221,9 @@ D E F
 
 Lift here
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
 
-| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
-|--------------------------------------------|
-| Kit with two 60 mgvials                    |
+Kit with two 60 mg vials
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2264,6 +2246,8 @@ Lot
 6. OTHER
 
 MSD
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON PREFILLED SYRINGE LABEL
 
@@ -3164,7 +3148,7 @@ Tel.: + 371 67025300 dpoc.latvia@msd.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site:
 
-https://www.ema.europa.eu.
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -3186,11 +3170,9 @@ See the separate Instructions for Use booklet provided together with this leaf l
 - The prefilled syringe provided with the vial 45 mg contains 1.0 mL of sterile water.
 - The prefilled syringe provided with the vial 60 mg contains 1.3 mL of sterile water.
 
-After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The
+After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration after reconstitution is 50 mg/mL.
 
 <div style=\"page-break-after: always\"></div>
-
-final concentration after reconstitution is 50 mg/mL.
 
 - -Gently swirl the vial to reconstitute the medicinal product. Do not shake or vigorously agitate.
 - -Allow the vial to stand f or up to 3 minutes to allow bubbles to disappear.
@@ -3788,7 +3770,7 @@ Your prescription amount in 'mL' is  on your prescription. Contact your doctor o
 
 Wash the area thoroughly with soap and water right away.
 
-## What should I do if  I'm not sure I administered my prescribed dose correctly?
+## What should I do  if   I'm  not  sure  I administered my prescribed dose correctly?
 
 Call your doctor or pharmacist.
 
@@ -3798,7 +3780,7 @@ Call your doctor or pharmacist.
 
 ## What should I do if  the plunger of  my dosing syringe moves automatically when I try to withdraw medicine f rom the vial?
 
-Don't  worry  if   your  plunger  moves  slightly  on  its  own  when  y ou are f illing your dosing syringe with medicine.
+Don't worry if  your plunger moves slightly on its own when y ou are f illing your dosing syringe with medicine.
 
 ## With one hand, hold the plunger in place to stop the plunger f rom moving.
 
@@ -4409,15 +4391,13 @@ Pull the cap straight of f  the needle.
 
 Throw away the cap.
 
-Do not touch the plunger until ready to inject  so you don't lose any medicine
+Do not touch the plunger until ready to inject  so you don't lose any medicine Gently pinch and hold a f old of  skin where you will inject. Insert the needle with a dartlike motion at a 45° to 90° angle. This helps you inject directly under the skin (subcutaneous injection).
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-Gently pinch and hold a f old of  skin where you will inject. Insert the needle with a dartlike motion at a 45° to 90° angle. This helps you inject directly under the skin (subcutaneous injection).
 
 <!-- image -->
 
@@ -4433,13 +4413,15 @@ While keeping the plunger pushed in, remove the needle from your skin at the sam
 
 <!-- image -->
 
-To reapply the saf ety shield, push the shield against a f lat surf ace until you hear  a 'click' and see that the needle is covered.
+To reapply the saf ety shield, push the shield against a f lat surf ace until you hear a 'click' and see that the needle is covered.
 
 <!-- image -->
 
 Throw away the dosing syringe and used items in a sharps disposal container.
 
 Do not remove the needle from the dosing syringe
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4488,7 +4470,7 @@ Call your doctor or pharmacist.
 
 ## What should I do if  the plunger of  my dosing syringe moves automatically when I try to withdraw medicine f rom the vial?
 
-Don't  worry  if   your  plunger  moves  slightly  on  its  own  when  you  are  f illing  your  dosing  syringe  with medicine.
+Don't worry if  your plunger moves slightly on its own when you are f illing your dosing syringe with medicine.
 
 ## With one hand, hold the plunger in place to stop the plunger f rom moving.
 

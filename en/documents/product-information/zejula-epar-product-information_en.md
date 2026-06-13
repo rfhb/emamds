@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-26 15:03:30
-document_pages: 68
+document_datetime: 2026-06-10 09:43:03
+document_pages: 71
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zejula-epar-product-information_en.pdf
 document_name: zejula-epar-product-information_en.pdf
 version: success
-processing_time: 18.6776233
-conversion_datetime: 2025-12-25 06:00:54.870904
+processing_time: 38.3588268
+conversion_datetime: 2026-06-13 19:58:07.418087
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,7 +94,7 @@ Table 1: Recommended dose modifications for adverse reactions
 
 | Non-haematologic CTCAE ≥ Grade 3 treatment-related adverse reaction where prophylaxis is not considered feasible or adverse reaction persists despite treatment   | First occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose level per Table 1.           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Non-haematologic CTCAE ≥ Grade 3 treatment-related adverse reaction where prophylaxis is not considered feasible or adverse reaction persists despite treatment   | Second occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose or discontinue per Table 1. |
+|                                                                                                                                                                   | Second occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose or discontinue per Table 1. |
 | CTCAE ≥ Grade 3 treatment-related adverse reaction lasting more than 28 days while patient is administered Zejula 100 mg/day                                      | Discontinue treatment.                                                                                                                                               |
 
 CTCAE=Common Terminology Criteria for Adverse Events.
@@ -106,8 +106,8 @@ Table 3: Dose modifications for haematologic adverse reactions
 | Haematologic adverse reactions have been observed during the treatment with Zejula especially during the initial phase of the treatment. It is therefore recommended to monitor complete blood counts (CBCs) weekly during the first month of treatment and modify the dose as needed. After the first month, it is recommended to monitor CBCs monthly and periodically after this time (see section 4.4). Based on individual laboratory values, weekly monitoring for the second month may be warranted.   | Haematologic adverse reactions have been observed during the treatment with Zejula especially during the initial phase of the treatment. It is therefore recommended to monitor complete blood counts (CBCs) weekly during the first month of treatment and modify the dose as needed. After the first month, it is recommended to monitor CBCs monthly and periodically after this time (see section 4.4). Based on individual laboratory values, weekly monitoring for the second month may be warranted.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Haematologic adverse reaction requiring transfusion or haematopoietic growth factor support                                                                                                                                                                                                                                                                                                                                                                                                                   | • For patients with platelet count ≤10,000/μL, platelet transfusion should be considered. If there are other risk factors for bleeding such as co-administration of anticoagulation or antiplatelet medicinal products, consider interrupting these substances and/or transfusion at a higher platelet count. • Resume Zejula at a reduced dose per Table 1.                                                                                                                                                  |
-| Platelet count <100,000/ μ L                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | First occurrence: • Withhold Zejula for a maximum of 28 days and monitor blood counts weekly until platelet counts return to ≥100,000/µL . • Resume Zejula at same or reduced dose per Table 1 based on clinical evaluation. • If platelet count is <75,000/ μ L at any time, resume at a reduced dose per Table 1. Second occurrence:                                                                                                                                                                        |
-| Neutrophil <1,000/µL or Haemoglobin <8 g/dL                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | undergone dose reduction to 100 mg daily. • Withhold Zejula for a maximum of 28 days and monitor blood counts weekly until neutrophil counts return to ≥1,500/µL or haemoglobin returns to ≥9 g/dL. • Resume Zejula at a reduced dose per Table 1. • Discontinue Zejula if neutrophils and/or haemoglobin have not returned to acceptable levels within 28 days of the dose interruption period, or if the patient has already undergone dose reduction to 100 mg daily.                                      |
+| Platelet count <100,000/μL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | First occurrence: • Withhold Zejula for a maximum of 28 days and monitor blood counts weekly until platelet counts return to ≥100,000/µL . • Resume Zejula at same or reduced dose per Table 1 based on clinical evaluation. • If platelet count is <75,000/μL at any time, resume at a reduced dose per Table 1. Second occurrence:                                                                                                                                                                          |
+| Neutrophil <1,000/µL or Haemoglobin <8 g/dL                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | undergone dose reduction to 100 mg daily. • Withhold Zejula for a maximum of 28 days and monitor blood counts weekly until neutrophil counts return to ≥1,500/µL or haemoglobin returns to ≥9 g/dL . • Resume Zejula at a reduced dose per Table 1. • Discontinue Zejula if neutrophils and/or h aemoglobin have not returned to acceptable levels within 28 days of the dose interruption period, or if the patient has already undergone dose reduction to 100 mg daily.                                    |
 | Confirmed diagnosis of myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML)                                                                                                                                                                                                                                                                                                                                                                                                                        | • Permanently discontinue Zejula.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## Patients with low body weight in recurrent ovarian cancer maintenance treatment
@@ -126,13 +126,13 @@ No dose adjustment is necessary for patients with mild to moderate renal impairm
 
 ## Hepatic impairment
 
-No dose adjustment is needed in patients with mild hepatic impairment (either aspartate aminotransferase (AST) &gt;upper limit of normal (ULN) and total bilirubin (TB)≤ULN or any AST and TB&gt;1.0 x -1.5 x ULN). For patients with moderate hepatic impairment (any AST and TB &gt;1.5 x -3 x ULN) the recommended starting dose of Zejula is 200 mg once daily. There are no data in patients with severe hepatic impairment (any AST and TB &gt;3 x ULN); use with caution in these patients (see sections 4.4 and 5.2).
+No dose adjustment is needed in patients with mild hepatic impairment (either aspartate aminotransferase (AST) &gt;upper limit of normal (ULN) and total bilirubin (TB)≤ULN or any AST and TB&gt;1.0 x - 1. 5 x ULN). For patients with moderate hepatic impairment (any AST and TB &gt;1.5 x - 3 x ULN) the recommended starting dose of Zejula is 200 mg once daily. There are no data in patients with severe hepatic impairment (any AST and TB &gt;3 x ULN) ; use with caution in these patients (see sections 4.4 and 5.2).
 
 Patients with an Eastern Cooperative Oncology Group (ECOG) performance status 2 to 4 Clinical data are not available in patients with ECOG performance status 2 to 4.
 
 ## Paediatric population
 
-The safety and efficacy of niraparib in children and adolescents below 18 years of age have not yet been established. No data are available.
+The safety and efficacy of Zejula in children and adolescents aged below 18 years of age have not been established. Outside its authorised indications, Zejula in combination with dostarlimab has been studied in children aged 5 to less than 18 years with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma; however, the study data were limited and the results of the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
@@ -158,15 +158,15 @@ If a patient develops severe persistent haematologic toxicity including pancytop
 
 Due to the risk of thrombocytopenia, anticoagulants and medicinal products known to reduce the thrombocyte count should be used with caution (see section 4.8).
 
-## Myelodysplastic syndrome/acute myeloid leukaemia
-
-Cases of myelodysplastic syndrome/acute myeloid leukemia (MDS/AML), including cases with fatal outcome, have been observed in patients treated with Zejula monotherapy or combination therapy in clinical trials and postmarketing (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
 
-In clinical trials, the duration of Zejula treatment in patients prior to developing MDS/AML varied from 0.5 months to &gt;4.9 years. The cases were typical of secondary, cancer therapy-related MDS/AML. All patients had received platinum-containing chemotherapy regimens and many had also received other DNA damaging agents and radiotherapy. Some patients had a history of bone marrow suppression. In the NOVA trial, the incidence of MDS/AML was higher in the g BRCA mut cohort (7.4%) than in the non-g BRCA mut cohort (1.7%).
+## Myelodysplastic syndrome / acute myeloid leukaemia
 
-For suspected MDS/AML or prolonged haematological toxicities, the patient should be referred to a haematologist for further evaluation. If MDS/AML is confirmed, Zejula treatment should be discontinued and the patient treated appropriately.
+Cases of myelodysplastic syndrome/acute myeloid leukemia (MDS/AML) , including cases with fatal outcome, have been observed in patients treated with Zejula monotherapy or combination therapy in clinical trials and postmarketing (see section 4.8).
+
+In clinical trials, t he duration of Zejula treatment in patients prior to developing MDS/AML varied from 0.5 months to &gt;4.9 years. The cases were typical of secondary, cancer therapy-related MDS/AML. All patients had received platinum-containing chemotherapy regimens and many had also received other DNA damaging agents and radiotherapy. Some patients had a history of bone marrow suppression. In the NOVA trial, the incidence of MDS/AML was higher in the g BRCA mut cohort (7.4%) than in the non-g BRCA mut cohort (1.7%).
+
+For suspected MDS /AML or prolonged haematological toxicities, the patient should be referred to a haematologist for further evaluation. If MDS/AML is confirmed, Zejula treatment should be discontinued and the patient treated appropriately.
 
 ## Hypertension, including hypertensive crisis
 
@@ -184,6 +184,8 @@ In case of PRES, it is recommended to discontinue Zejula and to treat specific s
 
 Zejula should not be used during pregnancy or in women of childbearing potential not willing to use highly effective contraception during therapy and for 6 months after receiving the last dose of Zejula (see section 4.6). A pregnancy test should be performed on all women of childbearing potential prior to treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Patients with severe hepatic impairment could have increased exposure of niraparib based on data from patients with moderate hepatic impairment and should be carefully monitored (see sections 4.2 and 5.2).
@@ -191,8 +193,6 @@ Patients with severe hepatic impairment could have increased exposure of nirapar
 ## Lactose
 
 Zejula hard capsules contain lactose monohydrate. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tartrazine (E 102)
 
@@ -224,9 +224,11 @@ In vitro , niraparib is an inhibitor of BCRP. A clinically relevant interaction 
 
 Niraparib is an inhibitor of MATE1 and -2K in vitro . Plasma concentrations of metformin may increase when concomitantly administered with niraparib. Close monitoring of glycaemia is recommended when starting or stopping niraparib in patients receiving metformin. A dose adjustment of metformin may be necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in females
+## Women of childbearing potential/ Contraception in females
 
 Women of childbearing potential should not become pregnant while on treatment and should not be pregnant at the beginning of treatment. A pregnancy test should be performed on all women of childbearing potential prior to treatment.
 
@@ -234,11 +236,7 @@ Women of childbearing potential must use highly effective contraception during t
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of niraparib in pregnant women. Animal reproductive and developmental toxicity studies have not been conducted. However, based on its
-
-<div style=\"page-break-after: always\"></div>
-
-mechanism of action, niraparib could cause embryonic or foetal harm, including embryo-lethal and teratogenic effects, when administered to a pregnant woman.
+There are no or limited amount of data from the use of niraparib in pregnant women. Animal reproductive and developmental toxicity studies have not been conducted. However, based on its mechanism of action, niraparib could cause embryonic or foetal harm, including embryo-lethal and teratogenic effects, when administered to a pregnant woman.
 
 Zejula should not be used during pregnancy.
 
@@ -268,6 +266,8 @@ The most common serious adverse reactions &gt;1% (treatment-emergent frequencies
 
 The following adverse reactions have been identified based on clinical trials and post-marketing surveillance in patients receiving Zejula monotherapy (see Table 4).
 
+<div style=\"page-break-after: always\"></div>
+
 Frequencies of occurrence of undesirable effects are based on pooled adverse events data generated from the PRIMA and NOVA studies (fixed starting dose of 300 mg/day) where patient exposure is known and defined as:
 
 Very common:
@@ -286,11 +286,11 @@ Rare:
 
 ≥1/10,000 to &lt;1/1,000
 
-Very rare: &lt;1/10,000
+Very rare:
+
+&lt;1/10,000
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 4: Tabulated list of adverse reactions
 
@@ -304,13 +304,13 @@ Table 4: Tabulated list of adverse reactions
 | Psychiatric disorders                                                    | Very common Insomnia Common Anxiety, depression, cognitive impairment c Uncommon Confusional state          | Uncommon Insomnia, anxiety, depression, confusional state                                                       |
 | Nervous system disorders                                                 | Very common Headache, dizziness Common Dysgeusia Rare Posterior Reversible Encephalopathy Syndrome (PRES) a | Uncommon Headache                                                                                               |
 | Cardiac disorders                                                        | Very common Palpitations Common Tachycardia                                                                 |                                                                                                                 |
-| Vascular disorders                                                       | Very common Hypertension Rare Hypertensive crisis                                                           | Common Hypertension                                                                                             |
-| Respiratory, thoracic and mediastinal disorders                          | Very common Dyspnoea, cough, nasopharyngitis Common Epistaxis Uncommon Pneumonitis                          | Uncommon Dyspnoea, epistaxis, pneumonitis                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Frequency of all CTCAE grades                                                                                                                                 | Frequency of CTCAE grade 3 or 4                                                                                         |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Vascular disorders                                   | Very common Hypertension Rare Hypertensive crisis                                                                                                             | Common Hypertension                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders      | Very common Dyspnoea, cough, nasopharyngitis Common Epistaxis Uncommon Pneumonitis                                                                            | Uncommon Dyspnoea, epistaxis, pneumonitis                                                                               |
 | Gastrointestinal disorders                           | Very common Nausea, constipation, vomiting, abdominal pain, diarrhoea, dyspepsia Common Dry mouth, abdominal distension, mucosal inflammation, stomatitis     | Common Nausea, vomiting, abdominal pain Uncommon Diarrhoea, constipation, mucosal inflammation, stomatitis, dry mouth   |
 | Skin and subcutaneous tissue disorders               | Common Photosensitivity, rash                                                                                                                                 | Uncommon Photosensitivity, rash                                                                                         |
 | Musculoskeletal and connective tissue disorders      | Very common Back pain, arthralgia Common Myalgia                                                                                                              | Uncommon Back pain, arthralgia, myalgia                                                                                 |
@@ -320,10 +320,8 @@ Table 4: Tabulated list of adverse reactions
 CTCAE=Common Terminology Criteria for Adverse Events version 4.02.
 
 - a Based on niraparib clinical trial data. This is not limited to pivotal ENGOT-OV16 monotherapy study.
-
-b Includes hypersensitivity, drug hypersensitivity, anaphylactoid reaction, drug eruption, angioedema, and urticaria.
-
-- c   Includes memory impairment, concentration impairment.
+- b Includes hypersensitivity, drug hypersensitivity, anaphylactoid reaction, drug eruption, angioedema, and urticaria.
+- c Includes memory impairment, concentration impairment.
 
 The adverse reactions noted in the group of patients who were administered a 200 mg starting dose of Zejula based on baseline weight or platelet count were of similar or lesser frequency compared to the group administered a fixed starting dose of 300 mg (Table 4).
 
@@ -333,35 +331,33 @@ See below for specific information regarding frequency of thrombocytopenia, anae
 
 Haematologic adverse reactions (thrombocytopenia, anaemia, neutropenia) including clinical diagnoses and/or laboratory findings generally occurred early during niraparib treatment with the incidence decreasing over time.
 
-In NOVA and PRIMA, patients eligible for Zejula therapy had the following baseline haematologic parameters: absolute neutrophil count (ANC) ≥1,500 cells/µL; platelets ≥100,000 cells/µL and haemoglobin ≥9 g/dL (NOVA) or ≥10 g/dL (PRIMA) prior to therapy. In the clinical programme, haematologic adverse reactions were managed with laboratory monitoring and dose modifications (see section 4.2).
-
-In PRIMA, patients who were administered a starting dose of Zejula based on baseline weight or platelet count, Grade ≥3 thrombocytopenia, anaemia and neutropenia were reduced from 48% to 21%, 36% to 23% and 24% to 15%, respectively, compared to the group administered a fixed starting dose of 300 mg. Discontinuation due to thrombocytopenia, anaemia, and neutropenia occurred in 3%, 3%,
-
 <div style=\"page-break-after: always\"></div>
 
-and 2% of patients, respectively.
+In NOVA and PRIMA, patients eligible for Zejula therapy had the following baseline haematologic parameters: absolute neutrophil count (ANC) ≥1,500 cells/µL; platelets ≥100,000 cells/µL and haemoglobin ≥9 g/dL (NOVA) or ≥10 g/dL (PRIMA) prior to therapy. In the clinical programme, haematologic adverse reactions were managed with laboratory monitoring and dose modifications (see section 4.2).
+
+In PRIMA, patients who were administered a starting dose of Zejula based on baseline weight or platelet count, Grade ≥3 thrombocytopenia, anaemia and neutropenia were reduced from 48% to 21%, 36% to 23% and 24% to 15%, respectively, compared to the group administered a fixed starting dose of 300 mg. Discontinuation due to thrombocytopenia, anaemia, and neutropenia occurred in 3%, 3%, and 2% of patients, respectively.
 
 ## Thrombocytopenia
 
-In PRIMA, 39% of Zejula-treated patients experienced Grade 3/4 thrombocytopenia compared to 0.4% of placebo-treated patients with a median time from first dose to first onset of 22 days (range: 15 to 335 days) and with a median duration of 6 days (range: 1 to 374 days). Discontinuation due to thrombocytopenia occurred in 4% of patients receiving niraparib.
+In PRIMA, 39 % of Zejula-treated patients experienced Grade 3 / 4 thrombocytopenia compared to 0.4% of placebo-treated patients with a median time from first dose to first onset of 22 days (range: 15 to 335 days) and with a median duration of 6 days (range: 1 to 374 days). Discontinuation due to thrombocytopenia occurred in 4% of patients receiving niraparib.
 
-In NOVA, approximately 60% of patients experienced thrombocytopenia of any grade, and 34% of patients experienced Grade 3/4 thrombocytopenia. In patients with baseline platelet count less than 180 × 10 9 /L, thrombocytopenia of any grade and Grade 3/4 occurred in 76% and 45% of patients, respectively. The median time to onset of thrombocytopenia regardless of grade and Grade 3/4 thrombocytopenia was 22 and 23 days, respectively. The rate of new incidences of thrombocytopenia after intensive dose modifications were performed during the first two months of treatment from Cycle 4 was 1.2%. The median duration of thrombocytopenia events of any grade was 23 days, and the median duration of Grade 3/4 thrombocytopenia was 10 days. Patients treated with Zejula who develop thrombocytopenia might have an increased risk of haemorrhage. In the clinical programme, thrombocytopenia was managed with laboratory monitoring, dose modification and platelet transfusion where appropriate (see section 4.2). Discontinuation due to thrombocytopenia events (thrombocytopenia and platelet count decreased) occurred in approximately 3% of patients.
+In NOVA, approximately 60% of patients experienced thrombocytopenia of any grade, and 34% of patients experienced Grade 3/4 thrombocytopenia. In patients with baseline platelet count less than 180 × 10 9 /L, thrombocytopenia of any grade and Grade 3/4 occurred in 76% and 45% of patients, respectively. The median time to onset of thrombocytopenia regardless of grade and Grade 3/4 thrombocytopenia was 22 and 23 days, respectively. The rate of new incidences of thrombocytopenia after intensive dose modifications were performed during the first two months of treatment from Cycle 4 was 1.2%. The median duration of thrombocytopenia events of any grade was 23 days, and the median duration of Grade 3/ 4 thrombocytopenia was 10 days. Patients treated with Zejula who develop thrombocytopenia might have an increased risk of haemorrhage. In the clinical programme, thrombocytopenia was managed with laboratory monitoring, dose modification and platelet transfusion where appropriate (see section 4.2). Discontinuation due to thrombocytopenia events (thrombocytopenia and platelet count decreased) occurred in approximately 3% of patients.
 
-In NOVA, 13% (48/367) of patients experienced bleeding with concurrent thrombocytopenia; all bleeding events concurrent with thrombocytopenia were Grade 1 or 2 in severity except for one event of Grade 3 petechiae and haematoma observed concurrently with a serious adverse reaction of pancytopenia. Thrombocytopenia occurred more commonly in patients whose baseline platelet count was less than 180 × 10 9 /L. Approximately 76% of patients with lower baseline platelets (&lt;180 × 10 9 /L) who received Zejula experienced thrombocytopenia of any grade, and 45% of patients experienced Grade 3/4 thrombocytopenia. Pancytopenia has been observed in &lt;1% of patients receiving niraparib.
+In NOVA, 13% (48/3 67) of patients experienced bleeding with concurrent thrombocytopenia; all bleeding events concurrent with thrombocytopenia were Grade 1 or 2 in severity except for one event of Grade 3 petechiae and haematoma observed concurrently with a serious adverse reaction of pancytopenia. Thrombocytopenia occurred more commonly in patients whose baseline platelet count was less than 180 × 10 9 /L. Approximately 76% of patients with lower baseline platelets (&lt;180 × 10 9 /L) who received Zejula experienced thrombocytopenia o f any grade, and 45% of patients experienced Grade 3/4 thrombocytopenia. Pancytopenia has been observed in &lt;1% of patients receiving niraparib.
 
 ## Anaemia
 
-In PRIMA, 31% of Zejula-treated patients experienced Grade 3/4 anaemia compared to 2% of placebo-treated patients with a median time from first dose to first onset of 80 days (range: 15 to 533 days) and with a median duration of 7 days (range: 1 to 119 days). Discontinuation due to anaemia occurred in 2% of patients receiving niraparib.
+In PRIMA, 31% of Zejula-treated patients experienced Grade 3 / 4 anaemia compared to 2% of placebo-treated patients with a median time from first dose to first onset of 80 days (range: 15 to 533 days) and with a median duration of 7 days (range: 1 to 119 days). Discontinuation due to anaemia occurred in 2% of patients receiving niraparib.
 
-In NOVA, approximately 50% of patients experienced anaemia of any grade, and 25% experienced Grade 3/4 anaemia. The median time to onset of anaemia of any grade was 42 days, and 85 days for Grade 3/4 events. The median duration of anaemia of any grade was 63 days, and 8 days for Grade 3/4 events. Anaemia of any grade might persist during Zejula treatment. In the clinical programme, anaemia was managed with laboratory monitoring, dose modification (see section 4.2), and where appropriate with red blood cell transfusions. Discontinuation due to anaemia occurred in 1% of patients.
+In NOVA, approximately 50% of patients experienced anaemia of any grade, and 25% experienced Grade 3/4 anaemia. The median time to onset of anaemia of any grade was 42 days, and 85 days for Grade 3/4 events. The median duration of an aemia of any grade was 63 days, and 8 days for Grade 3/4 events. Anaemia of any grade might persist during Zejula treatment. In the clinical programme, anaemia was managed with laboratory monitoring, dose modification (see section 4.2), and where appropriate with red blood cell transfusions. Discontinuation due to anaemia occurred in 1% of patients.
 
 ## Neutropenia
 
-In PRIMA, 21% of Zejula-treated patients experienced Grade 3/4 neutropenia compared to 1% of placebo-treated patients with a median time from first dose to first onset of 29 days (range: 15 to 421 days) and with a median duration of 8 days (range: 1 to 42 days). Discontinuation due to neutropenia occurred in 2% of patients receiving niraparib.
-
-In NOVA, approximately 30% of patients experienced neutropenia of any grade, and 20% of patients experienced Grade 3/4 neutropenia. The median time to onset of neutropenia of any grade was 27 days, and 29 days for Grade 3/4 events. The median duration of neutropenia of any grade was 26 days, and 13 days for Grade 3/4 events. In addition, Granulocyte-Colony Stimulating Factor (G-CSF) was administered to approximately 6% of patients treated with niraparib as concomitant therapy for neutropenia. Discontinuation due to neutropenia events occurred in 2% of patients.
+In PRIMA, 21% of Zejula-treated patients experienced Grade 3 / 4 neutropenia compared to 1% of placebo-treated patients with a median time from first dose to first onset of 29 days (range: 15 to 421 days) and with a median duration of 8 days (range: 1 to 42 days). Discontinuation due to neutropenia occurred in 2% of patients receiving niraparib.
 
 <div style=\"page-break-after: always\"></div>
+
+In NOVA, approximately 30% of patients experienced neutropenia of any grade, and 20% of patients experienced Grade 3/4 neutropenia. The median time to onset of neutropenia of any grade was 27 days, and 29 days for Grade 3/4 events. The median duration of neutropenia of any grade was 26 days, and 13 days for Grade 3/4 events. In addition, Granulocyte-Colony Stimulating Factor (G-CSF) was administered to approximately 6% of patients treated with niraparib as concomitant therapy for neutropenia. Discontinuation due to neutropenia events occurred in 2% of patients.
 
 ## Myelodysplastic syndrome/Acute myeloid leukaemia
 
@@ -369,17 +365,13 @@ In clinical studies, MDS/AML occurred in 1% patients treated with Zejula, with 4
 
 In PRIMA, the incidence of MDS/AML was 2.3% in patients receiving Zejula and 1.6% in patients receiving placebo with a follow-up of 74 months.
 
-In NOVA, in patients with relapsed ovarian cancer who had received at least two prior lines of platinum chemotherapy, the overall incidence of MDS/AML was 3.8% in patients receiving Zejula and 1.7% in patients receiving placebo with a follow-up of 75 months. In g BRCA mut and nong BRCA mut cohorts, the incidence of MDS/AML was 7.4% and 1.7% in patients receiving Zejula and 3.1% and 0.9% in patients receiving placebo, respectively.
+In NOVA, in patients with relapsed ovarian cancer who had received at least two prior lines of platinum chemotherapy, the overall incidence of MDS/AML was 3. 8% in patients receiving Zejula and 1.7% in patients receiving placebo with a follow-up of 75 months. In g BRCA mut and nong BRCA mut cohorts, the incidence of MDS/AML was 7.4% and 1.7% in patients receiving Zejula and 3.1% and 0.9% in patients receiving placebo, respectively.
 
 ## Hypertension
 
-In PRIMA, Grade 3/4 hypertension occurred in 6% of Zejula-treated patients compared to 1% of placebo-treated patients with a median time from first dose to first onset of 50 days (range: 1 to 589 days) and with a median duration of 12 days (range: 1 to 61 days). No patients discontinued Zejula due to hypertension.
+In PRIMA, Grade 3 / 4 hypertension occurred in 6% of Zejula-treated patients compared to 1% of placebo-treated patients with a median time from first dose to first onset of 50 days (range: 1 to 589 days) and with a median duration of 12 days (range: 1 to 61 days). No patients discontinued Zejula due to hypertension.
 
-In NOVA, hypertension of any grade occurred in 19.3% of patients treated with Zejula. Grade 3/4 hypertension occurred in 8.2% of patients. Hypertension was readily managed with anti-hypertensive medicinal products. Discontinuation due to hypertension occurred in &lt;1% of patients.
-
-## Paediatric population
-
-No studies have been conducted in paediatric patients.
+In NOVA, h ypertension of any grade occurred in 19.3% of patients treated with Zejula. Grade 3/4 hypertension occurred in 8.2% of patients. Hypertension was readily managed with anti-hypertensive medicinal products. Discontinuation due to hypertension occurred in &lt;1% of patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -389,6 +381,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no specific treatment in the event of overdose with Zejula, and symptoms of overdose are not established. In the event of an overdose, physicians should follow general supportive measures and should treat symptomatically.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -397,17 +391,13 @@ Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, A
 
 ## Mechanism of action and pharmacodynamic effects
 
-Niraparib is an inhibitor of poly(ADP-ribose) polymerase (PARP) enzymes, PARP-1 and PARP-2, which play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes
-
-<div style=\"page-break-after: always\"></div>
-
-resulting in DNA damage, apoptosis and cell death. Increased niraparib-induced cytotoxicity was observed in tumour cell lines with or without deficiencies in the BReast CAncer ( BRCA) 1 and 2 tumour suppressor genes. In orthotopic high-grade serous ovarian cancer patient-derived xenograft tumours (PDX) grown in mice, niraparib has been shown to reduce tumour growth in BRCA 1 and 2 mutant, BRCA wild-type but homologous recombination (HR) deficient, and in tumours that are BRCA wild-type and without detectable HR deficiency.
+Niraparib is an inhibitor of poly(ADP-ribose) polymerase (PARP) enzymes, PARP-1 and PARP-2, which play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis and cell death. Increased niraparib-induced cytotoxicity was observed in tumour cell lines with or without deficiencies in the BReast CAncer ( BRCA) 1 and 2 tumour suppressor genes. In orthotopic high-grade serous ovarian cancer patient-derived xenograft tumou rs (PDX) grown in mice , niraparib has been shown to reduce tumour growth in BRCA 1 and 2 mutant, BRCA wild-type but homologous recombination (HR) deficient, and in tumours that are BRCA wild-type and without detectable HR deficiency.
 
 ## Clinical efficacy and safety
 
 ## First-line ovarian cancer maintenance treatment
 
-PRIMA was a Phase 3 double-blind, placebo-controlled trial in which patients (n = 733) in complete or partial response to first-line platinum-based chemotherapy were randomised 2:1 to niraparib or matched placebo. PRIMA was initiated with a starting dose of 300 mg daily in 475 patients (whereof 317 was randomised to the niraparib arm vs 158 in the placebo arm) in continuous 28-day cycles. The starting dose in PRIMA was changed with Amendment 2 of the Protocol. From that point forward, patients with a baseline body weight ≥77 kg and baseline platelet count ≥150,000/µL were administered niraparib 300 mg (n = 34) or placebo daily (n = 21) while patients with a baseline body weight &lt;77 kg or baseline platelet count &lt;150,000/ μ L were administered niraparib 200 mg (n = 122) or placebo daily (n = 61).
+PRIMA was a Phase 3 double-blind, placebo-controlled trial in which patients (n = 733) in complete or partial response to first-line platinum-based chemotherapy were randomised 2:1 to niraparib or matched placebo. PRIMA was initiated with a starting dose of 300 mg daily in 475 patients (whereof 317 was randomised to the niraparib arm vs 158 in the placebo arm) in continuous 28-day cycles. The starting dose in PRIMA was changed with Amendment 2 of the Protocol. From that point forward, patients with a baseline body weight ≥77 kg and baseline platelet count ≥150,000/µL were administered niraparib 300 mg (n = 34) or placebo daily (n = 21) while patients with a baseline body weight &lt;77 kg or baseline platelet count &lt;150,000/μL were administered niraparib 200 mg (n = 122) or placebo daily (n = 61).
 
 Patients were randomised post completion of first-line platinum-based chemotherapy plus or minus surgery. Subjects were randomised within 12 weeks of the first day of the last cycle of chemotherapy. Subjects had ≥6 and ≤9 cycles of platinum-based therapy. Following interval debulking surgery subjects had ≥2 post-operative cycles of platinum-based therapy. Patients who had received bevacizumab with chemotherapy but could not receive bevacizumab as maintenance therapy were not excluded from the study. Patients could not have received prior PARP inhibitor (PARPi) therapy, including niraparib. Patients who had neoadjuvant chemotherapy followed by interval debulking surgery could have visible residual or no residual disease. Patients with Stage III disease who had complete cytoreduction (i.e., no visible residual disease) after primary debulking surgery were excluded. Randomisation was stratified by best response during the front-line platinum regimen (complete response vs partial response), neoadjuvant chemotherapy (NACT) (Yes vs No); and homologous recombination deficiency (HRD) status [positive (HR-deficient) vs negative (HRproficient) or not determined]. Testing for HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis. The CA-125 levels should be in the normal range (or a CA125 decrease by &gt;90%) during the patient's front-line therapy, and be stable for at least 7 days.
 
@@ -415,11 +405,11 @@ Patients began treatment on Cycle 1/Day 1 (C1/D1) with niraparib 200 or 300 mg o
 
 The primary endpoint was progression-free survival (PFS), as determined by blinded independent central review (BICR) per RECIST, version 1.1. PFS testing was performed hierarchically: first in the HR-deficient population, then in the overall population. Secondary efficacy endpoints included PFS after the first subsequent therapy (PFS2) and overall survival (OS) (Table 5). The median age was 62 years among patients randomised to niraparib (range 32 to 85 years) or placebo (range 33 to 88 years). Eighty-nine percent of all patients were white. Sixty-nine percent of patients randomised to niraparib and 71% of patients randomised to placebo had an ECOG of 0 at study baseline. In the overall population, 65% of patients had stage III disease and 35% had stage IV disease. In the overall population, the primary tumour site in most patients (≥80%) was the ovary; most patients (&gt;90%) had tumours with serous histology. Sixty-seven percent of patients received NACT. Sixty-nine percent of patients had a complete response to the first-line platinum-based chemotherapy. A total of 6 patients in the Zejula group had received bevacizumab as prior treatment for their ovarian cancer.
 
-PRIMA demonstrated a statistically significant improvement in PFS for patients randomised to niraparib as compared with placebo in the HR-deficient and overall population (Table 5, and Figures 1 and 2). Efficacy results for the final analysis of OS data are presented in Table 5.
-
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy results -PRIMA
+PRIMA demonstrated a statistically significant improvement in PFS for patients randomised to niraparib as compared with placebo in the HR-deficient and overall population (Table 5, and Figures 1 and 2). Efficacy results for the final analysis of OS data are presented in Table 5.
+
+Table 5: Efficacy results - PRIMA
 
 |                                       | HR-deficient population     | HR-deficient population     | Overall population          | Overall population          |
 |---------------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
@@ -434,24 +424,28 @@ Table 5: Efficacy results -PRIMA
 | OS median, months d (95% CI)          | 71.9 (55.5, NE)             | 69.8 (51.6, NE)             | 46.6 (43.7, 52.8)           | 48.8 (43.1, 61.0)           |
 | Hazard ratio (95% CI)                 | 0.95 (0.70, 1.29)           | 0.95 (0.70, 1.29)           | 1.01 (0.84, 1.23)           | 1.01 (0.84, 1.23)           |
 
-- a Data based on final analysis.
-- b In the HR-deficient population and overall population, 15.8% and 11.7% of patients in the Zejula arm received subsequent PARPi therapy, respectively.
+PFS = progression-free survival; CI = confidence interval; NE = not evaluable; PFS2 = PFS after the first subsequent therapy; OS = overall survival.
+
+a Data based on final analysis.
+
+b In the HR-deficient population and overall population, 15.8% and 11.7% of patients in the Zejula arm received subsequent PARPi therapy, respectively.
+
 - c In the HR-deficient population and overall population, 48.4% and 37.8% of placebo patients received subsequent PARPi therapy, respectively.
 - d The maturity of OS data for the HR-deficient population and overall population was 49.6% and 62.5%, respectively.
 
-Figure 1: Progression-free survival in the HR-deficient population -PRIMA (ITT)
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Progression-free survival in the HR-deficient population - PRIMA (ITT)
+
+<!-- image -->
+
+Figure 2: Progression-free survival in the overall population - PRIMA (ITT)
 
 <!-- image -->
 
 Time since Randomization (Months)
 
 <div style=\"page-break-after: always\"></div>
-
-Figure 2: Progression-free survival in the overall population -PRIMA (ITT)
-
-<!-- image -->
-
-Time since Randomization (Months)
 
 ## PFS subgroup analyses
 
@@ -459,19 +453,17 @@ Within the HR-deficient population, a PFS hazard ratio of 0.40 (95% CI: 0.27, 0.
 
 The median PFS in the HR-proficient population (n = 249) was 8.1 months for patients randomised to Zejula compared with 5.4 months for placebo with a hazard ratio of 0.68 (95% CI: 0.49, 0.94).
 
-In exploratory subgroup analyses of patients who were administered 200 or 300 mg dose of Zejula based on baseline weight or platelet count, comparable efficacy (investigator-assessed PFS) was observed with a PFS hazard ratio of 0.54 (95% CI: 0.33, 0.91) in the HR-deficient population, and with a hazard ratio of 0.68 (95% CI: 0.49, 0.94) in the overall population. In the HR-proficient subgroup, the dose of 200 mg appeared to give a lower treatment effect compared to the 300 mg dose.
+In exploratory subgroup analyses of patients who were administered 200 or 300 mg dose of Zejula based on baseline weight or platelet count, comparable efficacy (investigator-assessed PFS) was observed with a PFS hazard ratio of 0.54 (95% CI: 0.33, 0.91) in the HR -deficient population, and with a hazard ratio of 0.68 (95% CI: 0.49, 0.94) in the overall population. In the HR-proficient subgroup, the dose of 200 mg appeared to give a lower treatment effect compared to the 300 mg dose.
 
 ## OS subgroup analyses
 
 In the subgroup of HR-deficient patients with BRCA mutation ovarian cancer (n = 223), an OS hazard ratio of 0.94 (95% CI: 0.63, 1.41) was observed. In the subgroup of HR-deficient patients without a BRCA mutation (n = 149), a hazard ratio of 0.97 (95% CI: 0.62, 1.53) was observed.
 
-The median OS in the HR-proficient population (n = 249) was 36.6 months for patients randomised to Zejula compared with 32.2 months for placebo, with a hazard ratio of 0.93 (95% CI: 0.69, 1.26).
-
-<div style=\"page-break-after: always\"></div>
+The median OS in the HR-proficient population (n = 249) was 36.6 months for patients randomised to Zejula compared with 32.2 months for placebo, with a hazard ratio of 0.93 ( 95% CI: 0.69, 1.26) .
 
 ## Platinum-sensitive recurrent ovarian cancer maintenance treatment
 
-The safety and efficacy of niraparib as maintenance therapy was studied in a Phase 3 randomised, double-blind, placebo-controlled international trial (NOVA) in patients with relapsed predominantly high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who were platinum sensitive, defined by complete response (CR) or partial response (PR) for more than six months to their penultimate (next to last) platinum-based therapy. To be eligible for niraparib treatment, the patient should be in response (CR or PR) following completion of last platinum-based chemotherapy. The CA-125 levels should be normal (or a &gt;90% decrease in CA-125 from baseline) following their last platinum treatment and be stable for at least 7 days. Patients could not have received prior PARPi therapy, including Zejula. Eligible patients were assigned to one of two cohorts based on the results of a germline BRCA ( gBRCA) mutation test. Within each cohort, patients were randomised using a 2:1 allocation of niraparib and placebo. Patients were assigned to the g BRCA mut cohort based on blood samples for g BRCA analysis that were taken prior to randomisation. Testing for tumour BRCA (t BRCA ) mutation and HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis or at the time of recurrence.
+The safety and efficacy of niraparib as maintenance therapy was studied in a Phase 3 randomised, double-blind, placebo-controlled international trial (NOVA) in patients with relapsed predominantly high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who were platinum sensitive, defined by complete response (CR) or partial response (PR) for more than six months to their penultimate (next to last) platinum-based therapy. To be eligible for niraparib treatment, the patient should be in response (CR or PR) following completion of last platinum-based chemotherapy. The CA125 levels should be normal (or a &gt;90% decrease in CA -125 from baseline) following their last platinum treatment and be stable for at least 7 days. Patients could not have received prior PARPi therapy, including Zejula. Eligible patients were assigned to one of two cohorts based on the results of a germline BRCA ( gBRCA) mutation test. Within each cohort, patients were randomised using a 2:1 allocation of niraparib and placebo. Patients were assigned to the g BRCA mut cohort based on blood samples for g BRCA analysis that were taken prior to randomisation. Testing for tumour BRCA (t BRCA ) mutation and HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis or at the time of recurrence.
 
 Randomisation within each cohort was stratified by time to progression after the penultimate platinum therapy before study enrolment (6 to &lt;12 months and ≥12 months); use or not of bevacizumab in conjunction with the penultimate or last platinum regimen; and best response during the most recent platinum regimen (complete response and partial response).
 
@@ -480,6 +472,8 @@ Patients began treatment on Cycle 1/Day 1 (C1/D1) with niraparib 300 mg or match
 In the NOVA study, 48% of patients had a dose interruption in Cycle 1. Approximately 47% of patients restarted at a reduced dose in Cycle 2.
 
 The most commonly used dose in niraparib-treated patients in the NOVA study was 200 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 Progression-free survival (PFS) was determined per RECIST (Response Evaluation Criteria in Solid Tumors, version 1.1) or clinical signs and symptoms and increased CA-125. PFS was measured from the time of randomisation (which occurred up to 8 weeks after completion of the chemotherapy regimen) to disease progression or death.
 
@@ -491,11 +485,7 @@ Demographics, baseline disease characteristics, and prior treatment history were
 
 In the g BRCA mut cohort, the median number of treatment cycles was higher in the niraparib arm than the placebo arm (14 and 7 cycles, respectively). More patients in the niraparib group continued treatment for more than 12 months than patients in the placebo group (54.4% and 16.9% respectively).
 
-In the overall non-g BRCA mut cohort, the median number of treatment cycles was higher in the niraparib arm than in the placebo arm (8 and 5 cycles, respectively). More patients in the niraparib
-
-<div style=\"page-break-after: always\"></div>
-
-group continued treatment for more than 12 months than patients in the placebo group (34.2% and 21.1%, respectively).
+In the overall non-g BRCA mut cohort, the median number of treatment cycles was higher in the niraparib arm than in the placebo arm (8 and 5 cycles, respectively). More patients in the niraparib group continued treatment for more than 12 months than patients in the placebo group (34.2% and 21.1%, respectively).
 
 The study met its primary objective of statistically significantly improved PFS for niraparib maintenance monotherapy compared with placebo in the g BRCA mut cohort as well as in the overall non-g BRCA mut cohort. Table 6 and Figures 3 and 4 show the results for the PFS primary endpoint for the primary efficacy populations (g BRCA mut cohort and the overall non-g BRCA mut cohort).
 
@@ -510,13 +500,13 @@ Table 6: Summary of primary objective outcomes in the NOVA study
 
 PFS = progression-free survival; CI = confidence interval; NE = not evaluable.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 3: Progression-free survival in the g BRCA mut cohort based on IRC assessment NOVA (ITT)
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 4: Progression-free survival in the non-g BRCA mut cohort /overall based on IRC assessment -NOVA (ITT)
+Figure 4: Progression-free survival in the non-g BRCA mut cohort /overall based on IRC assessment - NOVA (ITT)
 
 <!-- image -->
 
@@ -526,21 +516,25 @@ At the final analysis, the median PFS2 in the g BRCA mut cohort was 29.9 months 
 
 At the final analysis of overall survival, the median OS in the g BRCA mut cohort (n = 203) was 40.9 months for patients treated with niraparib compared with 38.1 months for patients on placebo (HR = 0.85; 95% CI: 0.61, 1.20). The cohort maturity for the g BRCA mut cohort was 76%. The median OS in the nongBRCA mut cohort (n = 350) was 31.0 months for patients treated with niraparib compared with 34.8 months for patients on placebo (HR = 1.06; 95% CI: 0.81, 1.37). The cohort maturity for the non-g BRCA mut cohort was 79%.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patient-reported outcomes
 
 Patient-reported outcome data from validated survey tools (FOSI and EQ-5D) indicate that niraparibtreated patients reported no difference from placebo in measures associated with quality of life (QoL).
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Zejula in all subsets of the paediatric population in ovarian carcinoma, excluding rhabdomyosarcoma and germ cell tumours (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Zejula in all subsets of the paediatric population in ovarian carcinoma, excluding rhabdomyosarcoma and germ cell tumours (see section 4.2 for information on paediatric use). However, paediatric development was conducted in children and adolescents with other oncology conditions.
+
+In a Phase 1 study (SCOOP), the safety, pharmacokinetics, and antitumour activity of Zejula in combination with dostarlimab were evaluated in 47 children and adolescents with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma. Patients aged 5 to ˂ 18 years received Zejula 75 to 200 mg daily.
+
+The study was terminated prematurely due to observed toxicities in conjunction with insufficient efficacy. No efficacy response was observed in the 17 patients with osteosarcoma or neuroblastoma included in the expansion part of the study. The safety profile of the combination in the paediatric population cannot be considered established due to the limited number of paediatric patients evaluated with limited exposure. See section 4.2 for information on paediatric use.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
 Following a single-dose administration of 300 mg niraparib, niraparib was measurable in plasma within 30 minutes and the mean peak plasma concentration (Cmax) for niraparib was reached within 3 to 5 hours (ranged 508-875 ng/mL across studies). Following multiple oral doses of niraparib from 30 mg to 400 mg once daily, accumulation of niraparib was approximately 2 to 3 folds.
-
-<div style=\"page-break-after: always\"></div>
 
 The systemic exposures (Cmax and AUC) to niraparib increased in a dose-proportional manner when the dose of niraparib increased from 30 mg to 400 mg. The absolute bioavailability of niraparib is approximately 73%, indicating minimal first pass effect. In a population pharmacokinetic analysis of niraparib, the inter-individual variability in bioavailability was estimated to a coefficient of variation (CV) of 33.8%.
 
@@ -550,7 +544,9 @@ The tablet and capsule formulations have been demonstrated to be bioequivalent. 
 
 ## Distribution
 
-Niraparib was moderately protein bound in human plasma (83%), mainly with serum albumin. In a population pharmacokinetic analysis of niraparib, the apparent volume of distribution (Vd/F) was 1,206 L (based on a 70 kg patient) in cancer patients (CV 18.4%), indicating extensive tissue distribution of niraparib.
+Niraparib was moderately protein bound in human plasma (83%), mainly with serum albumin. In a population pharmacokinetic analysis of niraparib, the apparent volume of distribution (Vd /F) was 1,206 L (based on a 70 kg patient) in cancer patients (CV 18.4%), indicating extensive tissue distribution of niraparib.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -558,29 +554,27 @@ Niraparib is metabolised primarily by carboxylesterases (CEs) to form a major in
 
 ## Elimination
 
-Following a single oral 300-mg dose of niraparib, the mean terminal half-life (t ½ ) of niraparib ranged from 44 to 54 hours (approximately 2 days) across studies. In a population pharmacokinetic analysis, the apparent total clearance (CL/F) of niraparib was 15.9 L/h in cancer patients (CV 24.0%).
+Following a single oral 300-mg dose of niraparib, the mean terminal half-life (t½) of niraparib ranged from 44 to 54 hours (approximately 2 days) across studies. In a population pharmacokinetic analysis, the apparent total clearance (CL/F) of niraparib was 15.9 L/h in cancer patients (CV 24.0%).
 
-Niraparib is eliminated primarily through the hepatobiliary and renal routes. Following an oral administration of a single 300-mg dose of [ 14 C]-niraparib, on average 86.2% (range 71% to 91%) of the dose was recovered in urine and faeces over 21 days. Radioactive recovery in the urine accounted for 47.5% (range 33.4% to 60.2%) and in the faeces for 38.8% (range 28.3% to 47%) of the dose. In pooled samples collected over 6 days, 40% of the dose was recovered in the urine primarily as metabolites and 31.6% of the dose was recovered in the faeces primarily as unchanged niraparib.
+Niraparib is eliminated primarily through the hepatobiliary and renal routes. Following an oral administration of a single 300-mg dose of [ 14 C]niraparib, on average 86.2% (range 71% to 91%) of the dose was recovered in urine and faeces over 21 days. Radioactive recovery in the urine accounted for 47.5% (range 33.4% to 60.2%) and in the faeces for 38.8% (range 28.3% to 47%) of the dose. In pooled samples collected over 6 days, 40% of the dose was recovered in the urine primarily as metabolites and 31.6% of the dose was recovered in the faeces primarily as unchanged niraparib.
 
 ## In vitro studies
 
 Niraparib is an inducer of CYP1A2 in vitro (see section 4.5).
 
-Niraparib is a substrate of P-gp and BCRP. However, due to niraparib 's high permeability and bioavailability, the risk of clinically relevant interactions with medicinal products that inhibit these transporters is unlikely.
+Niraparib is a substrate of P-gp and BCRP. However, due to niraparib's high permeability and bioavailability, the risk of clinically relevant interactions with medicinal products that inhibit these transporters is unlikely.
 
-Niraparib is an inhibitor of P-gp, BCRP, MATE1/2K and organic cation transporter 1 (OCT1) in vitro (see section 4.5).
-
-<div style=\"page-break-after: always\"></div>
+Niraparib is an inhibitor of Pgp, BCRP, MATE1/2K and organic cation transporter 1 (OCT1) in vitro (see section 4.5).
 
 ## Special populations
 
 ## Renal impairment
 
-In the population pharmacokinetic analysis, patients with mild (creatinine clearance 60-90 mL/min) and moderate (30-60 mL/min) renal impairment had mildly reduced niraparib clearance compared to individuals with normal renal function. The difference in exposure is not considered to warrant dose adjustment. No patients with pre-existing severe renal impairment or end-stage renal disease undergoing hemodialysis were identified in clinical studies (see section 4.2).
+In the population pharmacokinetic analysis, patients with mild (creatinine clearance 6090 mL/min) and moderate (30-60 mL/min) renal impairment had mildly reduced niraparib clearance compared to individuals with normal renal function. The difference in exposure is not considered to warrant dose adjustment. No patients with pre-existing severe renal impairment or end-stage renal disease undergoing hemodialysis were identified in clinical studies (see section 4.2).
 
 ## Hepatic impairment
 
-In the population pharmacokinetic analysis of data from clinical studies in patients, pre-existing mild hepatic impairment (n = 155) did not influence the clearance of niraparib. In a clinical study of cancer patients using NCI-ODWG criteria to classify the degree of hepatic impairment, niraparib AUCinf in patients with moderate hepatic impairment (n = 8) was 1.56 (90% CI: 1.06, 2.30) times the niraparib AUCinf in patients with normal hepatic function (n = 9) following administration of a single 300 mg dose. Niraparib dose adjustment is recommended for patients with moderate hepatic impairment (see section 4.2). Moderate hepatic impairment did not have an effect on niraparib Cmax or on niraparib protein binding. The pharmacokinetics of niraparib have not been assessed in patients with severe hepatic impairment (see sections 4.2 and 4.4).
+In the population pharmacokinetic analysis of data from clinical studies in patients, pre-existing mild hepatic impairment (n = 155) did not influence the clearance of niraparib. In a clinical study of cancer patients using NCI-ODWG criteria to classify the degree of hepatic impairment, niraparib AUCinf in patients with moderate hepatic impairment (n = 8) was 1.56 (90% CI: 1.06 , 2.30) times the niraparib AUCinf in patients with normal hepatic function (n = 9) following administration of a single 300 mg dose. Niraparib dose adjustment is recommended for patients with moderate hepatic impairment (see section 4.2). Moderate hepatic impairment did not have an effect on niraparib Cmax or on niraparib protein binding. The pharmacokinetics of niraparib have not been assessed in patients with severe hepatic impairment (see sections 4.2 and 4.4).
 
 ## Weight, age and race
 
@@ -588,11 +582,13 @@ Increasing weight was found to increase niraparib volume of distribution in the 
 
 Age (range 26 to 91 years) was not a significant factor on niraparib clearance or volume of distribution in the population pharmacokinetic analysis.
 
+<div style=\"page-break-after: always\"></div>
+
 There are insufficient data across races to conclude on the impact of race on niraparib pharmacokinetics.
 
 ## Paediatric population
 
-No studies have been conducted to investigate the pharmacokinetics of niraparib in paediatric patients.
+In a Phase 1 study (SCOOP), the pharmacokinetics of niraparib was evaluated in 44 children and adolescents with recurrent or refractory solid tumours. While a clinical study was initiated to evaluate pharmacokinetics in this population, the study was prematurely terminated. Consequently, the pharmacokinetic data obtained were limited and insufficient to reliably characterise exposures in paediatric patients.
 
 ## 5.3 Preclinical safety data
 
@@ -608,9 +604,7 @@ Decreased spermatogenesis was observed in rats and dogs at exposure levels below
 
 Niraparib was not mutagenic in a bacterial reverse mutation assay (Ames) test but was clastogenic in an in vitro mammalian chromosomal aberration assay and in an in vivo rat bone marrow micronucleus assay. This clastogenicity is consistent with genomic instability resulting from the primary pharmacology of niraparib and indicates potential for genotoxicity in humans.
 
-<div style=\"page-break-after: always\"></div>
-
-Reproductive toxicology
+## Reproductive toxicology
 
 Reproductive and developmental toxicity studies have not been conducted with niraparib.
 
@@ -624,9 +618,15 @@ Carcinogenicity studies have not been conducted with niraparib.
 
 Capsule content Magnesium stearate Lactose monohydrate
 
-Capsule shell Titanium dioxide (E 171) Gelatin Brilliant blue FCF (E 133) Erythrosine (E 127) Tartrazine (E 102)
+Capsule shell Titanium dioxide (E 171) Gelatin Brilliant blue FCF (E 133) Erythrosine (E 127)
 
-Printing ink Shellac (E 904) Propylene glycol (E 1520) Potassium hydroxide (E 525) Black iron oxide (E 172) Sodium hydroxide (E 524) Povidone (E 1201) Titanium dioxide (E 171)
+<div style=\"page-break-after: always\"></div>
+
+Tartrazine (E 102)
+
+Printing ink Shellac (E 904) Propylene glycol (E 1520) Potassium hydroxide (E 525) Black iron oxide (E 172) Sodium hydroxide (E 524) Povidone (E 1201)
+
+Titanium dioxide (E 171)
 
 ## 6.2 Incompatibilities
 
@@ -638,11 +638,11 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30 °C.
+Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Aclar/PVC/aluminium foil perforated unit dose blisters in cartons of 84 × 1 , 56 × 1 and 28 × 1 hard capsules.
+Aclar/PVC/aluminium foil perforated unit dose blisters in cartons of 84 × 1, 56 × 1 and 28 × 1 hard capsules.
 
 Not all pack sizes may be marketed.
 
@@ -650,17 +650,17 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
 
-Limited
+D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1235/001 EU/1/17/1235/002 EU/1/17/1235/003
+EU/1/17/1235/001 EU/1/17/1235/002
+
+EU/1/17/1235/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -668,9 +668,13 @@ Date of first authorisation: 16 November 2017
 
 Date of latest renewal: 18 July 2022
 
+Limited
+
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https ://www.ema.europa.eu .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -692,7 +696,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
-Grey, oval-shaped (12 mm x 8 mm), filmcoated tablet debossed with '100' on one side and 'Zejula' on the other side.
+Grey, oval-shaped (12 mm x 8 mm), film-coated tablet debossed with '100' on one side and 'Zejula' on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -711,7 +715,7 @@ Treatment with Zejula should be initiated and supervised by a physician experien
 
 ## First-line ovarian cancer maintenance treatment
 
-The recommended starting dose of Zejula is 200 mg (two 100-mg tablets), taken once daily. However, f or those patients who weigh ≥ 77 kg and have baseline platelet count ≥ 150,000/ μL , the recommended starting dose of Zejula is 300 mg (three 100-mg tablets), taken once daily (see section 4.4 and 4.8).
+The recommended starting dose of Zejula is 200 mg (two 100-mg tablets), taken once daily. However, f or those patients who weigh ≥ 77 kg and have baseline platelet count ≥ 150,000/μL , the recommended starting dose of Zejula is 300 mg (three 100-mg tablets), taken once daily (see section 4.4 and 4.8).
 
 ## Recurrent ovarian cancer maintenance treatment
 
@@ -744,7 +748,7 @@ Table 2: Dose modifications for non-haematologic adverse reactions
 
 | Non- haematologic CTCAE ≥Grade 3 treatment-related adverse reaction where prophylaxis is not considered feasible or adverse reaction persists despite treatment   | First occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose level per Table 1.           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Non- haematologic CTCAE ≥Grade 3 treatment-related adverse reaction where prophylaxis is not considered feasible or adverse reaction persists despite treatment   | Second occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose or discontinue per Table 1. |
+|                                                                                                                                                                   | Second occurrence: • Withhold Zejula for a maximum of 28 days or until resolution of adverse reaction. • Resume Zejula at a reduced dose or discontinue per Table 1. |
 | CTCAE ≥ Grade 3 treatment-related adverse reaction lasting more than 28 days while patient is administered Zejula 100 mg/day                                      | Discontinue treatment.                                                                                                                                               |
 
 CTCAE=Common Terminology Criteria for Adverse Events.
@@ -776,17 +780,17 @@ No dose adjustment is necessary for patients with mild to moderate renal impairm
 
 ## Hepatic impairment
 
-No dose adjustment is needed in patients with mild hepatic impairment (either aspartate aminotransferase (AST) &gt; upper limit of normal (ULN) and total bilirubin (TB) ≤ ULN or any AST and TB &gt; 1.0 x -1.5 x ULN). For patients with moderate hepatic impairment (any AST and TB &gt; 1.5 x - 3 x ULN) the recommended starting dose of Zejula is 200 mg once daily. There are no data in patients with severe hepatic impairment (any AST and TB &gt; 3 x ULN); use with caution in these patients (see sections 4.4 and 5.2).
+No dose adjustment is needed in patients with mild hepatic impairment (either aspartate aminotransferase (AST) &gt; upper limit of normal (ULN) and total bilirubin (TB) ≤ ULN or any AST and TB &gt; 1.0 x - 1. 5 x ULN). For patients with moderate hepatic impairment (any AST and TB &gt; 1.5 x 3 x ULN) the recommended starting dose of Zejula is 200 mg once daily. There are no data in patients with severe hepatic impairment (any AST and TB &gt; 3 x ULN) ; use with caution in these patients (see sections 4.4 and 5.2).
 
 Patients with an Eastern Cooperative Oncology Group (ECOG) performance status 2 to 4 Clinical data are not available in patients with ECOG performance status 2 to 4.
 
 ## Paediatric population
 
-The safety and efficacy of niraparib in children and adolescents below 18 years of age have not yet been established. No data are available.
+The safety and efficacy of Zejula in children and adolescents aged below 18 years of age have not been established. Outside its authorised indications, Zejula in combination with dostarlimab has been studied in children aged 5 to less than 18 years with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma; however, the study data were limited and the results of the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
-Zejula is for oral use.
+## Zejula is for oral use.
 
 It is advised to take Zejula tablets without food (at least 1 hour before or 2 hours after a meal) or with a light meal (see section 5.2).
 
@@ -808,15 +812,15 @@ If a patient develops severe persistent haematologic toxicity including pancytop
 
 Due to the risk of thrombocytopenia, anticoagulants and medicinal products known to reduce the thrombocyte count should be used with caution (see section 4.8).
 
-## Myelodysplastic syndrome/acute myeloid leukaemia
-
-Cases of myelodysplastic syndrome/acute myeloid leukemia (MDS/AML), including cases with fatal outcome, have been observed in patients treated with Zejula monotherapy or combination therapy in clinical trials and postmarketing (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
 
-In clinical trials, the duration of Zejula treatment in patients prior to developing MDS/AML varied from 0.5 months to &gt;4.9 years. The cases were typical of secondary, cancer therapy-related MDS/AML. All patients had received platinum-containing chemotherapy regimens and many had also received other DNA damaging agents and radiotherapy. Some patients had a history of bone marrow suppression. In the NOVA trial, the incidence of MDS/AML was higher in the g BRCA mut cohort (7.4%) than in the non-g BRCA mut cohort (1.7%).
+## Myelodysplastic syndrome/acute myeloid leukaemia
 
-For suspected MDS/AML or prolonged haematological toxicities, the patient should be referred to a haematologist for further evaluation. If MDS/AML is confirmed Zejula treatment should be discontinued and the patient treated appropriately.
+Cases of myelodysplastic syndrome/acute myeloid leukemia (MDS/AML) , including cases with fatal outcome, have been observed in patients treated with Zejula monotherapy or combination therapy in clinical trials and postmarketing (see section 4.8).
+
+In clinical trials, t he duration of Zejula treatment in patients prior to developing MDS/AML varied from 0.5 months to &gt;4.9 years. The cases were typical of secondary, cancer therapy-related MDS/AML. All patients had received platinum -containing chemotherapy regimens and many had also received other DNA damaging agents and radiotherapy. Some patients had a history of bone marrow suppression. In the NOVA trial, t he incidence of MDS/AML was higher in the g BRCA mut cohort (7.4%) than in the non-g BRCA mut cohort (1.7%).
+
+For suspected MDS /AML or prolonged haematological toxicities, the patient should be referred to a haematologist for further evaluation. If MDS/AML is confirmed Zejula treatment should be discontinued and the patient treated appropriately.
 
 ## Hypertension, including hypertensive crisis
 
@@ -836,15 +840,15 @@ Zejula should not be used during pregnancy or in women of childbearing potential
 
 ## Hepatic impairment
 
-Patients with severe hepatic impairment could have increased exposure of niraparib based on data from patients with moderate hepatic impairment and should be carefully monitored (see sections 4.2 and 5.2).
-
-## Lactose
-
-Zejula film-coated tablets contain lactose monohydrate. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this
+Patients with severe hepatic impairment could have increased exposure of niraparib based on data from patients with moderate hepatic impairment and should be carefully monitored (see sections 4.2
 
 <div style=\"page-break-after: always\"></div>
 
-medicine.
+and 5.2).
+
+## Lactose
+
+Zejula film-coated tablets contain lactose monohydrate. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -874,17 +878,17 @@ Niraparib is an inhibitor of MATE1 and -2K in vitro . Plasma concentrations of m
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in females
+## Women of childbearing potential/ Contraception in females
 
 Women of childbearing potential should not become pregnant while on treatment and should not be pregnant at the beginning of treatment. A pregnancy test should be performed on all women of childbearing potential prior to treatment.
 
 Women of childbearing potential must use highly effective contraception during therapy and for 6 months after receiving the last dose of Zejula.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no or limited amount of data from the use of niraparib in pregnant women. Animal reproductive and developmental toxicity studies have not been conducted. However, based on its mechanism of action, niraparib could cause embryonic or foetal harm, including embryo-lethal and teratogenic effects, when administered to a pregnant woman.
-
-<div style=\"page-break-after: always\"></div>
 
 Zejula should not be used during pregnancy.
 
@@ -932,7 +936,9 @@ Rare:
 
 ≥1/10,000 to &lt;1/1,000
 
-Very rare: &lt;1/10,000
+Very rare:
+
+&lt;1/10,000
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -967,7 +973,7 @@ CTCAE=Common Terminology Criteria for Adverse Events version 4.02.
 
 - a Based on niraparib clinical trial data. This is not limited to pivotal ENGOT-OV16 monotherapy study.
 - b Includes hypersensitivity, drug hypersensitivity, anaphylactoid reaction, drug eruption, angioedema, and urticaria.
-- c   Includes memory impairment, concentration impairment.
+- c Includes memory impairment, concentration impairment.
 
 The adverse reactions noted in the group of patients who were administered a 200 mg starting dose of Zejula based on baseline weight or platelet count were of similar or lesser frequency compared to the group administered a fixed starting dose of 300 mg (Table 4).
 
@@ -979,29 +985,27 @@ Haematologic adverse reactions (thrombocytopenia, anaemia, neutropenia) includin
 
 In NOVA and PRIMA, patients eligible for Zejula therapy had the following baseline haematologic parameters: absolute neutrophil count (ANC) ≥1,500 cells/µL; platelets ≥100,000 cells/µL and haemoglobin ≥9 g/dL (NOVA) or ≥10 g/dL (PRIMA) prior to therapy. In the clinical programme, haematologic adverse reactions were managed with laboratory monitoring and dose modifications (see section 4.2).
 
-In PRIMA, patients who were administered a starting dose of Zejula based on baseline weight or platelet count, Grade ≥3 thrombocytopenia, anaemia and neutropenia were reduced from 48% to 21%, 36% to 23% and 24% to 15%, respectively, compared to the group administered a fixed starting dose of 300 mg. Discontinuation due to thrombocytopenia, anaemia, and neutropenia occurred in 3%, 3%,
+In PRIMA, patients who were administered a starting dose of Zejula based on baseline weight or platelet count, Grade ≥3 thrombocytopenia, anaemia and neutropenia were reduced from 48% to 21%, 36% to 23% and 24% to 15%, respectively, compared to the group administered a fixed starting dose of 300 mg. Discontinuation due to thrombocytopenia, anaemia, and neutropenia occurred in 3%, 3%, and 2% of patients, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-and 2% of patients, respectively.
-
 ## Thrombocytopenia
 
-In PRIMA, 39% of Zejula-treated patients experienced Grade 3/4 thrombocytopenia compared to 0.4% of placebo-treated patients with a median time from first dose to first onset of 22 days (range: 15 to 335 days) and with a median duration of 6 days (range: 1 to 374 days). Discontinuation due to thrombocytopenia occurred in 4% of patients receiving niraparib.
+In PRIMA, 39% of Zejula -treated patients experienced Grade 3 / 4 thrombocytopenia compared to 0.4% of placebo-treated patients with a median time from first dose to first onset of 22 days (range: 15 to 335 days) and with a median duration of 6 days (range: 1 to 374 days). Discontinuation due to thrombocytopenia occurred in 4% of patients receiving niraparib.
 
 In NOVA, approximately 60% of patients experienced thrombocytopenia of any grade, and 34% of patients experienced Grade 3/4 thrombocytopenia. In patients with baseline platelet count less than 180 × 10 9 /L, thrombocytopenia of any grade and Grade 3/4 occurred in 76% and 45% of patients, respectively. The median time to onset of thrombocytopenia regardless of grade and Grade 3/4 thrombocytopenia was 22 and 23 days, respectively. The rate of new incidences of thrombocytopenia after intensive dose modifications were performed during the first two months of treatment from Cycle 4 was 1.2%. The median duration of thrombocytopenia events of any grade was 23 days, and the median duration of Grade 3/4 thrombocytopenia was 10 days. Patients treated with Zejula who develop thrombocytopenia might have an increased risk of haemorrhage. In the clinical programme, thrombocytopenia was managed with laboratory monitoring, dose modification and platelet transfusion where appropriate (see section 4.2). Discontinuation due to thrombocytopenia events (thrombocytopenia and platelet count decreased) occurred in approximately 3% of patients.
 
-In NOVA, 13% (48/367) of patients experienced bleeding with concurrent thrombocytopenia; all bleeding events concurrent with thrombocytopenia were Grade 1 or 2 in severity except for one event of Grade 3 petechiae and haematoma observed concurrently with a serious adverse reaction of pancytopenia. Thrombocytopenia occurred more commonly in patients whose baseline platelet count was less than 180 × 10 9 /L. Approximately 76% of patients with lower baseline platelets (&lt; 180 × 10 9 /L) who received Zejula experienced thrombocytopenia of any grade, and 45% of patients experienced Grade 3/4 thrombocytopenia. Pancytopenia has been observed in &lt;1% of patients receiving niraparib.
+In NOVA, 13% (48/36 7) of patients experienced bleeding with concurrent thrombocytopenia; all bleeding events concurrent with thrombocytopenia were Grade 1 or 2 in severity except for one event of Grade 3 petechiae and haematoma observed concurrently with a serious adverse reaction of pancytopenia. Thrombocytopenia occurred more commonly in patients whose baseline platelet count was less than 180 × 10 9 /L. Approximately 76% of patients with lower baseline platelets (&lt; 180 × 10 9 /L) who received Zejula experien ced thrombocytopenia of any grade, and 45% of patients experienced Grade 3/4 thrombocytopenia. Pancytopenia has been observed in &lt;1% of patients receiving niraparib.
 
 ## Anaemia
 
-In PRIMA, 31% of Zejula-treated patients experienced Grade 3/4 anaemia compared to 2% of placebo-treated patients with a median time from first dose to first onset of 80 days (range: 15 to 533 days) and with a median duration of 7 days (range: 1 to 119 days). Discontinuation due to anaemia occurred in 2% of patients receiving niraparib.
+In PRIMA, 31% of Zejula-treated patients experienced Grade 3 / 4 anaemia compared to 2% of placebo-treated patients with a median time from first dose to first onset of 80 days (range: 15 to 533 days) and with a median duration of 7 days (range: 1 to 119 days). Discontinuation due to anaemia occurred in 2% of patients receiving niraparib.
 
 In NOVA, approximately 50% of patients experienced anaemia of any grade, and 25% experienced Grade 3/4 anaemia. The median time to onset of anaemia of any grade was 42 days, and 85 days for Grade 3/4 events. The median duration of anaemia of any grade was 63 days, and 8 days for Grade 3/4 events. Anaemia of any grade might persist during Zejula treatment. In the clinical programme, anaemia was managed with laboratory monitoring, dose modification (see section 4.2), and where appropriate with red blood cell transfusions. Discontinuation due to anaemia occurred in 1% of patients.
 
 ## Neutropenia
 
-In PRIMA, 21% of Zejula-treated patients experienced Grade 3/4 neutropenia compared to 1% of placebo-treated patients with a median time from first dose to first onset of 29 days (range: 15 to 421 days) and with a median duration of 8 days (range: 1 to 42 days). Discontinuation due to neutropenia occurred in 2% of patients receiving niraparib.
+In PRIMA, 21% of Zejula-treated patients experienced Grade 3 / 4 neutropenia compared to 1% of placebo-treated patients with a median time from first dose to first onset of 29 days (range: 15 to 421 days) and with a median duration of 8 days (range: 1 to 42 days). Discontinuation due to neutropenia occurred in 2% of patients receiving niraparib.
 
 In NOVA, approximately 30% of patients experienced neutropenia of any grade, and 20% of patients experienced Grade 3/4 neutropenia. The median time to onset of neutropenia of any grade was 27 days, and 29 days for Grade 3/4 events. The median duration of neutropenia of any grade was 26 days, and 13 days for Grade 3/4 events. In addition, Granulocyte-Colony Stimulating Factor (G-CSF) was administered to approximately 6% of patients treated with niraparib as concomitant therapy for neutropenia. Discontinuation due to neutropenia events occurred in 2% of patients.
 
@@ -1009,7 +1013,7 @@ In NOVA, approximately 30% of patients experienced neutropenia of any grade, and
 
 ## Myelodysplastic syndrome/Acute myeloid leukaemia
 
-In clinical studies, MDS/AML occurred in 1% patients treated with Zejula, with 41% of cases having a fatal outcome. The incidence was higher in patients with relapsed ovarian cancer who had received 2 or more lines of prior platinum chemotherapy and with gBRCA mut following 75 months survival follow-up. All patients had potential contributing factors for the development of MDS/AML, having received previous chemotherapy with platinum agents. Many had also received other DNA damaging agents and radiotherapy. The majority of reports were in g BRCA mut carriers. Some  patients had a history of previous cancer or of bone marrow suppression.
+In clinical studies, MDS/AML occurred in 1% patients treated with Zejula, with 41% of cases having a fatal outcome. The incidence was higher in patients with relapsed ovarian cancer who had received 2 or more lines of prior platinum chemotherapy and with gBRCA mut following 75 months survival followup. All patients had potential contributing factors for the development of MDS/AML, having received previous chemotherapy with platinum agents. Many had also received other DNA damaging agents and radiotherapy. The majority of reports were in g BRCA mut carriers. Some patients had a history of previous cancer or of bone marrow suppression.
 
 In PRIMA, the incidence of MDS/AML was 2.3% in patients receiving Zejula and 1.6% in patients receiving placebo with a follow-up of 74 months.
 
@@ -1017,13 +1021,9 @@ In NOVA, in patients with relapsed ovarian cancer who had received at least two 
 
 ## Hypertension
 
-In PRIMA, Grade 3/4 hypertension occurred in 6% of Zejula-treated patients compared to 1% of placebo-treated patients with a median time from first dose to first onset of 50 days (range: 1 to 589 days) and with a median duration of 12 days (range: 1 to 61 days). No patients discontinued Zejula due to hypertension.
+In PRIMA, Grade 3 / 4 hypertension occurred in 6% of Zejula-treated patients compared to 1% of placebo-treated patients with a median time from first dose to first onset of 50 days (range: 1 to 589 days) and with a median duration of 12 days (range: 1 to 61 days). No patients discontinued Zejula due to hypertension.
 
 In NOVA, hypertension of any grade occurred in 19.3% of patients treated with Zejula. Grade 3/4 hypertension occurred in 8.2% of patients. Hypertension was readily managed with anti-hypertensive medicinal products. Discontinuation due to hypertension occurred in &lt;1% of patients.
-
-## Paediatric population
-
-No studies have been conducted in paediatric patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -1037,21 +1037,21 @@ There is no specific treatment in the event of overdose with Zejula, and symptom
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, ATC code: L01XK02.
+Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, ATC code: L01X K02.
 
 ## Mechanism of action and pharmacodynamic effects
 
-Niraparib is an inhibitor of poly(ADP-ribose) polymerase (PARP) enzymes, PARP-1 and PARP-2, which play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes
+Niraparib is an inhibitor of poly(ADP-ribose) polymerase (PARP) enzymes, PARP-1 and PARP-2, which play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis and cell death. Increased niraparib-induced cytotoxicity was observed in tumour cell lines with or without deficiencies in the Beast Cancer ( BRCA) 1 and 2 tumour suppressor genes. In orthotopic high-grade serous ovarian cancer patient-derived xenograft tumours
 
 <div style=\"page-break-after: always\"></div>
 
-resulting in DNA damage, apoptosis and cell death. Increased niraparib-induced cytotoxicity was observed in tumour cell lines with or without deficiencies in the Beast Cancer ( BRCA) 1 and 2 tumour suppressor genes. In orthotopic high-grade serous ovarian cancer patient-derived xenograft tumours (PDX) grown in mice, niraparib has been shown to reduce tumour growth in BRCA 1 and 2 mutant, BRCA wild-type but homologous recombination (HR) deficient, and in tumours that are BRCA wildtype and without detectable HR deficiency.
+(PDX) grown in mice, niraparib has been shown to reduce tumour growth in BRCA 1 and 2 mutant, BRCA wild-type but homologous recombination (HR) deficient, and in tumours that are BRCA wildtype and without detectable HR deficiency.
 
 ## Clinical efficacy and safety
 
 ## First-line ovarian cancer maintenance treatment
 
-PRIMA was a Phase 3 double-blind, placebo-controlled trial in which patients (n = 733) in complete or partial response to first-line platinum-based chemotherapy were randomised 2:1 to niraparib or matched placebo. PRIMA was initiated with a starting dose of 300 mg daily in 475 patients (whereof 317 was randomised to the niraparib arm vs 158 in the placebo arm) in continuous 28-day cycles. The starting dose in PRIMA was changed with Amendment 2 of the Protocol. From that point forward, patients with a baseline b ody weight ≥77 kg and baseline platelet count ≥150,000/µL were administered niraparib 300 mg (n = 34) or placebo daily (n = 21) while patients with a baseline body weight &lt;77 kg or baseline platelet count &lt;150,000/ μ L were administered niraparib 200 mg (n = 122) or placebo daily (n = 61).
+PRIMA was a Phase 3 double-blind, placebo-controlled trial in which patients (n = 733) in complete or partial response to first-line platinum-based chemotherapy were randomised 2:1 to niraparib or matched placebo. PRIMA was initiated with a starting dose of 300 mg daily in 475 patients (whereof 317 was randomised to the niraparib arm vs 158 in the placebo arm) in continuous 28-day cycles. The starting dose in PRIMA was changed with Amendment 2 of the Protocol. From that point forward, patients with a baseline b ody weight ≥77 kg and baseline platelet count ≥150,000/µL were administered niraparib 300 mg (n = 34) or placebo daily (n = 21) while patients with a baseline body weight &lt;77 kg or baseline platelet count &lt;150,000/μL were administered niraparib 200 mg (n = 122) or placebo daily (n = 61).
 
 Patients were randomised post completion of first-line platinum-based chemotherapy plus or minus surgery. Subjects were randomised within 12 weeks of the first day of the last cycle of chemotherapy. Subjects had ≥6 and ≤9 cycles of platinum-based therapy. Following interval debulking surgery subjects had ≥2 post-operative cycles of platinum-based therapy. Patients who had received bevacizumab with chemotherapy but could not receive bevacizumab as maintenance therapy were not excluded from the study. Patients could not have received prior PARP inhibitor (PARPi) therapy, including niraparib. Patients who had neoadjuvant chemotherapy followed by interval debulking surgery could have visible residual or no residual disease. Patients with Stage III disease who had complete cytoreduction (i.e., no visible residual disease) after primary debulking surgery were excluded. Randomisation was stratified by best response during the front-line platinum regimen (complete response vs partial response), neoadjuvant chemotherapy (NACT) (Yes vs No); and homologous recombination deficiency (HRD) status [positive (HR-deficient) vs negative (HRproficient) or not determined]. Testing for HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis. The CA-125 levels should be in the normal range (or a CA125 decrease by &gt;90%) during the patient's front -line therapy, and be stable for at least 7 days.
 
@@ -1063,7 +1063,7 @@ PRIMA demonstrated a statistically significant improvement in PFS for patients r
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy results -PRIMA
+Table 5: Efficacy results - PRIMA
 
 |                                       | HR-deficient population   | HR-deficient population   | Overall population   | Overall population   |
 |---------------------------------------|---------------------------|---------------------------|----------------------|----------------------|
@@ -1076,7 +1076,7 @@ Table 5: Efficacy results -PRIMA
 | PFS2 median, months (95% CI)          | 43.4 (37.2, 54.1)         | 39.3 (30.3, 55.7)         | 30.1 (27.1, 33.1)    | 27.6 (24.2, 33.1)    |
 | Hazard ratio (95% CI)                 | 0.87 (0.66, 1.17)         | 0.87 (0.66, 1.17)         | 0.96 (0.79, 1.17)    | 0.96 (0.79, 1.17)    |
 | OS median, months d (95% CI)          | 71.9 (55.5, NE)           | 69.8 (51.6, NE)           | 46.6 (43.7, 52.8)    | 48.8 (43.1, 61.0)    |
-| Hazard ratio (95% CI)                 | 0.95 (0.70, 1.29)         | 0.95 (0.70, 1.29)         | 1.01 (0.84, 1.23)    | 1.01 (0.84, 1.23)    |
+| Hazard ratio (95% CI)                 | 0.95 (0.70 , 1.29)        | 0.95 (0.70 , 1.29)        | 1.01 (0.84, 1.23)    | 1.01 (0.84, 1.23)    |
 
 PFS = progression-free survival; CI = confidence interval; NE = not evaluable; PFS2 = PFS after the first subsequent therapy; OS = overall survival.
 
@@ -1088,11 +1088,11 @@ a Data based on final analysis.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Progression-free survival in the HR-deficient population -PRIMA (ITT)
+Figure 1: Progression-free survival in the HR-deficient population - PRIMA (ITT)
 
 <!-- image -->
 
-Figure 2: Progression-free survival in the overall population -PRIMA (ITT)
+Figure 2: Progression-free survival in the overall population - PRIMA (ITT)
 
 <!-- image -->
 
@@ -1100,21 +1100,21 @@ Figure 2: Progression-free survival in the overall population -PRIMA (ITT)
 
 ## PFS subgroup analyses
 
-Within the HR-deficient population, a PFS hazard ratio of 0.40 (95% CI: 0.27, 0.62) was observed in the subgroup of patients with BRCA mutation ovarian cancer (n = 223). In the subgroup of HRdeficient patients without a BRCA mutation (n = 150), a hazard ratio of 0.50 (95% CI: 0.31, 0.83) was observed.
+Within the HR-deficient population, a PFS hazard ratio of 0.40 (95% CI : 0.27, 0.62) was observed in the subgroup of patients with BRCA mutation ovarian cancer (n = 223). In the subgroup of HRdeficient patients without a BRCA mutation (n = 150), a hazard ratio of 0.50 (95% CI : 0.31, 0.83) was observed.
 
-The median PFS in the HR-proficient population (n = 249) was 8.1 months for patients randomised to Zejula compared with 5.4 months for placebo with a hazard ratio of 0.68 (95% CI: 0.49, 0.94).
+The median PFS in the HR-proficient population (n = 249) was 8.1 months for patients randomised to Zejula compared with 5.4 months for placebo with a hazard ratio of 0.68 (95% CI : 0.49, 0.94).
 
-In exploratory subgroup analyses of patients who were administered 200 or 300 mg dose of Zejula based on baseline weight or platelet count, comparable efficacy (investigator-assessed PFS) was observed with a PFS hazard ratio of 0.54 (95% CI: 0.33, 0.91) in the HR-deficient population, and with a hazard ratio of 0.68 (95% CI: 0.49, 0.94) in the overall population. In the HR-proficient subgroup, the dose of 200 mg appeared to give a lower treatment effect compared to the 300 mg dose.
+In exploratory subgroup analyses of patients who were administered 200 or 300 mg dose of Zejula based on baseline weight or platelet count, comparable efficacy (investigator-assessed PFS) was observed with a PFS hazard ratio of 0.54 (95% CI : 0.33, 0.91) in the HR -deficient population, and with a hazard ratio of 0.68 (95% CI : 0.49, 0.94) in the overall population. In the HR-proficient subgroup, the dose of 200 mg appeared to give a lower treatment effect compared to the 300 mg dose.
 
 ## OS subgroup analyses
 
 In the subgroup of HR-deficient patients with BRCA mutation ovarian cancer (n = 223), an OS hazard ratio of 0.94 (95% CI: 0.63, 1.41) was observed. In the subgroup of HR-deficient patients without a BRCA mutation (n = 149), a hazard ratio of 0.97 (95% CI: 0.62, 1.53) was observed.
 
-The median OS in the HR-proficient population (n = 249) was 36.6 months for patients randomised to Zejula compared to 32.2 months in the placebo arm, with a hazard ratio of 0.93 (95% CI: 0.69, 1.26).
+The median OS in the HR-proficient population (n = 249) was 36.6 months for patients randomised to Zejula compared to 32.2 months in the placebo arm, with a hazard ratio of 0.93 ( 95% CI: 0.69, 1.26) .
 
 ## Platinum-sensitive recurrent ovarian cancer maintenance treatment
 
-The safety and efficacy of niraparib as maintenance therapy was studied in a Phase 3 randomised, double-blind, placebo-controlled international trial (NOVA) in patients with relapsed predominantly high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who were platinum sensitive, defined by complete response (CR) or partial response (PR) for more than six months to their penultimate (next to last) platinum-based therapy. To be eligible for niraparib  treatment, the patient should be in response (CR or PR) following completion of last platinum-based chemotherapy. The CA-125 levels should be normal (or a &gt; 90% decrease in CA-125 from baseline) following their last platinum treatment, and be stable for at least 7 days. Patients could not have received prior PARPi therapy, including Zejula. Eligible patients were assigned to one of two cohorts based on the results of a germline BRCA (g BRCA ) mutation test. Within each cohort, patients were randomised using a 2:1 allocation of niraparib and placebo. Patients were assigned to the g BRCA mut cohort based on blood samples for g BRCA analysis that were taken prior to randomisation. Testing for tumour BRCA (t BRCA ) mutation and HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis or at the time of recurrence.
+The safety and efficacy of niraparib as maintenance therapy was studied in a Phase 3 randomised, double-blind, placebo-controlled international trial (NOVA) in patients with relapsed predominantly high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who were platinum sensitive, defined by complete response (CR) or partial response (PR) for more than six months to their penultimate (next to last) platinum-based therapy. To be eligible for niraparib treatment, the patient should be in response (CR or PR) following completion of last platinum-based chemotherapy. The CA-125 levels should be normal (or a &gt; 90% decrease in CA -125 from baseline) following their last platinum treatment, and be stable for at least 7 days. Patients could not have received prior PARPi therapy, including Zejula. Eligible patients were assigned to one of two cohorts based on the results of a germline BRCA (g BRCA ) mutation test. Within each cohort, patients were randomised using a 2:1 allocation of niraparib and placebo. Patients were assigned to the g BRCA mut cohort based on blood samples for g BRCA analysis that were taken prior to randomisation. Testing for tumour BRCA (t BRCA ) mutation and HRD was performed using the HRD test on tumour tissue obtained at the time of initial diagnosis or at the time of recurrence.
 
 Randomisation within each cohort was stratified by time to progression after the penultimate platinum therapy before study enrolment (6 to &lt;12 months and ≥12 months); use or not of bevacizumab in conjunction with the penultimate or last platinum regimen; and best response during the most recent platinum regimen (complete response and partial response).
 
@@ -1124,17 +1124,15 @@ In the NOVA study, 48% of patients had a dose interruption in Cycle 1. Approxima
 
 The most commonly used dose in niraparib-treated patients in the NOVA study was 200 mg.
 
-Progression-free survival (PFS) was determined per RECIST (Response Evaluation Criteria in Solid Tumors, version 1.1) or clinical signs and symptoms and increased CA-125. PFS was measured from
+Progression-free survival (PFS) was determined per RECIST (Response Evaluation Criteria in Solid Tumors, version 1.1) or clinical signs and symptoms and increased CA-125. PFS was measured from the time of randomisation (which occurred up to 8 weeks after completion of the chemotherapy regimen) to disease progression or death.
 
 <div style=\"page-break-after: always\"></div>
-
-the time of randomisation (which occurred up to 8 weeks after completion of the chemotherapy regimen) to disease progression or death.
 
 The primary efficacy analysis for PFS was determined by blinded central independent assessment and was prospectively defined and assessed for the g BRCA mut cohort and the non-g BRCA mut cohort separately. Overall survival (OS) analyses were secondary outcome measures.
 
 Secondary efficacy endpoints included chemotherapy-free interval (CFI), time to first subsequent therapy (TFST), PFS after the first subsequent therapy (PFS2), and OS.
 
-Demographics, baseline disease characteristics, and prior treatment history were generally well balanced between the niraparib and placebo arms in the g BRCA mut (n = 203) and the non-g BRCA mut cohorts (n = 350). Median ages ranged from 57 to 63 years across treatments and cohorts. The primary tumour site in most patients (&gt;80%) within each cohort was the ovary; most patients (&gt;84%) had tumours with serous histology. A high proportion of patients in both treatment arms in both cohorts had received 3 or more prior lines of chemotherapy, including 49% and 34% of niraparib patients in the g BRCA mut and non-g BRCA mut cohorts, respectively. Most patients were age 18 to 64 years (78%), Caucasian (86%) and had an ECOG performance status of 0 (68%).
+Demographics, baseline disease characteristics, and prior treatment history were generally well balanced between the niraparib and placebo arms in the g BRCA mut (n = 203) and the non-g BRCA mut cohorts (n = 350). Median ages ranged from 57 to 63 years across treatments and cohorts. The primary tumour site in most patients (&gt;80%) within each cohort was the ovary; most patients (&gt;84%) had tumours with serous histology. A high proportion of patients in both treatment arms in both cohorts had received 3 or more pr ior lines of chemotherapy, including 49% and 34% of niraparib patients in the g BRCA mut and non-g BRCA mut cohorts, respectively. Most patients were age 18 to 64 years (78%), Caucasian (86%) and had an ECOG performance status of 0 (68%).
 
 In the g BRCA mut cohort, the median number of treatment cycles was higher in the niraparib arm than the placebo arm (14 and 7 cycles, respectively). More patients in the niraparib group continued treatment for more than 12 months than patients in the placebo group (54.4% and 16.9% respectively).
 
@@ -1144,12 +1142,12 @@ The study met its primary objective of statistically significantly improved PFS 
 
 Table 6: Summary of primary objective outcomes in the NOVA study
 
-|                                        | g BRCA mut cohort   | g BRCA mut cohort   | Non-g BRCA mut cohort   | Non-g BRCA mut cohort   |
-|----------------------------------------|---------------------|---------------------|-------------------------|-------------------------|
-|                                        | Zejula (N = 138)    | Placebo (N = 65)    | Zejula (N = 234)        | Placebo (N = 116)       |
-| PFS median (95% CI)                    | 21.0 (12.9, NE)     | 5.5 (3.8, 7.2)      | 9.3 (7.2, 11.2)         | 3.9 (3.7, 5.5)          |
-| p-value                                | <0.0001             | <0.0001             | <0.0001                 | <0.0001                 |
-| Hazard ratio (Zejula:placebo) (95% CI) | 0.27 (0.173, 0.410) | 0.27 (0.173, 0.410) | 0.45 (0.338, 0.607)     | 0.45 (0.338, 0.607)     |
+|                                         | g BRCA mut cohort   | g BRCA mut cohort   | Non-g BRCA mut cohort   | Non-g BRCA mut cohort   |
+|-----------------------------------------|---------------------|---------------------|-------------------------|-------------------------|
+|                                         | Zejula (N = 138)    | Placebo (N = 65)    | Zejula (N = 234)        | Placebo (N = 116)       |
+| PFS median (95% CI)                     | 21.0 (12.9, NE)     | 5.5 (3.8, 7.2)      | 9.3 (7.2, 11.2)         | 3.9 (3.7, 5.5)          |
+| p-value                                 | <0.0001             | <0.0001             | <0.0001                 | <0.0001                 |
+| Hazard ratio (Zejula:placebo ) (95% CI) | 0.27 (0.173, 0.410) | 0.27 (0.173, 0.410) | 0.45 (0.338, 0.607)     | 0.45 (0.338, 0.607)     |
 
 PFS = progression-free survival; CI = confidence interval; NE = not evaluable.
 
@@ -1159,7 +1157,7 @@ Figure 3: Progression-free survival in the g BRCA mut cohort based on IRC assess
 
 <!-- image -->
 
-Figure 4: Progression-free survival in the non-g BRCA mut cohort /overall based on IRC assessment -NOVA (ITT)
+Figure 4: Progression-free survival in the non-g BRCA mut cohort /overall based on IRC assessment - NOVA (ITT)
 
 <!-- image -->
 
@@ -1177,7 +1175,11 @@ Patient-reported outcome data from validated survey tools (FOSI and EQ-5D) indic
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Zejula in all subsets of the paediatric population in ovarian carcinoma, excluding rhabdomyosarcoma and germ cell tumours (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Zejula in all subsets of the paediatric population in ovarian carcinoma, excluding rhabdomyosarcoma and germ cell tumours (see section 4.2 for information on paediatric use). However, paediatric development was conducted in children and adolescents with other oncology conditions.
+
+In a Phase 1 study (SCOOP), the safety, pharmacokinetics, and antitumour activity of Zejula in combination with dostarlimab were evaluated in 47 children and adolescents with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma. Patients aged 5 to ˂ 18 years received Zejula 75 to 200 mg daily.
+
+The study was terminated prematurely due to observed toxicities in conjunction with insufficient efficacy. No efficacy response was observed in the 17 patients with osteosarcoma or neuroblastoma included in the expansion part of the study. The safety profile of the combination in the paediatric population cannot be considered established due to the limited number of paediatric patients evaluated with limited exposure. See section 4.2 for information on paediatric use.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1193,7 +1195,9 @@ The tablet and capsule formulations have been demonstrated to be bioequivalent. 
 
 ## Distribution
 
-Niraparib was moderately protein bound in human plasma (83%), mainly with serum albumin. In a population pharmacokinetic analysis of niraparib, the apparent volume of distribution (Vd/F) was 1,206 L (based on a 70 kg patient) in cancer patients (CV 18.4%), indicating extensive tissue distribution of niraparib.
+Niraparib was moderately protein bound in human plasma (83%), mainly with serum albumin. In a population pharmacokinetic analysis of niraparib, the apparent volume of distribution (Vd /F) was 1,206 L (based on a 70 kg patient) in cancer patients (CV 18.4%), indicating extensive tissue distribution of niraparib.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -1201,13 +1205,9 @@ Niraparib is metabolised primarily by carboxylesterases (CEs) to form a major in
 
 ## Elimination
 
-Following a single oral 300-mg dose of niraparib, the mean terminal half-life (t ½ ) of niraparib ranged from 44 to 54 hours (approximately 2 days) across studies. In a population pharmacokinetic analysis, the apparent total clearance (CL/F) of niraparib was 15.9 L/h in cancer patients (CV 24.0%).
+Following a single oral 300-mg dose of niraparib, the mean terminal half-life (t½) of niraparib ranged from 44 to 54 hours (approximately 2 days) across studies. In a population pharmacokinetic analysis, the apparent total clearance (CL/F) of niraparib was 15.9 L/h in cancer patients (CV 24.0%).
 
-Niraparib is eliminated primarily through the hepatobiliary and renal routes. Following an oral
-
-<div style=\"page-break-after: always\"></div>
-
-administration of a single 300-mg dose of [ 14 C]-niraparib, on average 86.2% (range 71% to 91%) of the dose was recovered in urine and faeces over 21 days. Radioactive recovery in the urine accounted for 47.5% (range 33.4% to 60.2%) and in the faeces for 38.8% (range 28.3% to 47%) of the dose. In pooled samples collected over 6 days, 40% of the dose was recovered in the urine primarily as metabolites and 31.6% of the dose was recovered in the faeces primarily as unchanged niraparib.
+Niraparib is eliminated primarily through the hepatobiliary and renal routes. Following an oral administration of a single 300-mg dose of [ 14 C]niraparib, on average 86.2% (range 71% to 91%) of the dose was recovered in urine and faeces over 21 days. Radioactive recovery in the urine accounted for 47.5% (range 33.4% to 60.2%) and in the faeces for 38.8% (range 28.3% to 47%) of the dose. In pooled samples collected over 6 days, 40% of the dose was recovered in the urine primarily as metabolites and 31.6% of the dose was recovered in the faeces primarily as unchanged niraparib.
 
 ## In vitro studies
 
@@ -1215,17 +1215,17 @@ Niraparib is an inducer of CYP1A2 in vitro (see section 4.5).
 
 Niraparib is a substrate of P-gp and BCRP. However, due to niraparib's high permeability and bioavailability, the risk of clinically relevant interactions with medicinal products that inhibit these transporters is unlikely.
 
-Niraparib is an inhibitor of P-gp, BCRP, MATE1/2K and organic cation transporter 1 (OCT1) in vitro (see section 4.5).
+Niraparib is an inhibitor of P-gp, BCRP , MATE1/2K and organic cation transporter 1 (OCT1) in vitro (see section 4.5).
 
 ## Special populations
 
 ## Renal impairment
 
-In the population pharmacokinetic analysis, patients with mild (creatinine clearance 60-90 mL/min) and moderate (30-60 mL/min) renal impairment had mildly reduced niraparib clearance compared to individuals with normal renal function. The difference in exposure is not considered to warrant dose adjustment. No patients with pre-existing severe renal impairment or end-stage renal disease undergoing hemodialysis were identified in clinical studies (see section 4.2).
+In the population pharmacokinetic analysis, patients with mild (creatinine clearance 6090 mL/min) and moderate (3060 mL/min) renal impairment had mildly reduced niraparib clearance compared to individuals with normal renal function. The difference in exposure is not considered to warrant dose adjustment. No patients with pre-existing severe renal impairment or end-stage renal disease undergoing hemodialysis were identified in clinical studies (see section 4.2).
 
 ## Hepatic impairment
 
-In the population pharmacokinetic analysis of data from clinical studies in patients, pre-existing mild hepatic impairment (n = 155) did not influence the clearance of niraparib. In a clinical study of cancer patients using NCI-ODWG criteria to classify the degree of hepatic impairment, niraparib AUCinf in patients with moderate hepatic impairment (n = 8) was 1.56 (90% CI: 1.06, 2.30) times the niraparib AUCinf in patients with normal hepatic function (n = 9) following administration of a single 300 mg dose. Niraparib dose adjustment is recommended for patients with moderate hepatic impairment (see section 4.2). Moderate hepatic impairment did not have an effect on niraparib Cmax or on niraparib protein binding. The pharmacokinetics of niraparib have not been assessed in patients with severe hepatic impairment (see sections 4.2 and 4.4).
+In the population pharmacokinetic analysis of data from clinical studies in patients, pre-existing mild hepatic impairment (n = 155) did not influence the clearance of niraparib. In a clinical study of cancer patients using NCI-ODWG criteria to classify the degree of hepatic impairment, niraparib AUCinf in patients with moderate hepatic impairment (n = 8) was 1.56 (90% CI: 1.06 , 2.30) times the niraparib AUCinf in patients with normal hepatic function (n = 9) following administration of a single 300 mg dose. Niraparib dose adjustment is recommended for patients with moderate hepatic impairment (see section 4.2). Moderate hepatic impairment did not have an effect on niraparib Cmax or on niraparib protein binding. The pharmacokinetics of niraparib have not been assessed in patients with severe hepatic impairment (see sections 4.2 and 4.4).
 
 ## Weight, age and race
 
@@ -1233,21 +1233,19 @@ Increasing weight was found to increase niraparib volume of distribution in the 
 
 Age (range 26 to 91 years) was not a significant factor on niraparib clearance or volume of distribution in the population pharmacokinetic analysis.
 
+<div style=\"page-break-after: always\"></div>
+
 There are insufficient data across races to conclude on the impact of race on niraparib pharmacokinetics.
 
 ## Paediatric population
 
-No studies have been conducted to investigate the pharmacokinetics of niraparib in paediatric patients.
+In a Phase 1 study (SCOOP), the pharmacokinetics of niraparib was evaluated in 44 children and adolescents with recurrent or refractory solid tumours. While a clinical study was initiated to evaluate pharmacokinetics in this population, the study was prematurely terminated. Consequently, the pharmacokinetic data obtained were limited and insufficient to reliably characterise exposures in paediatric patients.
 
 ## 5.3 Preclinical safety data
 
 ## Safety pharmacology
 
-In vitro , niraparib inhibited the dopamine transporter DAT at concentration levels below human exposure levels. In mice, single doses of niraparib increased intracellular levels of dopamine and
-
-<div style=\"page-break-after: always\"></div>
-
-metabolites in cortex. Reduced locomotor activity was seen in one of two single dose studies in mice. The clinical relevance of these findings is not known. No effect on behavioural and/or neurological parameters have been observed in repeat-dose toxicity studies in rats and dogs at estimated CNS exposure levels similar to or below expected therapeutic exposure levels.
+In vitro , niraparib inhibited the dopamine transporter DAT at concentration levels below human exposure levels. In mice, single doses of niraparib increased intracellular levels of dopamine and metabolites in cortex. Reduced locomotor activity was seen in one of two single dose studies in mice. The clinical relevance of these findings is not known. N o effect on behavioural and/or neurological parameters have been observed in repeat-dose toxicity studies in rats and dogs at estimated CNS exposure levels similar to or below expected therapeutic exposure levels.
 
 ## Repeat-dose toxicity
 
@@ -1271,7 +1269,13 @@ Carcinogenicity studies have not been conducted with niraparib.
 
 Tablet core Crospovidone Lactose monohydrate Magnesium stearate Microcrystalline cellulose (E 460) Povidone (E 1201) Silica, colloidal hydrated
 
-Tablet coat Polyvinyl alcohol (E 1203) Titanium dioxide (E 171) Macrogol (E 1521) Talc (E 553b) Iron oxide black (E 172)
+Tablet coat Polyvinyl alcohol (E 1203)
+
+<div style=\"page-break-after: always\"></div>
+
+Titanium dioxide (E 171) Macrogol (E 1521) Talc (E 553b)
+
+Iron oxide black (E 172)
 
 ## 6.2 Incompatibilities
 
@@ -1285,11 +1289,9 @@ Not applicable.
 
 This medicinal product does not require any special storage conditions, store in the original package to protect the tablets from absorption of water under high humidity conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
-OPA/aluminium/PVC/aluminium/vinyl/acrylic blisters in cartons of 84 and 56 film-coated tablets, or OPA/aluminium/PVC/aluminium/vinyl/acrylic/paper child-resistant blisters in cartons of 84 and 56 film-coated tablets.
+OPA/aluminium/PVC/aluminium/vinyl/acrylic blisters in cartons of 84 and 56 film-coated tablets, or OPA/aluminium/PVC/aluminium/vinyl/acrylic/paper child -resistant blisters in cartons of 84 and 56 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1299,13 +1301,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
 
-Limited
+D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1235/004 EU/1/17/1235/005 EU/1/17/1235/006 EU/1/17/1235/007
+EU/1/17/1235/004 EU/1/17/1235/005 EU/1/17/1235/006
+
+EU/1/17/1235/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1313,9 +1317,11 @@ Date of first authorisation: 16 November 2017
 
 Date of latest renewal: 18 July 2022
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1329,7 +1335,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Hard Capsules and Film-coated Tablets: GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+Hard Capsules and Film-coated Tablets: GlaxoSmithKline Trading Services L imited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 Film-coated Tablets: Millmount Healthcare Ltd. Block 7, City North Business Campus, Stamullen, Co Meath Ireland
 
@@ -1388,7 +1394,7 @@ Also contains lactose and tartrazine (E 102). See leaflet for further informatio
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsule
+## Hard capsule
 
 84 × 1 hard capsules
 
@@ -1414,7 +1420,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 °C.
+Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1424,17 +1430,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited
-
-12 Riverwalk
-
-Citywest Business Campus
-
-Dublin 24
-
-Ireland
-
-D24 YK11
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1448,15 +1444,14 @@ EU/1/17/1235/003 28 hard capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 zejula
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1470,17 +1465,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| CAPSULE BLISTER                                      |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| CAPSULE BLISTER                                     |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Zejula 100 mg capsules niraparib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 GlaxoSmithKline Trading Services Limited
 
@@ -1571,7 +1566,7 @@ EU/1/17/1235/005 84 film-coated tablets
 
 EU/1/17/1235/006 56 film-coated tablets in child-resistant blisters
 
-EU/1/17/1235/007 84 film-coated tablets in child-resistant blisters
+EU/1/17/1235/007 84 film -coated tablets in child-resistant blisters
 
 ## 13. BATCH NUMBER
 
@@ -1585,7 +1580,7 @@ Lot
 
 zejula tablet
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1599,17 +1594,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| TABLET BLISTER                                       |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| TABLET BLISTER                                      |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Zejula 100 mg tablets niraparib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 GlaxoSmithKline Trading Services Limited
 
@@ -1678,15 +1673,13 @@ Zejula is used in adult women for the treatment of cancer of the ovary, the fall
 
 Talk to your doctor, pharmacist or nurse before or while taking this medicine if any of the following could apply to you:
 
-## Low blood-cell counts
+## Low blood -cell counts
 
-Zejula lowers your blood-cell counts, such as your red blood-cell count (anaemia), white blood-cell
+Zejula lowers your blood-cell counts, such as your red blood-cell count (anaemia), white blood-cell count (neutropenia), or blood-platelet count (thrombocytopenia). Signs and symptoms you need to look out for include fever or infection, and abnormal bruising or bleeding (see section 4 for more information). Your doctor will test your blood regularly throughout your treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-count (neutropenia), or blood-platelet count (thrombocytopenia). Signs and symptoms you need to look out for include fever or infection, and abnormal bruising or bleeding (see section 4 for more information). Your doctor will test your blood regularly throughout your treatment.
-
-## Myelodysplastic syndrome/acute myeloid leukaemia
+## Myelodysplastic syndrome / acute myeloid leukaemia
 
 Rarely, low blood-cell counts may be a sign of more serious problems with the bone marrow such as 'myelodysplastic syndrome' (MDS) or 'acute myeloid leukaemia' (AML). Your doctor may want to test your bone marrow to check for these problems.
 
@@ -1700,7 +1693,7 @@ A rare neurological side effect named PRES has been associated with Zejula treat
 
 ## Children and adolescents
 
-Children under 18 years of age should not be given Zejula. This medicine has not been studied in this age group.
+Children and adolescents under 18 years of age should not be given Zejula. The safety and efficacy of Zejula have not been established in this age group.
 
 ## Other medicines and Zejula
 
@@ -1724,11 +1717,9 @@ When you are taking Zejula it may make you feel weak, unfocused, tired or dizzy 
 
 ## Zejula contains lactose
 
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-before taking this medicinal product.
 
 ## Zejula contains tartrazine (E 102)
 
@@ -1777,12 +1768,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 <div style=\"page-break-after: always\"></div>
 
-- Fever or infection -low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
+- Fever or infection - low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
 - Reduction in the number of white cells in the blood (leukopenia)
 
 ## Common (may affect up to 1 in 10 people)
 
-- Allergic reaction (including severe allergic reaction that can be life-threatening). Signs include raised and itchy rash (hives) and swelling -sometimes of the face or mouth (angioedema), causing difficulty in breathing, and collapse or loss of consciousness.
+- Allergic reaction (including severe allergic reaction that can be life-threatening). Signs include raised and itchy rash (hives) and swelling-sometimes of the face or mouth (angioedema), causing difficulty in breathing, and collapse or loss of consciousness.
 - Low blood cell counts due to a problem in the bone marrow or blood cancer starting from the bone marrow 'myelodysplastic syndrome' (MDS) or 'acute myeloid leukaemia' (AML).
 
 ## Uncommon (may affect up to 1 in 100 people)
@@ -1863,7 +1854,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and blister after EXP . The expiry date refers to the last day of that month.
 
 Do not store above 30°C.
 
@@ -1874,10 +1865,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Zejula contains
 
 - The active substance is niraparib. Each hard capsule contains niraparib tosylate monohydrate equivalent to 100 mg niraparib.
-- •
-- The other ingredients (excipients) are: Capsule content: magnesium stearate, lactose monohydrate Capsule shell: titanium dioxide (E 171), gelatin, brilliant blue FCF (E 133), erythrosine (E 127), tartrazine (E 102) Printing ink: shellac (E 904), propylene glycol (E 1520), potassium hydroxide (E 525), black
+- The other ingredients (excipients) are: Capsule content: magnesium stearate, lactose monohydrate Capsule shell: titanium dioxide (E 171), gelatin, brilliant blue FCF (E 133), erythrosine (E 127), tartrazine (E 102) 1520), potassium hydroxide (E 525), black
 
-iron oxide (E 172), sodium hydroxide (E 524), povidone (E 1201), and titanium dioxide (E 171).
+Printing ink: shellac (E 904), propylene glycol (E iron oxide (E 172), sodium hydroxide (E 524), povidone (E 1201), and titanium dioxide (E 171).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1897,13 +1887,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited
-
-12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## Manufacturer
 
-GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services L imited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1911,9 +1899,17 @@ For any information about this medicine, please contact the local representative
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
+## Lietuva
+
+GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
+
 ## България
 
 GlaxoSmithKline Trading Services Limited Teл.: + 359 80018205
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Česká republika
 
@@ -1923,45 +1919,23 @@ Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
-## Danmark
-
-GlaxoSmithKline Pharma A/S
-
-Tlf.: + 45 36 35 91 00
-
-dk-info@gsk.com
-
-## Deutschland
-
-GlaxoSmithKline GmbH &amp; Co. KG
-
-## Lietuva
-
-GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
-
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 52 00
-
 ## Magyarország
 
-GlaxoSmithKline Trading Services Limited Tel.: + 36  80088309
+GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S Tlf. : + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
 GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
-## Nederland
-
-GlaxoSmithKline BV
-
-Tel.: + 49 (0)89 36044 8701
-
-produkt.info@gsk.com
-
 <div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -1981,7 +1955,7 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Trading Services Limited Tel: +385  800787089
+GlaxoSmithKline Trading Services Limited Tel: +385 800787089
 
 ## Ireland
 
@@ -1997,7 +1971,7 @@ GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services L imited Τηλ: + 357 80070017
 
 ## Latvija
 
@@ -2007,9 +1981,11 @@ GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu .
 
-Tel: + 31 (0)33 2081100
+## Nederland
+
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -2027,7 +2003,7 @@ Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -2099,13 +2075,11 @@ Zejula is used in adult women for the treatment of cancer of the ovary, the fall
 
 Talk to your doctor, pharmacist or nurse before or while taking this medicine if any of the following could apply to you:
 
-## Low blood-cell counts
+## Low blood -cell counts
 
-Zejula lowers your blood-cell counts, such as your red blood-cell count (anaemia), white blood-cell
+Zejula lowers your blood-cell counts, such as your red blood-cell count (anaemia), white blood-cell count (neutropenia), or blood-platelet count (thrombocytopenia). Signs and symptoms you need to look out for include fever or infection, and abnormal bruising or bleeding (see section 4 for more information). Your doctor will test your blood regularly throughout your treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-count (neutropenia), or blood-platelet count (thrombocytopenia). Signs and symptoms you need to look out for include fever or infection, and abnormal bruising or bleeding (see section 4 for more information). Your doctor will test your blood regularly throughout your treatment.
 
 ## Myelodysplastic syndrome/acute myeloid leukaemia
 
@@ -2121,7 +2095,7 @@ A rare neurological side effect named PRES has been associated with Zejula treat
 
 ## Children and adolescents
 
-Children under 18 years of age should not be given Zejula. This medicine has not been studied in this age group.
+Children and adolescents under 18 years of age should not be given Zejula. The safety and efficacy of Zejula have not been established in this age group.
 
 ## Other medicines and Zejula
 
@@ -2143,13 +2117,11 @@ Zejula should not be taken if you are breast-feeding as it is not known if it pa
 
 When you are taking Zejula it may make you feel weak, unfocused, tired or dizzy and therefore influence your ability to drive and use machines. Observe caution when driving or using machines.
 
-## Zejula contains lactose
-
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor
-
 <div style=\"page-break-after: always\"></div>
 
-before taking this medicinal product.
+## Zejula contains lactose
+
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 ## 3. How to take Zejula
 
@@ -2189,14 +2161,15 @@ Very common (may affect more than 1 in 10 people)
 
 - Bruising or bleeding for longer than usual if you hurt yourself -- these may be signs of a low blood platelet count (thrombocytopenia).
 - Being short of breath, feeling very tired, having pale skin, or fast heartbeat -- these may be signs of a low red blood cell count (anaemia).
-- Fever or infection -low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
-- Reduction in the number of white cells in the blood (leukopenia)
+- Fever or infection - low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
 
 <div style=\"page-break-after: always\"></div>
 
+- Reduction in the number of white cells in the blood (leukopenia)
+
 ## Common (may affect up to 1 in 10 people)
 
-- Allergic reaction (including severe allergic reaction that can be life-threatening). Signs include raised and itchy rash (hives) and swelling -sometimes of the face or mouth (angioedema), causing difficulty in breathing, and collapse or loss of consciousness.
+- Allergic reaction (including severe allergic reaction that can be life-threatening). Signs include raised and itchy rash (hives) and swelling-sometimes of the face or mouth (angioedema), causing difficulty in breathing, and collapse or loss of consciousness.
 - Low blood cell counts due to a problem in the bone marrow or blood cancer starting from the bone marrow 'myelodysplastic syndrome' (MDS) or 'acute myeloid leukaemia' (AML).
 
 ## Uncommon (may affect up to 1 in 100 people)
@@ -2245,11 +2218,11 @@ Talk to your doctor if you get any other side effects. These can include:
 - Inflammation or swelling of the air passages between the mouth and nose and the lungs, bronchitis
 - Abdominal bloating
 - Feeling of worry, nervousness, or unease
-- Feelings of sadness, depressed
-- Nose bleed
 
 <div style=\"page-break-after: always\"></div>
 
+- Feelings of sadness, depressed
+- Nose bleed
 - Decrease in weight
 - Muscle pain
 - Impaired concentration, understanding, memory and thinking (cognitive impairment)
@@ -2292,13 +2265,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Tablet core: crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose (E 460), povidone (E 1201), colloidal hydrated silica. Tablet coating: polyvinyl alcohol (E 1203), titanium dioxide (E 171), macrogol (E 1521), talc (E 553b), black iron oxide (E 172).
 
-This medicine contains lactose -see section 2 for more information.
-
 <div style=\"page-break-after: always\"></div>
+
+This medicine contains lactose - see section 2 for more information.
 
 ## What Zejula looks like and contents of the pack
 
-Zejula 100 mg film-coated tablets are grey, oval-shaped, filmcoated tablet debossed with '100' on one side and 'Zejula' on the other.
+Zejula 100 mg film-coated tablets are grey, oval-shaped, film-coated tablet debossed with '100' on one side and 'Zejula' on the other.
 
 The film-coated tablets are packed in blister packs or child-resistant blister packs of
 
@@ -2309,11 +2282,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+
+D24 YK11
 
 ## Manufacturer
 
-GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services L imited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 Millmount Healthcare Ltd. Block 7, City North Business Campus, Stamullen, Co Meath Ireland
 
@@ -2337,12 +2312,6 @@ Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
-## Danmark
-
-GlaxoSmithKline Pharma A/S
-
-Tlf.: + 45 36 35 91 00
-
 ## Lietuva
 
 GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
@@ -2353,29 +2322,21 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10
 
 ## Magyarország
 
-GlaxoSmithKline Trading Services Limited Tel.: + 36  80088309
-
-## Malta
-
-GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
+GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
 
 <div style=\"page-break-after: always\"></div>
 
-dk-info@gsk.com
+## Danmark
+
+GlaxoSmithKline Pharma A/S Tlf. : + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG
-
-Tel.: + 49 (0)89 36044 8701
-
-produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
-GlaxoSmithKline Trading Services Limited
-
-Tel: + 372  8002640
+GlaxoSmithKline Trading Services Limited Tel: + 372  8002640
 
 ## Ελλάδα
 
@@ -2391,19 +2352,15 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Trading Services Limited Tel: +385  800787089
+GlaxoSmithKline Trading Services Limited Tel: +385 800787089
 
 ## Ireland
 
-GlaxoSmithKline (Ireland) Limited
-
-Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor ehf.
-
-Sími: + 354 535 7000
+Vistor ehf. Sími: + 354 535 7000
 
 ## Italia
 
@@ -2411,17 +2368,15 @@ GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services L imited Τηλ: + 357 80070017
 
 ## Latvija
 
 GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
 
-This leaflet was last revised in MM/YYYY .
+## Malta
 
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
 ## Nederland
 
@@ -2441,7 +2396,7 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -2462,3 +2417,11 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 ## Sverige
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in MM/YYYY .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu .

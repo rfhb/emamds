@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-12-02 09:59:14
+document_datetime: 2026-06-10 09:22:09
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/upstaza-epar-product-information_en.pdf
 document_name: upstaza-epar-product-information_en.pdf
 version: success
-processing_time: 7.8794225
-conversion_datetime: 2025-12-18 09:17:39.903351
+processing_time: 14.6512784
+conversion_datetime: 2026-06-13 20:01:42.351217
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -26,11 +24,11 @@ docling_version:
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+## 1 NAME OF THE MEDICINAL PRODUCT
 
-Upstaza 2.8 × 10 11 vector genomes (vg)/0.5 mL solution for infusion
+Upstaza 2.8 × 10 11  vector genomes (vg)/0.5 mL solution for infusion
 
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+## 2 QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 ## 2.1 General description
 
@@ -40,17 +38,17 @@ Eladocagene exuparvovec is produced in human embryonic kidney cells by recombina
 
 ## 2.2 Qualitative and quantitative composition
 
-Each single-dose vial contains 2.8 × 10 11 vg of eladocagene exuparvovec in 0.5 extractable mL of solution. Each mL of solution contains 5.6 × 10 11 vg of eladocagene exuparvovec.
+Each single-dose vial contains 2.8 × 10 11  vg of eladocagene exuparvovec in 0.5 extractable mL of solution. Each mL of solution contains 5.6 × 10 11  vg of eladocagene exuparvovec.
 
 For the full list of excipients, see section 6.1.
 
-## 3. PHARMACEUTICAL FORM
+## 3 PHARMACEUTICAL FORM
 
 Solution for infusion.
 
 Following thaw from frozen, the solution for infusion is a clear to slightly opaque, colourless to faint-white liquid.
 
-## 4. CLINICAL PARTICULARS
+## 4 CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
@@ -62,7 +60,7 @@ Treatment should be administered in a centre which is specialised in stereotacti
 
 ## Posology
 
-Patients will receive a total dose of 1.8 × 10 11 vg delivered as four 0.08 mL (0.45 × 10 11 vg) infusions (two per putamen).
+Patients will receive a total dose of 1.8 × 10 11 vg delivered as four 0.08 mL (0.45 × 10 11  vg) infusions (two per putamen).
 
 The posology is the same for the entire population covered by the indication.
 
@@ -100,7 +98,7 @@ Upstaza is a single use vial administered by bilateral intraputaminal infusion i
 
 The target infusion sites are defined per standard stereotactic neurosurgical practice. Upstaza is administered as a bilateral infusion (2 infusions per putamen) with an intracranial cannula. The final 4 targets for each trajectory should be defined as 2 mm dorsal to (above) the anterior and posterior target points in the mid-horizonal plane (Figure 1).
 
-Figure 1 Four target points for infusion sites
+## Figure 1 Four target points for infusion sites
 
 <!-- image -->
 
@@ -109,7 +107,7 @@ Figure 1 Four target points for infusion sites
 <div style=\"page-break-after: always\"></div>
 
 - The infusion cannula is placed at the designation point in the putamen using stereotactic tools based on the trajectories planned. Of note, the infusion cannula is placed and infusion performed separately for each putamen.
-- Upstaza is infused at a rate of 0.003 mL/min at each of the 2 target points in each putamen; 0.08 mL of Upstaza is infused per putaminal site resulting in 4 infusions with a total volume of 0.320 mL (or 1.8 × 10 11 vg).
+- Upstaza is infused at a rate of 0.003 mL/min at each of the 2 target points in each putamen; 0.08 mL of Upstaza is infused per putaminal site resulting in 4 infusions with a total volume of 0.320 mL (or 1.8 × 10 11  vg).
 - Starting with the first target site, the cannula is inserted through a burr hole into the putamen and then slowly withdrawn, distributing the 0.08 mL of Upstaza across the planned trajectory to optimise distribution across the putamen.
 - After the first infusion, the cannula is withdrawn and then re-inserted at the next target point, repeating the same procedure for the other 3 target points (anterior and posterior of each putamen).
 - After standard neurosurgical closure procedures, the patient then undergoes a postoperative brain imaging (magnetic resonance imaging [MRI] or computerized tomography [CT]) to ensure there are no complications (ie, bleeding).
@@ -182,9 +180,7 @@ There are no data from the use of eladocagene exuparvovec in pregnant women. Ani
 
 ## Breast-feeding
 
-It is unknown whether eladocagene exuparvovec is excreted in human milk.
-
-Eladocagene exuparvovec is not absorbed systemically following intraputaminal administration, and no effect on the breastfed newborns/infants are anticipated.
+It is unknown whether eladocagene exuparvovec is excreted in human milk. Eladocagene exuparvovec is not absorbed systemically following intraputaminal administration, and no effect on the breastfed newborns/infants are anticipated.
 
 ## Fertility
 
@@ -198,7 +194,7 @@ Not relevant.
 
 ## Summary of the safety profile
 
-The safety information was observed in 3 open-label clinical studies in which eladocagene exuparvovec was administered to 30 AADC-deficient patients aged 19 months to 8.5 years at the time of dosing. Patients were followed for a median duration of 59.3 months (minimum of 11.8 months to a maximum of 5.7 years). Twenty-six patients treated in the clinical studies enrolled in a long-term follow-up study. The duration of follow-up from the time of gene therapy ranged from 27.2 to 126.5 months (approximately 2 to 10.5 years).
+The safety information was observed in 3 open-label clinical studies in which eladocagene exuparvovec was administered to 30 AADC-deficient patients aged 19 months to 8.5 years at the time of dosing. Patients were followed for a median duration of 59.3 months (minimum of 11.8 months to a maximum of 5.7 years). Twenty-seven patients treated in the clinical studies enrolled in a long-term follow-up study. The duration of follow-up from the time of gene therapy ranged from 51.6 to 126.5 months (approximately 4.3 to 10.5 years).
 
 The most common adverse reaction was dyskinesia; it was reported in 26 (86.7%) patients and was prevalent during the first 2 months post-treatment.
 
@@ -206,7 +202,7 @@ The most common adverse reaction was dyskinesia; it was reported in 26 (86.7%) p
 
 The adverse reactions are reported in Table 1. The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥ 1/10), common ≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
-## Table 1 Adverse reactions occurring in ≥2 patients in 3 open-label clinical studies (n = 30)
+Table 1 Adverse reactions occurring in ≥2 patients in 3 open-label clinical studies (n = 30)
 
 | System organ class                 | Very common      | Common                  |
 |------------------------------------|------------------|-------------------------|
@@ -224,11 +220,11 @@ Table 2 Neurosurgery-related adverse reactions occurring in ≥2 patients in 3 o
 | Blood and lymphatic system disorders | Anaemia                       |
 | Nervous system disorders             | Cerebrospinal fluid leakage a |
 
-a
+## a May include pseudomeningocele
 
-May include pseudomeningocele
+## Table 3
 
-## Table 3 Anaesthesia and postoperative related adverse reactions in ≥2 patients within ≤2 weeks after administration, in 3 open-label clinical studies (n=30)
+## Anaesthesia and postoperative related adverse reactions in ≥2 patients within ≤2 weeks after administration, in 3 open-label clinical studies (n=30)
 
 | Adverse reaction category                            | Very common                                   | Common                  |
 |------------------------------------------------------|-----------------------------------------------|-------------------------|
@@ -274,7 +270,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 The risk of overdose is unlikely due to controlled and neurosurgical administration. There is no clinical experience with overdose of eladocagene exuparvovec. Symptomatic and supportive treatment, as deemed necessary by the treating physician, is advised in case of overdose. Close clinical observation and monitoring of laboratory parameters (including complete blood count with differential, and comprehensive metabolic panel) for systemic immune response are recommended. For instructions in case of accidental exposure, see section 6.6.
 
-## 5. PHARMACOLOGICAL PROPERTIES
+## 5 PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
@@ -290,7 +286,7 @@ Eladocagene exuparvovec is a gene therapy based on recombinant AAV2 vector conta
 
 L-6-[ 18 F] fluoro-3, 4-dihydroxyphenylalanine ( 18 F -DOPA) uptake in central nervous system (CNS) Measurement of  18 F-DOPA uptake in the putamen via positron emission tomography (PET) imaging following treatment is an objective measurement of de novo dopamine production in the brain and assesses the success and stability of the DDC gene transduction over time. Most patients demonstrated small, sustained increases in PET-specific uptake. An increase was evident as early as 6 months, was further increased by 12 months after treatment, and sustained at least for 5 years.
 
-## Table 4 Percent change from baseline in uptake of  18 F-DOPA after Eladocagene Exuparvovec treatment (Studies AADC-010 and AADC-011)
+Table 4 Percent change from baseline in uptake of  18 F-DOPA after Eladocagene Exuparvovec treatment (Studies AADC-010 and AADC-011)
 
 | Timepoint                                 |   Month 12 (n=19) |   Month 24 (n=17) |   Month 60 (n=11) |
 |-------------------------------------------|-------------------|-------------------|-------------------|
@@ -300,11 +296,9 @@ L-6-[ 18 F] fluoro-3, 4-dihydroxyphenylalanine ( 18 F -DOPA) uptake in central n
 
 ## Clinical efficacy and safety
 
-The efficacy of Upstaza gene therapy was assessed in 2 clinical studies (AADC-010, AADC-011). Together, these 2 studies included 22 patients with severe AADC deficiency, diagnosed by decreased homovanillic acid and 5-hydroxyindoleacetic acid and elevated L-DOPA CSF levels, the presence of DDC gene mutation in both alleles, and the presence of clinical symptoms of AADC deficiency (including developmental delay, hypotonia, dystonia, and oculogyric crisis [OGC]). These patients had not achieved motor development milestones at baseline including the ability to sit, stand, or walk, compatible with the severe phenotype. Patients were treated with a total dose of 1.8 × 10 11 vg (N = 13) or 2.4 × 10 11 vg (N = 9) during a single operative session. The results for efficacy and safety parameters were similar between the 2 doses.
+The efficacy of Upstaza gene therapy was assessed in 2 clinical studies (AADC-010, AADC-011). Together, these 2 studies included 22 patients with severe AADC deficiency, diagnosed by decreased homovanillic acid and 5-hydroxyindoleacetic acid and elevated L-DOPA CSF levels, the presence of DDC gene mutation in both alleles, and the presence of clinical symptoms of AADC deficiency (including developmental delay, hypotonia, dystonia, and oculogyric crisis [OGC]). These patients had not achieved motor development milestones at baseline including the ability to sit, stand, or walk, compatible with the severe phenotype. Patients were treated with a total dose of 1.8 × 10 11  vg (N = 13) or 2.4 × 10 11 vg (N = 9) during a single operative session. The results for efficacy and safety parameters were similar between the 2 doses.
 
-Data beyond the Month 60 and Month 12 timepoints in Study AADC-010 and Study AADC-011, respectively, were collected in the long-term follow-up Study AADC-1602 as indicated below, with a data cutoff date of 16 June 2023.
-
-Study AADC-CU/1601 was conducted with treatment from an older manufacturing process. This study enrolled 8 subjects and demonstrated similar results with benefits maintained up to 126.5 months.
+Data beyond the Month 60 and Month 12 timepoints in Study AADC-010 and Study AADC-011, respectively, were collected in the long-term follow-up Study AADC-1602 as indicated below. Study AADC-CU/1601 was conducted with treatment from an older manufacturing process. This study enrolled 8 subjects and demonstrated similar results with benefits maintained up to 126.5 months.
 
 ## Motor function
 
@@ -314,15 +308,15 @@ Table 5 summarizes the primary analysis, which evaluated the number of patients 
 
 Treatment with eladocagene exuparvovec demonstrated acquisition of motor milestones observed as early as 3 months post-surgery. Key motor milestone acquisition was continued or maintained beyond 24 months and up to 96 months, corresponding to 8 years follow-up (Figure 2).
 
-## Table 5 Cumulative number of subjects achieving PDMS-2 motor milestones (Mastery) at month 24, month 60, and month 96) (Studies AADC-010, AADC-011, and AADC-1602; N=22)
+Table 5 Cumulative number of subjects achieving PDMS-2 motor milestones (Mastery) at month 24, month 60, and month 96) (Studies AADC-010, AADC-011, and AADC1602; N=22)
 
 |                         | Number of Subjects (%)   | Number of Subjects (%)   | Number of Subjects (%)   |
 |-------------------------|--------------------------|--------------------------|--------------------------|
 | Motor Milestone/ Month  | Month 24                 | Month 60                 | Month 96                 |
-| Full head control       | 14 (64)                  | 16 (73)                  | 16 (73)                  |
+| Full head control       | 14 (64)                  | 17 (77)                  | 17 (77)                  |
 | Sitting unassisted      | 11 (50)                  | 15 (68)                  | 16 (73)                  |
 | Standing with support   | 8 (36)                   | 11 (50)                  | 11 (50)                  |
-| Walking with assistance | 2 (9)                    | 6 (27)                   | 7 (32)                   |
+| Walking with assistance | 2 (9)                    | 7 (32)                   | 9 (41)                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -332,9 +326,9 @@ Figure 2 Cumulative number of subjects demonstrating motor milestone (mastery sk
 
 ## PDMS -2 total score
 
-PDMS-2 total score was measured as a secondary endpoint throughout the clinical studies. PDMS-2 maximal scores are 450-482, depending on age (&lt;12 months or &gt;12 months). All subjects treated with eladocagene exuparvovec showed increases from baseline in mean PDMS-2 total scores over time, with some benefit observed as early as 3 months (Figure 3). At the 24-month timepoint, the least squares (LS) mean of change from baseline in PDMS-2 total score was 111.2 points. Improvement from baseline in PDMS-2 total score was as early as 12 months after treatment (77.6 points) and was maintained to 60 months (139.0 points) and 96 months (141.6). Patients who receive eladocagene exuparvovec at a younger age demonstrate a faster treatment response and appear to reach a higher final level.
+PDMS-2 total score was measured as a secondary endpoint throughout the clinical studies. PDMS-2 maximal scores are 450-482, depending on age (&lt;12 months or &gt;12 months). All subjects treated with eladocagene exuparvovec showed increases from baseline in mean PDMS-2 total scores over time, with some benefit observed as early as 3 months (Figure 3). The least squares (LS) mean of change from baseline in PDMS-2 total score was 77.9, 111.6, 138.2, and 144.3 points at Month 12, Month 24, Month 60, and Month 96 timepoints, respectively. Patients who receive eladocagene exuparvovec at a younger age demonstrate a faster treatment response and appear to reach a higher final level.
 
-Figure 3 PDMS-2 total scores by visit -through Month 96 (Studies AADC-010, AADC011, and AADC-1602; N=22)
+Figure 3 PDMS-2 total scores by visit -through Month 96 (Studies AADC-010, AADC- 011, and AADC-1602; N=22)
 
 <!-- image -->
 
@@ -346,7 +340,7 @@ The following data were collected as secondary endpoints in the clinical studies
 
 Bayley-III, a standard assessment of cognition, language, and motor development for infants and toddlers (1-42 months of age), was utilized in Studies AADC-010 and AADC-011 to assess cognitive and language development. The language subscale consists of receptive and expressive communications.
 
-Over time, all subjects showed gradual and sustained increases in mean cognitive and total language scores, which is the combined score for receptive and expressive communication scores. The mean raw total score for cognitive subscale at baseline was 12.41 (N=22). The LS mean change from baseline in cognitive score showed an increase of 12.3 at Month 12, 16.4 at Month 24, and 23.6 at Month 60. The mean raw total score for language subscale at baseline was 18.09 (N=22). The LS mean change from baseline in total language score showed an increase of 7.6 at Month 12, 10.1 at Month 24, and 14.9 at Month 60.
+Over time, all subjects showed gradual and sustained increases in mean cognitive and total language scores, which is the combined score for receptive and expressive communication scores. The mean raw total score for cognitive subscale at baseline was 12.41 (N=22). The LS mean change from baseline in cognitive score showed an increase of 12.4 at Month 12, 16.5 at Month 24, 23.3 at Month 60, and 25.0 at Month 96. The mean raw total score for language subscale at baseline was 18.09 (N=22). The LS mean change from baseline in total language score showed an increase of 7.9 at Month 12, 10.4 at Month 24, 15.0 at Month 60, and 17.8 at Month 96.
 
 ## Body weight
 
@@ -384,7 +378,7 @@ No toxicity was shown in rats up to 6 months following bilateral infusion into t
 
 Studies in rats showed no viral shedding in blood or any systemic tissues outside of the CNS compartment except for CSF at day 7 where it was positive (copies/µg DNA) in the 6-month toxicology study. When tested at subsequent time points (day 30, day 90, and day 180) all samples were negative.
 
-## 6. PHARMACEUTICAL PARTICULARS
+## 6 PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
@@ -396,7 +390,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Unopened frozen vial
+## Unopened frozen vial
 
 5 years
 
@@ -453,7 +447,7 @@ This medicinal product contains genetically modified virus. During preparation, 
 
 <div style=\"page-break-after: always\"></div>
 
-## Precautions to be taken for the disposal of the medicinal product and accidental exposure
+Precautions to be taken for the disposal of the medicinal product and accidental exposure
 
 - Accidental exposure to eladocagene exuparvovec, including contact with skin, eyes, and mucous membranes, is to be avoided.
 - In the event of exposure to skin, the affected area must be thoroughly cleaned with soap and water for at least 5 minutes. In the event of exposure to eyes, the affected area must be thoroughly flushed with water for at least 5 minutes.
@@ -461,19 +455,19 @@ This medicinal product contains genetically modified virus. During preparation, 
 - Any unused eladocagene exuparvovec or waste material should be disposed of in compliance with local guidance for pharmaceutical waste. Potential spills should be wiped with absorbent gauze and disinfected using a bleach solution followed by alcohol wipes.
 - After administration, the risk of shedding is considered to be low. It is recommended that caregivers and patient families are advised on and follow proper handling precautions of patient bodily fluids and waste for 14 days after administration of eladocagene exuparvovec (see section 4.4).
 
-## 7. MARKETING AUTHORISATION HOLDER
+## 7 MARKETING AUTHORISATION HOLDER
 
 PTC Therapeutics International Limited 70 Sir John Rogerson's Quay Dublin 2 Ireland
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+## 8 MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1653/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9 DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 July 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+## 10 DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -561,10 +555,10 @@ Patients and their caregivers should be provided with the following materials, i
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Due date                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Study AADC-1602 (Follow-up of clinical trials) In order to further characterise the long-term efficacy and safety of Upstaza in patients with aromatic L-amino acid decarboxylase (AADC) deficiency and with a severe phenotype, the MAHshall submit the results of study AADC-1602, a 10-year follow-up of the patient population enrolled in the clinical studies AADC-CU/1601, AADC-010 and AADC-011.                                                                            | Annual submission at each annual renewal Final report: December 2032 |
-| Study PTC-AADC-MA-406(Registry-based study) In order to further characterise the long-term efficacy and safety of Upstaza in patients with aromatic L-amino acid decarboxylase (AADC) deficiency and with a severe phenotype, the MAHshall conduct and submit the results of Study PTC-AADC-MA-406, an observational, multicentre, and longitudinal study of patients treated globally with the commercial product, based on data from a registry, according to an agreed protocol. | Annual submission at each annual renewal                             |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Due date                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Study AADC-1602 (Follow-up of clinical trials) In order to further characterise the long-term efficacy and safety of Upstaza in patients with aromatic L-amino acid decarboxylase (AADC) deficiency and with a severe phenotype, theMAH shall submit the results of study AADC-1602, a 10-year follow-up of the patient population enrolled in the clinical studies AADC-CU/1601, AADC-010 and AADC-011.                                                                             | Annual submission at each annual renewal Final report: December 2032 |
+| Study PTC-AADC-MA-406 (Registry-based study) In order to further characterise the long-term efficacy and safety of Upstaza in patients with aromatic L-amino acid decarboxylase (AADC) deficiency and with a severe phenotype, theMAH shall conduct and submit the results of Study PTC-AADC-MA-406, an observational, multicentre, and longitudinal study of patients treated globally with the commercial product, based on data from a registry, according to an agreed protocol. | Annual submission at each annual renewal                             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -584,7 +578,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Upstaza 2.8 × 10 11 vector genomes/0.5 mL solution for infusion eladocagene exuparvovec
+Upstaza 2.8 × 10 11  vector genomes/0.5 mL solution for infusion eladocagene exuparvovec
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -662,11 +656,11 @@ SN
 
 ## 13. BATCH NUMBER
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -676,13 +670,14 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL                                                       |
+| MINIMUMPARTICULARSTO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|---------------------------------------------------------------|
+| VIAL                                                          |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
 
-Upstaza 2.8 × 10 11 vg/0.5 mL solution for infusion eladocagene exuparvovec Intraputaminal use
+Upstaza 2.8 × 10 11  vg/0.5 mL solution for infusion eladocagene exuparvovec Intraputaminal use
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -713,11 +708,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Upstaza 2.8 × 10 11  vector genomes/0.5 mL solution for infusion
+## Upstaza 2.8 × 10 11 vector genomes/0.5 mL solution for infusion
 
 Eladocagene exuparvovec
-
-<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you or your child may get. See the end of section 4 for how to report side effects.
 
@@ -874,7 +867,7 @@ If you or your child gets any side effects, talk to your doctor or nurse. This i
 
 The following information is intended for doctors only.
 
-Upstaza will be stored at the hospital. It has to be stored and transported frozen at ≤ -65 o C. It is thawed before use and, once thawed, has to be used within 6 hours. It should not be re-frozen. Do not use this medicine after the expiry date, which is stated on the carton after EXP.
+Upstaza will be stored at the hospital. It has to be stored and transported frozen at ≤ -65  o C. It is thawed before use and, once thawed, has to be used within 6 hours. It should not be re-frozen. Do not use this medicine after the expiry date, which is stated on the carton after EXP.
 
 ## 6. Contents of the pack and other information
 
@@ -964,7 +957,7 @@ FR PTC Therapeutics France Tel: +33(0)1 76 70 10 01 medinfo@ptcbio.com
 
 Treatment should be administered in a centre which is specialised in stereotactic neurosurgery, by a qualified neurosurgeon under controlled aseptic conditions.
 
-Patients will receive a total dose of 1.8 × 10 11 vg delivered as four 0.08-mL (0.45 × 10 11 vg) infusions (two per putamen).
+Patients will receive a total dose of 1.8 × 10 11 vg delivered as four 0.08-mL (0.45 × 10 11  vg) infusions (two per putamen).
 
 The posology is the same for the entire population covered by the indication.
 
@@ -985,7 +978,7 @@ Upstaza is a single-use vial administered by bilateral intraputaminal infusion i
 - The target infusion sites are defined per standard stereotactic neurosurgical practice. Upstaza is administered as a bilateral infusion (2 infusions per putamen) with an intracranial cannula. The final 4 targets for each trajectory should be defined as 2 mm dorsal to (above) the anterior and posterior target points in the mid-horizonal plane (Figure 1).
 - After stereotactic registration is complete, the entry point on the skull should be marked. Surgical access through the skull bone and dura should be performed.
 - The infusion cannula is placed at the designation point in the putamen using stereotactic tools based on the trajectories planned. Of note, the infusion cannula is placed and infusion performed separately for each putamen.
-- Upstaza is infused at a rate of 0.003 mL/min at each of the 2 target points in each putamen; 0.08 mL of Upstaza is infused per putaminal site resulting in 4 infusions with a total volume of 0.320 mL (or 1.8 × 10 11 vg).
+- Upstaza is infused at a rate of 0.003 mL/min at each of the 2 target points in each putamen; 0.08 mL of Upstaza is infused per putaminal site resulting in 4 infusions with a total volume of 0.320 mL (or 1.8 × 10 11  vg).
 - Starting with the first target site, the cannula is inserted through a burr hole into the putamen and then slowly withdrawn, distributing the 0.08 mL of Upstaza across the planned trajectory to optimise distribution across the putamen.
 - After the first infusion, the cannula is withdrawn and then re-inserted at the next target point, repeating the same procedure for the other 3 target points (anterior and posterior of each putamen).
 - After standard neurosurgical closure procedures, the patient then undergoes a postoperative brain imaging (magnetic resonance imaging [MRI] or computerized tomography [CT]) to ensure there are no complications (ie, bleeding).

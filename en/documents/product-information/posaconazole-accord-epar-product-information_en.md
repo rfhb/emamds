@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-06 09:10:03
+document_datetime: 2026-06-12 10:01:35
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/posaconazole-accord-epar-product-information_en.pdf
 document_name: posaconazole-accord-epar-product-information_en.pdf
 version: success
-processing_time: 9.7686656
-conversion_datetime: 2025-12-22 12:41:30.932986
+processing_time: 12.393958
+conversion_datetime: 2026-06-13 20:15:58.669255
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,11 +94,9 @@ An effect of renal impairment on the pharmacokinetics of posaconazole is not exp
 
 ## Hepatic impairment
 
-Limited data on the effect of hepatic impairment (including Child-Pugh C classification of chronic liver disease) on the pharmacokinetics of posaconazole demonstrate an increase in plasma exposure
+Limited data on the effect of hepatic impairment (including Child-Pugh C classification of chronic liver disease) on the pharmacokinetics of posaconazole demonstrate an increase in plasma exposure compared to subjects with normal hepatic function, but do not suggest that dose adjustment is necessary (see sections 4.4 and 5.2). It is recommended to exercise caution due to the potential for higher plasma exposure.
 
 <div style=\"page-break-after: always\"></div>
-
-compared to subjects with normal hepatic function, but do not suggest that dose adjustment is necessary (see sections 4.4 and 5.2). It is recommended to exercise caution due to the potential for higher plasma exposure.
 
 ## Paediatric population
 
@@ -246,11 +244,9 @@ Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates o
 
 ## Rifabutin
 
-Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively. Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole). If these
+Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively. Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole). If these medicinal products are co-administered, careful monitoring of full blood counts and adverse reactions related to increased rifabutin levels (e.g. uveitis) is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-medicinal products are co-administered, careful monitoring of full blood counts and adverse reactions related to increased rifabutin levels (e.g. uveitis) is recommended.
 
 ## Sirolimus
 
@@ -270,11 +266,9 @@ As HIV protease inhibitors are CYP3A4 substrates, it is expected that posaconazo
 
 ## Midazolam and other benzodiazepines metabolised by CYP3A4
 
-In a study in healthy volunteers posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %. In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average
+In a study in healthy volunteers posaconazole oral suspension (200 mg once daily for 10 days) increased the exposure (AUC) of intravenous midazolam (0.05 mg/kg) by 83 %. In another study in healthy volunteers, repeat dose administration of posaconazole oral suspension (200 mg twice daily for 7 days) increased the Cmax and AUC of intravenous midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively. Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively. In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
 
 <div style=\"page-break-after: always\"></div>
-
-of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole oral suspension 400 mg twice daily for 7 days increased the intravenous midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively. Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively. In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
 
 Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) (see section 4.4).
 
@@ -354,45 +348,45 @@ Within the organ system classes, adverse reactions are listed under headings of 
 
 Table 2. Adverse reactions by body system and frequency reported in clinical studies and/or postmarketing use *
 
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                            |
-|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Common:                                         | neutropenia                                                                                                                     |
-| Uncommon:                                       | thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction                                        |
-| Rare:                                           | haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage                       |
-| Immune system disorders                         | Immune system disorders                                                                                                         |
-| Uncommon:                                       | allergic reaction                                                                                                               |
-| Rare:                                           | hypersensitivity reaction                                                                                                       |
-| Endocrine disorders                             | Endocrine disorders                                                                                                             |
-| Rare:                                           | adrenal insufficiency, blood gonadotropin decreased, pseudoaldosteronism                                                        |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                              |
-| Common:                                         | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia                                              |
-| Uncommon:                                       | hyperglycaemia, hypoglycaemia                                                                                                   |
-| Psychiatric disorders                           | Psychiatric disorders                                                                                                           |
-| Uncommon:                                       | abnormal dreams, confusional state, sleep disorder                                                                              |
-| Rare:                                           | psychotic disorder, depression                                                                                                  |
-| Nervous system disorders                        | Nervous system disorders                                                                                                        |
-| Common:                                         | paraesthesia, dizziness, somnolence, headache, dysgeusia                                                                        |
-| Uncommon:                                       | convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia                                                               |
-| Rare:                                           | cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope                                                        |
-| Eye disorders                                   | Eye disorders                                                                                                                   |
-| Uncommon:                                       | blurred vision, photophobia, visual acuity reduced                                                                              |
-| Rare:                                           | diplopia, scotoma                                                                                                               |
-| Ear and labyrinth disorder                      | Ear and labyrinth disorder                                                                                                      |
-| Rare:                                           | hearing impairment                                                                                                              |
-| Cardiac disorders                               | Cardiac disorders                                                                                                               |
-| Uncommon:                                       | long QT syndrome § , electrocardiogram abnormal § , palpitations, bradycardia, supraventricular extrasystoles, tachycardia      |
-| Rare:                                           | torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction    |
-| Vascular disorders                              | Vascular disorders                                                                                                              |
-| Common:                                         | hypertension                                                                                                                    |
-| Uncommon:                                       | hypotension, vasculitis                                                                                                         |
-| Rare:                                           | pulmonary embolism, deep vein thrombosis                                                                                        |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                 |
-| Uncommon:                                       | cough, epistaxis, hiccups, nasal congestion, pleuritic pain, tachypnoea                                                         |
-| Rare:                                           | pulmonary hypertension, interstitial pneumonia, pneumonitis                                                                     |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                      |
-| Very Common:                                    | nausea                                                                                                                          |
-| Common:                                         | vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort                       |
-| Uncommon:                                       | pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastroesophageal reflux disease, oedema mouth |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                                                |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common:                                         | neutropenia                                                                                                                                                         |
+| Uncommon:                                       | thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction                                                                            |
+| Rare:                                           | haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage                                                           |
+| Immune system disorders                         | Immune system disorders                                                                                                                                             |
+| Uncommon:                                       | allergic reaction                                                                                                                                                   |
+| Rare:                                           | hypersensitivity reaction                                                                                                                                           |
+| Endocrine disorders                             | Endocrine disorders                                                                                                                                                 |
+| Rare:                                           | adrenal insufficiency, blood gonadotropin decreased, pseudoaldosteronism                                                                                            |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                  |
+| Common:                                         | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia                                                                                  |
+| Uncommon:                                       | hyperglycaemia, hypoglycaemia                                                                                                                                       |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                               |
+| Uncommon:                                       | abnormal dreams, confusional state, sleep disorder                                                                                                                  |
+| Rare:                                           | psychotic disorder, depression                                                                                                                                      |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                            |
+| Common:                                         | paraesthesia, dizziness, somnolence, headache, dysgeusia                                                                                                            |
+| Uncommon:                                       | convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia                                                                                                   |
+| Rare:                                           | cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope                                                                                            |
+| Eye disorders                                   | Eye disorders                                                                                                                                                       |
+| Uncommon:                                       | blurred vision, photophobia, visual acuity reduced                                                                                                                  |
+| Rare:                                           | diplopia, scotoma                                                                                                                                                   |
+| Ear and labyrinth disorder                      | Ear and labyrinth disorder                                                                                                                                          |
+| Rare:                                           | hearing impairment                                                                                                                                                  |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                   |
+| Uncommon:                                       | long QT syndrome § , electrocardiogram abnormal § , palpitations, bradycardia, supraventricular extrasystoles, tachycardia                                          |
+| Rare:                                           | torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction                                        |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                  |
+| Common:                                         | hypertension                                                                                                                                                        |
+| Uncommon:                                       | hypotension, vasculitis                                                                                                                                             |
+| Rare:                                           | pulmonary embolism, deep vein thrombosis                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                     |
+| Uncommon:                                       | cough, epistaxis, hiccups, nasal congestion, pleuritic pain, tachypnoea                                                                                             |
+| Rare:                                           | pulmonary hypertension, interstitial pneumonia, pneumonitis                                                                                                         |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                          |
+| Very Common:                                    | nausea                                                                                                                                                              |
+| Common:                                         | vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort                                                           |
+| Uncommon: Rare:                                 | pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastroesophageal reflux disease, oedema mouth gastrointestinal haemorrhage, ileus |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -420,10 +414,6 @@ Table 2. Adverse reactions by body system and frequency reported in clinical stu
 | Rare:                                                | tongue oedema, face oedema                                                                                                     |
 | Investigations                                       | Investigations                                                                                                                 |
 | Uncommon:                                            | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal                                                      |
-
-* Based on adverse reactions observed with the oral suspension, gastro-resistant tablets, and concentrate for solution for infusion.
-
-§ See section 4.4.
 
 ## Description of selected adverse reactions
 
@@ -453,7 +443,7 @@ Pharmacotherapeutic group: Antimycotics for systemic use, Triazole and tetrazole
 
 ## Mechanism of action
 
-Posaconazole inhibits the enzyme lanosterol 14α-demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
+Posaconazole inhibits the enzyme lanosterol 14α -demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
 
 ## Microbiology
 
@@ -483,11 +473,9 @@ There are currently insufficient data to set clinical breakpoints for Aspergillu
 
 ## Susceptibility testing breakpoints
 
-MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Posaconazole and are listed here: &lt;https://www.ema.europa.eu/documents/other/minimum -inhibitoryconcentration-mic-breakpoints\\_en.xlsx&gt;
 
 <div style=\"page-break-after: always\"></div>
-
-Posaconazole and are listed here: &lt;https://www.ema.europa.eu/documents/other/minimum-inhibitoryconcentration-mic-breakpoints\\_en.xlsx&gt;
 
 ## Combination with other antifungal agents
 
@@ -531,7 +519,7 @@ Study 5615 was a non-comparative multi-centre study performed to evaluate the ph
 
 The subject population included: 1) patients with AML or MDS who had recently received chemotherapy and had developed or were anticipated to develop significant neutropenia, or 2) patients who had undergone a HSCT and were receiving immunosuppressive therapy for prevention or treatment of GVHD. Two different dosing groups were evaluated: 200 mg twice daily on Day 1, followed by 200 mg once daily thereafter (Part IA) and 300 mg twice daily on Day 1, followed by 300 mg once daily thereafter (Part 1B and Part 2).
 
-Serial PK samples were collected on Day 1 and at steady-state on Day 8 for all Part 1 subjects and a subset of Part 2 subjects. Moreover, sparse PK samples were collected at several days during steady state before the next dose (Cmin) for a larger subject population. Based on average Cmin concentrations, a predicted average concentration (Cav) could be calculated for 186 subjects dosed with 300 mg. PK analysis in patients of Cav found that 81 % of the subjects treated with the 300 mg once daily dose attained steady state predicted Cav between 500-2,500 ng/mL. One subject (&lt; 1%) had a predicted Cav below 500 ng/mL and 19 % of the subjects had a predicted Cav above 2,500 ng/mL. Subjects achieved a mean predicted Cav at steady state of 1,970 ng/mL.
+Serial PK samples were collected on Day 1 and at steady-state on Day 8 for all Part 1 subjects and a subset of Part 2 subjects. Moreover, sparse PK samples were collected at several days during steady state before the next dose (Cmin) for a larger subject population. Based on average Cmin concentrations, a predicted average concentration (Cav) could be calculated for 186 subjects dosed with 300 mg. PK analysis in patients of Cav found that 81 % of the subjects treated with the 300 mg once daily dose attained steady state predicted Cav between 5002,500 ng/mL. One subject (&lt; 1%) had a predicted Cav below 500 ng/mL and 19 % of the subjects had a predicted Cav above 2,500 ng/mL. Subjects achieved a mean predicted Cav at steady state of 1,970 ng/mL.
 
 In Table 5 a comparison is shown of exposure (Cav) after administration of posaconazole tablet and posaconazole oral suspension at therapeutic doses in patients depicted as quartile analysis. Exposures after tablet administration are generally higher than, but overlapping with, exposures after administration of posaconazole oral suspension.
 
@@ -570,8 +558,6 @@ Table 6. Overall efficacy of posaconazole oral suspension at the end of treatmen
 | A. flavus                                                         | 10/19 (53 %)                   | 3/16 (19 %)              |
 | A. terreus                                                        | 4/14 (29 %)                    | 2/13 (15 %)              |
 | A. niger                                                          | 3/5 (60 %)                     | 2/7 (29 %)               |
-
-2 Includes other less common species or species unknown
 
 ## Fusarium spp.
 
@@ -719,7 +705,7 @@ The pharmacokinetics of posaconazole oral suspension have been evaluated in paed
 
 <div style=\"page-break-after: always\"></div>
 
-Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 -17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL). No pharmacokinetic data are available from paediatric patients less than 8 years of age. Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
+Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 -17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL). No pharmacokinetic data are available from paediatric patients less than 8 years of age. Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (1317 years of age) to Cav achieved in adults (≥ 18 years of age).
 
 ## Gender
 
@@ -745,17 +731,15 @@ The population pharmacokinetic model of posaconazole concentrate for solution fo
 
 ## Renal impairment
 
-Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m 2 ) on posaconazole pharmacokinetics; therefore, no dose adjustment is required. In subjects with severe renal impairment (n=6, Clcr&lt; 20 mL/min/1.73 m 2 ), the AUC of posaconazole was highly variable [&gt; 96 % CV (coefficient of variance)] compared to other renal groups [&lt; 40 % CV]. However, as posaconazole is not significantly renally eliminated, an effect of severe renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended. Posaconazole is not removed by haemodialysis.
+Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m 2 ) on posaconazole pharmacokinetics; therefore, no dose adjustment is required. In subjects with severe renal impairment (n=6, Clcr &lt; 20 mL/min/1.73 m 2 ), the AUC of posaconazole was highly variable [&gt; 96 % CV (coefficient of variance)] compared to other renal groups [&lt; 40 % CV]. However, as posaconazole is not significantly renally eliminated, an effect of severe renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended. Posaconazole is not removed by haemodialysis.
 
 Similar recommendations apply to posaconazole tablets; however, a specific study has not been conducted with the posaconazole tablets.
 
 ## Hepatic impairment
 
-After a single oral dose of 400 mg posaconazole oral suspension to patients with mild (Child-Pugh Class A), moderate (Child-Pugh Class B) or severe (Child-Pugh Class C) hepatic impairment (six per group), the mean AUC was 1.3 to 1.6-fold higher compared to that for matched control subjects with normal hepatic function. Unbound concentrations were not determined and it cannot be excluded that there is a larger increase in unbound posaconazole exposure than the observed 60 % increase in total AUC. The elimination half-life (t½) was prolonged from approximately 27 hours up to ~43 hours in
+After a single oral dose of 400 mg posaconazole oral suspension to patients with mild (Child-Pugh Class A), moderate (Child-Pugh Class B) or severe (Child-Pugh Class C) hepatic impairment (six per group), the mean AUC was 1.3 to 1.6-fold higher compared to that for matched control subjects with normal hepatic function. Unbound concentrations were not determined and it cannot be excluded that there is a larger increase in unbound posaconazole exposure than the observed 60 % increase in total AUC. The elimination half-life (t½) was prolonged from approximately 27 hours up to ~43 hours in respective groups. No dose adjustment is recommended for patients with mild to severe hepatic impairment but caution is advised due to the potential for higher plasma exposure.
 
 <div style=\"page-break-after: always\"></div>
-
-respective groups. No dose adjustment is recommended for patients with mild to severe hepatic impairment but caution is advised due to the potential for higher plasma exposure.
 
 Similar recommendations apply to posaconazole tablets; however, a specific study has not been conducted with the posaconazole tablets.
 
@@ -787,7 +771,9 @@ Methacrylic acid-Ethyl acrylate copolymer (1:1) Triethyl citrate (E1505) Xylitol
 
 ## Tablet coating
 
-Polyvinyl alcohol-part hydrolyzed Titanium dioxide (E171) Macrogol Talc (E553b) Iron oxide yellow (E172)
+Polyvinyl alcohol-part hydrolyzed
+
+Titanium dioxide (E171) Macrogol Talc (E553b) Iron oxide yellow (E172)
 
 ## 6.2 Incompatibilities
 
@@ -862,6 +848,8 @@ Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 MALTA
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, POLAND
 
+Accord Healthcare Single Member S.A. 64th Km National Road Athens,Lamia, Schimatari, 32009, GREECE
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -874,15 +862,15 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## ● Risk Management Plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -915,11 +903,11 @@ Each gastro-resistant tablet contains 100 mg of posaconazole.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 24 gastro-resistant tablets
+24 gastro-resistant tablets
 
 96 gastro-resistant tablets
 
-- 24x1 gastro-resistant tablet
+24x1 gastro-resistant tablet
 
 96x1 gastro-resistant tablet
 
@@ -943,7 +931,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -969,8 +957,7 @@ EU/1/19/1379/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -988,6 +975,8 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1017,7 +1006,8 @@ Lot
 
 ## PERFORATED UNIT DOSE BLISTER
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Posaconazole Accord 100 mg gastro-resistant tablets
 
@@ -1025,17 +1015,17 @@ Posaconazole Accord 100 mg gastro-resistant tablets
 
 Accord
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1249,7 +1239,11 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 - -low potassium levels - shown up in blood tests
 - -low magnesium levels - shown up in blood tests
 - -high blood pressure
-- -loss of appetite, stomach pain or upset stomach, passing wind, dry mouth, changes in your taste
+
+-
+
+loss of appetite, stomach pain or upset stomach, passing wind, dry mouth, changes in your taste
+
 - -heartburn (a burning sensation in the chest rising up to the throat)
 - -low levels of 'neutrophils' a type of white blood cell (neutropenia) -this can make you more likely to get infections and be shown up in blood tests
 - -fever
@@ -1392,13 +1386,7 @@ Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 Malta
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, Poland
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
-
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
-
-EL Win Medica Α.Ε. Τel: +30 210 74 88 821
+Accord Healthcare Single Member S.A. 64th Km National Road Athens,Lamia, Schimatari, 32009, Greece
 
 ## This leaflet was last revised in
 

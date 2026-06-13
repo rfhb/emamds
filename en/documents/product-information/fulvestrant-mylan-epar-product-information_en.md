@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-09 15:36:26
+document_datetime: 2026-06-12 12:59:19
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fulvestrant-mylan-epar-product-information_en.pdf
 document_name: fulvestrant-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 14.1479665
-conversion_datetime: 2025-12-20 14:11:38.535257
+processing_time: 17.9700105
+conversion_datetime: 2026-06-13 20:18:14.182882
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -109,11 +109,9 @@ Due to the intramuscular route of administration, fulvestrant should be used wit
 
 Thromboembolic events are commonly observed in women with advanced breast cancer and have been observed in clinical studies with fulvestrant (see section 4.8). This should be taken into consideration when prescribing fulvestrant to patients at risk.
 
-Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with fulvestrant injection. Caution should be taken while administering fulvestrant
+Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with fulvestrant injection. Caution should be taken while administering fulvestrant at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve (see sections 4.2 and 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve (see sections 4.2 and 4.8).
 
 There are no long-term data on the effect of fulvestrant on bone. Due to the mechanism of action of fulvestrant, there is a potential risk of osteoporosis.
 
@@ -211,18 +209,6 @@ Table 1 Adverse drug reactions reported in patients treated with fulvestrant mon
 |                                                         | Common                                                  | Neuropathy peripheral e , sciatica e                                      |
 |                                                         | Uncommon                                                | Injection site haemorrhage f , injection site haematoma f , neuralgia c,f |
 
-a Includes adverse drug reactions for which the exact contribution of fulvestrant cannot be assessed due to the underlying disease.
-
-b The term injection site reactions does not include the terms injection site haemorrhage, injection site haematoma, sciatica, neuralgia and neuropathy peripheral.
-
-c The event was not observed in major clinical studies (CONFIRM, FINDER 1, FINDER 2, NEWEST). The frequency has been calculated using the upper limit of the 95% confidence interval for the point estimate. This is calculated as 3/560 (where 560 is the number of patients in the major clinical studies), which equates to a frequency category of 'uncommon'.
-
-d Includes: arthralgia, and less frequently musculoskeletal pain, myalgia and pain in extremity.
-
-e Frequency category differs between pooled safety dataset and FALCON.
-
-f ADR was not observed in FALCON.
-
 ## Description of selected adverse reactions
 
 The descriptions included below are based on the safety analysis set of 228 patients who received at least one (1) dose of fulvestrant and 232 patients who received at least one (1) dose of anastrozole, respectively in the Phase 3 FALCON study.
@@ -299,7 +285,9 @@ Table 2 Adverse reactions based on PALOMA3 Study (N=517)
 | Common                                               |                                                      |                                                      |                                                      |                                                      |
 | ALT increased                                        | 30 (8.7)                                             | 7 (2.0)                                              | 10 (5.8)                                             | 1 (0.6)                                              |
 
-ALT=alanine aminotransferase; AST=aspartate aminotransferase; N/n=number of patients; NA=Not applicable a  Preferred Terms (PTs) are listed according to MedDRA 17.1.
+ALT=alanine aminotransferase; AST=aspartate aminotransferase; N/n=number of patients; NA=Not applicable
+
+a  Preferred Terms (PTs) are listed according to MedDRA 17.1.
 
 b Infections includes all PTs that are part of the System Organ Class Infections and infestations.
 
@@ -367,7 +355,7 @@ Table 3 Summary of results of the primary efficacy endpoint (PFS) and key second
 | -AI subgroup (n=313) a                  | -AI subgroup (n=313) a                         | 24.1                         | 20.8                         | 0.86                                                                 | 0.67, 1.11                                                           | 0.241 c                                                              |
 | Variable                                | Type of estimate                               | Fulvestrant 500 mg           | Fulvestrant 250 mg           | Comparison between groups (Fulvestrant 500 mg/Fulvestrant 250 mg)    | Comparison between groups (Fulvestrant 500 mg/Fulvestrant 250 mg)    | Comparison between groups (Fulvestrant 500 mg/Fulvestrant 250 mg)    |
 |                                         | treatment comparison                           | (N=362)                      | (N=374)                      | Absolute difference in%                                              | 95% CI                                                               | 95% CI                                                               |
-| ORR d                                   | %of patients with OR absolute difference in%   |                              |                              |                                                                      |                                                                      |                                                                      |
+| ORR d                                   | %of patients withOR absolute difference in%    |                              |                              |                                                                      |                                                                      |                                                                      |
 | All Patients                            | All Patients                                   | 13.8                         | 14.6                         | -0.8                                                                 | - 5.8, 6.3                                                           |                                                                      |
 | -AE subgroup (n=296)                    | -AE subgroup (n=296)                           | 18.1                         | 19.1                         | -1.0                                                                 | - 8.2, 9.3                                                           |                                                                      |
 | -AI subgroup (n=205) a                  | -AI subgroup (n=205) a                         | 7.3                          | 8.3                          | -1.0                                                                 | -5.5, 9.8                                                            |                                                                      |
@@ -416,7 +404,7 @@ Table 4 Summary of results of the primary efficacy endpoint (PFS) and key second
 | CBR                                    | 180 (78.3%)                         | 172 (74.1%)                         |
 | CBR Odds Ratio (95% CI) and p-value    | OR 1.253 (0.815 - 1.932) p = 0.3045 | OR 1.253 (0.815 - 1.932) p = 0.3045 |
 
-*(31% maturity) -not final OS analysis
+*(31% maturity) -not final OS analysis Two phase3 clinical studies were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease. Seventy seven percent (77%) of the study population had estrogen receptor positive breast cancer. These studies compared the safety and efficacy of monthly administration of fulvestrant 250 mg versus the daily administration of 1 mg anastrozole (aromatase inhibitor). Overall, fulvestrant at the 250 mg monthly dose was at least as effective as anastrozole in terms of progression free survival, objective response, and time to death. There were no statistically significant differences in any of these endpoints between the two treatment groups. Progression-free survival was the primary endpoint. Combined analysis of both studies showed t hat 83% of patients who received fulvestrant progressed, compared with 85% of patients who received anastrozole. Combined analysis of both studies showed the hazard ratio of fulvestrant 250 mg to anastrozole for progression-free survival was
 
 **for patients with measurable disease
 
@@ -425,8 +413,6 @@ Table 4 Summary of results of the primary efficacy endpoint (PFS) and key second
 Figure 1 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, Intent-ToTreat Population) ─ FALCON Study
 
 <!-- image -->
-
-Two phase3 clinical studies were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease. Seventy seven percent (77%) of the study population had estrogen receptor positive breast cancer. These studies compared the safety and efficacy of monthly administration of fulvestrant 250 mg versus the daily administration of 1 mg anastrozole (aromatase inhibitor). Overall, fulvestrant at the 250 mg monthly dose was at least as effective as anastrozole in terms of progression free survival, objective response, and time to death. There were no statistically significant differences in any of these endpoints between the two treatment groups. Progression-free survival was the primary endpoint. Combined analysis of both studies showed t hat 83% of patients who received fulvestrant progressed, compared with 85% of patients who received anastrozole. Combined analysis of both studies showed the hazard ratio of fulvestrant 250 mg to anastrozole for progression-free survival was
 
 0.95 (95% CI 0.82 to 1.10). The objective response rate for Fulvestrant 250 mg was 19.2% compared with 16.5% for anastrozole. The median time to death was 27.4 months for patients treated with fulvestrant and 27.6 months for patients treated with anastrozole. The hazard ratio of fulvestrant 250 mg to anastrozole for time to death was 1.01 (95% CI 0.86 to 1.19).
 
@@ -500,7 +486,7 @@ Table 6 Efficacy results in visceral and non-visceral disease from PALOMA3 study
 |                  | Visceral Disease                     | Visceral Disease                 | Non-visceral Disease                 | Non-visceral Disease            |
 |------------------|--------------------------------------|----------------------------------|--------------------------------------|---------------------------------|
 |                  | Fulvestrant plus palbociclib (N=206) | Fulvestrant plus placebo (N=105) | Fulvestrant plus palbociclib (N=141) | Fulvestrant plus placebo (N=69) |
-| OR[%(95% CI)]    | 35.0 (28.5, 41.9)                    | 13.3 (7.5, 21.4)                 | 13.5 (8.3, 20.2)                     | 14.5 (7.2, 25.0)                |
+| OR [% (95% CI)]  | 35.0 (28.5, 41.9)                    | 13.3 (7.5, 21.4)                 | 13.5 (8.3, 20.2)                     | 14.5 (7.2, 25.0)                |
 | TTR*, Median     | 3.8                                  | 5.4                              | 3.7                                  | 3.6                             |
 | [months (range)] | (3.5, 16.7)                          | (3.5, 16.7)                      | (1.9, 13.7)                          | (3.4, 3.7)                      |
 
@@ -638,7 +624,7 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Instructions for administration
+Instructions for administration
 
 Administer the injection according to the local guidelines for performing large volume intramuscular injections.
 
@@ -735,7 +721,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Mylan Teoranta Coill Rua Inverin Co. Galway IRELAND
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, GERMANY
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, GERMANY
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -800,8 +786,7 @@ See the package leaflet for further information.
 
 ## Solution for injection.
 
-1 pre-filled syringe (5 ml)
-
+- 1 pre-filled syringe (5 ml)
 - 1 safety needle
 - 2 pre-filled syringes (5 ml each)
 - 2 safety needles
@@ -844,7 +829,7 @@ Store the pre-filled syringe in the original package in order to protect from li
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-MYLAN PHARMACEUTICALS LIMITED
+## MYLAN PHARMACEUTICALS LIMITED
 
 Damastown Industrial Park
 
@@ -874,16 +859,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Justification for not including Braille accepted
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -894,16 +879,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Fulvestrant Mylan 250 mg solution for injection in prefilled syringe fulvestrant IM use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -915,8 +900,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 ml
 
@@ -931,7 +916,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Fulvestrant Mylan 250 mg solution for injection in prefilled syringe fulvestrant
+## Fulvestrant Mylan 250 mg solution for injection in prefilled syringe
+
+## fulvestrant
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1115,27 +1102,31 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-MYLAN PHARMACEUTICALS LIMITED Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+MYLAN PHARMACEUTICALS LIMITED Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+
+Ireland
 
 ## Manufacturer
 
 MYLAN TEORANTA Inverin Co. Galway IRELAND
 
-## MYLAN GERMANY GmbH
-
-Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352 GERMANY
+VIATRIS GERMANY GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352 GERMANY
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00
+Viatris
+
+Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел .
+
+: +359 2 44 55 400
 
 ## Č eská republika
 
@@ -1179,9 +1170,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 Viatris Healthcare Kft.
 
-Tel.:
-
-+ 36 1 465 2100
+Tel.: + 36 1 465 2100
 
 ## Malta
 
@@ -1191,7 +1180,9 @@ Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
@@ -1285,9 +1276,7 @@ BGP Products SRL Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
+Viatris d.o.o. Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
@@ -1309,7 +1298,7 @@ Viatris AB Tel: +46 (0)8 630 19 00
 
 ## The following information is intended for healthcare professionals only:
 
-Fulvestrant Mylan 500 mg (2 x 250 mg/5 ml solution for injection) should be administered using two pre-filled syringes, see section 3.
+Fulvestrant Mylan 500 mg (2 x 250 mg/5 ml solution for injection) should be administered using two prefilled syringes, see section 3.
 
 ## Instructions for administration
 
@@ -1347,8 +1336,7 @@ Figure 3
 
 - Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area). For user convenience, the needle bevel- up position is oriented to the lever arm (see Figure 4).
 - After injection, immediately apply a single-finger stroke to the activation assisted lever arm to activate the shielding mechanism (see Figure 5).
-
-NOTE: Activate away from self and others. Listen for click and visually confirm needle tip is fully covered.
+- NOTE: Activate away from self and others. Listen for click and visually confirm needle tip is fully covered.
 
 ## Disposal
 

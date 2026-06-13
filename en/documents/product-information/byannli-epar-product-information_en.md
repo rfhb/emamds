@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-11 16:25:33
+document_datetime: 2026-06-10 16:08:57
 document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/byannli-epar-product-information_en.pdf
 document_name: byannli-epar-product-information_en.pdf
 version: success
-processing_time: 11.6911386
-conversion_datetime: 2025-12-22 12:31:22.681783
+processing_time: 17.2916132
+conversion_datetime: 2026-06-13 20:23:27.029325
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -129,8 +129,6 @@ When transitioning patients from BYANNLI to paliperidone prolonged-release table
 | 700 mg                         | 3 mg                                                 | 6 mg                                                 | 9 mg                                                 |
 | 1 000 mg                       | 6 mg                                                 | 9 mg                                                 | 12 mg                                                |
 
-* All doses of once daily paliperidone prolonged-release tablets should be individualised to the specific patient, taking into consideration variables such as reasons for transitioning, response to previous paliperidone treatment, severity of psychotic symptoms, and/or propensity for side effects.
-
 ## Missed dose
 
 ## Dosing window
@@ -161,8 +159,6 @@ BYANNLI should be injected once every 6 months. To avoid a missed dose of BYANNL
 |                                                                                        | Day 1                                                                                  | Day 8                                                                                  | 1 month after Day 8                                                                    |
 | 700 mg                                                                                 | 100 mg                                                                                 | 100 mg                                                                                 | 700 mg                                                                                 |
 | 1 000 mg                                                                               | 100 mg                                                                                 | 100 mg                                                                                 | 1 000 mg                                                                               |
-
-a See Information intended for healthcare professionals for the 1-monthly paliperidone palmitate injectable product for deltoid injection needle selection based on body weight.
 
 ## Special populations
 
@@ -410,7 +406,7 @@ The following are all adverse reactions that were reported with paliperidone by 
 
 | Nervous system disorders                        | parkinsonism c , akathisia c , sedation/ somnolence, dystonia c , dizziness, dyskinesia c , tremor, headache   | tardive dyskinesia, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paraesthesia                      | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimuli, loss of consciousness, depressed level of consciousness, convulsion e , balance disorder, coordination abnormal, head   | diabetic coma                                                                        |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Eye disorders                                   |                                                                                                                | vision blurred, conjunctivitis, dry eye                                                                                                                                       | titubation glaucoma, eye movement disorder, eye rolling, photophobia, lacrimation increased, ocular hyperaemia                                                                                       | floppy iris syndrome (intraoperative)                                                |
+| Eye disorders                                   |                                                                                                                | vision blurred, conjunctivitis, dry eye                                                                                                                                       | glaucoma, eye movement disorder, eye rolling, photophobia, lacrimation increased, ocular hyperaemia                                                                                                  | floppy iris syndrome (intraoperative)                                                |
 | Ear and labyrinth disorders                     |                                                                                                                | vertigo, tinnitus, ear pain                                                                                                                                                   |                                                                                                                                                                                                      |                                                                                      |
 | Cardiac disorders                               | tachycardia                                                                                                    | atrioventricular block, conduction disorder, electrocardiogram QT prolonged, postural orthostatic tachycardia syndrome, bradycardia, electrocardiogram abnormal, palpitations | atrial fibrillation, sinus arrhythmia                                                                                                                                                                |                                                                                      |
 | Vascular disorders                              | hypertension                                                                                                   | hypotension, orthostatic hypotension                                                                                                                                          | pulmonary embolism, venous thrombosis, flushing                                                                                                                                                      | ischaemia                                                                            |
@@ -468,7 +464,7 @@ In the 12-month clinical trial of BYANNLI, the number of subjects with abnormal 
 | Decrease ≥ 7%           | 15 (6.8%)        | 43 (9.1%)         |
 | Increase ≥ 7%           | 29 (13.2%)       | 50 (10.6%)        |
 
-- 1 PP3M -3-monthly paliperidone palmitate injectable
+- 1 PP3M - 3-monthly paliperidone palmitate injectable
 
 ## Hyperprolactinaemia
 
@@ -516,11 +512,9 @@ Paliperidone is not bound to cholinergic receptors. Even though paliperidone is 
 
 The efficacy of BYANNLI for the treatment of schizophrenia in patients who had previously been adequately treated with either 1-monthly paliperidone palmitate injection for at least 4 months or 3-monthly paliperidone palmitate injectable for at least one 3-month injection cycle was evaluated in a Phase 3, randomised, double-blind, active-controlled, interventional, parallel-group, multicentre, non-inferiority study in adult patients. The primary outcome was time to relapse.
 
-The study consisted of an open-label phase which included screening, transition and maintenance phases, followed by a 12-month double-blind phase in which patients were randomised to receive either BYANNLI or 3-monthly paliperidone palmitate injectable. 702 adequately treated patients were randomised in a 2:1 ratio to receive BYANNLI (478 patients) or 3-monthly paliperidone palmitate
+The study consisted of an open-label phase which included screening, transition and maintenance phases, followed by a 12-month double-blind phase in which patients were randomised to receive either BYANNLI or 3-monthly paliperidone palmitate injectable. 702 adequately treated patients were randomised in a 2:1 ratio to receive BYANNLI (478 patients) or 3-monthly paliperidone palmitate injectable (224 patients). Patients received either 2 injection cycles of BYANNLI (4 injections in total; BYANNLI with alternating placebo) or 4 injections of 3-monthly paliperidone palmitate injection every 3 months with regular scheduled visits between injections over the 12-month study duration. Dose adjustment was not permitted during the double-blind phase. Patients remained in this phase until they experienced a relapse event, met discontinuation/withdrawal criteria, or study conclusion.
 
 <div style=\"page-break-after: always\"></div>
-
-injectable (224 patients). Patients received either 2 injection cycles of BYANNLI (4 injections in total; BYANNLI with alternating placebo) or 4 injections of 3-monthly paliperidone palmitate injection every 3 months with regular scheduled visits between injections over the 12-month study duration. Dose adjustment was not permitted during the double-blind phase. Patients remained in this phase until they experienced a relapse event, met discontinuation/withdrawal criteria, or study conclusion.
 
 7.5% of patients in the BYANNLI treatment group and 4.9% of patients in the 3-monthly paliperidone palmitate injectable treatment group experienced a relapse event in the 12-month double-blind Phase with the Kaplan-Meier estimated difference (BYANNLI - 3-monthly paliperidone palmitate injection) of 2.9% (95% CI: -1.1% to 6.8%). The Kaplan-Meier plot (with 95% pointwise confidence bands) of time from randomisation to impending relapse during the 12-month double-blind, active-controlled Phase for BYANNLI 700 and 1 000 mg and 3-monthly paliperidone palmitate injectable 350 mg and 525 mg is shown in Figure 1.
 
@@ -542,11 +536,9 @@ The pharmacokinetics for BYANNLI are presented after gluteal administration only
 
 ## Absorption and distribution
 
-Due to its extremely low water solubility, the 6-monthly formulation of paliperidone palmitate dissolves slowly after intramuscular injection before being hydrolysed to paliperidone and absorbed
+Due to its extremely low water solubility, the 6-monthly formulation of paliperidone palmitate dissolves slowly after intramuscular injection before being hydrolysed to paliperidone and absorbed into the systemic circulation. The release of the active substance after a single dose of 3-monthly paliperidone palmitate injectable starts as early as day 1 and lasts for as long as 18 months. The release of BYANNLI is expected to last longer. Paliperidone plasma concentrations have only been studied up to 6 months after administration of BYANNLI. Based on population pharmacokinetic simulations paliperidone concentrations are expected to remain in plasma for up to approximately 4 years following a single 1 000 mg dose of BYANNLI. The concentration of paliperidone remaining in the circulation approximately 4 years after a single dose of 1 000 mg BYANNLI is expected to be low (&lt; 1% of the average steady state levels).
 
 <div style=\"page-break-after: always\"></div>
-
-into the systemic circulation. The release of the active substance after a single dose of 3-monthly paliperidone palmitate injectable starts as early as day 1 and lasts for as long as 18 months. The release of BYANNLI is expected to last longer. Paliperidone plasma concentrations have only been studied up to 6 months after administration of BYANNLI. Based on population pharmacokinetic simulations paliperidone concentrations are expected to remain in plasma for up to approximately 4 years following a single 1 000 mg dose of BYANNLI. The concentration of paliperidone remaining in the circulation approximately 4 years after a single dose of 1 000 mg BYANNLI is expected to be low (&lt; 1% of the average steady state levels).
 
 The data presented in this paragraph are based on a population pharmacokinetic analysis. Following a single gluteal intramuscular injection of BYANNLI at doses of 700 and 1 000 mg, the plasma concentrations of paliperidone gradually rise to reach maximum plasma concentrations predicted on days 33 and 35, respectively. The release profile and dosing regimen of BYANNLI results in sustained therapeutic concentrations over 6 months. Cmax and AUC6month of BYANNLI were approximately dose-proportional in the range of 700-1 000 mg. The median steady-state peak:trough ratio is approximately 3.0.
 
@@ -554,7 +546,7 @@ The plasma protein binding of racemic paliperidone is 74%.
 
 ## Biotransformation and elimination
 
-In a study with oral immediate release 14 C-paliperidone, one week following administration of a single oral dose of 1 mg immediate release 14 C-paliperidone, 59% of the dose was excreted unchanged into urine, indicating that paliperidone is not extensively metabolised in the liver. Approximately 80% of the administered radioactivity was recovered in urine and 11% in the faeces. Four metabolic pathways have been identified in vivo , none of which accounted for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission. Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone. Population pharmacokinetics analyses indicated no discernible difference on the apparent clearance of paliperidone after administration of oral paliperidone between extensive metabolisers and poor metabolisers of CYP2D6 substrates. In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of medicines metabolised by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
+In a study with oral immediate release  14 C-paliperidone, one week following administration of a single oral dose of 1 mg immediate release  14 C-paliperidone, 59% of the dose was excreted unchanged into urine, indicating that paliperidone is not extensively metabolised in the liver. Approximately 80% of the administered radioactivity was recovered in urine and 11% in the faeces. Four metabolic pathways have been identified in vivo , none of which accounted for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission. Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone. Population pharmacokinetics analyses indicated no discernible difference on the apparent clearance of paliperidone after administration of oral paliperidone between extensive metabolisers and poor metabolisers of CYP2D6 substrates. In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of medicines metabolised by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
 
 In vitro studies have shown that paliperidone is a P-gp substrate and a weak inhibitor of P-gp at high concentrations. No in vivo data are available and the clinical relevance is unknown.
 
@@ -638,29 +630,25 @@ Pack contains 1 pre-filled syringe and 1 needle
 
 ## 6.6 Special precautions for disposal and other handling
 
-Ship and store this product in a horizontal orientation to improve the ability to resuspend this highly concentrated product and prevent clogging of the needle. Shake the syringe very fast for at least 15 seconds, rest briefly, then shake again for 15 seconds. The suspension should be visually inspected before injection. When mixed well the product is uniform,
+Ship and store this product in a horizontal orientation to improve the ability to resuspend this highly concentrated product and prevent clogging of the needle. Shake the syringe very fast for at least 15 seconds, rest briefly, then shake again for 15 seconds. The
+
+suspension should be visually inspected before injection. When mixed well the product is uniform, thick and milky white. Full instructions for use and handling of BYANNLI are provided in the package leaflet (See Information intended for healthcare professionals ). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-thick and milky white. Full instructions for use and handling of BYANNLI are provided in the package leaflet (See Information intended for healthcare professionals ). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1453/007
-
-EU/1/20/1453/008
+EU/1/20/1453/007 EU/1/20/1453/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 June 2020
 
-Date of latest renewal:
+Date of latest renewal: 30 January 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -689,20 +677,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -820,8 +808,8 @@ BYANNLI 700 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
@@ -829,7 +817,7 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER TRAY LABEL
+## BLISTER TRAY LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -850,9 +838,9 @@ Read Information intended for healthcare professionals.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                         |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -862,11 +850,9 @@ BYANNLI 700 mg injection paliperidone
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-Gluteal i.m
+Gluteal i.m Shake fast
 
 <!-- image -->
-
-Shake fast
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -992,8 +978,8 @@ BYANNLI 1 000 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
@@ -1027,7 +1013,7 @@ Read Information intended for healthcare professionals.
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-PRE-FILLED SYRINGE
+## PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1035,9 +1021,7 @@ BYANNLI 1 000 mg injection paliperidone
 
 ## 2. METHOD OF ADMINISTRATION
 
-Gluteal i.m
-
-Shake fast
+Gluteal i.m Shake fast
 
 <!-- image -->
 
@@ -1142,8 +1126,8 @@ Since this medicine may reduce your urge to vomit, there is a chance that it may
 
 If you are planning to have an operation on your eye, make sure you tell your eye doctor that you are taking this medicine. This is because during a cataract operation on the eye for cloudiness of the lens:
 
-- the pupil (the black circle in the middle of your eye) may not increase in size as needed
-- the iris (the coloured part of the eye) may become floppy during surgery and that may lead to eye damage.
+-  the pupil (the black circle in the middle of your eye) may not increase in size as needed
+-  the iris (the coloured part of the eye) may become floppy during surgery and that may lead to eye damage.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1241,17 +1225,17 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you get any of the following serious side effects, you may need immediate medical treatment. Tell your doctor or go to the nearest hospital straight away:
 
-- Blood clots in the veins, especially in the legs. This is rare (may affect up to 1 in 1 000 people). Symptoms include:
+-  Blood clots in the veins, especially in the legs. This is rare (may affect up to 1 in 1 000 people). Symptoms include:
 - o swelling, pain, and redness in the leg - 'deep vein thrombosis'
 - o chest pain and difficulty breathing caused by blood clots that travelled through blood vessels to the lungs - 'pulmonary embolism'.
-- Signs of a stroke, the frequency is not known (cannot be estimated from the available data). Symptoms include:
+-  Signs of a stroke, the frequency is not known (cannot be estimated from the available data). Symptoms include:
 - o sudden change in your mental state
 - o sudden weakness or numbness of your face, arms or legs, especially on one side, or slurred speech, even for a short period of time.
-- Neuroleptic malignant syndrome. This is rare (may affect up to 1 in 1 000 people). Symptoms include:
+-  Neuroleptic malignant syndrome. This is rare (may affect up to 1 in 1 000 people). Symptoms include:
 - o Fever, muscle stiffness, sweating or a lowered level of consciousness.
-- Prolonged erection, which may be painful (priapism). This is rare (may affect up to 1 in 1 000 people).
-- Twitching or jerking rhythmic movements that you cannot control in your tongue, mouth and face or other parts of your body (Tardive Dyskinesia). This is uncommon (may affect up to 1 in 100 people).
-- Severe allergic reaction (anaphylactic reaction), the frequency is not known (cannot be estimated from the available data). Symptoms include:
+-  Prolonged erection, which may be painful (priapism). This is rare (may affect up to 1 in 1 000 people).
+-  Twitching or jerking rhythmic movements that you cannot control in your tongue, mouth and face or other parts of your body (Tardive Dyskinesia). This is uncommon (may affect up to 1 in 100 people).
+-  Severe allergic reaction (anaphylactic reaction), the frequency is not known (cannot be estimated from the available data). Symptoms include:
 - o fever,
 - o swollen mouth, face, lip or tongue,
 - o shortness of breath,
@@ -1259,137 +1243,137 @@ If you get any of the following serious side effects, you may need immediate med
 
 Even if you have previously tolerated oral risperidone or oral paliperidone, rarely allergic reactions occur after receiving injections of paliperidone.
 
-- Floppy iris syndrome, when the iris (the coloured part of the eye) become floppy during eye cataract surgery. This may lead to eye damage (see also ' Cataract operations ' in section 2). The frequency is not known (cannot be estimated from the available data).
-- Stevens-Johnson syndrome or toxic epidermal necrolysis. Severe or life-threatening rash with blisters and peeling skin that may start in and around the mouth, nose, eyes and genitals and spread to other areas of the body. The frequencies are not known (cannot be estimated from the available data).
+-  Floppy iris syndrome, when the iris (the coloured part of the eye) become floppy during eye cataract surgery. This may lead to eye damage (see also ' Cataract operations ' in section 2). The frequency is not known (cannot be estimated from the available data).
+-  Stevens-Johnson syndrome or toxic epidermal necrolysis. Severe or life-threatening rash with blisters and peeling skin that may start in and around the mouth, nose, eyes and genitals and spread to other areas of the body. The frequencies are not known (cannot be estimated from the available data).
 
 Tell your doctor straight away or go to the nearest hospital immediately if you notice any of the serious side effects above.
 
-- Agranulocytosis, dangerously low numbers of a certain type of white blood cell needed to fight infection in your blood. The frequency of this is not known (cannot be estimated from the available data).
+-  Agranulocytosis, dangerously low numbers of a certain type of white blood cell needed to fight infection in your blood. The frequency of this is not known (cannot be estimated from the available data).
 
 ## Other side effects
 
 ## Very common side effects: may affect more than 1 in 10 people
 
-- difficulty falling or staying asleep.
+-  difficulty falling or staying asleep.
 
 ## Common side effects: may affect up to 1 in 10 people
 
-- common cold symptoms, urinary tract infection, feeling like you have the flu.
-- BYANNLI can raise your levels of a hormone called 'prolactin' found on a blood test (which may or may not cause symptoms). When symptoms of high prolactin occur, they may include: (in men) breast swelling, difficulty in getting or maintaining erections, or other sexual dysfunction; (in women) breast discomfort, missed menstrual periods, or other problems with your cycle.
+-  common cold symptoms, urinary tract infection, feeling like you have the flu.
+-  BYANNLI can raise your levels of a hormone called 'prolactin' found on a blood test (which may or may not cause symptoms). When symptoms of high prolactin occur, they may include: (in men) breast swelling, difficulty in getting or maintaining erections, or other sexual dysfunction; (in women) breast discomfort, missed menstrual periods, or other problems with your cycle.
 
 <div style=\"page-break-after: always\"></div>
 
-- high blood sugar, weight gain, weight loss, decreased appetite.
-- irritability, depression, anxiety.
-- parkinsonism: This condition may include slow or impaired movement, sensation of stiffness or tightness of the muscles (making your movements jerky), and sometimes even a sensation of movement 'freezing up' and then restarting. Other signs of parkinsonism include a slow shuffling walk, a tremor while at rest, increased saliva and/or drooling, and a loss of expression on the face.
-- feeling restless, sleepy, or less alert.
-- dystonia: This is a condition involving slow or sustained involuntary contraction of muscles. While it can involve any part of the body (and may result in abnormal posture), dystonia often involves muscles of the face, including abnormal movements of the eyes, mouth, tongue or jaw.
-- dizziness.
-- dyskinesia: This is a condition involving involuntary muscle movements, and can include repetitive, spastic or writhing movements, or twitching.
-- tremor (shaking).
-- headache.
-- rapid heart rate.
-- high blood pressure.
-- cough, stuffy nose.
-- abdominal pain, vomiting, nausea, constipation, diarrhoea, indigestion, toothache.
-- increased liver transaminases in your blood.
-- bone or muscle ache, back pain, joint pain.
-- loss of menstrual periods.
-- fever, weakness, fatigue (tiredness).
-- a reaction at the injection site, including itching, pain or swelling.
+-  high blood sugar, weight gain, weight loss, decreased appetite.
+-  irritability, depression, anxiety.
+-  parkinsonism: This condition may include slow or impaired movement, sensation of stiffness or tightness of the muscles (making your movements jerky), and sometimes even a sensation of movement 'freezing up' and then restarting. Other signs of parkinsonism include a slow shuffling walk, a tremor while at rest, increased saliva and/or drooling, and a loss of expression on the face.
+-  feeling restless, sleepy, or less alert.
+-  dystonia: This is a condition involving slow or sustained involuntary contraction of muscles. While it can involve any part of the body (and may result in abnormal posture), dystonia often involves muscles of the face, including abnormal movements of the eyes, mouth, tongue or jaw.
+-  dizziness.
+-  dyskinesia: This is a condition involving involuntary muscle movements, and can include repetitive, spastic or writhing movements, or twitching.
+-  tremor (shaking).
+-  headache.
+-  rapid heart rate.
+-  high blood pressure.
+-  cough, stuffy nose.
+-  abdominal pain, vomiting, nausea, constipation, diarrhoea, indigestion, toothache.
+-  increased liver transaminases in your blood.
+-  bone or muscle ache, back pain, joint pain.
+-  loss of menstrual periods.
+-  fever, weakness, fatigue (tiredness).
+-  a reaction at the injection site, including itching, pain or swelling.
 
 ## Uncommon side effects: may affect up to 1 in 100 people
 
-- pneumonia, infection of the chest (bronchitis), infection of the breathing passages, sinus infection, bladder infection, ear infection, tonsillitis, fungal infection of the nails, infection of the skin.
-- white blood cell count decreased.
-- anaemia.
-- allergic reaction.
-- diabetes or worsening of diabetes, increased insulin (a hormone that controls blood sugar levels) in your blood.
-- increased appetite.
-- loss of appetite resulting in malnutrition and low body weight.
-- high blood triglycerides (a fat), increased cholesterol in your blood.
-- sleep disorder, elated mood (mania), decreased sexual drive, nervousness, nightmares.
-- fainting, a restless urge to move parts of your body, dizziness upon standing, disturbance in attention, problems with speech, loss or abnormal sense of taste, reduced sensation of skin to pain and touch, a sensation of tingling, pricking, or numbness of skin.
-- blurry vision, eye infection or 'pink eye', dry eye.
-- sensation of spinning (vertigo), ringing in the ears, ear pain.
-- an interruption in conduction between the upper and lower parts of the heart, abnormal electrical conduction of the heart, prolongation of the QT interval from your heart, rapid heartbeat upon standing, slow heart rate, abnormal electrical tracing of the heart (electrocardiogram or ECG), a fluttering or pounding feeling in your chest (palpitations).
-- low blood pressure, low blood pressure upon standing (consequently, some people taking this medicine may feel faint, dizzy, or may pass out when they stand up or sit up suddenly).
-- shortness of breath, sore throat, nosebleeds.
-- abdominal discomfort, stomach or intestinal infection, difficulty swallowing, dry mouth, excessive passing of gas or wind.
-- increased GGT (a liver enzyme called gamma-glutamyltransferase) in your blood, increased liver enzymes in your blood.
+-  pneumonia, infection of the chest (bronchitis), infection of the breathing passages, sinus infection, bladder infection, ear infection, tonsillitis, fungal infection of the nails, infection of the skin.
+-  white blood cell count decreased.
+-  anaemia.
+-  allergic reaction.
+-  diabetes or worsening of diabetes, increased insulin (a hormone that controls blood sugar levels) in your blood.
+-  increased appetite.
+-  loss of appetite resulting in malnutrition and low body weight.
+-  high blood triglycerides (a fat), increased cholesterol in your blood.
+-  sleep disorder, elated mood (mania), decreased sexual drive, nervousness, nightmares.
+-  fainting, a restless urge to move parts of your body, dizziness upon standing, disturbance in attention, problems with speech, loss or abnormal sense of taste, reduced sensation of skin to pain and touch, a sensation of tingling, pricking, or numbness of skin.
+-  blurry vision, eye infection or 'pink eye', dry eye.
+-  sensation of spinning (vertigo), ringing in the ears, ear pain.
+-  an interruption in conduction between the upper and lower parts of the heart, abnormal electrical conduction of the heart, prolongation of the QT interval from your heart, rapid heartbeat upon standing, slow heart rate, abnormal electrical tracing of the heart (electrocardiogram or ECG), a fluttering or pounding feeling in your chest (palpitations).
+-  low blood pressure, low blood pressure upon standing (consequently, some people taking this medicine may feel faint, dizzy, or may pass out when they stand up or sit up suddenly).
+-  shortness of breath, sore throat, nosebleeds.
+-  abdominal discomfort, stomach or intestinal infection, difficulty swallowing, dry mouth, excessive passing of gas or wind.
+-  increased GGT (a liver enzyme called gamma-glutamyltransferase) in your blood, increased liver enzymes in your blood.
 
 <div style=\"page-break-after: always\"></div>
 
-- hives (or 'nettle rash'), itching, rash, hair loss, eczema, dry skin, skin redness, acne, abscess under the skin, flaky, itchy scalp or skin.
-- an increase of CPK (creatine phosphokinase), an enzyme in your blood.
-- muscle spasms, joint stiffness, muscle weakness.
-- incontinence (lack of control) of urine, frequent passing of urine, pain when passing urine.
-- erectile dysfunction, ejaculation disorder, missed menstrual periods or other problems with your cycle (females), development of breasts in men, sexual dysfunction, breast pain, leakage of milk from the breasts.
-- swelling of the face, mouth, eyes, or lips, swelling of the body, arms, or legs.
-- an increase in body temperature.
-- a change in the way you walk.
-- chest pain, chest discomfort, feeling unwell.
-- hardening of the skin.
-- fall.
+-  hives (or 'nettle rash'), itching, rash, hair loss, eczema, dry skin, skin redness, acne, abscess under the skin, flaky, itchy scalp or skin.
+-  an increase of CPK (creatine phosphokinase), an enzyme in your blood.
+-  muscle spasms, joint stiffness, muscle weakness.
+-  incontinence (lack of control) of urine, frequent passing of urine, pain when passing urine.
+-  erectile dysfunction, ejaculation disorder, missed menstrual periods or other problems with your cycle (females), development of breasts in men, sexual dysfunction, breast pain, leakage of milk from the breasts.
+-  swelling of the face, mouth, eyes, or lips, swelling of the body, arms, or legs.
+-  an increase in body temperature.
+-  a change in the way you walk.
+-  chest pain, chest discomfort, feeling unwell.
+-  hardening of the skin.
+-  fall.
 
 ## Rare side effects: may affect up to 1 in 1 000 people
 
-- eye infection.
-- skin inflammation caused by mites.
-- increase in eosinophils (a type of white blood cell) in your blood.
-- decrease in platelets (blood cells that help you stop bleeding).
-- inappropriate secretion of a hormone that controls urine volume.
-- sugar in the urine.
-- life-threatening complications of uncontrolled diabetes.
-- low blood sugar.
-- excessive drinking of water.
-- confusion.
-- not moving or responding while awake (catatonia).
-- sleep walking.
-- lack of emotion.
-- inability to reach orgasm.
-- unresponsive to stimuli, loss of consciousness, low level of consciousness, convulsion (fits), balance disorder.
-- abnormal coordination.
-- glaucoma (increased pressure within the eyeball).
-- problems with movement of your eyes, eye rolling, oversensitivity of the eyes to light, increased tears, redness of the eyes.
-- head shaking that you cannot control.
-- atrial fibrillation (an abnormal heart rhythm), irregular heartbeat.
-- flushing.
-- trouble breathing during sleep (sleep apnoea).
-- lung congestion, congestion of breathing passages.
-- crackly lung sounds.
-- wheezing.
-- inflammation of the pancreas,
-- swollen tongue,
-- stool incontinence, very hard stool, a blockage in the bowels.
-- chapped lips.
-- rash on skin related to drug, thickening of skin, dandruff.
-- joint swelling.
-- breakdown of muscle tissue ('rhabdomyolysis').
-- inability to pass urine.
-- breast discomfort, enlargement of the glands in your breasts, breast enlargement.
-- vaginal discharge.
-- very low body temperature, chills, feeling thirsty.
+-  eye infection.
+-  skin inflammation caused by mites.
+-  increase in eosinophils (a type of white blood cell) in your blood.
+-  decrease in platelets (blood cells that help you stop bleeding).
+-  inappropriate secretion of a hormone that controls urine volume.
+-  sugar in the urine.
+-  life-threatening complications of uncontrolled diabetes.
+-  low blood sugar.
+-  excessive drinking of water.
+-  confusion.
+-  not moving or responding while awake (catatonia).
+-  sleep walking.
+-  lack of emotion.
+-  inability to reach orgasm.
+-  unresponsive to stimuli, loss of consciousness, low level of consciousness, convulsion (fits), balance disorder.
+-  abnormal coordination.
+-  glaucoma (increased pressure within the eyeball).
+-  problems with movement of your eyes, eye rolling, oversensitivity of the eyes to light, increased tears, redness of the eyes.
+-  head shaking that you cannot control.
+-  atrial fibrillation (an abnormal heart rhythm), irregular heartbeat.
+-  flushing.
+-  trouble breathing during sleep (sleep apnoea).
+-  lung congestion, congestion of breathing passages.
+-  crackly lung sounds.
+-  wheezing.
+-  inflammation of the pancreas,
+-  swollen tongue,
+-  stool incontinence, very hard stool, a blockage in the bowels.
+-  chapped lips.
+-  rash on skin related to drug, thickening of skin, dandruff.
+-  joint swelling.
+-  breakdown of muscle tissue ('rhabdomyolysis').
+-  inability to pass urine.
+-  breast discomfort, enlargement of the glands in your breasts, breast enlargement.
+-  vaginal discharge.
+-  very low body temperature, chills, feeling thirsty.
 
 <div style=\"page-break-after: always\"></div>
 
-- symptoms of drug withdrawal.
-- accumulation of pus caused by infection at injection site, deep skin infection, a cyst at the injection site, bruising at injection site.
+-  symptoms of drug withdrawal.
+-  accumulation of pus caused by infection at injection site, deep skin infection, a cyst at the injection site, bruising at injection site.
 
 ## Not known: frequency cannot be estimated from the available data
 
-- dangerously excessive intake of water.
-- sleep-related eating disorder.
-- coma due to uncontrolled diabetes.
-- fast, shallow breathing, pneumonia caused by inhaling food, voice disorder.
-- decreased oxygen in parts of your body (because of decreased blood flow).
-- lack of bowel movement that causes blockage.
-- yellowing of the skin and the eyes (jaundice).
-- skin discolouration.
-- abnormal posture.
-- newborn babies born to mothers who have taken BYANNLI during pregnancy may experience side effects of the medicine and/or withdrawal symptoms, such as irritability, slow, or sustained muscle contractions, shaking, sleepiness, breathing, or feeding problems.
-- a decrease in body temperature.
-- dead skin cells at injection site, an ulcer at injection site.
+-  dangerously excessive intake of water.
+-  sleep-related eating disorder.
+-  coma due to uncontrolled diabetes.
+-  fast, shallow breathing, pneumonia caused by inhaling food, voice disorder.
+-  decreased oxygen in parts of your body (because of decreased blood flow).
+-  lack of bowel movement that causes blockage.
+-  yellowing of the skin and the eyes (jaundice).
+-  skin discolouration.
+-  abnormal posture.
+-  newborn babies born to mothers who have taken BYANNLI during pregnancy may experience side effects of the medicine and/or withdrawal symptoms, such as irritability, slow, or sustained muscle contractions, shaking, sleepiness, breathing, or feeding problems.
+-  a decrease in body temperature.
+-  dead skin cells at injection site, an ulcer at injection site.
 
 ## Reporting of side effects
 
@@ -1400,6 +1384,8 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
+
+This medicine does not require any special temperature storage conditions.
 
 Ship and store in a horizontal position. See arrows on product carton for proper orientation.
 
@@ -1415,7 +1401,11 @@ Each BYANNLI 700 mg pre-filled syringe contains 1 092 mg paliperidone palmitate 
 
 Each BYANNLI 1 000 mg pre-filled syringe contains 1 560 mg paliperidone palmitate equivalent to 1 000 mg paliperidone in 5 mL.
 
-The other ingredients are: Polysorbate 20 Polyethylene glycol 4 000 Citric acid monohydrate Sodium dihydrogen phosphate monohydrate Sodium hydroxide (for pH adjustment) Water for injections
+The other ingredients are: Polysorbate 20 Polyethylene glycol 4 000 Citric acid monohydrate Sodium dihydrogen phosphate monohydrate
+
+Sodium hydroxide (for pH adjustment)
+
+Water for injections
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1427,7 +1417,9 @@ Each pack contains 1 pre-filled syringe and 1 needle.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -1445,11 +1437,17 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o. Tel: +420 227 012 227
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S
+
+Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
 
 ## Deutschland
 
@@ -1457,11 +1455,7 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Lietuva
 
@@ -1473,9 +1467,7 @@ Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.:+36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.:+36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -1485,9 +1477,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
 
 ## Norge
 
@@ -1513,15 +1503,21 @@ contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 ## Ísland
 
@@ -1529,7 +1525,11 @@ Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
 
 ## Κύπρος
 
@@ -1539,7 +1539,9 @@ Tηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561 lv@its.jnj.com
 
 ## This leaflet was last revised in
 
@@ -1616,7 +1618,43 @@ The following information is intended for healthcare professionals only and shou
 
 <div style=\"page-break-after: always\"></div>
 
+## 1. Prepare for the injection.
+
+This highly concentrated product requires specific steps to resuspend.
+
+Always hold the syringe with the tip cap pointing up.
+
+To ensure complete resuspension shake syringe with:
+
+-  Short VERY FAST up and down motion
+-  Loose wrist
+
+Shake syringe VERY FAST for at least 15 seconds, rest briefly, then shake again for 15 seconds.
+
+If more than 5 minutes pass before injection, shake the syringe VERY FAST with the tip cap pointing up again for at least 30 seconds to resuspend the medication.
+
+## Check suspension for solid product
+
 <!-- image -->
+
+<!-- image -->
+
+- Uniform, thick  and  milky white
+- It is normal to see air bubbles
+
+<!-- image -->
+
+<!-- image -->
+
+## Not mixed well
+
+<!-- image -->
+
+- Solid  product  on  the  sides and top of syringe
+- Uneven mix
+- Thin liquid
+
+The product may clog. If this happens, shake the syringe with the syringe tip cap pointing up VERY FAST for at least 15 seconds, rest, then shake again for 15 seconds.
 
 <div style=\"page-break-after: always\"></div>
 

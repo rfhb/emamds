@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-20 16:50:00
+document_datetime: 2026-06-12 11:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord.html
 document_name: apremilast-accord.html
 version: success
-processing_time: 0.0817602
-conversion_datetime: 2026-03-21 11:42:34.023613
+processing_time: 0.3811651
+conversion_datetime: 2026-06-13 19:45:46.564951
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Apremilast Accord
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-apremilast Medicine Human Authorised
+apremilast
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Apremilast Accord](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-86895)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,37 +60,37 @@ Expand section
 
 Collapse section
 
-## How is Apremilast Accord used?
+### How is Apremilast Accord used?
 
 Apremilast Accord can only be obtained with a prescription and treatment should only be started by a doctor experienced in the diagnosis and treatment of psoriasis, psoriatic arthritis or Behçet's disease.
 
 The medicine is available as tablets. Treatment begins with a lower dose taken once daily on the first day, and then the dose is gradually increased over a week to the recommended dose, which is taken twice daily. Lower doses should be given to patients with severe impairment of kidney function. Response to treatment should be evaluated regularly and use of Apremilast Accord should be reconsidered if there is no improvement after six months. For more information about using Apremilast Accord, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Apremilast Accord work?
+### How does Apremilast Accord work?
 
 The active substance in the medicine, apremilast, blocks the action of an enzyme inside cells called phosphodiesterase 4 (PDE4). This enzyme plays a role in triggering the production of messenger molecules in the immune system (the body's natural defences) called cytokines, which are involved in the inflammation and other processes that cause psoriasis, psoriatic arthritis and Behçet's disease. By blocking PDE4, apremilast reduces the level of these cytokines in the body, and so reduces the inflammation and other symptoms of psoriasis, psoriatic arthritis and Behçet's disease.
 
-## How has Apremilast Accord been studied?
+### How has Apremilast Accord been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Otezla, and do not need to be repeated for Apremilast Accord.
 
 As for every medicine, the company provided studies on the quality of Apremilast Accord. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Apremilast Accord?
+### What are the benefits and risks of Apremilast Accord?
 
 Because Apremilast Accord is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Apremilast Accord authorised in the EU?
+### Why is Apremilast Accord authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Apremilast Accord has been shown to have comparable quality and to be bioequivalent to Otezla. Therefore, the Agency's view was that, as for Otezla, the benefits of Apremilast Accord outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Apremilast Accord?
+### What measures are being taken to ensure the safe and effective use of Apremilast Accord?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Apremilast Accord have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Otezla also apply to Apremilast Accord where appropriate.
 
 As for all medicines, data on the use of Apremilast Accord are continuously monitored. Suspected side effects reported with Apremilast Accord are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Apremilast Accord
+### Other information about Apremilast Accord
 
 Apremilast Accord received a marketing authorisation valid throughout the EU on 19 April 2024.
 
@@ -101,181 +104,137 @@ English (EN) (197.55 KB - PDF)
 
 [View](/en/documents/overview/apremilast-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-730)
+[Other languages (22)](#file-language-dropdown-692)
 
 български (BG) (191.94 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/bg/documents/overview/apremilast-accord-epar-medicine-overview_bg.pdf)
 
 español (ES) (178.19 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/es/documents/overview/apremilast-accord-epar-medicine-overview_es.pdf)
 
 čeština (CS) (218.07 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/cs/documents/overview/apremilast-accord-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (196.65 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/da/documents/overview/apremilast-accord-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (171.78 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/de/documents/overview/apremilast-accord-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (154.87 KB - PDF)
+eesti (ET) (154.87 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/et/documents/overview/apremilast-accord-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (202.81 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/el/documents/overview/apremilast-accord-epar-medicine-overview_el.pdf)
 
 français (FR) (169.19 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/fr/documents/overview/apremilast-accord-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (199.19 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/hr/documents/overview/apremilast-accord-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (177.01 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/it/documents/overview/apremilast-accord-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (205.21 KB - PDF)
+latviešu (LV) (205.21 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/lv/documents/overview/apremilast-accord-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (198.5 KB - PDF)
+lietuvių (LT) (198.5 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/lt/documents/overview/apremilast-accord-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (199.85 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/hu/documents/overview/apremilast-accord-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (218.73 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/mt/documents/overview/apremilast-accord-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (169.41 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/nl/documents/overview/apremilast-accord-epar-medicine-overview_nl.pdf)
 
 polski (PL) (201.89 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/pl/documents/overview/apremilast-accord-epar-medicine-overview_pl.pdf)
 
 português (PT) (177.93 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/pt/documents/overview/apremilast-accord-epar-medicine-overview_pt.pdf)
 
 română (RO) (195.05 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/ro/documents/overview/apremilast-accord-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (138.03 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/sk/documents/overview/apremilast-accord-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (215.96 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/sl/documents/overview/apremilast-accord-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (174.25 KB - PDF)
+suomi (FI) (174.25 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/fi/documents/overview/apremilast-accord-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (185.18 KB - PDF)
 
-**First published:**
-
-21/05/2024
+**First published:** 21/05/2024
 
 [View](/sv/documents/overview/apremilast-accord-epar-medicine-overview_sv.pdf)
 
@@ -291,305 +250,161 @@ English (EN) (2.23 MB - PDF)
 
 Apremilast Accord : EPAR - Product information
 
-English (EN) (625.2 KB - PDF)
+English (EN) (625.24 KB - PDF)
 
-**First published:** 21/05/2024
-
-**Last updated:** 20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-525)
 
-български (BG) (900.52 KB - PDF)
+български (BG) (888.69 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/bg/documents/product-information/apremilast-accord-epar-product-information_bg.pdf)
 
-español (ES) (833.19 KB - PDF)
+español (ES) (830.62 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/es/documents/product-information/apremilast-accord-epar-product-information_es.pdf)
 
-čeština (CS) (794.53 KB - PDF)
+čeština (CS) (855.32 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/cs/documents/product-information/apremilast-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (857.78 KB - PDF)
+dansk (DA) (1.53 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/da/documents/product-information/apremilast-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (568.99 KB - PDF)
+Deutsch (DE) (1.35 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/de/documents/product-information/apremilast-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (802.36 KB - PDF)
+eesti (ET) (1.24 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/et/documents/product-information/apremilast-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (896.97 KB - PDF)
+ελληνικά (EL) (1.42 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/el/documents/product-information/apremilast-accord-epar-product-information_el.pdf)
 
-français (FR) (927.03 KB - PDF)
+français (FR) (859.36 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/fr/documents/product-information/apremilast-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (900.9 KB - PDF)
+hrvatski (HR) (1.47 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/hr/documents/product-information/apremilast-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (805.35 KB - PDF)
+italiano (IT) (1.37 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
-
-[View](/is/documents/product-information/apremilast-accord-epar-product-information_is.pdf)
-
-italiano (IT) (832.86 KB - PDF)
-
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/it/documents/product-information/apremilast-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (904.96 KB - PDF)
+latviešu (LV) (958.63 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/lv/documents/product-information/apremilast-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (881.62 KB - PDF)
+lietuvių (LT) (881.92 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/lt/documents/product-information/apremilast-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (778.42 KB - PDF)
+magyar (HU) (778.29 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/hu/documents/product-information/apremilast-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (930.98 KB - PDF)
+Malti (MT) (1.33 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/mt/documents/product-information/apremilast-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (826.89 KB - PDF)
+Nederlands (NL) (520.77 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/nl/documents/product-information/apremilast-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (822.49 KB - PDF)
+polski (PL) (909.64 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
-
-[View](/no/documents/product-information/apremilast-accord-epar-product-information_no.pdf)
-
-polski (PL) (981.91 KB - PDF)
-
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/pl/documents/product-information/apremilast-accord-epar-product-information_pl.pdf)
 
-português (PT) (835.84 KB - PDF)
+português (PT) (1.37 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/pt/documents/product-information/apremilast-accord-epar-product-information_pt.pdf)
 
-română (RO) (902 KB - PDF)
+română (RO) (1.41 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/ro/documents/product-information/apremilast-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1004.89 KB - PDF)
+slovenčina (SK) (1.42 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/sk/documents/product-information/apremilast-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (917.5 KB - PDF)
+slovenščina (SL) (1.43 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/sl/documents/product-information/apremilast-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (782.67 KB - PDF)
+suomi (FI) (1.13 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/fi/documents/product-information/apremilast-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (818 KB - PDF)
+svenska (SV) (1.25 MB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-20/03/2026
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
 
 [View](/sv/documents/product-information/apremilast-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000337482 20/03/2026
+Íslenska (IS) (1.32 MB - PDF)
+
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
+
+[View](/is/documents/product-information/apremilast-accord-epar-product-information_is.pdf)
+
+norsk (NO) (1.25 MB - PDF)
+
+**First published:** 21/05/2024 **Last updated:** 12/06/2026
+
+[View](/no/documents/product-information/apremilast-accord-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355526
+
+11/06/2026
 
 icon globe
 
@@ -609,312 +424,176 @@ Apremilast Accord : EPAR - All authorised presentations
 
 English (EN) (70.09 KB - PDF)
 
-**First published:** 21/05/2024
-
-**Last updated:** 18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/en/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-932)
+[Other languages (24)](#file-language-dropdown-906)
 
 български (BG) (78.44 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/bg/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (76.08 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/es/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (82.62 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/cs/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (72.99 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/da/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (71.87 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/de/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (70.96 KB - PDF)
+eesti (ET) (70.96 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/et/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (96.01 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/el/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (70.35 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/fr/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (89 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/hr/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (70.83 KB - PDF)
-
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
-
-[View](/is/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (69.7 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/it/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (91.17 KB - PDF)
+latviešu (LV) (91.17 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/lv/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (91.56 KB - PDF)
+lietuvių (LT) (91.56 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/lt/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (89.28 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/hu/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (87.2 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/mt/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (70.21 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/nl/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (70.16 KB - PDF)
-
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
-
-[View](/no/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (89.34 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/pl/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (70.84 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/pt/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (87.23 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/ro/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (86.45 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/sk/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (90.65 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/sl/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (70.65 KB - PDF)
+suomi (FI) (70.65 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/fi/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (70.07 KB - PDF)
 
-**First published:**
-
-21/05/2024
-
-**Last updated:**
-
-18/07/2025
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
 
 [View](/sv/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (70.83 KB - PDF)
+
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
+
+[View](/is/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (70.16 KB - PDF)
+
+**First published:** 21/05/2024 **Last updated:** 18/07/2025
+
+[View](/no/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Apremilast Accord Active substance apremilast International non-proprietary name (INN) or common name apremilast Therapeutic area (MeSH)
+Name of medicine
+
+Apremilast Accord
+
+International non-proprietary name (INN) or common name
+
+apremilast
+
+Therapeutic area (MeSH)
 
 - Arthritis, Psoriatic
 - Psoriasis
 - Behcet Syndrome
 - Oral Ulcer
 
-Anatomical therapeutic chemical (ATC) code L04AA32
+Anatomical therapeutic chemical (ATC) code
+
+L04AA32
 
 ### Pharmacotherapeutic group
 
@@ -932,7 +611,9 @@ Apremilast Accord is indicated for the treatment of adult patients with oral ulc
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006208
+EMA product number
+
+EMEA/H/C/006208
 
 Generic
 
@@ -942,9 +623,19 @@ Marketing authorisation holder
 
 Accord Healthcare S.L.U.
 
-Edificio Este Planta 6a
+Edificio Este Planta 6a World Trade Center Moll De Barcelona S/n 08039 Barcelona SPAIN
 
-Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 4
+Opinion adopted
+
+22/02/2024
+
+Marketing authorisation issued
+
+19/04/2024
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -952,15 +643,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Apremilast Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (175.94 KB - PDF)
+English (EN) (174.68 KB - PDF)
 
-**First published:** 07/01/2026
-
-**Last updated:** 20/03/2026
+**First published:** 07/01/2026 **Last updated:** 12/06/2026
 
 [View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -968,19 +657,15 @@ Apremilast Accord : EPAR - Procedural steps taken and scientific information aft
 
 English (EN) (121.86 KB - PDF)
 
-**First published:** 10/07/2025
-
-**Last updated:** 18/07/2025
+**First published:** 10/07/2025 **Last updated:** 18/07/2025
 
 [View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Apremilast Accord : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/96125/2024
+Adopted Reference Number: EMA/96125/2024
 
 English (EN) (620 KB - PDF)
 
@@ -990,9 +675,7 @@ English (EN) (620 KB - PDF)
 
 CHMP summary of positive opinion for Apremilast Accord
 
-Adopted
-
-Reference Number: EMA/CHMP/28290/2024
+Adopted Reference Number: EMA/CHMP/28290/2024
 
 English (EN) (144.15 KB - PDF)
 
@@ -1002,10 +685,170 @@ English (EN) (144.15 KB - PDF)
 
 ## News on Apremilast Accord
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024) 23/02/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024)
 
-**This page was last updated on** 20/03/2026
+23/02/2024
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Apremilast Accord : EPAR - Product information - tracked changes
+
+English (EN) (380.74 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/en/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_en.docx-0)
+
+[Other languages (24)](#file-language-dropdown-699)
+
+български (BG) (460.92 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/bg/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (635.14 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/es/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (443.55 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/cs/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (343.39 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/da/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (410.55 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/de/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (492.84 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/et/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (516.85 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/el/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (413.49 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/fr/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (489.43 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/hr/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (475.62 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/it/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (529.76 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/lv/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (525.03 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/lt/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (440.86 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/hu/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (453.01 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/mt/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (612.33 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/nl/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (465.37 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/pl/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (607.27 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/pt/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (525.38 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/ro/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (657.72 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sk/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (544.14 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sl/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (481.25 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/fi/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (436.29 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sv/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (441.12 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/is/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (426.41 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/no/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_no.docx)
+
+**This page was last updated on**
+
+12/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

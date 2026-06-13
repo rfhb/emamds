@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-13 12:50:00
+document_datetime: 2026-06-11 11:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/edistride.html
 document_name: edistride.html
 version: success
-processing_time: 0.0881566
-conversion_datetime: 2026-03-17 19:27:59.792523
+processing_time: 0.189806
+conversion_datetime: 2026-06-13 19:43:30.116828
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Edistride
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-dapagliflozin Medicine Human Authorised
+dapagliflozin
+
+Medicine Human Authorised
 
 Page contents
 
@@ -57,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Edistride used?
+### How is Edistride used?
 
 Edistride is available as tablets and can only be obtained with a prescription.
 
@@ -67,13 +69,13 @@ For type 2 diabetes, if Edistride is used with insulin or medicines that help th
 
 For more information about using Edistride, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Edistride work?
+### How does Edistride work?
 
 The active substance in Edistride, dapagliflozin, blocks the action of a protein in the kidneys called sodium-glucose co-transporter 2 (SGLT2). As blood is filtered by the kidneys, SGLT2 stops the kidneys passing glucose from the blood into the urine. Patients with diabetes have high levels of glucose in the blood. By blocking the action of SGLT2, dapagliflozin causes the kidney to pass more glucose into the urine, thereby reducing the levels of glucose in the blood.
 
 Blocking the action of SGLT2 also supports heart function in patients with chronic heart failure and kidney function in patients with chronic kidney disease, regardless of having diabetes. Dapagliflozin's actions increase the elimination of salt and water in the urine. This decreases the overall blood volume, reducing the effort needed for the heart to pump blood, thereby improving its function in patients with heart failure.
 
-## What benefits of Edistride have been shown in studies?
+### What benefits of Edistride have been shown in studies?
 
 **Type 2 diabetes**
 
@@ -99,13 +101,13 @@ The second study involved patients with heart failure without reduced ejection f
 
 Edistride was effective in treating adult patients with chronic kidney disease based on a study involving over 4,300 patients. When Edistride was added to patients' usual treatment for chronic kidney disease, the proportion of patients that experienced a decline in kidney function, severe kidney disease or death was 9.2% among those taking Edistride, compared with 14.5% among those taking placebo; the risk was 39% lower with Edistride than with placebo.
 
-## What are the risks associated with Edistride?
+### What are the risks associated with Edistride?
 
 The most common side effect with Edistride in patients with type 2 diabetes (which may affect more than 1 in 10 people) is hypoglycaemia (low blood sugar levels) when used in combination with a sulphonylurea or insulin.
 
 For the full list of side effects and restrictions with Edistride, see the package leaflet.
 
-## Why is Edistride authorised in the EU?
+### Why is Edistride authorised in the EU?
 
 The European Medicines Agency considered that Edistride was effective for treating type 2 diabetes in adults and children from 10 years of age when given alone or in combination with other diabetes medicines which work in different ways. In addition, beneficial reductions in weight and blood pressure occurred in patients treated with Edistride. In heart failure, Edistride can reduce the risk of death or serious complications in patients with heart failure. In patients with chronic kidney disease Edistride can reduce the risk of kidney function decline or death due to kidney or heart problems, when added to the patient's usual treatment.
 
@@ -113,13 +115,13 @@ Edistride's common side effects were related to raised levels of sugar in the ur
 
 The Agency concluded that the benefits of Edistride outweigh its risks and recommended that it be granted marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Edistride?
+### What measures are being taken to ensure the safe and effective use of Edistride?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Edistride have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Edistride are continuously monitored. Side effects reported with Edistride are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Edistride
+### Other information about Edistride
 
 Edistride received a marketing authorisation valid throughout the EU on 9 November 2015. This authorisation was based on the authorisation granted for Forxiga in 2012.
 
@@ -129,19 +131,15 @@ Reference Number: EMA/12587/2023
 
 English (EN) (127.5 KB - PDF)
 
-**First published:** 10/12/2015
-
-**Last updated:** 06/03/2023
+**First published:** 10/12/2015 **Last updated:** 06/03/2023
 
 [View](/en/documents/overview/edistride-epar-medicine-overview_en.pdf)
 
 Edistride : EPAR - Risk management plan
 
-English (EN) (1007.93 KB - PDF)
+English (EN) (671.85 KB - PDF)
 
-**First published:** 10/12/2015
-
-**Last updated:** 24/09/2024
+**First published:** 10/12/2015 **Last updated:** 11/06/2026
 
 [View](/en/documents/rmp/edistride-epar-risk-management-plan_en.pdf)
 
@@ -151,303 +149,159 @@ Edistride : EPAR - Product information
 
 English (EN) (996.16 KB - PDF)
 
-**First published:** 10/12/2015
-
-**Last updated:** 13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/edistride-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-563)
+[Other languages (24)](#file-language-dropdown-8)
 
 български (BG) (945.37 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/bg/documents/product-information/edistride-epar-product-information_bg.pdf)
 
 español (ES) (967.3 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/es/documents/product-information/edistride-epar-product-information_es.pdf)
 
 čeština (CS) (863.36 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/cs/documents/product-information/edistride-epar-product-information_cs.pdf)
 
 dansk (DA) (703.46 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/da/documents/product-information/edistride-epar-product-information_da.pdf)
 
 Deutsch (DE) (999.97 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/de/documents/product-information/edistride-epar-product-information_de.pdf)
 
-eesti keel (ET) (747.09 KB - PDF)
+eesti (ET) (747.09 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/et/documents/product-information/edistride-epar-product-information_et.pdf)
 
 ελληνικά (EL) (917.26 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/el/documents/product-information/edistride-epar-product-information_el.pdf)
 
 français (FR) (1.05 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/fr/documents/product-information/edistride-epar-product-information_fr.pdf)
 
 hrvatski (HR) (965.67 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/hr/documents/product-information/edistride-epar-product-information_hr.pdf)
 
-íslenska (IS) (884.12 KB - PDF)
-
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
-
-[View](/is/documents/product-information/edistride-epar-product-information_is.pdf)
-
 italiano (IT) (869.75 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/it/documents/product-information/edistride-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.07 MB - PDF)
+latviešu (LV) (1.07 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/lv/documents/product-information/edistride-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.16 MB - PDF)
+lietuvių (LT) (1.16 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/lt/documents/product-information/edistride-epar-product-information_lt.pdf)
 
 magyar (HU) (1.05 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/hu/documents/product-information/edistride-epar-product-information_hu.pdf)
 
 Malti (MT) (1.02 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/mt/documents/product-information/edistride-epar-product-information_mt.pdf)
 
 Nederlands (NL) (967.36 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/nl/documents/product-information/edistride-epar-product-information_nl.pdf)
 
-norsk (NO) (981.6 KB - PDF)
-
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
-
-[View](/no/documents/product-information/edistride-epar-product-information_no.pdf)
-
 polski (PL) (878.79 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/pl/documents/product-information/edistride-epar-product-information_pl.pdf)
 
 português (PT) (892.8 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/pt/documents/product-information/edistride-epar-product-information_pt.pdf)
 
 română (RO) (1.13 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/ro/documents/product-information/edistride-epar-product-information_ro.pdf)
 
 slovenčina (SK) (830.67 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/sk/documents/product-information/edistride-epar-product-information_sk.pdf)
 
 slovenščina (SL) (965.56 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/sl/documents/product-information/edistride-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.06 MB - PDF)
+suomi (FI) (1.06 MB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/fi/documents/product-information/edistride-epar-product-information_fi.pdf)
 
 svenska (SV) (895.47 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
 
 [View](/sv/documents/product-information/edistride-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310736 12/03/2026
+Íslenska (IS) (884.12 KB - PDF)
+
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
+
+[View](/is/documents/product-information/edistride-epar-product-information_is.pdf)
+
+norsk (NO) (981.6 KB - PDF)
+
+**First published:** 10/12/2015 **Last updated:** 13/03/2026
+
+[View](/no/documents/product-information/edistride-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000310736
+
+12/03/2026
 
 icon globe
 
@@ -467,312 +321,180 @@ Edistride : EPAR - All Authorised presentations
 
 English (EN) (27.12 KB - PDF)
 
-**First published:** 10/12/2015
-
-**Last updated:** 10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/en/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-15)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (31.32 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/bg/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (26.09 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/es/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (27.66 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/cs/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.18 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/da/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (27.84 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/de/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (26.41 KB - PDF)
+eesti (ET) (26.41 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/et/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (29.67 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/el/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (27.1 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/fr/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (29.79 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/hr/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (27.07 KB - PDF)
-
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
-
-[View](/is/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (27.65 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/it/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (27.48 KB - PDF)
+latviešu (LV) (27.48 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/lv/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.97 KB - PDF)
+lietuvių (LT) (27.97 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/lt/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (27.49 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/hu/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (28.73 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/mt/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (26.12 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/nl/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (27.12 KB - PDF)
-
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
-
-[View](/no/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (28.71 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/pl/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (27.08 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/pt/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (27.25 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/ro/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (28.7 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/sk/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (27 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/sl/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (26.07 KB - PDF)
+suomi (FI) (26.07 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/fi/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.98 KB - PDF)
 
-**First published:**
-
-10/12/2015
-
-**Last updated:**
-
-10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/sv/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (27.07 KB - PDF)
+
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
+
+[View](/is/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (27.12 KB - PDF)
+
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
+
+[View](/no/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Edistride Active substance dapagliflozin propanediol monohydrate International non-proprietary name (INN) or common name dapagliflozin Therapeutic area (MeSH)
+Name of medicine
+
+Edistride
+
+Active substance
+
+dapagliflozin propanediol monohydrate
+
+International non-proprietary name (INN) or common name
+
+dapagliflozin
+
+Therapeutic area (MeSH)
 
 - Diabetes Mellitus, Type 2
 - Heart Failure, Systolic
 - Heart Failure
 - Renal Insufficiency, Chronic
 
-Anatomical therapeutic chemical (ATC) code A10BK01
+Anatomical therapeutic chemical (ATC) code
+
+A10BK01
 
 ### Pharmacotherapeutic group
 
@@ -799,13 +521,27 @@ Edistride is indicated in adults for the treatment of chronic kidney disease.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004161 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004161
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
-151 85 Sodertalje
+151 85 Sodertalje Sweden
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 09/11/2015 Revision 26
+Opinion adopted
+
+23/09/2015
+
+Marketing authorisation issued
+
+09/11/2015
+
+Revision
+
+27
 
 ## Assessment history
 
@@ -813,7 +549,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Edistride : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -827,9 +563,7 @@ Edistride : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (275.68 KB - PDF)
 
-**First published:** 14/04/2016
-
-**Last updated:** 13/03/2026
+**First published:** 14/04/2016 **Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/edistride-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -845,9 +579,7 @@ English (EN) (129.16 KB - PDF)
 
 Edistride-H-C-PSUSA-00010029-202110 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Adopted
-
-Reference Number: EMA/700831/2022
+Adopted Reference Number: EMA/700831/2022
 
 English (EN) (151.49 KB - PDF)
 
@@ -857,9 +589,7 @@ English (EN) (151.49 KB - PDF)
 
 Edistride-H-C-WS-2299 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/954956/2022
+Adopted Reference Number: EMA/954956/2022
 
 English (EN) (2.27 MB - PDF)
 
@@ -879,9 +609,7 @@ English (EN) (104.54 KB - PDF)
 
 Edistride-H-C-WS-1952 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/622203/2021
+Adopted Reference Number: EMA/622203/2021
 
 English (EN) (1.97 MB - PDF)
 
@@ -891,9 +619,7 @@ English (EN) (1.97 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Edistride (WS-1952)
 
-Adopted
-
-Reference Number: EMA/CHMP/589418/2021
+Adopted Reference Number: EMA/CHMP/589418/2021
 
 English (EN) (145.69 KB - PDF)
 
@@ -903,9 +629,7 @@ English (EN) (145.69 KB - PDF)
 
 Edistride-H-C-WS-1941 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/431093/2021
+Adopted Reference Number: EMA/431093/2021
 
 English (EN) (5.42 MB - PDF)
 
@@ -915,9 +639,7 @@ English (EN) (5.42 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Edistride (WS-1941)
 
-Adopted
-
-Reference Number: EMA/CHMP/347889/2021
+Adopted Reference Number: EMA/CHMP/347889/2021
 
 English (EN) (145.19 KB - PDF)
 
@@ -927,9 +649,7 @@ English (EN) (145.19 KB - PDF)
 
 Edistride-H-C-4161-WS-1737 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/574301/2020
+Adopted Reference Number: EMA/574301/2020
 
 English (EN) (6.72 MB - PDF)
 
@@ -939,9 +659,7 @@ English (EN) (6.72 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Edistride (WS-1737)
 
-Adopted
-
-Reference Number: EMA/CHMP/551424/2020
+Adopted Reference Number: EMA/CHMP/551424/2020
 
 English (EN) (123.01 KB - PDF)
 
@@ -951,9 +669,7 @@ English (EN) (123.01 KB - PDF)
 
 Edistride-H-C-4161-WS-1539 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/476671/2019
+Adopted Reference Number: EMA/476671/2019
 
 English (EN) (1.46 MB - PDF)
 
@@ -963,9 +679,7 @@ English (EN) (1.46 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Edistride (WS1539/0029)
 
-Adopted
-
-Reference Number: EMA/CHMP/365313/2019
+Adopted Reference Number: EMA/CHMP/365313/2019
 
 English (EN) (74.88 KB - PDF)
 
@@ -985,29 +699,21 @@ English (EN) (5.61 MB - PDF)
 
 Edistride-H-C-PSUSA-00010029-201610 : EPAR - Scientific conclusion and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/465597/2017
+Adopted Reference Number: EMA/465597/2017
 
 English (EN) (64.94 KB - PDF)
 
-**First published:** 20/07/2017
-
-**Last updated:** 20/07/2017
+**First published:** 20/07/2017 **Last updated:** 20/07/2017
 
 [View](/en/documents/scientific-conclusion/edistride-h-c-psusa-00010029-201610-epar-scientific-conclusion-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Edistride-H-A20-1442-C-4161-0010 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/PRAC/637349/2016
+Adopted Reference Number: EMA/PRAC/637349/2016
 
 English (EN) (254.07 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/variation-report/edistride-h-a20-1442-c-4161-0010-epar-assessment-report-article-20_en.pdf)
 
@@ -1015,309 +721,161 @@ Edistride-H-A20-1442-C-4161-0010 : EPAR - Scientific Conclusion - Article 20
 
 English (EN) (41.36 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-51)
+[Other languages (24)](#file-language-dropdown-688)
 
 български (BG) (84.18 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/bg/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_bg.pdf)
 
 español (ES) (41.99 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/es/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_es.pdf)
 
 čeština (CS) (78.08 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/cs/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_cs.pdf)
 
 dansk (DA) (41.03 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/da/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_da.pdf)
 
 Deutsch (DE) (44.39 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/de/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_de.pdf)
 
-eesti keel (ET) (40.46 KB - PDF)
+eesti (ET) (40.46 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/et/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_et.pdf)
 
 ελληνικά (EL) (84.71 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/el/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_el.pdf)
 
 français (FR) (42.93 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fr/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_fr.pdf)
 
 hrvatski (HR) (76.27 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hr/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_hr.pdf)
 
-íslenska (IS) (40.74 KB - PDF)
-
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
-
-[View](/is/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_is.pdf)
-
 italiano (IT) (40.72 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/it/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_it.pdf)
 
-latviešu valoda (LV) (76.13 KB - PDF)
+latviešu (LV) (76.13 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lv/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_lv.pdf)
 
-lietuvių kalba (LT) (72.25 KB - PDF)
+lietuvių (LT) (72.25 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lt/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_lt.pdf)
 
 magyar (HU) (60.56 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hu/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_hu.pdf)
 
 Malti (MT) (83.36 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/mt/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_mt.pdf)
 
 Nederlands (NL) (42.37 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/nl/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_nl.pdf)
 
-norsk (NO) (40.5 KB - PDF)
-
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
-
-[View](/no/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_no.pdf)
-
 polski (PL) (62.96 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pl/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_pl.pdf)
 
 português (PT) (42.06 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pt/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_pt.pdf)
 
 română (RO) (78.32 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/ro/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_ro.pdf)
 
 slovenčina (SK) (70.79 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sk/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_sk.pdf)
 
 slovenščina (SL) (75.63 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sl/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_sl.pdf)
 
-Suomi (FI) (40.53 KB - PDF)
+suomi (FI) (40.53 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fi/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_fi.pdf)
 
 svenska (SV) (41.68 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sv/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_sv.pdf)
 
-## Initial marketing authorisation documents
+Íslenska (IS) (40.74 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/is/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_is.pdf)
+
+norsk (NO) (40.5 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/no/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_no.pdf)
+
+### Initial marketing authorisation documents
 
 CHMP post-authorisation summary of opinion for Edistride (WS-2299)
 
-Adopted
-
-Reference Number: EMA/CHMP/938371/2022
+Adopted Reference Number: EMA/CHMP/938371/2022
 
 English (EN) (176.46 KB - PDF)
 
@@ -1327,51 +885,61 @@ English (EN) (176.46 KB - PDF)
 
 Edistride : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/679678/2015
+Adopted Reference Number: EMA/679678/2015
 
 English (EN) (226.11 KB - PDF)
 
-**First published:** 10/12/2015
-
-**Last updated:** 10/12/2015
+**First published:** 10/12/2015 **Last updated:** 10/12/2015
 
 [View](/en/documents/assessment-report/edistride-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion Edistride
 
-Adopted
-
-Reference Number: EMA/CHMP/524152/2015
+Adopted Reference Number: EMA/CHMP/524152/2015
 
 English (EN) (69.91 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-edistride_en.pdf)
 
 ## News on Edistride
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
+16/12/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021) 25/06/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+15/10/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019) 01/02/2019
+25/06/2021
 
-[First oral add-on treatment to insulin for treatment of certain patients with type 1 diabetes](/en/news/first-oral-add-treatment-insulin-treatment-certain-patients-type-1-diabetes) 01/02/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
 
-[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis) 12/02/2016
+16/10/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
+
+28/06/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019)
+
+01/02/2019
+
+[First oral add-on treatment to insulin for treatment of certain patients with type 1 diabetes](/en/news/first-oral-add-treatment-insulin-treatment-certain-patients-type-1-diabetes)
+
+01/02/2019
+
+[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis)
+
+12/02/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
 
 ## More information on Edistride
 
@@ -1382,8 +950,8 @@ English (EN) (69.91 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/03/2026
+**This page was last updated on**
+
+11/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

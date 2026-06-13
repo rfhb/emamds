@@ -1,35 +1,30 @@
 ---
-document_datetime: 2024-07-22 13:40:08
+document_datetime: 2026-06-10 16:09:58
 document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/byannli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: byannli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.7890981
-conversion_datetime: 2025-12-22 12:29:07.298285
+processing_time: 1.6097013
+conversion_datetime: 2026-06-13 20:33:11.830106
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## BYANNLI
 
-Procedural steps taken and scientific information after the authorisation
+Procedural steps taken and scientific information after the authorisation*
 
-| Application number   | Scope                                                                                            | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| N/0006               | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 19/07/2024                          |                                             | PL                               |           |
-| II/0005              | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation   | 01/02/2024                          | n/a                                         |                                  |           |
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-1 Notifications  are issued for  type I variations  and Article  61(3) notifications  (unless part of a group including a type II variation  or extension  application  or a worksharing  application).  Opinions are  issued for all  other procedures.
-
-2 A Commission  decision  (CD) is issued for procedures  that affect  the terms of the marketing  authorisation  (e.g.  summary of  product characteristics,  annex  II, labelling,  package  leaflet).  The CD is issued within two  months of  the opinion  for variations  falling  under the scope of  Article  23.1a(a)  of Regulation  (EU) No.  712/2012, or within  one year  for other procedures.
-
-3 SmPC  (Summary  of Product Characteristics),  Annex  II, Labelling,  PL (Package  Leaflet).
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Article 61(3) /      | Outcome: | 10/06/2026                          |                                             | PL                               |           |
 
 <!-- image -->
 
@@ -37,13 +32,12 @@ Procedural steps taken and scientific information after the authorisation
 
 <div style=\"page-break-after: always\"></div>
 
-| WS/2405            | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data                                                                                                                                                                                                                               | 25/05/2023   | 25/04/2024   | SmPC, Labelling and PL   |                                   |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------------------|-----------------------------------|
-| PSUSA/2266/ 202106 | Periodic Safety Update EU Single assessment - paliperidone                                                                                                                                                                                                                                                                                                                                                                                                                                    | 10/02/2022   | n/a          |                          | PRAC Recommendation - maintenance |
-| X/0002/G           | This was an application for a group of variations. Annex I_2.(c) Change or addition of a new strength/potency A.2.a - Administrative change - Change in the (invented) name of the medicinal product for CAPs C.I.7.b - Deletion of - a strength C.I.7.b - Deletion of - a strength C.I.7.b - Deletion of - a strength C.I.7.b - Deletion of - a strength C.I.7.b - Deletion of - a strength C.I.7.b - Deletion of - a strength A.7 - Administrative change - Deletion of manufacturing sites | 16/09/2021   | 22/11/2021   | SmPC, Labelling and PL   |                                   |
-| WS/1877            | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance                                                                                                                                                                                                                                    | 09/04/2021   | 22/11/2021   | SmPC and PL              |                                   |
+| EMA/N/0000348644    | - Notification acc. Article 61(3) - Accepted Update of package leaflet to include the text in section 5. 'This medicine does not require any special temperature storage conditions' to align it with the approved text in SmPC.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |            |                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IB / | Outcome: This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.a Minor change in the manufacturing process of the active substance - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.h Addition of an alternative sterilisation site for the active substance using a Ph.Eur. method - Accepted B.I.a.3 Change in batch size (including batch size ranges) of active substance or intermediate used in the manufacturing | 15/01/2026 | EMA/VR/0000308891 |
 
 <div style=\"page-break-after: always\"></div>
 
-| data   |
-|--------|
+|                     | Up to 10-fold increase compared to the originally approved batch size - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                   |            |                   |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IA / | Outcome: A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted | 08/12/2025 | EMA/VR/0000316846 |

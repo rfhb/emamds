@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-11 11:15:36
+document_datetime: 2026-06-12 13:37:45
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sugammadex-mylan-epar-product-information_en.pdf
 document_name: sugammadex-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 13.1752417
-conversion_datetime: 2025-12-15 19:31:48.847473
+processing_time: 19.2055474
+conversion_datetime: 2026-06-13 20:02:15.482741
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ Sugammadex Mylan 100 mg/mL solution for injection
 
 1 mL contains sugammadex sodium equivalent to 100 mg sugammadex. Each vial of 2 mL contains sugammadex sodium equivalent to 200 mg sugammadex. Each vial of 5 mL contains sugammadex sodium equivalent to 500 mg sugammadex.
 
-## Excipient(s) with known effect
+Excipient(s) with known effect
 
 Contains up to 9.2 mg/mL sodium (see section 4.4).
 
@@ -108,7 +108,7 @@ After administration of sugammadex at reappearance of T2 following a rocuronium 
 
 ## Obese patients:
 
-In obese patients, including morbidly obese patients (body mass index  40 kg/m 2 ), the dose of sugammadex should be based on actual body weight. The same dose recommendations as for adults should be followed.
+In obese patients, including morbidly obese patients (body mass index ≥ 40 kg/m 2 ), the dose of sugammadex should be based on actual body weight. The same dose recommendations as for adults should be followed.
 
 ## Hepatic impairment:
 
@@ -173,7 +173,7 @@ Waiting times for re-administration with neuromuscular blocking agents after rev
 
 Table 1: Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg/kg sugammadex):
 
-| Minimum waiting time   | NMBA and dose to be administered             |
+| Minimum waiting time   | NMBAand dose to be administered              |
 |------------------------|----------------------------------------------|
 | 5 minutes              | 1.2 mg/kg rocuronium                         |
 | 4 hours                | 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium |
@@ -202,19 +202,17 @@ In rare instances, marked bradycardia has been observed within minutes after the
 
 ## Hepatic impairment:
 
-Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted. Patients with severe hepatic impairment should be
+Sugammadex is not metabolised nor excreted by the liver; therefore dedicated studies in patients with hepatic impairment have not been conducted. Patients with severe hepatic impairment should be treated with great caution. In case hepatic impairment is accompanied by coagulopathy see the information on the effect on haemostasis.
 
 <div style=\"page-break-after: always\"></div>
-
-treated with great caution. In case hepatic impairment is accompanied by coagulopathy see the information on the effect on haemostasis.
 
 ## Use in Intensive Care Unit (ICU):
 
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
 
-## Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium:
+Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium: neuromuscular blocking
 
-Sugammadex should not be used to reverse block induced by nonsteroidal neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds.
+Sugammadex should not be used to reverse block induced by nonsteroidal agents such as succinylcholine or benzylisoquinolinium compounds.
 
 Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and safety data for these situations. Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.
 
@@ -266,7 +264,9 @@ When medicinal products which potentiate neuromuscular blockade are used in the 
 
 In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay. Interference with this test is observed at sugammadex plasma concentrations of 100 microgram/mL (peak plasma level following 8 mg/kg bolus injection).
 
-In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22% respectively. These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes). In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean
+
+prolongations of aPTT by 17 and 22% respectively and of PT(INR) by 11 and 22% respectively. These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes). In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
 
 ## Paediatric population
 
@@ -312,7 +312,7 @@ The safety of sugammadex has been evaluated in 3 519 unique subjects across a po
 
 ## Description of selected adverse reactions
 
-Drug hypersensitivity reactions:
+## Drug hypersensitivity reactions:
 
 Hypersensitivity reactions, including anaphylaxis, have occurred in some patients and volunteers (for information on volunteers, see Information on healthy volunteers below). In clinical trials of surgical patients these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
 
@@ -445,11 +445,9 @@ Table 5: Time (minutes) from administration of sugammadex or neostigmine at reap
 
 ## For immediate reversal:
 
-The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/kg) was compared
+The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/kg) was compared with sugammadex (16 mg/kg, 3 minutes later) - induced recovery from rocuronium-induced neuromuscular blockade (1.2 mg/kg).
 
 <div style=\"page-break-after: always\"></div>
-
-with sugammadex (16 mg/kg, 3 minutes later) - induced recovery from rocuronium-induced neuromuscular blockade (1.2 mg/kg).
 
 Table 6: Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10%
 
@@ -486,11 +484,9 @@ A trial of 288 patients aged 2 to &lt; 17 years investigated the safety and effi
 
 ## Birth to &lt; 2 years of age:
 
-A trial of 145 patients from birth to &lt; 2 years of age investigated the safety and efficacy of sugammadex versus neostigmine as a reversal agent for neuromuscular blockade induced by rocuronium or vecuronium. Time to neuromuscular recovery from moderate block was significantly
+A trial of 145 patients from birth to &lt; 2 years of age investigated the safety and efficacy of sugammadex versus neostigmine as a reversal agent for neuromuscular blockade induced by rocuronium or vecuronium. Time to neuromuscular recovery from moderate block was significantly faster (p=0.0002) in participants dosed with sugammadex 2 mg/kg compared with neostigmine (median of 1.4 minutes for sugammadex 2 mg/kg and 4.4 minutes for neostigmine; hazard ratio=2.40, 95% CI: 1.37, 4.18). Sugammadex 4 mg/kg achieved rapid neuromuscular recovery from deep block with a median of 1.1 minutes. These effects were consistent for all age cohorts studied (birth to 27 days; 28 days to &lt; 3 months; 3 months to &lt; 6 months and 6 months to &lt; 2 years). See section 4.2.
 
 <div style=\"page-break-after: always\"></div>
-
-faster (p=0.0002) in participants dosed with sugammadex 2 mg/kg compared with neostigmine (median of 1.4 minutes for sugammadex 2 mg/kg and 4.4 minutes for neostigmine; hazard ratio=2.40, 95% CI: 1.37, 4.18). Sugammadex 4 mg/kg achieved rapid neuromuscular recovery from deep block with a median of 1.1 minutes. These effects were consistent for all age cohorts studied (birth to 27 days; 28 days to &lt; 3 months; 3 months to &lt; 6 months and 6 months to &lt; 2 years). See section 4.2.
 
 ## Patients with severe systemic disease:
 
@@ -526,41 +522,41 @@ In a second study comparing subjects with moderate or severe renal impairment to
 
 Table 8: A summary of sugammadex pharmacokinetic parameters stratified by age and renal function is presented below:
 
-| Selected Patient Characteristics   | Selected Patient Characteristics           | Selected Patient Characteristics           | Selected Patient Characteristics           | Mean Predicted PKParameters (CV*%)   | Mean Predicted PKParameters (CV*%)         | Mean Predicted PKParameters (CV*%)   |
-|------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------|--------------------------------------------|--------------------------------------|
-| Demographics Age Body Weight       | Renal function Creatine clearance (mL/min) | Renal function Creatine clearance (mL/min) | Renal function Creatine clearance (mL/min) | Clearance (mL/min)                   | Volume of distribution at steady state (L) | Elimination half-life (h)            |
-| Adult                              | Normal                                     |                                            | 100                                        | 84 (26)                              | 13                                         | 2.2 (23)                             |
-| 40 years 75 kg                     | Impaired                                   | Mild                                       | 50                                         | 48 (28)                              | 15                                         | 4.1 (25)                             |
-| 40 years 75 kg                     | Impaired                                   | Moderate                                   | 30                                         | 29 (28)                              | 15                                         | 7.0 (26)                             |
-| 40 years 75 kg                     | Impaired                                   | Severe                                     | 10                                         | 8.9 (27)                             | 16                                         | 23 (27)                              |
-| Elderly                            | Normal                                     |                                            | 80                                         | 73 (27)                              | 13                                         | 2.6 (25)                             |
-| 75 years 75 kg                     | Impaired                                   | Mild                                       | 50                                         | 48 (27)                              | 15                                         | 4.1 (25)                             |
-| 75 years 75 kg                     | Impaired                                   | Moderate                                   | 30                                         | 29 (26)                              | 15                                         | 6.9 (25)                             |
-| 75 years 75 kg                     | Impaired                                   | Severe                                     | 10                                         | 8.9 (28)                             | 16                                         | 23 (27)                              |
-| Adolescent                         | Normal                                     |                                            | 95                                         | 71 (27)                              | 10                                         | 2.0(23)                              |
-| 15 years 56 kg                     | Impaired                                   | Mild                                       | 48                                         | 41 (28)                              | 11                                         | 3.8 (25)                             |
-| 15 years 56 kg                     | Impaired                                   | Moderate                                   | 29                                         | 25 (28)                              | 12                                         | 6.3 (25)                             |
-| 15 years 56 kg                     | Impaired                                   | Severe                                     | 9.5                                        | 7.4 (28)                             | 12                                         | 22 (28)                              |
-| Middle Childhood                   | Normal                                     |                                            | 60                                         | 39 (29)                              | 5.8                                        | 2.1 (24)                             |
-| 9 years 28 kg                      | Impaired                                   | Mild                                       | 30                                         | 21 (27)                              | 6.3                                        | 4.0 (25)                             |
-| 9 years 28 kg                      | Impaired                                   | Moderate                                   | 18                                         | 12 (28)                              | 6.5                                        | 6.8 (26)                             |
-| 9 years 28 kg                      | Impaired                                   | Severe                                     | 6.0                                        | 3.3 (28)                             | 6.7                                        | 25 (27)                              |
-| Early Childhood                    | Normal                                     |                                            | 37                                         | 22 (26)                              | 3.4                                        | 2.1 (24)                             |
-| 3.5 years 15 kg                    | Impaired                                   | Mild                                       | 18                                         | 11 (28)                              | 3.5                                        | 4.2 (25)                             |
-| 3.5 years 15 kg                    | Impaired                                   | Moderate                                   | 11                                         | 6.1 (27)                             | 3.6                                        | 7.6 (27)                             |
-| 3.5 years 15 kg                    | Impaired                                   | Severe                                     | 3.7                                        | 1.6 (27)                             | 3.7                                        | 28 (27)                              |
-| Toddler                            | Normal                                     |                                            | 28                                         | 16 (28)                              | 2.5                                        | 2.1 (24)                             |
-| 1.5 years 11 kg                    | Impaired                                   | Mild                                       | 14                                         | 7.6 (28)                             | 2.5                                        | 4.4 (26)                             |
-| 1.5 years 11 kg                    | Impaired                                   | Moderate                                   | 8.4                                        | 4.2 (28)                             | 2.6                                        | 7.9 (28)                             |
-| 1.5 years 11 kg                    | Impaired                                   | Severe                                     | 2.8                                        | 1.1 (27)                             | 2.6                                        | 29 (27)                              |
-| Infant                             | Normal                                     |                                            | 21                                         | 12 (28)                              | 1.8                                        | 2.2 (24)                             |
-| 6 months 7.9 kg                    | Impaired                                   | Mild                                       | 11                                         | 5.4 (27)                             | 1.9                                        | 4.6 (26)                             |
-| 6 months 7.9 kg                    | Impaired                                   | Moderate                                   | 6.4                                        | 2.9 (26)                             | 1.9                                        | 8.3 (26)                             |
-| 6 months 7.9 kg                    | Impaired                                   | Severe                                     | 2.1                                        | 0.76 (28)                            | 1.9                                        | 32 (27)                              |
-| Neonate                            | Normal                                     |                                            | 13                                         | 13 (28)                              | 1.1                                        | 1.3 (22)                             |
-| 15 days 3.8 kg                     | Impaired                                   | Mild                                       | 6.4                                        | 5.7 (26)                             | 1.1                                        | 2.7 (23)                             |
-| 15 days 3.8 kg                     | Impaired                                   | Moderate                                   | 3.9                                        | 3.1 (27)                             | 1.1                                        | 4.8 (26)                             |
-| 15 days 3.8 kg                     | Impaired                                   | Severe                                     | 1.3                                        | 0.77 (27)                            | 1.1                                        | 18 (26)                              |
+| Selected Patient Characteristics   | Selected Patient Characteristics           | Selected Patient Characteristics           | Selected Patient Characteristics           | Mean Predicted PK Parameters (CV*%)   | Mean Predicted PK Parameters (CV*%)        | Mean Predicted PK Parameters (CV*%)   |
+|------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------|--------------------------------------------|---------------------------------------|
+| Demographics Age Body Weight       | Renal function Creatine clearance (mL/min) | Renal function Creatine clearance (mL/min) | Renal function Creatine clearance (mL/min) | Clearance (mL/min)                    | Volume of distribution at steady state (L) | Elimination half-life (h)             |
+| Adult                              | Normal                                     |                                            | 100                                        | 84 (26)                               | 13                                         | 2.2 (23)                              |
+| 40 years 75 kg                     | Impaired                                   | Mild                                       | 50                                         | 48 (28)                               | 15                                         | 4.1 (25)                              |
+| 40 years 75 kg                     | Impaired                                   | Moderate                                   | 30                                         | 29 (28)                               | 15                                         | 7.0 (26)                              |
+| 40 years 75 kg                     | Impaired                                   | Severe                                     | 10                                         | 8.9 (27)                              | 16                                         | 23 (27)                               |
+| Elderly                            | Normal                                     |                                            | 80                                         | 73 (27)                               | 13                                         | 2.6 (25)                              |
+| 75 years 75 kg                     | Impaired                                   | Mild                                       | 50                                         | 48 (27)                               | 15                                         | 4.1 (25)                              |
+| 75 years 75 kg                     | Impaired                                   | Moderate                                   | 30                                         | 29 (26)                               | 15                                         | 6.9 (25)                              |
+| 75 years 75 kg                     | Impaired                                   | Severe                                     | 10                                         | 8.9 (28)                              | 16                                         | 23 (27)                               |
+| Adolescent                         | Normal                                     |                                            | 95                                         | 71 (27)                               | 10                                         | 2.0(23)                               |
+| 15 years 56 kg                     | Impaired                                   | Mild                                       | 48                                         | 41 (28)                               | 11                                         | 3.8 (25)                              |
+| 15 years 56 kg                     | Impaired                                   | Moderate                                   | 29                                         | 25 (28)                               | 12                                         | 6.3 (25)                              |
+| 15 years 56 kg                     | Impaired                                   | Severe                                     | 9.5                                        | 7.4 (28)                              | 12                                         | 22 (28)                               |
+| Middle Childhood                   | Normal                                     |                                            | 60                                         | 39 (29)                               | 5.8                                        | 2.1 (24)                              |
+| 9 years 28 kg                      | Impaired                                   | Mild                                       | 30                                         | 21 (27)                               | 6.3                                        | 4.0 (25)                              |
+| 9 years 28 kg                      | Impaired                                   | Moderate                                   | 18                                         | 12 (28)                               | 6.5                                        | 6.8 (26)                              |
+| 9 years 28 kg                      | Impaired                                   | Severe                                     | 6.0                                        | 3.3 (28)                              | 6.7                                        | 25 (27)                               |
+| Early Childhood                    | Normal                                     |                                            | 37                                         | 22 (26)                               | 3.4                                        | 2.1 (24)                              |
+| 3.5 years 15 kg                    | Impaired                                   | Mild                                       | 18                                         | 11 (28)                               | 3.5                                        | 4.2 (25)                              |
+| 3.5 years 15 kg                    | Impaired                                   | Moderate                                   | 11                                         | 6.1 (27)                              | 3.6                                        | 7.6 (27)                              |
+| 3.5 years 15 kg                    | Impaired                                   | Severe                                     | 3.7                                        | 1.6 (27)                              | 3.7                                        | 28 (27)                               |
+| Toddler                            | Normal                                     |                                            | 28                                         | 16 (28)                               | 2.5                                        | 2.1 (24)                              |
+| 1.5 years 11 kg                    | Impaired                                   | Mild                                       | 14                                         | 7.6 (28)                              | 2.5                                        | 4.4 (26)                              |
+| 1.5 years 11 kg                    | Impaired                                   | Moderate                                   | 8.4                                        | 4.2 (28)                              | 2.6                                        | 7.9 (28)                              |
+| 1.5 years 11 kg                    | Impaired                                   | Severe                                     | 2.8                                        | 1.1 (27)                              | 2.6                                        | 29 (27)                               |
+| Infant                             | Normal                                     |                                            | 21                                         | 12 (28)                               | 1.8                                        | 2.2 (24)                              |
+| 6 months 7.9 kg                    | Impaired                                   | Mild                                       | 11                                         | 5.4 (27)                              | 1.9                                        | 4.6 (26)                              |
+| 6 months 7.9 kg                    | Impaired                                   | Moderate                                   | 6.4                                        | 2.9 (26)                              | 1.9                                        | 8.3 (26)                              |
+| 6 months 7.9 kg                    | Impaired                                   | Severe                                     | 2.1                                        | 0.76 (28)                             | 1.9                                        | 32 (27)                               |
+| Neonate                            | Normal                                     |                                            | 13                                         | 13 (28)                               | 1.1                                        | 1.3 (22)                              |
+| 15 days 3.8 kg                     | Impaired                                   | Mild                                       | 6.4                                        | 5.7 (26)                              | 1.1                                        | 2.7 (23)                              |
+| 15 days 3.8 kg                     | Impaired                                   | Moderate                                   | 3.9                                        | 3.1 (27)                              | 1.1                                        | 4.8 (26)                              |
+| 15 days 3.8 kg                     | Impaired                                   | Severe                                     | 1.3                                        | 0.77 (27)                             | 1.1                                        | 18 (26)                               |
 
 *CV=coefficient of variation
 
@@ -638,7 +634,13 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1583/001 EU/1/21/1583/002 EU/1/21/1583/003 EU/1/21/1583/004
+EU/1/21/1583/001
+
+EU/1/21/1583/002
+
+EU/1/21/1583/003
+
+EU/1/21/1583/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -667,7 +669,7 @@ Viatris Santé 1 rue de Turin 69007 Lyon France
 
 Eurofins BioPharma Product testing Budapest Kft Anonymus Utca 6, Kerulet, Budapest IV, 1045 Hungary
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg Hesse 61352 Germany
+Viatris Germany GmbH Benzstrasse 1 Bad Homburg Hesse 61352 Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -778,17 +780,17 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1583/003 EU/1/21/1583/004
+EU/1/21/1583/003
+
+EU/1/21/1583/004
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -798,23 +800,25 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL, 1 x 5 mL and 10 x 5 mL                                 |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL, 1 x 5 mLand 10 x 5mL                                 |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Sugammadex Mylan 100 mg/mL injection sugammadex IV
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -826,15 +830,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 500 mg/5 mL
 
 | 6.   | OTHER   |
 |------|---------|
-
-23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -894,7 +896,7 @@ After first opening and dilution, store at 2-8 °C and use within 24 hours.
 
 Store below 30 °C. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard any unused solution.
 
@@ -912,17 +914,17 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1583/001 EU/1/21/1583/002
+EU/1/21/1583/001
+
+EU/1/21/1583/002
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -932,23 +934,25 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL, 1 x 2 mL and 10 x 2 mL vials                           |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL, 1 x 2 mLand 10 x 2 mLvials                           |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Sugammadex Mylan 100 mg/mL injection sugammadex IV
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -960,15 +964,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 200 mg/2 mL
 
 | 6.   | OTHER   |
 |------|---------|
-
-26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -978,7 +980,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Sugammadex Mylan 100 mg/mL solution for injection sugammadex
+## Sugammadex Mylan 100 mg/mL solution for injection
+
+## sugammadex
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1051,11 +1055,9 @@ In general, Sugammadex Mylan does not have an effect on laboratory tests. Howeve
 
 ## Pregnancy and breast-feeding
 
-Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding.
+Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding. You may still be given Sugammadex Mylan, but you need to discuss it first. It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide
 
-You may still be given Sugammadex Mylan, but you need to discuss it first.
-
-It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugamadex Mylan to the mother.
+whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugamadex Mylan to the mother.
 
 ## Driving and using machines
 
@@ -1155,13 +1157,13 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-Viatris Santé 1 rue de Turin 69007 Lyon
-
-France
+Viatris Santé 1 rue de Turin 69007 Lyon France
 
 Eurofins BioPharma Product testing Budapest Kft Anonymus Utca 6, Kerulet, Budapest IV, 1045 Hungary
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg 61352 Hesse Germany
+Viatris Germany GmbH
+
+Benzstrasse 1 Bad Homburg 61352 Hesse Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1171,7 +1173,7 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-## Lietuva
+Lietuva
 
 Viatris UAB
 
@@ -1179,9 +1181,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1227,7 +1231,9 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd.
 
-Τηλ: +30 2100 100 002
+Τηλ:
+
++30 2100 100 002
 
 ## España
 
@@ -1269,7 +1275,9 @@ Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
@@ -1432,17 +1440,15 @@ An increased risk of bleeding cannot be excluded in patients:
 - on coumarin derivates and at an INR above 3.5;
 - using anticoagulants who receive a dose of 16 mg/kg sugammadex.
 
-If there is a medical need to give sugammadex to these patients the anaesthesiologist needs to decide if
+If there is a medical need to give sugammadex to these patients the anaesthesiologist needs to decide if the benefits outweigh the possible risk of bleeding complications taking into consideration the patients history of bleeding episodes and type of surgery scheduled. If sugammadex is administered to these patients monitoring of haemostasis and coagulation parameters is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-the benefits outweigh the possible risk of bleeding complications taking into consideration the patients history of bleeding episodes and type of surgery scheduled. If sugammadex is administered to these patients monitoring of haemostasis and coagulation parameters is recommended.
 
 Waiting times for re-administration with neuromuscular blocking agents after reversal with sugammadex:
 
 Table 1: Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg/kg sugammadex):
 
-| Minimum waiting time   | NMBA and dose to be administered             |
+| Minimum waiting time   | NMBAand dose to be administered              |
 |------------------------|----------------------------------------------|
 | 5 minutes              | 1.2 mg/kg rocuronium                         |
 | 4 hours                | 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium |
@@ -1517,11 +1523,9 @@ For toremifene, which has a relatively high binding affinity for sugammadex and 
 
 ## Intravenous administration of fusidic acid:
 
-The use of fusidic acid in the pre-operative phase may give some delay in the recovery of the T4/T1 ratio to 0.9. No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative
+The use of fusidic acid in the pre-operative phase may give some delay in the recovery of the T4/T1 ratio to 0.9. No recurrence of neuromuscular blockade is expected in the post-operative phase, since the infusion rate of fusidic acid is over a period of several hours and the blood levels are cumulative over 2-3 days. For re-administration of sugammadex see SmPC, section 4.2.
 
 <div style=\"page-break-after: always\"></div>
-
-over 2-3 days. For re-administration of sugammadex see SmPC, section 4.2.
 
 Interactions potentially affecting the efficacy of other medicinal products (capturing interactions): Due to the administration of sugammadex, certain medicinal products could become less effective due to a lowering of the (free) plasma concentrations. If such a situation is observed, the clinician is advised to consider the re-administration of the medicinal product, the administration of a therapeutically equivalent medicinal product (preferably from a different chemical class) and/or non-pharmacological interventions as appropriate.
 
@@ -1537,9 +1541,7 @@ When medicinal products which potentiate neuromuscular blockade are used in the 
 
 ## Pregnancy
 
-For sugammadex no clinical data on exposed pregnancies are available. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development.
-
-Caution should be exercised when administering sugammadex to pregnant women.
+For sugammadex no clinical data on exposed pregnancies are available. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development. Caution should be exercised when administering sugammadex to pregnant women.
 
 ## Breast-feeding
 
@@ -1571,13 +1573,15 @@ The safety of sugammadex has been evaluated in 3 519 unique subjects across a po
 
 ## Description of selected adverse reactions
 
-Drug hypersensitivity reactions:
+## Drug hypersensitivity reactions:
 
 Hypersensitivity reactions, including anaphylaxis, have occurred in some patients and volunteers (for information on volunteers, see Information on healthy volunteers below). In clinical trials of surgical patients these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
 
-These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex. Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary obstructive events. Severe hypersensitivity reactions can be fatal.
+These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex. hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary
 
-In post-marketing reports, hypersensitivity has been observed for sugammadex as well as for sugammadex-rocuronium complex.
+Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) obstructive events. Severe hypersensitivity reactions can be fatal. In post-marketing reports, hypersensitivity has been observed for sugammadex as well as for
+
+sugammadex-rocuronium complex.
 
 ## Airway complication of anaesthesia:
 

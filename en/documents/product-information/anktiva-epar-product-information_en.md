@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-13 13:17:26
+document_datetime: 2026-06-12 09:08:03
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/anktiva-epar-product-information_en.pdf
 document_name: anktiva-epar-product-information_en.pdf
 version: success
-processing_time: 5.6974236
-conversion_datetime: 2026-03-17 19:27:45.739104
+processing_time: 6.1992594
+conversion_datetime: 2026-06-13 20:24:50.354909
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -138,11 +138,9 @@ No interaction studies have been performed.
 
 ## 4.6 Fertility, pregnancy, and lactation
 
-Women of childbearing potential / contraception
+Women of childbearing potential / contraception Women of childbearing potential have to use effective contraception during treatment and for 1 week after the last dose.
 
 <div style=\"page-break-after: always\"></div>
-
-Women of childbearing potential have to use effective contraception during treatment and for 1 week after the last dose.
 
 ## Pregnancy
 
@@ -303,11 +301,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Animal reproduction studies have not been conducted with ANKTIVA. The IL-15 pathway is thought to be involved in maintaining tolerance to the foetus during pregnancy. A secondary signaling mechanism of IL-15 has been shown in murine models of pregnancy to increase uterine natural killer cells. This produces interferon-gamma (IFNγ), which disrupts maternal tolerance to the foetus and has been shown to result in an increase in embryofoetal loss.
 
-Animal fertility studies have not been conducted with nogapendekin alfa inbakicept (ANKTIVA). In a 13-week and 1-month repeat-dose toxicology study in rats and monkeys, respectively, there were no
+Animal fertility studies have not been conducted with nogapendekin alfa inbakicept (ANKTIVA). In a 13-week and 1-month repeat-dose toxicology study in rats and monkeys, respectively, there were no notable effects in the male and female reproductive organs. However, the monkeys were not sexually mature.
 
 <div style=\"page-break-after: always\"></div>
-
-notable effects in the male and female reproductive organs. However, the monkeys were not sexually mature.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -366,7 +362,7 @@ Standard precautions of personal protective equipment are the same as BCG. No pr
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ImmunityBio Ireland Limited 6th Floor, 2 Grand Canal Square Dublin 2, Ireland, D02 A342
+ImmunityBio Ireland Limited 15 Merrion Square North Dublin 2, Ireland, D02 YN15
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -396,7 +392,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-AGC Biologics, Inc. 2 2 1 0 2 20th Street SE (Building 2) Bothell, WA 98021 United States of America
+AGC Biologics, Inc. 2210 220th Street SE (Building 2) Bothell, WA 98021 United States of America
 
 Name and address of the manufacturer responsible for batch release
 
@@ -502,11 +498,13 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ImmunityBio Ireland Limited 6th Floor, 2 Grand Canal Square Dublin 2, Ireland, D02 A342
+ImmunityBio Ireland Limited 15 Merrion Square North
+
+Dublin 2, Ireland, D02 YN15
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -517,6 +515,7 @@ EU/1/25/2002/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -768,7 +767,7 @@ ImmunityBio Ireland Limited
 
 <div style=\"page-break-after: always\"></div>
 
-6th Floor, 2 Grand Canal Square Dublin 2, Ireland, D02 A342
+## 15 Merrion Square North Dublin 2, Ireland, D02 YN15
 
 ## Manufacturer
 

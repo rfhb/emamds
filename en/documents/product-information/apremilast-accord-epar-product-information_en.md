@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-20 16:47:50
+document_datetime: 2026-06-12 09:34:00
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf
 document_name: apremilast-accord-epar-product-information_en.pdf
 version: success
-processing_time: 20.0156133
-conversion_datetime: 2026-03-21 13:28:26.244878
+processing_time: 21.6414121
+conversion_datetime: 2026-06-13 20:24:29.357661
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -311,11 +311,9 @@ Please see additional warning in section 4.4 for patients who are underweight at
 
 ## Special populations
 
-Elderly patients
+Elderly patients From postmarketing experience, elderly patients ≥ 65 years of age may be at a higher risk of complications of severe diarrhoea, nausea and vomiting (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-From postmarketing experience, elderly patients ≥ 65 years of age may be at a higher risk of complications of severe diarrhoea, nausea and vomiting (see section 4.4).
 
 ## Patients with hepatic impairment
 
@@ -349,11 +347,9 @@ Apremilast, an oral small-molecule inhibitor of phosphodiesterase 4 (PDE4), work
 
 ## Pharmacodynamic effects
 
-In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional
+In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
 
 <div style=\"page-break-after: always\"></div>
-
-skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
 
 Apremilast administered at doses of up to 50 mg twice daily did not prolong the QT interval in healthy subjects.
 
@@ -399,7 +395,7 @@ Responses observed in the apremilast treated group were similar in patients rece
 
 Similar ACR responses were observed in patients with different PsA subtypes, including DIP. The number of patients with arthritis mutilans and predominant spondylitis subtypes was too small to allow meaningful assessment.
 
-In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvement s were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
+In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvements were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
 
 At weeks 16 and 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) and in the skin manifestations of psoriasis were seen in the apremilast-treated patients. Among patients who remained on the apremilast treatment to which they were randomised at study start, these improvements were maintained through week 52.
 
@@ -419,11 +415,9 @@ Improved physical function as assessed by the HAQ-DI and the SF36v2PF domain, an
 
 The safety and efficacy of apremilast were evaluated in two multicentre, randomised, double-blind, placebo-controlled studies (Studies ESTEEM 1 and ESTEEM 2) which enrolled a total of 1 257 patients with moderate to severe plaque psoriasis who had a body surface area (BSA) involvement of ≥ 10%, Psoriasis Area and Severity Index (PASI) score ≥ 12, static Physician Global Assessment (sPGA) of ≥ 3 (moderate or severe), and who were candidate s for phototherapy or systemic therapy.
 
-These studies had a similar design through week 32. In both studies, patients were randomised 2:1 to apremilast 30 mg twice daily or placebo for 16 weeks (placebo-controlled phase) and from weeks 1632, all patients received apremilast 30 mg twice daily (maintenance phase). During the Randomised
+These studies had a similar design through week 32. In both studies, patients were randomised 2:1 to apremilast 30 mg twice daily or placebo for 16 weeks (placebo-controlled phase) and from weeks 1632, all patients received apremilast 30 mg twice daily (maintenance phase). During the Randomised Treatment Withdrawal Phase (weeks 32-52), patients originally randomised to apremilast who achieved at least a 75% reduction in their PASI score (PASI-75) (ESTEEM 1) or a 50% reduction in their PASI score (PASI-50) (ESTEEM 2) were re-randomised at week 32 to either placebo or apremilast 30 mg twice daily. Patients who were re-randomised to placebo and who lost PASI-75 response (ESTEEM 1) or lost 50% of the PASI improvement at week 32 compared to baseline (ESTEEM 2) were retreated with apremilast 30 mg twice daily. Patients who did not achieve the designated PASI response by week 32, or who were initially randomised to placebo, remained on apremilast until week 52. The use of low potency topical corticosteroids on the face, axillae, and groin, coal tar shampoo and/or salicylic acid scalp preparations was permitted throughout the studies. In addition, at week 32, subjects who did not achieve a PASI-75 response in ESTEEM 1, or a PASI-50 response in ESTEEM 2, were permitted to use topical psoriasis therapies and/or phototherapy in addition to apremilast 30 mg twice daily treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-Treatment Withdrawal Phase (weeks 32-52), patients originally randomised to apremilast who achieved at least a 75% reduction in their PASI score (PASI-75) (ESTEEM 1) or a 50% reduction in their PASI score (PASI-50) (ESTEEM 2) were re-randomised at week 32 to either placebo or apremilast 30 mg twice daily. Patients who were re-randomised to placebo and who lost PASI-75 response (ESTEEM 1) or lost 50% of the PASI improvement at week 32 compared to baseline (ESTEEM 2) were retreated with apremilast 30 mg twice daily. Patients who did not achieve the designated PASI response by week 32, or who were initially randomised to placebo, remained on apremilast until week 52. The use of low potency topical corticosteroids on the face, axillae, and groin, coal tar shampoo and/or salicylic acid scalp preparations was permitted throughout the studies. In addition, at week 32, subjects who did not achieve a PASI-75 response in ESTEEM 1, or a PASI-50 response in ESTEEM 2, were permitted to use topical psoriasis therapies and/or phototherapy in addition to apremilast 30 mg twice daily treatment.
 
 Following 52 weeks of treatment, patients could continue on open-label apremilast 30 mg within the long-term extension of the ESTEEM 1 and ESTEEM 2 studies for a total duration of treatment up to 5 years (260 weeks).
 
@@ -511,11 +505,9 @@ A multicentre, randomised, double blind, placebo- controlled trial (SPROUT) was 
 
 Subjects were randomised 2:1 to receive either apremilast (n = 163) or placebo (n = 82) for 16 weeks. Subjects with a baseline weight of 20 kg to &lt; 50 kg received apremilast 20 mg twice daily or placebo twice daily, and subjects with a baseline weight ≥ 50 kg received apremilast 30 mg twice daily or placebo twice daily. At week 16, the placebo group was switched to receive apremilast (with dose based on baseline weight) and the apremilast group remained on drug (according to their original dosing assignment) through week 52. Subjects were allowed to use low-potency or weak topical corticosteroids on the face, axilla, and groin and unmedicated skin moisturizers for body lesions only.
 
-The primary endpoint was the proportion of subjects who achieved an sPGA response (defined as a score of clear [0] or almost clear [1] with at least a 2-point reduction from baseline) at week 16. The
+The primary endpoint was the proportion of subjects who achieved an sPGA response (defined as a score of clear [0] or almost clear [1] with at least a 2-point reduction from baseline) at week 16. The key secondary endpoint was the proportion of subjects who achieved a PASI-75 response (at least a 75% reduction in PASI score from baseline) at week 16. Other endpoints at week 16 included the proportions of subjects who achieved a PASI-50 response (at least 50% reduction in PASI score from baseline), PASI-90 response (at least 90% reduction in PASI score from baseline), and Children's Dermatology Life Quality Index (CDLQI) response (CDLQI total score of 0 or 1), percent change from baseline in affected BSA, change from baseline in PASI score, and change from baseline in the CDLQI total score.
 
 <div style=\"page-break-after: always\"></div>
-
-key secondary endpoint was the proportion of subjects who achieved a PASI-75 response (at least a 75% reduction in PASI score from baseline) at week 16. Other endpoints at week 16 included the proportions of subjects who achieved a PASI-50 response (at least 50% reduction in PASI score from baseline), PASI-90 response (at least 90% reduction in PASI score from baseline), and Children's Dermatology Life Quality Index (CDLQI) response (CDLQI total score of 0 or 1), percent change from baseline in affected BSA, change from baseline in PASI score, and change from baseline in the CDLQI total score.
 
 Enrolled subjects ranged in age from 6 to 17 years, with a median age of 13 years; 41.2% of subjects were 6 to 11 years of age and 58.8% of subjects were 12 to 17 years of age. The mean baseline BSA involvement was 31.5% (median 26.0%), the mean baseline PASI score was 19.8 (median 17.2), and the proportions of subjects with an sPGA score of 3 (moderate) and 4 (severe) at baseline were 75.5% and 24.5%, respectively. Of the enrolled subjects, 82.9% did not receive prior conventional systemic therapy, 82.4% did not receive prior phototherapy and 94.3% were biologic-naïve.
 
@@ -610,7 +602,7 @@ Time (weeks)
 | Weeks                | 0124681012 16                                                          | 28       | 40       | 52       | 64 Follow-up      |
 |----------------------|------------------------------------------------------------------------|----------|----------|----------|-------------------|
 | Placebo, n (Mean)    | 1039697939186 83 82 83 (3.9)2.9)(2.8X2.3) (2.5) (2.2) (1.9)(2.0) (0.7) | 7B (0.8) | 73 (0.7) | 70 (1.1) | 67 82 (0.8) (2.0) |
-| APR 30 BID, n (Mean) | 104 101 101 101 98 6 97 95 (）（0）(z）（91）（XX） (0.9)                      | 92 (60)  | 85 (0.9) | 79 (0.9) | 75 85 (1.4) (2.5) |
+| APR 30 BID, n (Mean) | 104 101 101 101 98 6 97 95 (）（0）(z）（91）（XX） (0.9)              | 92 (60)  | 85 (0.9) | 79 (0.9) | 75 85 (1.4) (2.5) |
 
 ITT = Intent To Treat; DAO = Data As Observed.
 
@@ -759,7 +751,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -978,7 +970,9 @@ Apremilast Accord 10 mg film-coated tablets
 
 Apremilast Accord 20 mg film-coated tablets
 
-Apremilast Accord 30 mg film-coated tablets apremilast
+Apremilast Accord 30 mg film-coated tablets
+
+apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1645,11 +1639,9 @@ Children and adolescents 6 years of age and older
 
 - The Apremilast Accord dose will be based on body weight.
 
-For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Apremilast Accord is 20 mg twice a day, after the titration phase is completed, as shown in the table below - one 20 mg
+For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Apremilast Accord is 20 mg twice a day, after the titration phase is completed, as shown in the table below - one 20 mg dose in the morning and one 20 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 40 mg.
 
 <div style=\"page-break-after: always\"></div>
-
-dose in the morning and one 20 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 40 mg.
 
 |               | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   |
 |---------------|--------------------------------------|--------------------------------------|--------------------------------------|

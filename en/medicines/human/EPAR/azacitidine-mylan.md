@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:38:52
+document_datetime: 2026-06-12 11:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-mylan.html
 document_name: azacitidine-mylan.html
 version: success
-processing_time: 0.1253758
-conversion_datetime: 2025-12-30 02:14:36.532745
+processing_time: 0.1607882
+conversion_datetime: 2026-06-13 19:45:31.636153
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Azacitidine Mylan
 
 [RSS](/en/individual-human-medicine.xml/67283)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-azacitidine Medicine Human Authorised
+azacitidine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,7 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Azacitidine Mylan](#news-on)
-- [Related content](#related-content-1582)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-86905)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -56,13 +56,13 @@ Azacitidine Mylan is used for the treatment of adults with the following disease
 
 Azacitidine Mylan contains the active substance azacitidine.
 
-Azacitidine Mylan is a 'generic medicine'. This means that Azacitidine Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Vidaza. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Azacitidine Mylan is a 'generic medicine'. This means that Azacitidine Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Vidaza.
 
 Expand section
 
 Collapse section
 
-## How is Azacitidine Mylan used?
+### How is Azacitidine Mylan used?
 
 Azacitidine Mylan can only be obtained with a prescription and treatment should be started and monitored under the supervision of a doctor experienced in the use of cancer medicines. Before receiving Azacitidine Mylan, patients should receive medicines to prevent nausea (feeling sick) and vomiting.
 
@@ -70,31 +70,31 @@ The recommended dose of Azacitidine Mylan depends on the patient's height and we
 
 For more information about using Azacitidine Mylan, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Azacitidine Mylan work?
+### How does Azacitidine Mylan work?
 
 The active substance in Azacitidine Mylan, azacitidine, belongs to the group 'anti?metabolites'. Azacitidine is an analogue of cytidine, which means that it is incorporated into the genetic material of cells (RNA and DNA). It is thought to work by changing the way the cell turns genes on and off and by interfering with the production of new RNA and DNA. These actions are expected to correct problems with the development of blood cells in the bone marrow that cause myelodysplastic disorders, and to kill cancerous cells in leukaemia.
 
-## How has Azacitidine Mylan been studied?
+### How has Azacitidine Mylan been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Vidaza, and do not need to be repeated for Azacitidine Mylan.
 
 As for every medicine, the company provided studies on the quality of Azacitidine Mylan. There was no need for 'bioequivalence' studies to investigate whether Azacitidine Mylan is absorbed similarly to the reference medicine to produce the same level of the active substance in the blood. This is because the composition of Azacitidine Mylan is the same as that of the reference medicine and, when given by injection under the skin, the active substance in both products is expected to be absorbed in the same way.
 
-## What are the benefits and risks of Azacitidine Mylan?
+### What are the benefits and risks of Azacitidine Mylan?
 
 Because Azacitidine Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Azacitidine Mylan authorised in the EU?
+### Why is Azacitidine Mylan authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Azacitidine Mylan has been shown to be comparable to Vidaza. Therefore, the Agency's view was that, as for Vidaza, the benefits of Azacitidine Mylan outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Azacitidine Mylan?
+### What measures are being taken to ensure the safe and effective use of Azacitidine Mylan?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Azacitidine Mylan have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Azacitidine Mylan are continuously monitored. Side effects reported with Azacitidine Mylan are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Azacitidine Mylan
+### Other information about Azacitidine Mylan
 
 Azacitidine Mylan received a marketing authorisation valid throughout the EU on 27 March 2020.
 
@@ -108,181 +108,137 @@ English (EN) (171.01 KB - PDF)
 
 [View](/en/documents/overview/azacitidine-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-642)
+[Other languages (22)](#file-language-dropdown-572)
 
 български (BG) (193.6 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/bg/documents/overview/azacitidine-mylan-epar-medicine-overview_bg.pdf)
 
 español (ES) (170.53 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/es/documents/overview/azacitidine-mylan-epar-medicine-overview_es.pdf)
 
 čeština (CS) (192.22 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/cs/documents/overview/azacitidine-mylan-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (169.4 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/da/documents/overview/azacitidine-mylan-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (173.49 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/de/documents/overview/azacitidine-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (158.88 KB - PDF)
+eesti (ET) (158.88 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/et/documents/overview/azacitidine-mylan-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (193.87 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/el/documents/overview/azacitidine-mylan-epar-medicine-overview_el.pdf)
 
 français (FR) (171.91 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/fr/documents/overview/azacitidine-mylan-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (190.48 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/hr/documents/overview/azacitidine-mylan-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (169.41 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/it/documents/overview/azacitidine-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (208.46 KB - PDF)
+latviešu (LV) (208.46 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/lv/documents/overview/azacitidine-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (192.2 KB - PDF)
+lietuvių (LT) (192.2 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/lt/documents/overview/azacitidine-mylan-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (192.31 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/hu/documents/overview/azacitidine-mylan-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (193.51 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/mt/documents/overview/azacitidine-mylan-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (170.08 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/nl/documents/overview/azacitidine-mylan-epar-medicine-overview_nl.pdf)
 
 polski (PL) (194.38 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/pl/documents/overview/azacitidine-mylan-epar-medicine-overview_pl.pdf)
 
 português (PT) (170.91 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/pt/documents/overview/azacitidine-mylan-epar-medicine-overview_pt.pdf)
 
 română (RO) (189.9 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/ro/documents/overview/azacitidine-mylan-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (192 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sk/documents/overview/azacitidine-mylan-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (191.01 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sl/documents/overview/azacitidine-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (167.35 KB - PDF)
+suomi (FI) (167.35 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/fi/documents/overview/azacitidine-mylan-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (169.16 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sv/documents/overview/azacitidine-mylan-epar-medicine-overview_sv.pdf)
 
@@ -298,305 +254,161 @@ English (EN) (82.46 KB - PDF)
 
 Azacitidine Mylan : EPAR - Product information
 
-English (EN) (479.97 KB - PDF)
+English (EN) (440.21 KB - PDF)
 
-**First published:** 06/04/2020
-
-**Last updated:** 12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/en/documents/product-information/azacitidine-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-259)
+[Other languages (24)](#file-language-dropdown-908)
 
-български (BG) (669.71 KB - PDF)
+български (BG) (613.62 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/bg/documents/product-information/azacitidine-mylan-epar-product-information_bg.pdf)
 
-español (ES) (486.95 KB - PDF)
+español (ES) (633.6 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/es/documents/product-information/azacitidine-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (557.42 KB - PDF)
+čeština (CS) (520.95 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/cs/documents/product-information/azacitidine-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (546.57 KB - PDF)
+dansk (DA) (444.8 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/da/documents/product-information/azacitidine-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (483.5 KB - PDF)
+Deutsch (DE) (506.43 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/de/documents/product-information/azacitidine-mylan-epar-product-information_de.pdf)
 
-eesti keel (ET) (509.16 KB - PDF)
+eesti (ET) (414.95 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/et/documents/product-information/azacitidine-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (366.18 KB - PDF)
+ελληνικά (EL) (567.84 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/el/documents/product-information/azacitidine-mylan-epar-product-information_el.pdf)
 
-français (FR) (486.97 KB - PDF)
+français (FR) (482.84 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/fr/documents/product-information/azacitidine-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (609.79 KB - PDF)
+hrvatski (HR) (463.63 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/hr/documents/product-information/azacitidine-mylan-epar-product-information_hr.pdf)
 
-íslenska (IS) (556.31 KB - PDF)
+italiano (IT) (460.33 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
-
-[View](/is/documents/product-information/azacitidine-mylan-epar-product-information_is.pdf)
-
-italiano (IT) (559.1 KB - PDF)
-
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/it/documents/product-information/azacitidine-mylan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (542.21 KB - PDF)
+latviešu (LV) (538.74 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/lv/documents/product-information/azacitidine-mylan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (302.65 KB - PDF)
+lietuvių (LT) (466.57 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/lt/documents/product-information/azacitidine-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (687.73 KB - PDF)
+magyar (HU) (715.67 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/hu/documents/product-information/azacitidine-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (507.88 KB - PDF)
+Malti (MT) (538.95 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/mt/documents/product-information/azacitidine-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (592.43 KB - PDF)
+Nederlands (NL) (490.55 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/nl/documents/product-information/azacitidine-mylan-epar-product-information_nl.pdf)
 
-norsk (NO) (528.19 KB - PDF)
+polski (PL) (537.84 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
-
-[View](/no/documents/product-information/azacitidine-mylan-epar-product-information_no.pdf)
-
-polski (PL) (650.71 KB - PDF)
-
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/pl/documents/product-information/azacitidine-mylan-epar-product-information_pl.pdf)
 
-português (PT) (452.96 KB - PDF)
+português (PT) (468.23 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/pt/documents/product-information/azacitidine-mylan-epar-product-information_pt.pdf)
 
-română (RO) (583.67 KB - PDF)
+română (RO) (556.27 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/ro/documents/product-information/azacitidine-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (815.03 KB - PDF)
+slovenčina (SK) (916.36 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/sk/documents/product-information/azacitidine-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (402.92 KB - PDF)
+slovenščina (SL) (441.61 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/sl/documents/product-information/azacitidine-mylan-epar-product-information_sl.pdf)
 
-Suomi (FI) (523.77 KB - PDF)
+suomi (FI) (432.19 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/fi/documents/product-information/azacitidine-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (523.89 KB - PDF)
+svenska (SV) (423.4 KB - PDF)
 
-**First published:**
-
-06/04/2020
-
-**Last updated:**
-
-12/12/2025
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
 
 [View](/sv/documents/product-information/azacitidine-mylan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000317191 12/12/2025
+Íslenska (IS) (446.8 KB - PDF)
+
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
+
+[View](/is/documents/product-information/azacitidine-mylan-epar-product-information_is.pdf)
+
+norsk (NO) (453.99 KB - PDF)
+
+**First published:** 06/04/2020 **Last updated:** 12/06/2026
+
+[View](/no/documents/product-information/azacitidine-mylan-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000326802
+
+08/06/2026
 
 icon globe
 
@@ -620,209 +432,175 @@ English (EN) (13.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-562)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (52.26 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/bg/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (14.73 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/es/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (48.12 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/cs/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (26.52 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/da/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (21.22 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/de/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (14.07 KB - PDF)
+eesti (ET) (14.07 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/et/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.57 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/el/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (28.43 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/fr/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31.77 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/hr/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (11.55 KB - PDF)
-
-**First published:**
-
-06/04/2020
-
-[View](/is/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (13.94 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/it/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (49.01 KB - PDF)
+latviešu (LV) (49.01 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/lv/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.96 KB - PDF)
+lietuvių (LT) (27.96 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/lt/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (28.5 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/hu/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (47.89 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/mt/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (14.32 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/nl/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (13.4 KB - PDF)
-
-**First published:**
-
-06/04/2020
-
-[View](/no/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (48.54 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/pl/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (14.43 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/pt/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.34 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/ro/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (48.76 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sk/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (45.3 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sl/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (11.19 KB - PDF)
+suomi (FI) (11.19 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/fi/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (13.43 KB - PDF)
 
-**First published:**
-
-06/04/2020
+**First published:** 06/04/2020
 
 [View](/sv/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (11.55 KB - PDF)
+
+**First published:** 06/04/2020
+
+[View](/is/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (13.4 KB - PDF)
+
+**First published:** 06/04/2020
+
+[View](/no/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Azacitidine Mylan Active substance azacitidine International non-proprietary name (INN) or common name azacitidine Therapeutic area (MeSH)
+Name of medicine
+
+Azacitidine Mylan
+
+Active substance
+
+azacitidine
+
+International non-proprietary name (INN) or common name
+
+azacitidine
+
+Therapeutic area (MeSH)
 
 - Myelodysplastic Syndromes
 - Leukemia, Myelomonocytic, Chronic
 - Leukemia, Myeloid, Acute
 
-Anatomical therapeutic chemical (ATC) code L01BC07
+Anatomical therapeutic chemical (ATC) code
+
+L01BC07
 
 ### Pharmacotherapeutic group
 
@@ -839,7 +617,9 @@ Azacitidine Mylan is indicated for the treatment of adult patients who are not e
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004984
+EMA product number
+
+EMEA/H/C/004984
 
 Generic
 
@@ -851,7 +631,17 @@ Mylan Pharmaceuticals Limited
 
 Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 30/01/2020 Marketing authorisation issued 27/03/2020 Revision 11
+Opinion adopted
+
+30/01/2020
+
+Marketing authorisation issued
+
+27/03/2020
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -859,15 +649,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Azacitidine Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.06 KB - PDF)
+English (EN) (137.05 KB - PDF)
 
-**First published:** 08/04/2025
-
-**Last updated:** 12/12/2025
+**First published:** 08/04/2025 **Last updated:** 12/06/2026
 
 [View](/en/documents/procedural-steps-after/azacitidine-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -875,19 +663,15 @@ Azacitidine Mylan : EPAR - Procedural steps taken and scientific information aft
 
 English (EN) (173.5 KB - PDF)
 
-**First published:** 16/09/2020
-
-**Last updated:** 07/04/2025
+**First published:** 16/09/2020 **Last updated:** 07/04/2025
 
 [View](/en/documents/procedural-steps-after/azacitidine-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Azacitidine Mylan : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/36881/2020
+Adopted Reference Number: EMA/CHMP/36881/2020
 
 English (EN) (407.44 KB - PDF)
 
@@ -897,309 +681,185 @@ English (EN) (407.44 KB - PDF)
 
 CHMP summary of positive opinion for Azacitidine Mylan
 
-Adopted
-
-Reference Number: EMA/CHMP/36892/2020 Corr.1
+Adopted Reference Number: EMA/CHMP/36892/2020 Corr.1
 
 English (EN) (155.71 KB - PDF)
 
-**First published:** 31/01/2020
-
-**Last updated:** 04/02/2020
+**First published:** 31/01/2020 **Last updated:** 04/02/2020
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-azacitidine-mylan_en.pdf)
 
-#### News on Azacitidine Mylan
+## News on Azacitidine Mylan
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
 
-#### Related content
+31/01/2020
 
-Questions and answers on generic medicines
+## Product information - with tracked changes
 
-Reference Number: EMA/393905/2006 Rev. 2
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
-English (EN) (66.45 KB - PDF)
+Azacitidine Mylan : EPAR - Product information - tracked changes
 
-**First published:** 09/07/2007
+English (EN) (272.42 KB - DOCX)
 
-**Last updated:** 07/12/2012
+**First published:** 12/06/2026
 
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (24)](#file-language-dropdown-775)
 
-български (BG) (93.16 KB - PDF)
+български (BG) (341.93 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+español (ES) (336.45 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-español (ES) (68.3 KB - PDF)
+čeština (CS) (332.42 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+dansk (DA) (325.68 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-čeština (CS) (87.71 KB - PDF)
+Deutsch (DE) (262.68 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+eesti (ET) (183.69 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-dansk (DA) (66.79 KB - PDF)
+ελληνικά (EL) (230.75 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+français (FR) (328.29 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-Deutsch (DE) (67.55 KB - PDF)
+hrvatski (HR) (324.79 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+italiano (IT) (211.78 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-eesti keel (ET) (65.21 KB - PDF)
+latviešu (LV) (331.55 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+lietuvių (LT) (328.61 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-ελληνικά (EL) (91.29 KB - PDF)
+magyar (HU) (331.93 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+Malti (MT) (336.05 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-français (FR) (68.35 KB - PDF)
+Nederlands (NL) (326.29 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+polski (PL) (337.93 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-hrvatski (HR) (87.8 KB - PDF)
+português (PT) (327.75 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+română (RO) (306.54 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-italiano (IT) (67.62 KB - PDF)
+slovenčina (SK) (389.52 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+slovenščina (SL) (324.51 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-latviešu valoda (LV) (111.81 KB - PDF)
+suomi (FI) (228.12 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+svenska (SV) (326.62 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-lietuvių kalba (LT) (86.76 KB - PDF)
+Íslenska (IS) (324.25 KB - DOCX)
 
-**First published:**
+**First published:** 12/06/2026
 
-09/07/2007
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-**Last updated:**
+norsk (NO) (324.42 KB - DOCX)
 
-07/12/2012
+**First published:** 12/06/2026
 
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
+[View](/en/documents/product-information-tracked-changes/azacitidine-mylan-epar-product-information-tracked-changes_en.docx)
 
-magyar (HU) (85.76 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/12/2025
+**This page was last updated on**
+
+12/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

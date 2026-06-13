@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-19 14:26:42
+document_datetime: 2026-06-11 15:10:39
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duoplavin-epar-product-information_en.pdf
 document_name: duoplavin-epar-product-information_en.pdf
 version: success
-processing_time: 10.7632902
-conversion_datetime: 2025-12-20 18:39:09.508833
+processing_time: 13.4394977
+conversion_datetime: 2026-06-13 20:20:44.925886
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -126,7 +126,7 @@ Due to the presence of both components of the medicinal product, DuoPlavin is co
 - Severe hepatic impairment.
 - Active pathological bleeding such as peptic ulcer or intracranial haemorrhage.
 
-## In addition, due to the presence of ASA, its use is also contraindicated in:
+In addition, due to the presence of ASA, its use is also contraindicated in:
 
 - Hypersensitivity to non-steroidal anti-inflammatory drugs (NSAIDs) and syndrome of asthma, rhinitis, and nasal polyps. Patients with pre-existing mastocytosis, in whom the use of acetylsalicylic acid may induce severe hypersensitivity reactions (including circulatory shock with flushing, hypotension, tachycardia and vomiting).
 - Severe renal impairment (creatinine clearance &lt;30 ml/min).
@@ -194,7 +194,7 @@ Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported 
 
 DuoPlavin should be used with caution in patients with a history of peptic ulcer or gastroduodenal haemorrhage or minor upper GI symptoms as this may be due to gastric ulceration which may lead to gastric bleeding. GI undesirable effects including stomach pain, heartburn, nausea, vomiting, and GI bleeding may occur. Minor GI symptoms, such as dyspepsia, are common and can occur anytime during therapy. Physicians should remain alert for signs of GI ulceration and bleeding, even in the absence of previous GI symptoms. Patients should be told about the signs and symptoms of GI undesirable effects and what steps to take if they occur. (See section 4.8.)
 
-In patients concomitantly receiving nicorandil and NSAIDs including ASA and LAS, there is an increased risk for severe complications such as gastrointestinal ulceration, perforation and haemorrhage (see section 4.5).
+In patients concomitantly receiving nicorandil and NSAIDs including  cyclooxygenase inhibitors, ASA and lysine acetylsalicylate (LAS), there is an increased risk for severe complications such as gastrointestinal ulceration, perforation and haemorrhage (see section 4.5).
 
 ## Excipients
 
@@ -240,7 +240,7 @@ Metamizole may reduce the effect of ASA on platelet aggregation when taken conco
 
 Since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
 
-Other concomitant therapy with clopidogrel
+## Other concomitant therapy with clopidogrel
 
 ## Inducers of CYP2C19
 
@@ -413,14 +413,12 @@ Adverse reactions that occurred with clopidogrel alone, with ASA alone or with c
 
 | System organ class                       | Common   | Uncommon                                   | Rare                                      | Very rare, not known                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------------------------------|----------|--------------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and the lymphatic system disorders |          | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), bone marrow failure*, aplastic anaemia, pancytopenia, bicytopenia*, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia, haemolytic anaemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency* (see section 4.4)                                                         |
-| Cardiac disorders                        |          |                                            |                                           | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to acetylsalicylic acid* or clopidogrel**                                                                                                                                                                                                                       |
+| Blood and the lymphatic system disorders |          | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), bone marrow failure*, aplastic anaemia, pancytopenia, bicytopenia*, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia, haemolytic anaemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency* (see section 4.4) Kounis syndrome                                         |
+| Cardiac disorders                        |          |                                            |                                           | (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to acetylsalicylic acid* or clopidogrel**                                                                                                                                                                                                                                       |
 | Immune system disorders                  |          |                                            |                                           | Anaphylactic shock*, serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)**,insulin autoimmune syndrome, which can lead to severe hypoglycemia, particularly in patients with HLA DRA4 subtype (more frequent in the Japanese population)**, aggravation of allergic symptoms of food allergy* |
 | Metabolism and nutrition disorders       |          |                                            |                                           | Hypoglycaemia*, gout* (see section 4.4)                                                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
-
-## Internal
 
 | System organ class                              | Common    | Uncommon                                                                                                                      | Rare    | Very rare, not known                                                                                                                                                                                                                                              |
 |-------------------------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -433,9 +431,9 @@ Adverse reactions that occurred with clopidogrel alone, with ASA alone or with c
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class         | Common                                                             | Uncommon                                                                                | Rare                        | Very rare, not known                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|----------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis. Upper gastrointestinal disorders (oesophagitis, oesophageal ulceration, perforation, erosive gastritis, erosive duodenitis; gastro-duodenal ulcer/perforations)*; lower gastrointestinal disorders (small [jejunum and ileum] and large [colon and rectum] intestinal ulcers, colitis and intestinal perforation)*; upper gastro-intestinal symptoms* such as gastralgia (see section 4.4); these ASA- related GI reactions may or may not be associated with haemorrhage, and may occur at any dose of acetylsalicylic acid and in patients with or without warning symptoms or a previous history of serious GI events*. Colitis (including ulcerative or lymphocytic colitis), stomatitis, acute pancreatitis in the context of a hypersensitivity reaction due to acetylsalicylic acid* |
+| System organ class         | Common                                                             | Uncommon                                                                                | Rare                        | Very rare, not known                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis. Upper gastrointestinal disorders (oesophagitis, oesophageal ulceration, perforation, erosive gastritis, erosive duodenitis; gastro-duodenal ulcer/perforations)*; lower gastrointestinal disorders (small [jejunum and ileum] and large [colon and rectum] intestinal ulcers, colitis and intestinal perforation)*; formation of intestinal diaphragm- like strictures* a ; upper gastro-intestinal symptoms* such as gastralgia (see section 4.4); these ASA- related GI reactions may or may not be associated with haemorrhage, and may occur at any dose of acetylsalicylic acid and in patients with or without warning symptoms or a previous history of serious GI events*. Colitis (including ulcerative or lymphocytic colitis), stomatitis, acute pancreatitis in the context of a hypersensitivity reaction due to acetylsalicylic acid* |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -453,10 +451,6 @@ Adverse reactions that occurred with clopidogrel alone, with ASA alone or with c
 | System organ class   | Common   | Uncommon                                                                      | Rare   | Very rare, not known   |
 |----------------------|----------|-------------------------------------------------------------------------------|--------|------------------------|
 | Investigations       |          | Bleeding time prolonged, neutrophil count decreased, platelet count decreased |        |                        |
-
-* Information reported in published information for ASA with frequency 'not known'.
-
-** Information related to clopidogrel with frequency 'not known'.
 
 ## Reporting of suspected adverse reactions
 
@@ -484,9 +478,9 @@ If a toxic dose has been ingested then admission to hospital is necessary. With 
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic properties
-
 <div style=\"page-break-after: always\"></div>
+
+## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antithrombotic agents, platelet aggregation inhibitors excl. Heparin, ATC Code: B01AC30.
 
@@ -526,11 +520,9 @@ The CLARITY trial included 3,491 patients presenting within 12 hours of the onse
 
 Fifteen percent (15.0%) of patients in the clopidogrel plus ASA group and 21.7% in the group treated with ASA alone reached the primary endpoint, representing an absolute reduction of 6.7% and a 36% odds reduction in favor of clopidogrel (95% CI: 24, 47%; p &lt;0.001), mainly related to a reduction in occluded infarct-related arteries. This benefit was consistent across all prespecified subgroups including patients' age and gender, infarct location, and type of fibrinolytic or heparin used.
 
-CLARITY PCI sub-group analysis involved 1,863 STEMI patients undergoing PCI. Patients receiving 300 mg loading dose (LD) of clopidogrel (n=933) had a significant reduction in incidence of cardiovascular death, MI or stroke following PCI compared to those receiving placebo (n=930) (3.6%
+CLARITY PCI sub-group analysis involved 1,863 STEMI patients undergoing PCI. Patients receiving 300 mg loading dose (LD) of clopidogrel (n=933) had a significant reduction in incidence of cardiovascular death, MI or stroke following PCI compared to those receiving placebo (n=930) (3.6% with clopidogrel pre-treatment versus 6.2% with placebo, OR: 0.54; 95% CI: 0.35-0.85; p=0.008). The patients receiving 300 mg LD of clopidogrel had a significant reduction in incidence of cardiovascular death, MI or stroke through 30 days following PCI compared to those receiving placebo (7.5% with clopidogrel pre-treatment versus 12.0% with placebo, OR: 0.59; 95% CI: 0.43-0.81; p=0.001). However, this composite endpoint when assessed in the overall population of the CLARITY study was not statistically significant as a secondary endpoint. No significant difference was observed in the rates of major or minor bleeding between both the treatments (2.0% with clopidogrel pre-treatment versus 1.9% with placebo, p&gt;0.99). The findings of this analysis support the early use of clopidogrel loading dose in STEMI and the strategy of routine clopidogrel pre-treatment in patients undergoing PCI. The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block). Patients received clopidogrel (75 mg/day, n=22,961) plus ASA (162 mg/day), or ASA alone (162 mg/day) (n=22,891), for 28 days or until hospital discharge. The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death. The population included 27.8% women, 58.4% patients ≥60 years (26% ≥70 years) and 54.5% patients who received fibrinolytics.
 
 <div style=\"page-break-after: always\"></div>
-
-with clopidogrel pre-treatment versus 6.2% with placebo, OR: 0.54; 95% CI: 0.35-0.85; p=0.008). The patients receiving 300 mg LD of clopidogrel had a significant reduction in incidence of cardiovascular death, MI or stroke through 30 days following PCI compared to those receiving placebo (7.5% with clopidogrel pre-treatment versus 12.0% with placebo, OR: 0.59; 95% CI: 0.43-0.81; p=0.001). However, this composite endpoint when assessed in the overall population of the CLARITY study was not statistically significant as a secondary endpoint. No significant difference was observed in the rates of major or minor bleeding between both the treatments (2.0% with clopidogrel pre-treatment versus 1.9% with placebo, p&gt;0.99). The findings of this analysis support the early use of clopidogrel loading dose in STEMI and the strategy of routine clopidogrel pre-treatment in patients undergoing PCI. The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block). Patients received clopidogrel (75 mg/day, n=22,961) plus ASA (162 mg/day), or ASA alone (162 mg/day) (n=22,891), for 28 days or until hospital discharge. The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death. The population included 27.8% women, 58.4% patients ≥60 years (26% ≥70 years) and 54.5% patients who received fibrinolytics.
 
 Clopidogrel plus ASA significantly reduced the relative risk of death from any cause by 7% (p = 0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p = 0.002), representing an absolute reduction of 0.5% and 0.9%, respectively. This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
 
@@ -542,11 +534,11 @@ This randomized, double-blind, placebo-controlled trial was conducted in the Uni
 
 EXCELLENT ( Efficacy of Xience/Promus Versus Cypher to Reduce Late Loss After Stenting ) This prospective, open-label, randomized trial was conducted in Korea to evaluate whether 6-month dual antiplatelet therapy (DAPT) would be noninferior to 12-month DAPT after implantation of drugeluting stents. The study included 1,443 patients undergoing implantation who were randomized to receive 6-month DAPT (ASA 100-200 mg/day plus clopidogrel 75 mg/day for 6 months and thereafter ASA alone up to 12 months) or 12-month DAPT (ASA 100-200 mg/day plus clopidogrel 75 mg/day for 12 months). No significant difference was observed in the incidence of target vessel failure (composite of cardiac death, MI or target vessel revascularization) which was primary endpoint between 6-month and 12-month DAPT groups (HR: 1.14; 95% CI: 0.70 1.86; p=0.60). Also, the study showed no significant difference in the safety endpoint (composite of death, MI, stroke, stent thrombosis or TIMI major bleeding) between 6-month and 12-month DAPT groups (HR: 1.15; 95% CI: 0.64-2.06; p=0.64). The major finding of this study was that 6-month DAPT was non-inferior to 12-month DAPT in the risk of target vessel failure.
 
-## De-escalation of P2Y12 Inhibitor Agents in ACS
-
-Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in ACS has been evaluated in two randomized investigator-sponsored studies (ISS) TOPIC and TROPICAL-ACS - with clinical outcome data.
+De-escalation of P2Y12 Inhibitor Agents in ACS
 
 <div style=\"page-break-after: always\"></div>
+
+Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in ACS has been evaluated in two randomized investigator-sponsored studies (ISS) TOPIC and TROPICAL-ACS - with clinical outcome data.
 
 The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischaemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization). Although the ischaemic benefit was consistent throughout the first year, greater reduction in ischaemic recurrence after ACS was observed during the initial days following the treatment initiation.  In contrast, post-hoc analyses demonstrated statistically significant increases in the bleeding risk with the more potent P2Y12 inhibitors, occurring predominantly during the maintenance phase, after the first month post-ACS. TOPIC and TROPICAL-ACS were designed to study how to mitigate the bleeding events while maintaining efficacy.
 
@@ -600,11 +592,9 @@ CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo
 
 The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and CYP2C19*3 alleles correspond to nonfunctional metabolism. The CYP2C19*2 and CYP2C19*3 alleles account for the majority of reduced function alleles in Caucasian (85%) and Asian (99%) poor metabolisers. Other alleles associated with absent or reduced metabolism are less frequent and include CYP2C19*4, *5, *6, *7, and *8. A patient with poor metaboliser status will possess two loss-offunction alleles as defined above. Published frequencies for the poor CYP2C19 metaboliser genotypes are approximately 2% for Caucasians, 4% for Blacks and 14% for Chinese. Tests are available to determine a patient's CYP2C19 genotype.
 
-A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metaboliser groups (ultrarapid, extensive, intermediate and poor), evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg/day and 600 mg followed by 150 mg/day, each for a total of 5 days (steady state).
+A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metaboliser groups (ultrarapid, extensive, intermediate and poor), evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg/day and 600 mg followed by 150 mg/day, each for a total of 5 days (steady state). No substantial differences in active metabolite exposure and mean inhibition of platelet aggregation (IPA) were observed between ultrarapid, extensive and intermediate metabolisers. In poor metabolisers, active metabolite exposure was decreased by 63-71% compared to extensive metabolisers. After the 300 mg/75 mg dose regimen, antiplatelet responses were decreased in the poor metabolisers with mean IPA (5 μM ADP) of 24% (24 hours) and 37% (Day 5) as compared to IPA of 39% (24 hours) and 58% (Day 5) in the extensive metabolisers and 37% (24 hours) and 60% (Day 5) in the intermediate metabolisers. When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exposure was greater than with the 300 mg/75 mg regimen. In addition, IPA was 32% (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen. An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
 <div style=\"page-break-after: always\"></div>
-
-No substantial differences in active metabolite exposure and mean inhibition of platelet aggregation (IPA) were observed between ultrarapid, extensive and intermediate metabolisers. In poor metabolisers, active metabolite exposure was decreased by 63-71% compared to extensive metabolisers. After the 300 mg/75 mg dose regimen, antiplatelet responses were decreased in the poor metabolisers with mean IPA (5 μM ADP) of 24% (24 hours) and 37% (Day 5) as compared to IPA of 39% (24 hours) and 58% (Day 5) in the extensive metabolisers and 37% (24 hours) and 60% (Day 5) in the intermediate metabolisers. When poor metabolisers received the 600 mg/150 mg regimen, active metabolite exposure was greater than with the 300 mg/75 mg regimen. In addition, IPA was 32% (24 hours) and 61% (Day 5), which were greater than in the poor metabolisers receiving the 300 mg/75 mg regimen, and were similar to the other CYP2C19 metaboliser groups receiving the 300 mg/75 mg regimen. An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
 Consistent with the above results, in a meta-analysis including 6 studies of 335 clopidogrel-treated subjects at steady state, it was shown that active metabolite exposure was decreased by 28% for intermediate metabolisers, and 72% for poor metabolisers while platelet aggregation inhibition (5 μM ADP) was decreased with differences in IPA of 5.9% and 21.4%, respectively, when compared to extensive metabolisers.
 
@@ -664,11 +654,9 @@ There was no evidence of carcinogenic effect when clopidogrel was administered f
 
 Clopidogrel has been tested in a range of in vitro and in vivo genotoxicity studies, and showed no genotoxic activity.
 
-Clopidogrel was found to have no effect on the fertility of male and female rats and was not teratogenic in either rats or rabbits. When given to lactating rats, clopidogrel caused a slight delay in the development of the offspring. Specific pharmacokinetic studies performed with radiolabelled
+Clopidogrel was found to have no effect on the fertility of male and female rats and was not teratogenic in either rats or rabbits. When given to lactating rats, clopidogrel caused a slight delay in the development of the offspring. Specific pharmacokinetic studies performed with radiolabelled clopidogrel have shown that the parent compound or its metabolites are excreted in the milk. Consequently, a direct effect (slight toxicity), or an indirect effect (low palatability) cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
-
-clopidogrel have shown that the parent compound or its metabolites are excreted in the milk. Consequently, a direct effect (slight toxicity), or an indirect effect (low palatability) cannot be excluded.
 
 ## Acetylsalicylic acid
 
@@ -770,6 +758,8 @@ Date of latest renewal: 19 November 2014
 
 Detailed information on this medicinal product is available on the European Medicines Agency website: http://www.ema.europa.eu/
 
+26
+
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
@@ -793,7 +783,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic Safety Update Reports
+## · Periodic Safety Update Reports
 
 The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines web-portal.
 
@@ -904,7 +894,7 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -922,7 +912,7 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER / 14, 28 and 84 tablets                      |
 
@@ -949,19 +939,7 @@ Batch
 | 5.   | OTHER   |
 |------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
-
-Sun.
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,6 +970,8 @@ Batch
 | 5.   | OTHER   |
 |------|---------|
 
+35
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1000,7 +980,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-DuoPlavin 75 mg/100 mg film-coated tablets clopidogrel/acetylsalicylic acid
+DuoPlavin 75 mg/100 mg film-coated tablets
+
+clopidogrel/acetylsalicylic acid
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1021,7 +1003,7 @@ See leaflet for further information.
 
 84 film-coated tablets
 
-- 90x1film-coated tablet
+90x1film-coated tablet
 
 100x1 film-coated tablet
 
@@ -1130,48 +1112,42 @@ Batch
 | 5.   | OTHER   |
 |------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
-
-Sun.
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER / 30x1, 50x1, 90x1 and 100x1 tablets         |
 
-BLISTER / 30x1, 50x1, 90x1 and 100x1 tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 DuoPlavin 75 mg/100 mg tablet clopidogrel/acetylsalicylic acid
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Sanofi Winthrop Industrie
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
 | 5.   | OTHER   |
 |------|---------|
 
+40
+
 <div style=\"page-break-after: always\"></div>
 
-- B. PACKAGE LEAFLET
+## B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
 
@@ -1366,9 +1342,9 @@ If you cut or injure yourself, it may take longer than usual for bleeding to sto
 
 Common side effects (may affect up to 1 in 10 people): Diarrhoea, abdominal pain, indigestion or heartburn.
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Headache, stomach ulcer, vomiting, nausea, constipation, excessive gas in stomach or intestines,
 
-Headache, stomach ulcer, vomiting, nausea, constipation, excessive gas in stomach or intestines, rashes, itching, dizziness, sensation of tingling and numbness.
+Uncommon side effects (may affect up to 1 in 100 people): rashes, itching, dizziness, sensation of tingling and numbness.
 
 Rare side effect (may affect up to 1 in 1000 people): Vertigo, enlarged breasts in males.
 
@@ -1376,7 +1352,9 @@ Rare side effect (may affect up to 1 in 1000 people): Vertigo, enlarged breasts 
 
 Jaundice (yellowing of skin and/or eyes); burning in stomach and/or esophagus (gullet); severe abdominal pain with or without back pain; fever, breathing difficulties sometimes associated with cough; generalised allergic reactions (for example, overall sensation of heat with sudden general discomfort until fainting); swelling in the mouth; blisters of the skin; skin allergy; sore mouth (stomatitis); decrease in blood pressure; confusion; hallucinations; joint pain; muscular pain; changes in taste or loss of taste of foods, inflammation of small vessels.
 
-Side effects with frequency not known (frequency cannot be estimated from the available data): Ulcer perforation, ringing in the ears, hearing loss, sudden life-threatening allergic or hypersensitivity reactions with chest or abdominal pain, kidney disease, low blood sugar, gout (a condition of painful, swollen joints caused by uric acid crystals) and worsening of food allergies, a particular form of anaemia (low number of red blood cells) (see section 2 'Warnings and precautions'), swelling.
+## Side effects with frequency not known (frequency cannot be estimated from the available data):
+
+Ulcer perforation,  diaphragmatic bowel disease (narrowing of the intestinal passage) which may cause symptoms such as swelling of the abdomen, abdominal discomfort, blood in stool, ringing in the ears, hearing loss, sudden life-threatening allergic or hypersensitivity reactions with chest or abdominal pain, kidney disease, low blood sugar, gout (a condition of painful, swollen joints caused by uric acid crystals) and worsening of food allergies, a particular form of anaemia (low number of red blood cells) (see section 2 'Warnings and precautions'), swelling. If you experience any of these symptoms, consult a doctor immediately.
 
 In addition, your doctor may identify changes in your blood or urine tests.
 
@@ -1444,9 +1422,7 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder:
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
-
-## Manufacturer:
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France Manufacturer:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1458,11 +1434,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
 
-## Lietuva
-
-Swixx Biopharma UAB Tel: +370 5 236 91 40
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
@@ -1470,23 +1444,11 @@ Swixx Biopharma EOOD
 
 Тел: +359 (0)2 4942 480
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
 ## Česká republika
 
 Sanofi, s.r.o.
 
 Tel: +420 233 086 111
-
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
 
 ## Danmark
 
@@ -1494,19 +1456,11 @@ Sanofi  A/S
 
 Tlf: +45 45 16 70 00
 
-## Malta
-
-Sanofi S.r.l. Tel: +39 02 39394275
-
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010
 
-## Nederland
-
-Sanofi B.V.
-
-Tel: +31 20 245 4000
+Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
@@ -1514,17 +1468,9 @@ Swixx Biopharma OÜ
 
 Tel: +372 640 10 30
 
-## Norge
-
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
-
 ## Ελλάδα
 
 Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
-
-## Österreich
-
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
 
 ## España
 
@@ -1532,19 +1478,9 @@ sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
 
-## Polska
-
-Sanofi Sp. z o.o.
-
-Tel: +48 22 280 00 00
-
 ## France
 
 Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
 
 ## Hrvatska
 
@@ -1552,23 +1488,67 @@ Swixx Biopharma d.o.o.
 
 Tel: +385 1 2078 500
 
-## România
-
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
-
 ## Ireland
 
 sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
+
+## Nederland
+
+Sanofi B.V.
+
+Tel: +31 20 245 4000
+
+## Norge
+
+sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+
+## Österreich
+
+sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+
+## Polska
+
+Sanofi Sp. z o.o. Tel: +48 22 280 00 00
+
+## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda Tel: +351 21 35 89 400
+
+## România
+
+Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+
 ## Slovenija
 
 Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1576,19 +1556,11 @@ Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
 <div style=\"page-break-after: always\"></div>
 
-## Internal
-
 ## Italia
 
 Sanofi S.r.l.
 
 Tel: 800 536 389
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
 
 ## Κύπρος
 
@@ -1596,22 +1568,24 @@ C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +44 (0) 800 035 2525
-
 ## This leaflet was last revised in &lt;Month YYYY&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu/
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00

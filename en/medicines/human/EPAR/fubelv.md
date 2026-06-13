@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-28 17:00:00
+document_datetime: 2026-06-12 11:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fubelv.html
 document_name: fubelv.html
 version: success
-processing_time: 0.1103728
-conversion_datetime: 2026-06-01 16:59:00.361882
+processing_time: 0.142881
+conversion_datetime: 2026-06-13 19:42:14.889518
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
   docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Fubelv
 
@@ -57,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Fubelv used?
+### How is Fubelv used?
 
 Fubelv can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in diagnosing and treating the diseases it is used for.
 
@@ -67,11 +67,11 @@ Patients or their caregivers may inject Fubelv once they have been trained, if t
 
 For more information about using Fubelv, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Fubelv work?
+### How does Fubelv work?
 
 The active substance in Fubelv, etanercept, is a protein that has been designed to block the activity of a substance called tumour necrosis factor alpha (TNF alpha). TNF alpha is involved in causing inflammation and is found at high levels in people with the diseases that Fubelv is used to treat. By blocking TNF alpha, etanercept reduces inflammation and other symptoms of these diseases.
 
-## What benefits of Fubelv have been shown in studies?
+### What benefits of Fubelv have been shown in studies?
 
 Laboratory studies comparing Fubelv with Enbrel have shown that the active substance in Fubelv is highly similar to that in Enbrel in terms of structure, purity and biological activity. Studies have also shown that giving Fubelv produces similar levels of the active substance in the body to those seen with Enbrel.
 
@@ -83,7 +83,7 @@ Because Fubelv is a biosimilar medicine, the studies on the effectiveness of eta
 
 Studies carried out with Fubelv are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions with Fubelv?
+### What are the side effects and restrictions with Fubelv?
 
 The safety of Fubelv has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of Enbrel.
 
@@ -93,7 +93,7 @@ The most common side effects with Fubelv (which may affect more than 1 in 10 peo
 
 Fubelv must not be used in people who have or are at risk of sepsis (when bacteria and toxins circulate in the blood leading to organ damage), or in people who have an active infection.
 
-## Why is Fubelv authorised in the EU?
+### Why is Fubelv authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Fubelv has a highly similar structure, purity and biological activity to Enbrel and is distributed in the body in the same way.
 
@@ -101,7 +101,7 @@ In addition, a study has shown that Fubelv and Enbrel are equivalent in terms of
 
 All these data were considered sufficient to conclude that Fubelv will have the same effects as Enbrel in its authorised uses. Therefore, the Agency's view was that, as for Enbrel, the benefits of Fubelv outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Fubelv?
+### What measures are being taken to ensure the safe and effective use of Fubelv?
 
 The company that markets Fubelv will provide a card for patients that contains information on how to recognise serious side effects and when to see their doctor urgently.
 
@@ -111,7 +111,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Fubelv are continuously monitored. Suspected side effects reported with Fubelv are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Fubelv
+### Other information about Fubelv
 
 Fubelv received a marketing authorisation valid throughout the EU on 23 April 2026.
 
@@ -125,7 +125,7 @@ English (EN) (148.73 KB - PDF)
 
 [View](/en/documents/overview/fubelv-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-495)
+[Other languages (22)](#file-language-dropdown-344)
 
 български (BG) (161.71 KB - PDF)
 
@@ -157,7 +157,7 @@ Deutsch (DE) (151.93 KB - PDF)
 
 [View](/de/documents/overview/fubelv-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (145.89 KB - PDF)
+eesti (ET) (145.89 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -187,13 +187,13 @@ italiano (IT) (146.1 KB - PDF)
 
 [View](/it/documents/overview/fubelv-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (166.1 KB - PDF)
+latviešu (LV) (166.1 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/lv/documents/overview/fubelv-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (156.9 KB - PDF)
+lietuvių (LT) (156.9 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -247,7 +247,7 @@ slovenščina (SL) (157 KB - PDF)
 
 [View](/sl/documents/overview/fubelv-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.93 KB - PDF)
+suomi (FI) (142.93 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -271,151 +271,161 @@ English (EN) (8.54 MB - PDF)
 
 Fubelv : EPAR - Product information
 
-English (EN) (1.9 MB - PDF)
+English (EN) (1.87 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/en/documents/product-information/fubelv-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-450)
 
 български (BG) (1.31 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/bg/documents/product-information/fubelv-epar-product-information_bg.pdf)
 
 español (ES) (1.27 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/es/documents/product-information/fubelv-epar-product-information_es.pdf)
 
-čeština (CS) (1.22 MB - PDF)
+čeština (CS) (1.21 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/cs/documents/product-information/fubelv-epar-product-information_cs.pdf)
 
 dansk (DA) (1.11 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/da/documents/product-information/fubelv-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.17 MB - PDF)
+Deutsch (DE) (1.12 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/de/documents/product-information/fubelv-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.18 MB - PDF)
+eesti (ET) (1.18 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/et/documents/product-information/fubelv-epar-product-information_et.pdf)
 
-français (FR) (1.33 MB - PDF)
+ελληνικά (EL) (1.43 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
+
+[View](/el/documents/product-information/fubelv-epar-product-information_el.pdf)
+
+français (FR) (1.3 MB - PDF)
+
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/fr/documents/product-information/fubelv-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.24 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/hr/documents/product-information/fubelv-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.22 MB - PDF)
+italiano (IT) (1.16 MB - PDF)
 
-**First published:** 28/05/2026
-
-[View](/is/documents/product-information/fubelv-epar-product-information_is.pdf)
-
-italiano (IT) (1.18 MB - PDF)
-
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/it/documents/product-information/fubelv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.45 MB - PDF)
+latviešu (LV) (1.43 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/lv/documents/product-information/fubelv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.27 MB - PDF)
+lietuvių (LT) (1.27 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/lt/documents/product-information/fubelv-epar-product-information_lt.pdf)
 
-magyar (HU) (1.36 MB - PDF)
+magyar (HU) (1.33 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/hu/documents/product-information/fubelv-epar-product-information_hu.pdf)
 
 Malti (MT) (1.24 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/mt/documents/product-information/fubelv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.02 MB - PDF)
+Nederlands (NL) (1.03 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/nl/documents/product-information/fubelv-epar-product-information_nl.pdf)
 
-norsk (NO) (1.11 MB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/no/documents/product-information/fubelv-epar-product-information_no.pdf)
-
 polski (PL) (1.45 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/pl/documents/product-information/fubelv-epar-product-information_pl.pdf)
 
-português (PT) (1.45 MB - PDF)
+português (PT) (1.43 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/pt/documents/product-information/fubelv-epar-product-information_pt.pdf)
 
 română (RO) (1.42 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/ro/documents/product-information/fubelv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.32 MB - PDF)
+slovenčina (SK) (1.3 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/sk/documents/product-information/fubelv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.51 MB - PDF)
+slovenščina (SL) (1.46 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/sl/documents/product-information/fubelv-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.12 MB - PDF)
+suomi (FI) (1.2 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/fi/documents/product-information/fubelv-epar-product-information_fi.pdf)
 
-svenska (SV) (1.08 MB - PDF)
+svenska (SV) (1.07 MB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
 
 [View](/sv/documents/product-information/fubelv-epar-product-information_sv.pdf)
+
+Íslenska (IS) (1.22 MB - PDF)
+
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
+
+[View](/is/documents/product-information/fubelv-epar-product-information_is.pdf)
+
+norsk (NO) (1.09 MB - PDF)
+
+**First published:** 28/05/2026 **Last updated:** 12/06/2026
+
+[View](/no/documents/product-information/fubelv-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000351211
+
+11/06/2026
 
 icon globe
 
@@ -439,7 +449,7 @@ English (EN) (45.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-759)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (95.13 KB - PDF)
 
@@ -471,7 +481,7 @@ Deutsch (DE) (64.77 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (60.2 KB - PDF)
+eesti (ET) (60.2 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -495,25 +505,19 @@ hrvatski (HR) (77.21 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (62.81 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/is/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (62.02 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/it/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (82.38 KB - PDF)
+latviešu (LV) (82.38 KB - PDF)
 
 **First published:** 28/05/2026
 
 [View](/lv/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (82.16 KB - PDF)
+lietuvių (LT) (82.16 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -536,12 +540,6 @@ Nederlands (NL) (62.62 KB - PDF)
 **First published:** 28/05/2026
 
 [View](/nl/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (63.9 KB - PDF)
-
-**First published:** 28/05/2026
-
-[View](/no/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (85.25 KB - PDF)
 
@@ -573,7 +571,7 @@ slovenščina (SL) (70.36 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (61.19 KB - PDF)
+suomi (FI) (61.19 KB - PDF)
 
 **First published:** 28/05/2026
 
@@ -585,15 +583,23 @@ svenska (SV) (62.43 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (62.81 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/is/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (63.9 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/no/documents/all-authorised-presentations/fubelv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
 Name of medicine
 
 Fubelv
-
-Active substance
-
-etanercept
 
 International non-proprietary name (INN) or common name
 
@@ -657,9 +663,27 @@ Marketing authorisation issued
 
 23/04/2026
 
+Revision
+
+1
+
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Fubelv : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (160.73 KB - PDF)
+
+**First published:** 12/06/2026
+
+[View](/en/documents/procedural-steps-after/fubelv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Fubelv : EPAR - Public assessment report
 
@@ -689,6 +713,6 @@ English (EN) (174.23 KB - PDF)
 
 **This page was last updated on**
 
-28/05/2026
+12/06/2026
 
 ## Share this page

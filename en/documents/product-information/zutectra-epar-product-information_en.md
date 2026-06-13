@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-15 11:40:42
-document_pages: 27
+document_datetime: 2026-06-12 15:46:44
+document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zutectra-epar-product-information_en.pdf
 document_name: zutectra-epar-product-information_en.pdf
 version: success
-processing_time: 6.3509604
-conversion_datetime: 2025-12-19 02:10:17.405914
+processing_time: 9.5913667
+conversion_datetime: 2026-06-13 19:57:14.136217
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,17 +24,17 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zutectra 500 IU solution for injection in pre-filled syringe
+Zutectra 500 IU solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Human hepatitis B immunoglobulin
 
-## One mL contains:
+Each 1 mL pre-filled pen contains:
 
 Human hepatitis B immunoglobulin of at least 500 IU (purity of at least 96 % IgG)
 
-Each pre-filled syringe of 1 mL solution contains: 150 mg of human protein, with a content of antibodies to hepatitis B virus surface antigen (HBs) of at least 500 IU.
+Each 1 mL pre-filled pen contains: 150 mg of human protein, with a content of antibodies to hepatitis B virus surface antigen (HBs) of at least 500 IU.
 
 Distribution of IgG subclasses (approx. values):
 
@@ -54,7 +54,7 @@ IgG4:
 
 3 %
 
-The maximum IgA content is 6,000 micrograms/mL.
+The maximum IgA content is 6 000 micrograms/mL.
 
 Produced from the plasma of human donors.
 
@@ -80,13 +80,11 @@ The concomitant use of adequate virostatic agents should be considered as standa
 
 In HBV-DNA negative adults at least one week after liver transplantation subcutaneous injections of Zutectra per week or fortnightly according to serum anti-HBs trough levels.
 
-Prior to the initiation of subcutaneous treatment with Zutectra adequate anti-HBs serum levels should be stabilised with an intravenous hepatitis B immunoglobulin to levels at or above 300-500 IU/L in
+Prior to the initiation of subcutaneous treatment with Zutectra adequate anti-HBs serum levels should be stabilised with an intravenous hepatitis B immunoglobulin to levels at or above 300-500 IU/L in order to ensure adequate anti-HBs coverage during the transition from intravenous to subcutaneous dosing. Antibody levels &gt; 100 IU/L should be maintained in HBsAg and HBV-DNA negative patients.
 
 <div style=\"page-break-after: always\"></div>
 
-order to ensure adequate anti-HBs coverage during the transition from intravenous to subcutaneous dosing. Antibody levels &gt; 100 IU/L should be maintained in HBsAg and HBV-DNA negative patients.
-
-The dose can be individually established and adapted from 500 IU up to 1,000 IU (in exceptional cases up to 1,500 IU) subcutaneous injections on a weekly or fortnightly basis, according to the serum antiHBs concentrations and at the discretion of the physician in charge. Antibody levels &gt; 100 IU/L should be maintained.
+The dose can be individually established and adapted from 500 IU up to 1 000 IU (in exceptional cases up to 1 500 IU) subcutaneous injections on a weekly or fortnightly basis, according to the serum antiHBs concentrations and at the discretion of the physician in charge. Antibody levels &gt; 100 IU/L should be maintained.
 
 Patients must be monitored for serum anti-HBs antibody levels regularly. Serum anti-HBs antibody levels should be measured at least every 2-4 weeks and at the discretion of the physician in charge for at least half a year.
 
@@ -96,11 +94,11 @@ There is no relevant indication for use of Zutectra in children under the age of
 
 ## Method of administration
 
-For subcutaneous use only.
+For subcutaneous use only. Comprehensive instructions for use are provided in the package leaflet.
 
 ## Precautions to be taken before handling or administering the medicinal product
 
-Injection of the medicinal product by the patient or by caregiver in a home treatment requires training by a physician experienced in the guidance of patients for home treatment. The patient or caregiver will be instructed in injection techniques, the keeping of a treatment diary and measures to be taken in case of severe adverse events. A sufficient surveillance period with stable anti-HBs trough serum levels of &gt; 100 IU/L as well as a fixed dosage regimen is required: the monitoring schedule of patients anti-HBs antibody levels (see above) needs to be closely followed. In addition, patient or caregiver must comply with the injection technique as well as with the dosing regimen to ensure anti-HBs trough serum levels &gt; 100 IU/L after extended periods between level controls.
+Injection of the medicinal product by the patient or by caregiver in a home treatment requires training by a physician experienced in the guidance of patients for home treatment. Patients and caregivers should be advised to read the comprehensive instruction for use included in the package leaflet carefully before administering the medicinal product. The patient or caregiver should be instructed in injection techniques, the keeping of a treatment diary and measures to be taken in case of severe adverse reactions. A sufficient surveillance period with stable anti-HBs trough serum levels of &gt; 100 IU/L as well as a fixed dosage regimen is required: the monitoring schedule of patients anti-HBs antibody levels (see above) needs to be closely followed. In addition, patient or caregiver must comply with the injection technique as well as with the dosing regimen to ensure anti-HBs trough serum levels &gt; 100 IU/L after extended periods between level controls.
 
 ## 4.3 Contraindications
 
@@ -112,7 +110,7 @@ Zutectra must not be administered intravascularly.
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded. This recommendation applies also for documentation in the treatment diary during self-administration of the medicinal product in a home treatment.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded. This recommendation applies also for documentation in a treatment diary during self-administration of the medicinal product in a home treatment.
 
 Ensure that Zutectra is not administered into a blood vessel, because of the risk of shock.
 
@@ -124,11 +122,9 @@ There is no data about efficacy in post-exposure prophylaxis.
 
 True hypersensitivity reactions are rare.
 
-Zutectra contains a small quantity of IgA (see section 2). Individuals who are deficient in IgA have the potential for developing IgA antibodies and may have anaphylactic reactions after administration of
-
 <div style=\"page-break-after: always\"></div>
 
-blood components containing IgA. The physician must therefore weigh the benefit of treatment with Zutectra against the potential risk of hypersensitivity reactions.
+Zutectra contains a small quantity of IgA (see section 2). Individuals who are deficient in IgA have the potential for developing IgA antibodies and may have anaphylactic reactions after administration of blood components containing IgA. The physician must therefore weigh the benefit of treatment with Zutectra against the potential risk of hypersensitivity reactions.
 
 Rarely, human hepatitis B immunoglobulin can induce a fall in blood pressure with anaphylactic reaction, even in patients who have tolerated previous treatment with human immunoglobulin.
 
@@ -137,7 +133,7 @@ Potential complications can often be avoided by ensuring that patients:
 - -are not sensitive to human normal immunoglobulin, by initially injecting the product slowly;
 - -are carefully monitored for any symptoms throughout the injection. In particular, patients naive to human normal immunoglobulin, patients switched from an alternative product or when there has been a long interval since the previous injection should be monitored during the first injection and for the first hour after the first injection, in order to detect potential adverse signs. All other patients should be observed for at least 20 minutes after administration.
 
-Suspicion of allergic or anaphylactic type reactions requires immediate discontinuation of the injection. In case of shock, standard medical treatment for shock should be implemented.
+Suspicion of allergic or anaphylactic type reactions requires immediate discontinuation of the treatment. In case of shock, standard medical treatment for shock should be implemented.
 
 ## Interference with serological testing
 
@@ -159,11 +155,9 @@ There is reassuring clinical experience regarding the lack of hepatitis A or par
 
 Immunoglobulin administration may interfere with the development of an immune response to live attenuated virus vaccines such as rubella, mumps, measles and varicella for a period of 3 months. After administration of this medicinal product, an interval of at least 3 months should elapse before vaccination with live attenuated virus vaccines.
 
-Human hepatitis B immunoglobulin should be administrated three to four weeks after vaccination with such a live attenuated vaccine; in case administration of human hepatitis B immunoglobulin is
-
 <div style=\"page-break-after: always\"></div>
 
-essential within three to four weeks after vaccination, then revaccination should be performed three months after the administration of human hepatitis B immunoglobulin.
+Human hepatitis B immunoglobulin should be administrered three to four weeks after vaccination with such a live attenuated vaccine; in case administration of human hepatitis B immunoglobulin is essential within three to four weeks after vaccination, then revaccination should be performed three months after the administration of human hepatitis B immunoglobulin.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -187,13 +181,13 @@ Hepatitis B immunoglobulin has no or negligible influence on the ability to driv
 
 ## Summary of the safety profile
 
-Most adverse drug reactions (ADRs) were mild to moderate in nature. In isolated cases human normal immunoglobulins may cause an anaphylactic shock.
+Most adverse reactions were mild to moderate in nature. In isolated cases human normal immunoglobulins may cause an anaphylactic shock.
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported in the context of 4,810 subcutaneous applications of Zutectra during four completed clinical trials and 1,006 applications during a non-interventional post marketing safety study (PASS).
+The following adverse reactions have been reported in the context of 4 810 subcutaneous applications of Zutectra during four completed clinical trials and 1 006 applications during a non-interventional post authorisation safety study (PASS).
 
-The ADRs reported in four trials are summarised and categorised according to the MedDRA system organ class and frequency below. Frequency per injection has been evaluated using the following convention : very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).  Within each frequency grouping the adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions reported in four trials are summarised and categorised according to the MedDRA system organ class and frequency below. Frequency per injection has been evaluated using the following convention : very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping the adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA System Organ Class                       | Adverse reactions                | Frequency   |
 |-------------------------------------------------|----------------------------------|-------------|
@@ -204,18 +198,19 @@ The ADRs reported in four trials are summarised and categorised according to the
 | Vascular disorders                              | Hypertension                     | Rare*       |
 | Respiratory, thoracic and mediastinal disorders | Oropharyngeal pain               | Rare*       |
 | Gastrointestinal disorders                      | Upper abdominal pain             | Uncommon    |
-| Skin and subcutaneous tissue disorders          | Pruritus, rash                   | Rare*       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Muscle spams                                                                                     | Rare*   |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------|
-| General disorders and administration site conditions | Injection site pain, injection site urticaria, injection site haematoma, injection site erythema | Common  |
-| General disorders and administration site conditions | Fatigue, tiredness                                                                               | Rare*   |
+| Skin and subcutaneous tissue disorders               | Pruritus, rash                                                                                   | Rare*                 |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------|
+| Musculoskeletal and connective tissue disorders      | Muscle spasms                                                                                    | Rare*                 |
+| General disorders and administration site conditions | Injection site pain, injection site urticaria, injection site haematoma, injection site erythema | Common                |
+| General disorders and administration site conditions | Fatigue, tiredness                                                                               | Rare*                 |
+| * single case reports                                | * single case reports                                                                            | * single case reports |
 
 ## Adverse reactions observed with other human immunoglobulin preparations
 
-With normal immunoglobulins adverse reactions such as chills, headache, dizziness, fever, vomiting, allergic reactions, nausea, arthralgia, low blood pressure and moderate low back pain may occur occasionally.
+With human normal immunoglobulins adverse reactions such as chills, headache, dizziness, fever, vomiting, allergic reactions, nausea, arthralgia, low blood pressure and moderate low back pain may occur occasionally.
 
 Rarely human normal immunoglobulins may cause a sudden fall in blood pressure and, in isolated cases, anaphylactic shock, even when the patient has shown no hypersensitivity to previous administration.
 
@@ -243,25 +238,23 @@ Hepatitis B immunoglobulin contains mainly immunoglobulin G (IgG) with a specifi
 
 ## Clinical efficacy and safety
 
-The open, prospective, single-arm clinical trial  enrolled 23 liver transplant recipients, who had been receiving intravenous hepatitis B immunoglobulin prophylaxis and subsequently switched to subcutaneous Zutectra. The weekly subcutaneous dose was 500 IU for patients with bodyweight &lt; 75 kg (a dose increase to 1,000 IU was allowed, if medically required to maintain a safety level of &gt; 100 IU) and 1,000 IU for patients with bodyweight ≥ 75 kg. 2 patients received a higher and 2 patients received a lower dose than recommended by the weight based dosing regimen. Serum antiHBs trough levels of 100 IU/L and higher (primary efficacy endpoint) were maintained for all patients during the 18 to 24 week trial period. The &gt; 100 IU/L safety margin is the generally accepted level of
+The open, prospective, single-arm clinical trial  enrolled 23 liver transplant recipients, who had been receiving intravenous hepatitis B immunoglobulin prophylaxis and subsequently switched to subcutaneous Zutectra. The weekly subcutaneous dose was 500 IU for patients with bodyweight &lt; 75 kg (a dose increase to 1 000 IU was allowed, if medically required to maintain a safety level of &gt; 100 IU) and 1 000 IU for patients with bodyweight ≥ 75 kg. 2 patients received a higher and 2 patients received a lower dose than recommended by the weight based dosing regimen. Serum anti- HBs trough levels of 100 IU/L and higher (primary efficacy endpoint) were maintained for all patients during the 18 to 24 week trial period. The &gt; 100 IU/L safety margin is the generally accepted level of effective prevention against HBV re-infection in liver transplant patients at risk. No patient experienced HBV re-infection. Self-administration was feasible for most patients.
 
 <div style=\"page-break-after: always\"></div>
-
-effective prevention against HBV re-infection in liver transplant patients at risk. No patient experienced HBV re-infection. Self-administration was feasible for most patients.
 
 The mean anti-HBs serum level before switching was 393 ± 139 IU/L. All patients used antiviral medicine.
 
-Using the Clopper Pearson method, the failure rate after 18 weeks was 0 % for patients of the ITT set (95 % CI: [0, 14.8 %]). A failure rate of 0 % was also found for the facultative extension phase (week 24) (95 % CI: [0, 20.6 %])
+Using the Clopper Pearson method, the failure rate after 18 weeks was 0 % for patients of the ITT set (95 % CI: [0, 14.8 %]). A failure rate of 0 % was also found for the facultative extension phase (week 24) (95 % CI: [0, 20.6 %]).
 
-The objectives of the open, prospective, single-arm clinical trial were the investigation of feasibility of home self-administration (including patient compliance), efficacy and safety of subcutaneous application of Zutectra in a population of stable patients during long-term treatment for prophylaxis against re-infection of a transplanted liver in 66 patients. All patients included in this study had to run through a training period of at least 29 days and home self-administration could start on day 36 at the earliest. With the exception of 6 patients who withdrew prior to day 36, all patients achieved complete hospital and home self-administration. No patient prematurely discontinued the study due to lack of feasibility of home self-treatment. During the 48-weeks treatment phase constant serum HBs antibody concentrations ≥ 100 IU/L were measured in all patients at all assessments with mean values of 312.0 ± 103.5 IU/L at the end of the treatment period. In total, 53/66 patients (80.3 %) used antiviral medication and 13 patients received monotherapy with Zutectra during this study. No hepatitis B reinfection was reported and no patient was tested HBsAg positive during the treatment period of 48 weeks. No serious adverse events were reported to be related to study medication. No fatal case was observed during the study.
+The objectives of the open, prospective, single-arm clinical trial were the investigation of feasibility of home self-administration (including patient compliance), efficacy and safety of subcutaneous application of Zutectra in a population of stable patients during long-term treatment for prophylaxis against re-infection of a transplanted liver in 66 patients. All patients included in this study had to run through a training period of at least 29 days and home self-administration could start on day 36 at the earliest. With the exception of 6 patients who withdrew prior to day 36, all patients achieved complete hospital and home self-administration. No patient prematurely discontinued the study due to lack of feasibility of home self-treatment. During the 48-weeks treatment phase constant serum HBs antibody concentrations ≥ 100 IU/L were measured in all patients at all assessments with mean values of 312.0 ± 103.5 IU/L at the end of the treatment period. In total, 53/66 patients (80.3 %) used antiviral medication, and 13 patients received monotherapy with Zutectra during this study. No hepatitis B reinfection was reported, and no patient was tested HBsAg positive during the treatment period of 48 weeks. No serious adverse events were reported to be related to study medication. No fatal case was observed during the study.
 
-The objective of the open, prospective, single-arm clinical trial was the investigation of efficacy and safety of Zutectra for prevention of hepatitis B virus (HBV) re-infection ≥ one week after orthotopic liver transplantation in HBsAg and HBV-DNA negative patients. At the time of transplantation 21 patients (42.9 %) were tested positive for HDV, patients with a positive HIV or HCV test were excluded from study participation. 49 patients received subcutaneous injections of Zutectra of 500 IU (1 mL) or 1,000 IU (2 mL) (dose adaptation in exceptional cases up to 1,500 IU) per week or fortnightly according to serum anti-HBs trough levels. The individual treatment duration per patient was planned to be up to 24 weeks after transplantation. No treatment failures occurred during the 6month study period. Serum HBs antibody concentrations above the minimum safety trough level of &gt; 100 IU/L were measured in all patients at all timepoints independent of the type of administration (investigator, caregiver or self-injection), the dose regimen (500 IU, 1,000 IU, 1,500 IU) or the treatment intervals. No clinical signs of a hepatitis B re-infection were observed and no patient was tested HBsAg positive or HBV-DNA positive during the study which confirms that effective protection against Hepatitis B virus re-infection was provided by subcutaneous administration of Zutectra as part of the combination treatment with HBV virostatic therapy 8 - 18 days after orthotopic liver transplantation. One non-serious adverse event was reported to be related to Zutectra (injection site haematoma). No fatal case was observed during the study.
+The objective of the open, prospective, single-arm clinical trial was the investigation of efficacy and safety of Zutectra for prevention of hepatitis B virus (HBV) re-infection ≥ one week after orthotopic liver transplantation in HBsAg and HBV-DNA negative patients. At the time of transplantation 21 patients (42.9 %) were tested positive for HDV, patients with a positive HIV or HCV test were excluded from study participation. 49 patients received subcutaneous injections of Zutectra of 500 IU (1 mL) or 1 000 IU (2 mL) (dose adaptation in exceptional cases up to 1 500 IU) per week or fortnightly according to serum anti-HBs trough levels. The individual treatment duration per patient was planned to be up to 24 weeks after transplantation. No treatment failures occurred during the 6month study period. Serum HBs antibody concentrations above the minimum safety trough level of &gt; 100 IU/L were measured in all patients at all timepoints independent of the type of administration (investigator, caregiver or self-injection), the dose regimen (500 IU, 1 000 IU, 1 500 IU) or the treatment intervals. No clinical signs of a hepatitis B re-infection were observed, and no patient was tested HBsAg positive or HBV-DNA positive during the study which confirms that effective protection against Hepatitis B virus re-infection was provided by subcutaneous administration of Zutectra as part of the combination treatment with HBV virostatic therapy 8 - 18 days after orthotopic liver transplantation. One non-serious adverse event was reported to be related to Zutectra (injection site haematoma). No fatal case was observed during the study.
 
-The non-interventional post authorization safety study (PASS 978) enrolled 61 adult patients ≥ 6 months after liver transplantation for hepatitis B induced liver failure. The objective of the study was to evaluate the level of compliance of patients using subcutaneous Zutectra as home selftreatment for preventing hepatitis B re-infection. Patients were to be treated with Zutectra in accordance with the information and dosage given in the SPC. Compliance according to anti-HBs serum levels could be shown for 57 (of 61) patients (93 %), with no values below 100 IU/L and a mean anti-HBs serum level of 254.3 IU/L at the final visit. In total, 42/61 patients (68.9 %) used antiviral medication and 19 patients received monotherapy with Zutectra during this study. No treatment failure defined as positive HBV-DNA and HBsAg findings occurred during the entire observation period. No re-infection was observed. No serious adverse reaction was reported. No fatal case was observed during the study.
-
-## 5.2 Pharmacokinetic properties
+The non-interventional post authorization safety study (PASS 978) enrolled 61 adult patients ≥ 6 months after liver transplantation for hepatitis B induced liver failure. The objective of the study was to evaluate the level of compliance of patients using subcutaneous Zutectra as home selftreatment for preventing hepatitis B re-infection. Patients were to be treated with Zutectra in accordance with the information and dosage given in the SmPC. Compliance according to anti-HBs serum levels could be shown for 57 (of 61) patients (93 %), with no values below 100 IU/L and a mean anti-HBs serum level of 254.3 IU/L at the final visit. In total, 42/61 patients (68.9 %) used antiviral medication, and 19 patients received monotherapy with Zutectra during this study. No treatment failure defined as positive HBV-DNA and HBsAg findings occurred during the entire observation period. No re-infection was observed. No serious adverse reaction was reported. No fatal case was observed during the study.
 
 <div style=\"page-break-after: always\"></div>
+
+## 5.2 Pharmacokinetic properties
 
 ## Distribution
 
@@ -287,19 +280,19 @@ No other non-clinical trials have been carried out.
 
 ## 6.1 List of excipients
 
-Glycine Water for injections
+Glycine
+
+Water for injections
 
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-No other preparations may be added to the Zutectra solution as any change in the electrolyte concentration or the pH may result in precipitation or denaturisation of the proteins.
-
 ## 6.3 Shelf life
 
 2 years.
 
-Once the protective cap has been removed from the pre-filled syringe, the solution should be administered immediately.
+Once the protective cap has been removed from the pre-filled pen, the solution should be administered immediately.
 
 ## 6.4 Special precautions for storage
 
@@ -307,19 +300,19 @@ Store and transport refrigerated (2 °C-8 °C).
 
 Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Keep the pre-filled pens in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
 <div style=\"page-break-after: always\"></div>
 
-One mL solution for injection in a pre-filled syringe (Type I glass) with a stopper (bromobutyl) and a tip cap (bromobutyl rubber).
+One mL solution for injection in a type I glass syringe with a staked 27-gauge ½-inch (12.7 mm)
 
-Pack size of five pre-filled syringes in a blistered pack.
+stainless steel needle, rigid needle shield, and Fluorotec-coated stopper in a pre-filled pen.
 
-6.6
+Pack size of five pre-filled pens.
 
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 This medicinal product should be brought to room temperature (approx. 23 °C-27 °C) before use.
 
@@ -327,7 +320,7 @@ The solution can vary from clear to opalescent and colourless to pale yellow.
 
 Solutions that are cloudy or have deposits should not be used.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Additional information and instructions for use are provided in the package leaflet. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 7.
 
@@ -341,15 +334,11 @@ Fax: +49 6103 801-150
 
 Email: mail@biotest.com
 
-8.
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-MARKETING AUTHORISATION NUMBER(S)
+EU/1/09/600/002
 
-EU/1/09/600/001
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 30 November 2009
 
@@ -359,9 +348,7 @@ Date of latest renewal: 16 September 2014
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 9
 
@@ -429,11 +416,11 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zutectra 500 IU solution for injection in pre-filled syringe Human hepatitis B immunoglobulin
+Zutectra 500 IU solution for injection in pre-filled pen Human hepatitis B immunoglobulin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 mLcontains:
+Each 1 mL pre-filled pen contains:
 
 Human protein 150 mg of which at least 96 % is IgG, with a content of antibodies to hepatitis B virus surface antigen (HBs) of at least 500 IU.
 
@@ -441,7 +428,7 @@ IgG subclass distribution:
 
 59 % IgG1, 35 % IgG2, 3 % IgG3, 3 % IgG4
 
-IgA content ≤ 6,000 micrograms/mL
+IgA content ≤ 6 000 micrograms/mL
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -451,7 +438,7 @@ Glycine, water for injections.
 
 Solution for injection
 
-5 pre-filled syringes
+5 pre-filled pens
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -469,7 +456,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Once the protective cap has been removed from the pre-filled syringe, the solution should be administered immediately.
+Once the protective cap has been removed from the pre-filled pen, the solution should be administered immediately.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -479,7 +466,7 @@ Store and transport refrigerated (2 °C-8 °C).
 
 Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Keep the pre-filled pens in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -489,7 +476,7 @@ Biotest Pharma GmbH 63303 Dreieich Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/600/001
+EU/1/09/600/002
 
 ## 13. BATCH NUMBER
 
@@ -517,61 +504,25 @@ NN: {number}
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+PEN multilingual
 
-Zutectra 500 IU injection Human hepatitis B immunoglobulin Subcutaneous use
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+Zutectra 500 IU injection Human hepatitis B immunoglobulin SC Subcutaneous use
 
-Biotest Pharma GmbH
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE                                                          |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-Zutectra 500 IU injection Human hepatitis B immunoglobulin
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-Subcutaneous use
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 500 IU
 
@@ -586,7 +537,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Zutectra 500 IU solution for injection in pre-filled syringe Human hepatitis B immunoglobulin
+## Zutectra 500 IU solution for injection in pre-filled pen Human hepatitis B immunoglobulin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -621,9 +572,9 @@ Zutectra is used to prevent re-infection of hepatitis B in adults who have had a
 
 - -if you are allergic to human immunoglobulin or any of the other ingredients of this medicine (listed in section 6). In particular, in very rare cases of insufficient amount of immunoglobulin A (IgA), when you have antibodies against IgA in your blood. This might lead to severe allergic reaction (anaphylaxis).
 
-An allergic reaction may include sudden wheeziness, difficulty in breathing, fast pulse, swelling of the eyelids, face, lips, throat or tongue, rash or itching.
+An allergic reaction may include sudden wheeziness, difficulty breathing, fast pulse, swelling of the eyelids, face, lips, throat or tongue, rash or itching.
 
-Zutectra is for subcutaneous (under the skin) injection only. Injection into a vein or a blood vessel may result in allergic shock.
+Zutectra is for injection under the skin (subcutaneous) only. Injection into a vein or a blood vessel may result in allergic shock.
 
 ## Warnings and precautions
 
@@ -635,7 +586,7 @@ Zutectra is for subcutaneous (under the skin) injection only. Injection into a v
 
 You may be allergic to immunoglobulins (antibodies) without knowing it, even if you have tolerated previous treatments with human immunoglobulins. Particularly if you do not have enough immunoglobulins of the type IgA in your blood, allergic reactions such as a sudden fall in blood pressure or shock may occur.
 
-You will be carefully observed during and shortly after the 1 st injection with Zutectra to make sure that you do not suffer from a reaction. If you have an allergic reaction to Zutectra, the injection will be stopped immediately. Please tell your doctor or healthcare professional immediately if you notice any reactions during your injection with Zutectra.
+You will be carefully observed during and shortly after the 1 st injection with Zutectra to make sure that you do not suffer from a reaction. If you have an allergic reaction to Zutectra, the treatment will be stopped immediately. Please tell your doctor or healthcare professional immediately if you notice any reactions during your injection with Zutectra.
 
 If you are HBs antigen positive you will not receive Zutectra since there is no benefit in administering this medicine to you. Your doctor will be able to explain this to you.
 
@@ -656,7 +607,7 @@ When medicines are made from human blood or plasma, certain measures are put in 
 
 Manufacturers of these medicines also include steps in the processing of the blood or plasma that can inactivate or remove viruses. Despite these measures, when medicines prepared from human blood or plasma are administered, the possibility of passing on infection cannot be totally excluded. This also applies to any unknown or emerging viruses or other types of infections.
 
-The measures taken are considered effective for enveloped viruses such as human immunodeficiency virus (HIV), hepatitis B virus and hepatitis C virus, and for the non-enveloped hepatitis A virus. The measures taken may be of limited value against non-enveloped viruses such as parvovirus B19 virus (causative agent of Ringel rubella).
+The measures taken are considered effective for enveloped viruses such as human immunodeficiency virus (HIV), hepatitis B virus and hepatitis C virus, and for the non-enveloped hepatitis A virus. The measures taken may be of limited value against non-enveloped viruses such as parvovirus B19 (which causes Ringel rubella).
 
 Immunoglobulins like Zutectra have not been associated with hepatitis A or parvovirus B19 infections possibly because the antibodies against these infections, which are contained in the product, are protective.
 
@@ -686,19 +637,25 @@ Zutectra has no or negligible effects on your ability to drive or use machines.
 
 ## 3. How to use Zutectra
 
-Zutectra is intended for subcutaneous (under the skin) injection . The content of one pre-filled syringe is intended for use once only. Do not inject into a blood vessel.
+Zutectra is intended for under the skin (subcutaneous) injection . The content of one pre-filled pen is intended for use once only. Do not inject into a blood vessel.
 
-In most cases you will be given the injection by your doctor or nurse. However, if your antibody levels are sufficient and you have a fixed dose regimen, you or your caregiver may be trained to carry out the injection at home (see below).
+For the documentation of your injections of Zutectra it is strongly recommended to use a treatment diary. Your doctor will explain how to use it.
 
-For the documentation of your injections of Zutectra it is strongly recommended to use the treatment diary. Your doctor will explain you how to use it.
+## Dose
 
-The dose can be individually established and adapted from 500 IU up to 1,000 IU (in exceptional cases up to 1,500 IU) weekly or fortnightly. The dose will depend on your condition. Your doctor will regularly check your condition and tell you how much and how often you need to use Zutectra.
+The dose is individually determined and is usually from 500 IU up to 1 000 IU (in exceptional cases up to 1 500 IU) weekly or fortnightly. The dose will depend on your condition.
 
-## Injecting by yourself or by caregiver
+## Duration of use
 
-You can inject Zutectra yourself without the help of your doctor, if they have trained you to do this. If you are administering Zutectra yourself, please read instructions in the section 'How to inject Zutectra by yourself or by caregiver' carefully.
+Your doctor will regularly check your condition and tell you how much and how often you need to use Zutectra.
 
-Zutectra must be brought to room temperature (approx. 23 °C-27 °C) before use.
+## Method of administration
+
+In most cases you will be given the injection by your doctor or nurse. However, if your antibody levels are sufficient and you have a fixed dose regimen, you or your caregiver may be trained to carry out the injection at home.
+
+If  you  administer  Zutectra yourself,  please  read  the  instructions  in  section  7  'How  to  inject Zutectra by yourself or by caregiver' carefully.
+
+Zutectra must be brought to room temperature (approx. 23 °C-27 °C) before use, which takes around 30 minutes.
 
 ## If you use more Zutectra than you should
 
@@ -706,36 +663,36 @@ Consequences of an overdose are not known. However, if you have used more than t
 
 ## If you forget to use Zutectra
 
-Do not take a double dose to make up for a forgotten injection. Talk to your doctor about managing the dose. Your doctor will tell you how much and how often you need to use Zutectra.
+Do not take a double dose to make up for a forgotten injection. Talk to your doctor about what you should do.
 
 Make sure you use Zutectra as prescribed and as instructed by your doctor to avoid the risk of a hepatitis B re-infection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 Most side effects observed with Zutectra were mild to moderate in nature. In very rare cases human normal immunoglobulins may cause a serious allergic reaction.
 
 ## If you notice any of the following effects stop the injection and tell your doctor immediately:
 
-- -rash,
-- -itching,
-- -wheezing,
-- -difficulty in breathing,
-- -swelling of the eyelids, face, lips, throat or tongue,
+- -rash
+- -itching
+- -wheezing
+- -difficulty breathing
+- -swelling of the eyelids, face, lips, throat or tongue
 - -low blood pressure, fast pulse
 
-This can be an allergic reaction or a serious allergic reaction (anaphylactic shock).
+This could be an allergic reaction or a serious allergic reaction (anaphylactic shock).
 
-In case of any adverse event after the injection speak to your doctor immediately.
+## In case of any adverse event after the injection speak to your doctor immediately.
 
-The following side effects have been reported with Zutectra:
+## The following side effects have been reported with Zutectra:
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- -injection site reactions: pain, hives (urticaria) at injection site, haematoma (a collection of blood in tissue under the skin), reddening of the skin (erythema).
+- -injection site reactions: pain, hives (urticaria), a collection of blood in tissue under the skin (haematoma), reddening of the skin (erythema).
 
 Uncommon (may affect up to 1 in 100 people):
 
@@ -747,7 +704,7 @@ Uncommon (may affect up to 1 in 100 people):
 - -tiredness (fatigue)
 - -high blood pressure (hypertension)
 - -inflammation of the nose and throat (nasopharyngitis)
-- -muscle spasm
+- -muscle spasms
 - -allergic reactions (hypersensitivity)
 - -abnormal heartbeat (palpitations), cardiac discomfort
 - -itching (pruritus), rash
@@ -764,74 +721,70 @@ Uncommon (may affect up to 1 in 100 people):
 - -nausea (urge to vomit)
 - -joint pain
 - -low blood pressure
-- -moderate low back pain
+- -moderate lower back pain
 - -injection site reactions: swelling, soreness, redness, hardening of the skin, local heat, itching, bruising and rash.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, healthcare professional or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V . By reporting side effects you can help provide more information on the safety of this medicine.
-
 <div style=\"page-break-after: always\"></div>
+
+If you get any side effects, talk to your doctor, healthcare professional or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V . By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Zutectra
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the outer carton, the blister and the pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the outer carton, and the pre-filled pen label after EXP. The expiry date refers to the last day of that month.
 
-Store and transport refrigerated (2 °C-8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store and transport refrigerated (2 °C-8 °C). Do not freeze. Keep the pre-filled pens in the outer carton in order to protect from light.
 
-Once the protective cap has been removed from the pre-filled syringe, the solution should be administered immediately.
+Once the protective cap has been removed from the pre-filled pen, the solution should be administered immediately.
 
 Do not use Zutectra if you notice that the solution is cloudy or contains particles.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment. Once the injection has been completed, dispose of all needles, syringes and empty glass containers without delay in a container intended for sharp objects you were provided with.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment. Once the injection has been completed, dispose of all pens without delay in a container intended for sharp objects, in compliance with local requirements.
 
 ## 6. Contents of the pack and other information
 
 ## What Zutectra contains
 
 - -The active substance is human hepatitis B immunoglobulin of at least 500 IU/mL.
-- -Zutectra contains 150 mg/mL of human plasma protein of which at least 96 % is immunoglobulin G (IgG). The maximum immunoglobulin A (IgA) content is 6,000 micrograms/mL.
+- -Zutectra contains 150 mg/mL of human plasma protein of which at least 96 % is immunoglobulin G (IgG). The maximum immunoglobulin A (IgA) content is 6 000 micrograms/mL.
 - -The other ingredients are glycine and water for injections.
 
 ## What Zutectra looks like and the contents of the pack
 
-Zutectra is presented as a 1 mL solution for injection in a pre-filled syringe. The colour of the solution can vary from clear to opalescent and colourless to pale yellow.
+Zutectra is presented as a 1 mL solution for injection in a pre-filled pen. The colour of the solution can vary from clear to opalescent and colourless to pale yellow.
 
-Pack size of 5 pre-filled syringes in a blistered pack.
+Pack size of 5 pre-filled pens.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Biotest Pharma GmbH
+Biotest Pharma GmbH Landsteinerstrasse 5 D-63303 Dreieich Germany
 
-Landsteinerstrasse 5 D-63303 Dreieich Germany
-
-Tel.: + 49 6103 801-0
-
-Fax: + 49 6103 801-150
-
-Email: mail@biotest.com
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-| België/Belgique/Belgien, Nederland   | Ireland                  |
-|--------------------------------------|--------------------------|
-| Twinpharma BV                        | Aquilant Pharmaceuticals |
+22
 
 <div style=\"page-break-after: always\"></div>
 
-Trasmolenlaan 5 NL-3447 GZ Woerden Tél/Tel +31 348 71 24 05
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien, Nederland
+
+Twinpharma BV Trasmolenlaan 5 NL-3447 GZ Woerden Tél/Tel +31 348 71 24 05
 
 ## България
 
-МЕДИС ФАРМА БЪЛГАРИЯ ЕООД 1700 София Ул. Проф. Атанас Иширков 31, офис 6 T: +359 2 427 49 58
+МЕДИС ФАРМА БЪЛГАРИЯ ЕООД 1700 София
+
+Ул. Проф. Атанас Иширков 31, офис 6 T: +359 2 427 49 58
 
 ## Česká republika, Slovenská republika
 
 Reg-Pharm spol.s.r.o. Fialková 45 CZ-10600 Praha 10 Tel: + 420 2 7265 4004
 
-## Danmark, Ísland, Norge, Suomi/Finland, Sverige
+## Danmark, Sverige
+
+## Ísland, Norge, Suomi/Finland,
 
 Grifols Nordic AB
 
@@ -851,19 +804,13 @@ Tel.: +34 93 571 02 00
 
 ## France
 
-Grifols France 24 Rue de Prony F-75017 Paris Tél: +33 (0) 1 53530870
+Grifols France 24 Rue de Prony F-75017 Paris
 
-## Hrvatska
+Tél: +33 (0) 1 53530870
 
-Medis Adria d.o.o. Buzinska cesta 58 10010 Zagreb - Buzin
+## Ireland
 
-T: +385 1 2303 446
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-21 Fonthill Business Park Fonthill Road Clondalkin IRL-Dublin 22 Tel: + 353 1 404 8344
+Aquilant Pharmaceuticals 21 Fonthill Business Park Fonthill Road Clondalkin IRL-Dublin 22 Tel: + 353 1 404 8344
 
 ## Italia
 
@@ -891,103 +838,123 @@ Grifols Portugal, Lda.
 
 Tel: +351 219 255 200
 
-## Slovenija
-
-MEDIS, d.o.o. Brnčičeva 1, SI-1231 Ljubljana-
-
-Črnuče, Tel: +386 1 589 69 00
-
 <div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Medis Adria d.o.o. Buzinska cesta 58
+
+10010 Zagreb - Buzin T: +385 1 2303 446
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## 7. How to inject Zutectra by yourself or by caregiver
 
-The following instructions are intended to explain how to inject Zutectra. Please read the instructions carefully and follow them step by step. The doctor or his/her assistant will teach you the process of administration.
-
-Do not attempt to inject Zutectra until you are sure that you understand how to prepare the injection solution and give the injection.
+The following instructions are intended to explain how to inject Zutectra. Please read the instructions carefully and follow them step by step. Your doctor or nurse will train you on the handling. Do not inject Zutectra until you are sure that you have understood the instructions.
 
 ## General information:
 
-- -Keep the syringes and syringe disposal unit out of the reach of children; lock the supplies if possible.
+- -Keep the pens out of the sight and reach of children; lock the supplies if possible.
 - -Try to take the injection at the same time of day. This makes it easier to remember it.
-- -Always double-check the dose.
-- -The solution must be brought to room temperature (approx. 23 °C-27 °C) before use.
-- -Take each pre-filled syringe only out of the pack when you are ready for an injection. Once the protective cap has been removed from the pre-filled syringe, you should administer the injection immediately.
-- -The colour of the solution can vary from clear to opalescent and colourless to pale yellow. Do not use solutions that are cloudy or have particles.
-- -This medicine must not be mixed with other medicines.
+- -Always double-check the dose and how many injections you have to administer to complete your dose. One pre-filled pen contains 500 IU.
+- -Take each pre-filled pen only out of the pack when you are ready for an injection. Familiarise yourself with the single-use pre-filled pen.
+
+<!-- image -->
+
+A = protective cap
+
+B = viewing window
+
+C = solution
+
+D = label with expiry date
 
 ## Before the injection:
 
-1. Wash your hands. It is important to have your hands and the items you use as clean as possible.
+1. Collect your supplies and lay them out on a clean surface:
+2. -pre-filled pen(s) of Zutectra (one pre-filled pen contains 500 IU)
+3. -one alcohol swab
+4. -one cotton ball/gauze
+5. -sharps container
+6. -treatment diary
 
-2. Lay out everything you need in advance. Find a clean place where you can spread out all the items you are going to use:
+Note that only the pre-filled pens of Zutectra are supplied. You need to supply the other items yourself.
 
-- -two alcohol swabs,
-- -one pre-filled syringe of Zutectra,
-- -one needle suitable for subcutaneous injection.
+E = needle shield, covers the needle F = yellow plunger, becomes visible when the injection is complete
 
-Please note that alcohol swabs and needles are not contained in the pack and you need to supply them yourself.
-
-Make sure to have your treatment diary and a container intended for sharp objects for waste disposal available.
-
-3. Before preparing the injection, decide where you are going to inject. You should inject Zutectra into the fatty layer between the skin and muscle (about 8 to 12 mm under the skin). The best places for injections are where the skin is loose and soft for example in the abdomen, arm, thigh or buttocks, and away from joints, nerves, bones.
-
-Important: Do not use on any area where you can feel lumps, bumps, firm knots, pain or on an area that is discoloured, indented, scabbed, or where the skin is broken. Talk to the doctor or healthcare professional about these or any other unusual conditions you may find. You should rotate the injection site at every injection. If some areas are too difficult for you to reach, you may need a caregiver to help you with these injections.
-
-4. Prepare the Zutectra pre-filled syringe:
-2. -Take the pre-filled syringe out of the pack.
-3. -Examine the solution carefully. It should be clear and contain no particles. If the solution is
-
-<!-- image -->
+Slovenija MEDIS, d.o.o. Brnčičeva 1, SI-1231 LjubljanaČrnuče, Tel: +386 1 589 69 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Injection
+2. Check the label to ensure the medicinal product has not expired. Inspect the pen visually to ensure it is not damaged.
+3. Allow to warm the pen at room temperature for approximately 30 minutes before use.
+4. Inspect the solution through the pen's viewing window (Fig. 1: I. Before use ). The colour of the solution can vary from clear to opalescent and colourless to pale yellow.
 
-1. Choose the area where you will make the injection and make a note of it in the diary. Further note down the date and the batch number (see \"Information on the starting material of Zutectra and the possibility of transmission of infectious agents\" in section 2 of this package leaflet).
+Do not use if the solution is cloudy or has particles.
 
-<!-- image -->
+5. Choose your injection site. The recommended injection site is the subcutaneous tissue of the thigh or the abdomen (Fig. 2). Rotate the injection sites to give the injection sites time to recover.
 
-Abdomen (stomach): Do not use the area within one inch around the navel. Avoid using the belt line area, as rubbing may irritate the injection site. Avoid surgical scars. This is likely to be the easiest place to inject if you are doing it yourself.
+Do not use the area near your waistline or navel.
 
-Thighs: Use middle and outer areas where you can pinch up tissue. You are likely to have more fatty tissue the closer you are to the hip and the further you are from the knee.
+Do not use in an area where you can feel lumps, bumps, firm knots, or pain.
 
-Arms: The back of the upper arm should be used. It is hard to pinch up the tissue and inject Zutectra yourself using this site. If you do choose to inject your arm yourself, try to pinch up the tissue by placing your upper arm over the back of a chair or brace it against a wall. It is much easier for someone else to use this site if you do need help.
+Do not use on an area that is discoloured, indented, scabbed, or where the skin is broken.
 
-Buttocks: Use any area where you can pinch up tissue. It's harder to give yourself an injection here. Try standing in front of a mirror to locate the site or you may want to ask your caregiver to give you the injection.
+Talk to the doctor or healthcare professional about these or any other unusual conditions you may find.
 
-It's important to change (rotate) the injection sites . This will help the skin stay supple and help the medicine be absorbed evenly. Rotating sites means starting at one site and using all other sites before going back to the first site you used. Then start the rotation again. It may be helpful to keep a record of where you had the last injection to avoid problems.
+6. Record the injection site, the injection date and batch number in a treatment diary (see \"Information on the starting material of Zutectra and the possibility of transmission of infectious agents\" in section 2 of this package leaflet).
 
-<!-- image -->
-
-discoloured, cloudy or contains particles, discard it and start again with a new pre-filled syringe.
-
-- -Remove the protective cap from the syringe.
-- -Take the needle out of its sterile pack and fit the needle onto the syringe.
-5. Get rid of any air bubbles that may be in the pre-filled syringe.
-- -Hold the syringe with the needle pointing upwards, and tap the syringe gently with your fingers until the air has collected at the tip. Carefully push the plunger in until the air bubbles have disappeared.
+Fig. 5
 
 <!-- image -->
+
+10
+
+sec
+
+2.
+
+Fig. 3
+
+Fig. 6
+
++5
+
+sec
+
+Fig. 4
+
+1.
+
+Fig. 7
+
+## Injection:
+
+7. Wash your hands thoroughly.
+
+90°
 
 <div style=\"page-break-after: always\"></div>
 
-The administration in thighs is shown as an example in the following pictures:
+8. Wipe the intended area with an alcohol swab. Let the skin air-dry.
+9. Pull off the protective cap from the Zutectra pre-filled pen (Fig. 3).
 
-<!-- image -->
+Do not push the needle shield against the hand or fingers. Once the protective cap has been removed from the pre-filled pen, administer the injection immediately.
 
-<!-- image -->
+Do not re-attach the protective cap at any time after removing it.
 
-<!-- image -->
+10. Hold the pen in your dominant hand and with your other hand pinch an area of skin between your fingers to create a skinfold.
+11. Place the pre-filled pen vertically on the skin, at a 90° angle, and push the needle shield down fully (Fig. 4). A first 'click' signals the start of injection. Continue to hold the pen during the injection. The yellow plunger moves forward as Zutectra is being injected.
+12. Hold the pen for an initial 10 seconds until the yellow plunger stops moving and becomes completely visible in the window (Fig. 5 and Fig. 1: II After use ). You may hear a second 'click'. Keep holding the pen for an additional 5 seconds to ensure full and complete dosing (Fig. 6).
+13. Remove the pen from the skin vertically at a 90° angle (Fig. 7) and release the skinfold. The injection is now complete. The needle remains hidden by the needle shield which provides protection against needle-stick injury.
 
-<!-- image -->
+Do not tilt the pen during removal.
 
-<!-- image -->
+Do not re-attach the protective cap to the pen.
 
-## Dispose of all used items
+## After the injection:
 
-Once the injection has been completed, dispose of all needles and empty glass containers without delay in a container intended for sharp objects.
-
-2. Wipe the intended area with an alcohol swab. Let the skin air-dry.
-3. Gently pinch the skin together around the disinfected injection site (to raise it up a little) and push the needle into the skin with a rapid, confident movement at an angle of 45 to 90 degrees. Inject beneath the skin as you have been shown by the doctor or nurse.
-4. Inject the liquid by pressing gently on the plunger. Allow yourself enough time to inject the whole of the solution until the syringe is empty.
-5. Then pull the needle out immediately and let go of the pinched skin.
-6. Clean the injection site by wiping it in a circular motion with the alcohol swab.
+14. Gently hold pressure over your skin with a cotton ball or gauze.
+15. Dispose the pen(s) and removed protective cap(s) in a sharps container in compliance with local requirements.

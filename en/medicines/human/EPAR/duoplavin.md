@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:52:16
+document_datetime: 2026-06-11 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duoplavin.html
 document_name: duoplavin.html
 version: success
-processing_time: 0.1062908
-conversion_datetime: 2025-12-30 21:59:21.49895
+processing_time: 0.1469175
+conversion_datetime: 2026-06-13 19:43:45.228204
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # DuoPlavin
 
 [RSS](/en/individual-human-medicine.xml/67115)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-clopidogrel / acetylsalicylic acid Medicine Human Authorised
+clopidogrel / acetylsalicylic acid
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -57,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is DuoPlavin used?
+### How is DuoPlavin used?
 
 DuoPlavin is available as a tablet and can only be obtained with a prescription.
 
@@ -65,7 +65,7 @@ DuoPlavin is taken once a day as one tablet containing 75 mg clopidogrel and eit
 
 For more information about using DuoPlavin, see the package leaflet or contact your doctor or pharmacist.
 
-## How does DuoPlavin work?
+### How does DuoPlavin work?
 
 Both active substances in DuoPlavin, clopidogrel and acetylsalicylic acid, are antiplatelet medicines. This means that they help to prevent blood cells called platelets from sticking together and forming clots, thus helping to prevent heart problems, such as heart attack.
 
@@ -73,7 +73,7 @@ Clopidogrel stops the platelets sticking together by blocking a substance called
 
 Both active substances have been available in the EU for a number of years. Clopidogrel has been authorised since 1998 and is often used in combination with acetylsalicylic acid. Acetylsalicylic acid has been used for over 100 years.
 
-## What benefits of DuoPlavin have been shown in the studies?
+### What benefits of DuoPlavin have been shown in the studies?
 
 Because the two active substances have been used together for a number of years, the company presented the results of studies showing that the active substances in DuoPlavin are absorbed in the body in the same way when taken in a single tablet as when taken separately.
 
@@ -83,7 +83,7 @@ In addition, the company presented the results from 3 previous studies in 61,000
 
 A further study also showed that DuoPlavin was effective at reducing the occurrence of heart attack, stroke or death in patients undergoing percutaneous coronary intervention.
 
-## What are the risks associated with DuoPlavin?
+### What are the risks associated with DuoPlavin?
 
 Bleeding reactions are the most common side effects reported with DuoPlavin. The most common of these (which may affect up to 1 and 10 people) are haematoma (a collection of blood under the skin), epistaxis (nosebleeds), gastrointestinal haemorrhage (bleeding in the stomach or gut), bruising and bleeding where the skin is punctured.
 
@@ -93,17 +93,17 @@ For the full list of side effects of DuoPlavin, see the package leaflet.
 
 DuoPlavin must not be used in people who are hypersensitive (allergic) to clopidogrel, non-steroidal anti-inflammatory drugs (such as acetylsalicylic acid) or any of the other ingredients in DuoPlavin. It must not be used in patients who have a disease that is causing bleeding, such as stomach ulcer or bleeding in the brain or in patients with mastocytosis (high blood levels of certain white blood cells called mast cells). It must not be used in patients who have severely reduced liver or kidney function, or who have a medical condition that includes a combination of asthma, rhinitis (stuffy and runny nose) and nasal polyps (growths in the lining of the nose). DuoPlavin must not be used during the last three months of pregnancy.
 
-## Why is DuoPlavin authorised in the EU?
+### Why is DuoPlavin authorised in the EU?
 
 The European Medicines Agency noted that DuoPlavin is comparable to clopidogrel and acetylsalicylic acid tablets taken separately, and concluded that combining both active substances in a single tablet simplifies treatment for patients as they will need to take fewer tablets. The Agency therefore decided that DuoPlavin's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of DuoPlavin?
+### What measures are being taken to ensure the safe and effective use of DuoPlavin?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of DuoPlavin have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of DuoPlavin are continuously monitored. Suspected side effects reported with DuoPlavin are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about DuoPlavin
+### Other information about DuoPlavin
 
 DuoPlavin received a marketing authorisation valid throughout the EU on 14 March 2010.
 
@@ -113,275 +113,141 @@ Reference Number: EMA/886716/2022
 
 English (EN) (117.78 KB - PDF)
 
-**First published:** 31/03/2010
-
-**Last updated:** 16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/en/documents/overview/duoplavin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-401)
+[Other languages (22)](#file-language-dropdown-647)
 
 български (BG) (129.59 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/bg/documents/overview/duoplavin-epar-medicine-overview_bg.pdf)
 
 español (ES) (116.74 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/es/documents/overview/duoplavin-epar-medicine-overview_es.pdf)
 
 čeština (CS) (124.06 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/cs/documents/overview/duoplavin-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (117.17 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/da/documents/overview/duoplavin-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (120.78 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/de/documents/overview/duoplavin-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (103.92 KB - PDF)
+eesti (ET) (103.92 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/et/documents/overview/duoplavin-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (129.65 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/el/documents/overview/duoplavin-epar-medicine-overview_el.pdf)
 
 français (FR) (121.93 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/fr/documents/overview/duoplavin-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (119.72 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/hr/documents/overview/duoplavin-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (117.19 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/it/documents/overview/duoplavin-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (130.49 KB - PDF)
+latviešu (LV) (130.49 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/lv/documents/overview/duoplavin-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (121.43 KB - PDF)
+lietuvių (LT) (121.43 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/lt/documents/overview/duoplavin-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (121.02 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/hu/documents/overview/duoplavin-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (125.07 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/mt/documents/overview/duoplavin-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (118.38 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/nl/documents/overview/duoplavin-epar-medicine-overview_nl.pdf)
 
 polski (PL) (122.04 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/pl/documents/overview/duoplavin-epar-medicine-overview_pl.pdf)
 
 português (PT) (117.52 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/pt/documents/overview/duoplavin-epar-medicine-overview_pt.pdf)
 
 română (RO) (118.75 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/ro/documents/overview/duoplavin-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (122.87 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/sk/documents/overview/duoplavin-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (118.37 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/sl/documents/overview/duoplavin-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (113.57 KB - PDF)
+suomi (FI) (113.57 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/fi/documents/overview/duoplavin-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (113.95 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-16/02/2023
+**First published:** 31/03/2010 **Last updated:** 16/02/2023
 
 [View](/sv/documents/overview/duoplavin-epar-medicine-overview_sv.pdf)
 
@@ -397,305 +263,161 @@ English (EN) (150.92 KB - PDF)
 
 DuoPlavin : EPAR - Product Information
 
-English (EN) (366.49 KB - PDF)
+English (EN) (435.95 KB - PDF)
 
-**First published:** 31/03/2010
-
-**Last updated:** 19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/en/documents/product-information/duoplavin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-967)
 
-български (BG) (728.33 KB - PDF)
+български (BG) (757.19 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/bg/documents/product-information/duoplavin-epar-product-information_bg.pdf)
 
-español (ES) (523.31 KB - PDF)
+español (ES) (440.28 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/es/documents/product-information/duoplavin-epar-product-information_es.pdf)
 
-čeština (CS) (631.9 KB - PDF)
+čeština (CS) (446.94 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/cs/documents/product-information/duoplavin-epar-product-information_cs.pdf)
 
-dansk (DA) (524.15 KB - PDF)
+dansk (DA) (562.09 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/da/documents/product-information/duoplavin-epar-product-information_da.pdf)
 
-Deutsch (DE) (505.78 KB - PDF)
+Deutsch (DE) (522.98 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/de/documents/product-information/duoplavin-epar-product-information_de.pdf)
 
-eesti keel (ET) (527.31 KB - PDF)
+eesti (ET) (396.4 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/et/documents/product-information/duoplavin-epar-product-information_et.pdf)
 
-ελληνικά (EL) (688.61 KB - PDF)
+ελληνικά (EL) (674.82 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/el/documents/product-information/duoplavin-epar-product-information_el.pdf)
 
-français (FR) (556.54 KB - PDF)
+français (FR) (596.7 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/fr/documents/product-information/duoplavin-epar-product-information_fr.pdf)
 
-hrvatski (HR) (540.42 KB - PDF)
+hrvatski (HR) (524.85 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/hr/documents/product-information/duoplavin-epar-product-information_hr.pdf)
 
-íslenska (IS) (554.34 KB - PDF)
+italiano (IT) (525.08 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
-
-[View](/is/documents/product-information/duoplavin-epar-product-information_is.pdf)
-
-italiano (IT) (524.02 KB - PDF)
-
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/it/documents/product-information/duoplavin-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (550.59 KB - PDF)
+latviešu (LV) (480.53 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/lv/documents/product-information/duoplavin-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (565.39 KB - PDF)
+lietuvių (LT) (483.24 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/lt/documents/product-information/duoplavin-epar-product-information_lt.pdf)
 
-magyar (HU) (608.01 KB - PDF)
+magyar (HU) (679.05 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/hu/documents/product-information/duoplavin-epar-product-information_hu.pdf)
 
-Malti (MT) (633.41 KB - PDF)
+Malti (MT) (1019.09 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/mt/documents/product-information/duoplavin-epar-product-information_mt.pdf)
 
-Nederlands (NL) (495.72 KB - PDF)
+Nederlands (NL) (518.36 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/nl/documents/product-information/duoplavin-epar-product-information_nl.pdf)
 
-norsk (NO) (614.4 KB - PDF)
+polski (PL) (684.25 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
-
-[View](/no/documents/product-information/duoplavin-epar-product-information_no.pdf)
-
-polski (PL) (611.04 KB - PDF)
-
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/pl/documents/product-information/duoplavin-epar-product-information_pl.pdf)
 
-português (PT) (570.87 KB - PDF)
+português (PT) (409.82 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/pt/documents/product-information/duoplavin-epar-product-information_pt.pdf)
 
-română (RO) (658.97 KB - PDF)
+română (RO) (590.89 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/ro/documents/product-information/duoplavin-epar-product-information_ro.pdf)
 
-slovenčina (SK) (612.24 KB - PDF)
+slovenčina (SK) (666.9 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/sk/documents/product-information/duoplavin-epar-product-information_sk.pdf)
 
-slovenščina (SL) (549.55 KB - PDF)
+slovenščina (SL) (573.59 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/sl/documents/product-information/duoplavin-epar-product-information_sl.pdf)
 
-Suomi (FI) (485.91 KB - PDF)
+suomi (FI) (585.95 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/fi/documents/product-information/duoplavin-epar-product-information_fi.pdf)
 
-svenska (SV) (494.35 KB - PDF)
+svenska (SV) (606.51 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-19/07/2024
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
 
 [View](/sv/documents/product-information/duoplavin-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0073 17/07/2024
+Íslenska (IS) (622.79 KB - PDF)
+
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
+
+[View](/is/documents/product-information/duoplavin-epar-product-information_is.pdf)
+
+norsk (NO) (654.57 KB - PDF)
+
+**First published:** 31/03/2010 **Last updated:** 11/06/2026
+
+[View](/no/documents/product-information/duoplavin-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000295727
+
+27/04/2026
 
 icon globe
 
@@ -715,305 +437,163 @@ DuoPlavin : EPAR - All Authorised presentations
 
 English (EN) (25.95 KB - PDF)
 
-**First published:** 31/03/2010
-
-**Last updated:** 28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/en/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-322)
+[Other languages (24)](#file-language-dropdown-380)
 
 български (BG) (101.53 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/bg/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (90.31 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/es/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (111.66 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/cs/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (101.42 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/da/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (102.85 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/de/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (101.95 KB - PDF)
+eesti (ET) (101.95 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/et/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (94.12 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/el/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (35.31 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/fr/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (129 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/hr/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (30.69 KB - PDF)
-
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
-
-[View](/is/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (34.79 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/it/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (123 KB - PDF)
+latviešu (LV) (123 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/lv/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (120 KB - PDF)
+lietuvių (LT) (120 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/lt/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (113.4 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/hu/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (94.59 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/mt/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (100.61 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/nl/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (102 KB - PDF)
-
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
-
-[View](/no/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (66.9 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/pl/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.49 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/pt/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (116.2 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/ro/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (110.35 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/sk/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (64.49 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/sl/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (98.38 KB - PDF)
+suomi (FI) (98.38 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/fi/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (100.28 KB - PDF)
 
-**First published:**
-
-31/03/2010
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
 
 [View](/sv/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (30.69 KB - PDF)
+
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
+
+[View](/is/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (102 KB - PDF)
+
+**First published:** 31/03/2010 **Last updated:** 28/09/2010
+
+[View](/no/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine DuoPlavin Active substance
+Name of medicine
+
+DuoPlavin
+
+Active substance
 
 - clopidogrel
 - acetylsalicylic acid
@@ -1028,7 +608,9 @@ Therapeutic area (MeSH)
 - Acute Coronary Syndrome
 - Myocardial Infarction
 
-Anatomical therapeutic chemical (ATC) code B01AC30
+Anatomical therapeutic chemical (ATC) code
+
+B01AC30
 
 ### Pharmacotherapeutic group
 
@@ -1045,13 +627,27 @@ For further information please refer to section 5.1.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001143 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/001143
+
+Marketing authorisation holder
 
 Sanofi Winthrop Industrie
 
-82 Avenue Raspail
+82 Avenue Raspail 94250 Gentilly FRANCE
 
-Opinion adopted 17/12/2009 Marketing authorisation issued 14/03/2010 Revision 31
+Opinion adopted
+
+17/12/2009
+
+Marketing authorisation issued
+
+14/03/2010
+
+Revision
+
+32
 
 ## Assessment history
 
@@ -1059,23 +655,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 DuoPlavin : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (228.42 KB - PDF)
+English (EN) (145.92 KB - PDF)
 
-**First published:** 28/09/2010
-
-**Last updated:** 19/07/2024
+**First published:** 11/06/2026
 
 [View](/en/documents/procedural-steps-after/duoplavin-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+DuoPlavin : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (228.42 KB - PDF)
+
+**First published:** 28/09/2010 **Last updated:** 11/06/2026
+
+[View](/en/documents/procedural-steps-after/duoplavin-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 DuoPlavin-H-C-xxxx-WS-2150 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/55817/2023
+Adopted Reference Number: EMA/55817/2023
 
 English (EN) (1.66 MB - PDF)
 
@@ -1085,9 +685,7 @@ English (EN) (1.66 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for DuoPlavin (WS-2150)
 
-Adopted
-
-Reference Number: EMA/862229/2022
+Adopted Reference Number: EMA/862229/2022
 
 English (EN) (111.09 KB - PDF)
 
@@ -1095,42 +693,38 @@ English (EN) (111.09 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-duoplavin-ws-2150_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 DuoPlavin : EPAR - Public assessment report
 
 English (EN) (514.86 KB - PDF)
 
-**First published:** 31/03/2010
-
-**Last updated:** 31/03/2010
+**First published:** 31/03/2010 **Last updated:** 31/03/2010
 
 [View](/en/documents/assessment-report/duoplavin-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Duoplavin
 
-Adopted
-
-Reference Number: EMA/CHMP/831262/2009
+Adopted Reference Number: EMA/CHMP/831262/2009
 
 English (EN) (33.64 KB - PDF)
 
-**First published:** 17/12/2009
-
-**Last updated:** 17/12/2009
+**First published:** 17/12/2009 **Last updated:** 17/12/2009
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-duoplavin_en.pdf)
 
-#### News on DuoPlavin
+## News on DuoPlavin
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
 
-#### Topics
+11/11/2022
+
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/07/2024
+**This page was last updated on**
+
+11/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-28 13:33:50
-document_pages: 85
+document_datetime: 2026-06-12 10:52:16
+document_pages: 84
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fubelv-epar-product-information_en.pdf
 document_name: fubelv-epar-product-information_en.pdf
 version: success
-processing_time: 38.539717
-conversion_datetime: 2026-06-01 17:12:46.884755
+processing_time: 30.2313509
+conversion_datetime: 2026-06-13 20:19:00.063821
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
   docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -120,9 +120,7 @@ The recommended dose of etanercept is 25 mg administered twice weekly or 50 mg a
 
 ## Special populations
 
-Renal and hepatic impairment
-
-No dose adjustment is required.
+Renal and hepatic impairment No dose adjustment is required.
 
 ## Elderly
 
@@ -134,7 +132,7 @@ Fubelv is only available as 25 mg pre-filled syringe, 50 mg pre-filled syringe a
 
 Thus, it is not possible to administer Fubelv to paediatric patients that require less than a full 25 mg or 50 mg dose. Paediatric patients who require a dose other than a full 25 mg or 50 mg should not receive Fubelv. If an alternate dose is required, other etanercept products offering such an option should be used.
 
-The dosage of etanercept is based on body weight for paediatric patients. Patients weighing less than 62.5 kg should be accurately dosed on a mg/kg basis using the powder and solvent for solution for injection presentations or powder for solution for injection presentations (see below for dosing for  specific indications). Patients weighing 62.5 kg or more may be dosed using a fixed-dose pre-filled syringe or pre-filled pen.
+The dosage of etanercept is based on body weight for paediatric patients. Patients weighing less than 62.5 kg should be accurately dosed on a mg/kg basis using the powder and solvent for solution for injection presentations  or  powder  for  solution  for  injection  presentations  (see  below  for  dosing  for  specific indications). Patients weighing 62.5 kg or more may be dosed using a fixed-dose pre-filled syringe or pre-filled pen.
 
 The safety and efficacy of etanercept in children aged less than 2 years has not been established. No data are available.
 
@@ -388,28 +386,30 @@ Within each System Organ Class, adverse reactions are listed under headings of f
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                |                                                                                          | Non-melanoma skin cancers* (see section 4.4)                                                               | Malignant melanoma (see section 4.4), lymphoma, leukaemia                                                                                          |                       | Merkel cell carcinoma (see section 4.4), Kaposi's sarcoma     |
 | Blood and lymphatic system disorders                                     |                                                                                                |                                                                                          | Thrombocytopen ia, anaemia, leukopenia, neutropenia                                                        | Pancytopenia*                                                                                                                                      | Aplastic anaemia*     | Histiocytosis haematophagic (macrophage activation syndrome)* |
 | Immune system disorders                                                  |                                                                                                | Allergic reactions (see Skin and subcutaneous tissue disorders), autoantibody formation* | Vasculitis (including antineutrophilic cytoplasmic antibody positive vasculitis)                           | Serious allergic/ anaphylactic reactions (including angioedema, bronchospasm), sarco idosis                                                        |                       | Worsening of symptoms of dermatomyositis                      |
+| Nervous system disorders                                                 | Headache                                                                                       |                                                                                          |                                                                                                            | CNS demyelinating events suggestive of                                                                                                             |                       |                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-| System Organ Class                               | Very Common ≥1/10   | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100                               | Rare ≥1/10,000 to <1/1,000                                                                                                                                                                                                                                                                                                                                                          | Very Rare <1/10,000   | Not Known (Cannot be Estimated from Available Data)   |
-|--------------------------------------------------|---------------------|--------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------|
-| Nervous system disorders                         | Headache            |                          |                                                           | CNS demyelinating events suggestive of multiple sclerosis or localised demyelinating conditions, such as optic neuritis and transverse myelitis (see section 4.4), peripheral demyelinating events, including Guillain- Barré syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, and multifocal motor neuropathy (see section 4.4), seizure |                       |                                                       |
-| Eye disorders                                    |                     |                          | Uveitis, scleritis                                        |                                                                                                                                                                                                                                                                                                                                                                                     |                       |                                                       |
-| Cardiac disorders                                |                     |                          | Worsening of cardiac failure congestive (see section 4.4) | New onset cardiac failure congestive (see section 4.4)                                                                                                                                                                                                                                                                                                                              |                       |                                                       |
-| Respiratory, thoracic, and mediastinal disorders |                     |                          |                                                           | Interstitial lung disease (including pneumonitis and pulmonary fibrosis)*                                                                                                                                                                                                                                                                                                           |                       |                                                       |
+| System Organ Class                               | Very Common ≥1/10   | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100                               | Rare ≥1/10,000 to <1/1,000                                                                                                                                                                                                                                                                                                                   | Very Rare <1/10,000   | Not Known (Cannot be Estimated from Available Data)   |
+|--------------------------------------------------|---------------------|--------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------|
+|                                                  |                     |                          |                                                           | multiple sclerosis or localised demyelinating conditions, such as optic neuritis and transverse myelitis (see section 4.4), peripheral demyelinating events, including Guillain- Barré syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, and multifocal motor neuropathy (see section 4.4), seizure |                       |                                                       |
+| Eye disorders                                    |                     |                          | Uveitis, scleritis                                        |                                                                                                                                                                                                                                                                                                                                              |                       |                                                       |
+| Cardiac disorders                                |                     |                          | Worsening of cardiac failure congestive (see section 4.4) | New onset cardiac failure congestive (see section 4.4)                                                                                                                                                                                                                                                                                       |                       |                                                       |
+| Respiratory, thoracic, and mediastinal disorders |                     |                          |                                                           | Interstitial lung disease (including pneumonitis and pulmonary fibrosis)*                                                                                                                                                                                                                                                                    |                       |                                                       |
+| Gastrointestinal disorders                       |                     |                          | Inflammatory bowel disease                                |                                                                                                                                                                                                                                                                                                                                              |                       |                                                       |
+| Hepatobiliary disorders                          |                     |                          | Elevated liver enzymes*                                   | Autoimmune hepatitis*                                                                                                                                                                                                                                                                                                                        |                       |                                                       |
+| Skin and                                         |                     | Pruritus, rash           | Angioedema,                                               | Stevens-Johnson                                                                                                                                                                                                                                                                                                                              | Toxic epidermal       |                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very Common ≥1/10                                                                           | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100                                                                                                    | Rare ≥1/10,000 to <1/1,000                                                                                                       | Very Rare <1/10,000        | Not Known (Cannot be Estimated from Available Data)   |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------|
-| Gastrointestinal disorders                           |                                                                                             |                          | Inflammatory bowel disease                                                                                                     |                                                                                                                                  |                            |                                                       |
-| Hepatobiliary disorders                              |                                                                                             |                          | Elevated liver enzymes*                                                                                                        | Autoimmune hepatitis*                                                                                                            |                            |                                                       |
-| Skin and subcutaneous tissue disorders               |                                                                                             | Pruritus, rash           | Angioedema, psoriasis (including new onset or worsening and pustular, primarily palms and soles), urticaria, psoriasiform rash | Stevens-Johnson syndrome, cutaneous vasculitis (including hypersensitivity vasculitis), erythema multiforme, lichenoid reactions | Toxic epidermal necrolysis |                                                       |
-| Musculoskeletal and connective tissue disorders      |                                                                                             |                          |                                                                                                                                | Cutaneous lupus erythematosus, subacute cutaneous lupus erythematosus, lupus-like syndrome                                       |                            |                                                       |
-| Renal and urinary disorders                          |                                                                                             |                          |                                                                                                                                | Glomerulonephritis                                                                                                               |                            |                                                       |
-| General disorders and administration site conditions | Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)* | Pyrexia                  |                                                                                                                                |                                                                                                                                  |                            |                                                       |
+| System Organ Class                                   | Very Common ≥1/10                                                                           | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100                                                                                        | Rare ≥1/10,000 to <1/1,000                                                                                       | Very Rare <1/10,000   | Not Known (Cannot be Estimated from Available Data)   |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------|
+| subcutaneous tissue disorders                        |                                                                                             |                          | psoriasis (including new onset or worsening and pustular, primarily palms and soles), urticaria, psoriasiform rash | syndrome, cutaneous vasculitis (including hypersensitivity vasculitis), erythema multiforme, lichenoid reactions | necrolysis            |                                                       |
+| Musculoskeletal and connective tissue disorders      |                                                                                             |                          |                                                                                                                    | Cutaneous lupus erythematosus, subacute cutaneous lupus erythematosus, lupus-like syndrome                       |                       |                                                       |
+| Renal and urinary disorders                          |                                                                                             |                          |                                                                                                                    | Glomerulonephritis                                                                                               |                       |                                                       |
+| General disorders and administration site conditions | Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)* | Pyrexia                  |                                                                                                                    |                                                                                                                  |                       |                                                       |
+
+* see Description of selected adverse reactions, below.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -493,13 +493,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No dose-limiting toxicities were observed during clinical trials of rheumatoid arthritis patients. The highest dose level evaluated has been an intravenous loading dose of 32 mg/m 2 followed by subcutaneous doses of 16 mg/m 2 administered twice weekly. One rheumatoid arthritis patient mistakenly self-administered 62 mg etanercept subcutaneously twice weekly for 3 weeks without experiencing undesirable effects. There is no known antidote to etanercept.
+No dose-limiting toxicities were observed during clinical trials of rheumatoid arthritis patients. The highest dose level evaluated has been an intravenous loading dose of 32 mg/m 2 followed by subcutaneous doses of 16 mg/m 2  administered twice weekly. One rheumatoid arthritis patient mistakenly self-administered 62 mg etanercept subcutaneously twice weekly for 3 weeks without experiencing undesirable effects. There is no known antidote to etanercept.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB01
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNFα) inhibitors, ATC code: L04AB01
 
 Fubelv is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -541,16 +541,16 @@ Patients in the etanercept in combination with methotrexate therapy group had si
 
 ## Clinical efficacy results at 12 months: Comparison of etanercept vs. methotrexate vs. etanercept in combination with methotrexate in patients with RA of 6 months to 20 years duration
 
-| Endpoint   | Endpoint         | Methotrexate （n=228）   | Etanercept （n=223)   | Etanercept+ Methotrexate （n=231)   |
-|------------|------------------|--------------------------|-----------------------|-------------------------------------|
-| ACR        | ACR20            | 58.8%                    | 65.5%                 | 74.5%f                              |
-| Responsesa | ACR50            | 36.4%                    | 43.0%                 | 63.2%T.                             |
-| Responsesa | ACR70            | 16.7%                    | 22.0%                 | 39.8%1                              |
-| DAS        | (Scoreb)Baseline | 5.5                      | 5.7                   | 5.5                                 |
-| DAS        | (Score)Week52    | 3.0                      | 3.0                   | 2.3T.                               |
-| DAS        | Remission        | 14%                      | 18%                   | 37%f                                |
-| HAQ        | Baseline         | 1.7                      | 1.7                   | 1.8                                 |
-| HAQ        | Week52           | 1.1                      | 1.0                   | 0.8T                                |
+| Endpoint   | Endpoint        | Methotrexate （n=228)   | Etanercept （n=223)   | Etanercept+ Methotrexate （n=231)   |
+|------------|-----------------|-------------------------|-----------------------|-------------------------------------|
+| ACR        | ACR20           | 58.8%                   | 65.5%                 | 74.5%f                              |
+| Responsesa | ACR50           | 36.4%                   | 43.0%                 | 63.2%f                              |
+| Responsesa | ACR70           | 16.7%                   | 22.0%                 | 39.8%                               |
+| DAS        | (Score)Baseline | 5.5                     | 5.7                   | 5.5                                 |
+| DAS        | (Score)Week52   | 3.0                     | 3.0                   | 2.3T.4                              |
+| DAS        | Remission       | 14%                     | 18%                   | 370%f.                              |
+| HAQ        | Baseline        | 1.7                     | 1.7                   | 1.8                                 |
+| HAQ        | Week52          | 1.1                     | 1.0                   | 0.8T                                |
 
 Radiographic progression at 12 months was significantly less in the etanercept group than in the methotrexate group, while the combination was significantly better than either monotherapy at slowing radiographic progression (see figure below).
 
@@ -608,7 +608,7 @@ Radiographic changes were assessed in the psoriatic arthritis study. Radiographs
 
 SE=standard  error
 
-a p=0.0001
+a  p=0.0001
 
 Etanercept treatment resulted in improvement in physical function during the double-blind period, and this benefit was maintained during the longer-term exposure of up to 2 years.
 
@@ -630,19 +630,19 @@ Compared to placebo, treatment with etanercept resulted in significant improveme
 
 |                                 | Percent of Patients   | Percent of Patients   |
 |---------------------------------|-----------------------|-----------------------|
-| Ankylosing Spondylitis Response | Placebo n =139        | Etanercept n =138     |
+| Ankylosing Spondylitis Response | Placebo n =139        | Etanercept n=138      |
 | ASAS 20                         |                       |                       |
 | 2 weeks                         | 22                    | 46a                   |
-| 3 months                        | 27                    | 60                    |
+| 3months                         | 27                    | 60a                   |
 | 6 months                        | 23                    | 58a                   |
-| ASAS50                          |                       |                       |
-| 2 weeks                         | 7                     | 24a                   |
+| ASAS 50                         |                       |                       |
+| 2 weeks                         | 7                     | 24                    |
 | 3 months                        | 13                    | 45a                   |
 | 6 months                        | 10                    | 42a                   |
-| ASAS 70                         |                       |                       |
+| ASAS70                          |                       |                       |
 | 2 weeks                         | 2                     | 126                   |
 | 3 months                        | 7                     | 296                   |
-| 6 months                        | 5                     | 28b                   |
+| 6months                         | 5                     | 28b                   |
 
 Among patients with ankylosing spondylitis who received etanercept, the clinical responses were apparent at the time of the first visit (2 weeks) and were maintained through 6 months of therapy. Responses were similar in patients who were or were not receiving concomitant therapies at baseline.
 
@@ -662,13 +662,13 @@ Compared to placebo, treatment with etanercept resulted in statistically signifi
 
 ## Efficacy response in placebo-controlled nr-AxSpa study: Percent of patients achieving endpoints
 
-| Double-Blind Clinical ResponsesatWeek12   |   Placebo n=106to109* | Etanercept n=103 to105*   |
-|-------------------------------------------|-----------------------|---------------------------|
-| ASAS**40                                  |                  15.7 | 32.4                      |
-| ASAS20                                    |                  36.1 | 52.4                      |
-| ASAS5/6                                   |                  10.4 | 33.0a                     |
-| ASASpartialremission                      |                  11.9 | 24.8c                     |
-| BASDAI***50                               |                  23.9 | 43.86                     |
+| Double-Blind Clinical ResponsesatWeek12   |   Placebo n=106to109* | Etanercept n=103to105*   |
+|-------------------------------------------|-----------------------|--------------------------|
+| ASAS**40                                  |                  15.7 | 32.46                    |
+| ASAS20                                    |                  36.1 | 52.4                     |
+| ASAS5/6                                   |                  10.4 | 33.0a                    |
+| ASASpartialremission                      |                  11.9 | 24.8                     |
+| BASDAI***50                               |                  23.9 | 43.8                     |
 
 At week 12, there was a statistically significant improvement in the SPARCC (Spondyloarthritis Research Consortium of Canada) score for the sacroiliac joint (SIJ) as measured by MRI for patients receiving etanercept. Adjusted mean change from baseline was 3.8 for etanercept treated (n=95) versus 0.8 for placebo treated (n=105) patients (p&lt;0.001). At week 104, the mean change from baseline in the SPARCC score measured on MRI for all etanercept-treated subjects was 4.64 for the SIJ (n=153) and 1.40 for the spine (n=154).
 
@@ -712,12 +712,12 @@ In study 1, the etanercept-treated group had a significantly higher proportion o
 
 ## Responses of patients with psoriasis in studies 2, 3 and 4
 
-|                            | Study2   | Study2     | Study2     | Study2     | Study2     | Study3   | Study3     | Study3     | Study4   | Study4     | Study4     |
+| Response (%)               | Study2   | Study2     | Study2     | Study2     | Study2     | Study3   | Study3     | Study3     | Study4   | Study4     | Study4     |
 |----------------------------|----------|------------|------------|------------|------------|----------|------------|------------|----------|------------|------------|
-|                            | Placebo  | Etanercept | Etanercept | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept |
-| Response                   | Placebo  | 25mg BIW   | 25mg BIW   | 50mgBIW    | 50mgBIW    | Placebo  | 25mg BIW   | 50mg BIW   | Placebo  | 50mg QW    | 50mg QW    |
-| (%)                        | n=166    | n= 162     | n= 162     | n 三 164   | n= 164     | n=193    | n= 196     | n= 196     | n=46     | n= 96      | n= 90      |
-|                            | wk12     | wk 12      | wk 24a     | wk 12      | wk 24a     | wk12     | wk12       | wk12       | wk12     | wk12       | wk 24a     |
+| Response (%)               | Placebo  | Etanercept | Etanercept | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept |
+| Response (%)               | Placebo  | 25mg BIW   | 25mg BIW   | 50mgBIW    | 50mgBIW    | Placebo  | 25mg BIW   | 50mg BIW   | Placebo  | 50mg QW    | 50mg QW    |
+| Response (%)               | n=166    | n= 162     | n= 162     | n 三 164   | n= 164     | n=193    | n= 196     | n= 196     | n=46     | n= 96      | n= 90      |
+| Response (%)               | wk12     | wk 12      | wk 24a     | wk 12      | wk 24a     | wk12     | wk12       | wk12       | wk12     | wk12       | wk 24a     |
 | PASI50                     | 14       | 58°        | 70         | 74         | 77         | 9        | 64         | 77         | 9        | 69         | 83         |
 | PASI75                     | 4        | 34         | 44         | 49         | 59         | 3        | 34         | 49         | 2        | 38         | 71         |
 | DSGA, clearor almost clear | 5        | 34         | 39         | 49*        | 55         | 4        | 39°        | 57°        | 4        | 39*        | 64         |
@@ -804,7 +804,7 @@ Etanercept serum values were determined by an Enzyme-Linked Immunosorbent Assay 
 
 ## Absorption
 
-Etanercept is slowly absorbed from the site of subcutaneous injection, reaching maximum concentration approximately 48 hours after a single dose. The absolute bioavailability is 76%. With twice-weekly doses, it is anticipated that steady-state concentrations are approximately twice as high as those observed after single doses. After a single subcutaneous dose of 25 mg etanercept, the average maximum serum concentration observed in healthy volunteers was 1.65±0.66 μg/ml, and the area under the curve was 235±96.6 μg × hr/ml. Mean serum concentration profiles at steady state in treated RA patients were Cmax of 2.4 mg/l vs. 2.6 mg/l, Cmin of 1.2 mg/l vs. 1.4 mg/l, and partial AUC of 297 mg × hr/l vs. 316 mg × hr/l for 50 mg etanercept once weekly (n=21) vs. 25 mg etanercept twice weekly (n=16), respectively. In an open-label, single-dose, two-treatment, crossover study in healthy volunteers, etanercept administered as a single 50 mg/ml injection was found to be bioequivalent to two simultaneous injections of 25 mg/ml.
+Etanercept is slowly absorbed from the site of subcutaneous injection, reaching maximum concentration approximately 48 hours after a single dose. The absolute bioavailability is 76%. With twice-weekly doses, it is anticipated that steady-state concentrations are approximately twice as high as those observed after single doses. After a single subcutaneous dose of 25 mg etanercept, the average maximum serum concentration observed in healthy volunteers was 1.65±0.66 μg/ml, and the area under the curve was 235±96.6 μg × hr/ml. Mean serum concentration profiles at steady state in treated RA patients were Cmax of 2.4 mg/l vs. 2.6 mg/l, Cmin  of 1.2 mg/l vs. 1.4 mg/l, and partial AUC of 297 mg × hr/l vs. 316 mg × hr/l for 50 mg etanercept once weekly (n=21) vs. 25 mg etanercept twice weekly (n=16), respectively. In an open-label, single-dose, two-treatment, crossover study in healthy volunteers, etanercept administered as a single 50 mg/ml injection was found to be bioequivalent to two simultaneous injections of 25 mg/ml.
 
 In a population pharmacokinetics analysis in ankylosing spondylitis patients, the etanercept steady state AUCs were 466 μg × hr/ml and 474 μg × hr/ml for 50 mg etanercept once weekly (n=154) and 25 mg twice weekly (n=148), respectively.
 
@@ -918,9 +918,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland
+## Biocon Biologics Ireland Limited
 
-D13 R20R
+Commercial House, Millbank Business Park, Lucan, Dublin, K78 X5W6, Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -930,7 +930,9 @@ EU/1/26/2023/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation:
+
+Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -955,11 +957,13 @@ Lupin Limited (Biotech Division) Gat No. 1156, 1157, 1158, 1159 and 1160, Villag
 
 Maharashtra, India
 
-## Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+## Biocon Biologics Ireland Limited
 
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+Block B, The Crescent Building, Santry Demesne
+
+Dublin D09 C6X8 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -981,12 +985,11 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
-
-## · Additional risk minimisation measures
+- Additional risk minimisation measures
 
 Prior to the use of etanercept in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+
+<div style=\"page-break-after: always\"></div>
 
 The educational programme is aimed at reducing the risk of serious infections.
 
@@ -1020,13 +1023,15 @@ Solution for injection
 
 12 pre-filled syringes
 
-Read the package leaflet before use. Subcutaneous use
+Read the package leaflet before use.
+
+Subcutaneous use
 
 Keep out of the sight and reach of children.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR PRE-FILLED SYRINGES 25 MG - PACKS OF 4 AND 12
+CARTON FOR PRE-FILLED SYRINGES 25 MG - PACKS OF 4 AND 12
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1048,8 +1053,6 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-EXP
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1064,19 +1067,17 @@ Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+## Biocon Biologics Ireland Limited
 
-Unit 35/36
+Commercial House,
 
-Grange Parade,
+Millbank Business Park,
 
-Baldoyle Industrial Estate,
+Lucan, Dublin,
 
-Dublin 13
+K78 X5W6,
 
-DUBLIN
-
-Ireland D13 R20R
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1095,25 +1096,21 @@ Lot
 
 Fubelv 25 mg
 
+17. UNIQUE IDENTIFIER - 2D BARCODE
+2. 2D barcode carrying the unique identifier included.
+
 <div style=\"page-break-after: always\"></div>
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
 PC SN NN
 
-43
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## IMMEDIATE CARTON FOR PRE-FILLED SYRINGES 25 MG (WITHOUT BLUE BOX) COMPONENT OF MULTIPACK - 12 OR 4  PRE-FILLED SYRINGUES
+## IMMEDIATE CARTON FOR PRE-FILLED SYRINGES 25 MG (WITHOUT BLUE BOX) COMPONENT OF MULTIPACK - 12 OR 4  PRE-FILLED  SYRINGUES
 
 Fubelv 25 mg solution for injection in pre-filled syringe. etanercept
 
@@ -1153,7 +1150,7 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-## EXP
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1166,24 +1163,19 @@ Refer to package leaflet for alternative storage details.
 Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## Biocon Biologics Ireland Limited
 
-Biosimilar Collaborations Ireland Limited
+Commercial House,
 
-Unit 35/36
+Millbank Business Park,
 
-Grange Parade,
+Lucan, Dublin,
 
-Baldoyle Industrial Estate,
-
-Dublin 13
-
-DUBLIN
+K78 X5W6,
 
 Ireland
-
-D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1195,11 +1187,9 @@ EU/1/26/2023/003 8 (2 packs of 4 pre-filled syringes)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Fubelv 25 mg Not applicable Not applicable
 
@@ -1210,6 +1200,8 @@ Fubelv 25 mg Not applicable Not applicable
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
+
+45
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1269,21 +1261,17 @@ Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+## Biocon Biologics Ireland Limited
 
-Unit 35/36
+Commercial House,
 
-Grange Parade,
+Millbank Business Park,
 
-Baldoyle Industrial Estate,
+Lucan, Dublin,
 
-Dublin 13
-
-DUBLIN
+K78 X5W6,
 
 Ireland
-
-D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1303,10 +1291,9 @@ Fubelv 25 mg
 
 ## 16. INFORMATION IN BRAILLE
 
-<div style=\"page-break-after: always\"></div>
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
@@ -1314,8 +1301,6 @@ Fubelv 25 mg
 |-------|-------------------------------------------|
 
 PC SN NN
-
-49
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1407,21 +1392,17 @@ Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+## Biocon Biologics Ireland Limited
 
-Unit 35/36
+Commercial House,
 
-Grange Parade,
+Millbank Business Park,
 
-Baldoyle Industrial Estate,
+Lucan, Dublin,
 
-Dublin 13
-
-DUBLIN
+K78 X5W6,
 
 Ireland
-
-D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1433,7 +1414,8 @@ EU/1/26/2023/005 12 pre-filled syringes
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1520,7 +1502,7 @@ CARTON FOR PRE-FILLED PENS 50 MG
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1542,21 +1524,17 @@ Keep the pre-filled pens in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+## Biocon Biologics Ireland Limited
 
-Unit 35/36
+Commercial House,
 
-Grange Parade,
+Millbank Business Park,
 
-Baldoyle Industrial Estate,
+Lucan, Dublin,
 
-Dublin 13
-
-DUBLIN
+K78 X5W6,
 
 Ireland
-
-D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1568,18 +1546,16 @@ EU/1/26/2023/007 12 pre-filled pens
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Fubelv 50 mg
 
-<div style=\"page-break-after: always\"></div>
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
@@ -1622,7 +1598,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the User
 
@@ -1717,7 +1693,7 @@ test. The conduct of these tests should be recorded on the Patient Card. It is v
 
 ## Children and adolescents
 
-- Vaccinations :  If  possible,  children  should be up to date with all vaccinations before using Fubelv.  Some  vaccines,  such  as  oral  polio  vaccine,  should  not  be  given  while  using  this medicine. Tell your doctor before you or the child receive any vaccines.
+- Vaccinations :  If  possible,  children should  be  up to  date with all  vaccinations before using Fubelv.  Some  vaccines,  such  as  oral  polio  vaccine,  should  not  be  given  while  using  this medicine. Tell your doctor before you or the child receive any vaccines.
 
 Fubelv should not be used in children and adolescents who weigh less than 62.5 kg.
 
@@ -1906,17 +1882,17 @@ Fubelv 25 mg is available in pack sizes of 4,12 pre-filled syringes, in a multip
 
 Fubelv 50 mg is available in packs containing 4 or 12 pre-filled syringes. Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder Biocon Biologics Ireland Limited
 
-Biosimilar Collaborations Ireland Limited Unit 35/36
+Commercial House, Millbank Business Park, Lucan, Dublin, K78 X5W6, Ireland
 
 <div style=\"page-break-after: always\"></div>
 
-Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
-
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+## Biocon Biologics Ireland Limited
+
+Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For further information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1926,7 +1902,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biocon Biologics Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -1942,71 +1918,99 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Eesti
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
+
+Ι . Κ . Ε
+
+Τηλ.:
+
+0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
 
 ## France
 
-Laboratoires Biogaran Tél: +33 (0) 800 970 109
+Laboratoires Biogaran
 
-## Hrvatska
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Tél: +33 (0) 800 970 109
 
 ## Lietuva
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+Biocon Biologics Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biocon Biologics Ireland Limited Tel.: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biocon Biologics Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biocon Biologics Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics Finland OY
+
+Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
 
 ## România
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited
 
-<div style=\"page-break-after: always\"></div>
+Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
+Biocon Biologics Ireland Limited
 
 Tel: 1800 777 794
+
+## Slovenija
+
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
 
 ## Ísland
 
@@ -2014,23 +2018,45 @@ Biocon Biologics Finland OY
 
 Sími: +345 800 4316
 
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
 ## Italia
 
 Biocon Biologics Spain S.L .
 
 Tel: 0080008250910
 
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
+Biocon Biologics Ireland Limited
 
-Τηλ: 0080008250910
+Τηλ
+
+: 0080008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited
+Biocon Biologics Ireland Limited
 
 Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2060,33 +2086,9 @@ The solution should not be mixed with any other medicine before use. Not include
 - Gauze pad and plaster
 - Sharps disposal container
 
-## Device Parts
-
-## Slovenija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
-## Suomi/Finland
-
-Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
-
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
-
 <div style=\"page-break-after: always\"></div>
+
+## Device Parts
 
 <!-- image -->
 
@@ -2102,7 +2104,7 @@ Please see section 5 for instructions on how to store Fubelv. If you have any qu
 - Look at the medicine through the syringe body.
 - The medicine should be clear or opalescent, colourless to yellow, and may contain small white or almost transparent particles of protein.
 - Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present.
-3. Allow the medicine to reach room temperature: Remove one pre-filled syringe from the carton that is stored in the refrigerator and leave at room temperature for 15 to 30 minutes before injecting. This is important to make the medicine easier and more comfortable to inject.
+5. Allow the medicine to reach room temperature: Remove one pre-filled syringe from the carton that is stored in the refrigerator and leave at room temperature for 15 to 30 minutes before injecting. This is important to make the medicine easier and more comfortable to inject.
 - Do not remove the needle cover until you are ready to inject.
 - Do not use heat sources, such as a microwave or hot water, to warm the solution for injection.
 4. Assemble the additional supplies you will need for your injection. These include an alcohol swab and a cotton ball or gauze.
@@ -2111,6 +2113,7 @@ Please see section 5 for instructions on how to store Fubelv. If you have any qu
 ## Step 2: Choosing an injection site
 
 1. Three recommended injection sites include: (1) the front of the middle thighs; (2) the abdomen; and (3) the outer area of the upper arms (see Diagram 1). If you are injecting into the abdomen, choose a site that is at least 5 cm away from the belly button. If you are self-injecting, do not use the outer area of the upper arms.
+2. 3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2151,7 +2154,9 @@ If you have any questions or require further information, please talk to your do
 
 <div style=\"page-break-after: always\"></div>
 
-## Fubelv 50 mg solution for injection in pre-filled pen etanercept
+## Fubelv 50
+
+## mg solution for injection in pre-filled pen etanercept
 
 ▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2428,13 +2433,15 @@ Fubelv is available in packs containing 4 or 12 pre-filled pens. Not all pack si
 
 <div style=\"page-break-after: always\"></div>
 
-Biosimilar Collaborations Ireland Limited
+## Biocon Biologics Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Commercial House, Millbank Business Park, Lucan, Dublin, K78 X5W6, Ireland
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+## Biocon Biologics Ireland Limited
+
+Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For further information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2444,7 +2451,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biocon Biologics Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -2460,11 +2467,11 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Eesti
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -2476,23 +2483,27 @@ Laboratoires Biogaran Tél: +33 (0) 800 970 109
 
 ## Lietuva
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+Biocon Biologics Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biocon Biologics Ireland Limited
+
+Tel.: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biocon Biologics Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
 
 ## Norge
 
@@ -2504,13 +2515,13 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biocon Biologics Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics Spain S.L.
 
-<div style=\"page-break-after: always\"></div>
+Tel: 0080008250910
 
 ## Hrvatska
 
@@ -2518,9 +2529,23 @@ Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
+## România
+
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
+
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Biocon Biologics Ireland Limited
+
+Tel: 1800 777 794
+
+## Slovenija
+
+Biocon Biologics Ireland Limited
+
+Tel: 0080008250910
 
 ## Ísland
 
@@ -2528,23 +2553,45 @@ Biocon Biologics Finland OY
 
 Sími: +345 800 4316
 
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
 ## Italia
 
 Biocon Biologics Spain S.L .
 
 Tel: 0080008250910
 
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
+Biocon Biologics Ireland Limited
 
-Τηλ: 0080008250910
+Τηλ
+
+: 0080008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited
+Biocon Biologics Ireland Limited
 
 Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2563,32 +2610,6 @@ Read the Instructions for use before you start using Fubelv and each time you ge
 - Sharps disposal container
 
 ## Device Parts
-
-## România
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Slovenija
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Slovenská republika
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Suomi/Finland
-
-Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
-
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2610,7 +2631,8 @@ Look at the medicine through the viewing window.
 
 - The medicine should be clear or opalescent, colourless or yellow, and may contain small white or almost transparent particles of protein.
 - Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present.
-3. Allow the medicine to reach room temperature:
+
+## 3. Allow the medicine to reach room temperature:
 
 Remove one pre-filled pen from the carton that is stored in the refrigerator and leave at room temperature for at least 30 minutes before injecting.
 
@@ -2633,17 +2655,17 @@ If you are injecting into the abdomen, choose a site that is at least 5 cm away 
 - Do not inject into scars or stretch marks.
 - If you have psoriasis, do not inject into any raised, thick, red, or scaly skin patches, or lesions.
 
-## B. Injection steps
-
-## Step 1:
-
-Wash your hands with soap and water.
-
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## B. Injection steps
+
+## Step 1:
+
+Wash your hands with soap and water.
 
 ## Step 2:
 
@@ -2660,9 +2682,7 @@ Pull the needle cap straight off and dispose of it in the bin or sharps containe
 
 ## Step 4:
 
-Gently stretch the skin at the cleaned injection site.
-
-Position the pre-filled pen approximately 90 degrees to the skin.
+Gently stretch the skin at the cleaned injection site. Position the pre-filled pen approximately 90 degrees to the skin.
 
 - Do not pinch the skin.
 - Stretching the skin creates a firm surface.
@@ -2680,14 +2700,6 @@ After the second click, count slowly to 15 to make sure that the injection is co
 - Do not release pressure against the injection site before the injection is complete.
 - Do not move the pre-filled pen during the injection.
 
-## Step 7:
-
-Remove the empty pen from the skin.
-
-The needle guard will completely cover the needle.
-
-Check for the pink plunger rod in the window to confirm that the full dose has been delivered.
-
 <!-- image -->
 
 <!-- image -->
@@ -2702,11 +2714,19 @@ Check for the pink plunger rod in the window to confirm that the full dose has b
 
 <div style=\"page-break-after: always\"></div>
 
+## Step 7:
+
+Remove the empty pen from the skin.
+
+The needle guard will completely cover the needle.
+
+Check for the pink plunger rod in the window to confirm that the full dose has been delivered.
+
 ## Disposal:
 
-Dispose of the empty pen in an approved sharps container. Check with your healthcare provider for instructions on how to
+Dispose of the empty pen in an approved sharps container.
 
-properly dispose a filled sharps container.
+Check with your healthcare provider for instructions on how to properly dispose a filled sharps container.
 
 Sharps disposal containers may be purchased at your local pharmacy.
 
@@ -2723,5 +2743,7 @@ If there is bleeding at the injection site, press a gauze pad over the injection
 If needed, cover the injection site with a plaster.
 
 If you have any questions or require further information, please talk with your doctor, nurse or pharmacist.
+
+<!-- image -->
 
 <!-- image -->

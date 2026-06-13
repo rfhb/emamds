@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 13:01:41
+document_datetime: 2026-06-12 15:10:50
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_en.pdf
 document_name: dimethyl-fumarate-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 15.5679029
-conversion_datetime: 2026-05-10 13:07:22.142525
+processing_time: 18.0652008
+conversion_datetime: 2026-06-13 20:21:18.119313
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,11 +44,11 @@ Gastro-resistant hard capsule (gastro-resistant capsule)
 
 ## Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules
 
-Blue-green and white gastro-resistant hard capsules, 21.7 mm in length, printed with 'MYLAN' over 'DF 120' containing white to off-white enteric-coated pellets.
+Blue-green and white gastro-resistant hard capsules, 21.7 mm in length, printed with ' MYLAN ' over 'DF 120' containing white to off -white enteric-coated pellets.
 
 ## Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules
 
-Blue-green gastro-resistant hard capsules, 23.5 mm in length, printed with 'MYLAN' over 'DF 240' containing white to off-white enteric-coated pellets.
+Blue-green gastro-resistant hard capsules, 23.5 mm in length, printed with ' MYLAN ' over 'DF 240' containing white to off-white enteric-coated pellets.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -112,7 +112,7 @@ Changes in renal laboratory tests have been seen in clinical trials in patients 
 
 ## Hepatic function
 
-Drug-induced liver injury, including liver enzyme increase (≥ 3 times upper limit of normal (ULN)) and elevation of total bilirubin levels (≥ 2xULN) can result from treatment with dimethyl fumarate. The time to onset can be days, several weeks or longer. Resolution of the adverse reactions has been observed after treatment was discontinued. Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
+Druginduced liver injury, including liver enzyme increase (≥ 3 times upper limit of normal (ULN)) and elevation of total bilirubin levels (≥ 2xULN) can result from treatment with dimethyl fumarate. The time to onset can be days, several weeks or longer. Resolution of the adverse reactions has been observed after treatment was discontinued. Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
 
 ## Lymphocytes
 
@@ -208,7 +208,7 @@ Cases of Fanconi syndrome have been reported with a medicinal product containing
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -348,7 +348,7 @@ The incidence of gastrointestinal events (e.g. diarrhoea [14% versus 10%], nause
 
 Based on data from placebo-controlled studies, the majority of patients with elevations had hepatic transaminases that were &lt; 3 times the ULN. The increased incidence of elevations of hepatic transaminases in patients treated with dimethyl fumarate relative to placebo was primarily seen during the first 6 months of treatment. Elevations of alanine aminotransferase and aspartate aminotransferase ≥ 3 times ULN, respectively, were seen in 5% and 2% of patients treated with placebo and 6% and 2% of patients treated with dimethyl fumarate. Discontinuations due to elevated hepatic transaminases were &lt; 1% and similar in patients treated with dimethyl fumarate or placebo. Elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin &gt; 2 times ULN, were not observed in placebo-controlled studies.
 
-Increase of liver enzymes and cases of drug-induced liver injury (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin &gt; 2 times ULN), have been reported in postmarketing experience following dimethyl fumarate administration, which resolved upon treatment discontinuation.
+Increase of liver enzymes and cases of druginduced liver injury (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin &gt; 2 times ULN), have been reported in postmarketing experience following dimethyl fumarate administration, which resolved upon treatment discontinuation.
 
 ## Lymphopenia
 
@@ -421,9 +421,9 @@ The mechanism by which dimethyl fumarate exerts therapeutic effects in multiple 
 
 In preclinical and clinical studies, dimethyl fumarate demonstrated anti-inflammatory and immunomodulatory properties. Dimethyl fumarate and monomethyl fumarate, the primary metabolite of dimethyl fumarate, significantly reduced immune cell activation and subsequent release of proinflammatory cytokines in response to inflammatory stimuli in preclinical models. In clinical studies with psoriasis patients, dimethyl fumarate affected lymphocyte phenotypes through a down-regulation of pro-inflammatory cytokine profiles (TH1, TH17), and biased towards anti-inflammatory production (TH2). Dimethyl fumarate demonstrated therapeutic activity in multiple models of inflammatory and neuroinflammatory injury. In phase 3 studies in MS patients (DEFINE, CONFIRM and ENDORSE), upon treatment with dimethyl fumarate mean lymphocyte counts decreased on average by approximately 30% of their baseline value over the first year with a subsequent plateau. In these studies, patients who discontinued treatment with lymphocyte counts below the lower limit of normal (LLN, 0.9x10 9 /L) were monitored for recovery of lymphocyte counts to the LLN.
 
-Figure 1 shows the proportion of patients estimated to reach the LLN based on the Kaplan-Meier method without prolonged severe lymphopenia. The recovery baseline (RBL) was defined as the last on-treatment ALC prior to treatment discontinuation. The estimated proportion of patients recovering to LLN (ALC ≥ 0.9x10 9 /L) at Week 12 and Week 24, who had mild, moderate, or severe lymphopenia at RBL are presented in Table 1, Table 2, and Table 3 with 95% pointwise confidence intervals. The standard error of the Kaplan-Meier estimator of the survival function is computed using Greenwood's formula.
+Figure 1 shows the proportion of patients estimated to reach the LLN based on the Kaplan-Meier method without prolonged severe lymphopenia. The recovery baseline (RBL) was defined as the last on-treatment ALC prior to treatment discontinuation. The estimated proportion of patients recovering to LLN (ALC ≥ 0.9x10 9 /L) at Week 12 and Week 24, who had mild, moderate, or severe lymphopenia at RBL are presented in Table 1, Table 2, and Table 3 with 95% pointwise confidence intervals. The standard error of the KaplanMeier estimator of the survival function is computed using Greenwood's formula.
 
-Figure 1: Kaplan-Meier method; proportion of patients with recovery to ≥ 910 cells/mm 3 (0.9x10 9 /L) LLN from the recovery baseline (RBL)
+Figure 1: Kaplan-Meier method; proportion of patients with r ecovery to ≥ 910 cells/mm 3 (0.9x10 9 /L) LLN from the recovery baseline (RBL)
 
 <!-- image -->
 
@@ -682,10 +682,8 @@ EU/1/24/1814/001 EU/1/24/1814/002 EU/1/24/1814/003 EU/1/24/1814/004
 Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules
 
 ```
-EU/1/24/1814/005 EU/1/24/1814/006 EU/1/24/1814/007 EU/1/24/1814/008 EU/1/24/1814/009
+EU/1/24/1814/005 EU/1/24/1814/006 EU/1/24/1814/007 EU/1/24/1814/008 EU/1/24/1814/009 EU/1/24/1814/010
 ```
-
-EU/1/24/1814/010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -714,7 +712,7 @@ Name and address of the manufacturers responsible for batch release
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Benzstrasse 1, Bad Homburg 61352 Hesse Germany
+Viatris Germany GmbH Benzstrasse 1, Bad Homburg 61352 Hesse Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -726,7 +724,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines' web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines ' web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -803,9 +801,7 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUB
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1814/001
-
-EU/1/24/1814/002
+EU/1/24/1814/001 EU/1/24/1814/002
 
 ## 13. BATCH NUMBER
 
@@ -819,7 +815,7 @@ Lot
 
 Dimethyl fumarate Mylan 120 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -906,14 +902,13 @@ Do not store above 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
-
-Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -946,7 +941,9 @@ Dimethyl fumarate Mylan 240 mg
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1035,9 +1032,7 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUB
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1814/003
-
-EU/1/24/1814/004
+EU/1/24/1814/003 EU/1/24/1814/004
 
 ## 13. BATCH NUMBER
 
@@ -1083,7 +1078,7 @@ Each capsule contains 120 mg dimethyl fumarate.
 
 ## Gastro-resistant hard capsule
 
-- 14 gastro-resistant hard capsules
+14 gastro-resistant hard capsules
 
 60 gastro-resistant hard capsules
 
@@ -1109,17 +1104,22 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+
+Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/24/1814/003 EU/1/24/1814/004
+EU/1/24/1814/003
+
+EU/1/24/1814/004
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1167,9 +1167,7 @@ Each capsule contains 240 mg dimethyl fumarate.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use
-
-Read the package leaflet before use.
+Oral use Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1211,7 +1209,7 @@ Lot
 
 Dimethyl fumarate Mylan 240 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1249,9 +1247,7 @@ Each capsule contains 240 mg dimethyl fumarate.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use
-
-Read the package leaflet before use.
+Oral use Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1269,8 +1265,7 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
@@ -1280,7 +1275,9 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUB
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/24/1814/009 EU/1/24/1814/010
+EU/1/24/1814/009
+
+EU/1/24/1814/010
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1380,7 +1377,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 - -medicines that contain fumaric acid esters (fumarates) used to treat psoriasis;
 - -medicines that affect the body's immune system including chemotherapy, immunosuppressants, or other medicines used to treat MS ;
-- -medicines that affect the kidneys including some antibiotics (used to treat infections), ' water tablets' ( diuretics ), certain types of painkillers (such as ibuprofen and other similar antiinflammatories and medicines purchased without a doctor's prescription) and medicines that contain lithium ;
+- -medicines that affect the kidneys including some antibiotics (used to treat infections), ' water tablets ' ( diuretics ), certain types of painkillers (such as ibuprofen and other similar antiinflammatories and medicines purchased without a doctor's prescription) and medicines that contain lithium ;
 - -taking Dimethyl fumarate Mylan with certain types of vaccines ( live vaccines ) may cause you to get an infection and should, therefore, be avoided. Your doctor will advise whether other types of vaccines (non-live vaccines) should be given.
 
 ## Dimethyl fumarate Mylan with alcohol
@@ -1407,7 +1404,7 @@ Dimethyl fumarate Mylan is not expected to affect your ability to drive and use 
 
 ## Dimethyl fumarate Mylan contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Dimethyl fumarate Mylan
 
@@ -1529,7 +1526,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister or bottle and the carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the blister or bottle and the carton after ' EXP ' . The expiry date refers to the last day of that month.
 
 Do not store above 30°C.
 
@@ -1545,15 +1542,15 @@ Dimethyl fumarate Mylan 120 mg: Each capsule contains 120 mg of dimethyl fumarat
 
 Dimethyl fumarate Mylan 240 mg: Each capsule contains 240 mg of dimethyl fumarate.
 
-The other ingredients are microcrystalline cellulose, croscarmellose sodium (see section 2 'Dimethyl fumarate Mylan contains sodium'), talc, silica colloidal anhydrous, magnesium stearate, triethyl citrate, methacrylic acid - methyl methacrylate copolymer (1:1), methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30%, gelatin, titanium dioxide (E171), brilliant blue FD&amp;C#2 (E132), yellow iron oxide (E172), shellac, propylene glycol, ammonium hydroxide, black iron oxide (E172) and purified water (only in 240 mg capsules).
+The other ingredients are microcrystalline cellulose, croscarmellose sodium (see section 2 ' Dimethyl fumarate Mylan contains sodium ') , talc, silica colloidal anhydrous, magnesium stearate, triethyl citrate, methacrylic acid - methyl methacrylate copolymer (1:1), methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30%, gelatin, titanium dioxide (E171), brilliant blue FD&amp;C#2 (E132), yellow iron oxide (E172), shellac, propylene glycol, ammonium hydroxide, black iron oxide (E172) and purified water (only in 240 mg capsules).
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Dimethyl fumarate Mylan looks like and contents of the pack
 
-Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules are blue-green and white gastro-resistant hard capsules, printed with 'MYLAN' over 'DF 120' containing white to off-white enteric-coated pellets and are available in blister packs containing 14 gastro-resistant hard capsules, unit dose blister packs containing 14 gastro-resistant hard capsules and plastic bottles containing 14 or 60 gastro-resistant hard capsules.
+Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules are blue-green and white gastroresistant hard capsules, printed with ' MYLAN ' over 'DF 120' containing white to off -white enteric-coated pellets and are available in blister packs containing 14 gastro-resistant hard capsules, unit dose blister packs containing 14 gastro-resistant hard capsules and plastic bottles containing 14 or 60 gastro-resistant hard capsules.
 
-Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules are blue-green gastro-resistant hard capsules, printed with 'MYLAN' over 'DF 240' containing white to off-white enteric-coated pellets and are available in blister packs containing 56 or 168 gastro-resistant hard capsules, unit dose blister packs containing 56 or 168 gastro-resistant hard capsules and plastic bottles containing 56 or 168 gastro-resistant hard capsules.
+Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules are blue-green gastro-resistant hard capsules, printed with ' MYLAN ' over 'DF 240' containing white to off -white enteric-coated pellets and are available in blister packs containing 56 or 168 gastro-resistant hard capsules, unit dose blister packs containing 56 or 168 gastro-resistant hard capsules and plastic bottles containing 56 or 168 gastro-resistant hard capsules.
 
 Not all pack sizes may be marketed.
 
@@ -1565,7 +1562,9 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUB
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg 61352 Hesse Germany
+## Viatris Germany GmbH
+
+Benzstrasse 1 Bad Homburg 61352 Hesse Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1583,7 +1582,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД Тел.: +359 2 44 55 400
+Виатрис ЕООД
+
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1597,7 +1600,9 @@ Viatris CZ s.r.o. Tel: + 420 222 004 400
 
 Viatris Healthcare Kft.
 
-Tel.: + 36 1 465 2100
+Tel.:
+
++ 36 1 465 2100
 
 ## Danmark
 
@@ -1625,11 +1630,13 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 002
+Τηλ: +30 210 0 100 002
 
 ## España
 
-Viatris Pharmaceuticals, S.L Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L
+
+Tel: + 34 900 102 712
 
 ## France
 
@@ -1665,7 +1672,9 @@ Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ:
+
++357 22863100
 
 ## Latvija
 
@@ -1729,7 +1738,9 @@ Tel: + 386 1 23 63 180
 
 Viatris Slovakia s.r.o.
 
-Tel: +421 2 32 199 100
+Tel:
+
++421 2 32 199 100
 
 ## Suomi/Finland
 

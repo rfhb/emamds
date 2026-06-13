@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 09:54:09
+document_datetime: 2026-06-12 09:26:21
 document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lysakare-epar-product-information_en.pdf
 document_name: lysakare-epar-product-information_en.pdf
 version: success
-processing_time: 5.209322
-conversion_datetime: 2026-04-05 12:31:37.595301
+processing_time: 5.5618097
+conversion_datetime: 2026-06-13 20:16:18.410201
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -303,7 +303,9 @@ This medicinal product is for single use only.
 
 Do not remove unit from overwrap until ready to use.
 
-Do not use if overwrap has been previously opened or damaged. The overwrap is a moisture barrier. Do not reconnect partially used bags.
+Do not use if overwrap has been previously opened or damaged. The overwrap is a moisture barrier.
+
+Do not reconnect partially used bags.
 
 LysaKare must not be diluted.
 
@@ -315,7 +317,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 <div style=\"page-break-after: always\"></div>
 
@@ -323,15 +325,15 @@ Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rue
 
 EU/1/19/1381/001
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 25 July 2019
 
 Date of latest renewal: 25 April 2024
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -449,7 +451,9 @@ Do not reconnect partially used bags.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -463,7 +467,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -535,13 +539,13 @@ Do not reconnect partially used bags.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1381/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -710,10 +714,7 @@ Do not use this medicine:
 ## What LysaKare contains
 
 - -
-- The active substances are arginine and lysine. Each infusion bag contains 25 g of L-arginine hydrochloride and 25 g of L-lysine
-
-hydrochloride.
-
+- The active substances are arginine and lysine. Each infusion bag contains 25 g of L-arginine hydrochloride and 25 g of L-lysine hydrochloride.
 - -The other ingredient is water for injections.
 
 ## What LysaKare looks like and contents of the pack
@@ -726,7 +727,7 @@ Each infusion bag contains 1 L of LysaKare solution.
 
 ## Marketing authorisation holder
 
-Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## Manufacturer
 
@@ -740,7 +741,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -762,11 +765,15 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Sverige AB Tlf.: +46 8 732 32 00
+Novartis Sverige AB
+
+Tlf.: +46 8 732 32 00
 
 ## Malta
 
@@ -816,15 +823,13 @@ Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
-<div style=\"page-break-after: always\"></div>
-
 ## España
-
-## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
+
+## Polska
 
 Novartis Poland Sp. z o.o.
 
@@ -913,6 +918,8 @@ Tel: +46 8 732 32 00
 SIA Novartis Baltics
 
 Tel: +371 67 887 070
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 

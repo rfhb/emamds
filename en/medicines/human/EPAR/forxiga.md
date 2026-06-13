@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 16:02:00
+document_datetime: 2026-06-11 10:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forxiga.html
 document_name: forxiga.html
 version: success
-processing_time: 0.1854099
-conversion_datetime: 2026-04-25 16:19:55.442314
+processing_time: 0.2386475
+conversion_datetime: 2026-06-13 19:42:29.939273
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Forxiga
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Forxiga used?
+### How is Forxiga used?
 
 Forxiga is available as tablets and can only be obtained with a prescription.
 
@@ -70,13 +70,13 @@ For type 2 diabetes, if Forxiga is used with insulin or medicines that help the 
 
 For more information about using Forxiga, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Forxiga work?
+### How does Forxiga work?
 
 The active substance in Forxiga, dapagliflozin, blocks the action of a protein in the kidneys called sodium-glucose co-transporter 2 (SGLT2). As blood is filtered by the kidneys, SGLT2 stops the kidneys passing glucose from the blood into the urine. Patients with diabetes have high levels of glucose in the blood. By blocking the action of SGLT2, dapagliflozin causes the kidney to pass more glucose into the urine, thereby reducing the levels of glucose in the blood.
 
 Blocking the action of SGLT2 also supports heart function in patients with chronic heart failure and kidney function in patients with chronic kidney disease, regardless of having diabetes. Dapagliflozin's actions increase the elimination of salt and water in the urine. This decreases the overall blood volume, reducing the effort needed for the heart to pump blood, thereby improving its function in patients with heart failure.
 
-## What benefits of Forxiga have been shown in studies?
+### What benefits of Forxiga have been shown in studies?
 
 **Type 2 diabetes**
 
@@ -102,13 +102,13 @@ The second study involved patients with heart failure without reduced ejection f
 
 Forxiga was effective in treating adult patients with chronic kidney disease based on a study involving over 4,300 patients. When Forxiga was added to the patients' usual treatment for chronic kidney disease, the proportion of patients that experienced a decline in kidney function, severe kidney disease or death was 9.2% in the Forxiga group compared with 14.5% in the placebo group; the risk was 39% lower with Forxiga than with placebo.
 
-## What are the risks associated with Forxiga?
+### What are the risks associated with Forxiga?
 
 The most common side effect with Forxiga in patients with type 2 diabetes (which may affect more than 1 in 10 people) is hypoglycaemia (low blood sugar levels) when used in combination with a sulphonylurea or insulin.
 
 For the full list of side effects and restrictions with Forxiga, see the package leaflet.
 
-## Why is Forxiga authorised in the EU?
+### Why is Forxiga authorised in the EU?
 
 The European Medicines Agency considered that Forxiga was effective for treating type 2 diabetes in adults and children from 10 years of age when given alone or in combination with other diabetes medicines which work in different ways. In addition, beneficial reductions in weight and blood pressure occurred in patients treated with Forxiga. In heart failure, Forxiga can reduce the risk of death or serious complications in patients with heart failure. In patients with chronic kidney disease Forxiga can reduce the risk of kidney function decline or death due to kidney or heart problems, when added to the patient's usual treatment.
 
@@ -116,13 +116,13 @@ Forxiga's common side effects were related to raised levels of sugar in the urin
 
 The Agency concluded that the benefits of Forxiga outweigh its risks and recommended that it be granted marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Forxiga?
+### What measures are being taken to ensure the safe and effective use of Forxiga?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Forxiga have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Forxiga are continuously monitored. Side effects reported with Forxiga are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Forxiga
+### Other information about Forxiga
 
 Forxiga received a marketing authorisation valid throughout the EU on 11 November 2012.
 
@@ -138,9 +138,9 @@ English (EN) (125.83 KB - PDF)
 
 Forxiga : EPAR - Risk Management Plan
 
-English (EN) (1007.96 KB - PDF)
+English (EN) (671.85 KB - PDF)
 
-**First published:** 28/06/2023 **Last updated:** 24/09/2024
+**First published:** 28/06/2023 **Last updated:** 11/06/2026
 
 [View](/en/documents/rmp/forxiga-epar-risk-management-plan_en.pdf)
 
@@ -154,7 +154,7 @@ English (EN) (998.05 KB - PDF)
 
 [View](/en/documents/product-information/forxiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-856)
 
 български (BG) (884.4 KB - PDF)
 
@@ -186,7 +186,7 @@ Deutsch (DE) (1001.53 KB - PDF)
 
 [View](/de/documents/product-information/forxiga-epar-product-information_de.pdf)
 
-eesti keel (ET) (744.7 KB - PDF)
+eesti (ET) (744.7 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
@@ -210,25 +210,19 @@ hrvatski (HR) (971.04 KB - PDF)
 
 [View](/hr/documents/product-information/forxiga-epar-product-information_hr.pdf)
 
-íslenska (IS) (839.8 KB - PDF)
-
-**First published:** 07/12/2012 **Last updated:** 12/03/2026
-
-[View](/is/documents/product-information/forxiga-epar-product-information_is.pdf)
-
 italiano (IT) (2.1 MB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/it/documents/product-information/forxiga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.1 MB - PDF)
+latviešu (LV) (1.1 MB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/lv/documents/product-information/forxiga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.12 MB - PDF)
+lietuvių (LT) (1.12 MB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
@@ -251,12 +245,6 @@ Nederlands (NL) (913.36 KB - PDF)
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/nl/documents/product-information/forxiga-epar-product-information_nl.pdf)
-
-norsk (NO) (917.11 KB - PDF)
-
-**First published:** 07/12/2012 **Last updated:** 12/03/2026
-
-[View](/no/documents/product-information/forxiga-epar-product-information_no.pdf)
 
 polski (PL) (899.93 KB - PDF)
 
@@ -288,7 +276,7 @@ slovenščina (SL) (989.75 KB - PDF)
 
 [View](/sl/documents/product-information/forxiga-epar-product-information_sl.pdf)
 
-Suomi (FI) (1010.39 KB - PDF)
+suomi (FI) (1010.39 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
@@ -299,6 +287,18 @@ svenska (SV) (896.26 KB - PDF)
 **First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/sv/documents/product-information/forxiga-epar-product-information_sv.pdf)
+
+Íslenska (IS) (839.8 KB - PDF)
+
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
+
+[View](/is/documents/product-information/forxiga-epar-product-information_is.pdf)
+
+norsk (NO) (917.11 KB - PDF)
+
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
+
+[View](/no/documents/product-information/forxiga-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000310736
 
@@ -326,7 +326,7 @@ English (EN) (32.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-941)
+[Other languages (24)](#file-language-dropdown-654)
 
 български (BG) (34.99 KB - PDF)
 
@@ -358,7 +358,7 @@ Deutsch (DE) (34.26 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (31.82 KB - PDF)
+eesti (ET) (31.82 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
@@ -382,25 +382,19 @@ hrvatski (HR) (34.18 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (38.53 KB - PDF)
-
-**First published:** 07/12/2012 **Last updated:** 19/05/2021
-
-[View](/is/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (32.62 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/it/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.94 KB - PDF)
+latviešu (LV) (32.94 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/lv/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (33.11 KB - PDF)
+lietuvių (LT) (33.11 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
@@ -423,12 +417,6 @@ Nederlands (NL) (31.61 KB - PDF)
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/nl/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (31.81 KB - PDF)
-
-**First published:** 07/12/2012 **Last updated:** 19/05/2021
-
-[View](/no/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.55 KB - PDF)
 
@@ -460,7 +448,7 @@ slovenščina (SL) (31.02 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (32.04 KB - PDF)
+suomi (FI) (32.04 KB - PDF)
 
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
@@ -471,6 +459,18 @@ svenska (SV) (31.68 KB - PDF)
 **First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/sv/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (38.53 KB - PDF)
+
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
+
+[View](/is/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (31.81 KB - PDF)
+
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
+
+[View](/no/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -530,7 +530,7 @@ Marketing authorisation holder
 
 AstraZeneca AB
 
-151 85 Sodertalje
+151 85 Sodertalje Sweden
 
 Marketing authorisation issued
 
@@ -538,7 +538,7 @@ Marketing authorisation issued
 
 Revision
 
-33
+34
 
 ## Assessment history
 
@@ -546,7 +546,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Forxiga : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -722,7 +722,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-160)
+[Other languages (24)](#file-language-dropdown-783)
 
 български (BG) (84.18 KB - PDF)
 
@@ -754,7 +754,7 @@ Deutsch (DE) (44.39 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_de.pdf)
 
-eesti keel (ET) (40.46 KB - PDF)
+eesti (ET) (40.46 KB - PDF)
 
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
@@ -778,25 +778,19 @@ hrvatski (HR) (76.27 KB - PDF)
 
 [View](/hr/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_hr.pdf)
 
-íslenska (IS) (40.74 KB - PDF)
-
-**First published:** 05/07/2017 **Last updated:** 05/07/2017
-
-[View](/is/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_is.pdf)
-
 italiano (IT) (40.72 KB - PDF)
 
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/it/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_it.pdf)
 
-latviešu valoda (LV) (76.13 KB - PDF)
+latviešu (LV) (76.13 KB - PDF)
 
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lv/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_lv.pdf)
 
-lietuvių kalba (LT) (72.25 KB - PDF)
+lietuvių (LT) (72.25 KB - PDF)
 
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
@@ -819,12 +813,6 @@ Nederlands (NL) (42.37 KB - PDF)
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/nl/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_nl.pdf)
-
-norsk (NO) (40.5 KB - PDF)
-
-**First published:** 05/07/2017 **Last updated:** 05/07/2017
-
-[View](/no/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_no.pdf)
 
 polski (PL) (62.96 KB - PDF)
 
@@ -856,7 +844,7 @@ slovenščina (SL) (75.63 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_sl.pdf)
 
-Suomi (FI) (40.53 KB - PDF)
+suomi (FI) (40.53 KB - PDF)
 
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
@@ -867,6 +855,18 @@ svenska (SV) (41.68 KB - PDF)
 **First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sv/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_sv.pdf)
+
+Íslenska (IS) (40.74 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/is/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_is.pdf)
+
+norsk (NO) (40.5 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/no/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_no.pdf)
 
 Forxiga-H-C-2322-A20-1419-0021 : EPAR - Assessment Report - Article 20
 
@@ -886,7 +886,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-856)
+[Other languages (22)](#file-language-dropdown-445)
 
 български (BG) (78.43 KB - PDF)
 
@@ -918,7 +918,7 @@ Deutsch (DE) (46.48 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_de.pdf)
 
-eesti keel (ET) (41.47 KB - PDF)
+eesti (ET) (41.47 KB - PDF)
 
 **First published:** 18/05/2016 **Last updated:** 18/05/2016
 
@@ -948,13 +948,13 @@ italiano (IT) (41.93 KB - PDF)
 
 [View](/it/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_it.pdf)
 
-latviešu valoda (LV) (70.95 KB - PDF)
+latviešu (LV) (70.95 KB - PDF)
 
 **First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/lv/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_lv.pdf)
 
-lietuvių kalba (LT) (76.52 KB - PDF)
+lietuvių (LT) (76.52 KB - PDF)
 
 **First published:** 18/05/2016 **Last updated:** 18/05/2016
 
@@ -1008,7 +1008,7 @@ slovenščina (SL) (70.64 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_sl.pdf)
 
-Suomi (FI) (42.19 KB - PDF)
+suomi (FI) (42.19 KB - PDF)
 
 **First published:** 18/05/2016 **Last updated:** 18/05/2016
 
@@ -1030,7 +1030,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/variation-report/forxiga-h-c-2322-p46-016-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Forxiga : EPAR - Public assessment report
 
@@ -1102,7 +1102,7 @@ English (EN) (1.04 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-315)
 
 български (BG) (887.2 KB - DOCX)
 
@@ -1134,7 +1134,7 @@ Deutsch (DE) (814.1 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (611.73 KB - DOCX)
+eesti (ET) (611.73 KB - DOCX)
 
 **First published:** 22/04/2026
 
@@ -1158,25 +1158,19 @@ hrvatski (HR) (1.11 MB - DOC)
 
 [View](/hr/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_hr.doc)
 
-íslenska (IS) (721.77 KB - DOCX)
-
-**First published:** 22/04/2026
-
-[View](/is/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (764.47 KB - DOCX)
 
 **First published:** 22/04/2026
 
 [View](/it/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (887.22 KB - DOCX)
+latviešu (LV) (887.22 KB - DOCX)
 
 **First published:** 22/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (945.28 KB - DOCX)
+lietuvių (LT) (945.28 KB - DOCX)
 
 **First published:** 22/04/2026
 
@@ -1199,12 +1193,6 @@ Nederlands (NL) (650.88 KB - DOCX)
 **First published:** 22/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (720.71 KB - DOCX)
-
-**First published:** 22/04/2026
-
-[View](/no/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (753.28 KB - DOCX)
 
@@ -1236,7 +1224,7 @@ slovenščina (SL) (935.9 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (773.59 KB - DOCX)
+suomi (FI) (773.59 KB - DOCX)
 
 **First published:** 22/04/2026
 
@@ -1247,6 +1235,18 @@ svenska (SV) (812.8 KB - DOCX)
 **First published:** 22/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (721.77 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/is/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (720.71 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/no/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Forxiga
 
@@ -1269,6 +1269,6 @@ svenska (SV) (812.8 KB - DOCX)
 
 **This page was last updated on**
 
-22/04/2026
+11/06/2026
 
 ## Share this page

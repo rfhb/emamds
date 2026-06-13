@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 15:54:07
+document_datetime: 2026-06-12 13:15:02
 document_pages: 105
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lenalidomide-mylan-epar-product-information_en.pdf
 document_name: lenalidomide-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 43.434545
-conversion_datetime: 2026-05-13 13:15:54.32335
+processing_time: 45.6316585
+conversion_datetime: 2026-06-13 20:17:42.755752
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,9 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 2.5 mg hard capsules
-
-Lenalidomide Mylan 5 mg hard capsules Lenalidomide Mylan 7.5 mg hard capsules Lenalidomide Mylan 10 mg hard capsules Lenalidomide Mylan 15 mg hard capsules Lenalidomide Mylan 20 mg hard capsules Lenalidomide Mylan 25 mg hard capsules
+Lenalidomide Mylan 2.5 mg hard capsules Lenalidomide Mylan 5 mg hard capsules Lenalidomide Mylan 7.5 mg hard capsules Lenalidomide Mylan 10 mg hard capsules Lenalidomide Mylan 15 mg hard capsules Lenalidomide Mylan 20 mg hard capsules Lenalidomide Mylan 25 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -52,19 +50,13 @@ Hard capsule (capsule).
 
 Lenalidomide Mylan 2.5 mg hard capsules Green and white capsules, size 4, 14 mm, marked 'MYLAN /LL 2.5'.
 
-Lenalidomide Mylan 5 mg hard capsules
+Lenalidomide Mylan 5 mg hard capsules White capsules, size 2, 18 mm, marked 'MYLAN/LL 5'.
 
-White capsules, size 2, 18 mm, marked 'MYLAN/LL 5'.
-
-Lenalidomide Mylan 7.5 mg hard capsules
-
-Light grey and white capsules, size 2, 18 mm, marked 'MYLAN/LL7.5'.
+Lenalidomide Mylan 7.5 mg hard capsules Light grey and white capsules, size 2, 18 mm, marked 'MYLAN/LL7.5'.
 
 Lenalidomide Mylan 10 mg hard capsules Green and light grey capsules, size 0, 22 mm, marked 'MYLAN/LL 10'.
 
-Lenalidomide Mylan 15 mg hard capsules
-
-White capsules, size 0, 22 mm, marked 'MYLAN/LL15'.
+Lenalidomide Mylan 15 mg hard capsules White capsules, size 0, 22 mm, marked 'MYLAN/LL15'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -106,10 +98,10 @@ Lenalidomide Mylan treatment should be supervised by a physician experienced in 
 
 For all indications described below:
 
-- Dose is modified based upon clinical and laboratory findings (see section 4.4).
-- In case of neutropenia, the use of growth factors in patient management should be considered.
-- Dose adjustments, during treatment and restart of treatment, are recommended to manage Grade 3 or 4 thrombocytopenia, neutropenia, or other Grade 3 or 4 toxicity judged to be related to lenalidomide.
-- If less than 12 hours has elapsed since missing a dose, the patient can take the dose. If more than 12 hours has elapsed since missing a dose at the normal time, the patient should not take the dose, but take the next dose at the normal time on the following day.
+-  Dose is modified based upon clinical and laboratory findings (see section 4.4).
+-  Dose adjustments, during treatment and restart of treatment, are recommended to manage Grade 3 or 4 thrombocytopenia, neutropenia, or other Grade 3 or 4 toxicity judged to be related to lenalidomide.
+-  In case of neutropenia, the use of growth factors in patient management should be considered.
+-  If less than 12 hours has elapsed since missing a dose, the patient can take the dose. If more than 12 hours has elapsed since missing a dose at the normal time, the patient should not take the dose, but take the next dose at the normal time on the following day.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -117,7 +109,7 @@ For all indications described below:
 
 ## Newly diagnosed multiple myeloma (NDMM)
 
-## · Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
+##  Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
 
 Lenalidomide treatment must not be started if the Absolute Neutrophil Count (ANC) is &lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 50 x 10 9 /L.
 
@@ -127,7 +119,9 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 15 and 22 of repeated 28-day cycles. Patients may continue lenalidomide and dexamethasone therapy until disease progression or intolerance.
 
-## · Dose reduction steps
+##  Dose reduction steps
+
+ª Dose reduction for both products can be managed independently
 
 |               | Lenalidomide a   | Dexamethasone a   |
 |---------------|------------------|-------------------|
@@ -138,7 +132,7 @@ The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 1
 | Dose level- 4 | 5 mg             | 4 mg              |
 | Dose level -5 | 2.5 mg           | Not applicable    |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                                    | Recommended course                                                                                            |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -146,7 +140,7 @@ The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 1
 
 a If Dose limiting toxicity (DLT) occurs on &gt; day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
 
 | When ANC                                                                                                     | Recommended course a                                                                      |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -158,7 +152,7 @@ For hematologic toxicity the dose of lenalidomide may be re-introduced to the ne
 
 <div style=\"page-break-after: always\"></div>
 
-- Lenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
+##  Lenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
 
 Initial treatment: Lenalidomide in combination with bortezomib and dexamethasone Lenalidomide in combination with bortezomib and dexamethasone must not be started if the ANC is &lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 50 x 10 9 /L.
 
@@ -168,7 +162,9 @@ Up to eight 21-day treatment cycles (24 weeks of initial treatment) are recommen
 
 Continued treatment: Lenalidomide in combination with dexamethasone until progression Continue lenalidomide 25 mg orally once daily on days 1-21 of repeated 28-day cycles in combination with dexamethasone. Treatment should be continued until disease progression or unacceptable toxicity.
 
-## · Dose reduction steps
+##  Dose reduction steps
+
+ª Dose reduction for all products can be managed independently
 
 |               | Lenalidomide a   |
 |---------------|------------------|
@@ -179,15 +175,16 @@ Continued treatment: Lenalidomide in combination with dexamethasone until progre
 | Dose level -4 | 5 mg             |
 | Dose level -5 | 2.5 mg           |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                                                        | Recommended course                                                                       |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Falls to < 30 x 10 9 /L                                               | Interrupt lenalidomide treatment                                                         |
-| Returns to ≥ 50 x 10 9 /L For each subsequent drop below 30 x 10 9 /L | Resume lenalidomide at dose level -1 once daily                                          |
-| Returns to ≥ 50 x 10 9 /L                                             | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
+| Falls to < 30 x 10 9 /L Returns to ≥ 50 x 10 9 /L                     | Interrupt lenalidomide treatment Resume lenalidomide at dose level -1 once daily         |
+| For each subsequent drop below 30 x 10 9 /L Returns to ≥ 50 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
+
+a At the physician's discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide
 
 | When ANC First falls to < 0.5 x 10 9 /L Returns to ≥ 1 x 10 9 /L when neutropenia is the only observed toxicity   | Recommended course a Interrupt lenalidomide treatment Resume lenalidomide at starting dose once daily   |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -196,7 +193,7 @@ Continued treatment: Lenalidomide in combination with dexamethasone until progre
 
 <div style=\"page-break-after: always\"></div>
 
-## · Lenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
+##  Lenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
 
 Lenalidomide treatment must not be started if the ANC is &lt; 1.5 x 10 9 /L, and/or platelet counts are &lt; 75 x 10 9 /L.
 
@@ -204,7 +201,7 @@ Lenalidomide treatment must not be started if the ANC is &lt; 1.5 x 10 9 /L, and
 
 The recommended starting dose is lenalidomide 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles for up to 9 cycles, melphalan 0.18 mg/kg orally on days 1 to 4 of repeated 28-day cycles, prednisone 2 mg/kg orally on days 1 to 4 of repeated 28-day cycles. Patients who complete 9 cycles or who are unable to complete the combination therapy due to intolerance are treated with lenalidomide monotherapy as follows: 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles given until disease progression.
 
-## · Dose reduction steps
+##  Dose reduction steps
 
 |               | Lenalidomide   | Melphalan      | Prednisone   |
 |---------------|----------------|----------------|--------------|
@@ -213,14 +210,14 @@ The recommended starting dose is lenalidomide 10 mg orally once daily on days 1 
 | Dose level -2 | 5 mg           | 0.10 mg/kg     | 0.5 mg/kg    |
 | Dose level -3 | 2.5 mg         | Not applicable | 0.25 mg/kg   |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                                                        | Recommended course                                                                                              |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | First falls to < 25 x 10 9 /L Returns to ≥ 25 x 10 9 /L               | Interrupt lenalidomide treatment Resume lenalidomide and melphalan at dose level -1                             |
 | For each subsequent drop below 30 x 10 9 /L Returns to ≥ 30 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level (dose level -2 or -3) once daily. |
 
-## · Absolute neutrophil count (ANC)-neutropenia
+##  Absolute neutrophil count (ANC)-neutropenia
 
 | When ANC                                                                                                     | Recommended course a                                                                      |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -228,7 +225,7 @@ The recommended starting dose is lenalidomide 10 mg orally once daily on days 1 
 | Returns to ≥ 0.5 x 10 9 /L when dose-dependent haematological toxicities other than neutropenia are observed | Resume lenalidomide at dose level -1 once daily                                           |
 | For each subsequent drop below < 0.5 x10 9 /L Returns to ≥ 0.5 x 10 9 /L                                     | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily. |
 
-## · Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
+##  Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
 
 Lenalidomide maintenance should be initiated after adequate haematologic recovery following ASCT in patients without evidence of progression. Lenalidomide must not be started if the Absolute Neutrophil Count (ANC) is &lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 75 x 10 9 /L.
 
@@ -238,7 +235,9 @@ Lenalidomide maintenance should be initiated after adequate haematologic recover
 
 The recommended starting dose is lenalidomide 10 mg orally once daily continuously (on days 1 to 28 of repeated 28-day cycles) given until disease progression or intolerance. After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
 
-## · Dose reduction steps
+##  Dose reduction steps
+
+a After 3 cycles of lenalidomide maintenance, the dose can be increased to 15mg orally once daily if tolerated.
 
 |               | Starting dose (10 mg)                            | If dose increased (15 mg) a                      |
 |---------------|--------------------------------------------------|--------------------------------------------------|
@@ -247,16 +246,16 @@ The recommended starting dose is lenalidomide 10 mg orally once daily continuous
 | Dose level -3 | Not applicable                                   | 5 mg (days 1-21 every 28 days)                   |
 |               | Do not dose below 5 mg (days 1-21 every 28 days) | Do not dose below 5 mg (days 1-21 every 28 days) |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
-| When platelets                                 | Recommended course                                       |
-|------------------------------------------------|----------------------------------------------------------|
-| Falls to < 30 x 10 9 /L Returns to ≥ 30 x 10 9 | Interrupt lenalidomide treatment                         |
-| /L For each subsequent drop below 30 x 10 9    | Resume lenalidomide at dose level -1 once daily          |
-| /L                                             | Interrupt lenalidomide treatment                         |
-| Returns to ≥ 30 x 10 9 /L                      | Resume lenalidomide at next lower dose level once daily. |
+| When platelets                                                   | Recommended course                                       |
+|------------------------------------------------------------------|----------------------------------------------------------|
+| Falls to < 30 x 10 9 /L 9                                        | Interrupt lenalidomide treatment                         |
+| Returns to ≥ 30 x 10 /L For each subsequent drop below 30 x 10 9 | Resume lenalidomide at dose level -1 once daily          |
+| /L                                                               | Interrupt lenalidomide treatment                         |
+| Returns to ≥ 30 x 10 9 /L                                        | Resume lenalidomide at next lower dose level once daily. |
 
-## · Absolute neutrophile count (ANC) - neutropenia
+##  Absolute neutrophile count (ANC) - neutropenia
 
 | When ANC                                                                  | Recommended course a                                                                      |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -273,7 +272,7 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 
 Prescribing physicians should carefully evaluate which dose of dexamethasone to use, taking into account the condition and disease status of the patient.
 
-## · Dose reduction steps
+##  Dose reduction steps
 
 | Starting dose   | 25 mg   |
 |-----------------|---------|
@@ -281,7 +280,7 @@ Prescribing physicians should carefully evaluate which dose of dexamethasone to 
 | Dose level -2   | 10 mg   |
 | Dose level -3   | 5 mg    |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                | Recommended course                   |
 |-------------------------------|--------------------------------------|
@@ -294,7 +293,7 @@ Prescribing physicians should carefully evaluate which dose of dexamethasone to 
 |-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | For each subsequent drop below 30 x 10 9 /L Returns to ≥ 30 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level (dose level -2 or -3) once daily. Do not dose below 5 mg once daily. |
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
 
 | When ANC                                                                                                     | Recommended course a                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -312,7 +311,7 @@ Lenalidomide treatment must not be started if the ANC &lt; 0.5 x 10 9 /L and/or 
 
 The recommended starting dose of lenalidomide is 10 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
 
-## · Dose reduction steps
+##  Dose reduction steps
 
 | Starting dose   | 10 mg once daily on days 1 to 21 every 28 days   |
 |-----------------|--------------------------------------------------|
@@ -320,13 +319,13 @@ The recommended starting dose of lenalidomide is 10 mg orally once daily on days
 | Dose level -2   | 2.5 mg once daily on days 1 to 28 every 28 days  |
 | Dose level -3   | 2.5 mg every other day 1 to 28 every 28 days     |
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                                                                                                                                                            | Recommended course                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Falls to < 25 x 10 9 /L Returns to ≥ 25 x 10 9 /L - < 50 x 10 9 /L on at least 2 occasions for ≥ 7 days or when the platelet count recovers to ≥ 50 x 10 9 /L at any time | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level (dose level -1, -2 or -3) |
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
 
 | When ANC                                            | Recommended course                                                                                      |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -344,7 +343,9 @@ Patients without at least a minor erythroid response within 4 months of therapy 
 
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
 
-## · Dose reduction steps
+##  Dose reduction steps
+
+1 In countries where the 2.5 mg capsule is available.
 
 | Starting dose   | 25 mg once daily on days 1 to 21, every 28 days                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------|
@@ -354,9 +355,7 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 | Dose level -4   | 5 mg once daily on days 1 to 21, every 28 days                                                         |
 | Dose level -5   | 2.5 mg once daily on days 1 to 21, every 28 days 1 5 mg every other day on days 1 to 21, every 28 days |
 
-1 In countries where the 2.5 mg capsule is available.
-
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                              | Recommended course                                                                                  |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -365,14 +364,14 @@ The recommended starting dose of lenalidomide is 25 mg orally once daily on days
 | For each subsequent drop below 50 x 10 9 /L | Interrupt lenalidomide treatment and conduct the CBC at least every 7 days                          |
 | Returns to ≥ 60 x 10 9 /L                   | Resume lenalidomide at next lower level (dose level -2, -3, -4 or -5). Do not dose below level - 5. |
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
 
-| When ANC                                                                                                                                                             | Recommended course                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Falls to < 1 x 10 9 /L for at least 7 days or Falls to < 1 x 10 9 /L with associated fever (body temperature ≥ 38.5°C) or Falls to < 0.5 x 10 9 /L                   | Interrupt lenalidomide treatment and conduct the CBC at least every 7 days                                      |
-| Returns to ≥ 1 x 10 9 /L                                                                                                                                             | Resume lenalidomide at next lower dose level (dose level -1)                                                    |
-| For each subsequent drop below 1 x 10 9 /L for at least 7 days or drop to < 1 x 10 9 /L with associated fever (body temperature ≥ 38.5°C) or drop to < 0.5 x 10 9 /L | Interrupt lenalidomide treatment                                                                                |
-| Returns to ≥ 1 x 10 9 /L                                                                                                                                             | Resume lenalidomide at next lower dose level (dose level -2, -3, -4, -5) once daily. Do not dose below level -5 |
+| When ANC                                                                                                                                             | Recommended course                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Falls to < 1 x 10 9 /L for at least 7 days or Falls to < 1 x 10 9 /L with associated fever (body temperature ≥ 38.5°C) or Falls to < 0.5 x 10 9 /L 9 | Interrupt lenalidomide treatment and conduct the CBC at least every 7 days                                      |
+| Returns to ≥ 1 x 10 /L For each subsequent drop below 1 x 10 9 /L for least 7 days or drop to < 1 x 10 9 /L with                                     | Resume lenalidomide at next lower dose level (dose level -1)                                                    |
+| at associated fever (body temperature ≥ 38.5°C) or drop to < 0.5 x 10 9 /L Returns to ≥ 1 x 10 9 /L                                                  | Interrupt lenalidomide treatment                                                                                |
+|                                                                                                                                                      | Resume lenalidomide at next lower dose level (dose level -2, -3, -4, -5) once daily. Do not dose below level -5 |
 
 ## Follicular lymphoma (FL)
 
@@ -384,7 +383,7 @@ The recommended starting dose of lenalidomide is 20 mg, orally once daily on day
 
 <div style=\"page-break-after: always\"></div>
 
-## · Dose reduction steps
+##  Dose reduction steps
 
 | Starting dose   | 20 mg once daily on days 1-21, every 28 days   |
 |-----------------|------------------------------------------------|
@@ -394,7 +393,7 @@ The recommended starting dose of lenalidomide is 20 mg, orally once daily on day
 
 For dose adjustments due to toxicity with rituximab, refer to the corresponding summary of product characteristics.
 
-## · Thrombocytopenia
+##  Thrombocytopenia
 
 | When platelets                              | Recommended course                                                                                  |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -403,7 +402,9 @@ For dose adjustments due to toxicity with rituximab, refer to the corresponding 
 | For each subsequent drop below 50 x 10 9 /L | Interrupt lenalidomide treatment and conduct CBC at least every 7 days                              |
 | Returns to ≥ 50 x 10 9 /L                   | Resume lenalidomide at next lower dose level (dose level -2, -3). Do not dose below dose level - 3. |
 
-## · Absolute neutrophil count (ANC) - neutropenia
+##  Absolute neutrophil count (ANC) - neutropenia
+
+ª At the physician's discretion, if neutropenia is the only toxicity at any dose level, add G-CSF
 
 | When ANC                                                                                                                                                                 | Recommended course ª                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -411,8 +412,6 @@ For dose adjustments due to toxicity with rituximab, refer to the corresponding 
 | Returns to ≥ 1.0 x 10 /L                                                                                                                                                 | Resume lenalidomide at next lower dose level (dose level -1)                                     |
 | For each subsequent drop below 1.0 x 10 9 /L for at least 7 days or drop to < 1.0 x 10 9 /L with associated fever (body temperature ≥ 38.5°C) or drop to < 0.5 x 10 9 /L | Interrupt lenalidomide treatment and conduct CBC at least every 7 days                           |
 | Returns to ≥ 1.0 x 10 9 /L                                                                                                                                               | Resume lenalidomide at next lower dose level (dose level -2, -3). Do not dose below dose level-3 |
-
-ª At the physician's discretion, if neutropenia is the only toxicity at any dose level, add G-CSF
 
 ## Mantle cell lymphoma (MCL) or follicular lymphoma (FL)
 
@@ -440,17 +439,19 @@ Lenalidomide interruption or discontinuation should be considered for Grade 2 or
 
 ## Special populations
 
-## · Paediatric population
+##  Paediatric population
 
 Lenalidomide Mylan should not be used in children and adolescents from birth to less than 18 years because of safety concerns (see section 5.1).
 
-## · Elderly
+##  Elderly
 
 Currently available pharmacokinetic data are described in section 5.2. Lenalidomide has been used in clinical trials in multiple myeloma patients up to 91 years of age, in myelodysplastic syndromes patients up to 95 years of age and in mantle cell lymphoma patients up to 88 years of age (see section 5.1).
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it would be prudent to monitor renal function.
 
-Newly diagnosed multiple myeloma: patients who are not eligible for transplant Patients with newly diagnosed multiple myeloma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
+## Newly diagnosed multiple myeloma: patients who are not eligible for transplant
+
+Patients with newly diagnosed multiple myeloma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
 
 For patients older than 75 years of age treated with lenalidomide in combination with dexamethasone, the starting dose of dexamethasone is 20 mg once daily on days 1, 8, 15 and 22 of each 28-day treatment cycle.
 
@@ -478,7 +479,7 @@ For mantle cell lymphoma patients treated with lenalidomide, no overall differen
 
 For follicular lymphoma patients treated with lenalidomide in combination with rituximab, the overall rate of adverse events is similar for patients aged 65 years or over compared with patients under 65 years of age. No overall difference in efficacy was observed between the two age groups.
 
-## · Patients with renal impairment
+##  Patients with renal impairment
 
 Lenalidomide is primarily excreted by the kidney; patients with greater degrees of renal impairment can have impaired treatment tolerance (see section 4.4). Care should be taken in dose selection and monitoring of renal function is advised.
 
@@ -491,6 +492,8 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD)
 (CLcr &lt; 30 mL/min, requiring dialysis).
 
 ## Multiple myeloma
+
+1 The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
 
 | Renal function (CLcr)                                                 | Dose adjustment                                                                        |
 |-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -527,21 +530,19 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD)
 
 ## Follicular lymphoma
 
-| Renal function (CLcr)                                                 | Dose adjustment (days 1 to 21 of repeated 28-day cycles)                              |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Moderate renal impairment (30 ≤ CLcr < 60 mL/min)                     | 10 mg once daily 1, 2                                                                 |
-| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 5 mg once daily                                                                       |
-| End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis |
-
 - 1 The dose may be escalated to 15 mg once daily after 2 cycles if the patient has tolerated therapy.
 
-2 For patients on a starting dose of 10 mg, in case of dose reduction to manage Grade 3 or 4 neutropenia or thrombocytopenia, or other Grade 3 or 4.
+| Renal function (CLcr)                                                 | Dose adjustment (days 1 to 21 of repeated 28-day cycles)                              |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Moderate renal impairment (30  CLcr < 60 mL/min)                     | 10 mg once daily 1, 2                                                                 |
+| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 5 mg once daily                                                                       |
+| End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis |
 
 Toxicity judged to be related to lenalidomide do not dose below 5 mg every other day or 2.5 mg once daily.
 
 After initiation of lenalidomide therapy, subsequent lenalidomide dose modification in renally impaired patients should be based on individual patient treatment tolerance, as described above.
 
-## · Patients with hepatic impairment
+##  Patients with hepatic impairment
 
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
 
@@ -557,9 +558,9 @@ It is recommended to press only on one end of the capsule to remove it from the 
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
-- Women of childbearing potential unless all of the conditions of the Pregnancy Prevention Programme are met (see sections 4.4 and 4.6).
-- Women who are pregnant
+-  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
+-  Women who are pregnant
+-  Women of childbearing potential unless all of the conditions of the Pregnancy Prevention Programme are met (see sections 4.4 and 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -575,36 +576,36 @@ The conditions of the Pregnancy Prevention Programme must be fulfilled for all p
 
 A female patient or a female partner of a male patient is considered to have childbearing potential unless she meets at least one of the following criteria:
 
-- Age ≥ 50 years and naturally amenorrhoeic for ≥ 1 year (Amenorrhoea following cancer therapy or during breast-feeding does not rule out childbearing potential).
-- Previous bilateral salpingo-oophorectomy, or hysterectomy
-- Premature ovarian failure confirmed by a specialist gynaecologist
-- XY genotype, Turner syndrome, uterine agenesis.
+-  Age ≥ 50 years and naturally amenorrhoeic for ≥ 1 year (Amenorrhoea following cancer therapy or during breast-feeding does not rule out childbearing potential).
+-  Premature ovarian failure confirmed by a specialist gynaecologist
+-  Previous bilateral salpingo-oophorectomy, or hysterectomy
+-  XY genotype, Turner syndrome, uterine agenesis.
 
 ## Counselling
 
 For women of childbearing potential, lenalidomide is contraindicated unless all of the following are met:
 
-- She understands the expected teratogenic risk to the unborn child
-- Even if a woman of childbearing potential has amenorrhea she must follow all the advice on effective contraception
-- She understands the need for effective contraception, without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
-- She should be capable of complying with effective contraceptive measures
-- She understands the need to commence the treatment as soon as lenalidomide is dispensed following a negative pregnancy test
-- She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
-- She understands the need and accepts to undergo pregnancy testing at least every 4 weeks except in case of confirmed tubal sterilisation
-- She acknowledges that she understands the hazards and necessary precautions associated with the use of lenalidomide.
+-  She understands the expected teratogenic risk to the unborn child
+-  She understands the need for effective contraception, without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
+-  Even if a woman of childbearing potential has amenorrhea she must follow all the advice on effective contraception
+-  She should be capable of complying with effective contraceptive measures
+-  She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
+-  She understands the need to commence the treatment as soon as lenalidomide is dispensed following a negative pregnancy test
+-  She understands the need and accepts to undergo pregnancy testing at least every 4 weeks except in case of confirmed tubal sterilisation
+-  She acknowledges that she understands the hazards and necessary precautions associated with the use of lenalidomide.
 
 For male patients taking lenalidomide, pharmacokinetic data has demonstrated that lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the substance in the healthy subject (see section 5.2). As a precaution and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide must meet the following conditions:
 
 <div style=\"page-break-after: always\"></div>
 
-- Understand the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
-- Understand the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential not using effective contraception (even if the man has had a vasectomy), during treatment and for at least 7 days after dose interruptions and/or cessation of treatment.
-- Understand that if his female partner becomes pregnant whilst he is taking Lenalidomide Mylan or shortly after he has stopped taking Lenalidomide Mylan, he should inform his treating physician immediately and that it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
+-  Understand the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
+-  Understand the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential not using effective contraception (even if the man has had a vasectomy), during treatment and for at least 7 days after dose interruptions and/or cessation of treatment.
+-  Understand that if his female partner becomes pregnant whilst he is taking Lenalidomide Mylan or shortly after he has stopped taking Lenalidomide Mylan, he should inform his treating physician immediately and that it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
 
 The prescriber must ensure that for women of childbearing potential:
 
-- The patient has acknowledged the aforementioned conditions.
-- The patient complies with the conditions of the Pregnancy Prevention Programme, including confirmation that she has an adequate level of understanding
+-  The patient complies with the conditions of the Pregnancy Prevention Programme, including confirmation that she has an adequate level of understanding
+-  The patient has acknowledged the aforementioned conditions.
 
 ## Contraception
 
@@ -614,14 +615,14 @@ If not established on effective contraception, the patient must be referred to a
 
 The following can be considered to be examples of suitable methods of contraception:
 
-- Levonorgestrel-releasing intrauterine system (IUS)
-- Implant
-- Medroxyprogesterone acetate depot
-- Sexual intercourse with a vasectomised male partner only; vasectomy must be confirmed by two negative semen analyses
-- Tubal sterilisation
-- Ovulation inhibitory progesterone-only pills (i.e. desogestrel)
+-  Implant
+-  Levonorgestrel-releasing intrauterine system (IUS)
+-  Medroxyprogesterone acetate depot
+-  Tubal sterilisation
+-  Sexual intercourse with a vasectomised male partner only; vasectomy must be confirmed by two negative semen analyses
+-  Ovulation inhibitory progesterone-only pills (i.e. desogestrel)
 
-Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, and to a lesser extent in patients with multiple myeloma, myelodysplastic syndromes and mantle cell lymphoma taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5). If a patient is currently using combined oral contraception the patient should switch to one of the effective methods listed above. The risk of venous thromboembolism continues for 4-6 weeks after discontinuing combined oral contraception. The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
+Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking lenalidomide in combination therapy, and to a lesser extent in patients with multiple myeloma, myelodysplastic syndromes and mantle cell lymphoma taking lenalidomide monotherapy, combined oral contraceptive pills are not recommended (see also section 4.5). If a patient is currently using combined oral contraception the patient should switch to one of the effective methods listed above. The risk of venous thromboembolism continues for 4 -6 weeks after discontinuing combined oral contraception. The efficacy of contraceptive steroids may be reduced during co-treatment with dexamethasone (see section 4.5).
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding. Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
@@ -689,7 +690,7 @@ In case of neutropenia, the physician should consider the use of growth factors 
 
 Co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
 
-- Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
+##  Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
 
 The adverse reactions from CALGB 100104 included events reported post-high dose melphalan and ASCT (HDM/ASCT) as well as events from the maintenance treatment period. A second analysis identified events that occurred after the start of maintenance treatment. In IFM 2005-02, the adverse reactions were from the maintenance treatment period only.
 
@@ -699,19 +700,19 @@ Patients should be advised to promptly report febrile episodes, a treatment inte
 
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the lenalidomide maintenance arms compared to the placebo maintenance arms in studies evaluating lenalidomide maintenance in NDMM patients who have undergone ASCT (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively). Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8, Haemorrhagic disorders).
 
-- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with bortezomib and dexamethasone
+-  Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with bortezomib and dexamethasone
 
 Grade 4 neutropenia was observed at a lower frequency in the lenalidomide in combination with bortezomib and dexamethasone (RVd) arm compared to the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm (0.0% vs 0.4%). Patients should be advised to promptly report febrile episodes; a treatment interruption and/or dose reduction may be required (see section 4.2).
 
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the RVd arm compared to the Rd comparator arm (17.2 % vs 9.4%).
 
-- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
+-  Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 
 Grade 4 neutropenia was observed in the lenalidomide arms in combination with dexamethasone to a lesser extent than in the comparator arm (8.5% in the Rd [continuous treatment] and Rd18 [treatment for 18 four-week cycles] compared with 15% in the melphalan/prednisone/thalidomide arm, see section 4.8). Grade 4 febrile neutropenia episodes were consistent with the comparator arm (0.6 % in the Rd and Rd18 lenalidomide/dexamethasone-treated patients compared with 0.7% in the melphalan/prednisone/thalidomide arm, see section 4.8).
 
 Grade 3 or 4 thrombocytopenia was observed to a lesser extent in the Rd and Rd18 arms than in the comparator arm (8.1% vs 11.1%, respectively).
 
-- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
+-  Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 
 The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of Grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide [MPR+R] and melphalan, prednisone and lenalidomide followed by placebo [MPR+p] treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8). Grade 4 febrile neutropenia episodes were observed infrequently (1.7% in MPR+R/MPR+p treated patients compared to 0.0% in MPp+p treated patients; see section 4.8).
 
@@ -719,21 +720,21 @@ The combination of lenalidomide with melphalan and prednisone in clinical trials
 
 The combination of lenalidomide with melphalan and prednisone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
 
-## · Multiple myeloma: patients with at least one prior therapy
+##  Multiple myeloma: patients with at least one prior therapy
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients with at least one prior therapy is associated with a higher incidence of Grade 4 neutropenia (5.1% in lenalidomide/dexamethasone treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8). Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasonetreated patients; see section 4.8).
 
-## · Myelodysplastic syndromes
+##  Myelodysplastic syndromes
 
 Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of Grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
 
-## · Mantle cell lymphoma
+##  Mantle cell lymphoma
 
 Lenalidomide treatment in mantle cell lymphoma patients is associated with a higher incidence of Grade 3 and 4 neutropenia compared with patients on the control arm (see section 4.8).
 
-## · Follicular lymphoma
+##  Follicular lymphoma
 
 The combination of lenalidomide with rituximab in follicular lymphoma patients is associated with a higher incidence of Grade 3 or 4 neutropenia compared with patients on the placebo/rituximab arm. Febrile neutropenia and Grade 3 or 4 thrombocytopenia were more commonly observed in the lenalidomide/ rituximab arm (see section 4.8).
 
@@ -753,11 +754,11 @@ Because lenalidomide has anti-neoplastic activity the complications of tumour ly
 
 <div style=\"page-break-after: always\"></div>
 
-## · Mantle cell lymphoma
+##  Mantle cell lymphoma
 
 Careful monitoring and evaluation for TFR is recommended. Patients with high mantle cell lymphoma International Prognostic Index (MIPI) at diagnosis or bulky disease (at least one lesion that is ≥ 7 cm in the longest diameter) at baseline may be at risk of TFR. Tumour flare reaction may mimic progression of disease (PD). Patients in studies MCL-002 and MCL-001 that experienced Grade 1 and 2 TFR were treated with corticosteroids, NSAIDs and/or narcotic analgesics for management of TFR symptoms. The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see sections 4.2 and 4.8).
 
-## · Follicular lymphoma
+##  Follicular lymphoma
 
 Careful monitoring and evaluation for TFR is recommended. Tumour flare may mimic PD. Patients who experienced Grade 1 and 2 TFR were treated with corticosteroids, NSAIDs and/or narcotic analgesics for management of TFR symptoms. The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see sections 4.2 and 4.8).
 
@@ -765,7 +766,7 @@ Careful monitoring and evaluation for TLS is recommended. Patients should be wel
 
 ## Tumour burden
 
-## · Mantle cell lymphoma
+##  Mantle cell lymphoma
 
 Lenalidomide is not recommended for the treatment of patients with high tumour burden if alternative treatment options are available.
 
@@ -807,7 +808,7 @@ The risk of occurrence of hematologic SPM must be taken into account before init
 
 ## Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 
-## · Karyotype
+##  Karyotype
 
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality. In a combined analysis of two clinical trials of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%). The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
 
@@ -815,7 +816,7 @@ Baseline variables including complex cytogenetics are associated with progressio
 
 As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated with Del (5q) and complex cytogenetics is unknown.
 
-## · TP53 status
+##  TP53 status
 
 A TP53 mutation is present in 20 to 25% of lower-risk MDS Del 5q patients and is associated with a higher risk of progression to acute myeloid leukaemia (AML). In a post-hoc analysis of a clinical trial of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes (MDS-004), the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1% cut-off level of strong nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation status) and 3.6% in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
 
@@ -865,7 +866,7 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 
 ## Newly diagnosed multiple myeloma patients
 
-There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age &gt; 75 years, ISS stage III, ECOG PS ≥ 2 or CLcr&lt;60 mL/min when lenalidomide is given in combination. Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS ≥ 2 or CLcr&lt;60 mL/min (see sections 4.2 and 4.8).
+There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age &gt; 75 years, ISS stage III, ECOG PS  2 or CLcr&lt;60 mL/min when lenalidomide is given in combination. Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS  2 or CLcr&lt;60 mL/min (see sections 4.2 and 4.8).
 
 ## Cataract
 
@@ -945,8 +946,8 @@ A conservative approach was applied to determine the adverse reactions from CALG
 
 The serious adverse reactions observed more frequently ( ≥ 5%) with lenalidomide maintenance than placebo were:
 
-- Lung infection (9.4% [9.4% after the start of maintenance treatment]) from CALGB 100104
-- Pneumonia (10.6%; combined term) from IFM 2005-02
+-  Pneumonia (10.6%; combined term) from IFM 2005-02
+-  Lung infection (9.4% [9.4% after the start of maintenance treatment]) from CALGB 100104
 
 In the IFM 2005-02 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (60.8%), bronchitis (47.4%), diarrhoea (38.9%), nasopharyngitis (34.8%), muscle spasms (33.4%), leucopenia (31.7%), asthenia (29.7%), cough (27.3%), thrombocytopenia (23.5%), gastroenteritis (22.5%) and pyrexia (20.5%).
 
@@ -958,7 +959,7 @@ In the CALGB 100104 study, the adverse reactions observed more frequently with l
 
 In the SWOG S0777 study, the serious adverse reactions observed more frequently ( ≥ 5%) with lenalidomide in combination with intravenous bortezomib and dexamethasone than with lenalidomide in combination with dexamethasone were:
 
-- Hypotension (6.5%), lung infection (5.7%), dehydration (5.0%)
+-  Hypotension (6.5%), lung infection (5.7%), dehydration (5.0%)
 
 The adverse reactions observed more frequently with lenalidomide in combination with bortezomib and dexamethasone than with lenalidomide in combination with dexamethasone were: Fatigue (73.7%), peripheral neuropathy (71.8%), thrombocytopenia (57.6%), constipation (56.1%), hypocalcaemia (50.0%).
 
@@ -966,8 +967,8 @@ The adverse reactions observed more frequently with lenalidomide in combination 
 
 The serious adverse reactions observed more frequently ( ≥ 5%) with lenalidomide in combination with low dose dexamethasone (Rd and Rd18) than with melphalan, prednisone and thalidomide (MPT) were:
 
-- Renal failure (including acute) (6.3%)
-- Pneumonia (9.8%)
+-  Pneumonia (9.8%)
+-  Renal failure (including acute) (6.3%)
 
 The adverse reactions observed more frequently with Rd or Rd18 than MPT were: diarrhoea (45.5%), fatigue (32.8%), back pain (32.0%), asthenia (28.2%), insomnia (27.6%), rash (24.3%), decreased appetite (23.1%), cough (22.7%), pyrexia (21.4%), and muscle spasms (20.5%).
 
@@ -975,8 +976,8 @@ The adverse reactions observed more frequently with Rd or Rd18 than MPT were: di
 
 The serious adverse reactions observed more frequently ( ≥ 5%) with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance (MPR+R) or melphalan, prednisone and lenalidomide followed by placebo (MPR+p) than melphalan, prednisone and placebo followed by placebo (MPp+p) were:
 
-- Anaemia (5.3%)
-- Febrile neutropenia (6.0%)
+-  Febrile neutropenia (6.0%)
+-  Anaemia (5.3%)
 
 The adverse reactions observed more frequently with MPR+R or MPR+p than MPp+p were: neutropenia (83.3%), anaemia  (70.7%), thrombocytopenia (70.0%), leucopenia (38.8%), constipation (34.0%), diarrhoea (33.3%), rash (28.9%), pyrexia (27.0%), peripheral oedema (25.0%), cough (24.0%), decreased appetite (23.7%), and asthenia (22.0%).
 
@@ -986,8 +987,8 @@ In two phase 3 placebo-controlled studies, 353 patients with multiple myeloma we
 
 The most serious adverse reactions observed more frequently in lenalidomide/dexamethasone than placebo/dexamethasone combination were:
 
-- Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
-- Grade 4 neutropenia (see section 4.4).
+-  Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
+-  Grade 4 neutropenia (see section 4.4).
 
 The observed adverse reactions which occurred more frequently with lenalidomide and dexamethasone than placebo and dexamethasone in pooled multiple myeloma clinical trials (MM-009 and MM-010) were fatigue (43.9%), neutropenia (42.2%), constipation (40.5%), diarrhoea (38.5%), muscle cramp (33.4%), anaemia (31.4%), thrombocytopenia (21.5%), and rash (21.2%).
 
@@ -1001,8 +1002,8 @@ Most adverse reactions tended to occur during the first 16 weeks of therapy with
 
 Serious adverse reactions include:
 
-- Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
-- Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
+-  Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
+-  Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the phase 3 study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
 
@@ -1012,9 +1013,9 @@ The overall safety profile of lenalidomide in patients with mantle cell lymphoma
 
 The serious adverse reactions observed more frequently in study MCL-002 (with a difference of at least 2 percentage points) in the lenalidomide arm compared with the control arm were:
 
-- Neutropenia (3.6%)
-- Diarrhoea (3.6%)
-- Pulmonary embolism (3.6%)
+-  Neutropenia (3.6%)
+-  Pulmonary embolism (3.6%)
+-  Diarrhoea (3.6%)
 
 The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm compared with the control arm in study MCL-002 were neutropenia (50.9%), anaemia (28.7%), diarrhoea  (22.8%),  fatigue  (21.0%),  constipation  (17.4%),  pyrexia  (16.8%),  and  rash  (including dermatitis allergic) (16.2%).
 
@@ -1028,12 +1029,12 @@ The overall safety profile of lenalidomide in combination with rituximab in pati
 
 The serious adverse reactions observed most frequently (with a difference of at least 1 percentage point) in study NHL-007 in the lenalidomide/rituximab arm compared with the placebo/rituximab arm were:
 
-- Febrile neutropenia (2.7%)
+-  Febrile neutropenia (2.7%)
 
 <div style=\"page-break-after: always\"></div>
 
-- Pulmonary embolism (2.7%)
-- Pneumonia (2.7%)
+-  Pulmonary embolism (2.7%)
+-  Pneumonia (2.7%)
 
 In the NHL-007 study the adverse reactions observed more frequently in the lenalidomide/rituximab arm compared with the placebo/rituximab arm (with at least 2% higher frequency between arms) were neutropenia (58.2%), diarrhoea (30.8%), leucopenia (28.8%), constipation (21.9%), cough (21.9%) and fatigue (21.9%).
 
@@ -1069,6 +1070,20 @@ Table 1. ADRs reported in clinical trials in patients with multiple myeloma trea
 | Musculoskeletal and Connective Tissue Disorders      | Very Common Muscle spasms Common Myalgia, Musculoskeletal pain                                    |                                      |
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Pyrexia                                                            | Common Fatigue, Asthenia             |
 
+- ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
+
+* Applies to serious adverse drug reactions only
+
+^ See section 4.8 description of selected adverse reactions
+
+a  'Pneumonia' combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis
+
+b  'Sepsis' combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis
+
+c  'Peripheral neuropathy' combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy
+
+d  'Deep vein thrombosis' combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
+
 ## Tabulated summary for combination therapy in MM
 
 The following table is derived from data gathered during the multiple myeloma studies with combination therapy. The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
@@ -1077,7 +1092,7 @@ The following table is derived from data gathered during the multiple myeloma st
 
 Table 2. ADRs reported in clinical studies in patients with multiple myeloma treated with lenalidomide in combination with bortezomib and dexamethasone, dexamethasone, or melphalan and prednisone
 
-| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                                                                                                                                                                            | Grade 3-4 ADRs/Frequency                                                                                                                                                                                                                                        |
+| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                                                                                                                                                                            | Grade 3 - 4 ADRs/Frequency                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations                                         | Very Common Pneumonia ◊ , ◊◊ , Upper respiratory tract infection ◊ , Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis, Pharyngitis, Bronchitis ◊ , Rhinitis Common Sepsis ◊ , ◊◊ , Lung infection ◊◊ ,Urinary tract infection ◊◊ , Sinusitis ◊ | Common Pneumonia ◊ , ◊◊ Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Cellulitis ◊ , Sepsis ◊ , ◊◊ , Lung infection ◊◊ , Bronchitis ◊ , Respiratory tract infection ◊◊ ,Urinary tract infection ◊◊ , Enterocolitis infectious |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^ , ◊ , Squamous skin cancer^ , ◊ ,*                                                                                                                                                                                                                             | Common Acute myeloid leukaemia ◊ , Myelodysplastic syndrome ◊ , Squamous cell carcinoma of skin^ , ◊ ,** Uncommon T-cell type acute leukaemia ◊ , Basal cell carcinoma^ , ◊ ,                                                                                   |
@@ -1088,7 +1103,7 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                                                                      | Grade 3-4 ADRs/Frequency                                                                                                                                                                                                                       |
+| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                                                                      | Grade 3 - 4 ADRs/Frequency                                                                                                                                                                                                                     |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Psychiatric Disorders                           | Very Common Depression, Insomnia Uncommon Loss of libido                                                                                                                | Common Depression, Insomnia                                                                                                                                                                                                                    |
 | Nervous System Disorders                        | Very Common Peripheral neuropathies ◊◊ , Paraesthesia, Dizziness ◊◊ , Tremor, Dysgeusia, Headache Common Ataxia, Balance impaired, Syncope ◊◊ , Neuralgia, Dysaesthesia | Very Common Peripheral neuropathies ◊◊ Common Cerebrovascular accident ◊ , Dizziness ◊◊ , Syncope ◊◊ Neuralgia Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischemia                                               |
@@ -1100,16 +1115,16 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                                                                                                                                                                                       | Grade 3-4 ADRs/Frequency                                                                                                                                        |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal Disorders                      | Very Common Diarrhoea ◊ , ◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ◊◊ , Dyspepsia, Dry mouth, Stomatitis Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^ ◊◊ , Dysphagia | Common Gastrointestinal haemorrhage^ ◊ , ◊◊ , Small intestinal obstruction ◊◊ , Diarrhoea ◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ◊◊         |
-| Hepatobiliary Disorders                         | Very Common Alanine aminotransferase increased, Aspartate aminotransferase increased Common Hepatocellular injury ◊◊ , Abnormal liver function tests ◊ , Hyperbilirubinaemia Uncommon Hepatic failure^                                                                                   | Common Cholestasis ◊ , Hepatotoxicity, Hepatocellular injury ◊◊ , Alanine aminotransferase increased, Abnormal liver function tests ◊ Uncommon Hepatic failure^ |
-| Skin and Subcutaneous Tissue Disorders          | Very Common Rashes ◊◊ , Pruritus Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊ , Skin discolouration, Photosensitivity                                                               | Common Rashes ◊◊ Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊                                                                                  |
-| Musculoskeletal and Connective Tissue Disorders | reaction Very Common Muscular weakness ◊◊ , Muscle spasms, Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊ , ◊◊ ), Pain in extremity, Myalgia, Arthralgia ◊ Common Joint swelling                                                         | Common Muscular weakness ◊◊ , Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊ , ◊◊ ) Uncommon Joint swelling     |
+| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                                                                                                                                                                                                | Grade 3 - 4 ADRs/Frequency                                                                                                                                      |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal Disorders                      | Very Common Diarrhoea ◊ , ◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ◊◊ , Dyspepsia, Dry mouth, Stomatitis Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^ ◊◊ , Dysphagia Uncommon | Common Gastrointestinal haemorrhage^ ◊ , ◊◊ , Small intestinal obstruction ◊◊ , Diarrhoea ◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ◊◊         |
+| Hepatobiliary Disorders                         | Very Common Alanine aminotransferase increased, Aspartate aminotransferase increased Common Hepatocellular injury ◊◊ , Abnormal liver function tests ◊ , Hyperbilirubinaemia Uncommon Hepatic failure^                                                                                            | Common Cholestasis ◊ , Hepatotoxicity, Hepatocellular injury ◊◊ , Alanine aminotransferase increased, Abnormal liver function tests ◊ Uncommon Hepatic failure^ |
+| Skin and Subcutaneous Tissue Disorders          | Very Common Rashes ◊◊ , Pruritus Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊ , Skin discolouration, Photosensitivity reaction                                                               | Common Rashes ◊◊ Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊                                                                                  |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscular weakness ◊◊ , Muscle spasms, Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊ , ◊◊ ), Pain in extremity, Myalgia, Arthralgia ◊ Common Joint swelling                                                                           | Common Muscular weakness ◊◊ , Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊ , ◊◊ ) Uncommon Joint swelling     |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                                                                                                                                               | Grade 3-4 ADRs/Frequency                                                       |
+| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                                                                                                                                               | Grade 3 - 4 ADRs/Frequency                                                     |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Renal and Urinary Disorders                          | Very Common Renal failure (including acute) ◊ , ◊◊ Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome                                                                                                | Uncommon Renal tubular necrosis                                                |
 | Reproductive System and Breast Disorders             | Common Erectile dysfunction                                                                                                                                                                                                                      |                                                                                |
@@ -1123,13 +1138,13 @@ The following tables are derived from data gathered during the main studies in m
 
 Table 3. ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
 
-| System Organ Class / Preferred Term   | All ADRs/Frequency                                                                        | Grade 3-4 ADRs/Frequency                                                                                                  |
+| System Organ Class / Preferred Term   | All ADRs/Frequency                                                                        | Grade 3 - 4 ADRs/Frequency                                                                                                |
 |---------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations           | Very Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ | Very Common Pneumonia ◊ Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Bronchitis |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                     | Grade 3-4 ADRs/Frequency                                                                                      |
+| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                                                     | Grade 3 - 4 ADRs/Frequency                                                                                    |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Blood and Lymphatic System Disorders            | Very Common Thrombocytopenia ^, ◊ , Neutropenia ^, ◊ , Anaemia ◊ , Leucopenia                                          | Very Common Thrombocytopenia ^, ◊ , Neutropenia ^, ◊ , Anaemia ◊ , Leucopenia Common Febrile neutropenia ^, ◊ |
 | Endocrine Disorders                             | Very Common Hypothyroidism                                                                                             |                                                                                                               |
@@ -1146,11 +1161,11 @@ Table 3. ADRs reported in clinical trials in patients with myelodysplastic syndr
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                                                       | Grade 3-4 ADRs/Frequency   |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Renal and Urinary Disorders                          |                                                                                                                                                          | Common Renal failure ◊     |
-| General Disorders and Administration Site Conditions | Very Common Fatigue, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough, pharyngitis, myalgia, musculoskeletal pain, headache) | Common Pyrexia             |
-| Injury, Poisoning and Procedural Complications       |                                                                                                                                                          | Common Fall                |
+| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                                                       | Grade 3 - 4 ADRs/Frequency   |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| Renal and Urinary Disorders                          |                                                                                                                                                          | Common Renal failure ◊       |
+| General Disorders and Administration Site Conditions | Very Common Fatigue, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough, pharyngitis, myalgia, musculoskeletal pain, headache) | Common Pyrexia               |
+| Injury, Poisoning and Procedural Complications       |                                                                                                                                                          | Common Fall                  |
 
 - ~ Altered mood was reported as a common serious adverse event in the myelodysplastic syndromes phase 3 study; it was not reported as a Grade 3 or 4 adverse event
 
@@ -1158,18 +1173,18 @@ Algorithm applied for inclusion in the SmPC: All ADRs captured by the phase 3 st
 
 ## # Algorithm applied for myelodysplastic syndromes:
 
-- Myelodysplastic syndromes phase 3 study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects)
+-  Myelodysplastic syndromes phase 3 study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects)
 - o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
 - o All treatment-emergent Grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
 - o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-- Myelodysplastic syndromes phase 2 study
+-  Myelodysplastic syndromes phase 2 study
 - o All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects
-- o All treatment-emergent Grade 3 or 4 adverse\\events in 1% of lenalidomide treated subjects
 - o All treatment-emergent serious adverse events in 1% of lenalidomide treated subjects
+- o All treatment-emergent Grade 3 or 4 adverse\\events in 1% of lenalidomide treated subjects
 
 Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma treated with lenalidomide
 
-| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                        | Grade 3-4 ADRs/Frequency                                                                                     |
+| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                        | Grade 3 - 4 ADRs/Frequency                                                                                   |
 |---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations                                         | Very Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis, Pneumonia ◊ Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Pneumonia ◊           |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction                                                                                                              | Common Tumour flare reaction, Squamous skin cancer ^, ◊ , Basal cell carcinoma ^, ◊                          |
@@ -1177,7 +1192,7 @@ Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma 
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                             | Grade 3-4 ADRs/Frequency                                                |
+| System Organ Class / Preferred Term             | All ADRs/Frequency                                                                             | Grade 3 - 4 ADRs/Frequency                                              |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Metabolism and Nutrition Disorders              | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydration ◊            | Common Dehydration ◊ , Hyponatraemia, Hypocalcaemia                     |
 | Psychiatric Disorders                           | Common Insomnia                                                                                |                                                                         |
@@ -1193,7 +1208,7 @@ Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma 
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                               | Grade 3-4 ADRs/Frequency                |
+| System Organ Class / Preferred Term                  | All ADRs/Frequency                                                                                                               | Grade 3 - 4 ADRs/Frequency              |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia ◊ , Peripheral oedema, Influenza like illness syndrome (including pyrexia ◊ , cough) Common Chills | Common Pyrexia ◊ , Asthenia ◊ , Fatigue |
 
@@ -1201,14 +1216,14 @@ Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma 
 
 ◊ Adverse events reported as serious in mantle cell lymphoma clinical trialsAlgorithm applied for mantle cell lymphoma:
 
-- Mantle cell lymphoma controlled phase 2 study
+-  Mantle cell lymphoma controlled phase 2 study
 - o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
 - o All treatment-emergent Grade 3 or 4 adverse events in ≥ 1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
 - o All Serious treatment-emergent adverse events in ≥ 1% of subjects in lenalidomide arm and at least 1.0% difference in proportion between lenalidomide and control arm
-- Mantle cell lymphoma single arm phase 2 study
+-  Mantle cell lymphoma single arm phase 2 study
 - o All treatment-emergent adverse events with ≥ 5% of subjects
-- o All Grade 3 or 4 treatment-emergent adverse events reported in 2 or more subjects
 - o All Serious treatment-emergent adverse events reported in 2 or more subjects
+- o All Grade 3 or 4 treatment-emergent adverse events reported in 2 or more subjects
 
 ## Tabulated summary for combination therapy in FL
 
@@ -1250,12 +1265,12 @@ Algorithm applied for follicular lymphoma:
 
 ## Controlled- Phase 3 trial:
 
-- NHL-007 ADRs- All treatment-emergent AEs with ≥ 5.0% of subjects in lenalidomide/rituximab arm and at least 2.0% higher frequency (%) in Len arm compared to control arm - (Safety population)
-- NHL-007 Gr 3/4 ADRs- All Grades 3 or Grade 4 treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide arm compared to control arm (safety population)
-- NHL-007 Serious ADRs- All serious treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide/rituximab arm compared to control arm - (safety population) FL single arm - phase 3 trial:
-- NHL-008 ADRs- All treatment-emergent adverse events with ≥ 5.0% of subjects
-- NHL-008 Serious ADRs- All serious treatment-emergent adverse events reported in ≥ 1.0% of subjects
-- NHL-008 Gr 3/4 ADRs- All Grade 3/4 treatment-emergent adverse events reported in ≥ 1.0% of subjects
+-  NHL-007 ADRs- All treatment-emergent AEs with ≥ 5.0% of subjects in lenalidomide/rituximab arm and at least 2.0% higher frequency (%) in Len arm compared to control arm - (Safety population)
+-  NHL-007 Gr 3/4 ADRs- All Grades 3 or Grade 4 treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide arm compared to control arm (safety population)
+-  NHL-007 Serious ADRs- All serious treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide/rituximab arm compared to control arm - (safety population) FL single arm - phase 3 trial:
+-  NHL-008 Gr 3/4 ADRs- All Grade 3/4 treatment-emergent adverse events reported in ≥ 1.0% of subjects
+-  NHL-008 ADRs- All treatment-emergent adverse events with ≥ 5.0% of subjects
+-  NHL-008 Serious ADRs- All serious treatment-emergent adverse events reported in ≥ 1.0% of subjects
 - ◊ Adverse events reported as serious in follicular lymphoma clinical trials
 + Applies to serious adverse drug reactions only
 *  Rash includes PT of rash and rash maculo-papular
@@ -1268,7 +1283,7 @@ In addition to the above adverse reactions identified from the pivotal clinical 
 
 Table 6. ADRs reported in post-marketing use in patients treated with lenalidomide
 
-| System Organ Class / Preferred Term                                | All ADRs/Frequency                                                                     | Grade 3-4 ADRs/Frequency                                                               |
+| System Organ Class / Preferred Term                                | All ADRs/Frequency                                                                     | Grade 3 - 4 ADRs/Frequency                                                             |
 |--------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Infections and Infestations                                        | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps |                                                                                        | Rare Tumour lysis syndrome                                                             |
@@ -1279,7 +1294,7 @@ Table 6. ADRs reported in post-marketing use in patients treated with lenalidomi
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class / Preferred Term    | All ADRs/Frequency                                                                                                                       | Grade 3-4 ADRs/Frequency                                                                                                    |
+| System Organ Class / Preferred Term    | All ADRs/Frequency                                                                                                                       | Grade 3 - 4 ADRs/Frequency                                                                                                  |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Gastrointestinal Disorders             |                                                                                                                                          | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations)^ |
 | Hepatobiliary Disorders                | Not Known Acute hepatic failure^, Hepatitis toxic^, Cytolytic hepatitis^, Cholestatic hepatitis^, Mixed cytolytic/cholestatic hepatitis^ | Not Known Acute hepatic failure^, Hepatitis toxic^                                                                          |
@@ -1297,13 +1312,13 @@ Lenalidomide is structurally related to thalidomide. Thalidomide is a known huma
 
 ## Neutropenia and thrombocytopenia
 
-## · Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
+##  Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
 
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 4 neutropenia compared to placebo maintenance (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively). Treatment-emergent AEs of neutropenia leading to lenalidomide discontinuation were reported in 2.2% of patients in CALGB 100104 and 2.4% of patients in IFM 2005-02, respectively.  Grade 4 febrile neutropenia was reported at similar frequencies in the lenalidomide maintenance arms compared to placebo maintenance arms in both studies (0.4% vs 0.5% [0.4% vs 0.5% after the start of maintenance treatment] in CALGB 100104 and 0.3% vs 0% in IFM 2005-02, respectively).
 
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 3 or 4 thrombocytopenia compared to placebo maintenance (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively).
 
-## · Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide in combination with bortezomib and dexamethasone
+##  Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide in combination with bortezomib and dexamethasone
 
 Grade 4 neutropenia was observed in the RVd arm to a lesser extent than in the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm compared to the Rd arm (0.0% vs 0.4%).
 
@@ -1311,33 +1326,33 @@ Grade 4 neutropenia was observed in the RVd arm to a lesser extent than in the R
 
 Grade 3 or 4 thrombocytopenia was observed in the RVd arm to a greater extent than in the Rd comparator arm (17.2 % vs 9.4%).
 
-## · Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with dexamethasone
+##  Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with dexamethasone
 
 The combination of lenalidomide with dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of Grade 4 neutropenia (8.5% in Rd and Rd18, compared with MPT (15%). Grade 4 febrile neutropenia was observed infrequently (0.6% in Rd and Rd18 compared with 0.7% in MPT).
 
 The combination of lenalidomide with dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of Grade 3 and 4 thrombocytopenia (8.1% in Rd and Rd18) compared with MPT (11.1%).
 
-- Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
+-  Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 
 The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher frequency of Grade 4 neutropenia (34.1% in MPR+R/MPR+p) compared with MPp+p (7.8%). There was a higher frequency of Grade 4 febrile neutropenia observed (1.7% in MPR+R/MPR+p compared to 0.0% in MPp+p).
 
 The combination of lenalidomide with melphalan and prednisone in newly diagnosed multiple myeloma patients is associated with a higher frequency of Grade 3 and Grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p) compared with MPp+p (13.7%).
 
-## · Multiple myeloma: patients with at least one prior therapy
+##  Multiple myeloma: patients with at least one prior therapy
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of Grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients). Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients).
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasonetreated patients).
 
-## · Myelodysplastic syndromes patients
+##  Myelodysplastic syndromes patients
 
 In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of Grade 3 or 4 neutropenia (74.6% in lenalidomide-treated patients compared with 14.9% in patients on placebo in the phase 3 study). Grade 3 or 4 febrile neutropenia episodes were observed in 2.2% of lenalidomide-treated patients compared with 0.0% in patients on placebo). Lenalidomide is associated with a higher incidence of Grade 3 or 4 thrombocytopenia (37% in lenalidomide-treated patients compared with 1.5% in patients on placebo in the phase 3 study).
 
-## · Mantle cell lymphoma patients
+##  Mantle cell lymphoma patients
 
 In mantle cell lymphoma patients, lenalidomide is associated with a higher incidence of Grade 3 or 4 neutropenia (43.7% in lenalidomide-treated patients compared with 33.7% in patients in the control arm in the phase 2 study). Grade 3 or 4 febrile neutropenia episodes were observed in 6.0% of lenalidomide-treated patients compared with 2.4% in patients on control arm.
 
-## · Follicular lymphoma patients
+##  Follicular lymphoma patients
 
 The combination of lenalidomide with rituximab in follicular lymphoma is associated with a higher rate of grade 3 or grade 4 neutropenia (50.7% in lenalidomide/rituximab treated patients compared with 12.2% in placebo/rituximab treated patients). All grade 3 or 4 neutropenia were reversible through dose interruption, reduction and/or supportive care with growth factors. Additionally, febrile neutropenia was observed infrequently (2.7% in lenalidomide/rituximab treated patients compared with 0.7% in placebo/rituximab treated patients).
 
@@ -1369,11 +1384,11 @@ In clinical trials in previously treated myeloma patients with lenalidomide/dexa
 
 ## Acute myeloid leukaemia
 
-## · Multiple myeloma
+##  Multiple myeloma
 
 Cases of AML have been observed in clinical trials of newly diagnosed multiple myeloma in patients taking lenalidomide treatment in combination with melphalan or immediately following HDM/ASCT (see section 4.4). This increase was not observed in clinical trials of newly diagnosed multiple myeloma in patients taking lenalidomide in combination with dexamethasone compared to thalidomide in combination with melphalan and prednisone.
 
-## · Myelodysplastic syndromes
+##  Myelodysplastic syndromes
 
 Baseline variables including complex cytogenetics and TP53 mutation are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality (see section 4.4). The estimated 2-year cumulative risk of progression to AML were 13.8% in patients with an isolated Del (5q) abnormality compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality and 38.6% in patients with a complex karyotype.
 
@@ -1435,7 +1450,7 @@ Lenalidomide efficacy and safety have been evaluated in six phase 3 studies in n
 
 ## Newly diagnosed multiple myeloma
 
-## · Lenalidomide maintenance in patients who have undergone ASCT
+##  Lenalidomide maintenance in patients who have undergone ASCT
 
 The efficacy and safety of lenalidomide maintenance was assessed in two phase 3 multicentre, randomised, double-blind 2-arm, parallel group, placebo-controlled studies: CALGB 100104 and IFM 2005-02
 
@@ -1461,6 +1476,8 @@ The results for the study, using a cut-off of 1 February 2016, are presented in 
 
 Table 7. Summary of overall efficacy data
 
+CI = confidence interval; HR = hazard ratio; max = maximum; min = minimum; NE = not estimable; OS = overall survival; PFS = progression-free survival;
+
 |                                                     | Lenalidomide (N = 231)    | Placebo (N = 229)         |
 |-----------------------------------------------------|---------------------------|---------------------------|
 | Investigator-assessed PFS                           |                           |                           |
@@ -1476,9 +1493,7 @@ Table 7. Summary of overall efficacy data
 | Follow-up                                           |                           |                           |
 | Median f (min, max), months: all surviving patients | 81.9 (0.0, 119.8)         | 81.0 (4.1, 119.5)         |
 
-Data cuts:
-
-17 Dec 2009 and 01 Feb 2016
+Data cuts: 17 Dec 2009 and 01 Feb 2016
 
 ## IFM 2005-02
 
@@ -1496,7 +1511,7 @@ The PFS benefit was less in the subgroup of patients with CR than in the subgrou
 
 The updated PFS, using a cut-off of 1 February 2016 (96.7 months follow up) continues to show a PFS advantage: HR = 0.57 (95% CI 0.47, 0.68; p &lt; 0.001). The median overall PFS was 44.4 months (39.6, 52.0) in the lenalidomide arm versus 23.8 months (95% CI 21.2, 27.3) in the placebo arm. For PFS2, the observed HR was 0.80 (95% CI 0.66, 0.98; p = 0.026) for lenalidomide versus placebo. The median overall PFS2 was 69.9 months (95% CI 58.1, 80.0) in the lenalidomide arm versus 58.4 months (95% CI 51.1, 65.0) in the placebo arm. For OS, the observed HR was 0.90: (95% CI 0.72, 1.13; p = 0.355) for lenalidomide versus placebo. The median overall survival time was 105.9 months (95% CI 88.8, NE) in the lenalidomide arm versus 88.1 months (95% CI 80.7, 108.4) in the placebo arm.
 
-- Lenalidomide in combination with bortezomib and dexamethasone in patients who are not eligible for stem cell transplantation
+-  Lenalidomide in combination with bortezomib and dexamethasone in patients who are not eligible for stem cell transplantation
 
 The SWOG S0777 study evaluated the addition of bortezomib to a foundation of lenalidomide and dexamethasone, as initial treatment, followed by continued Rd until disease progression, in patients with previously untreated multiple myeloma who are either ineligible for transplant or eligible for transplant with no plan to undertake immediate transplant.
 
@@ -1513,6 +1528,8 @@ The results for the study, using a cut-off of 01 December 2016, where the median
 <div style=\"page-break-after: always\"></div>
 
 Table 8. Summary of overall efficacy data
+
+CI = confidence interval; HR = hazard ratio; max = maximum; min = minimum; NE = not estimable; OS = overall survival;
 
 |                                      | Initial treatment                 | Initial treatment                |
 |--------------------------------------|-----------------------------------|----------------------------------|
@@ -1531,7 +1548,7 @@ Table 8. Summary of overall efficacy data
 
 Updated OS results, using a cut-off of 01 May 2018 (84.2 months median follow-up for surviving subjects) continue to show an OS advantage favouring RVd: HR = 0.73 (95% CI 0.57, 0.94; p=0.014). The proportion of subjects alive after 7 years was 54.7% in the RVd arm versus 44.7% in the Rd arm.
 
-## · Lenalidomide in combination with dexamethasone in patients who are not eligible for stem cell transplantation
+##  Lenalidomide in combination with dexamethasone in patients who are not eligible for stem cell transplantation
 
 The safety and efficacy of lenalidomide was assessed in a phase 3, multicentre, randomised, openlabel, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason. The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42day cycles (72 weeks). Patients were randomised (1:1:1) to 1 of 3 treatment arms. Patients were stratified at randomisation by age ( ≤ 75 versus &gt;75 years), stage (ISS Stages I and II versus Stage III), and country.
 
@@ -1544,6 +1561,8 @@ The primary efficacy endpoint in the study was progression free survival (PFS). 
 In an updated analysis of PFS, PFS2 and OS using a cut off of 3 March 2014 where the median follow-up time for all surviving subjects was 45.5 months, the results of the study are presented in Table 9.
 
 Table 9. Summary of overall efficacy data
+
+AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IMWG = International Myeloma Working Group; IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum; min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; SE = standard error; T = thalidomide; VGPR = very good partial response; vs = versus.
 
 |                                       | Rd (N = 535)              | Rd18 (N = 541)            | MPT (N = 547)             |
 |---------------------------------------|---------------------------|---------------------------|---------------------------|
@@ -1575,25 +1594,7 @@ Table 9. Summary of overall efficacy data
 | Duration of response (months) h       |                           |                           |                           |
 | Median a (95% CI) b                   | 35.0 (27.9, 43.4)         | 22.1 (20.3, 24.0)         | 22.3 (20.2, 24.9)         |
 
-AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IMWG = International Myeloma Working Group; IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum; min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; SE = standard error; T = thalidomide; VGPR = very good partial response; vs = versus.
-
-a  The median is based on the Kaplan-Meier estimate.
-
-b  The 95% CI about the median.
-
-c  Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.
-
-d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.
-
-e  Exploratory endpoint (PFS2)
-
-f The median is the univariate statistic without adjusting for censoring.
-
-g Best assessment of adjudicated response during the treatment phase of the study (for definitions of each response category, Data cut-off date = 24 May 2013).
-
-h  data cut 24 May 2013
-
-- Lenalidomide in combination with melphalan and prednisone followed by maintenance therapy in patients who are not eligible for transplant
+-  Lenalidomide in combination with melphalan and prednisone followed by maintenance therapy in patients who are not eligible for transplant
 
 The safety and efficacy of lenalidomide was assessed in a phase 3 multicentre, randomised double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine &lt; 2.5 mg/dL. The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance therapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles. Patients were randomised in a 1:1:1 ratio to one of 3 treatment arms. Patients were stratified at randomisation by age ( ≤ 75 vs. &gt; 75 years) and stage (ISS; Stages I and II vs. stage III).
 
@@ -1677,18 +1678,16 @@ In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% C
 
 Table 11. Summary of results of efficacy analyses as of cut-off date for extended follow-up pooled studies MM-009 and MM-010 (cut-offs 23 July 2008 and 2 March 2008, respectively)
 
+a  Two-tailed log rank test comparing survival curves between treatment groups.
+
 | Endpoint                                                             | len/dex (N=353)          | placebo/dex(N=351)       |                                                            |
 |----------------------------------------------------------------------|--------------------------|--------------------------|------------------------------------------------------------|
-| Time to event                                                        |                          |                          | HR[95% CI], p-value a                                      |
+| Time to event                                                        |                          |                          | HR [95% CI], p-value a                                     |
 | Time to progression Median [95% CI], weeks                           | 60.1 [44.3, 73.1]        | 20.1 [17.7, 20.3]        | 0.350 [0.287, 0.426], p < 0.001                            |
 | Progression free survival Median [95% CI], weeks                     | 48.1 [36.4, 62.1]        | 20.0 [16.1, 20.1]        | 0.393 [0.326, 0.473], p < 0.001                            |
 | Overall survival Median [95% CI], weeks 1-year Overall survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, 1.009], p = 0.045                            |
 | Response rate                                                        |                          |                          | Odds ratio [95% CI], p-value b                             |
 | Overall response [n, %] Complete response [n, %]                     | 212 (60.1) 58 (16.4)     | 75 (21.4) 11 (3.1)       | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
-
-a  Two-tailed log rank test comparing survival curves between treatment groups.
-
-b Two-tailed continuity-corrected chi-square test.
 
 ## Myelodysplastic syndromes
 
@@ -1743,7 +1742,7 @@ Table 13. Summary of efficacy results - study MCL-002, intent-to-treat populatio
 |-------------------------------------------------|----------------------------|--------------------------|
 | PFS                                             |                            |                          |
 | PFS, median a [95% CI] b (weeks)                | 37.6 [24.0, 52.6]          | 22.7 [15.9, 30.1]        |
-| SequentialHR [95% CI] e                         | 0.61 [0.44, 0.84]          | 0.61 [0.44, 0.84]        |
+| Sequential HR [95% CI] e e                      | 0.61 [0.44, 0.84]          | 0.61 [0.44, 0.84]        |
 | Response a , n (%)                              |                            |                          |
 | Complete response (CR)                          | 8 (4.7)                    | 0 (0.0)                  |
 | Partial response (PR)                           | 60 (35.3)                  | 9 (10.7)                 |
@@ -1831,6 +1830,8 @@ The data presented are based on an interim analysis focusing on the single-arm i
 
 Table 15. Summary of overall efficacy data (Induction Treatment Period) - Study CC-5013NHL-008
 
+CI = confidence interval; DOR = duration of response; FL = follicular lymphoma
+
 |                                                | All Subjects      | All Subjects                   | All Subjects                   | FL Subjects       | FL Subjects                    | FL Subjects                   |
 |------------------------------------------------|-------------------|--------------------------------|--------------------------------|-------------------|--------------------------------|-------------------------------|
 |                                                | Total N=187 a     | Rituximab Refractory: Yes N=77 | Rituximab Refractory: No N=110 | Total N=148       | Rituximab Refractory: Yes N=60 | Rituximab Refractory: No N=88 |
@@ -1852,7 +1853,7 @@ Lenalidomide has an asymmetric carbon atom and can therefore exist as the optica
 
 ## Absorption
 
-Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose. In patients, as well as in healthy volunteers, the maximum concentration (Cmax) and area-under-the concentration time curve (AUC) increase proportionally with increases in dose. Multiple dosing does not cause marked medicinal product accumulation. In plasma, the relative exposures of the S- and Renantiomers of lenalidomide are approximately 56% and 44%, respectively.
+Lenalidomide is rapidly absorbed following oral administration in healthy volunteers, under fasting conditions, with maximum plasma concentrations occurring between 0.5 and 2 hours post-dose. In patients, as well as in healthy volunteers, the maximum concentration (C max ) and area-under-the concentration time curve (AUC) increase proportionally with increases in dose. Multiple dosing does not cause marked medicinal product accumulation. In plasma, the relative exposures of the S- and Renantiomers of lenalidomide are approximately 56% and 44%, respectively.
 
 Co-administration with a high-fat and high-calorie meal in healthy volunteers reduces the extent of absorption, resulting in an approximately 20% decrease in area under the concentration versus time curve (AUC) and 50% decrease in Cmax in plasma. However, in the main multiple myeloma and myelodysplastic syndromes registration trials where the efficacy and safety were established for lenalidomide, the medicinal product was administered without regard to food intake. Thus, lenalidomide can be administered with or without food.
 
@@ -1892,7 +1893,7 @@ The pharmacokinetics of lenalidomide was studied in subjects with renal impairme
 
 ## Hepatic impairment
 
-Population pharmacokinetic analyses included patients with mild hepatic impairment (N=16, total bilirubin &gt; 1 to ≤ 1.5 x ULN or AST &gt; ULN) and indicate that mild hepatic impairment does not influence lenalidomide clearance (exposure in plasma). There are no data available for patients with moderate to severe hepatic impairment.
+Population pharmacokinetic analyses included patients with mild hepatic impairment (N=16, total bilirubin  1 to ≤ 1.5 x ULN or AST  ULN) and indicate that mild hepatic impairment does not influence lenalidomide clearance (exposure in plasma). There are no data available for patients with moderate to severe hepatic impairment.
 
 ## Other intrinsic factors
 
@@ -1924,9 +1925,13 @@ Maize starch, pregelatinized Cellulose, microcrystalline Croscarmellose sodium S
 
 Lenalidomide Mylan 2.5 mg hard capsules and Lenalidomide Mylan 20 mg hard capsules Yellow iron oxide (E172) Titanium dioxide (E171) Gelatin Indigo carmine (E132)
 
-Lenalidomide Mylan 7.5 mg hard capsules Yellow iron oxide (E172) Black iron oxide (E172) Titanium dioxide (E171) Gelatin
+Lenalidomide Mylan 7.5 mg hard capsules
 
-Lenalidomide Mylan 10 mg hard capsules Yellow iron oxide (E172) Black iron oxide (E172) Titanium dioxide (E172) Indigo carmine (E132) Gelatin
+Yellow iron oxide (E172) Black iron oxide (E172) Titanium dioxide (E171) Gelatin
+
+Lenalidomide Mylan 10 mg hard capsules Yellow iron oxide (E172) Black iron oxide (E172) Titanium dioxide (E172) Indigo carmine (E132)
+
+Gelatin
 
 Lenalidomide Mylan 5 mg hard capsules Lenalidomide Mylan 15 mg hard capsules Lenalidomide Mylan 25 mg hard capsules Titanium dioxide (E171) Gelatin
 
@@ -1936,9 +1941,7 @@ Shellac Propylene glycol (E1520)
 
 <div style=\"page-break-after: always\"></div>
 
-Lenalidomide Mylan 2.5 mg hard capsules Lenalidomide Mylan 5 mg hard capsules Lenalidomide hard capsules
-
-Mylan 7.5 mg hard capsules Lenalidomide Mylan 10 mg hard capsules Lenalidomide Mylan 25 mg Black iron oxide (E172) Potassium hydroxide
+Lenalidomide Mylan 2.5 mg hard capsules Lenalidomide Mylan 5 mg hard capsules Lenalidomide Mylan 7.5 mg hard capsules Lenalidomide Mylan 10 mg hard capsules Lenalidomide Mylan 25 mg hard capsules Black iron oxide (E172) Potassium hydroxide
 
 Lenalidomide Mylan 15 mg hard capsules Lenalidomide Mylan 20 mg hard capsules Red iron oxide (E172) Simeticone
 
@@ -2004,7 +2007,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -2015,7 +2020,7 @@ Name and address of the manufacturers responsible for batch release
 
 Mylan Hungary Kft, Hungary Mylan utca 1, Komárom, 2900, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -2025,34 +2030,34 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- At the request of the European Medicines Agency;
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
 1. The MAH shall agree the details of a controlled access programme with the National Competent Authorities and must implement such programme nationally to ensure that:
-- Prior to prescribing (where appropriate, and in agreement with the National Competent Authority, dispensing) all healthcare professionals who intend to prescribe (and dispense) Lenalidomide Mylan are provided with an Educational Healthcare Professional's Kit containing the following:
+2.  Prior to prescribing (where appropriate, and in agreement with the National Competent Authority, dispensing) all healthcare professionals who intend to prescribe (and dispense) Lenalidomide Mylan are provided with an Educational Healthcare Professional's Kit containing the following:
 3. o Educational Healthcare Professional brochure
-4. o Educational brochures for patients
-5. o Patient card
+4. o Patient card
+5. o Educational brochures for patients
 
 <div style=\"page-break-after: always\"></div>
 
 - o Risk awareness forms
-- o Information on where to find latest Summary of Product Characteristics (SmPC).
 2. The MAH shall implement a pregnancy prevention programme (PPP) in each Member State. Details of the PPP should be agreed with the National Competent Authorities in each Member State and put in place prior to the launch of the medicinal product.
+- o Information on where to find latest Summary of Product Characteristics (SmPC).
 3. The MAH should agree the contents of the Educational Healthcare Professional's Kit with the National Competent Authority in each Member State prior to launch of the medicinal product and ensure that the materials contain the key elements as described below.
 4. The MAH should agree on the implementation of the controlled access programme in each Member State.
 
@@ -2064,28 +2069,28 @@ The Educational Healthcare Professional's Kit shall contain the following elemen
 
 ## Educational Healthcare Professional brochure
 
-- Maximum duration of treatment prescribed
-- Brief background on lenalidomide
+-  Brief background on lenalidomide
+-  Maximum duration of treatment prescribed
 - o 4 weeks for women with childbearing potential
+-  The need to avoid foetal exposure due to teratogenicity of lenalidomide in animals and the expected teratogenic effect of lenalidomide in humans
 - o 12 weeks for men and women without childbearing potential
-- The need to avoid foetal exposure due to teratogenicity of lenalidomide in animals and the expected teratogenic effect of lenalidomide in humans
-- Guidance on handling the blister or capsule of Lenalidomide Mylan for healthcare professionals and caregivers
-- Obligations of the healthcare professionals who intend to prescribe or dispense Lenalidomide Mylan
+-  Guidance on handling the blister or capsule of Lenalidomide Mylan for healthcare professionals and caregivers
+-  Obligations of the healthcare professionals who intend to prescribe or dispense Lenalidomide Mylan
 - o Need to provide comprehensive advice and counselling to patients
 - o That patients should be capable of complying with the requirements for the safe use of Lenalidomide Mylan
 - o Need to provide patients with appropriate patient educational brochure, patient card and/or equivalent tool
-- Safety advice relevant to all patients
+-  Safety advice relevant to all patients
 - o Description of risk of SPM
-- o Local country specific arrangements for a prescription for lenalidomide to be dispensed
 - o That any unused capsules should be returned to the pharmacist at the end of the treatment
+- o Local country specific arrangements for a prescription for lenalidomide to be dispensed
 - o That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
-- Description of the PPP and categorisation of patients based on sex and childbearing potential
+-  Description of the PPP and categorisation of patients based on sex and childbearing potential
 - o Algorithm for implementation of PPP
 - o Definition of women of childbearing potential (WCBP) and actions the prescriber should take if unsure
-- Safety advice for women of childbearing potential
+-  Safety advice for women of childbearing potential
 - o The need to avoid foetal exposure
-- o Description of the PPP
 - o Need for effective contraception (even if the woman has amenorrhoea) and definition of effective contraception
+- o Description of the PPP
 - o That if she needs to change or stop using her method of contraception she should inform:
 -  The physician prescribing her contraception that she is on lenalidomide
 -  The physician prescribing lenalidomide that she has stopped or changed her method of contraception
@@ -2099,82 +2104,82 @@ The Educational Healthcare Professional's Kit shall contain the following elemen
 <div style=\"page-break-after: always\"></div>
 
 - o Need to tell treating doctor immediately upon suspicion of pregnancy
-- Safety advice for men
+-  Safety advice for men
 - o The need to avoid foetal exposure
 - o The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had a vasectomy)
 -  During Lenalidomide Mylan treatment
 -  For at least 7 days following final dose.
 - o That he should not donate semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan treatment
 - o That if his partner becomes pregnant whilst he is taking Lenalidomide Mylan or shortly after he has stopped taking Lenalidomide Mylan he should inform his treating doctor immediately
-- Requirements in the event of pregnancy
+-  Requirements in the event of pregnancy
 - o Instructions to stop Lenalidomide Mylan immediately upon suspicion of pregnancy, if female patient
 - o Need to refer patient to physician specialised or experienced in dealing with teratology and its diagnosis for evaluation and advice
 - o Local contact details for reporting of any suspected pregnancy immediately
-- Local contact details for reporting adverse reactions
+-  Local contact details for reporting adverse reactions
 
 ## Educational Brochures for patients
 
 The Educational brochures for patients should be of 3 types:
 
-- Brochure for women patients of childbearing potential and their partner
-- Brochure for male patients
-- Brochure for women patients who are not of childbearing potential
+-  Brochure for women patients of childbearing potential and their partner
+-  Brochure for women patients who are not of childbearing potential
+-  Brochure for male patients
 
 All educational brochures for patients should contain the following elements:
 
-- Description of the patient card and its necessity
-- That lenalidomide is teratogenic in animals and is expected to be teratogenic in humans
-- Guidance on handling Lenalidomide Mylan for patients, caregivers and family members
-- National or other applicable specific arrangements for a prescription for Lenalidomide Mylan to be dispensed
-- That the patient must not give Lenalidomide Mylan to any other person
-- That the patient should tell their doctor about any adverse events
-- That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days after discontinuation of Lenalidomide Mylan treatment
-- That any unused capsules should be returned to the pharmacist at the end of the treatment
+-  That lenalidomide is teratogenic in animals and is expected to be teratogenic in humans
+-  Description of the patient card and its necessity
+-  Guidance on handling Lenalidomide Mylan for patients, caregivers and family members
+-  National or other applicable specific arrangements for a prescription for Lenalidomide Mylan to be dispensed
+-  That the patient must not give Lenalidomide Mylan to any other person
+-  That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days after discontinuation of Lenalidomide Mylan treatment
+-  That the patient should tell their doctor about any adverse events
+-  That any unused capsules should be returned to the pharmacist at the end of the treatment
 
 The following information should also be provided in the appropriate brochure:
 
 ## Brochure for women patients with childbearing potential
 
-- The need to avoid foetal exposure
-- The need for effective contraception and definition of effective contraception
-- Description of the PPP
-- That if she needs to change or stop using her method of contraception she should inform:
+-  The need to avoid foetal exposure
+-  Description of the PPP
+-  The need for effective contraception and definition of effective contraception
+-  That if she needs to change or stop using her method of contraception she should inform:
 - o The physician prescribing her contraception that she is on lenalidomide
 - o The physician prescribing lenalidomide that she has stopped or changed her method of contraception
-- Pregnancy test regime
+-  Pregnancy test regime
 - o Before commencing treatment
 - o During treatment (including dose interruptions), at least every 4 weeks except in case of confirmed tubal sterilisation
 - o After finishing treatment
-- The need to stop Lenalidomide Mylan immediately upon suspicion of pregnancy
-- The need to contact their doctor immediately upon suspicion of pregnancy
+-  The need to stop Lenalidomide Mylan immediately upon suspicion of pregnancy
+-  The need to contact their doctor immediately upon suspicion of pregnancy
 
 <div style=\"page-break-after: always\"></div>
 
 ## Brochure for male patients
 
-- The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had vasectomy)
-- The need to avoid foetal exposure
+-  The need to avoid foetal exposure
+-  The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had vasectomy)
 - o During Lenalidomide Mylan treatment (including dose interruptions)
+-  That if his partner becomes pregnant, he should inform his treating doctor immediately
 - o For at least 7 days following final dose
-- That if his partner becomes pregnant, he should inform his treating doctor immediately
-- That he should not donate semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan treatment
+-  That he should not donate semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan treatment
 
 ## Patient Card or equivalent tool
 
 The patient card shall contain the following elements:
 
-- Verification that appropriate counselling has taken place
-- Check box (or similar) which physician ticks to confirm that patient is using effective contraception (if woman of childbearing potential)
-- Documentation of childbearing potential status
-- Pregnancy test dates and results
+-  Verification that appropriate counselling has taken place
+-  Documentation of childbearing potential status
+-  Check box (or similar) which physician ticks to confirm that patient is using effective contraception (if woman of childbearing potential)
+-  Pregnancy test dates and results
 
 ## Risk Awareness Forms
 
 There should be 3 types of risk awareness forms:
 
-- Women of non-childbearing potential
-- Women of childbearing potential
-- Male patient
+-  Women of childbearing potential
+-  Women of non-childbearing potential
+-  Male patient
 
 All risk awareness forms should contain the following elements:
 
@@ -2189,38 +2194,38 @@ All risk awareness forms should contain the following elements:
 Risk awareness forms for women of childbearing potential should also include:
 
 - -Confirmation that the physician has discussed the following:
-- the need to avoid foetal exposure
-- that she understands the need to avoid lenalidomide during pregnancy and to apply effective contraceptive measures without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
-- that if she is pregnant or plans to be, she must not take lenalidomide
-- that if she needs to change or stop using her method of contraception she should inform:
+-  the need to avoid foetal exposure
+-  that if she is pregnant or plans to be, she must not take lenalidomide
+-  that she understands the need to avoid lenalidomide during pregnancy and to apply effective contraceptive measures without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
+-  that if she needs to change or stop using her method of contraception she should inform:
 -  the physician prescribing her contraception that she is taking Lenalidomide Mylan
 -  the physician prescribing Lenalidomide Mylan that she has stopped or changed her method of contraception
-- of the need to stop Lenalidomide Mylan immediately upon suspicion of pregnancy
-- of the need for pregnancy tests i.e. before treatment, at least every 4 weeks during treatment and after treatment
-- of the need to contact their doctor immediately upon suspicion of pregnancy
-- that she should not share the medicinal product with any other person
+-  of the need for pregnancy tests i.e. before treatment, at least every 4 weeks during treatment and after treatment
+-  of the need to stop Lenalidomide Mylan immediately upon suspicion of pregnancy
+-  of the need to contact their doctor immediately upon suspicion of pregnancy
+-  that she should not share the medicinal product with any other person
 
 <div style=\"page-break-after: always\"></div>
 
-- that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
-- that she should return the unused capsules to the pharmacist at the end of treatment
+-  that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
+-  that she should return the unused capsules to the pharmacist at the end of treatment
 
 Risk awareness forms for women with no childbearing potential should also include:
 
 - -Confirmation that the physician has discussed the following:
-- that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
-- that she should not share the medicinal product with any other person
-- that she should return the unused capsules to the pharmacist at the end of treatment
+-  that she should not share the medicinal product with any other person
+-  that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
+-  that she should return the unused capsules to the pharmacist at the end of treatment
 
 ## Risk awareness forms for male patients should also include:
 
 - -Confirmation that the physician has discussed the following:
-- the need to avoid foetal exposure
-- that if his partner becomes pregnant, he should inform his treating doctor immediately and always use a condom
-- that lenalidomide is found in semen and the need to use condoms if sexual partner is pregnant or is a WCBP not on effective contraception (even if the man has had vasectomy)
-- that he should not share the medicinal product with any other person
-- that he should return the unused capsules to the pharmacist at the end of treatment
-- that he should not donate blood or semen during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
+-  the need to avoid foetal exposure
+-  that lenalidomide is found in semen and the need to use condoms if sexual partner is pregnant or is a WCBP not on effective contraception (even if the man has had vasectomy)
+-  that if his partner becomes pregnant, he should inform his treating doctor immediately and always use a condom
+-  that he should not share the medicinal product with any other person
+-  that he should not donate blood or semen during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Mylan
+-  that he should return the unused capsules to the pharmacist at the end of treatment
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2240,9 +2245,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 2.5 mg hard capsules
-
-lenalidomide
+Lenalidomide Mylan 2.5 mg hard capsules lenalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2317,7 +2320,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2337,17 +2340,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Mylan 2.5 mg capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -2456,17 +2459,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Mylan 5 mg capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -2525,9 +2528,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-WARNING: Risk of severe birth defects. Do not use while pregnant or breastfeeding.
-
-You must follow the Lenalidomide Mylan Pregnancy Prevention Programme.
+WARNING: Risk of severe birth defects. Do not use while pregnant or breastfeeding. You must follow the Lenalidomide Mylan Pregnancy Prevention Programme.
 
 ## 8. EXPIRY DATE
 
@@ -2569,7 +2570,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2589,15 +2590,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2612,9 +2613,7 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 7.5 mg capsules
-
-lenalidomide
+Lenalidomide Mylan 7.5 mg capsules lenalidomide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2640,9 +2639,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 10 mg hard capsules
-
-lenalidomide
+Lenalidomide Mylan 10 mg hard capsules lenalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2681,6 +2678,8 @@ You must follow the Lenalidomide Mylan Pregnancy Prevention Programme.
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2732,23 +2731,21 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Mylan 10 mg capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -2819,15 +2816,7 @@ Do not store above 30°C
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2865,46 +2854,32 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+Lenalidomide Mylan 15 mg capsules lenalidomide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Mylan Pharmaceuticals Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Lenalidomide Mylan 15 mg capsules
-
-lenalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Oral use
 
@@ -2916,9 +2891,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 20 mg hard capsules
-
-lenalidomide
+Lenalidomide Mylan 20 mg hard capsules lenalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3014,17 +2987,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Mylan 20 mg capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -3051,9 +3024,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Mylan 25 mg hard capsules
-
-lenalidomide
+Lenalidomide Mylan 25 mg hard capsules lenalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3149,17 +3120,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Mylan 25 mg capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -3186,14 +3157,19 @@ Oral use
 
 <div style=\"page-break-after: always\"></div>
 
-| Lenalidomide Mylan 2.5 mg hard capsules   |
-|-------------------------------------------|
-| Lenalidomide Mylan 7.5 mg hard            |
-| capsules                                  |
-| Lenalidomide Mylan 10 mg hard capsules    |
-| Lenalidomide Mylan 15 mg hard capsules    |
-| Lenalidomide Mylan 20 mg hard capsules    |
-| Lenalidomide Mylan 25 mg hard capsules    |
+Lenalidomide Mylan 2.5 mg hard capsules
+
+Lenalidomide Mylan 5 mg hard capsules
+
+Lenalidomide Mylan 7.5 mg hard capsules
+
+Lenalidomide Mylan 10 mg hard capsules
+
+Lenalidomide Mylan 15 mg hard capsules
+
+Lenalidomide Mylan 20 mg hard capsules
+
+Lenalidomide Mylan 25 mg hard capsules
 
 ## lenalidomide
 
@@ -3219,10 +3195,10 @@ Lenalidomide Mylan contains the active substance 'lenalidomide'. This medicine b
 
 Lenalidomide Mylan is used in adults for:
 
-- Myelodysplastic syndromes
-- Multiple myeloma
-- Mantle cell lymphoma
-- Follicular lymphoma
+-  Multiple myeloma
+-  Myelodysplastic syndromes
+-  Mantle cell lymphoma
+-  Follicular lymphoma
 
 ## Multiple myeloma
 
@@ -3234,13 +3210,13 @@ Newly diagnosed multiple myeloma - in patients who have had a bone marrow transp
 
 Newly diagnosed multiple myeloma - in patients who cannot have a bone marrow transplant Lenalidomide Mylan is taken with other medicines. These may include:
 
-- an anti-inflammatory medicine called 'dexamethasone'
-- a chemotherapy medicine called 'bortezomib'
+-  a chemotherapy medicine called 'bortezomib'
+-  an anti-inflammatory medicine called 'dexamethasone'
 
 <div style=\"page-break-after: always\"></div>
 
-- a chemotherapy medicine called 'melphalan' and
-- an immunosuppressant medicine called 'prednisone'.
+-  a chemotherapy medicine called 'melphalan' and
+-  an immunosuppressant medicine called 'prednisone'.
 
 You will take these other medicines at the start of treatment and then continue to take Lenalidomide Mylan on its own.
 
@@ -3258,13 +3234,13 @@ MDS are a collection of many different blood and bone marrow diseases. The blood
 
 Lenalidomide Mylan is used alone to treat adult patients who have been diagnosed with MDS, when all of the following apply:
 
-- you need regular blood transfusions to treat low levels of red blood cells ('transfusiondependent anaemia')
-- other treatments have been used before, are not suitable or do not work well enough.
-- you have an abnormality of cells in the bone marrow called an 'isolated deletion 5q cytogenetic abnormality'. This means your body does not make enough healthy blood cells
+-  you need regular blood transfusions to treat low levels of red blood cells ('transfusiondependent anaemia')
+-  you have an abnormality of cells in the bone marrow called an 'isolated deletion 5q cytogenetic abnormality'. This means your body does not make enough healthy blood cells
+-  other treatments have been used before, are not suitable or do not work well enough.
 
 Lenalidomide Mylan can increase the number of healthy red blood cells that the body produces by reducing the number of abnormal cells:
 
-- this can reduce the number of blood transfusions needed. It is possible that no transfusions will be needed.
+-  this can reduce the number of blood transfusions needed. It is possible that no transfusions will be needed.
 
 ## Mantle cell lymphoma (MCL)
 
@@ -3282,9 +3258,9 @@ Lenalidomide Mylan is taken together with another medicine called 'rituximab' fo
 
 Lenalidomide Mylan works by affecting the body's immune system and directly attacking the cancer. It works in a number of different ways:
 
-- by stopping blood vessels growing in the cancer
-- by stopping the cancer cells developing
-- by stimulating part of the immune system to attack the cancer cells.
+-  by stopping the cancer cells developing
+-  by stopping blood vessels growing in the cancer
+-  by stimulating part of the immune system to attack the cancer cells.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3294,9 +3270,9 @@ You must read the package leaflet of all medicinal products to be taken in combi
 
 ## Do not take Lenalidomide Mylan
 
-- if you are pregnant, think you may be pregnant or are planning to become pregnant, as Lenalidomide Mylan is expected to be harmful to an unborn child (see section 2, 'Pregnancy, breast-feeding and contraception - information for women and men').
-- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see section 2, 'Pregnancy, breast-feeding and contraception information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and provide you with this confirmation.
-- if you are allergic to lenalidomide or any of the other ingredients of this medicine listed in section 6. If you think you may be allergic, ask your doctor for advice.
+-  if you are pregnant, think you may be pregnant or are planning to become pregnant, as Lenalidomide Mylan is expected to be harmful to an unborn child (see section 2, 'Pregnancy, breast-feeding and contraception - information for women and men').
+-  if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see section 2, 'Pregnancy, breast-feeding and contraception information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and provide you with this confirmation.
+-  if you are allergic to lenalidomide or any of the other ingredients of this medicine listed in section 6. If you think you may be allergic, ask your doctor for advice.
 
 If any of these apply to you, do not take Lenalidomide Mylan. Talk to your doctor if you are not sure.
 
@@ -3304,20 +3280,20 @@ If any of these apply to you, do not take Lenalidomide Mylan. Talk to your docto
 
 ## Talk to your doctor, pharmacist or nurse before taking Lenalidomide Mylan if:
 
-- you have had blood clots in the past - you have an increased risk of developing blood clots in the veins and arteries during treatment
-- you have or have ever had previous viral infection, particularly: hepatitis B infection, varicella zoster, HIV. If you are in doubt, talk to your doctor. Treatment with Lenalidomide Mylan may cause the virus to become active again, in patients who carry the virus. This results in a recurrence of the infection. Your doctor should check whether you have ever had hepatitis B infection
-- you have any signs of an infection, such as a cough or fever
-- you have kidney problems - your doctor may adjust your dose of Lenalidomide Mylan
-- you have had an allergic reaction whilst taking thalidomide (another medicine used to treat multiple myeloma) such as rash, itching, swelling, dizziness or trouble breathing
-- you have had a heart attack, have ever had a blood clot, or if you smoke, have high blood pressure or high cholesterol levels
-- you have experienced in the past a combination of any of the following symptoms: widespread rash, red skin, high body temperature, flu-like symptoms, liver enzyme elevations, blood abnormalities (eosinophilia), enlarged lymph nodes - these are signs of a severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome. (see also section 4 'Possible side effects').
+-  you have had blood clots in the past - you have an increased risk of developing blood clots in the veins and arteries during treatment
+-  you have any signs of an infection, such as a cough or fever
+-  you have or have ever had previous viral infection, particularly: hepatitis B infection, varicella zoster, HIV. If you are in doubt, talk to your doctor. Treatment with Lenalidomide Mylan may cause the virus to become active again, in patients who carry the virus. This results in a recurrence of the infection. Your doctor should check whether you have ever had hepatitis B infection
+-  you have kidney problems - your doctor may adjust your dose of Lenalidomide Mylan
+-  you have had a heart attack, have ever had a blood clot, or if you smoke, have high blood pressure or high cholesterol levels
+-  you have had an allergic reaction whilst taking thalidomide (another medicine used to treat multiple myeloma) such as rash, itching, swelling, dizziness or trouble breathing
+-  you have experienced in the past a combination of any of the following symptoms: widespread rash, red skin, high body temperature, flu-like symptoms, liver enzyme elevations, blood abnormalities (eosinophilia), enlarged lymph nodes - these are signs of a severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome. (see also section 4 'Possible side effects').
 
 If any of the above apply to you, tell your doctor, pharmacist or nurse before starting treatment.
 
 At any time during or after your treatment, tell your doctor or nurse immediately if you:
 
-- experience blurred, loss of or double vision, difficulty speaking, weakness in an arm or a leg, a change in the way you walk or problems with your balance, persistent numbness, decreased sensation or loss of sensation, memory loss or confusion. These may all be symptoms of a serious and potentially fatal brain condition known as progressive multifocal leukoencephalopathy (PML). If you had these symptoms prior to treatment with lenalidomide, tell your doctor about any change in these symptoms.
-- experience shortness of breath, tiredness, dizziness, pain in the chest, a faster heartbeat, or swelling in the legs or ankles. These may be symptoms of a serious condition known as pulmonary hypertension (see section 4).
+-  experience blurred, loss of or double vision, difficulty speaking, weakness in an arm or a leg, a change in the way you walk or problems with your balance, persistent numbness, decreased sensation or loss of sensation, memory loss or confusion. These may all be symptoms of a serious and potentially fatal brain condition known as progressive multifocal leukoencephalopathy (PML). If you had these symptoms prior to treatment with lenalidomide, tell your doctor about any change in these symptoms.
+-  experience shortness of breath, tiredness, dizziness, pain in the chest, a faster heartbeat, or swelling in the legs or ankles. These may be symptoms of a serious condition known as pulmonary hypertension (see section 4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3327,9 +3303,9 @@ Before and during the treatment with Lenalidomide Mylan you will have regular bl
 
 Your doctor will ask you to have a blood test:
 
-- every week for the first 8 weeks of treatment
-- before treatment
-- then at least every month after that.
+-  before treatment
+-  every week for the first 8 weeks of treatment
+-  then at least every month after that.
 
 You may be evaluated for signs of cardiopulmonary problems before and during the treatment with lenalidomide.
 
@@ -3341,21 +3317,21 @@ If you have MDS, you may be more likely to get a more advanced condition called 
 
 Your doctor will ask you to have a blood test:
 
-- before treatment
-- then every 2 weeks in cycles 3 and 4 (see section 3 'Treatment cycle' for more information)
-- every week for the first 8 weeks (2 cycles) of treatment
-- after this it will happen at the start of each cycle and
-- at least every month.
+-  before treatment
+-  every week for the first 8 weeks (2 cycles) of treatment
+-  then every 2 weeks in cycles 3 and 4 (see section 3 'Treatment cycle' for more information)
+-  after this it will happen at the start of each cycle and
+-  at least every month.
 
 ## For patients with FL taking Lenalidomide Mylan
 
 Your doctor will ask you to have a blood test:
 
-- every week for the first 3 weeks (1 cycle) of treatment
-- before treatment
-- then every 2 weeks in cycles 2 to 4 (see Section 3 'Treatment cycle' for more information)
-- at least every month.
-- After this it will happen at the start of each cycle and
+-  before treatment
+-  every week for the first 3 weeks (1 cycle) of treatment
+-  then every 2 weeks in cycles 2 to 4 (see Section 3 'Treatment cycle' for more information)
+-  After this it will happen at the start of each cycle and
+-  at least every month.
 
 Your doctor may check if you have a high total amount of tumour throughout the body, including your bone marrow. This could lead to a condition where the tumours break down and cause unusual levels of chemicals in the blood which can lead to kidney failure (this condition is called 'Tumour Lysis Syndrome').
 
@@ -3385,9 +3361,9 @@ This is because Lenalidomide Mylan can affect the way some other medicines work.
 
 In particular, tell your doctor or nurse if you are taking any of the following medicines:
 
-- some medicines used to prevent pregnancy such as oral contraceptives, as they may stop working
-- some medicines used to thin the blood - such as warfarin.
-- some medicines used for heart problems - such as digoxin
+-  some medicines used to prevent pregnancy such as oral contraceptives, as they may stop working
+-  some medicines used for heart problems - such as digoxin
+-  some medicines used to thin the blood - such as warfarin.
 
 ## Pregnancy, breast-feeding and contraception - information for women and men
 
@@ -3395,14 +3371,14 @@ In particular, tell your doctor or nurse if you are taking any of the following 
 
 ## For women taking Lenalidomide Mylan
 
-- You must not take Lenalidomide Mylan if you are pregnant, as it is expected to be harmful to an unborn baby.
-- You must not become pregnant while taking Lenalidomide Mylan. Therefore you must use effective methods of contraception if you are a woman of childbearing potential (see 'Contraception').
-- If you do become pregnant during your treatment with Lenalidomide Mylan, you must stop the treatment and inform your doctor immediately.
+-  You must not take Lenalidomide Mylan if you are pregnant, as it is expected to be harmful to an unborn baby.
+-  You must not become pregnant while taking Lenalidomide Mylan. Therefore you must use effective methods of contraception if you are a woman of childbearing potential (see 'Contraception').
+-  If you do become pregnant during your treatment with Lenalidomide Mylan, you must stop the treatment and inform your doctor immediately.
 
 ## For men taking Lenalidomide Mylan
 
-- If your partner becomes pregnant whilst you are taking Lenalidomide Mylan, you should inform your doctor immediately. It is recommended that your partner seeks medical advice.
-- You must also use effective methods of contraception (see 'Contraception').
+-  If your partner becomes pregnant whilst you are taking Lenalidomide Mylan, you should inform your doctor immediately. It is recommended that your partner seeks medical advice.
+-  You must also use effective methods of contraception (see 'Contraception').
 
 ## Breast-feeding
 
@@ -3416,11 +3392,11 @@ Before starting the treatment, ask your doctor if you are able to become pregnan
 
 ## If you are able to become pregnant
 
-- you will have pregnancy tests under the supervision of your doctor (before every treatment, at least every 4 weeks during treatment, and at least 4 weeks after the treatment has finished) except where it has been confirmed that the fallopian tubes have been severed and sealed, to stop eggs from reaching the uterus (tubal sterilisation)
+-  you will have pregnancy tests under the supervision of your doctor (before every treatment, at least every 4 weeks during treatment, and at least 4 weeks after the treatment has finished) except where it has been confirmed that the fallopian tubes have been severed and sealed, to stop eggs from reaching the uterus (tubal sterilisation)
 
 ## AND
 
-- you must use effective methods of contraception for at least 4 weeks before starting treatment, during treatment, and until at least 4 weeks after stopping treatment. Your doctor will advise you on appropriate methods of contraception.
+-  you must use effective methods of contraception for at least 4 weeks before starting treatment, during treatment, and until at least 4 weeks after stopping treatment. Your doctor will advise you on appropriate methods of contraception.
 
 ## For men taking Lenalidomide Mylan
 
@@ -3440,9 +3416,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to s
 
 Lenalidomide Mylan must be given to you by healthcare professionals with experience in treating multiple myeloma, MDS, MCL or FL.
 
-- When Lenalidomide Mylan is used to treat multiple myeloma in patients who cannot have a bone marrow transplant or have had other treatments before, it is taken with other medicines (see section 1 'What Lenalidomide Mylan is used for').
-- When Lenalidomide Mylan is used to treat follicular lymphoma, it is taken with another medicine called 'rituximab'.
-- When Lenalidomide Mylan is used to treat multiple myeloma in patients who have had a bone marrow transplant or to treat patients with MDS or MCL, it is taken alone.
+-  When Lenalidomide Mylan is used to treat multiple myeloma in patients who cannot have a bone marrow transplant or have had other treatments before, it is taken with other medicines (see section 1 'What Lenalidomide Mylan is used for').
+-  When Lenalidomide Mylan is used to treat multiple myeloma in patients who have had a bone marrow transplant or to treat patients with MDS or MCL, it is taken alone.
+-  When Lenalidomide Mylan is used to treat follicular lymphoma, it is taken with another medicine called 'rituximab'.
 
 Always take Lenalidomide Mylan exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -3452,38 +3428,38 @@ If you are taking Lenalidomide Mylan in combination with other medicines, you sh
 
 Lenalidomide Mylan is taken on certain days over 3 weeks (21 days).
 
-- Depending on the day of the cycle, you will take one or more of the medicines. However, on some days you do not take any of the medicines.
-- Every 21 days is called a 'treatment cycle'.
-- After completing every 21-day cycle, you should start a new 'cycle' over the next 21 days.
+-  Every 21 days is called a 'treatment cycle'.
+-  Depending on the day of the cycle, you will take one or more of the medicines. However, on some days you do not take any of the medicines.
+-  After completing every 21-day cycle, you should start a new 'cycle' over the next 21 days.
 
 ## OR
 
 Lenalidomide Mylan is taken on certain days over 4 weeks (28 days).
 
-- Every 28 days is called a 'treatment cycle'.
-- After completing every 28-day cycle, you should start a new 'cycle' over the next 28 days.
-- Depending on the day of the cycle, you will take one or more of the medicines. However, on some days you do not take any of the medicines.
+-  Every 28 days is called a 'treatment cycle'.
+-  Depending on the day of the cycle, you will take one or more of the medicines. However, on some days you do not take any of the medicines.
+-  After completing every 28-day cycle, you should start a new 'cycle' over the next 28 days.
 
 ## How much Lenalidomide Mylan to take
 
 Before you start treatment, your doctor will tell you:
 
-- how much of the other medicines you should take in combination with Lenalidomide Mylan, if any
-- how much Lenalidomide Mylan you should take
-- on what days of your treatment cycle to take each medicine.
+-  how much Lenalidomide Mylan you should take
+-  how much of the other medicines you should take in combination with Lenalidomide Mylan, if any
+-  on what days of your treatment cycle to take each medicine.
 
 ## How and when to take Lenalidomide Mylan
 
-- do not break, open or chew the capsules. If powder from a broken Lenalidomide Mylan capsule makes contact with the skin, wash the skin immediately and thoroughly with soap and water.
-- swallow the capsules whole, preferably with water.
-- healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local
+-  swallow the capsules whole, preferably with water.
+-  do not break, open or chew the capsules. If powder from a broken Lenalidomide Mylan capsule makes contact with the skin, wash the skin immediately and thoroughly with soap and water.
+-  healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local
 
 <div style=\"page-break-after: always\"></div>
 
 requirements. Hands should then be washed thoroughly with soap and water. Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule.
 
-- you should take Lenalidomide Mylan at about the same time on the scheduled days.
-- the capsules can be taken either with or without food.
+-  the capsules can be taken either with or without food.
+-  you should take Lenalidomide Mylan at about the same time on the scheduled days.
 
 ## Taking this medicine
 
@@ -3491,8 +3467,8 @@ To remove the capsule from the blister:
 
 <!-- image -->
 
-- press only one end of the capsule out to push it through the foil
-- do not put pressure on the centre of the capsule, as this can cause it to break.
+-  press only one end of the capsule out to push it through the foil
+-  do not put pressure on the centre of the capsule, as this can cause it to break.
 
 <!-- image -->
 
@@ -3502,7 +3478,7 @@ To remove the capsule from the blister:
 
 Lenalidomide Mylan is taken in treatment cycles, each cycle lasting 21 or 28 days (see above
 
-- 'Treatment cycle'). You should continue the cycles of treatment until your doctor tells you to stop.
+'Treatment cycle'). You should continue the cycles of treatment until your doctor tells you to stop.
 
 ## If you take more Lenalidomide Mylan than you should
 
@@ -3512,8 +3488,8 @@ If you take more Lenalidomide Mylan than was prescribed, tell your doctor immedi
 
 If you forget to take Lenalidomide Mylan at your regular time and:
 
-- less than 12 hours have passed - take your capsule immediately.
-- more than 12 hours have passed - do not take your capsule. Take your next capsule at the usual time the next day.
+-  less than 12 hours have passed - take your capsule immediately.
+-  more than 12 hours have passed - do not take your capsule. Take your next capsule at the usual time the next day.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -3523,20 +3499,20 @@ Like all medicines, Lenalidomide Mylan can cause side effects, although not ever
 
 ## Stop taking Lenalidomide Mylan and see a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-- Hives, rashes, swelling of eyes, mouth or face, difficulty breathing, or itching, which may be symptoms of serious types of allergic reactions called angioedema and anaphylactic reaction.
-- A serious allergic reaction that may begin as a rash in one area but spread with extensive loss of skin over the whole body (Stevens-Johnson syndrome and/or toxic epidermal necrolysis).
+-  Hives, rashes, swelling of eyes, mouth or face, difficulty breathing, or itching, which may be symptoms of serious types of allergic reactions called angioedema and anaphylactic reaction.
+-  A serious allergic reaction that may begin as a rash in one area but spread with extensive loss of skin over the whole body (Stevens-Johnson syndrome and/or toxic epidermal necrolysis).
 
 <div style=\"page-break-after: always\"></div>
 
-- Widespread rash, high body temperature, liver enzyme elevations, blood abnormalities (eosinophilia), enlarged lymph nodes and other body organs involvement (Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome). See also section 2.
+-  Widespread rash, high body temperature, liver enzyme elevations, blood abnormalities (eosinophilia), enlarged lymph nodes and other body organs involvement (Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome). See also section 2.
 
 ## Tell your doctor straight away if you notice any of the following serious side effects:
 
-- Fever, chills, sore throat, cough, mouth ulcers or any other symptoms of infection including within the bloodstream (sepsis)
-- Chest pain or leg pain
-- Bleeding or bruising in the absence of injury
-- Shortness of breath
-- Bone pain, muscle weakness, confusion or tiredness that might be due to high level of calcium in the blood.
+-  Fever, chills, sore throat, cough, mouth ulcers or any other symptoms of infection including within the bloodstream (sepsis)
+-  Bleeding or bruising in the absence of injury
+-  Chest pain or leg pain
+-  Shortness of breath
+-  Bone pain, muscle weakness, confusion or tiredness that might be due to high level of calcium in the blood.
 
 Lenalidomide Mylan may reduce the number of white blood cells that fight infection and also the blood cells which help the blood to clot (platelets) which may lead to bleeding disorders such as nosebleeds and bruising.
 
@@ -3548,106 +3524,106 @@ It is important to note that a small number of patients may develop additional t
 
 Very common side effects (may affect more than 1 in 10 people):
 
-- A fall in the number of red blood cells which may cause anaemia leading to tiredness and weakness
-- Rashes, itching
-- Generalised swelling including swelling of your arms and legs
-- Muscle cramps, muscle weakness, muscle pain, muscle aches, bone pain, joint pain, back pain, pain in the extremities
-- Weakness, tiredness
-- Numbness, tingling or burning sensation to the skin, pains in hands or feet, dizziness, tremor
-- Fever and flu like symptoms including fever, muscle ache, headache, earache, cough and chills
-- Decreased appetite, change in the way things taste
-- Weight loss
-- Increase in pain, tumour size or redness around the tumour
-- Constipation, diarrhoea, nausea, vomiting, stomach pain, heartburn
-- Thyroid functioning less than it should be
-- Low levels of potassium or calcium and/or sodium in the blood
-- Leg pain (which could be a symptom of thrombosis), chest pain or shortness of breath (which may be a symptom of blood clots in the lungs, called pulmonary embolism)
-- Infections of all types, including infection of the sinuses that surround the nose, infection of the lung and the upper respiratory tract.
-- Shortness of breath
-- Clouding of your eye (cataract)
-- Blurred vision
-- Kidney problems which include kidneys not working properly or not being able to maintain normal function
-- Increase in liver test results
-- Abnormal liver test results
-- Changes to a protein in the blood that can cause swelling of the arteries (vasculitis)
-- Decreases in your blood sugar levels
-- Increases in your blood sugar levels (diabetes)
-- Headache
+-  A fall in the number of red blood cells which may cause anaemia leading to tiredness and weakness
+-  Rashes, itching
+-  Muscle cramps, muscle weakness, muscle pain, muscle aches, bone pain, joint pain, back pain, pain in the extremities
+-  Generalised swelling including swelling of your arms and legs
+-  Weakness, tiredness
+-  Fever and flu like symptoms including fever, muscle ache, headache, earache, cough and chills
+-  Numbness, tingling or burning sensation to the skin, pains in hands or feet, dizziness, tremor
+-  Decreased appetite, change in the way things taste
+-  Increase in pain, tumour size or redness around the tumour
+-  Weight loss
+-  Constipation, diarrhoea, nausea, vomiting, stomach pain, heartburn
+-  Low levels of potassium or calcium and/or sodium in the blood
+-  Thyroid functioning less than it should be
+-  Leg pain (which could be a symptom of thrombosis), chest pain or shortness of breath (which may be a symptom of blood clots in the lungs, called pulmonary embolism)
+-  Infections of all types, including infection of the sinuses that surround the nose, infection of the lung and the upper respiratory tract.
+-  Shortness of breath
+-  Blurred vision
+-  Clouding of your eye (cataract)
+-  Kidney problems which include kidneys not working properly or not being able to maintain normal function
+-  Abnormal liver test results
+-  Increase in liver test results
+-  Changes to a protein in the blood that can cause swelling of the arteries (vasculitis)
+-  Increases in your blood sugar levels (diabetes)
+-  Decreases in your blood sugar levels
+-  Headache
 
 <div style=\"page-break-after: always\"></div>
 
-- Nosebleed
-- Depression, mood change, difficulty sleeping
-- Dry skin
-- Cough
-- A vague feeling of bodily discomfort, feeling bad
-- A fall in blood pressure
-- Sore inflamed mouth, dry mouth
-- Dehydration
+-  Nosebleed
+-  Dry skin
+-  Depression, mood change, difficulty sleeping
+-  Cough
+-  A fall in blood pressure
+-  A vague feeling of bodily discomfort, feeling bad
+-  Sore inflamed mouth, dry mouth
+-  Dehydration
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- Certain types of skin tumour
-- Destruction of red blood cells (haemolytic anaemia)
-- Bleeding of the gums, stomach, or bowels
-- Increase in the amount of a substance which results from normal and abnormal breakdown of red blood cells
-- Increased blood pressure, slow, fast or irregular heart beat
-- Increase in a type of protein that indicates inflammation in body
-- Increase in uric acid in the blood
-- Darkening of your skin, discolouration of your skin resulting from bleeding underneath, typically caused by bruising, swelling of skin filled with blood, bruise
-- Skin eruptions, redness of skin, cracking, flaking or peeling skin, hives
-- Difficulty swallowing, sore throat, difficulty with voice quality or voice changes
-- Increased sweating, night sweats
-- Runny nose
-- Passing blood in the urine
-- Production of much more or much less urine than usual or the inability to control when to urinate
-- Shortness of breath especially when lying down (which may be a symptom of heart failure)
-- Stroke, fainting, vertigo (problem with inner ear which leads to feeling that everything is spinning), temporary loss of consciousness
-- Difficulty getting an erection
-- Chest pain spreading to the arms, neck, jaw, back or stomach, feeling sweaty and breathless, feeling sick or vomiting, which may be symptoms of a heart attack (myocardial infarction)
-- Neck pain, chest pain
-- Muscle weakness, lack of energy
-- Chills
-- Bile flow from liver slowed or blocked
-- Joint swelling
-- Low levels of phosphate or magnesium in the blood
-- Liver injury
-- Difficulty speaking
-- Impaired balance, difficulty moving
-- Nerve pain, unpleasant abnormal sensation especially to touch
-- Deafness, ringing in the ears (tinnitus)
-- An excess of iron in the body
-- Confusion
-- Thirst
-- Toothache
-- Fall which may result in injury
+-  Destruction of red blood cells (haemolytic anaemia)
+-  Certain types of skin tumour
+-  Bleeding of the gums, stomach, or bowels
+-  Increased blood pressure, slow, fast or irregular heart beat
+-  Increase in the amount of a substance which results from normal and abnormal breakdown of red blood cells
+-  Increase in a type of protein that indicates inflammation in body
+-  Darkening of your skin, discolouration of your skin resulting from bleeding underneath, typically caused by bruising, swelling of skin filled with blood, bruise
+-  Increase in uric acid in the blood
+-  Skin eruptions, redness of skin, cracking, flaking or peeling skin, hives
+-  Increased sweating, night sweats
+-  Difficulty swallowing, sore throat, difficulty with voice quality or voice changes
+-  Runny nose
+-  Production of much more or much less urine than usual or the inability to control when to urinate
+-  Passing blood in the urine
+-  Shortness of breath especially when lying down (which may be a symptom of heart failure)
+-  Difficulty getting an erection
+-  Stroke, fainting, vertigo (problem with inner ear which leads to feeling that everything is spinning), temporary loss of consciousness
+-  Chest pain spreading to the arms, neck, jaw, back or stomach, feeling sweaty and breathless, feeling sick or vomiting, which may be symptoms of a heart attack (myocardial infarction)
+-  Muscle weakness, lack of energy
+-  Neck pain, chest pain
+-  Chills
+-  Joint swelling
+-  Bile flow from liver slowed or blocked
+-  Low levels of phosphate or magnesium in the blood
+-  Difficulty speaking
+-  Liver injury
+-  Impaired balance, difficulty moving
+-  Deafness, ringing in the ears (tinnitus)
+-  Nerve pain, unpleasant abnormal sensation especially to touch
+-  An excess of iron in the body
+-  Thirst
+-  Confusion
+-  Toothache
+-  Fall which may result in injury
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- Bleeding within the skull
-- Loss of vision
-- Circulatory problems
+-  Bleeding within the skull
+-  Circulatory problems
+-  Loss of vision
 
 <div style=\"page-break-after: always\"></div>
 
-- Loss of sex drive (libido)
-- Passing large amounts of urine with bone pain and weakness, which may be symptoms of a kidney disorder (Fanconi syndrome)
-- Yellow pigmentation to the skin, mucus membrane or eyes (jaundice), pale coloured stools, dark coloured urine, skin itch, rash, pain or swelling of the stomach - these may be symptoms of injury to the liver (hepatic failure)
-- Stomach pain, bloating, or diarrhoea, which may be symptoms of inflammation in the large intestine (called colitis or caecitis)
-- Changes to the colour of your skin, sensitivity to sunlight
-- Damage to the cells of the kidney(called renal tubular necrosis)
-- Tumour lysis syndrome - metabolic complications that can occur during treatment of cancer and sometimes even without treatment. These complications are caused by the break-down products of dying cancer cells and may include the following: changes to blood chemistry; high potassium, phosphorus, uric acid, and low calcium consequently leading to changes in kidney function, heart beat, seizures, and sometimes death.
-- Increase in blood pressure within blood vessels that supply the lungs (pulmonary hypertension).
+-  Loss of sex drive (libido)
+-  Passing large amounts of urine with bone pain and weakness, which may be symptoms of a kidney disorder (Fanconi syndrome)
+-  Yellow pigmentation to the skin, mucus membrane or eyes (jaundice), pale coloured stools, dark coloured urine, skin itch, rash, pain or swelling of the stomach - these may be symptoms of injury to the liver (hepatic failure)
+-  Stomach pain, bloating, or diarrhoea, which may be symptoms of inflammation in the large intestine (called colitis or caecitis)
+-  Damage to the cells of the kidney(called renal tubular necrosis)
+-  Changes to the colour of your skin, sensitivity to sunlight
+-  Tumour lysis syndrome - metabolic complications that can occur during treatment of cancer and sometimes even without treatment. These complications are caused by the break-down products of dying cancer cells and may include the following: changes to blood chemistry; high potassium, phosphorus, uric acid, and low calcium consequently leading to changes in kidney function, heart beat, seizures, and sometimes death.
+-  Increase in blood pressure within blood vessels that supply the lungs (pulmonary hypertension).
 
 Not known side effects (frequency cannot be estimated from the available data):
 
-- Wheezing, shortness of breath or a dry cough, which may be symptoms caused by inflammation of the tissue in the lungs.
-- Sudden, or mild but worsening pain in the upper stomach and/or back, which remains for a few days, possibly accompanied by nausea, vomiting, fever and a rapid pulse - these symptoms may be due to inflammation of the pancreas.
-- Rare cases of muscle breakdown (muscle pain, weakness or swelling) which can lead to kidney problems (rhabdomyolysis) have been observed, some of them when lenalidomide is administered with a statin (a type of cholesterol lowering medicines).
-- A condition affecting the skin caused by inflammation of small blood vessels, along with pain in the joints and fever (leukocytoclastic vasculitis).
-- Breakdown of the wall of the stomach or gut. This may lead to very serious infection. Tell your doctor if you have severe stomach pain, fever, nausea, vomiting, blood in your stool, or changes in bowel habits.
-- Viral infections, including herpes zoster (also known as 'shingles', a viral disease that causes a painful skin rash with blisters) and recurrence of hepatitis B infection (which can cause yellowing of the skin and eyes, dark brown-colored urine, right-sided stomach pain, fever and feeling nauseous or being sick).
-- Rejection of solid organ transplant (such as kidney, heart).
+-  Sudden, or mild but worsening pain in the upper stomach and/or back, which remains for a few days, possibly accompanied by nausea, vomiting, fever and a rapid pulse - these symptoms may be due to inflammation of the pancreas.
+-  Wheezing, shortness of breath or a dry cough, which may be symptoms caused by inflammation of the tissue in the lungs.
+-  Rare cases of muscle breakdown (muscle pain, weakness or swelling) which can lead to kidney problems (rhabdomyolysis) have been observed, some of them when lenalidomide is administered with a statin (a type of cholesterol lowering medicines).
+-  A condition affecting the skin caused by inflammation of small blood vessels, along with pain in the joints and fever (leukocytoclastic vasculitis).
+-  Breakdown of the wall of the stomach or gut. This may lead to very serious infection. Tell your doctor if you have severe stomach pain, fever, nausea, vomiting, blood in your stool, or changes in bowel habits.
+-  Viral infections, including herpes zoster (also known as 'shingles', a viral disease that causes a painful skin rash with blisters) and recurrence of hepatitis B infection (which can cause yellowing of the skin and eyes, dark brown-colored urine, right-sided stomach pain, fever and feeling nauseous or being sick).
+-  Rejection of solid organ transplant (such as kidney, heart).
 
 ## Reporting of side effects
 
@@ -3655,11 +3631,11 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## 5. How to store Lenalidomide Mylan
 
-- Keep this medicine out of the sight and reach of children.
-- Do not store above 30°C.
-- Do not use this medicine after the expiry date, which is stated on the blister and on the carton after 'EXP'. The expiry date refers to the last day of that month.
-- Do not use this medicine if you notice any damage or signs of tampering to the pack.
-- Do not throw away any medicines via wastewater or household waste. Please return unused medicines to your pharmacist. These measures will help protect the environment.
+-  Keep this medicine out of the sight and reach of children.
+-  Do not use this medicine after the expiry date, which is stated on the blister and on the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  Do not store above 30°C.
+-  Do not use this medicine if you notice any damage or signs of tampering to the pack.
+-  Do not throw away any medicines via wastewater or household waste. Please return unused medicines to your pharmacist. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3669,48 +3645,48 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## Lenalidomide Mylan 2.5 mg hard capsules:
 
-- The active substance is lenalidomide. Each capsule contains 2.5 mg of lenalidomide.
-- The other ingredients are:
+-  The active substance is lenalidomide. Each capsule contains 2.5 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell: gelatine, titanium dioxide (E171), yellow iron oxide (E172) and indigo carmine (E132)
 - -printing ink: shellac, propylene glycol (E1520), potassium hydroxide and black iron oxide (E172).
 
 ## Lenalidomide Mylan 5 mg hard capsules:
 
-- The active substance is lenalidomide. Each capsule contains 5 mg of lenalidomide.
-- The other ingredients are:
+-  The active substance is lenalidomide. Each capsule contains 5 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell: titanium dioxide (E171), gelatin
 - -printing ink: shellac, propylene glycol (E1520), potassium hydroxide and black iron oxide (E172).
 
 ## Lenalidomide Mylan 7.5 mg hard capsules:
 
-- The active substance is lenalidomide. Each capsule contains 7.5 mg of lenalidomide.
-- The other ingredients are:
+-  The active substance is lenalidomide. Each capsule contains 7.5 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell: yellow iron oxide (E172), titanium dioxide (E171), gelatin,
 - -printing ink: shellac propylene glycol (E1520), black iron oxide (E172) and potassium hydroxide
 
 ## Lenalidomide Mylan 10 mg hard capsules:
 
-- The other ingredients are:
-- The active substance is lenalidomide. Each capsule contains 10 mg of lenalidomide.
+-  The active substance is lenalidomide. Each capsule contains 10 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell: gelatine, titanium dioxide (E171), black iron oxide and yellow iron oxide (E172), indigo carmine (E132)
 - -printing ink: shellac, propylene glycol (E1520), black iron oxide (E172) and potassium hydroxide
 
 ## Lenalidomide Mylan 15 mg hard capsules:
 
-- The active substance is lenalidomide. Each capsule contains 15 mg of lenalidomide.
-- The other ingredients are:
+-  The active substance is lenalidomide. Each capsule contains 15 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell: titanium dioxide (E171), gelatin
 - -printing ink: shellac, propylene glycol (E1520), red iron oxide (E172) and simeticone
 
 ## Lenalidomide Mylan 20 mg hard capsules:
 
-- The other ingredients are:
-- The active substance is lenalidomide. Each capsule contains 20 mg of lenalidomide.
+-  The active substance is lenalidomide. Each capsule contains 20 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 
 <div style=\"page-break-after: always\"></div>
@@ -3720,8 +3696,8 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Lenalidomide Mylan 25 mg hard capsules:
 
-- The other ingredients are:
-- The active substance is lenalidomide. Each capsule contains 25 mg of lenalidomide.
+-  The active substance is lenalidomide. Each capsule contains 25 mg of lenalidomide.
+-  The other ingredients are:
 - -capsule contents: pregelatinized maize starch, microcrystalline cellulose, sodium croscarmellose, colloidal anhydrous silica, sodium stearyl fumarate
 - -capsule shell:  titanium dioxide (E171), gelatin
 - -printing ink: shellac, propylene glycol (E1520), potassium hydroxide, and black iron oxide (E172).
@@ -3754,7 +3730,13 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe, Hessen, 61352, Germany Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+
+Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
+
+<div style=\"page-break-after: always\"></div>
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3770,7 +3752,7 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
@@ -3908,8 +3890,6 @@ Tel: +421 2 32 199 100
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## Italia
 
 Viatris Italia S.r.l.
@@ -3918,7 +3898,11 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited Τηλ : +357 22863100
+CPO Pharmaceuticals Limited
+
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 

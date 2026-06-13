@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 17:30:00
+document_datetime: 2026-06-12 15:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-mylan.html
 document_name: lenalidomide-mylan.html
 version: success
-processing_time: 0.1535563
-conversion_datetime: 2026-05-13 13:11:38.758719
+processing_time: 0.2315783
+conversion_datetime: 2026-06-13 19:41:44.582371
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Lenalidomide Mylan
 
@@ -39,6 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Lenalidomide Mylan](#news-on)
 - [Related documents](#related-documents-1603)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-86929)
 - [More information on Lenalidomide Mylan](#related-medicines)
 
 - Application under evaluation
@@ -63,7 +64,7 @@ Expand section
 
 Collapse section
 
-## How is Lenalidomide Mylan used?
+### How is Lenalidomide Mylan used?
 
 Lenalidomide Mylan can only be obtained with a prescription and treatment should be supervised by doctors who have experience in the use of cancer medicines.
 
@@ -71,25 +72,25 @@ Lenalidomide Mylan is available as capsules of various strengths to be taken by 
 
 For more information about using Lenalidomide Mylan, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Lenalidomide Mylan work?
+### How does Lenalidomide Mylan work?
 
 The active substance in Lenalidomide Mylan, lenalidomide, is an immunomodulator. This means that it affects the activity of the immune system (the body's natural defences). Lenalidomide works in several ways: it blocks the development of abnormal cells, prevents the growth of blood vessels within tumours and also stimulates specialised cells of the immune system to attack the abnormal cells.
 
-## How has Lenalidomide Mylan been studied?
+### How has Lenalidomide Mylan been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Revlimid, and do not need to be repeated for Lenalidomide Mylan.
 
 As for every medicine, the company provided studies on the quality of Lenalidomide Mylan. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Lenalidomide Mylan?
+### What are the benefits and risks of Lenalidomide Mylan?
 
 Because Lenalidomide Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Lenalidomide Mylan authorised in the EU?
+### Why is Lenalidomide Mylan authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Lenalidomide Mylan has been shown to have comparable quality and to be bioequivalent to Revlimid. Therefore, the Agency's view was that, as for Revlimid, the benefits of Lenalidomide Mylan outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Lenalidomide Mylan?
+### What measures are being taken to ensure the safe and effective use of Lenalidomide Mylan?
 
 The company that markets Lenalidomide Mylan will provide educational kits for healthcare professionals, and brochures for patients, explaining that the medicine can be harmful to the unborn child and detailing the steps that need to be taken for the medicine to be used safely. It will also supply cards to patients about the safety measures patients should take.
 
@@ -99,7 +100,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Lenalidomide Mylan are continuously monitored. Side effects reported with Lenalidomide Mylan are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Lenalidomide Mylan
+### Other information about Lenalidomide Mylan
 
 Lenalidomide Mylan received a marketing authorisation valid throughout the EU on 18 December 2020.
 
@@ -113,7 +114,7 @@ English (EN) (169.87 KB - PDF)
 
 [View](/en/documents/overview/lenalidomide-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-138)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (189.96 KB - PDF)
 
@@ -145,7 +146,7 @@ Deutsch (DE) (173.03 KB - PDF)
 
 [View](/de/documents/overview/lenalidomide-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (157.5 KB - PDF)
+eesti (ET) (157.5 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -175,13 +176,13 @@ italiano (IT) (168.25 KB - PDF)
 
 [View](/it/documents/overview/lenalidomide-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (207.49 KB - PDF)
+latviešu (LV) (207.49 KB - PDF)
 
 **First published:** 07/01/2021
 
 [View](/lv/documents/overview/lenalidomide-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (189.86 KB - PDF)
+lietuvių (LT) (189.86 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -235,7 +236,7 @@ slovenščina (SL) (188.51 KB - PDF)
 
 [View](/sl/documents/overview/lenalidomide-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (166.22 KB - PDF)
+suomi (FI) (166.22 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -259,161 +260,161 @@ English (EN) (4.6 MB - PDF)
 
 Lenalidomide Mylan : EPAR - Product information
 
-English (EN) (558.87 KB - PDF)
+English (EN) (397.9 KB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/en/documents/product-information/lenalidomide-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-250)
 
-български (BG) (1.2 MB - PDF)
+български (BG) (1.22 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/bg/documents/product-information/lenalidomide-mylan-epar-product-information_bg.pdf)
 
-español (ES) (1.04 MB - PDF)
+español (ES) (1.05 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/es/documents/product-information/lenalidomide-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (1.15 MB - PDF)
+čeština (CS) (1.19 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/cs/documents/product-information/lenalidomide-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (1020.28 KB - PDF)
+dansk (DA) (745.74 KB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/da/documents/product-information/lenalidomide-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (899.62 KB - PDF)
+Deutsch (DE) (1.03 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/de/documents/product-information/lenalidomide-mylan-epar-product-information_de.pdf)
 
-eesti keel (ET) (931 KB - PDF)
+eesti (ET) (1003.12 KB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/et/documents/product-information/lenalidomide-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (698.39 KB - PDF)
+ελληνικά (EL) (1.21 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/el/documents/product-information/lenalidomide-mylan-epar-product-information_el.pdf)
 
-français (FR) (705.23 KB - PDF)
+français (FR) (1.02 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/fr/documents/product-information/lenalidomide-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.13 MB - PDF)
+hrvatski (HR) (1.12 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/hr/documents/product-information/lenalidomide-mylan-epar-product-information_hr.pdf)
 
-íslenska (IS) (986.54 KB - PDF)
+italiano (IT) (1.23 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
-
-[View](/is/documents/product-information/lenalidomide-mylan-epar-product-information_is.pdf)
-
-italiano (IT) (1.16 MB - PDF)
-
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/it/documents/product-information/lenalidomide-mylan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.13 MB - PDF)
+latviešu (LV) (1.28 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/lv/documents/product-information/lenalidomide-mylan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (856.2 KB - PDF)
+lietuvių (LT) (1.11 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/lt/documents/product-information/lenalidomide-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (819.8 KB - PDF)
+magyar (HU) (1.19 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/hu/documents/product-information/lenalidomide-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (1.22 MB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/mt/documents/product-information/lenalidomide-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.04 MB - PDF)
+Nederlands (NL) (1.01 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/nl/documents/product-information/lenalidomide-mylan-epar-product-information_nl.pdf)
 
-norsk (NO) (1 MB - PDF)
+polski (PL) (1.2 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
-
-[View](/no/documents/product-information/lenalidomide-mylan-epar-product-information_no.pdf)
-
-polski (PL) (751.83 KB - PDF)
-
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/pl/documents/product-information/lenalidomide-mylan-epar-product-information_pl.pdf)
 
-português (PT) (453.82 KB - PDF)
+português (PT) (1.06 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/pt/documents/product-information/lenalidomide-mylan-epar-product-information_pt.pdf)
 
-română (RO) (1.56 MB - PDF)
+română (RO) (1.24 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/ro/documents/product-information/lenalidomide-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (653.99 KB - PDF)
+slovenčina (SK) (1.16 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/sk/documents/product-information/lenalidomide-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (645.99 KB - PDF)
+slovenščina (SL) (1.13 MB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/sl/documents/product-information/lenalidomide-mylan-epar-product-information_sl.pdf)
 
-Suomi (FI) (1017.76 KB - PDF)
+suomi (FI) (998.79 KB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/fi/documents/product-information/lenalidomide-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (1019.21 KB - PDF)
+svenska (SV) (995.4 KB - PDF)
 
-**First published:** 07/01/2021 **Last updated:** 11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
 
 [View](/sv/documents/product-information/lenalidomide-mylan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000334301
+Íslenska (IS) (968.33 KB - PDF)
 
-11/05/2026
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
+
+[View](/is/documents/product-information/lenalidomide-mylan-epar-product-information_is.pdf)
+
+norsk (NO) (1011.32 KB - PDF)
+
+**First published:** 07/01/2021 **Last updated:** 12/06/2026
+
+[View](/no/documents/product-information/lenalidomide-mylan-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000326802
+
+08/06/2026
 
 icon globe
 
@@ -437,7 +438,7 @@ English (EN) (100.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-346)
+[Other languages (24)](#file-language-dropdown-723)
 
 български (BG) (111.72 KB - PDF)
 
@@ -469,7 +470,7 @@ Deutsch (DE) (105.67 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (94.2 KB - PDF)
+eesti (ET) (94.2 KB - PDF)
 
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
@@ -493,25 +494,19 @@ hrvatski (HR) (99.22 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (296.45 KB - PDF)
-
-**First published:** 07/01/2021 **Last updated:** 26/07/2021
-
-[View](/is/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (97.18 KB - PDF)
 
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
 [View](/it/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (96.82 KB - PDF)
+latviešu (LV) (96.82 KB - PDF)
 
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
 [View](/lv/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (102.9 KB - PDF)
+lietuvių (LT) (102.9 KB - PDF)
 
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
@@ -534,12 +529,6 @@ Nederlands (NL) (101.18 KB - PDF)
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
 [View](/nl/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (111.47 KB - PDF)
-
-**First published:** 07/01/2021 **Last updated:** 26/07/2021
-
-[View](/no/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (101.76 KB - PDF)
 
@@ -571,7 +560,7 @@ slovenščina (SL) (102.88 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (94.17 KB - PDF)
+suomi (FI) (94.17 KB - PDF)
 
 **First published:** 07/01/2021 **Last updated:** 26/07/2021
 
@@ -583,6 +572,18 @@ svenska (SV) (94.25 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (296.45 KB - PDF)
+
+**First published:** 07/01/2021 **Last updated:** 26/07/2021
+
+[View](/is/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (111.47 KB - PDF)
+
+**First published:** 07/01/2021 **Last updated:** 26/07/2021
+
+[View](/no/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_no.pdf)
+
 Lenalidomide Mylan : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (271.22 KB - PDF)
@@ -591,7 +592,7 @@ English (EN) (271.22 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-898)
 
 български (BG) (245.94 KB - PDF)
 
@@ -623,7 +624,7 @@ Deutsch (DE) (47.45 KB - PDF)
 
 [View](/de/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
-eesti keel (ET) (47.33 KB - PDF)
+eesti (ET) (47.33 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -647,25 +648,19 @@ hrvatski (HR) (103.33 KB - PDF)
 
 [View](/hr/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_hr.pdf)
 
-íslenska (IS) (296.44 KB - PDF)
-
-**First published:** 07/01/2021
-
-[View](/is/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
 italiano (IT) (294.78 KB - PDF)
 
 **First published:** 07/01/2021
 
 [View](/it/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
-latviešu valoda (LV) (300.45 KB - PDF)
+latviešu (LV) (300.45 KB - PDF)
 
 **First published:** 07/01/2021
 
 [View](/lv/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (270.58 KB - PDF)
+lietuvių (LT) (270.58 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -688,12 +683,6 @@ Nederlands (NL) (261.78 KB - PDF)
 **First published:** 07/01/2021
 
 [View](/nl/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
-
-norsk (NO) (366.23 KB - PDF)
-
-**First published:** 07/01/2021
-
-[View](/no/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 polski (PL) (374.27 KB - PDF)
 
@@ -725,7 +714,7 @@ slovenščina (SL) (268.75 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
-Suomi (FI) (344.71 KB - PDF)
+suomi (FI) (344.71 KB - PDF)
 
 **First published:** 07/01/2021
 
@@ -736,6 +725,18 @@ svenska (SV) (372.07 KB - PDF)
 **First published:** 07/01/2021
 
 [View](/sv/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
+
+Íslenska (IS) (296.44 KB - PDF)
+
+**First published:** 07/01/2021
+
+[View](/is/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
+
+norsk (NO) (366.23 KB - PDF)
+
+**First published:** 07/01/2021
+
+[View](/no/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 ## Product details
 
@@ -791,7 +792,7 @@ Marketing authorisation holder
 
 Mylan Pharmaceuticals Limited
 
-Damastown Industrial Park,
+Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 Opinion adopted
 
@@ -803,7 +804,7 @@ Marketing authorisation issued
 
 Revision
 
-13
+14
 
 ## Assessment history
 
@@ -811,13 +812,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lenalidomide Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.85 KB - PDF)
+English (EN) (150.17 KB - PDF)
 
-**First published:** 05/03/2025 **Last updated:** 11/05/2026
+**First published:** 05/03/2025 **Last updated:** 12/06/2026
 
 [View](/en/documents/procedural-steps-after/lenalidomide-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -839,7 +840,7 @@ English (EN) (122.39 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/lenalidomide-mylan-h-c-psusa-00001838-202012-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf-0)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Lenalidomide Mylan : EPAR - Public assessment report
 
@@ -879,7 +880,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-828)
+[Other languages (22)](#file-language-dropdown-817)
 
 български (BG) (93.16 KB - PDF)
 
@@ -911,7 +912,7 @@ Deutsch (DE) (67.55 KB - PDF)
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
-eesti keel (ET) (65.21 KB - PDF)
+eesti (ET) (65.21 KB - PDF)
 
 **First published:** 09/07/2007 **Last updated:** 07/12/2012
 
@@ -941,13 +942,13 @@ italiano (IT) (67.62 KB - PDF)
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
-latviešu valoda (LV) (111.81 KB - PDF)
+latviešu (LV) (111.81 KB - PDF)
 
 **First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
-lietuvių kalba (LT) (86.76 KB - PDF)
+lietuvių (LT) (86.76 KB - PDF)
 
 **First published:** 09/07/2007 **Last updated:** 07/12/2012
 
@@ -1001,7 +1002,7 @@ slovenščina (SL) (84.8 KB - PDF)
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
-Suomi (FI) (66.21 KB - PDF)
+suomi (FI) (66.21 KB - PDF)
 
 **First published:** 09/07/2007 **Last updated:** 07/12/2012
 
@@ -1013,12 +1014,170 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Lenalidomide Mylan : EPAR - Product information - tracked changes
+
+English (EN) (290.3 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/en/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-400)
+
+български (BG) (341.21 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/bg/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (371.97 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/es/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (311.91 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/cs/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (292.41 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/da/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (348.11 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/de/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (288.99 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/et/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (365.99 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/el/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (272.01 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/fr/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (281.15 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/hr/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (547.73 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/it/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (260.46 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/lv/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (309.7 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/lt/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (333.57 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/hu/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (308.21 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/mt/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (345.11 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/nl/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (326.12 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/pl/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (334.85 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/pt/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (357.69 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/ro/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (297.11 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sk/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (292.88 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sl/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (277.89 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/fi/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (292.12 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/sv/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (282.83 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/is/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (251.63 KB - DOCX)
+
+**First published:** 12/06/2026
+
+[View](/no/documents/product-information-tracked-changes/lenalidomide-mylan-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Lenalidomide Mylan
 
 - [Lenalidomide Mylan - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/lenalidomide-mylan)
 
 **This page was last updated on**
 
-11/05/2026
+12/06/2026
 
 ## Share this page

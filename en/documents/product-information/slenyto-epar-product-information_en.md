@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-11 11:53:38
+document_datetime: 2026-06-10 09:33:46
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/slenyto-epar-product-information_en.pdf
 document_name: slenyto-epar-product-information_en.pdf
 version: success
-processing_time: 6.9080042
-conversion_datetime: 2025-12-28 02:55:42.212906
+processing_time: 8.3045272
+conversion_datetime: 2026-06-13 20:14:22.653254
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -276,11 +276,9 @@ Efficacy and safety have been assessed in a randomised, placebo-controlled study
 
 The study comprises 5 periods: 1) pre-study period (4 weeks), 2) baseline single-blind placebo period (2 weeks), 3) randomized placebo-controlled treatment period (13 weeks), 4) open label treatment period (91 weeks), and 5) single blind run-out period (2 weeks placebo).
 
-A total of 125 children (2-17.0 years of age, mean age 8.7 +/- 4.15; 96.8% ASD, 3.2% Smith-Magenis syndrome [SMS]) whose sleep failed to improve on behavioural intervention alone were randomized
+A total of 125 children (2-17.0 years of age, mean age 8.7 +/- 4.15; 96.8% ASD, 3.2% Smith-Magenis syndrome [SMS]) whose sleep failed to improve on behavioural intervention alone were randomized and 112 weeks ' results are available. 28.8% patients were diagnosed with ADHD before study initiation and 77% had abnormal SDQ hyperactivity/inattention score (&gt;=7) at baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-and 112 weeks ' results are available. 28.8% patients were diagnosed with ADHD before study initiation and 77% had abnormal SDQ hyperactivity/inattention score (&gt;=7) at baseline.
 
 ## Randomized placebo-controlled treatment period results (13 weeks)
 
@@ -397,9 +395,7 @@ Film coating Carmellose sodium (E466) Maltodextrin Glucose monohydrate Lecithin 
 
 ## Slenyto 5 mg prolonged-release tablet
 
-## Tablet core
-
-Ammonio methacrylate copolymer type A Calcium hydrogen phosphate dihydrate Lactose monohydrate Silica, colloidal anhydrous Magnesium stearate
+Tablet core Ammonio methacrylate copolymer type A Calcium hydrogen phosphate dihydrate Lactose monohydrate Silica, colloidal anhydrous Magnesium stearate
 
 Film coating Carmellose sodium (E466) Maltodextrin Glucose monohydrate Lecithin (E322) Titanium dioxide (E171) Iron oxide yellow (E172)
 
@@ -542,8 +538,9 @@ See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 30 prolonged-release tablets
-- 60 prolonged-release tablets
+30 prolonged-release tablets
+
+60 prolonged-release tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -579,7 +576,9 @@ RAD Neurim Pharmaceuticals EEC SARL
 
 75002 Paris
 
-France e-mail: regulatory@neurim.com
+France
+
+e-mail: regulatory@neurim.com
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -767,13 +766,11 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package Leaflet: Information for the user
 
-## Slenyto 1 mg prolonged-release tablets Slenyto 5 mg prolonged-release tablets
+<div style=\"page-break-after: always\"></div>
 
-melatonin
+## Slenyto 1 mg prolonged-release tablets Slenyto 5 mg prolonged-release tablets melatonin
 
 ## Read all of this leaflet carefully before you or your child starts taking this medicine because it contains important information.
 
@@ -823,7 +820,9 @@ Talk to your doctor or pharmacist before taking Slenyto if you or your child:
 
 Slenyto may cause drowsiness and daytime fatigue. Caregivers should monitor the child for signs of daytime fatigue and contact their doctor for advice if symptoms occur.
 
-In particular, children and adolescents with ADHD may have increased daytime symptoms like inattention, hyperactivity, or behavioural disturbances.
+In particular, children and adolescents with ADHD may have increased daytime symptoms like
+
+inattention, hyperactivity, or behavioural disturbances.
 
 ## Children
 
@@ -884,7 +883,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Slenyto is available in two strengths: 1 mg and 5 mg.
 
-Insomnia in children and adolescents (aged 2 to 18 years old) with ASD and/or neurogenetic diseases (inherited conditions affecting the nerves and brain) associated with abnormal levels of melatonin and/or night-time awakenings.
+Insomnia in children and adolescents (aged 2 to 18 years old) with ASD and/or neurogenetic diseases (inherited conditions affecting the nerves and brain) associated with abnormal levels of melatonin and/or night-time awakenings
 
 The recommended starting dose is 2 mg (two 1-mg tablets) once daily. If there is no improvement in your/ your child's symptoms, your doctor may increase the dose of Slenyto to find the most suitable dose for you/your child. The maximum daily dose that you/your child will receive is 10 mg (two 5-mg tablets).
 
@@ -916,7 +915,9 @@ Taking more than the recommended daily dose may make you/your child feel drowsy.
 
 ## If you or your child forgets to take Slenyto
 
-If you or your child forgets to take a tablet, it could be taken before going to sleep that night, but after this time, no other tablet should be taken before the next evening. Do not take a double dose to make up for a forgotten dose.
+If you or your child forgets to take a tablet, it could be taken before going to sleep that night, but after this time, no other tablet should be taken before the next evening.
+
+Do not take a double dose to make up for a forgotten dose.
 
 ## If you or your child stops taking Slenyto
 
@@ -1000,7 +1001,7 @@ Do not throw away any medicines via wastewater or household waste.  Ask your pha
 
 ## What Slenyto looks like and contents of the pack
 
-1 mg strength
+## 1 mg strength
 
 Slenyto 1 mg prolonged-release tablets are pink, film coated, round, biconvex, 3 mm diameter tablets.
 
@@ -1052,7 +1053,9 @@ e-mail: neurim@neurim.com
 
 ## Česká republika
 
-RAD Neurim Pharmaceuticals EEC SARL Tel: +33 185149776 (FR)
+RAD Neurim Pharmaceuticals EEC SARL
+
+Tel: +33 185149776 (FR)
 
 e-mail: neurim@neurim.com
 
@@ -1144,7 +1147,7 @@ Williams &amp; Halls ehf. Sími: +354 527 0600 Netfang: info@wh.is
 
 ## Italia
 
-Fidia Farmaceutici S.p.A. Tel: +39 049 8232222 e-mail: info@fidiapharma.it
+InfectoPharm S.r.l. Tel: +39 02 0070661 e-mail: info-ita@infectopharm.com
 
 ## Κύπρος
 
@@ -1182,11 +1185,7 @@ RAD Neurim Pharmaceuticals EEC SARL Tel.: +33 185149776 (FR) e-mail: neurim@neur
 
 ## Portugal
 
-Laboratórios Azevedos - Indústria Farmacêutica, S.A.
-
-Tel: +351 214 725 900
-
-e-mail: mail@azevedos-sa.pt
+Laboratórios Azevedos - Indústria Farmacêutica, S.A. Tel: +351 214 725 900 e-mail: mail@azevedos-sa.pt
 
 ## România
 

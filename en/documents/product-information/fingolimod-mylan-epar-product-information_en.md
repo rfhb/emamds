@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-11-07 09:08:18
+document_datetime: 2026-06-12 12:03:56
 document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fingolimod-mylan-epar-product-information_en.pdf
 document_name: fingolimod-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 18.6544087
-conversion_datetime: 2025-12-15 21:33:00.135074
+processing_time: 22.1759825
+conversion_datetime: 2026-06-13 20:19:37.348255
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.23.0
+  docling-jobkit: 1.23.0
+  docling: 2.102.1
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -42,11 +44,11 @@ Brown-orange opaque cap and white opaque body, printed with 'MYLAN' over 'FD 0.5
 
 Fingolimod Mylan is indicated as single disease modifying therapy in highly active relapsing remitting multiple sclerosis for the following groups of adult patients and paediatric patients aged 10 years and older:
 
--  Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1).
+- Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1).
 
 or
 
--  Patients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabling relapses in one year and with 1 or more Gadolinium enhancing lesions on brain magnetic resonance imaging (MRI) or a significant increase in T2 lesion load as compared to a previous recent MRI.
+- Patients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabling relapses in one year and with 1 or more Gadolinium enhancing lesions on brain magnetic resonance imaging (MRI) or a significant increase in T2 lesion load as compared to a previous recent MRI.
 
 ## 4.2 Posology and method of administration
 
@@ -71,9 +73,9 @@ Fingolimod Mylan is not available in 0.25 mg strength. For this dosage, other me
 
 The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
 
--  One day or more during the first 2 weeks of treatment.
--  More than 7 days during weeks 3 and 4 of treatment.
--  More than 2 weeks after one month of treatment.
+- One day or more during the first 2 weeks of treatment.
+- More than 2 weeks after one month of treatment.
+- More than 7 days during weeks 3 and 4 of treatment.
 
 If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned (see section 4.4).
 
@@ -107,21 +109,21 @@ The capsules should always be swallowed intact, without opening them.
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Immunodeficiency syndrome.
--  Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
--  Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
--  Severe active infections, active chronic infections (hepatitis, tuberculosis).
--  Active malignancies.
--  Severe liver impairment (Child-Pugh class C).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
+- Immunodeficiency syndrome.
+- Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
+- Severe active infections, active chronic infections (hepatitis, tuberculosis).
+- Severe liver impairment (Child-Pugh class C).
+- Active malignancies.
 
 <div style=\"page-break-after: always\"></div>
 
--  Patients who in the previous 6 months had myocardial infarction (MI), unstable angina pectoris, stroke/transient ischaemic attack (TIA), decompensated heart failure (requiring inpatient treatment), or New York Heart Association (NYHA) class III/IV heart failure (see section 4.4).
--  Patients with severe cardiac arrhythmias requiring anti-arrhythmic treatment with class Ia or class III anti-arrhythmic medicinal products (see section 4.4).
--  Patients with second-degree Mobitz type II atrioventricular (AV) block or third-degree AV block, or sick-sinus syndrome, if they do not wear a pacemaker (see section 4.4).
--  Patients with a baseline QTc interval ≥ 500 msec (see section 4.4).
--  During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
+- Patients who in the previous 6 months had myocardial infarction (MI), unstable angina pectoris, stroke/transient ischaemic attack (TIA), decompensated heart failure (requiring inpatient treatment), or New York Heart Association (NYHA) class III/IV heart failure (see section 4.4).
+- Patients with severe cardiac arrhythmias requiring anti-arrhythmic treatment with class Ia or class III anti-arrhythmic medicinal products (see section 4.4).
+- Patients with second-degree Mobitz type II atrioventricular (AV) block or third-degree AV block, or sick-sinus syndrome, if they do not wear a pacemaker (see section 4.4).
+- Patients with a baseline QTc interval ≥ 500 msec (see section 4.4).
+- During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -141,11 +143,9 @@ If the heart rate at 6 hours is the lowest since the first dose was administered
 
 The effects on heart rate and atrioventricular conduction may recur on re-introduction of fingolimod treatment depending on duration of the interruption and time since start of treatment. The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted (see section 4.2).
 
-Very rare cases of T-wave inversion have been reported in adult patients treated with fingolimod. In
+Very rare cases of T-wave inversion have been reported in adult patients treated with fingolimod. In case of T-wave inversion, the prescriber should ensure that there are no associated myocardial ischaemia signs or symptoms. If myocardial ischaemia is suspected, it is recommended to seek advice from a cardiologist.
 
 <div style=\"page-break-after: always\"></div>
-
-case of T-wave inversion, the prescriber should ensure that there are no associated myocardial ischaemia signs or symptoms. If myocardial ischaemia is suspected, it is recommended to seek advice from a cardiologist.
 
 Due to the risk of serious rhythm disturbances or significant bradycardia, Fingolimod Mylan should not be used in patients with sino-atrial heart block, a history of symptomatic bradycardia, recurrent syncope or cardiac arrest, or in patients with significant QT prolongation (QTc &gt; 470 msec [adult female], QTc &gt; 460 msec [paediatric female] or &gt; 450 msec [adult and paediatric male]), uncontrolled hypertension or severe sleep apnoea (see also section 4.3). In such patients, treatment with this medicinal product should be considered only if the anticipated benefits outweigh the potential risks and advice from a cardiologist sought prior to initiation of treatment in order to determine the most appropriate monitoring. At least overnight extended monitoring is recommended for treatment initiation (see also section 4.5).
 
@@ -193,11 +193,9 @@ Cases of cryptococcal meningitis (a fungal infection), sometimes fatal, have bee
 
 ## Progressive multifocal leukoencephalopathy (PML)
 
-PML has been reported under fingolimod treatment since marketing authorisation (see section 4.8). It
+PML has been reported under fingolimod treatment since marketing authorisation (see section 4.8). It is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability. The majority of PML cases have occurred after 2 or more years of fingolimod treatment. In addition to duration of fingolimod exposure, other potential risk factors for PML include prior therapy with immunosuppressants or immunomodulators, and/or severe lymphopenia (&lt;0.5x10 9 /l). Patients at increased risk should be closely monitored for any signs or symptoms of PML. PML can only occur in the presence of a JCV infection. If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients. A negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection. Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference. During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions. MRI findings may be apparent before clinical signs or symptoms. Annual MRIs may be considered as part of increased vigilance especially in patients at increased risk of PML. Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cerebrospinal fluid have been reported in patients treated with fingolimod. If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment should be suspended until PML has been excluded. If PML is confirmed, treatment with fingolimod must be permanently discontinued (see also section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability. The majority of PML cases have occurred after 2 or more years of fingolimod treatment. In addition to duration of fingolimod exposure, other potential risk factors for PML include prior therapy with immunosuppressants or immunomodulators, and/or severe lymphopenia (&lt;0.5x10 9 /l). Patients at increased risk should be closely monitored for any signs or symptoms of PML. PML can only occur in the presence of a JCV infection. If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients. A negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection. Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference. During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions. MRI findings may be apparent before clinical signs or symptoms. Annual MRIs may be considered as part of increased vigilance especially in patients at increased risk of PML. Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cerebrospinal fluid have been reported in patients treated with fingolimod. If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment should be suspended until PML has been excluded. If PML is confirmed, treatment with fingolimod must be permanently discontinued (see also section 4.3).
 
 Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with sphingosine 1-phosphate (S1P) receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment. IRIS presents as a clinical decline in the patient's condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI. The time to onset of IRIS in patients with PML was usually from weeks to months after S1P receptor modulator discontinuation. Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
@@ -215,11 +213,9 @@ Continuation of treatment in patients with macular oedema has not been evaluated
 
 ## Liver injury
 
-Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with fingolimod. Some cases of acute liver failure requiring liver transplant and
+Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with fingolimod. Some cases of acute liver failure requiring liver transplant and clinically significant liver injury have also been reported. Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, have occurred as early as ten days after the first dose and have also been reported after prolonged use. In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of adult patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients. Elevations 5-fold the ULN occurred in 1.8% of patients on fingolimod and 0.9% of patients on placebo. In clinical trials, treatment was discontinued if the elevation exceeded 5 times the ULN. Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to fingolimod. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. Serum transaminase levels returned to normal within approximately 2 months after discontinuation of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-clinically significant liver injury have also been reported. Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, have occurred as early as ten days after the first dose and have also been reported after prolonged use. In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of adult patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients. Elevations 5-fold the ULN occurred in 1.8% of patients on fingolimod and 0.9% of patients on placebo. In clinical trials, treatment was discontinued if the elevation exceeded 5 times the ULN. Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to fingolimod. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. Serum transaminase levels returned to normal within approximately 2 months after discontinuation of treatment.
 
 Fingolimod has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
@@ -271,11 +267,9 @@ The combination of fingolimod with potent CYP450 inducers should be used with ca
 
 ## Cutaneous malignancies
 
-Basal cell carcinoma (BCC) and other cutaneous neoplasms, including malignant melanoma, squamous cell carcinoma, Kaposi's sarcoma and Merkel cell carcinoma, have been reported in patients receiving fingolimod (see section 4.8). Vigilance for skin lesions is warranted and a medical
+Basal cell carcinoma (BCC) and other cutaneous neoplasms, including malignant melanoma, squamous cell carcinoma, Kaposi's sarcoma and Merkel cell carcinoma, have been reported in patients receiving fingolimod (see section 4.8). Vigilance for skin lesions is warranted and a medical evaluation of the skin is recommended at initiation and then every 6 to 12 months taking into consideration clinical judgement. The patient should be referred to a dermatologist in case suspicious lesions are detected.
 
 <div style=\"page-break-after: always\"></div>
-
-evaluation of the skin is recommended at initiation and then every 6 to 12 months taking into consideration clinical judgement. The patient should be referred to a dermatologist in case suspicious lesions are detected.
 
 Since there is a potential risk of malignant skin growths, patients treated with fingolimod should be cautioned against exposure to sunlight without protection. These patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
 
@@ -301,11 +295,9 @@ If a decision is made to stop treatment with Fingolimod Mylan a 6 week interval 
 
 After stopping fingolimod in the setting of PML, it is recommended to monitor patients for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see 'Progressive multifocal leukoencephalopathy' above).
 
-Caution is also indicated when stopping therapy due to the risk of a rebound (see 'Return of disease activity (rebound) after fingolimod discontinuation' above). If discontinuation of Fingolimod Mylan is deemed necessary, patients should be monitored during this time for relevant signs of a possible
+Caution is also indicated when stopping therapy due to the risk of a rebound (see 'Return of disease activity (rebound) after fingolimod discontinuation' above). If discontinuation of Fingolimod Mylan is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
 
 <div style=\"page-break-after: always\"></div>
-
-rebound.
 
 ## Interference with serological testing
 
@@ -317,12 +309,12 @@ The safety profile in paediatric patients is similar to that in adults and the w
 
 In particular, the following should be noted when prescribing Fingolimod Mylan to paediatric patients:
 
--  Precautions should be followed at the time of the first dose (see 'Bradyarrhythmia' above). The same precautions as for the first dose are recommended when patients are switched from the 0.25 mg to the 0.5 mg daily dose.
--  In the controlled paediatric trial D2311, cases of seizures, anxiety, depressed mood and depression have been reported with a higher incidence in patients treated with fingolimod compared to patients treated with interferon beta-1a. Caution is required in this subgroup population (see 'Paediatric population' in section 4.8).
--  Mild isolated bilirubin increases have been noted in paediatric patients on fingolimod.
--  It is recommended that paediatric patients complete all immunisations in accordance with current immunisation guidelines before starting Fingolimod Mylan therapy (see 'Infections' above).
--  There are very limited data available in children between 10-12 years old, less than 40 kg or at Tanner stage &lt; 2 (see sections 4.8 and 5.1). Caution is required in these subgroups due to very limited knowledge available from the clinical study.
--  Long-term safety data in the paediatric population are not available.
+- Precautions should be followed at the time of the first dose (see 'Bradyarrhythmia' above). The same precautions as for the first dose are recommended when patients are switched from the 0.25 mg to the 0.5 mg daily dose.
+- In the controlled paediatric trial D2311, cases of seizures, anxiety, depressed mood and depression have been reported with a higher incidence in patients treated with fingolimod compared to patients treated with interferon beta-1a. Caution is required in this subgroup population (see 'Paediatric population' in section 4.8).
+- Mild isolated bilirubin increases have been noted in paediatric patients on fingolimod.
+- It is recommended that paediatric patients complete all immunisations in accordance with current immunisation guidelines before starting Fingolimod Mylan therapy (see 'Infections' above).
+- There are very limited data available in children between 10-12 years old, less than 40 kg or at Tanner stage &lt; 2 (see sections 4.8 and 5.1). Caution is required in these subgroups due to very limited knowledge available from the clinical study.
+- Long-term safety data in the paediatric population are not available.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -338,11 +330,9 @@ During and for up to two months after treatment with Fingolimod Mylan, vaccinati
 
 ## Bradycardia-inducing substances
 
-Fingolimod has been studied in combination with atenolol and diltiazem. When it was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem. Treatment with Fingolimod Mylan should not be initiated in patients receiving beta blockers, or other substances which may decrease heart rate, such as class Ia and III antiarrhythmics, calcium channel blockers (such as verapamil or diltiazem), ivabradine, digoxin, anticholinesteratic agents or pilocarpine because of the
+Fingolimod has been studied in combination with atenolol and diltiazem. When it was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem. Treatment with Fingolimod Mylan should not be initiated in patients receiving beta blockers, or other substances which may decrease heart rate, such as class Ia and III antiarrhythmics, calcium channel blockers (such as verapamil or diltiazem), ivabradine, digoxin, anticholinesteratic agents or pilocarpine because of the potential additive effects on heart rate (see sections 4.4 and 4.8). If treatment with this medicinal product is considered in such patients, advice from a cardiologist should be sought regarding the switch to non-heart-rate lowering medicinal products or appropriate monitoring for treatment initiation, at least overnight monitoring is recommended, if the heart-rate-lowering medication cannot be stopped.
 
 <div style=\"page-break-after: always\"></div>
-
-potential additive effects on heart rate (see sections 4.4 and 4.8). If treatment with this medicinal product is considered in such patients, advice from a cardiologist should be sought regarding the switch to non-heart-rate lowering medicinal products or appropriate monitoring for treatment initiation, at least overnight monitoring is recommended, if the heart-rate-lowering medication cannot be stopped.
 
 ## Pharmacokinetic interactions of other substances on fingolimod
 
@@ -370,11 +360,9 @@ When stopping fingolimod therapy for planning a pregnancy the possible return of
 
 ## Pregnancy
 
-Based on human experience, post-marketing data suggest that use of fingolimod is associated with a 2fold increased risk of major congenital malformations when administered during pregnancy compared
+Based on human experience, post-marketing data suggest that use of fingolimod is associated with a 2fold increased risk of major congenital malformations when administered during pregnancy compared with the rate observed in the general population (2-3%; EUROCAT).
 
 <div style=\"page-break-after: always\"></div>
-
-with the rate observed in the general population (2-3%; EUROCAT).
 
 The following major malformations were most frequently reported:
 
@@ -410,7 +398,7 @@ The most frequent adverse reactions (incidence ≥ 10%) at the 0.5 mg dose were 
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical trials and derived from post-marketing experience via spontaneous case reports or literature cases are shown below. Frequencies were defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Adverse reactions reported in clinical trials and derived from post-marketing experience via spontaneous case reports or literature cases are shown below. Frequencies were defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -499,11 +487,9 @@ HPV infection, including papilloma, dysplasia, warts and HPV-related cancer, has
 
 ## Macular oedema
 
-In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg. The majority of cases occurred within the first 3-4 months of therapy. Some patients presented with
+In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg. The majority of cases occurred within the first 3-4 months of therapy. Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination. The macular oedema generally improved or resolved spontaneously after discontinuation of treatment. The risk of recurrence after re-challenge has not been evaluated.
 
 <div style=\"page-break-after: always\"></div>
-
-blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination. The macular oedema generally improved or resolved spontaneously after discontinuation of treatment. The risk of recurrence after re-challenge has not been evaluated.
 
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis). Fingolimod has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4). In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
 
@@ -521,11 +507,9 @@ In multiple sclerosis clinical studies fingolimod 0.5 mg was associated with an 
 
 ## Liver function
 
-Increased hepatic enzymes have been reported in adult and paediatric multiple sclerosis patients treated with fingolimod. In clinical studies 8.0% and 1.8% of adult patients treated with fingolimod 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥ 3x ULN (upper limit of normal) and ≥ 5x ULN, respectively. Recurrence of liver transaminase elevations has occurred upon re- challenge in some patients, supporting a relationship to the medicinal product. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. ALT levels returned to normal within approximately 2 months after discontinuation of treatment. In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who
+Increased hepatic enzymes have been reported in adult and paediatric multiple sclerosis patients treated with fingolimod. In clinical studies 8.0% and 1.8% of adult patients treated with fingolimod 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥ 3x ULN (upper limit of normal) and ≥ 5x ULN, respectively. Recurrence of liver transaminase elevations has occurred upon re- challenge in some patients, supporting a relationship to the medicinal product. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. ALT levels returned to normal within approximately 2 months after discontinuation of treatment. In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥ 5x ULN and who continued on fingolimod therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
 
 <div style=\"page-break-after: always\"></div>
-
-experienced ALT elevations ≥ 5x ULN and who continued on fingolimod therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
 
 ## Nervous system disorders
 
@@ -561,11 +545,9 @@ Mild isolated bilirubin increases have been noted in paediatric patients on fing
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -591,17 +573,15 @@ Fingolimod is a sphingosine 1-phosphate receptor modulator. It is metabolised by
 
 ## Pharmacodynamic effects
 
-Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count decreases to approximately 75% of baseline in peripheral blood. With continued daily dosing, the lymphocyte count continues to decrease over a two-week period, reaching a minimal count of approximately 500 cells/microlitre or approximately 30% of baseline. Eighteen percent of patients reached a minimal count below 200 cells/microlitre on at least one occasion. Low lymphocyte counts are maintained with chronic daily dosing. The majority of T and B lymphocytes regularly traffic through lymphoid organs
+Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count decreases to approximately 75% of baseline in peripheral blood. With continued daily dosing, the lymphocyte count continues to decrease over a two-week period, reaching a minimal count of approximately 500 cells/microlitre or approximately 30% of baseline. Eighteen percent of patients reached a minimal count below 200 cells/microlitre on at least one occasion. Low lymphocyte counts are maintained with chronic daily dosing. The majority of T and B lymphocytes regularly traffic through lymphoid organs and these are the cells mainly affected by fingolimod. Approximately 15-20% of T lymphocytes have an effector memory phenotype, cells that are important for peripheral immune surveillance. Since this lymphocyte subset typically does not traffic to lymphoid organs it is not affected by fingolimod. Peripheral lymphocyte count increases are evident within days of stopping treatment and typically normal counts are reached within one to two months. Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to approximately 80% of baseline. Monocytes are unaffected by fingolimod.
 
 <div style=\"page-break-after: always\"></div>
-
-and these are the cells mainly affected by fingolimod. Approximately 15-20% of T lymphocytes have an effector memory phenotype, cells that are important for peripheral immune surveillance. Since this lymphocyte subset typically does not traffic to lymphoid organs it is not affected by fingolimod. Peripheral lymphocyte count increases are evident within days of stopping treatment and typically normal counts are reached within one to two months. Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to approximately 80% of baseline. Monocytes are unaffected by fingolimod.
 
 Fingolimod causes a transient reduction in heart rate and decrease in atrioventricular conduction at treatment initiation (see sections 4.4 and 4.8). The maximal decline in heart rate is seen within 6 hours post dose, with 70% of the negative chronotropic effect achieved on the first day. With continued administration heart rate returns to baseline within one month. The decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline. Inhaled salmeterol has also been shown to have a modest positive chronotropic effect. With initiation of fingolimod treatment there is an increase in atrial premature contractions, but there is no increased rate of atrial fibrillation/flutter or ventricular arrhythmias or ectopy. Fingolimod treatment is not associated with a decrease in cardiac output. Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise are not affected by treatment.
 
 S1P4 could partially contribute to the effect but was not the main receptor responsible for the lymphoid depletion. The mechanism of action of bradycardia and vasoconstriction were also studied in vitro in guinea pigs and isolated rabbit aorta and coronary artery. It was concluded that bradycardia could be mediated primarily by activation of inward-rectifying potassium channel or G-protein activated inwardly rectifying K +  channel (IKACh/GIRK) and that vasoconstriction seems to be mediated by a Rho kinase and calcium dependent mechanism.
 
-Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV 1  and forced expiratory flow rate (FEF) 25-75. However, single fingolimod doses ≥ 5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance. Treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine. Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 25-75. However, single fingolimod doses ≥ 5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance. Treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine. Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
 
 ## Clinical efficacy and safety
 
@@ -654,7 +634,7 @@ Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, ac
 
 Table 3 Study D2302 (TRANSFORMS): main results
 
-|                                                                                                                                                                                                                                              | Fingolimod 0.5 mg                                                                                                                                                                                                                            | Interferon beta-1a, 30 μ g                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                              | Fingolimod 0.5 mg                                                                                                                                                                                                                            | Interferon beta-1a, 30 μg                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Clinical endpoints                                                                                                                                                                                                                           |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                              |
 | Annualised relapse rate (primary endpoint)                                                                                                                                                                                                   | 0.16**                                                                                                                                                                                                                                       | 0.33                                                                                                                                                                                                                                         |
@@ -711,13 +691,11 @@ The pharmacologically active metabolite responsible for efficacy is fingolimod p
 
 ## Absorption
 
-Fingolimod absorption is slow (tmax of 12-16 hours) and extensive ( ≥ 85%). The apparent absolute oral bioavailability is 93% (95% confidence interval: 79-111%). Steady-state-blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
+Fingolimod absorption is slow (tmax of 12-16 hours) and extensive (≥ 85%). The apparent absolute oral bioavailability is 93% (95% confidence interval: 79-111%). Steady-state-blood concentrations are reached within 1 to 2 months following once-daily administration and steady-state levels are approximately 10-fold greater than with the initial dose.
 
-Food intake does not alter Cmax  or exposure (AUC) of fingolimod. Fingolimod phosphate Cmax was slightly decreased by 34% but AUC was unchanged. Therefore, Fingolimod Mylan may be taken
+Food intake does not alter Cmax or exposure (AUC) of fingolimod. Fingolimod phosphate Cmax was slightly decreased by 34% but AUC was unchanged. Therefore, Fingolimod Mylan may be taken without regard to meals (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-without regard to meals (see section 4.2).
 
 ## Distribution
 
@@ -733,7 +711,7 @@ Following single oral administration of [ 14 C] fingolimod, the major fingolimod
 
 ## Elimination
 
-Fingolimod blood clearance is 6.3 ± 2.3 l/h and the average apparent terminal elimination half-life (t 1/2 ) is 6-9 days. Blood levels of fingolimod and fingolimod phosphate decline in parallel in the terminal phase, leading to similar half-lives for both.
+Fingolimod blood clearance is 6.3 ± 2.3 l/h and the average apparent terminal elimination half-life (t1/2) is 6-9 days. Blood levels of fingolimod and fingolimod phosphate decline in parallel in the terminal phase, leading to similar half-lives for both.
 
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites. Fingolimod and fingolimod phosphate are not excreted intact in urine but are the major components in the faeces, with amounts representing less than 2.5% of the dose each. After 34 days, the recovery of the administered dose is 89%.
 
@@ -821,15 +799,19 @@ Do not store above 25°C. Store in the original package in order to protect from
 
 ## PVC/PCTFE-alu blister
 
-Pack size: 28, 30, 84 or 98 hard capsules Multipacks containing 84 (3 packs of 28) hard capsules
+Pack size: 28, 30, 84 or 98 hard capsules
+
+Multipacks containing 84 (3 packs of 28) hard capsules Calendar packs containing 28 or 84 hard capsules Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules
 
 <div style=\"page-break-after: always\"></div>
 
-Calendar packs containing 28 or 84 hard capsules Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules
-
 ## PVC/PE/PVdC-alu blister
 
-Pack size: 28, 30, 84 or 98 hard capsules Multipacks containing 84 (3 packs of 28) hard capsules Calendar packs containing 28 or 84 hard capsules Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules
+Pack size:
+
+28, 30, 84 or 98 hard capsules Multipacks containing 84 (3 packs of 28) hard capsules Calendar packs containing 28 or 84 hard capsules
+
+Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules
 
 White round HDPE bottle with white opaque child-resistant PP closure with wad containing aluminium induction sealing liner
 
@@ -873,15 +855,13 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 <div style=\"page-break-after: always\"></div>
 
-9.
+EU/1/21/1573/024
 
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 August 2021
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/en
 
@@ -904,7 +884,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1 Komarom H-2900 Hungary
 
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany.
+Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany.
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -914,28 +894,26 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
-Prior to launch of Fingolimod Mylan in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including
+Prior to launch of Fingolimod Mylan in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
 
 <div style=\"page-break-after: always\"></div>
-
-communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
 
 The MAH shall ensure that in each Member State (MS) where Fingolimod Mylan is marketed, all physicians who intend to prescribe it are provided with the following educational materials:
 
@@ -950,26 +928,26 @@ The physician's checklist shall contain the following key messages:
 
 | Safety topics                                                                                                       | Key safety messages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bradyarrhythmia (including conduction defects and bradycardia complicated by hypotension) occurring post-first dose |  Do not initiate Fingolimod Mylan in patients with a cardiac condition or who are taking medicinal products for which Fingolimod Mylan is contraindicated.  Prior to initiating Fingolimod Mylan in patients with underlying medical conditions or who are concomitantly taking medicinal products which carry an increased risk of serious rhythm disturbance or bradycardia, ensure the anticipated benefits outweigh the potential risks and seek advice from a cardiologist regarding appropriate monitoring (at least overnight extended monitoring for treatment initiation) and/or adjustment of the concomitant medicinal product.  Monitor all patients for signs and symptoms of bradycardia for a period of at least 6 hours after the first dose of Fingolimod Mylan, including performing an electrocardiogram (ECG) and blood pressure measurement prior to and 6 hours after first dose.  If post-dose signs and symptoms of bradyarrhythmia occur, extend first dose monitoring per guidelines until resolution; be familiar with criteria (i.e. need for pharmacological intervention, age-specific heart rate limits, new ECG findings) that would warrant overnight monitoring.  Follow first-dose monitoring recommendations after treatment interruption or increase in daily dose. |
+| Bradyarrhythmia (including conduction defects and bradycardia complicated by hypotension) occurring post-first dose | • Do not initiate Fingolimod Mylan in patients with a cardiac condition or who are taking medicinal products for which Fingolimod Mylan is contraindicated. • Prior to initiating Fingolimod Mylan in patients with underlying medical conditions or who are concomitantly taking medicinal products which carry an increased risk of serious rhythm disturbance or bradycardia, ensure the anticipated benefits outweigh the potential risks and seek advice from a cardiologist regarding appropriate monitoring (at least overnight extended monitoring for treatment initiation) and/or adjustment of the concomitant medicinal product. • Monitor all patients for signs and symptoms of bradycardia for a period of at least 6 hours after the first dose of Fingolimod Mylan, including performing an electrocardiogram (ECG) and blood pressure measurement prior to and 6 hours after first dose. • If post-dose signs and symptoms of bradyarrhythmia occur, extend first dose monitoring per guidelines until resolution; be familiar with criteria (i.e. need for pharmacological intervention, age-specific heart rate limits, new ECG findings) that would warrant overnight monitoring. • Follow first-dose monitoring recommendations after treatment interruption or increase in daily dose. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Liver transaminase elevation   |  Do not initiate Fingolimod Mylan in patients with severe liver impairment (Child-Pugh class C)  Transaminase and bilirubin levels should be obtained prior to initiation of Fingolimod Mylan, monitored every 3 months for the first year on therapy, and periodically thereafter, up to 2 months after Fingolimod Mylan discontinuation.  For asymptomatic elevations in liver function tests (LFTs), perform LFTs more frequently if increases in transaminase are greater than 3 times to less than 5 times upper limit of normal (ULN) without increase in serum bilirubin. Discontinue Fingolimod Mylan for transaminase increase at least 5 times the ULN or at least 3 times the ULN associated with any increase in serum bilirubin. Restart Fingolimod Mylan only after careful consideration of benefit-risk.  For patients with clinical symptoms of liver dysfunction, evaluate promptly and discontinue Fingolimod Mylan if significant liver injury is confirmed. If serum levels return to normal (including if an alternative cause of the liver dysfunction is discovered), Fingolimod Mylan may be restarted based on a careful benefit-risk assessment of the patient.   |
+| Liver transaminase elevation   | • Do not initiate Fingolimod Mylan in patients with severe liver impairment (Child-Pugh class C) • Transaminase and bilirubin levels should be obtained prior to initiation of Fingolimod Mylan, monitored every 3 months for the first year on therapy, and periodically thereafter, up to 2 months after Fingolimod Mylan discontinuation. • For asymptomatic elevations in liver function tests (LFTs), perform LFTs more frequently if increases in transaminase are greater than 3 times to less than 5 times upper limit of normal (ULN) without increase in serum bilirubin. Discontinue Fingolimod Mylan for transaminase increase at least 5 times the ULN or at least 3 times the ULN associated with any increase in serum bilirubin. Restart Fingolimod Mylan only after careful consideration of benefit-risk. • For patients with clinical symptoms of liver dysfunction, evaluate promptly and discontinue Fingolimod Mylan if significant liver injury is confirmed. If serum levels return to normal (including if an alternative cause of the liver dysfunction is discovered), Fingolimod Mylan may be restarted based on a careful benefit-risk assessment of the patient.   |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Macular oedema                 |  Obtain an ophthalmological assessment before starting Fingolimod Mylan in patients with diabetes or a history of uveitis.  Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating Fingolimod Mylan.  It is recommended to discontinue Fingolimod Mylan in patients who develop macular degeneration. Restart Fingolimod Mylan only after careful consideration of benefit-risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Macular oedema                 | • Obtain an ophthalmological assessment before starting Fingolimod Mylan in patients with diabetes or a history of uveitis. • Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating Fingolimod Mylan. • It is recommended to discontinue Fingolimod Mylan in patients who develop macular degeneration. Restart Fingolimod Mylan only after careful consideration of benefit-risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Opportunistic infections including varicella zoster virus (VZV), herpes viral infections other than VZV, fungal infections   |  Do not initiate Fingolimod Mylan in patients with immunodeficiency syndrome, increased risk for opportunistic infections including immunocompromised patients or severe active or active chronic infections (i.e. hepatitis or tuberculosis).  Fingolimod Mylan may be initiated in patients who have had severe active infection that has resolved.  Anti-neoplastic, immunomodulatory or immunosuppressive therapies should not be co-administered due to the risk of additive immune system effects. Carefully consider any decision regarding prolonged concomitant corticosteroid use.  Monitor peripheral blood lymphocyte counts prior to and during treatment with Fingolimod Mylan. Interrupt treatment for lymphocyte count <0.2x10 9 /l until recovery.  Instruct patients to report signs and symptoms of infections during, and for up to two months after, treatment with Fingolimod Mylan.  For potentially serious infections, evaluate the patient promptly and consider an infectious disease referral. Consider suspending Fingolimod Mylan and the benefit-risk of any subsequent reinitiation.  Be aware that serious, life-threatening and sometimes fatal cases of opportunistic infections of the central nervous system (CNS) have occurred on Fingolimod Mylan treatment, including herpes viral infection (encephalitis, meningitis and meningo-encephalitis; observed at any time) and cryptococcal meningitis, (observed after approximately 2-3 years).  Fingolimod Mylan should be discontinued in patients with CNS herpes infections. Fingolimod Mylan should be suspended in patients with cryptococcal meningitis with careful consideration with a specialist before reinitiating.  Inform patients that during Fingolimod Mylan treatment, they should not receive live attenuated vaccines and that other vaccines may be less effective.  Prior to initiation of Fingolimod Mylan, check varicella status and recommend a full course of vaccination for VZV in anti-body negative patients. Postpone initiation of treatment for 1 month to allow the full effect of vaccination.  Recommend vaccination against human papilloma virus (HPV) prior to initiation of treatment.   |
+| Opportunistic infections including varicella zoster virus (VZV), herpes viral infections other than VZV, fungal infections   | • Do not initiate Fingolimod Mylan in patients with immunodeficiency syndrome, increased risk for opportunistic infections including immunocompromised patients or severe active or active chronic infections (i.e. hepatitis or tuberculosis). • Fingolimod Mylan may be initiated in patients who have had severe active infection that has resolved. • Anti-neoplastic, immunomodulatory or immunosuppressive therapies should not be co-administered due to the risk of additive immune system effects. Carefully consider any decision regarding prolonged concomitant corticosteroid use. • Monitor peripheral blood lymphocyte counts prior to and during treatment with Fingolimod Mylan. Interrupt treatment for lymphocyte count <0.2x10 9 /l until recovery. • Instruct patients to report signs and symptoms of infections during, and for up to two months after, treatment with Fingolimod Mylan. • For potentially serious infections, evaluate the patient promptly and consider an infectious disease referral. Consider suspending Fingolimod Mylan and the benefit-risk of any subsequent reinitiation. • Be aware that serious, life-threatening and sometimes fatal cases of opportunistic infections of the central nervous system (CNS) have occurred on Fingolimod Mylan treatment, including herpes viral infection (encephalitis, meningitis and meningo-encephalitis; observed at any time) and cryptococcal meningitis, (observed after approximately 2-3 years). • Fingolimod Mylan should be discontinued in patients with CNS herpes infections. Fingolimod Mylan should be suspended in patients with cryptococcal meningitis with careful consideration with a specialist before reinitiating. • Inform patients that during Fingolimod Mylan treatment, they should not receive live attenuated vaccines and that other vaccines may be less effective. • Prior to initiation of Fingolimod Mylan, check varicella status and recommend a full course of vaccination for VZV in anti-body negative patients. Postpone initiation of treatment for 1 month to allow the full effect of vaccination. • Recommend vaccination against human papilloma virus (HPV) prior to initiation of treatment.   |
 |------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| Progressive multifocal leukoencephalopathy (PML)                                                                         |  Do not treat with Fingolimod Mylan in patients with suspected or confirmed PML.  Be aware that PML has been predominantly observed after 2 or more years of fingolimod treatment.  Ensure patients have a baseline magnetic resonance imaging (MRI) usually within 3 months before initiating Fingolimod Mylan. Annual MRIs may be considered especially in patients with multiple risk factors generally associated with PML. If there is suspicion of PML, perform a diagnostic MRI immediately and suspend Fingolimod Mylan until PML has been excluded. If PML is confirmed, treatment with Fingolimod Mylan must be permanently discontinued.  Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment. The time to onset of IRIS in patients with PML was usually from weeks to months after S1P receptor modulator discontinuation. Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.   |
+| Progressive multifocal leukoencephalopathy (PML)                                                                         | • Do not treat with Fingolimod Mylan in patients with suspected or confirmed PML. • Be aware that PML has been predominantly observed after 2 or more years of fingolimod treatment. • Ensure patients have a baseline magnetic resonance imaging (MRI) usually within 3 months before initiating Fingolimod Mylan. Annual MRIs may be considered especially in patients with multiple risk factors generally associated with PML. If there is suspicion of PML, perform a diagnostic MRI immediately and suspend Fingolimod Mylan until PML has been excluded. If PML is confirmed, treatment with Fingolimod Mylan must be permanently discontinued. • Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with S1P receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment. The time to onset of IRIS in patients with PML was usually from weeks to months after S1P receptor modulator discontinuation. Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.   |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reproductive toxicity                                                                                                    |  Fingolimod Mylan is teratogenic and contraindicated in women of childbearing potential not using effective contraception or who are pregnant.  Women of childbearing potential must use effective contraception during treatment and for two months following treatment discontinuation.  Before initiating treatment and regularly thereafter, counsel women of childbearing potential, including adolescent females, their parents or legal representatives, about the risks to a foetus and to use effective contraception during treatment and for two months after discontinuation.  Confirm a negative pregnancy test prior to starting treatment and repeat at suitable intervals.  Discontinue Fingolimod Mylan if a woman becomes pregnant and consider the possible return of disease activity.  Instruct patient to stop Fingolimod Mylan two months                                                                                                                                                                                                                                             |
-| Skin cancer (basal cell carcinoma, Kaposi's sarcoma, malignant melanoma, Merkel cell carcinoma, squamous cell carcinoma) |  Perform skin examination prior to treatment initiation and every 6 to 12 months.  Refer patients to a dermatologist if suspicious lesions are detected.  Caution against exposure to sunlight without protection.  Instruct patient to avoid concomitant phototherapy with UV- B-radiation or PUVA-photochemotherapy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Use in paediatric patients, including impact on growth and development                                                   |  All warnings and precautions and monitoring in adults also apply to paediatric patients.  Assess Tanner staging, height, and weight according to standard of care.  Ensure that vaccination status is up to date before initiation of Fingolimod Mylan.  Monitor for signs and symptoms of depression and anxiety.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Reproductive toxicity                                                                                                    | • Fingolimod Mylan is teratogenic and contraindicated in women of childbearing potential not using effective contraception or who are pregnant. • Women of childbearing potential must use effective contraception during treatment and for two months following treatment discontinuation. • Before initiating treatment and regularly thereafter, counsel women of childbearing potential, including adolescent females, their parents or legal representatives, about the risks to a foetus and to use effective contraception during treatment and for two months after discontinuation. • Confirm a negative pregnancy test prior to starting treatment and repeat at suitable intervals. • Discontinue Fingolimod Mylan if a woman becomes pregnant and consider the possible return of disease activity. • Instruct patient to stop Fingolimod Mylan two months                                                                                                                                                                                                                                             |
+| Skin cancer (basal cell carcinoma, Kaposi's sarcoma, malignant melanoma, Merkel cell carcinoma, squamous cell carcinoma) | • Perform skin examination prior to treatment initiation and every 6 to 12 months. • Refer patients to a dermatologist if suspicious lesions are detected. • Caution against exposure to sunlight without protection. • Instruct patient to avoid concomitant phototherapy with UV- B-radiation or PUVA-photochemotherapy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Use in paediatric patients, including impact on growth and development                                                   | • All warnings and precautions and monitoring in adults also apply to paediatric patients. • Assess Tanner staging, height, and weight according to standard of care. • Ensure that vaccination status is up to date before initiation of Fingolimod Mylan. • Monitor for signs and symptoms of depression and anxiety.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## Patient / Parent / Caregiver guide
 
@@ -979,29 +957,29 @@ The patient/parents/caregiver guide shall contain the following key messages:
 
 | Safety topics                                                                                                              | Key safety messages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bradyarrhythmia (including conduction defects and bradycardia complicated by hypotension) occurring post-first dose        |  Inform your doctor if you have underlying cardiac conditions or are taking medicines known to decrease your heart rate.  Your doctor will perform an ECG and blood pressure measurement before the first dose of Fingolimod Mylan.  Your doctor will monitor your heart rate after the first dose. Prolonged and overnight monitoring may be required. Follow-up monitoring may be required at treatment re- initiation.  Immediately inform your doctor of symptoms indicating low heart rate (such as dizziness, vertigo, nausea or palpitations), that develop after the first dose of Fingolimod Mylan.  Call your doctor in case of missed doses as the first dose monitoring may need to be repeated.                                                                                                                                                                                                                                                                               |
-| Liver transaminase elevation                                                                                               |  Inform your doctor if you have liver problems.  Your doctor will perform liver function tests before starting treatment, at specified intervals during treatment and for up to 2 months after discontinuation.  Inform your doctor if you notice any of the signs of liver injury (such as yellowing of your skin or the whites of your eyes, abnormally dark urine, pain on the right side of the stomach area, unexplained nausea and vomiting).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Macular oedema                                                                                                             |  Your doctor may arrange an eye assessment before starting Fingolimod Mylan and as required during treatment. A follow-up eye assessment may be done 3-4 months after starting Fingolimod Mylan.  Immediately inform your doctor of any symptoms of visual changes during treatment and for up to two months after the end of treatment with Fingolimod Mylan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Opportunistic infections including varicella zoster virus (VZV), herpes viral infections other than VZV, fungal infections |  Your doctor will monitor blood lymphocyte counts prior to and during treatment with Fingolimod Mylan. Treatment with Fingolimod Mylan may be interrupted if blood lymphocyte count is too low.  Immediately inform your doctor of signs and symptoms of infection, during and up to two months after Fingolimod Mylan treatment (such as fever, flu-like symptoms, headache accompanied by stiff neck, sensitivity to light, nausea, shingles and/or confusion or seizures [may be symptoms of meningitis and/or encephalitis]).                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Progressive multifocal leukoencephalopathy (PML)                                                                           |  PML is a rare brain disorder caused by an infection that may lead to severe disability or death.  Your doctor will arrange magnetic resonance imaging (MRI) scans before you start treatment and during treatment to monitor the risk of PML.  Immediately inform your physician if you believe your MS is getting worse or if you notice any new symptoms during and after treatment with Fingolimod Mylan, for example changes in mood or behaviour, new or worsening weakness on one side of the body, changes in vision, confusion, memory lapses or speech and communication difficulties. These may be symptoms of PML or of an inflammatory reaction (known as immune reconstitution inflammatory syndrome or IRIS) that can occur in patients with PML as Fingolimod Mylan is removed from their body after they stop taking it.  Speak with your partner or caregivers and inform them about your treatment. Symptoms might arise that you might not become aware of by yourself. |
+| Bradyarrhythmia (including conduction defects and bradycardia complicated by hypotension) occurring post-first dose        | • Inform your doctor if you have underlying cardiac conditions or are taking medicines known to decrease your heart rate. • Your doctor will perform an ECG and blood pressure measurement before the first dose of Fingolimod Mylan. • Your doctor will monitor your heart rate after the first dose. Prolonged and overnight monitoring may be required. Follow-up monitoring may be required at treatment re- initiation. • Immediately inform your doctor of symptoms indicating low heart rate (such as dizziness, vertigo, nausea or palpitations), that develop after the first dose of Fingolimod Mylan. • Call your doctor in case of missed doses as the first dose monitoring may need to be repeated.                                                                                                                                                                                                                                                                               |
+| Liver transaminase elevation                                                                                               | • Inform your doctor if you have liver problems. • Your doctor will perform liver function tests before starting treatment, at specified intervals during treatment and for up to 2 months after discontinuation. • Inform your doctor if you notice any of the signs of liver injury (such as yellowing of your skin or the whites of your eyes, abnormally dark urine, pain on the right side of the stomach area, unexplained nausea and vomiting).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Macular oedema                                                                                                             | • Your doctor may arrange an eye assessment before starting Fingolimod Mylan and as required during treatment. A follow-up eye assessment may be done 3-4 months after starting Fingolimod Mylan. • Immediately inform your doctor of any symptoms of visual changes during treatment and for up to two months after the end of treatment with Fingolimod Mylan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Opportunistic infections including varicella zoster virus (VZV), herpes viral infections other than VZV, fungal infections | • Your doctor will monitor blood lymphocyte counts prior to and during treatment with Fingolimod Mylan. Treatment with Fingolimod Mylan may be interrupted if blood lymphocyte count is too low. • Immediately inform your doctor of signs and symptoms of infection, during and up to two months after Fingolimod Mylan treatment (such as fever, flu-like symptoms, headache accompanied by stiff neck, sensitivity to light, nausea, shingles and/or confusion or seizures [may be symptoms of meningitis and/or encephalitis]).                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Progressive multifocal leukoencephalopathy (PML)                                                                           | • PML is a rare brain disorder caused by an infection that may lead to severe disability or death. • Your doctor will arrange magnetic resonance imaging (MRI) scans before you start treatment and during treatment to monitor the risk of PML. • Immediately inform your physician if you believe your MS is getting worse or if you notice any new symptoms during and after treatment with Fingolimod Mylan, for example changes in mood or behaviour, new or worsening weakness on one side of the body, changes in vision, confusion, memory lapses or speech and communication difficulties. These may be symptoms of PML or of an inflammatory reaction (known as immune reconstitution inflammatory syndrome or IRIS) that can occur in patients with PML as Fingolimod Mylan is removed from their body after they stop taking it. • Speak with your partner or caregivers and inform them about your treatment. Symptoms might arise that you might not become aware of by yourself. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin cancer (basal cell carcinoma, Kaposi's sarcoma, malignant melanoma, Merkel cell carcinoma, squamous cell carcinoma)   |  Immediately inform your doctor if any skin nodules (e.g. shiny, pearly nodules), patches or open sores that do not heal within weeks are noted. Skin cancers have been reported in multiple sclerosis patients treated with Fingolimod Mylan. Symptoms of skin cancer may include abnormal growth or changes of skin tissue (e.g. unusual moles) with a change in colour, shape or size over time.                                                                          |
+| Skin cancer (basal cell carcinoma, Kaposi's sarcoma, malignant melanoma, Merkel cell carcinoma, squamous cell carcinoma)   | • Immediately inform your doctor if any skin nodules (e.g. shiny, pearly nodules), patches or open sores that do not heal within weeks are noted. Skin cancers have been reported in multiple sclerosis patients treated with Fingolimod Mylan. Symptoms of skin cancer may include abnormal growth or changes of skin tissue (e.g. unusual moles) with a change in colour, shape or size over time.                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reproductive toxicity                                                                                                      |  Fingolimod Mylan must not be used in women who could become pregnant and are not using effective contraception or who are pregnant.  If you are a woman of childbearing potential, you must use effective contraception during treatment and for two months following treatment discontinuation.  Immediately report to your doctor any (intended or unintended) pregnancy during treatment and up to two months following discontinuation of Fingolimod Mylan treatment. |
-| Specifically for paediatric patients                                                                                       | All warnings and precautions and monitoring in adults also apply to paediatric patients. In addition:  Your doctor will assess height, weight, and puberty status according to standard of care.  Your doctor will ensure that your vaccination status is up to date before you start treatment with Fingolimod Mylan.  Monitor for signs and symptoms of depression and anxiety.                                                                                          |
+| Reproductive toxicity                                                                                                      | • Fingolimod Mylan must not be used in women who could become pregnant and are not using effective contraception or who are pregnant. • If you are a woman of childbearing potential, you must use effective contraception during treatment and for two months following treatment discontinuation. • Immediately report to your doctor any (intended or unintended) pregnancy during treatment and up to two months following discontinuation of Fingolimod Mylan treatment. |
+| Specifically for paediatric patients                                                                                       | All warnings and precautions and monitoring in adults also apply to paediatric patients. In addition: • Your doctor will assess height, weight, and puberty status according to standard of care. • Your doctor will ensure that your vaccination status is up to date before you start treatment with Fingolimod Mylan. • Monitor for signs and symptoms of depression and anxiety.                                                                                          |
 
 ## Pregnancy-specific patient reminder card
 
 The pregnancy-specific patient reminder card shall contain the following key messages:
 
--  IF USED DURING PREGNANCY, FINGOLIMOD MYLAN CAN HARM YOUR UNBORN BABY. Fingolimod Mylan is contraindicated during pregnancy and in women of childbearing potential not using effective contraception. It is important that you use effective contraception while taking Fingolimod Mylan and for 2 months after you stop taking it to avoid becoming pregnant. Your doctor will provide counselling regarding effective contraception.
--  Your doctor will provide counselling before treatment initiation and regularly thereafter regarding the risk of Fingolimod Mylan harming an unborn baby and required actions to minimise this risk.
--  A pregnancy test must be carried out and negative results verified by your doctor before starting treatment. A pregnancy test must be repeated at suitable intervals.
--  Women must NOT become pregnant while on treatment. If you become pregnant or want to become pregnant, Fingolimod Mylan must be discontinued.
--  Inform your doctor immediately if you think you are pregnant. Your doctor will provide counselling in the event of pregnancy and evaluation of the outcome of any pregnancy.
--  Immediately inform your doctor if there is worsening of multiple sclerosis after stopping treatment with Fingolimod Mylan.
+- IF USED DURING PREGNANCY, FINGOLIMOD MYLAN CAN HARM YOUR UNBORN BABY. Fingolimod Mylan is contraindicated during pregnancy and in women of childbearing potential not using effective contraception. It is important that you use effective contraception while taking Fingolimod Mylan and for 2 months after you stop taking it to avoid becoming pregnant. Your doctor will provide counselling regarding effective contraception.
+- Your doctor will provide counselling before treatment initiation and regularly thereafter regarding the risk of Fingolimod Mylan harming an unborn baby and required actions to minimise this risk.
+- A pregnancy test must be carried out and negative results verified by your doctor before starting treatment. A pregnancy test must be repeated at suitable intervals.
+- Women must NOT become pregnant while on treatment. If you become pregnant or want to become pregnant, Fingolimod Mylan must be discontinued.
+- Inform your doctor immediately if you think you are pregnant. Your doctor will provide counselling in the event of pregnancy and evaluation of the outcome of any pregnancy.
+- Immediately inform your doctor if there is worsening of multiple sclerosis after stopping treatment with Fingolimod Mylan.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1021,7 +999,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Fingolimod Mylan 0.5 mg hard capsules fingolimod
+Fingolimod Mylan 0.5 mg hard capsules
+
+fingolimod
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1049,7 +1029,9 @@ Unit dose blister pack: 7 x 1 hard capsule
 
 Unit dose blister pack: 28 x 1 hard capsule
 
-Unit dose blister pack: 90 x 1 hard capsule
+Unit dose blister pack: 90 x 1
+
+hard capsule
 
 Unit dose blister pack: 98 x 1 hard capsule
 
@@ -1123,7 +1105,9 @@ Fingolimod Mylan 0.5 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1143,7 +1127,7 @@ Each capsule contains 0.5 mg of fingolimod (as hydrochloride).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsule
+## Hard capsule
 
 Multipack: 84 (3 packs of 28) hard capsules
 
@@ -1179,7 +1163,7 @@ Mylan Pharmaceuticals Limited, Damastown Industrial Park, Mulhuddart, Dublin 15,
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1573/009 EU/1/21/1573/022
+## EU/1/21/1573/009 EU/1/21/1573/022
 
 ## 13. BATCH NUMBER
 
@@ -1199,7 +1183,9 @@ Fingolimod Mylan 0.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1279,13 +1265,15 @@ Fingolimod Mylan 0.5 mg
 |---------------------------------------------|
 | BLISTER                                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-Fingolimod Mylan 0.5 mg hard capsules fingolimod
+Fingolimod Mylan 0.5 mg hard capsules
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+fingolimod
+
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Mylan Pharmaceuticals Limited
 
@@ -1302,9 +1290,9 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-## [For calendar packs]
+[For calendar packs]
 
-SUN → MON → TUE → WED → THU → FRI → SAT
+SUN→MON→TUE→WED→THU→FRI→SAT
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
@@ -1350,7 +1338,7 @@ Each capsule contains 0.5 mg of fingolimod (as hydrochloride).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsule
+## Hard capsule
 
 90 hard capsules
 
@@ -1390,7 +1378,7 @@ Mylan Pharmaceuticals Limited, Damastown Industrial Park, Mulhuddart, Dublin 15,
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1573/012 EU/1/21/1573/013
+## EU/1/21/1573/012 EU/1/21/1573/013
 
 ## 13. BATCH NUMBER
 
@@ -1415,14 +1403,14 @@ Fingolimod Mylan 0.5 mg
 
 ## Fingolimod Mylan 0.5 mg hard capsules
 
-## fingolimod
+fingolimod
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -1443,11 +1431,11 @@ Fingolimod Mylan contains the active substance fingolimod.
 
 Fingolimod Mylan is used in adults and in children and adolescents (10 years of age and above) to treat relapsing-remitting multiple sclerosis (MS), more specifically in:
 
--  Patients who have failed to respond despite treatment with an MS treatment.
+- Patients who have failed to respond despite treatment with an MS treatment.
 
 or
 
--  Patients who have rapidly evolving severe MS.
+- Patients who have rapidly evolving severe MS.
 
 Fingolimod Mylan does not cure MS, but it helps to reduce the number of relapses and to slow down the progression of physical disabilities due to MS.
 
@@ -1467,32 +1455,32 @@ Fingolimod Mylan helps to protect against attacks on the CNS by the immune syste
 
 ## Do not take Fingolimod Mylan
 
--  if you are allergic to fingolimod or any of the other ingredients of this medicine (listed in section 6).
--  if you have a lowered immune response (due to an immunodeficiency syndrome, a disease or to medicines that suppress the immune system).
--  if your doctor suspects you may have a rare brain infection called progressive multifocal leukoencephalopathy (PML) or if PML has been confirmed .
--  if you have a severe active infection or active chronic infection such as hepatitis or tuberculosis.
--  if you have an active cancer .
--  if you have severe liver problems .
--  if, in the last 6 months, you have had heart attack, angina, stroke or warning of a stroke or certain types of heart failure .
--  if you have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom the electrocardiogram (ECG) shows prolonged QT interval.
--  if you are taking or have recently taken medicine for irregular heartbeat such as quinidine, disopyramide, amiodarone or sotalol.
--  if you are pregnant or a woman of childbearing potential not using effective contraception . If this applies to you or you are unsure, talk to your doctor before taking Fingolimod Mylan .
+- if you are allergic to fingolimod or any of the other ingredients of this medicine (listed in section 6).
+- if you have a lowered immune response (due to an immunodeficiency syndrome, a disease or to medicines that suppress the immune system).
+- if your doctor suspects you may have a rare brain infection called progressive multifocal leukoencephalopathy (PML) or if PML has been confirmed .
+- if you have a severe active infection or active chronic infection such as hepatitis or tuberculosis.
+- if you have an active cancer .
+- if, in the last 6 months, you have had heart attack, angina, stroke or warning of a stroke or certain types of heart failure .
+- if you have severe liver problems .
+- if you have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom the electrocardiogram (ECG) shows prolonged QT interval.
+- if you are taking or have recently taken medicine for irregular heartbeat such as quinidine, disopyramide, amiodarone or sotalol.
+- if you are pregnant or a woman of childbearing potential not using effective contraception . If this applies to you or you are unsure, talk to your doctor before taking Fingolimod Mylan .
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Fingolimod Mylan:
 
--  if you have severe breathing problems during sleep (severe sleep apnoea).
--  if you have been told you have an abnormal electrocardiogram.
--  if you suffer from symptoms of slow heart rate (e.g. dizziness, nausea, or palpitations) .
--  if you are taking or have recently taken medicines that slow your heart rate (such as beta blockers, verapamil, diltiazem or ivabradine, digoxin, anticholinesteratic agents or pilocarpine).
--  if you have a history of sudden loss of consciousness or fainting (syncope) .
--  if you plan to get vaccinated .
--  if you have never had chickenpox .
--  if you have or have had visual disturbances or other signs of swelling in the central vision area (macula) at the back of the eye (a condition known as macular oedema, see below), inflammation or infection of the eye (uveitis), or if you have diabetes (which can cause eye problems).
--  if you have liver problems .
--  if you have high blood pressure that cannot be controlled by medicines .
--  if you have severe lung problems or smoker's cough.
+- if you have severe breathing problems during sleep (severe sleep apnoea).
+- if you suffer from symptoms of slow heart rate (e.g. dizziness, nausea, or palpitations) .
+- if you have been told you have an abnormal electrocardiogram.
+- if you are taking or have recently taken medicines that slow your heart rate (such as beta blockers, verapamil, diltiazem or ivabradine, digoxin, anticholinesteratic agents or pilocarpine).
+- if you have a history of sudden loss of consciousness or fainting (syncope) .
+- if you have never had chickenpox .
+- if you plan to get vaccinated .
+- if you have or have had visual disturbances or other signs of swelling in the central vision area (macula) at the back of the eye (a condition known as macular oedema, see below), inflammation or infection of the eye (uveitis), or if you have diabetes (which can cause eye problems).
+- if you have liver problems .
+- if you have severe lung problems or smoker's cough.
+- if you have high blood pressure that cannot be controlled by medicines .
 
 If any of these applies to you or you are unsure, talk to your doctor before taking Fingolimod Mylan.
 
@@ -1500,11 +1488,9 @@ If any of these applies to you or you are unsure, talk to your doctor before tak
 
 At the beginning of treatment or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, Fingolimod Mylan causes the heart rate to slow down. As a result, you may feel dizzy or tired, or be consciously aware of your heartbeat, or your blood pressure may drop. If these effects are severe, tell your doctor, because you may need treatment right away. This medicine can also cause an irregular heartbeat, especially after the first dose. Irregular heartbeat usually returns to normal in less than one day. Slow heart rate usually returns to normal within one month. During this period, no clinically significant heart rate effects are usually expected.
 
-Your doctor will ask you to stay at the surgery or clinic for at least 6 hours, with hourly pulse and blood pressure measurements, after taking the first dose of Fingolimod Mylan or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, so that appropriate measures can be taken in the event of side effects that occur at the start of treatment. You should have an electrocardiogram
+Your doctor will ask you to stay at the surgery or clinic for at least 6 hours, with hourly pulse and blood pressure measurements, after taking the first dose of Fingolimod Mylan or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, so that appropriate measures can be taken in the event of side effects that occur at the start of treatment. You should have an electrocardiogram performed prior to the first dose of this medicine and after the 6-hour monitoring period. Your doctor may monitor your electrocardiogram continuously during that time. If after the 6-hour period you have a very slow or decreasing heart rate, or if your electrocardiogram shows abnormalities, you may need to be monitored for a longer period (at least 2 more hours and possibly overnight) until these have resolved. The same may apply if you are resuming Fingolimod Mylan after a break in treatment, depending on both how long the break was and how long you had been taking it before the break.
 
 <div style=\"page-break-after: always\"></div>
-
-performed prior to the first dose of this medicine and after the 6-hour monitoring period. Your doctor may monitor your electrocardiogram continuously during that time. If after the 6-hour period you have a very slow or decreasing heart rate, or if your electrocardiogram shows abnormalities, you may need to be monitored for a longer period (at least 2 more hours and possibly overnight) until these have resolved. The same may apply if you are resuming Fingolimod Mylan after a break in treatment, depending on both how long the break was and how long you had been taking it before the break.
 
 If you have, or if you are at risk for, an irregular or abnormal heartbeat, if your electrocardiogram is abnormal, or if you have heart disease or heart failure, Fingolimod Mylan may not be appropriate for you.
 
@@ -1548,9 +1534,9 @@ Macular oedema can cause some of the same vision symptoms as an MS attack (optic
 
 Your doctor may want you to undergo an eye examination, especially if:
 
--  the centre of your vision gets blurry or has shadows.
--  you develop a blind spot in the centre of your vision.
--  you have problems seeing colours or fine detail.
+- the centre of your vision gets blurry or has shadows.
+- you have problems seeing colours or fine detail.
+- you develop a blind spot in the centre of your vision.
 
 ## Liver function tests
 
@@ -1572,11 +1558,9 @@ Fingolimod Mylan has a slight effect on the lung function. Patients with severe 
 
 The desired effect of Fingolimod Mylan treatment is to reduce the amount of white blood cells in your blood. This will usually go back to normal within 2 months of stopping treatment. If you need to have any blood tests, tell the doctor that you are taking this medicine. Otherwise, it may not be possible for the doctor to understand the results of the test and for certain types of blood test your doctor may need to take more blood than usual.
 
-Before you start Fingolimod Mylan, your doctor will confirm whether you have enough white blood cells in your blood and may want to repeat a check regularly. In case you do not have enough white
+Before you start Fingolimod Mylan, your doctor will confirm whether you have enough white blood cells in your blood and may want to repeat a check regularly. In case you do not have enough white blood cells, you may have to interrupt treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-blood cells, you may have to interrupt treatment.
 
 ## Posterior reversible encephalopathy syndrome (PRES)
 
@@ -1592,8 +1576,8 @@ A type of cancer of the lymphatic system (lymphoma) has been reported in MS pati
 
 Fingolimod weakens your immune system. This increases your risk of developing cancers, in particular skin cancers. You should limit your exposure to the sun and UV rays by:
 
--  wearing appropriate protective clothing.
--  regularly applying sunscreen with a high degree of UV protection.
+- wearing appropriate protective clothing.
+- regularly applying sunscreen with a high degree of UV protection.
 
 ## Unusual brain lesions associated with MS relapse
 
@@ -1625,22 +1609,22 @@ Fingolimod Mylan is not intended for use in children below 10 years old as it ha
 
 The warnings and precautions listed above also apply to children and adolescents. The following information is particularly important for children and adolescents and their caregivers:
 
--  Before you start Fingolimod Mylan, your doctor will check your vaccination status. If you have not had certain vaccinations, it may be necessary for you to be given them before this medicine can be started.
--  The first time you take Fingolimod Mylan, or when you switch from a 0.25 mg daily dose to a 0.5 mg daily dose, your doctor will monitor your heart rate and heartbeat (see 'Slow heart rate (bradycardia) and irregular heartbeat' above).
--  If you experience convulsions or fits before or whilst taking Fingolimod Mylan, let your doctor know.
--  If you suffer from depression or anxiety or if you become depressed or anxious while you are taking Fingolimod Mylan, let your doctor know. You may need to be monitored more closely.
+- Before you start Fingolimod Mylan, your doctor will check your vaccination status. If you have not had certain vaccinations, it may be necessary for you to be given them before this medicine can be started.
+- The first time you take Fingolimod Mylan, or when you switch from a 0.25 mg daily dose to a 0.5 mg daily dose, your doctor will monitor your heart rate and heartbeat (see 'Slow heart rate (bradycardia) and irregular heartbeat' above).
+- If you experience convulsions or fits before or whilst taking Fingolimod Mylan, let your doctor know.
+- If you suffer from depression or anxiety or if you become depressed or anxious while you are taking Fingolimod Mylan, let your doctor know. You may need to be monitored more closely.
 
 ## Other medicines and Fingolimod Mylan
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Tell your doctor if you are taking any of the following medicines:
 
--  Medicines that suppress or modulate the immune system , including other medicines used to treat MS , such as beta interferon, glatiramer acetate, natalizumab, mitoxantrone, teriflunomide, dimethyl fumarate or alemtuzumab. You must not use Fingolimod Mylan together with such medicines as this could intensify the effect on the immune system (see also 'Do not take Fingolimod Mylan').
--  Corticosteroids, due to a possible added effect on the immune system.
--  Vaccines . If you need to receive a vaccine, seek your doctor's advice first. During and for up to 2 months after treatment with Fingolimod Mylan, you should not receive certain types of vaccine (live attenuated vaccines) as they could trigger the infection that they were supposed to prevent. Other vaccines may not work as well as usual if given during this period.
--  Medicines that slow the heartbeat (for example beta blockers, such as atenolol). Use of Fingolimod Mylan together with such medicines could intensify the effect on heartbeat in the first days after starting treatment.
--  Medicines for irregular heartbeat , such as quinidine, disopyramide, amiodarone or sotalol. You must not use Fingolimod Mylan if you are taking such a medicine because it could intensify the effect on irregular heartbeat (see also 'Do not take Fingolimod Mylan').
+- Medicines that suppress or modulate the immune system , including other medicines used to treat MS , such as beta interferon, glatiramer acetate, natalizumab, mitoxantrone, teriflunomide, dimethyl fumarate or alemtuzumab. You must not use Fingolimod Mylan together with such medicines as this could intensify the effect on the immune system (see also 'Do not take Fingolimod Mylan').
+- Corticosteroids, due to a possible added effect on the immune system.
+- Vaccines . If you need to receive a vaccine, seek your doctor's advice first. During and for up to 2 months after treatment with Fingolimod Mylan, you should not receive certain types of vaccine (live attenuated vaccines) as they could trigger the infection that they were supposed to prevent. Other vaccines may not work as well as usual if given during this period.
+- Medicines that slow the heartbeat (for example beta blockers, such as atenolol). Use of Fingolimod Mylan together with such medicines could intensify the effect on heartbeat in the first days after starting treatment.
+- Medicines for irregular heartbeat , such as quinidine, disopyramide, amiodarone or sotalol. You must not use Fingolimod Mylan if you are taking such a medicine because it could intensify the effect on irregular heartbeat (see also 'Do not take Fingolimod Mylan').
 
-##  Other medicines :
+## · Other medicines :
 
 - o protease inhibitors, anti-infectives such as ketoconazole, azole antifungals, clarithromycin or telithromycin.
 - o carbamazepine, rifampicin, phenobarbital, phenytoin, efavirenz or St. John's Wort ( Hypericum perforatum ) (potential risk of reduced efficacy of Fingolimod Mylan).
@@ -1657,11 +1641,11 @@ Do not use Fingolimod Mylan during pregnancy, if you are trying to become pregna
 
 Therefore, if you are a woman of childbearing potential:
 
--  before you start treatment with Fingolimod Mylan your doctor will inform you about the risk to an unborn baby and ask you to do a pregnancy test in order to ensure that you are not pregnant,
+- before you start treatment with Fingolimod Mylan your doctor will inform you about the risk to an unborn baby and ask you to do a pregnancy test in order to ensure that you are not pregnant,
 
 and,
 
--  you must use effective contraception while taking this medicine and for two months after you stop taking it to avoid becoming pregnant. Talk to your doctor about reliable methods of contraception.
+- you must use effective contraception while taking this medicine and for two months after you stop taking it to avoid becoming pregnant. Talk to your doctor about reliable methods of contraception.
 
 Your doctor will give you a card which explains why you should not become pregnant while taking Fingolimod Mylan.
 
@@ -1693,16 +1677,14 @@ The dose is one 0.5 mg capsule per day.
 
 The dose depends on body weight:
 
--  Children and adolescents with body weight equal to or below 40 kg: one 0.25 mg capsule per day.
--  Children and adolescents with a body weight above 40 kg: one 0.5 mg capsule per day.
+- Children and adolescents with body weight equal to or below 40 kg: one 0.25 mg capsule per day.
+- Children and adolescents with a body weight above 40 kg: one 0.5 mg capsule per day.
 
 Children and adolescents who start on one 0.25 mg capsule per day and later reach a stable body weight above 40 kg will be instructed by their doctor to switch to one 0.5 mg capsule per day. In this case, it is recommended to repeat the first-dose observation period.
 
 Fingolimod Mylan is only available as 0.5 mg hard capsules which are not suitable for children and adolescents with a body weight equal to or below 40 kg.
 
-Other fingolimod-containing medicines are available in 0.25 mg strength.
-
-Ask your doctor or pharmacist.
+Other fingolimod-containing medicines are available in 0.25 mg strength. Ask your doctor or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1746,50 +1728,50 @@ Some side effects could be or could become serious:
 
 Common (may affect up to 1 in 10 people)
 
--  Coughing with phlegm, chest discomfort, fever (signs of lung disorders)
--  Herpes virus infection (shingles or herpes zoster) with symptoms such as blisters, burning, itching or pain of the skin, typically on the upper body or the face. Other symptoms may be
+- Coughing with phlegm, chest discomfort, fever (signs of lung disorders)
+- Herpes virus infection (shingles or herpes zoster) with symptoms such as blisters, burning, itching or pain of the skin, typically on the upper body or the face. Other symptoms may be
 
 <div style=\"page-break-after: always\"></div>
 
 fever and weakness in the early stages of infection, followed by numbness, itching or red patches with severe pain
 
--  Slow heartbeat (bradycardia), irregular heart rhythm
--  A type of skin cancer called basal cell carcinoma (BCC) which often appears as a pearly nodule, although it can also take other forms
--  Depression and anxiety are known to occur with increased frequency in the MS population and have also been reported in paediatric patients treated with fingolimod
--  Weight loss
+- Slow heartbeat (bradycardia), irregular heart rhythm
+- A type of skin cancer called basal cell carcinoma (BCC) which often appears as a pearly nodule, although it can also take other forms
+- Depression and anxiety are known to occur with increased frequency in the MS population and have also been reported in paediatric patients treated with fingolimod
+- Weight loss
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  Pneumonia with symptoms such as fever, cough, difficulty breathing
--  Macular oedema (swelling in the central vision area of the retina at the back of the eye) with symptoms such as shadows or blind spot in the centre of the vision, blurred vision, problems seeing colours or details
--  Reduction in blood platelets which increases risk of bleeding or bruising
--  Malignant melanoma (a type of skin cancer which usually develops from an unusual mole). Possible signs of melanoma include moles which may change size, shape, elevation or colour over time, or new moles. The moles may itch, bleed or ulcerate
--  Convulsion, fits (more frequent in children and adolescents than in adults)
+- Pneumonia with symptoms such as fever, cough, difficulty breathing
+- Macular oedema (swelling in the central vision area of the retina at the back of the eye) with symptoms such as shadows or blind spot in the centre of the vision, blurred vision, problems seeing colours or details
+- Reduction in blood platelets which increases risk of bleeding or bruising
+- Malignant melanoma (a type of skin cancer which usually develops from an unusual mole). Possible signs of melanoma include moles which may change size, shape, elevation or colour over time, or new moles. The moles may itch, bleed or ulcerate
+- Convulsion, fits (more frequent in children and adolescents than in adults)
 
 ## Rare (may affect up to 1 in 1 000 people)
 
--  A condition called posterior reversible encephalopathy syndrome (PRES). Symptoms may include sudden onset of severe headache, confusion, seizures and/or vision disturbances
--  Lymphoma (a type of cancer that affects the lymph system)
--  Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
+- A condition called posterior reversible encephalopathy syndrome (PRES). Symptoms may include sudden onset of severe headache, confusion, seizures and/or vision disturbances
+- Lymphoma (a type of cancer that affects the lymph system)
+- Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
 
 ## Very rare (may affect up to 1 in 10 000 people)
 
--  Electrocardiogram anomaly (T-wave inversion)
--  Tumour related to infection with human herpes virus 8 (Kaposi's sarcoma)
+- Electrocardiogram anomaly (T-wave inversion)
+- Tumour related to infection with human herpes virus 8 (Kaposi's sarcoma)
 
 ## Not known (frequency cannot be estimated from the available data)
 
--  Allergic reactions, including symptoms of rash or itchy hives, swelling of lips, tongue or face, which are more likely to occur on the day you start Fingolimod Mylan treatment
--  Signs of liver disease (including liver failure), such as yellowing of your skin or the whites of your eyes (jaundice), nausea or vomiting, pain on the right side of your stomach area (abdomen), dark urine (brown coloured), feeling less hungry than usual, tiredness and abnormal liver function tests. In a very small number of cases, liver failure could lead to liver transplantation
--  Risk of a rare brain infection called progressive multifocal leukoencephalopathy (PML). The symptoms of PML may be similar to an MS relapse. Symptoms might also arise that you might not become aware of by yourself, such as changes in mood or behaviour, memory lapses, speech and communication difficulties, which your doctor may need to investigate further to rule out PML. Therefore, if you believe your MS is getting worse or if you or those close to you notice any new or unusual symptoms, it is very important that you speak to your doctor as soon as possible
--  Inflammatory disorder after stopping Fingolimod Mylan treatment (known as immune reconstitution inflammatory syndrome or IRIS)
--  Cryptococcal infections (a type of fungal infection), including cryptococcal meningitis with symptoms such as headache accompanied by stiff neck, sensitivity to light, nausea and/or confusion
--  Merkel cell carcinoma (a type of skin cancer). Possible signs of Merkel cell carcinoma include flesh-coloured or bluish-red, painless nodule, often on the face, head or neck. Merkel cell carcinoma can also present as a firm painless nodule or mass. Long-term exposure to the sun and a weak immune system can affect the risk of developing Merkel cell carcinoma
+- Allergic reactions, including symptoms of rash or itchy hives, swelling of lips, tongue or face, which are more likely to occur on the day you start Fingolimod Mylan treatment
+- Signs of liver disease (including liver failure), such as yellowing of your skin or the whites of your eyes (jaundice), nausea or vomiting, pain on the right side of your stomach area (abdomen), dark urine (brown coloured), feeling less hungry than usual, tiredness and abnormal liver function tests. In a very small number of cases, liver failure could lead to liver transplantation
+- Risk of a rare brain infection called progressive multifocal leukoencephalopathy (PML). The symptoms of PML may be similar to an MS relapse. Symptoms might also arise that you might not become aware of by yourself, such as changes in mood or behaviour, memory lapses, speech and communication difficulties, which your doctor may need to investigate further to rule out PML. Therefore, if you believe your MS is getting worse or if you or those close to you notice any new or unusual symptoms, it is very important that you speak to your doctor as soon as possible
+- Inflammatory disorder after stopping Fingolimod Mylan treatment (known as immune reconstitution inflammatory syndrome or IRIS)
+- Cryptococcal infections (a type of fungal infection), including cryptococcal meningitis with symptoms such as headache accompanied by stiff neck, sensitivity to light, nausea and/or confusion
+- Merkel cell carcinoma (a type of skin cancer). Possible signs of Merkel cell carcinoma include flesh-coloured or bluish-red, painless nodule, often on the face, head or neck. Merkel cell carcinoma can also present as a firm painless nodule or mass. Long-term exposure to the sun and a weak immune system can affect the risk of developing Merkel cell carcinoma
 
 <div style=\"page-break-after: always\"></div>
 
--  After Fingolimod Mylan treatment is stopped, symptoms of MS can return and may become worse than they were before or during treatment.
--  Autoimmune form of anaemia (decreased amount of red blood cells) where red blood cells are destroyed (autoimmune haemolytic anaemia).
+- After Fingolimod Mylan treatment is stopped, symptoms of MS can return and may become worse than they were before or during treatment.
+- Autoimmune form of anaemia (decreased amount of red blood cells) where red blood cells are destroyed (autoimmune haemolytic anaemia).
 
 If you experience any of these, tell your doctor straight away .
 
@@ -1797,45 +1779,45 @@ If you experience any of these, tell your doctor straight away .
 
 ## Very common (may affect more than 1 in 10 people)
 
--  Infection from flu virus with symptoms such as tiredness, chills, sore throat, aching in the joints or muscles, fever
--  Feeling of pressure or pain in the cheeks and forehead (sinusitis)
--  Headache
--  Diarrhoea
--  Back pain
--  Blood testing showing higher levels of liver enzymes
--  Cough
+- Infection from flu virus with symptoms such as tiredness, chills, sore throat, aching in the joints or muscles, fever
+- Feeling of pressure or pain in the cheeks and forehead (sinusitis)
+- Diarrhoea
+- Headache
+- Back pain
+- Cough
+- Blood testing showing higher levels of liver enzymes
 
 ## Common (may affect up to 1 in 10 people)
 
--  Ringworm, a fungal infection of the skin (tinea versicolor)
--  Dizziness
--  Severe headache often accompanied by nausea, vomiting and sensitivity to light (migraine)
--  Low level of white blood cells (lymphocytes, leucocytes)
--  Weakness
--  Itchy, red, burning rash (eczema)
--  Itching
--  Blood fat (triglycerides) level increased
--  Hair loss
--  Breathlessness
--  Depression
--  Blurred vision (see also the section on macular oedema under 'Some side effects could be or could become serious')
--  Hypertension (Fingolimod Mylan may cause a mild increase in blood pressure)
--  Muscle pain
--  Joint pain
+- Ringworm, a fungal infection of the skin (tinea versicolor)
+- Severe headache often accompanied by nausea, vomiting and sensitivity to light (migraine)
+- Dizziness
+- Low level of white blood cells (lymphocytes, leucocytes)
+- Itchy, red, burning rash (eczema)
+- Weakness
+- Itching
+- Hair loss
+- Blood fat (triglycerides) level increased
+- Breathlessness
+- Blurred vision (see also the section on macular oedema under 'Some side effects could be or could become serious')
+- Depression
+- Hypertension (Fingolimod Mylan may cause a mild increase in blood pressure)
+- Joint pain
+- Muscle pain
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  Low level of certain white blood cells (neutrophils)
--  Depressed mood
--  Nausea
+- Low level of certain white blood cells (neutrophils)
+- Nausea
+- Depressed mood
 
 ## Rare (may affect up to 1 in 1 000 people)
 
--  Cancer of the lymphatic system (lymphoma)
+- Cancer of the lymphatic system (lymphoma)
 
 ## Not known (frequency cannot be estimated from the available data)
 
--  Peripheral swelling
+- Peripheral swelling
 
 ## If any of these affects you severely, tell your doctor
 
@@ -1849,11 +1831,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
--  Do not use this medicine after the expiry date which is stated on the carton and blister foil/bottle after 'EXP'. The expiry date refers to the last day of that month.
--  Do not store above 25ºC.
--  Store in the original package in order to protect from moisture.
--  Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
--  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+- Do not use this medicine after the expiry date which is stated on the carton and blister foil/bottle after 'EXP'. The expiry date refers to the last day of that month.
+- Do not store above 25ºC.
+- Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
+- Store in the original package in order to protect from moisture.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1861,17 +1843,15 @@ Keep this medicine out of the sight and reach of children.
 
 - -The active substance is fingolimod. Each capsule contains 0.5 mg fingolimod (as hydrochloride).
 - -The other ingredients are:
--  Capsule content: calcium hydrogen phosphate dihydrate, glycine, colloidal anhydrous silica and magnesium stearate.
--  Capsule shell: gelatin, titanium dioxide (E171), yellow iron oxide (E172) and red iron oxide (E172).
--  Printing ink: shellac (E904), propylene glycol (E1520), black iron oxide (E172) and potassium hydroxide.
+- Capsule content: calcium hydrogen phosphate dihydrate, glycine, colloidal anhydrous silica and magnesium stearate.
+- Capsule shell: gelatin, titanium dioxide (E171), yellow iron oxide (E172) and red iron oxide (E172).
+- Printing ink: shellac (E904), propylene glycol (E1520), black iron oxide (E172) and potassium hydroxide.
 
 ## What Fingolimod Mylan looks like and contents of the pack
 
 A hard capsule (capsule) with brown-orange opaque cap and white opaque body, printed with 'MYLAN' over 'FD 0.5' in black ink on both the cap and body.
 
-Fingolimod Mylan 0.5 mg capsules are available in:
-
-Blister packs containing 28, 30, 84 or 98 hard capsules Multipacks comprising 3 cartons, each containing 28 hard capsules Calendar packs containing 28 or 84 hard capsules Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules Bottle packs containing 90 or 100 hard capsules
+Fingolimod Mylan 0.5 mg capsules are available in: Blister packs containing 28, 30, 84 or 98 hard capsules Multipacks comprising 3 cartons, each containing 28 hard capsules Calendar packs containing 28 or 84 hard capsules Unit dose blister packs containing 7 x 1, 28 x 1, 90 x 1 or 98 x 1 hard capsules Bottle packs containing 90 or 100 hard capsules
 
 Not all pack sizes may be marketed.
 
@@ -1883,7 +1863,7 @@ Mylan Pharmaceuticals Limited, Damastown Industrial Park, Mulhuddart, Dublin 15,
 
 Mylan Hungary Kft, Mylan utca 1, Komarom, H-2900, Hungary
 
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany.
+Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany.
 
 For any other information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1897,9 +1877,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД Тел : +359 2 44 55 400
+Виатрис ЕООД
 
-## Č eská republika
+Тел: +359 2 44 55 400
+
+## Česká republika
 
 Viatris CZ s.r.o. Tel: + 420 222 004 400
 
@@ -1917,7 +1899,7 @@ Viatris OÜ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ : +30 2100 100 002
+Viatris Hellas Ltd Τηλ: +30 2100 100 002
 
 ## España
 
@@ -1941,13 +1923,11 @@ Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
+Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited Τηλ : +357 22863100
+CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
 ## Lietuva
 
@@ -1965,7 +1945,9 @@ Viatris Healthcare Kft. Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
@@ -2005,7 +1987,9 @@ Viatris Oy Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: + 46 (0)8 630 19 00
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 

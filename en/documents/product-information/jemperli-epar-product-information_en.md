@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-23 12:55:54
-document_pages: 45
+document_datetime: 2026-06-10 09:52:32
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jemperli-epar-product-information_en.pdf
 document_name: jemperli-epar-product-information_en.pdf
 version: success
-processing_time: 12.3121995
-conversion_datetime: 2026-04-25 16:31:22.130773
+processing_time: 14.2241925
+conversion_datetime: 2026-06-16 13:57:14.743494
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,12 +64,6 @@ The identification of dMMR/MSI-H tumour status should be determined using a vali
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2. Dosage regimen for JEMPERLI as monotherapy
-
-500 mg Once Every 3 Weeks
-
-Cycle 1
-
 ## Posology
 
 JEMPERLI in combination with carboplatin and paclitaxel
@@ -101,51 +95,18 @@ The dosage regimen as monotherapy is presented in Table 2.
 
 Table 2. Dosage regimen for JEMPERLI as monotherapy
 
+|       | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   |
+|-------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Cycle | Cycle 1                                 | Cycle 2                                 | Cycle3                                  | Cycle 4                                 | Cycle5                                                                               | Cycle6                                                                               | Cycle7                                                                               | Continue dosing Q6W                                                                  |
+| Week  | 1                                       | 4                                       | 7                                       | 10                                      | 13                                                                                   | 19                                                                                   | 25                                                                                   | Continue dosing Q6W                                                                  |
+
 ## 3 weeks between cycle 4 and cycle 5
 
 Administration of dostarlimab should continue according to the recommended schedule until disease progression or unacceptable toxicity (see section 5.1).
 
-Dose modifications
-
-(1 Cycle = 3 weeks)
-
-Cycle 2
-
-Cycle 3
-
-4
-
-7
-
-1000 mg Once Every 6 Weeks until disease progression or unacceptable toxicity (1 cycle = 6 weeks)
-
-Cycle 5
-
-13
-
-Cycle 6
-
-19
-
-Cycle 7
-
-25
-
-Continue dosing
-
-Q6W
-
-Cycle
-
-Week
-
-Cycle 4
-
-10
+Dose modifications Dose reduction is not recommended. Dosing delay or discontinuation may be required based on individual safety and tolerability. Recommended modifications to manage adverse reactions are provided in Table 3.
 
 <div style=\"page-break-after: always\"></div>
-
-Dose reduction is not recommended. Dosing delay or discontinuation may be required based on individual safety and tolerability. Recommended modifications to manage adverse reactions are provided in Table 3.
 
 Detailed guidelines for the management of immune-related adverse reactions and infusion-related reactions are described in section 4.4.
 
@@ -165,28 +126,30 @@ Detailed guidelines for the management of immune-related adverse reactions and i
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 3. Recommended dose modifications for JEMPERLI                                                                                            | Table 3. Recommended dose modifications for JEMPERLI   | Table 3. Recommended dose modifications for JEMPERLI                                                                                                                                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related adverse reactions                                                                                                                | Severity grade a                                       | Dose modification                                                                                                                                                                                                                          |
-|                                                                                                                                                 | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
-| Exfoliative dermatologic conditions (e.g. SJS f , TEN g , DRESS h )                                                                             | Suspected                                              | Withhold dose for any grade. Restart dosing if not confirmed and when toxicity resolves to grade 0 or 1.                                                                                                                                   |
-| Exfoliative dermatologic conditions (e.g. SJS f , TEN g , DRESS h )                                                                             | Confirmed                                              | Permanently discontinue.                                                                                                                                                                                                                   |
-| Myocarditis                                                                                                                                     | 2, 3 or 4                                              | Permanently discontinue.                                                                                                                                                                                                                   |
-| Severe neurological toxicities (myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, encephalitis, transverse myelitis)              | 2, 3 or 4                                              | Permanently discontinue.                                                                                                                                                                                                                   |
-| Other immune-related adverse reactions (including but not limited to myositis, sarcoidosis, autoimmune haemolytic                               | 3                                                      | Withhold dose. Restart dosing when toxicity resolves to grade 0 or 1.                                                                                                                                                                      |
-| anaemia, pancreatitis, iridocyclitis, uveitis, diabetic ketoacidosis, arthralgia, solid organ transplant rejection, graft- versus-host disease) | 4                                                      | Permanently discontinue.                                                                                                                                                                                                                   |
-| Recurrence of immune-related adverse reactions after resolution to ≤ grade 1 (except for pneumonitis, see above)                                | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
-| Other adverse reactions                                                                                                                         | Severity grade a                                       | Dose modification                                                                                                                                                                                                                          |
-| Infusion-related reactions                                                                                                                      | 2                                                      | Withhold dose. If resolved within 1 hour of stopping, may be restarted at 50 %of the original infusion rate, or restart when symptoms resolve with pre-medication. If grade 2 recurs with adequate premedication, permanently discontinue. |
-| Infusion-related reactions                                                                                                                      | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
+| Table 3. Recommended dose modifications for JEMPERLI                                                                                                                  | Table 3. Recommended dose modifications for JEMPERLI   | Table 3. Recommended dose modifications for JEMPERLI                                                                                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related adverse reactions                                                                                                                                      | Severity grade a                                       | Dose modification                                                                                                                                                                                                                          |
+|                                                                                                                                                                       | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
+| Exfoliative dermatologic conditions (e.g. SJS f , TEN g , DRESS h )                                                                                                   | Suspected                                              | Withhold dose for any grade. Restart dosing if not confirmed and when toxicity resolves to grade 0 or 1.                                                                                                                                   |
+| Exfoliative dermatologic conditions (e.g. SJS f , TEN g , DRESS h )                                                                                                   | Confirmed                                              | Permanently discontinue.                                                                                                                                                                                                                   |
+| Myocarditis                                                                                                                                                           | 2, 3 or 4                                              | Permanently discontinue.                                                                                                                                                                                                                   |
+| Severe neurological toxicities (myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, encephalitis, transverse myelitis)                                    | 2, 3 or 4                                              | Permanently discontinue.                                                                                                                                                                                                                   |
+| Other immune-related adverse reactions (including but not limited to myositis, sarcoidosis,                                                                           | 3                                                      | Withhold dose. Restart dosing when toxicity resolves to grade 0 or 1.                                                                                                                                                                      |
+| autoimmune haemolytic anaemia, pancreatitis, iridocyclitis, uveitis, diabetic ketoacidosis, arthralgia, solid organ transplant rejection, graft- versus-host disease) | 4                                                      | Permanently discontinue.                                                                                                                                                                                                                   |
+| Recurrence of immune-related adverse reactions after resolution to ≤ grade 1 (except for pneumonitis, see above)                                                      | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
+| Other adverse reactions                                                                                                                                               | Severity grade a                                       | Dose modification                                                                                                                                                                                                                          |
+| Infusion-related reactions                                                                                                                                            | 2                                                      | Withhold dose. If resolved within 1 hour of stopping, may be restarted at 50 %of the original infusion rate, or restart when symptoms resolve with pre-medication. If grade 2 recurs with adequate premedication, permanently discontinue. |
+| Infusion-related reactions                                                                                                                                            | 3 or 4                                                 | Permanently discontinue.                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
 ## discontinued
 
-f  SJS = Stevens-Johnson syndrome g TEN = toxic epidermal necrolysis
+f  SJS = Stevens-Johnson syndrome
 
-h  DRESS = drug reaction with eosinophilia and systemic symptoms.
+g TEN = toxic epidermal necrolysis
+
+h DRESS = drug reaction with eosinophilia and systemic symptoms.
 
 ## Patient Card
 
@@ -210,7 +173,7 @@ No dose adjustment is recommended for patients with mild hepatic impairment. The
 
 ## Paediatric population
 
-The safety and efficacy of JEMPERLI in children and adolescents aged under 18 years have not been established. No data are available.
+The safety and efficacy of JEMPERLI in children and adolescents aged below 18 years of age have not been established. Outside its authorised indications, JEMPERLI in combination with niraparib has been studied in children aged 5 to less than 18 years with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma; however, the study data were limited and the results of the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
@@ -228,9 +191,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
 <div style=\"page-break-after: always\"></div>
+
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
 ## Immune-related adverse reactions
 
@@ -286,7 +249,7 @@ Immune-related arthralgia has been reported in patients receiving dostarlimab (s
 
 Given the mechanism of action of dostarlimab other potential immune-related adverse reactions may occur, including potentially serious events [e.g. myositis, myocarditis, encephalitis, demyelinating neuropathy (including Guillain Barré syndrome), sarcoidosis]. Clinically significant immune-related adverse reactions reported in less than 1 % of patients treated with dostarlimab as monotherapy in clinical studies include encephalitis, autoimmune haemolytic anaemia, pancreatitis, iridocyclitis and uveitis. Patients should be monitored for signs and symptoms of immune-related adverse reactions and managed as described in section 4.2. Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors. Treatment with dostarlimab may increase the risk of rejection in solid organ transplant recipients. The benefit of treatment with dostarlimab versus the risk of possible organ rejection should be considered in these patients.
 
-Fatal and other serious complications can occur in patients who receive allogeneic haematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/PD-L1 -blocking antibody. Transplant-related complications include hyperacute graft-versus-host disease (GvHD), acute GvHD, chronic GvHD, hepatic veno-occlusive disease after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause). These complications may occur despite intervening therapy between PD-1/PD-L1 blockade and allogeneic HSCT. Follow patients closely for evidence of transplant-related complications and intervene promptly. Consider the benefit versus risks of treatment with a PD-1/PD-L1 -blocking antibody prior to or after an allogeneic HSCT.
+Fatal and other serious complications can occur in patients who receive allogeneic haematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/PD-L1-blocking antibody. Transplant-related complications include hyperacute graft-versus-host disease (GvHD), acute GvHD, chronic GvHD, hepatic veno-occlusive disease after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause). These complications may occur despite intervening therapy between PD-1/PD-L1 blockade and allogeneic HSCT. Follow patients closely for evidence of transplant-related complications and intervene promptly. Consider the benefit versus risks of treatment with a PD-1/PD-L1-blocking antibody prior to or after an allogeneic HSCT.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -312,7 +275,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 500 mg dose,
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed. Monoclonal antibodies (mAb) such as dostarlimab are not substrates for cytochrome P450 or active substance transporters. Dostarlimab is not a cytokine and is unlikely to be a cytokine modulator. Additionally, pharmacokinetic (PK) interaction of dostarlimab with small molecule active substances is not expected. There is no evidence of interaction mediated by non-specific clearance of lysosome degradation for antibodies.
+No interaction studies have been performed. Monoclonal antibodies (mAb) such as dostarlimab are not substrates for cytochrome P450 or active substance transporters. Dostarlimab is not a cytokine and is unlikely to be a cytokine modulator. Additionally, pharmacokinetic interaction of dostarlimab with small molecule active substances is not expected. There is no evidence of interaction mediated by non-specific clearance of lysosome degradation for antibodies.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -401,7 +364,7 @@ Table 4: Adverse reactions in patients treated with dostarlimab
 | Common                                               | Pneumonitis* i                                                               | Pneumonitis                                                              |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                                   | Gastrointestinal disorders                                               |
 | Very common                                          | Diarrhoea, nausea, vomiting                                                  |                                                                          |
-| Common                                               | Colitis* j , pancreatitis k , gastritis                                      | Colitis † l , pancreatitis                                               |
+| Common                                               | Colitis* j , pancreatitis k , gastritis                                      | Colitis †l , pancreatitis                                                |
 | Uncommon                                             | Oesophagitis                                                                 | Immune mediated gastritis † , vasculitis gastrointestinal †              |
 | Hepatobiliary disorders                              | Hepatobiliary disorders                                                      | Hepatobiliary disorders                                                  |
 | Common                                               | Hepatitis* m                                                                 |                                                                          |
@@ -430,7 +393,7 @@ Table 4: Adverse reactions in patients treated with dostarlimab
 - l Includes colitis and enteritis
 - m  Includes hepatitis, autoimmune hepatitis and hepatic cytolysis
 - n Includes rash, rash maculo-papular, erythema, rash macular, rash pruritic, rash erythematous, rash papular, erythema multiforme, skin toxicity, drug eruption, toxic skin eruption, exfoliative rash and pemphigoid
-- o  Includes rash and rash maculo-papular
+- o Includes rash and rash maculo-papular
 - p Includes nephritis and tubulointerstitial nephritis
 - q Includes transaminases increased, alanine aminotransferases increased, aspartate aminotransferases increased and hypertransaminasaemia
 - r Includes infusion-related reaction and hypersensitivity.
@@ -525,13 +488,11 @@ RUBY: Randomised controlled study of dostarlimab in combination with carboplatin
 
 The efficacy and safety of dostarlimab in combination with carboplatin-paclitaxel were investigated in a multicentre, randomised, double blinded, placebo-controlled Phase 3 study conducted in patients with primary advanced or recurrent EC.
 
-Patients were randomised (1:1) to receive dostarlimab 500 mg plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2 every 3 weeks for 6 cycles followed by dostarlimab 1000 mg every 6 weeks (n = 245) or placebo plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2  every 3 weeks for 6 cycles followed by placebo every 6 weeks (n = 249). Randomisation was stratified by MMR/MSI status, prior external pelvic radiotherapy, and disease status (recurrent, primary Stage III, or primary Stage IV). Treatment continued for up to 3 years or until unacceptable toxicity, disease progression or investigator decision. Assessment of tumour status was performed every 6 weeks through week 25, every 9 weeks through week 52 and every 12 weeks thereafter. After a median follow-up of 37 months, 27 out of 245 patients randomised to dostarlimab plus carboplatin-paclitaxel have received treatment for &gt;3 years (cutoff date 22 Sep 2023).
+Patients were randomised (1:1) to receive dostarlimab 500 mg plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2 every 3 weeks for 6 cycles followed by dostarlimab 1000 mg every 6 weeks (n = 245) or placebo plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2 every 3 weeks for 6 cycles followed by placebo every 6 weeks (n = 249). Randomisation was stratified by MMR/MSI status, prior external pelvic radiotherapy, and disease status (recurrent, primary Stage III, or primary Stage IV). Treatment continued for up to 3 years or until unacceptable toxicity, disease progression or investigator decision. Assessment of tumour status was performed every 6 weeks through week 25, every 9 weeks through week 52 and every 12 weeks thereafter. After a median follow-up of 37 months, 27 out of 245 patients randomised to dostarlimab plus carboplatin-paclitaxel have received treatment for &gt;3 years (cut-off date 22 Sep 2023).
 
-The key eligibility criteria for the study were International Federation of Gynaecology and Obstetrics (FIGO) primary Stage III or Stage IV disease, including Stage IIIA to IIIC1 disease with presence of evaluable or measurable disease per RECIST v.1.1, Stage IIIC1 patients with carcinosarcoma, clear cell, serous, or mixed histology (containing ≥10 % carcinosarcoma, clear cell, or serous histology) regardless of presence of evaluable or measurable disease on imaging, Stage IIIC2 or Stage IV disease regardless of presence of evaluable or measurable disease. The study also included patients with first recurrent EC with a low potential for cure by radiation therapy or surgery alone or in combination, including patients who had first recurrent disease and were naïve to systemic anticancer therapy or who had received prior
+The key eligibility criteria for the study were International Federation of Gynaecology and Obstetrics (FIGO) primary Stage III or Stage IV disease, including Stage IIIA to IIIC1 disease with presence of evaluable or measurable disease per RECIST v.1.1, Stage IIIC1 patients with carcinosarcoma, clear cell, serous, or mixed histology (containing ≥10 % carcinosarcoma, clear cell, or serous histology) regardless of presence of evaluable or measurable disease on imaging, Stage IIIC2 or Stage IV disease regardless of presence of evaluable or measurable disease. The study also included patients with first recurrent EC with a low potential for cure by radiation therapy or surgery alone or in combination, including patients who had first recurrent disease and were naïve to systemic anticancer therapy or who had received prior neo-adjuvant/adjuvant systemic anticancer therapy and had a recurrence or progressive disease ≥6 months after completing treatment (first recurrence). Prior radiation was not permitted within 21 days of study treatment excluding palliative radiotherapy which was permitted within up to 1 week of study treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-neo-adjuvant/adjuvant systemic anticancer therapy and had a recurrence or progressive disease ≥6 months after completing treatment (first recurrence). Prior radiation was not permitted within 21 days of study treatment excluding palliative radiotherapy which was permitted within up to 1 week of study treatment.
 
 The primary efficacy outcome measures were progression-free survival (PFS) assessed by the investigator according to RECIST v1.1 in patients with dMMR/MSI-H primary advanced or recurrent EC and in all patients (overall population) with primary advanced or recurrent EC, and overall survival (OS) in all patients (overall population) with primary advanced or recurrent EC.
 
@@ -591,43 +552,15 @@ Pre-specified exploratory analyses of PFS and OS were performed in patients with
 
 <div style=\"page-break-after: always\"></div>
 
-Progression-free survival probability
-
-- Dostarlimab + Carboplatin-Paclitaxel
-
-— · Placebo + Carboplatin-Paclitaxel
-
 Figure 1. Kaplan-Meier curve of progression-free survival per investigator assessment in all patients (overall population) with EC (RUBY study)
 
-0.2
+<!-- image -->
 
-0.0
+Figure 2. Kaplan-Meier curve of overall survival in all patients (overall population) with EC (RUBY study)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-Overall survival Probability
-
-1.0
-
-Treatment
-
-Dostarlimab + Carboplatin-
-
-Paclitaxel
-
-Figure 2. Kaplan-Meier curve of overall survival in all patients (overall population) with EC (RUBY study)
-
-0.6
-
-0.4
-
-0.2
-
-0.0
-
-<!-- image -->
 
 GARNET: adult patients with recurrent or advanced dMMR/MSI-H EC who have progressed on or after treatment with a platinum-containing regimen
 
@@ -638,8 +571,6 @@ Patients received 500 mg dostarlimab every 3 weeks for 4 cycles followed by 1000
 The major efficacy outcome measures were objective response rate (ORR) and duration of response (DOR) as assessed by blinded independent central radiologists' (BICR) review according to response evaluation criteria in solid tumours (RECIST) v 1.1. The efficacy population was defined as patients who had measurable disease by BICR at baseline and had minimum of 24 weeks follow-up or had less than 24 weeks of follow-up and discontinued due to adverse events or disease progression.
 
 A total of 143 patients with dMMR/MSI-H EC were evaluated for efficacy in the GARNET study. Among these 143 patients, the baseline characteristics were: median age of 65 years (52 % aged 65 years or older); 77 % white, 3.5 % Asian, 2.8 % black; and ECOG PS 0 (39 %) or 1 (61 %). At the time of diagnosis, 21 % of the patients with dMMR/MSI-H EC were FIGO Stage IV. At study entry (the most recent FIGO stage), 67 % of the patients were FIGO Stage IV. The median number of prior lines of therapy was one: 63 % of patients had one prior line, 37 % had two or more prior lines. Forty-nine patients (34 %) received treatment only in the neoadjuvant or adjuvant setting before participating in the study.
-
-<div style=\"page-break-after: always\"></div>
 
 The identification of dMMR/MSI-H tumour status was prospectively determined based on local testing. Local diagnostic assays (IHC, PCR or NGS) available at the sites were used for the detection of the dMMR/MSI-H expression in tumour material. Most of the sites used IHC as it was the most common assay available.
 
@@ -668,6 +599,8 @@ b For patients with a partial or complete response.
 
 c Includes patient with complete response, partial response and stable disease for at least 12 weeks.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Efficacy and PD-L1 status
 
 Clinical activity was observed regardless of tumour PD-L1 combined positive score (CPS) by IHC. The relationship between PD-L1 status and efficacy was analysed post-hoc in patients with available tissue samples (N = 81) among the efficacy population from Cohort A1 of the GARNET study using a data cutoff date of 01 March 2020. Among 23 patients with PD-L1 CPS &lt; 1 %, ORR was 30.4 % (7/23, 95 % CI 13.2, 52.9) and among 58 patients with PD-L1 CPS ≥ 1 %, ORR was 55.2 % (32/58, 95 % CI 41.5, 68.3).
@@ -680,15 +613,15 @@ Consistent results were observed in the elderly population, where the ORR by BIC
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with dostarlimab in all subsets of the paediatric population in the treatment of all conditions included in the category of malignant neoplasms, except haematopoietic and lymphoid tissue (see section 4.2 for information on paediatric use).
+In a Phase 1 study (SCOOP), the safety, pharmacokinetics, and antitumour activity of JEMPERLI in combination with niraparib were evaluated in 47 children and adolescents with recurrent or refractory solid tumours including osteosarcoma and neuroblastoma. Patients aged 5 to ˂18 years received JEMPERLI 3 mg/kg or 7.5 mg/kg (up to 500 mg) every 3 weeks.
 
-<div style=\"page-break-after: always\"></div>
+The study was terminated prematurely due to observed toxicities in conjunction with insufficient efficacy. No efficacy response was observed in the 17 patients with osteosarcoma or neuroblastoma included in the expansion part of the study. The safety profile of the combination in the paediatric population cannot be considered established due to the limited number of paediatric patients evaluated with limited exposure. See section 4.2 for information on paediatric use.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics (PK) of dostarlimab were assessed as a monotherapy and when administered in combination with carboplatin and paclitaxel.
+The pharmacokinetics of dostarlimab were assessed as a monotherapy and when administered in combination with carboplatin and paclitaxel.
 
-Dostarlimab monotherapy or in combination with carboplatin and paclitaxel was characterised using population PK analysis from 869 patients with various solid tumours, including 546 patients with EC. When dosed at the recommended therapeutic dose for monotherapy (500 mg administered intravenously every 3 weeks for 4 doses, followed by 1000 mg every 6 weeks), or at the recommended therapeutic dose for combination with carboplatin and paclitaxel (500 mg administered intravenously every 3 weeks for 6 doses, followed by 1000 mg every 6 weeks), dostarlimab shows an approximate two-fold accumulation (Cmin), consistent with the terminal half-life (t1/2). The exposure of dostarlimab as monotherapy and/or in combination with carboplatin and paclitaxel was similar.
+Dostarlimab monotherapy or in combination with carboplatin and paclitaxel was characterised using population pharmacokinetics analysis from 869 patients with various solid tumours, including 546 patients with EC. When dosed at the recommended therapeutic dose for monotherapy (500 mg administered intravenously every 3 weeks for 4 doses, followed by 1000 mg every 6 weeks), or at the recommended therapeutic dose for combination with carboplatin and paclitaxel (500 mg administered intravenously every 3 weeks for 6 doses, followed by 1000 mg every 6 weeks), dostarlimab shows an approximate two-fold accumulation (Cmin), consistent with the terminal half-life (t1/2). The exposure of dostarlimab as monotherapy and/or in combination with carboplatin and paclitaxel was similar.
 
 ## Absorption
 
@@ -697,6 +630,8 @@ Dostarlimab is administered via the intravenous route and therefore estimates of
 ## Distribution
 
 The mean volume of distribution of dostarlimab at steady state is approximately 5.8 L (CV % of 14.9 %).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -718,9 +653,7 @@ Based on exposure efficacy and safety relationships, there are no clinically sig
 
 ## Special populations
 
-A population PK analysis of the patient data indicates that there are no clinically important effects of age (range: 24 to 86 years), gender or race, ethnicity, or tumour type on the clearance of dostarlimab.
-
-<div style=\"page-break-after: always\"></div>
+A population pharmacokinetics analysis of the patient data indicates that there are no clinically important effects of age (range: 24 to 86 years), gender or race, ethnicity, or tumour type on the clearance of dostarlimab.
 
 ## Renal impairment
 
@@ -729,6 +662,12 @@ Renal impairment was evaluated based on the estimated creatinine clearance [CLCR
 ## Hepatic impairment
 
 Hepatic impairment was evaluated as defined using the US National Cancer Institute criteria of hepatic dysfunction by total bilirubin and AST (Normal: total bilirubin (TB) &amp; AST &lt; = upper limit of normal (ULN), n = 772; mild: TB &gt; ULN to 1.5 ULN or AST &gt; ULN, n = 92; and moderate: TB &gt; 1.5-3 ULN, any AST, n = 5). The effect of hepatic impairment on the clearance of dostarlimab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment compared to patients with normal hepatic function. No clinically important differences in the clearance of dostarlimab were found between patients with mild hepatic impairment and normal hepatic function. There are limited data in patients with moderate hepatic impairment and no data in patients with severe hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+In a Phase 1 study (SCOOP), the pharmacokinetics of dostarlimab was evaluated in 44 children and adolescents with recurrent or refractory solid tumours. The study was prematurely terminated and therefore the pharmacokinetic data obtained were limited. In the participant samples analysed at 7.5 mg/kg (N = 28), dostarlimab exposures were generally consistent with those seen in adults.
 
 ## 5.3 Preclinical safety data
 
@@ -746,21 +685,21 @@ Trisodium citrate dihydrate (E331) Citric acid monohydrate (E330) L-arginine hyd
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 5 years.
 
 ## After dilution
 
-If not used immediately, chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C -8 °C and 6 hours at room temperature (up to 25 °C) from the time of preparation/dilution until the end of administration.
+If not used immediately, chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C - 8 °C and 6 hours at room temperature (up to 25 °C) from the time of preparation/dilution until the end of administration.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C).
+<div style=\"page-break-after: always\"></div>
+
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -786,11 +725,7 @@ For the 500 mg dose, withdraw 10 mL of JEMPERLI from a vial and transfer into an
 
 - -For example, if preparing a 500 mg dose in a 250 mL diluent intravenous bag, to achieve a 2 mg/mL concentration would require withdrawing 10 mL of diluent from the 250 mL intravenous bag. Then, 10 mL of JEMPERLI would be withdrawn from the vial and transferred into the intravenous bag.
 
-For the 1000 mg dose, withdraw 10 mL of JEMPERLI from each of two vials (withdraw 20 mL total) and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection, or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 4 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This
-
-<div style=\"page-break-after: always\"></div>
-
-may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the intravenous bag.
+For the 1000 mg dose, withdraw 10 mL of JEMPERLI from each of two vials (withdraw 20 mL total) and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection, or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 4 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the intravenous bag.
 
 - -For example, if preparing a 1000 mg dose in a 250 mL diluent intravenous bag, to achieve a 4 mg/mL concentration would require withdrawing 20 mL of diluent from the 250 mL intravenous bag. Then, 10 mL of JEMPERLI would be withdrawn from each of two vials, totaling 20 mL, and transferred into the intravenous bag.
 
@@ -799,6 +734,8 @@ Mix diluted solution by gentle inversion. Do not shake the final infusion bag. D
 ## Storage
 
 Store in the original carton until time of preparation in order to protect from light. The prepared dose may be stored either:
+
+<div style=\"page-break-after: always\"></div>
 
 - -At room temperature up to 25 ºC for no more than 6 hours from the time of dilution until the end of infusion.
 -  Under refrigeration at 2 °C to 8 °C for no more than 24 hours from time of dilution until end of infusion. If refrigerated, allow the diluted solution to come to room temperature prior to administration.
@@ -827,8 +764,6 @@ Date of first authorisation: 21 April 2021
 
 Date of latest renewal: 15 February 2023
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
@@ -843,7 +778,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -997,15 +932,14 @@ EU/1/21/1538/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1116,11 +1050,11 @@ JEMPERLI can have serious side effects, which can sometimes become life-threaten
 
 You need to be aware of possible symptoms, so your doctor can give you treatment for side effects if necessary.
 
-➔ Read the information under 'Symptoms of serious side effects' in section 4. Talk to your doctor or nurse if you have any questions or worries.
+ Read the information under 'Symptoms of serious side effects' in section 4. Talk to your doctor or nurse if you have any questions or worries.
 
 ## Children and adolescents
 
-JEMPERLI should not be used in children and adolescents below 18 years of age.
+JEMPERLI should not be used in children and adolescents below 18 years of age. The safety and efficacy of JEMPERLI have not been established in this age group.
 
 ## Other medicines and JEMPERLI
 
@@ -1128,8 +1062,8 @@ Tell your doctor or nurse if you are taking, have recently taken or might take a
 
 Some medicines may interfere with the effect of JEMPERLI:
 
-- medicines that make your immune system weak -for example, corticosteroids , such as prednisone.
-- → Tell your doctor if you are taking any of these.
+- medicines that make your immune system weak - for example, corticosteroids , such as prednisone.
+-  Tell your doctor if you are taking any of these.
 
 However, once you are treated with JEMPERLI, your doctor may give you corticosteroids to reduce any side effects that you may have.
 
@@ -1158,7 +1092,7 @@ This medicine contains 2 mg of polysorbate 80 in each dosage unit. Polysorbates 
 
 ## JEMPERLI contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free.' However, before JEMPERLI is given to you, it is mixed with a solution that may contain sodium. Talk to your doctor if you are on a low salt diet.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free.' However, before JEMPERLI is given to you, it is mixed with a solution that may contain sodium. Talk to your doctor if you are on a low salt diet.
 
 ## 3. How JEMPERLI is given
 
@@ -1174,7 +1108,7 @@ Your doctor will decide how many treatments you need.
 
 ## If you forget an appointment to receive JEMPERLI
 
-- ➔ Contact your doctor or hospital immediately to reschedule your appointment.
+-  Contact your doctor or hospital immediately to reschedule your appointment.
 
 It is very important that you do not miss a dose of this medicine.
 
@@ -1206,17 +1140,16 @@ JEMPERLI can cause serious side effects. If you develop symptoms you must tell y
 | Inflammation of intestines (colitis, enteritis, vasculitis gastrointestinal)                | • diarrhoea, or more bowel movements than usual • black, tarry, sticky stools; blood or mucus in stools • severe stomach pain or tenderness • feeling sick (nausea) , being sick (vomiting)                                                                                                                         |
 | Inflammation of food pipe and stomach (oesophagitis, gastritis)                             | • trouble swallowing • decreased appetite • burning in the chest (heartburn) • chest or upper belly pain • feeling sick ( nausea ), being sick ( vomiting )                                                                                                                                                         |
 | Inflammation of liver (hepatitis)                                                           | • feeling sick (nausea) , being sick (vomiting) • loss of appetite • pain on the right side of the abdomen (stomach) • yellowing of the skin or the whites of the eyes • dark-coloured urine • bleeding or bruising more easily than normal                                                                         |
-| Inflammation of hormone glands (especially thyroid, pituitary, adrenal, pancreas)           | • rapid heartbeat • weight loss or weight gain • increased sweating • hair loss • feeling cold • constipation • abdominal pain • deeper voice • muscle aches • dizziness or fainting • headache that will not go away or unusual headache                                                                           |
+| Inflammation of hormone glands (especially thyroid, pituitary, adrenal, pancreas)           | • rapid heartbeat • weight loss or weight gain • increased sweating • hair loss • feeling cold • constipation • abdominal pain • deeper voice • muscle aches • dizziness or fainting                                                                                                                                |
 | Type 1 diabetes, including diabetic ketoacidosis (acid in the blood produced from diabetes) | • feeling more hungry or thirsty than usual • needing to urinate more often including at night • weight loss • feeling sick (nausea) , being sick (vomiting) • stomach pain • feeling tired • unusual sleepiness • having difficulty thinking clearly • breath that smells sweet or fruity • deep or fast breathing |
 | Inflammation of kidneys (nephritis)                                                         | • changes in amount or colour of urine • swelling of the ankles • loss of appetite • blood in the urine                                                                                                                                                                                                             |
 | Inflammation of skin (pemphigoid, Stevens-Johnson syndrome)                                 | • rash, itching, skin blistering • reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes; these serious skin rashes can be preceded by fever and flu-like symptoms                                        |
-| Inflammation of heart muscle (myocarditis)                                                  | • trouble breathing • dizziness or fainting                                                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
 | Conditions                                                                                                              | Possible symptoms                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                         | • fever • chest pain and chest tightness • flu like symptoms                                                                                                                                                                                                                                                                                                                                       |
+| Inflammation of heart muscle (myocarditis)                                                                              | • trouble breathing • dizziness or fainting • fever • chest pain and chest tightness • flu like symptoms                                                                                                                                                                                                                                                                                           |
 | Inflammation of brain and nervous system (myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, encephalitis) | • neck stiffness • headache • fever, chills • vomiting • eye sensitivity to light • weakness of eye muscles, drooping eyelids • dry eyes and blurred vision • difficulty swallowing, dry mouth • impaired speech • confusion and sleepiness • dizziness • numbness, pricking, or pins and needles sensations in the hands and feet • pain • aching muscles • difficulty walking or lifting objects |
 | Inflammation of spinal cord (myelitis)                                                                                  | • abnormal heart beat/rate or blood pressure • pain • numbness • tingling, or weakness in the arms or legs • bladder or bowel problems including needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation                                                                                                                                                   |
 | Inflammation of eyes                                                                                                    | • changes in eyesight                                                                                                                                                                                                                                                                                                                                                                              |
@@ -1240,7 +1173,7 @@ Solid organ transplant rejection and other complications, including graft-versus
 
 <div style=\"page-break-after: always\"></div>
 
-- ➔ Seek medical attention immediately if you think you may be having a reaction.
+-  Seek medical attention immediately if you think you may be having a reaction.
 
 The following side effects have been reported with JEMPERLI alone.
 
@@ -1253,7 +1186,7 @@ The following side effects have been reported with JEMPERLI alone.
 - joint pain;
 - high temperature; fever;
 - increased liver enzyme levels in the blood.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Common side effects (may affect up to 1 in 10 people):
 
@@ -1268,7 +1201,7 @@ The following side effects have been reported with JEMPERLI alone.
 - chills;
 - reaction to the infusion;
 - hypersensitivity reaction to the infusion.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
@@ -1282,18 +1215,18 @@ The following side effects have been reported with JEMPERLI alone.
 - a condition in which the muscles become weak and there is a rapid fatigue of the muscles ( myasthenia gravis );
 - inflammation of the joints;
 - inflammation of the muscles;
-- inflammation of the eye -the iris (the coloured part of the eye) and the ciliary body (area around the iris);
+- inflammation of the eye - the iris (the coloured part of the eye) and the ciliary body (area around the iris);
 - inflammation of the kidneys.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Other side effects that have been reported (frequency not known):
 
 - Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods);
 - Lack or reduction of digestive enzymes made by the pancreas ( pancreatic exocrine insufficiency ).
 
-The following side effects have been reported with JEMPERLI when given in combination with carboplatin and paclitaxel.
-
 <div style=\"page-break-after: always\"></div>
+
+The following side effects have been reported with JEMPERLI when given in combination with carboplatin and paclitaxel.
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
@@ -1302,7 +1235,7 @@ The following side effects have been reported with JEMPERLI when given in combin
 - dry skin;
 - high temperature; fever;
 - increased liver enzyme levels in the blood.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Common side effects (may affect up to 1 in 10 people):
 
@@ -1310,7 +1243,7 @@ The following side effects have been reported with JEMPERLI when given in combin
 - inflammation of the lung;
 - inflammation of the lining of the bowel (colon) ;
 - inflammation of the pancreas.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
@@ -1326,14 +1259,13 @@ The following side effects have been reported with JEMPERLI when given in combin
 - inflammation of the joints;
 - inflammation of the muscles;
 - inflammation throughout the body.
-- ➔ Check the table above for symptoms of possible serious side effects.
+-  Check the table above for symptoms of possible serious side effects.
 
 ## Other side effects that have been reported (frequency not known):
 
 - Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods);
 - Lack or reduction of digestive enzymes made by the pancreas ( pancreatic exocrine insufficiency ).
-
-## ➔ Contact your doctor or nurse as soon as possible if you develop any of these symptoms.
+-  Contact your doctor or nurse as soon as possible if you develop any of these symptoms.
 
 ## Reporting of side effects
 
@@ -1341,15 +1273,15 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 ## 5. How to store JEMPERLI
 
-JEMPERLI will be given to you in a hospital or clinic and the healthcare professionals will be responsible for its storage.
-
 <div style=\"page-break-after: always\"></div>
+
+JEMPERLI will be given to you in a hospital or clinic and the healthcare professionals will be responsible for its storage.
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
 
 If not used immediately, the prepared infusion may be stored for up to 24 hours at 2 °C to 8 °C or 6 hours at room temperature (up to 25 °C) from the time of preparation/dilution until the end of administration.
 
@@ -1378,13 +1310,13 @@ GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus D
 
 ## Manufacturer
 
-GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24
 
 <div style=\"page-break-after: always\"></div>
 
-## GlaxoSmithKline Manufacturing S.p.A.
+## Ireland D24 YK11
 
-Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma, Italy
+GlaxoSmithKline Manufacturing S.p.A. Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma, Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1422,7 +1354,7 @@ GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
 
 ## France
 
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44
 
 ## Lietuva
 
@@ -1458,13 +1390,17 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00
 
 <div style=\"page-break-after: always\"></div>
 
+diam@gsk.com
+
 ## Hrvatska
 
-GlaxoSmithKline Trading Services Limited Tel: +385 800787089
+GlaxoSmithKline Trading Services Limited
+
+Tel: +385 800787089
 
 ## Ireland
 
@@ -1486,11 +1422,15 @@ Tel: + 39 (0)45 7741111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services Limited
+
+Τηλ: + 357
 
 ## Latvija
 
-GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 371 80205045
 
 ## This leaflet was last revised in
 
@@ -1507,23 +1447,34 @@ Preparation/dilution, storage and administration of the solution for infusion:
 - Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. JEMPERLI is a slightly opalescent colourless to yellow solution. Discard the vial if visible particles are observed.
 - JEMPERLI is compatible with an IV bag made of polyvinyl chloride (PVC) with or without di(2ethylhexyl) phthalate (DEHP), ethylene vinyl acetate, polyethylene (PE), polypropylene (PP) or polyolefin blend (PP+PE), and a syringe made from PP.
 - For the 500 mg dose, withdraw 10 mL of JEMPERLI from a vial and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 2 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the IV bag.
-- -For example, if preparing a 500 mg dose in a 250 mL diluent IV bag, to achieve a 2 mg/mL concentration would require withdrawing 10 mL of diluent from the 250 mL IV bag. Then, 10 mL of JEMPERLI would be withdrawn from the vial and transferred into the IV bag.
+
+80070017
+
+FI.PT@gsk.com
 
 ## România
 
-GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 40 800672524
 
 ## Slovenija
 
-GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 386 80688869
 
 ## Slovenská republika
 
-GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 
@@ -1531,12 +1482,13 @@ GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
+- -For example, if preparing a 500 mg dose in a 250 mL diluent IV bag, to achieve a 2 mg/mL concentration would require withdrawing 10 mL of diluent from the 250 mL IV bag. Then, 10 mL of JEMPERLI would be withdrawn from the vial and transferred into the IV bag.
 - For the 1000 mg dose, withdraw 10 mL of JEMPERLI from each of two vials (withdraw 20 mL total) and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 4 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the IV bag.
 - -For example, if preparing a 1000 mg dose in a 250 mL diluent IV bag, to achieve a 4 mg/mL concentration would require withdrawing 20 mL of diluent from the 250 mL IV bag. Then, 10 mL of JEMPERLI would be withdrawn from each of two vials, totaling 20 mL, and transferred into the IV bag.
 - Mix diluted solution by gentle inversion. Do not shake the final infusion bag. Discard any unused portion left in the vial.
 - Store in the original carton until time of preparation in order to protect from light. The prepared dose may be stored either:
 - -At room temperature up to 25 ºC for no more than 6 hours from the time of dilution until the end of infusion.
-- -Under refrigeration at 2 °C -8 °C for no more than 24 hours from time of dilution until end of infusion. If refrigerated, allow the diluted solution to come to room temperature prior to administration.
+- -Under refrigeration at 2 °C - 8 °C for no more than 24 hours from time of dilution until end of infusion. If refrigerated, allow the diluted solution to come to room temperature prior to administration.
 - JEMPERLI should be administered by intravenous infusion using an intravenous infusion pump over 30 minutes by a health care practitioner.
 - Tubing should be made of PVC, platinum cured silicon or PP; fittings made from PVC or polycarbonate and needles made from stainless steel.
 - A 0.2 or 0.22 micron in-line polyethersulfone (PES) filter must be used during administration of JEMPERLI.

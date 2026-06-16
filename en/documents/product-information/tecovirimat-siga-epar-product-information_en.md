@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-10 15:31:15
+document_datetime: 2026-06-15 10:52:49
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecovirimat-siga-epar-product-information_en.pdf
 document_name: tecovirimat-siga-epar-product-information_en.pdf
 version: success
-processing_time: 7.7223258
-conversion_datetime: 2025-12-20 09:31:47.779783
+processing_time: 7.421804
+conversion_datetime: 2026-06-16 13:54:15.060439
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -53,7 +53,6 @@ Opaque gelatin capsules with an orange body and black cap, containing white to o
 Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13 kg:
 
 - o Smallpox
-- o Mpox
 - o Cowpox
 
 Tecovirimat SIGA is also indicated to treat complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13 kg (see sections 4.4 and 5.1).
@@ -68,9 +67,11 @@ Tecovirimat treatment should be initiated as soon as possible after diagnosis (s
 
 Adults and children of at least 13 kg The recommended doses are described in Table 1.
 
-<div style=\"page-break-after: always\"></div>
+## Table 1:
 
-## Table 1: Recommended dose by body weight
+Recommended dose by body weight
+
+<div style=\"page-break-after: always\"></div>
 
 | Body Weight               | Dosage                            | Number of Capsules                |
 |---------------------------|-----------------------------------|-----------------------------------|
@@ -85,23 +86,21 @@ If vomiting occurs within 30 minutes of taking tecovirimat hard capsules, anothe
 
 ## Special populations
 
-Elderly
+## Elderly
 
 No dosage adjustment is required (see section 5.2).
 
-Renal impairment
+## Renal impairment
 
 No dosage adjustment is required (see section 5.2).
 
-Hepatic impairment
+## Hepatic impairment
 
 No dosage adjustment is required (see section 5.2).
 
 ## Paediatric population
 
-Tecovirimat should not be administered to children of less than 13 kg body weight.
-
-No dose recommendations have been established.
+Tecovirimat should not be administered to children of less than 13 kg body weight. No dose recommendations for children less than 13 kg body weight have been established.
 
 ## Method of administration
 
@@ -109,13 +108,11 @@ No dose recommendations have been established.
 
 Tecovirimat hard capsules should be taken within 30 minutes after a meal of moderate or high fat (see section 5.2).
 
-For patients who cannot swallow Tecovirimat hard capsules, the capsules may be opened and the contents may be mixed with approximately 30 mL of liquid (e.g. milk) or soft food (e.g. yogurt) and swallowed within 30 minutes of completing a meal (see sections 5.2 and 6.3) .
+For patients who cannot swallow tecovirimat hard capsules, the capsules may be opened and the contents may be mixed with approximately 30 mL of liquid (e.g. milk) or soft food (e.g. yogurt) and swallowed within 30 minutes of completing a meal (see sections 5.2 and 6.3) .
 
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -124,6 +121,8 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 Co-administration of repaglinide and tecovirimat may cause mild to moderate hypoglycaemia, (see section 4.5).  Blood glucose and hypoglycaemic symptoms should be monitored when administering tecovirimat with repaglinide.
 
 Co-administration of midazolam and tecovirimat may reduce the effectiveness of midazolam (see section 4.5).  Effectiveness of midazolam should be monitored when administering tecovirimat with midazolam.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -151,19 +150,19 @@ Tecovirimat is a substrate of UGT1A1, 1A3 and 1A4.  Co-administration of tecovir
 
 Tecovirimat was studied in people against phosphate binders with the results indicating a slight increase in exposure of tecovirimat.  See Table 2 for results.
 
-## Table 2: Interactions and dose recommendations with tecovirimat
+Table 2: Interactions and dose recommendations with tecovirimat
 
-| Medicinal Product by therapeutic area a   | Effect on tecovirimat levels. Mean percent change in AUC, C max   | Recommendation concerning co-administration with Tecovirimat   |
-|-------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|
-| Phosphate Binders a :                     | Phosphate Binders a :                                             | Phosphate Binders a :                                          |
+| Medicinal Product by therapeutic area a   | Effect on tecovirimat levels. Mean percent change in AUC, C max   | Recommendation concerning co-administration with Tecovirimat                                                                                                                                                                                |
+|-------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Phosphate Binders a :                     | Phosphate Binders a :                                             | Phosphate Binders a :                                                                                                                                                                                                                       |
+| Calcium acetate                           | Tecovirimat: AUC: ↑ 16% C max : ↑ 9%                              | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders. |
+| Lanthanum carbonate                       | Tecovirimat: AUC: ↑ 23% C max : ↑ 21%                             | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders. |
+| Sevelamer carbonate                       | Tecovirimat: AUC: ↑ 27% C max : ↑ 16%                             | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Calcium acetate          | Tecovirimat: AUC: ↑ 16% C max : ↑ 9%   | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders.   |
-|--------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lanthanum carbonate      | Tecovirimat: AUC: ↑ 23% C max : ↑ 21%  | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders.   |
-| Sevelamer carbonate      | Tecovirimat: AUC: ↑ 27% C max : ↑ 16%  | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders.   |
-| Sucroferric oxyhydroxide | Tecovirimat: AUC: ↑ 21% C max : ↑ 15%  | A risk for increase in tecovirimat plasma concentrations cannot be excluded when co- administered with phosphate binders. Monitor for signs or symptoms of adverse effects when Tecovirimat SIGA is co-administered with phosphate binders.   |
+| Sucroferric oxyhydroxide   | Tecovirimat: AUC: ↑ 21% C max : ↑ 15%   |
+|----------------------------|-----------------------------------------|
 
 a These interactions have been studied in healthy adults.
 
@@ -175,44 +174,43 @@ Tecovirimat is a weak inhibitor of CYP2C8 and CYP2C19. Co-administration with te
 
 Table 3: Interactions and dose recommendations with other medicinal products
 
-| Medicinal Product by therapeutic area a   | Effect on medicinal product levels. Mean percent change in AUC, C max   | Recommendation concerning co-administration with Tecovirimat                                                                                                                                                                                                                                                                   |
-|-------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Antidepressant:                           | Antidepressant:                                                         | Antidepressant:                                                                                                                                                                                                                                                                                                                |
-| Bupropion a (150 mg)                      | Decreased Bupropion AUC: ↓ 15% C max : ↓ 14%                            | No dose adjustment is required. The effectiveness of bupropion should be monitored.                                                                                                                                                                                                                                            |
-| Antidiabetics:                            | Antidiabetics:                                                          | Antidiabetics:                                                                                                                                                                                                                                                                                                                 |
-| Repaglinide a (2 mg)                      | Repaglinide: AUC: ↑ 27% C max : ↑ 27%                                   | Tecovirimat is a weak inhibitor of CYP2C8 and caused an increase in repaglinide plasma concentrations. Co-administration of repaglinide and tecovirimat may cause mild to moderate hypoglycemia. Blood glucose and hypoglycemic symptoms should be monitored in patients when tecovirimat is co-administered with repaglinide. |
-| Antifungals                               | Antifungals                                                             | Antifungals                                                                                                                                                                                                                                                                                                                    |
-| Voriconazole                              | Interactions not studied Expected AUC: ↑ C max : ↑                      | A risk for increase in voriconazole plasma concentrations cannot be excluded (CYP2C19 substrate).                                                                                                                                                                                                                              |
+| Medicinal Product by therapeutic area a                    | Effect on medicinal product levels. Mean percent change in AUC, C max   | Recommendation concerning co-administration with Tecovirimat                                                                                                                                                                                                                                                                   |
+|------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Antidepressant:                                            |                                                                         |                                                                                                                                                                                                                                                                                                                                |
+| Bupropion a (150 mg)                                       | Decreased Bupropion AUC: ↓ 15% C max : ↓ 14%                            | No dose adjustment is required. The effectiveness of bupropion should be monitored.                                                                                                                                                                                                                                            |
+| Antidiabetics:                                             |                                                                         |                                                                                                                                                                                                                                                                                                                                |
+| Repaglinide a (2 mg)                                       | Repaglinide: AUC: ↑ 27% C max : ↑ 27%                                   | Tecovirimat is a weak inhibitor of CYP2C8 and caused an increase in repaglinide plasma concentrations. Co-administration of repaglinide and tecovirimat may cause mild to moderate hypoglycemia. Blood glucose and hypoglycemic symptoms should be monitored in patients when tecovirimat is co-administered with repaglinide. |
+| Antifungals                                                |                                                                         |                                                                                                                                                                                                                                                                                                                                |
+| Voriconazole                                               | Interactions not studied Expected AUC: ↑ C max : ↑                      | A risk for increase in voriconazole plasma concentrations cannot be excluded (CYP2C19 substrate). The combination of tecovirimat and voriconazole should be used with caution.                                                                                                                                                 |
+| Antiviral - non-nucleoside reverse transcriptase inhibitor | Antiviral - non-nucleoside reverse transcriptase inhibitor              | Antiviral - non-nucleoside reverse transcriptase inhibitor                                                                                                                                                                                                                                                                     |
+| Rilpivirine                                                | Interactions not studied Expected AUC: ↓ C max : ↓                      | A risk for decreases in rilpivirine plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and rilpivirine should be used with caution.                                                                                                                                                   |
+| CCR5 antagonists                                           | CCR5 antagonists                                                        | CCR5 antagonists                                                                                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                | The combination of tecovirimat and voriconazole should be used with caution.                                                                                                                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Antiviral - non-nucleoside reverse transcriptase inhibitor                                                                                                                                                                                                                                                                                     | Antiviral - non-nucleoside reverse transcriptase inhibitor                                                                                                                                                                                                                                                                                     | Antiviral - non-nucleoside reverse transcriptase inhibitor                                                                                                                                                                                                                                                                                     |
-| Rilpivirine                                                                                                                                                                                                                                                                                                                                    | Interactions not studied Expected AUC: ↓ C max : ↓                                                                                                                                                                                                                                                                                             | A risk for decreases in rilpivirine plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and rilpivirine should be used with caution.                                                                                                                                                                   |
-| CCR5 antagonists                                                                                                                                                                                                                                                                                                                               | CCR5 antagonists                                                                                                                                                                                                                                                                                                                               | CCR5 antagonists                                                                                                                                                                                                                                                                                                                               |
-| Maraviroc                                                                                                                                                                                                                                                                                                                                      | Interactions not studied Expected AUC: ↓ C max : ↓                                                                                                                                                                                                                                                                                             | A risk for decreases in maraviroc plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and maraviroc should be used with caution.                                                                                                                                                                       |
-| CNS Depressant:                                                                                                                                                                                                                                                                                                                                | CNS Depressant:                                                                                                                                                                                                                                                                                                                                | CNS Depressant:                                                                                                                                                                                                                                                                                                                                |
-| Midazolam a (2 mg)                                                                                                                                                                                                                                                                                                                             | Midazolam: AUC: ↓ 32% C max : ↓ 39%                                                                                                                                                                                                                                                                                                            | Tecovirimat is a weak inducer of CYP3A4 and caused a decrease in plasma concentrations of midazolam. The effectiveness of midazolam should be monitored and the dose adjusted as necessary.                                                                                                                                                    |
-| HMGCO-A Reductase Inhibitors                                                                                                                                                                                                                                                                                                                   | HMGCO-A Reductase Inhibitors                                                                                                                                                                                                                                                                                                                   | HMGCO-A Reductase Inhibitors                                                                                                                                                                                                                                                                                                                   |
-| Atorvastatin                                                                                                                                                                                                                                                                                                                                   | Interactions not studied Expected AUC: ↓ C max : ↓                                                                                                                                                                                                                                                                                             | A risk for decreases in atorvastatin plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and atorvastatin should be used with caution.                                                                                                                                                                 |
-| Immunosuppressants                                                                                                                                                                                                                                                                                                                             | Immunosuppressants                                                                                                                                                                                                                                                                                                                             | Immunosuppressants                                                                                                                                                                                                                                                                                                                             |
-| Tacrolimus                                                                                                                                                                                                                                                                                                                                     | Interactions not studied Expected AUC: ↓ C max : ↓                                                                                                                                                                                                                                                                                             | A risk for decreases in tacrolimus plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and tacrolimus should be used with caution.                                                                                                                                                                     |
-| Narcotic Analgesics                                                                                                                                                                                                                                                                                                                            | Narcotic Analgesics                                                                                                                                                                                                                                                                                                                            | Narcotic Analgesics                                                                                                                                                                                                                                                                                                                            |
-| Methadone                                                                                                                                                                                                                                                                                                                                      | Interactions not studied Expected AUC: ↓ C max : ↓                                                                                                                                                                                                                                                                                             | A risk for decreases in methadone plasma concentrations cannot be excluded (CYP2B6 substrate). The combination of tecovirimat and methadone should be used with caution.                                                                                                                                                                       |
-| Nonsteoidal anti-inflammatory                                                                                                                                                                                                                                                                                                                  | Nonsteoidal anti-inflammatory                                                                                                                                                                                                                                                                                                                  | Nonsteoidal anti-inflammatory                                                                                                                                                                                                                                                                                                                  |
-| Flurbiprofen a (50 mg)                                                                                                                                                                                                                                                                                                                         | Flurbiprofen: AUC: ↔ C max : ↔                                                                                                                                                                                                                                                                                                                 | No dose adjustment is required.                                                                                                                                                                                                                                                                                                                |
-| PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS Sildenafil Tadalafil Vardenafil Interactions not studied Expected AUC: ↓ C max : ↓ A risk for decreases in PDE-5 inhibitor plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and PDE-5 inhibitors should be used with caution. Protease inhibitors (PIs) | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS Sildenafil Tadalafil Vardenafil Interactions not studied Expected AUC: ↓ C max : ↓ A risk for decreases in PDE-5 inhibitor plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and PDE-5 inhibitors should be used with caution. Protease inhibitors (PIs) | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS Sildenafil Tadalafil Vardenafil Interactions not studied Expected AUC: ↓ C max : ↓ A risk for decreases in PDE-5 inhibitor plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and PDE-5 inhibitors should be used with caution. Protease inhibitors (PIs) |
+| Maraviroc                                   | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in maraviroc plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and maraviroc should be used with caution.                    |
+|---------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CNS Depressant:                             | CNS Depressant:                                      | CNS Depressant:                                                                                                                                                                             |
+| Midazolam a (2 mg)                          | Midazolam: AUC: ↓ 32% C max : ↓ 39%                  | Tecovirimat is a weak inducer of CYP3A4 and caused a decrease in plasma concentrations of midazolam. The effectiveness of midazolam should be monitored and the dose adjusted as necessary. |
+| HMGCO-A Reductase Inhibitors                | HMGCO-A Reductase Inhibitors                         | HMGCO-A Reductase Inhibitors                                                                                                                                                                |
+| Atorvastatin                                | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in atorvastatin plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and atorvastatin should be used with caution.              |
+| Immunosuppressants                          | Immunosuppressants                                   | Immunosuppressants                                                                                                                                                                          |
+| Tacrolimus                                  | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in tacrolimus plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and tacrolimus should be used with caution.                  |
+| Narcotic Analgesics                         | Narcotic Analgesics                                  | Narcotic Analgesics                                                                                                                                                                         |
+| Methadone                                   | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in methadone plasma concentrations cannot be excluded (CYP2B6 substrate). The combination of tecovirimat and methadone should be used with caution.                    |
+| Nonsteoidal anti-inflammatory               | Nonsteoidal anti-inflammatory                        | Nonsteoidal anti-inflammatory                                                                                                                                                               |
+| Flurbiprofen a (50 mg)                      | Flurbiprofen: AUC: ↔ C max : ↔                       | No dose adjustment is required.                                                                                                                                                             |
+| PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS          | PHOSPHODIESTERASE TYPE 5 (PDE-5) INHIBITORS                                                                                                                                                 |
+| Sildenafil Tadalafil Vardenafil             | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in PDE-5 inhibitor plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and PDE-5 inhibitors should be used with caution.       |
+| Protease inhibitors (PIs)                   | Protease inhibitors (PIs)                            | Protease inhibitors (PIs)                                                                                                                                                                   |
+| Darunavir                                   | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in darunavir plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and darunavir should be used with caution.                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Darunavir                | Interactions not studied Expected AUC: ↓ C max : ↓   | A risk for decreases in darunavir plasma concentrations cannot be excluded (CYP3A4 substrate). The combination of tecovirimat and darunavir should be used with caution.                         |
-|--------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proton Pump Inhibitors:  | Proton Pump Inhibitors:                              | Proton Pump Inhibitors:                                                                                                                                                                          |
-| Omeprazole a (20 mg)     | Omeprazole AUC: ↑ 73% C max : ↑ 83%                  | Tecovirimat is a weak inhibitor of CYP2C19 and caused an increase in plasma concentrations of omeprazole. The combination of tecovirimat and proton pump inhibitors should be used with caution. |
-| Lansoprazole Rabeprazole | Interactions not studied Expected AUC: ↑ C max : ↑   | Tecovirimat is a weak inhibitor of CYP2C19 and caused an increase in plasma concentrations of omeprazole. The combination of tecovirimat and proton pump inhibitors should be used with caution. |
-
-a These interactions have been studied in healthy adults to evaluate the effect of repeated doses of tecovirimat 600 mg twice daily on the single-dose PK of probe substrates.
+| Proton Pump Inhibitors:   | Proton Pump Inhibitors:                            | Proton Pump Inhibitors:                                                                                                                                                                          |
+|---------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Omeprazole a (20 mg)      | Omeprazole AUC: ↑ 73% C max : ↑ 83%                | Tecovirimat is a weak inhibitor of CYP2C19 and caused an increase in plasma concentrations of omeprazole. The combination of tecovirimat and proton pump inhibitors should be used with caution. |
+| Lansoprazole Rabeprazole  | Interactions not studied Expected AUC: ↑ C max : ↑ | Tecovirimat is a weak inhibitor of CYP2C19 and caused an increase in plasma concentrations of omeprazole. The combination of tecovirimat and proton pump inhibitors should be used with caution. |
 
 ## Vaccine
 
@@ -226,7 +224,9 @@ Interaction studies have only been performed in adults.
 
 ## Pregnancy
 
-There are no data from the use of tecovirimat in pregnant women. Animal studies are insufficient with respect to reproductive toxicity (see section 5.3). Tecovirimat is not recommended during pregnancy.
+Animal studies are insufficient with respect to reproductive toxicity (see section 5.3).
+
+There are no data from the use of tecovirimat in pregnant women. Tecovirimat is not recommended during pregnancy.
 
 ## Breast-feeding
 
@@ -246,17 +246,17 @@ Tecovirimat caused decreased fertility due to testicular toxicity in male mice (
 
 ## 4.7 Effects on ability to Drive and use Machines
 
-Tecovirimat has minor influence on the ability to drive and use machines.  Patients should be informed about the possible occurrence of dizziness and should be cautoned about driving or operating machines until they know how tecovirimat will affect them.
+Tecovirimat has minor influence on the ability to drive and use machines.  Patients should be informed about the possible occurrence of dizziness and should be cautioned about driving or operating machines until they know how tecovirimat will affect them.
 
 ## 4.8 Undesirable Effects
-
-<div style=\"page-break-after: always\"></div>
 
 ## Summary of the safety profile
 
 The most frequently reported adverse drug reactions were headache (12.3%) and nausea (4.5%).
 
 ## Tabulated summary of adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Adverse reactions are classified according to System Organ Class and frequency.  Frequency categories are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
@@ -304,15 +304,19 @@ Tecovirimat inhibits the activity of the orthopoxvirus VP37 protein, which is en
 
 ## Activity in cell culture
 
-In cell culture assays, the effective concentrations of tecovirimat resulting in a 50% reduction in virus induced cytopathic effect (EC50), were 0.016-0.067 μM, 0.014 -0.039 µM, 0.015 µM and 0.009 µM, for smallpox, mpox, rabbitpox and vaccinia viruses, respectively.
+In cell culture assays, the effective concentrations of tecovirimat resulting in a 50% reduction in virus induced cytopathic effect (EC50), were 0.016-0.067 μM, 0. 015 µM and 0.009 µM, for smallpox, rabbitpox and vaccinia viruses, respectively.
 
 ## Resistance
 
-There are no known instances of naturally occurring tecovirimat-resistant orthopoxviruses, although tecovirimat resistance may develop under drug selection.  Tecovirimat has a relatively low resistance barrier, and certain amino acid substitutions in the target VP37 protein can confer large reductions in tecovirimat antiviral activity.  The possibility of resistance to tecovirimat should be considered in patients either who fail to respond to therapy or who develop recrudescence of disease after an initial period of responsiveness.
+Current virologic assessment of mpox shows evidence of resistance, with resistance documented in &lt;1% of isolates. Tecovirimat has a relatively low resistance barrier, and certain amino acid substitutions in the target VP37 protein can confer large reductions in tecovirimat antiviral activity. Resistance mutations have arisen in patients receiving prolonged tecovirimat treatment for mpox, particularly in immunocompromised patients, such as HIV patients with low CD4 T-cell counts. The possibility of resistance to tecovirimat should be considered in patients either who fail to respond to therapy or who develop recrudescence of disease after an initial period of responsiveness.
+
+## Clinical efficacy
+
+There is no human efficacy data available for the treatment of smallpox, cowpox or complications due to replication of vaccinia virus following vaccination against smallpox.
 
 ## Nonclinical efficacy
 
-Efficacy studies were conducted in cynomolgus macaques infected with mpox virus and New Zealand White (NZW) rabbits infected with rabbitpox virus.  The primary efficacy endpoint for these studies was survival.  In non-human primate studies, cynomolgus macaques were lethally challenged intravenously with 5 x 10 7 plaque-forming units of mpox virus.  Tecovirimat was administered orally once daily at a dose level of 10 mg/kg for 14 days, starting at Day 4, 5 or 6 post-challenge.  In rabbit studies, NZW rabbits were lethally challenged intradermally with 1,000 plaque-forming units of rabbitpox virus.  Tecovirimat was administered orally once daily for 14 days at a dose level of 40 mg/kg, starting at Day 4 post-challenge.  The timing of tecovirimat dosing in these studies was intended to assess efficacy when treatment is initiated after animals have developed clinical signs of disease, specifically dermal pox lesions in cynomolgus macaques and fever in rabbits.  Clinical signs of disease were evident in some animals at Day 2-3 post-challenge but were evident in all animals by Day 4 post-challenge.  Survival was monitored for 3-6 times the mean time to death for untreated animals in each model.
+Efficacy studies were conducted in cynomolgus macaques infected with mpox virus, using a lethal model broadly accepted as a model for human smallpox, and New Zealand White (NZW) rabbits infected with rabbitpox virus.  The primary efficacy endpoint for these studies was survival.  In nonhuman primate studies, cynomolgus macaques were lethally challenged intravenously with 5 x 10 7 plaque-forming units of mpox virus.  Tecovirimat was administered orally once daily at a dose level of 10 mg/kg for 14 days, starting at Day 4, 5 or 6 post-challenge.  In rabbit studies, NZW rabbits were lethally challenged intradermally with 1,000 plaque-forming units of rabbitpox virus.  Tecovirimat was administered orally once daily for 14 days at a dose level of 40 mg/kg, starting at Day 4 post- challenge.  The timing of tecovirimat dosing in these studies was intended to assess efficacy when treatment is initiated after animals have developed clinical signs of disease, specifically dermal pox lesions in cynomolgus macaques and fever in rabbits.  Clinical signs of disease were evident in some animals at Day 2-3 post-challenge but were evident in all animals by Day 4 post-challenge.  Survival was monitored for 3-6 times the mean time to death for untreated animals in each model.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -327,21 +331,11 @@ Table 5: Survival Rates in Tecovirimat Treatment Studies in Cynomolgus Macaques 
 | Study 1             | Day 4                    | 0% (0/7)                               | 80% (4/5)                              | 0.0038              | 80% (20.8%, 99.5%)                      |
 | Study 2             | Day 4                    | 0% (0/6)                               | 100% (6/6)                             | 0.0002              | 100% (47.1%, 100%)                      |
 | Study 3             | Day 4                    | 0% (0/3)                               | 83% (5/6)                              | 0.0151              | 83% (7.5%, 99.6%)                       |
-|                     | Day 5                    |                                        | 83% (5/6)                              | 0.0151              | 83% (7.5%, 99.6%)                       |
-|                     | Day 6                    |                                        | 50% (3/6)                              | 0.1231              | 50% (- 28.3%, 90.2%)                    |
+| Study 3             | Day 5                    |                                        | 83% (5/6)                              | 0.0151              | 83% (7.5%, 99.6%)                       |
+| Study 3             | Day 6                    |                                        | 50% (3/6)                              | 0.1231              | 50% (- 28.3%, 90.2%)                    |
 | NZWRabbits          | NZWRabbits               | NZWRabbits                             | NZWRabbits                             | NZWRabbits          | NZWRabbits                              |
 | Study 4             | Day 4                    | 0% (0/10)                              | 90% (9/10)                             | < 0.0001            | 90% (50.3%, 99.8%)                      |
 | Study 5             | Day 4                    | NA e                                   | 88% (7/8)                              | NA                  | NA                                      |
-
-a Day post-challenge tecovirimat treatment was initiated.
-
-b p-value is from 1-sided Boschloo Test (with Berger-Boos modification of gamma = 0.000001) compared to placebo.
-
-c Survival percentage in tecovirimat treated animals minus survival percentage in placebo treated animals.
-
-d Exact 95% confidence interval based on the score statistic of difference in survival rates .
-
-e A placebo control group was not included in this study.
 
 KEY:
 
@@ -353,9 +347,11 @@ The non-human primate (NHP) and rabbit PK/PD models were developed in order to e
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with tecovirimat in one or more subsets of the paediatric population in the treatment of orthopoxvirus disease (smallpox, mpox, cowpox and vaccinia) (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with tecovirimat in one or more subsets of the paediatric population in the treatment of orthopoxvirus disease (smallpox, cowpox and vaccinia) (see section 4.2 for information on paediatric use).
 
 This medicinal product has been authorised under 'exceptional circumstances'.  This means that for ethical reasons it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic Properties
 
@@ -364,8 +360,6 @@ This medicinal product has been authorised under 'exceptional circumstances'.  T
 Tecovirimat reaches maximum plasma concentrations 4 to 6 hours after oral administration with food.
 
 The administration of tecovirimat with a meal of moderate fat and calories (~ 600 calories and ~ 25 grams of fat), as compared to tecovirimat taken in the fasted (unfed) state, increased the drug exposure (AUC) by 39%.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -397,11 +391,11 @@ In subjects with renal impairment (based on estimated GFR), no clinically signif
 
 In subjects with with mild, moderate or severe hepatic impairment (based on Child Pugh Scores A, B or C), no clinically significant differences in the pharmacokinetics of tecovirimat were observed. However, it is possible that patients with severe hepatic impairment may have higher unbound drug and metabolite levels (see sections 4.2 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric patients
 
 The pharmacokinetics of tecovirimat has not been evaluated in paediatric patients.  The recommended paediatric dosing regimen for subjects at least 13 kg body weight is expected to produce tecovirimat exposures that are comparable to those in adult subjects aged 18 to 50 years based on a population pharmacokinetic modeling and a simulation approach.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -421,6 +415,8 @@ No embryo-foetal toxicities were observed at doses up to 100 mg/kg/day in rabbit
 
 Available toxicological/safety data in animals have shown excretion of tecovirimat in milk. In a lactation study at doses up to 1,000 mg/kg/day, mean tecovirimat milk to plasma ratios up to approximately 0.8 were observed at 6 and 24 hours post-dose when administered orally to mice on lactation Day 10 or 11.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of Excipients
@@ -428,8 +424,6 @@ Available toxicological/safety data in animals have shown excretion of tecovirim
 ## Capsule content
 
 Silica, colloidal anhydrous Croscarmellose sodium (E468) Hypromellose (E464) Lactose monohydrate Magnesium stearate Cellulose, microcrystalline (E460) Sodium laurilsulfate (E487)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Capsule shell
 
@@ -451,11 +445,17 @@ Capsules that have been opened and mixed with food or liquids, should be consume
 
 ## 6.4 Special precautions for storage
 
-Store below 25°C. Store in the original package in order to protect from light. For storage conditions after mixing the medicinal product, see section 6.3.
+Store below 25°C.
+
+Store in the original package in order to protect from light.
+
+For storage conditions after mixing the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
 High-density polyethylene (HDPE) bottles with a polypropylene child-resistant cap. Pack-size of 84 (2 bottles of 42) hard capsules.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -468,8 +468,6 @@ SIGA Technologies Netherlands B.V. Prinsenhil 29, Breda 4825 AX, The Netherlands
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1600/001
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -529,7 +527,7 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due date                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | SOB 1: In order to further characterise the efficacy and safety of tecovirimat in the treatment of smallpox, the MAHshould submit the results of the following open-label controlled phase 4 trial, upon the occurrence of a smallpox outbreak (as per protocol): A Multicenter, Open-Label, Randomized, Controlled Phase 4 Trial to Evaluate the Efficacy and Safety of Brincidofovir, Tecovirimat, and Brincidofovir Plus Tecovirimat for the treatment of Smallpox in Adult and Paediatric Participants. | Annually (with annual re-assessment) and no later than 12 months after the last administration of tecovirimat for the treatment of smallpox |
-| SOB 2: In order to ensure adequate monitoring of safety and efficacy of Tecovirimat in the treatment of the Smallpox, Mpox, Cowpox viral infections and complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13 kg, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of Tecovirimat.                                                                                     | Annually (with annual reassessment)                                                                                                         |
+| SOB 2: In order to ensure adequate monitoring of safety and efficacy of Tecovirimat in the treatment of the Smallpox, Cowpox viral infections and complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13 kg, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of Tecovirimat.                                                                                           | Annually (with annual reassessment)                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -655,7 +653,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -728,7 +726,7 @@ This medicine is subject to additional monitoring.  This will allow quick identi
 
 Tecovirimat SIGA contains the active ingredient tecovirimat.
 
-Tecovirimat SIGA is used to treat viral infections, such as smallpox, mpox and cowpox in adults and children weighing at least 13 kg.
+Tecovirimat SIGA is used to treat viral infections, such as smallpox and cowpox in adults and children weighing at least 13 kg.
 
 Tecovirimat SIGA is also used to treat complications from smallpox vaccines.
 

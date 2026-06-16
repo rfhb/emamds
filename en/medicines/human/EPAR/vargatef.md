@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-19 16:30:00
+document_datetime: 2026-06-10 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vargatef.html
 document_name: vargatef.html
 version: success
-processing_time: 0.1195137
-conversion_datetime: 2026-03-25 12:42:26.806552
+processing_time: 0.1235374
+conversion_datetime: 2026-06-16 13:43:37.678313
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Vargatef
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## What is Vargatef and what is it used for?
+### What is Vargatef and what is it used for?
 
 Vargatef is a cancer medicine used to treat adults with a type of lung cancer known as non-small cell lung cancer.
 
@@ -65,7 +65,7 @@ The medicine is used in combination with a chemotherapy medicine called docetaxe
 
 Vargatef contains the active substance nintedanib.
 
-## How is Vargatef used?
+### How is Vargatef used?
 
 Vargatef can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in the use of cancer medicines.
 
@@ -75,15 +75,15 @@ If severe side effects develop, the doctor may decide to interrupt treatment wit
 
 For further information, see the package leaflet.
 
-## How does Vargatef work?
+### How does Vargatef work?
 
 The active substance in Vargatef, nintedanib, blocks the activity of some enzymes known as tyrosine kinases. These enzymes can be found in certain receptors (such as VEGF, FGF and PDGF receptors) on the surface of cancer cells and on the cells of the surrounding tissue (e.g. blood vessel), where they activate several processes including cell division and the growth of new blood vessels. By blocking these enzymes, nintedanib helps to reduce the growth and spread of the cancer and to cut off the blood supply that keeps cancer cells growing.
 
-## What benefits of Vargatef have been shown in studies?
+### What benefits of Vargatef have been shown in studies?
 
 In a main study involving 1,314 patients with advanced or recurrent non-small cell lung cancer that did not respond to a previous treatment, Vargatef taken in combination with docetaxel was shown to be more effective than docetaxel alone at delaying progression of the cancer. Progression-free survival (the time patients lived without their disease getting worse) was 3.5 months in patients receiving Vargatef plus docetaxel, compared with 2.7 months in patients receiving docetaxel alone. In addition, Vargatef led to an improvement in overall survival (how long patients lived) in the subgroup of patients with non-small cell lung cancer of the adenocarcinoma type: overall survival was 12.6 months in patients treated with Vargatef plus docetaxel, compared with 10.3 months in patients treated with docetaxel alone.
 
-## What are the risks associated with Vargatef?
+### What are the risks associated with Vargatef?
 
 The most common side effects with Vargatef (which may affect more than 1 in 10 people) include diarrhoea, vomiting and increased blood levels of certain liver enzymes (a sign of possible liver problems).
 
@@ -91,11 +91,11 @@ Vargatef must not be used in patients who are hypersensitive (allergic) to ninte
 
 For the full list of all side effects and restrictions with Vargatef, see the package leaflet.
 
-## Why is Vargatef approved?
+### Why is Vargatef approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that Vargatef's benefits are greater than its risks and recommended that it be approved for use in the EU. The CHMP noted that Vargatef was effective at slowing down disease progression and prolonging life in the subgroup of patients with non-small cell lung cancer of the adenocarcinoma type. Regarding its safety, although more side effects were reported in patients treated with Vargatef plus docetaxel than in those treated with docetaxel alone, the side effects were considered manageable with dose reductions, supportive treatments and treatment interruptions.
 
-## What measures are being taken to ensure the safe and effective use of Vargatef?
+### What measures are being taken to ensure the safe and effective use of Vargatef?
 
 A risk management plan has been developed to ensure that Vargatef is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Vargatef, including the appropriate precautions to be followed by healthcare professionals and patients.
 
@@ -103,7 +103,7 @@ In addition, the company that markets Vargatef will conduct studies to find ways
 
 Further information can be found in the [Vargatef : EPAR - Risk management plan](/en/documents/rmp/vargatef-epar-risk-management-plan_en.pdf) .
 
-## Other information about Vargatef
+### Other information about Vargatef
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Vargatef on 21 November 2014.
 
@@ -119,7 +119,7 @@ English (EN) (76.64 KB - PDF)
 
 [View](/en/documents/overview/vargatef-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-863)
+[Other languages (22)](#file-language-dropdown-404)
 
 български (BG) (104.4 KB - PDF)
 
@@ -151,7 +151,7 @@ Deutsch (DE) (78.08 KB - PDF)
 
 [View](/de/documents/overview/vargatef-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.39 KB - PDF)
+eesti (ET) (75.39 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -181,13 +181,13 @@ italiano (IT) (76.15 KB - PDF)
 
 [View](/it/documents/overview/vargatef-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (98.25 KB - PDF)
+latviešu (LV) (98.25 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
 [View](/lv/documents/overview/vargatef-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (99.86 KB - PDF)
+lietuvių (LT) (99.86 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -241,7 +241,7 @@ slovenščina (SL) (96.41 KB - PDF)
 
 [View](/sl/documents/overview/vargatef-epar-summary-public_sl.pdf)
 
-Suomi (FI) (75.54 KB - PDF)
+suomi (FI) (75.54 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -265,161 +265,161 @@ English (EN) (2.99 MB - PDF)
 
 Vargatef : EPAR - Product Information
 
-English (EN) (306.29 KB - PDF)
+English (EN) (472.06 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/en/documents/product-information/vargatef-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-349)
 
-български (BG) (332 KB - PDF)
+български (BG) (547.38 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/bg/documents/product-information/vargatef-epar-product-information_bg.pdf)
 
-español (ES) (313.96 KB - PDF)
+español (ES) (472.91 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/es/documents/product-information/vargatef-epar-product-information_es.pdf)
 
-čeština (CS) (336.93 KB - PDF)
+čeština (CS) (596.76 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/cs/documents/product-information/vargatef-epar-product-information_cs.pdf)
 
-dansk (DA) (323.46 KB - PDF)
+dansk (DA) (483.34 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/da/documents/product-information/vargatef-epar-product-information_da.pdf)
 
-Deutsch (DE) (321.92 KB - PDF)
+Deutsch (DE) (497.88 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/de/documents/product-information/vargatef-epar-product-information_de.pdf)
 
-eesti keel (ET) (301.81 KB - PDF)
+eesti (ET) (485.37 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/et/documents/product-information/vargatef-epar-product-information_et.pdf)
 
-ελληνικά (EL) (361.57 KB - PDF)
+ελληνικά (EL) (581.4 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/el/documents/product-information/vargatef-epar-product-information_el.pdf)
 
-français (FR) (317.76 KB - PDF)
+français (FR) (511.65 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/fr/documents/product-information/vargatef-epar-product-information_fr.pdf)
 
-hrvatski (HR) (296.64 KB - PDF)
+hrvatski (HR) (478.14 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/hr/documents/product-information/vargatef-epar-product-information_hr.pdf)
 
-íslenska (IS) (312.52 KB - PDF)
+italiano (IT) (472 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
-
-[View](/is/documents/product-information/vargatef-epar-product-information_is.pdf)
-
-italiano (IT) (303.02 KB - PDF)
-
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/it/documents/product-information/vargatef-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (315.75 KB - PDF)
+latviešu (LV) (547.94 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/lv/documents/product-information/vargatef-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (343.92 KB - PDF)
+lietuvių (LT) (585.1 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/lt/documents/product-information/vargatef-epar-product-information_lt.pdf)
 
-magyar (HU) (324.72 KB - PDF)
+magyar (HU) (543.19 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/hu/documents/product-information/vargatef-epar-product-information_hu.pdf)
 
-Malti (MT) (377.45 KB - PDF)
+Malti (MT) (572.38 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/mt/documents/product-information/vargatef-epar-product-information_mt.pdf)
 
-Nederlands (NL) (308.8 KB - PDF)
+Nederlands (NL) (488.25 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/nl/documents/product-information/vargatef-epar-product-information_nl.pdf)
 
-norsk (NO) (306.36 KB - PDF)
+polski (PL) (561.81 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
-
-[View](/no/documents/product-information/vargatef-epar-product-information_no.pdf)
-
-polski (PL) (322.97 KB - PDF)
-
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/pl/documents/product-information/vargatef-epar-product-information_pl.pdf)
 
-português (PT) (302.77 KB - PDF)
+português (PT) (485.82 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/pt/documents/product-information/vargatef-epar-product-information_pt.pdf)
 
-română (RO) (313.28 KB - PDF)
+română (RO) (537.94 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/ro/documents/product-information/vargatef-epar-product-information_ro.pdf)
 
-slovenčina (SK) (320.33 KB - PDF)
+slovenčina (SK) (602.3 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/sk/documents/product-information/vargatef-epar-product-information_sk.pdf)
 
-slovenščina (SL) (294.26 KB - PDF)
+slovenščina (SL) (491.03 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/sl/documents/product-information/vargatef-epar-product-information_sl.pdf)
 
-Suomi (FI) (309.06 KB - PDF)
+suomi (FI) (504.3 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/fi/documents/product-information/vargatef-epar-product-information_fi.pdf)
 
-svenska (SV) (294.98 KB - PDF)
+svenska (SV) (459.26 KB - PDF)
 
-**First published:** 08/01/2015 **Last updated:** 22/08/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
 
 [View](/sv/documents/product-information/vargatef-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2701
+Íslenska (IS) (422.14 KB - PDF)
 
-04/07/2024
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
+
+[View](/is/documents/product-information/vargatef-epar-product-information_is.pdf)
+
+norsk (NO) (482.89 KB - PDF)
+
+**First published:** 08/01/2015 **Last updated:** 10/06/2026
+
+[View](/no/documents/product-information/vargatef-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000355233
+
+10/06/2026
 
 icon globe
 
@@ -443,7 +443,7 @@ English (EN) (21.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-394)
+[Other languages (24)](#file-language-dropdown-997)
 
 български (BG) (42.12 KB - PDF)
 
@@ -475,7 +475,7 @@ Deutsch (DE) (21.42 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20.94 KB - PDF)
+eesti (ET) (20.94 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -499,25 +499,19 @@ hrvatski (HR) (31.42 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (20.87 KB - PDF)
-
-**First published:** 08/01/2015 **Last updated:** 08/01/2015
-
-[View](/is/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (21.19 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
 [View](/it/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (38.73 KB - PDF)
+latviešu (LV) (38.73 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
 [View](/lv/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (38.19 KB - PDF)
+lietuvių (LT) (38.19 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -540,12 +534,6 @@ Nederlands (NL) (21.52 KB - PDF)
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
 [View](/nl/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (21.48 KB - PDF)
-
-**First published:** 08/01/2015 **Last updated:** 08/01/2015
-
-[View](/no/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (39.01 KB - PDF)
 
@@ -577,7 +565,7 @@ slovenščina (SL) (34.14 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (21.26 KB - PDF)
+suomi (FI) (21.26 KB - PDF)
 
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
@@ -588,6 +576,18 @@ svenska (SV) (21.22 KB - PDF)
 **First published:** 08/01/2015 **Last updated:** 08/01/2015
 
 [View](/sv/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (20.87 KB - PDF)
+
+**First published:** 08/01/2015 **Last updated:** 08/01/2015
+
+[View](/is/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (21.48 KB - PDF)
+
+**First published:** 08/01/2015 **Last updated:** 08/01/2015
+
+[View](/no/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -629,7 +629,7 @@ Marketing authorisation holder
 
 Boehringer Ingelheim International GmbH
 
-Binger Strasse 173
+Binger Strasse 173 55216 Ingelheim Germany
 
 Opinion adopted
 
@@ -641,7 +641,7 @@ Marketing authorisation issued
 
 Revision
 
-21
+22
 
 ## Assessment history
 
@@ -649,15 +649,23 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vargatef : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (275.28 KB - PDF)
+English (EN) (154.77 KB - PDF)
 
-**First published:** 27/05/2015 **Last updated:** 22/08/2024
+**First published:** 10/06/2026
 
 [View](/en/documents/procedural-steps-after/vargatef-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vargatef : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (275.28 KB - PDF)
+
+**First published:** 27/05/2015 **Last updated:** 10/06/2026
+
+[View](/en/documents/procedural-steps-after/vargatef-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Vargatef-H-C-PSUSA-00010318-202210 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -719,7 +727,7 @@ English (EN) (71.31 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vargatef-h-c-psusa-00010318-201511-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vargatef : EPAR - Public assessment report
 
@@ -750,6 +758,6 @@ English (EN) (4.24 MB - PDF)
 
 **This page was last updated on**
 
-19/03/2026
+10/06/2026
 
 ## Share this page

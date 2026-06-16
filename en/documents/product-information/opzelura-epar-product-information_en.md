@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 15:16:39
-document_pages: 29
+document_datetime: 2026-06-15 15:41:13
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opzelura-epar-product-information_en.pdf
 document_name: opzelura-epar-product-information_en.pdf
 version: success
-processing_time: 8.1482079
-conversion_datetime: 2026-03-25 12:41:26.148893
+processing_time: 8.049037
+conversion_datetime: 2026-06-16 13:56:45.540861
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -245,7 +245,7 @@ Figure 1: Proportion of patients achieving F-VASI75 during the 52 week treatment
 
 <!-- image -->
 
-Vehicle BID-1.5% BID: Patients on vehicle twice daily for the first 24 weeks who crossed over to Opzehura twice daily for 28 weeks
+VehicleBID-1.5%BID:Patientsonvehicle twicedailyforthefirst24weekswhocrossedover toOpzehura twice dailyfor28weeks
 
 At week 52, the observed response rate for F-VASI90, T-VASI50 and VNS was 30.3%, 51.1%, and 36.3% respectively for the ITT pooled population.
 
@@ -315,9 +315,9 @@ In embryofetal development studies, oral administration of ruxolitinib to rats a
 
 ## 6.1 List of excipients
 
-Butylated hydroxytoluene (as an antioxidant in paraffin, white soft) (E321)
+Butylated hydroxytoluene (as an antioxidant in paraffin, white soft) (E321) Cetyl alcohol Methyl parahydroxybenzoate (E218)
 
-Cetyl alcohol Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Methyl parahydroxybenzoate (E218) Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Phosphoric acid (E338) Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol Xanthan gum (E415)
+Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Phosphoric acid (E338) Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol Xanthan gum (E415)
 
 ## 6.2 Incompatibilities
 
@@ -335,23 +335,27 @@ Do not store above 30ºC.
 
 ## 6.5 Nature and contents of container
 
-Laminate tube with an inner lining of low-density and high-density polyethylene with a polypropylene cap, or aluminium tube with internal lacquer coating with a polypropylene puncture cap.
+Laminate tube with an inner lining of low-density and high-density polyethylene with a polypropylene cap, or aluminium tube with internal lacquer coating with a polypropylene (100 g tube) or high-density polyethylene (5 g tube) puncture cap.
 
-Tube of 100 g. One tube per carton.
+Tubes of 5 g and 100 g. One tube per carton.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1726/001 EU/1/23/1726/002
+
+EU/1/23/1726/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -359,7 +363,7 @@ Date of first authorisation: 19 April 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -415,7 +419,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Outer carton (aluminium tube)
+Outer carton (aluminium tube) (100 g)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -459,9 +463,7 @@ Do not store above 30 ºC.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
-
-Netherlands
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -477,7 +479,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Opzelura
 
@@ -499,7 +501,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Outer carton (laminate tube)
+Outer carton (laminate tube) (100 g)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -561,7 +563,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Opzelura
 
@@ -570,6 +572,88 @@ Opzelura
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Outer carton (aluminium tube) (5 g)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Opzelura 15 mg/g cream ruxolitinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 g of cream contains 15 mg of ruxolitinib (as phosphate).
+
+## 3. LIST OF EXCIPIENTS
+
+Butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol and xanthan gum (E415).
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Cream
+
+1 tube (5 g)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Cutaneous use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 ºC.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1726/003
+
+1 tube (5 g)
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Opzelura
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -633,8 +717,8 @@ Do not store above 30 ºC.
 
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1726/001 1 tube (100 g)
 
@@ -704,38 +788,68 @@ Do not store above 30 ºC.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1726/002 1 tube (100 g)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| TUBE (printed tube or label, aluminium tube) (5 g)                 |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Opzelura 15 mg/g cream ruxolitinib Cutaneous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+5 g
+
+| 6.   | OTHER   |
+|------|---------|
+
+Incyte Biosciences Distribution B.V. (as Incyte logo)
+
+EU/1/23/1726/003
 
 <div style=\"page-break-after: always\"></div>
 
@@ -832,13 +946,13 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 - -Wash your hands after applying this medicine, unless you are treating your hands. If someone applies this medicine to you, they should wash their hands after application.
 - -Avoid washing treated skin for at least 2 hours after application of Opzelura.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Duration of use
 
 Your doctor will decide how long you should use the cream for.
 
 A minimum duration of 6 months is recommended but satisfactory treatment may require over 12 months. If you achieve satisfactory repigmentation of treated areas, consult your doctor to discuss if treatment of those areas could be stopped. Consult your doctor if you experience loss of repigmentation after stopping treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use more than two 100 gram tubes a month.
 
@@ -856,7 +970,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-The following side effects have been reported with Opzelura: Common (may affect up to 1 in 10 people)
+The following side effects have been reported with Opzelura:
+
+Common (may affect up to 1 in 10 people)
 
 - -acne at application site
 
@@ -881,17 +997,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Opzelura contains
 
 - -The active substance is ruxolitinib. One gram of cream contains 15 mg of ruxolitinib.
-- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338),
+- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain
 
 <div style=\"page-break-after: always\"></div>
 
-polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
+triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
 
 See section 2 'Opzelura contains propylene glycol, cetyl alcohol, stearyl alcohol, methyl parahydroxybenzoate, propyl parahydroxybenzoate, butylated hydroxytoluene and polysorbate 20'.
 
 ## What Opzelura looks like and contents of the pack
 
-Opzelura cream is coloured white to off-white, supplied in a tube containing 100 g cream. There is one tube per carton.
+Opzelura cream is coloured white to off-white, supplied in tubes containing 5 g and 100 g cream. There is one tube per carton.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -899,4 +1015,4 @@ Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherla
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu

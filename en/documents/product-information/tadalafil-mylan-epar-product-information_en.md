@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-02-25 13:11:34
+document_datetime: 2026-06-15 09:52:21
 document_pages: 89
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tadalafil-mylan-epar-product-information_en.pdf
 document_name: tadalafil-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 20.7598934
-conversion_datetime: 2026-03-01 19:46:43.780486
+processing_time: 18.7065228
+conversion_datetime: 2026-06-16 13:54:48.432559
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -52,7 +54,7 @@ Tadalafil Mylan is not indicated for use by women.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Adult men
 
@@ -184,11 +186,9 @@ Interaction studies were conducted with 10 mg and/or 20 mg tadalafil, as indicat
 
 ## Cytochrome P450 inhibitors
 
-Tadalafil is principally metabolised by CYP3A4. A selective inhibitor of CYP3A4, ketoconazole (200 mg daily), increased tadalafil (10 mg) exposure (AUC) 2-fold and C max by 15%, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) exposure (AUC) 4-fold and Cmax by 22%. Ritonavir, a protease inhibitor (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) exposure (AUC) 2-fold with no change in Cmax. Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be
+Tadalafil is principally metabolised by CYP3A4. A selective inhibitor of CYP3A4, ketoconazole (200 mg daily), increased tadalafil (10 mg) exposure (AUC) 2-fold and C max by 15%, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) exposure (AUC) 4-fold and Cmax by 22%. Ritonavir, a protease inhibitor (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) exposure (AUC) 2-fold with no change in Cmax. Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be co-administered with caution as they would be expected to increase plasma concentrations of tadalafil (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-co-administered with caution as they would be expected to increase plasma concentrations of tadalafil (see section 4.4).
 
 Consequently the incidence of the adverse reactions listed in section 4.8 might be increased.
 
@@ -297,25 +297,26 @@ Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), 
 
 <div style=\"page-break-after: always\"></div>
 
-| Eye disorders                                   |                                                 | Blurred vision, Sensations described as eye pain            | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2 , Retinal vascular occlusion 2   | Central serous chorioretinopathy                |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                                 | Ear and labyrinth disorders                                                                                                                                    | Ear and labyrinth disorders                     |
-|                                                 |                                                 | Tinnitus                                                    | Sudden hearing loss                                                                                                                                            |                                                 |
-| Cardiac disorders 1                             | Cardiac disorders 1                             | Cardiac disorders 1                                         | Cardiac disorders 1                                                                                                                                            | Cardiac disorders 1                             |
-|                                                 |                                                 | Tachycardia, Palpitations                                   | Myocardial infarction, Unstable angina pectoris 2 , Ventricular arrhythmia 2                                                                                   |                                                 |
-| Vascular disorders                              | Vascular disorders                              | Vascular disorders                                          | Vascular disorders                                                                                                                                             | Vascular disorders                              |
-|                                                 | Flushing                                        | Hypotension 3 , Hypertension                                |                                                                                                                                                                |                                                 |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders             | Respiratory, thoracic and mediastinal disorders                                                                                                                | Respiratory, thoracic and mediastinal disorders |
-|                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                                         |                                                                                                                                                                |                                                 |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                  | Gastrointestinal disorders                                                                                                                                     | Gastrointestinal disorders                      |
-|                                                 | Dyspepsia                                       | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |                                                                                                                                                                |                                                 |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                      | Skin and subcutaneous tissue disorders                                                                                                                         | Skin and subcutaneous tissue disorders          |
-|                                                 |                                                 | Rash                                                        | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)                                                                    |                                                 |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders             | Musculoskeletal and connective tissue disorders                                                                                                                | Musculoskeletal and connective tissue disorders |
-|                                                 | Back pain, Myalgia, Pain in extremity           |                                                             |                                                                                                                                                                |                                                 |
-| Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                                 | Renal and urinary disorders                                                                                                                                    | Renal and urinary disorders                     |
-|                                                 |                                                 | Haematuria                                                  |                                                                                                                                                                |                                                 |
-| Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders                    | Reproductive system and breast disorders                                                                                                                       | Reproductive system and breast disorders        |
+| Eye disorders                                   | Eye disorders                                   | Eye disorders                                               | Eye disorders                                                                                                                                                | Eye disorders                                   |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+|                                                 |                                                 | Blurred vision, Sensations described as eye pain            | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2 , Retinal vascular occlusion 2 | Central serous chorioretinopathy                |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                                 | Ear and labyrinth disorders                                                                                                                                  | Ear and labyrinth disorders                     |
+|                                                 |                                                 | Tinnitus                                                    | Sudden hearing loss                                                                                                                                          |                                                 |
+| Cardiac disorders 1                             | Cardiac disorders 1                             | Cardiac disorders 1                                         | Cardiac disorders 1                                                                                                                                          | Cardiac disorders 1                             |
+|                                                 |                                                 | Tachycardia, Palpitations                                   | Myocardial infarction, Unstable angina pectoris 2 , Ventricular arrhythmia 2                                                                                 |                                                 |
+| Vascular disorders                              | Vascular disorders                              | Vascular disorders                                          | Vascular disorders                                                                                                                                           | Vascular disorders                              |
+|                                                 | Flushing                                        | Hypotension 3 , Hypertension                                |                                                                                                                                                              |                                                 |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders             | Respiratory, thoracic and mediastinal disorders                                                                                                              | Respiratory, thoracic and mediastinal disorders |
+|                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                                         |                                                                                                                                                              |                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                  | Gastrointestinal disorders                                                                                                                                   | Gastrointestinal disorders                      |
+|                                                 | Dyspepsia                                       | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |                                                                                                                                                              |                                                 |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                      | Skin and subcutaneous tissue disorders                                                                                                                       | Skin and subcutaneous tissue disorders          |
+|                                                 |                                                 | Rash                                                        | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)                                                                  |                                                 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders             | Musculoskeletal and connective tissue disorders                                                                                                              | Musculoskeletal and connective tissue disorders |
+|                                                 | Back pain, Myalgia, Pain in extremity           |                                                             |                                                                                                                                                              |                                                 |
+| Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                                 | Renal and urinary disorders                                                                                                                                  | Renal and urinary disorders                     |
+|                                                 |                                                 | Haematuria                                                  |                                                                                                                                                              |                                                 |
+| Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders                    | Reproductive system and breast disorders                                                                                                                     | Reproductive system and breast disorders        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -823,17 +824,7 @@ General disorders and administration site conditions
 
 Chest pain 1 , Peripheral oedema, Fatigue
 
-Facial oedema
-
-2
-
-,
-
-Sudden cardiac death
-
-1,
-
-2
+Facial oedema 2 , Sudden cardiac death 1, 2
 
 <div style=\"page-break-after: always\"></div>
 
@@ -885,11 +876,9 @@ Tadalafil administered to healthy subjects produced no significant difference co
 
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test. This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5. Across all clinical studies, reports of changes in colour vision were rare (&lt; 0.1%).
 
-Three studies were conducted in men to assess the potential effect on spermatogenesis of tadalafil 10 mg (one 6-month study) and 20 mg (one 6-month and one 9-month study) administered daily. In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely
+Three studies were conducted in men to assess the potential effect on spermatogenesis of tadalafil 10 mg (one 6-month study) and 20 mg (one 6-month and one 9-month study) administered daily. In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance. These effects were not associated with changes in other parameters such as motility, morphology and FSH.
 
 <div style=\"page-break-after: always\"></div>
-
-clinical relevance. These effects were not associated with changes in other parameters such as motility, morphology and FSH.
 
 ## Erectile dysfunction
 
@@ -909,11 +898,9 @@ The maintenance of the effect was evaluated in an open-label extension to one of
 
 ## Paediatric population
 
-A single study has been performed in paediatric patients with Duchenne Muscular Dystrophy (DMD) in which no evidence of efficacy was seen. The randomised, double-blind, placebo-controlled, parallel, 3-arm study of tadalafil was conducted in 331 boys aged 7-14 years with DMD receiving concurrent corticosteroid therapy. The study included a 48-week double-blind period where patients were randomised to tadalafil 0.3 mg/kg, tadalafil 0.6 mg/kg, or placebo daily. Tadalafil did not show efficacy in slowing the decline in ambulation as measured by the primary 6 minute walk distance (6MWD) endpoint: least squares (LS) mean change in 6MWD at 48 weeks was -51.0 meters (m) in the placebo group, compared with -64.7 m in the tadalafil 0.3 mg/kg group (p = 0.307) and -59.1 m in the tadalafil 0.6 mg/kg group (p = 0.538). In addition,
+A single study has been performed in paediatric patients with Duchenne Muscular Dystrophy (DMD) in which no evidence of efficacy was seen. The randomised, double-blind, placebo-controlled, parallel, 3-arm study of tadalafil was conducted in 331 boys aged 7-14 years with DMD receiving concurrent corticosteroid therapy. The study included a 48-week double-blind period where patients were randomised to tadalafil 0.3 mg/kg, tadalafil 0.6 mg/kg, or placebo daily. Tadalafil did not show efficacy in slowing the decline in ambulation as measured by the primary 6 minute walk distance (6MWD) endpoint: least squares (LS) mean change in 6MWD at 48 weeks was -51.0 meters (m) in the placebo group, compared with -64.7 m in the tadalafil 0.3 mg/kg group (p = 0.307) and -59.1 m in the tadalafil 0.6 mg/kg group (p = 0.538). In addition, there was no evidence of efficacy from any of the secondary analyses performed in this study. The overall safety results from this study were generally consistent with the known safety profile of tadalafil and with adverse events (AEs) expected in a paediatric DMD population receiving corticosteroids.
 
 <div style=\"page-break-after: always\"></div>
-
-there was no evidence of efficacy from any of the secondary analyses performed in this study. The overall safety results from this study were generally consistent with the known safety profile of tadalafil and with adverse events (AEs) expected in a paediatric DMD population receiving corticosteroids.
 
 The European Medicines Agency has waived the obligation to submit the results of studies in all subsets of the paediatric population in the treatment of the erectile dysfunction. See section 4.2 for information on paediatric use.
 
@@ -953,11 +940,9 @@ Healthy elderly subjects (65 years or over), had a lower oral clearance of tadal
 
 ## Renal insufficiency
 
-In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine
+In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, C max was 41% higher than that observed in healthy subjects. Haemodialysis contributes negligibly to tadalafil elimination.
 
 <div style=\"page-break-after: always\"></div>
-
-clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, C max was 41% higher than that observed in healthy subjects. Haemodialysis contributes negligibly to tadalafil elimination.
 
 ## Hepatic insufficiency
 
@@ -1019,17 +1004,12 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/961/012
-
-EU/1/14/961/013
-
-EU/1/14/961/014
-
-EU/1/14/961/015
-
-EU/1/14/961/016
-
-EU/1/14/961/017
+- EU/1/14/961/012
+- EU/1/14/961/013
+- EU/1/14/961/014
+- EU/1/14/961/015
+- EU/1/14/961/016
+- EU/1/14/961/017
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1229,9 +1209,7 @@ Consequently the incidence of the adverse reactions listed in section 4.8 might 
 
 ## Transporters
 
-The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known.
-
-Therefore there is the potential of drug interactions mediated by inhibition of transporters.
+The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known. Therefore there is the potential of drug interactions mediated by inhibition of transporters.
 
 ## Cytochrome P450 inducers
 
@@ -1249,11 +1227,9 @@ The co-administration of doxazosin (4 and 8 mg daily) and tadalafil (5 mg daily 
 
 In interaction studies performed in a limited number of healthy volunteers, these effects were not reported with alfuzosin or tamsulosin. However, caution should be exercised when using tadalafil in patients treated with any alpha-blockers, and notably in the elderly. Treatments should be initiated at minimal dosage and progressively adjusted.
 
-In clinical pharmacology studies, the potential for tadalafil to augment the hypotensive effects of antihypertensive medicinal products was examined. Major classes of antihypertensive medicinal products were studied, including calcium channel blockers (amlodipine), angiotensin converting enzyme (ACE) inhibitors (enalapril), beta-adrenergic receptor blockers (metoprolol), thiazide diuretics (bendroflumethiazide), and angiotensin II receptor blockers (various types and doses, alone or in combination with thiazides, calcium channel blockers, beta-blockers, and/or alpha-blockers). Tadalafil (10 mg except for studies with angiotensin II receptor blockers and amlodipine in which a 20 mg dose was applied) had no clinically significant interaction with any of these classes. In another clinical pharmacology study tadalafil (20 mg) was studied in combination with up to 4 classes of antihypertensives. In subjects
+In clinical pharmacology studies, the potential for tadalafil to augment the hypotensive effects of antihypertensive medicinal products was examined. Major classes of antihypertensive medicinal products were studied, including calcium channel blockers (amlodipine), angiotensin converting enzyme (ACE) inhibitors (enalapril), beta-adrenergic receptor blockers (metoprolol), thiazide diuretics (bendroflumethiazide), and angiotensin II receptor blockers (various types and doses, alone or in combination with thiazides, calcium channel blockers, beta-blockers, and/or alpha-blockers). Tadalafil (10 mg except for studies with angiotensin II receptor blockers and amlodipine in which a 20 mg dose was applied) had no clinically significant interaction with any of these classes. In another clinical pharmacology study tadalafil (20 mg) was studied in combination with up to 4 classes of antihypertensives. In subjects taking multiple antihypertensives, the ambulatory-blood-pressure changes appeared to relate to the degree of blood-pressure control. In this regard, study subjects whose blood pressure was well controlled, the reduction was minimal and similar to that seen in healthy subjects. In study subjects whose blood pressure was not controlled, the reduction was greater although this reduction was not associated with hypotensive symptoms in the majority of subjects. In patients receiving concomitant antihypertensive medicinal products, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see above-) is, in general, minor and not likely to be clinically relevant. Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicinal products. However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicinal products.
 
 <div style=\"page-break-after: always\"></div>
-
-taking multiple antihypertensives, the ambulatory-blood-pressure changes appeared to relate to the degree of blood-pressure control. In this regard, study subjects whose blood pressure was well controlled, the reduction was minimal and similar to that seen in healthy subjects. In study subjects whose blood pressure was not controlled, the reduction was greater although this reduction was not associated with hypotensive symptoms in the majority of subjects. In patients receiving concomitant antihypertensive medicinal products, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see above-) is, in general, minor and not likely to be clinically relevant. Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicinal products. However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicinal products.
 
 ## Riociguat
 
@@ -1339,7 +1315,7 @@ Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), 
 |                                                 |                                                 | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2 , Retinal vascular occlusion 2 | Central serous chorioretinopathy                |
 | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                      | Ear and labyrinth disorders                                                                                                                                  | Ear and labyrinth disorders                     |
 |                                                 |                                                 | Tinnitus                                         | Sudden hearing loss                                                                                                                                          |                                                 |
-| Cardiac disorders 1                             | Cardiac disorders 1                             | Cardiac disorders 1                              | Cardiac disorders 1                                                                                                                                          | Cardiac disorders 1                             |
+| 1                                               | 1                                               | 1                                                | 1                                                                                                                                                            | 1                                               |
 |                                                 |                                                 | Tachycardia, Palpitations                        | Myocardial infarction, Unstable angina pectoris 2 , Ventricular arrhythmia 2                                                                                 |                                                 |
 | Vascular disorders                              | Vascular disorders                              | Vascular disorders                               | Vascular disorders                                                                                                                                           | Vascular disorders                              |
 |                                                 | Flushing                                        | Hypotension 3 , Hypertension                     |                                                                                                                                                              |                                                 |
@@ -1347,21 +1323,39 @@ Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), 
 |                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                              |                                                                                                                                                              |                                                 |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                       | Gastrointestinal disorders                                                                                                                                   | Gastrointestinal disorders                      |
 
+Dyspepsia
+
+Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux,
+
+Skin and subcutaneous tissue disorders
+
+Rash
+
+Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)
+
+Musculoskeletal and connective tissue disorders
+
+Back pain, Myalgia, Pain in extremity
+
+Renal and urinary disorders
+
+Haematuria
+
+Reproductive system and breast disorders
+
+Prolonged erections
+
+Priapism ,Penile haemorrhage, Haematospermia
+
+General disorders and administration site conditions
+
+Chest pain 1, Peripheral oedema, Fatigue
+
+Facial oedema 2 , Sudden cardiac death 1, 2
+
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Dyspepsia                                            | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux,   |                                                                                             |                                                      |
-|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                         | Skin and subcutaneous tissue disorders                                                      | Skin and subcutaneous tissue disorders               |
-|                                                      |                                                      | Rash                                                           | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating) |                                                      |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                | Musculoskeletal and connective tissue disorders                                             | Musculoskeletal and connective tissue disorders      |
-|                                                      | Back pain, Myalgia, Pain in extremity                |                                                                |                                                                                             |                                                      |
-| Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                                    | Renal and urinary disorders                                                                 | Renal and urinary disorders                          |
-|                                                      |                                                      | Haematuria                                                     |                                                                                             |                                                      |
-| Reproductive system and breast disorders             | Reproductive system and breast disorders             | Reproductive system and breast disorders                       | Reproductive system and breast disorders                                                    | Reproductive system and breast disorders             |
-|                                                      |                                                      | Prolonged erections                                            | Priapism ,Penile haemorrhage, Haematospermia                                                |                                                      |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions           | General disorders and administration site conditions                                        | General disorders and administration site conditions |
-|                                                      |                                                      | Chest pain 1, Peripheral oedema, Fatigue                       | Facial oedema 2 , Sudden cardiac death 1, 2                                                 |                                                      |
-
+- (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
 - (2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
 - (3) More commonly reported when tadalafil is given to patients who are already taking antihypertensive medicinal products.
 
@@ -1475,11 +1469,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 There was no evidence of teratogenicity, embryotoxicity or foetotoxicity in rats or mice that received up to 1000 mg/kg/day tadalafil. In a rat prenatal and postnatal development study, the no observed effect dose was 30 mg/kg/day. In the pregnant rat the AUC for calculated free drug at this dose was approximately 18 times the human AUC at a 20 mg dose.
 
-There was no impairment of fertility in male and female rats. In dogs given tadalafil daily for 6 to 12 months at doses of 25 mg/kg/day (resulting in at least a 3-fold greater exposure [range 3.7---18.6] than seen in
+There was no impairment of fertility in male and female rats. In dogs given tadalafil daily for 6 to 12 months at doses of 25 mg/kg/day (resulting in at least a 3-fold greater exposure [range 3.7---18.6] than seen in humans given a single 20 mg dose) and above, there was regression of the seminiferous tubular epithelium that resulted in a decrease in spermatogenesis in some dogs. See also section 5.1.
 
 <div style=\"page-break-after: always\"></div>
-
-humans given a single 20 mg dose) and above, there was regression of the seminiferous tubular epithelium that resulted in a decrease in spermatogenesis in some dogs. See also section 5.1.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1545,7 +1537,15 @@ EU/1/14/961/011
 
 ## Tadalafil Mylan 20 mg film-coated tablets
 
-EU/1/14/961/002 EU/1/14/961/003 EU/1/14/961/004 EU/1/14/961/005 EU/1/14/961/006
+EU/1/14/961/002
+
+EU/1/14/961/003
+
+EU/1/14/961/004
+
+EU/1/14/961/005
+
+EU/1/14/961/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1576,7 +1576,7 @@ McDermott Laboratories Limited t/a Gerard Laboratories Unit 35/36 Baldoyle Indus
 
 Mylan Hungary Kft. Mylan utca 1 Komárom 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1586,20 +1586,20 @@ Medicinal product subject to medical prescription
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- At the request of the European Medicines Agency;
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -1625,7 +1625,7 @@ If the dates for submission of a PSUR and the update of a RMP coincide, they can
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1637,7 +1637,7 @@ Contains lactose.
 
 See leaflet for further information.
 
-28 film-coated tablets
+- 28 film-coated tablets
 
 56 film-coated tablets
 
@@ -1659,6 +1659,10 @@ CARTON
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -1675,56 +1679,57 @@ CARTON
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited
 
-EU/1/14/961/008
+Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-EU/1/14/961/009
+EU/1/14/961/008 EU/1/14/961/009
 
 Lot
 
 Tadalafil Mylan 2.5 mg
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
 PC:
 
 SN:
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
-|------------------------------------------------|
-| BLISTER                                        |
-
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
-
-Tadalafil Mylan 2.5 mg tablets tadalafil
-
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |------|-----------------------------------------|
-
-Mylan Pharmaceuticals Limited
 
 | 3.   | EXPIRYDATE   |
 |------|--------------|
 
-EXP
-
 | 4.   | BATCHNUMBER   |
 |------|---------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 3. EXPIRY DATE
+
+## 4. BATCH NUMBER
+
+## 5. OTHER
+
+Tadalafil Mylan 2.5 mg tablets tadalafil
+
+Mylan Pharmaceuticals Limited
+
+EXP
+
+Lot
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1778,13 +1783,23 @@ CARTON
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Mylan Pharmaceuticals Limited
 
@@ -1795,8 +1810,6 @@ Mulhuddart, Dublin 15,
 DUBLIN
 
 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/961/012
 
@@ -1810,58 +1823,51 @@ EU/1/14/961/016
 
 EU/1/14/961/017
 
-## 13. BATCH NUMBER
-
 Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
 
 Tadalafil Mylan 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC:
 
 SN:
 
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
-|------------------------------------------------|
-| BLISTER                                        |
-
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
-
-Tadalafil Mylan 5 mg tablets tadalafil
-
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
-
-Mylan Pharmaceuticals Limited
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
 | 4.   | BATCHNUMBER   |
 |------|---------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 3. EXPIRY DATE
+
+## 4. BATCH NUMBER
+
+## 5. OTHER
+
+Tadalafil Mylan 5 mg tablets tadalafil
+
+Mylan Pharmaceuticals Limited
+
+EXP
+
+Lot
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1875,7 +1881,7 @@ Lot
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1917,13 +1923,7 @@ CARTON
 
 Mylan Pharmaceuticals Limited
 
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1939,8 +1939,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Tadalafil Mylan 10 mg
 
@@ -1958,32 +1957,37 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
-|------------------------------------------------|
-| BLISTER                                        |
-
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
-
-Tadalafil Mylan 10 mg tablets tadalafil
-
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |------|-----------------------------------------|
-
-Mylan Pharmaceuticals Limited
 
 | 3.   | EXPIRYDATE   |
 |------|--------------|
 
-EXP
-
 | 4.   | BATCHNUMBER   |
 |------|---------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 3. EXPIRY DATE
+
+## 4. BATCH NUMBER
+
+## 5. OTHER
+
+Tadalafil Mylan 10 mg tablets tadalafil
+
+Mylan Pharmaceuticals Limited
+
+EXP
+
+Lot
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2041,20 +2045,6 @@ CARTON
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 Mylan Pharmaceuticals Limited
 
 Damastown Industrial Park,
@@ -2064,6 +2054,8 @@ Mulhuddart, Dublin 15,
 DUBLIN
 
 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/961/002
 
@@ -2075,11 +2067,23 @@ EU/1/14/961/005
 
 EU/1/14/961/006
 
+## 13. BATCH NUMBER
+
 Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Tadalafil Mylan 20 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC:
 
@@ -2088,19 +2092,6 @@ SN:
 NN:
 
 <div style=\"page-break-after: always\"></div>
-
-| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
-|------------------------------------------------|
-| BLISTER                                        |
-
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
-
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
 
 | 4.   | BATCHNUMBER   |
 |------|---------------|
@@ -2112,7 +2103,7 @@ NN:
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 ## 4. BATCH NUMBER
 
@@ -2126,15 +2117,17 @@ EXP
 
 Lot
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## Tadalafil Mylan 2.5 mg film-coated tablets
 
@@ -2281,7 +2274,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## If you experience any of the following side effects stop using the medicine and seek medical help immediately:
 
-- -allergic reactions including rashes (frequency uncommon).
+-allergic reactions including rashes (frequency uncommon).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2355,33 +2348,31 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road
-
-Dublin 13 Ireland
+McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00
 
-Viatris
+Lietuva (Lithuania)
 
-Tél/Tel: + 32 (0)2 658 61 00
+Viatris UAB
 
-Lietuva (Lithuania) Viatris UAB Tel: + 370 5 205 1288
+Tel: + 370 5 205 1288
 
 <div style=\"page-break-after: always\"></div>
 
 ## България (Bulgaria)
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
-: + 359 2 44 55 400
+.: + 359 2 44 55 400
 
 ## Č eská republika
 
@@ -2411,7 +2402,9 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ : + 30 2100 100 002
+Τηλ
+
+: + 30 2100 100 002
 
 ## España
 
@@ -2551,13 +2544,11 @@ Tel: + 371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
 
-## Tadalafil Mylan 5 mg film-coated tablets
+## Package leaflet: Information for the patient
 
-## tadalafil
+## Tadalafil Mylan 5 mg film-coated tablets tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2724,7 +2715,7 @@ Common (may affect up to 1 in 10 people)
 
 - -headache, back pain, muscle aches, pain in arms and legs, facial flushing, nasal congestion, and indigestion.
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - -dizziness, stomach ache, feeling sick, being sick (vomiting), reflux, blurred vision, eye pain, difficulty in breathing, presence of blood in urine, prolonged erection, pounding heartbeat sensation, a fast heart rate, high blood pressure, low blood pressure, nose bleeds, ringing in the ears, swelling of the hands, feet or ankles and feeling tired.
 
@@ -2792,7 +2783,7 @@ Mylan Hungary Kft. Mylan utca 1 Komárom, 2900
 
 ## Hungary
 
-Mylan Germany GmbH
+Viatris Germany GmbH
 
 Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1
 
@@ -2818,11 +2809,11 @@ Tel: + 370 5 205 1288
 
 ## България (Bulgaria)
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
-: + 359 2 44 55 400
+.: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2922,15 +2913,9 @@ Tel: + 351 214 127 200
 
 ## Hrvatska (Croatia)
 
-## România
-
 Viatris Hrvatska d.o.o.
 
 Tel: + 385 1 23 50 599
-
-BGP Products SRL
-
-Tel: + 40 372 579 000
 
 ## Ireland
 
@@ -2938,35 +2923,17 @@ Viatris Limited
 
 Tel: +353 1 8711600
 
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: + 354 540 8000
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: + 421 2 32 199 100
-
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 (0) 2 612 46921
-
-## Suomi/Finland
-
-Viatris OY
-
-Puh/Tel: + 358 20 720 9555
 
 ## Κύπρος (Cyprus)
 
@@ -2975,12 +2942,6 @@ CPO Pharmaceuticals Ltd
 Τηλ
 
 : +357 22863100
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
 
 ## Latvija
 
@@ -2994,13 +2955,41 @@ Tel: + 371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Package leaflet: Information for the patient
+## România
+
+BGP Products SRL
+
+Tel: + 40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: + 421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris OY
+
+Puh/Tel: + 358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Tadalafil Mylan 10 mg film-coated tablets
+## Package leaflet: Information for the patient
 
-## tadalafil
+## Tadalafil Mylan 10 mg film-coated tablets tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3210,13 +3199,11 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-McDermott Laboratories Ltd. t/a Gerard Laboratories
-
-35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
+McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -3234,19 +3221,17 @@ Tel: + 370 5 205 1288
 
 ## България (Bulgaria)
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
-: + 359 2 44 55 400
+.: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
 Viatris
 
-Tél/Tel: + 32 (0)2 658 61 00
-
-(Belgique/Belgien)
+Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3410,13 +3395,11 @@ Tel: + 46 (0)8 630 19 00
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
 
-## Tadalafil Mylan 20 mg film-coated tablets
+## Package leaflet: Information for the patient
 
-## tadalafil
+## Tadalafil Mylan 20 mg film-coated tablets tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3630,7 +3613,7 @@ McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Es
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+ViatrisGermany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -3648,15 +3631,15 @@ Tel: + 370 5 205 1288
 
 ## България (Bulgaria)
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
-: + 359 2 44 55 400
+.: + 359 2 44 55 400
 
-## Luxembourg/Luxemburg
+Luxembourg/Luxemburg Viatris Tél/Tel: + 32 (0)2 658 61 00
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
+(Belgique/Belgien)
 
 <div style=\"page-break-after: always\"></div>
 

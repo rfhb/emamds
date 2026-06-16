@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-05 11:45:39
+document_datetime: 2026-06-10 14:56:08
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vargatef-epar-product-information_en.pdf
 document_name: vargatef-epar-product-information_en.pdf
 version: success
-processing_time: 10.7339824
-conversion_datetime: 2025-12-21 18:04:50.716315
+processing_time: 10.8532648
+conversion_datetime: 2026-06-16 13:53:53.767734
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,16 +84,12 @@ Table 1: Recommended dose adjustments for Vargatef (nintedanib) in case of diarr
 | Vomiting ≥ grade 2 AND/OR Nausea ≥ grade 3 despite anti-emetic treatment                                                                        | After treatment interruption and recovery to grade 1 or baseline, dose reduction from 200 mg twice daily to 150 mg twice daily and - if a 2 nd dose reduction is considered necessary - from 150 mg twice daily to 100 mg twice daily. |
 | Other non-haematological or haematological adverse reaction of ≥ grade 3                                                                        | After treatment interruption and recovery to grade 1 or baseline, dose reduction from 200 mg twice daily to 150 mg twice daily and - if a 2 nd dose reduction is considered necessary - from 150 mg twice daily to 100 mg twice daily. |
 
-* CTCAE: Common Terminology Criteria for Adverse Events
-
 Table 2: Recommended dose adjustments for Vargatef (nintedanib) in case of AST and/or ALT and bilirubin elevations
 
 | AST / ALT and bilirubin elevations                                                                                                                                | Dose adjustment                                                                                                                                                                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Elevation of AST and/or ALT values to > 2.5 × ULN in conjunction with total bilirubin elevation to ≥ 1.5 × ULN OR Elevation of AST and/or ALT values to > 5 × ULN | After treatment interruption and recovery of transaminase-values to ≤ 2.5 × ULN in conjunction with bilirubin to normal, dose reduction from 200 mg twice daily to 150 mg twice daily and - if a 2 nd dose reduction is considered necessary - from 150 mg twice daily to 100 mg twice daily. |
 | Elevation of AST and/or ALT values to > 3 × ULN in conjunction with an increase of total bilirubin to ≥ 2 × ULN and ALKP < 2 × ULN                                | Unless there is an alternative cause established, Vargatef should be permanently discontinued                                                                                                                                                                                                 |
-
-AST: Aspartate aminotransferase; ALT: Alanine aminotransferase
 
 ALKP: Alkaline phosphatase; ULN: Upper limit normal
 
@@ -137,11 +133,9 @@ Diarrhoea was the most frequently reported gastro-intestinal adverse reaction an
 
 Nausea and vomiting, mostly of mild to moderate severity, were frequently reported gastrointestinal adverse reactions (see section 4.8). Interruption, dose reduction or discontinuation of therapy with Vargatef (see section 4.2) may be required despite appropriate supportive care. Supportive care for nausea and vomiting may include medicinal products with anti-emetic properties, e.g. glucocorticoids, anti-histamines or 5-HT3 receptor antagonists and adequate hydration.
 
-In the event of dehydration, administration of electrolytes and fluids is required. Plasma levels of
+In the event of dehydration, administration of electrolytes and fluids is required. Plasma levels of electrolytes should be monitored, if relevant gastrointestinal adverse events occur. Interruption, dose reduction or discontinuation of therapy with Vargatef may be required (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-electrolytes should be monitored, if relevant gastrointestinal adverse events occur. Interruption, dose reduction or discontinuation of therapy with Vargatef may be required (see section 4.2).
 
 ## Neutropenia and sepsis
 
@@ -271,11 +265,9 @@ If the patient becomes pregnant while receiving Vargatef, she should be apprised
 
 ## Breast-feeding
 
-There is no information on the excretion of nintedanib and its metabolites in human milk. Preclinical studies showed that small amounts of nintedanib and its metabolites (≤ 0.5% of the
+There is no information on the excretion of nintedanib and its metabolites in human milk. Preclinical studies showed that small amounts of nintedanib and its metabolites (≤ 0.5% of the administered dose) were secreted into milk of lactating rats. A risk to the breast-fed child cannot be excluded. Breast-feeding should be discontinued during treatment with Vargatef.
 
 <div style=\"page-break-after: always\"></div>
-
-administered dose) were secreted into milk of lactating rats. A risk to the breast-fed child cannot be excluded. Breast-feeding should be discontinued during treatment with Vargatef.
 
 ## Fertility
 
@@ -312,21 +304,13 @@ Table 3: Summary of ADRs per frequency category
 | Skin and subcutaneous tissue disorders | Mucositis (including stomatitis), Rash, Alopecia 1)                                                                               | Pruritus                                                        |                                         |                                              |
 | Renal and urinary disorders            |                                                                                                                                   | Proteinuria 1)                                                  | Renal failure (see section 4.4)         |                                              |
 
-1) In clinical trials the frequency was not increased in patients treated with nintedanib plus docetaxel as compared to placebo plus docetaxel.
-
-2) Events of pancreatitis have been reported in patients taking nintedanib for the treatment of IPF and NSCLC. The majority of these events were reported for patients in the IPF indication.
-
-3) Cases of pulmonary embolism have been reported.
-
 ## Description of selected adverse reactions
 
 ## Diarrhoea
 
-Diarrhoea occurred in 43.4% (≥ grade 3: 6.3%) of adenocarcinoma patients in the nintedanib arm. The
+Diarrhoea occurred in 43.4% (≥ grade 3: 6.3%) of adenocarcinoma patients in the nintedanib arm. The majority of adverse reactions appeared in close temporal relationship with the administration of docetaxel. Most patients recovered from diarrhoea following treatment interruption, anti-diarrhoeal therapy and nintedanib dose reduction.
 
 <div style=\"page-break-after: always\"></div>
-
-majority of adverse reactions appeared in close temporal relationship with the administration of docetaxel. Most patients recovered from diarrhoea following treatment interruption, anti-diarrhoeal therapy and nintedanib dose reduction.
 
 For recommended measures and dosing adjustments in case of diarrhoea, see sections 4.4 and 4.2, respectively.
 
@@ -384,15 +368,13 @@ Dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) measurements show
 
 The efficacy and safety of Vargatef was investigated in 1 314 adult patients with locally advanced, metastatic or recurrent NSCLC after one prior line of chemotherapy. 'Locally recurrent' was defined as local re-occurrence of the tumour without metastases at trial entry. The trial included 658 patients (50.1%) with adenocarcinoma, 555 patients (42.2%) with squamous cell carcinoma, and 101 patients (7.7%) with other tumour histologies.
 
-Patients were randomised (1:1) to receive nintedanib 200 mg orally twice daily in combination with 75 mg/m 2 of intravenous docetaxel every 21 days (n = 655) or placebo orally twice daily in combination with 75 mg/m 2 of docetaxel every 21 days (n = 659). Randomization was stratified according to Eastern Cooperative Oncology Group (ECOG) status (0 versus 1), bevacizumab pretreatment (yes versus no), brain metastasis (yes versus no) and tumour histology (squamous versus non-squamous tumour histology).
+Patients were randomised (1:1) to receive nintedanib 200 mg orally twice daily in combination with 75 mg/m 2  of intravenous docetaxel every 21 days (n = 655) or placebo orally twice daily in combination with 75 mg/m 2  of docetaxel every 21 days (n = 659). Randomization was stratified according to Eastern Cooperative Oncology Group (ECOG) status (0 versus 1), bevacizumab pretreatment (yes versus no), brain metastasis (yes versus no) and tumour histology (squamous versus non-squamous tumour histology).
 
 Patient characteristics were balanced between treatment arms within the overall population and within subgroups according to histology. In the overall population, 72.7% of the patients were male. The majority of patients were non-Asian (81.6%), the median age was 60.0 years, the baseline ECOG performance status was 0 (28.6%) or 1 (71.3%); one patient had a baseline ECOG performance status of 2. Five point eight percent (5.8%) of the patients had stable brain metastasis at trial entry and 3.8% had prior bevacizumab treatment.
 
-The disease stage was determined at the time of diagnosis using Union Internationale Contre le Cancer (UICC) / American Joint Committee on Cancer (AJCC) Edition 6 or Edition 7. In the overall
+The disease stage was determined at the time of diagnosis using Union Internationale Contre le Cancer (UICC) / American Joint Committee on Cancer (AJCC) Edition 6 or Edition 7. In the overall population, 16.0% of the patients had disease stage &lt; IIIB/IV, 22.4%, had disease stage IIIB and 61.6% had disease stage IV. 9.2% of the patients entered the trial with locally recurrent disease stage as had been evaluated at baseline. For patients with tumour of adenocarcinoma histology, 15.8% had disease stage &lt; IIIB/IV, 15.2%, had disease stage IIIB and 69.0% had disease stage IV. 5.8% of the adenocarcinoma patients entered the trial with locally recurrent disease stage as had been evaluated at baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-population, 16.0% of the patients had disease stage &lt; IIIB/IV, 22.4%, had disease stage IIIB and 61.6% had disease stage IV. 9.2% of the patients entered the trial with locally recurrent disease stage as had been evaluated at baseline. For patients with tumour of adenocarcinoma histology, 15.8% had disease stage &lt; IIIB/IV, 15.2%, had disease stage IIIB and 69.0% had disease stage IV. 5.8% of the adenocarcinoma patients entered the trial with locally recurrent disease stage as had been evaluated at baseline.
 
 The primary endpoint was progression-free survival (PFS) as assessed by an independent review committee (IRC) based on the intent-to-treat (ITT) population and tested by histology. Overall survival (OS) was the key secondary endpoint. Other efficacy outcomes included objective response, disease control, change in tumour size and health-related quality of life.
 
@@ -435,11 +417,11 @@ Table 4: Efficacy results for trial LUME-Lung 1 for patients with adenocarcinoma
 
 HR: hazard ratio; CI: confidence interval
 
-* Primary PFS analysis performed when 713 th PFS events had been observed based on IRC-assessment in the overall ITT population (332 events in adenocarcinoma patients).
+* Primary PFS analysis performed when 713 th  PFS events had been observed based on IRC-assessment in the overall ITT population (332 events in adenocarcinoma patients).
 
 ** Stratified by baseline ECOG PS (0 versus 1), brain metastases at baseline (yes versus no) and prior treatment with bevacizumab (yes versus no).
 
-*** OS analysis and follow-up PFS-analysis performed when 1 121 death cases had been observed in the overall ITT population (535 events in adenocarcinoma patients).
+***   OS analysis and follow-up PFS-analysis performed when 1 121 death cases had been observed in the overall ITT population (535 events in adenocarcinoma patients).
 
 + Odds ratio and p-value were obtained from a logistic regression model adjusted for baseline ECOG Performance Score (0 versus 1).
 
@@ -603,9 +585,7 @@ Aluminium/aluminium blisters containing 10 capsules each.
 
 Vargatef 100 mg soft capsules
 
-Pack-sizes:
-
-60 or 120 capsules, or multipack of 120 (2 × 60) capsules (2 cartons of 60 capsules each, wrapped in plastic foil).
+Pack-sizes: 60 or 120 capsules, or multipack of 120 (2 × 60) capsules (2 cartons of 60 capsules each, wrapped in plastic foil).
 
 Vargatef 150 mg soft capsules
 
@@ -651,7 +631,7 @@ Date of latest renewal: 26 August 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -680,20 +660,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -753,8 +733,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINALPRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -764,11 +743,11 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 EU/1/14/954/001 EU/1/14/954/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -785,8 +764,6 @@ Vargatef 100 mg
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -832,10 +809,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -860,6 +834,8 @@ Vargatef 100 mg
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -907,9 +883,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -919,7 +893,7 @@ EU/1/14/954/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -936,8 +910,6 @@ Vargatef 100 mg
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -983,6 +955,8 @@ Do not store above 25 °C.
 
 Store in the original package in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -997,7 +971,7 @@ EU/1/14/954/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1019,9 +993,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER (100 mg)                                    |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER (100 mg)                                     |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1052,9 +1026,9 @@ Do not open before use.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER (150 mg)                                    |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER (150 mg)                                     |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1093,7 +1067,7 @@ Do not open before use.
 
 ## Vargatef 100 mg soft capsules
 
-nintedanib
+## nintedanib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1175,11 +1149,9 @@ The following medicines may decrease the blood levels of nintedanib and thus may
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor or pharmacist for advice before taking this medicine.
 
 ## Pregnancy
 
@@ -1187,10 +1159,10 @@ Do not take this medicine during pregnancy, as it can harm your unborn baby and 
 
 ## Contraception
 
--  Women who can become pregnant must use a highly effective method of birth control to prevent pregnancy, when they start taking Vargatef, while they are taking Vargatef and for at least 3 months after stopping treatment.
--  You should discuss the most appropriate methods of contraception for you with your doctor.
--  Vomiting and/or diarrhoea or other gastrointestinal conditions can affect the absorption of oral hormonal contraceptives, such as birth control pills, and may reduce their effectiveness. Therefore, if experiencing these, talk to your doctor to discuss an alternative more appropriate method of contraception.
--  Tell your doctor or pharmacist immediately if you become pregnant or think you may be pregnant during treatment with Vargatef.
+- Women who can become pregnant must use a highly effective method of birth control to prevent pregnancy, when they start taking Vargatef, while they are taking Vargatef and for at least 3 months after stopping treatment.
+- You should discuss the most appropriate methods of contraception for you with your doctor.
+- Vomiting and/or diarrhoea or other gastrointestinal conditions can affect the absorption of oral hormonal contraceptives, such as birth control pills, and may reduce their effectiveness. Therefore, if experiencing these, talk to your doctor to discuss an alternative more appropriate method of contraception.
+- Tell your doctor or pharmacist immediately if you become pregnant or think you may be pregnant during treatment with Vargatef.
 
 ## Breast-feeding
 
@@ -1226,11 +1198,9 @@ This daily dose should be split into two doses of two capsules about 12 hours ap
 
 If you cannot tolerate the recommended dose of 400 mg per day because of side effects (see section 4), your doctor may reduce the daily dose of Vargatef. Do not reduce the dose or stop the treatment yourself without consulting your doctor first.
 
-Your doctor may reduce your recommended dose to 300 mg per day (two capsules of 150 mg). In this
+Your doctor may reduce your recommended dose to 300 mg per day (two capsules of 150 mg). In this case your doctor will prescribe Vargatef 150 mg soft capsules for your treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-case your doctor will prescribe Vargatef 150 mg soft capsules for your treatment.
 
 If necessary, your doctor may further reduce your daily dose to 200 mg per day (two capsules of 100 mg). You will be prescribed the appropriate capsule strength by your doctor if this happens.
 
@@ -1258,11 +1228,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You need to pay special attention if you get the following side effects during treatment with Vargatef:
 
-##  Diarrhoea (very common, may affect more than 1 in 10 people)
+## ▪ Diarrhoea (very common, may affect more than 1 in 10 people)
 
 Diarrhoea may lead to a loss of fluid and important salts (electrolytes, such as sodium or potassium) in your body. At the first signs of diarrhoea drink plenty of fluids and contact your doctor immediately. Start appropriate anti-diarrhoeal treatment, e.g. with loperamide, as soon as possible after having contacted your doctor.
 
-##  Febrile neutropenia and sepsis (common, may affect up to 1 in 10 people)
+## ▪ Febrile neutropenia and sepsis (common, may affect up to 1 in 10 people)
 
 Treatment with Vargatef may lead to a reduced number of a type of your white blood cells ( neutropenia ) which are important for the body's reaction against bacterial or fungal infections. As a consequence of neutropenia, fever ( febrile neutropenia ) and blood infection ( sepsis ) may occur. Tell your doctor immediately if you develop fever, chills, fast breathing or a fast heartbeat. During treatment with Vargatef your doctor will regularly monitor your blood cells and examine you for signs of infection, such as inflammation, fever or tiredness.
 
@@ -1270,52 +1240,52 @@ The following side effects were observed under treatment with this medicine:
 
 Very common side effects (may affect more than 1 in 10 people)
 
--  Diarrhoea - please see above
--  Painful, numb and/or tingling feeling in fingers and toes ( peripheral neuropathy )
--  Feeling sick ( nausea )
--  Throwing up ( vomiting )
--  Pain in the stomach (abdomen)
--  Bleeding
--  Decrease in the number of white blood cells ( neutropenia )
+- Diarrhoea - please see above
+- Painful, numb and/or tingling feeling in fingers and toes ( peripheral neuropathy )
+- Feeling sick ( nausea )
+- Throwing up ( vomiting )
+- Pain in the stomach (abdomen)
+- Bleeding
+- Decrease in the number of white blood cells ( neutropenia )
 
 <div style=\"page-break-after: always\"></div>
 
--  Inflammation of the mucous membranes lining the digestive tract including sores and ulcers in the mouth ( mucositis, including stomatitis )
--  Rash
--  Decreased appetite
--  Electrolyte imbalance
--  Increased liver enzyme values (alanine aminotransferase, aspartate aminotransferase, blood alkaline phosphatase) in the blood as seen from blood tests
--  Hair loss (alopecia)
+- Inflammation of the mucous membranes lining the digestive tract including sores and ulcers in the mouth ( mucositis, including stomatitis )
+- Rash
+- Decreased appetite
+- Electrolyte imbalance
+- Increased liver enzyme values (alanine aminotransferase, aspartate aminotransferase, blood alkaline phosphatase) in the blood as seen from blood tests
+- Hair loss (alopecia)
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Blood poisoning ( sepsis ) - please see above
--  Decrease in the number of white blood cells accompanied by fever ( febrile neutropenia )
--  Blood clots in the veins ( venous thromboembolism ), especially in the legs (symptoms include pain, redness, swelling, and warmth of a limb), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing (if you notice any of these symptoms, seek medical advice immediately)
--  High blood pressure ( hypertension )
--  Fluid loss ( dehydration )
--  Abscesses
--  Low platelet count ( thrombocytopenia )
--  Jaundice ( hyperbilirubinaemia )
--  Increased liver enzyme values (gamma-glutamyltransferase) in the blood as seen from blood tests
--  Weight loss
--  Itching
--  Headache
--  Increased amount of protein in your urine ( proteinuria )
+- Blood poisoning ( sepsis ) - please see above
+- Decrease in the number of white blood cells accompanied by fever ( febrile neutropenia )
+- Blood clots in the veins ( venous thromboembolism ), especially in the legs (symptoms include pain, redness, swelling, and warmth of a limb), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing (if you notice any of these symptoms, seek medical advice immediately)
+- High blood pressure ( hypertension )
+- Fluid loss ( dehydration )
+- Abscesses
+- Low platelet count ( thrombocytopenia )
+- Jaundice ( hyperbilirubinaemia )
+- Increased liver enzyme values (gamma-glutamyltransferase) in the blood as seen from blood tests
+- Weight loss
+- Itching
+- Headache
+- Increased amount of protein in your urine ( proteinuria )
 
 Uncommon side effects (may affect up to 1 in 100 people)
 
--  Occurrence of holes in the wall of your gut ( gastrointestinal perforation )
--  Serious liver problems
--  Inflammation of the pancreas ( pancreatitis )
--  Myocardial infarction
--  Renal failure
+- Occurrence of holes in the wall of your gut ( gastrointestinal perforation )
+- Serious liver problems
+- Inflammation of the pancreas ( pancreatitis )
+- Myocardial infarction
+- Renal failure
 
 ## Not known (cannot be estimated from the available data)
 
--  Inflammation of the large bowel
--  An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
--  A brain condition with symptoms such as headache, vision changes, confusion, seizure or other neurologic disturbances such as weakness in an arm or a leg, with or without high blood pressure (posterior reversible encephalopathy syndrome)
+- Inflammation of the large bowel
+- An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
+- A brain condition with symptoms such as headache, vision changes, confusion, seizure or other neurologic disturbances such as weakness in an arm or a leg, with or without high blood pressure (posterior reversible encephalopathy syndrome)
 
 ## Reporting of side effects
 
@@ -1361,9 +1331,9 @@ Vargatef 100 mg soft capsules (capsules) are peach-coloured, opaque, oblong caps
 
 Three pack-sizes of Vargatef 100 mg soft capsules are available:
 
--  One box containing 60 capsules (6 aluminium blisters of 10 capsules each).
--  One box containing 120 capsules (12 aluminium blisters of 10 capsules each).
--  A multipack containing 120 capsules (2 boxes of 60 capsules each, bundled together by a wrapping foil).
+- One box containing 60 capsules (6 aluminium blisters of 10 capsules each).
+- One box containing 120 capsules (12 aluminium blisters of 10 capsules each).
+- A multipack containing 120 capsules (2 boxes of 60 capsules each, bundled together by a wrapping foil).
 
 Not all pack sizes of Vargatef 100 mg soft capsules may be marketed.
 
@@ -1375,55 +1345,11 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
-
-## България
-
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ клон България Тел: +359 2 958 79 98
-
-## Česká republika
-
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
-
-## Danmark
-
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
-
-## Deutschland
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Eesti
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
-
-## Ελλάδα
-
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
-
-## España
-
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
-
-## France
-
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
-
-## Hrvatska
-
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
-
-## Ireland
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Lietuva
 
@@ -1431,47 +1357,87 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
 
 Tel: +370 5 2595942
 
+## България
+
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
+
 ## Luxembourg/Luxemburg
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+
+## Česká republika
+
+Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Magyarország
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
 
+## Danmark
+
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
+
 ## Malta
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+
+## Deutschland
+
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
 
 ## Nederland
 
 Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
+## Eesti
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
-Tlf: +47 66 76 13 00
+## Ελλάδα
+
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
 
 ## Österreich
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
+## España
+
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+
 ## Polska
 
 Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
+
+## France
+
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Portugal
 
 Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
+## Hrvatska
+
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+
 ## România
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 2800
 
+## Ireland
+
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1489,7 +1455,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρο ς
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
+
+Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -1499,7 +1467,7 @@ Tel: +371 67 240 011
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 ## Slovenská republika
 
@@ -1519,19 +1487,13 @@ Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
 
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
 ## Vargatef 150 mg soft capsules
 
-nintedanib
+## nintedanib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1613,11 +1575,9 @@ The following medicines may decrease the blood levels of nintedanib and thus may
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor or pharmacist for advice before taking this medicine.
 
 ## Pregnancy
 
@@ -1625,10 +1585,10 @@ Do not take this medicine during pregnancy, as it can harm your unborn baby and 
 
 ## Contraception
 
--  Women who can become pregnant must use a highly effective method of birth control to prevent pregnancy, when they start taking Vargatef, while they are taking Vargatef and for at least 3 months after stopping treatment.
--  You should discuss the most appropriate methods of contraception for you with your doctor.
--  Vomiting and/or diarrhoea or other gastrointestinal conditions can affect the absorption of oral hormonal contraceptives, such as birth control pills, and may reduce their effectiveness. Therefore, if experiencing these, talk to your doctor to discuss an alternative more appropriate method of contraception.
--  Tell your doctor or pharmacist immediately if you become pregnant or think you may be pregnant during treatment with Vargatef.
+- Women who can become pregnant must use a highly effective method of birth control to prevent pregnancy, when they start taking Vargatef, while they are taking Vargatef and for at least 3 months after stopping treatment.
+- You should discuss the most appropriate methods of contraception for you with your doctor.
+- Vomiting and/or diarrhoea or other gastrointestinal conditions can affect the absorption of oral hormonal contraceptives, such as birth control pills, and may reduce their effectiveness. Therefore, if experiencing these, talk to your doctor to discuss an alternative more appropriate method of contraception.
+- Tell your doctor or pharmacist immediately if you become pregnant or think you may be pregnant during treatment with Vargatef.
 
 ## Breast-feeding
 
@@ -1690,11 +1650,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You need to pay special attention if you get the following side effects during treatment with Vargatef:
 
-##  Diarrhoea (very common, may affect more than 1 in 10 people)
+## ▪ Diarrhoea (very common, may affect more than 1 in 10 people)
 
 Diarrhoea may lead to a loss of fluid and important salts (electrolytes, such as sodium or potassium) in your body. At the first signs of diarrhoea drink plenty of fluids and contact your doctor immediately. Start appropriate anti-diarrhoeal treatment, e.g. with loperamide, as soon as possible after having contacted your doctor.
 
-##  Febrile neutropenia and sepsis (common, may affect up to 1 in 10 people)
+## ▪ Febrile neutropenia and sepsis (common, may affect up to 1 in 10 people)
 
 Treatment with Vargatef may lead to a reduced number of a type of your white blood cells ( neutropenia ) which are important for the body's reaction against bacterial or fungal infections. As a consequence of neutropenia, fever ( febrile neutropenia ) and blood infection ( sepsis ) may occur. Tell your doctor immediately if you develop fever, chills, fast breathing or a fast heartbeat. During treatment with Vargatef your doctor will regularly monitor your blood cells and examine you for signs of infection, such as inflammation, fever or tiredness.
 
@@ -1702,54 +1662,54 @@ The following side effects were observed under treatment with this medicine:
 
 Very common side effects (may affect more than 1 in 10 people)
 
--  Diarrhoea - please see above
--  Painful, numb and/or tingling feeling in fingers and toes ( peripheral neuropathy )
--  Feeling sick ( nausea )
--  Throwing up ( vomiting )
--  Pain in the stomach (abdomen)
--  Bleeding
--  Decrease in the number of white blood cells ( neutropenia )
--  Inflammation of the mucous membranes lining the digestive tract including sores and ulcers in the mouth ( mucositis, including stomatitis )
--  Rash
--  Decreased appetite
--  Electrolyte imbalance
--  Increased liver enzyme values (alanine aminotransferase, aspartate aminotransferase, blood
+- Diarrhoea - please see above
+- Painful, numb and/or tingling feeling in fingers and toes ( peripheral neuropathy )
+- Feeling sick ( nausea )
+- Throwing up ( vomiting )
+- Pain in the stomach (abdomen)
+- Bleeding
+- Decrease in the number of white blood cells ( neutropenia )
+- Inflammation of the mucous membranes lining the digestive tract including sores and ulcers in the mouth ( mucositis, including stomatitis )
+- Rash
+- Decreased appetite
+- Electrolyte imbalance
+- Increased liver enzyme values (alanine aminotransferase, aspartate aminotransferase, blood
 
 <div style=\"page-break-after: always\"></div>
 
 alkaline phosphatase) in the blood as seen from blood tests
 
--  Hair loss (alopecia)
+- Hair loss (alopecia)
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Blood poisoning ( sepsis ) - please see above
--  Decrease in the number of white blood cells accompanied by fever ( febrile neutropenia )
--  Blood clots in the veins ( venous thromboembolism ), especially in the legs (symptoms include pain, redness, swelling, and warmth of a limb), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing (if you notice any of these symptoms, seek medical advice immediately)
--  High blood pressure ( hypertension )
--  Fluid loss ( dehydration )
--  Abscesses
--  Low platelet count ( thrombocytopenia )
--  Jaundice ( hyperbilirubinaemia )
--  Increased liver enzyme values (gamma-glutamyltransferase) in the blood as seen from blood tests
--  Weight loss
--  Itching
--  Headache
--  Increased amount of protein in your urine ( proteinuria )
+- Blood poisoning ( sepsis ) - please see above
+- Decrease in the number of white blood cells accompanied by fever ( febrile neutropenia )
+- Blood clots in the veins ( venous thromboembolism ), especially in the legs (symptoms include pain, redness, swelling, and warmth of a limb), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing (if you notice any of these symptoms, seek medical advice immediately)
+- High blood pressure ( hypertension )
+- Fluid loss ( dehydration )
+- Abscesses
+- Low platelet count ( thrombocytopenia )
+- Jaundice ( hyperbilirubinaemia )
+- Increased liver enzyme values (gamma-glutamyltransferase) in the blood as seen from blood tests
+- Weight loss
+- Itching
+- Headache
+- Increased amount of protein in your urine ( proteinuria )
 
-## Uncommon side effects (may affect up to 1 in 100 people)
+Uncommon side effects (may affect up to 1 in 100 people)
 
--  Occurrence of holes in the wall of your gut ( gastrointestinal perforation )
--  Serious liver problems
--  Inflammation of the pancreas ( pancreatitis )
--  Myocardial infarction
--  Renal failure
+- Occurrence of holes in the wall of your gut ( gastrointestinal perforation )
+- Serious liver problems
+- Inflammation of the pancreas ( pancreatitis )
+- Myocardial infarction
+- Renal failure
 
-## Not known (cannot be estimated from the available data)
+Not known (cannot be estimated from the available data)
 
--  Inflammation of the large bowel
--  An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
--  A brain condition with symptoms such as headache, vision changes, confusion, seizure or other neurologic disturbances such as weakness in an arm or a leg, with or without high blood pressure (posterior reversible encephalopathy syndrome)
+- Inflammation of the large bowel
+- An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
+- A brain condition with symptoms such as headache, vision changes, confusion, seizure or other neurologic disturbances such as weakness in an arm or a leg, with or without high blood pressure (posterior reversible encephalopathy syndrome)
 
 ## Reporting of side effects
 
@@ -1767,11 +1727,9 @@ Store in the original package in order to protect from moisture.
 
 Do not use this medicine if you notice that the blister containing the capsules is opened or a capsule is broken.
 
-If you are in contact with the content of the capsule, wash off your hands immediately with plenty of
+If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3).
 
 <div style=\"page-break-after: always\"></div>
-
-water (see section 3).
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1807,103 +1765,97 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim
 
 ## Boehringer Ingelheim France
 
-100-104 Avenue de France 75013 Paris
-
-France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
-## България
-
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ клон България Тел: +359 2 958 79 98
-
-## Česká republika
-
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
-
-## Danmark
-
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
-
-## Deutschland
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Eesti
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
-
-## Ελλάδα
-
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
-
-## España
-
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
-
-## France
-
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
-
-## Hrvatska
-
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
-
-## Ireland
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
-
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
 
-Tel: +370 5 2595942
+## България
+
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
 
 ## Luxembourg/Luxemburg
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
+## Česká republika
+
+Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
+
 ## Magyarország
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+
+## Danmark
+
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Malta
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
+## Deutschland
+
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+
 ## Nederland
 
 Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
+## Eesti
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
+
+## Ελλάδα
+
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
 
 ## Österreich
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
+## España
+
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+
 ## Polska
 
 Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
+
+## France
+
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Portugal
 
 Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
+## Hrvatska
+
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+
 ## România
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 2800
 
+## Ireland
+
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1933,7 +1885,7 @@ Tel: +371 67 240 011
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 ## Slovenská republika
 
@@ -1952,9 +1904,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

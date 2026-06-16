@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-30 15:23:24
+document_datetime: 2026-06-15 09:57:03
 document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sitagliptin-metformin-hydrochloride-mylan-epar-product-information_en.pdf
 document_name: sitagliptin-metformin-hydrochloride-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 11.6782236
-conversion_datetime: 2025-12-24 18:14:22.940374
+processing_time: 13.2917149
+conversion_datetime: 2026-06-16 13:55:15.88778
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,11 +44,11 @@ Film-coated tablet (tablet).
 
 ## Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg film-coated tablets
 
-A pink, capsule shaped, biconvex, bevelled edge tablet, debossed with 'M' on one side of the tablet and 'SM5' on the other side. Dimension: approximately 20 mm X 10 mm.
+A pink, capsule shaped, biconvex, bevell ed edge tablet, debossed with 'M' on one side of the tablet and 'SM5' on the other side. Dimension: approximately 20 mm X 10 mm.
 
 ## Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets
 
-A peach to brown, capsule shaped, biconvex, bevelled edge tablet, debossed with 'M' on one side of the tablet and 'SM7' on the other side. Dimension: approximately 21 mm X 10 mm.
+A peach to brown, capsule shaped, biconvex, bevell ed edge tablet, debossed with 'M' on one side of the tablet and 'SM7' on the other side. Dimension: approximately 21 mm X 10 mm.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -102,11 +102,9 @@ All patients should continue their recommended diet with an adequate distributio
 
 ## Renal impairment
 
-No dose adjustment is needed for patients with mild renal impairment (glomerular filtration rate [GFR]  60 mL/min). A GFR should be assessed before initiation of treatment with
+No dose adjustment is needed for patients with mild renal impairment (glomerular filtration rate [GFR]  60 mL/min). A GFR should be assessed before initiation of treatment with metformin-containing medicinal products and at least annually thereafter. In patients at increased risk of further progression of renal impairment and in the elderly, renal function should be assessed more frequently, e.g. every 3-6 months.
 
 <div style=\"page-break-after: always\"></div>
-
-metformin-containing medicinal products and at least annually thereafter. In patients at increased risk of further progression of renal impairment and in the elderly, renal function should be assessed more frequently, e.g. every 3-6 months.
 
 The maximum daily dose of metformin should preferably be divided into 2-3 daily doses. Factors that may increase the risk of lactic acidosis (see section 4.4) should be reviewed before considering initiation of metformin in patients with GFR &lt; 60 mL/min.
 
@@ -227,7 +225,7 @@ Metformin may reduce vitamin B12 serum levels. The risk of low vitamin B12 level
 
 ## Excipient(s)
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -421,11 +419,9 @@ Sitagliptin/metformin hydrochloride Mylan combines two antihyperglycaemic medici
 
 ## Mechanism of action
 
-Sitagliptin is an orally active, potent, and highly selective inhibitor of the dipeptidyl peptidase 4 (DPP4) enzyme for the treatment of type 2 diabetes. The DPP-4 inhibitors are a class of agents that act as incretin enhancers. By inhibiting the DPP-4 enzyme, sitagliptin increases the levels of two known active incretin hormones, glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP). The incretins are part of an endogenous system involved in the physiologic regulation of glucose homeostasis. When blood glucose concentrations are normal or elevated, GLP-1 and GIP increase insulin synthesis and release from pancreatic beta cells. GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to reduced hepatic glucose production. When blood glucose levels are low, insulin release is not enhanced and glucagon secretion is not suppressed. Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely related enzymes DPP-8 or DPP-9 at therapeutic concentrations. Sitagliptin differs in chemical structure and pharmacological action from GLP-1 analogues, insulin, sulphonylureas or meglitinides,
+Sitagliptin is an orally active, potent, and highly selective inhibitor of the dipeptidyl peptidase 4 (DPP4) enzyme for the treatment of type 2 diabetes. The DPP-4 inhibitors are a class of agents that act as incretin enhancers. By inhibiting the DPP-4 enzyme, sitagliptin increases the levels of two known active incretin hormones, glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP). The incretins are part of an endogenous system involved in the physiologic regulation of glucose homeostasis. When blood glucose concentrations are normal or elevated, GLP-1 and GIP increase insulin synthesis and release from pancreatic beta cells. GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to reduced hepatic glucose production. When blood glucose levels are low, insulin release is not enhanced and glucagon secretion is not suppressed. Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely related enzymes DPP-8 or DPP-9 at therapeutic concentrations. Sitagliptin differs in chemical structure and pharmacological action from GLP-1 analogues, insulin, sulphonylureas or meglitinides, biguanides, peroxisome proliferator-activated receptor gamma (PPAR  ) agonists, alpha-glucosidase inhibitors, and amylin analogues.
 
 <div style=\"page-break-after: always\"></div>
-
-biguanides, peroxisome proliferator-activated receptor gamma (PPAR  ) agonists, alpha-glucosidase inhibitors, and amylin analogues.
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents. Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations. Sitagliptin, but not metformin, increased active GIP concentrations.
 
@@ -433,7 +429,7 @@ In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1
 
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment in adult patients with type 2 diabetes.
 
-In clinical studies, sitagliptin as monotherapy improved glycaemic control with significant reductions in haemoglobin A1c (HbA1c) and fasting and postprandial glucose. Reduction in fasting plasma glucose (FPG) was observed at 3 weeks, the first time point at which FPG was measured. The observed incidence of hypoglycaemia in patients treated with sitagliptin was similar to placebo. Body weight did not increase from baseline with sitagliptin therapy. Improvements in surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently sampled meal tolerance test were observed.
+In clinical studies, sitagliptin as monotherapy improved glycaemic control with significant reductions in haemoglobin A1c (HbA1c) and fasting and postprandial glucose. Reduction in fasting plasma glucose (FPG) was observed at 3 weeks, the first time point at which FPG was measured. The observed incidence of hypoglycaemia in patients treated with sitagliptin was similar to placebo. Body weight did not increase from baseline with sitagliptin therapy. Improvements in surrogate markers of beta cell function, including HOMAβ (Homeostasis Model Assessment -β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently sampled meal tolerance test were observed.
 
 ## Studies of sitagliptin in combination with metformin
 
@@ -461,7 +457,7 @@ Table 2: HbA1c results in placebo-controlled combination therapy studies of sita
 
 | Study                                                                                     |   Mean baseline HbA 1c (%) | Mean change from baseline HbA 1c (%)   | Placebo-corrected mean change in HbA 1c (%) (95% CI)   |
 |-------------------------------------------------------------------------------------------|----------------------------|----------------------------------------|--------------------------------------------------------|
-| Sitagliptin 100 mg once daily added to ongoing metformin therapy II (N=453)               |                        8   | -0.7 †                                 | -0.7 † , ‡ (-0.8, -0.5)                                |
+| Sitagliptin 100 mg once daily added to ongoing metformin therapy II (N=453)               |                        8.0 | -0.7 †                                 | -0.7 † , ‡ (-0.8, -0.5)                                |
 | Sitagliptin 100 mg once daily added to ongoing glimepiride + metformin therapy II (N=115) |                        8.3 | -0.6 †                                 | -0.9 † , ‡ (-1.1, -0.7)                                |
 | Sitagliptin 100 mg once daily added to ongoing pioglitazone + metformin therapy ¶ (N=152) |                        8.8 | -1.2 †                                 | -0.7 † , ‡ (-1.0, -0.5)                                |
 | Sitagliptin 100 mg once daily added to ongoing insulin + metformin therapy II (N=223)     |                        8.7 | -0.7 §                                 | -0.5 § , ‡ (-0.7, -0.4)                                |
@@ -480,11 +476,9 @@ II HbA1c (%) at week 24.
 
 § Least squares mean adjusted for insulin use at Visit 1 (pre-mixed vs. non-pre-mixed [intermediateor long-acting]), and baseline value.
 
-In a 52-week study, comparing the efficacy and safety of the addition of sitagliptin 100 mg once daily or glipizide (a sulphonylurea) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c (-0.7 % mean change from baselines at week 52, with baseline HbA1c of approximately 7.5 % in both groups). The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients
+In a 52-week study, comparing the efficacy and safety of the addition of sitagliptin 100 mg once daily or glipizide (a sulphonylurea) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c (-0.7 % mean change from baselines at week 52, with baseline HbA1c of approximately 7.5 % in both groups). The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of  5 mg/day throughout the study. However, more patients in the sitagliptin group discontinued due to lack of efficacy than in the glipizide group. Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight (-1.5 kg) compared to a significant weight gain in patients administered glipizide (+1.1 kg). In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment. The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantly lower than that in the glipizide group (32 %).
 
 <div style=\"page-break-after: always\"></div>
-
-requiring a glipizide dose of  5 mg/day throughout the study. However, more patients in the sitagliptin group discontinued due to lack of efficacy than in the glipizide group. Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight (-1.5 kg) compared to a significant weight gain in patients administered glipizide (+1.1 kg). In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment. The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantly lower than that in the glipizide group (32 %).
 
 A 24-week placebo-controlled study involving 660 patients was designed to evaluate the insulin-sparing efficacy and safety of sitagliptin (100 mg once daily) added to insulin glargine with or without metformin (at least 1,500 mg) during intensification of insulin therapy. Among patients taking metformin, baseline HbA1c was 8.70 % and baseline insulin dose was 37 IU/day. Patients were instructed to titrate their insulin glargine dose based on fingerstick fasting glucose values. Among patients taking metformin, at Week 24, the increase in daily insulin dose was 19 IU/day in patients treated with sitagliptin and 24 IU/day in patients treated with placebo. The reduction in HbA1c for patients treated with sitagliptin, metformin, and insulin was -1.35 % compared to -0.90 % for patients treated with placebo, metformin, and insulin, a difference of -0.45 % [95 % CI: - 0.62, -0.29]. The incidence of hypoglycaemia was 24.9 % for patients treated with sitagliptin, metformin, and insulin and 37.8 % for patients treated with placebo, metformin, and insulin. The difference was mainly due to a higher percentage of patients in the placebo group experiencing 3 or more episodes of hypoglycaemia (9.1 vs. 19.8 %). There was no difference in the incidence of severe hypoglycaemia.
 
@@ -531,22 +525,22 @@ Table 3: Rates of composite cardiovascular outcomes and key secondary outcomes
 |                                                                                                                                            | N (%)                                         | Incidence rate per 100 patient- years*        | N (%)                                         | Incidence rate per 100 patient- years*        |                                               |                                               |
 | Analysis in the intention-to-treat population                                                                                              | Analysis in the intention-to-treat population | Analysis in the intention-to-treat population | Analysis in the intention-to-treat population | Analysis in the intention-to-treat population | Analysis in the intention-to-treat population | Analysis in the intention-to-treat population |
 | Number of patients                                                                                                                         | 7,332                                         | 7,332                                         | 7,339                                         | 7,339                                         |                                               |                                               |
-| Primary composite endpoint (Cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalisation for unstable angina) | 839 (11.4)                                    | 4.1                                           | 851 (11.6)                                    | 4.2                                           | 0.98 (0.89- 1.08)                             | <0.001                                        |
-| Secondary composite endpoint (Cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke)                                    | 745 (10.2)                                    | 3.6                                           | 746 (10.2)                                    | 3.6                                           | 0.99 (0.89- 1.10)                             | <0.001                                        |
+| Primary composite endpoint (Cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalisation for unstable angina) | 839 (11.4)                                    | 4.1                                           | 851 (11.6)                                    | 4.2                                           | 0.98 (0.89 - 1.08)                            | <0.001                                        |
+| Secondary composite endpoint (Cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke)                                    | 745 (10.2)                                    | 3.6                                           | 746 (10.2)                                    | 3.6                                           | 0.99 (0.89 - 1.10)                            | <0.001                                        |
 | Secondary outcome                                                                                                                          | Secondary outcome                             | Secondary outcome                             | Secondary outcome                             | Secondary outcome                             | Secondary outcome                             | Secondary outcome                             |
 | Cardiovascular death                                                                                                                       | 380 (5.2)                                     | 1.7                                           | 366 (5.0)                                     | 1.7                                           | 1.03 (0.89- 1.19)                             | 0.711                                         |
-| All myocardial infarction (fatal and non-fatal)                                                                                            | 300 (4.1)                                     | 1.4                                           | 316 (4.3)                                     | 1.5                                           | 0.95 (0.81- 1.11)                             | 0.487                                         |
-| All stroke (fatal and non- fatal)                                                                                                          | 178 (2.4)                                     | 0.8                                           | 183 (2.5)                                     | 0.9                                           | 0.97 (0.79- 1.19)                             | 0.760                                         |
+| All myocardial infarction (fatal and non-fatal)                                                                                            | 300 (4.1)                                     | 1.4                                           | 316 (4.3)                                     | 1.5                                           | 0.95 (0.81 - 1.11)                            | 0.487                                         |
+| All stroke (fatal and non- fatal)                                                                                                          | 178 (2.4)                                     | 0.8                                           | 183 (2.5)                                     | 0.9                                           | 0.97 (0.79 - 1.19)                            | 0.760                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hospitalisation for unstable angina   | 116 (1.6)   |   0.5 | 129 (1.8)   |   0.6 | 0.90 (0.70- 1.16)   |   0.419 |
-|---------------------------------------|-------------|-------|-------------|-------|---------------------|---------|
-| Death from any cause                  | 547 (7.5)   |   2.5 | 537 (7.3)   |   2.5 | 1.01 (0.90- 1.14)   |   0.875 |
-| Hospitalisation for heart failure ‡   | 228 (3.1)   |   1.1 | 229 (3.1)   |   1.1 | 1.00 (0.83- 1.20)   |   0.983 |
+| Hospitalisation for unstable angina   | 116 (1.6)   |   0.5 | 129 (1.8)   |   0.6 | 0.90 (0.70 - 1.16)   |   0.419 |
+|---------------------------------------|-------------|-------|-------------|-------|----------------------|---------|
+| Death from any cause                  | 547 (7.5)   |   2.5 | 537 (7.3)   |   2.5 | 1.01 (0.90 - 1.14)   |   0.875 |
+| Hospitalisation for heart failure ‡   | 228 (3.1)   |   1.1 | 229 (3.1)   |   1.1 | 1.00 (0.83 - 1.20)   |   0.983 |
 
-* Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥ 1 event during eligible exposure period per total patient-years of follow-up).
-- † Based on a Cox model stratified by region. For composite endpoints, the p-values correspond to a test of non-inferiority seeking to show that the hazard ratio is less than 1.3. For all other endpoints, the p-values correspond to a test of differences in hazard rates.
+* Incidence rate per 100 patientyears is calculated as 100 × (total number of patients with ≥ 1 event during eligible exposure period per total patient-years of follow-up).
+- † Based on a Cox model stratified by region. For composite endpoints, the p -values correspond to a test of non-inferiority seeking to show that the hazard ratio is less than 1.3. For all other endpoints, the p-values correspond to a test of differences in hazard rates.
 
 ‡ The analysis of hospitalisation for heart failure was adjusted for a history of heart failure at baseline.
 
@@ -570,7 +564,7 @@ The following statements reflect the pharmacokinetic properties of the individua
 
 ## Absorption
 
-Following oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM·hr, Cmax was 950 nM. The absolute bioavailability of sitagliptin is approximately 87 %. Since co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics, sitagliptin may be administered with or without food.
+Following oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM·hr, C max was 950 nM. The absolute bioavailability of sitagliptin is approximately 87 %. Since co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics, sitagliptin may be administered with or without food.
 
 Plasma AUC of sitagliptin increased in a dose-proportional manner. Dose-proportionality was not established for Cmax and C24 hr (Cmax increased in a greater than dose-proportional manner and C24 hr increased in a less than dose-proportional manner).
 
@@ -592,7 +586,7 @@ In vitro data showed that sitagliptin is not an inhibitor of CYP isoenzymes CYP3
 
 Following administration of an oral [ 14 C]sitagliptin dose to healthy subjects, approximately 100 % of the administered radioactivity was eliminated in faeces (13 %) or urine (87 %) within one week of dosing. The apparent terminal t½ following a 100-mg oral dose of sitagliptin was approximately 12.4 hours. Sitagliptin accumulates only minimally with multiple doses. The renal clearance was approximately 350 mL/min.
 
-Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion. Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin. The clinical relevance of hOAT-3 in sitagliptin transport has not been established. Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin. However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin. Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters. In vitro , sitagliptin did not inhibit OAT3 (IC50=160 μM) or p-glycoprotein (up to 250 μM) mediated transport at therapeutically relevant plasma concentrations. In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
+Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion. Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin. The clinical relevance of hOAT-3 in sitagliptin transport has not been established. Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin. However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin. Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters. In vitro , sitagliptin did not inhibit OAT3 (IC50=160 μ M) or p-glycoprotein (up to 250 μ M) mediated transport at therapeutically relevant plasma concentrations. In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
 
 ## Characteristics in patients
 
@@ -686,9 +680,7 @@ Cellulose, microcrystalline Silica, colloidal anhydrous Croscarmellose sodium So
 
 ## Film-coating
 
-Sitagliptin/metformin hydrochloride 50 mg/850 mg film-coating tablets
-
-Poly(vinyl alcohol) Macrogol Talc Titanium dioxide (E171) Red Iron oxide (E172) Yellow iron oxide (E172)
+Sitagliptin/metformin hydrochloride 50 mg/850 mg film-coating tablets Poly(vinyl alcohol) Macrogol Talc Titanium dioxide (E171) Red Iron oxide (E172) Yellow iron oxide (E172)
 
 Sitagliptin/metformin hydrochloride 50 mg/1,000 mg film-coating tablets Poly(vinyl alcohol)
 
@@ -708,7 +700,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-## PVC/PE/PVdC - Alu blisters
+## PVC/PE/PVdC -Alu blisters
 
 Blisters containing 14, 56, 98, or196 and a multi-pack containing 196 (2 packs of 98) film-coated tablets.
 
@@ -716,11 +708,9 @@ Unit-dose blisters containing 14 x 1, 56 x 1 or 60 x 1 film-coated tablets.
 
 High density polyethylene (HDPE) bottles
 
-HDPE bottles with white opaque polypropylene screw cap with aluminium induction sealing liner wad
+HDPE bottles with white opaque polypropylene screw cap with aluminium induction sealing liner wad Bottles containing 90 or 196 film-coated tablets.
 
 <div style=\"page-break-after: always\"></div>
-
-Bottles containing 90 or 196 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -775,7 +765,7 @@ Medis International as Prumyslova 961/16, Bolatice, 747 23, Czech Republic
 
 Mylan Hungary Kft Mylan utca 1, 2900 Komárom Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -818,7 +808,9 @@ Outer Carton for blisters and bottle
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg film-coated tablets sitagliptin/metformin hydrochloride
+Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg film-coated tablets
+
+sitagliptin/metformin hydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -833,7 +825,9 @@ Each tablet contains sitagliptin hydrochloride monohydrate equivalent to 50 mg o
 ## Blister:
 
 - 14 film-coated tablets
-- 56 film-coated tablets196 film-coated tablets14 x 1 film-coated tablets
+
+56 film-coated tablets196 film-coated tablets14 x 1 film-coated tablets
+
 - 56 x 1 film-coated tablets
 - 60 x 1 film-coated tablets
 - 98 film-coated tablets
@@ -864,11 +858,13 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
@@ -878,7 +874,8 @@ EU/1/21/1619/001 EU/1/21/1619/002 EU/1/21/1619/003 EU/1/21/1619/004 EU/1/21/1619
 
 EU/1/21/1619/008
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -899,8 +896,8 @@ Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -912,7 +909,9 @@ Intermediate Carton for blister multi-pack 2 packs - without blue box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg film-coated tablets sitagliptin/metformin hydrochloride
+Sitagliptin/Metformin hydrochloride Mylan 50 mg/850 mg film-coated tablets
+
+sitagliptin/metformin hydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -954,7 +953,7 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 EU/1/21/1619/018
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
@@ -1043,12 +1042,17 @@ EU/1/21/1619/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
@@ -1087,7 +1091,9 @@ Outer Carton for blisters and bottle
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets sitagliptin/metformin hydrochloride
+Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets
+
+sitagliptin/metformin hydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1102,7 +1108,8 @@ Each tablet contains sitagliptin hydrochloride monohydrate equivalent to 50 mg o
 ## Blister:
 
 - 14 film-coated tablets
-- 56 film-coated tablets
+
+56 film-coated tablets
 
 196 film-coated tablets14 x 1 film-coated tablets
 
@@ -1169,8 +1176,8 @@ Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1182,7 +1189,9 @@ Intermediate Carton for blister multi-pack 2 packs - without blue box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets sitagliptin/metformin hydrochloride
+Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets
+
+sitagliptin/metformin hydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1252,7 +1261,9 @@ Bottle Label
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets sitagliptin/metformin hydrochloride
+Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets
+
+sitagliptin/metformin hydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1300,20 +1311,22 @@ Ireland
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/21/1619/015 EU/1/21/1619/016
+EU/1/21/1619/015
 
-## 13. BATCH NUMBER
+EU/1/21/1619/016
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
@@ -1467,7 +1480,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - medicines which increase urine production (diuretics)
 - medicines used to treat pain and inflammation (NSAID and COX-2-inhibitors, such as ibuprofen and celecoxib)
 - certain medicines for the treatment of high blood pressure (ACE inhibitors and angiotensin II receptor antagonists)
-- specific medicines for the treatment of bronchial asthma (β-sympathomimetics)
+- specific medicines for the treatment of bronchial asthma (β -sympathomimetics)
 - iodinated contrast agents or alcohol-containing medicines
 - certain medicines used to treat stomach problems such as cimetidine
 - ranolazine, a medicine used to treat angina
@@ -1493,7 +1506,7 @@ Taking this medicine in combination with medicines called sulphonylureas or with
 
 ## Sitagliptin/Metformin hydrochloride Mylan contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Sitagliptin/Metformin hydrochloride Mylan
 
@@ -1553,11 +1566,9 @@ Some patients have experienced the following side effects while taking this medi
 
 Very common: low blood sugar Uncommon: dry mouth, headache
 
-Some patients have experienced the following side effects during clinical studies while taking sitagliptin alone (one of the medicines in Sitagliptin/Metformin hydrochloride Mylan) or during post-
+Some patients have experienced the following side effects during clinical studies while taking sitagliptin alone (one of the medicines in Sitagliptin/Metformin hydrochloride Mylan) or during post- approval use of Sitagliptin/Metformin hydrochloride Mylan or sitagliptin alone or with other diabetes medicines:
 
 <div style=\"page-break-after: always\"></div>
-
-approval use of Sitagliptin/Metformin hydrochloride Mylan or sitagliptin alone or with other diabetes medicines:
 
 Common: low blood sugar, headache, upper respiratory infection, stuffy or runny nose and sore throat, osteoarthritis, arm or leg pain
 
@@ -1567,7 +1578,9 @@ Rare: reduced number of platelets
 
 Frequency not known: kidney problems (sometimes requiring dialysis), vomiting, joint pain, muscle pain, back pain, interstitial lung disease, bullous pemphigoid (a type of skin blister)
 
-Some patients have experienced the following side effects while taking metformin alone: Very common: nausea, vomiting, diarrhoea, stomach ache and loss of appetite. These symptoms may happen when you start taking metformin and usually go away
+Some patients have experienced the following side effects while taking metformin alone:
+
+Very common: nausea, vomiting, diarrhoea, stomach ache and loss of appetite. These symptoms may happen when you start taking metformin and usually go away
 
 Common: a metallic taste, decreased or low vitamin B12 levels in the blood (symptoms may include extreme tiredness (fatigue), a sore and red tongue (glossitis), pins and needles (paraesthesia) or pale or yellow skin). Your doctor may arrange some tests to find out the cause of your symptoms because some of these may also be caused by diabetes or due to other unrelated health problems. Very rare: hepatitis (a problem with your liver), hives, redness of the skin (rash) or itching
 
@@ -1579,7 +1592,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister or the bottle label, and the carton after 'EXP'.
+Do not use this medicine after the expiry date which is stated on the blister or the bottle label, and the carton after ' EXP ' .
 
 The expiry date refers to the last day of the month.
 
@@ -1593,7 +1606,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substances are sitagliptin and metformin.
 - -Each 50 mg/850 mg film-coated tablet (tablet) contains sitagliptin hydrochloride monohydrate equivalent to 50 mg of sitagliptin and 850 mg of metformin hydrochloride.
-- -The other ingredients are microcrystalline cellulose, colloidal anhydrous silica, croscarmellose sodium, sodium laurilsulfate, povidone, sodium stearyl fumarate, polyvinyl alcohol, macrogol, talc, titanium dioxide (E171), red iron oxide (E172) and yellow iron oxide (E172). See section 2 'Sitagliptin/Metformin hydrochloride Mylan contains sodium'.
+- -The other ingredients are microcrystalline cellulose, colloidal anhydrous silica, croscarmellose sodium, sodium laurilsulfate, povidone, sodium stearyl fumarate, polyvinyl alcohol, macrogol, talc, titanium dioxide (E171), red iron oxide (E172) and yellow iron oxide (E172). See section 2 ' Sitagliptin/Metformin hydrochloride Mylan contains sodium'.
 
 ## What Sitagliptin/Metformin hydrochloride Mylan looks like and contents of the pack
 
@@ -1621,7 +1634,7 @@ Medis International as, Prumyslova 961/16, Bolatice, 747 23, Czech Republic
 
 Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1639,9 +1652,13 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис
 
-Тел: +359 2 44 55 400
+ЕООД
+
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1651,7 +1668,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1703,7 +1720,7 @@ Tlf: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 2100 100 002
+Τηλ:  +30 210 0 100 002
 
 ## Österreich
 
@@ -1787,7 +1804,7 @@ Puh/Tel: +358 20 720 9555
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ: +357 22 863100
 
 ## Sverige*
 
@@ -1807,9 +1824,9 @@ Tel: +371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## Sitagliptin/Metformin hydrochloride Mylan 50 mg/1,000 mg film-coated tablets sitagliptin/metformin hydrochloride
 
@@ -1929,7 +1946,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - medicines which increase urine production (diuretics)
 - medicines used to treat pain and inflammation (NSAID and COX-2-inhibitors, such as ibuprofen and celecoxib)
 - certain medicines for the treatment of high blood pressure (ACE inhibitors and angiotensin II receptor antagonists)
-- specific medicines for the treatment of bronchial asthma (β-sympathomimetics)
+- specific medicines for the treatment of bronchial asthma (β -sympathomimetics)
 - iodinated contrast agents or alcohol-containing medicines
 - certain medicines used to treat stomach problems such as cimetidine
 - ranolazine, a medicine used to treat angina
@@ -1955,7 +1972,7 @@ Taking this medicine in combination with medicines called sulphonylureas or with
 
 ## Sitagliptin/Metformin hydrochloride Mylan contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Sitagliptin/Metformin hydrochloride Mylan
 
@@ -2013,7 +2030,9 @@ Common: swelling of the hands or legs
 
 Some patients have experienced the following side effects while taking this medicine in combination with insulin:
 
-Very common: low blood sugar Uncommon: dry mouth, headache
+Very common: low blood sugar
+
+Uncommon: dry mouth, headache
 
 Some patients have experienced the following side effects during clinical studies while taking sitagliptin alone (one of the medicines in Sitagliptin/Metformin hydrochloride Mylan) or during postapproval use of Sitagliptin/Metformin hydrochloride Mylan or sitagliptin alone or with other diabetes medicines:
 
@@ -2023,11 +2042,13 @@ Uncommon: dizziness, constipation, itching
 
 Rare: reduced number of platelets
 
-<div style=\"page-break-after: always\"></div>
-
 Frequency not known: kidney problems (sometimes requiring dialysis), vomiting, joint pain, muscle pain, back pain, interstitial lung disease, bullous pemphigoid (a type of skin blister)
 
-Some patients have experienced the following side effects while taking metformin alone: Very common: nausea, vomiting, diarrhoea, stomach ache and loss of appetite. These symptoms may happen when you start taking metformin and usually go away
+<div style=\"page-break-after: always\"></div>
+
+Some patients have experienced the following side effects while taking metformin alone:
+
+Very common: nausea, vomiting, diarrhoea, stomach ache and loss of appetite. These symptoms may happen when you start taking metformin and usually go away
 
 Common: a metallic taste, decreased or low vitamin B12 levels in the blood (symptoms may include extreme tiredness (fatigue), a sore and red tongue (glossitis), pins and needles (paraesthesia) or pale or yellow skin). Your doctor may arrange some tests to find out the cause of your symptoms because some of these may also be caused by diabetes or due to other unrelated health problems. Very rare: hepatitis (a problem with your liver), hives, redness of the skin (rash) or itching
 
@@ -2080,17 +2101,17 @@ Medis International as, Prumyslova 961/16, Bolatice, 747 23, Czech Republic
 
 Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
+## Lietuva*
+
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
-
-## Lietuva*
 
 Viatris UAB
 
@@ -2098,9 +2119,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2110,7 +2133,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -2162,7 +2185,7 @@ Tlf: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 2100 100 002
+Τηλ:  +30 210 0 100 002
 
 ## Österreich
 
@@ -2246,7 +2269,7 @@ Puh/Tel: +358 20 720 9555
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ: +357 22 863100
 
 ## Sverige*
 

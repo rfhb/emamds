@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 16:08:00
+document_datetime: 2026-06-15 09:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tuyory.html
 document_name: tuyory.html
 version: success
-processing_time: 0.1116831
-conversion_datetime: 2026-05-22 22:32:39.048131
+processing_time: 0.1122972
+conversion_datetime: 2026-06-16 13:43:53.087587
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Tuyory
 
@@ -67,7 +67,7 @@ Expand section
 
 Collapse section
 
-## How is Tuyory used?
+### How is Tuyory used?
 
 Tuyory can only be obtained with a prescription, and treatment should be started by a doctor who has experience in the diagnosis and treatment of the condition being treated.
 
@@ -75,11 +75,11 @@ Tuyory is given by injection under the skin or by infusion (drip) into a vein. H
 
 For more information about using Tuyory, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tuyory work?
+### How does Tuyory work?
 
 The active substance in Tuyory, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin-6. This messenger is involved in inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, polyarticular juvenile idiopathic arthritis, giant cell arteritis, cytokine release syndrome and COVID-19. By preventing interleukin-6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
 
-## What benefits of Tuyory have been shown in studies?
+### What benefits of Tuyory have been shown in studies?
 
 Laboratory studies comparing Tuyory with RoActemra have shown that the active substance in Tuyory is highly similar to that in RoActemra in terms of structure, purity and biological activity. Studies have also shown that giving Tuyory produces similar levels of the active substance in the body to those seen with RoActemra.
 
@@ -87,7 +87,7 @@ In addition, Tuyory was as effective as RoActemra in improving symptoms of rheum
 
 Because Tuyory is a biosimilar medicine, the studies on effectiveness and safety of tocilizumab carried out with RoActemra do not all need to be repeated for Tuyory.
 
-## What are the side effects and restrictions with Tuyory?
+### What are the side effects and restrictions with Tuyory?
 
 For the full list of side effects and restrictions of Tuyory, see the package leaflet.
 
@@ -99,13 +99,13 @@ In patients with COVID-19, the most common side effects with tocilizumab (which 
 
 Tuyory must not be used in patients who have an active, severe infection (except COVID-19). Doctors should monitor patients carefully for signs of infection during treatment and should prescribe Tuyory with caution in patients who have had recurring or long-term infections, or diseases that could increase the risk of infections, such as diverticulitis or diabetes.
 
-## Why is Tuyory authorised in the EU?
+### Why is Tuyory authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Tuyory has a highly similar structure, purity and biological activity to RoActemra and is distributed in the body in the same way. In addition, a study in rheumatoid arthritis has shown that Tuyory and RoActemra are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Tuyory will have the same effects as RoActemra in its authorised uses. Therefore, the Agency's view was that, as for RoActemra, the benefits of Tuyory outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tuyory?
+### What measures are being taken to ensure the safe and effective use of Tuyory?
 
 The company that markets Tuyory will provide an information pack for patients, including the package leaflet and a patient card, with key safety information on the medicine.
 
@@ -113,7 +113,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Tuyory are continuously monitored. Suspected side effects reported with Tuyory are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tuyory
+### Other information about Tuyory
 
 Tuyory received a marketing authorisation valid throughout the EU on 27 April 2026.
 
@@ -127,7 +127,7 @@ English (EN) (159.3 KB - PDF)
 
 [View](/en/documents/overview/tuyory-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-428)
+[Other languages (22)](#file-language-dropdown-946)
 
 български (BG) (167.13 KB - PDF)
 
@@ -159,7 +159,7 @@ Deutsch (DE) (142.67 KB - PDF)
 
 [View](/de/documents/overview/tuyory-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (135.46 KB - PDF)
+eesti (ET) (135.46 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -189,13 +189,13 @@ italiano (IT) (137.98 KB - PDF)
 
 [View](/it/documents/overview/tuyory-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (168.09 KB - PDF)
+latviešu (LV) (168.09 KB - PDF)
 
 **First published:** 19/05/2026
 
 [View](/lv/documents/overview/tuyory-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (161.14 KB - PDF)
+lietuvių (LT) (161.14 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -249,7 +249,7 @@ slovenščina (SL) (161 KB - PDF)
 
 [View](/sl/documents/overview/tuyory-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (134.93 KB - PDF)
+suomi (FI) (134.93 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -263,9 +263,9 @@ svenska (SV) (147.04 KB - PDF)
 
 Tuyory : EPAR - Risk management plan
 
-English (EN) (7.67 MB - PDF)
+English (EN) (12.12 MB - PDF)
 
-**First published:** 19/05/2026
+**First published:** 19/05/2026 **Last updated:** 15/06/2026
 
 [View](/en/documents/rmp/tuyory-epar-risk-management-plan_en.pdf)
 
@@ -279,7 +279,7 @@ English (EN) (2.31 MB - PDF)
 
 [View](/en/documents/product-information/tuyory-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-300)
+[Other languages (23)](#file-language-dropdown-179)
 
 български (BG) (3.12 MB - PDF)
 
@@ -305,7 +305,7 @@ Deutsch (DE) (2.5 MB - PDF)
 
 [View](/de/documents/product-information/tuyory-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.78 MB - PDF)
+eesti (ET) (2.78 MB - PDF)
 
 **First published:** 19/05/2026
 
@@ -329,25 +329,19 @@ hrvatski (HR) (2.51 MB - PDF)
 
 [View](/hr/documents/product-information/tuyory-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.41 MB - PDF)
-
-**First published:** 19/05/2026
-
-[View](/is/documents/product-information/tuyory-epar-product-information_is.pdf)
-
 italiano (IT) (2.47 MB - PDF)
 
 **First published:** 19/05/2026
 
 [View](/it/documents/product-information/tuyory-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.25 MB - PDF)
+latviešu (LV) (2.25 MB - PDF)
 
 **First published:** 19/05/2026
 
 [View](/lv/documents/product-information/tuyory-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.33 MB - PDF)
+lietuvių (LT) (2.33 MB - PDF)
 
 **First published:** 19/05/2026
 
@@ -370,12 +364,6 @@ Nederlands (NL) (2.74 MB - PDF)
 **First published:** 19/05/2026
 
 [View](/nl/documents/product-information/tuyory-epar-product-information_nl.pdf)
-
-norsk (NO) (2.07 MB - PDF)
-
-**First published:** 19/05/2026
-
-[View](/no/documents/product-information/tuyory-epar-product-information_no.pdf)
 
 polski (PL) (2.88 MB - PDF)
 
@@ -407,7 +395,7 @@ slovenščina (SL) (2.26 MB - PDF)
 
 [View](/sl/documents/product-information/tuyory-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.75 MB - PDF)
+suomi (FI) (2.75 MB - PDF)
 
 **First published:** 19/05/2026
 
@@ -418,6 +406,18 @@ svenska (SV) (2.79 MB - PDF)
 **First published:** 19/05/2026
 
 [View](/sv/documents/product-information/tuyory-epar-product-information_sv.pdf)
+
+Íslenska (IS) (2.41 MB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/is/documents/product-information/tuyory-epar-product-information_is.pdf)
+
+norsk (NO) (2.07 MB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/no/documents/product-information/tuyory-epar-product-information_no.pdf)
 
 icon globe
 
@@ -441,7 +441,7 @@ English (EN) (57.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-641)
+[Other languages (23)](#file-language-dropdown-770)
 
 български (BG) (66.74 KB - PDF)
 
@@ -473,7 +473,7 @@ Deutsch (DE) (77.04 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (51.08 KB - PDF)
+eesti (ET) (51.08 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -497,25 +497,19 @@ hrvatski (HR) (59.39 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (55.57 KB - PDF)
-
-**First published:** 19/05/2026
-
-[View](/is/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (60.87 KB - PDF)
 
 **First published:** 19/05/2026
 
 [View](/it/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (60.43 KB - PDF)
+latviešu (LV) (60.43 KB - PDF)
 
 **First published:** 19/05/2026
 
 [View](/lv/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.96 KB - PDF)
+lietuvių (LT) (58.96 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -538,12 +532,6 @@ Nederlands (NL) (57.52 KB - PDF)
 **First published:** 19/05/2026
 
 [View](/nl/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (60.45 KB - PDF)
-
-**First published:** 19/05/2026
-
-[View](/no/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (62.91 KB - PDF)
 
@@ -569,7 +557,7 @@ slovenčina (SK) (59.04 KB - PDF)
 
 [View](/sk/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_sk.pdf)
 
-Suomi (FI) (56.91 KB - PDF)
+suomi (FI) (56.91 KB - PDF)
 
 **First published:** 19/05/2026
 
@@ -581,15 +569,23 @@ svenska (SV) (55.43 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (55.57 KB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/is/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (60.45 KB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/no/documents/all-authorised-presentations/tuyory-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
 Name of medicine
 
 Tuyory
-
-Active substance
-
-tocilizumab
 
 International non-proprietary name (INN) or common name
 
@@ -651,7 +647,7 @@ Marketing authorisation holder
 
 Chemical Works of Gedeon Richter Plc. (Gedeon Richter Plc.)
 
-Gyomroi ut 19-21
+Gyomroi ut 19-21 1103 Budapest Hungary
 
 Opinion adopted
 
@@ -661,9 +657,27 @@ Marketing authorisation issued
 
 27/04/2026
 
+Revision
+
+1
+
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Tuyory : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (143.54 KB - PDF)
+
+**First published:** 15/06/2026
+
+[View](/en/documents/procedural-steps-after/tuyory-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Tuyory : EPAR - Public assessment report
 
@@ -693,6 +707,6 @@ English (EN) (168.61 KB - PDF)
 
 **This page was last updated on**
 
-19/05/2026
+15/06/2026
 
 ## Share this page

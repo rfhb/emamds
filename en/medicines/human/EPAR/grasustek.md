@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 16:08:00
+document_datetime: 2026-06-15 13:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/grasustek.html
 document_name: grasustek.html
 version: success
-processing_time: 0.1081846
-conversion_datetime: 2026-03-25 12:33:01.55452
+processing_time: 0.2851658
+conversion_datetime: 2026-06-16 13:46:08.516658
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Grasustek
 
@@ -60,19 +60,19 @@ Expand section
 
 Collapse section
 
-## How is Grasustek used?
+### How is Grasustek used?
 
 Grasustek can only be obtained with a prescription and treatment should be started and supervised by a doctor who has experience in the treatment of cancer or blood disorders. It is available as a prefilled syringe containing a solution for injection under the skin. Grasustek is given as a single dose of 6 mg injected under the skin at least 24 hours after the end of each cycle of cancer treatment. Patients can inject themselves if they have been trained appropriately.
 
 For more information about using Grasustek, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Grasustek work?
+### How does Grasustek work?
 
 The active substance in Grasustek, pegfilgrastim, is a form of filgrastim, which is very similar to a human protein called granulocyte-colony-stimulating factor (G-CSF). Filgrastim works by encouraging the bone marrow to produce more white blood cells, increasing white blood cell counts and so treating neutropenia.
 
 Filgrastim has been available in other medicines in the EU for a number of years. In Grasustek, filgrastim has been 'pegylated' (attached to a chemical called polyethylene glycol). This slows down the removal of filgrastim from the body, allowing the medicine to be given less often.
 
-## What benefits of Grasustek have been shown in studies?
+### What benefits of Grasustek have been shown in studies?
 
 Laboratory studies comparing Grasustek with Neulasta have shown that the active substance in Grasustek is highly similar to that in Neulasta in terms of structure, purity and biological activity. Studies have also shown that giving Grasustek produces similar levels of the active substance in the body to giving Neulasta.
 
@@ -80,23 +80,23 @@ In addition, a study involving 248 patients who had chemotherapy after surgery f
 
 Because Grasustek is a biosimilar medicine, the studies on effectiveness and safety of pegfilgrastim carried out with Neulasta do not all need to be repeated for Grasustek.
 
-## What are the risks associated with Grasustek?
+### What are the risks associated with Grasustek?
 
 The safety of Grasustek has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Neulasta. The most common side effect with Grasustek (which may affect more than 1 in 10 people) is pain in the bones. Pain in muscles is also common. For the full list of side effects and restrictions with Grasustek, see the package leaflet.
 
-## Why is Grasustek authorised in the EU?
+### Why is Grasustek authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Grasustek has a highly similar structure, purity and biological activity to Neulasta and is distributed in the body in the same way. In addition, studies in breast cancer patients undergoing chemotherapy have shown that the effectiveness of Grasustek in reducing the duration of neutropenia is equivalent to that of Neulasta.
 
 All these data were considered sufficient to conclude that Grasustek will behave in the same way as Neulasta in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Neulasta, the benefits of Grasustek outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Grasustek?
+### What measures are being taken to ensure the safe and effective use of Grasustek?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Grasustek have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Grasustek are continuously monitored. Side effects reported with Grasustek are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Grasustek
+### Other information about Grasustek
 
 Grasustek received a marketing authorisation valid throughout the EU on 20 June 2019.
 
@@ -110,7 +110,7 @@ English (EN) (107.84 KB - PDF)
 
 [View](/en/documents/overview/grasustek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-396)
+[Other languages (22)](#file-language-dropdown-535)
 
 български (BG) (125.8 KB - PDF)
 
@@ -142,7 +142,7 @@ Deutsch (DE) (104.61 KB - PDF)
 
 [View](/de/documents/overview/grasustek-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (90.65 KB - PDF)
+eesti (ET) (90.65 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -172,13 +172,13 @@ italiano (IT) (100.95 KB - PDF)
 
 [View](/it/documents/overview/grasustek-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (126.76 KB - PDF)
+latviešu (LV) (126.76 KB - PDF)
 
 **First published:** 28/06/2019
 
 [View](/lv/documents/overview/grasustek-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (120.92 KB - PDF)
+lietuvių (LT) (120.92 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -232,7 +232,7 @@ slovenščina (SL) (120.41 KB - PDF)
 
 [View](/sl/documents/overview/grasustek-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (99.67 KB - PDF)
+suomi (FI) (99.67 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -256,161 +256,161 @@ English (EN) (440.8 KB - PDF)
 
 Grasustek : EPAR - Product Information
 
-English (EN) (918.27 KB - PDF)
+English (EN) (916.24 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/en/documents/product-information/grasustek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-202)
+[Other languages (24)](#file-language-dropdown-118)
 
 български (BG) (1.01 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/bg/documents/product-information/grasustek-epar-product-information_bg.pdf)
 
-español (ES) (960.43 KB - PDF)
+español (ES) (959.11 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/es/documents/product-information/grasustek-epar-product-information_es.pdf)
 
 čeština (CS) (1.04 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/cs/documents/product-information/grasustek-epar-product-information_cs.pdf)
 
 dansk (DA) (1.02 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/da/documents/product-information/grasustek-epar-product-information_da.pdf)
 
-Deutsch (DE) (1000.78 KB - PDF)
+Deutsch (DE) (998.89 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/de/documents/product-information/grasustek-epar-product-information_de.pdf)
 
-eesti keel (ET) (891.09 KB - PDF)
+eesti (ET) (888.51 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/et/documents/product-information/grasustek-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.03 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/el/documents/product-information/grasustek-epar-product-information_el.pdf)
 
-français (FR) (1005.64 KB - PDF)
+français (FR) (1003.41 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/fr/documents/product-information/grasustek-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.1 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/hr/documents/product-information/grasustek-epar-product-information_hr.pdf)
 
-íslenska (IS) (921.56 KB - PDF)
+italiano (IT) (1001.65 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/grasustek-epar-product-information_is.pdf)
-
-italiano (IT) (1005.24 KB - PDF)
-
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/it/documents/product-information/grasustek-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu (LV) (1.02 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/lv/documents/product-information/grasustek-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (986.13 KB - PDF)
+lietuvių (LT) (987.43 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/lt/documents/product-information/grasustek-epar-product-information_lt.pdf)
 
-magyar (HU) (984.38 KB - PDF)
+magyar (HU) (984.52 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/hu/documents/product-information/grasustek-epar-product-information_hu.pdf)
 
 Malti (MT) (1.03 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/mt/documents/product-information/grasustek-epar-product-information_mt.pdf)
 
-Nederlands (NL) (975.12 KB - PDF)
+Nederlands (NL) (974.01 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/nl/documents/product-information/grasustek-epar-product-information_nl.pdf)
 
-norsk (NO) (922.85 KB - PDF)
+polski (PL) (993.42 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/grasustek-epar-product-information_no.pdf)
-
-polski (PL) (992.64 KB - PDF)
-
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/pl/documents/product-information/grasustek-epar-product-information_pl.pdf)
 
-português (PT) (948.5 KB - PDF)
+português (PT) (946.77 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/pt/documents/product-information/grasustek-epar-product-information_pt.pdf)
 
 română (RO) (1.04 MB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/ro/documents/product-information/grasustek-epar-product-information_ro.pdf)
 
-slovenčina (SK) (970.3 KB - PDF)
+slovenčina (SK) (970.02 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/sk/documents/product-information/grasustek-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1002.38 KB - PDF)
+slovenščina (SL) (1002.33 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/sl/documents/product-information/grasustek-epar-product-information_sl.pdf)
 
-Suomi (FI) (958.1 KB - PDF)
+suomi (FI) (955.66 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/fi/documents/product-information/grasustek-epar-product-information_fi.pdf)
 
-svenska (SV) (1002.75 KB - PDF)
+svenska (SV) (998.94 KB - PDF)
 
-**First published:** 28/06/2019 **Last updated:** 24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
 
 [View](/sv/documents/product-information/grasustek-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000338145
+Íslenska (IS) (919.09 KB - PDF)
 
-24/03/2026
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
+
+[View](/is/documents/product-information/grasustek-epar-product-information_is.pdf)
+
+norsk (NO) (919.58 KB - PDF)
+
+**First published:** 28/06/2019 **Last updated:** 15/06/2026
+
+[View](/no/documents/product-information/grasustek-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000355372
+
+12/06/2026
 
 icon globe
 
@@ -434,7 +434,7 @@ English (EN) (42.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-961)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (57.41 KB - PDF)
 
@@ -466,7 +466,7 @@ Deutsch (DE) (43.95 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (75.68 KB - PDF)
+eesti (ET) (75.68 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -490,25 +490,19 @@ hrvatski (HR) (53.96 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (43.4 KB - PDF)
-
-**First published:** 28/06/2019
-
-[View](/is/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (44.87 KB - PDF)
 
 **First published:** 28/06/2019
 
 [View](/it/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (56.73 KB - PDF)
+latviešu (LV) (56.73 KB - PDF)
 
 **First published:** 28/06/2019
 
 [View](/lv/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (50.52 KB - PDF)
+lietuvių (LT) (50.52 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -531,12 +525,6 @@ Nederlands (NL) (40.65 KB - PDF)
 **First published:** 28/06/2019
 
 [View](/nl/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (46.25 KB - PDF)
-
-**First published:** 28/06/2019
-
-[View](/no/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (59.2 KB - PDF)
 
@@ -568,7 +556,7 @@ slovenščina (SL) (56.54 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (36 KB - PDF)
+suomi (FI) (36 KB - PDF)
 
 **First published:** 28/06/2019
 
@@ -579,6 +567,18 @@ svenska (SV) (45.03 KB - PDF)
 **First published:** 28/06/2019
 
 [View](/sv/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (43.4 KB - PDF)
+
+**First published:** 28/06/2019
+
+[View](/is/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (46.25 KB - PDF)
+
+**First published:** 28/06/2019
+
+[View](/no/documents/all-authorised-presentations/grasustek-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -620,7 +620,7 @@ Marketing authorisation holder
 
 Juta Pharma GmbH
 
-Gutenbergstrasse 13
+Gutenbergstrasse 13 24941 Flensburg Germany
 
 Opinion adopted
 
@@ -632,7 +632,7 @@ Marketing authorisation issued
 
 Revision
 
-7
+8
 
 ## Assessment history
 
@@ -640,13 +640,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Grasustek : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (147.18 KB - PDF)
+English (EN) (147.74 KB - PDF)
 
-**First published:** 05/11/2025 **Last updated:** 24/03/2026
+**First published:** 05/11/2025 **Last updated:** 15/06/2026
 
 [View](/en/documents/procedural-steps-after/grasustek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -658,7 +658,7 @@ English (EN) (153.18 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/grasustek-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Grasustek : EPAR - Public assessment report
 
@@ -693,6 +693,6 @@ English (EN) (103.86 KB - PDF)
 
 **This page was last updated on**
 
-24/03/2026
+15/06/2026
 
 ## Share this page

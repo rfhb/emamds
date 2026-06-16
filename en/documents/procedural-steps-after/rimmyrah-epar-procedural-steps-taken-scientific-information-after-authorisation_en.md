@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-09 11:17:59
-document_pages: 2
+document_datetime: 2026-06-15 12:49:48
+document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rimmyrah-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: rimmyrah-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.2826013
-conversion_datetime: 2026-01-10 11:16:41.963542
+processing_time: 2.8258715
+conversion_datetime: 2026-06-16 14:00:05.07786
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## Rimmyrah
 
@@ -22,9 +22,9 @@ Procedural steps taken and scientific information after the authorisation*
 
 *Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                         | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|-----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | B.II.f.1.b Extension of the shelf life of the | 09/01/2026                          |                                             | SmPC                             |           |
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | Outcome: | 15/06/2026                          |                                             | SmPC                             |           |
 
 <!-- image -->
 
@@ -32,6 +32,26 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000314772                     | finished product - B.II.f.1.b.5 Extension of the shelf-life of a biological/ immunological medicinal product in accordance with an approved stability protocol - Accepted   |            |                                                                                                                                                                                            |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Variation type II / EMA/VR/0000246182 | B.II.e.1.b Change in type of container or addition of a new container - B.II.e.1.b.2 Sterile medicinal products and biological/ immunological medicinal products - Accepted | 10/07/2025 | The SmPC has been updated as follows: addition of a new presentation 'Rimmyrah 10 mg/ml solution for injection in pre-filled syringe'. The Labelling and PL have been updated accordingly. |
+| EMA/VR/0000343923                     | Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.5 Extension of the shelf life of the finished product based on extrapolation of stability data in accordance with relevant stability guidelines - Accepted                                                                                                                                                                                                                                                                                                               |            |                   |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IB /                   | Outcome: This was an application for a group of variations. Q.II.d.2 Change to analytical procedure for the finished product - Q.II.d.2.d) Other change to an analytical procedure for a finished product (including replacement or addition) - Accepted Q.I.b.2 Change to analytical procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - Q.I.b.2.d) Other change to an analytical procedure (including replacement or addition) for the active substance - Accepted | 21/04/2026 | EMA/VR/0000338190 |
+| Variation type IA / EMA/VR/0000334304 | Outcome: This was an application for a group of variations. Q.I.b.2 Change to analytical procedure for active substance or starting                                                                                                                                                                                                                                                                                                                                                                                                                   | 09/03/2026 |                   |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | material/reagent/intermediate used in the manufacturing process of the active substance - Q.I.b.2.a) Minor change to an analytical procedure for the active substance - Refused Q.II.d.2 Change to analytical procedure for the finished product - Q.II.d.2.a) Minor change to an approved analytical procedure - Refused                                                                                                                                                                                                                                  |            |                   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IB / EMA/VR/0000325891 | Outcome: Q.II.b.5 Change to in-process control or limits applied during the manufacture of the finished product - Q.II.b.5.z Other variation - Accepted                                                                                                                                                                                                                                                                                                                                                                                                    | 02/03/2026 |                   |
+| Variation type IA /                   | Outcome: This was an application for a group of variations. B.II.e.6 Change in any part of the (primary) packaging material not in contact with the finished product formulation (such as colour of flip-off caps, colour code rings on ampoules, change of needle shield (different plastic used)) - B.II.e.6.b Change that does not affect the product information - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted B.I.b.2 Change in test procedure for active | 20/01/2026 | EMA/VR/0000322245 |
+
+<div style=\"page-break-after: always\"></div>
+
+| substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted B.II.e.7 Change in supplier of packaging components or devices (when mentioned in the dossier) - B.II.e.7.b Replacement or addition of a supplier - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.d Deletion of a non-significant specification parameter (e.g. deletion of an obsolete parameter) - Accepted A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted   |            |                        |                                                                                                                                                                                            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000314772 | Outcome: B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.5 Extension of the shelf-life of a biological/ immunological medicinal product in accordance with an approved stability protocol - Accepted                                                                                                                                                                             | 09/01/2026 | SmPC                   |                                                                                                                                                                                            |
+| Variation type II / EMA/VR/0000246182 | Outcome: B.II.e.1.b Change in type of container or addition of a new container - B.II.e.1.b.2 Sterile medicinal products and biological/ immunological medicinal products - Accepted                                                                                                                                                                                                                         | 10/07/2025 | SmPC, Labelling and PL | The SmPC has been updated as follows: addition of a new presentation 'Rimmyrah 10 mg/ml solution for injection in pre-filled syringe'. The Labelling and PL have been updated accordingly. |

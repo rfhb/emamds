@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 11:32:49
-document_pages: 26
+document_datetime: 2026-06-15 12:35:41
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rezzayo-epar-product-information_en.pdf
 document_name: rezzayo-epar-product-information_en.pdf
 version: success
-processing_time: 5.9399603
-conversion_datetime: 2026-04-09 12:20:55.84972
+processing_time: 5.7960019
+conversion_datetime: 2026-06-16 13:56:22.472923
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -108,17 +108,21 @@ Hypersensitivity to other medicinal products of the echinocandin class.
 
 The efficacy of rezafungin has only been evaluated in a limited number of neutropenic patients (see section 5.1).
 
-## Hepatic effects
+## Anaphylactic reactions
 
-In clinical trials, elevations in liver enzymes have been seen in some patients treated with rezafungin. In some patients with serious underlying medical conditions who were receiving multiple concomitant medications along with rezafungin, clinically significant hepatic dysfunction has occurred; a causal relationship to rezafungin has not been established. Patients who develop elevations in liver enzymes during rezafungin therapy should be monitored and the risk/benefit of continuing rezafungin therapy should be re-evaluated.
-
-<div style=\"page-break-after: always\"></div>
+Cases of anaphylactic reaction were reported with the use of rezafungin. If  an anaphylactic reaction occurs, rezafungin should be discontinued and appropriate treatment administered.
 
 ## Infusion-related reactions
 
 Transient infusion-related reactions have occurred with rezafungin, characterised by flushing, sensation of warmth, nausea, and chest tightness.
 
+<div style=\"page-break-after: always\"></div>
+
 In clinical trials, infusion reactions resolved within minutes, some without interruption or discontinuation of the infusion. Patients should be monitored during the infusion. If the infusion is stopped due to a reaction, consideration may be given to restarting the infusion at a slower rate after the symptoms have resolved.
+
+## Hepatic effects
+
+In clinical trials, elevations in liver enzymes have been seen in some patients treated with rezafungin. In some patients with serious underlying medical conditions who were receiving multiple concomitant medications along with rezafungin, clinically significant hepatic dysfunction has occurred; a causal relationship to rezafungin has not been established. Patients who develop elevations in liver enzymes during rezafungin therapy should be monitored and the risk/benefit of continuing rezafungin therapy should be re-evaluated.
 
 ## Phototoxicity
 
@@ -146,11 +150,11 @@ Studies in animals did not show reproductive or developmental toxicity (see sect
 
 Rezafungin is not recommended to be used during pregnancy and in women of childbearing potential not using contraception unless the benefit outweighs the potential risk to the foetus.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 There are no data from the use of rezafungin in lactating women. It is unknown whether rezafungin or its metabolites are excreted in human milk. Rezafungin excretion into milk was observed in rats (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 A risk to the breastfed child cannot be excluded.
 
@@ -178,22 +182,25 @@ The following table includes adverse reactions from 173 subjects that received r
 
 Table 1. Table of adverse reactions
 
-| System organ class                              | Very common ≥ 1/10   | Common ≥ 1/100 to < 1/10                       | Uncommon ≥ 1/1 000 to < 1/100     | Not known   |
-|-------------------------------------------------|----------------------|------------------------------------------------|-----------------------------------|-------------|
-| Blood and lymphatic system disorders            | Anaemia              |                                                |                                   |             |
-| Metabolism and nutrition disorders              | Hypokalaemia         | Hypomagnesaemia, hypophosphataemia             | Hyperphosphataemia, hyponatraemia |             |
-| Vascular disorders                              |                      | Hypotension                                    |                                   |             |
-| Respiratory, thoracic and mediastinal disorders |                      | Wheezing                                       |                                   |             |
-| Gastrointestinal disorders                      | Diarrhoea            | Vomiting, nausea, abdominal pain, constipation |                                   |             |
-| Skin and subcutaneous tissue disorders          |                      | Erythema, rash                                 | Phototoxicity                     | Urticaria   |
+| System organ class                   | Very common ≥ 1/10   | Common ≥ 1/100 to < 1/10           | Uncommon ≥ 1/1 000 to < 1/100     | Not known              |
+|--------------------------------------|----------------------|------------------------------------|-----------------------------------|------------------------|
+| Blood and lymphatic system disorders | Anaemia              |                                    |                                   |                        |
+| Immune system disorders              |                      |                                    |                                   | Anaphylactic reaction* |
+| Metabolism and nutrition disorders   | Hypokalaemia         | Hypomagnesaemia, hypophosphataemia | Hyperphosphataemia, hyponatraemia |                        |
+| Vascular disorders                   |                      | Hypotension                        |                                   |                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      |         |                                                                                                                                                                      | Tremor                     |
-|------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| General disorders and administration site conditions | Pyrexia |                                                                                                                                                                      |                            |
-| Investigations                                       |         | Blood alkaline phosphatase increased, hepatic enzymes increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased | Eosinophil count increased |
-| Injury, poisoning and procedural complications       |         | Infusion-related reactions                                                                                                                                           |                            |
+| Respiratory, thoracic and mediastinal disorders      |           | Wheezing                                                                                                                                                             |                            |           |
+|------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----------|
+| Gastrointestinal disorders                           | Diarrhoea | Vomiting, nausea, abdominal pain, constipation                                                                                                                       |                            |           |
+| Skin and subcutaneous tissue disorders               |           | Erythema, rash                                                                                                                                                       | Phototoxicity              | Urticaria |
+| Musculoskeletal and connective tissue disorders      |           |                                                                                                                                                                      | Tremor                     |           |
+| General disorders and administration site conditions | Pyrexia   |                                                                                                                                                                      |                            |           |
+| Investigations                                       |           | Blood alkaline phosphatase increased, hepatic enzymes increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased | Eosinophil count increased |           |
+| Injury, poisoning and procedural complications       |           | Infusion-related reactions                                                                                                                                           |                            |           |
+
+*see section 4.4
 
 ## Reporting of suspected adverse reactions
 
@@ -211,13 +218,13 @@ Rezafungin is highly protein-bound and not expected to be dialysable (see sectio
 
 ## 5.1 Pharmacodynamic properties
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacotherapeutic group: Antimycotics for systemic use, other antimycotics for systemic use, ATC code: J02AX08
 
 ## Mechanism of action
 
 Rezafungin selectively inhibits fungal 1,3β -D-glucan synthase. This results in inhibition of the formation of 1,3β -D-glucan, an essential component of the fungal cell wall which is not present in mammalian cells. Inhibition of 1,3β -D-glucan synthesis results in rapid and concentration-dependent fungicidal activity in Candida species (spp.).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Activity in vitro
 
@@ -245,9 +252,9 @@ The Phase 3 study was multicentre, prospective, randomised and double-blind. Pat
 
 For rezafungin and caspofungin treatment groups, 77.0 % and 74.2 % patients, respectively, had a final diagnosis of candidaemia only. Most of them had a modified APACHE II score &lt; 20, representing 84.4 % and 81.5 %  of rezafungin and caspofungin subjects, respectively. For rezafungin and caspofungin treatment groups, 88.5 % and 91.1 % patients, respectively, had an ANC ≥ 500/mm 3 at baseline.
 
-The primary efficacy outcome was global response (confirmed by the Data Review Committee [DRC]) at Day 14. Global response was determined from clinical response, mycological response, and radiologic response (for qualifying subjects with IC). Non-inferiority was to be concluded if the lower bound of the 95 % confidence interval (CI) for the difference in Day 14 cure rates (rezafungin caspofungin) was &gt; -20 %. Secondary efficacy outcomes included all-cause mortality at Day 30 [30-day ACM] and global response at Day 5. The results of these endpoints are shown in Table 2 for the mITT analysis set, defined as all subjects with a documented Candida infection based on Central Laboratory evaluation of a blood culture or a culture from a normally sterile site obtained ≤ 4 days (96 hours) before randomisation and who received ≥ 1 dose of investigational medicinal product.
-
 <div style=\"page-break-after: always\"></div>
+
+The primary efficacy outcome was global response (confirmed by the Data Review Committee [DRC]) at Day 14. Global response was determined from clinical response, mycological response, and radiologic response (for qualifying subjects with IC). Non-inferiority was to be concluded if the lower bound of the 95 % confidence interval (CI) for the difference in Day 14 cure rates (rezafungin caspofungin) was &gt; -20 %. Secondary efficacy outcomes included all-cause mortality at Day 30 [30-day ACM] and global response at Day 5. The results of these endpoints are shown in Table 2 for the mITT analysis set, defined as all subjects with a documented Candida infection based on Central Laboratory evaluation of a blood culture or a culture from a normally sterile site obtained ≤ 4 days (96 hours) before randomisation and who received ≥ 1 dose of investigational medicinal product.
 
 Table 2. Summary of results from the phase 3 ReSTORE study (mITT analysis set)
 
@@ -282,15 +289,13 @@ Rezafungin is rapidly distributed with a volume of distribution approximately eq
 
 In vitro , rezafungin was stable across species after incubation with liver and intestinal microsomes and with hepatocytes.
 
+<div style=\"page-break-after: always\"></div>
+
 In a single-dose clinical trial, radiolabelled ( 14 C) rezafungin (approximately 400 mg/200 µCi of radioactivity) was administered to healthy volunteers. The main circulating moiety was parent rezafungin; plasma AUC of rezafungin accounted for ~ 77 % of total radiocarbon AUC, with individual metabolites accounting for less than 10 % each.
 
 ## Elimination
 
-Following single doses of rezafungin (intravenous infusion over 1 hr; 50, 100, 200, and 400 mg), mean total body clearance of rezafungin was low (approximately 0.2 L/h) throughout the dose levels with a mean terminal half-life of 127 to 146 hours. The fraction of dose excreted in urine as unchanged
-
-<div style=\"page-break-after: always\"></div>
-
-rezafungin was &lt; 1 % at all dose levels, indicating minor contribution of renal clearance in rezafungin excretion.
+Following single doses of rezafungin (intravenous infusion over 1 hr; 50, 100, 200, and 400 mg), mean total body clearance of rezafungin was low (approximately 0.2 L/h) throughout the dose levels with a mean terminal half-life of 127 to 146 hours. The fraction of dose excreted in urine as unchanged rezafungin was &lt; 1 % at all dose levels, indicating minor contribution of renal clearance in rezafungin excretion.
 
 In a single-dose clinical trial, radiolabelled ( 14 C) rezafungin (approximately 400 mg/200 µCi of radioactivity) was administered to healthy volunteers. Estimated, mean total recovery of radioactivity was 88.3 % at Day 60, based on interpolated data (from return visits to the clinical unit on Day 29 and Day 60). Approximately 74 % of the recovered radioactive dose was in faeces (primarily as unchanged rezafungin) and 26 % in urine (mainly as metabolites), indicating that elimination of rezafungin is primarily faecal excretion, as unchanged rezafungin.
 
@@ -324,13 +329,11 @@ A population PK analysis including data from Phase 1, Phase 2 and Phase 3 studie
 
 Rezafungin induced an acute histamine-release response in rats, but not in monkeys.
 
-Rezafungin was negative for genotoxicity in the bacterial and mammalian cell in vitro studies, and in a rat micronucleus study.
-
-During reproductive toxicology studies, rezafungin did not affect mating or fertility in male and female rats following intravenous (short bolus) administration once every 3 days at doses up to 45 mg/kg (6 times the clinical exposure, based on AUC determined in a separate rat study). During the male fertility study, d ecreased sperm motility was noted at ≥ 30 mg/kg and most males at 45 mg/kg showed mild/moderate hypospermia and had no detectable motile sperm. At rezafungin doses
-
 <div style=\"page-break-after: always\"></div>
 
-≥ 30 mg/kg there was an increased incidence of sperm with abnormal morphology as well as mild to moderate degeneration of the seminiferous tubules.
+Rezafungin was negative for genotoxicity in the bacterial and mammalian cell in vitro studies, and in a rat micronucleus study.
+
+During reproductive toxicology studies, rezafungin did not affect mating or fertility in male and female rats following intravenous (short bolus) administration once every 3 days at doses up to 45 mg/kg (6 times the clinical exposure, based on AUC determined in a separate rat study). During the male fertility study, d ecreased sperm motility was noted at ≥ 30 mg/kg and most males at 45 mg/kg showed mild/moderate hypospermia and had no detectable motile sperm. At rezafungin doses ≥ 30 mg/kg there was an increased incidence of sperm with abnormal morphology as well as mild to moderate degeneration of the seminiferous tubules.
 
 In a 3-month toxicology study in rats, rezafungin was intravenously (short bolus) dosed once every 3 days. Males dosed at 45 mg/kg showed minimal tubular degeneration/atrophy in the testes and cellular debris in the epididymides at the end of 3 months. The incidence of this finding reduced by the end of a 4-week reversibility period.
 
@@ -350,19 +353,19 @@ Reversible intention tremors (defined as a tremor that is more pronounced when m
 
 Mannitol Histidine Polysorbate 80 Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
-3 4 years.
+4 years.
 
-<div style=\"page-break-after: always\"></div>
-
-## Stability of the reconstituted solution in the vial and the diluted solution for infusion
+Stability of the reconstituted solution in the vial and the diluted solution for infusion
 
 Chemical and physical in-use stability, when reconstituted with water for injections, has been demonstrated for up to 24 hours at 25 °C and 2 to 8 °C.
 
@@ -394,13 +397,13 @@ REZZAYO must be reconstituted and diluted prior to administration.
 
 From a microbiological point of view, the reconstituted solution and the diluted solution for infusion should be used immediately. If not used immediately, in-use storage conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 °C from first opening, unless reconstitution and dilution have taken place in controlled and validated aseptic conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 Using aseptic techniques, reconstitute each vial with 9.5 mL water for injections. The concentration of the reconstituted vial will be 20 mg/mL. Do not use sterile sodium chloride 9 mg/mL (0.9 %) solution for injection to reconstitute the vial, only use water for injections.
 
 To minimise foaming, do not shake or mix vigorously. The white to pale yellow powder will dissolve completely. Mix using a gentle swirling motion for up to 5 minutes until the reconstituted solution is a clear, colourless to pale yellow solution. The reconstituted solution should be visually inspected for particulate matter or discolouration. If irregularities are found, do not use the vial.
 
 The vial is for single use only. Therefore, unused reconstituted concentrate must be discarded immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 For the 400 mg loading dose, the reconstitution step should be repeated for the additional vial of REZZAYO (refer to dosing table).
 
@@ -408,7 +411,7 @@ The infused total volume should be 250 mL, therefore, the volume of the intraven
 
 After dilution, the solution is to be discarded if particulate matter or discolouration is identified.
 
-DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
+## DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
 
 |   Dose (mg) |   Number of vials |   Volume to be removed from 250 mL intravenous bag/bottle (mL) |   Volume of water for injections to be added to each vial (mL) | Total reconstituted volume to add to intravenous bag/bottle (mL)   |   Total infusion volume (mL) |   Final infusion solution concentration (mg/mL) |
 |-------------|-------------------|----------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|-------------------------------------------------|
@@ -428,6 +431,8 @@ EU/1/23/1775/001
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation : 22 December 2023
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -489,8 +494,6 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
@@ -509,7 +512,7 @@ Also contains, mannitol, histidine, polysorbate 80, hydrochloric acid, sodium hy
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
+## Powder for concentrate for solution for infusion
 
 1 vial
 
@@ -533,19 +536,19 @@ EXP
 
 Do not store above 25 °C.
 
+<div style=\"page-break-after: always\"></div>
+
 Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Mundipharma GmbH, De-Saint-Exupery-Strasse 10, Frankfurt Am Main, 60549 Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1775/001
 
@@ -553,13 +556,9 @@ EU/1/23/1775/001
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -567,8 +566,7 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -590,7 +588,8 @@ Read the package leaflet before use.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -604,8 +603,6 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -654,15 +651,21 @@ This medicine blocks the action of an enzyme (a type of protein) that is needed 
 
 Talk to your doctor, pharmacist or nurse before you are given REZZAYO.
 
-## Effects on the liver
+Rezzayo may cause sudden, severe allergic reaction (anaphylactic reaction) with breathing difficulty, swelling, lightheadness, fast heartbeat, sweating and loss of consciousness. Your doctor will observe you closely while you are being given Rezzayo.
 
-Your doctor may decide to monitor you for liver function more closely if you develop liver problems during your treatment.
+If you experience a serious allergic reaction your doctor will permanently stop your treatment.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Infusion-related reactions
 
 REZZAYO may cause infusion-related reactions, which could include reddening of the skin (flushing), sensation of warmth, nausea (feeling sick) and chest tightness. Your doctor may decide to monitor you during the infusion for signs of an infusion-related reaction. Your doctor may decide to slow down your infusion (drip) if an infusion-related reaction occurs.
+
+## Effects on the liver
+
+Your doctor may decide to monitor you for liver function more closely if you develop liver problems during your treatment.
+
+.
 
 ## Light sensitivity
 
@@ -700,13 +703,13 @@ Your doctor will determine how long you need to receive treatment based on your 
 
 In general, your treatment will continue for at least 14 days after the last day Candida was found in your blood.
 
+<div style=\"page-break-after: always\"></div>
+
 If symptoms of invasive candidiasis come back, tell your doctor or another healthcare professional immediately.
 
 ## If you have been given more REZZAYO than you should
 
 You should not receive this medicine more than once a week. If you are concerned that you may have been given too much REZZAYO, tell your doctor or another healthcare professional immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you miss a dose of REZZAYO
 
@@ -756,14 +759,16 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -high blood phosphate levels (hyperphosphataemia)
 - -low blood sodium level (hyponatraemia)
 - -skin or eyes become very sensitive to sunlight or other forms of light (phototoxicity)
+
+<div style=\"page-break-after: always\"></div>
+
 - -shaking (tremor)
 - -high blood levels of eosinophils (a type of white blood cell)
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
+- -sudden, severe allergic reaction (anaphylactic reaction)
 - -Hives (urticaria)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -806,9 +811,7 @@ Email: info@mundipharma.de
 
 ## Manufacturer
 
-Fareva Mirabel Route de Marsat Riom Clermont-Ferrand 63963 France
-
-OR
+Fareva Mirabel Route de Marsat Riom Clermont-Ferrand 63963 France OR
 
 <div style=\"page-break-after: always\"></div>
 
@@ -842,15 +845,37 @@ The vial is for single use only. Therefore, unused reconstituted concentrate mus
 
 For the 400 mg loading dose, the reconstitution step should be repeated for the additional vial of REZZAYO (refer to dosing table).
 
-The infused total volume should be 250 mL, therefore, the volume of the intravenous infusion bag (or bottle) should be adjusted accordingly, as shown in the dosing table. Aseptically transfer 10 mL from each of the reconstituted vials into an intravenous infusion bag (or bottle) containing either sodium chloride 9 mg/mL (0.9 %) solution for injection, sodium chloride 4.5 mg/mL (0.45 %) solution for injection, or 5 % glucose. The total reconstituted volume to be added to the intravenous bag or bottle is shown in the dosing table. Mix the solution by gentle inversion of the intravenous bag (or bottle). Avoid excessive agitation.
-
 <div style=\"page-break-after: always\"></div>
+
+The infused total volume should be 250 mL, therefore, the volume of the intravenous infusion bag (or bottle) should be adjusted accordingly, as shown in the dosing table. Aseptically transfer 10 mL from each of the reconstituted vials into an intravenous infusion bag (or bottle) containing either sodium chloride 9 mg/mL (0.9 %) solution for injection, sodium chloride 4.5 mg/mL (0.45 %) solution for injection, or 5 % glucose. The total reconstituted volume to be added to the intravenous bag or bottle is shown in the dosing table. Mix the solution by gentle inversion of the intravenous bag (or bottle). Avoid excessive agitation.
 
 After dilution, the solution is to be discarded if particulate matter or discolouration is identified.
 
-## DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
+DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
 
 |   Dose (mg) |   Number of vials |   Volume to be removed from 250 mL intravenous bag/bottle (mL) |   Volume of water for injections to be added to each vial (mL) | Total reconstituted volume to add to intravenous bag/bottle (mL)   |   Total infusion volume (mL) |   Final infusion solution concentration (mg/mL) |
 |-------------|-------------------|----------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|-------------------------------------------------|
 |         400 |                 2 |                                                             20 |                                                            9.5 | 20*                                                                |                          250 |                                             1.6 |
 |         200 |                 1 |                                                             10 |                                                            9.5 | 10                                                                 |                          250 |                                             0.8 |
+
+* 10 mL from each of two vials totalling 20 mL.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for rezafungin, the scientific conclusions of PRAC are as follows:
+
+In view of available data on anaphylactic reaction from spontaneous reports including a close temporal relationship and a positive de-challenge, and in view of a plausible mechanism of action, the PRAC considers that a causal relationship between rezafungin and anaphylactic reaction is at least a reasonable possibility. The PRAC therefore concluded that the product information of products containing rezafungin should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for rezafungin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing rezafungin is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

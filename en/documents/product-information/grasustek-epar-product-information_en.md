@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 12:05:10
+document_datetime: 2026-06-15 12:11:56
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/grasustek-epar-product-information_en.pdf
 document_name: grasustek-epar-product-information_en.pdf
 version: success
-processing_time: 8.5146133
-conversion_datetime: 2026-03-29 12:43:23.482677
+processing_time: 8.7538483
+conversion_datetime: 2026-06-16 13:57:38.111393
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,11 +68,9 @@ One 6 mg dose (a single pre-filled syringe) of pegfilgrastim is recommended for 
 
 The safety and efficacy of pegfilgrastim in children has not yet been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no dosing recommendations can be made.
 
-Patients with renal impairment
+Patients with renal impairment No dose change is recommended in patients with renal impairment, including those with end-stage renal disease.
 
 <div style=\"page-break-after: always\"></div>
-
-No dose change is recommended in patients with renal impairment, including those with end-stage renal disease.
 
 ## Method of administration
 
@@ -138,11 +136,9 @@ White blood cell (WBC) counts of 100 × 10 9 /L or greater have been observed in
 
 ## Hypersensitivity
 
-Hypersensitivity, including anaphylactic reactions, occurring during initial or subsequent treatment have been reported in patients treated with pegfilgrastim. Pegfilgrastim should be permanently discontinued in patients with clinically significant hypersensitivity. Pegfilgrastim should not be
+Hypersensitivity, including anaphylactic reactions, occurring during initial or subsequent treatment have been reported in patients treated with pegfilgrastim. Pegfilgrastim should be permanently discontinued in patients with clinically significant hypersensitivity. Pegfilgrastim should not be administered to patients with a history of hypersensitivity to pegfilgrastim or filgrastim. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 <div style=\"page-break-after: always\"></div>
-
-administered to patients with a history of hypersensitivity to pegfilgrastim or filgrastim. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 ## Stevens-Johnson syndrome
 
@@ -274,11 +270,9 @@ Cases of capillary leak syndrome have been reported in the post marketing settin
 
 ## Paediatric population
 
-Experience in children is limited. A higher frequency of serious adverse reactions in younger children aged 0-5 years (92 %) has been observed compared to older children aged 6-11 and 12-21 years
+Experience in children is limited. A higher frequency of serious adverse reactions in younger children aged 0-5 years (92 %) has been observed compared to older children aged 6-11 and 12-21 years respectively (80 % and 67 %) and adults. The most common adverse reaction reported was bone pain (see sections 5.1 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-respectively (80 % and 67 %) and adults. The most common adverse reaction reported was bone pain (see sections 5.1 and 5.2).
 
 ## Reporting of suspected adverse reactions
 
@@ -677,6 +671,7 @@ These could be symptoms of condition called 'Capillary Leak Syndrome' which caus
 - If you get left upper abdominal pain or pain at the tip of your shoulder. This may be a sign of a problem with your spleen (splenomegaly).
 - If you have recently had a serious lung infection (pneumonia), fluid in the lungs (pulmonary oedema), inflammation of the lungs (interstitial lung disease) or an abnormal chest x-ray (lung infiltration).
 - If you are aware of any altered blood cell counts (e.g. increase in white blood cells or anaemia) or decreased blood platelet counts, which reduces the ability of your blood to clot (thrombocytopenia). Your doctor may want to monitor you more closely.
+- ·
 - If you have sickle cell anaemia. Your doctor may monitor your condition more closely.
 - if you are a patient with breast cancer or lung cancer, Grasustek in combination with chemotherapy and/or radiation therapy may increase your risk of a precancerous blood condition called myelodysplastic syndrome (MDS) or a blood cancer called acute myeloid leukaemia (AML). Symptoms may include tiredness, fever, and easy bruising or bleeding.
 - if you have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing. These could be signs of a severe allergic reaction.
@@ -853,11 +848,9 @@ Tel: +421 2 32409422
 
 Zentiva Pharma Trading SRL B-dul Theodor Pallady nr. 44B, Etaj 2, Sector 3, București, România Tel: +40 21 304 7597
 
-## Česká republika
+## Magyarország
 
-EGIS Praha, spol. s r.o., Praha1Staré Město,Ovocný trh 1096/8, PSČ 11000
-
-Tel: +420 227 129 111
+CoraPharm kft HU-1065 Budapest 06 ker, Revay utca 6 Fsz 7 Tel: +36209604294
 
 ## Deutschland
 
@@ -879,7 +872,7 @@ Tél: +33 (0) 800 089 219
 
 Зентива Фарма България ЕООД 1404 София, Община Триадица, 69 Бул. България, Бизнес Център 'Infinity Tower' етаж 7 Тел, +359 2 441 7136
 
-België / Belgique / Belgien,  Eesti,  España,  Ireland,  Ísland,  Italia, Κύπρος ,  Latvija,  Lietuva, Luxembourg / Luxemburg,  Magyarország,  Malta,  Nederland,  Polska,  Portugal, Sverige, Danmark, Norge, Suomi/Finland
+België / Belgique / Belgien, Česká  republika ,  Eesti,  España,  Ireland,  Ísland,  Italia, Κύπρος , Latvija,  Lietuva,  Luxembourg / Luxemburg,  Malta,  Nederland,  Polska,  Portugal,  Sverige, Danmark, Norge, Suomi/Finlan d
 
 Juta Pharma GmbH
 

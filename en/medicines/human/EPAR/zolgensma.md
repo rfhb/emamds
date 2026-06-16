@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:37:09
+document_datetime: 2026-06-15 13:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zolgensma.html
 document_name: zolgensma.html
 version: success
-processing_time: 0.1339411
-conversion_datetime: 2025-12-29 23:41:26.295536
+processing_time: 0.1462277
+conversion_datetime: 2026-06-16 13:43:15.732574
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Zolgensma
 
 [RSS](/en/individual-human-medicine.xml/67310)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-onasemnogene abeparvovec Medicine Human Authorised
+onasemnogene abeparvovec
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -60,35 +60,35 @@ Expand section
 
 Collapse section
 
-## How is Zolgensma used?
+### How is Zolgensma used?
 
 Zolgensma is given once as an infusion (drip) into a vein lasting about 1 hour. The infusion should take place in a clinic or hospital under the supervision of a doctor experienced in managing spinal muscular atrophy.
 
 Before and after receiving the infusion, the patient will have a number of tests, including liver and blood tests, and will be given corticosteroid medicines to reduce the risk of side effects. The medicine can only be obtained with a prescription. For more information about using Zolgensma, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Zolgensma work?
+### How does Zolgensma work?
 
 Patients with spinal muscular atrophy have a defect in a gene known as *SMN1* , which the body needs to make a protein essential for the normal functioning of nerves that control muscle movements. The active substance in Zolgensma, onasemnogene abeparvovec, contains a functional copy of this gene. When injected, it passes into the nerves from where it provides the correct gene to make enough of the protein and thereby restore nerve function.
 
-## What benefits of Zolgensma have been shown in studies?
+### What benefits of Zolgensma have been shown in studies?
 
 A main study showed that Zolgensma reduces the need for artificial ventilation in babies with spinal muscular atrophy. In this study, 20 out of the 22 babies given Zolgensma were alive and breathing without a permanent ventilator after 14 months, when normally only a quarter of untreated patients would survive without needing a ventilator.
 
 The study also showed that Zolgensma can help babies sit unaided for at least 30 seconds. 14 out of the 22 babies given Zolgensma were able to do so after 18 months, a milestone that is never achieved in untreated babies with severe forms of the disease.
 
-## What are the risks associated with Zolgensma?
+### What are the risks associated with Zolgensma?
 
 The most common side effects with Zolgensma are raised liver enzymes, injury to the liver (hepatotoxicity), low levels of blood platelets (thrombocytopenia), raised levels of troponin (a measure which indicates damage to the heart muscle), fever and vomiting.
 
 For the full list of restrictions and side effects of Zolgensma, see the package leaflet.
 
-## Why is Zolgensma authorised in the EU?
+### Why is Zolgensma authorised in the EU?
 
 The main study of Zolgensma showed that a one-time infusion can improve survival in these patients and reduce the need for a permanent ventilator to breathe. It can also help them reach development milestones. As for its safety, the side effects of Zolgensma are considered manageable; the most common side effect in the study, raised liver enzymes, required treatment with a steroid. The European Medicines Agency therefore decided that Zolgensma's benefits are greater than its risks and it can be authorised for use in the EU.
 
 Zolgensma was originally given 'conditional authorisation' because there was more evidence to come about the medicine. As the company has supplied the additional information necessary, the authorisation has been switched from conditional to full authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Zolgensma?
+### What measures are being taken to ensure the safe and effective use of Zolgensma?
 
 The company that markets Zolgensma will provide educational materials to caregivers with information on how to use the medicine safely, the risks associated with the medicine and how to identify and report side effects. It will also conduct a study of the medicine's safety and effectiveness in the long-term.
 
@@ -96,7 +96,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Zolgensma are continuously monitored. Side effects reported with Zolgensma are carefully evaluated and any necessary actions taken to protect patients.
 
-## Other information about Zolgensma
+### Other information about Zolgensma
 
 Zolgensma received a conditional marketing authorisation valid throughout the EU on 18 May 2020. This was switched to a full marketing authorisation on 17 May 2022.
 
@@ -110,275 +110,141 @@ Reference Number: EMA/725800/2022
 
 English (EN) (122.81 KB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/en/documents/overview/zolgensma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-749)
+[Other languages (22)](#file-language-dropdown-969)
 
 български (BG) (138.66 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/bg/documents/overview/zolgensma-epar-medicine-overview_bg.pdf)
 
 español (ES) (112.28 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/es/documents/overview/zolgensma-epar-medicine-overview_es.pdf)
 
 čeština (CS) (135.01 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/cs/documents/overview/zolgensma-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (113.51 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/da/documents/overview/zolgensma-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (116.35 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/de/documents/overview/zolgensma-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (106.53 KB - PDF)
+eesti (ET) (106.53 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/et/documents/overview/zolgensma-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (139.93 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/el/documents/overview/zolgensma-epar-medicine-overview_el.pdf)
 
 français (FR) (113.47 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/fr/documents/overview/zolgensma-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (133 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/hr/documents/overview/zolgensma-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (111.07 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/it/documents/overview/zolgensma-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (148.63 KB - PDF)
+latviešu (LV) (148.63 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/lv/documents/overview/zolgensma-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (132.41 KB - PDF)
+lietuvių (LT) (132.41 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/lt/documents/overview/zolgensma-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (134.83 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/hu/documents/overview/zolgensma-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (136.14 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/mt/documents/overview/zolgensma-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.02 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/nl/documents/overview/zolgensma-epar-medicine-overview_nl.pdf)
 
 polski (PL) (136.59 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/pl/documents/overview/zolgensma-epar-medicine-overview_pl.pdf)
 
 português (PT) (112.44 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/pt/documents/overview/zolgensma-epar-medicine-overview_pt.pdf)
 
 română (RO) (131.57 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/ro/documents/overview/zolgensma-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (134.59 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/sk/documents/overview/zolgensma-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (130.21 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/sl/documents/overview/zolgensma-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.67 KB - PDF)
+suomi (FI) (109.67 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/fi/documents/overview/zolgensma-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (110.46 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-17/03/2023
+**First published:** 27/05/2020 **Last updated:** 17/03/2023
 
 [View](/sv/documents/overview/zolgensma-epar-medicine-overview_sv.pdf)
 
@@ -386,9 +252,7 @@ Zolgensma : EPAR - Risk-management-plan
 
 English (EN) (3.58 MB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 11/07/2024
+**First published:** 27/05/2020 **Last updated:** 11/07/2024
 
 [View](/en/documents/rmp-summary/zolgensma-epar-risk-management-plan_en.pdf)
 
@@ -396,305 +260,161 @@ English (EN) (3.58 MB - PDF)
 
 Zolgensma : EPAR - Product information
 
-English (EN) (556.7 KB - PDF)
+English (EN) (636.1 KB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/en/documents/product-information/zolgensma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-129)
+[Other languages (24)](#file-language-dropdown-452)
 
-български (BG) (652.85 KB - PDF)
+български (BG) (696.83 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/bg/documents/product-information/zolgensma-epar-product-information_bg.pdf)
 
-español (ES) (628.15 KB - PDF)
+español (ES) (707.5 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/es/documents/product-information/zolgensma-epar-product-information_es.pdf)
 
-čeština (CS) (603.9 KB - PDF)
+čeština (CS) (683.15 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/cs/documents/product-information/zolgensma-epar-product-information_cs.pdf)
 
-dansk (DA) (599.57 KB - PDF)
+dansk (DA) (643.87 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/da/documents/product-information/zolgensma-epar-product-information_da.pdf)
 
-Deutsch (DE) (586.03 KB - PDF)
+Deutsch (DE) (665.21 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/de/documents/product-information/zolgensma-epar-product-information_de.pdf)
 
-eesti keel (ET) (580.81 KB - PDF)
+eesti (ET) (660.08 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/et/documents/product-information/zolgensma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (952.16 KB - PDF)
+ελληνικά (EL) (1.01 MB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/el/documents/product-information/zolgensma-epar-product-information_el.pdf)
 
-français (FR) (633.55 KB - PDF)
+français (FR) (713.17 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/fr/documents/product-information/zolgensma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (651.28 KB - PDF)
+hrvatski (HR) (730.82 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/hr/documents/product-information/zolgensma-epar-product-information_hr.pdf)
 
-íslenska (IS) (603.37 KB - PDF)
+italiano (IT) (656.62 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
-
-[View](/is/documents/product-information/zolgensma-epar-product-information_is.pdf)
-
-italiano (IT) (577.08 KB - PDF)
-
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/it/documents/product-information/zolgensma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (622.46 KB - PDF)
+latviešu (LV) (701.32 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/lv/documents/product-information/zolgensma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (599.88 KB - PDF)
+lietuvių (LT) (679.07 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/lt/documents/product-information/zolgensma-epar-product-information_lt.pdf)
 
-magyar (HU) (617.74 KB - PDF)
+magyar (HU) (661.85 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/hu/documents/product-information/zolgensma-epar-product-information_hu.pdf)
 
-Malti (MT) (689.04 KB - PDF)
+Malti (MT) (733.09 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/mt/documents/product-information/zolgensma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (626.72 KB - PDF)
+Nederlands (NL) (670.56 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/nl/documents/product-information/zolgensma-epar-product-information_nl.pdf)
 
-norsk (NO) (611.74 KB - PDF)
+polski (PL) (719.05 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
-
-[View](/no/documents/product-information/zolgensma-epar-product-information_no.pdf)
-
-polski (PL) (640.26 KB - PDF)
-
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/pl/documents/product-information/zolgensma-epar-product-information_pl.pdf)
 
-português (PT) (596.79 KB - PDF)
+português (PT) (676.27 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/pt/documents/product-information/zolgensma-epar-product-information_pt.pdf)
 
-română (RO) (635.85 KB - PDF)
+română (RO) (715.38 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/ro/documents/product-information/zolgensma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (640.61 KB - PDF)
+slovenčina (SK) (720.08 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/sk/documents/product-information/zolgensma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (597 KB - PDF)
+slovenščina (SL) (676.28 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/sl/documents/product-information/zolgensma-epar-product-information_sl.pdf)
 
-Suomi (FI) (590.78 KB - PDF)
+suomi (FI) (670.16 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/fi/documents/product-information/zolgensma-epar-product-information_fi.pdf)
 
-svenska (SV) (574.96 KB - PDF)
+svenska (SV) (618.87 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-28/08/2025
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
 
 [View](/sv/documents/product-information/zolgensma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000289527 27/08/2025
+Íslenska (IS) (736.96 KB - PDF)
+
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
+
+[View](/is/documents/product-information/zolgensma-epar-product-information_is.pdf)
+
+norsk (NO) (691.18 KB - PDF)
+
+**First published:** 27/05/2020 **Last updated:** 15/06/2026
+
+[View](/no/documents/product-information/zolgensma-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355355
+
+12/06/2026
 
 icon globe
 
@@ -718,203 +438,173 @@ English (EN) (84.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-15)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (93.62 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/bg/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (70.14 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/es/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (81 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/cs/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (68.9 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/da/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (75.69 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/de/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (66.79 KB - PDF)
+eesti (ET) (66.79 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/et/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (89.95 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/el/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (71.76 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/fr/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (124.86 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/hr/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (74.82 KB - PDF)
-
-**First published:**
-
-27/05/2020
-
-[View](/is/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (74.79 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/it/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (92.29 KB - PDF)
+latviešu (LV) (92.29 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/lv/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (89.63 KB - PDF)
+lietuvių (LT) (89.63 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/lt/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (84.73 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/hu/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (98.32 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/mt/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (75.66 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/nl/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (77.06 KB - PDF)
-
-**First published:**
-
-27/05/2020
-
-[View](/no/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (94.29 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/pl/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (77.92 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/pt/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (96.31 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/ro/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (99.5 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/sk/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (79.33 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/sl/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (72.39 KB - PDF)
+suomi (FI) (72.39 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/fi/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (78.07 KB - PDF)
 
-**First published:**
-
-27/05/2020
+**First published:** 27/05/2020
 
 [View](/sv/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (74.82 KB - PDF)
+
+**First published:** 27/05/2020
+
+[View](/is/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (77.06 KB - PDF)
+
+**First published:** 27/05/2020
+
+[View](/no/documents/all-authorised-presentations/zolgensma-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Zolgensma Active substance onasemnogene abeparvovec International non-proprietary name (INN) or common name onasemnogene abeparvovec Therapeutic area (MeSH) Muscular Atrophy, Spinal Anatomical therapeutic chemical (ATC) code M09AX09
+Name of medicine
+
+Zolgensma
+
+Active substance
+
+onasemnogene abeparvovec
+
+International non-proprietary name (INN) or common name
+
+onasemnogene abeparvovec
+
+Therapeutic area (MeSH)
+
+Muscular Atrophy, Spinal
+
+Anatomical therapeutic chemical (ATC) code
+
+M09AX09
 
 ### Pharmacotherapeutic group
 
@@ -929,7 +619,9 @@ Zolgensma is indicated for the treatment of:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004750
+EMA product number
+
+EMEA/H/C/004750
 
 Additional monitoring
 
@@ -955,9 +647,19 @@ Marketing authorisation holder
 
 Novartis Europharm Limited
 
-Vista Building
+Vista Building Elm Park Merrion Road Dublin 4 Ireland
 
-Opinion adopted 26/03/2020 Marketing authorisation issued 18/05/2020 Revision 20
+Opinion adopted
+
+26/03/2020
+
+Marketing authorisation issued
+
+18/05/2020
+
+Revision
+
+21
 
 ## Assessment history
 
@@ -965,13 +667,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zolgensma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (123.43 KB - PDF)
+English (EN) (157.86 KB - PDF)
 
-**First published:** 28/08/2025
+**First published:** 28/08/2025 **Last updated:** 15/06/2026
 
 [View](/en/documents/procedural-steps-after/zolgensma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -979,9 +681,7 @@ Zolgensma : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (244.03 KB - PDF)
 
-**First published:** 09/11/2020
-
-**Last updated:** 28/08/2025
+**First published:** 09/11/2020 **Last updated:** 28/08/2025
 
 [View](/en/documents/procedural-steps-after/zolgensma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1007,9 +707,7 @@ English (EN) (129.46 KB - PDF)
 
 Zolgensma-H-C-004750-P46-018 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/66683/2022
+Adopted Reference Number: EMA/CHMP/66683/2022
 
 English (EN) (901.6 KB - PDF)
 
@@ -1017,13 +715,11 @@ English (EN) (901.6 KB - PDF)
 
 [View](/en/documents/variation-report/zolgensma-h-c-004750-p46-018-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zolgensma : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-2005359794-17637
+Adopted Reference Number: EMADOC-2005359794-17637
 
 English (EN) (389.96 KB - PDF)
 
@@ -1033,9 +729,7 @@ English (EN) (389.96 KB - PDF)
 
 Zolgensma : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/200482/2020
+Adopted Reference Number: EMA/200482/2020
 
 English (EN) (3.5 MB - PDF)
 
@@ -1045,9 +739,7 @@ English (EN) (3.5 MB - PDF)
 
 CHMP summary of positive opinion for Zolgensma
 
-Adopted
-
-Reference Number: EMA/106773/2020
+Adopted Reference Number: EMA/106773/2020
 
 English (EN) (133.25 KB - PDF)
 
@@ -1055,15 +747,21 @@ English (EN) (133.25 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zolgensma_en.pdf)
 
-#### News on Zolgensma
+## News on Zolgensma
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 February 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-february-2021) 12/02/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 February 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-february-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated) 27/03/2020
+12/02/2021
 
-[New gene therapy to treat spinal muscular atrophy (corrected)](/en/news/new-gene-therapy-treat-spinal-muscular-atrophy-corrected) 27/03/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated)
 
-#### Product information - with tracked changes
+27/03/2020
+
+[New gene therapy to treat spinal muscular atrophy (corrected)](/en/news/new-gene-therapy-treat-spinal-muscular-atrophy-corrected)
+
+27/03/2020
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1075,214 +773,166 @@ English (EN) (379.82 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-246)
+[Other languages (24)](#file-language-dropdown-965)
 
 български (BG) (406.43 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/bg/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (374.36 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/es/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (378.54 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/cs/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (384.75 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/da/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (409.09 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/de/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (381.03 KB - DOCX)
+eesti (ET) (381.03 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/et/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (413.48 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/el/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (374.96 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/fr/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (380.59 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/hr/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (406.91 KB - DOCX)
-
-**First published:**
-
-28/08/2025
-
-[View](/is/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (361.81 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/it/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (395.07 KB - DOCX)
+latviešu (LV) (395.07 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/lv/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (350.6 KB - DOCX)
+lietuvių (LT) (350.6 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/lt/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (397.53 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/hu/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (390.57 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/mt/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (398.51 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/nl/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (391.4 KB - DOCX)
-
-**First published:**
-
-28/08/2025
-
-[View](/no/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (405.27 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/pl/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (386.98 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/pt/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (404.27 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/ro/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (418.31 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/sk/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (396.1 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/sl/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (404.61 KB - DOCX)
+suomi (FI) (404.61 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/fi/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (385.95 KB - DOCX)
 
-**First published:**
-
-28/08/2025
+**First published:** 28/08/2025
 
 [View](/sv/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Zolgensma
+Íslenska (IS) (407.97 KB - DOCX)
+
+**First published:** 28/08/2025 **Last updated:** 18/03/2026
+
+[View](/is/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (391.4 KB - DOCX)
+
+**First published:** 28/08/2025
+
+[View](/no/documents/product-information-tracked-changes/zolgensma-epar-product-information-tracked-changes_no.docx)
+
+## More information on Zolgensma
 
 - [EU/3/15/1509 - orphan designation for treatment of spinal muscular atrophy](/en/medicines/human/orphan-designations/eu-3-15-1509)
 - [EMEA-002168-PIP01-17-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002168-pip01-17-m06)
 - [Zolgensma - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/zolgensma)
 - [Zolgensma - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/zolgensma-0)
 
-#### Topics
+## Topics
 
 - [Advanced therapies](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A42)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/08/2025
+**This page was last updated on**
+
+15/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

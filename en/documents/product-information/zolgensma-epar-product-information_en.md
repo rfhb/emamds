@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-28 12:34:30
+document_datetime: 2026-06-15 12:16:05
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zolgensma-epar-product-information_en.pdf
 document_name: zolgensma-epar-product-information_en.pdf
 version: success
-processing_time: 12.1029857
-conversion_datetime: 2025-12-18 22:20:10.764342
+processing_time: 12.3637337
+conversion_datetime: 2026-06-16 13:53:28.524061
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.102.2
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -95,23 +95,23 @@ Table 1 Recommended dosing based on patient body weight
 |-----------------------------|--------------|-------------------------------|
 | 2.6 - 3.0                   | 3.3 × 10 14  |                          16.5 |
 | 3.1 - 3.5                   | 3.9 × 10 14  |                          19.3 |
-| 3.6 - 4.0                   | 4.4 × 10 14  |                          22   |
+| 3.6 - 4.0                   | 4.4 × 10 14  |                          22.0 |
 | 4.1 - 4.5                   | 5.0 × 10 14  |                          24.8 |
 | 4.6 - 5.0                   | 5.5 × 10 14  |                          27.5 |
 | 5.1 - 5.5                   | 6.1 × 10 14  |                          30.3 |
-| 5.6 - 6.0                   | 6.6 × 10 14  |                          33   |
+| 5.6 - 6.0                   | 6.6 × 10 14  |                          33.0 |
 | 6.1 - 6.5                   | 7.2 × 10 14  |                          35.8 |
 | 6.6 - 7.0                   | 7.7 × 10 14  |                          38.5 |
 | 7.1 - 7.5                   | 8.3 × 10 14  |                          41.3 |
-| 7.6 - 8.0                   | 8.8 × 10 14  |                          44   |
+| 7.6 - 8.0                   | 8.8 × 10 14  |                          44.0 |
 | 8.1 - 8.5                   | 9.4 × 10 14  |                          46.8 |
 | 8.6 - 9.0                   | 9.9 × 10 14  |                          49.5 |
 | 9.1 - 9.5                   | 1.05 × 10 15 |                          52.3 |
-| 9.6 - 10.0                  | 1.10 × 10 15 |                          55   |
+| 9.6 - 10.0                  | 1.10 × 10 15 |                          55.0 |
 | 10.1 - 10.5                 | 1.16 × 10 15 |                          57.8 |
 | 10.6 - 11.0                 | 1.21 × 10 15 |                          60.5 |
 | 11.1 - 11.5                 | 1.27 × 10 15 |                          63.3 |
-| 11.6 - 12.0                 | 1.32 × 10 15 |                          66   |
+| 11.6 - 12.0                 | 1.32 × 10 15 |                          66.0 |
 | 12.1 - 12.5                 | 1.38 × 10 15 |                          68.8 |
 | 12.6 - 13.0                 | 1.43 × 10 15 |                          71.5 |
 | 13.1 - 13.5                 | 1.49 × 10 15 |                          74.3 |
@@ -120,19 +120,19 @@ Table 1 Recommended dosing based on patient body weight
 
 | Patient weight range (kg)   | Dose (vg)    |   Total volume of dose a (mL) |
 |-----------------------------|--------------|-------------------------------|
-| 13.6 - 14.0                 | 1.54 × 10 15 |                          77   |
+| 13.6 - 14.0                 | 1.54 × 10 15 |                          77.0 |
 | 14.1 - 14.5                 | 1.60 × 10 15 |                          79.8 |
 | 14.6 - 15.0                 | 1.65 × 10 15 |                          82.5 |
 | 15.1 - 15.5                 | 1.71 × 10 15 |                          85.3 |
-| 15.6 - 16.0                 | 1.76 × 10 15 |                          88   |
+| 15.6 - 16.0                 | 1.76 × 10 15 |                          88.0 |
 | 16.1 - 16.5                 | 1.82 × 10 15 |                          90.8 |
 | 16.6 - 17.0                 | 1.87 × 10 15 |                          93.5 |
 | 17.1 - 17.5                 | 1.93 × 10 15 |                          96.3 |
-| 17.6 - 18.0                 | 1.98 × 10 15 |                          99   |
+| 17.6 - 18.0                 | 1.98 × 10 15 |                          99.0 |
 | 18.1 - 18.5                 | 2.04 × 10 15 |                         101.8 |
 | 18.6 - 19.0                 | 2.09 × 10 15 |                         104.5 |
 | 19.1 - 19.5                 | 2.15 × 10 15 |                         107.3 |
-| 19.6 - 20.0                 | 2.20 × 10 15 |                         110   |
+| 19.6 - 20.0                 | 2.20 × 10 15 |                         110.0 |
 | 20.1 - 20.5                 | 2.26 × 10 15 |                         112.8 |
 | 20.6 - 21.0                 | 2.31 × 10 15 |                         115.5 |
 
@@ -356,18 +356,6 @@ Table 3 Tabulated list of adverse reactions to onasemnogene abeparvovec
 | Very common                                          | Hepatic enzyme increased 5)                          |
 | Common                                               | Troponin increased 6)                                |
 
-1) Thrombocytopenia includes thrombocytopenia and platelet count decreased.
-
-2) Treatment-related adverse reactions reported outside of pre-marketing clinical studies, including in the post-marketing setting.
-
-3) Includes fatal cases.
-
-4) Hepatotoxicity includes hepatic steatosis and hypertransaminasaemia.
-
-5) Hepatic enzyme increased includes: alanine aminotransferase increased, ammonia increased, aspartate aminotransferase increased, gamma-glutamyltransferase increased, hepatic enzyme increased, liver function test increased and transaminases increased.
-
-6) Troponin increased includes troponin increased, troponin-T increased, and troponin-I increased (reported outside of clinical studies, including in the post-marketing setting).
-
 ## Description of selected adverse reactions
 
 ## Hepatobiliary disorders
@@ -453,13 +441,9 @@ Table 4 Median time to video documented achievement of motor milestones Study CL
 | Sits without support for 30 seconds (Bayley)          | 14/22 (63.6)                                     |                                               12.5 | (10.17, 15.20)            |
 | Sitting without support for at least 10 seconds (WHO) | 14/22 (63.6)                                     |                                               13.9 | (11.00, 16.17)            |
 
-* 2 patients were reported to have Head Control by clinician assessment at baseline.
-
-One patient (4.5%) could also walk with assistance at 12.9 months. Based on the natural history of the disease, patients who met the study entry criteria would not be expected to attain the ability to sit
+One patient (4.5%) could also walk with assistance at 12.9 months. Based on the natural history of the disease, patients who met the study entry criteria would not be expected to attain the ability to sit without support. In addition, 18 of the 22 patients were independent of ventilatory support at 18 months of age.
 
 <div style=\"page-break-after: always\"></div>
-
-without support. In addition, 18 of the 22 patients were independent of ventilatory support at 18 months of age.
 
 Motor function improvements were also observed as measured by the CHOP-INTEND, see Figure 2. Twenty-one patients (95.5%) achieved a CHOP-INTEND score ≥ 40, 14 patients (63.6%) had achieved a CHOP-INTEND score ≥ 50, and 9 patients (40.9%) had achieved a CHOP-INTEND score ≥ 58. Patients with untreated SMA Type 1 almost never achieve a CHOP-INTEND score ≥ 40. Motor milestone achievement was observed in some patients despite plateauing of CHOP-INTEND. No clear correlation was observed between CHOP-INTEND scores and motor milestone achievement.
 
@@ -527,11 +511,9 @@ Table 5 Median time to video documented achievement of motor milestones in Study
 
 | Video documented milestone                   | Number of patients achieving milestone n/N (%)   |   Median age to the milestone achievement (months) | 95% Confidence interval   |
 |----------------------------------------------|--------------------------------------------------|----------------------------------------------------|---------------------------|
-| Head control                                 | 23/30* (76.7)                                    |                                                8   | (5.8, 9.2)                |
+| Head control                                 | 23/30* (76.7)                                    |                                                8.0 | (5.8, 9.2)                |
 | Rolls from back to sides                     | 19/33 (57.6)                                     |                                               15.3 | (12.5, 17.4)              |
 | Sits without support for at least 30 seconds | 16/33 (48.5)                                     |                                               14.3 | (8.3, 18.3)               |
-
-* 3 patients were reported to have head control by clinician assessment at baseline.
 
 One patient (3%) achieved the motor milestones of crawling, standing with assistance, stands alone, walking with assistance, and walking alone all by the age of 18 months.
 
@@ -571,11 +553,9 @@ All 15 patients were able to stand alone without support for at least 3 seconds 
 
 Study COAV101A12306 is a completed, Phase 3, open-label, single-arm, single-dose, multi-centre study of intravenous administration of onasemnogene abeparvovec at the therapeutic dose (1.1 × 10 14 vg/kg) in 24 paediatric patients with SMA weighing ≥ 8.5 kg to ≤ 21 kg (median weight: 15.8 kg). The patients ranged in age from approximately 1.5 to 9 years at the time of administration. Patients had 2 to 4 copies of SMN2 (two [n=5], three [n=18], four [n=1] copies). Before treatment with onasemnogene abeparvovec, 19/24 patients had previously received nusinersen for a median duration of 2.1 years (range 0.17 to 4.81 years), and 2/24 patients had previously received risdiplam for a median duration of 0.48 years (range 0.11 to 0.85 years). At baseline, patients had a mean Hammersmith Functional Motor Scale - Expanded (HFMSE) score of 28.3 and a mean Revised Upper Limb Module (RULM) score of 22.0. In addition, all patients demonstrated the milestones of head control and sitting with support, twenty-one were able to sit without support, and six demonstrated the highest possible achievable milestones of standing alone and walking alone.
 
-At Week 52, the mean change from baseline in overall HFMSE total score was 3.7 (18/24 patients). The mean increase in overall RULM total score was 2.0 (17/24 patients) at Week 52. Four patients achieved new developmental milestones. Milestones observed at the baseline visit were maintained to
+At Week 52, the mean change from baseline in overall HFMSE total score was 3.7 (18/24 patients). The mean increase in overall RULM total score was 2.0 (17/24 patients) at Week 52. Four patients achieved new developmental milestones. Milestones observed at the baseline visit were maintained to Week 52 for the majority of patients. Two patients who did not demonstrate previously achieved developmental milestones showed improvement in the HFMSE score from baseline to Week 52.
 
 <div style=\"page-break-after: always\"></div>
-
-Week 52 for the majority of patients. Two patients who did not demonstrate previously achieved developmental milestones showed improvement in the HFMSE score from baseline to Week 52.
 
 Onasemnogene abeparvovec has not been studied in patients with a bi-allelic mutation of the SMN1 gene and only one copy of SMN2 in clinical studies.
 
@@ -625,7 +605,9 @@ Once the dose volume is drawn into the syringe it must be infused within 8 hours
 
 ## 6.4 Special precautions for storage
 
-Store and transport frozen (≤ -60°C). Store in a refrigerator (2°C to 8°C) immediately upon receipt. Store in the original carton. For storage conditions after thawing of the medicinal product, see section 6.3. The date of receipt should be marked on the original carton before the product is stored in the refrigerator.
+Store and transport frozen (≤ -60°C). Store in a refrigerator (2°C to 8°C) immediately upon receipt. Store in the original carton. For storage conditions after thawing of the medicinal product, see section 6.3. The date of receipt should be marked on the original carton before the product is stored in the
+
+refrigerator.
 
 ## 6.5 Nature and contents of container
 
@@ -761,11 +743,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s) Novartis Gene Therapies, Inc. 2512 S. TriCenter Blvd Durham NC 27713
+Name and address of the manufacturer(s) of the biological active substance(s) Novartis Innovative Technologies Inc. 2512 S. TriCenter Blvd Durham NC 27713
 
 United States
 
-Name and address of the manufacturer(s) responsible for batch release Novartis Pharmaceutical Manufacturing GmbH Biochemiestraße 10 6336 Langkampfen Austria
+Name and address of the manufacturer(s) responsible for batch release
+
+Novartis Pharmaceutical Manufacturing GmbH Biochemiestraße 10 6336 Langkampfen Austria
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -777,7 +761,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -812,8 +796,7 @@ The healthcare professional guide shall contain the following key messages:
 - o Patients should be tested for the presence of AAV9 antibodies;
 - At the time of infusion:
 - o Check if the overall health status of the patient is suitable for the infusion (e.g. resolution of infections) or if a postponement is warranted;
-- o
-- Check that corticosteroid treatment was started before the infusion of Zolgensma.
+- o Check that corticosteroid treatment was started before the infusion of Zolgensma.
 - After infusion:
 - o The corticosteroid treatment should continue for at least 2 months; and not be tapered until AST/ALT are less than 2 x ULN, and all other assessments, e.g. total bilirubin, return to normal range;
 - o Close and regular monitoring (clinical and laboratory) of the individual patient course should be performed for at least 3 months;
@@ -1178,11 +1161,9 @@ Zolgensma can raise levels of a heart protein called troponin-I. This can be sho
 
 ## Abnormal clotting of blood in small blood vessels (thrombotic microangiopathy)
 
-There have been reports of patients developing thrombotic microangiopathy generally within the first two weeks after Zolgensma treatment. Thrombotic microangiopathy is accompanied by a decrease in red blood cells and cells involved in clotting (platelets) and can be fatal. These blood clots could affect your child's kidneys. Your child's doctor may want to check your child's blood (platelet counts) and
+There have been reports of patients developing thrombotic microangiopathy generally within the first two weeks after Zolgensma treatment. Thrombotic microangiopathy is accompanied by a decrease in red blood cells and cells involved in clotting (platelets) and can be fatal. These blood clots could affect your child's kidneys. Your child's doctor may want to check your child's blood (platelet counts) and blood pressure. Possible signs you need to look out for after your child is given Zolgensma include bruising easily, seizures (fits) or decrease in urine output (see section 4 for more information). Seek urgent medical attention if your child develops any of these signs.
 
 <div style=\"page-break-after: always\"></div>
-
-blood pressure. Possible signs you need to look out for after your child is given Zolgensma include bruising easily, seizures (fits) or decrease in urine output (see section 4 for more information). Seek urgent medical attention if your child develops any of these signs.
 
 ## Blood, organ, tissue and cell donation
 
@@ -1311,15 +1292,15 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestraße 10 6336 Langkampfen Austria
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## България
 

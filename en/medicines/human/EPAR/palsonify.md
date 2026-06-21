@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-05 15:09:00
+document_datetime: 2026-06-15 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palsonify.html
 document_name: palsonify.html
 version: success
-processing_time: 0.1043465
-conversion_datetime: 2026-05-07 20:01:59.300813
+processing_time: 0.1063977
+conversion_datetime: 2026-06-21 09:33:49.225301
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.103.0
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Palsonify
 
@@ -56,19 +56,19 @@ Expand section
 
 Collapse section
 
-## How is Palsonify used?
+### How is Palsonify used?
 
 Palsonify can only be obtained with a prescription. It is available as tablets that are taken by mouth on an empty stomach once daily. Patients receive a starting dose which is increased over several weeks based on blood levels of IGF-1 or on clinical signs and symptoms.
 
 For more information about using Palsonify, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Palsonify work?
+### How does Palsonify work?
 
 Acromegaly is a disease in which the pituitary gland (a small gland located at the base of the brain) makes too much growth hormone.
 
-The active substance in Palsonify, paltusotine, is a synthetic version of the hormone somatostatin (a somatostatin analogue), which helps control how much growth hormone the body makes. Paltusotine works by attaching to and activating somatostatin receptors (targets) in the body. When these receptors are activated, they reduce the signals that cause the pituitary gland to release growth hormone. This  lowers levels of both growth hormone and IGF-1.
+The active substance in Palsonify, paltusotine, is a synthetic version of the hormone somatostatin (a somatostatin analogue), which helps control how much growth hormone the body makes. Paltusotine works by attaching to and activating somatostatin receptors (targets) in the body. When these receptors are activated, they reduce the signals that cause the pituitary gland to release growth hormone. This lowers levels of both growth hormone and IGF-1.
 
-## What benefits of Palsonify have been shown in studies?
+### What benefits of Palsonify have been shown in studies?
 
 A main study showed that Palsonify was more effective than placebo (a dummy treatment) at restoring IGF-1 levels to their normal level. Normal IGF-1 level is an established measure to confirm that acromegaly is well controlled. The study involved adults with acromegaly who were not receiving treatment at the time of the study and had elevated IGF-1 levels. After 24 weeks, around 56% of those who received treatment with Palsonify (30 out of 54) had IGF-1 levels within the normal range compared with around 5% of those given placebo (3 out of 57).
 
@@ -76,13 +76,13 @@ A second main study showed that Palsonify was more effective than placebo at mai
 
 Studies carried out with Palsonify are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions with Palsonify?
+### What are the side effects and restrictions with Palsonify?
 
 For the full list of side effects and restrictions with Palsonify, see the package leaflet.
 
 The most common side effects with Palsonify (which may affect more than 1 in 10 people) include diarrhoea. Nausea (feeling sick) and abdominal (belly) pain or discomfort may affect up to 1 in 10 people.
 
-## Why is Palsonify authorised in the EU?
+### Why is Palsonify authorised in the EU?
 
 Palsonify was effective at enabling adults with acromegaly to achieve and maintain disease control. Although Palsonify is less effective in adults with high IGF-1 levels, this has been reflected in the medicine's product information so that prescribers are aware of it.
 
@@ -90,13 +90,13 @@ While other somatostatin analogues authorised in the EU are given as injections,
 
 The European Medicines Agency therefore decided that Palsonify's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Palsonify?
+### What measures are being taken to ensure the safe and effective use of Palsonify?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Palsonify have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Palsonify are continuously monitored. Suspected side effects reported with Palsonify are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Palsonify
+### Other information about Palsonify
 
 Palsonify received a marketing authorisation valid throughout the EU on &lt;date of issue of the Marketing Authorisation.
 
@@ -110,7 +110,7 @@ English (EN) (123.23 KB - PDF)
 
 [View](/en/documents/overview/palsonify-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-191)
+[Other languages (22)](#file-language-dropdown-46)
 
 български (BG) (145.85 KB - PDF)
 
@@ -142,7 +142,7 @@ Deutsch (DE) (131.04 KB - PDF)
 
 [View](/de/documents/overview/palsonify-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (124.66 KB - PDF)
+eesti (ET) (124.66 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -172,13 +172,13 @@ italiano (IT) (126.96 KB - PDF)
 
 [View](/it/documents/overview/palsonify-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (159.23 KB - PDF)
+latviešu (LV) (159.23 KB - PDF)
 
 **First published:** 05/05/2026
 
 [View](/lv/documents/overview/palsonify-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.63 KB - PDF)
+lietuvių (LT) (144.63 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -232,7 +232,7 @@ slovenščina (SL) (172.23 KB - PDF)
 
 [View](/sl/documents/overview/palsonify-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (125.71 KB - PDF)
+suomi (FI) (125.71 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -256,165 +256,168 @@ English (EN) (632.87 KB - PDF)
 
 Palsonify : EPAR - Product information
 
-English (EN) (487.55 KB - PDF)
+English (EN) (283.75 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/en/documents/product-information/palsonify-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-181)
+[Other languages (24)](#file-language-dropdown-903)
 
-български (BG) (550.65 KB - PDF)
+български (BG) (507.48 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/bg/documents/product-information/palsonify-epar-product-information_bg.pdf)
 
-español (ES) (513.26 KB - PDF)
+español (ES) (332.13 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/es/documents/product-information/palsonify-epar-product-information_es.pdf)
 
-čeština (CS) (536.83 KB - PDF)
+čeština (CS) (482.95 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/cs/documents/product-information/palsonify-epar-product-information_cs.pdf)
 
-dansk (DA) (485.88 KB - PDF)
+dansk (DA) (373.02 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/da/documents/product-information/palsonify-epar-product-information_da.pdf)
 
-Deutsch (DE) (490.16 KB - PDF)
+Deutsch (DE) (363.34 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/de/documents/product-information/palsonify-epar-product-information_de.pdf)
 
-eesti keel (ET) (489.54 KB - PDF)
+eesti (ET) (310.79 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/et/documents/product-information/palsonify-epar-product-information_et.pdf)
 
-ελληνικά (EL) (547.19 KB - PDF)
+ελληνικά (EL) (412.71 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/el/documents/product-information/palsonify-epar-product-information_el.pdf)
 
-français (FR) (488.4 KB - PDF)
+français (FR) (298.84 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/fr/documents/product-information/palsonify-epar-product-information_fr.pdf)
 
-hrvatski (HR) (545.27 KB - PDF)
+hrvatski (HR) (397.98 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/hr/documents/product-information/palsonify-epar-product-information_hr.pdf)
 
-íslenska (IS) (485.53 KB - PDF)
+italiano (IT) (298.45 KB - PDF)
 
-**First published:** 05/05/2026
-
-[View](/is/documents/product-information/palsonify-epar-product-information_is.pdf)
-
-italiano (IT) (482.2 KB - PDF)
-
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/it/documents/product-information/palsonify-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (547.45 KB - PDF)
+latviešu (LV) (421.19 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/lv/documents/product-information/palsonify-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (528.98 KB - PDF)
+lietuvių (LT) (385.56 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/lt/documents/product-information/palsonify-epar-product-information_lt.pdf)
 
-magyar (HU) (545.4 KB - PDF)
+magyar (HU) (401.55 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/hu/documents/product-information/palsonify-epar-product-information_hu.pdf)
 
-Malti (MT) (547.73 KB - PDF)
+Malti (MT) (396.55 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/mt/documents/product-information/palsonify-epar-product-information_mt.pdf)
 
-Nederlands (NL) (476.04 KB - PDF)
+Nederlands (NL) (290.77 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/nl/documents/product-information/palsonify-epar-product-information_nl.pdf)
 
-norsk (NO) (482.94 KB - PDF)
+polski (PL) (384.98 KB - PDF)
 
-**First published:** 05/05/2026
-
-[View](/no/documents/product-information/palsonify-epar-product-information_no.pdf)
-
-polski (PL) (544.53 KB - PDF)
-
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/pl/documents/product-information/palsonify-epar-product-information_pl.pdf)
 
-português (PT) (483.6 KB - PDF)
+português (PT) (297.82 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/pt/documents/product-information/palsonify-epar-product-information_pt.pdf)
 
-română (RO) (515.74 KB - PDF)
+română (RO) (379.12 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/ro/documents/product-information/palsonify-epar-product-information_ro.pdf)
 
-slovenčina (SK) (557.01 KB - PDF)
+slovenčina (SK) (409.13 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/sk/documents/product-information/palsonify-epar-product-information_sk.pdf)
 
-slovenščina (SL) (523.62 KB - PDF)
+slovenščina (SL) (381.78 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/sl/documents/product-information/palsonify-epar-product-information_sl.pdf)
 
-Suomi (FI) (477.21 KB - PDF)
+suomi (FI) (300.35 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/fi/documents/product-information/palsonify-epar-product-information_fi.pdf)
 
-svenska (SV) (504.3 KB - PDF)
+svenska (SV) (297.01 KB - PDF)
 
-**First published:** 05/05/2026
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
 
 [View](/sv/documents/product-information/palsonify-epar-product-information_sv.pdf)
 
-23/04/2026
+Íslenska (IS) (300.3 KB - PDF)
+
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
+
+[View](/is/documents/product-information/palsonify-epar-product-information_is.pdf)
+
+norsk (NO) (298.92 KB - PDF)
+
+**First published:** 05/05/2026 **Last updated:** 15/06/2026
+
+[View](/no/documents/product-information/palsonify-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000350787
+
+15/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,7 +435,7 @@ English (EN) (54.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-122)
 
 български (BG) (55.65 KB - PDF)
 
@@ -464,7 +467,7 @@ Deutsch (DE) (39.75 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (40.33 KB - PDF)
+eesti (ET) (40.33 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -488,25 +491,19 @@ hrvatski (HR) (116.58 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (54.48 KB - PDF)
-
-**First published:** 05/05/2026
-
-[View](/is/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (39.7 KB - PDF)
 
 **First published:** 05/05/2026
 
 [View](/it/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.89 KB - PDF)
+latviešu (LV) (55.89 KB - PDF)
 
 **First published:** 05/05/2026
 
 [View](/lv/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (55.89 KB - PDF)
+lietuvių (LT) (55.89 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -529,12 +526,6 @@ Nederlands (NL) (39.26 KB - PDF)
 **First published:** 05/05/2026
 
 [View](/nl/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (37.69 KB - PDF)
-
-**First published:** 05/05/2026
-
-[View](/no/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (47.35 KB - PDF)
 
@@ -566,7 +557,7 @@ slovenščina (SL) (53.73 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (39.3 KB - PDF)
+suomi (FI) (39.3 KB - PDF)
 
 **First published:** 05/05/2026
 
@@ -578,27 +569,30 @@ svenska (SV) (39.18 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (54.48 KB - PDF)
+
+**First published:** 05/05/2026
+
+[View](/is/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (37.69 KB - PDF)
+
+**First published:** 05/05/2026
+
+[View](/no/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Palsonify
-
-Active substance
-
-paltusotine hydrochloride
-
-International non-proprietary name (INN) or common name
-
-paltusotine
-
-Therapeutic area (MeSH)
-
-Acromegaly
-
-Anatomical therapeutic chemical (ATC) code
-
-H01CB06
+- **Name of medicine**
+    - Palsonify
+- **Active substance**
+    - paltusotine hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - paltusotine
+- **Therapeutic area (MeSH)**
+    - Acromegaly
+- **Anatomical therapeutic chemical (ATC) code**
+    - H01CB06
 
 ### Pharmacotherapeutic group
 
@@ -610,35 +604,38 @@ Palsonify is indicated for the medical treatment of adult patients with acromega
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006636
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Crinetics Pharmaceuticals Europe GmbH
-
-Barbara Strozzilaan 201 1083 HN Amsterdam Netherlands
-
-Opinion adopted
-
-26/02/2026
-
-Marketing authorisation issued
-
-23/04/2026
+- **EMA product number**
+    - EMEA/H/C/006636
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201  1083 HN Amsterdam  Netherlands
+- **Opinion adopted**
+    - 26/02/2026
+- **Marketing authorisation issued**
+    - 23/04/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Palsonify : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (141.31 KB - PDF)
+
+**First published:** 15/06/2026
+
+[View](/en/documents/procedural-steps-after/palsonify-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Palsonify : Orphan Maintenance Assessment Report (initial authorisation)
 
@@ -682,6 +679,6 @@ English (EN) (157.84 KB - PDF)
 
 **This page was last updated on**
 
-05/05/2026
+15/06/2026
 
 ## Share this page

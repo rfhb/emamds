@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-17 16:09:51
-document_pages: 31
+document_datetime: 2026-06-16 08:24:46
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ziihera-epar-product-information_en.pdf
 document_name: ziihera-epar-product-information_en.pdf
 version: success
-processing_time: 6.2081531
-conversion_datetime: 2026-01-03 12:46:03.16466
+processing_time: 6.446235
+conversion_datetime: 2026-06-21 09:37:59.218641
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.24.0
+  docling-jobkit: 1.23.1
+  docling: 2.103.0
+  docling-core: 2.82.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,7 +68,7 @@ The recommended dose of Ziihera is 20 mg/kg, administered as an intravenous infu
 
 ## Premedications
 
-Premedication should be administered 30 to 60 minutes prior to each infusion to prevent potential infusion related reaction. Premedication is recommended to include a corticosteroid, antihistamine, and antipyretic (see section 4.4).
+Premedication should be administered 30 to 60 minutes prior to each infusion to prevent potential infusion related reactions. Premedication is recommended to include a corticosteroid, antihistamine, and antipyretic (see section 4.4).
 
 ## Dose modifications for left ventricular dysfunction
 
@@ -83,7 +83,7 @@ Table 1. Dose modifications for left ventricular dysfunction
 
 ## Dose modifications for infusion related reactions
 
-Management of infusion related reaction (IRRs) may require reduced infusion rate, dose interruption, or treatment discontinuation as described in Table 2.
+Management of infusion related reactions (IRRs) may require reduced infusion rate, dose interruption, or treatment discontinuation as described in Table 2.
 
 Table 2. Dose and infusion duration modifications for infusion-related reactions
 
@@ -117,7 +117,7 @@ Dose adjustments are not required for patients with mild or moderate renal impai
 
 ## Hepatic impairment
 
-Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
+Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and aspartate aminotransferase (AST) &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
 
 ## Elderly population
 
@@ -135,7 +135,7 @@ The diluted solution for infusion must have a final concentration of 0.4 to 6 mg
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
-Table 4. Recommended infusion durations
+## Table 4. Recommended infusion durations
 
 | Dose             | Infusion duration                                     |
 |------------------|-------------------------------------------------------|
@@ -171,13 +171,13 @@ Zanidatamab has not been studied in patients with a pre-treatment LVEF value of 
 
 ## Infusion related reactions
 
-Ziihera can cause infusion related reactions (IRRs) (see section 4.8). Premedications should be administered prior to each dose , to reduce the risk of IRRs (see section 4.2).
+Ziihera can cause infusion related reactions (IRRs) (see section 4.8). Premedications should be administered prior to each dose, to reduce the risk of IRRs (see section 4.2).
 
 Patients should be monitored for signs and symptoms of IRRs during administration and as clinically indicated after completion of infusion. Appropriate emergency medicine and equipment to treat IRRs should be available for immediate use, and IRRs should be managed as recommended in Table 2 (see section 4.2).
 
 ## Pneumonitis
 
-Pneumonitis has been reported with medicinal products that block HER2 activity, including Ziihera. Pneumonitis has been reported in 0.4% of 233 patients treated with Ziihera 20 mg/kg intravenously as a single agent in clinical studies. Patients should be monitored for signs and symptoms of pneumonitis. In the event of confirmed Grade ≥2 pneumonitis, treatment should be permanently discontinued (see section 4.2).
+Pneumonitis has been reported with medicinal products that block HER2 activity, including Ziihera. Pneumonitis has been reported in 0.4% of 233 patients treated with Ziihera 20 mg/kg intravenously as a single agent in clinical studies. Patients should be monitored for signs and symptoms of pneumonitis. In the event of confirmed Grade ≥ 2 pneumonitis, treatment should be permanently discontinued (see section 4.2).
 
 ## Excipients with known effect
 
@@ -193,7 +193,7 @@ This medicinal product contains 0.63 mg of polysorbate 20 in each vial, which is
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No dedicated clinical studies evaluating the drug interaction potential of zanidatamab have been conducted. Zanidatamab is an antibody that is not expected to impact the cytochrome P450 enzymes. Also, zanidatamab is not known to target mechanisms related to proinflammatory cytokines or any mechanism related to proinflammatory cytokines that may impact the PK of concomitant medicines.
+No dedicated clinical studies evaluating the drug interaction potential of zanidatamab have been conducted. Zanidatamab is an antibody that is not expected to impact the cytochrome P450 enzymes. Also, zanidatamab is not known to target mechanisms related to proinflammatory cytokines or any mechanism related to proinflammatory cytokines that may impact the pharmacokinetics (PK) of concomitant medicines.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -227,17 +227,15 @@ Zanidatamab has minor influence on the ability to drive and use machines. Fatigu
 
 ## Summary of the safety profile
 
-The pooled safety population of Ziihera reflects exposure in 233 patients who were  administered Ziihera 20 mg/kg intravenously as a single agent in two single-arm trials.  Among 233 patients who
+The pooled safety population of Ziihera reflects exposure in 233 patients who were administered Ziihera 20 mg/kg intravenously as a single agent in two single-arm trials. Among 233 patients who received Ziihera, 39% were exposed for 6 months or longer, and 17% were exposed for greater than one year.
 
 <div style=\"page-break-after: always\"></div>
-
-received Ziihera, 39% were exposed for 6 months or longer, and 17% were exposed for greater than one year.
 
 From the pooled data, serious adverse reactions were observed in 8.2% of patients. The most frequent serious adverse reactions were diarrhoea (1.7%) and fatigue (1.3%).
 
 The most common adverse reactions observed in the pooled data were diarrhoea (48.5%), infusion related reaction (30.5%), fatigue (26.2%), anaemia (21.9%) and rash (21.5%).
 
-The safety of Ziihera in adult patients with BTC (N=87) was evaluated in Study 203, an open-label, multi-cohort, multicenter trial.
+The safety of Ziihera in adult patients with BTC (N=87) was evaluated in Study 203, an open-label, multi-cohort, multicentre trial.
 
 In Study 203 (N=87), serious adverse reactions occurred in 16.1% of patients. The most frequent serious adverse reactions were diarrhoea (2.3%), fatigue (2.3%), and alanine aminotransferase increased (2.3%).
 
@@ -253,25 +251,33 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 5. Adverse reactions in patients receiving Ziihera as monotherapy reported in the pooled safety population (N=233)
 
-| System organ class                                   | Frequency   | Adverse reactions                     |
-|------------------------------------------------------|-------------|---------------------------------------|
-| Blood and lymphatic system disorders                 | Very common | Anaemia*                              |
-| Metabolism and nutrition disorders                   | Very common | Decreased appetite                    |
-| Cardiac disorders                                    | Common      | Ejection fraction decreased*          |
-| Gastrointestinal disorders                           | Very common | Diarrhoea*                            |
-| Gastrointestinal disorders                           | Very common | Abdominal pain a                      |
-| Gastrointestinal disorders                           | Very common | Nausea                                |
-| Gastrointestinal disorders                           | Very common | Vomiting                              |
-| Hepatobiliary disorders                              | Very common | Alanine aminotransferase increased*   |
-| Hepatobiliary disorders                              | Very common | Aspartate aminotransferase increased* |
-| Skin and subcutaneous tissue disorders               | Very common | Rash b                                |
-| General disorders and administration site conditions | Very common | Fatigue c                             |
+| System organ class                                   | Frequency   | Adverse reactions                           |
+|------------------------------------------------------|-------------|---------------------------------------------|
+| Blood and lymphatic system disorders                 | Very common | Anaemia*                                    |
+| Metabolism and nutrition disorders                   | Very common | Decreased appetite                          |
+| Cardiac disorders                                    | Common      | Ejection fraction decreased*                |
+| Gastrointestinal disorders                           | Very common | Diarrhoea*                                  |
+| Gastrointestinal disorders                           | Very common | Abdominal pain a                            |
+| Gastrointestinal disorders                           | Very common | Nausea                                      |
+| Gastrointestinal disorders                           | Very common | Vomiting                                    |
+| Hepatobiliary disorders                              | Very common | Alanine aminotransferase increased (ALT)*   |
+| Hepatobiliary disorders                              | Very common | Aspartate aminotransferase increased (AST)* |
+| Skin and subcutaneous tissue disorders               | Very common | Rash b                                      |
+| General disorders and administration site conditions | Very common | Fatigue c                                   |
 
 <div style=\"page-break-after: always\"></div>
 
 | Injury, poisoning and procedural complications   | Very common   | Infusion related reaction*   |
 |--------------------------------------------------|---------------|------------------------------|
 | Respiratory, thoracic and mediastinal disorders  | Uncommon      | Pneumonitis                  |
+
+a  Abdominal pain includes abdominal pain and abdominal pain upper.
+
+b Rash includes dermatitis acneiform, rash, rash maculo-papular, rash pruritic, and urticaria.
+
+c Fatigue includes asthenia, fatigue, and malaise.
+
+* See 'Description of selected adverse reactions' below.
 
 ## Description of selected adverse reactions in the pooled safety population (N=233)
 
@@ -297,7 +303,7 @@ AST increased was reported in 11.6% of patients who received Ziihera. Grade 3 re
 
 ## Left ventricular dysfunction
 
-Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Ziihera. Twelve events of LVEF decreased were observed in 10 patients (4.3%) and one of these events was considered serious. Grade 3 reported event incidence in patients was 1.3%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 171 days and median time to resolution was 27 days. The dose of Ziihera was reduced in 1 patient (0.4%), was held or delayed in 5 patients (2.1%)and was discontinued in 2 patients (0.9%).
+Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Ziihera. Twelve events of LVEF decreased were observed in 10 patients (4.3%) and one of these events was considered serious. Grade 3 reported event incidence in patients was 1.3%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 171 days and median time to resolution was 27 days. The dose of Ziihera was reduced in 1 patient (0.4%), was held or delayed in 5 patients (2.1%) and was discontinued in 2 patients (0.9%).
 
 ## Reporting of suspected adverse reactions
 
@@ -313,7 +319,7 @@ The maximum tolerated dose of zanidatamab has not been determined. In clinical s
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors, ATC code: L01FD07
+Pharmacotherapeutic group: Antineoplastic agents, HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors, ATC code: L01FD07.
 
 ## Mechanism of action
 
@@ -323,23 +329,23 @@ Zanidatamab is a dual HER2-targeted bispecific antibody that simultaneously bind
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of antidrug antibodies (ADA) in the studies described below with incidence of ADA in other studies.
 
-ADA were rarely detected. Zanidatamab is categorised as a low-risk molecule to elicit an immune response on the basis of assessment of the immunogenicity risk factors and the low incidence of ADAs observed to date across the clinical studies (1.6% [3 of 183 evaluable participants] and 1.2% [1 of 85 evaluable participants] in Study 101 and Study 203, respectively). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are still limited.
+ADA were rarely detected. Zanidatamab is categorised as a low-risk molecule to elicit an immune response on the basis of assessment of the immunogenicity risk factors and the low incidence of ADA observed in Study 203 (1.2% [1 of 85 evaluable participants]). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are limited.
 
 ## Cardiac electrophysiology
 
-The relationship between time-matched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The C-QT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval.
+The relationship between timematched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The CQT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval .
 
 ## Clinical efficacy and safety
 
-The efficacy of Ziihera was evaluated in Cohort 1 (N=62) of ZWI-ZW25-203 ( Study 203), a multicentre open-label single arm trial of patients with locally advanced unresectable or metastatic biliary tract cancer who received at least one prior gemcitabine-containing systemic chemotherapy regimen for advanced disease, and experienced disease progression after or developed intolerance to the most recent prior therapy, and whose tumour tested HER2-positive (IHC 3+).
+The efficacy of Ziihera was evaluated in Cohort 1 (N=62) of ZWI-ZW25-203 ( Study 203), a multicentre open-label single arm trial of patients with locally advanced unresectable or metastatic biliary tract cancer who received at least one prior gemcitabine-containing systemic chemotherapy regimen for advanced disease, and experienced disease progression after or developed intolerance to the most recent prior therapy, and whose tumour tested HER2-positive (IHC3+).
 
 Patients received Ziihera every 2 weeks at a dose of 20 mg/kg intravenously. It was administered until disease progression or unacceptable toxicity. The major efficacy outcome measures were confirmed objective response rate (cORR) and duration of response (DoR) as determined by an independent central review (ICR) according to Response Evaluation Criteria in Solid Tumours (RECIST) v1.1.
 
 The median age was 64 years (range: 38 to 79 years), 47% of patients were age 65 or older; 55% were female; 61% were Asian, 31% were White. All patients had a baseline Eastern Cooperative Oncology Group (ECOG) performance status of 0 (32%) or 1 (68%).
 
-<div style=\"page-break-after: always\"></div>
-
 Fifty-three percent of patients had gallbladder cancer, 27% had intrahepatic cholangiocarcinoma, and 19% had extrahepatic cholangiocarcinoma. Forty percent of patients had received more than one prior line of therapy for metastatic or locally advanced disease. The most commonly received prior treatments, other than gemcitabine, included: cisplatin (76%), oxaliplatin (16%), 5-fluoruracil (39%), and PD-1 or PD-L1 inhibitor (26%). The median overall survival (OS) in the IHC3+ population was 18.1 months (95% CI: 12.2, 22.9). The median duration of study follow-up in the IHC3+ population was 34.0 months.
+
+<div style=\"page-break-after: always\"></div>
 
 Efficacy results are summarised in Table 6.
 
@@ -352,10 +358,8 @@ Table 6. Efficacy results in Study 203
 | %(95% CI)                                | 51.6 (38.6, 64.5) |
 | Complete response, n (%)                 | 3 (4.8)           |
 | Partial response, n (%)                  | 29 (46.8)         |
-| Duration of response (DOR )              | N=32              |
+| Duration of response (DoR)               | N=32              |
 | Median † , months (95% CI)               | 14.9 (7.4, 24.0)  |
-
-LPLV = Last patient last visit 11 July 2024
 
 ## Paediatric population
 
@@ -367,9 +371,11 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 ## 5.2 Pharmacokinetic properties
 
-Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞) was greater than dose proportional with increasing doses. The geometric mean accumulation indices based on Ctrough at steady state was approximately 2.7 for the 20 mg/kg once every 2 weeks zanidatamab dose level. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
+Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞ ) was greater than dose proportional with increasing doses.
 
-The pharmacokinetics of zanidatamab following intravenous infusion in participants with HER2 expressing cancers was evaluated in a population pharmacokinetic model analysis from 279 participants. From the PopPK analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h, a typical Vc of 3.51 L, a typical Vp of 3.95 L, and an estimated t1/2 of approximately 21 days. Based on the estimated t1/2, it would take approximately 3.5 months (i.e., 5 half-lives) to reach steady state following multiple dose administration of zanidatamab.
+The geometric mean Ctrough accumulation ratio of zanidatamab is approximately 2.4. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
+
+The pharmacokinetics of zanidatamab following intravenous infusion in participants with HER2 expressing cancers was evaluated in a population pharmacokinetic (PopPK) model analysis from 279 participants. From the PopPK analysis, participants with BTC were predicted to have a typical CL of 0.0110 L/h, a typical volume of distribution of the central compartment (Vc) of 3.22 L, a typical volume of distribution of the peripheral compartment (Vp) of 3.20 L, and an estimated t½ of approximately 19 days. Based on the estimated t½, it would take approximately 3.2 months (i.e., 5 half-lives) to reach steady state following multiple dose administration of zanidatamab.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -380,7 +386,7 @@ Table 7. Study 203: Pharmacokinetic parameters (geometric mean [percent coeffici
 | Cycle 1 N=19                        | 455 (16.3)      | 68.3 (42.9)        | 2280 (22.7)              |
 | Cycle 4 or later (steady-state) N=8 | 600 (22.2)      | 178 (29.6)         | 3980 (22.5)              |
 
-Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration; Q2W = once every 2 weeks
+Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration ; Q2W = once every 2 weeks .
 
 Note: Cycle 1 and Cycle 4 are referred to as 'first dose' and 'steady-state', respectively; these terms are interchangeable.
 
@@ -390,11 +396,11 @@ Ziihera is administered as an intravenous infusion.
 
 ## Distribution
 
-Following intravenous dosing, zanidatamab undergoes biphasic elimination from the circulation. Based on population pharmacokinetic analysis, participants with HER2 amplified BTC were predicted to have a typical Vc of 3.51 L and a typical Vp of 3.95 L.
+Following intravenous dosing, zanidatamab undergoes biphasic elimination from the circulation. Based on population pharmacokinetic analysis, participants with HER2 amplified BTC were predicted to have a typical Vc of 3.22 L and a typical Vp of 3.20 L.
 
 ## Elimination
 
-Based on population pharmacokinetic analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h and an estimated t1/2 of approximately 21 days for zanidatamab administered at 20 mg/kg every 2 weeks at steady-state.
+Based on population pharmacokinetic analysis, participants with BTC were predicted to have a typical CL of 0.0110 L/h and an estimated t1/2 of approximately 19 days for zanidatamab administered at 20 mg/kg every 2 weeks at steady-state.
 
 ## Specific populations
 
@@ -402,11 +408,11 @@ Based on population pharmacokinetic analysis, no clinically significant differen
 
 ## Renal impairment
 
-Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild and moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). The pharmacokinetics of zanidatamab in patients with severe renal impairment and end-stage renal disease with or without hemodialysis is unknown. However, as IgG monoclonal antibodies are not primarily cleared via renal pathways, a change in renal function is not expected to influence zanidatamab exposure.
+Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild and moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). The pharmacokinetics of zanidatamab in patients with severe renal impairment and end-stage renal disease with or without haemodialysis is unknown. However, as IgG monoclonal antibodies are not primarily cleared via renal pathways, a change in renal function is not expected to influence zanidatamab exposure.
 
 ## Hepatic impairment
 
-Based on population pharmacokinetics analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). The pharmacokinetics of zanidatamab in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) or severe hepatic impairment (total bilirubin &gt;3 ULN and any AST) is unknown. However, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence zanidatamab exposure.
+Based on population pharmacokinetics analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). The pharmacokinetics of zanidatamab in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) or severe hepatic impairment (total bilirubin &gt; 3 ULN and any AST) is unknown. However, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence zanidatamab exposure.
 
 ## 5.3 Preclinical safety data
 
@@ -444,15 +450,15 @@ Unopened vial 3 years.
 
 ## Reconstituted solution
 
-Chemical and physical in-use stability of reconstituted solution has been demonstrated for up to 6 hours at room temperature (18 °C to 24 °C) and up to 24 hours at 2 °C to 8 ºC.
+Chemical and physical in-use stability of reconstituted solution has been demonstrated for up to 6 hours at room temperature (18 ºC to 24 ºC) and up to 24 hours at 2 ºC to 8 ºC.
 
-From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not exceed 4 hours at room temperature (18 ℃ to 24 ℃) or in the refrigerator (2 ºC to 8 ºC).
+From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not exceed 4 hours at room temperature (18 ºC to 24 ºC) or in the refrigerator (2 ºC to 8 ºC).
 
 ## Diluted solution
 
-Chemical and physical in-use stability of the diluted solution has been demonstrated for up to 24 hours at room temperature (18 °C to 24 °C) and at 2 ºC to 8 ºC.
+Chemical and physical in-use stability of the diluted solution has been demonstrated for up to 24 hours at room temperature (18 ºC to 24 ºC) and at 2 ºC to 8 ºC.
 
-From a microbial point of view, the product should be used immediately. If not used immediately, inuse storage time and conditions are the responsibility of the user and should not exceed 12 hours at room temperature (18 °C to 24 °C) or 24 hours in the refrigerator at 2 ºC to 8 ºC. These storage times start from the time of reconstitution.
+From a microbial point of view, the product should be used immediately. If not used immediately, inuse storage time and conditions are the responsibility of the user and should not exceed 12 hours at room temperature (18 ºC to 24 ºC) or 24 hours in the refrigerator at 2 ºC to 8 ºC. These storage times start from the time of reconstitution.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,10 +503,9 @@ Aseptic technique must be used for reconstitution and dilution of Ziihera.
 - o Intravenous bag: polyvinyl chloride (PVC), polyolefin (PO), ethyl vinyl acetate (EVA), polypropylene (PP) and ethylene-propylene copolymer.
 - o Infusion sets: polyvinyl chloride/ bis (2-ethylhexyl) phthalate (PVC/DEHP), polyurethane (PUR), polyethylene-lined (PE-lined) acrylonitrile-butadiene-styrene (ABS).
 - o Inline filters: polyethersulfone solution filter (PES), polyvinylidene fluoride air filter (PVDF).
+- o Closed system transfer devices: acrylonitrile-butadiene-styrene (ABS), acrylic copolymer, polycarbonate (PC), polyisoprene (PI), polyester polypropylene (PP), polytetrafluoroethylene (PTFE), silicone and stainless steel (SS).
 
 <div style=\"page-break-after: always\"></div>
-
-- o Closed system transfer devices: acrylonitrile-butadiene-styrene (ABS), acrylic copolymer, polycarbonate (PC), polyisoprene (PI), polyester polypropylene (PP), polytetrafluoroethylene (PTFE), silicone and stainless steel (SS).
 
 ## Administration
 
@@ -521,13 +526,13 @@ Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dubl
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1931/001
-
-EU/1/25/1931/002
+EU/1/25/1931/001 EU/1/25/1931/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 June 2025
+
+Date of latest renewal: 23 April 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -563,7 +568,7 @@ Medicinal products subject to restricted medical prescription (see Annex I: Summ
 
 The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines webportal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
@@ -642,13 +647,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
-
-Do not freeze.
+Store in a refrigerator. Do not freeze.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -671,6 +672,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
@@ -681,24 +683,26 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ziihera 300 mg powder for concentrate zanidatamab
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV use after reconstitution and dilution
 
@@ -712,8 +716,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -722,13 +726,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
 
-▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -856,7 +860,7 @@ Very common (may affect more than 1 in 10 people)
 
 ## Other side effects
 
-The frequency and severity of side effects may vary with the dose you receive.  Talk to your doctor or nurse if you get any of the following:
+The frequency and severity of side effects may vary with the dose you receive. Talk to your doctor or nurse if you get any of the following:
 
 Very common (may affect more than 1 in 10 people)
 
@@ -912,10 +916,6 @@ One carton contains 1 or 2 vials. Not all pack sizes may be marketed.
 
 Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
 
-Tel: +353 1 968 1631
-
-Email: medinfo-int@jazzpharma.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in:
@@ -927,17 +927,3 @@ The European Medicines Agency will review new information on this medicine at le
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

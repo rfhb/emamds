@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-20 15:18:30
+document_datetime: 2026-06-23 17:16:53
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evfraxy-epar-product-information_en.pdf
 document_name: evfraxy-epar-product-information_en.pdf
 version: success
-processing_time: 19.7299937
-conversion_datetime: 2026-03-21 13:21:50.589661
+processing_time: 8.3735694
+conversion_datetime: 2026-06-25 17:16:45.896915
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,9 @@ Patients must be adequately supplemented with calcium and vitamin D (see section
 
 Patients treated with Evfraxy should be given the package leaflet and the patient reminder card.
 
-The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and
+The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and bisphosphonates) has not been established. The need for continued treatment should be re-evaluated periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-bisphosphonates) has not been established. The need for continued treatment should be re-evaluated periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 ## Elderly (age ≥ 65)
 
@@ -118,11 +116,9 @@ Adequate intake of calcium and vitamin D is important in all patients.
 
 ## Hypocalcaemia
 
-It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be
+It is important to identify patients at risk for hypocalcaemia. Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D before initiating therapy. Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose. If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured. Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-encouraged to report symptoms indicative of hypocalcaemia.
 
 In the post-marketing setting, severe symptomatic hypocalcaemia (resulting in hospitalisation, lifethreatening events, and fatal cases) have been reported. While most cases occurred in the first few weeks of initiating therapy, it has also occurred later.
 
@@ -157,11 +153,9 @@ The management plan of the patients who develop ONJ should be set up in close co
 
 Osteonecrosis of the external auditory canal has been reported with denosumab. Possible risk factors for osteonecrosis of the external auditory canal include steroid use and chemotherapy and/or local risk factors such as infection or trauma. The possibility of osteonecrosis of the external auditory canal should be considered in patients receiving denosumab who present with ear symptoms including chronic ear infections.
 
-Atypical fractures of the femur
+Atypical fractures of the femur Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events.
 
 <div style=\"page-break-after: always\"></div>
-
-Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events.
 
 Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of Evfraxy therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment. During Evfraxy treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
@@ -259,11 +253,9 @@ In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia re
 
 ## Skin infections
 
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 <div style=\"page-break-after: always\"></div>
-
-hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 ## Osteonecrosis of the jaw
 
@@ -453,7 +445,7 @@ The study was not powered to show a difference in fractures. At 1 year, the subj
 
 <div style=\"page-break-after: always\"></div>
 
-A single-arm phaseIII study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
+A single-arm phase III study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
 
 At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
 
@@ -485,11 +477,9 @@ After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) 
 
 No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women.
 
-Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do
+Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 <div style=\"page-break-after: always\"></div>
-
-not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
 
@@ -523,11 +513,9 @@ In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairm
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
-In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced
+In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 <div style=\"page-break-after: always\"></div>
-
-haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 
@@ -910,11 +898,9 @@ Your doctor may ask you to undergo a dental examination before you start treatme
 
 While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Evfraxy.
 
-Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth
+Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
 <div style=\"page-break-after: always\"></div>
-
-such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of ONJ.
 
 ## Unusual thigh bone fractures
 
@@ -990,11 +976,9 @@ Rarely, patients receiving Evfraxy may have low calcium levels in the blood (hyp
 
 Rarely  unusual fractures  of  the  thigh  bone  may  occur  in  patients  receiving  Evfraxy. Contact your doctor if  you  experience  new  or  unusual  pain  in  your  hip,  groin  or  thigh  as  this  may  be  an  early indication of a possible fracture of the thigh bone.
 
-Rarely, allergic reactions may occur in patients receiving Evfraxy. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or
+Rarely, allergic reactions may occur in patients receiving Evfraxy. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Evfraxy.
 
 <div style=\"page-break-after: always\"></div>
-
-difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Evfraxy.
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
@@ -1097,23 +1081,25 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited
 
-Тел: 0080008250910
+Тел
+
+: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S
+Biosimilar Collaborations Ireland Limited
 
 Tél/Tel: 0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
 
 ## Danmark
 
@@ -1123,9 +1109,7 @@ Tlf: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited
-
-Tel.: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Deutschland
 
@@ -1135,9 +1119,7 @@ Tel: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Eesti
 
@@ -1151,29 +1133,21 @@ Biocon Biologics Finland OY
 
 Tlf: +47 800 62 671
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
+
+Ι . Κ . Ε
 
 Τηλ.:
 
 0080008250910
 
-## Österreich
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
 ## España
 
 Biocon Biologics Spain S.L.
-
-Tel: 0080008250910
-
-## Polska
-
-Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
@@ -1183,35 +1157,15 @@ Biocon Biologics France S.A.S
 
 Tel: 0080008250910
 
-## Portugal
-
-Biocon Biologics Spain S.L.
-
-Tel: 0080008250910
-
 ## Hrvatska
 
 Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
-## România
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 1800 777 794
-
-## Slovenija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 ## Ísland
 
@@ -1219,37 +1173,15 @@ Biocon Biologics Finland OY
 
 Sími: +345 800 4316
 
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
 ## Italia
 
 Biocon Biologics Spain S.L .
 
 Tel: 0080008250910
 
-## Suomi/Finland
-
-Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
-
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
-
-Τηλ:
-
-0080008250910
-
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
 
 ## Latvija
 
@@ -1257,13 +1189,53 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Österreich
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Portugal
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## România
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 

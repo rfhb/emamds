@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 09:10:14
+document_datetime: 2026-06-23 17:02:32
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/balversa-epar-product-information_en.pdf
 document_name: balversa-epar-product-information_en.pdf
 version: success
-processing_time: 10.5343277
-conversion_datetime: 2026-04-29 13:22:54.581419
+processing_time: 9.8753232
+conversion_datetime: 2026-06-25 17:19:23.294547
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1000,9 +1000,7 @@ Each tablet contains 4 mg of erdafitinib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 tablets
-
-56 tablets
+28 tablets 56 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1073,9 +1071,7 @@ Each film-coated tablet contains 5 mg of erdafitinib.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral Use. Swallow the tablet whole.
+Read the package leaflet before use. Oral Use. Swallow the tablet whole.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1157,7 +1153,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1610,11 +1606,11 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Cilag SpA Via C. Janssen Borgo San Michele Latina 04100 Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
+<div style=\"page-break-after: always\"></div>
+
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -1630,7 +1626,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -1642,9 +1638,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -1658,8 +1652,6 @@ medisource@its.jnj.com
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\"
@@ -1668,7 +1660,7 @@ Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -1682,7 +1674,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -1714,9 +1706,11 @@ Janssen Sciences Ireland UC
 
 Tel: 1 800 709 122
 
+medinfo@its.jnj.com
+
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf.
+Janssen-Cilag AB c/o Vistor ehf.
 
 Sími: +354 535 7000
 

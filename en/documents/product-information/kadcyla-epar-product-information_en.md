@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 14:14:04
-document_pages: 49
+document_datetime: 2026-06-16 09:25:45
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kadcyla-epar-product-information_en.pdf
 document_name: kadcyla-epar-product-information_en.pdf
 version: success
-processing_time: 21.1772282
-conversion_datetime: 2026-03-25 12:25:00.471357
+processing_time: 19.2664453
+conversion_datetime: 2026-06-25 09:12:52.874317
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -123,30 +123,30 @@ Table 2 Dose modification guidelines
 | Increased Aspartate Transaminase (AST)     | Grade 2 (> 3.0 to ≤ 5  ULN on day of scheduled treatment)              | Do not administer trastuzumab emtansine until AST recovers to Grade  1, and then treat at the same dose level                                                                                                                             |
 | Increased Aspartate Transaminase (AST)     | Grade 3 (> 5 to ≤ 20  ULN on day of scheduled treatment)               | Do not administer trastuzumab emtansine until AST recovers to Grade ≤ 1, and then reduce one dose level                                                                                                                                    |
 | Increased Aspartate Transaminase (AST)     | Grade 4 (> 20  ULN at any time)                                        | Discontinue trastuzumab emtansine                                                                                                                                                                                                          |
-| Hyperbilirubinaemia                        | TBILI > 1.0 to ≤ 2.0  the ULN on day of scheduled treatment           | Do not administer trastuzumab emtansine until total bilirubin recovers to ≤ 1.0× ULN, and then reduce one dose level                                                                                                                       |
+| Hyperbilirubinaemia                        | TBILI > 1.0 to ≤ 2.0  the ULN on day of scheduled treatment           | Do not administer trastuzumab emtansine until total bilirubin recovers to ≤ 1.0 × ULN, and then reduce one dose level                                                                                                                      |
 | Hyperbilirubinaemia                        | TBILI > 2  ULN at any time                                             | Discontinue trastuzumab emtansine                                                                                                                                                                                                          |
-| Drug Induced Liver Injury (DILI)           | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication                                                     |
+| Drug Induced Liver Injury (DILI)           | Serum transaminases > 3  ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication                                                     |
 | Nodular Regenerative Hyperplasia (NRH)     | All Grades                                                              | Permanently discontinue trastuzumab emtansine                                                                                                                                                                                              |
 | Peripheral Neuropathy                      | Grade 3-4                                                               | Do not administer trastuzumab emtansine until resolution  Grade 2                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Left Ventricular Dysfunction            | LVEF < 45%                                                                                                    | Do not administer trastuzumab emtansine . Repeat LVEF assessment within 3 weeks. If LVEF < 45% is confirmed, discontinue trastuzumab emtansine.                                                   |
-|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Left Ventricular Dysfunction            | LVEF 45% to < 50% and decrease is ≥ 10% points from baseline*                                                 | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If the LVEF remains < 50% and has not recovered to < 10% points from baseline, discontinue trastuzumab emtansine. |
-| Left Ventricular Dysfunction            | LVEF 45% to < 50% and decrease is < 10% points from baseline*                                                 | Continue treatment with trastuzumab emtansine. Repeat LVEF assessment within 3 weeks.                                                                                                             |
-| Left Ventricular Dysfunction            | LVEF ≥ 50%                                                                                                    | Continue treatment with trastuzumab emtansine                                                                                                                                                     |
-| Heart Failure                           | Symptomatic CHF, Grade 3-4 LVSD or Grade 3-4 heart failure, or Grade 2 heart failure accompanied by LVEF <45% | Discontinue trastuzumab emtansine                                                                                                                                                                 |
-| Pulmonary Toxicity                      | Interstitial lung disease (ILD) or pneumonitis                                                                | Permanently discontinue trastuzumab emtansine                                                                                                                                                     |
-| Radiotherapy-Related Pneumonitis        | Grade 2                                                                                                       | Discontinue trastuzumab emtansine if not resolving with standard treatment                                                                                                                        |
-| Radiotherapy-Related Pneumonitis        | Grade 3-4                                                                                                     | Discontinue trastuzumab emtansine                                                                                                                                                                 |
-| Dose modifications for patients withMBC | Dose modifications for patients withMBC                                                                       | Dose modifications for patients withMBC                                                                                                                                                           |
-| Adverse reaction                        | Severity                                                                                                      | Treatment modification                                                                                                                                                                            |
-| Thrombocytopenia                        | Grade 3 (25 000 to  50 000/mm 3 )                                                                            | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then treat at the same dose level                                                       |
-| Thrombocytopenia                        | Grade 4  25 000/mm 3 )                                                                                      | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then reduce one dose level                                                              |
-| Increased Transaminase (AST/ALT)        | Grade 2 (  2.5 to ≤ 5  the ULN)                                                                             | Treat at the same dose level                                                                                                                                                                      |
-| Increased Transaminase (AST/ALT)        | Grade 3 (  5 to ≤ 20  the ULN)                                                                              | Do not administer trastuzumab emtansine until AST/ALT recovers to Grade ≤ 2, and then reduce one dose level                                                                                       |
-| Increased Transaminase (AST/ALT)        | Grade 4 (  20  the ULN)                                                                                     | Discontinue trastuzumab emtansine                                                                                                                                                                 |
+| Left Ventricular Dysfunction            | LVEF < 45%                                                                                                     | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If LVEF < 45% is confirmed, discontinue trastuzumab emtansine.                                                    |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Left Ventricular Dysfunction            | LVEF 45% to < 50% and decrease is ≥ 10% points from baseline*                                                  | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If the LVEF remains < 50% and has not recovered to < 10% points from baseline, discontinue trastuzumab emtansine. |
+| Left Ventricular Dysfunction            | LVEF 45% to < 50% and decrease is < 10% points from baseline*                                                  | Continue treatment with trastuzumab emtansine. Repeat LVEF assessment within 3 weeks.                                                                                                             |
+| Left Ventricular Dysfunction            | LVEF ≥ 50%                                                                                                     | Continue treatment with trastuzumab emtansine                                                                                                                                                     |
+| Heart Failure                           | Symptomatic CHF, Grade 3-4 LVSD or Grade 3-4 heart failure, or Grade 2 heart failure accompanied by LVEF < 45% | Discontinue trastuzumab emtansine                                                                                                                                                                 |
+| Pulmonary Toxicity                      | Interstitial lung disease (ILD) or pneumonitis                                                                 | Permanently discontinue trastuzumab emtansine                                                                                                                                                     |
+| Radiotherapy-Related Pneumonitis        | Grade 2                                                                                                        | Discontinue trastuzumab emtansine if not resolving with standard treatment                                                                                                                        |
+| Radiotherapy-Related Pneumonitis        | Grade 3-4                                                                                                      | Discontinue trastuzumab emtansine                                                                                                                                                                 |
+| Dose modifications for patients withMBC | Dose modifications for patients withMBC                                                                        | Dose modifications for patients withMBC                                                                                                                                                           |
+| Adverse reaction                        | Severity                                                                                                       | Treatment modification                                                                                                                                                                            |
+| Thrombocytopenia                        | Grade 3 (25 000 to  50 000/mm 3 )                                                                             | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then treat at the same dose level                                                       |
+| Thrombocytopenia                        | Grade 4  25 000/mm 3 )                                                                                       | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then reduce one dose level                                                              |
+| Increased Transaminase (AST/ALT)        | Grade 2 (  2.5 to ≤ 5  the ULN)                                                                              | Treat at the same dose level                                                                                                                                                                      |
+| Increased Transaminase (AST/ALT)        | Grade 3 (  5 to ≤ 20  the ULN)                                                                               | Do not administer trastuzumab emtansine until AST/ALT recovers to Grade ≤ 2, and then reduce one dose level                                                                                       |
+| Increased Transaminase (AST/ALT)        | Grade 4 (  20  the ULN)                                                                                      | Discontinue trastuzumab emtansine                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -154,10 +154,10 @@ Table 2 Dose modification guidelines
 |----------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hyperbilirubinaemia                    | Grade 3 (  3 to ≤ 10  the ULN)                                        | Do not administer trastuzumab emtansine until total bilirubin recovers to Grade ≤ 1 and then reduce one dose level.                                                                    |
 | Hyperbilirubinaemia                    | Grade 4 (  10  the ULN)                                               | Discontinue trastuzumab emtansine                                                                                                                                                      |
-| Drug Induced Liver Injury (DILI)       | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication |
+| Drug Induced Liver Injury (DILI)       | Serum transaminases > 3  ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication |
 | Nodular Regenerative Hyperplasia (NRH) | All Grades                                                              | Permanently discontinue trastuzumab emtansine                                                                                                                                          |
 | Left Ventricular Dysfunction           | Symptomatic CHF                                                         | Discontinue trastuzumab emtansine                                                                                                                                                      |
-| Left Ventricular Dysfunction           | LVEF <40%                                                               | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If LVEF <40% is confirmed, discontinue trastuzumab emtansine                                           |
+| Left Ventricular Dysfunction           | LVEF < 40%                                                              | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If LVEF < 40% is confirmed, discontinue trastuzumab emtansine                                          |
 | Left Ventricular Dysfunction           | LVEF 40% to ≤ 45% and decrease is ≥ 10% points from baseline            | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If the LVEF has not recovered to within 10% points from baseline, discontinue trastuzumab emtansine.   |
 | Left Ventricular Dysfunction           | LVEF 40% to ≤ 45% and decrease is < 10% points from baseline            | Continue treatment with trastuzumab emtansine . Repeat LVEF assessment within 3 weeks.                                                                                                 |
 | Left Ventricular Dysfunction           | LVEF > 45%                                                              | Continue treatment with trastuzumab emtansine .                                                                                                                                        |
@@ -180,11 +180,9 @@ Trastuzumab emtansine should be temporarily discontinued in patients experiencin
 
 ## Elderly patients
 
-No dose adjustment is required in patients aged ≥ 65 years. There are insufficient data to establish the safety and efficacy in patients ≥ 75 years due to limited data in this subgroup. However, for patients ≥ 65 years, subgroup analysis of 345 patients from study MO28231 shows a tendency of higher
+No dose adjustment is required in patients aged ≥ 65 years. There are insufficient data to establish the safety and efficacy in patients ≥ 75 years due to limited data in this subgroup. However, for patients ≥ 65 years, subgroup analysis of 345 patients from study MO28231 shows a tendency of higher incidences of Grade 3, 4 and 5 AE's, SAE's and AE's leading to treatment discontinuation/interruption, but with a similar incidence of AEs of Grade 3 and above classified as treatment related.
 
 <div style=\"page-break-after: always\"></div>
-
-incidences of Grade 3, 4 and 5 AE's, SAE's and AE's leading to treatment discontinuation/interruption, but with a similar incidence of AEs of Grade 3 and above classified as treatment related.
 
 Population pharmacokinetic analysis indicates that age does not have a clinically meaningful effect on the pharmacokinetics of trastuzumab emtansine (see sections 5.1 and 5.2).
 
@@ -214,7 +212,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Traceability
 
-In order to improve traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 In order to prevent medicinal product errors it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Kadcyla (trastuzumab emtansine) and not another trastuzumab-containing product (e.g. trastuzumab or trastuzumab deruxtecan).
 
@@ -270,7 +268,7 @@ Patients with dyspnoea at rest due to complications of advanced malignancy, co-m
 
 Trastuzumab emtansine treatment has not been studied in patients who had trastuzumab permanently discontinued due to infusion-related reactions (IRR); treatment is not recommended for these patients. Patients should be observed closely for infusion-related reactions, especially during the first infusion.
 
-Infusion-related reactions (due to cytokine release), characterised by one or more of the following symptoms have been reported: flushing, chills, pyrexia, dyspnoea, hypotension, wheezing, bronchospasm, and tachycardia. In general, these symptoms were not severe (see section 4.8). In most patients, these reactions resolved over the course of several hours to a day after the infusion was terminated. Treatment should be interrupted in patients with a severe IRR until signs and symptoms resolve. Consideration for re-treatment should be based on clinical assessment of the severity of the reaction. Treatment must be permanently discontinued in the event of a life threatening infusionrelated reaction (see section 4.2).
+Infusion-related reactions (due to cytokine release), characterised by one or more of the following symptoms have been reported: flushing, chills, pyrexia, dyspnoea, hypotension, wheezing, bronchospasm, and tachycardia. In general, these symptoms were not severe (see section 4.8). In most patients, these reactions resolved over the course of several hours to a day after the infusion was terminated. Treatment should be interrupted in patients with a severe IRR until signs and symptoms resolve. Consideration for re-treatment should be based on clinical assessment of the severity of the reaction. Treatment must be permanently discontinued in the event of a life-threatening infusionrelated reaction (see section 4.2).
 
 ## Hypersensitivity reactions
 
@@ -300,17 +298,15 @@ In vitro metabolism studies in human liver microsomes suggest that DM1, a compon
 
 ## Contraception in males and females
 
-Women of childbearing potential should use effective contraception while receiving trastuzumab emtansine and for 7 months following the last dose of trastuzumab emtansine. Male patients or their female partners should also use effective contraception.
+Women of childbearing potential should use effective contraception while receiving trastuzumab emtansine and for at least 7 months following the last dose of trastuzumab emtansine. Male patients with female partners of childbearing potential should use effective contraception while receiving trastuzumab emtansine and for at least 4 months following the last dose of trastuzumab emtansine.
 
 ## Pregnancy
 
 There are no data from the use of trastuzumab emtansine in pregnant women. Trastuzumab, a component of trastuzumab emtansine, can cause foetal harm or death when administered to a pregnant woman. In the post-marketing setting, cases of oligohydramnios, some associated with fatal pulmonary hypoplasia, have been reported in pregnant women receiving trastuzumab. Animal studies of maytansine, a closely related chemical entity of the same maytansinoid class as DM1, suggest that DM1, the microtubule inhibiting cytotoxic component of trastuzumab emtansine, is expected to be teratogenic and potentially embryotoxic (see section 5.3).
 
-Administration of trastuzumab emtansine to pregnant women is not recommended and women should be informed of the possibility of harm to the foetus before they become pregnant. Women who
+Administration of trastuzumab emtansine to pregnant women is not recommended and women should be informed of the possibility of harm to the foetus before they become pregnant. Women who become pregnant must immediately contact their doctor. If a pregnant woman is treated with trastuzumab emtansine, close monitoring by a multidisciplinary team is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-become pregnant must immediately contact their doctor. If a pregnant woman is treated with trastuzumab emtansine, close monitoring by a multidisciplinary team is recommended.
 
 ## Breast-feeding
 
@@ -348,7 +344,7 @@ Table 3 Tabulated list of ADRs in patients treated with trastuzumab emtansine in
 |------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------|
 | Infections and infestations                          | Very common | Urinary tract infection                                                                         |
 | Blood and lymphatic system disorders                 | Very common | Thrombocytopenia, Anaemia                                                                       |
-| Blood and lymphatic system disorders                 | Common      | Neutropenia, Leukopoenia                                                                        |
+| Blood and lymphatic system disorders                 | Common      | Neutropenia, Leukopenia                                                                         |
 | Immune system disorders                              | Common      | Drug hypersensitivity                                                                           |
 | Metabolism and nutrition disorders                   | Common      | Hypokalaemia                                                                                    |
 | Psychiatric disorders                                | Very common | Insomnia                                                                                        |
@@ -546,7 +542,7 @@ Table 6 Summary of efficacy from study BO27938 (KATHERINE)
 | p-value (Log-Rank test, unstratified)               | 0.0003                | 0.0003                          |
 | 3 year event-free rate 2 ,% [95% CI]                | 83.0 [80.10, 85.92]   | 89.7 [87.37, 92.01]             |
 
-Key to abbreviations (Table6): HR: Hazard Ratio; CI: Confidence Intervals,
+Key to abbreviations (Table6): HR: Hazard Ratio; CI: Confidence Intervals, In KATHERINE, consistent treatment benefit of trastuzumab emtansine for IDFS was seen in all the pre-specified subgroups evaluated, supporting the overall result.
 
 1. Data from primary analysis
 
@@ -567,8 +563,6 @@ Figure 1 Kaplan-Meier Curve of Invasive Disease-Free Survival in KATHERINE (Upda
 Figure 2 Kaplan-Meier Curve of Overall Survival in KATHERINE (Updated Analysis)
 
 <!-- image -->
-
-In KATHERINE, consistent treatment benefit of trastuzumab emtansine for IDFS was seen in all the pre-specified subgroups evaluated, supporting the overall result.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -639,13 +633,11 @@ Figure 4 Kaplan-Meier curve of overall survival
 
 <!-- image -->
 
-Hazardratio isestimated based ona stratified Coxmodel;p-valueisestimatedbased ona stratifiedlog-rank test.
+Hazard ratio is estimated based on a stratified Cox model; p-value is estimated based on a stratified log-rank test.
 
-In study TDM4370g/BO21977, consistent treatment benefit of trastuzumab emtansine was seen in the majority of pre-specified subgroups evaluated, supporting the robustness of the overall result. In the
+In study TDM4370g/BO21977, consistent treatment benefit of trastuzumab emtansine was seen in the majority of pre-specified subgroups evaluated, supporting the robustness of the overall result. In the subgroup of patients with hormone receptor-negative disease (n = 426), the hazard ratios for PFS and OS were 0.56 (95% CI: 0.44, 0.72) and 0.75 (95% CI: 0.54, 1.03), respectively.  In the subgroup of patients with hormone receptor-positive disease (n = 545), the hazard ratios for PFS and OS were 0.72 (95% CI: 0.58, 0.91) and 0.62 (95% CI: 0.46, 0.85), respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-subgroup of patients with hormone receptor-negative disease (n = 426), the hazard ratios for PFS and OS were 0.56 (95% CI: 0.44, 0.72) and 0.75 (95% CI: 0.54, 1.03), respectively.  In the subgroup of patients with hormone receptor-positive disease (n = 545), the hazard ratios for PFS and OS were 0.72 (95% CI: 0.58, 0.91) and 0.62 (95% CI: 0.46, 0.85), respectively.
 
 In the subgroup of patients with non-measurable disease (n = 205), based on IRC assessments, the hazard ratios for PFS and OS were 0.91 (95% CI: 0.59, 1.42) and 0.96 (95% CI: 0.54, 1.68), respectively. In patients ≥ 65 years old (n = 138 across both treatment arms) the hazard ratios for progression-free survival (PFS) and Overall Survival (OS) were 1.06 (95% CI: 0.68, 1.66) and 1.05 (95% CI: 0.58, 1.91), respectively. In patients 65 to 74 years old (n = 113), based on IRC assessments, the hazard ratios for PFS and OS were 0.88 (95% CI: 0.53, 1.45) and 0.74 (95% CI: 0.37, 1.47), respectively.  For patients 75 years or above, based on IRC assessments, the hazard ratios for PFS and OS were 3.51 (95% CI: 1.22, 10.13) and 3.45 (95% CI: 0.94, 12.65), respectively. The subgroup of patients 75 years or above did not demonstrate a benefit for PFS or OS, but was too small (n = 25) to draw any definitive conclusions.
 
@@ -695,7 +687,7 @@ Based on population pharmacokinetic (PK) analysis, following intravenous adminis
 
 Based on population PK analysis, body weight, albumin, sum of longest diameter of target lesions by Response Evaluation Criteria In Solid Tumours (RECIST), HER2 shed extracellular domain (ECD), baseline trastuzumab concentrations, and aspartate aminotransferase (AST) were identified as statistically significant covariates for trastuzumab emtansine PK parameters. However, the magnitude of effect of these covariates on trastuzumab emtansine exposure suggests that these covariates are unlikely to have any clinically meaningful effect on trastuzumab emtansine exposure. In addition, exploratory analysis showed that the impact of covariates (i.e., renal function, race and age) on the pharmacokinetics of total trastuzumab and DM1 was limited and was not clinically relevant. In non-clinical studies, trastuzumab emtansine catabolites including DM1, Lys-MCC-DM1, and MCC-DM1 are mainly excreted in the bile with minimal elimination in urine.
 
-## Linearity/non linearity
+## Linearity/non-linearity
 
 Trastuzumab emtansine when administered intravenously every 3 weeks exhibited linear PK across doses ranging from 2.4 to 4.8 mg/kg; patients who received doses less than or equal to 1.2 mg/kg had faster clearance.
 
@@ -731,11 +723,9 @@ Administration of trastuzumab emtansine was well tolerated in rats and monkeys a
 
 ## Mutagenicity
 
-DM1 was aneugenic or clastogenic in an in vivo single-dose rat bone marrow micronucleus assay at exposures that were comparable to mean maximum concentrations of DM1 measured in humans
+DM1 was aneugenic or clastogenic in an in vivo single-dose rat bone marrow micronucleus assay at exposures that were comparable to mean maximum concentrations of DM1 measured in humans administered trastuzumab emtansine. DM1 was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay.
 
 <div style=\"page-break-after: always\"></div>
-
-administered trastuzumab emtansine. DM1 was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay.
 
 ## Impairment of fertility and teratogenicity
 
@@ -787,7 +777,7 @@ Pack of 1 vial.
 
 ## Kadcyla 160 mg powder for concentrate for solution for infusion
 
-Kadcyla is provided in 20 mL (160 mg) Type 1 glass vial closed with a grey-butyl rubber stopper coated with fluoro resin laminate, and sealed with an aluminium seal with a purple plastic flip-off cap.
+Kadcyla is provided in 20 mL (160 mg) Type 1 glass vial closed with a grey-butyl rubber stopper coated with fluoro-resin laminate, and sealed with an aluminium seal with a purple plastic flip-off cap.
 
 Pack of 1 vial.
 
@@ -813,9 +803,7 @@ Reconstituted solution should be inspected visually for particulate matter and d
 
 Determine the volume of the reconstituted solution required based on a dose of 3.6 mg trastuzumab emtansine/kg body weight (see section 4.2):
 
-Volume (mL) = Total dose to be administered ( body weight (kg) x dose (mg/kg))
-
-20 (mg/mL, concentration of reconstituted solution)
+Volume (mL) = Total dose to be administered = ( body weight (kg)  dose (mg/kg)) 20 (mg/mL, concentration of reconstituted solution)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -967,7 +955,7 @@ Keep out of the sight and reach of children
 
 Cytotoxic
 
-To be administered under the supervision of a physician experienced in the use of cytotoxic agents.
+To be administered under the supervision of a physician experienced in the use of cytotoxic agents
 
 ## 8. EXPIRY DATE
 
@@ -980,13 +968,8 @@ EXP
 
 Store in a refrigerator
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1096,7 +1079,7 @@ Keep out of the sight and reach of children
 
 Cytotoxic
 
-To be administered under the supervision of a physician experienced in the use of cytotoxic agents.
+To be administered under the supervision of a physician experienced in the use of cytotoxic agents
 
 ## 8. EXPIRY DATE
 
@@ -1109,7 +1092,8 @@ EXP
 
 Store in a refrigerator
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1285,8 +1269,8 @@ Kadcyla is not recommended if you are pregnant because this medicine may cause h
 
 -  Tell your doctor before using Kadcyla if you are pregnant, think you may be pregnant or are planning to have a baby.
 -  Use effective contraception to avoid becoming pregnant while you are being treated with Kadcyla. Talk to your doctor about the best contraception for you.
--  You should continue to take your contraception for at least 7 months after your last dose of Kadcyla. Talk to your doctor before stopping your contraception.
--  Male patients or their female partners should also use effective contraception.
+-  If you are a female patient, you should continue to take your contraception for at least 7 months after your last dose of Kadcyla. Talk to your doctor before stopping your contraception.
+-  Male patients with female partners who could become pregnant should use effective contraception during treatment and for at least 4 months after the last dose of Kadcyla.
 -  If you do become pregnant during treatment with Kadcyla, tell your doctor straight away.
 
 ## Breast-feeding
@@ -1393,7 +1377,7 @@ Very common: may affect more than 1 in 10 people
 
 ## Common: may affect up to 1 in 10 people
 
--  chills or flu like symptoms
+-  chills or flu-like symptoms
 -  decrease in your potassium levels (shown in a blood test)
 -  skin rashes
 -  decreased white blood cells (shown in a blood test)
@@ -1471,9 +1455,7 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 Рош България ЕООД
 
-Тел
-
-: +359 2 474 5444
+Тел : +359 2 474 5444
 
 ## Č eská republika
 
@@ -1627,7 +1609,7 @@ In order to prevent medicinal product errors it is important to check the vial l
 
 Kadcyla must be reconstituted and diluted by a healthcare professional and administered as an intravenous infusion. It must not be administered as an intravenous push or bolus.
 
-Always keep this medicine in the closed original pack at a temperature of 2 °C - 8 °C in a refrigerator. A vial of Kadcyla reconstituted with water for injections or sodium chloride 4.5 mg/mL (0.45%)  (not supplied) is stable for up to 120 hours (5 days) at 2 °C - 8 °C after reconstitution and must not be frozen.
+Always keep this medicine in the closed original pack at a temperature of 2 °C - 8 °C in a refrigerator. A vial of Kadcyla reconstituted with water for injections or sodium chloride 4.5 mg/mL (0.45%) (not supplied) is stable for up to 120 hours (5 days) at 2 °C - 8 °C after reconstitution and must not be frozen.
 
 Appropriate aseptic technique should be used. Appropriate procedures for the preparation of chemotherapeutic medicinal products should be used.
 
@@ -1649,7 +1631,7 @@ Discard any unused portion. The reconstituted product contains no preservative a
 
 Determine the volume of the reconstituted solution required based on a dose of 3.6 mg trastuzumab emtansine/kg body weight:
 
-## Volume (mL) = Total dose to be administered = ( body weight (kg) x dose (mg/kg))
+Volume (mL) = Total dose to be administered = ( body weight (kg)  dose (mg/kg))
 
 20 (mg/mL, concentration of reconstituted solution)
 

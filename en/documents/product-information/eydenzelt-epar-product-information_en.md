@@ -1,26 +1,28 @@
 ---
-document_datetime: 2025-12-10 15:01:46
+document_datetime: 2026-06-16 11:41:39
 document_pages: 102
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eydenzelt-epar-product-information_en.pdf
 document_name: eydenzelt-epar-product-information_en.pdf
 version: success
-processing_time: 26.569514
-conversion_datetime: 2025-12-30 02:05:32.427776
+processing_time: 31.1136747
+conversion_datetime: 2026-06-25 09:13:45.276937
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -32,7 +34,7 @@ Eydenzelt 40 mg/mL solution for injection in pre-filled syringe.
 
 1 mL solution for injection contains 40 mg aflibercept*.
 
-One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
+One pre-filled syringe contains 7.28 mg aflibercept in 0.182 mL solution. This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg  aflibercept.
 
 *Fusion protein consisting of portions of human VEGF (Vascular Endothelial Growth Factor)  receptors 1 and 2 extracellular domains fused to the Fc portion of human IgG1 and produced in  Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.
 
@@ -81,7 +83,7 @@ If visual and/or anatomic outcomes deteriorate, the treatment interval should be
 
 There is no requirement for monitoring between injections. Based on the physician's judgement the schedule of monitoring visits may be more frequent than the injection visits. Treatment intervals greater than four months or shorter than 4 weeks between injections have not been studied (see section 5.1).
 
-Macular oedema secondary to RVO (branch RVO or central RVO)
+## Macular oedema secondary to RVO (branch RVO or central RVO)
 
 The recommended dose for Eydenzelt is 2 mg aflibercept equivalent to 0.05 mL. After the initial injection, treatment is given monthly. The interval between two doses should not be shorter than one month.
 
@@ -103,9 +105,9 @@ Eydenzelt treatment is initiated with one injection per month for five consecuti
 
 Based on the physician's judgement of visual and/or anatomic outcomes, the treatment interval may be  maintained at 2 months or individualized, such as with a treat-and-extend dosing regimen, where the  treatment intervals are usually increased by 2-week increments to maintain stable visual and/or anatomic outcomes. There are limited data for treatment intervals longer than 4 months. If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly. Treatment intervals shorter than 4 weeks have not been studied (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 The schedule for monitoring should be determined by the treating physician.
+
+<div style=\"page-break-after: always\"></div>
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eydenzelt should be discontinued.
 
@@ -145,13 +147,11 @@ Following intravitreal injection, patients should be instructed to report any sy
 
 Each pre-filled syringe should only be used for the treatment of a single eye. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
-The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). The extractable volume of the syringe is the amount that can be  expelled from the syringe and is not to be used in total. For the Eydenzelt pre-filled syringe, the extractable volume is at least 0.09 mL. The excess volume must be expelled before injecting the recommended
-
-<div style=\"page-break-after: always\"></div>
-
-dose (see section 6.6).
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). Each Eydenzelt pre-filled syringe contains a volume of 0.182 mL and is not to be used in total. The excess volume must be expelled before injecting the recommended  dose (see section 6.6).
 
 Injecting the entire volume of the pre-filled syringe could result in overdose. To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+
+<div style=\"page-break-after: always\"></div>
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
 
@@ -185,19 +185,16 @@ As this is a therapeutic protein, there is a potential for immunogenicity with E
 
 ## Systemic effects
 
-Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition. There are limited data on safety in the treatment of patients with CRVO, BRVO, DME or myopic CNV with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months. Caution should be exercised when treating such
-
-<div style=\"page-break-after: always\"></div>
-
-patients.
+Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors and there is a theoretical risk that these may relate to VEGF inhibition. There are limited data on safety in the treatment of patients with CRVO, BRVO, DME or myopic CNV with a history of stroke or transient ischaemic attacks or myocardial infarction within the last 6 months. Caution should be exercised when treating such patients.
 
 ## Other
+
+<div style=\"page-break-after: always\"></div>
 
 As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myopic CNV the following also applies:
 
 - The safety and efficacy of aflibercept therapy administered to both eyes concurrently have not been  systematically studied (see section 5.1). If bilateral treatment is performed at the same time this  could lead to an increased systemic exposure, which could increase the risk of systemic adverse  events.
-- Concomitant use of other anti-VEGF (vascular endothelial growth factor)
-- There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
+- Concomitant use of other anti-VEGF (vascular endothelial growth factor) There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
 - Risk factors associated with the development of a retinal pigment epithelial tear after antiVEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment. When initiating aflibercept therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 - Treatment should be withheld in patients with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
 - In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired.
@@ -224,11 +221,11 @@ This medicinal product contains
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-<div style=\"page-break-after: always\"></div>
-
 No interaction studies have been performed.
 
 Adjunctive use of verteporfin photodynamic therapy (PDT) and aflibercept has not been studied, therefore,a safety profile is not established.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -254,7 +251,7 @@ Results from animal studies with high systemic exposure indicate that aflibercep
 
 ## 4.7 Effects on ability to drive and use machines
 
-Injection  with  Eydenzelt  has  a  minor influence  on the  ability  to drive and  use machines  due to possible  temporary visual disturbances associated either with the injection or the eye examination. Patients  should not drive or use machines until their visual function has recovered sufficiently.
+Injection  with  Eydenzelt  has  a minor influence  on the  ability  to drive and  use machines  due to possible  temporary visual disturbances associated either with the injection or the eye examination. Patients  should not drive or use machines until their visual function has recovered sufficiently.
 
 ## 4.8 Undesirable effects
 
@@ -268,13 +265,13 @@ The most frequently observed adverse reactions (in at least 5% of patients treat
 
 ## Tabulated list of adverse reactions
 
-The safety data described below include all adverse reactions from the eight phase III studies in the indications wet AMD, CRVO, BRVO, DME and myopic CNV with a reasonable possibility of
+The safety data described below include all adverse reactions from the eight phase III studies in the indications wet AMD, CRVO, BRVO, DME and myopic CNV with a reasonable possibility of causality to the injection procedure or medicinal product.
+
+The adverse reactions are listed by system organ class and frequency using the following convention:
 
 <div style=\"page-break-after: always\"></div>
 
-causality to the injection procedure or medicinal product.
-
-The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000), not known (cannot be estimated from the available data).
+Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
@@ -299,9 +296,9 @@ A low incidence rate of arterial thromboembolic events was observed in the aflib
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eydenzelt.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -426,11 +423,9 @@ All patients received monthly doses of aflibercept 2 mg for 3 months, followed b
 
 The primary efficacy endpoint was mean change in BCVA from baseline to week 52. The secondary efficacy endpoints were the proportion of patients who did not lose ≥15 letters and the proportion of patients who gained at least 15 letters of BCVA from baseline to week 52.
 
-At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group  and  30.9%  in  the  4-week  adjustment  group.  The  proportion  of  patients  who  extended  their
+At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group  and  30.9%  in  the  4-week  adjustment  group.  The  proportion  of  patients  who  extended  their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6%  in the 4-week  adjustment  group.  Furthermore,  in  the  4-week  adjustment  group  40.7%  of  patients  were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of  12 weeks or beyond.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6%  in the 4-week  adjustment  group.  Furthermore,  in  the  4-week  adjustment  group  40.7%  of  patients  were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of  12 weeks or beyond.
 
 In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group. At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of  12 weeks or beyond. During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively. Over the 2 year treatment period patients received an average of 10.4 injections.
 
@@ -471,8 +466,10 @@ C)    BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinop
 
 <div style=\"page-break-after: always\"></div>
 
-- SD: Standard deviation
-- LS: Least square means derived from ANCOVA
+SD: Standard deviation
+
+LS: Least square means derived from ANCOVA
+
 - D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
 - E) In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
 - F) In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
@@ -490,11 +487,9 @@ GALILEO
 
 <!-- image -->
 
-X Indicates the switch of the control group to PRN treatment with aflibercept 2mg
+X Indicates the switch of the control group to PRN treatment with aflibercept 2mg In  GALILEO, 86.4% (n=89) of the aflibercept group and 79.4% (n=54) of the sham group had perfused  CRVO at baseline. At week 24, this was 91.8% (n=89) in the aflibercept group and 85.5% (n=47) in the  sham group. These proportions were maintained at week 76, with 84.3% (n=75) in the aflibercept group  and 84.0% (n=42) in the sham group.
 
 <div style=\"page-break-after: always\"></div>
-
-In  GALILEO, 86.4% (n=89) of the aflibercept group and 79.4% (n=54) of the sham group had perfused  CRVO at baseline. At week 24, this was 91.8% (n=89) in the aflibercept group and 85.5% (n=47) in the  sham group. These proportions were maintained at week 76, with 84.3% (n=75) in the aflibercept group  and 84.0% (n=42) in the sham group.
 
 In COPERNICUS, 67.5% (n = 77) of the aflibercept group and 68.5% (n = 50) of the sham group had perfused CRVO at baseline. At week 24, this was 87.4% (n = 90) in the aflibercept group and 58.6% (n = 34) in the sham group. These proportions were maintained at week 100 with 76.8% (n = 76) in the  aflibercept group and 78% (n = 39) in the sham group. Patients in the sham group were eligible to receive  aflibercept from week 24.
 
@@ -537,15 +532,13 @@ D) From week 24 on the treatment interval in the aflibercept treatment group was
 
 E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with aflibercept, if they met at  least one pre-specified eligibility criterion. At total of 67 subjects in this group received aflibercept rescue treatment. The fixed regimen for aflibercept rescue was three times aflibercept 2 mg every 4 weeks followed by  injections every 8 weeks.
 
-F) Nominal p-value
+F) Nominal p-value At baseline, the proportion of perfused patients in the aflibercept and laser groups was 60% and 68%, respectively. At week 24 these proportions were 80% and 67%, respectively. In the aflibercept group the  proportion of perfused patients was maintained through week 52. In the laser group, where patients  were eligible for rescue treatment with aflibercept from week 24, the proportion of perfused patients  increased to 78% by week 52.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52  in VIBRANT Study
 
 <!-- image -->
-
-At baseline, the proportion of perfused patients in the aflibercept and laser groups was 60% and 68%, respectively. At week 24 these proportions were 80% and 67%, respectively. In the aflibercept group the  proportion of perfused patients was maintained through week 52. In the laser group, where patients  were eligible for rescue treatment with aflibercept from week 24, the proportion of perfused patients  increased to 78% by week 52.
 
 ## Diabetic macular oedema
 
@@ -588,11 +581,9 @@ In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received 
 
 Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of aflibercept patients received  bilateral aflibercept injections until week 100; in the VIVID DME study, 97 (35.8%) of aflibercept patients  received a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52,  this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52,  this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment  groups in each of the studies and between the studies.
 
 <div style=\"page-break-after: always\"></div>
-
-vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment  groups in each of the studies and between the studies.
 
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one  year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses  followed by dosing every 2 months. The study evaluated non-inferiority of aflibercept 2 mg dosed  according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of  8 weeks and gradually extended based on clinical and anatomical outcomes) and aflibercept 2 mg dosed as  needed (2PRN where patients were observed every 4 weeks and injected when needed based on  clinical and anatomical outcomes), compared to aflibercept 2 mg dosed every 8 weeks (2Q8) for the second  and third year of treatment.
 
@@ -626,9 +617,8 @@ Table 4: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR s
 | Weighted difference D,F) (95% CI)                                              | 29.2% (14.4, 44.0)        |               | 21.0% (1.9, 40.1)         |                                 |
 
 - A)
-
-LOCF: Last Observation Carried Forward B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
-
+- B) BCVA: Best Corrected Visual Acuity SD: Standard Deviation
+- LOCF: Last Observation Carried Forward ETDRS: Early Treatment Diabetic Retinopathy Study
 - C) LS mean: Least square means derived from ANCOVA model
 - D) CI: Confidence Interval
 - E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
@@ -676,11 +666,9 @@ Similar results were seen in patients with CRVO in the GALILEO study, in patient
 
 Effects in non-clinical studies on repeated dose toxicity were observed only at systemic exposures considered substantially in excess of the maximum human exposure after intravitreal administration at the intended clinical dose indicating little relevance to clinical use.
 
-Erosions and ulcerations of the respiratory epithelium in nasal turbinates in monkeys treated with aflibercept intravitreally were observed at systemic exposures in excess of the maximum human exposure. At the No Observed Adverse Effect Level (NOAEL) of 0.5mg/eye in monkeys the systemic exposure for free aflibercept was 42- and 56-fold higher based on Cmax and AUC when compared to
+Erosions and ulcerations of the respiratory epithelium in nasal turbinates in monkeys treated with aflibercept intravitreally were observed at systemic exposures in excess of the maximum human exposure. At the No Observed Adverse Effect Level (NOAEL) of 0.5mg/eye in monkeys the systemic exposure for free aflibercept was 42- and 56-fold higher based on Cmax and AUC when compared to corresponding values observed in adult patients.
 
 <div style=\"page-break-after: always\"></div>
-
-corresponding values observed in adult patients.
 
 No studies have been conducted on the mutagenic or carcinogenic potential of aflibercept.
 
@@ -710,7 +698,7 @@ The unopened blister may be stored outside the refrigerator below 25 °C for up 
 
 ## 6.5 Nature and contents of container
 
-Solution in pre-filled syringe marked with a dosing line of 50 μ l, with a plunger stopper  (elastomeric rubber) and a Luer lock adaptor with a tip cap (elastomeric rubber). Each pre-filled  syringe contains an extractable volume of at least 0.09 mL. Pack size of 1 pre-filled syringe.
+Solution in pre-filled syringe marked with a dosing line of 50 μ l, with a plunger stopper  (elastomeric rubber) and a Luer lock adaptor with a tip cap (elastomeric rubber). Each pre-filled syringe contains a volume of 0.182 mL. Pack size of 1 pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -830,7 +818,7 @@ Extraction of multiple doses from a pre-filled syringe may increase the risk of 
 
 ## 12. After the injection, monitor the patient.
 
-Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure. Appropriate monitoring may consist of a check for perfusion of the optic nerve head or
+Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure. Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry. If required, a sterile paracentesis needle should be available.
 
 Figure G
 
@@ -841,8 +829,6 @@ Figure H
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-tonometry. If required, a sterile paracentesis needle should be available.
 
 Following intravitreal injection, patients and/ or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis or retinal detachment (e.g., eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 
@@ -876,7 +862,7 @@ Eydenzelt 40 mg/mL solution for injection in a vial.
 
 1 mL solution for injection contains 40 mg aflibercept*.
 
-One vial contains an extractable volume of at least 0.1 mL, equivalent to at least 4 mg aflibercept. This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
+One vial contains 11.3 mg aflibercept in 0.283 mL solution. This  provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
 
 *Fusion protein consisting of portions of human VEGF (Vascular Endothelial Growth Factor) receptors 1 and 2 extracellular domains fused to the Fc portion of human IgG1 and produced in Chinese hamster ovary (CHO) K1 cells by recombinant DNA technology.
 
@@ -909,7 +895,9 @@ Eydenzelt is for intravitreal injection only.
 
 Eydenzelt must only be administered by a qualified physician experienced in administering intravitreal injections.
 
-Posology wet AMD
+Posology
+
+wet AMD
 
 <div style=\"page-break-after: always\"></div>
 
@@ -993,7 +981,7 @@ Following intravitreal injection patients should be instructed to report any sym
 
 Each vial should only be used for the treatment of a single eye. Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
 
-The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total. For the Eydenzelt vial, the extractable volume is at least 0.1 mL. The  excess volume must be expelled before injecting the recommended dose (see section 6.6).
+The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). Each Eydenzelt vial contains a volume of 0.283 mL and is not to be used in total. The  excess volume must be expelled before injecting the recommended dose (see section 6.6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1245,7 +1233,7 @@ Table 2 : Efficacy outcomes at week 52 (primary analysis) and week 96; combined 
 | Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                            | 33.44%                                                                                            | 32.44%                                                           | 31.60%                                                           |
 | Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                                 | 1.8% (-3.5, 7.1)                                                                                  |                                                                  |                                                                  |
 
-A) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LS: Least square means derived from ANCOVA PPS: Per Protocol Set
+A) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LS: Least square means derived from ANCOVA PPS: Per Protocol Set In combined data analysis of VIEW1 and VIEW2, aflibercept demonstrated clinically meaningful changes  from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function  Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15letter gain in Best Corrected Visual Acuity (BCVA).
 
 B) Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
 
@@ -1262,8 +1250,6 @@ F) A confidence interval lying entirely above -10% indicates a non-inferiority o
 Figure 1 . Mean Change in Visual Acuity  from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
 
 <!-- image -->
-
-In combined data analysis of VIEW1 and VIEW2, aflibercept demonstrated clinically meaningful changes  from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function  Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15letter gain in Best Corrected Visual Acuity (BCVA).
 
 In the second year of the studies, efficacy was generally maintained through the last assessment at week 96, and 2-4% of patients required all injections on a monthly basis, and a third of patients required at least one injection with a treatment interval of only one month.
 
@@ -1320,11 +1306,13 @@ LOCF: Last Observation Carried Forward
 
 <div style=\"page-break-after: always\"></div>
 
-- SD: Standard deviation
+SD: Standard deviation
+
 - LS: Least square means derived from ANCOVA
 - D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
 - E) In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-- F) In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+
+F) In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
 
 G) In GALILEO study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 
@@ -1440,27 +1428,23 @@ ETDRS: Early Treatment Diabetic Retinopathy Study
 
 LOCF: Last Observation Carried Forward
 
-LS: Least square means derived from ANCOVA
+- LS: Least square means derived from ANCOVA
 
-CI: Confidence interval
+CI: Confidence interval Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
 <div style=\"page-break-after: always\"></div>
 
-## Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to  Week 100 in VIVID DME and VISTA DME  Studies
+Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to  Week 100 in VIVID DME and VISTA DME  Studies
 
 <!-- image -->
-
-Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
 In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
 Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of aflibercept patients received  bilateral aflibercept injections until week 100; in the VIVID DME study, 97 (35.8%) of aflibercept patients received  a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in  VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 <div style=\"page-break-after: always\"></div>
-
-in  VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one  year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses  followed by dosing every 2 months. The study evaluated non-inferiority of aflibercept 2 mg dosed  according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of  8 weeks and gradually extended based on clinical and anatomical outcomes) and aflibercept 2 mg dosed as  needed (2PRN where patients were observed every 4 weeks and injected when needed based on  clinical and anatomical outcomes), compared to aflibercept 2 mg dosed every 8 weeks (2Q8) for the second  and third year of treatment.
 
@@ -1574,7 +1558,7 @@ If necessary, the unopened vial may be stored outside the refrigerator below 25 
 
 ## 6.5 Nature and contents of container
 
-Solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18 G filter needle. Each vial contains an extractable volume of at least 0.1 mL. Pack size of 1 vial + 1 filter needle.
+Solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18 G filter needle. Each vial contains a volume of 0.283 mL. Pack size of 1 vial + 1 filter needle.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1658,7 +1642,9 @@ Figure E
 
 ## 6. Insert the filter needle into the vial
 
-6a. Using aseptic technique, push the filter needle into the center of the vial stopper until the needle is completely inserted into the vial, and the tip touches the bottom or bottom edge of the vial. 6b. Tilt the vial during withdrawal, keeping the bevel of the filter needle submerged in the liquid (see Figure F ) to deter the introduction of air.
+6a. Using aseptic technique, push the filter needle into the center of the vial stopper until the needle is completely inserted into the vial, and the tip touches the bottom or bottom edge of the vial. 6b. Tilt the vial during withdrawal, keeping the bevel of the filter needle submerged in the liquid (see Figure F ) to deter the introduction
+
+of air.
 
 6c. Withdraw all of the Eydenzelt vial contents into the syringe.
 
@@ -1860,7 +1846,7 @@ Eydenzelt 40 mg/mL solution for injection in pre-filled syringe aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 pre-filled syringe contains 3.6 mg aflibercept in 0.09 mL solution (40 mg/mL).
+1 pre-filled syringe contains 7.28 mg aflibercept in 0.182 mL solution (40 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1870,7 +1856,7 @@ Excipients: Polysorbate 20 (E 432); Histidine; Histidine hydrochloride monohydra
 
 Solution for injection
 
-1 pre-filled syringe contains 3.6 mg aflibercept in 0.09 mL solution (40 mg/mL).
+1 pre-filled syringe contains 7.28 mg aflibercept in 0.182 mL solution (40 mg/mL).
 
 Delivers 1 single-dose of 2 mg/0.05 mL.
 
@@ -1926,8 +1912,7 @@ EU/1/24/1895/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -1943,12 +1928,12 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEAR   |
-|--------------------------------|
-| Pre-filled syringe             |
+| MINIMUMPARTICULARS   |
+|----------------------|
+| Pre-filled syringe   |
 
-| 1.   | NAMEOF THEMEDICINAL PRODUCT   |
-|------|-------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
 
 Eydenzelt 40 mg/mL solution for injection aflibercept intravitreal use
 
@@ -1974,10 +1959,9 @@ Intravitreal use. Open the sterile blister in clean administration room only. St
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
-|----------------------------------------------------------------|
-| LABEL                                                          |
-| Pre-filled syringe                                             |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
+
+Pre-filled syringe
 
 Eydenzelt 40 mg/mL injection aflibercept
 
@@ -1987,22 +1971,19 @@ EXP
 
 Lot
 
-3.6 mg/0.09 mL
+7.28 mg/0.182 mL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 ## 4. BATCH NUMBER
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 ## 6. OTHER
-
-| 6.   | OTHER   |
-|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2016,7 +1997,7 @@ Eydenzelt 40 mg/mL solution for injection in a vial aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 vial contains 4 mg aflibercept in 0.1 mL solution (40 mg/mL).
+1 vial contains 11.3 mg aflibercept in 0.283 mL solution (40 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -2026,7 +2007,7 @@ Excipients: Polysorbate 20 (E 432); Histidine; Histidine hydrochloride monohydra
 
 Solution for injection
 
-1 vial contains 4 mg aflibercept in 0.1 mL solution (40 mg/mL).
+1 vial contains 11.3 mg aflibercept in 0.283 mL solution (40 mg/mL).
 
 18G filter needle
 
@@ -2099,13 +2080,13 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGINGUNITS   |
-|----------------------------------------------------------------|
-| LABEL                                                          |
-| Vial                                                           |
+| MINIMUM PARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| LABEL                                                           |
+| Vial                                                            |
 
-| 1.   | NAMEOF THEMEDICINAL PRODUCT ANDROUTEOFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
+|------|-----------------------------------------------------|
 
 Eydenzelt 40 mg/mL injection aflibercept intravitreal use
 
@@ -2122,10 +2103,10 @@ EXP
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
-4 mg/ 0.1 mL
+11.3 mg/0.283 mL
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2134,9 +2115,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package Leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package Leaflet: Information for the patient
 
 ## Eydenzelt 40 mg/mL solution for injection in a pre-filled syringe aflibercept
 
@@ -2172,7 +2153,7 @@ Aflibercept, the active substance in Eydenzelt, blocks the activity of a group o
 
 In patients with wet AMD and myopic CNV, these factors, in excess are involved in the abnormal formation of new blood vessels in the eye. These new blood vessels can cause the leak of blood components into the eye and eventual damage to tissues in the eye responsible for vision.
 
-In patients with CRVO, a blockage occurs in the main blood vessel that transports blood away from the retina. VEGF levels are elevated in response causing the leakage of fluid into the retina and thereby causing a swelling of the macula, (the portion of the retina responsible for fine vision), which is called macular oedema. When the macula swells with fluid, central vision becomes blurry.
+In patients with CRVO, a blockage occurs in the main blood vessel that transports blood away from the retina. VEGF levels are elevated in response causing the leakage of fluid into the retina and thereby causing a swelling of the macula (the portion of the retina responsible for fine vision), which is called macular oedema. When the macula swells with fluid, central vision becomes blurry.
 
 In patients with BRVO, one or more branches of the main blood vessel that transports blood away from the retina is blocked. VEGF levels are elevated in response causing the leakage of fluid into the retina and thereby causing macular oedema.
 
@@ -2349,8 +2330,7 @@ The following is a list of the side effects reported to be possibly related to t
 - -damage to the front layer of the eyeball (the cornea)
 - -increase in eye pressure
 - -moving spots in vision (floaters)
-- detachment of the gel-like substance inside the eye from the retina (vitreous detachment,
-- -resulting in flashes of light with floaters)
+- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
 - -a feeling of having something in the eye
 - -increased tear production
 - -swelling of the eyelid
@@ -2404,7 +2384,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## What Eydenzelt contains
 
-- -The active substance is: aflibercept. One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. One pre-filled syringe delivers a dose of 2 mg aflibercept in 0.05 mL.
+- -The active substance is: aflibercept. One pre-filled syringe contains 7.28 mg aflibercept in 0.182 mL solution. This provides a usable amount to deliver a single dose of 2 mg aflibercept in 0.05 mL.
 - -The other ingredients are: polysorbate 20 (E 432), Histidine (for pH adjustment), histidine hydrochloride monohydrate (for pH adjustment), sodium  chloride, trehalose, water for injections.
 
 See 'Eydenzelt contains' in section 2 for more information.
@@ -2429,9 +2409,7 @@ Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
 Midas Pharma GmbH Rheinstr. 49, 55218 Ingelheim, Germany
 
-## KYMOS S.L.
-
-Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
+KYMOS S.L. Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2455,7 +2433,7 @@ Celltrion Healthcare Denmark ApS Tel: +45 3535 2989 contact\\_dk@celltrionhc.com
 
 Celltrion Healthcare Deutschland GmbH Tel: +49 30346494150 infoDE@celltrionhc.com
 
-## Eesti
+Eesti Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
 
 ## Lietuva
 
@@ -2477,39 +2455,33 @@ Mint Health Ltd Tel: +356 2093 9800
 
 Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
-Norge
+## Norge
+
+Celltrion Healthcare Norway AS
+
+[contact\\_no@celltrionhc.com](mailto:contact_no@celltrionhc.com)
 
 <div style=\"page-break-after: always\"></div>
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
-
 ## España
 
-CELLTRION FARMACEUTICA (ESPAÑA) S.L. Tel: +34 910 498 478 contact\\_es@celltrion.com
+CELLTRION FARMACEUTICA (ESPAÑA) S.L.
 
-## Ελλάδα
+Tel: +34 910 498 478
 
-ΒΙΑΝΕΞ
+[contact\\_es@celltrion.com](mailto:contact_es@celltrion.com)
 
-Α
-
-.
-
-Ε
-
-.
-
-Τηλ : +30 210 8009111 - 120
+Ελλάδα ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111 - 120
 
 ## France
 
-Celltrion Healthcare France SAS
-
-Tél.: +33 (0)1 71 25 27 00
+Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o. Tel: +385 1 6595 777
+Oktal Pharma d.o.o.
+
+Tel: +385 1 6595 777
 
 ## Ireland
 
@@ -2531,8 +2503,6 @@ C.A. Papaellinas Ltd Τηλ : +357 22741741
 
 Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
 
-Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
-
 ## Österreich
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860
@@ -2541,9 +2511,7 @@ Astro-Pharma GmbH Tel: +43 1 97 99 860
 
 Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
-## Portugal
-
-CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
+Portugal CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
@@ -2551,19 +2519,19 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Slovenija
 
-OPH Oktal Pharma d.o.o.
-
-Tel.: +386 1 519 29 22
+OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
 
 ## Slovenská republika
 
 Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
-Suomi/Finland Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
 Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 
-contact\\_se@celltrionhc.com
+[contact\\_se@celltrionhc.com](mailto:contact_se@celltrionhc.com)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2968,7 +2936,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## information  What Eydenzelt contains
 
-- -The active substance is: aflibercept. One vial contains an extractable volume of at least 0.1 mL,  equivalent to at least 4 mg aflibercept. One vial delivers a dose of 2 mg aflibercept in 0.05 mL.
+- -The active substance is: aflibercept. One vial contains 11.3 mg aflibercept in 0.283 mL solution. This provides a usable amount to deliver a single dose of 2 mg aflibercept in 0.05 mL.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3002,53 +2970,55 @@ For any information about this medicine, please contact the local representative
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
-## България
-
-Celltrion Healthcare Hungary Kft.
-
-Teл.:
-
-+36 1 231 0493
-
-## Česká republika
-
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
-
 ## Lietuva
 
 Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
+
+## България
+
+Celltrion Healthcare Hungary Kft. Teл.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
+## Česká republika
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
-
-<div style=\"page-break-after: always\"></div>
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Danmark
+
+Malta
+
+<div style=\"page-break-after: always\"></div>
 
 Celltrion Healthcare Denmark ApS Tel: +45 3535 2989 contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 30346494150 infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: +49 30346494150
+
+[infoDE@celltrionhc.com](mailto:infoDE@celltrionhc.com)
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+[contact\\_fi@celltrionhc.com](mailto:contact_fi@celltrionhc.com)
 
 ## España
 
 CELLTRION FARMACEUTICA (ESPAÑA)
 
-S.L. Tel: +34 910 498 478 contact\\_es@celltrion.com
+S.L.
+
+Tel: +34 910 498 478
+
+[contact\\_es@celltrion.com](mailto:contact_es@celltrion.com)
 
 ## Ελλάδα
 
@@ -3060,13 +3030,13 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Ireland
 
-Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com
+Celltrion Healthcare Ireland Limited
+
+[Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com](mailto:enquiry_ie@celltrionhc.com)
 
 ## Ísland
 
@@ -3076,25 +3046,29 @@ Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc
 
 Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
 
-celltrionhealthcare\\_italy@legalmail.it
+[celltrionhealthcare\\_italy@legalmail.it](mailto:celltrionhealthcare_italy@legalmail.it)
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd Τηλ : +357 22741741
 
-## Malta
+## Latvija
+
+Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
 
 Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
+
+[NLinfo@celltrionhc.com](mailto:NLinfo@celltrionhc.com)
 
 ## Norge
 
 Celltrion Healthcare Norway AS
 
-contact\\_no@celltrionhc.com
+[contact\\_no@celltrionhc.com](mailto:contact_no@celltrionhc.com)
 
 ## Österreich
 
@@ -3106,11 +3080,7 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
+CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
@@ -3126,19 +3096,13 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755
 
-## Sverige
+[contact\\_fi@celltrionhc.com](mailto:contact_fi@celltrionhc.com)
 
-Celltrion Sweden AB Tel: +46 8 80 11 77
+Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 
-contact\\_se@celltrionhc.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Latvija
-
-Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
+[contact\\_se@celltrionhc.com](mailto:contact_se@celltrionhc.com)
 
 <div style=\"page-break-after: always\"></div>
 

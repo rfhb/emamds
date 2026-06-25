@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-08 10:39:38
-document_pages: 48
+document_datetime: 2026-06-24 15:51:48
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecvayli-epar-product-information_en.pdf
 document_name: tecvayli-epar-product-information_en.pdf
 version: success
-processing_time: 19.7390635
-conversion_datetime: 2025-12-24 20:17:25.385161
+processing_time: 20.5294009
+conversion_datetime: 2026-06-25 17:00:23.184998
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -218,11 +218,9 @@ Cytokine release syndrome, including life-threatening or fatal reactions, may oc
 
 Clinical signs and symptoms of CRS may include but are not limited to fever, hypoxia, chills, hypotension, tachycardia, headache, and elevated liver enzymes. Potentially life-threatening complications of CRS may include cardiac dysfunction, adult respiratory distress syndrome, neurologic toxicity, renal and/or hepatic failure, and disseminated intravascular coagulation (DIC).
 
-Treatment should be initiated with TECVAYLI according to the step-up dosing schedule to reduce risk of CRS. Pre-treatment medicinal products (corticosteroids, antihistamine and antipyretics) should
+Treatment should be initiated with TECVAYLI according to the step-up dosing schedule to reduce risk of CRS. Pre-treatment medicinal products (corticosteroids, antihistamine and antipyretics) should be administered prior to each dose of the TECVAYLI step-up dosing schedule to reduce risk of CRS (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-be administered prior to each dose of the TECVAYLI step-up dosing schedule to reduce risk of CRS (see section 4.2).
 
 The following patients should be instructed to remain within proximity of a healthcare facility and monitored daily for 48 hours:
 
@@ -351,15 +349,19 @@ Patients with neutropenia should be monitored for signs of infection.
 
 Treatment with TECVAYLI should be withheld as indicated in Table 3 (see section 4.2).
 
+## Tumour flare
+
+Tumour flare has been reported in patients receiving TECVAYLI (see section 4.8). Manifestations included localised pain and symptoms of nerve and spinal compression due to transient tumour enlargement. Tumour flare does not imply treatment failure or tumour progression. Monitoring and evaluation of tumour flare is recommended in patients treated with TECVAYLI and should be managed as clinically indicated.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients
 
 ## Sodium
 
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.
 
-<div style=\"page-break-after: always\"></div>
-
-## Polysorbate
+Polysorbate
 
 This medicinal product contains 0.4 mg of polysorbate 20 in each mL, which is equivalent to 1.2 mg per 3 mL vial and 0.68 mg per 1.7 mL vial. Polysorbates may cause hypersensitivity reactions.
 
@@ -389,13 +391,13 @@ It is not known whether teclistamab is excreted in human or animal milk, affects
 
 There are no data on the effect of teclistamab on fertility. Effects of teclistamab on male and female fertility have not been evaluated in animal studies.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 TECVAYLI has major influence on the ability to drive and use machines.
 
 Due to the potential for ICANS, patients receiving TECVAYLI are at risk of depressed level of consciousness (see section 4.8). Patients should be instructed to avoid driving and operating heavy or potentially dangerous machinery during and for 48 hours after completion of TECVAYLI step-up dosing schedule and in the event of new onset of any neurological symptoms (Table 1) (see section 4.2 and section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -428,34 +430,35 @@ Table 6: Adverse reactions in patients with multiple myeloma treated with TECVAY
 
 <div style=\"page-break-after: always\"></div>
 
-| Blood and lymphatic system disorders   | Neutropenia                                             | Very common   | 117 (71%)   | 106 (64%)   |
-|----------------------------------------|---------------------------------------------------------|---------------|-------------|-------------|
-| Blood and lymphatic system disorders   | Febrile neutropenia                                     | Common        | 6 (3.6%)    | 5 (3.0%)    |
-| Blood and lymphatic system disorders   | Thrombocytopenia                                        | Very common   | 66 (40%)    | 35 (21%)    |
-| Blood and lymphatic system disorders   | Lymphopenia                                             | Very common   | 57 (35%)    | 54 (33%)    |
-| Blood and lymphatic system disorders   | Anaemia 6                                               | Very common   | 90 (55%)    | 61 (37%)    |
-| Blood and lymphatic system disorders   | Leukopenia                                              | Very common   | 29 (18%)    | 12 (7.3%)   |
-| Blood and lymphatic system disorders   | Hypofibrinogenaemia                                     | Common        | 16 (9.7%)   | 2 (1.2%)    |
-| Immune system disorders                | Cytokine release syndrome                               | Very common   | 119 (72%)   | 1 (0.6%)    |
-| Immune system disorders                | Hypogammaglobulinaemia 7                                | Very common   | 123 (75%)   | 3 (1.8%)    |
-| Metabolism and nutrition disorders     | Hyperamylasaemia                                        | Common        | 6 (3.6%)    | 4 (2.4%)    |
-| Metabolism and nutrition disorders     | Hyperkalaemia                                           | Common        | 8 (4.8%)    | 2 (1.2%)    |
-| Metabolism and nutrition disorders     | Hypercalcaemia                                          | Very common   | 19 (12%)    | 5 (3.0%)    |
-| Metabolism and nutrition disorders     | Hyponatraemia                                           | Common        | 13 (7.9%)   | 8 (4.8%)    |
-| Metabolism and nutrition disorders     | Hypokalaemia                                            | Very common   | 23 (14%)    | 8 (4.8%)    |
-| Metabolism and nutrition disorders     | Hypocalcaemia                                           | Common        | 12 (7.3%)   | 0           |
-| Metabolism and nutrition disorders     | Hypophosphataemia                                       | Very common   | 20 (12%)    | 10 (6.1%)   |
-| Metabolism and nutrition disorders     | Hypoalbuminaemia                                        | Common        | 4 (2.4%)    | 1 (0.6%)    |
-| Metabolism and nutrition disorders     | Hypomagnesaemia                                         | Very common   | 22 (13%)    | 0           |
-| Metabolism and nutrition disorders     | Decreased appetite                                      | Very common   | 20 (12%)    | 1 (0.6%)    |
-| Metabolism and nutrition disorders     | Hypoglycaemia 21                                        | Common        | 4 (2.4%)    | 0           |
-| Nervous system disorders               | Immune effector cell- associated neurotoxicity syndrome | Common        | 5 (3.0%)    | 0           |
-| Nervous system disorders               | Encephalopathy 8                                        | Common        | 16 (9.7%)   | 0           |
-| Nervous system disorders               | Neuropathy peripheral 9                                 | Very common   | 26 (16%)    | 1 (0.6%)    |
-| Nervous system disorders               | Headache                                                | Very common   | 39 (24%)    | 1 (0.6%)    |
-| Vascular disorders                     | Haemorrhage 10                                          | Very common   | 20 (12%)    | 5 (3.0%)    |
-| Vascular disorders                     | Hypertension 11                                         | Very common   | 21 (13%)    | 9 (5.5%)    |
-| Vascular disorders                     | Hypotension 21                                          | Very common   | 18 (11%)    | 4 (2.4%)    |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps)   | Tumour flare 22                                         | Not known   |           |           |
+|-----------------------------------------------------------------------|---------------------------------------------------------|-------------|-----------|-----------|
+| Blood and lymphatic system disorders                                  | Neutropenia                                             | Very common | 117 (71%) | 106 (64%) |
+| Blood and lymphatic system disorders                                  | Febrile neutropenia                                     | Common      | 6 (3.6%)  | 5 (3.0%)  |
+| Blood and lymphatic system disorders                                  | Thrombocytopenia                                        | Very common | 66 (40%)  | 35 (21%)  |
+| Blood and lymphatic system disorders                                  | Lymphopenia                                             | Very common | 57 (35%)  | 54 (33%)  |
+| Blood and lymphatic system disorders                                  | Anaemia 6                                               | Very common | 90 (55%)  | 61 (37%)  |
+| Blood and lymphatic system disorders                                  | Leukopenia                                              | Very common | 29 (18%)  | 12 (7.3%) |
+| Blood and lymphatic system disorders                                  | Hypofibrinogenaemia                                     | Common      | 16 (9.7%) | 2 (1.2%)  |
+| Immune system disorders                                               | Cytokine release syndrome                               | Very common | 119 (72%) | 1 (0.6%)  |
+| Immune system disorders                                               | Hypogammaglobulinaemia 7                                | Very common | 123 (75%) | 3 (1.8%)  |
+| Metabolism and nutrition disorders                                    | Hyperamylasaemia                                        | Common      | 6 (3.6%)  | 4 (2.4%)  |
+| Metabolism and nutrition disorders                                    | Hyperkalaemia                                           | Common      | 8 (4.8%)  | 2 (1.2%)  |
+| Metabolism and nutrition disorders                                    | Hypercalcaemia                                          | Very common | 19 (12%)  | 5 (3.0%)  |
+| Metabolism and nutrition disorders                                    | Hyponatraemia                                           | Common      | 13 (7.9%) | 8 (4.8%)  |
+| Metabolism and nutrition disorders                                    | Hypokalaemia                                            | Very common | 23 (14%)  | 8 (4.8%)  |
+| Metabolism and nutrition disorders                                    | Hypocalcaemia                                           | Common      | 12 (7.3%) | 0         |
+| Metabolism and nutrition disorders                                    | Hypophosphataemia                                       | Very common | 20 (12%)  | 10 (6.1%) |
+| Metabolism and nutrition disorders                                    | Hypoalbuminaemia                                        | Common      | 4 (2.4%)  | 1 (0.6%)  |
+| Metabolism and nutrition disorders                                    | Hypomagnesaemia                                         | Very common | 22 (13%)  | 0         |
+| Metabolism and nutrition disorders                                    | Decreased appetite                                      | Very common | 20 (12%)  | 1 (0.6%)  |
+| Metabolism and nutrition disorders                                    | Hypoglycaemia 21                                        | Common      | 4 (2.4%)  | 0         |
+| Nervous system disorders                                              | Immune effector cell- associated neurotoxicity syndrome | Common      | 5 (3.0%)  | 0         |
+| Nervous system disorders                                              | Encephalopathy 8                                        | Common      | 16 (9.7%) | 0         |
+| Nervous system disorders                                              | Neuropathy peripheral 9                                 | Very common | 26 (16%)  | 1 (0.6%)  |
+| Nervous system disorders                                              | Headache                                                | Very common | 39 (24%)  | 1 (0.6%)  |
+| Vascular disorders                                                    | Haemorrhage 10                                          | Very common | 20 (12%)  | 5 (3.0%)  |
+| Vascular disorders                                                    | Hypertension 11                                         | Very common | 21 (13%)  | 9 (5.5%)  |
+| Vascular disorders                                                    | Hypotension 21                                          | Very common | 18 (11%)  | 4 (2.4%)  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -510,6 +513,7 @@ Note: The output includes the diagnosis of CRS and ICANS; the symptoms of CRS or
 - 19 Fatigue includes asthenia, fatigue and malaise.
 - 20 Transaminase elevation includes alanine aminotransferase increased and aspartate aminotransferase increased.
 - 21 New adverse reaction terms identified using long term follow-up from MajesTEC-1.
+- 22 Based on post-marketing experience.
 
 ## Description of selected adverse reactions
 
@@ -768,7 +772,7 @@ Table 10: Injection volumes of TECVAYLI (10 mg/mL) for Step-up dose 2 (0.3 mg/kg
 | Step-up dose 2 (0.3 mg/kg)   | 100-109            |                31 |                        3.1 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 110-119            |                34 |                        3.4 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 120-129            |                37 |                        3.7 |                               2 |
-| Step-up dose 2 (0.3 mg/kg)   | 130-139            |                40 |                        4   |                               2 |
+| Step-up dose 2 (0.3 mg/kg)   | 130-139            |                40 |                        4.0 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 140-149            |                43 |                        4.3 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 150-160            |                47 |                        4.7 |                               2 |
 
@@ -787,19 +791,19 @@ Table 11: Injection volumes of TECVAYLI (90 mg/mL) for maintenance dose (1.5 mg/
 | Maintenance dose (1.5 mg/kg)   | Body weight (kg)   |   Total dose (mg) |   Volume of injection (mL) |   Number of vials (1 vial=1.7 mL) |
 |--------------------------------|--------------------|-------------------|----------------------------|-----------------------------------|
 | Maintenance dose (1.5 mg/kg)   | 35-39              |                56 |                       0.62 |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 40-44              |                63 |                       0.7  |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 40-44              |                63 |                       0.70 |                                 1 |
 | Maintenance dose (1.5 mg/kg)   | 45-49              |                70 |                       0.78 |                                 1 |
 | Maintenance dose (1.5 mg/kg)   | 50-59              |                82 |                       0.91 |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 60-69              |                99 |                       1.1  |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 70-79              |               108 |                       1.2  |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 80-89              |               126 |                       1.4  |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 90-99              |               144 |                       1.6  |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 100-109            |               153 |                       1.7  |                                 1 |
-| Maintenance dose (1.5 mg/kg)   | 110-119            |               171 |                       1.9  |                                 2 |
-| Maintenance dose (1.5 mg/kg)   | 120-129            |               189 |                       2.1  |                                 2 |
-| Maintenance dose (1.5 mg/kg)   | 130-139            |               198 |                       2.2  |                                 2 |
-| Maintenance dose (1.5 mg/kg)   | 140-149            |               216 |                       2.4  |                                 2 |
-| Maintenance dose (1.5 mg/kg)   | 150-160            |               234 |                       2.6  |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 60-69              |                99 |                        1.1 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 70-79              |               108 |                        1.2 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 80-89              |               126 |                        1.4 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 90-99              |               144 |                        1.6 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 100-109            |               153 |                        1.7 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 110-119            |               171 |                        1.9 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 120-129            |               189 |                        2.1 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 130-139            |               198 |                        2.2 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 140-149            |               216 |                        2.4 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 150-160            |               234 |                        2.6 |                                 2 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -915,7 +919,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TECVAYLI 10 mg/mL solution for injection teclistamab
+TECVAYLI 10 mg/mL solution for injection
+
+teclistamab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1039,7 +1045,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TECVAYLI 90 mg/mL solution for injection teclistamab
+TECVAYLI 90 mg/mL solution for injection
+
+teclistamab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1227,13 +1235,12 @@ Before you are given TECVAYLI, your doctor will check your blood counts for sign
 
 During treatment with TECVAYLI, your doctor will monitor you for side effects. Your doctor will regularly check your blood counts, as the number of blood cells and other blood components may decrease.
 
-## Look out for serious side effects.
-
-## Tell your doctor or nurse right away if you experience any of the following:
+## Look out for serious side effects. Tell your doctor or nurse right away if you experience any of the following:
 
 -  Signs of a condition known as 'cytokine release syndrome' (CRS). Cytokine release syndrome is a serious immune reaction with symptoms such as fever, chills, nausea, headache, fast heartbeat, feeling dizzy, and difficulty breathing.
 -  Effects on your nervous system. Symptoms include feeling confused, feeling less alert, sleepy, or having difficulty writing and/or speaking. Some of these may be signs of a serious immune reaction called 'immune effector cell-associated neurotoxicity syndrome' (ICANS).
 -  Signs and symptoms of an infection.
+-  Increased pain or weakness in an arm or a leg. It may be tumour flare: a reaction to certain medicines that act on the immune system which appears similar to worsening of the cancer.
 
 Tell your doctor or nurse if you notice any signs of the above.
 
@@ -1259,11 +1266,11 @@ If you become pregnant while being treated with this medicine, tell your doctor 
 
 If your partner becomes pregnant while you are taking this medicine, tell your doctor straight away.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Contraception - information for women who could become pregnant
 
 If you could become pregnant, you must use effective contraception during treatment and for 5 months after stopping treatment with TECVAYLI.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Contraception - information for men
 
@@ -1313,10 +1320,11 @@ TECVAYLI will be given to you by a doctor or nurse as an injection under your sk
 You will be given medicines 1-3 hours before each of your first three doses of TECVAYLI, which help to lower the chance of side effects, such as cytokine release syndrome. These may include:
 
 -  medicines to reduce the risk of an allergic reaction (antihistamines)
--  medicines to reduce the risk of inflammation (corticosteroids)
--  medicines to reduce the risk of fever (such as paracetamol)
 
 <div style=\"page-break-after: always\"></div>
+
+-  medicines to reduce the risk of inflammation (corticosteroids)
+-  medicines to reduce the risk of fever (such as paracetamol)
 
 You may also be given these medicines for later doses of TECVAYLI based on any symptoms you have.
 
@@ -1368,10 +1376,15 @@ Leukoencephalopathy (PML). Some of the symptoms are:
 - o weakness in an arm or a leg
 - o a change in the way you walk or problems with your balance
 - o persistent numbness
+
+<div style=\"page-break-after: always\"></div>
+
 - o decreased sensation or loss of sensation
 - o memory loss or confusion
 
-<div style=\"page-break-after: always\"></div>
+## Not known (frequency cannot be estimated from the available data):
+
+-  tumour flare: temporary worsening of symptoms such as increased pain and weakness in an arm or a leg
 
 Tell your doctor right away if you notice any of the above-listed serious side effects.
 
@@ -1422,12 +1435,13 @@ Other side effects are listed below. Tell your doctor or nurse if you get any of
 -  low level of oxygen in the blood (hypoxia)
 -  increased level of 'gamma-glutamyltransferase' in the blood
 -  increased level of liver enzymes 'transaminases' in the blood
+
+<div style=\"page-break-after: always\"></div>
+
 -  increased level of 'creatinine' in the blood
 -  increased level of 'amylase' in the blood (hyperamylasaemia)
 -  increased level of 'lipase' in the blood (hyperlipasaemia)
 -  blood tests may show it takes longer for blood to clot (INR increased and PTT prolongation)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1466,17 +1480,13 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
-
-Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
+Janssen-Cilag NV
+
+Tel/Tél: +32 14 64 94 11
 
 janssen@jacbe.jnj.com
 
@@ -1500,7 +1510,11 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -1516,19 +1530,13 @@ contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag
 
-## Hrvatska
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+medisource@its.jnj.com
 
-## Ireland
-
-Janssen Sciences Ireland UC
-
-Tel: 1 800 709 122
-
-medinfo@its.jnj.com
+<div style=\"page-break-after: always\"></div>
 
 ## Lietuva
 
@@ -1538,7 +1546,9 @@ Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Magyarország
 
@@ -1554,7 +1564,11 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V.
+
+Tel: +31 76 711 1111
+
+janssen@jacnl.jnj.com
 
 ## Norge
 
@@ -1562,7 +1576,9 @@ Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
@@ -1570,21 +1586,37 @@ Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+## Ireland
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 Johnson &amp; Johnson d.o.o.
 
 Tel: +386 1 401 18 00
 
 JNJ-SI-safety@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
@@ -1593,6 +1625,12 @@ Janssen-Cilag AB c/o Vistor hf.
 Sími: +354 535 7000
 
 janssen@vistor.is
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Italia
 
@@ -1636,20 +1674,6 @@ It is very important to that the instructions for preparation and administration
 
 TECVAYLI should be administered via subcutaneous injection only. Do not administer TECVAYLI intravenously.
 
-TECVAYLI should be administered by a healthcare professional with adequately trained medical personnel and appropriate medical equipment to manage severe reactions, including cytokine release syndrome.
-
-TECVAYLI 10 mg/mL and TECVAYLI 90 mg/mL vials are for single use only.
-
-TECVAYLI vials of different strengths should not be combined to achieve maintenance dose.
-
-Aseptic technique should be used to prepare and administer TECVAYLI.
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
 ## Suomi/Finland
 
 Janssen-Cilag Oy
@@ -1664,9 +1688,15 @@ Janssen-Cilag AB
 
 Tfn: +46 8 626 50 00
 
-jacse@its.jnj.com
+jacse@its.jnj.com TECVAYLI should be administered by a healthcare professional with adequately trained medical personnel and appropriate medical equipment to manage severe reactions, including cytokine release syndrome.
 
 <div style=\"page-break-after: always\"></div>
+
+TECVAYLI 10 mg/mL and TECVAYLI 90 mg/mL vials are for single use only.
+
+TECVAYLI vials of different strengths should not be combined to achieve maintenance dose.
+
+Aseptic technique should be used to prepare and administer TECVAYLI.
 
 Any unused medicinal product or waste material should be disposed in accordance with local requirements.
 
@@ -1675,7 +1705,6 @@ Any unused medicinal product or waste material should be disposed in accordance 
 -  Verify the prescribed dose for each TECVAYLI injection. To minimise errors, use the following tables to prepare TECVAYLI injection.
 - o Use Table 1 to determine total dose, injection volume and number of vials required based on patient's actual body weight for Step-up dose 1 using TECVAYLI 10 mg/mL vial.
 - o Use Table 2 to determine total dose, injection volume and number of vials required based on patient's actual body weight for Step-up dose 2 using TECVAYLI 10 mg/mL vial.
-- o Use Table 3 to determine total dose, injection volume and number of vials required based on patient's actual body weight for the maintenance dose using TECVAYLI 90 mg/mL vial.
 
 Table 1: Injection volumes of TECVAYLI (10 mg/mL) for Step-up dose 1 (0.06 mg/kg)
 
@@ -1696,6 +1725,8 @@ Table 1: Injection volumes of TECVAYLI (10 mg/mL) for Step-up dose 1 (0.06 mg/kg
 | Step-Up dose 1 (0.06 mg/kg)   | 140-149            |               8.7 |                       0.87 |                               1 |
 | Step-Up dose 1 (0.06 mg/kg)   | 150-160            |               9.3 |                       0.93 |                               1 |
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2: Injection volumes of TECVAYLI (10 mg/mL) for Step-up dose 2 (0.3 mg/kg)
 
 | Step-up dose 2 (0.3 mg/kg)   | Body weight (kg)   |   Total dose (mg) |   Volume of injection (mL) |   Number of vials (1 vial=3 mL) |
@@ -1711,32 +1742,30 @@ Table 2: Injection volumes of TECVAYLI (10 mg/mL) for Step-up dose 2 (0.3 mg/kg)
 | Step-up dose 2 (0.3 mg/kg)   | 100-109            |                31 |                        3.1 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 110-119            |                34 |                        3.4 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 120-129            |                37 |                        3.7 |                               2 |
-| Step-up dose 2 (0.3 mg/kg)   | 130-139            |                40 |                        4   |                               2 |
+| Step-up dose 2 (0.3 mg/kg)   | 130-139            |                40 |                        4.0 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 140-149            |                43 |                        4.3 |                               2 |
 | Step-up dose 2 (0.3 mg/kg)   | 150-160            |                47 |                        4.7 |                               2 |
+
+o Use Table 3 to determine total dose, injection volume and number of vials required based on patient's actual body weight for the maintenance dose using TECVAYLI 90 mg/mL vial.
 
 Table 3: Injection volumes of TECVAYLI (90 mg/mL) for maintenance dose (1.5 mg/kg)
 
 | Maintenance dose (1.5 mg/kg)   | Body weight (kg)   |   Total dose (mg) |   Volume of injection (mL) |   Number of vials (1 vial=1.7 mL) |
 |--------------------------------|--------------------|-------------------|----------------------------|-----------------------------------|
 | Maintenance dose (1.5 mg/kg)   | 35-39              |                56 |                       0.62 |                                 1 |
-
-<div style=\"page-break-after: always\"></div>
-
-| 40-44   |   63 |   0.70 |   1 |
-|---------|------|--------|-----|
-| 45-49   |   70 |   0.78 |   1 |
-| 50-59   |   82 |   0.91 |   1 |
-| 60-69   |   99 |   1.1  |   1 |
-| 70-79   |  108 |   1.2  |   1 |
-| 80-89   |  126 |   1.4  |   1 |
-| 90-99   |  144 |   1.6  |   1 |
-| 100-109 |  153 |   1.7  |   1 |
-| 110-119 |  171 |   1.9  |   2 |
-| 120-129 |  189 |   2.1  |   2 |
-| 130-139 |  198 |   2.2  |   2 |
-| 140-149 |  216 |   2.4  |   2 |
-| 150-160 |  234 |   2.6  |   2 |
+| Maintenance dose (1.5 mg/kg)   | 40-44              |                63 |                       0.70 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 45-49              |                70 |                       0.78 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 50-59              |                82 |                       0.91 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 60-69              |                99 |                        1.1 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 70-79              |               108 |                        1.2 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 80-89              |               126 |                        1.4 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 90-99              |               144 |                        1.6 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 100-109            |               153 |                        1.7 |                                 1 |
+| Maintenance dose (1.5 mg/kg)   | 110-119            |               171 |                        1.9 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 120-129            |               189 |                        2.1 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 130-139            |               198 |                        2.2 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 140-149            |               216 |                        2.4 |                                 2 |
+| Maintenance dose (1.5 mg/kg)   | 150-160            |               234 |                        2.6 |                                 2 |
 
 -  Remove the appropriate strength TECVAYLI vial from refrigerated storage (2 °C-8 °C) and equilibrate to ambient temperature (15 °C - 30 °C), as needed, for at least 15 minutes. Do not warm TECVAYLI in any other way.
 -  Once equilibrated, gently swirl the vial for approximately 10 seconds to mix. Do not shake.
@@ -1747,6 +1776,8 @@ Table 3: Injection volumes of TECVAYLI (90 mg/mL) for maintenance dose (1.5 mg/k
 -  Visually inspect TECVAYLI for particulate matter and discolouration prior to administration. Do not use if the solution is discoloured, or cloudy, or if foreign particles are present.
 - o TECVAYLI solution for injection is colourless to light yellow.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Administration of TECVAYLI
 
 -  Inject the required volume of TECVAYLI into the subcutaneous tissue of the abdomen (preferred injection site). Alternatively, TECVAYLI may be injected into the subcutaneous tissue of the thigh. If multiple injections are required, TECVAYLI injections should be at least 2 cm apart.
@@ -1755,3 +1786,25 @@ Table 3: Injection volumes of TECVAYLI (90 mg/mL) for maintenance dose (1.5 mg/k
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for teclistamab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on tumour flare from clinical trials and the literature including in some cases a close temporal relationship and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between teclistamab, and Tumour Flare is at least a reasonable possible. The PRAC Rapporteur concluded that the product information of products containing teclistamab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for teclistamab the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing teclistamab is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

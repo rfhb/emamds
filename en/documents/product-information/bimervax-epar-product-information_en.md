@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-05 15:47:01
-document_pages: 94
+document_datetime: 2026-06-22 15:46:33
+document_pages: 92
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bimervax-epar-product-information_en.pdf
 document_name: bimervax-epar-product-information_en.pdf
 version: success
-processing_time: 33.6355356
-conversion_datetime: 2026-05-07 20:20:34.740438
+processing_time: 29.6672081
+conversion_datetime: 2026-06-25 17:18:53.986042
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -418,15 +418,13 @@ BIMERVAX has not been evaluated for its genotoxic or carcinogenic potential. The
 
 A developmental and reproductive toxicity study was performed in female and male rats prior to mating and during gestation. BIMERVAX was administered intramuscularly (equivalent to a full human dose) to female rats in four occasions, 21 and 14 days prior to mating and on gestation days 9 and 19. Males received three administrations, 35, 28 and 6 days prior to mating. No vaccine-related adverse effects on fertility, pregnancy/lactation, or development of the embryo/foetus and offspring were observed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Disodium phosphate dodecahydrate Potassium dihydrogen phosphate Sodium chloride Potassium chloride Water for injections
+Disodium phosphate dodecahydrate Potassium dihydrogen phosphate Sodium chloride Potassium chloride Water for injections For adjuvant, see section 2.
 
-For adjuvant, see section 2.
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -438,7 +436,7 @@ Unopened multidose vial
 
 21 months at 2 ºC - 8 ºC.
 
-Punctured multidose vial
+## Punctured multidose vial
 
 Chemical and physical in-use stability has been demonstrated for 6 hours at 2 ºC - 8 ºC from the time of first needle puncture.
 
@@ -466,13 +464,13 @@ Each multidose vial contains: 10 doses of 0.5 mL
 
 Pack size: 10 multidose vials.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Single dose vial
 
 0.5 mL of emulsion in a single dose vial (type I glass) closed with a type I elastomeric stopper and an aluminium seal fitted with a plastic flip-off cap.
 
-## Each single dose vial contains 1 dose of 0.5 mL
+Each single dose vial contains 1 dose of 0.5 mL
+
+<div style=\"page-break-after: always\"></div>
 
 Pack sizes: 5, 10 or 20 single dose vials.
 
@@ -515,11 +513,11 @@ Discard the vaccine if not used within 6 hours after first puncture of the multi
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -809,9 +807,11 @@ The immunogenicity of BIMERVAX was evaluated in one pivotal phase 2b multi-centr
 
 Study HIPRA-HH-2 is a phase 2b, double-blind, randomised, active-controlled, multi-centre, noninferiority clinical trial to assess immunogenicity and safety of a booster vaccination with BIMERVAX compared to COVID-19 mRNA (tozinameran) vaccine, in adults fully vaccinated against COVID-19 with a mRNA vaccine at least 6 months before enrolment. This phase 2b clinical trial excluded individuals who were pregnant, individuals who were immunocompromised or had received immunosuppressants within 12 weeks, as well as individuals with previous COVID-19 infection. Individuals were also required a minimum interval of 3 months after receipt of any immunotherapy (monoclonal antibodies, plasma) prior to the study.
 
-A total of 765 subjects were vaccinated; 513 subjects received BIMERVAX, and 252 subjects received the COVID-19 mRNA vaccine (tozinameran). A total of 751 subjects were analysed (504 BIMERVAX subjects and 247 COVID-19 mRNA vaccine subjects) excluding those who tested positive for COVID-19 within 14 days of the booster. Randomisation was stratified by age group (1864 versus ≥ 65 years). The median age was 42 years (range: 19 to 76 years), with similar age ranges in both vaccine arms, including 7.4% and 7.1% of subjects 65 years of age and older in the BIMERVAX and COVID-19 mRNA vaccine groups, respectively.
+A total of 765 subjects were vaccinated; 513 subjects received BIMERVAX, and 252 subjects received the COVID-19 mRNA vaccine (tozinameran). A total of 751 subjects were analysed (504 BIMERVAX subjects and 247 COVID-19 mRNA vaccine subjects) excluding those who tested positive for COVID-19 within 14 days of the booster. Randomisation was stratified by age group (18-
 
 <div style=\"page-break-after: always\"></div>
+
+64 versus ≥ 65 years). The median age was 42 years (range: 19 to 76 years), with similar age ranges in both vaccine arms, including 7.4% and 7.1% of subjects 65 years of age and older in the BIMERVAX and COVID-19 mRNA vaccine groups, respectively.
 
 Immunogenicity of a booster dose of BIMERVAX was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain, Beta, Delta and Omicron BA.1 variants. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (tozinameran)/BIMERVAX. Noninferiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2 sided 95% Confidence Interval (CI) of the GMT ratio is &lt; 1.4. Superiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 3, GMT ratio column).
 
@@ -1425,25 +1425,29 @@ Overall, the median age was 34.4 years (range: 16 to 85 years of age). Subjects 
 
 Immunogenicity was measured by Pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain and against Beta, Delta and Omicron BA.1. Data on GMT (geometric mean titre: ID50) at baseline (prior to the administration of the booster dose) and at Day 14 (2 weeks after the administration of the booster dose) are provided in the following table.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-booster with BIMERVAX in individuals 16 years of age and older-per protocol analysis
 
-|                     | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
-|---------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                     | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
-| Pre-booster         | Pre-booster                                      | Pre-booster                                      | Pre-booster                                                    | Pre-booster                                                    | Pre-booster                                     | Pre-booster                                     |
-| D614G strain        | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
-| Beta                | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
-| Delta               | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
-| Omicron BA.1        | 257.99                                           | 99.98; 665.71                                    | 159.34                                                         | 94.02; 270.05                                                  | 221.62                                          | 155.51; 315.84                                  |
-| Day 14 post-booster | Day 14 post-booster                              | Day 14 post-booster                              | Day 14 post-booster                                            | Day 14 post-booster                                            | Day 14 post-booster                             | Day 14 post-booster                             |
-| D614G strain        | 4 753.65                                         | 2 356.45; 9 589.48                               | 2 298.81                                                       | 1 549.89; 3 409.63                                             | 4437.27                                         | 3 371.158; 5 840.55                             |
-| Beta                | 8 820.74                                         | 3 897.14; 19 964.72                              | 5 009.47                                                       | 3 212.53; 7 811.54                                             | 6857.95                                         | 5 193.76; 9 055.38                              |
-| Delta               | 7 564.79                                         | 3 541.05; 16 160.76                              | 2 600.31                                                       | 1 671.78; 4 044.56                                             | 5811.47                                         | 4 180.44; 8 078.87                              |
-| Omicron BA.1        | 5 757.43                                         | 2 231.25; 14 856.19                              | 1 847.41                                                       | 1 090.05; 3 131.00                                             | 4379.81                                         | 3 073.24; 6 241.85                              |
+|              | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
+|--------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+|              | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
+| Pre-booster  |                                                  |                                                  |                                                                |                                                                |                                                 |                                                 |
+| D614G strain | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
+| Beta         | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
+| Delta        | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
 
-N: Number of participants with available data for the relevant endpoint Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals
+<div style=\"page-break-after: always\"></div>
+
+| Omicron BA.1        | 257.99              | 99.98; 665.71       | 159.34              | 94.02; 270.05       | 221.62              | 155.51; 315.84      |
+|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Day 14 post-booster | Day 14 post-booster | Day 14 post-booster | Day 14 post-booster | Day 14 post-booster | Day 14 post-booster | Day 14 post-booster |
+| D614G strain        | 4 753.65            | 2 356.45; 9 589.48  | 2 298.81            | 1 549.89; 3 409.63  | 4437.27             | 3 371.158; 5 840.55 |
+| Beta                | 8 820.74            | 3 897.14; 19 964.72 | 5 009.47            | 3 212.53; 7 811.54  | 6857.95             | 5 193.76; 9 055.38  |
+| Delta               | 7 564.79            | 3 541.05; 16 160.76 | 2 600.31            | 1 671.78; 4 044.56  | 5811.47             | 4 180.44; 8 078.87  |
+| Omicron BA.1        | 5 757.43            | 2 231.25; 14 856.19 | 1 847.41            | 1 090.05; 3 131.00  | 4379.81             | 3 073.24; 6 241.85  |
+
+N: Number of participants with available data for the relevant endpoint
+
+Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals
 
 ## Adolescents 12 through 17 years of age
 
@@ -1456,8 +1460,6 @@ This study is an ongoing open label, uncontrolled, single-arm, multicentre, non-
 At the time of the interim analysis a total of 240 adolescent participants were vaccinated with a booster dose of BIMERVAX. Of these, 88 individuals were eligible for the immunogenicity analysis. The primary immunogenicity analysis, measured by Pseudovirion-based neutralisation assay (PBNA), compared geometric mean titres (GMT) of neutralising antibodies against Omicron BA.1 with those observed in young adult participants (aged 18 to 25 years) form the pivotal phase 2b study in adults (HIPRA-HH-2) at Baseline and at Day 14 (2 weeks after the administration of the booster dose). Both groups of participants included in the analysis had no previous documented medical history of SARSCoV-2 infection.
 
 Data on neutralising antibody titres against Omicron BA.1 at Baseline (prior to the administration of the booster dose) and at Day 14 after vaccination are provided in the following table.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6: Neutralising antibody titres against Omicron BA.1 at day 14 post-booster with BIMERVAX in adolescents aged 12 to 17 years (immunogenicity population)
 
@@ -1472,6 +1474,8 @@ Table 6: Neutralising antibody titres against Omicron BA.1 at day 14 post-booste
 |          | ≥ 4 - fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
 |          | 95 %CI                                 | 77.8; 95.3                             | 87.2; 100                              | 84.3 ; 96.7                     |
 
+<div style=\"page-break-after: always\"></div>
+
 N: Number of participants with available data for the relevant endpoint Abbreviations: GMFR= Geometric Mean Fold Rise; CI: Confidence intervals
 
 ## Elderly population
@@ -1485,8 +1489,6 @@ The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a 
 A total of 238 individuals were vaccinated with a booster dose of BIMERVAX and a total of 228 participants were analysed excluding those who tested positive for COVID-19 within 14 days of the booster. The median age was 56 years old (range: 21 to 90 years of age).
 
 Immunogenicity was measured by pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain and against Beta, and Omicron BA.1 and BA.4/5 up to 12 months postbooster dose in all immunosuppressive conditions studied, except in individuals living with confirmed HIV infection in which immunogenicity was measured by virus neutralisations assay (VNA) against SARS-CoV-2 (D614G) strain and against Omicron BA.2. A booster dose of BIMERVAX enhanced humoral immune response in all immunosuppressive conditions, except in individuals with autoimmune disease on rituximab/ocrelizumab therapy. However, a comparison to immunocompetent individuals to inform about the magnitude of the potential difference as regards immune responses was not conducted. Therefore, the clinical relevance of the reported immune responses in immunocompromised individuals is unknown.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1503,6 +1505,8 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 ## Genotoxicity and carcinogenicity
 
 BIMERVAX LP.8.1 has not been evaluated for its genotoxic or carcinogenic potential. The components of the vaccine are not expected to have genotoxic or carcinogenic potential.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reproductive toxicity
 
@@ -1524,13 +1528,13 @@ This medicinal product must not be mixed with other medicinal products or dilute
 
 1 year at 2 ºC - 8 ºC.
 
+Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 24 hours at temperature not above 25ºC.
+
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
 
 Keep the product in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -1548,11 +1552,13 @@ Not all pack sizes may be marketed.
 
 0.5 mL of emulsion in a pre-filled syringe (type I glass) with a plunger stopper (chlorobutyl rubber) and an integrated tip cap (polyisoprene rubber) without needle.
 
-Each pre-filled syringe contains 1 dose of 0.5 mL.
+<div style=\"page-break-after: always\"></div>
+
+## Each pre-filled syringe contains 1 dose of 0.5 mL.
 
 Pack sizes: 1 or 10 pre-filled syringes.
 
-Not all pack sizes may be marketed.
+## Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1562,7 +1568,7 @@ The vaccine should be handled by a healthcare professional using aseptic techniq
 
 ## Instructions applicable to single dose vials
 
-Preparation for use
+## Preparation for use
 
 - The vaccine comes ready to use in a single dose vial.
 - Unopened vaccine should be stored at 2 ºC to 8 ºC and kept within the outer carton to protect from light.
@@ -1580,8 +1586,6 @@ Preparation for use
 - One 0.5 mL dose is withdrawn into a sterile needle and sterile syringe to be administered by intramuscular injection, preferably in the deltoid muscle of the upper arm.
 - Do not mix the vaccine in the same syringe with any other vaccines or medicinal products.
 - Do not pool excess vaccine from multiple vials.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Instructions applicable to pre-filled syringes
 
@@ -1602,6 +1606,9 @@ Preparation for use
 ## Administer the vaccine
 
 - Needles are not included in the pre-filled syringe cartons.
+
+<div style=\"page-break-after: always\"></div>
+
 - Use a sterile needle for intramuscular injection.
 - With the tip cap upright, remove the tip cap by twisting counterclockwise until it releases. Remove the cap in a slow, steady motion. Do not pull on it while turning.
 - Attach the needle by twisting in a clockwise direction until the needle locks on the syringe.
@@ -1618,18 +1625,13 @@ Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/22/1709/008   |
-|--------------------|
-| EU/1/22/1709/009   |
-| EU/1/22/1709/010   |
-| EU/1/22/1709/011   |
-| EU/1/22/1709/012   |
+EU/1/22/1709/008 EU/1/22/1709/009 EU/1/22/1709/010 EU/1/22/1709/011
+
+EU/1/22/1709/012
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 30 March 2023
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1783,7 +1785,7 @@ Batch
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1804,7 +1806,13 @@ MULTIDOSE VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-BIMERVAX emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) selvacovatein IM
+BIMERVAX emulsion for injection
+
+COVID-19 Vaccine (recombinant, adjuvanted)
+
+selvacovatein
+
+IM
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1878,7 +1886,7 @@ Read the package leaflet before use
 
 ## QR code to be included.
 
-For more information, scan or visit www.hipracovidvaccine.com
+For more information, scan or visit http://www.hipracovidvaccine.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1995,9 +2003,9 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Emulsion for injection
+Emulsion for injection
 
-- 5 single dose vials
+5 single dose vials
 
 10 single dose vials
 
@@ -2017,11 +2025,9 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
-EXP
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2067,46 +2073,37 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## PC SN NN
 
-SINGLE DOSE VIAL LABEL
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SINGLE DOSE VIAL LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 BIMERVAX XBB.1.16 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) damlecovatein IM
 
-| 2. METHODOFADMINISTRATION   |
-|-----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Intramuscular use
 
-| 3. EXPIRY DATE   |
-|------------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4. BATCH NUMBER   |
-|-------------------|
+## 4. BATCH NUMBER
 
 Batch
 
-| 5. CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose of 0.5 mL
 
-| 6. OTHER   |
-|------------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2120,7 +2117,7 @@ BIMERVAX LP.8.1 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micro grams of meracovatein adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2154,11 +2151,9 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
-EXP
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2211,33 +2206,39 @@ Justification for not including Braille accepted.
 
 PC SN NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-## SINGLE DOSE VIAL LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+SINGLE DOSE VIAL LABEL
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 BIMERVAX LP.8.1 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) meracovatein IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2. METHODOFADMINISTRATION   |
+|-----------------------------|
 
 Intramuscular use
 
-## 3. EXPIRY DATE
+| 3. EXPIRY DATE   |
+|------------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4. BATCH NUMBER   |
+|-------------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5. CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------------------------------------------|
 
 1 dose of 0.5 mL
 
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 6. OTHER   |
+|------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2291,8 +2292,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2305,19 +2304,28 @@ Keep the product in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U.
+
+Avda. la Selva, 135
+
+17170 Amer (Girona)
+
+SPAIN
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1709/011 1 pre-filled syringe EU/1/22/1709/012 10 pre-filled syringes
+EU/1/22/1709/011 1 pre-filled syringe
+
+EU/1/22/1709/012 10 pre-filled syringes
 
 ## 13. BATCH NUMBER
 
 Batch
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -2326,12 +2334,11 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2518,9 +2525,10 @@ The following side effects may occur with BIMERVAX:
 - pain when swallowing
 - allergic reactions such as hives, rash or itching
 - bruise where the injection is given
-- hypersensitivity where the injection is given
 
 <div style=\"page-break-after: always\"></div>
+
+- hypersensitivity where the injection is given
 
 Not known (cannot be estimated from available data, based on a single case during clinical trials)
 
@@ -2581,9 +2589,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
-
-SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
 
 ## Manufacturer
 
@@ -2746,11 +2752,11 @@ If you have any further questions on the use of BIMERVAX XBB.1.16, ask your doct
 
 If your immune system does not work properly additional doses may be administered in line with official recommendations.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 Most of the side effects occur within 3 days of getting the vaccine and go away within a few days of appearing. If symptoms persist, contact your doctor, pharmacist or nurse.
 
@@ -2842,9 +2848,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 The vaccine is a white homogeneous emulsion for injection.
 
-<div style=\"page-break-after: always\"></div>
+- 0.5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
 
-0.5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
+<div style=\"page-break-after: always\"></div>
 
 Each single dose vial contains 1 dose of 0.5 mL
 
@@ -3008,11 +3014,11 @@ If you have any further questions on the use of BIMERVAX LP.8.1, ask your doctor
 
 If your immune system does not work properly additional doses may be administered in line with official recommendations.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 Most of the side effects occur within 3 days of getting the vaccine and go away within a few days of appearing. If symptoms persist, contact your doctor, pharmacist or nurse.
 
@@ -3087,6 +3093,8 @@ Do not use this vaccine after the expiry date which is stated on the label after
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vials in the outer carton in order to protect from light.
 
+Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 24 hours at temperature not above 25ºC.
+
 Information on handling are described in the section intended for healthcare professionals at the end of the package leaflet.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -3096,9 +3104,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## What BIMERVAX LP.8.1 contains
 
 - -One dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
-- -Meracovatein  is  SARS-CoV-2  virus  recombinant  spike  (S)  protein  RBD  fusion  homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
+- -Meracovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
 - -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
 - -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## What BIMERVAX LP.8.1 looks like and contents of the pack
 
@@ -3109,8 +3119,6 @@ The vaccine is a white homogeneous emulsion for injection.
 Each single dose vial contains 1 dose of 0.5 mL
 
 Pack sizes: 1, 10 or 20 single dose vials.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -3146,9 +3154,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Do not use this vaccine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month.
 
-This vaccine should be handled by a healthcare professional using aseptic techniques to ensure the sterility of each dose.
-
 <div style=\"page-break-after: always\"></div>
+
+This vaccine should be handled by a healthcare professional using aseptic techniques to ensure the sterility of each dose.
 
 ## Preparation for use
 
@@ -3222,9 +3230,10 @@ Talk to your doctor, pharmacist or nurse before receiving BIMERVAX LP.8.1 if:
 - you have ever fainted following any needle injection;
 - you have a high temperature (over 38 °C) or severe infection. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold;
 - you have bleeding problems, you bruise easily or you use a medicine to prevent blood clots (anticoagulant medicine);
-- your immune system does not work properly (immunodeficiency) or you are taking medicines that weaken the immune system (such as high-dose corticosteroids, immunosuppressants, or cancer medicines).
 
 <div style=\"page-break-after: always\"></div>
+
+- your immune system does not work properly (immunodeficiency) or you are taking medicines that weaken the immune system (such as high-dose corticosteroids, immunosuppressants, or cancer medicines).
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist, or nurse before you are given BIMERVAX LP.8.1.
 
@@ -3327,9 +3336,10 @@ The following side effects may occur with BIMERVAX LP.8.1:
 - pain when swallowing
 - allergic reactions such as hives, rash or itching
 - bruise where the injection is given
-- hypersensitivity where the injection is given
 
 <div style=\"page-break-after: always\"></div>
+
+## · hypersensitivity where the injection is given
 
 Not known (cannot be estimated from available data, based on a single case during clinical trials)
 
@@ -3349,6 +3359,8 @@ Do not use this vaccine after the expiry date which is stated on the label after
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the product in the outer carton in order to protect from light.
 
+Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 24 hours at temperature not above 25ºC.
+
 Information on handling are described in the section intended for healthcare professionals at the end of the package leaflet.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -3362,11 +3374,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 - -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
 - -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What BIMERVAX LP.8.1 looks like and contents of the pack
 
 The vaccine is a white homogeneous emulsion for injection.
-
-<div style=\"page-break-after: always\"></div>
 
 0.5 mL of emulsion in a pre-filled syringe (type I glass) with a plunger stopper (chlorobutyl rubber) and an integrated tip cap (polyisoprene rubber) without needle.
 
@@ -3406,9 +3418,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Handling instructions and administration
 
-Do not use this vaccine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use this vaccine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month.
 
 This vaccine should be handled by a healthcare professional using aseptic techniques to ensure the sterility of each dose.
 

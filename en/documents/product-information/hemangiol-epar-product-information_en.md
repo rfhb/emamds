@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:39:53
-document_pages: 31
+document_datetime: 2026-06-23 17:27:32
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hemangiol-epar-product-information_en.pdf
 document_name: hemangiol-epar-product-information_en.pdf
 version: success
-processing_time: 6.0022045
-conversion_datetime: 2025-12-26 10:41:16.490378
+processing_time: 6.5904769
+conversion_datetime: 2026-06-25 17:16:15.481447
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,10 +30,11 @@ HEMANGIOL 3.75 mg/mL oral solution
 
 1 ml of solution contains 4.28 mg of propranolol hydrochloride equivalent to 3.75 mg of propranolol base.
 
-| Excipients with known effect:              |
-|--------------------------------------------|
-| 1 ml of solution contains                  |
-| Propyleneglycol………………………………………………….2.60mg. |
+Excipients with known effect:
+
+1 ml of solution contains
+
+Propylene glycol………………………………………………….2.60 mg.
 
 For the full list of excipients, see section 6.1.
 
@@ -63,15 +64,13 @@ Treatment with HEMANGIOL should be initiated by physicians who have expertise in
 
 The posology is expressed in propranolol base.
 
-The recommended starting dose is 1 mg/kg/day which is divided into two separate doses of 0.5 mg/kg. It is recommended to increase the dose up to the therapeutic dose under medical supervision as follows: 1 mg/kg/day for 1 week, then 2 mg/kg/day for 1 week and then 3 mg/kg/day as a maintenance dose.
-
-The therapeutic dose is 3 mg/kg/day, which is to be administered into 2 separate doses of 1.5 mg/kg, one in the morning and one in late afternoon, with a time interval of at least 9 hours between two intakes. HEMANGIOL is to be given during or right after a feed to avoid the risk of hypoglycaemia. If the child is not eating enough or is vomiting it is recommended to skip the dose.
-
-<div style=\"page-break-after: always\"></div>
+The recommended starting dose is 1 mg/kg/day which is divided into two separate doses of 0.5 mg/kg. It is recommended to increase the dose up to the therapeutic dose under medical guidanceas follows: 1 mg/kg/day for 1 week, then 2 mg/kg/day for 1 week and then 3 mg/kg/day as a maintenance dose. The therapeutic dose is 3 mg/kg/day, which is to be administered into 2 separate doses of 1.5 mg/kg, one in the morning and one in late afternoon, with a time interval of at least 9 hours between two intakes. HEMANGIOL is to be given during or right after a feed to avoid the risk of hypoglycaemia. If the child is not eating enough or is vomiting it is recommended to skip the dose.
 
 In case the child spits up a dose or does not take all of the medicinal product no other dose should be given before the next scheduled dose.
 
-During the titration phase, each dose increase must be managed and monitored by a physician in the same conditions as the administration of the initial dose. After the titration phase, the dose will be readjusted by the physician according to the changes in the child's weight.
+<div style=\"page-break-after: always\"></div>
+
+After the titration phase, the dose will be readjusted by the physician according to the changes in the child's weight.
 
 Clinical monitoring of the child condition, and dose readjustment, need to be performed at least monthly.
 
@@ -81,7 +80,7 @@ HEMANGIOL should be administered for a 6-month period.
 
 Discontinuation of treatment does not require a progressive decrease in the dose.
 
-In the minority of patients showing a relapse of symptoms after treatment discontinuation, treatment may be re-initiated under the same conditions with a satisfactory response.
+Treatment may be repeated if necessary.
 
 ## Paediatric populations
 
@@ -101,9 +100,11 @@ HEMANGIOL should be administered directly into the child's mouth using the gradu
 
 The bottle should not be shaken before use.
 
-If necessary, the medicinal product may be diluted in a small quantity of baby-milk or age-adapted apple and/or orange fruit juice. The medicine should not be put in the full filled bottle. The mixing may be done with one teaspoonful (approximately 5 mL) of milk for children weighing up to 5 kg, or with a tablespoonful (approximately 15 mL) of milk or fruit juice for children weighing more than 5 kg, delivered in a baby's bottle. The mixing should be used within 2 hours. hypoglycaemia. If different people are involved, good communication is essential in order to ensure
+If necessary, the medicinal product may be diluted in a small quantity of baby-milk or age-adapted apple and/or orange fruit juice. The medicine should not be put in the full filled bottle.
 
-HEMANGIOL and the feed must be given by the same person in order to avoid the risk of the safety of the child.
+The mixing may be done with one teaspoonful (approximately 5 mL) of milk for children weighing up to 5 kg, or with a tablespoonful (approximately 15 mL) of milk or fruit juice for children weighing more than 5 kg, delivered in a baby's bottle. The mixing should be used within 2 hours.
+
+HEMANGIOL and the feed must be given by the same person in order to avoid the risk of hypoglycaemia. If different people are involved, good communication is essential in order to ensure the safety of the child.
 
 ## 4.3 Contraindications
 
@@ -119,19 +120,20 @@ HEMANGIOL and the feed must be given by the same person in order to avoid the ri
 |------------------------|--------------|--------------|---------------|
 | Heart rate (beats/min) |          100 |           90 |            80 |
 
+## · Low blood pressure below the following limits:
+
+| Age                   | 0-3 months   | 3-6 months   | 6-12 months   |
+|-----------------------|--------------|--------------|---------------|
+| Blood pressure (mmHg) | 65/45        | 70/50        | 80/55         |
+
 <div style=\"page-break-after: always\"></div>
 
-- Low blood pressure below the following limits:
 - Cardiogenic shock
 - Heart failure not controlled by treatment
 - Prinzmetal's angina
 - Severe peripheral arterial circulatory disturbances (Raynaud's phenomenon)
 - Infants prone to hypoglycaemia
-- Phaeochromocytoma
-
-| Age                   | 0-3 months   | 3-6 months   | 6-12 months   |
-|-----------------------|--------------|--------------|---------------|
-| Blood pressure (mmHg) | 65/45        | 70/50        | 80/55         |
+- Phaeochromocytoma or paraganglioma
 
 ## 4.4 Special warnings and precautions for use
 
@@ -139,15 +141,17 @@ HEMANGIOL and the feed must be given by the same person in order to avoid the ri
 
 Prior to initiating propranolol therapy, screening for risks associated with propranolol use must be performed. An analysis of the medical history and a full clinical examination must be performed including heart rate, cardiac and pulmonary auscultation.
 
-In case of suspected cardiac abnormality, a specialist advice must be sought before treatment initiation to determine any subjacent contra-indication.
+In case of suspected cardiac abnormality,  specialist advice must be sought before treatment initiation to determine any subjacent contra-indication.
 
 In case of acute broncho-pulmonary abnormality, the initiation of the treatment should be postponed.
 
 ## Hypoglycaemia
 
-Propranolol prevents the response of endogenous catecholamines to correct hypoglycaemia. It masks the adrenergic warning signs of hypoglycaemia, particularly tachycardia, shakiness, anxiety and hunger. It can aggravate hypoglycaemia in children, especially during fasting period (e.g. poor oral food intake, infection, vomiting), w hen glucose demands are increased (cold, stress, infections), or in case of overdose. Hypoglycaemic episodes associated with the taking of propranolol may present exceptionally in the form of seizures and/or coma. If clinical signs of hypoglycaemia occur, it is necessary to make the child drink a sugary liquid solution and to temporarily stop the treatment. Appropriate monitoring of the child is required until symptoms disappear.
+Propranolol prevents the response of endogenous catecholamines to correct hypoglycaemia. It masks the adrenergic warning signs of hypoglycaemia, particularly tachycardia, shakiness, anxiety and hunger. It can aggravate hypoglycaemia in children, especially during fasting period (e.g. poor oral food intake, infection, vomiting), w hen glucose demands are increased (cold, stress, infections), or in case of overdose. These hypoglycaemic episodes associated with the taking of propranolol may present exceptionally in the form of seizures and/or coma. If clinical signs of hypoglycaemia occur, it is necessary to make the child drink a sugary liquid solution and to temporarily stop the treatment. Appropriate monitoring of the child is required until symptoms disappear.
 
 Prescribers  should  inform  carers/parents  on  the  risk  of  serious  hypoglycaemia  that  remains  equally prominent  throughout  the  whole  treatment  period . and  emphasize  the  need  to  respect  the  dosing recommendations ( see section 4.2).
+
+Concomitant treatment with corticosteroids may increase the risk of hypoglycemia (see section 4.5).
 
 Carers should be provided guidance on how to recognise the clinical signs of hypoglycaemia in order to :
 
@@ -159,11 +163,9 @@ In children with diabetes, blood glucose monitoring should be more frequent and 
 
 ## Respiratory disorders
 
-In the event of lower respiratory tract infection associated with dyspnoea and wheezing, treatment should be temporarily discontinued. The administration of beta2 agonists and inhaled corticosteroids is possible. The readministration of propranolol may be considered when the child has fully recovered; in case of reoccurrence, treatment should be permanently discontinued.
+In the event of lower respiratory tract infection associated with dyspnea and wheezing, treatment should be temporarily discontinued. The administration of beta2 agonists and inhaled corticosteroids is possible. The readministration of propranolol may be considered when the child has fully recovered; in case of reoccurrence, treatment should be permanently discontinued.
 
 In the event of isolated bronchospasm, treatment must be permanently discontinued.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Cardiovascular disorders
 
@@ -173,7 +175,11 @@ Propranolol, due to its pharmacological action, may cause or worsen bradycardia 
 |------------------------|--------------|--------------|---------------|
 | Heart rate (beats/min) |          100 |           90 |            80 |
 
-After the first intake and each dose increase, a clinical monitoring including blood pressure and heart rate must be performed at least hourly for at least 2 hours. In case of symptomatic bradycardia or bradycardia under 80 bpm, immediate specialist advice must be sought.
+<div style=\"page-break-after: always\"></div>
+
+After the first intake, a clinical monitoring including heart rate must be performed at least hourly for at least 2 hours. For some patients considered at risk, a specific monitoring may also be decided by the doctor after each dose increase.
+
+In case of symptomatic bradycardia or bradycardia under 80 bpm, immediate specialist advice must be sought.
 
 In case of severe and/or symptomatic bradycardia or hypotension occurring at any time during treatment, treatment must be discontinued and a specialist advice should be sought.
 
@@ -183,11 +189,13 @@ Sympathetic stimulation may be a vital component supporting circulatory function
 
 ## PHACE syndrome
 
-Very limited safety data of propranolol in PHACE syndrome patients are available.
-
 Propranolol may increase the risk of stroke in PHACE syndrome patients with severe cerebrovascular anomalies by dropping blood pressure and attenuating flow through occluded, narrow, or stenotic vessels.
 
-Infants with large facial infantile hemangioma should be thoroughly investigated for potential arteriopathy associated with PHACE syndrome, with magnetic resonance angiography of the head and neck and cardiac imaging to include the aortic arch, prior to considering propranolol therapy. Specialised advice should be sought.
+Specialized advice should be sought.
+
+Infants with large facial infantile hemangioma should be thoroughly investigated for potential arteriopathy associated with PHACE syndrome, with magnetic resonance angiography of the head and neck and cardiac imaging to include the aortic arch.
+
+For patients with life-threatening or function-threatening hemangiomas, such as obstruction of the visual axis or airway involvement, treatment with oral propranolol may be considered before imaging data are obtained. Parents should be counselled regarding theoretical increased risks should the child prove to have abnormalities of the cerebrovascular and/or great arteries on subsequent imaging.
 
 ## Breast-feeding:
 
@@ -195,7 +203,7 @@ Propranolol passes through breast milk, mothers being treated with propranolol w
 
 ## Liver or kidney failure
 
-Propranolol is metabolised in the liver and excreted by the kidneys. In the absence of data in children, propranolol is not recommended in case of renal or hepatic impairment (see section 4.2).
+Propranolol is metabolized in the liver and excreted by the kidneys. In the absence of data in children, propranolol is not recommended in case of renal or hepatic impairment (see section 4.2).
 
 ## Hypersensitivity
 
@@ -232,13 +240,13 @@ In the absence of specific studies in children, the drug interactions with propr
 
 A close clinical surveillance of any impaired tolerance of propranolol is requested.
 
-## Concommitant use not recommended
+## Concomitant use not recommended
 
 ## Bradycardia -inducing calcium-channel blockers (diltiazem, verapamil, bepridil)
 
 Co-administration with propranolol can cause altered automaticity (excessive bradycardia, sinus arrest), sino-atrial and atrio-ventricular conduction disorders, and increased risk of ventricular arrhythmias (torsades de pointes) along with heart failure.
 
-This combination must only be administered under close clinical and ECG monitoring, particularly at the start of the treatment.
+This combination must only be administered under close clinical and ECG monitoring, particularly at the initiation of the treatment.
 
 ## Interactions requiring precautions for use
 
@@ -362,17 +370,19 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
+## Symptoms
+
 The toxicity of beta-blockers is an extension of their therapeutic effects:
 
-- Cardiac  symptoms  of  mild  to  moderate  poisoning  are  decreased  heart  rate  and  hypotension. Atrioventricular  blocks,  intraventricular  conduction  delays,  and  congestive  heart  failure  can occur with more severe poisoning.
+- Cardiac  symptoms  of  mild  to  moderate  poisoning  are  decreased  heart  rate  and  hypotension. Atrioventricular blocks, intraventricular conduction delays, and congestive heart failure can occur with more severe poisoning.
 - Bronchospasm may develop particularly in patients with asthma.
 - Hypoglycemia may develop and manifestations of hypoglycemia (tremor, tachycardia) may be masked by other clinical effects of beta-blocker toxicity.
 
 Propranolol is highly lipid-soluble and may cross the blood brain barrier and cause seizures.
 
-## Support and treatment:
+## Management
 
-The patient should be placed on a cardiac monitor, monitor vital signs, mental status and blood glucose. Intravenous fluids for hypotension and atropine for bradycardia should be given. Glucagon then catecholamines should be considered if the patient does not respond appropriately to intravenous fluid. Isoproterenol and aminophylline may be used for bronchospasm.
+The patient should be placed on a cardiac monitor, monitor vital signs, mental status and blood glucose. Intravenous fluids for hypotension and atropine for bradycardia should be given. Glucagon then catecholamines should be considered if the patient does not respond appropriately to intravenous fluid. Isoproterenol and aminophylline may be used for bronchospasm. Propranolol is not dialyzable.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -411,7 +421,7 @@ The regimen 3 mg/kg/day during 6 months (selected at the end of the phase II par
 
 For ethical reasons related to the use of placebo, the demonstration of the efficacy was not established in patients with high-risk haemangioma. Evidence of the efficacy of propranolol in patients with highrisk haemangioma is available both in literature and in a specific compassionate use program performed with Hemangiol.
 
-Based on a retrospective study, a minority of patients (12%) required a re-initiation of systemic treatment. When treatment was re-initiated, a satisfactory response was observed in a large majority of patients.
+Based on data of prospective and retrospective studies, around 10-20% of patients required a reinitiation of systemic treatment. When treatment was re-initiated, a satisfactory response was observed in a large majority of patients. In some severe hemangiomas, the need for re-initiating treatment may be higher.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -419,19 +429,23 @@ Based on a retrospective study, a minority of patients (12%) required a re-initi
 
 ## Adults
 
-## Absorption and distribution:
+## Absorption
 
 Propranolol is almost completely absorbed after oral administration. However, it undergoes an extensive first-pass metabolism by the liver and on average only about 25% of propranolol reaches the systemic circulation. Peak plasma concentrations occur about 1 to 4 hours after an oral dose. Administration of protein-rich foods increases the bioavailability of propranolol by about 50% with no change in time to peak concentration.
 
 Propranolol is a substrate for the intestinal efflux transporter, P-glycoprotein (P-gp). However, studies suggest that P-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
 
+## Distribution
+
 Approximately 90% of circulating propranolol is bound to plasma proteins (albumin and alpha1 acid glycoprotein). The volume of distribution of propranolol is approximately 4 L/kg. Propranolol crosses the blood-brain barrier and the placenta, and is distributed into breast milk.
 
-## Biotransformation and elimination:
+## Biotransformation
 
 Propranolol is metabolized through three primary routes: aromatic hydroxylation (mainly 4hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation. The percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals. The four major final metabolites are propranolol glucuronide, naphthyloxylactic acid and glucuronic acid, and sulfate conjugates of 4-hydroxy propranolol. In vitro studies indicated that CYP2D6 (aromatic hydroxylation), CYP1A2 (chain oxidation) and to a less extent CYP2C19 were involved in propranolol metabolism.
 
 In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers and poor metabolizers with respect to oral clearance or elimination half-life.
+
+## Elimination
 
 The plasma half-life of propranolol ranges from 3 to 6 hours. Less than 1% of a dose is excreted as unchanged drug in the urine.
 
@@ -439,7 +453,9 @@ The plasma half-life of propranolol ranges from 3 to 6 hours. Less than 1% of a 
 
 The pharmacokinetics of repeated administrations of HEMANGIOL at 3 mg/kg/day given in 2 intakes has been investigated in 19 infants aged 35 to 150 days at the beginning of treatment. The pharmacokinetic evaluation was performed at steady-state, after 1 or 3 months of treatment.
 
-Propranolol was rapidly absorbed, the maximum plasma concentration generally occurring 2 hours after administration with a corresponding mean value around 79 ng/mL whatever the infant age. Mean apparent oral clearance was 2.71 L/h/kg in infants aged 65- 120 days and 3.27 L/h/kg in infant aged 181- 240 days. Once corrected by the body weight, primary pharmacokinetic parameters for propranolol (such as plasma clearance) determined in infants were similar to those reported in the literature for adults.
+At steady state, propranolol was rapidly absorbed, the maximum plasma concentration generally occurring 2 hours after administration with a corresponding mean value around 79 ng/mL whatever the infant age.
+
+Mean apparent oral clearance was 2.71 L/h/kg in infants aged 65- 120 days and 3.27 L/h/kg in infant aged 181- 240 days. Once corrected by the body weight, primary pharmacokinetic parameters for propranolol (such as plasma clearance) determined in infants were similar to those reported in the literature for adults.
 
 The 4-hydroxy-propranolol metabolite was quantified, its plasma exposure accounting for less than 7% of the parent drug exposure.
 
@@ -478,25 +494,23 @@ In terms of reproductive development, growth and neurological development there 
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-Before opening: 3 years. After first opening: 2 months.
+Before opening: 3 years.
 
-<div style=\"page-break-after: always\"></div>
+After first opening: 2 months.
 
 ## 6.4 Special precautions for storage
 
-Keep the bottle in the outer carton in order to protect from light.
-
-Do not freeze.
+Keep the bottle in the outer carton in order to protect from light. Do not freeze.
 
 Store the bottle and the oral syringe in the outer carton between each use.
 
 ## 6.5 Nature and contents of container
 
-120 mL solution, in a type III amber-glass bottle fitted with a low density polyethylene insert and a child resistant polypropylene screw cap, provided with a polypropylene oral syringe graduated in mg of propranolol base.
-
-Pack size: carton containing 1 bottle and 1 oral syringe.
+120 mL solution, in a type III amber-glass bottle fitted with a low density polyethylene insert and a child resistant polypropylene screw cap, provided with a 5mL polypropylene oral syringe with polyethylene plunger graduated in mg (from 1 to 19 mg) of propranolol base. Pack size: carton containing 1 bottle and 1 oral syringe.
 
 ## 6.6 Special precautions for disposal
 
@@ -504,15 +518,15 @@ No special requirements.
 
 Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  in  accordance  with  local requirements.
 
-7
-
-MARKETING AUTHORISATION HOLDER
+## 7 MARKETING AUTHORISATION HOLDER
 
 PIERRE FABRE MEDICAMENT
 
 Les Cauquillous
 
 81500 Lavaur
+
+France
 
 ## 8 MARKETING AUTHORISATION NUMBER(S)
 
@@ -537,7 +551,8 @@ Detailed information on this medicinal product is available on the website of th
 - A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -666,6 +681,8 @@ Les Cauquillous
 
 81500 Lavaur
 
+France
+
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/919/001
@@ -728,7 +745,7 @@ Propranolol belongs to a group of medicines known as beta-blockers.
 
 ## What it is used for
 
-This medicine is used to treat a disease called haemangioma. A haemangioma is a collection of extra blood vessels that have formed a lump in or under the skin. Haemangioma can be superficial or deep. It is sometimes called 'strawberry mark' because the surface of a haemangioma looks a bit like a strawberry.
+This medicine is used to treat a disease called infantile haemangioma. A haemangioma is a collection of extra blood vessels that have formed a lump in or under the skin. Haemangioma can be superficial or deep. It is sometimes called 'strawberry mark' because the surface of a haemangioma looks a bit like a strawberry.
 
 Hemangiol is started in infants aged 5 weeks to 5 months, when:
 
@@ -750,10 +767,10 @@ If your child:
 
 - has a slow heart rate for his/her age. Please check with your doctor if you are not sure.
 - has a heart problem (such as disorders of the heart rhythm and heart failure.
-- has very low blood pressure.
-- has circulation problems which make the toes and fingers numb and pale.
+- has very low blood pressure. Please check with your doctor if you are not sure.
+- has circulation problems which make the toes and fingers numb and pale (Raynaud's phenomenon).
 - is prone to low blood sugar level.
-- has a high blood pressure caused by a tumour on the adrenal gland. This is called 'phaeochromocytoma'.
+- has a high blood pressure caused by a tumour on the adrenal gland. This is called 'phaeochromocytoma' or 'paraganglioma'.
 
 If you are breastfeeding your child, and if you are taking medicines that must not be used with HEMANGIOL (see ''If you are breastfeeding your child'' and 'Other medicines and HEMANGIOL') do not give this medicine to your child.
 
@@ -763,15 +780,18 @@ If you are breastfeeding your child, and if you are taking medicines that must n
 
 - If your child has problems with his/her liver or kidneys. This medicine will not be recommended in case of liver or kidneys impairment.
 - If your child has ever had an allergic reaction whatever its origin (e.g. medicine or alimentary substance etc.). An allergic reaction can include a rash, itching or shortness of breath.
-- If your child has psoriasis (a skin condition that produces red, dry plaques of thickened skin), as this medicine may worsen the symptoms of this condition.
+- If your child has psoriasis (an inflammatory disease causing red, scaly patches on the skin), as this medicine may worsen the symptoms of this condition.
 - If your child has diabetes: in this case, your child's blood sugar level should be measured more frequently.
+- If your child has cardiac failure (when the heart does not pump blood as well as it should) with shortness of breath, tiredness and ankle swelling, the treatment should be managed by a cardiologist as this medicine could precipitate more severe failure.
 - If your child has a PHACE syndrome (a condition combining haemangioma and vascular abnormalities including cerebral blood vessels), as this medicine may increase the risk of cerebral stroke.
 
 ## Important signs to look after administration of HEMANGIOL
 
 ## Risks of hypoglycaemia
 
-This medicine can mask the warning signs of hypoglycaemia (also known as low blood sugar level). It can also aggravate hypoglycaemia in children, especially during fasting period (e.g. poor oral food intake, concomitant infection, vomiting) or w hen glucose demands are increased (cold, stress, infections). or in case of overdose. These signs may be:
+This medicine masks the warning signs of hypoglycaemia (also known as low blood sugar level). It can also aggravate hypoglycaemia in children, especially during fasting period (e.g. poor oral food intake, concomitant infection, vomiting) or w hen glucose demands are increased (cold, stress, infections), in case of overdose or in case of treatment with corticosteroids at the same time..
+
+## These signs may be:
 
 - Minor: pallor, tiredness, sweating, shaking, palpitations, anxiety, hunger, difficulty waking up.
 - Major: excessive sleeping, difficulty responding, poor feeding, decrease in body temperature, convulsions (fits), brief pauses in breathing, loss of consciousness.
@@ -780,31 +800,29 @@ The risk of developing hypoglycaemia remains prominent throughout the whole trea
 
 To avoid risks of hypoglycaemia, you should give HEMANGIOL during or straight after a feed and avoid giving last dose close to night bedtime (see section 3). Your child must be fed sufficiently and regularly during treatment. If your child is not eating enough, develops another illness or is vomiting, it is recommended to skip the dose. DO NOT GIVE HEMANGIOL TO YOUR CHILD UNTIL HE IS BEING CORRECTLY FED AGAIN.
 
+<div style=\"page-break-after: always\"></div>
+
 If your child has any signs of hypoglycaemia while taking HEMANGIOL, stop treatment and call a doctor straight away or go directly to hospital. If the child is conscious, give him/her a drink of liquid containing sugar.
 
 ## Risks of bronchospasm
 
-Stop treatment and contact a doctor immediately if after giving HEMANGIOL to your child you observe the following symptoms suggestive of a bronchospasm (temporary restriction of the bronchial
-
-<div style=\"page-break-after: always\"></div>
-
-tubes that leads to difficulty breathing): cough, quick or difficult breathing or wheezing, associated or not with a bluish -coloured skin.
+Stop treatment and contact a doctor immediately if after giving HEMANGIOL to your child you observe the following symptoms suggestive of a bronchospasm (temporary restriction of the bronchial tubes that leads to difficulty breathing): cough, quick or difficult breathing or wheezing, associated or not with a bluish -coloured skin.
 
 Stop treatment and contact a doctor immediately if your child has cold-like symptoms associated with difficulty in breathing and/or wheezing while taking HEMANGIOL.
 
 ## Risk of hypotension and bradycardia (low heart rate)
 
-HEMANGIOL can decrease blood pressure (hypotension) and heart rate (bradycardia). This is why your child will be kept under close clinical and heart rate monitoring for 2 hours after the first dose or after a dose increase. Then, your doctor will regularly examine your child during treatment.
+HEMANGIOL can decrease blood pressure (hypotension) and heart rate (bradycardia). This is why your child will be kept under close clinical and heart rate monitoring for 2 hours after the first dose. Then, your doctor will regularly examine your child during treatment.
 
 Stop treatment and contact a doctor immediately if your child has any signs such as tiredness, coldness, pallor, bluish-coloured skin, or fainting while taking HEMANGIOL.
 
-## Risk of hyperkaliemia
+## Risk of hyperkalaemia
 
-HEMANGIOL may increase potassium blood level (hyperkaliemia). In case of large ulcerated haemangioma,, your child's blood potassium level should be measured.
+HEMANGIOL may increase potassium blood level (hyperkalaemia). In case of large ulcerated haemangioma, your child's blood potassium level should be measured.
 
 ## If your child should undergo a general anaesthesia
 
-Tell the your doctor that he/she is taking HEMANGIOL. This is because your child can get low blood pressure if given certain anaesthetics while taking this medicine (see 'Other medicines and HEMANGIOL'). HEMANGIOL might need to be discontinued at least 48h before the anaesthesia.
+Tell to the doctor that he/she is taking HEMANGIOL. This is because your child can get low blood pressure if given certain anaesthetics while taking this medicine (see 'Other medicines and HEMANGIOL'). HEMANGIOL might need to be discontinued at least 48h before the anaesthesia.
 
 ## If you are breastfeeding your child
 
@@ -816,19 +834,22 @@ Tell the your doctor that he/she is taking HEMANGIOL. This is because your child
 - Tell your doctor, pharmacist or nurse if you are giving, have recently given or might give any other medicines to your child. This is because HEMANGIOL can change the way other medicines work, and some medicines can have an effect on the way HEMANGIOL works.
 - Moreover, if you are breastfeeding your child, it is important to tell your doctor, pharmacist or nurse which medicines you are yourself taking, as they may pass into your breast-milk and interfere with the treatment of your child. Your doctor will advise you on whether you need to stop breastfeeding or not.
 
-In particular, in case you are breastfeeding, tell your doctor or pharmacist if you are or if your child is taking:
+In particular, tell your doctor or pharmacist if your child or you, in case you are breastfeeding, are taking:
 
 - Medicines for diabetes,
 - Medicines for heart and blood vessels problems such as uneven heart beats, chest pain or angina, high blood pressure, heart failure,
 - Medicines to treat anxiety and depression as well as more serious mental health problems, and epilepsy,
-- Medicines to treat tuberculosis,
-- Medicines to treat pain and inflammation,
-- Medicines used to lower lipids in the blood,
-- Medicines used for anaesthesia.
-
-If you have any further questions, ask your doctor or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
+
+- Medicines to treat tuberculosis,
+- Medicines to treat pain, headache and inflammation,
+- Medicines used to lower lipids in the blood,
+- Medicines used for anaesthesia,
+- Medicines to treat oesophagal reflux and stomach ulcers,
+- Medicines to treat respiratory disorders (asthma).
+
+If you have any further questions, ask your doctor or pharmacist.
 
 ## HEMANGIOL contains sodium and propylene glycol
 
@@ -855,20 +876,21 @@ Never change the dose you are giving to your child yourself. Every increase in d
 
 For children weighing up to 5 kg you may mix the dose with one teaspoonful of milk (approximately 5 mL).  For children weighing more than 5 kg the dose may be mixed with a tablespoonful of milk or fruit juice (approximately 15 mL).
 
-Use the mixture within 2 hours of preparation.
+- Use the mixture within 2 hours of preparation.
 
 ## How to give HEMANGIOL to your child
 
 - Hemangiol is for oral use.
 - The medicine is to be given during or straight after a feed.
 - The dose should always be measured using the oral syringe supplied with the bottle.
+
+<div style=\"page-break-after: always\"></div>
+
 - Give HEMANGIOL directly into your child's mouth using the oral syringe supplied with the bottle.
 - Feed your child regularly to avoid prolonged fast.
 - If your child is not eating or is vomiting it is recommended to skip the dose.
 - If your child spits up a dose or if you are uncertain whether he/she got all of the medicine, do not give another dose, just wait until the next scheduled dose.
 - HEMANGIOL and the feed must be given by the same person in order to avoid the risk of hypoglycaemia. If different people are involved, good communication is essential in order to ensure the safety of your child.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Instructions for use:
 
@@ -895,13 +917,15 @@ The bottle comes with a child-proof cap. Here is how to open it: push down the p
 
 Do not shake the bottle before use.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## · Step 4. Insert the syringe
 
-Insert tip of the oral syringe into the upright bottle and push the plunger all the way down. Do not remove the syringe adapter from the neck of the bottle.
+Before each use check that the syringe is undamaged, clean and the graduation marks are readable. Insert tip of the oral syringe into the upright bottle and push the plunger all the way down.
+
+Do not remove the syringe adapter from the neck of the bottle.
 
 Only use the oral syringe that is supplied with the medicine to measure and administer the dose. Do not use a spoon or any other dispensing device.
 
@@ -909,17 +933,19 @@ Only use the oral syringe that is supplied with the medicine to measure and admi
 
 ## · Step 5: Remove the dose
 
-With the oral syringe in place, turn the bottle upside down. Pull the plunger of the syringe up to the number of mg you need.
+With the oral syringe in place, turn the bottle upside down.
+
+Pull the plunger of the syringe slowly up to the number of mg you need. Be careful to align the lip of the plunger on the correct graduation.
 
 <!-- image -->
 
 ## · Step 6: Check for air bubbles
 
-If  you  see  air  bubbles  in  the  syringe,  hold  the  syringe  upright,  push  the  plunger  upwards  just  far enough to completely push out any large air bubbles and then readjust to the dose prescribed by your doctor.
-
-<!-- image -->
+If you see air bubbles in the syringe, hold the syringe upright, push the plunger upwards just far enough to completely push out any large air bubbles and then readjust to the dose prescribed by your doctor.
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## · Step 7. Remove the syringe
 
@@ -927,7 +953,7 @@ Turn bottle upright and remove the entire syringe from the bottle. Be careful, d
 
 <!-- image -->
 
-## · Step 8. Close the bottle .
+## · Step 8. Close the bottle.
 
 Replace the plastic cap on the bottle by turning it clock-wise (to the right).
 
@@ -935,15 +961,19 @@ Replace the plastic cap on the bottle by turning it clock-wise (to the right).
 
 ## · Step 9. Give HEMANGIOL to your child
 
-Insert the syringe into your baby's mouth and place it against the inside of the cheek. Now you can slowly squirt HEMANGIOL from the syringe directly into your baby's mouth. Do not lie the child down immediately after the administration.
+In a sitting and held position of your baby, insert the syringe into your baby's mouth and place it against the inside of the cheek.
+
+Now you can slowly squirt HEMANGIOL from the syringe directly into your baby's mouth, being attentive to swallowing.
+
+Do not lie the child down immediately after the administration.
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
 ## · Step 10: Clean the syringe.
 
 Do not dismantle the syringe. Rinse the empty syringe after each use into a glass of clean water:
-
-<div style=\"page-break-after: always\"></div>
 
 - 1- Take a glass of clean water
 - 2- Pull the plunger in
@@ -962,7 +992,7 @@ Store the bottle and the syringe together in the carton until next use in a safe
 
 ## If you give to your child more HEMANGIOL than you should
 
-If you have given to your child more HEMANGIOL than you should, please consult your doctor immediately.
+If you have given to your child more HEMANGIOL than you should, please consult a doctor or go to the emergency service immediately. Among the symptoms of an overdose, your child might experience low blood pressure, slow, rapid or irregular heartbeats, breathing difficulties, decreased blood sugar levels, tremor or seizures.
 
 ## If you forget to give HEMANGIOL to your child
 
@@ -974,6 +1004,8 @@ HEMANGIOL may be stopped at once at the end of the treatment as decided by the d
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4 Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -984,43 +1016,46 @@ Important warning signs of potential side effects such as low blood pressure, lo
 
 - Bronchitis (inflammation of the bronchi),
 - Sleep disorders (insomnia, poor quality of sleep and difficulties to wake-up),
-- Diarrhoea and vomiting.
+- Diarrhoea (mild to moderate),
+- Vomiting.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
 - Bronchospasm (breathing difficulties),
 - Bronchiolitis (inflammation of small bronchi with breathing difficulties and wheeze in the chest, associated with cough and fever),
 - Decreased blood pressure.
-
-<div style=\"page-break-after: always\"></div>
-
 - Decreased appetite,
 - Agitation, nightmares, irritability,
 - Somnolence,
-- Cold extremities,
+- Peripheral coldness (cold extremities),
 - Constipation, abdominal pain,
 - Erythema (skin redness),
-- Nappy rash.
+- Dermatitis diaper (nappy rash).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- Heart conduction or rhythm disorders (slow or uneven heart beats),
-- Urticaria (allergic reaction of the skin), alopecia (loss of hair),
+- Decreased heart rate and atrioventricular block (slow or irregular heartbeats),
+- Urticaria (rash with possible itching),
+- Alopecia (loss of hair),
 - Decreased blood sugar levels,
-- Reduction of the number of white blood cells.
+- Neutropenia (reduction of the number of white blood cells).
 
 ## The frequency of the following side effects is not known (frequency cannot be estimated from the available data)
 
-- Convulsions (fits) linked to hypoglycaemia (abnormally low blood sugar levels),
+- Hypoglycemic seizure (convulsions linked to hypoglycaemia (abnormally low blood sugar levels)),
 - Bradycardia (abnormally low heart rate),
-- Low blood pressure,
-- Very low levels of white blood cells that fight infection
-- Circulation problems which make the toes and fingers numb and pale
-- Elevated level of potassium in the blood
+- Hypotension (low blood pressure),
+- Vasoconstriction (narrowing of blood vessels),
+- Raynaud's phenomenon (circulation problems which make the toes and fingers numb and pale)
+- Dermatitis psoriasiform (dermatological disorder that causes skin irritation and the production of scaly red plaques similar to psoriasis),
+- Agranulocytosis (very low levels of white blood cells that fight infection),
+- Hyperkalaemia (elevated level of potassium in the blood).
 
 ## Reporting of side effects
 
 If your child gets any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5 How to store HEMANGIOL
 
@@ -1028,7 +1063,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and bottle label. The expiry date refers to the last day of that month.
 
-Keep the bottle in the outer carton in order to protect from light. Store the bottle and the oral syringe in the outer carton between each use. Do not freeze.
+Keep the bottle in the outer carton in order to protect from light. Do not freeze.
 
 After first opening, the medicine should be used within 2 months.
 
@@ -1038,16 +1073,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What HEMANGIOL contains
 
-- The active substance is propranolol. Each ml contains 4.28 mg of propranolol hydrochloride equivalent to 3.75 mg of propranolol.
-
-<div style=\"page-break-after: always\"></div>
-
-- The other ingredients are hydroxyethylcellulose, sodium saccharin, strawberry flavour (contains propylene glycol), vanilla flavour (contains propylene glycol), citric acid monohydrate, purified water.  See section 2 under 'HEMANGIOL contains sodium and propylene glycol' for further information.
+- The active substance is propranolol. Each ml contains 4.28 mg of propranolol hydrochloride equivalent to 3.75 mg of propranolol base.
+- The other ingredients are hydroxyethylcellulose, sodium saccharin*, strawberry flavour (contains propylene glycol)*, vanilla flavour (contains propylene glycol)*, citric acid monohydrate, purified water.  *See section 2 under 'HEMANGIOL contains sodium and propylene glycol' for further information.
 
 ## What HEMANGIOL looks like and contents of the pack
 
 - HEMANGIOL is a clear, colourless to slightly yellow oral solution, with a fruity odour.
-- It is supplied in a 120-mL amber glass bottle, with a child resistant screw-cap. Box of 1 bottle.
+- It is supplied in a 125 mL amber glass bottle, containing 120 mL of solution, with a child resistant screw-cap. Box of 1 bottle.
 - An oral polypropylene syringe graduated in mg of propranolol, is provided with each bottle.
 
 ## Marketing Authorisation Holder
@@ -1061,6 +1093,8 @@ FARMEA 10 rue Bouché Thomas ZAC Sud d'Orgemont 49000 ANGERS FRANCE
 Or
 
 PIERRE FABRE MEDICAMENT PRODUCTION Site PROGIPHARM, Rue du Lycée 45500 GIEN FRANCE
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the Marketing Authorisation Holder.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 14:21:55
+document_datetime: 2026-06-22 16:01:03
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kuvan-epar-product-information_en.pdf
 document_name: kuvan-epar-product-information_en.pdf
 version: success
-processing_time: 17.3534056
-conversion_datetime: 2026-01-10 11:01:00.124691
+processing_time: 17.7238418
+conversion_datetime: 2026-06-25 17:09:09.918125
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,7 +82,7 @@ Discontinuation of treatment should be done only under the supervision of a phys
 
 It is of primary importance to initiate treatment as early as possible to avoid the appearance of non-reversible clinical manifestations of neurological disorders in paediatric patients and cognitive deficits and psychiatric disorders in adults due to sustained elevations of blood phenylalanine.
 
-Response to this medicinal product is determined by a decrease in blood phenylalanine.Blood phenylalanine levels should be checked before administering Kuvan and after 1 week of use at the recommended starting dose. If an unsatisfactory reduction in blood phenylalanine levels is observed, then the dose can be increased weekly to a maximum of 20 mg/kg/day, with continued weekly monitoring of blood phenylalanine levels over a one month period. The dietary phenylalanine intake should be maintained at a constant level during this period.
+Response to this medicinal product is determined by a decrease in blood phenylalanine. Blood phenylalanine levels should be checked before administering Kuvan and after 1 week of use at the recommended starting dose. If an unsatisfactory reduction in blood phenylalanine levels is observed, then the dose can be increased weekly to a maximum of 20 mg/kg/day, with continued weekly monitoring of blood phenylalanine levels over a one month period. The dietary phenylalanine intake should be maintained at a constant level during this period.
 
 A satisfactory response is defined as a ≥30 percent reduction in blood phenylalanine levels or attainment of the therapeutic blood phenylalanine goals defined for an individual patient by the treating physician. Patients who fail to achieve this level of response within the described one month test period should be considered non-responsive, these patients should not be treated with Kuvan and administration of Kuvan should be discontinued.
 
@@ -110,11 +110,11 @@ Kuvan tablets should be administered with a meal to increase the absorption.
 
 For patients with PKU, Kuvan should be administered as a single daily dose, and at the same time each day preferably in the morning.
 
-For patients with BH4 deficiency, divide the total daily dose into 2 or 3 administrations, distributed over the day.
+For patients with BH4 deficiency, divide th e total daily dose into 2 or 3 administrations, distributed over the day.
 
 Patients should be advised not to swallow the desiccant capsule found in the bottle.
 
-The prescribed number of tablets should be placed in a glass or cup of water and stirred until dissolved. It may take a few minutes for the tablets to dissolve. To make the tablets dissolve faster they can be crushed. Small particles may be visible in the solution and will not affect the effectiveness of the medicinal product. The solution should be drank within 15 to 20 minutes.
+The prescribed number of tablets should be placed in a glass or cup of water and stirred until dissolved. It may take a few minutes for the tablets to dissolve. To make the tablets dissolve faster they can be crushed. Small particles may be visible in the solution and will not affect the effectiveness of the medicinal product. The solution should be drunk within 15 to 20 minutes.
 
 ## Patients above 20 kg body weight
 
@@ -122,7 +122,7 @@ The prescribed number of tablets should be placed in a glass or cup with 120 to 
 
 ## Children up to 20 kg body weight
 
-The measuring devices required for dosing in children up to 20 kg body weight (i.e. cup with graduations at 20, 40, 60, 80 ml; 10 ml and 20 ml oral syringes with graduation at 1 ml divisions) are not included in the Kuvan pack. These devices are supplied to the specialized paediatric centers for inborn errors of metabolism to be provided to the caregivers of the patients.
+The measuring devices required for dosing in children up to 20 kg body weight (i.e. cup with graduations at 20, 40, 60, 80 ml; 10 ml and 20 ml oral syringes with graduation at 1 ml divisions) are not included in the Kuvan pack. These devices are supplied to the specialised paediatric centers for inborn errors of metabolism to be provided to the caregivers of the patients.
 
 Depending on the dose (in mg/kg/day) the appropriate number of tablets should be dissolved in a volume of water as depicted in Tables 1-4, whereby the volume of the solution to be administered is calculated according to the prescribed total daily dose. The prescribed number of tablets for a 2, 5, 10 and 20 mg/kg/day dose should be placed in a cup (that shows the appropriate graduation markings at 20, 40, 60 and 80 ml) with the amount of water as depicted in Tables 1-4 and stirred until dissolved.
 
@@ -228,8 +228,6 @@ Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 |            19 |                   380 |                                                          4 |                           80 |                                            76 |
 |            20 |                   400 |                                                          4 |                           80 |                                            80 |
 
-Discard unused solution within 20 minutes for tablet solution.
-
 <div style=\"page-break-after: always\"></div>
 
 For cleaning, the plunger should be removed from the barrel of the oral syringe. Both parts of the oral syringe and the cup should be washed with warm water and air dry. When the oral syringe is dry, the plunger should be put back into the barrel. The oral syringe and the cup should be stored for next use.
@@ -278,13 +276,11 @@ Caution should be exercised when prescribing Kuvan to patients receiving treatme
 
 ## Pregnancy
 
-There are limited amount of data from the use of Kuvan in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
+There is a limited amount of data from the use of sapropterin in pregnant women, including data from the Kuvan registries KAMPER and PKUDOS. The data are too limited to conclude on malformative or foetoneonatal toxicity. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3) .
 
-Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μmol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
+Uncontrolled maternal phenylalanine levels are associated with a high incidence of intellectual impairment, microcephaly, cardiac anomalies, growth restriction and facial dysmorphism in the offspring. Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
 
-Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. If maternal phenylalanine levels are not strictly controlled before and during pregnancy, this could be harmful to the mother and the foetus. Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
-
-The use of Kuvan should be considered only if strict dietary management does not adequately reduce blood phenylalanine levels. Caution must be exercised when prescribing to pregnant women.
+The use of Kuvan should be considered only if strict dietary management does not adequately reduce blood phenylalanine levels. Caution must be exercised when prescribing sapropterin to pregnant women.
 
 ## Breast-feeding
 
@@ -304,17 +300,17 @@ Kuvan has no or negligible influence on the ability to drive and use machines.
 
 Approximately 35% of the 579 patients aged 4 years and over who received treatment with sapropterin dihydrochloride (5 to 20 mg/kg/day) in the clinical trials for Kuvan experienced adverse reactions. The most commonly reported adverse reactions are headache and rhinorrhoea.
 
-In a further clinical trial, approximately 30% of the 27 children aged below 4 years who received treatment with sapropterin dihydrochloride (10 or 20 mg/kg/day) experienced adverse reactions. The most commonly reported adverse reactions are 'amino acid level decreased' (hypophenylalaninaemia), vomiting and rhinitis.
+In a further clinical trial , approximately 30% of the 27 children aged below 4 years who received treatment with sapropterin dihydrochloride (10 or 20 mg/kg/day) experienced adverse reactions. The most commonly reported adverse reactions are 'amino acid level decreased' (hypophenylalaninaemia), vomiting and rhinitis.
 
 ## Tabulated list of adverse reactions
 
 In the pivotal clinical trials and in the post-marketing experience for Kuvan, the following adverse reactions have been identified.
 
-<div style=\"page-break-after: always\"></div>
-
 The following definitions apply to the frequency terminology used hereafter:
 
-very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from available data)
+v ery common (≥1/10) , c ommon (≥1/100 to &lt;1/10) , u ncommon (≥1/1,000 to &lt; 1/100), r are (≥1/10,000 to &lt; 1/1,000), v ery rare (&lt; 1/10,000), not known (cannot be estimated from available data)
+
+<div style=\"page-break-after: always\"></div>
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -366,7 +362,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Headache and dizziness have been reported after the administration of sapropterin dihydrochloride above the recommended maximum dose of 20 mg/kg/day. Treatment of overdose should be directed to symptoms. A shortening of the QT interval (-8.32 msec) was observed in a study with a single supra-therapeutic dose of 100 mg/kg (5 times the maximum recommended dose); this should be taken into consideration in managing patients who have a pre-existing shortened QT interval (e.g. patients with familial short QT syndrome).
+Headache and dizziness have been reported after the administration of sapropterin dihydrochloride above the recommended maximum dose of 20 mg/kg/day. Treatment of overdose should be directed to symptoms. A shortening of the QT interval (8.32 msec) was observed in a study with a single supra-therapeutic dose of 100 mg/kg (5 times the maximum recommended dose); this should be taken into consideration in managing patients who have a pre-existing shortened QT interval (e.g. patients with familial short QT syndrome).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -378,9 +374,9 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, Vario
 
 Hyperphenylalaninaemia (HPA) is diagnosed as an abnormal elevation in blood phenylalanine levels and is usually caused by autosomal recessive mutations in the genes encoding for phenylalanine hydroxylase enzyme (in the case of phenylketonuria, PKU) or for the enzymes involved in 6R-tetrahydrobiopterin (6R-BH4) biosynthesis or regeneration (in the case of BH4 deficiency). BH4 deficiency is a group of disorders arising from mutations or deletions in the genes encoding for one of the five enzymes involved in the biosynthesis or recycling of BH4. In both cases, phenylalanine cannot be effectively transformed into the amino acid tyrosine, leading to increased phenylalanine levels in the blood.
 
-<div style=\"page-break-after: always\"></div>
-
 Sapropterin is a synthetic version of the naturally occurring 6R-BH4, which is a cofactor of the hydroxylases for phenylalanine, tyrosine and tryptophan.
+
+<div style=\"page-break-after: always\"></div>
 
 The rationale for administration of Kuvan in patients with BH4-responsive PKU is to enhance the activity of the defective phenylalanine hydroxylase and thereby increase or restore the oxidative metabolism of phenylalanine sufficient to reduce or maintain blood phenylalanine levels, prevent or decrease further phenylalanine accumulation, and increase tolerance to phenylalanine intake in the diet. The rationale for administration of Kuvan in patients with BH4 Deficiency is to replace the deficient levels of BH4, thereby restoring the activity of phenylalanine hydroxylase.
 
@@ -388,27 +384,27 @@ The rationale for administration of Kuvan in patients with BH4-responsive PKU is
 
 The Phase III clinical development program for Kuvan included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of Kuvan to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood ph enylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalani ne levels &lt; 600 µmol/l at the end of the 6week study period (p=0.012).
 
-In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalanine-restricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3-weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
+In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3 -weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μ mol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
 ## Paediatric population
 
-The safety, efficacy and population pharmacokinetics of Kuvan in paediatric patients aged &lt;7 years were studied in two open-label studies.
+The safety, efficacy and population pharmacokinetics of Kuvan in paediatric patients aged &lt; 7 years were studied in two open-label studies.
 
-The first study was a multicentre, open-label, randomised, controlled study in children &lt;4 years old with a confirmed diagnosis of PKU.
+The first study was a multicentre, open-label, randomis ed, controlled study in children &lt;4 years old with a confirmed diagnosis of PKU.
 
-56 paediatric PKU patients &lt;4 years of age were randomised 1:1 to receive either 10 mg/kg/day Kuvan in conjunction with a phenylalanine-restricted diet (n=27), or just a phenylalanine-restricted diet (n=29) over a 26-week Study Period.
+56 paediatric PKU patients &lt;4 years of age were randomised 1:1 to receive either 10 mg/kg/day Kuvan in conjunction with a phenylalaninerestricted diet (n=27), or just a phenylalanine -restricted diet (n=29) over a 26-week Study Period.
 
-It was intended that all patients maintained blood phenylalanine levels within a range of 120-360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
+It was intended that all patients maintained blood phenylalanine levels within a range of 120360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range (≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
+The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range (≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt; 0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
 
 The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive impairment (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
 
-Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSIIII score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
+Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blo od phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSI-III score (101, SD=11, n=34) and WISC -IV score (113, SD=9.8, n=4) were within the average range for the normative population.
 
 Among 62 patients with a minimum of two FSIQ assessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan for a mean duration of 6.5 years in children less than 7 years of age at study entry.
 
@@ -418,7 +414,7 @@ Limited studies have been conducted in patients under 4 years of age with BH4 de
 
 ## Absorption
 
-Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high-fat, high-calorie meal as compared to fasting, resulting, in average, in 40-85% higher maximum blood concentrations achieved 4 to 5 hours after administration.
+Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high-fat, high-calorie meal as compared to fasting, resulting, in average, in 4085% higher maximum blood concentrations achieved 4 to 5 hours after administration.
 
 Absolute bioavailability or bioavailability for humans after oral administration is not known.
 
@@ -446,7 +442,7 @@ Population pharmacokinetic analysis of sapropterin including patients from birth
 
 In vitro, sapropterin did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5, nor induce CYP1A2, 2B6, or 3A4/5.
 
-Based on an in vitro study, there is potential for sapropterin dihydrochloride to inhibit p-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) in the gut at the therapeutic doses. A higher intestinal concentration of Kuvan is needed to inhibit BCRP than P-gp, as inhibitory potency in intestine for BCRP (IC50=267 µM) is lower than P-gp (IC50=158 µM).
+Based on an in vitro study, there is potential for sapropterin dihydrochloride to inhibit p-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) in the gut at the therapeutic doses. A higher intestinal concentration of Kuvan is needed to inhibit BCRP than P-gp, as inhibitory potency in intestine for BCRP (IC50=267 µM) is lower than Pgp (IC50=158 µM).
 
 ## In vivo studies
 
@@ -610,7 +606,7 @@ A satisfactory response is defined as a ≥30 percent reduction in blood phenyla
 
 Once responsiveness to the medicinal product has been established, the dose may be adjusted within the range of 5 to 20 mg/kg/day according to response to therapy.
 
-It is recommended that blood phenylalanine and tyrosine levels be tested one or two weeks after each dose adjustment and monitored frequently thereafter under the direction of the treating physician. Patients treated with Kuvan must continue a restricted phenylalanine diet and undergo regular clinical assessment (such as monitoring of blood phenylalanine and tyrosine levels, nutrient intake, and psychomotor development).
+It is recommended that blood phenylalanine and tyrosine levels be tested one or two weeks after each dose adjustment and monitored frequently thereafter under the direction of the treating physician. Patients treated with Kuvan must continue a restricted phenylalanine diet and undergo regular clinical assessment (such as monitoring of blood phenylalanine and tyrosine levels, nutrient intake, and psycho-motor development).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -810,13 +806,11 @@ Caution should be exercised when prescribing Kuvan to patients receiving treatme
 
 ## Pregnancy
 
-There are limited amount of data from the use of Kuvan in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
+There is a limited amount of data from the use of sapropterin in pregnant women, including data from the Kuvan registries KAMPER and PKUDOS. The data are too limited to conclude on malformative or foetoneonatal toxicity. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see s ection 5.3 ).
 
-Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μmol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
+Uncontrolled maternal phenylalanine levels are associated with a high incidence of intellectual impairment, microcephaly, cardiac anomalies,  growth restriction and facial dysmorphism in the offspring. Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. . Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
 
-Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. If maternal phenylalanine levels are not strictly controlled before and during pregnancy, this could be harmful to the mother and the foetus. Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
-
-The use of Kuvan should be considered only if strict dietary management does not adequately reduce blood phenylalanine levels. Caution must be exercised when prescribing to pregnant women.
+The use of Kuvan should be considered only if strict dietary management does not adequately reduce blood phenylalanine levels. Caution must be exercised when prescribing sapropterin to pregnant women.
 
 ## Breast-feeding
 
@@ -830,8 +824,6 @@ In preclinical studies, no effects of sapropterin on male and female fertility w
 
 Kuvan has no or negligible influence on the ability to drive and use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -839,6 +831,8 @@ Kuvan has no or negligible influence on the ability to drive and use machines.
 Approximately 35% of the 579 patients aged 4 years and over who received treatment with sapropterin dihydrochloride (5 to 20 mg/kg/day) in the clinical trials for Kuvan experienced adverse reactions. The most commonly reported adverse reactions are headache and rhinorrhoea.
 
 In a further clinical trial, approximately 30% of the 27 children aged below 4 years who received treatment with sapropterin dihydrochloride (10 or 20 mg/kg/day) experienced adverse reactions. The most commonly reported adverse reactions are 'amino acid level decreased' (hypophenylalaninaemia), vomiting and rhinitis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -856,13 +850,13 @@ Not known:
 
 Hypersensitivity reactions (including serious allergic reactions) and rash
 
-## Metabolism and nutrition disorders
+Metabolism and nutrition disorders
 
 Common:
 
 Hypophenylalaninaemia
 
-## Nervous system disorders
+Nervous system disorders
 
 Very common:
 
@@ -878,7 +872,7 @@ Common:
 
 Pharyngolaryngeal pain, nasal congestion, cough
 
-## Gastrointestinal disorders
+Gastrointestinal disorders
 
 Common:
 
@@ -898,9 +892,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Headache and dizziness have been reported after the administration of sapropterin dihydrochloride above the recommended maximum dose of 20 mg/kg/day. Treatment of overdose should be directed to symptoms. A shortening of the QT interval (-8.32 msec) was observed in a study with a single supra-therapeutic dose of 100 mg/kg (5 times the maximum recommended dose); this should be taken into consideration in managing patients who have a pre-existing shortened QT interval (e.g. patients with familial short QT syndrome).
-
-<div style=\"page-break-after: always\"></div>
+Headache and dizziness have been reported after the administration of sapropterin dihydrochloride above the recommended maximum dose of 20 mg/kg/day. Treatment of overdose should be directed to symptoms. A shortening of the QT interval (8.32 msec) was observed in a study with a single supra-therapeutic dose of 100 mg/kg (5 times the maximum recommended dose); this should be taken into consideration in managing patients who have a pre-existing shortened QT interval (e.g. patients with familial short QT syndrome).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -912,6 +904,8 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, Vario
 
 Hyperphenylalaninaemia (HPA) is diagnosed as an abnormal elevation in blood phenylalanine levels and is usually caused by autosomal recessive mutations in the genes encoding for phenylalanine hydroxylase enzyme (in the case of phenylketonuria, PKU) or for the enzymes involved in 6R-tetrahydrobiopterin (6R-BH4) biosynthesis or regeneration (in the case of BH4 deficiency). BH4 deficiency is a group of disorders arising from mutations or deletions in the genes encoding for one of the five enzymes involved in the biosynthesis or recycling of BH4. In both cases, phenylalanine cannot be effectively transformed into the amino acid tyrosine, leading to increased phenylalanine levels in the blood.
 
+<div style=\"page-break-after: always\"></div>
+
 Sapropterin is a synthetic version of the naturally occurring 6R-BH4, which is a cofactor of the hydroxylases for phenylalanine, tyrosine and tryptophan.
 
 The rationale for administration of Kuvan in patients with BH4-responsive PKU is to enhance the activity of the defective phenylalanine hydroxylase and thereby increase or restore the oxidative metabolism of phenylalanine sufficient to reduce or maintain blood phenylalanine levels, prevent or decrease further phenylalanine accumulation, and increase tolerance to phenylalanine intake in the diet. The rationale for administration of Kuvan in patients with BH4 Deficiency is to replace the deficient levels of BH4, thereby restoring the activity of phenylalanine hydroxylase.
@@ -920,27 +914,27 @@ The rationale for administration of Kuvan in patients with BH4-responsive PKU is
 
 The Phase III clinical development program for Kuvan included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of Kuvan to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p =0.012).
 
-In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalanine-restricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3 weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ±134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ±13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
-
-<div style=\"page-break-after: always\"></div>
+In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3 weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ±134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ±13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
 ## Paediatric population
 
 The safety, efficacy and population pharmacokinetics of Kuvan in paediatric patients aged &lt;7 years were studied in two open-label studies.
 
-The first study was a multicentre, open-label, randomised, controlled study in children &lt;4 years old with a confirmed diagnosis of PKU.
+The first study was a multicentre, openlabel, randomised, controlled study in children &lt;4 years old with a confirmed diagnosis of PKU.
 
-56 paediatric PKU patients &lt;4 years of age were randomised 1:1 to receive either 10 mg/kg/day Kuvan in conjunction with a phenylalanine-restricted diet (n=27), or just a phenylalanine-restricted diet (n=29) over a 26-week Study Period.
+56 paediatric PKU patients &lt;4 years of age were randomised 1:1 to receive either 10 mg/kg/day Kuvan in conjunction with a phenylalaninerestricted diet (n=27), or just a phenylalanine -restricted diet (n=29) over a 26-week Study Period.
 
-It was intended that all patients maintained blood phenylalanine levels within a range of 120-360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
+<div style=\"page-break-after: always\"></div>
+
+It was intended that all patients maintained blood phenylalanine levels within a range of 120360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
 
 The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range (≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
 
 The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive impairment (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
 
-Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSIIII score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
+Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSI-III score (101, SD=11, n=34) and WISC -IV score (113, SD=9.8, n=4) were within the average range for the normative population.
 
 Among 62 patients with a minimum of two FSIQ assessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan for a mean duration of 6.5 years in children less than 7 years of age at study entry.
 
@@ -950,15 +944,15 @@ Limited studies have been conducted in patients under 4 years of age with BH4 de
 
 ## Absorption
 
-Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high-fat, high-calorie meal as compared to fasting, resulting, in average, in 40-85% higher maximum blood concentrations achieved 4 to 5 hours after administration.
-
-<div style=\"page-break-after: always\"></div>
+Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high-fat, high-calorie meal as compared to fasting, resulting, in average, in 4085% higher maximum blood concentrations achieved 4 to 5 hours after administration.
 
 Absolute bioavailability or bioavailability for humans after oral administration is not known.
 
 ## Distribution
 
 In non-clinical studies, sapropterin was primarily distributed to the kidneys, adrenal glands, and liver as assessed by levels of total and reduced biopterin concentrations. In rats, following intravenous radiolabeled sapropterin administration, radioactivity was found to distribute in foetuses. Excretion of total biopterin in milk was demonstrated in rats by intravenous route. No increase in total biopterin concentrations in either foetuses or milk was observed in rats after oral administration of 10 mg/kg sapropterin dihydrochloride.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -978,7 +972,7 @@ Population pharmacokinetic analysis of sapropterin including patients from birth
 
 In vitro, sapropterin did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5, nor induce CYP1A2, 2B6, or 3A4/5.
 
-Based on an in vitro study, there is potential for sapropterin dihydrochloride to inhibit p-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) in the gut at the therapeutic doses. A higher intestinal concentration of Kuvan is needed to inhibit BCRP than P-gp, as inhibitory potency in intestine for BCRP (IC50=267 µM) is lower than P-gp (IC50=158 µM).
+Based on an in vitro study, there is potential for sapropterin dihydrochloride to inhibit p-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) in the gut at the therapeutic doses. A higher intestinal concentration of Kuvan is needed to inhibit BCRP than P-gp, as inhibitory potency in intestine for BCRP (IC50=267 µM) is lower than Pgp (IC50=158 µM).
 
 ## In vivo studies
 
@@ -992,13 +986,13 @@ An increased incidence of altered renal microscopic morphology (collecting tubul
 
 Sapropterin was found to be weakly mutagenic in bacterial cells and an increase in chromosome aberrations was detected in Chinese hamster lung and ovary cells. However, sapropterin has not been shown to be genotoxic in the in vitro test with human lymphocytes as well as in in vivo micronucleus mouse tests.
 
-<div style=\"page-break-after: always\"></div>
-
 No tumorigenic activity was observed in an oral carcinogenicity study in mice at doses of up to 250 mg/kg/day (12.5 to 50 times the human therapeutic dose range).
 
 Emesis has been observed in both the safety pharmacology and the repeated-dose toxicity studies. Emesis is considered to be related to the pH of the solution containing sapropterin.
 
 No clear evidence of teratogenic activity was found in rats and in rabbits at doses of approximately 3 and 10 times the maximum recommended human dose, based on body surface area.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1034,8 +1028,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Upon dissolving Kuvan powder for oral solution in water, the solution has a clear, colourless to yellow appearance. For instructions for use, see section 4.2.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
@@ -1043,6 +1035,8 @@ BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/08/481/004 100 mg sachet EU/1/08/481/005 500 mg sachet
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1083,7 +1077,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic Safety Update Reports
 
-The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83 /EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1210,13 +1204,11 @@ Kuvan 100 mg powder for oral solution Kuvan 500 mg powder for oral solution Sapr
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each sachet contains 100 mg of sapropterin dihydrochloride (equivalent to 77 mg of sapropterin).
-
-Each sachet contains 500 mg of sapropterin dihydrochloride (equivalent to 384 mg of sapropterin).
+Each sachet contains 100 mg of sapropterin dihydrochloride (equivalent to 77 mg of sapropterin). Each sachet contains 500 mg of sapropterin dihydrochloride (equivalent to 384 mg of sapropterin).
 
 ## 3. LIST OF EXCIPIENTS
 
-This medicine contains potassium citrate (E332). See leaflet for further information.
+This medicine contains p otassium citrate (E332). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1286,32 +1278,30 @@ NN:
 |------------------------------------------------------------------|
 | SACHET 100 mg                                                    |
 
-| 6.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-SACHET 100 mg
-
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Kuvan 100 mg powder for oral solution Sapropterin dihydrochloride
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Oral use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
-Lot
+Lot Kuvan 500 mg powder for oral solution Sapropterin dihydrochloride Oral use Read the package leaflet before use.
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1322,12 +1312,8 @@ Lot
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Kuvan 500 mg powder for oral solution Sapropterin dihydrochloride
-
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
-
-Oral use Read the package leaflet before use.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1497,7 +1483,7 @@ Ask your doctor for the medicine cup for dissolving the tablets and the 10 ml or
 
 - Place the prescribed number of tablets in the medicine cup. Pour the amount of water into the medicine cup, as instructed by your doctor (e.g. your doctor told you to use 20 ml for dissolving one Kuvan tablet). Check to make sure that the amount of liquid lines up with the amount that your doctor tells you. Stir with the small spoon or clean utensil until the tablets dissolve.
 - If your doctor told you to administer only a portion of the solution, point the tip of the oral syringe into the medicine cup. Slowly pull back the plunger to withdraw the amount as instructed by your doctor.
-- Transfer the solution by pushing on the plunger slowly until all of the solution in the oral syringe is transferred to a glass or cup for administration (e.g. if your doctor told you to dissolve two Kuvan tablets in 40 ml water and administer 30 ml to your child, you would have to use the 20 ml oral syringe two times to draw up 30 ml (e.g. 20 ml + 10 ml) of the solution and transfer it to a glass or cup for administration). Use a 10 ml oral syringe for administration of volumes ≤10 ml or a 20 ml oral syringe for administration of volumes &gt;10 ml.
+- Transfer the solution by pushing on the plunger slowly until all of the solution in the oral syringe is transferred to a glass or cup for administration (e.g. if your doctor told you to dissolve two Kuvan tablets in 40 ml water and administer 30 ml to your child, you would have to use the 20 ml oral s yringe two times to draw up 30 ml (e.g. 20 ml + 10 ml) of the solution and transfer it to a glass or cup for administration). Use a 10 ml oral syringe for administration of volumes ≤10 ml or a 20 ml oral syringe for administration of volumes &gt;10 ml.
 - If your baby is too small to drink from a glass or a cup you may administer the solution via the oral syringe. Draw up the prescribed volume from the solution prepared in the medicine cup and place the tip of the oral syringe into your baby's mouth. Point the tip of the oral syringe towards either cheek. Push on the plunger slowly, a small amount at a time, until all of the solution in the oral syringe is given.
 - Throw away any remaining solution. Remove the plunger from the barrel of the oral syringe. Wash both parts of the oral syringe and the medicine cup with warm water and air dry. When the oral syringe is dry, put the plunger back into the barrel. Store the oral syringe and the medicine cup for next use.
 
@@ -1560,7 +1546,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Kuvan 100 mg soluble tablets are off-white to light yellow with '177' imprinted on one face.
 
-It is available in bottles with child-resistant closure of 30, 120 or 240 soluble tablets. Each bottle contains a small plastic tube of desiccant (silica gel).
+It is available in bottles with childresistant closure of 30, 120 or 240 soluble tablets. Each bottle contains a small plastic tube of desiccant (silica gel).
 
 Not all pack sizes may be marketed.
 
@@ -1580,7 +1566,9 @@ This leaflet was last revised in month/YYYY
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1758,7 +1746,9 @@ Few cases of allergic reactions (such as skin rash and serious reactions) have b
 
 If you have red, itchy, raised areas (hives), runny nose, fast or uneven pulse, swelling of your tongue and throat, sneezing, wheezing, serious difficulty in breathing or dizziness, you may be having a serious allergic reaction to the medicine. If you notice these signs, contact your doctor immediately.
 
-Very common side effects (may affect more than 1 in 10 people) Headache and runny nose.
+## Very common side effects (may affect more than 1 in 10 people)
+
+Headache and runny nose.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
@@ -1803,7 +1793,9 @@ This leaflet was last revised in MM/YYYY .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1903,7 +1895,7 @@ The recommended starting dose of Kuvan in patients with BH4 deficiency is 2 to 5
 
 For PKU patients, the total daily dose is taken once a day at the same time each day, preferably in the morning.
 
-For BH4 deficiency patients, the total daily dose is divided into 2 or 3 doses over the day.
+For BH4 deficiency patients, t he total daily dose is divided into 2 or 3 doses over the day.
 
 Be sure that you know what dose of Kuvan powder your doctor prescribed. For the exact dose your doctor may also prescibe Kuvan 100 mg powder for oral solution. Be sure whether you should use Kuvan 500 mg powder for oral solution alone or both medicines to prepare your dose. Open the sachet(s) only when you are ready to use them.
 
@@ -1968,8 +1960,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Kuvan contains
 
-- -The active substance is sapropterin dihydrochloride. Each sachet contains 500 mg of sapropterin dihydrochloride (equivalent to 384 mg of sapropterin).
-- -The other ingredients are mannitol (E421), potassium citrate (E332), sucralose (E955), ascorbic acid (E300).
+- -The active substance is sapropterin dihydrochloride. Each sachet contains 500 mg of sapropterin dihydrochloride (equivalent to 38 4 mg of sapropterin).
+- -The other ingredients are mannitol (E421), potassium citrate (E332), sucralose (E955), ascorbic acid (E300) .
 
 ## What Kuvan looks like and contents of the pack
 
@@ -1981,7 +1973,7 @@ Each carton contains 30 sachets.
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
-## This leaflet was last revised in MM/YYYY .
+This leaflet was last revised in MM/YYYY .
 
 ## Other sources of information
 

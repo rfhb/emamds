@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 14:30:00
+document_datetime: 2026-06-23 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epidyolex.html
 document_name: epidyolex.html
 version: success
-processing_time: 0.1357242
-conversion_datetime: 2026-04-25 16:00:56.323966
+processing_time: 0.1590078
+conversion_datetime: 2026-06-25 16:49:15.537495
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Epidyolex
 
@@ -58,17 +58,17 @@ Expand section
 
 Collapse section
 
-## How is Epidyolex used?
+### How is Epidyolex used?
 
 Epidyolex can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in the treatment of epilepsy.
 
 Epidyolex is available as a liquid containing 100 mg cannabidiol per ml. It should be taken consistently either with or without food. The recommended starting dose is 2.5 mg per kilogram body weight given twice a day. Doses are measured and given by mouth with a syringe supplied with the medicine. After one week, the dose should be increased to 5 mg/kg twice a day. Depending on the individual response and how well the medicine is tolerated, the doctor may increase the dose gradually up to a maximum of 10 mg/kg twice a day for Dravet and Lennox-Gastaut syndromes and 12.5 mg/kg twice a day for TSC. For more information about using Epidyolex, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Epidyolex work?
+### How does Epidyolex work?
 
 Although the way it works is not clearly understood, the active substance in Epidyolex, cannabidiol, is thought to act on targets that play a role in the movement of calcium in the cells. As this is important for the transmission of electrical signals in some nerve cells, and seizures are caused by excessive electrical activity in the brain, altering the movement of calcium is expected to reduce or prevent the seizures in patients with Lennox-Gastaut syndrome, Dravet syndrome or TSC. Cannabidiol is also thought to act on adenosine, a chemical messenger in the brain that plays an important role in suppressing seizures.
 
-## What benefits of Epidyolex have been shown in studies?
+### What benefits of Epidyolex have been shown in studies?
 
 Five studies in over 900 patients with Lennox-Gastaut syndrome, Dravet syndrome or TSC showed that Epidyolex lowered the number of seizures when added to treatment with other epilepsy medicines after 14 to 16 weeks of treatment.
 
@@ -78,23 +78,23 @@ In another two studies in patients with Dravet syndrome, the reduction in the nu
 
 In a fifth study, patients with TSC taking Epidyolex at maximum dose of 25/mg/kg/day had a reduction of 49% in the number of seizures compared with 27% in patients receiving a placebo.
 
-## What are the risks associated with Epidyolex?
+### What are the risks associated with Epidyolex?
 
 The most common side effects with Epidyolex (which may affect more than 1 in 10 people) are somnolence (sleepiness), decreased appetite, diarrhoea, fever, tiredness and vomiting. The most common reason for stopping treatment was increased blood levels of liver enzymes (a sign of liver problems). For the full list of side effects of Epidyolex, see the package leaflet.
 
 Epidyolex must not be used in patients whose blood levels of liver enzymes are more than three times the normal limit and who also have levels of bilirubin (another marker of liver problems) more than twice the normal limit. For the full list of restrictions, see the package leaflet.
 
-## Why is Epidyolex authorised in the EU?
+### Why is Epidyolex authorised in the EU?
 
 The main studies showed that Epidyolex is effective at lowering the number of seizures in patients with Lennox-Gastaut syndrome, Dravet syndrome or TSC who are taking another epilepsy medicine. Regarding safety, treatment with Epidyolex is associated with an increased risk of liver problems. This risk can be managed with restrictions and regular liver monitoring and is considered acceptable given the seriousness of the conditions and the lack of treatments. The European Medicines Agency therefore decided that Epidyolex's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Epidyolex?
+### What measures are being taken to ensure the safe and effective use of Epidyolex?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Epidyolex have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Epidyolex are continuously monitored. Side effects reported with Epidyolex are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Epidyolex
+### Other information about Epidyolex
 
 Epidyolex received a marketing authorisation valid throughout the EU on 19 September 2019.
 
@@ -108,7 +108,7 @@ English (EN) (128.17 KB - PDF)
 
 [View](/en/documents/overview/epidyolex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-482)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (145.17 KB - PDF)
 
@@ -140,7 +140,7 @@ Deutsch (DE) (122.59 KB - PDF)
 
 [View](/de/documents/overview/epidyolex-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.83 KB - PDF)
+eesti (ET) (108.83 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 26/04/2021
 
@@ -170,13 +170,13 @@ italiano (IT) (118.95 KB - PDF)
 
 [View](/it/documents/overview/epidyolex-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (152.59 KB - PDF)
+latviešu (LV) (152.59 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 26/04/2021
 
 [View](/lv/documents/overview/epidyolex-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.58 KB - PDF)
+lietuvių (LT) (144.58 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 26/04/2021
 
@@ -230,7 +230,7 @@ slovenščina (SL) (140.84 KB - PDF)
 
 [View](/sl/documents/overview/epidyolex-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (117.5 KB - PDF)
+suomi (FI) (117.5 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 26/04/2021
 
@@ -254,167 +254,168 @@ English (EN) (638.71 KB - PDF)
 
 Epidyolex : EPAR - Product Information
 
-English (EN) (1.16 MB - PDF)
+English (EN) (1.15 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/epidyolex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-71)
+[Other languages (24)](#file-language-dropdown-930)
 
-български (BG) (1.12 MB - PDF)
+български (BG) (1.07 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/epidyolex-epar-product-information_bg.pdf)
 
-español (ES) (1.08 MB - PDF)
+español (ES) (1.03 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/es/documents/product-information/epidyolex-epar-product-information_es.pdf)
 
-čeština (CS) (1.07 MB - PDF)
+čeština (CS) (1.01 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/epidyolex-epar-product-information_cs.pdf)
 
-dansk (DA) (1.08 MB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/epidyolex-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1004.72 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/epidyolex-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.02 MB - PDF)
+eesti (ET) (989.23 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/epidyolex-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.04 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/epidyolex-epar-product-information_el.pdf)
 
-français (FR) (1.19 MB - PDF)
+français (FR) (1.13 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/epidyolex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.07 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/epidyolex-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.02 MB - PDF)
+italiano (IT) (966.71 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
-
-[View](/is/documents/product-information/epidyolex-epar-product-information_is.pdf)
-
-italiano (IT) (1016.45 KB - PDF)
-
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/epidyolex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.06 MB - PDF)
+latviešu (LV) (1.02 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/epidyolex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.09 MB - PDF)
+lietuvių (LT) (1.04 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/epidyolex-epar-product-information_lt.pdf)
 
-magyar (HU) (1.19 MB - PDF)
+magyar (HU) (1.14 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/epidyolex-epar-product-information_hu.pdf)
 
-Malti (MT) (1.18 MB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/mt/documents/product-information/epidyolex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.08 MB - PDF)
+Nederlands (NL) (1.03 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/epidyolex-epar-product-information_nl.pdf)
 
-norsk (NO) (1010.16 KB - PDF)
+polski (PL) (1.21 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
-
-[View](/no/documents/product-information/epidyolex-epar-product-information_no.pdf)
-
-polski (PL) (1.25 MB - PDF)
-
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/epidyolex-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (1002.7 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/epidyolex-epar-product-information_pt.pdf)
 
-română (RO) (1.03 MB - PDF)
+română (RO) (1012.94 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/ro/documents/product-information/epidyolex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.22 MB - PDF)
+slovenčina (SK) (1.18 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/epidyolex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (1.03 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/epidyolex-epar-product-information_sl.pdf)
 
-Suomi (FI) (1017.41 KB - PDF)
+suomi (FI) (966.46 KB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/epidyolex-epar-product-information_fi.pdf)
 
-svenska (SV) (1.14 MB - PDF)
+svenska (SV) (1.09 MB - PDF)
 
-**First published:** 04/10/2019 **Last updated:** 24/04/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/epidyolex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000303055
+Íslenska (IS) (992.18 KB - PDF)
 
-12/03/2026
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
+
+[View](/is/documents/product-information/epidyolex-epar-product-information_is.pdf)
+
+norsk (NO) (957.92 KB - PDF)
+
+**First published:** 04/10/2019 **Last updated:** 23/06/2026
+
+[View](/no/documents/product-information/epidyolex-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000356001
+
+18/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,7 +433,7 @@ English (EN) (64.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (43.23 KB - PDF)
 
@@ -464,7 +465,7 @@ Deutsch (DE) (17.11 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (16.89 KB - PDF)
+eesti (ET) (16.89 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
@@ -488,25 +489,19 @@ hrvatski (HR) (35.86 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (17.43 KB - PDF)
-
-**First published:** 04/10/2019 **Last updated:** 19/06/2023
-
-[View](/is/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (17.06 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
 [View](/it/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (40.58 KB - PDF)
+latviešu (LV) (40.58 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
 [View](/lv/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (34.5 KB - PDF)
+lietuvių (LT) (34.5 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
@@ -529,12 +524,6 @@ Nederlands (NL) (16.34 KB - PDF)
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
 [View](/nl/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.07 KB - PDF)
-
-**First published:** 04/10/2019 **Last updated:** 19/06/2023
-
-[View](/no/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.89 KB - PDF)
 
@@ -566,7 +555,7 @@ slovenščina (SL) (26.81 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (16.58 KB - PDF)
+suomi (FI) (16.58 KB - PDF)
 
 **First published:** 04/10/2019 **Last updated:** 19/06/2023
 
@@ -578,28 +567,31 @@ svenska (SV) (16.95 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (17.43 KB - PDF)
+
+**First published:** 04/10/2019 **Last updated:** 19/06/2023
+
+[View](/is/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.07 KB - PDF)
+
+**First published:** 04/10/2019 **Last updated:** 19/06/2023
+
+[View](/no/documents/all-authorised-presentations/epidyolex-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Epidyolex
-
-Active substance
-
-cannabidiol
-
-International non-proprietary name (INN) or common name
-
-cannabidiol
-
-Therapeutic area (MeSH)
-
-- Lennox Gastaut Syndrome
-- Epilepsies, Myoclonic
-
-Anatomical therapeutic chemical (ATC) code
-
-N03AX
+- **Name of medicine**
+    - Epidyolex
+- **Active substance**
+    - cannabidiol
+- **International non-proprietary name (INN) or common name**
+    - cannabidiol
+- **Therapeutic area (MeSH)**
+        - Lennox Gastaut Syndrome
+        - Epilepsies, Myoclonic
+- **Anatomical therapeutic chemical (ATC) code**
+    - N03AX
 
 ### Pharmacotherapeutic group
 
@@ -611,31 +603,18 @@ Epidyolex is indicated for use as adjunctive therapy of seizures associated with
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004675
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Jazz Pharmaceuticals Ireland Limited
-
-Fifth Floor Waterloo Exchange
-
-Opinion adopted
-
-25/07/2019
-
-Marketing authorisation issued
-
-19/09/2019
-
-Revision
-
-21
+- **EMA product number**
+    - EMEA/H/C/004675
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Jazz Pharmaceuticals Ireland Limited Fifth Floor Waterloo Exchange  Waterloo Road  D04 E5W7  Dublin 4  Ireland
+- **Opinion adopted**
+    - 25/07/2019
+- **Marketing authorisation issued**
+    - 19/09/2019
+- **Revision**
+    - 22
 
 ## Assessment history
 
@@ -643,13 +622,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Epidyolex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (194.44 KB - PDF)
+English (EN) (177.64 KB - PDF)
 
-**First published:** 23/05/2025 **Last updated:** 24/04/2026
+**First published:** 23/05/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/procedural-steps-after/epidyolex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -751,7 +730,7 @@ English (EN) (2.14 MB - PDF)
 
 [View](/en/documents/variation-report/epidyolex-h-c-4675-p46-005-p46-006-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Epidyolex : Orphan maintenance assessment report (initial authorisation)
 
@@ -824,6 +803,6 @@ English (EN) (103.82 KB - PDF)
 
 **This page was last updated on**
 
-24/04/2026
+23/06/2026
 
 ## Share this page

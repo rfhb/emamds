@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 13:58:05
-document_pages: 33
+document_datetime: 2026-06-23 09:18:05
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/agamree-epar-product-information_en.pdf
 document_name: agamree-epar-product-information_en.pdf
 version: success
-processing_time: 7.7207437
-conversion_datetime: 2026-04-09 12:32:41.976841
+processing_time: 9.4526624
+conversion_datetime: 2026-06-25 17:21:48.105893
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,7 +50,7 @@ White to off-white suspension.
 
 ## 4.1 Therapeutic indications
 
-AGAMREE is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 4 years and older.
+AGAMREE is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 2 years and older.
 
 ## 4.2 Posology and method of administration
 
@@ -71,6 +71,8 @@ Table 1: Dosing table
 |                 | 6 mg/kg/day   | 6 mg/kg/day   | 4 mg/kg/day   | 4 mg/kg/day   | 2 mg/kg/day   | 2 mg/kg/day   |
 |-----------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | Weight (kg)     | Dose in mg    | Dose in ml    | Dose in mg    | Dose in ml    | Dose in mg    | Dose in ml    |
+| 8-9             | 48            | 1.2           | 32            | 0.8           | 16            | 0.4           |
+| 10-11           | 60            | 1.5           | 40            | 1             | 20            | 0.5           |
 | 12-13           | 72            | 1.8           | 48            | 1.2           | 24            | 0.6           |
 | 14-15           | 84            | 2.1           | 56            | 1.4           | 28            | 0.7           |
 | 16-17           | 96            | 2.4           | 64            | 1.6           | 32            | 0.8           |
@@ -99,7 +101,7 @@ The recommended daily dose of vamorolone for patients with moderate hepatic impa
 
 ## Paediatric population
 
-The safety and efficacy of AGAMREE in children below 4 years of age has not been established.
+The safety and efficacy of AGAMREE in children below 2 years of age has not been established.
 
 ## Method of administration
 
@@ -109,11 +111,13 @@ The oral suspension requires redispersing by shaking the bottle prior to dosing.
 
 Only the oral syringe provided with the medicinal product should be used to measure the dose of AGAMREE in ml. After the appropriate dose is withdrawn into the oral syringe, it should be dispensed directly into the mouth.
 
-The oral syringe should be disassembled after use, rinsed under running cold tap water and air dried. It should be stored in the box until next use. An oral syringe may be used for up to 45 days, then it should be discarded and the second oral syringe provided in the pack should be used.
-
 <div style=\"page-break-after: always\"></div>
 
-Administration of AGAMREE oral suspension via enteral feeding tube AGAMREE oral suspension may be administered through an enteral feeding tube (see section 6.6).
+The oral syringe should be disassembled after use, rinsed under running cold tap water and air dried. It should be stored in the box until next use. An oral syringe may be used for up to 45 days, then it should be discarded and the second oral syringe provided in the pack should be used.
+
+## Administration of AGAMREE oral suspension via enteral feeding tube
+
+AGAMREE oral suspension may be administered through an enteral feeding tube (see section 6.6).
 
 ## 4.3 Contraindications
 
@@ -143,11 +147,11 @@ The patient should be advised to carry the Patient Alert Card providing importan
 
 A steroid 'withdrawal syndrome', seemingly unrelated to adrenocortical insufficiency, may also occur following abrupt discontinuation of glucocorticoids. This syndrome includes symptoms such as anorexia, nausea, vomiting, lethargy, headache, fever, joint pain, desquamation, myalgia, and/or weight loss. These effects are thought to be due to the sudden change in glucocorticoid concentration rather than to low glucocorticoid levels.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Switching from glucocorticoid treatment to AGAMREE
 
 Patients can be switched from oral glucocorticoid treatment (such as prednisone or deflazacort) to AGAMREE without the need for treatment interruption or period of prior glucocorticoid dose reduction. Patients previously on chronic glucocorticoids should switch to AGAMREE 6 mg/kg/day to minimise the risk for adrenal crisis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Weight gain
 
@@ -181,11 +185,11 @@ No clinically relevant changes in glucose metabolism have been observed in vamor
 
 Response to live or live attenuated vaccines can be altered in patients treated with glucocorticoids. The risk with AGAMREE is unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 Live attenuated or live vaccines should be administered at least 6 weeks prior to starting AGAMREE treatment.
 
 For patients without a history of chicken pox or vaccination, vaccination against varicella zoster virus should be initiated before treatment with AGAMREE.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Thromboembolic events
 
@@ -205,7 +209,7 @@ Vamorolone has not been studied in patients with severe pre-existing hepatic inj
 
 ## Concomitant use with other medicinal products
 
-## UGT substrates
+## UGT inhibitors
 
 The potential for drug-drug-interactions involving UGTs has not been fully evaluated, therefore all inhibitors of UGTs should be avoided as concomitant medication and should be used with caution if medically required.
 
@@ -225,15 +229,19 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 7.5 ml, that
 
 Vamorolone acts as an antagonist at the mineralocorticoid receptor. The use of vamorolone in combination with mineralocorticoid receptor antagonist may increase the risk of hyperkalaemia. No cases of hyperkalaemia have been observed in patients using vamorolone alone or in combination with eplerenone or spironolactone. Monitoring potassium levels one month after starting a combination between vamorolone and a mineralocorticoid receptor antagonist is recommended. In case of hyperkalaemia, a reduction of the dose of the mineralocorticoid receptor antagonist should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacokinetic interactions
 
 ## Effect of other medicinal products on vamorolone
 
 Concomitant administration with the strong CYP3A4 inhibitor itraconazole led to an increase of the vamorolone area under the plasma concentration time curve of 1.45-fold in healthy subjects. The recommended dose of vamorolone when administered with strong CYP3A4 inhibitors (e.g telithromycin, clarithromycin, voriconazole, grapefruit juice) is 4 mg/kg/day.
 
-<div style=\"page-break-after: always\"></div>
-
 Strong CYP3A4 inducers or strong PXR inducers (e.g. carbamazepine, phenytoin, rifampicin, St. John's wort) may decrease plasma concentrations of vamorolone and lead to lack of efficacy, therefore alternative treatments that are not strong inducers of CYP3A4 activity should be considered. Concomitant treatment with a moderate PXR or CYP3A4 inducer should be used in caution as the plasma concentration of vamorolone may be decreased relevantly.
+
+## Transporter-mediated interactions
+
+Vamorolone is not an inhibitor of P-gp, BCRP, OATP1B1, OATP1B3, OCT2, OAT1, MATE1, or BSEP. Vamorolone shows weak inhibition of OAT3 and MATE2-K transporters in vitro . Vamorolone is not a substrate of P-gp, BCRP, OATP1A2, OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, MATE2-K or BSEP.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -241,7 +249,7 @@ Strong CYP3A4 inducers or strong PXR inducers (e.g. carbamazepine, phenytoin, ri
 
 There are no available data from the use of vamorolone in pregnant women. Animal reproductive toxicity studies with vamorolone have shown reproductive toxicity (see section°5.3). Glucocorticoids have been associated with various types of malformations (palate cleft, skeletal malformations) in animal studies.
 
-AGAMREE should not be used during pregnancy unless the clinical condition of the women requires treatment with vamorolone.
+AGAMREE should not be used during pregnancy unless the clinical condition of the woman requires treatment with vamorolone.
 
 Women of childbearing potential have to use effective contraception during treatment with AGAMREE.
 
@@ -265,15 +273,13 @@ AGAMREE has no influence on the ability to drive and use machines.
 
 The most commonly reported adverse reactions for vamorolone 6 mg/kg/day are Cushingoid features (28.6%), vomiting (14.3%), weight increased (10.7%) and irritability (10.7%). These reactions are dose-dependent, usually reported in the first months of treatment and tend to decline or stabilise over time with continuous treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 Vamorolone leads to the suppression of the hypothalamic-pituitary-adrenal axis, which correlates with dose and the duration of treatment. Acute adrenal insufficiency (adrenal crisis) is a serious effect that can occur during a period of increased stress or if the vamorolone dose is reduced or withdrawn abruptly (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed below according to MedDRA system organ class and frequency. The table contains adverse reactions in patients treated in the placebo-controlled study for patients treated with vamorolone 6 mg/kg/day (Pool 1). The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to
-
-<div style=\"page-break-after: always\"></div>
-
-&lt; 1/1 000), very rare (&lt; 1/10 000) (including isolated cases), not known (cannot be estimated from the available data).
+The adverse reactions are listed below according to MedDRA system organ class and frequency. The table contains adverse reactions in patients treated in the randomised placebo-controlled study for patients treated with vamorolone 6 mg/kg/day. The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) (including isolated cases), not known (cannot be estimated from the available data).
 
 Table 2: Adverse reactions
 
@@ -295,6 +301,8 @@ Cushingoid features (hypercortisolism) was the most frequently reported adverse 
 
 Behaviour problems were reported in the first 6 months of treatment at a higher frequency with vamorolone 6 mg/kg/day (21.4%) than with vamorolone 2 mg/kg/day (16.7%) or placebo (13.8%), due to an increased frequency of events described as mild irritability (10.7% in 6 mg/kg/day, no patient in 2 mg/kg/day or placebo). The majority of behaviour problems occurred in the first 3 months of treatment and resolved without treatment discontinuation. Between month 6 and month 12, the frequency of behaviour problems decreased in both vamorolone doses (10.7% for vamorolone 6 mg/kg/day and 7.1% for vamorolone 2 mg/kg/day).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Weight gain
 
 Vamorolone is associated with increase in appetite and weight. The majority of the events of weight gain in the vamorolone 6 mg/kg/day group were reported in the first 6 months of treatment (17.9% in month 0 to 6 vs 0% in months 6 to 12). Weight gain was similar between vamorolone 2 mg/kg/day (3.3%) and placebo (6.9%). Age-appropriate dietary advice should be provided before and during treatment with AGAMREE in line with general recommendations for nutrition management in patients with DMD (see section 4.4).
@@ -305,13 +313,11 @@ Abruptly reducing or withdrawing the daily dose of vamorolone following prolonge
 
 ## Paediatric population
 
-The adverse events in paediatric patients with DMD treated with vamorolone were similar in frequency and type in patients 4 years of age and older.
+The type and frequency of adverse reactions in patients 2 to &lt;4 years or older than 7 years were similar to those reported in 4 to &lt; 7-year old patients. The effects of vamorolone on pubertal development have not been studied.
 
-The type and frequency of adverse events in patients older than 7 years were consistent with those seen in 4 to 7-year old patients. There is no available information on the effects of vamorolone on pubertal development.
+In patients 2 to &lt;4 years, asymptomatic adrenal suppression was reported in half of the patients treated with vamorolone 6 mg/kg/day based on the Week 12 morning cortisol values. A higher frequency of behaviour problems was observed in patients &lt;5 years compared to patients
 
-<div style=\"page-break-after: always\"></div>
-
-A higher frequency of behaviour problems was observed in patients &lt;5 years compared to patients ≥5 years when treated with vamorolone 2-6 mg/kg/day.
+≥5 years when treated with vamorolone 2-6 mg/kg/day in the pivotal study.
 
 ## Reporting of suspected adverse reactions
 
@@ -331,6 +337,8 @@ Pharmacotherapeutic group: Glucocorticoids, ATC code: H02AB18
 
 Vamorolone is a dissociative corticosteroid that selectively binds to the glucocorticoid receptor, which triggers anti-inflammatory effects via inhibition of NF-kB mediated gene transcripts, but leads to less transcriptional activation of other genes. In addition, vamorolone inhibits the activation of the mineralocorticoid receptor by aldosterone. Due to its specific structure, vamorolone is likely not a substrate for 11ß-hydroxysteroid dehydrogenases and is therefore not subject to local tissue amplification. The precise mechanism by which vamorolone exerts its therapeutic effects in patients with DMD is unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 Vamorolone produced a dose-dependent decrease in morning cortisol levels in the clinical studies. A dose-dependent increase in haemoglobin, haematocrit values, erythrocytes, leukocyte counts and lymphocyte counts was observed with in clinical studies with vamorolone. No relevant changes in mean neutrophil counts or immature granulocytes were observed. High density lipoprotein (HDL) cholesterol and triglycerides values increased in a dose-dependent manner. There was no relevant effect on glucose metabolism up to 30 months of treatment.
@@ -341,15 +349,13 @@ Unlike corticosteroids, vamorolone did not result in a reduction of bone metabol
 
 The efficacy of AGAMREE for the treatment of DMD was evaluated in Study 1, a multi-centre, randomised, double-blind, parallel-group, placebo- and active-controlled study of 24 weeks duration followed by a double-blind extension phase. The study population consisted of 121 male paediatric patients 4 to &lt; 7 years of age at time of enrolment in the study who were corticosteroid naïve and ambulatory, with a confirmed diagnosis of DMD.
 
-Study 1 randomised 121 patients to one of the following treatments: vamorolone 6 mg/kg/day (n = 30), vamorolone 2 mg/kg/day (n = 30), active comparator prednisone 0.75 mg/kg/day (n = 31), or placebo (n = 30). After 24 weeks (Period 1, primary efficacy analysis), patients who had been
-
-<div style=\"page-break-after: always\"></div>
-
-receiving prednisone or placebo were re-assigned according to an initially defined randomisation scheme to either vamorolone 6 mg/kg/day or 2 mg/kg/day for an additional 20 weeks of treatment (Period 2).
+Study 1 randomised 121 patients to one of the following treatments: vamorolone 6 mg/kg/day (n = 30), vamorolone 2 mg/kg/day (n = 30), active comparator prednisone 0.75 mg/kg/day (n = 31), or placebo (n = 30). After 24 weeks (Period 1, primary efficacy analysis), patients who had been receiving prednisone or placebo were re-assigned according to an initially defined randomisation scheme to either vamorolone 6 mg/kg/day or 2 mg/kg/day for an additional 20 weeks of treatment (Period 2).
 
 In Study 1, efficacy was evaluated by assessing the change from Baseline to Week 24 in Time to Stand Test (TTSTAND) velocity for vamorolone 6 mg/kg/day compared to placebo. A pre-specified hierarchical analysis of relevant secondary endpoints consisted of change from baseline in TTSTAND velocity for the vamorolone 2 mg/kg/day vs placebo group, change from baseline in 6 Minute Walk Test (6MWT) distance for vamorolone 6 mg/kg/day followed by 2 mg/kg/day vs placebo.
 
-Treatment with vamorolone 6 mg/kg/day and 2 mg/kg/day resulted in a statistically significant improvement in change in TTSTAND velocity and change in 6MWT distance between baseline and Week 24 compared to placebo (see table 2). Study 1 was not designed to maintain the overall Type I error rate for comparisons of each vamorolone group versus prednisone, therefore a global assessment of treatment differences across endpoints, expressed in percentual change from baseline with 95% confidence intervals is presented in Figure 1 for these endpoints.
+Treatment with vamorolone 6 mg/kg/day and 2 mg/kg/day resulted in a statistically significant improvement in change in TTSTAND velocity and change in 6MWT distance between baseline and Week 24 compared to placebo (see table 3). Study 1 was not designed to maintain the overall Type I error rate for comparisons of each vamorolone group versus prednisone, therefore a global assessment of treatment differences across endpoints, expressed in percentual change from baseline with 95% confidence intervals is presented in Figure 1 for these endpoints.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3: Analysis of change from baseline with vamorolone 6 mg/kg/day or vamorolone 2 mg/kg/day compared to placebo at Week 24 (Study 1)
 
@@ -385,6 +391,14 @@ At baseline, children in vamorolone groups were smaller in height (median -0.74 
 
 <div style=\"page-break-after: always\"></div>
 
+The efficacy of AGAMREE has been evaluated as part of exploratory objectives in patients aged 2 to &lt; 4 years and 7 to &lt; 18 years in a 12-week, phase 2 open-label, multiple dose study (Study 2). The study population comprised 54 male patients: 20 patients aged 2 to &lt; 4 years who were corticosteroid naïve and 34 patients aged 7 to &lt; 18 years who were corticosteroid untreated (for at least 3 months prior to initiating vamorolone) or corticosteroid-treated. Patients were ambulatory or non-ambulatory, with a confirmed diagnosis of DMD.
+
+Once the PK and safety were assessed for the first 6 patients in each age group at the 2 mg/kg/day dose, the subsequent patients were dosed at either 2 mg/kg/day or 6 mg/kg/day. Overall, a total of 10 patients aged 2 to &lt; 4 years and 12 patients aged 7 to &lt; 18 years received vamorolone 2 mg/kg/day. 10 more patients aged 2 to &lt; 4 years and 22 patients aged 7 to &lt; 18 years received vamorolone 6 mg/kg/day.
+
+In this study, efficacy in the 2 to &lt; 4 years age group was explored by assessing the change from baseline to week 12 in the Bayley scales of infant and toddler development-III (Bayley-III) gross motor scale score and in the 7 to &lt; 18 years age group only by assessing the change from baseline to week 12 in the performance of upper limb (PUL) scale.
+
+Based on descriptive statistics, most patients aged 2 to &lt; 4 years (9/10) in the vamorolone 6 mg/kg/day group demonstrated improvements in the Bayley-III gross motor scaled scores from baseline to week 12, compared with patients in the vamorolone 2 mg/kg/day group.
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
@@ -393,7 +407,7 @@ Vamorolone is well absorbed and distributes quickly into tissues. After oral adm
 
 ## Effect of food
 
-Co-administration of vamorolone with a meal reduced Cmax by up to 8% and delayed Tmax by 1 hour, relative to administration under fasting conditions. The overall systemic absorption as measured by AUC was increased by up to 14% when vamorolone was taken with food. In the Chinese adult population, AUCinf and Cmax increased by 24 %  and 25 % respectively and the median Tmax was delayed by 3 hours with a high fat meal. It is unlikely that this food effect will pose a safety concern. Although food does not significantly alter the overall bioavailability of vamorolone, consistent coadministration with food may reduce variability in bioavailability.
+Co-administration of vamorolone with a meal reduced Cmax by up to 8% and delayed Tmax by 1 hour, relative to administration under fasting conditions. The overall systemic absorption as measured by AUC was increased by up to 14% when vamorolone was taken with food. In the Chinese adult population, AUCinf and Cmax increased by 24 % and 25 % respectively and the median Tmax was delayed by 3 hours with a high fat meal. It is unlikely that this food effect will pose a safety concern. Although food does not significantly alter the overall bioavailability of vamorolone, consistent coadministration with food may reduce variability in bioavailability.
 
 ## Distribution
 
@@ -402,6 +416,8 @@ The apparent volume of distribution of vamorolone for a DMD patient with a body 
 ## Biotransformation
 
 Vamorolone is metabolised via multiple Phase I and Phase II pathways, such as glucuronidation, hydroxylation, and reduction. The main plasma and urine metabolites are formed through direct glucuronidation as well as hydrogenation with subsequent glucuronidation. The involvement of specific UGT and CYP enzymes in the metabolism of vamorolone has not been conclusively demonstrated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -417,8 +433,6 @@ The PK are linear and vamorolone exposure increases proportionally with either s
 
 ## Hepatic impairment
 
-<div style=\"page-break-after: always\"></div>
-
 The effect of moderate hepatic impairment (Child-Pugh class B) of vamorolone was studied in humans. Vamorolone Cmax and AUC0inf values were approximately 1.7- and 2.6-fold higher in subjects with moderate hepatic impairment compared to age, weight and sex matched healthy adults. AGAMREE dose should be reduced in patients with moderate hepatic impairment to 2 mg/kg/day for patients up to 40 kg and to 80 mg for patients with a body weight of 40 kg and above
 
 Based on the available data, the increase in vamorolone exposure is proportional to the severity of hepatic dysfunction. Patients with mild hepatic impairment (Child-Pugh class A) are not expected to have a significant increase in exposure and therefore no dose adjustment is recommended. There is no experience with vamorolone in patients with severe hepatic impairment (Child-Pugh class C) and vamorolone should not be administered to these patients (see section 4.3).
@@ -427,13 +441,38 @@ Based on the available data, the increase in vamorolone exposure is proportional
 
 There is no clinical experience in patients with renal impairment. Vamorolone is not excreted unchanged via the kidney, and increases in exposure due to renal impairment are considered unlikely.
 
-## Transporter-mediated interactions
-
-Vamorolone is not an inhibitor of P-gp, BCRP, OATP1B1, OATP1B3, OCT2, OAT1, MATE1, or BSEP. Vamorolone shows weak inhibition of OAT3 and MATE2-K transporters in vitro . Vamorolone is not a substrate of P-gp, BCRP, OATP1A2, OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, MATE2-K or BSEP.
-
 ## Paediatric population
 
-At steady state, the geometric mean Cmax and the geometric mean AUC of vamorolone in children (ages 4-7 years) were estimated by Population PK to 1200 ng/ml (CV%=26.8) and 3650 ng/ml.h respectively after administration of 6 mg/kg vamorolone daily.
+Following oral administration, vamorolone exhibits dose-dependent pharmacokinetics in paediatric patients aged 2 to &lt; 18 years. Exposure (Cmax and AUC) increases with dose; however, no accumulation is observed with once-daily dosing. Tmax occurs at 2 hours across all age groups. The elimination half-life (t1/2) is approximately 2 hours, indicating consistent and rapid clearance. The pharmacokinetic parameters are summarised in table 5 and table 6.
+
+Table 4: Pharmacokinetics parameters across age range after single dose
+
+| Age Group         |   Dose (mg/kg) | C max [ng/mL] Mean [SD] (n)   | AUC inf 3 [ng·h/mL] Mean [SD] (n)   | T max [h] Median [range] (n)   | t 1/2 [h] Mean [SD] (n)   |
+|-------------------|----------------|-------------------------------|-------------------------------------|--------------------------------|---------------------------|
+| 2 to < 4 years 1  |              2 | 299 [176] (10)                | 919 [446] (8)                       | 2 [1-6] (10)                   | ND                        |
+|                   |              6 | 899 [496] (10)                | 2366 [919] (8)                      | 2 [1-6] (10)                   | ND                        |
+| 4 to < 7 years 2  |              2 | 199 [111] (12)                | 761 [352] (12)                      | 2 [1-6] (12)                   | 1.9 [0.8] (12)            |
+| 4 to < 7 years 2  |              6 | 856 [471] (12)                | 3279 [1693] (12)                    | 2 [2-6] (12)                   | 1.9 [1.0] (12)            |
+| 7 to < 18 years 1 |              2 | 318 [221] (12)                | 1387                                | 2 [1-6] (12)                   | 2.4 [0.9] (5)             |
+
+<div style=\"page-break-after: always\"></div>
+
+|    |                 | [727] (5)        |              |                |
+|----|-----------------|------------------|--------------|----------------|
+|  6 | 1014 [414] (22) | 4444 [1670] (13) | 2 [1-6] (22) | 2.1 [1.7] (13) |
+
+Table 5: Pharmacokinetics parameters across age range after multiple dose (2 weeks)
+
+| Age Group         |   Dose (mg/kg) | C max (ng/mL) Mean [SD] (n)   | AUC inf 3 (ng·h/mL)] Mean [SD] (n)   | T max (h) Median [range] (n)   | t 1/2 (h) Mean [SD] (n)   |
+|-------------------|----------------|-------------------------------|--------------------------------------|--------------------------------|---------------------------|
+| 2 to < 4 years 1  |              2 | 431 [287] ( 9 )               | 1516 [506] (7)                       | 2 [1-6] (9)                    | ND                        |
+| 2 to < 4 years 1  |              6 | 936 [722] (8)                 | 3055 [1699] (7)                      | 2 [1-6] (8)                    | ND                        |
+| 4 to < 7 years 2  |              2 | 253 [96] (12)                 | 1138 [467] (12)                      | 2 [2-4] (12)                   | 2 [1] (12)                |
+| 4 to < 7 years 2  |              6 | 970 [270] (12)                | 3606 [897] (12)                      | 2 [1-4] (12)                   | 1 [0.4] (12)              |
+| 7 to < 18 years 1 |              2 | 371 [156] (12)                | 1541 [230] (6)                       | 3 [1-8] (12)                   | 2 [1] (6)                 |
+| 7 to < 18 years 1 |              6 | 843 [366] (22)                | 3990 [1653] (9)                      | 2 [1-6] (22)                   | 2 [0.6] (9)               |
+
+6
 
 ## 5.3 Preclinical safety data
 
@@ -615,9 +654,14 @@ Discard any remaining suspension within 3 months after first opening.
 
 Date of first opening:
 
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -646,8 +690,6 @@ AGAMREE
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -767,7 +809,7 @@ Not applicable
 
 AGAMREE is a steroidal anti-inflammatory medicine that contains the active substance vamorolone.
 
-AGAMREE is used to treat patients aged 4 years and older with Duchenne muscular dystrophy (DMD). DMD is a genetic condition caused by defects in the dystrophin gene, which normally makes a protein that keeps muscles healthy and strong. In patients with DMD, this protein is not generated and the body is unable to grow new muscle cells or replace damaged muscle. This causes the muscles of the body to become weaker over time.
+AGAMREE is used to treat patients aged 2 years and older with Duchenne muscular dystrophy (DMD). DMD is a genetic condition caused by defects in the dystrophin gene, which normally makes a protein that keeps muscles healthy and strong. In patients with DMD, this protein is not generated and the body is unable to grow new muscle cells or replace damaged muscle. This causes the muscles of the body to become weaker over time.
 
 AGAMREE is used to stabilize or improve muscle strength in patients with DMD.
 
@@ -836,7 +878,7 @@ AGAMREE may reduce your natural resistance to infections.
 
 ## Children
 
-Do not give AGAMREE to children under the age of 4 years as it has not been tested in this group of patients.
+Do not give AGAMREE to children under the age of 2 years as it has not been tested in this group of patients.
 
 ## Other medicines and AGAMREE
 
@@ -885,9 +927,9 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose of AGAMREE depends on your body weight and your age.
 
-If you are 4 years or older and your weight is less than 40 kg, the dose is usually 6 mg per kg body weight, taken once a day.
+If you are 2 years or older and your weight is less than 40 kg, the dose is usually 6 mg per kg body weight, taken once a day.
 
-If you are 4 years or older and your weight is 40 kg or more, the dose of is usually 240 mg, taken once a day.
+If you are 2 years or older and your weight is 40 kg or more, the dose of is usually 240 mg, taken once a day.
 
 If you get certain side effects while you are taking AGAMREE (see section 4), your doctor may lower your dose or stop treatment temporarily or permanently. Your doctor may reduce your dose if you suffer from liver disease.
 
@@ -907,6 +949,14 @@ After taking your prescribed dose, disassemble the oral syringe, rinse the syrin
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 |                            | Before taking/giving AGAMREE                                                                                                                                                                                                                                                                                                                                                                                                                                         |                            |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Step 1                     | Make sure the child-resistant bottle cap is tightly secured and shake the bottle                                                                                                                                                                                                                                                                                                                                                                                     | well.                      |
@@ -920,12 +970,16 @@ After taking your prescribed dose, disassemble the oral syringe, rinse the syrin
 
 <!-- image -->
 
-|        | AGAMREE flows back into the bottle and repeat Steps 4 through 6.                                                                                                                                                                                                                                                             |                  |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| Step 6 | Check your dose in millilitres (ml) as prescribed by your doctor. Find the gradation to read the dose in millilitres (ml) on the plunger as shown in the picture on the right. On the depicted scale, each line corresponds to 0.1 ml. In the example, a dose of 1 ml is shown. Do not take more than the dose.              | prescribed daily |
-| Step 7 | Turn the entire bottle right side up and remove the oral syringe carefully from the bottle. Do not hold the oral syringe by the plunger, because the plunger may come                                                                                                                                                        | out.             |
-| Giving | AGAMREE                                                                                                                                                                                                                                                                                                                      |                  |
-| Step 8 | Do not mix the medicine with any liquid before giving. The patient must sit upright when taking the medicine. Empty the syringe directly into the mouth. . Gently press the plunger to empty the syringe. Do not forcefully push on the plunger. To avoid the risk of choking, do not squirt the medicine to the back of the | mouth or throat. |
+<!-- image -->
+
+<!-- image -->
+
+|                | AGAMREE flows back into the bottle and repeat Steps 4 through 6.                                                                                                                                                                                                                                                           |                  |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| Step 6         | Check your dose in millilitres (ml) as prescribed by your doctor. Find the gradation to read the dose in millilitres (ml) on the plunger as shown in the picture on the right. On the depicted scale, each line corresponds to 0.1 ml. In the example, a dose of 1 ml is shown. Do not take more than the dose.            | prescribed daily |
+| Step 7         | Turn the entire bottle right side up and remove the oral syringe carefully from the bottle. Do not hold the oral syringe by the plunger, because the plunger may come                                                                                                                                                      | out.             |
+| Giving AGAMREE |                                                                                                                                                                                                                                                                                                                            |                  |
+| Step 8         | Do not mix the medicine with any liquid before giving. The patient must sit upright when taking the medicine. Empty the syringe directly into the mouth. Gently press the plunger to empty the syringe. Do not forcefully push on the plunger. To avoid the risk of choking, do not squirt the medicine to the back of the | mouth or throat. |
 
 <div style=\"page-break-after: always\"></div>
 

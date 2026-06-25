@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 11:29:08
-document_pages: 47
+document_datetime: 2026-06-23 12:44:32
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epidyolex-epar-product-information_en.pdf
 document_name: epidyolex-epar-product-information_en.pdf
 version: success
-processing_time: 10.6619342
-conversion_datetime: 2026-04-25 16:19:22.440749
+processing_time: 10.4082811
+conversion_datetime: 2026-06-25 17:17:15.72545
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,7 +96,11 @@ If the calculated dose is 100 mg (1 ml) or less, the smaller 1 ml oral syringe s
 
 The calculated dose should be rounded to the nearest graduated increment.
 
-Dose adjustments of other medicinal products used in combination with cannabidiol A physician experienced in treating patients who are on concomitant antiepileptic drugs (AEDs) should evaluate the need for dose adjustments of cannabidiol or of the concomitant medicinal product(s) to manage potential drug interactions (see sections 4.4 and 4.5).
+## Dose adjustments of other medicinal products used in combination with cannabidiol
+
+A physician experienced in treating patients who are on concomitant antiepileptic drugs (AEDs)
+
+should evaluate the need for dose adjustments of cannabidiol or of the concomitant medicinal product(s) to manage potential drug interactions (see sections 4.4 and 4.5).
 
 ## Discontinuation
 
@@ -128,10 +132,10 @@ Caution should be used in patients with moderate (Child-Pugh B) or severe hepati
 
 Table 2: Dose adjustments in patients with moderate or severe hepatic impairment
 
-| Hepatic impairment                         | Starting dose For LGS, DS and TSC   | Maintenance dose For LGS and DS   | Second week For TSC   | Maximal recommended dose For LGS and DS   | Maximal recommended dose For TSC        |
-|--------------------------------------------|-------------------------------------|-----------------------------------|-----------------------|-------------------------------------------|-----------------------------------------|
-| Moderate 1.25 mg/kg twice daily            | (2.5 mg/kg/day)                     | 2.5 mg/kg twice daily (5          | mg/kg/day)            | 5 mg/kg twice daily (10 mg/kg/day)        | 6.25 mg/kg twice daily (12.5 mg/kg/day) |
-| Severe 0.5 mg/kg twice daily (1 mg/kg/day) | 1 mg/kg twice daily (2              | mg/kg/day)                        | mg/kg/day)            | 2 mg/kg twice daily (4 mg/kg/day)*        | 2.5 mg/kg twice daily (5 mg/kg/day)*    |
+| Starting dose For LGS, DS and TSC      | Maintenance dose For LGS and DS   | Second week For TSC               | Maximal recommended dose For LGS and DS   | Maximal recommended dose For TSC        |
+|----------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|-----------------------------------------|
+| 1.25 mg/kg twice daily (2.5 mg/kg/day) | 2.5 mg/kg twice daily (5          | mg/kg/day)                        | 5 mg/kg twice daily (10 mg/kg/day)        | 6.25 mg/kg twice daily (12.5 mg/kg/day) |
+| 0.5 mg/kg twice daily (1 mg/kg/day)    | 1 mg/kg twice daily (2 mg/kg/day) | 1 mg/kg twice daily (2 mg/kg/day) | 2 mg/kg twice daily (4 mg/kg/day)*        | 2.5 mg/kg twice daily (5 mg/kg/day)*    |
 
 *Higher doses of cannabidiol may be considered in patients with severe hepatic impairment where the potential benefits outweigh the risks.
 
@@ -213,11 +217,9 @@ Patients should be monitored for signs of suicidal behaviour and ideation and ap
 
 ## Decreased weight
 
-Cannabidiol can cause weight loss or decreased weight gain (see section 4.8). In LGS, DS and TSC patients, this appeared to be dose-related. In some cases, decreased weight was reported as an adverse event. Decreased appetite and weight loss may result in slightly reduced height gain. Continuous
+Cannabidiol can cause weight loss or decreased weight gain (see section 4.8). In LGS, DS and TSC patients, this appeared to be dose-related. In some cases, decreased weight was reported as an adverse event. Decreased appetite and weight loss may result in slightly reduced height gain. Continuous weight loss/absence of weight gain should be periodically checked to evaluate if cannabidiol treatment should be continued.
 
 <div style=\"page-break-after: always\"></div>
-
-weight loss/absence of weight gain should be periodically checked to evaluate if cannabidiol treatment should be continued.
 
 ## Excipients with known effect
 
@@ -400,7 +402,9 @@ In controlled studies for LGS, DS (receiving 10 or 20 mg/kg/day) and for TSC (re
 
 Less than 1% of cannabidiol-treated patients had ALT or AST levels greater than 20 times the ULN. There have been cases of transaminase elevations associated with hospitalisation in patients taking cannabidiol.
 
-Risk factors for hepatocellular injury Concomitant valproate and clobazam, dose of cannabidiol and baseline transaminase elevations
+## Risk factors for hepatocellular injury
+
+Concomitant valproate and clobazam, dose of cannabidiol and baseline transaminase elevations
 
 ## Concomitant valproate and clobazam
 
@@ -440,11 +444,9 @@ In the clinical trials, the first onset of diarrhoea was typically in the first 
 
 Cannabidiol can cause decreases in haemoglobin and haematocrit. In LGS, DS and TSC patients, the mean decrease in haemoglobin from baseline to end of treatment was -0.36 g/dL in cannabidiol-treated patients receiving 10, 20, or 25 mg/kg/day. A corresponding decrease in haematocrit was also observed, with a mean change of -1.3% in cannabidiol-treated patients.
 
-Twenty-seven percent (27%) of cannabidiol-treated patients with LGS and DS and 38% of cannabidiol-treated patients (25 mg/kg/day) with TSC developed a new laboratory-defined anaemia
+Twenty-seven percent (27%) of cannabidiol-treated patients with LGS and DS and 38% of cannabidiol-treated patients (25 mg/kg/day) with TSC developed a new laboratory-defined anaemia during the course of the study (defined as a normal haemoglobin concentration at baseline, with a reported value less than the lower limit of normal at a subsequent time point).
 
 <div style=\"page-break-after: always\"></div>
-
-during the course of the study (defined as a normal haemoglobin concentration at baseline, with a reported value less than the lower limit of normal at a subsequent time point).
 
 ## Increases in creatinine
 
@@ -615,13 +617,13 @@ Table 6 summarises the primary endpoint of percent reduction from baseline in TS
 
 Table 6: Primary and ≥ 50% responder key secondary outcome measures in the TSC study (overall patient population)
 
-|                                                                                                         | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|                                                                                                         | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
-| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                           | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
-| TSC-associated seizures %reduction from baseline Percent reduction compared with placebo 95% CI P-value | 48.6% 30.1% 13.9%, 43.3%                                                      | 26.5%                                                                         |
-|                                                                                                         | 0.0009 REDUCTION IN TSC-associated seizures (RESPONDER                        |                                                                               |
-| ANALYSIS) Percentage of patients with a ≥ 50% reduction P-value b                                       | 36% 0.0692                                                                    | 22.4%                                                                         |
+|                                                                                                  | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|                                                                                                  | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
+| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                    | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
+| TSC-associated seizures %reduction from baseline Percent reduction compared placebo              | 48.6%                                                                         | 26.5%                                                                         |
+| with 95% CI P-value                                                                              | 30.1% 13.9%, 43.3% 0.0009                                                     |                                                                               |
+| Key secondary endpoint - ≥ 50% ANALYSIS) Percentage of patients with a ≥ 50% reduction P-value b | REDUCTION IN TSC-associated 36% 0.0692                                        | (RESPONDER 22.4%                                                              |
 
 ## Subgroup analyses with and without clobazam treatment
 
@@ -737,11 +739,9 @@ Subjects with moderate and severe hepatic impairment showed higher plasma concen
 
 ## In LGS
 
-In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events namely elevated
+In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events namely elevated ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
 
 <div style=\"page-break-after: always\"></div>
-
-ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
 
 ## In TSC
 
@@ -771,7 +771,7 @@ The in vivo interactions for clobazam, everolimus and other concomitant AEDs are
 
 Table 7: Drug interactions between cannabidiol and concomitant antiepileptic drugs
 
-| Concomitant AED   | Influence of AED on cannabidiol                                                                                                                                                                    | Influence of cannabidiol on AED                                                                                                                                                             |
+| Concomitant AED   | Influence ofAED on cannabidiol                                                                                                                                                                     | Influence of cannabidiol on AED                                                                                                                                                             |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Clobazam          | No effect on cannabidiol levels. Interaction resulting in an increase in exposure of the active metabolite 7-OH-CBD in HV* studies. a                                                              | No effect on clobazam levels. Interaction resulting in approximately 3-fold increase in N-desmethylclobazam metabolite exposure. b                                                          |
 | Valproate         | No effect on CBD or its metabolites.                                                                                                                                                               | No effect on valproic acid exposure or exposure to the putative hepatotoxic metabolite 2-propyl-4-pentenoic acid (4-ene-VPA).                                                               |
@@ -802,7 +802,7 @@ approximately 13 times greater than the anticipated exposure in humans at the MR
 
 7-COOH-CBD: In rats, an EFD study evaluated doses of 25, 50 and 100 mg/kg/day 7-COOH-CBD. Embryofoetal malformations and variations were observed at the highest dose tested. There were no other drug-related maternal or developmental effects. The highest no-effect dose for embryofoetal toxicity in rats was associated with maternal plasma 7-COOH-CBD exposures (AUC) approximately 4 times greater than the anticipated exposure in humans at the MRHD of 25 mg/kg/day.
 
-Cannabidiol: A pre- and post-natal development study was performed in rats at doses of 75, 150, or 250 mg/kg/day. Decreased growth, delayed sexual maturation, behavioural changes (decreased activity), and adverse effects on male reproductive organ development (small testes in adult offspring) and fertility were observed in the offspring at doses ≥ 150 mg/kg/day. The NOAEL was associated with maternal plasma cannabidiol exposures approximately 7 times that in humans at the MRHD of 25 mg/kg/day.
+Cannabidiol: A pre- and post-natal development study was performed in rats at doses of 75, 150, or 250 mg/kg/day. Decreased growth, delayed sexual maturation, behavioural changes (decreased activity), and adverse effects on male reproductive organ development (small testes in adult offspring) and fertility were observed in the offspring at doses ≥ 150 mg/kg/day. The NOAEL was associated with maternal plasma cannabidiol exposures approximately 7times that in humans at the MRHD  of 25 mg/kg/day.
 
 7-COOH-CBD: A pre- and post-natal development study was performed in rats at doses of 20, 40 or 75 mg/kg/day 7-COOH-CBD. Administration of these doses was well tolerated, and no adverse effects were observed on maternal animals or subsequent offspring until adulthood. The no-effect dose for pre- and post-natal developmental toxicity in rats was associated with maternal plasma 7-COOH-CBD exposures approximately 7 times that in humans at the MRHD of 25 mg/kg/day.
 
@@ -858,7 +858,7 @@ Nasogastric tubes made of silicone, with a length of more than 50 cm and maximum
 
 After administration, the enteral feeding tube should be flushed at least once with room temperature water. If more than one medicinal product is being administered, the tube should be flushed between each medicinal product. It is recommended that the flushing volume is approximately 5 times the priming volume of the tube (with a minimum of 3 ml for the shortest/narrowest tubes to a maximum of 20 ml for the longest/largest tubes). The flushing volume may need to be modified in patients with fluid restrictions.
 
-Enteral tubes with ENFit ®  connections require the use of ENFit compatible syringes and bottle adaptors. To maximise dose accuracy, 1 ml syringes should be used for doses ≤ 1 ml.
+Enteral tubes with ENFit ® connections require the use of ENFit compatible syringes and bottle adaptors. To maximise dose accuracy, 1 ml syringes should be used for doses ≤ 1 ml.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -885,8 +885,6 @@ Date of latest renewal: 26 July 2024
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency, https://www.ema.europa.eu
-
-26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -942,9 +940,7 @@ Oral solution - Carton containing 100 ml (1 x 100 ml bottle) oral solution
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epidyolex 100 mg/ml oral solution
-
-cannabidiol
+Epidyolex 100 mg/ml oral solution cannabidiol
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -986,9 +982,17 @@ Discard unused portion 12 weeks after first opening. Date of first opening:
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1003,9 +1007,7 @@ EU/1/19/1389/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 epidyolex
@@ -1014,11 +1016,10 @@ epidyolex
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1028,9 +1029,7 @@ Oral solution - Carton containing 300 ml (3 x 100 ml bottles) oral solution
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epidyolex 100 mg/ml oral solution
-
-cannabidiol
+Epidyolex 100 mg/ml oral solution cannabidiol
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1077,7 +1076,7 @@ Discard unused portion 12 weeks after first opening. Date of first opening:
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1089,8 +1088,7 @@ Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dubli
 
 EU/1/19/1389/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+13. BATCH NUMBER
 
 Lot
 
@@ -1104,7 +1102,7 @@ epidyolex
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
 |-------|------------------------------------------|
 
 PC SN
@@ -1324,21 +1322,9 @@ The 3-bottle pack contains the following items:
 
 <div style=\"page-break-after: always\"></div>
 
-oral syringes
-
-Package Leaflet
-
 - a plastic bag containing two 5 ml oral syringes and two bottle adaptors
 
-Two 5ml oral syringes
-
-2x5 ml syringes
-
 A spare syringe of each size is provided in the pack in case the first one is damaged or lost. For the 3-bottle pack, all three adaptors from both syringe packs are required.
-
-2×1 ml syringes
-
-&amp; 1 adaptor in plastic bag
 
 <!-- image -->
 
@@ -1353,34 +1339,10 @@ It is important that you use the correct oral syringe to measure your dose. Your
 
 <div style=\"page-break-after: always\"></div>
 
-1 ml Syringe
-
-0.3
-
-0.4-
-
-0.5
-
-0.6
-
-Remove the child-resistant cap on the bottle by pushing the cap
-
-5 ml Syringe
-
 <!-- image -->
 
 2. Remove the child-resistant cap on the bottle by pushing the cap down whilst turning the cap anti-clockwise.
-
-Push the bottle adaptor firmly into the neck of the bottle, and
-
-make sure it is fully inserted. The
-
 3. Push the bottle adaptor firmly into the neck of the bottle, and make sure it is fully inserted. The adaptor could come off and cause choking if it is not fully inserted.
-
-Insert the tip of the correct oral syringe fully into the bottle
-
-down.
-
 4. Insert the tip of the correct oral syringe fully into the bottle adaptor, and with the oral syringe in place, turn the bottle upside down.
 
 <!-- image -->
@@ -1391,9 +1353,7 @@ down.
 
 <div style=\"page-break-after: always\"></div>
 
-1 ml Syringe
-
-5. Slowly pull back the plunger of the syringe, so the volume (number of ml) of solution needed is drawn into the syringe. Line up the end of the plunger with the prescribed volume marking required, as shown opposite. 5 ml Syringe
+5. Slowly pull back the plunger of the syringe, so the volume (number of ml) of solution needed is drawn into the syringe. Line up the end of the plunger with the prescribed volume marking required, as shown opposite.
 
 If there is an air bubble in the syringe, push the liquid back into the bottle whilst keeping the bottle upside down, and repeat Step 5 until the bubble has gone.
 
@@ -1403,12 +1363,6 @@ If there is an air bubble in the syringe, push the liquid back into the bottle w
 If the dose is more than 5 ml, repeat Steps 4 to 7 to give the remaining dose using the 5 ml oral syringe.
 
 8. Screw the child-resistant cap back on the bottle tightly, by turning the cap clockwise - you do not need to remove the bottle adaptor, as the cap will fit over it.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 
@@ -1519,36 +1473,17 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland e-mail: medinfo-int@jazzpharma.com
+Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+
+Tel: +353 1 968 1631
+
+e-mail: medinfo-int@jazzpharma.com
 
 ## Manufacturer
 
 Jazz Pharmaceuticals Netherlands B.V., Stationsplein 13A, 3818 LE, Amersfoort The Netherlands e-mail: medinfo-int@jazzpharma.com
 
-For any information about this medicine, please contact the medical information representative of the Marketing Authorisation Holder:
-
-| België/Belgique/Belgien Tél/Tel: +31 207176898   | Lietuva Tel: +353 1 968 1631                |
-|--------------------------------------------------|---------------------------------------------|
-| България Teл.: +353 1 968 1631                   | Luxembourg/Luxemburg Tél/Tel: +31 207176898 |
-| Česká republika Tel: +353 1 968 1631             | Magyarország Tel.: +353 1 968 1631          |
-
-<div style=\"page-break-after: always\"></div>
-
-| Danmark Tlf: +45 69918419                                              | Malta Tel: +353 1 968 1631               |
-|------------------------------------------------------------------------|------------------------------------------|
-| Deutschland Tel: +49(0)3022957821                                      | Nederland Tel: +31 207176898             |
-| Eesti Tel: +353 1 968 1631                                             | Norge Tlf: +353 1 968 1631               |
-| Ελλάδα Τηλ: +353 1 968 1631                                            | Österreich Tel: +353 1 968 1631          |
-| España Jazz Pharmaceuticals Iberia, S.L. Tel: +34 914142493            | Polska Tel.: +353 1 968 1631             |
-| France Exploitant : Jazz Pharmaceuticals France SAS Tél: +33 176728925 | Portugal Tel: +351 308805626             |
-| Hrvatska Tel: +353 1 968 1631                                          | România Tel: +353 1 968 1631             |
-| Ireland Tel: +353 1 968 1631                                           | Slovenija Tel: +353 1 968 1631           |
-| Ísland Sími: +353 1 968 1631                                           | Slovenská republika Tel: +353 1 968 1631 |
-| Italia Jazz Healthcare Italy S.r.l. Tel: +39 (0)800959164              | Suomi/Finland Puh/Tel: +353 1 968 1631   |
-| Κύπρος Τηλ: +353 1 968 1631                                            | Sverige Tel: +46 406688521               |
-| Latvija Tel: +353 1 968 1631                                           |                                          |
-
-## This leaflet was last revised in
+## This leaflet was last revised in .
 
 ## Other sources of information
 

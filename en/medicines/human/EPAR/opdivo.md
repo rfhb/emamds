@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-02 16:00:00
+document_datetime: 2026-06-23 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdivo.html
 document_name: opdivo.html
 version: success
-processing_time: 0.2367934
-conversion_datetime: 2026-06-07 11:52:33.873773
+processing_time: 0.4527754
+conversion_datetime: 2026-06-25 16:46:12.232025
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Opdivo
-
 # Opdivo
 
 [RSS](/en/individual-human-medicine.xml/65614)
@@ -114,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Opdivo](#news-on)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-76214)
 - [More information on Opdivo](#related-medicines)
 - [Topics](#topics)
 
@@ -127,27 +50,16 @@ Page contents
 Opdivo is a cancer medicine used to treat the following:
 
 - melanoma, a type of skin cancer;
-
 - non-small cell lung cancer (NSCLC), a type of lung cancer;
-
 - advanced renal cell carcinoma, a kidney cancer;
-
 - classical Hodgkin lymphoma, a cancer of the lymphocytes (a type of white blood cell);
-
 - squamous cell cancer of the head and neck (SCCHN);
-
 - urothelial cancer, a cancer of the bladder and urinary tract;
-
 - malignant pleural mesothelioma, a cancer of the lining of the lungs;
-
 - a kind of cancer of the colon or rectum (lower part of the gut) that is described as microsatellite instability high (MSI-H) or mismatch repair deficient (dMMR);
-
 - squamous oesophageal cancer, a cancer of the oesophagus (the passage from mouth to stomach);
-
 - oesophageal cancer and gastro-oesophageal junction cancer (cancer at the junction between the stomach and the oesophagus) after chemotherapy, radiotherapy and surgery;
-
 - gastric (stomach), gastro-oesophageal junction or oesophageal adenocarcinoma;
-
 - hepatocellular carcinoma (HCC), a type of liver cancer, in previously untreated patients.
 
 Opdivo is used in adults; for melanoma and advanced classical Hodgkin lymphoma, it is also used in adolescents from 12 years of age. It is also used in patients aged 5 to 30 years with classical Hodgkin lymphoma whose cancer did not respond to, or came back after, one previous treatment.
@@ -316,15 +228,149 @@ Reference Number: EMADOC-1829012207-50703
 
 English (EN) (198.63 KB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
 
 [View](/en/documents/overview/opdivo-epar-medicine-overview_en.pdf)
 
+[Other languages (22)](#file-language-dropdown-756)
+
+български (BG) (216.71 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/bg/documents/overview/opdivo-epar-medicine-overview_bg.pdf)
+
+español (ES) (190.86 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/es/documents/overview/opdivo-epar-medicine-overview_es.pdf)
+
+čeština (CS) (218.68 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/cs/documents/overview/opdivo-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (190.42 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/da/documents/overview/opdivo-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (200.26 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/de/documents/overview/opdivo-epar-medicine-overview_de.pdf)
+
+eesti (ET) (207.45 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/et/documents/overview/opdivo-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (219.59 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/el/documents/overview/opdivo-epar-medicine-overview_el.pdf)
+
+français (FR) (191.45 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/fr/documents/overview/opdivo-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (212.23 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/hr/documents/overview/opdivo-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (187.54 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/it/documents/overview/opdivo-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (214.95 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/lv/documents/overview/opdivo-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (208.91 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/lt/documents/overview/opdivo-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (216.72 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/hu/documents/overview/opdivo-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (215.34 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/mt/documents/overview/opdivo-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (199.9 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/nl/documents/overview/opdivo-epar-medicine-overview_nl.pdf)
+
+polski (PL) (226.11 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/pl/documents/overview/opdivo-epar-medicine-overview_pl.pdf)
+
+português (PT) (189.42 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/pt/documents/overview/opdivo-epar-medicine-overview_pt.pdf)
+
+română (RO) (205.06 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/ro/documents/overview/opdivo-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (216.97 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/sk/documents/overview/opdivo-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (213.77 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/sl/documents/overview/opdivo-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (186.36 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/fi/documents/overview/opdivo-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (189.1 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 22/06/2026
+
+[View](/sv/documents/overview/opdivo-epar-medicine-overview_sv.pdf)
+
 Opdivo : EPAR - Risk management plan
 
-English (EN) (2.19 MB - PDF)
+English (EN) (13.49 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/en/documents/rmp/opdivo-epar-risk-management-plan_en.pdf)
 
@@ -332,167 +378,168 @@ English (EN) (2.19 MB - PDF)
 
 Opdivo : EPAR - Product information
 
-English (EN) (4.05 MB - PDF)
+English (EN) (4.15 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/opdivo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-957)
 
-български (BG) (4.83 MB - PDF)
+български (BG) (4.53 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/opdivo-epar-product-information_bg.pdf)
 
-español (ES) (4.11 MB - PDF)
+español (ES) (4.14 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/es/documents/product-information/opdivo-epar-product-information_es.pdf)
 
-čeština (CS) (4.78 MB - PDF)
+čeština (CS) (4.8 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/opdivo-epar-product-information_cs.pdf)
 
-dansk (DA) (4.36 MB - PDF)
+dansk (DA) (4.37 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/opdivo-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.33 MB - PDF)
+Deutsch (DE) (4.36 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/opdivo-epar-product-information_de.pdf)
 
-eesti (ET) (4.36 MB - PDF)
+eesti (ET) (4.37 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/opdivo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.57 MB - PDF)
+ελληνικά (EL) (3.96 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/opdivo-epar-product-information_el.pdf)
 
-français (FR) (4.27 MB - PDF)
+français (FR) (3.48 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/opdivo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.87 MB - PDF)
+hrvatski (HR) (3.89 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/opdivo-epar-product-information_hr.pdf)
 
-italiano (IT) (4.12 MB - PDF)
+italiano (IT) (4.14 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/opdivo-epar-product-information_it.pdf)
 
-latviešu (LV) (4.41 MB - PDF)
+latviešu (LV) (4.45 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/opdivo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.49 MB - PDF)
+lietuvių (LT) (4.48 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/opdivo-epar-product-information_lt.pdf)
 
-magyar (HU) (4.09 MB - PDF)
+magyar (HU) (4.1 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/opdivo-epar-product-information_hu.pdf)
 
-Malti (MT) (4.51 MB - PDF)
+Malti (MT) (3.51 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/mt/documents/product-information/opdivo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.11 MB - PDF)
+Nederlands (NL) (3.52 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/opdivo-epar-product-information_nl.pdf)
 
-polski (PL) (4.56 MB - PDF)
+polski (PL) (4.88 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/opdivo-epar-product-information_pl.pdf)
 
-português (PT) (4.09 MB - PDF)
+português (PT) (4.36 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/opdivo-epar-product-information_pt.pdf)
 
-română (RO) (3.86 MB - PDF)
+română (RO) (4.61 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/ro/documents/product-information/opdivo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.84 MB - PDF)
+slovenčina (SK) (3.96 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/opdivo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.51 MB - PDF)
+slovenščina (SL) (4.53 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/opdivo-epar-product-information_sl.pdf)
 
-suomi (FI) (4.25 MB - PDF)
+suomi (FI) (4.55 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/opdivo-epar-product-information_fi.pdf)
 
-svenska (SV) (4.14 MB - PDF)
+svenska (SV) (4.18 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/opdivo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (4.08 MB - PDF)
+Íslenska (IS) (3.49 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/is/documents/product-information/opdivo-epar-product-information_is.pdf)
 
-norsk (NO) (4.06 MB - PDF)
+norsk (NO) (4.07 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 02/06/2026
+**First published:** 16/07/2015 **Last updated:** 23/06/2026
 
 [View](/no/documents/product-information/opdivo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000304938
+**Latest procedure affecting product information:** VR/0000319172
 
-28/05/2026
+07/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -510,7 +557,7 @@ English (EN) (70.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-255)
 
 български (BG) (80.3 KB - PDF)
 
@@ -658,33 +705,24 @@ norsk (NO) (51.01 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Opdivo
-
-Active substance
-
-nivolumab
-
-International non-proprietary name (INN) or common name
-
-nivolumab
-
-Therapeutic area (MeSH)
-
-- Melanoma
-- Hodgkin Disease
-- Carcinoma, Renal Cell
-- Carcinoma, Non-Small-Cell Lung
-- Carcinoma, Transitional Cell
-- Squamous Cell Carcinoma of Head and Neck
-- Urologic Neoplasms
-- Mesothelioma
-- Colorectal Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FF01
+- **Name of medicine**
+    - Opdivo
+- **Active substance**
+    - nivolumab
+- **International non-proprietary name (INN) or common name**
+    - nivolumab
+- **Therapeutic area (MeSH)**
+        - Melanoma
+        - Hodgkin Disease
+        - Carcinoma, Renal Cell
+        - Carcinoma, Non-Small-Cell Lung
+        - Carcinoma, Transitional Cell
+        - Squamous Cell Carcinoma of Head and Neck
+        - Urologic Neoplasms
+        - Mesothelioma
+        - Colorectal Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FF01
 
 ### Pharmacotherapeutic group
 
@@ -694,7 +732,7 @@ Antineoplastic agents
 
 **Melanoma**
 
-- Opdivo as monotherapy or in combination with ipilimumab is indicated for the treatment of advanced (unresectable or metastatic) melanoma in adults and adolescents 12 years of age and older. Relative to nivolumab monotherapy, an increase in progression-free survival (PFS) and overall survival (OS) for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression (see sections 4.4 and 5.1).
+- Opdivo as monotherapy or in combination with ipilimumab is indicated for the treatment of advanced (unresectable or metastatic) melanoma in adults and adolescents 12 years of age and older.  Relative to nivolumab monotherapy, an increase in progression-free survival (PFS) and overall survival (OS) for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression (see sections 4.4 and 5.1).
 
 **Adjuvant treatment of melanoma**
 
@@ -744,7 +782,7 @@ Antineoplastic agents
 
 **Mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC)**
 
-- Opdivo in combination with ipilimumab is indicated for the treatment of adult patients with mismatch repair deficient or microsatellite instability-high colorectal cancer in the following settings: - first-line treatment of unresectable or metastatic colorectal cancer; - treatment of metastatic colorectal cancer after prior fluoropyrimidine-based combination chemotherapy (see section 5.1).
+- Opdivo in combination with ipilimumab is indicated for the treatment of adult patients with mismatch repair deficient or microsatellite instability-high colorectal cancer in the following settings:  - first-line treatment of unresectable or metastatic colorectal cancer;  - treatment of metastatic colorectal cancer after prior fluoropyrimidine-based combination chemotherapy (see section 5.1).
 
 **Oesophageal squamous cell carcinoma (OSCC)**
 
@@ -766,27 +804,16 @@ Antineoplastic agents
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003985
-
-Marketing authorisation holder
-
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Opinion adopted
-
-23/04/2015
-
-Marketing authorisation issued
-
-19/06/2015
-
-Revision
-
-74
+- **EMA product number**
+    - EMEA/H/C/003985
+- **Marketing authorisation holder**
+    - Bristol-Myers Squibb Pharma EEIG Plaza 254  Blanchardstown Corporate Park 2  Dublin 15  D15 T867  Ireland
+- **Opinion adopted**
+    - 23/04/2015
+- **Marketing authorisation issued**
+    - 19/06/2015
+- **Revision**
+    - 75
 
 ## Assessment history
 
@@ -798,9 +825,9 @@ Collapse section
 
 Opdivo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (204.71 KB - PDF)
+English (EN) (207.03 KB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 02/06/2026
+**First published:** 21/11/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/procedural-steps-after/opdivo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1302,7 +1329,7 @@ English (EN) (77.43 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-867)
 
 български (BG) (122.99 KB - PDF)
 
@@ -1584,7 +1611,7 @@ English (EN) (4.67 MB - PDF)
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0003-epar-assessment-report-variation_en.pdf)
 
-Opdivo-H-C-003985-II-0002  : EPAR - Scientific Discussion - Variation
+Opdivo-H-C-003985-II-0002 : EPAR - Scientific Discussion - Variation
 
 Adopted Reference Number: EMA/246304/2016
 
@@ -1804,164 +1831,6 @@ English (EN) (67.9 KB - PDF)
 
 24/04/2015
 
-## Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Opdivo : EPAR - Product information - tracked changes
-
-English (EN) (3.08 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/en/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-666)
-
-български (BG) (3.04 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/bg/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (3.06 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/es/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (2.99 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/cs/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (2.95 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/da/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (2.84 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/de/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_de.docx)
-
-eesti (ET) (2.98 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/et/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (3.06 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/el/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (3 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/fr/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (2.98 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/hr/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_hr.docx)
-
-italiano (IT) (2.95 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/it/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_it.docx)
-
-latviešu (LV) (2.96 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/lv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių (LT) (2.97 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/lt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (3.03 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/hu/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (2.95 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/mt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (2.97 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/nl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_nl.docx)
-
-polski (PL) (2.98 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/pl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (2.99 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/pt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (2.98 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/ro/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (2.98 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/sk/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (2.99 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/sl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sl.docx)
-
-suomi (FI) (2.99 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/fi/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (2.79 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/sv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sv.docx)
-
-Íslenska (IS) (2.96 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/is/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_is.docx)
-
-norsk (NO) (2.94 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/no/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_no.docx)
-
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC003985II0002) (variation II/0002)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003985II0003) (variation II/0003)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC003985II0008) (variation II/0008)
@@ -1985,6 +1854,6 @@ norsk (NO) (2.94 MB - DOCX)
 
 **This page was last updated on**
 
-02/06/2026
+23/06/2026
 
 ## Share this page

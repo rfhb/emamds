@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 09:32:53
+document_datetime: 2026-06-23 16:37:00
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qalsody-epar-product-information_en.pdf
 document_name: qalsody-epar-product-information_en.pdf
 version: success
-processing_time: 6.6082198
-conversion_datetime: 2026-05-13 13:21:16.099239
+processing_time: 6.5811719
+conversion_datetime: 2026-06-25 17:02:44.691218
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -406,7 +406,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-42 months
+60 months
 
 ## Temporary storage conditions
 
@@ -869,9 +869,7 @@ Tel: + 370 5 259 6176
 
 ТП ЕВОФАРМА
 
-Teл
-
-.: +359 2 962 12 00
+Teл.: +359 2 962 12 00
 
 ## Luxembourg/Luxemburg
 
@@ -977,7 +975,7 @@ Tel: + 39 02 5849901
 
 Genesis Pharma Cyprus Ltd
 
-Τηλ : + 357 22765715
+Τηλ: + 357 22765715
 
 ## Latvija
 

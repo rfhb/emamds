@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-04 08:38:43
-document_pages: 58
+document_datetime: 2026-06-23 13:13:48
+document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tagrisso-epar-product-information_en.pdf
 document_name: tagrisso-epar-product-information_en.pdf
 version: success
-processing_time: 24.0001083
-conversion_datetime: 2025-12-21 23:11:55.197749
+processing_time: 25.8904721
+conversion_datetime: 2026-06-25 17:01:06.176464
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,12 +128,6 @@ Table 1. Recommended dose modifications for TAGRISSO
 | Other                        | If Grade 3 or higher adverse reaction improves to Grade 0-2 after withholding of TAGRISSO for up to 3 weeks | TAGRISSO may be restarted at the same dose (80 mg) or a lower dose (40 mg)                                                                                                      |
 | Other                        | Grade 3 or higher adverse reaction that does not improve to Grade 0-2 after withholding for up to 3 weeks   | Permanently discontinue TAGRISSO                                                                                                                                                |
 
-a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
-
-b Refer to section 4.4.
-
-c ILD/Pneumonitis including ILD/Pneumonitis following definitive platinum-based chemoradiation therapy. ECGs: Electrocardiograms; QTc: QT interval corrected for heart rate
-
 ## Combination therapy
 
 When TAGRISSO is used in combination, any of the treatment components should be dose modified, as appropriate. For TAGRISSO dose modification instructions, see Table 1. The pemetrexed, cisplatin or carboplatin dose should be modified in accordance with the instructions in their respective Summary of Product Characteristics. Cisplatin and/or carboplatin should be used for up to 4 cycles.
@@ -144,11 +138,9 @@ No dose adjustment is required due to patient age, body weight, gender, ethnicit
 
 ## Hepatic impairment
 
-Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population
+Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) &gt;ULN or total bilirubin &gt;1.0 to 1.5 times ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST). The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment. Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) &gt;ULN or total bilirubin &gt;1.0 to 1.5 times ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST). The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment. Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
 
 ## Renal impairment
 
@@ -206,11 +198,9 @@ Case reports of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (T
 
 QTc interval prolongation occurs in patients treated with TAGRISSO. QTc interval prolongation may lead to an increased risk for ventricular tachyarrhythmias (e.g. torsade de pointes) or sudden death. No QTc related arrythmias were reported in ADAURA, LAURA, FLAURA, FLAURA2 or AURA studies (see section 4.8). Patients with clinically important abnormalities in rhythm and conduction as measured by resting electrocardiogram (ECG) (e.g. QTc interval greater than 470 msec) were excluded from these studies (see section 4.8).
 
-When possible, the use of TAGRISSO in patients with congenital long QT syndrome should be avoided. Periodic monitoring with electrocardiograms (ECGs) and electrolytes should be considered in
+When possible, the use of TAGRISSO in patients with congenital long QT syndrome should be avoided. Periodic monitoring with electrocardiograms (ECGs) and electrolytes should be considered in patients with congestive heart failure, electrolyte abnormalities, or those who are taking medicinal products that are known to prolong the QTc interval. Treatment should be withheld in patients who develop a QTc interval greater than 500 msec on at least 2 separate ECGs until the QTc interval is less than 481 msec or recovery to baseline if the QTc interval is greater than or equal to 481 msec, then resume TAGRISSO at a reduced dose as described in Table 1. TAGRISSO should be permanently discontinued in patients who develop QTc interval prolongation in combination with any of the following: Torsade de pointes, polymorphic ventricular tachycardia, signs/symptoms of serious arrhythmia.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with congestive heart failure, electrolyte abnormalities, or those who are taking medicinal products that are known to prolong the QTc interval. Treatment should be withheld in patients who develop a QTc interval greater than 500 msec on at least 2 separate ECGs until the QTc interval is less than 481 msec or recovery to baseline if the QTc interval is greater than or equal to 481 msec, then resume TAGRISSO at a reduced dose as described in Table 1. TAGRISSO should be permanently discontinued in patients who develop QTc interval prolongation in combination with any of the following: Torsade de pointes, polymorphic ventricular tachycardia, signs/symptoms of serious arrhythmia.
 
 ## Changes in cardiac contractility
 
@@ -318,7 +308,7 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA. Wi
 |--------------------------------------|----------------------------------------------------------|----------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | term                                 | CIOMS descriptor/ overall frequency (all CTCAE grades) c | Frequency of CTCAE grade 3 or higher c | CIOMS descriptor/ overall frequency (all CTCAE grades) c     | Frequency of CTCAE grade 3 or higher c                       |
 | Infections and infestations          | Infections and infestations                              | Infections and infestations            | Infections and infestations                                  | Infections and infestations                                  |
-| Hepatitis B reactivation d           | Not known                                                | Not known                              | 0%                                                           | 0%                                                           |
+| Hepatitis B reactivation d           | Not known                                                |                                        | 0%                                                           | 0%                                                           |
 | Blood and lymphatic system disorders | Blood and lymphatic system disorders                     | Blood and lymphatic system disorders   | Blood and lymphatic system disorders                         | Blood and lymphatic system disorders                         |
 | Aplastic anaemia                     | Rare (0.05%)                                             | 0.05%                                  | 0%                                                           | 0%                                                           |
 
@@ -341,6 +331,7 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA. Wi
 | Epistaxis                                       | Common (6%)                                              | 0%                                              | Common (7%)                                                  | 0.4%                                                         |
 | Interstitial lung disease                       | Common (4.3%) g                                          | 1.4% h                                          | Common (3.3%) i                                              | 0.7% j                                                       |
 | Radiation Pneumonitis k                         | Common (4%)                                              | 0.2%                                            | 0%                                                           | 0%                                                           |
+| Eosinophilic Pneumonia d                        | Not known                                                |                                                 | 0%                                                           | 0%                                                           |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                               | Gastrointestinal disorders                      | Gastrointestinal disorders                                   | Gastrointestinal disorders                                   |
 | Diarrhoea                                       | Very common (46%)                                        | 1.5%                                            | Very common (43%)                                            | 2.9%                                                         |
 | Stomatitis l                                    | Very common (23%)                                        | 0.4%                                            | Very common (31%)                                            | 0.4%                                                         |
@@ -356,13 +347,13 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA. Wi
 | Erythema multiforme r                           | Uncommon (0.3%)                                          | 0%                                              | Common (1.4%)                                                | 0.7%                                                         |
 | Cutaneous vasculitis s                          | Uncommon (0.2%)                                          | Uncommon (0.2%)                                 | 0%                                                           | 0%                                                           |
 | Stevens-Johnson syndrome t                      | Rare (0.02%)                                             | Rare (0.02%)                                    | 0%                                                           | 0%                                                           |
-| Toxic Epidermal Necrolysis d                    | Not known                                                | Not known                                       | 0%                                                           | 0%                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC and MedDRA term                                                      | TAGRISSO a                                                                      | TAGRISSO a                                                                      | TAGRISSO with pemetrexed and platinum-based chemotherapy b                      | TAGRISSO with pemetrexed and platinum-based chemotherapy b                      |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | MedDRA SOC and MedDRA term                                                      | CIOMS descriptor/ overall frequency (all CTCAE grades) c                        | Frequency of CTCAE grade 3 or higher c                                          | CIOMS descriptor/ overall frequency (all CTCAE grades) c                        | Frequency of CTCAE grade 3 or higher c                                          |
+| Toxic Epidermal Necrolysis d                                                    | Not known                                                                       | Not known                                                                       | 0%                                                                              | 0%                                                                              |
 | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  |
 | Left ventricular ejection fraction decreased u,v                                | Common (4.1%)                                                                   | Common (4.1%)                                                                   | Common (8.0%)                                                                   | Common (8.0%)                                                                   |
 | Blood creatine phosphokinase increased                                          | Common (2%)                                                                     | 0.4%                                                                            | Common (3.3%)                                                                   | 1.1%                                                                            |
@@ -375,10 +366,6 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA. Wi
 | Blood creatinine increased                                                      | Common (5.6%)                                                                   | 0.05%                                                                           | Very common (22%)                                                               | 0.4%                                                                            |
 | Musculoskeletal and connective tissue disorders                                 | Musculoskeletal and connective tissue disorders                                 | Musculoskeletal and connective tissue disorders                                 | Musculoskeletal and connective tissue disorders                                 | Musculoskeletal and connective tissue disorders                                 |
 | Myositis                                                                        | Uncommon (0.2%)                                                                 | 0%                                                                              | 0%                                                                              | 0%                                                                              |
-
-a Data is pooled from ADAURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA (AURA3, AURAex, AURA 2 and AURA1) studies; only events for patients receiving at least one dose of TAGRISSO as their randomised treatment are summarised.
-
-b Data is from the combination arm of the FLAURA2 study; only events for the patients receiving at least one dose of study treatment (TAGRISSO, pemetrexed, cisplatin or carboplatin) as their randomised treatment are summarised. The median duration of study treatment was 22.3 months for patients in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm.
 
 - c National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 5.0.
 - d Reported during post-marketing use.
@@ -395,11 +382,11 @@ b Data is from the combination arm of the FLAURA2 study; only events for the pat
 - o Includes: dry skin, eczema, skin fissures, xeroderma, xerosis.
 - p Includes: eyelid pruritus, pruritus.
 - q Cases of erythema dyschromicum perstans have been reported in the post-marketing setting.
-- r Six of the 1956 patients in the ADAURA, AURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA studies reported erythema multiforme. Post-marketing reports of erythema multiforme have also been received, including 7 reports from a post-marketing surveillance study (N=3578).
-- s Estimated frequency. The upper limit of the 95% CI for the point estimate is 3/1956 (0.4%).
 
 <div style=\"page-break-after: always\"></div>
 
+- r Six of the 1956 patients in the ADAURA, AURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA studies reported erythema multiforme. Post-marketing reports of erythema multiforme have also been received, including 7 reports from a post-marketing surveillance study (N=3578).
+- s Estimated frequency. The upper limit of the 95% CI for the point estimate is 3/1956 (0.4%).
 - t One event was reported in a post-marketing study, and the frequency has been derived from the ADAURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA studies and the post-marketing study (N=5534).
 - u Represents the incidence of laboratory findings, not of reported adverse events.
 - v Represents decreases greater than or equal to 10 percentage points and a drop to less than 50%.
@@ -423,13 +410,11 @@ In the LAURA study, following definitive platinum-based chemoradiation therapy, 
 
 Of the 1956 patients in ADAURA, FLAURA, FLAURA2, LAURA and AURA studies treated with TAGRISSO monotherapy 80 mg, 1.1% of patients (n=21) were found to have a QTc greater than 500 msec, and 4% of patients (n=79) had an increase from baseline QTc greater than 60 msec. A pharmacokinetic/ pharmacodynamic analysis with TAGRISSO predicted a concentration-dependent increase in QTc interval prolongation. No QTc-related arrhythmias were reported in the ADAURA, LAURA, FLAURA, FLAURA2 or AURA studies (see sections 4.4 and 5.1). In patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, the proportion of patients who experienced a QTc interval prolongation of greater than 500 msec with a greater than 60 msec increase from baseline was low and was similar with monotherapy (1.8% versus 1.5%).
 
-## Gastrointestinal effects
-
-In the ADAURA, FLAURA, FLAURA2, LAURA and AURA studies (TAGRISSO monotherapy; N=1956), diarrhoea was reported in 46% of patients of which 36% were Grade 1 events, 8. 1% Grade
-
 <div style=\"page-break-after: always\"></div>
 
-2 and 1.5% were Grade 3; no Grade 4 or 5 events were reported. Dose reduction was required in 0.6% of patients and dose interruption in 1.9%. Four events (0.2%) led to discontinuation. In ADAURA, FLAURA, FLAURA2 (monotherapy arm) and AURA3 the median time to onset was 22 days, 19 days, 22 days and 22 days, respectively, and the median duration of the Grade 2 events was 11 days, 19 days, 17 days and 6 days, respectively. In patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, diarrhoea was reported in 43% of patients versus 41% of patients in monotherapy, most of these diarrhoea events were Grade 1 and Grade 2 events.
+## Gastrointestinal effects
+
+In the ADAURA, FLAURA, FLAURA2, LAURA and AURA studies (TAGRISSO monotherapy; N=1956), diarrhoea was reported in 46% of patients of which 36% were Grade 1 events, 8. 1% Grade 2 and 1.5% were Grade 3; no Grade 4 or 5 events were reported. Dose reduction was required in 0.6% of patients and dose interruption in 1.9%. Four events (0.2%) led to discontinuation. In ADAURA, FLAURA, FLAURA2 (monotherapy arm) and AURA3 the median time to onset was 22 days, 19 days, 22 days and 22 days, respectively, and the median duration of the Grade 2 events was 11 days, 19 days, 17 days and 6 days, respectively. In patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, diarrhoea was reported in 43% of patients versus 41% of patients in monotherapy, most of these diarrhoea events were Grade 1 and Grade 2 events.
 
 ## Haematological events
 
@@ -447,13 +432,11 @@ Patients receiving TAGRISSO monotherapy (80 mg; N=1956) with low body weight (&l
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-## 4.9 Overdose
-
-In TAGRISSO clinical studies, a limited number of patients were treated with daily doses of up to 240 mg without dose limiting toxicities. In these studies, patients who were treated with TAGRISSO daily doses of 160 mg and 240 mg experienced an increase in the frequency and severity of a number
-
 <div style=\"page-break-after: always\"></div>
 
-of typical EGFR TKI-induced AEs (primarily diarrhoea and skin rash) compared to the 80 mg dose. There is limited experience with accidental overdoses in humans. All cases were isolated incidents of patients taking an additional daily dose of TAGRISSO in error, without any resulting clinical consequences.
+## 4.9 Overdose
+
+In TAGRISSO clinical studies, a limited number of patients were treated with daily doses of up to 240 mg without dose limiting toxicities. In these studies, patients who were treated with TAGRISSO daily doses of 160 mg and 240 mg experienced an increase in the frequency and severity of a number of typical EGFR TKI-induced AEs (primarily diarrhoea and skin rash) compared to the 80 mg dose. There is limited experience with accidental overdoses in humans. All cases were isolated incidents of patients taking an additional daily dose of TAGRISSO in error, without any resulting clinical consequences.
 
 There is no specific treatment in the event of TAGRISSO overdose. In case of suspected overdose, TAGRISSO should be withheld and symptomatic treatment initiated.
 
@@ -483,11 +466,9 @@ The efficacy and safety of TAGRISSO for the adjuvant treatment of patients with 
 
 Eligible patients with resectable tumors stage IB-IIIA (according to American Joint Commission on Cancer [AJCC] 7 th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
 
-Patients were randomised 1:1 to receive TAGRISSO (n=339, 80 mg orally once daily) or placebo (n=343) following recovery from surgery and standard adjuvant chemotherapy where given. Patients not receiving adjuvant chemotherapy were randomised within 10 weeks and patients receiving adjuvant chemotherapy within 26 weeks following surgery. Randomisation was stratified by EGFR
-
 <div style=\"page-break-after: always\"></div>
 
-mutation type (Ex19del or L858R), ethnicity (Asian or non-Asian) and staging based on pathological tumor-node-metastasis (pTNM) (IB or II or IIIA) according to AJCC 7 th edition. Treatment was given until disease recurrence, unacceptable toxicity, or for 3 years.
+Patients were randomised 1:1 to receive TAGRISSO (n=339, 80 mg orally once daily) or placebo (n=343) following recovery from surgery and standard adjuvant chemotherapy where given. Patients not receiving adjuvant chemotherapy were randomised within 10 weeks and patients receiving adjuvant chemotherapy within 26 weeks following surgery. Randomisation was stratified by EGFR mutation type (Ex19del or L858R), ethnicity (Asian or non-Asian) and staging based on pathological tumor-node-metastasis (pTNM) (IB or II or IIIA) according to AJCC 7 th edition. Treatment was given until disease recurrence, unacceptable toxicity, or for 3 years.
 
 The major efficacy outcome measure was disease-free survival (DFS) by investigator assessment in the stage II-IIIA population. DFS by investigator assessment in the stage IB-IIIA population (overall population) was an additional efficacy outcome measure. Other additional efficacy outcome measures included DFS rate, overall survival (OS), OS rate, and time to deterioration in health-related quality of life (HRQoL) SF-36.
 
@@ -511,12 +492,12 @@ Table 3. Efficacy results from ADAURA by investigator assessment
 | Median DFS, months (95% CI)        | NC (38.8, NC)                | 19.6 (16.6, 24.5)            | NC (NC, NC)                  | 27.5 (22.0, 35.0)            |
 | HR (99.06% CI); P-value            | 0.17 (0.11, 0.26); <0.0001 a | 0.17 (0.11, 0.26); <0.0001 a | 0.20 (0.14, 0.30); <0.0001 b | 0.20 (0.14, 0.30); <0.0001 b |
 | DFS rate at 12 months (%) (95% CI) | 97 (94, 99)                  | 61 (54, 67)                  | 97 (95, 99)                  | 69 (63, 73)                  |
-| DFS rate at 24 months (%) (95% CI) | 90 (84, 93)                  | 44 (37, 51)                  | 89 (85, 92)                  | 52 (46, 58)                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| DFS rate at 36 months (%) (95% CI) c,d   | 78 (65, 87)   | 28 (19, 38)   | 79 (69, 86)   | 40 (32, 48)   |
-|------------------------------------------|---------------|---------------|---------------|---------------|
+| DFS rate at 24 months (%) (95% CI)     | 90 (84, 93)   | 44 (37, 51)   | 89 (85, 92)   | 52 (46, 58)   |
+|----------------------------------------|---------------|---------------|---------------|---------------|
+| DFS rate at 36 months (%) (95% CI) c,d | 78 (65, 87)   | 28 (19, 38)   | 79 (69, 86)   | 40 (32, 48)   |
 
 HR=Hazard Ratio; CI=Confidence Interval; NC=Not Calculable
 
@@ -524,7 +505,9 @@ DFS results based on investigator assessment.
 
 A HR &lt;1 favours TAGRISSO.
 
-Median follow-up time for DFS was 22.1 months for patients receiving TAGRISSO, 14.9 months for patients receiving placebo (stage II-IIIA population) and 16.6 months for patients receiving placebo (stage IB-IIIA population). DFS results are from the primary analysis (17 January 2020).
+Median follow-up time for DFS was 22.1 months for patients receiving TAGRISSO, 14.9 months for patients receiving placebo (stage II-IIIA population) and 16.6 months for patients receiving placebo (stage IB-IIIA population).
+
+DFS results are from the primary analysis (17 January 2020).
 
 a  Adjusted for an interim analysis (33% maturity) a p-value &lt;0.0094 was required to achieve statistical significance.
 
@@ -540,8 +523,6 @@ Figure 1. Kaplan-Meier curve of disease-free survival in stage II-IIIA patients 
 
 <!-- image -->
 
-## + Censored patients.
-
 The values at the base of the figure indicate number of subjects at risk. NC = Not Calculable.
 
 <div style=\"page-break-after: always\"></div>
@@ -550,7 +531,11 @@ Figure 2. Kaplan-Meier curve of disease-free survival in stage IB-IIIA (overall 
 
 <!-- image -->
 
-The values at the base of the figure indicate number of subjects at risk. NC = Not Calculable.
++ Censored patients.
+
+The values at the base of the figure indicate number of subjects at risk.
+
+NC = Not Calculable.
 
 The DFS benefit of TAGRISSO compared to placebo was consistent across all predefined subgroups analysed, including ethnicity, age, gender, and EGFR mutation type (Ex19Del or L858R).
 
@@ -563,6 +548,8 @@ The values at the base of the figure indicate number of subjects at risk.
 <div style=\"page-break-after: always\"></div>
 
 Figure 4. Kaplan-Meier curve of overall survival in stage IB-IIIA (overall population) patients
+
+06
 
 <!-- image -->
 
@@ -598,25 +585,20 @@ Efficacy results from LAURA are summarised in Table 4, and the Kaplan-Meier curv
 
 Table 4. Efficacy results from LAURA
 
-| Efficacy Parameter          | TAGRISSO (N=143)           | Placebo (N=73)             |
-|-----------------------------|----------------------------|----------------------------|
-| Progression-Free Survival a |                            |                            |
-| Number (%) of events        | 57 (40)                    | 63 (86)                    |
-| Median PFS, months (95% CI) | 39.1 (31.5, NC)            | 5.6 (3.7, 7.4)             |
-| HR (95% CI); P-value        | 0.16 (0.10, 0.24); P<0.001 | 0.16 (0.10, 0.24); P<0.001 |
-| Overall Survival            |                            |                            |
-| Number (%) of deaths        | 28 (20)                    | 15 (21)                    |
-| Median OS, months (95% CI)  | 54.0 (46.5, NC)            | NC (42.1, NC)              |
+| Efficacy Parameter          | TAGRISSO (N=143)             | Placebo (N=73)               |
+|-----------------------------|------------------------------|------------------------------|
+| Progression-Free Survival a |                              |                              |
+| Number (%) of events        | 57 (40)                      | 63 (86)                      |
+| Median PFS, months (95% CI) | 39.1 (31.5, NC)              | 5.6 (3.7, 7.4)               |
+| HR (95% CI); P-value        | 0.16 (0.10, 0.24); P<0.001   | 0.16 (0.10, 0.24); P<0.001   |
+| Overall Survival            |                              |                              |
+| Number (%) of deaths        | 28 (20)                      | 15 (21)                      |
+| Median OS, months (95% CI)  | 54.0 (46.5, NC)              | NC (42.1, NC)                |
+| HR (95% CI); P-value        | 0.81 (0.42, 1.56); P=0.530 a | 0.81 (0.42, 1.56); P=0.530 a |
+
+HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable PFS results as assessed by BICR.
 
 <div style=\"page-break-after: always\"></div>
-
-| Efficacy Parameter   | TAGRISSO (N=143)             | Placebo (N=73)               |
-|----------------------|------------------------------|------------------------------|
-| HR (95% CI); P-value | 0.81 (0.42, 1.56); P=0.530 a | 0.81 (0.42, 1.56); P=0.530 a |
-
-HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
-
-PFS results as assessed by BICR.
 
 Median follow-up time for PFS in all patients was 22.0 months in the TAGRISSO arm and 5.6 months in the placebo arm.
 
@@ -632,44 +614,42 @@ Previously untreated EGFR mutation-positive locally advanced or metastatic NSCLC
 
 The efficacy and safety of TAGRISSO for the treatment of patients with EGFR mutation-positive locally advanced, not amenable to curative surgery or radiotherapy, or metastatic NSCLC, who had not received previous systemic treatment for advanced disease, was demonstrated in a randomised, double-blind, active-controlled study (FLAURA). Patient tumour tissue samples were required to have one of the two common EGFR mutations known to be associated with EGFR TKI sensitivity (Ex19del or L858R), as identified by local or central testing.
 
-Patients were randomised 1:1 to receive either TAGRISSO (n=279, 80 mg orally once daily) or EGFR TKI comparator (n=277; gefitinib 250 mg orally once daily or erlotinib 150 mg orally once daily). Randomisation was stratified by EGFR mutation type (Ex19del or L858R) and ethnicity (Asian or non-Asian). Patients received study therapy until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. For patients receiving EGFR TKI
-
-<div style=\"page-break-after: always\"></div>
-
-comparator, post-progression crossover to open-label TAGRISSO was permitted provided tumour samples tested positive for the T790M mutation. The primary efficacy endpoint was PFS as assessed by investigator.
+Patients were randomised 1:1 to receive either TAGRISSO (n=279, 80 mg orally once daily) or EGFR TKI comparator (n=277; gefitinib 250 mg orally once daily or erlotinib 150 mg orally once daily). Randomisation was stratified by EGFR mutation type (Ex19del or L858R) and ethnicity (Asian or non-Asian). Patients received study therapy until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. For patients receiving EGFR TKI comparator, post-progression crossover to open-label TAGRISSO was permitted provided tumour samples tested positive for the T790M mutation. The primary efficacy endpoint was PFS as assessed by investigator.
 
 The baseline demographic and disease characteristics of the overall study population were: median age 64 years (range 26-93 years), ≥75 years old (14%), female (63%), White (36%), Asian (62%), never smokers (64%), WHO performance status of 0 or 1 (100%), metastatic bone disease (36%), extrathoracic visceral metastases (35%), CNS metastases (21%, identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases).
+
+<div style=\"page-break-after: always\"></div>
 
 TAGRISSO demonstrated a clinically meaningful and statistically significant improvement in PFS compared to EGFR TKI comparator (median 18.9 months and 10.2 months, respectively, HR=0.46, 95% CI: 0.37, 0.57; P&lt;0.0001). Efficacy results from FLAURA by investigator assessment are summarised in Table 5, and the Kaplan-Meier curve for PFS is shown in Figure 6. The final analysis of OS, (58% maturity) demonstrated a statistically significant improvement with an HR of 0.799 (95.05% CI: 0.641, 0.997) and a clinically meaningful longer median survival time in patients randomised to TAGRISSO compared to EGFR TKI comparator (Table 5 and Figure 7). A greater proportion of patients treated with TAGRISSO were alive at 12, 18, 24 and 36 months (89%, 81%, 74% and 54% respectively) compared to patients treated with EGFR TKI comparator (83%, 71%, 59% and 44% respectively). Analysis of post-progression endpoints demonstrated that the PFS benefit was preserved through subsequent lines of therapy.
 
 Table 5. Efficacy results from FLAURA by investigator assessment
 
-| Efficacy parameter                              | TAGRISSO (N=279)                 | EGFR TKI comparator (gefitinib or erlotinib) (N=277)   |
-|-------------------------------------------------|----------------------------------|--------------------------------------------------------|
-| Progression-free survival                       |                                  |                                                        |
-| Number of events (62% maturity)                 | 136 (49)                         | 206 (74)                                               |
-| Median PFS, months (95% CI)                     | 18.9 (15.2, 21.4)                | 10.2 (9.6, 11.1)                                       |
-| HR (95% CI); P-value                            | 0.46 (0.37, 0.57); P<0.0001      | 0.46 (0.37, 0.57); P<0.0001                            |
-| Overall survival                                |                                  |                                                        |
-| Number of deaths, (58% maturity)                | 155 (56)                         | 166 (60)                                               |
-| Median OS, months (95% CI)                      | 38.6 (34.5, 41.8)                | 31.8 (26.6, 36.0)                                      |
-| HR (95.05% CI); P-value                         | 0.799 (0.641, 0.997); P=0.0462 a | 0.799 (0.641, 0.997); P=0.0462 a                       |
-| Objective response rate * b                     |                                  |                                                        |
-| Number of responses (n), Response Rate (95% CI) | 223 80% (75, 85)                 | 210 76% (70, 81)                                       |
-| Odds ratio (95% CI); P-value                    | 1.3 (0.9, 1.9); P=0.2421         | 1.3 (0.9, 1.9); P=0.2421                               |
-| Duration of response (DoR) *                    |                                  |                                                        |
-| Median DoR, months (95% CI)                     | 17.2 (13.8, 22.0)                | 8.5 (7.3, 9.8)                                         |
+| Efficacy parameter                                                    | TAGRISSO (N=279)                 | EGFR TKI comparator (gefitinib or erlotinib) (N=277)   |
+|-----------------------------------------------------------------------|----------------------------------|--------------------------------------------------------|
+| Progression-free survival                                             |                                  |                                                        |
+| Number of events (62% maturity)                                       | 136 (49)                         | 206 (74)                                               |
+| Median PFS, months (95% CI)                                           | 18.9 (15.2, 21.4)                | 10.2 (9.6, 11.1)                                       |
+| HR (95% CI); P-value                                                  | 0.46 (0.37, 0.57); P<0.0001      | 0.46 (0.37, 0.57); P<0.0001                            |
+| Overall survival                                                      |                                  |                                                        |
+| Number of deaths, (58% maturity)                                      | 155 (56)                         | 166 (60)                                               |
+| Median OS, months (95% CI)                                            | 38.6 (34.5, 41.8)                | 31.8 (26.6, 36.0)                                      |
+| HR (95.05% CI); P-value                                               | 0.799 (0.641, 0.997); P=0.0462 a | 0.799 (0.641, 0.997); P=0.0462 a                       |
+| Objective response rate * b                                           |                                  |                                                        |
+| Number of responses (n), Response Rate (95% CI)                       | 223 80% (75, 85)                 | 210 76% (70, 81)                                       |
+| Odds ratio (95% CI); P-value                                          | 1.3 (0.9, 1.9); P=0.2421         | 1.3 (0.9, 1.9); P=0.2421                               |
+| Duration of response (DoR) *                                          |                                  |                                                        |
+| Median DoR, months (95% CI)                                           | 17.2 (13.8, 22.0)                | 8.5 (7.3, 9.8)                                         |
+| Second PFS after start of first subsequent therapy                    | (PFS2)                           |                                                        |
+| Number of patients with second progression (%)                        | 73 (26)                          | 106 (38)                                               |
+| Median PFS2, months (95% CI)                                          | NC (23.7, NC)                    | 20.0 (18.0, NC)                                        |
+| HR (95% CI); P-value                                                  | 0.58 (0.44, 0.78); P=0.0004      | 0.58 (0.44, 0.78); P=0.0004                            |
+| Time from randomisation to first subsequent treatment or death (TFST) |                                  |                                                        |
+| Number of patients who had first subsequent treatment or died (%)     | 115 (41)                         | 175 (63)                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Second PFS after start of first subsequent therapy (PFS2)              | Second PFS after start of first subsequent therapy (PFS2)              | Second PFS after start of first subsequent therapy (PFS2)              |
-|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Number of patients with second progression (%)                         | 73 (26)                                                                | 106 (38)                                                               |
-| Median PFS2, months (95% CI)                                           | NC (23.7, NC)                                                          | 20.0 (18.0, NC)                                                        |
-| HR (95% CI); P-value                                                   | 0.58 (0.44, 0.78); P=0.0004                                            | 0.58 (0.44, 0.78); P=0.0004                                            |
-| Time from randomisation to first subsequent treatment or death (TFST)  | Time from randomisation to first subsequent treatment or death (TFST)  | Time from randomisation to first subsequent treatment or death (TFST)  |
-| Number of patients who had first subsequent treatment or died (%)      | 115 (41)                                                               | 175 (63)                                                               |
 | Median TFST, months (95% CI)                                           | 23.5 (22.0, NC)                                                        | 13.8 (12.3, 15.7)                                                      |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 | HR (95% CI); P-value                                                   | 0.51 (0.40, 0.64); P<0.0001                                            | 0.51 (0.40, 0.64); P<0.0001                                            |
 | Time from randomisation to second subsequent treatment or death (TSST) | Time from randomisation to second subsequent treatment or death (TSST) | Time from randomisation to second subsequent treatment or death (TSST) |
 | Number of patients who had second subsequent treatment or died (%)     | 75 (27)                                                                | 110 (40)                                                               |
@@ -690,10 +670,9 @@ PFS, ORR, DoR, PFS2, TFST and TSST results are from DCO 12 June 2017. OS results
 
 A HR &lt;1 favours TAGRISSO, an Odds ratio of &gt;1 favours TAGRISSO.
 
-- a Adjusted for an interim analysis (25% maturity) a p-value &lt;0.0495 was required to achieve statistical significance.
-- b  ORR results by BICR were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI: 73, 83) on TAGRISSO and 70% (95% CI: 65, 76) on EGFR TKI comparator.
+a Adjusted for an interim analysis (25% maturity) a p-value &lt;0.0495 was required to achieve statistical significance.
 
-<div style=\"page-break-after: always\"></div>
+- b  ORR results by BICR were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI: 73, 83) on TAGRISSO and 70% (95% CI: 65, 76) on EGFR TKI comparator.
 
 Figure 6. Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA
 
@@ -701,19 +680,19 @@ Figure 6. Kaplan-Meier curves of progression-free survival as assessed by invest
 
 The values at the base of the figure indicate number of subjects at risk.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 7. Kaplan-Meier curves of overall survival in FLAURA
 
 <!-- image -->
-
-The values at the base of the figure indicate number of subjects at risk.
-
-<div style=\"page-break-after: always\"></div>
 
 The PFS benefit of TAGRISSO compared to EGFR TKI comparator was consistent across all predefined subgroups analysed, including ethnicity, age, gender, smoking history, CNS metastases status at study entry and EGFR mutation type (Exon 19 deletion or L858R).
 
 ## CNS metastases efficacy data in FLAURA study
 
 Patients with CNS metastases not requiring steroids and with stable neurologic status for at least two weeks after completion of the definitive therapy and steroids were eligible to be randomised in the FLAURA study. Of 556 patients, 200 patients had available baseline brain scans. A Blinded Independent Central Review (BICR) assessment of these scans resulted in a subgroup of 128/556 (23%) patients with CNS metastases and these data are summarised in Table 6. CNS efficacy by RECIST v1.1 in FLAURA demonstrated a statistically significant improvement in CNS PFS (HR=0.48, 95% CI: 0.26, 0.86; P=0.014).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 6. CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in FLAURA
 
@@ -730,7 +709,7 @@ HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
 
 A HR &lt;1 favours TAGRISSO, an Odds ratio of &gt;1 favours TAGRISSO.
 
-- a CNS PFS determined by RECIST v1.1by CNS BICR (CNS measurable and non-measurable lesions at baseline by BICR) n=61 for TAGRISSO and n=67 for EGFR TKI comparator; responses are unconfirmed.
+a CNS PFS determined by RECIST v1.1by CNS BICR (CNS measurable and non-measurable lesions at baseline by BICR) n=61 for TAGRISSO and n=67 for EGFR TKI comparator; responses are unconfirmed.
 
 A pre-specified PFS subgroup based on CNS metastases status (identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases) at study entry was performed in FLAURA and is shown in Figure 8. Irrespective of CNS lesion status at study entry, patients in the TAGRISSO arm demonstrated an efficacy benefit over those in the EGFR TKI comparator arm and there were fewer patients with new CNS lesions in the TAGRISSO arm compared to the EGFR TKI comparator arm (TAGRISSO, 11/279 [3.9%] compared to EGFR TKI comparator, 34/277 [12.3%]). In the subset of patients without CNS lesions at baseline, there were a lower number of new CNS lesions in the TAGRISSO arm compared to the EGFR TKI comparator arm (7/226 [3.1%] vs. 15/214 [7.0%], respectively).
 
@@ -754,9 +733,9 @@ Data collected from baseline up to month 9 showed similar improvements in TAGRIS
 
 Both groups reported similar improvements in most functioning domains and global health status/HRQL, indicating that patients' overall health status improved. Up to month 9, there were no clinically meaningful differences between the TAGRISSO and EGFR TKI comparator groups in functioning or HRQL.
 
-## FLAURA2 - Combination Therapy
-
 <div style=\"page-break-after: always\"></div>
+
+## FLAURA2 - Combination Therapy
 
 The efficacy and safety of TAGRISSO in combination with pemetrexed and platinum-based chemotherapy for the treatment of patients with EGFR mutation-positive locally advanced or metastatic NSCLC, who had not received previous systemic treatment for advanced disease, was demonstrated in a randomised, open-label, active-controlled study (FLAURA2). Patient tumour tissue samples were required to have one of the two common EGFR mutations known to be associated with EGFR TKI sensitivity (Ex19del or L858R), as identified by local or central testing.
 
@@ -771,41 +750,27 @@ The primary efficacy endpoint was PFS as assessed by investigator per RECIST 1.1
 
 The baseline demographic and disease characteristics of the overall study population were: median age 61 years (range 26-85 years), ≥75 years old (8%), female (61%), Asian (64%), White (28%), never smokers (66%). Baseline WHO performance status was 0 (37%) or 1 (63%); 98.7% had predominantly adenocarcinoma histology. Of the patients who had metastatic disease, 49% had metastatic bone disease, 53% had extra-thoracic metastases and 20% had liver metastases. Forty-one percent (41%) of patients had CNS metastases (identified by investigator based on CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases). With regard to tumour EGFR mutation type at randomisation, 60.5% were exon 19 deletions and 38.2% were exon 21 L858R; 0.7% of patients had tumours with both exon 19 deletions and exon 21 L858R.
 
-TAGRISSO in combination with pemetrexed and platinum-based chemotherapy demonstrated a statistically significant improvement in PFS compared to TAGRISSO monotherapy. The PFS benefit was consistent across all subgroups analysed. At the time of the second interim analysis of OS (DCO 08 January 2024), statistical significance was not reached.
+TAGRISSO in combination with pemetrexed and platinum-based chemotherapy demonstrated a statistically significant improvement in PFS compared to TAGRISSO monotherapy. The PFS benefit was consistent across all subgroups analysed. The final OS analysis demonstrated a statistically significant improvement in OS for patients randomised to TAGRISSO plus pemetrexed and platinumbased chemotherapy compared to TAGRISSO monotherapy.
 
 Efficacy results from FLAURA2 by investigator assessment are summarised in Table 7, the Kaplan-Meier curve for PFS is shown in Figure 9 and the Kaplan-Meier curve for OS is shown in Figure 10.
 
 Table 7. Efficacy results from FLAURA2 by investigator assessment
 
-| Efficacy parameter            | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)            |
-|-------------------------------|--------------------------------------------------------------------|-----------------------------|
-| Progression-Free Survival     |                                                                    |                             |
-| Number (%) of events          | 120 (43)                                                           | 166 (60)                    |
-| Median PFS, months (95% CI) a | 25.5 (24.7, NC)                                                    | 16.7 (14.1, 21.3)           |
-| HR (95% CI); P-value          | 0.62 (0.49, 0.79); P<0.0001                                        | 0.62 (0.49, 0.79); P<0.0001 |
+| Efficacy parameter            | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)   |
+|-------------------------------|--------------------------------------------------------------------|--------------------|
+| Progression-Free Survival     |                                                                    |                    |
+| Number (%) of events          | 120 (43)                                                           | 166 (60)           |
+| Median PFS, months (95% CI) a | 25.5 (24.7, NC)                                                    | 16.7 (14.1, 21.3)  |
 
 <div style=\"page-break-after: always\"></div>
 
-TAGRISSO
-
 | Efficacy parameter         | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)              |
 |----------------------------|--------------------------------------------------------------------|-------------------------------|
+| HR (95% CI); P-value       | 0.62 (0.49, 0.79); P<0.0001                                        | 0.62 (0.49, 0.79); P<0.0001   |
 | Overall Survival           |                                                                    |                               |
-| Number (%) of deaths       | 100 (36)                                                           | 126 (45)                      |
-| Median OS, months (95% CI) | NC (38.0, NC)                                                      | 36.7 (33.2, NC)               |
-| HR (95% CI); P-value       | 0.75 (0.57, 0.97); P=0.0280 b                                      | 0.75 (0.57, 0.97); P=0.0280 b |
-
-HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
-
-PFS based on RECIST investigator assessment.
-
-Median follow-up time for PFS in all patients was 19.5 months in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm and 16.5 months in the TAGRISSO monotherapy arm.
-
-PFS results are from DCO 03 April 2023 (51% maturity). OS results are from DCO 08 January 2024 (41% maturity).
-
-a  PFS results by BICR were consistent with those reported via investigator assessment.
-
-b  Based on the second interim analysis (41% maturity) a p-value &lt;0.000001 was required to achieve statistical significance.
+| Number (%) of deaths       | 144 (52)                                                           | 171 (62)                      |
+| Median OS, months (95% CI) | 47.5 (41.0, NC)                                                    | 37.6 (33.2, 43.2)             |
+| HR (95% CI); P-value       | 0.77 (0.61, 0.96); P=0.0202 b                                      | 0.77 (0.61, 0.96); P=0.0202 b |
 
 Figure 9. Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA2
 
@@ -835,11 +800,9 @@ Patients with asymptomatic CNS metastases not requiring steroids and with stable
 
 The efficacy and safety of TAGRISSO for the treatment of patients with locally advanced or metastatic T790M NSCLC whose disease has progressed on or after EGFR TKI therapy, was demonstrated in a randomised, open-label, active-controlled Phase 3 study (AURA3). All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas EGFR mutation test performed in a central laboratory prior to randomisation. The T790M mutation status was also assessed using ctDNA extracted from a plasma sample taken during screening. The primary efficacy outcome was PFS as assessed by investigator. Additional efficacy outcome measures included ORR, DoR and OS as assessed by investigator.
 
-Patients were randomised in a 2:1 (TAGRISSO: platinum-based doublet chemotherapy) ratio to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140). Randomisation was stratified by ethnicity (Asian and non-Asian). Patients in the TAGRISSO arm received TAGRISSO
-
 <div style=\"page-break-after: always\"></div>
 
-80 mg orally once daily until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. Chemotherapy consisted of pemetrexed 500 mg/m 2 with carboplatin AUC5 or pemetrexed 500 mg/m 2  with cisplatin 75 mg/m 2 on Day 1 of every 21-day cycle for up to 6 cycles. Patients whose disease has not progressed after four cycles of platinum-based chemotherapy may receive pemetrexed maintenance therapy (pemetrexed 500 mg/m 2  on Day 1 of every 21-day cycle). Subjects on the chemotherapy arm who had objective radiological progression (by the investigator and confirmed by independent central imaging review) were given the opportunity to begin treatment with TAGRISSO.
+Patients were randomised in a 2:1 (TAGRISSO: platinum-based doublet chemotherapy) ratio to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140). Randomisation was stratified by ethnicity (Asian and non-Asian). Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. Chemotherapy consisted of pemetrexed 500 mg/m 2 with carboplatin AUC5 or pemetrexed 500 mg/m 2  with cisplatin 75 mg/m 2 on Day 1 of every 21-day cycle for up to 6 cycles. Patients whose disease has not progressed after four cycles of platinum-based chemotherapy may receive pemetrexed maintenance therapy (pemetrexed 500 mg/m 2  on Day 1 of every 21-day cycle). Subjects on the chemotherapy arm who had objective radiological progression (by the investigator and confirmed by independent central imaging review) were given the opportunity to begin treatment with TAGRISSO.
 
 The baseline demographic and disease characteristics of the overall study population were: median age 62, ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%). Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with CNS metastases (identified by CNS lesion site at baseline, medical history, and/or prior surgery, and/or prior radiotherapy to CNS metastases) and 23% with liver metastases. Forty-two percent (42%) of patients had metastatic bone disease.
 
@@ -865,8 +828,9 @@ Table 8. Efficacy results from AURA3 by investigator assessment
 
 <div style=\"page-break-after: always\"></div>
 
-All efficacy results based on RECIST investigator assessment.
+HR=Hazard Ratio; CI=Confidence Interval; NC=Non-calculable; OS=Overall Survival
 
+- All efficacy results based on RECIST investigator assessment.
 - a  The final analysis of OS was performed at 67% maturity. The CI for the HR has been adjusted for previous interim analyses. The OS analysis was not adjusted for the potentially confounding effects of crossover (99 [71%] patients on the
 - chemotherapy arm received subsequent osimertinib treatment).
 - b  ORR and DoR results by investigator assessment were consistent with those reported via BICR; ORR by BICR assessment was 64.9% [95% CI: 59.0, 70.5] on osimertinib and 34.3 % [95% CI: 25.6, 42.8] on chemotherapy; DoR by BICR assessment was 11.2 months (95% CI: 8.3, NC) on osimertinib and 3.1 months (95% CI: 2.9, 4.3) on chemotherapy.
@@ -901,12 +865,6 @@ Table 9. CNS efficacy by BICR in patients with CNS metastases on a baseline brai
 | Number of events (% maturity)            | 19 (25)                    | 16 (39)                                                         |
 | Median CNS PFS, months (95% CI)          | 11.7 (10, NC)              | 5.6 (4.2, 9.7)                                                  |
 | HR (95% CI); P-value                     | 0.32 (0.15, 0.69); P=0.004 | 0.32 (0.15, 0.69); P=0.004                                      |
-
-a CNS Objective Response Rate and Duration of Response determined by RECIST v1.1 by CNS BICR in the evaluable for response population (CNS measurable lesions at baseline by BICR) n=30 for TAGRISSO and n=16 for Chemotherapy.
-
-b Based on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event; DCR defined as the proportion of patients with response (complete response or partial response), or stable disease ≥6 weeks.
-
-c CNS Progression Free Survival determined by RECIST v1.1 by CNS BICR in the full analysis set population (CNS measurable and non-measurable lesions at baseline by BICR) n=75 for TAGRISSO and n=41 for Chemotherapy.
 
 A HR &lt;1 favours TAGRISSO.
 
@@ -1008,11 +966,9 @@ In a population based pharmacokinetic analyses (n=1367), no clinically significa
 
 ## Hepatic impairment
 
-Osimertinib is eliminated mainly via the liver. In a clinical study, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score=5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score=8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO. The geometric mean ratio (90% CI) of osimertinib AUC and Cmax was 63.3% (47.3, 84.5) and 51.4% (36.6, 72.3) in patients with mild hepatic impairment and 68.4% (49.6, 94.2) and 60.7% (41.6, 88.6) in patients with moderate hepatic impairment; for the metabolite AZ5104 the AUC and Cmax were 66.5% (43.4, 101.9) and 66.3% (45.3, 96.9) in patients with mild hepatic impairment and 50.9% (31.7, 81.6) and 44.0% (28.9, 67.1) in patients with moderate hepatic impairment, compared to the exposure in patients with normal hepatic function. Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure. The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib. Clinical studies that were conducted excluded patients with AST or ALT &gt;2.5x upper limit of normal (ULN), or if due to underlying malignancy, &gt;5.0x ULN or with total bilirubin &gt;1.5x ULN. Based on a pharmacokinetic analysis of 134 patients with mild hepatic impairment, 8 patients with moderate hepatic impairment
+Osimertinib is eliminated mainly via the liver. In a clinical study, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score=5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score=8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO. The geometric mean ratio (90% CI) of osimertinib AUC and Cmax was 63.3% (47.3, 84.5) and 51.4% (36.6, 72.3) in patients with mild hepatic impairment and 68.4% (49.6, 94.2) and 60.7% (41.6, 88.6) in patients with moderate hepatic impairment; for the metabolite AZ5104 the AUC and Cmax were 66.5% (43.4, 101.9) and 66.3% (45.3, 96.9) in patients with mild hepatic impairment and 50.9% (31.7, 81.6) and 44.0% (28.9, 67.1) in patients with moderate hepatic impairment, compared to the exposure in patients with normal hepatic function. Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure. The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib. Clinical studies that were conducted excluded patients with AST or ALT &gt;2.5x upper limit of normal (ULN), or if due to underlying malignancy, &gt;5.0x ULN or with total bilirubin &gt;1.5x ULN. Based on a pharmacokinetic analysis of 134 patients with mild hepatic impairment, 8 patients with moderate hepatic impairment and 1216 patients with normal hepatic function osimertinib exposures were similar. There are no data available on patients with severe hepatic impairment (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-and 1216 patients with normal hepatic function osimertinib exposures were similar. There are no data available on patients with severe hepatic impairment (see section 4.2).
 
 ## Renal impairment
 
@@ -1082,7 +1038,9 @@ Not all pack sizes may be marketed.
 
 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -1328,41 +1286,52 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER (PERFORATED)                                 |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-TAGRISSO 40 mg tablets osimertinib
-
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
-
-AstraZeneca AB
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER (PERFORATED)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+TAGRISSO 40 mg tablets osimertinib
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER (PERFORATED)                                 |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
 
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
@@ -1479,9 +1448,9 @@ If any of the above apply to you (or you are not sure), talk to your doctor, pha
 - you have watery eyes, sensitivity to light, eye pain, eye redness or vision changes. See 'Serious side effects' in section 4 for more information.
 - you develop persistent fever, bruising or bleeding more easily, increasing tiredness, pale skin and infection. See 'Serious side effects' in section 4 for more information.
 
-## Children and adolescents
-
 <div style=\"page-break-after: always\"></div>
+
+## Children and adolescents
 
 TAGRISSO has not been studied in children or adolescents. Do not give this medicine to children or adolescents under the age of 18 years.
 
@@ -1508,9 +1477,7 @@ TAGRISSO may affect how well the following medicines work and/or increase side e
 - Digoxin - used for irregular heart beat or other heart problems.
 - Aliskiren - used for high blood pressure.
 
-## If you are taking any of the medicines listed above, tell your doctor before taking TAGRISSO.
-
-Your doctor will discuss appropriate treatment options with you.
+If you are taking any of the medicines listed above, tell your doctor before taking TAGRISSO. Your doctor will discuss appropriate treatment options with you.
 
 ## Pregnancy -information for women
 
@@ -1529,12 +1496,12 @@ You must use effective contraception during treatment.
 - TAGRISSO may interfere with how well oral hormonal contraceptives work. Discuss with your doctor the most appropriate methods of contraception.
 - TAGRISSO may pass into semen. Therefore, it is important that men also use effective contraception.
 
+<div style=\"page-break-after: always\"></div>
+
 You must also do this after completing treatment with TAGRISSO:
 
 - Women - keep using contraception for 2 months after.
 - Men - keep using contraception for 4 months after.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -1586,9 +1553,9 @@ Do not stop taking this medicine - talk to your doctor first. It is important to
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-## 4. Possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -1625,11 +1592,12 @@ Very common (may affect more than 1 in 10 people)
 - Increase of a substance in the blood called creatinine (produced by your body and removed by the kidney).
 - Increase of a substance in the blood called creatine phosphokinase (an enzyme released into the blood when muscle is damaged).
 - Reduction in the number of white blood cells (leukocytes, lymphocytes or neutrophils).
-- Reduction in the number of platelets in the blood.
-
-Uncommon (may affect up to 1 in 100 people)
 
 <div style=\"page-break-after: always\"></div>
+
+- Reduction in the number of platelets in the blood.
+
+## Uncommon (may affect up to 1 in 100 people)
 
 - Target lesions, which are skin reactions that look like rings (suggestive of Erythema multiforme).
 - Inflammation of the blood vessels in the skin. This may give the appearance of bruising or redness of the skin that does not fade in colour when pressed (non-blanching).
@@ -1646,6 +1614,7 @@ The following side effects have been reported in a clinical trial with patients 
 
 - Diarrhoea - this may come and go during treatment. Tell your doctor if your diarrhoea does not go away or becomes severe.
 - Skin and nail problems - signs may include pain, itching, dry skin, rash, redness around the fingernails. This is more likely in areas exposed to the sun. Using moisturisers regularly on your skin and nails can help with this. Tell your doctor if your skin or nail problems get worse.
+- ·
 - Stomatitis - inflammation of the inner lining of the mouth or ulcers forming in the mouth.
 - Loss of appetite.
 - Reduction in the number of white blood cells (leukocytes, lymphocytes or neutrophils).
@@ -1671,11 +1640,11 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date which is stated on the blister foil and carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine if the pack is damaged or shows signs of tampering.
 
@@ -1704,9 +1673,7 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
-
-Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -1716,9 +1683,7 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
+Lietuva UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## България
 
@@ -1730,25 +1695,15 @@ AstraZeneca S.A./N.V.
 
 Tél/Tel: +32 2 370 48 11
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
-AstraZeneca Czech Republic s.r.o.
-
-Tel: +420 222 807 111
-
-## Magyarország
-
-AstraZeneca Kft. Tel.: +36 1 883 6500
+AstraZeneca Czech Republic s.r.o. Tel: +420 222 807 111
 
 ## Danmark
 
-Malta
-
-AstraZeneca A/S
-
-Tlf.: +45 43 66 64 62
-
-<div style=\"page-break-after: always\"></div>
+AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
@@ -1780,9 +1735,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor hf. Sími: +354 535 7000
 
 ## Italia
 
@@ -1798,13 +1751,13 @@ SIA AstraZeneca Latvija Tel: +371 67377100
 
 ## This leaflet was last revised in
 
-## Other sources of information
+## Magyarország
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+AstraZeneca Kft. Tel.: +36 1 883 6500
 
-Associated Drug Co. Ltd
+## Malta
 
-Tel: +356 2277 8000
+Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
@@ -1820,7 +1773,9 @@ AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -1845,3 +1800,9 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 ## Sverige
 
 AstraZeneca AB Tel: +46 8 553 26 000
+
+<div style=\"page-break-after: always\"></div>
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

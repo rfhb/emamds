@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-28 16:13:03
-document_pages: 38
+document_datetime: 2026-06-24 12:34:23
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/privigen-epar-product-information_en.pdf
 document_name: privigen-epar-product-information_en.pdf
 version: success
-processing_time: 7.890451
-conversion_datetime: 2025-12-20 14:33:03.28489
+processing_time: 8.7581355
+conversion_datetime: 2026-06-25 17:03:09.476527
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,43 +24,21 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Privigen 100 mg/ml solution for infusion
+Privigen 100 mg/mL solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Human normal immunoglobulin (IVIg)*
+Human normal immunoglobulin (IVIg)
 
-One ml contains:
+One ml contains: Human normal immunoglobulin 100 mg (purity of at least 98% IgG) Each vial of 25 ml solution contains: 2.5 g human normal immunoglobulin Each vial of 50 ml solution contains: 5 g human normal immunoglobulin Each vial of 100 ml solution contains: 10 g human normal immunoglobulin Each vial of 200 ml solution contains: 20 g human normal immunoglobulin Each vial of 400 ml solution contains: 40 g human normal immunoglobulin Distribution of the IgG subclasses (approx. values): IgG1  .......................  69 % IgG2  .......................  26 % IgG3  .........................  3 % IgG4  .........................  2 %
 
-Human normal immunoglobulin
-
-(purity of at least 98% IgG)
-
-Each vial of 25 ml solution contains: 2.5 g human normal immunoglobulin
-
-Each vial of 50 ml solution contains: 5 g human normal immunoglobulin
-
-Each vial of 100 ml solution contains: 10 g human normal immunoglobulin
-
-Each vial of 200 ml solution contains: 20 g human normal immunoglobulin
-
-Each vial of 400 ml solution contains: 40 g human normal immunoglobulin
-
-Distribution of the IgG subclasses (approx. values):
-
-IgG1  .......................  69 %
-
-IgG2  .......................  26 %
-
-IgG3  .........................  3 %
-
-IgG4  .........................  2 %
+Minimum level anti-measles IgG is 9 IU/ml.
 
 The maximum IgA content is 25 micrograms/ml.
 
-*Produced from the plasma of human donors.
+Produced from the plasma of human donors.
 
-Excipients with known effects:
+Excipients with known effect:
 
 Privigen contains approximately 250 mmol/L (range: 210 to 290) of L-proline.
 
@@ -70,65 +48,79 @@ For the full list of excipients, see section 6.1.
 
 Solution for infusion.
 
-The solution is clear or slightly opalescent and colourless to pale yellow.
-
-Privigen is isotonic, with an approximate osmolality of 320 mOsmol/kg.
+The solution is clear or slightly opalescent and colourless to pale yellow. Privigen is isotonic, with an approximate osmolality of 320 mOsmol/kg.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Replacement therapy in adults, and children and adolescents (0-18 years) in:
+Replacement therapy in adults, children, and adolescents (0-18 years) in:
 
 - -Primary immunodeficiency syndromes (PID) with impaired antibody production (see section 4.4).
 - -Secondary immunodeficiencies (SID) in patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment and either proven specific antibody failure (PSAF)* or serum IgG level of &lt;4 g/l.
 
-* PSAF = failure to mount at least a 2-fold rise in IgG antibody titre to pneumococcal polysaccharide and polypeptide antigen vaccines.
-
-100 mg
-
 <div style=\"page-break-after: always\"></div>
 
-## Immunomodulation in adults, and children and adolescents (0-18 years) in:
+* PSAF = failure to mount at least a 2-fold rise in IgG antibody titre to pneumococcal polysaccharide and polypeptide antigen vaccines.
+
+Measles pre-/post exposure prophylaxis for susceptible adults, children and adolescents (0-18 years) in whom active immunisation is contraindicated or not advised.
+
+Consideration should also be given to official recommendations on intravenous human immunoglobulin use in measles pre-/post exposure prophylaxis and active immunisation.
+
+Immunomodulation in adults, children, and adolescents (0-18 years) in:
 
 - -Primary immune thrombocytopenia (ITP), in patients at high risk of bleeding or prior to surgery to correct the platelet count.
 - -Guillain-Barré syndrome.
 - -Kawasaki disease (in conjunction with acetylsalicylic acid; see section 4.2.).
-- -Chronic inflammatory demyelinating polyneuropathy (CIDP). Only limited experience is available of use of intravenous immunoglobulins in children with CIDP.
-- -Multifocal motor neuropathy (MMN)
+- -Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). Only limited experience is available of use of intravenous immunoglobulins in children with CIDP.
+- -Multifocal motor neuropathy (MMN).
 
 ## 4.2 Posology and method of administration
 
-Replacement therapy should be commenced and monitored under the supervision of a physician experienced in the treatment of immunodeficiency.
+IVIg therapy should be commenced and monitored under the supervision of a physician experienced in the treatment of immune system disorders.
 
 ## Posology
 
-The dose and dose regimen is dependent on the indication.
+The dose and dose regimen are dependent on the indication.
 
-In replacement therapy the dose may need to be individualised for each patient depending on the clinical response. Dose based on bodyweight may require adjustment in underweight or overweight patients.
+The dose may need to be individualised for each patient dependent on the clinical response. Dose based on bodyweight may require adjustment in underweight or overweight patients.
 
 The following dose regimens are given as a guideline.
 
 ## Replacement therapy in primary immunodeficiency (PID) syndromes
 
-The dose regimen should achieve a trough IgG level (measured before the next infusion) of at least 6 g/l or within the normal reference range for the population age. Three to six months are required after the initiation of therapy for equilibration to occur. The recommended starting dose is 0.4 to 0.8 g/kg body weight (bw) given once, followed by at least 0.2 g/kg bw every 3 to 4 weeks.
+The dose regimen should achieve a trough IgG level (measured before the next infusion) of at least 6 g/l or within the normal reference range for the population age. 3-6 months are required after the initiation of therapy for equilibration (steady-state IgG levels) to occur. The recommended starting dose is 0.4 to 0.8 g/kg body weight (bw) given once, followed by at least 0.2 g/kg bw every 3-4 weeks.
 
-The dose required to achieve a trough level of IgG of 6 g/l is of the order of 0.2 to 0.8 g/kg bw/month. The dosage interval when steady state has been reached varies from 3 to 4 weeks. IgG trough levels should be measured and assessed in conjunction with the incidence of infection. To reduce the rate of bacterial infections, it may be necessary to increase the dosage and aim for higher trough levels.
+The dose required to achieve a trough level of IgG of 6 g/l is of the order of 0.2-0.8 g/kg bw/month. The dosage interval when steady state has been reached varies from 3-4 weeks. IgG trough levels should be measured and assessed in conjunction with the incidence of infection. To reduce the rate of bacterial infections, it may be necessary to increase the dosage and aim for higher trough levels.
 
-## Secondary immunodeficiencies (as defined in 4.1)
+## Replacement therapy in secondary immunodeficiencies (as defined in 4.1)
 
-The dose regimen should achieve a trough IgG level (measured before the next infusion) of at least 6 g/l or within the normal reference range for the population age. The recommended dose is 0.2 - 0.4 g/kg bw every three to four weeks.
+The dose regimen should achieve a trough IgG level (measured before the next infusion) of at least 6 g/l or within the normal reference range for the population age. The recommended dose is 0.20.4 g/kg bw every 3-4 weeks.
 
 IgG trough levels should be measured and assessed in conjunction with the incidence of infection. Dose should be adjusted as necessary to achieve optimal protection against infections, an increase may be necessary in patients with persisting infection; a dose decrease can be considered when the patient remains infection free.
+
+Measles pre-/post exposure prophylaxis
+
+<div style=\"page-break-after: always\"></div>
+
+## Post-exposure prophylaxis
+
+If a susceptible patient has been exposed to measles, a dose of 0.4 g/kg given as soon as possible and within 6 days of exposure should provide a serum level &gt;240 mIU/ml of measles antibodies for at least 2 weeks. Serum levels should be checked after 2 weeks and documented. A further dose of 0.4 g/kg possibly to be repeated once after 2 weeks may be necessary to maintain the serum level &gt;240 mIU/ml.
+
+If a PID/SID patient has been exposed to measles and regularly receives IVIg infusions, it should be considered to administer an extra dose of IVIg as soon as possible and within 6 days of exposure. A dose of 0.4 g/kg should provide a serum level &gt;240 mIU/ml of measles antibodies for at least 2 weeks.
+
+## Pre-exposure prophylaxis
+
+If a PID/SID patient is at risk of future measles exposure and receives an IVIg maintenance dose of less than 0.53 g/kg every 3-4 weeks, this dose should be increased once to 0.53 g/kg. This should provide a serum level of &gt;240 mIU/ml of measles antibodies for at least 22 days after infusion .
+
+## Immunomodulation in:
 
 ## Primary immune thrombocytopenia (ITP)
 
 There are two alternative treatment schedules:
 
-- 0.8 to 1g/kg bw given on day 1; this dose may be repeated once within 3 days
-- 0.4 g/kg bw given daily for 2 to 5 days.
-
-The treatment can be repeated if relapse occurs.
+- 0.8-1g/kg bw given on day 1; this dose may be repeated once within 3 days.
+- 0.4 g/kg bw given daily for 2-5 days. The treatment can be repeated if relapse occurs.
 
 ## Guillain-Barré syndrome
 
@@ -138,54 +130,60 @@ The treatment can be repeated if relapse occurs.
 
 2.0 g/kg bw should be administered as a single dose. Patients should receive concomitant treatment with acetylsalicylic acid.
 
-<div style=\"page-break-after: always\"></div>
+## Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP)*
 
-## Chronic inflammatory demyelinating polyneuropathy (CIDP)*
+Starting dose: 2 g/kg bw divided over 2-5 consecutive days
 
-The recommended starting dose is 2 g/kg bw divided over 2 to 5 consecutive days followed by maintenance doses of 1 g/kg bw over 1 to 2 consecutive days every 3 weeks.
+Maintenance doses:
+
+1 g/kg bw divided over 1-2 consecutive days every 3 weeks.
 
 The treatment effect should be evaluated after each cycle; if no treatment effect is seen after 6 months, the treatment should be discontinued.
 
-If the treatment is effective long term treatment should be subject to the physicians discretion based upon the patient response and maintenance response. The dosing and intervals may have to be adapted according to the individual course of the disease.
+If the treatment is effective long-term treatment should be subject to the physicians discretion based upon the patient response and maintenance response. The dosing and intervals may have to be adapted according to the individual course of the disease.
 
 ## Multifocal Motor Neuropathy (MMN)
 
-Starting dose: 2 g/kg given over 2-5 consecutive days.
+Starting dose: 2 g/kg divided over 2-5 consecutive days.
 
-Maintenance dose: 1 g/kg every 2 to 4 weeks or 2 g/kg every 4 to 8 weeks.
+Maintenance dose: 1 g/kg every 2-4 weeks or 2 g/kg every 4-8 weeks.
 
-The treatment effect should be evaluated after each cycle. If insufficient treatment effect is seen after 6 months, the treatment should be discontinued.
+The treatment effect should be evaluated after each cycle; if no treatment effect is seen after 6 months, the treatment should be discontinued.
 
-If the treatment is effective, long term treatment should be subject to the physician's discretion based upon the patient response. The dosing and intervals may have to be adapted according to the individual course of the disease.
+If the treatment is effective, long-term treatment should be subject to the physician's discretion based upon the patient response and maintenance response. The dosing and intervals may have to be adapted according to the individual course of the disease.
 
 The dosage recommendations are summarised in the following table:
 
-| Indication                                                | Dose                                                     | Frequency of injections                                          |
-|-----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------|
-| Replacement therapy                                       |                                                          |                                                                  |
-| Primary immunodeficiency syndromes (PID)                  | starting dose: 0.4 - 0.8 g/kg bw                         |                                                                  |
-| Primary immunodeficiency syndromes (PID)                  | maintenance dose: 0.2 - 0.8 g/kg bw                      | Every 3 to 4 weeks to obtain IgG trough levels of at least 6 g/l |
-| Secondary immunodeficiencies (as defined in 4.1)          | 0.2 - 0.4 g/kg bw                                        | Every 3 to 4 weeks to obtain IgG trough levels of at least 6 g/l |
-| Immunomodulation                                          |                                                          |                                                                  |
-| Primary immune thrombocytopenia (ITP)                     | 0.8 - 1 g/kg bw or 0.4 g/kg bw/d                         | on day 1, possibly repeated once within 3 days for 2 to 5 days   |
-| Guillain-Barré syndrome                                   | 0.4 g/kg bw/d                                            | for 5 days                                                       |
-| Kawasaki disease                                          | 2 g/kg bw                                                | in one dose in association with acetylsalicylic acid             |
-| Chronic inflammatory demyelinating polyneuropathy (CIDP)* | starting dose: 2 g/kg bw maintenance dose: 1 g/kg bw     | in divided doses over 2 to 5 days every 3 weeks over 1 to 2 days |
-| Multifocal Motor Neuropathy (MMN)                         | starting dose : 2 g/kg bw maintenance dose: 1 g/kg bw or | over 2 to 5 consecutive days every 2 to 4 weeks or               |
-| Multifocal Motor Neuropathy (MMN)                         | 2 g/kg bw                                                | every 4 to 8 weeks over 2 to 5 days                              |
-| Multifocal Motor Neuropathy (MMN)                         |                                                          |                                                                  |
+| Indication                               | Dose                          | Frequency of injections   |
+|------------------------------------------|-------------------------------|---------------------------|
+| Replacement therapy                      |                               |                           |
+| Primary immunodeficiency syndromes (PID) | Starting dose: 0.4 - 0.8 g/kg |                           |
 
 <div style=\"page-break-after: always\"></div>
+
+|                                                                   | Maintenance dose: 0.2 - 0.8 g/kg                          | every 3-4 weeks                                                                                                                             |
+|-------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Secondary Immunodeficiencies (as defined in 4.1)                  | 0.2 - 0.4 g/kg                                            | every 3-4 weeks                                                                                                                             |
+| Measles pre/post exposure prophylaxis:                            | Measles pre/post exposure prophylaxis:                    | Measles pre/post exposure prophylaxis:                                                                                                      |
+| Post-exposure prophylaxis in susceptible patients                 | 0.4 g/kg                                                  | As soon as possible and within 6 days, possibly to be repeated once after 2 weeks to maintain the measles antibody serum level >240 mIU/ml  |
+| Post-exposure prophylaxis in PID/SID patients                     | 0.4 g/kg                                                  | In addition to maintenance therapy, given as an extra dose within 6 days of exposure                                                        |
+| Pre-exposure prophylaxis in PID/SID patients                      | 0.53 g/kg                                                 | If a patient receives a maintenance dose of less than 0.53 g/kg every 3- 4 weeks, this dose should be increased once to at least 0.53 g/kg. |
+| Immunomodulation                                                  | Immunomodulation                                          | Immunomodulation                                                                                                                            |
+| Primary immune thrombocytopenia (ITP)                             | 0.8 - 1 g/kg or 0.4 g/kg/d                                | on day 1, possibly repeated once within 3 days for 2-5 days                                                                                 |
+| Guillain-Barré syndrome                                           | 0.4 g/kg/d                                                | for 5 days                                                                                                                                  |
+| Kawasaki disease                                                  | 2 g/kg                                                    | in one dose in association with acetylsalicylic acid                                                                                        |
+| Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP)* | Starting dose: 2 g/kg Maintenance dose: 1 g/kg            | in divided doses over 2-5 days every 3 weeks in divided doses over 1-2 days                                                                 |
+| Multifocal Motor Neuropathy (MMN)                                 | Starting dose : 2 g/kg Maintenance dose: 1 g/kg or 2 g/kg | in divided doses over 2- 5 consecutive days every 2-4 weeks or every 4-8 weeks in divided doses over 2-5 days                               |
 
 *The dose is based on the dose used in the clinical studies conducted with Privigen. The duration of treatment beyond 25 weeks should be subject to the physician's discretion based upon the patient response and maintenance response in the long-term. The dosing and intervals may have to be adapted according to the individual course of the disease.
 
 ## Paediatric population
 
-The posology in children and adolescents (0-18 years) is not different from that of adults as the posology for each indication is given by body weight and adjusted to the clinical outcome of the above mentioned conditions.
-
-## Hepatic impairment
+The posology in children and adolescents (0-18 years) is not different to that of adults as the posology for each indication is given by body weight and must be adjusted to the clinical outcome of the abovementioned conditions.
 
 No evidence is available to require a dose adjustment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -197,17 +195,17 @@ No dose adjustment unless clinically warranted, see section 4.4.
 
 ## Method of administration
 
-For intravenous use.
+## For intravenous use.
 
-Privigen should be infused intravenously at an initial infusion rate of 0.3 ml/kg bw/hr for approximately 30 min. If well tolerated (see section 4.4), the rate of administration may gradually be increased to 4.8 ml/kg bw/hr.
+Privigen should be infused intravenously at an initial infusion rate of 0.3 ml/kg/hr for approximately 30 min. If well tolerated (see section 4.4), the rate of administration may gradually be increased to 4.8 ml/kg/hr.
 
-In PID patients who have tolerated the infusion rate of 4.8 ml/kg bw/hr well, the rate may be further gradually increased to a maximum of 7.2 ml/kg bw/hr.
+In PID patients who have tolerated the infusion rate of 4.8 ml/kg/hr well, the rate may be further gradually increased to a maximum of 7.2 ml/kg/hr.
 
 If dilution prior to infusion is desired, Privigen may be diluted with 5% glucose solution to a final concentration of 50 mg/ml (5%). For instruction, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance (human immunoglobulins) or to any of the excipients listed in section 6.1 (see also section 4.4).
+Hypersensitivity to the active substance (human immunoglobulins) or to any of the excipients (see sections 4.4 and 6.1).
 
 Patients with selective IgA deficiency who developed antibodies to IgA as administering an IgAcontaining product can result in anaphylaxis.
 
@@ -225,15 +223,14 @@ Certain adverse reactions may occur more frequently:
 
 - -in case of high rate of infusion,
 - -in patients with hypogammaglobulinaemia or agammaglobulinaemia, with or without IgA deficiency,
-
-<div style=\"page-break-after: always\"></div>
-
 - -in patients who receive human normal immunoglobulin for the first time or, in rare cases, when the human normal immunoglobulin product is switched or when there has been a long interval since the previous infusion.
 
 Potential complications can often be avoided by ensuring that patients:
 
 - -are not sensitive to human normal immunoglobulin by initially infusing the product slowly (0.3 ml/kg bw/hr);
 - -are carefully monitored for any symptoms throughout the infusion period. In particular, patients naive to human normal immunoglobulin, patients switched from an alternative IVIg product or when there has been a long interval since the previous infusion should be monitored during the first infusion and for the first hour after the first infusion, in order to detect potential adverse signs. All other patients should be observed for at least 20 minutes after administration.
+
+<div style=\"page-break-after: always\"></div>
 
 In case of adverse reaction, either the rate of administration must be reduced or the infusion stopped. The treatment required depends on the nature and severity of the adverse reaction.
 
@@ -266,13 +263,13 @@ The following risk factors are associated with the development of haemolysis: hi
 
 IVIg recipients should be monitored for clinical signs and symptoms of haemolysis. If signs and/or symptoms of haemolysis develop during or after an IVIg infusion, discontinuation of the IVIg treatment should be considered by the treating physician (see also section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Aseptic meningitis syndrome (AMS)
 
 Aseptic meningitis syndrome has been reported to occur in association with IVIg treatment (see section 4.8). The syndrome usually begins within several hours to 2 days following IVIg treatment. Symptoms may include severe headache, nuchal rigidity, drowsiness, fever, photophobia, nausea, and vomiting. Cerebrospinal fluid studies are frequently positive with pleocytosis up to several thousand cells per mm 3 , predominantly from the granulocytic series, and elevated protein levels up to several hundred mg/dl.
 
 AMS may occur more frequently in association with high-dose (2 g/kg bw) IVIg treatment and/or rapid infusion (see sections 4.2 and 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 Patients exhibiting such signs and symptoms should receive a thorough neurological examination, including CSF studies, to rule out other causes of meningitis.
 
@@ -298,13 +295,13 @@ In patients at risk of acute renal failure, IVIg products should be administered
 
 ## Transfusion-related acute lung injury (TRALI)
 
-<div style=\"page-break-after: always\"></div>
-
-In patients receiving IVIg, there have been some reports of acute non-cardiogenic pulmonary oedema [Transfusion Related Acute Lung Injury (TRALI)]. TRALI is characterised by severe hypoxia, dyspnoea, tachypnoea, cyanosis, fever and hypotension. Symptoms of TRALI typically develop during or within 6 hours of a transfusion, often within 1-2 hours. Therefore, IVIg recipients must be monitored for and IVIg infusion must be immediately stopped in case of pulmonary adverse reactions. TRALI is a potentially life-threatening condition requiring immediate intensive-care-unit management.
+In patients receiving IVIg, there have been some reports of acute non-cardiogenic pulmonary oedema [Transfusion Related Acute Lung Injury (TRALI)]. TRALI is characterised by severe hypoxia, dyspnoea, tachypnoea, cyanosis, fever and hypotension. Symptoms of TRALI typically develop during or within 6 hours after a transfusion, often within 1-2 hours. Therefore, IVIg recipients must be monitored for and IVIg infusion must be immediately stopped in case of pulmonary adverse reactions. TRALI is a potentially life-threatening condition requiring immediate intensive-care-unit management.
 
 ## Interference with serological testing
 
-After injection of immunoglobulin, the transitory rise of the various passively transferred antibodies in the patient's blood may result in misleading positive results in serological testing.
+After the administration of immunoglobulin, the transitory rise of the various passively transferred antibodies in the patient's blood may result in misleading positive results in serological testing.
+
+<div style=\"page-break-after: always\"></div>
 
 Passive transmission of antibodies to erythrocyte antigens, e.g. A, B, D, may interfere with some serological tests for red cell antibodies, for example the direct antiglobulin test (DAT, direct Coombs' test).
 
@@ -332,8 +329,6 @@ Immunoglobulin administration may impair for a period of at least 6 weeks and up
 
 ## Loop diuretics
 
-<div style=\"page-break-after: always\"></div>
-
 Avoidance of concomitant use of loop diuretics.
 
 ## Paediatric population
@@ -343,6 +338,8 @@ Although limited data is available, it is expected that the same interactions ma
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
+
+<div style=\"page-break-after: always\"></div>
 
 The safety of this medicinal product for use in human pregnancy has not been established in controlled clinical trials and therefore should only be given with caution to pregnant women and breast-feeding mothers. IVIg products have been shown to cross the placenta, increasingly during the third trimester. Clinical experience with immunoglobulins suggests that no harmful effects on the course of pregnancy, or on the foetus and the neonate are to be expected.
 
@@ -374,53 +371,55 @@ Reversible haemolytic reactions have been observed in patients, especially those
 
 Increase in serum creatinine level and/or acute renal failure have been observed.
 
-<div style=\"page-break-after: always\"></div>
-
 Very rarely: Transfusion related acute lung injury (TRALI) and thromboembolic reactions such as myocardial infarction, stroke, pulmonary embolism and deep vein thromboses.
 
 ## Tabulated list of adverse reactions
 
 Seven clinical studies were performed with Privigen, which included patients with PID, ITP and CIDP. In the pivotal PID study, 80 patients were enrolled and treated with Privigen. Of these, 72 completed the 12 months of treatment. In the PID extension study, 55 patients were enrolled and treated with Privigen. Another clinical study included 11 PID patients in Japan. Two ITP studies were performed with 57 patients each. Two CIDP studies were performed with 28 and 207 patients, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 Most adverse drug reactions (ADRs) observed in the seven clinical studies were mild to moderate in nature.
 
-The following table shows an overview of the ADRs observed in the seven clinical studies categorized according the MedDRA System Organ Class (SOC), Preferred Term Level (PT) and frequency. Frequencies were evaluated according to the following conventions: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt;1/10), Uncommon ( ≥ 1/1,000 to &lt;1/100), Rare ( ≥ 1/10,000 to &lt;1/1,000), Very rare (&lt;1/10,000). For spontaneous post-marketing ADRs, the reporting frequency is categorized as unknown.
+The following table shows an overview of the ADRs observed in the seven clinical studies categorized
+
+according the MedDRA System Organ Class (SOC), Preferred Term Level (PT) and frequency. Frequencies were evaluated according to the following conventions: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt;1/10), Uncommon ( ≥ 1/1,000 to &lt;1/100), Rare ( ≥ 1/10,000 to &lt;1/1,000), Very rare (&lt;1/10,000). For spontaneous post-marketing ADRs, the reporting frequency is categorized as unknown.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
 
-| MedDRA System Organ Class (SOC)                 | Adverse Reaction                                                                 | Frequency per patient   | Frequency per infusion   |
-|-------------------------------------------------|----------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Infections and infestations                     | Aseptic meningitis                                                               | Uncommon                | Rare                     |
-| Blood and lymphatic system disorders            | Anaemia, haemolysis (including haemolytic anaemia) β , leukopenia                | Common                  | Uncommon                 |
-| Blood and lymphatic system disorders            | Anisocytosis (including microcytosis)                                            | Uncommon                | Uncommon                 |
-| Blood and lymphatic system disorders            | Thrombocytosis                                                                   | Uncommon                | Rare                     |
-| Blood and lymphatic system disorders            | Decreased neutrophil count                                                       | Unknown                 | Unknown                  |
-| Immune system disorders                         | Hypersensitivity                                                                 | Common                  | Uncommon                 |
-| Immune system disorders                         | Anaphylactic shock                                                               | Unknown                 | Unknown                  |
-| Nervous system disorders                        | Headache (including sinus headache, migraine, head discomfort, tension headache) | Very common             | Very common              |
-| Nervous system disorders                        | Dizziness (including vertigo)                                                    | Common                  | Uncommon                 |
-| Nervous system disorders                        | Somnolence                                                                       | Uncommon                | Uncommon                 |
-| Nervous system disorders                        | Tremor                                                                           | Uncommon                | Rare                     |
-| Cardiac disorders                               | Palpitations, tachycardia                                                        | Uncommon                | Rare                     |
-| Vascular disorders                              | Hypertension, flushing (including hot flush, hyperaemia)                         | Common                  | Uncommon                 |
-| Vascular disorders                              | Hypotension                                                                      | Common                  | Rare                     |
-| Vascular disorders                              | Thromboembolic events, vasculitis (including peripheral vascular disorder)       | Uncommon                | Rare                     |
-| Vascular disorders                              | Transfusion related acute lung injury                                            | Unknown                 | Unknown                  |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea (including chest pain, chest discomfort, painful respiration)           | Common                  | Uncommon                 |
-| Gastrointestinal disorders                      | Nausea, vomiting, diarrhoea                                                      | Common                  | Common                   |
-| Gastrointestinal disorders                      | Abdominal pain                                                                   | Common                  | Uncommon                 |
+| MedDRA System Organ Class (SOC)                 | Adverse Reaction                                                                                     | Frequency per patient   | Frequency per infusion   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
+| Infections and infestations                     | Aseptic meningitis                                                                                   | Uncommon                | Rare                     |
+| Blood and lymphatic system disorders            | Anaemia, haemolysis (including haemolytic anaemia) β , leukopenia                                    | Common                  | Uncommon                 |
+| Blood and lymphatic system disorders            | Anisocytosis (including microcytosis)                                                                | Uncommon                | Uncommon                 |
+| Blood and lymphatic system disorders            | Thrombocytosis                                                                                       | Common                  | Rare                     |
+| Blood and lymphatic system disorders            | Decreased neutrophil count                                                                           | Unknown                 | Unknown                  |
+| Immune system disorders                         | Hypersensitivity                                                                                     | Common                  | Uncommon                 |
+| Immune system disorders                         | Anaphylactic shock                                                                                   | Unknown                 | Unknown                  |
+| Nervous system disorders                        | Headache (including sinus headache, migraine, head discomfort, tension headache)                     | Very common             | Very common              |
+| Nervous system disorders                        | Dizziness (including vertigo)                                                                        | Common                  | Uncommon                 |
+| Nervous system disorders                        | Somnolence                                                                                           | Uncommon                | Uncommon                 |
+| Nervous system disorders                        | Tremor                                                                                               | Very common             | Rare                     |
+| Cardiac disorders                               | Palpitations, tachycardia                                                                            | Uncommon                | Rare                     |
+| Vascular disorders                              | Hypertension, flushing (including hot flush, hyperaemia)                                             | Common                  | Uncommon                 |
+| Vascular disorders                              | Hypotension                                                                                          | Common                  | Rare                     |
+| Vascular disorders                              | Thromboembolic events, vasculitis (including peripheral vascular disorder)                           | Uncommon                | Rare                     |
+| Vascular disorders                              | Transfusion related acute lung injury                                                                | Unknown                 | Unknown                  |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea (including chest pain, chest discomfort, painful respiration)                               | Common                  | Uncommon                 |
+| Gastrointestinal disorders                      | Nausea, vomiting, diarrhoea                                                                          | Common                  | Common                   |
+| Gastrointestinal disorders                      | Abdominal pain                                                                                       | Common                  | Uncommon                 |
+| Hepatobiliary disorders                         | Hyperbilirubinaemia                                                                                  | Common                  | Rare                     |
+| Skin and subcutaneous tissue disorders          | Skin disorder (including rash, pruritus, urticaria, maculo-papular rash, erythema, skin exfoliation) | Common                  | Common                   |
+| Musculoskeletal and connective tissue disorders | Myalgia (including muscle spasms, musculoskeletal stiffness, musculoskeletal pain)                   | Common                  | Uncommon                 |
+| Renal and urinary disorders                     | Proteinuria, increased blood creatinine                                                              | Uncommon                | Rare                     |
+| Renal and urinary disorders                     | Acute renal failure                                                                                  | Unknown                 | Unknown                  |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA System Organ Class (SOC)                      | Adverse Reaction                                                                                                                                                                                                                         | Frequency per patient   | Frequency per infusion   |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Hepatobiliary disorders                              | Hyperbilirubinaemia                                                                                                                                                                                                                      | Common                  | Rare                     |
-| Skin and subcutaneous tissue disorders               | Skin disorder (including rash, pruritus, urticaria, maculo-papular rash, erythema, skin exfoliation)                                                                                                                                     | Common                  | Common                   |
-| Musculoskeletal and connective tissue disorders      | Myalgia (including muscle spasms, musculoskeletal stiffness, musculoskeletal pain)                                                                                                                                                       | Common                  | Uncommon                 |
-| Renal and urinary disorders                          | Proteinuria, increased blood creatinine                                                                                                                                                                                                  | Uncommon                | Rare                     |
-| Renal and urinary disorders                          | Acute renal failure                                                                                                                                                                                                                      | Unknown                 | Unknown                  |
 | General disorders and administration site conditions | Pain (including back pain, pain in extremity, arthralgia, neck pain, facial pain) pyrexia (including chills), influenza like illness (including nasopharyngitis, pharyngolaryngeal pain, oropharyngeal blistering, throat tightness)     | Very common             | Common                   |
-| General disorders and administration site conditions | Fatigue                                                                                                                                                                                                                                  |                         | Common                   |
+| General disorders and administration site conditions | Fatigue                                                                                                                                                                                                                                  | Common                  | Common                   |
 | General disorders and administration site conditions | Asthenia (including muscular weakness)                                                                                                                                                                                                   | Common                  | Uncommon                 |
 | General disorders and administration site conditions | Injection site pain (including infusion site discomfort)                                                                                                                                                                                 | Uncommon                | Rare                     |
 | Investigations                                       | Decreased haemoglobin (including decreased red blood cell count, decreased haematocrit), Coombs` (direct) test positive, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood lactate dehydrogenase | Common                  | Uncommon                 |
@@ -431,11 +430,7 @@ For safety with respect to transmissible agents and additional details on risk f
 
 ## Paediatric Population
 
-In Privigen clinical studies with paediatric patients, the frequency, nature and severity of adverse reactions did not differ between children and adults. In post marketing reports it is observed that the
-
-<div style=\"page-break-after: always\"></div>
-
-proportion of haemolysis cases to all case reports occurring in children is slightly higher than in adults. Please refer to section 4.4 for details on risk factors and monitoring recommendations.
+In Privigen clinical studies with paediatric patients, the frequency, nature and severity of adverse reactions did not differ between children and adults. In post marketing reports it is observed that the proportion of haemolysis cases to all case reports occurring in children is slightly higher than in adults. Please refer to section 4.4 for details on risk factors and monitoring recommendations.
 
 ## Reporting of suspected adverse reactions
 
@@ -443,7 +438,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Overdose may lead to fluid overload and hyperviscosity, particularly in patients at risk, including elderly patients or patients with cardiac or renal impairment.
+<div style=\"page-break-after: always\"></div>
+
+Overdose may lead to fluid overload and hyperviscosity, particularly in patients at risk, including infants, elderly patients or patients with cardiac or renal impairment (see section 4.4).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -463,29 +460,27 @@ Additional safety data were collected in a Post-Authorization Safety Study (PASS
 
 ## PID
 
-The PID pivotal study included a total of 80 patients aged between 3 and 69 years old. 19 children (3 to 11 years), 12 adolescents (12 to 16 years) and 49 adults were treated with Privigen over 12 months. 1038 infusions were administered, 272 (in 16 patients) in the 3-week schedule and 766 (in 64 patients) in the 4-week schedule. The median doses administered for the 3-week and 4-week treatment schedules were almost identical to each other (428.3 vs. 440.6 mg IgG/ kg bw).The PID extension study included a total of 55 patients aged between 4 and 81 years old. 13 children (3 to 11 years), 8 adolescents (12 to 15 years) and 34 adults were treated with Privigen over 29 months. 771 infusions were administered and the median dose administered was 492.3 mg IgG/kg bw.
+The PID pivotal study included a total of 80 patients aged between 3 and 69 years old. 19 children (3 to 11 years), 12 adolescents (12 to 16 years) and 49 adults were treated with Privigen over 12 months. 1038 infusions were administered, 272 (in 16 patients) in the 3-week schedule and 766 (in 64 patients) in the 4-week schedule. The median doses administered for the 3-week and 4-week treatment schedules were almost identical to each other (428.3 vs. 440.6 mg IgG/ kg bw). The PID extension study included a total of 55 patients aged between 4 and 81 years old. 13 children (3 to 11 years), 8 adolescents (12 to 15 years) and 34 adults were treated with Privigen over 29 months. 771 infusions were administered and the median dose administered was 492.3 mg IgG/kg bw.
 
 ## ITP
 
 In the ITP pivotal study, in total 57 patients aged between 15 and 69 years old were treated with 2 infusions of Privigen for a total of 114 infusions. The scheduled dose of 1 g/kg bw per infusion was closely adhered to in all patients (median 2 g IgG/kg bw).
 
-<div style=\"page-break-after: always\"></div>
-
 In the second ITP study, 57 patients with ITP (baseline platelet counts ≤ 30×10 9 /l) aged between 18 and 65 years were treated with Privigen at 1 g/kg bw. On day 3 patients could receive a second dose of 1 g/kg bw, for patients with a platelet count of &lt; 50×10 9 /l on day 3 this second dose was mandatory. Overall, in 42 subjects (74%) the platelet count increased at least once to ≥ 50×10 9 /l within 6 days after the first infusion, which was well within the expected range. A second dose in subjects with platelet counts ≥ 50×10 9 /l after the first dose provided a relevant additional benefit in terms of higher and longer-lasting increases in platelet counts compared to a single dose. In subjects with platelet counts &lt; 50×10 9 /l after the first dose, 30% showed a platelet response of ≥ 50×10 9 /l after the mandatory second dose.
 
 ## CIDP
 
+<div style=\"page-break-after: always\"></div>
+
 In the first CIDP study, a prospective multicenter open label trial (Privigen impact on mobility and autonomy PRIMA study), 28 patients (13 subjects who have previously received IVIG and 15 subjects not) were treated with a Privigen loading dose of 2g/kg bw given over 2-5 days followed by 6 maintenance doses of 1g/kg bw over 1-2 days every three weeks. Previously treated patients were withdrawn from IVIG until confirmed deterioration before start of Privigen. On the adjusted 10 point INCAT (Inflammatory Neuropathy Cause and Treatment) scale a clinically meaningful improvement of at least 1-point from baseline to treatment week 25 was observed in 17 out of 28 patients. The INCAT responder rate was 60.7% (95% confidence interval [42.41, 76.4]). 9 patients responded after receiving the initial induction dose by week 4, 16 patients responded by week 10.
 
-Muscle strength as measured by the MRC (Medical Research Council) Score improved in all patients by 6.9 points (95% confidence interval [4.11, 9.75], in previously treated patients by 6.1 points (95% confidence interval [2.72, 9.44]) and in untreated patients by 7.7 points (95% confidence interval [2.89, 12.44]). The MRC responder rate, an increase of at least 3 points, was 84.8% which was similar in previously treated (81.5% [58.95, 100.00]) and untreated (86.7% [69.46, 100.00]) patients. In patients defined as INCAT non-responders, muscle strength improved by 5.5 points (95% confidence interval [0.6, 10.2]) as compared to INCAT responders (7.4 points (95% confidence interval [4.0, 11.7])
+Muscle strength as measured by the MRC (Medical Research Council) Score improved in all patients by 6.9 points (95% confidence interval [4.11, 9.75]), in previously treated patients by 6.1 points (95% confidence interval [2.72, 9.44]) and in untreated patients by 7.7 points (95% confidence interval [2.89, 12.44]). The MRC responder rate, an increase of at least 3 points, was 84.8% which was similar in previously treated (81.5% [58.95, 100.00]) and untreated (86.7% [69.46, 100.00]) patients. In patients defined as INCAT non-responders, muscle strength improved by 5.5 points (95% confidence interval [0.6, 10.2]) as compared to INCAT responders (7.4 points (95% confidence interval [4.0, 11.7])
 
 In a second prospective, multicenter randomized, placebo-controlled clinical study (Polyneuropathy and Treatment with Hizentra, PATH trial), 207 subjects with CIDP were treated with Privigen in the prerandomization phase of the study. Subjects all with IVIg pretreatment of at least 8 weeks and with an IVIg-dependence confirmed by clinically evident deterioration during an IVIg withdrawal phase of up to 12 weeks, received a Privigen loading dose of 2 g/kg bw followed by up to 4 Privigen maintenance doses of 1 g/kg bw every 3 weeks for up to 13 weeks. Following clinical deterioration during IVIg withdrawal, clinical improvement of CIDP was primarily defined by a decrease of ≥ 1 point at the adjusted INCAT score. Additional measures of CIDP improvement were an increase in R-ODS (Rasch-built Overall Disability Scale) score of ≥ 4 points, a mean grip strength increase of ≥ 8 kPa, or an MRC sum score increase of ≥ 3 points. Overall, 91 % of subjects (188 patients) showed improvement in at least one of the criteria above by week 13. By adjusted INCAT score, the responder rate by week 13 was 72.9 % (151/207 patients), with 149 patients responding already by week 10. A total of 43 of the 207 patients achieved a better CIDP status as assessed by the adjusted INCAT score compared to their CIDP status at study entry.
 
 The mean improvement at the end of the treatment period compared to reference visit was 1.4 points in the PRIMA (1.8 points in IVIg pretreated subjects) and 1.2 points in PATH study.
 
 In PRIMA, the percentage of responders in the overall Medical Research Council (MRC) score (defined as an increase by ≥ 3 points) was 85 % (87 % in the IVIg-untreated and 82 % in IVIgpretreated) and 57 % in PATH. The overall median time to first MRC sum score response in PRIMA was 6 weeks (6 weeks in the IVIg-untreated and 3 weeks in the IVIg-pretreated) and 9.3 weeks in PATH. MRC sum score in PRIMA improved by 6.9 points (7.7 points for IVIg-untreated and 6.1 points for IVIg-pretreated) and by 3.6 points in PATH.
-
-<div style=\"page-break-after: always\"></div>
 
 The grip strength of the dominant hand improved by 14.1 kPa (17.0 kPa in IVIg-untreated and 10.8 kPa in IVIg pretreated subjects) in the PRIMA study, while in PATH the grip strength of the dominant hand improved by 12.2 kPa. For the non dominant hand similar results were observed in both PRIMA and PATH trials.
 
@@ -494,6 +489,8 @@ The efficacy and safety profile in the PRIMA and the PATH study in CIDP patients
 ## Post-Authorisation Safety Study (PASS)
 
 In an observational hospital-based cohort Post-Authorisation Safety Study (PASS), the risk of haemolytic anaemia following Privigen therapy was evaluated in patients with various immunological conditions from 1 January 2008 to 30 April 2019. The risk of haemolytic anaemia was assessed prior (baseline) and after the implementation of a risk minimisation measure, the introduction of the Immunoaffinity Chromatography (IAC) step in the Privigen manufacturing process. Probable cases of haemolytic anaemia were defined by an ICD-9 or ICD-10 hospital discharge code specific for haemolytic anaemia. (Possible cases of haemolytic anaemia consisted of an unspecified transfusion reaction identified via ICD-9 or ICD-10 discharge codes or via review of hospital charge descriptions in temporal association with a haptoglobin, a direct antiglobulin test or indirect antiglobulin performed in the workup of haemolytic anaemia).
+
+<div style=\"page-break-after: always\"></div>
 
 A statistically significant rate reduction of 89% of haemolytic anaemia (based on an incidence rate ratio of 0.11; adjusted for in-/outpatient setting, age, sex, Privigen dose and indication for Privigen use; one-sided p-value &lt;0.01) was observed after implementation of the IAC step compared to baseline:
 
@@ -508,22 +505,6 @@ A statistically significant rate reduction of 89% of haemolytic anaemia (based o
 | Incidence rate reduction of probable haemolytic anaemia α versus baseline             | -                                  | 89%                                              |
 | Adjusted ꝣ incidence rate ratio for haemolytic anaemia versus baseline                | -                                  | 0.11 95% CI: 0.04-0.31, one-sided p-value: <0.01 |
 
-ɸ
-
-The exclusion of human blood plasma donors with high anti-A titres performed between 1. October 2013 and
-
-31. December 2015 as the initial risk minimisation measure for haemolytic anaemia indicated a 38% reduction in probable haemolytic anaemia incidence versus baseline and was subsequently replaced by the IAC step in the Privigen manufacturing process, as provided above.
-
-£  Median isoagglutinin titers measured by direct testing method according to Ph.Eur
-
-α Probable haemolytic anaemia case: defined by an ICD-9 or ICD-10 hospital discharge code specific for haemolytic anaemia and the occurrence during the time interval from the first infusion up to 30 days after the last infusion, if &gt;1 Privigen infusions were administered.
-
-&amp;  Confidence interval
-
-ꝣ Adjusted for: in-/outpatient setting, age, sex, Privigen dose and indication for Privigen use
-
-<div style=\"page-break-after: always\"></div>
-
 The reduction in probable haemolytic anaemia incidence rate after IAC implementation versus baseline was especially pronounced in patients treated with Privigen doses ≥0.75 g/kg bw.
 
 Additionally, 28 paediatric patients with CIDP &lt;18 years of age were identified throughout the entire study period from 1 January 2008 to 30 April 2019. No paediatric patients with CIDP given a total of 486 Privigen administrations experienced haemolytic anaemia, AMS, acute renal failure, severe anaphylactic reaction or a thromboembolic event. Two patients experienced a moderate anaphylactic reaction, equating to 0.4% of all Privigen administrations.
@@ -531,6 +512,8 @@ Additionally, 28 paediatric patients with CIDP &lt;18 years of age were identifi
 ## Paediatric population
 
 No differences were observed in the pharmacodynamic properties and safety profile between adult and paediatric study patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -556,17 +539,27 @@ IgG and IgG complexes are broken down in the cells of the reticuloendothelial sy
 
 Cmax, maximum serum concentration; Cmin, trough (minimum level) serum concentration; t½, elimination half-life
 
+## Measles pre-/post exposure prophylaxis
+
+No clinical studies have been performed in susceptible patients regarding Measles pre-/post exposure prophylaxis .
+
+Privigen meets the minimum measles antibody potency specification threshold of 0.36 x Center for Biologics Evaluation and Research (CBER) Standard. The dosing is based on pharmacokinetic calculations, which take body weight, blood volume and half-life of immunoglobulins into consideration. These calculations predict a:
+
+- Serum titre at 13.5 days = 270 mIU/ml (dose: 0.4 g/kg). This provides a safety margin more than double that of the WHO protective titre of 120 mIU/ml.
+- Serum titre at 22 days (t1/2) = 180 mIU/ml (dose: 0.4 g/kg)
+- Serum titre at 22 days (t1/2) = 238.5 mIU/ml (dose: 0.53 g/kg -pre-exposure prophylaxis)
+
 ## Paediatric population
 
-No differences were seen in the pharmacokinetic parameters between adult and paediatric study patients with PID. There are no data on pharmacokinetic properties in paediatric patients with CIDP.
+No differences were seen in the pharmacokinetic parameters between adult and paediatric study patients with PID. There are no data on Privigen pharmacokinetic properties in paediatric patients with measles or CIDP.
 
 ## 5.3 Preclinical safety data
 
 Immunoglobulins are a normal constituent of the human body. L-proline is a physiological, nonessential amino acid.
 
-<div style=\"page-break-after: always\"></div>
+The safety of Privigen has been assessed in several preclinical studies, with particular reference to the excipient L-proline. Some published studies pertaining to hyperprolinaemia have shown that long- term, high doses of L-proline have effects on brain development in very young rats. However, in studies where the dosing was designed to reflect the clinical indications for Privigen, no effects on brain development were observed. Non-clinical data reveal no special risk for humans based on safety pharmacology and toxicity studies.
 
-The safety of Privigen has been assessed in several preclinical studies, with particular reference to the excipient L-proline. Some published studies pertaining to hyperprolinaemia have shown that longterm, high doses of L-proline have effects on brain development in very young rats. However, in studies where the dosing was designed to reflect the clinical indications for Privigen, no effects on brain development were observed. Non-clinical data reveal no special risk for humans based on safety pharmacology and toxicity studies.
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -582,7 +575,7 @@ This medicinal product must not be mixed with other medicinal products, diluents
 
 3 years
 
-## Stability after first opening:
+Stability after first opening:
 
 Once the vial has been broached, its contents should be used promptly. Because the solution contains no preservative, Privigen should be infused immediately.
 
@@ -604,11 +597,9 @@ For storage conditions after first opening of the medicinal product and after di
 
 200 or 400 ml of solution in a single vial (type II glass), with a stopper (elastomeric), a cap (aluminium crimp), a flip off disc (plastic), label with integrated hanger.
 
+Pack sizes 1 vial (2.5 g/25 ml, 5 g/50 ml, 10 g/100 ml, 20 g/200 ml or 40 g/400 ml), 3 vials (10 g/100 ml or 20 g/200 ml).
+
 <div style=\"page-break-after: always\"></div>
-
-1 vial (2.5 g/25 ml, 5 g/50 ml, 10 g/100 ml, 20 g/200 ml or 40 g/400 ml),
-
-Pack sizes 3 vials (10 g/100 ml or 20 g/200 ml).
 
 Not all pack sizes may be marketed.
 
@@ -628,7 +619,9 @@ CSL Behring GmbH Emil-von-Behring-Strasse 76 D-35041 Marburg Germany
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/08/446/001 EU/1/08/446/002 EU/1/08/446/003 EU/1/08/446/004 EU/1/08/446/005 EU/1/08/446/006 EU/1/08/446/007
+EU/1/08/446/001 EU/1/08/446/002 EU/1/08/446/003 EU/1/08/446/004 EU/1/08/446/005 EU/1/08/446/006
+
+EU/1/08/446/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -636,7 +629,7 @@ Date of first authorisation: 25 April 2008 Date of latest renewal: 28 November 2
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -653,11 +646,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-CSL Behring AG Wankdorfstrasse 10, 3000 Bern 22 Switzerland or
+CSL Behring AG Wankdorfstrasse 10, 3000 Bern 22 Switzerland
+
+or
 
 CSL Behring (Australia) Pty Ltd 189-209 Camp Road Broadmeadows, Vic 3047, Australia
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 CSL Behring GmbH Emil-von-Behring-Strasse 76 D-35041 Marburg Germany
 
@@ -689,7 +684,6 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -705,7 +699,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER BOX
+OUTER BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -735,9 +729,7 @@ Will be placed in the upper right corner of the main face of the box to give tot
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: L-proline, water for injections, hydrochloric acid, sodium hydroxide.
-
-See leaflet for further information.
+Excipients: L-proline, water for injections, hydrochloric acid, sodium hydroxide. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -807,7 +799,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -833,7 +825,9 @@ VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Privigen 100 mg/ml solution for infusion human normal immunoglobulin (IVIg)
+Privigen 100 mg/ml solution for infusion
+
+human normal immunoglobulin (IVIg)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -885,7 +879,7 @@ Do not store above 25 °C. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -913,7 +907,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -925,15 +919,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Privigen 100 mg/ml (10%) solution for infusion
-
-human normal immunoglobulin (IVIg)
+## Privigen 100 mg/ml (10%) solution for infusion human normal immunoglobulin (IVIg)
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or healthcare professional.
-- -If you get any side effects, talk to your doctor or healthcare professional. This includes any possible side effects not listed in this leaflet.
+- -If you get any side effects, talk to your doctor or healthcare professional. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -958,17 +950,18 @@ Privigen contains immunoglobulins that have been prepared from the blood of heal
 
 Privigen is used for the treatment of adults and children (0-18 years) in the following situations:
 
-- A) To increase abnormally low immunoglobulin levels in your blood to normal levels (replacement therapy):
+- A) To increase abnormally low immunoglobulin levels in your blood to normal levels (replacement therapy). There are 2 groups:
 1. Patients who are born with a reduced ability or inability to produce immunoglobulins (primary immunodeficiencies (PID)).
 2. Patients with an acquired immunodeficiency (SID) who suffer from severe or recurrent infections, ineffective antimicrobial treatment and either proven specific antibody failure or serum IgG level of &lt;4 g/l.
-- B) To treat certain inflammatory disorders (immunomodulation). There are 5 groups:
-1. Patients who do not have enough blood platelets (primary immune thrombocytopenia (ITP) and who are at high risk of bleeding or will have surgery in the near future.
-2. Patients with Guillain-Barré syndrome. This is an acute disease that is characterised by inflammation of the peripheral nerves that causes severe muscle weakness mainly in the legs and upper limbs.
+- B) Patients who have been exposed to measles and are susceptible to measles or are at risk of measles exposure and in whom active vaccination against measles is not indicated or not advised.
+- C) To treat certain inflammatory disorders (immunomodulation). There are 5 groups:
 
 <div style=\"page-break-after: always\"></div>
 
+1. Patients who do not have enough blood platelets (primary immune thrombocytopenia (ITP) and who are at high risk of bleeding or will have surgery in the near future.
+2. Patients with Guillain-Barré syndrome. This is an acute disease that is characterised by inflammation of the peripheral nerves that causes severe muscle weakness mainly in the legs and upper limbs.
 3. Patients with Kawasaki disease. This is an acute disease that primarily affects young children. It is characterised by inflammation of blood vessels throughout the body.
-4. Patients with chronic inflammatory demyelinating polyneuropathy (CIDP). This is a chronic disease that is characterised by inflammation of the peripheral nerves that causes muscle weakness and/or numbness mainly in the legs and upper limbs.
+4. Patients with chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). This is a chronic disease that is characterised by inflammation of the peripheral nerves that causes muscle weakness and/or numbness mainly in the legs and upper limbs.
 5. Patients with multifocal motor neuropathy (MMN). This is a slowly progressive disease of the motor nerves with weakness of arms and legs.
 
 ## 2. What you need to know before you are given Privigen
@@ -995,12 +988,12 @@ Privigen is used for the treatment of adults and children (0-18 years) in the fo
 
 For your personal safety, treatment with Privigen will take place under the supervision of your doctor or healthcare professional. You will usually be observed during the whole infusion and for at least 20 minutes thereafter. In certain circumstances, special precautions may be necessary. Examples of such circumstances are:
 
+<div style=\"page-break-after: always\"></div>
+
 - you are receiving Privigen at a high infusion rate or
 - you are receiving Privigen for the first time or after a long break in treatment (e.g. several months).
 
 In these cases you will be closely observed during the whole infusion and for at least 1 hour afterwards.
-
-<div style=\"page-break-after: always\"></div>
 
 ## When may slowing or stopping the infusion be required?
 
@@ -1034,11 +1027,11 @@ Immunoglobulins have not been associated with hepatitis A or parvovirus B19 infe
 
 ## Other medicines and Privigen
 
+<div style=\"page-break-after: always\"></div>
+
 -  Tell your doctor or healthcare professional if you are using, have recently used or might use any other medicines.
 
 The concomitant use of medicines that increase the excretion of water from your body (loop diuretics) should be avoided during treatment with Privigen. Your doctor will decide whether you should use or continue treatment with loop diuretics.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Vaccinations
 
@@ -1074,9 +1067,9 @@ Privigen is intended solely for the infusion into a vein (intravenous infusion).
 
 ## If you receive more Privigen than you should
 
-Overdose is very unlikely to occur because Privigen is usually administered under medical supervision. If, in spite of this, you receive more Privigen than you should, your blood may become too thick (hyperviscous) which might increase the risk of developing blood clots. This may happen particularly if you are a patient at risk, for example if you are elderly or if you suffer from a heart or kidney disease. Tell your doctor if you are known to have medical problems.
-
 <div style=\"page-break-after: always\"></div>
+
+Overdose is very unlikely to occur because Privigen is usually administered under medical supervision. If, in spite of this, you receive more Privigen than you should, your blood may become too thick (hyperviscous) which might increase the risk of developing blood clots. This may happen particularly if you are a patient at risk, for example if you are elderly or if you suffer from a heart or kidney disease. Tell your doctor if you are known to have medical problems.
 
 ## 4. Possible side effects
 
@@ -1102,13 +1095,11 @@ Very Common (may occur with more than 1 in 10 patients):
 
 Headache (including sinus headache, migraine, head discomfort, tension headache), pain (including ba ck pain, pain in extremity, pain in joints and bones (arthralgia), neck pain, facial pain), fever (includin g chills), flu-like illness (including runny nose (nasopharyngitis), sore throat (pharyngolaryngeal pain), blisters in mouth and throat (oropharyngeal blistering), throat tightness.
 
-## Common (may occur with up to 1 in 10 patients):
-
-Temporary lowering of red blood cell count (anaemia), breakdown of red blood cells (haemolysis including haemolytic anaemia) β , decreased number of white blood cells (leukopenia), hypersensitivity,
-
 <div style=\"page-break-after: always\"></div>
 
-dizziness (including vertigo), high blood pressure (hypertension), flushing (including hot flush, hyperaemia), hypotension (including decreased blood pressure), breathlessness (dyspnoea including chest pain, chest discomfort, painful breathing), upset stomach (nausea), vomiting, loose stools (diarrhea), stomach pain, skin disorder (including rash, itching (pruritus), hives (urticaria), maculopapular rash, redness of the skin (erythema), peeling of the skin (skin exfoliation)), pain in the muscles (including muscle cramps and rigidity), tiredness (fatigue), physical weakness (asthenia), weakness in the muscles.
+## Common (may occur with up to 1 in 10 patients):
+
+Temporary lowering of red blood cell count (anaemia), breakdown of red blood cells (haemolysis including haemolytic anaemia) β , decreased number of white blood cells (leukopenia), hypersensitivity, dizziness (including vertigo), high blood pressure (hypertension), flushing (including hot flush, hyperaemia), hypotension (including decreased blood pressure), breathlessness (dyspnoea including chest pain, chest discomfort, painful breathing), upset stomach (nausea), vomiting, loose stools (diarrhea), stomach pain, skin disorder (including rash, itching (pruritus), hives (urticaria), maculopapular rash, redness of the skin (erythema), peeling of the skin (skin exfoliation)), pain in the muscles (including muscle cramps and rigidity), tiredness (fatigue), physical weakness (asthenia), weakness in the muscles.
 
 Routine laboratory tests may commonly reveal changes to liver functions (hyperbilirubinaemia) as well as changes in blood count (e.g. Coombs' (direct) test positive), increased alanine aminotransferase, increased aspartate aminotransferase, increased blood lactate dehydrogenase).
 
@@ -1136,9 +1127,10 @@ If you get any side effects, talk to your doctor or healthcare professional. Thi
 - Do not store above 25 °C.
 - Do not freeze.
 - Keep the vial in the outer carton in order to protect from light.
-- Do not use this medicine if you notice that the solution is cloudy or contains particles floating within the solution.
 
 <div style=\"page-break-after: always\"></div>
+
+- Do not use this medicine if you notice that the solution is cloudy or contains particles floating within the solution.
 
 ## 6. Contents of the pack and other information
 
@@ -1212,7 +1204,7 @@ CSL Behring s.r.o.
 
 Tel: +420 702 137 233
 
-Malta
+## Malta
 
 AM Mangion Ltd.
 
@@ -1230,19 +1222,13 @@ CSL Behring BV
 
 Tel: +31 85 111 96 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
 CSL Behring GmbH
 
 Tel: +49 619 07584810
-
-Norge
-
-CSL Behring AB
-
-Tlf: +46 8 544 966 70
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1316,15 +1302,17 @@ Tel: +370 5 243 0444
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
 --------------------------------------------------------------------------------------------------------------------------
 
 The following information is intended for healthcare professionals only:
 
-## Posology and method of administration
+## Norge
 
-The dosage recommendations are summarised in the following table:
+CSL Behring AB
+
+Tlf: +46 8 544 966 70
 
 ## Österreich
 
@@ -1376,25 +1364,36 @@ Tel: +46 8 544 966 70
 
 <div style=\"page-break-after: always\"></div>
 
-| Indication                                                | Dose                                                                 | Frequency of injections                                                                |
-|-----------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Replacement therapy                                       |                                                                      |                                                                                        |
-| Primary immunodeficiency syndromes (PID)                  | starting dose: 0.4 - 0.8 g/kg bw maintenance dose: 0.2 - 0.8 g/kg bw | every 3 to 4 weeks to obtain IgG trough levels of at least 6 g/l                       |
-| Secondary immunodeficiencies (as defined in 4.1)          | 0.2 - 0.4 g/kg bw                                                    | every 3 to 4 weeks to obtain IgG trough levels of at least 6 g/l                       |
-| Immunomodulation                                          |                                                                      |                                                                                        |
-| Primary immune thrombocytopenia (ITP)                     | 0.8 - 1 g/kg bw or 0.4 g/kg bw/d                                     | on day 1, possibly repeated once within 3 days for 2 to 5 days                         |
-| Guillain-Barré syndrome                                   | 0.4 g/kg bw/d                                                        | for 5 days                                                                             |
-| Kawasaki disease                                          | 2 g/kg bw                                                            | in one dose in association with acetylsalicylic acid                                   |
-| Chronic inflammatory demyelinating polyneuropathy (CIDP)* | starting dose: 2 g/kg bw maintenance dose: 1 g/kg bw                 | in divided doses over 2 to 5 days every 3 weeks over 1 to 2 days                       |
-| Multifocal Motor Neuropathy (MMN)                         | starting dose : 2 g/kg bw maintenance dose: 1 g/kg bw or 2 g/kg bw   | over 2 to 5 consecutive days every 2 to 4 weeks or every 4 to 8 weeks over 2 to 5 days |
+## Posology and method of administration
+
+The dosage recommendations are summarised in the following table:
+
+| Indication                                                       | Dose                                               | Frequency of injections                                                                                                                     |
+|------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Replacement therapy                                              |                                                    |                                                                                                                                             |
+| Primary immunodeficiency syndromes (PID)                         | Starting dose: 0.4 - 0.8 g/kg                      |                                                                                                                                             |
+| Primary immunodeficiency syndromes (PID)                         | Maintenance dose: 0.2 - 0.8 g/kg                   | every 3-4 weeks                                                                                                                             |
+| Secondary immunodeficiencies                                     | 0.2 - 0.4 g/kg                                     | every 3-4 weeks                                                                                                                             |
+| Measles pre/post exposure prophylaxis:                           |                                                    |                                                                                                                                             |
+| Post-exposure prophylaxis in susceptible patients                | 0.4 g/kg                                           | As soon as possible and within 6 days, possibly to be repeated once after 2 weeks to maintain the measles antibody serum level >240 mIU/ml  |
+| Post-exposure prophylaxis in PID/SID patients                    | 0.4 g/kg                                           | In addition to maintenance therapy, given as an extra dose within 6 days of exposure                                                        |
+| Pre-exposure prophylaxis in PID/SID patients                     | 0.53 g/kg                                          | If a patient receives a maintenance dose of less than 0.53 g/kg every 3- 4 weeks, this dose should be increased once to at least 0.53 g/kg. |
+| Immunomodulation                                                 |                                                    |                                                                                                                                             |
+| Primary immune thrombocytopenia (ITP)                            | 0.8 - 1 g/kg or 0.4 g/kg/d                         | on day 1, possibly repeated once within 3 days for 2-5 days                                                                                 |
+| Guillain-Barré syndrome                                          | 0.4 g/kg/d                                         | for 5 days                                                                                                                                  |
+| Kawasaki disease                                                 | 2 g/kg                                             | in one dose in association with acetylsalicylic acid                                                                                        |
+| Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) | Starting dose: 2 g/kg Maintenance dose: 1 g/kg     | in divided doses over 2-5 days every 3 weeks over 1-2 days                                                                                  |
+| Multifocal Motor Neuropathy (MMN)                                | Starting dose : 2 g/kg Maintenance dose: 1 g/kg or | over 2-5 consecutive days every 2-4 weeks or                                                                                                |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
-## For intravenous use.
+For intravenous use.
 
-Human normal immunoglobulin should be infused intravenously at an initial infusion rate of 0.3 ml/kg bw/hr for approximately 30 min. If well tolerated, the rate of administration may gradually be increased to 4.8 ml/kg bw/hr.
+Human normal immunoglobulin should be infused intravenously at an initial infusion rate of 0.3 ml/kg/hr for approximately 30 min. If well tolerated, the rate of administration may gradually be increased to 4.8 ml/kg/hr.
 
-In PID patients who have tolerated the infusion rate of 4.8 ml/kg bw/hr well, the rate may be further increased gradually to a maximum of 7.2 ml/kg bw/hr.
+In PID patients who have tolerated the infusion rate of 4.8 ml/kg/hr well, the rate may be further increased gradually to a maximum of 7.2 ml/kg/hr.
 
 If dilution prior to infusion is desired, Privigen may be diluted with 5% glucose solution to a final concentration of 50 mg/ml (5%).
 
@@ -1403,8 +1402,6 @@ If dilution prior to infusion is desired, Privigen may be diluted with 5% glucos
 In case of adverse reaction, either the rate of administration must be reduced or the infusion stopped. It is strongly recommended that every time Privigen is administered to a patient, the name and batch number of the product are recorded in order to maintain a link between the patient and the batch of the product.
 
 ## Incompatibilities
-
-<div style=\"page-break-after: always\"></div>
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in the section below.
 

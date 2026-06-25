@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 10:06:09
-document_pages: 55
+document_datetime: 2026-06-23 11:46:53
+document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf
 document_name: enzalutamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 25.6007653
-conversion_datetime: 2026-02-25 11:51:51.579082
+processing_time: 30.7403767
+conversion_datetime: 2026-06-25 17:18:07.876208
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,21 +48,21 @@ Film-coated tablet (tablet)
 
 Enzalutamide Viatris 40 mg film-coated tablets
 
-Yellow, round, film-coated tablets, debossed with '40' on one side, with a diameter of approximately 10 mm
+Yellow, round, filmcoated tablets, debossed with '40' on one side, with a diameter of approximately 10 mm
 
 ## Enzalutamide Viatris 80 mg film-coated tablets
 
-Yellow, oval, film-coated tablets, debossed with '80' on one side, with dimensions of approximately 17 mm x 9 mm
+Yellow, oval, filmcoated tablets, debossed with '80' on one side, with dimensions of approximately 17 mm x 9 mm
 
 ## Enzalutamide Viatris 160 mg film-coated tablets
 
-Yellow, oval, film-coated tablets, debossed with '160' on one side, with dimensions of approximately 23 mm x 11 mm
+Yellow, oval, filmcoated tablets, debossed with '160' on one side, with dimensions of approximately 23 mm x 11 mm
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Enzalutamide Viatris is indicated:
+## Enzalutamide Viatris is indicated:
 
 - as monotherapy or in combination with androgen deprivation therapy for the treatment of adult men with high-risk biochemical recurrent (BCR) non-metastatic hormone-sensitive prostate cancer (nmHSPC) who are unsuitable for salvage-radiotherapy (see section 5.1).
 - in combination with androgen deprivation therapy for the treatment of adult men with metastatic hormone-sensitive prostate cancer (mHSPC) (see section 5.1).
@@ -83,7 +83,7 @@ The recommended dose is 160 mg enzalutamide (four 40 mg film-coated tablets or t
 
 Medical castration with a luteinising hormone-releasing hormone (LHRH) analogue should be continued during treatment of patients with CRPC or mHSPC who are not surgically castrated.
 
-Patients with high-risk BCR nmHSPC may be treated with Enzalutamide Viatris with or without a LHRH analogue. For patients who receive Enzalutamide Viatris with or without a LHRH analogue, treatment can be suspended if PSA is undetectable (&lt; 0.2 ng/mL) after 36 weeks of therapy. Treatment should be reinitiated when PSA has increased to ≥ 2.0 ng/mL for patients who had prior radical prostatectomy or ≥ 5.0 ng/mL for patients who had prior primary radiation therapy. If PSA is detectable (≥ 0.2 ng/mL) after 36 weeks of therapy, treatment should continue (see section 5.1).
+Patients with high-risk BCR nmHSPC may be treated with Enzalutamide Viatris with or without a LHRH analogue. For patients who receive Enzalutamide Viatris with or without a LHRH analogue, treatment can be suspended if PSA is undetectable (&lt; 0.2 ng/mL) after 36 weeks of therapy. Treatment should be reinitiated when PSA has increased to ≥ 2.0 ng/mL for patients who had prior radical prostatectomy or ≥ 5.0 ng/ mL for patients who had prior primary radiation therapy. If PSA is detectable (≥ 0.2 ng/mL) after 36 w eeks of therapy, treatment should continue (see section 5.1).
 
 If a patient misses taking Enzalutamide Viatris at the usual time, the prescribed dose should be taken as close as possible to the usual time. If a patient misses a dose for a whole day, treatment should be resumed the following day with the usual daily dose.
 
@@ -182,15 +182,13 @@ Results of the EMBARK study suggest that enzalutamide as monotherapy and in comb
 
 ## Dysphagia related to product formulation
 
-There have been reports of patients experiencing difficulty swallowing enzalutamide, including reports of choking. The swallowing difficulties and choking events were mostly reported with the capsule
+There have been reports of patients experiencing difficulty swallowing enzalutamide, including reports of choking. The swallowing difficulties and choking events were mostly reported with the capsule formulation, which could be related to a larger product size. Patients should be advised to swallow the tablets whole with a sufficient amount of water.
 
 <div style=\"page-break-after: always\"></div>
 
-formulation, which could be related to a larger product size. Patients should be advised to swallow the tablets whole with a sufficient amount of water.
-
 ## Excipients
 
-This medicine contains less than 1 mmol sodium (less than 23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (less than 23 mg) per film-coated tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -303,7 +301,7 @@ enzalutamide may have moderate influence on the ability to drive and use machine
 
 ## Summary of the safety profile
 
-The most common adverse reactions are asthenia/fatigue, hot flush, hypertension, fractures, and fall. Other important adverse reactions include ischemic heart disease and seizure.
+The most common adverse reactions are asthenia/fatigue, hot flush, hypertension, fractures, fall and headache. Other important adverse reactions include ischemic heart disease and seizure.
 
 Seizure occurred in 0.6% of enzalutamide-treated patients, 0.1% of placebo-treated patients and 0.3% in bicalutamide-treated patients.
 
@@ -317,17 +315,17 @@ Adverse reactions observed during clinical studies are listed below by frequency
 
 Table 1: Adverse reactions identified in controlled clinical trials and post-marketing
 
-| MedDRA System organ class            | Adverse reaction and frequency                                                                                                                                                                               |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Uncommon: leucopenia, neutropenia Not known * : thrombocytopenia                                                                                                                                             |
-| Immune system disorders              | Not known * : face oedema, tongue oedema, lip oedema, pharyngeal oedema                                                                                                                                      |
-| Metabolism and nutrition disorders   | Not known * : decreased appetite                                                                                                                                                                             |
-| Psychiatric disorders                | Common: anxiety Uncommon: visual hallucination                                                                                                                                                               |
-| Nervous system disorders             | Common: headache, memory impairment, amnesia, disturbance in attention, dysgeusia, restless legs syndrome, cognitive disorder Uncommon: seizure ¥ Not known * : posterior reversible encephalopathy syndrome |
-| Cardiac disorders                    | Common: ischemic heart disease † Not known * : QT-prolongation (see sections 4.4 and 4.5)                                                                                                                    |
-| Vascular disorders                   | Very common: hot flush, hypertension                                                                                                                                                                         |
-| Gastrointestinal disorders           | Not known * : dysphagia ∞ , nausea, vomiting, diarrhoea                                                                                                                                                      |
-| Hepatobiliary disorders              | Uncommon: hepatic enzymes increased                                                                                                                                                                          |
+| MedDRA System organ class            | Adverse reaction and frequency                                                                                                                                                                                           |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders | Uncommon: leucopenia, neutropenia Not known * : thrombocytopenia                                                                                                                                                         |
+| Immune system disorders              | Not known * : face oedema, tongue oedema, lip oedema, pharyngeal oedema                                                                                                                                                  |
+| Metabolism and nutrition disorders   | Not known * : decreased appetite                                                                                                                                                                                         |
+| Psychiatric disorders                | Common: anxiety Uncommon: visual hallucination                                                                                                                                                                           |
+| Nervous system disorders             | Very common: headache Common: memory impairment, amnesia, disturbance in attention, dysgeusia, restless legs syndrome, cognitive disorder Uncommon: seizure ¥ Not known * : posterior reversible encephalopathy syndrome |
+| Cardiac disorders                    | Common: ischemic heart disease † Not known * : QT-prolongation (see sections 4.4 and 4.5)                                                                                                                                |
+| Vascular disorders                   | Very common: hot flush, hypertension                                                                                                                                                                                     |
+| Gastrointestinal disorders           | Not known * : dysphagia ∞ , nausea, vomiting, diarrhoea                                                                                                                                                                  |
+| Hepatobiliary disorders              | Uncommon: hepatic enzymes increased                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -340,17 +338,17 @@ Table 1: Adverse reactions identified in controlled clinical trials and post-mar
 | Injury, poisoning and procedural complications       | Very common: fall                                                                            |
 
 *   Spontaneous reports from post-marketing experience.
-- ¥   As evaluated by narrow SMQs of 'Convulsions' including convulsion, grand mal convulsion, complex partial seizures, partial seizures, and status epilepticus. This includes rare cases of seizure with complications leading to death.
-- †   As evaluated by narrow SMQs of 'Myocardial Infarction' and 'Other Ischemic Heart Disease' including the following preferred terms observed in at least two patients in randomized placebo-controlled phase 3 studies: angina pectoris, coronary artery disease, myocardial infarctions, acute myocardial infarction, acute coronary syndrome, angina unstable, myocardial ischaemia, and arteriosclerosis coronary artery.
+- ¥ As evaluated by narrow SMQs of 'Convulsions' including convulsion, grand mal convulsion, complex partial seizures, partial seizures, and status epilepticus. This includes rare cases of seizure with complications leading to death.
+- † As evaluated by narrow SMQs of 'Myocardial Infarction' and 'Other Ischemic Heart Disease' including the following preferred terms observed in at least two patients in randomized placebo-controlled phase 3 studies: angina pectoris, coronary artery disease, myocardial infarctions, acute myocardial infarction, acute coronary syndrome, angina unstable, myocardial ischaemia, and arteriosclerosis coronary artery.
 - ‡ Includes all preferred terms with the word 'fracture' in bones.
 - #   Adverse reactions for enzalutamide as monotherapy.
-- ∞  There have been reports of dysphagia, including reports of choking. Both events have mostly been reported with the capsule formulation, which could be related to a larger product size (see section 4.4).
+- ∞ There have been reports of dysphagia, including reports of choking. Both events have mostly been reported with the capsule formulation, which could be related to a larger product size (see section 4.4).
 
 ## Description of selected adverse reactions
 
 ## Seizure
 
-In controlled clinical studies, 31 patients (0.6%) experienced a seizure out of 5 110 patients treated with a daily dose of 160 mg enzalutamide, whereas four patients (0.1%) receiving placebo and one patient (0.3%) receiving bicalutamide, experienced a seizure. Dose appears to be an important predictor of the risk of seizure, as reflected by preclinical data, and data from a dose-escalation study. In the controlled clinical studies, patients with prior seizure or risk factors for seizure were excluded.
+In controlled clinical studies, 31 patients (0.6%) experienced a seizure out of 5 112 patients treated with a daily dose of 160 mg enzalutamide, whereas four patients (0.1%) receiving placebo and one patient (0.3%) receiving bicalutamide, experienced a seizure. Dose appears to be an important predictor of the risk of seizure, as reflected by preclinical data, and data from a dose-escalation study. In the controlled clinical studies, patients with prior seizure or risk factors for seizure were excluded.
 
 In the 9785-CL-0403 (UPWARD) single-arm trial to assess incidence of seizure in patients with predisposing factors for seizure (whereof 1.6% had a history of seizures), 8 of 366 (2.2%) patients treated with enzalutamide experienced a seizure. The median duration of treatment was 9.3 months.
 
@@ -358,25 +356,23 @@ The mechanism by which enzalutamide may lower the seizure threshold is not known
 
 ## Ischemic Heart Disease
 
-In randomised placebo-controlled clinical studies, ischemic heart disease occurred in 3.5% of patients treated with enzalutamide plus ADT compared to 2% of patients treated with placebo plus ADT. Fourteen (0.4%) patients treated with enzalutamide plus ADT and 3 (0.1%) patients treated with placebo plus ADT had an ischemic heart disease event that led to death.
+In randomised placebo-controlled clinical studies, ischemic heart disease occurred in 3.5% of patients treated with enzalutamide plus ADT compared to 2.1% of patients treated with placebo plus ADT. Fifteen (0.4%) patients treated with enzalutamide plus ADT and 3 (0.1%) patients treated with placebo plus ADT had an ischemic heart disease event that led to death.
 
-In the EMBARK study, ischemic heart disease occurred in 5.4% of patients treated with enzalutamide plus leuprolide and 9% of patients treated with enzalutamide as monotherapy. No patients treated with enzalutamide plus leuprolide and one (0.3%) patient treated with enzalutamide as monotherapy had an ischemic heart disease event that led to death.
+In the EMBARK study, ischemic heart disease occurred in 6.2% of patients treated with enzalutamide plus leuprolide and 10.7% of patients treated with enzalutamide as monotherapy. One (0.3%) patient treated with enzalutamide plus leuprolide, one (0.3%) patient treated with placebo plus leuprolide and one (0.3%) patient treated with enzalutamide as monotherapy had an ischemic heart disease event that led to death.
 
 ## Gynaecomastia
 
-In the EMBARK study, gynaecomastia (all grades) was observed in 29 of 353 patients (8.2%) who were treated with enzalutamide plus leuprolide and 159 of 354 patients (44.9%) who were treated with enzalutamide as monotherapy. Grade 3 or higher gynaecomastia was not observed in any patients who
+In the EMBARK study, gynaecomastia (all grades) was observed in 31 of 353 patients (8.8%) who were treated with enzalutamide plus leuprolide and 163 of 354 patients (46%) who were treated with enzalutamide as monotherapy. Grade 3 or higher gynaecomastia was not observed in any patients who were treated with enzalutamide plus leuprolide, and was observed in 1 patient (0.3%) treated with placebo plus leuprolide and 3 patients (0.8%) who were treated with enzalutamide as monotherapy.
 
 <div style=\"page-break-after: always\"></div>
 
-were treated with enzalutamide plus leuprolide, and was observed in 3 patients (0.8%) who were treated with enzalutamide as monotherapy.
-
 ## Nipple pain
 
-In the EMBARK study, nipple pain (all grades) was observed in 11 of 353 patients (3.1%) who were treated with enzalutamide plus leuprolide and 54 of 354 patients (15.3%) who were treated with enzalutamide as monotherapy. Grade 3 or higher nipple pain was not observed in any patients who were treated with enzalutamide plus leuprolide or with enzalutamide as monotherapy.
+In the EMBARK study, nipple pain (all grades) was observed in 13 of 353 patients (3.7%) who were treated with enzalutamide plus leuprolide and 54 of 354 patients (15.3%) who were treated with enzalutamide as monotherapy. Grade 3 or higher nipple pain was not observed in any patients who were treated with enzalutamide plus leuprolide or with enzalutamide as monotherapy.
 
 ## Breast tenderness
 
-In the EMBARK study, breast tenderness (all grades) was observed in 5 of 353 patients (1.4%) who were treated with enzalutamide plus leuprolide and 51 of 354 patients (14.4%) who were treated with enzalutamide as monotherapy. Grade 3 or higher breast tenderness was not observed in any patients who were treated with enzalutamide plus leuprolide or with enzalutamide as monotherapy.
+In the EMBARK study, breast tenderness (all grades) was observed in 4 of 353 patients (1.1%) who were treated with enzalutamide plus leuprolide and 51 of 354 patients (14.4%) who were treated with enzalutamide as monotherapy. Grade 3 or higher breast tenderness was not observed in any patients who were treated with enzalutamide plus leuprolide or with enzalutamide as monotherapy.
 
 ## Reporting of suspected adverse reactions
 
@@ -408,7 +404,7 @@ In a phase 2 clinical trial (TERRAIN) in chemo-naïve patients, patients receivi
 
 In a single arm trial (9785-CL-0410) of patients previously treated with at least 24 weeks of abiraterone (plus prednisone), 22.4% had a ≥ 50% decrease from baseline in PSA levels. According to prior chemotherapy history, the results proportion of patients with a ≥ 50% decrease in PSA levels were 22.1% and 23.2%, for the no prior chemotherapy and prior chemotherapy patient groups, respectively.
 
-In the MDV3100-09 clinical trial (STRIVE) of non-metastatic and metastatic CRPC, patients receiving enzalutamide demonstrated a significantly higher total confirmed PSA response rate (defined as a ≥ 50% reduction from baseline) compared with patients receiving bicalutamide, 81.3% versus 31.3% (difference = 50.0%, p &lt; 0.0001).
+In the MDV3100-09 clinical trial (STRIVE) of non-metastatic and metastatic CRPC, patients receiving enzalutamide demonstrated a significantly higher total confirmed PSA response rate (defined as a ≥ 50% reduction from baseline) compared with patients recei ving bicalutamide, 81.3% versus 31.3% (difference = 50.0%, p &lt; 0.0001).
 
 In the MDV3100-14 clinical trial (PROSPER) of non-metastatic CRPC, patients receiving enzalutamide demonstrated a significantly higher confirmed PSA response rate (defined as a ≥ 50% reduction from baseline), compared with patients receiving placebo, 76.3% versus 2.4% (difference = 73.9%, p &lt; 0.0001).
 
@@ -422,15 +418,13 @@ Changes in PSA serum concentration independently do not always predict clinical 
 
 ## MDV3100-13 (EMBARK) Study (patients with high-risk BCR non-metastatic HSPC)
 
-The EMBARK study enrolled 1 068 patients with high-risk BCR nmHSPC who were randomised 1:1:1 to receive treatment with enzalutamide orally at a dose of 160 mg once daily concurrently with ADT (N = 355), enzalutamide orally at a dose of 160 mg once daily as open-label monotherapy (N = 355), or placebo orally once daily concurrently with ADT (N = 358) (ADT defined as leuprolide). All patients had prior definitive therapy with radical prostatectomy or radiotherapy (including brachytherapy) or both, with curative intent. Patients were required to have confirmation of non-metastatic disease by blinded independent central review (BICR), and high-risk biochemical
+The EMBARK study enrolled 1 068 patients with high-risk BCR nmHSPC who were randomised 1:1:1 to receive treatment with enzalutamide orally at a dose of 160 mg once daily concurrently with ADT (N = 355), enzalutamide orally at a dose of 160 mg once daily as open-label monotherapy (N = 355), or placebo orally once daily concurrently with ADT (N = 358) (ADT defined as leuprolide). All patients had prior definitive therapy with radical prostatectomy or radiotherapy (including brachytherapy) or both, with curative intent. Patients were required to have confirmation of non-metastatic disease by blinded independent central review (BICR), and high-risk biochemical recurrence (defined by a PSA doubling time ≤ 9 months). Patients were also required to have PSA values ≥ 1 ng/mL if they had prior radical prostatectomy (with or without radiotherapy) as the primary treatment for prostate cancer, or PSA values at least 2 ng/mL above the nadir if they had prior radiotherapy only. Patients who had a prior prostatectomy and were suitable candidates for salvage radiotherapy as determined by the investigator were excluded from the study.
 
 <div style=\"page-break-after: always\"></div>
 
-recurrence (defined by a PSA doubling time ≤ 9 months). Patients were also required to have PSA values ≥ 1 ng/mL if they had prior radical prostatectomy (with or without radiotherapy) as the primary treatment for prostate cancer, or PSA values at least 2 ng/mL above the nadir if they had prior radiotherapy only. Patients who had a prior prostatectomy and were suitable candidates for salvage radiotherapy as determined by the investigator were excluded from the study.
+Patients were stratified by screening PSA (≤ 10 ng/mL vs. &gt; 10 ng/mL), PSA doubling time (≤ 3 months versus &gt; 3 months to ≤ 9 months), and prior hormonal therapy (prior hormonal therapy vs. no prior hormonal therapy). For patients whose PSA values were undetectable (&lt; 0.2 ng/mL) at week 36, treatment was suspended at week 37 and then reinitiated when PSA values increased to ≥ 2.0 ng/mL for patients with prior prostatectomy or ≥ 5.0 ng/mL for patients without prior prostatectomy. For patients whose PSA value s were detectable at week 36 (≥ 0.2 ng/mL), treatment continued without suspension until permanent treatment discontinuation criteria were met. Treatment was permanently discontinued when development of radiographic progression was confirmed by central review after the initial local read.
 
-Patients were stratified by screening PSA (≤ 10 ng/mL vs. &gt; 10 ng/mL), PSA doubling time (≤ 3 months versus &gt; 3 months to ≤ 9 months), and prior hormonal therapy (prior hormonal therapy vs. no prior hormonal therapy). For patients whose PSA values were undetectable (&lt; 0.2 ng/mL) at week 36, treatment was suspended at week 37 and then reinitiated when PSA values increased to ≥ 2.0 ng/mL for patients with prior prostatectomy or ≥ 5.0 ng/mL for patients without prior prostatectomy. For patients whose PSA values were detectable at week 36 (≥ 0.2 ng/mL), treatment continued without suspension until permanent treatment discontinuation criteria were met. Treatment was permanently discontinued when development of radiographic progression was confirmed by central review after the initial local read.
-
-The demographic and baseline characteristics were well balanced between the three treatment groups. The overall median age at randomisation was 69 years (range: 49.0 - 93.0). Most patients in the total population were Caucasian (83.2%), 7.3% were Asian, and 4.4% were Black. The median PSA doubling time was 4.9 months. Seventy-four percent of patients had prior definitive therapy with radical prostatectomy, 75% of patients had prior therapy with radiotherapy (including brachytherapy), and 49% of patients had prior therapy with both. Thirty-two percent of patients had a Gleason score of ≥ 8. The Eastern Cooperative Oncology Group Performance Status (ECOG PS) score was 0 for 92% of patients and 1 for 8% of patients at study entry.
+The demographic and baseline characteristics were well balanced between the three treatment groups. The overall median age at randomisation was 69 years (range: 49.0 -93.0). Most patients in the total population were Caucasian (83.2%), 7.3% were Asian, and 4.4% were Black. The median PSA doubling time was 4.9 months. Seventy-four percent of patients had prior definitive therapy with radical prostatectomy, 75% of patients had prior therapy with radiotherapy (including brachytherapy), and 49% of patients had prior therapy with both. Thirty-two percent of patients had a Gleason score of ≥ 8. The Eastern Cooperative Oncology Group Performance Status (ECOG PS) score was 0 for 92% of patients and 1 for 8% of patients at study entry.
 
 Metastasis-free survival (MFS) in patients randomised to receive enzalutamide plus ADT compared to patients randomised to receive placebo plus ADT was the primary endpoint. Metastasis-free survival was defined as the time from randomisation to radiographic progression or death on study, whichever occurred first.
 
@@ -442,28 +436,23 @@ Enzalutamide plus ADT and as monotherapy demonstrated a statistically significan
 
 Table 2: Summary of efficacy in patients treated with either enzalutamide plus ADT, placebo plus ADT, or enzalutamide as monotherapy, in the EMBARK study (intent-to-treat analysis)
 
-|                                                      | Enzalutamide plus ADT (N = 355)            | Placebo plus ADT (N = 358)                 | Enzalutamide as Monotherapy (N = 355)      |
-|------------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-| Metastasis-free Survival 1                           | Metastasis-free Survival 1                 | Metastasis-free Survival 1                 | Metastasis-free Survival 1                 |
-| Number of events (%) 2                               | 45 (12.7)                                  | 92 (25.7)                                  | 63 (17.7)                                  |
-| Median, months (95% CI) 3                            | NR (NR, NR)                                | NR (85.1, NR)                              | NR (NR, NR)                                |
-| Hazard ratio relative to Placebo plus ADT (95% CI) 4 | 0.42 (0.30, 0.61)                          | --                                         | 0.63 (0.46, 0.87)                          |
-| P-value for comparison to Placebo plus ADT 5         | p < 0.0001                                 | --                                         | p = 0.0049                                 |
-| Time to PSAProgression 6                             | Time to PSAProgression 6                   | Time to PSAProgression 6                   | Time to PSAProgression 6                   |
-| Number of events (%) 2                               | 8 (2.3)                                    | 93 (26.0)                                  | 37 (10.4)                                  |
-| Median, months (95% CI) 3                            | NR (NR, NR)                                | NR (NR, NR)                                | NR (NR, NR)                                |
-| Hazard ratio relative to Placebo plus ADT (95% CI) 4 | 0.07 (0.03, 0.14)                          | --                                         | 0.33 (0.23, 0.49)                          |
-| P-value for comparison to Placebo plus ADT 5         | p < 0.0001                                 | --                                         | p < 0.0001                                 |
-| Time to Start of NewAntineoplastic Therapy           | Time to Start of NewAntineoplastic Therapy | Time to Start of NewAntineoplastic Therapy | Time to Start of NewAntineoplastic Therapy |
-| Number of events (%) 7                               | 58 (16.3)                                  | 140 (39.1)                                 | 84 (23.7)                                  |
-| Median, months (95% CI) 3                            | NR (NR, NR)                                | 76.2 (71.3, NR)                            | NR (NR, NR)                                |
-| Hazard ratio relative to Placebo plus ADT (95% CI) 4 | 0.36 (0.26, 0.49)                          | --                                         | 0.54 (0.41, 0.71)                          |
-| P-value for comparison to Placebo plus ADT 5         | p < 0.0001                                 | --                                         | p < 0.0001                                 |
-| Overall Survival 8                                   | Overall Survival 8                         | Overall Survival 8                         | Overall Survival 8                         |
-| Number of events (%)                                 | 33 (9.3)                                   | 55 (15.4)                                  | 42 (11.8)                                  |
-| Median, months (95% CI) 3                            | NR (NR, NR)                                | NR (NR, NR)                                | NR (NR, NR)                                |
-| Hazard ratio relative to Placebo plus ADT (95% CI) 4 | 0.59 (0.38, 0.91)                          | --                                         | 0.78 (0.52, 1.17)                          |
-| P-value for comparison to Placebo plus ADT 5         | p = 0.0153 9                               | --                                         | p = 0.2304 9                               |
+|                                                     | Enzalutamide plus ADT (N = 355)            | Placebo plus ADT (N = 358)                 | Enzalutamide as Monotherapy (N = 355)      |
+|-----------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| Metastasis-free Survival 1                          | Metastasis-free Survival 1                 | Metastasis-free Survival 1                 |                                            |
+| Number of events (%) 2                              | 45 (12.7)                                  | 92 (25.7)                                  | 63 (17.7)                                  |
+| Median, months (95% CI) 3                           | NR (NR, NR)                                | NR (85.1, NR)                              | NR (NR, NR)                                |
+| Hazard ratio relative to Placebo plusADT (95% CI) 4 | 0.42 (0.30, 0.61)                          | --                                         | 0.63 (0.46, 0.87)                          |
+| P-value for comparison to Placebo plusADT 5         | p < 0.0001                                 | --                                         | p = 0.0049                                 |
+| Time to PSAProgression 6                            | Time to PSAProgression 6                   | Time to PSAProgression 6                   | Time to PSAProgression 6                   |
+| Number of events (%) 2                              | 8 (2.3)                                    | 93 (26.0)                                  | 37 (10.4)                                  |
+| Median, months (95% CI) 3                           | NR (NR, NR)                                | NR (NR, NR)                                | NR (NR, NR)                                |
+| Hazard ratio relative to Placebo plusADT (95% CI) 4 | 0.07 (0.03, 0.14)                          | --                                         | 0.33 (0.23, 0.49)                          |
+| P-value for comparison to Placebo plusADT 5         | p < 0.0001                                 | --                                         | p < 0.0001                                 |
+| Time to Start of NewAntineoplastic Therapy          | Time to Start of NewAntineoplastic Therapy | Time to Start of NewAntineoplastic Therapy | Time to Start of NewAntineoplastic Therapy |
+| Number of events (%) 7                              | 58 (16.3)                                  | 140 (39.1)                                 | 84 (23.7)                                  |
+| Median, months (95% CI) 3                           | NR (NR, NR)                                | 76.2 (71.3, NR)                            | NR (NR, NR)                                |
+| Hazard ratio relative to Placebo plusADT (95% CI) 4 | 0.36 (0.26, 0.49)                          | --                                         | 0.54 (0.41, 0.71)                          |
+| P-value for comparison to Placebo plusADT 5         | p < 0.0001                                 | --                                         | p < 0.0001                                 |
 
 NR = Not reached.
 
@@ -474,11 +463,14 @@ NR = Not reached.
 3. Based on Kaplan-Meier estimates.
 
 4. Hazard Ratio is based on a Cox regression model stratified by screening PSA, PSA doubling time, and prior hormonal therapy.
+
 5. Two-sided P-value is based on a stratified log-rank test by screening PSA, PSA doubling time, and prior hormonal therapy.
+
 6. Based on the PSA Progression compliant with Prostate Cancer Clinical Trials Working Group 2 criteria.
+
 7. Based on the first postbaseline use of antineoplastic therapy for prostate cancer.
-8. Based upon a pre-specified interim analysis with data cutoff date of 31 Jan 2023 and a median follow-up time of 65 months.
-9. The result did not meet the pre-specified two-sided significance level of p ≤ 0.0001.
+
+At the final analysis (median follow-up of 94.0 months) enzalutamide plus ADT demonstrated a statistically significant improvement in overall survival compared to placebo plus ADT [HR = 0.60, (95% CI: 0.44; 0.80), p = 0.0006]. The median for overall survival was not reached in the enzalutamide plus ADT arm, and was 117.5 months (95% CI: 109.8, NR) in the placebo plus ADT arm (Figure 3). No statistically significant difference was observed with enzalutamide as monotherapy compared to placebo plus ADT (HR = 0.83; 95% CI: 0.63-1.10) (Figure 4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -487,6 +479,16 @@ Figure 1: Kaplan-Meier curves of MFS in the Enzalutamide plus ADT vs. Placebo pl
 <!-- image -->
 
 Figure 2: Kaplan-Meier curves of MFS in the Enzalutamide as Monotherapy vs. Placebo plus ADT treatment arms of the EMBARK study (intent-to-treat analysis)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 3: Kaplan-Meier curves of Overall Survival in the Enzalutamide plus ADT vs. Placebo plus ADT treatment arms of the EMBARK study (intent-to-treat analysis)
+
+<!-- image -->
+
+Figure 4: Kaplan-Meier curves of Overall Survival in the Enzalutamide as Monotherapy vs. Placebo plus ADT treatment arms of the EMBARK study (intent-to-treat analysis)
 
 <!-- image -->
 
@@ -504,7 +506,7 @@ The demographic and baseline characteristics were well balanced between the two 
 
 Radiographic progression-free survival (rPFS), based on independent central review, was the primary endpoint defined as the time from randomisation to the first objective evidence of radiographic disease progression or death (due to any cause from time of randomisation up until 24 weeks from study drug discontinuation), whichever occurred first.
 
-Enzalutamide demonstrated a statistically significant 61% reduction in the risk of an rPFS event compared to placebo [HR = 0.39 (95% CI: 0.30, 0.50); p &lt; 0.0001]. Consistent rPFS results were observed in patients with high or low volume of disease and patients with and without prior docetaxel therapy. The median time to an rPFS event was not reached in the enzalutamide arm and was 19.0 months (95% CI: 16.6, 22.2) in the placebo arm.
+Enzalutamide demonstrated a statistically significant 61% reduction in the risk of an rPFS event compared to placebo [HR = 0.39 (95% CI: 0.30, 0.50), p &lt; 0.0001]. Consistent rPFS results were observed in patients with high or low volume of disease and patients with and without prior docetaxel therapy. The median time to an rPFS event was not reached in the enzalutamide arm and was 19.0 months (95% CI: 16.6, 22.2) in the placebo arm.
 
 Table 3: Summary of efficacy in patients treated with either enzalutamide or placebo in the ARCHES study (intent-to-treat analysis)
 
@@ -519,19 +521,20 @@ Table 3: Summary of efficacy in patients treated with either enzalutamide or pla
 NR = Not reached.
 
 1. Calculated using Brookmeyer and Crowley method.
+
 2. Stratified by volume of disease (low vs high) and prior docetaxel use (yes or no).
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3: Kaplan-Meier curve of rPFS in ARCHES study (intent-to-treat analysis)
+Figure 5: Kaplan-Meier curve of rPFS in ARCHES study (intent-to-treat analysis)
 
 <!-- image -->
 
 Key secondary efficacy endpoints assessed in the study included time to PSA progression, time to start of new antineoplastic therapy, PSA undetectable rate (decline to &lt; 0.2 μg/L), and objective response rate (RECIST 1.1 based on independent review). Statistically significant improvements in patients treated with enzalutamide compared to placebo were demonstrated for all these secondary endpoints.
 
-Another key secondary efficacy endpoint assessed in the study was overall survival. At the prespecified final analysis for overall survival, conducted when 356 deaths were observed, a statistically significant 34% reduction in the risk of death was demonstrated in the group randomised to receive enzalutamide compared with the group randomised to receive placebo [HR = 0.66, (95% CI: 0.53; 0.81), p &lt; 0.0001]. The median time for overall survival was not reached in either treatment group. The estimated median follow-up time for all patients was 44.6 months (see Figure 4).
+Another key secondary efficacy endpoint assessed in the study was overall survival. At the prespecified final analysis for overall survival, conducted when 356 deaths were observed, a statistically significant 34% reduction in the risk of death was demonstrated in the group randomised to receive enzalutamide compared with the group randomised to receive placebo [HR = 0.66, (95% CI: 0.53; 0.81), p &lt; 0.0001]. The median time for overall survival was not reached in either treatment group. The estimated median follow-up time for all patients was 44.6 months (see Figure 6).
 
-Figure 4: Kaplan-Meier Curves of overall survival in the ARCHES study (intent-to-treat analysis)
+Figure 6: Kaplan-Meier Curves of overall survival in the ARCHES study (intent-to-treat analysis)
 
 <!-- image -->
 
@@ -543,13 +546,13 @@ The PROSPER study enrolled 1 401 patients with asymptomatic, high-risk non-metas
 
 Patients with a history of mild to moderate heart failure (NYHA Class I or II), and patients taking medicinal products associated with lowering the seizure threshold were allowed. Patients were excluded with a previous history of seizure, a condition that might predispose them to seizure, or certain prior treatments for prostate cancer (i.e., chemotherapy, ketoconazole, abiraterone acetate, aminoglutethimide and/or enzalutamide).
 
-Patients were randomised 2:1 to receive either enzalutamide at a dose of 160 mg once daily (N = 933) or placebo (N = 468). Patients were stratified by Prostate Specific Antigen (PSA) Doubling Time (PSADT) (&lt; 6 months or ≥ 6 months) and the use of bone-targeting agents (yes or no).
+Patients were randomised 2:1 to receive either enzalutamide at a dose of 160 mg once daily (N = 933) or placebo (N = 468). Patients were stratified by Prostate Specific Antigen (PSA) Doubling Time (PSADT) (&lt; 6 months or ≥ 6 months) and the use of bone -targeting agents (yes or no).
 
 The demographic and baseline characteristics were well-balanced between the two treatment arms. The median age at randomisation was 74 years in the enzalutamide arm and 73 years in the placebo arm. Most patients (approximately 71%) in the study were Caucasian; 16% were Asian and 2% were Black. Eighty-one percent (81%) of patients had an ECOG performance status score of 0 and 19% patients had an ECOG performance status of 1.
 
 Metastasis-free survival (MFS) was the primary endpoint defined as the time from randomisation to radiographic progression or death within 112 days of treatment discontinuation without evidence of radiographic progression, whichever occurred first. Key secondary endpoints assessed in the study were time to PSA progression, time to first use of new antineoplastic therapy (TTA), overall survival (OS). Additional secondary endpoints included time to first use of cytotoxic chemotherapy and chemotherapy-free survival. See results below (Table 4).
 
-Enzalutamide demonstrated a statistically significant 71% reduction in the relative risk of radiographic progression or death compared to placebo [HR = 0.29 (95% CI: 0.24, 0.35), p &lt; 0.0001]. Median MFS was 36.6 months (95% CI: 33.1, NR) on the enzalutamide arm versus 14.7 months (95% CI: 14.2, 15.0) on the placebo arm. Consistent MFS results were also observed in all pre-specified patient sub-groups including PSADT (&lt; 6 months or ≥ 6 months), demographic region (North America, Europe, rest of world), age (&lt; 75 or ≥ 75), use of a prior bone-targeting agent (yes or no) (see Figure 5).
+Enzalutamide demonstrated a statistically significant 71% reduction in the relative risk of radiographic progression or death compared to placebo [HR = 0.29 (95% CI: 0.24, 0.35), p &lt; 0.0001]. Median MFS was 36.6 months (95% CI: 33.1, NR) on the enzalutamide arm versus 14.7 months (95% CI: 14.2, 15.0) on the placebo arm. Consistent MFS results were also observed in all pre-specified patient subgroups including PSADT (&lt; 6 months or ≥ 6 months), demographic region (North America, Europe, rest of world), age ( &lt; 75 or ≥ 75), use of a prior bone -targeting agent (yes or no) (see Figure 7).
 
 ## Table 4: Summary of efficacy results in the PROSPER study (intent-to-treat analysis)
 
@@ -584,36 +587,34 @@ NR = Not reached.
 
 1. Based on Kaplan-Meier estimates.
 2. HR is based on a Cox regression model (with treatment as the only covariate) stratified by PSA doubling time and prior or concurrent use of a bone targeting agent. The HR is relative to placebo with &lt; 1 favouring enzalutamide.
-3. P-value is based on a stratified log-rank test by PSA doubling time (&lt; 6 months, ≥ 6 months) and prior or concurrent use of a bone targeting agent (yes, no).
+3. P-value is based on a stratified logrank test by PSA doubling time (&lt; 6 months, ≥ 6 months) and prior or concurrent use of a bone targeting agent (yes, no).
 4. Based upon a prespecified interim analysis with data cut-off date of 15 Oct 2019.
 
-Figure 5: Kaplan-Meier Curves of metastasis-free survival in the PROSPER study (intent-to-treat analysis)
+Figure 7: Kaplan-Meier Curves of metastasis-free survival in the PROSPER study (intent-to-treat analysis)
 
 <!-- image -->
 
-At the final analysis for overall survival, conducted when 466 deaths were observed, a statistically significant improvement in overall survival was demonstrated in patients randomised to receive enzalutamide compared with patients randomised to receive placebo with a 26.6% reduction in risk of
+At the final analysis for overall survival, conducted when 466 deaths were observed, a statistically significant improvement in overall survival was demonstrated in patients randomised to receive enzalutamide compared with patients randomised to receive placebo with a 26.6% reduction in risk of death [hazard ratio (HR) = 0.734, (95% CI: 0.608; 0.885), p = 0.0011] (see Figure 8). The median follow-up time was 48.6 and 47.2 months for the enzalutamide and placebo groups, respectively. Thirty-three percent of enzalutamide-treated and 65% of placebo-treated patients received at least one subsequent antineoplastic therapy that may prolong overall survival.
 
 <div style=\"page-break-after: always\"></div>
 
-death [hazard ratio (HR) = 0.734, (95% CI: 0.608; 0.885), p = 0.0011] (see Figure 6). The median follow-up time was 48.6 and 47.2 months for the enzalutamide and placebo groups, respectively. Thirty-three percent of enzalutamide-treated and 65% of placebo-treated patients received at least one subsequent antineoplastic therapy that may prolong overall survival.
-
-Figure 6: Kaplan-Meier Curves of overall survival in the PROSPER study (intent-to-treat analysis)
+Figure 8: Kaplan-Meier Curves of overall survival in the PROSPER study (intent-to-treat analysis)
 
 <!-- image -->
 
 Enzalutamide demonstrated a statistically significant 93% reduction in the relative risk of PSA progression compared to placebo [HR = 0.07 (95% CI: 0.05, 0.08), p &lt; 0.0001]. Median time to PSA progression was 37.2 months (95% CI: 33.1, NR) on the enzalutamide arm versus 3.9 months (95% CI: 3.8, 4.0) on the placebo arm.
 
-Enzalutamide demonstrated a statistically significant delay in the time to first use of new antineoplastic therapy compared to placebo [HR = 0.21 (95% CI: 0.17, 0.26), p &lt; 0.0001]. Median time to first use of new antineoplastic therapy was 39.6 months (95% CI: 37.7, NR) on the enzalutamide arm versus 17.7 months (95% CI: 16.2, 19.7) on the placebo arm (see Figure 7).
+Enzalutamide demonstrated a statistically significant delay in the time to first use of new antineoplastic therapy compared to placebo [HR = 0.21 (95% CI: 0.17, 0.26), p &lt; 0.0001]. Median time to first use of new antineoplastic therapy was 39.6 months (95% CI: 37.7, NR) on the enzalutamide arm versus 17.7 months (95% CI: 16.2, 19.7) on the placebo arm (see Figure 9).
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 7: Kaplan-Meier curves of time to first use of new antineoplastic therapy in the PROSPER study (intent-to-treat analysis)
+## Figure 9: Kaplan-Meier curves of time to first use of new antineoplastic therapy in the PROSPER study (intent-to-treat analysis)
 
-MDV3100-09 (STRIVE) study (chemotherapy-naïve patients with non-metastatic/metastatic CRPC) The STRIVE study enrolled 396 non-metastatic or metastatic CRPC patients who had serologic or radiographic disease progression despite primary androgen deprivation therapy who were randomised to receive either enzalutamide at a dose of 160 mg once daily (N = 198) or bicalutamide at a dose of 50 mg once daily (N = 198). PFS was the primary endpoint defined as the time from randomisation to the earliest objective evidence of radiographic progression, PSA progression, or death on study. Median PFS was 19.4 months (95% CI: 16.5, not reached) in the enzalutamide group versus 5.7 months (95% CI: 5.6, 8.1) in the bicalutamide group [HR = 0.24 (95% CI: 0.18, 0.32), p &lt; 0.0001]. Consistent benefit of enzalutamide over bicalutamide on PFS was observed in all pre-specified patient subgroups. For the non-metastatic subgroup (N = 139) a total of 19 out of 70 (27.1%) patients treated with enzalutamide and 49 out of 69 (71.0%) patients treated with bicalutamide had PFS events (68 total events). The hazard ratio was 0.24 (95% CI: 0.14, 0.42) and the median time to a PFS event was not reached in the enzalutamide group versus 8.6 months in the bicalutamide group (see Figure 8).
+MDV3100-09 (STRIVE) study (chemotherapy-naïve patients with non-metastatic/metastatic CRPC) The STRIVE study enrolled 396 non-metastatic or metastatic CRPC patients who had serologic or radiographic disease progression despite primary androgen deprivation therapy who were randomised to receive either enzalutamide at a dose of 160 mg once daily (N = 198) or bicalutamide at a dose of 50 mg once daily (N = 198). PFS was the primary endpoint defined as the time from randomisation to the earliest objective evidence of radiographic progression, PSA progression, or death on study. Median PFS was 19.4 months (95% CI: 16.5, not reached) in the enzalutamide group versus 5.7 months (95% CI: 5.6, 8.1) in the bicalutamide group [HR = 0.24 (95% CI: 0.18, 0.32), p &lt; 0.0001]. Consistent benefit of enzalutamide over bicalutamide on PFS was observed in all pre-specified patient subgroups. For the non-metastatic subgroup (N = 139) a total of 19 out of 70 (27.1%) patients treated with enzalutamide and 49 out of 69 (71.0%) patients treated with bicalutamide had PFS events (68 total events). The hazard ratio was 0.24 (95% CI: 0.14, 0.42) and the median time to a PFS event was not reached in the enzalutamide group versus 8.6 months in the bicalutamide group (see Figure 10).
 
-Figure 8: Kaplan-Meier Curves of progression-free survival in the STRIVE study (intent-totreat analysis)
+Figure 10: Kaplan-Meier Curves of progression-free survival in the STRIVE study (intent-totreat analysis)
 
 <!-- image -->
 
@@ -629,13 +630,13 @@ A total of 1 717 asymptomatic or mildly symptomatic chemotherapy-naïve patients
 
 Patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 71 years (range 42 - 93) and the racial distribution was 77% Caucasian, 10% Asian, 2% Black and 11% other or unknown races. Sixty-eight percent (68%) of patients had an ECOG performance status score of 0 and 32% patients had an ECOG performance status of 1. Baseline pain assessment was 0 - 1 (asymptomatic) in 67% of patients and 2 - 3 (mildly symptomatic) in 32% of patients as defined by the Brief Pain Inventory Short Form (worst pain over past 24 hours on a scale of 0 to 10). Approximately 45% of patients had measurable soft tissue disease at study entry, and 12% of patients had visceral (lung and/or liver) metastases.
 
-Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS). In addition to the co-primary endpoints, benefit was also assessed using time to initiation of cytotoxic chemotherapy, best overall soft tissue response, time to first skeletal-related event, PSA response (≥ 50% decrease from baseline), time to PSA progression, and time to FACT-P total score degradation.
+Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS). In addition to the co-primary endpoints, benefit was also assessed using time to initiation of cytotoxic chemotherapy, best overall soft tissue response, time to first skeletal-related event, PSA response (≥ 50% decrease from baseline), time to PSA progression, and time to FACT -P total score degradation.
 
 Radiographic progression was assessed with the use of sequential imaging studies as defined by Prostate Cancer Clinical Trials Working Group 2 (PCWG2) criteria (for bone lesions) and/or Response Evaluation Criteria in Solid Tumors (RECIST v 1.1) criteria (for soft tissue lesions). Analysis of rPFS utilised centrally reviewed radiographic assessment of progression.
 
 At the pre-specified interim analysis for overall survival when 540 deaths were observed, treatment with enzalutamide demonstrated a statistically significant improvement in overall survival compared to treatment with placebo with a 29.4% reduction in risk of death [HR = 0.706 (95% CI: 0.60; 0.84), p &lt; 0.0001]. An updated survival analysis was conducted when 784 deaths were observed. Results from this analysis were consistent with those from the interim analysis (Table 5). At the updated analysis 52% of enzalutamide-treated and 81% of placebo-treated patients had received subsequent therapies for metastatic CRPC that may prolong overall survival.
 
-A final analysis of 5-year PREVAIL data showed a statistically significant increase in overall survival was maintained in patients treated with enzalutamide compared to placebo [HR = 0.835, (95% CI: 0.75, 0.93); p-value = 0.0008] despite 28% of patients on placebo crossing over to enzalutamide. The 5-year OS rate was 26% for the enzalutamide arm compared to 21% for the placebo arm.
+A final analysis of 5-year PREVAIL data showed a statistically significant increase in overall survival was maintained in patients treated with enzalutamide compared to placebo [HR = 0.835, (95% CI: 0.75, 0.93), p-value = 0.0008] despite 28% of patients on placebo crossing over to enzalutamide. The 5-year OS rate was 26% for the enzalutamide arm compared to 21% for the placebo arm.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -664,17 +665,17 @@ NR = Not reached.
 1. P-value is derived from an unstratified log-rank test.
 2. Hazard Ratio is derived from an unstratified proportional hazards model. Hazard ratio &lt; 1 favours enzalutamide.
 
-Figure 9: Kaplan-Meier curves of overall survival based on 5-year survival analysis in the PREVAIL study (intent-to-treat analysis)
+Figure 11: Kaplan-Meier curves of overall survival based on 5-year survival analysis in the PREVAIL study (intent-to-treat analysis)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 10: 5-year overall survival analysis by subgroup: Hazard ratio and 95% confidence interval in the PREVAIL study (intent-to-treat analysis)
+Figure 12: 5-year overall survival analysis by subgroup: Hazard ratio and 95% confidence interval in the PREVAIL study (intent-to-treat analysis)
 
 <!-- image -->
 
-At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 11). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
+At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 13). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -682,7 +683,7 @@ At the pre-specified rPFS analysis, a statistically significant improvement was 
 
 At the time of the primary analysis there were 1 633 patients randomised.
 
-Figure 11: Kaplan-Meier curves of radiographic progression-free survival in the PREVAIL study (intent-to-treat analysis)
+Figure 13: Kaplan-Meier curves of radiographic progression-free survival in the PREVAIL study (intent-to-treat analysis)
 
 In addition to the co-primary efficacy endpoints, statistically significant improvements were also demonstrated in the following prospectively defined endpoints.
 
@@ -706,7 +707,7 @@ The following patient demographics and baseline disease characteristics were bal
 
 The AFFIRM study excluded patients with medical conditions that may predispose them to seizures (see section 4.8) and medicinal products known to decrease the seizure threshold, as well as clinically significant cardiovascular disease such as uncontrolled hypertension, recent history of myocardial infarction or unstable angina, New York Heart Association class III or IV heart failure (unless ejection fraction was ≥ 45%), clinically significant ventricular arrhythmias or AV block (without permanent pacemaker).
 
-The protocol pre-specified interim analysis after 520 deaths showed a statistically significant superiority in overall survival in patients treated with enzalutamide compared to placebo (Table 6 and Figures 12 and 13).
+The protocol pre-specified interim analysis after 520 deaths showed a statistically significant superiority in overall survival in patients treated with enzalutamide compared to placebo (Table 6 and Figures 14 and 15).
 
 Table 6: Overall survival of patients treated with either enzalutamide or placebo in the AFFIRM study (intent-to-treat analysis)
 
@@ -727,51 +728,47 @@ NR = Not Reached.
 
 <!-- image -->
 
-Figure 12: Kaplan-Meier curves of overall survival in the AFFIRM study (intent-to-treat analysis)
+Figure 14: Kaplan-Meier curves of overall survival in the AFFIRM study (intent-to-treat analysis)
 
-| Subgroup                                   | NumberofPatients Enzalutamide/Placebo   | NumberofPatients Enzalutamide/Placebo   | HazardRatioforDeath (95%CI)   | OverallSurvivalMedian(mo) Enzalutamide/Placebo   |
-|--------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------|--------------------------------------------------|
-| AllPatients                                | 800/399                                 |                                         | 0.63 (0.53-0.75)              | 18.4/13.6                                        |
-| Age                                        |                                         |                                         |                               |                                                  |
-| <65                                        | 232/130                                 | T                                       | 0.63(0.46-0.87)               | —/12.4                                           |
-| ≥65                                        | 568/269                                 |                                         | 0.63(0.51-0.78)               | 18.4/13.9                                        |
-| BaselineECOGPerformanceStatusScore         |                                         |                                         |                               |                                                  |
-| 0-1                                        | 730/367                                 |                                         | 0.62(0.52-0.75)               | —/14.2                                           |
-| 2                                          | 70/32                                   |                                         | 0.65(0.39-1.07)               | 10.5/7.2                                         |
-| BaselineMeanPainScoreonBPI-SF（Question#3)  |                                         |                                         |                               |                                                  |
-| <4                                         | 574/284                                 |                                         | 0.59(0.47-0.74)               | /16.2                                            |
-|                                            | 226/115                                 | T                                       | 0.71(0.54-0.94)               | 12.4/9.1                                         |
-| NumberofPriorChemotherapyRegimens          |                                         |                                         |                               |                                                  |
-| 1                                          | 579/296                                 |                                         | 0.59(0.48-0.73)               | /14.2                                            |
-| ≥2                                         | 221/103                                 |                                         | 0.74(0.54-1.03)               | 15.9/12.3                                        |
-| TypeofProgressionatStudyEntry              |                                         |                                         |                               |                                                  |
-| PSAProgressionOnly                         | 326/164                                 |                                         | 0.62(0.46-0.83)               | —/19.5                                           |
-| RadiographicProgression±PSAProgression     | 470/234                                 | T                                       | 0.64(0.52-0.80)               | 17.3/13.0                                        |
-| BaselinePSAValue                           |                                         |                                         |                               |                                                  |
-| ≤median(111.2μg/L)                         | 412/188                                 |                                         | 0.67(0.50-0.89)               | —/19.2                                           |
-| >median(111.2μg/L)                         | 388/211                                 |                                         | 0.62(0.50-0.78)               | 15.3/10.3                                        |
-| BaselineLDHValue                           |                                         |                                         |                               |                                                  |
-| ≤median(211U/L)                            | 411/192                                 |                                         | 0.63(0.46-0.86)               | —/19.2                                           |
-| >median(211U/L)                            | 389/205                                 |                                         | 0.61(0.50-0.76)               | 12.4/8.5                                         |
-| TotalGleasonScoreatDiagnosis               |                                         |                                         |                               |                                                  |
-| ≤7                                         | 360/175                                 |                                         | 0.67(0.51-0.88)               | 18.4/14.8                                        |
-| ≥8                                         | 366/193                                 |                                         | 0.60 (0.47-0.76)              | 18.2/11.3                                        |
-| Visceral Lungand/orLiverDiseaseatScreening |                                         |                                         |                               |                                                  |
-| Yes                                        | 196/82                                  |                                         | 0.78(0.56-1.09)               | 13.4/9.5                                         |
-| No                                         | 604/317                                 | J⊥                                      | 0.56(0.46-0.69)               | —/14.2                                           |
-|                                            | 00                                      | 0.5 1.0 1.5                             | 2.0                           |                                                  |
+| Subgroup                                         | Number of Patients Enzalutamide/Placebo   | Number of Patients Enzalutamide/Placebo   | Hazard Ratio for Death (95% CI)   | Overall Survival Median (mo) Enzalutamide/Placebo   |
+|--------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------|-----------------------------------------------------|
+| All Patients                                     | 800/399                                   |                                           | 0.63 (0.53–0.75)                  | 18.4/13.6                                           |
+| Age                                              |                                           |                                           |                                   |                                                     |
+| <65                                              | 232/130                                   |                                           | 0.63 (0.46–0.87)                  | —/12.4                                              |
+| ≥65                                              | 568/269                                   |                                           | 0.63 (0.51–0.78)                  | 18.4/13.9                                           |
+| Baseline ECOG Performance Status Score           |                                           |                                           |                                   |                                                     |
+| 0-1                                              | 730/367                                   |                                           | 0.62 (0.52–0.75)                  | —/14.2                                              |
+| 2                                                | 70/32                                     |                                           | 0.65 (0.39–1.07)                  | 10.5/7.2                                            |
+| Baseline Mean Pain Score on BPI-SF (Question #3) |                                           |                                           |                                   |                                                     |
+| <4                                               | 574/284                                   |                                           | 0.59 (0.47–0.74)                  | —/16.2                                              |
+| <                                                | 226/115                                   |                                           | 0.71 (0.54–0.94)                  | 12.4/9.1                                            |
+| Number of Prior Chemotherapy Regimens            |                                           |                                           |                                   |                                                     |
+| 1                                                | 579/296                                   |                                           | 0.59 (0.48–0.73)                  | —/14.2                                              |
+| ≥2                                               | 221/103                                   |                                           | 0.74 (0.54–1.03)                  | 15.9/12.3                                           |
+| Type of Progression at Study Entry               |                                           |                                           |                                   |                                                     |
+| PSA Progression Only                             | 326/164                                   |                                           | 0.62 (0.46–0.83)                  | —/19.5                                              |
+| Radiographic Progression ± PSA Progression       | 470/234                                   |                                           | 0.64 (0.52–0.80)                  | 17.3/13.0                                           |
+| Baseline PSA Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (111.2 μg/L)                             | 412/188                                   |                                           | 0.67 (0.50–0.89)                  | —/19.2                                              |
+| >median (111.2 μg/L)                             | 388/211                                   |                                           | 0.62 (0.50–0.78)                  | 15.3/10.3                                           |
+| Baseline LDH Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (211 U /L)                               | 411/192                                   |                                           | 0.63 (0.46–0.86)                  | —/19.2                                              |
+| >median (211 U/L)                                | 389/205                                   |                                           | 0.61 (0.50–0.76)                  | 12.4/8.5                                            |
+| Total Gleason Score at Diagnosis                 |                                           |                                           |                                   |                                                     |
+| ≤7                                               | 360/175                                   |                                           | 0.67 (0.51–0.88)                  | 18.4/14.8                                           |
+| ≥8                                               | 366/193                                   | I1                                        | 0.60 (0.47–0.76)                  | 18.2/11.3                                           |
+| Visceral Lung and/or Liver Disease at Screening  |                                           |                                           |                                   |                                                     |
+| Yes                                              | 196/82                                    |                                           | 0.78 (0.56–1.09)                  | 13.4/9.5                                            |
+| No                                               | 604/317                                   | TI                                        | 0.56 (0.46–0.69)                  | —/14.2                                              |
+|                                                  | 0.0                                       | 0.5 1.0 1.5                               | 2.0                               |                                                     |
 
-FavorsEnzalutamide
+Favors Enzalutamide Favors Placebo
 
-FavorsPlacebo
+ECOG: Eastern Cooperative Oncology Group; BPI-SF: Brief Pain Inventory-Short Form; PSA: Prostate Specific Antigen In addition to the observed improvement in overall survival, key secondary endpoints (PSA progression, radiographic progression-free survival, and time to first skeletal-related event) favoured enzalutamide and were statistically significant after adjusting for multiple testing.
 
-ECOG: Eastern Cooperative Oncology Group; BPI-SF: Brief Pain Inventory-Short Form; PSA: Prostate Specific Antigen
-
-Figure 13: Overall survival by subgroup in the AFFIRM study - Hazard ratio and 95% confidence interval
+Figure 15: Overall survival by subgroup in the AFFIRM study -Hazard ratio and 95% confidence interval
 
 <div style=\"page-break-after: always\"></div>
-
-In addition to the observed improvement in overall survival, key secondary endpoints (PSA progression, radiographic progression-free survival, and time to first skeletal-related event) favoured enzalutamide and were statistically significant after adjusting for multiple testing.
 
 Radiographic progression-free survival as assessed by the investigator using RECIST v 1.1 for soft tissue and appearance of 2 or more bone lesions in bone scan was 8.3 months for patients treated with enzalutamide and 2.9 months for patients who received placebo [HR = 0.40 (95% CI: 0.35, 0.47), p &lt; 0.0001]. The analysis involved 216 deaths without documented progression and 645 documented progression events, of which 303 (47%) were due to soft tissue progression, 268 (42%) were due to bone lesion progression and 74 (11%) were due to both soft tissue and bone lesions.
 
@@ -823,11 +820,9 @@ Under conditions of clinical use, enzalutamide is a strong inducer of CYP3A4, a 
 
 ## Elimination
 
-The mean apparent clearance (CL/F) of enzalutamide in patients ranges from 0.520 and 0.564 L/h. Following oral administration of 14 C-enzalutamide, 84.6% of the radioactivity is recovered by 77 days post dose: 71.0% is recovered in urine (primarily as the inactive metabolite, with trace amounts of
+The mean apparent clearance (CL/F) of enzalutamide in patients ranges from 0.520 and 0.564 L/h. Following oral administration of 14 C-enzalutamide, 84.6% of the radioactivity is recovered by 77 days post dose: 71.0% is recovered in urine (primarily as the inactive metabolite, with trace amounts of enzalutamide and the active metabolite), and 13.6% is recovered in faeces (0.39% of dose as unchanged enzalutamide).
 
 <div style=\"page-break-after: always\"></div>
-
-enzalutamide and the active metabolite), and 13.6% is recovered in faeces (0.39% of dose as unchanged enzalutamide).
 
 In vitro data indicate that enzalutamide is not a substrate for OATP1B1, OATP1B3, or OCT1; and N-desmethyl enzalutamide is not a substrate for P-gp or BCRP.
 
@@ -839,7 +834,7 @@ No major deviations from dose proportionality are observed over the dose range 4
 
 ## Renal impairment
 
-No formal renal impairment study for enzalutamide has been completed. Patients with serum creatinine &gt; 177 μmol/L (2 mg/dL) were excluded from clinical studies. Based on a population pharmacokinetic analysis, no dose adjustment is necessary for patients with calculated creatinine clearance (CrCL) values ≥ 30 mL/min (estimated by the Cockcroft and Gault formula). Enzalutamide has not been evaluated in patients with severe renal impairment (CrCL &lt; 30 mL/min) or end-stage renal disease, and caution is advised when treating these patients. It is unlikely that enzalutamide will be significantly removed by intermittent haemodialysis or continuous ambulatory peritoneal dialysis.
+No formal renal impairment study for enzalutamide has been completed. Patients with serum creatinine &gt; 177 μmol/L (2 mg/dL) were excluded from clinical studies. Based on a population pharmacokinetic analysis, no dose adjustment is necessary for patients with calculated creatinine clearance (CrCL) values ≥ 30 mL/min (estimated by the Cockcroft and Gault formula). Enzalutami de has not been evaluated in patients with severe renal impairment (CrCL &lt; 30 mL/min) or end-stage renal disease, and caution is advised when treating these patients. It is unlikely that enzalutamide will be significantly removed by intermittent haemodialysis or continuous ambulatory peritoneal dialysis.
 
 ## Hepatic impairment
 
@@ -877,11 +872,9 @@ Enzalutamide was not phototoxic in vitro .
 
 ## Tablet core
 
-Methacrylic acid-ethyl acrylate copolymer (1:1) Type A (additionally containing sodium lauryl sulfate and polysorbate 80) Silica, colloidal anhydrous
+Methacrylic acid-ethyl acrylate copolymer (1:1) Type A (additionally containing sodium lauryl sulfate and polysorbate 80) Silica, colloidal anhydrous Cellulose, microcrystalline Croscarmellose sodium Magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
-
-Cellulose, microcrystalline Croscarmellose sodium Magnesium stearate
 
 ## Tablet coating
 
@@ -909,7 +902,9 @@ This medicinal product does not require any special storage conditions.
 
 ## 40 mg film-coated tablets
 
-Aluminium-OPA/Alu/PVC blister pack containing 112 film-coated tablets. Aluminium-OPA/Alu/PVC blister calendar pack containing 112 film-coated tablets. Aluminium-OPA/Alu/PVC unit-dose blister pack containing 1 x 112 film-coated tablets.
+Aluminium-OPA/Alu/PVC blister pack containing 112 film-coated tablets. Aluminium-OPA/Alu/PVC blister calendar pack containing 112 film-coated tablets.
+
+Aluminium-OPA/Alu/PVC unit-dose blister pack containing 1 x 112 film-coated tablets.
 
 ## 80 mg film-coated tablets
 
@@ -927,11 +922,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Enzalutamide Viatris should not be handled by persons other than the patient or his caregivers. Based on its mechanism of action and embryo-fetal toxicity observed in mice, Enzalutamide Viatris may
+Enzalutamide Viatris should not be handled by persons other than the patient or his caregivers. Based on its mechanism of action and embryo-fetal toxicity observed in mice, Enzalutamide Viatris may harm a developing foetus. Women who are or may become pregnant should not handle broken or damaged Enzalutamide Viatris tablets without protection, e.g. gloves (see section 5.3).
 
 <div style=\"page-break-after: always\"></div>
-
-harm a developing foetus. Women who are or may become pregnant should not handle broken or damaged Enzalutamide Viatris tablets without protection, e.g. gloves (see section 5.3).
 
 The film-coated tablets should not be chewed, cut or crushed.
 
@@ -1023,9 +1016,9 @@ Each film-coated tablet contains 40 mg of enzalutamide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablets
 
-112 film-coated tablets
+- 112 film-coated tablets
 
 1 x 112 film-coated tablets
 
@@ -1247,6 +1240,8 @@ Lot
 
 Oral use
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
@@ -1263,7 +1258,7 @@ Each film-coated tablet contains 160 mg of enzalutamide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablets
 
 28 film-coated tablets
 
@@ -1288,8 +1283,6 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1376,7 +1369,9 @@ Oral use
 
 <div style=\"page-break-after: always\"></div>
 
-Enzalutamide Viatris 40 mg film-coated tablets Enzalutamide Viatris 80 mg film-coated tablets Enzalutamide Viatris 160 mg film-coated tablets enzalutamide
+Enzalutamide Viatris 40 mg film-coated tablets Enzalutamide Viatris 80 mg film-coated tablets Enzalutamide Viatris 160 mg film-coated tablets
+
+enzalutamide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1417,17 +1412,17 @@ Enzalutamide Viatris is a medicine that works by blocking the activity of hormon
 ## Do not take Enzalutamide Viatris:
 
 - -if you are allergic to enzalutamide or any of the other ingredients of this medicine (listed in section 6) .
-- -if you are pregnant or may become pregnant (see 'Pregnancy, breast-feeding and fertility').
+- -i f you are pregnant or may become pregnant (see 'Pregnancy, breast -feeding and fertility' ).
 
 ## Warnings and precautions
 
 ## Seizures
 
-Seizures were reported in 6 in every 1,000 people taking Enzalutamide Viatris, and fewer than 3 in every 1,000 people taking placebo (see 'Other medicines and Enzalutamide Viatris' below and section 4 'Possible side effects').
+Seizures were reported in 6 in every 1,000 people taking Enzalutamide Viatris, and fewer than 3 in every 1,000 people taking placebo (see 'Other medicines and Enzalutamide Viatris ' below and section 4 'Possible side effects').
 
 <div style=\"page-break-after: always\"></div>
 
-If you are taking a medicine that can cause seizures or that can increase the susceptibility for having seizures (see 'Other medicines and Enzalutamide Viatris' below).
+If you are taking a medicine that can cause seizures or that can increase the susceptibility for having seizures (see 'Other medicines and Enzalutamide Viatris ' below).
 
 ## If you have a seizure during treatment:
 
@@ -1510,7 +1505,7 @@ Tell your doctor if you are taking any of the medicines listed above. The dose o
 - -Enzalutamide Viatris is not for use in women. This medicine may cause harm to the unborn child or potential loss of pregnancy if taken by women who are pregnant. It must not be taken by women who are pregnant, may become pregnant, or who are breast-feeding.
 - -This medicine could possibly have an effect on male fertility.
 - -If you are having sex with a woman who can become pregnant, use a condom and another effective birth control method, during treatment and for 3 months after treatment with this medicine. If you are having sex with a pregnant woman, use a condom to protect the unborn child.
-- -Female caregivers see section 3 'How to take Enzalutamide Viatris' for handling and use.
+- -Female caregivers see section 3 'How to take Enzalutamide Viatris ' for handling and use.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1520,7 +1515,7 @@ Enzalutamide Viatris may have moderate influence on the ability to drive and use
 
 ## Enzalutamide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (less than 23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (less than 23 mg) per film-coated tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Enzalutamide Viatris
 
@@ -1574,19 +1569,21 @@ There have been rare reports of PRES (may affect up to 1 in 1,000 people), a rar
 
 ## Other possible side effects include:
 
-Very common (may affect more than 1 in 10 people) Tiredness, fall, broken bones, hot flushes, high blood pressure.
+Very common (may affect more than 1 in 10 people)
+
+Headache, tiredness, fall, broken bones, hot flushes, high blood pressure.
 
 ## Common (may affect up to 1 in 10 people)
 
-Headache, feeling anxious, dry skin, itching, difficulty remembering, blockage of the arteries in the heart (ischemic heart disease), breast enlargement in men (gynaecomastia), nipple pain, breast tenderness, symptom of restless legs syndrome (an uncontrollable urge to move a part of the body, usually the leg), reduced concentration, forgetfulness, change in sense of taste, difficulty thinking clearly.
+Feeling anxious, dry skin, itching, difficulty remembering, blockage of the arteries in the heart (ischemic heart disease), breast enlargement in men (gynaecomastia), nipple pain, breast tenderness, symptom of restless legs syndrome (an uncontrollable urge to move a part of the body, usually the leg), reduced concentration, forgetfulness, change in sense of taste, difficulty thinking clearly.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
 Hallucinations, low white blood cell count, increased liver enzyme levels in blood test (a sign of liver problems)
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
-Muscle pain, muscle spasms, muscular weakness, back pain, changes in ECG (QT prolongation), difficulty swallowing this medicine including choking, upset stomach including feeling sick (nausea), a skin reaction that causes red spots or patches on the skin that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme), or another serious skin reaction presenting reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes that can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome), rash, being sick (vomiting), swelling of the face, lips, tongue and/or throat, reduction in blood platelets (which increases risk of bleeding or bruising), diarrhoea, decreased appetite.
+Muscle pain, muscle spasms, muscular weakness, back pain, changes in ECG (QT prolongation), difficulty swallowing this medicine including choking, upset stomach including feeling sick (nausea), a skin reaction that causes red spots or patches on the skin that may look like a target or 'bulls -eye' with a dark red centre surrounded by paler red rings (erythema multiforme), or another serious skin reaction presenting reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes that can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome), rash, being sick (vomiting), swelling of the face, lips, tongue and/or throat, reduction in blood platelets (which increases risk of bleeding or bruising), diarrhoea, decreased appetite.
 
 ## Reporting of side effects
 
@@ -1653,7 +1650,7 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-Lietuva
+## Lietuva
 
 Viatris UAB
 
@@ -1661,9 +1658,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1675,7 +1674,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1683,11 +1682,15 @@ Tel: + 420 222 004 400
 
 ## Danmark
 
-Viatris ApS Tlf: +45 28 11 69 32
+Viatris ApS
+
+Tlf: +45 28 11 69 32
 
 ## Deutschland
 
-Viatris Healthcare GmbH Tel: +49 800 0700 800
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
 
 ## Eesti
 
@@ -1697,15 +1700,23 @@ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ:  +30 2100 100 002
+Viatris Hellas Ltd
+
+Τηλ
+
+:  +30 2100 100 002
 
 ## España
 
-Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
 
 ## France
 
-Viatris Santé Tél: +33 4 37 25 75 00
+Viatris Santé
+
+Tél: +33 4 37 25 75 00
 
 ## Hrvatska
 
@@ -1715,43 +1726,65 @@ Tel: +385 1 23 50 599
 
 ## Ireland
 
-Viatris Limited Tel:   +353 1 8711600
+Viatris Limited
+
+Tel:   +353 1 8711600
 
 ## Ísland
 
-Icepharma hf. Sími: +354 540 8000
+Icepharma hf.
+
+Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited Τηλ: +357 22863100
+CPO Pharmaceuticals Limited
+
+Τηλ
+
+: +357 22863100
 
 ## Magyarország
 
-Viatris Healthcare Kft. Tel.: + 36 1 465 2100
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tlf: + 47 66 75 33 00
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH Tel: +43 1 86390
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00
+Viatris Healthcare Sp. z o.o.
+
+Tel.: + 48 22 546 64 00
 
 ## Portugal
 
@@ -1761,7 +1794,9 @@ Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 
@@ -1781,7 +1816,9 @@ Viatris Oy Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: +46 (0)8 630 19 00
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 

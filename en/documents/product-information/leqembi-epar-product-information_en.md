@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-06-19 10:21:05
+document_datetime: 2026-06-23 13:45:49
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqembi-epar-product-information_en.pdf
 document_name: leqembi-epar-product-information_en.pdf
 version: success
-processing_time: 6.6943955
-conversion_datetime: 2026-06-25 09:11:52.350447
+processing_time: 6.919572
+conversion_datetime: 2026-06-25 17:08:34.303478
 docling_version:
   docling-serve: 1.25.0
   docling-jobkit: 1.24.0

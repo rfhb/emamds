@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-06-11 11:53:54
-document_pages: 139
+document_datetime: 2026-06-19 14:56:34
+document_pages: 146
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/winrevair-epar-product-information_en.pdf
 document_name: winrevair-epar-product-information_en.pdf
 version: success
-processing_time: 114.318219
-conversion_datetime: 2026-06-13 20:00:17.558975
+processing_time: 56.555424
+conversion_datetime: 2026-06-25 09:10:37.540024
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
@@ -192,7 +192,7 @@ Increases in Hgb have been observed in patients during treatment with sotatercep
 
 ## Severe thrombocytopenia
 
-Decreased platelet count has been observed in some patients taking sotatercept including severe thrombocytopenia (platelet count &lt; 50 x 10 9 /L). Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5% to 24.5%) compared to patients not receiving prostacyclin infusion (0.0% to 3.1%) (see section 4.8). Severe thrombocytopenia may increase the risk of bleeding events . Platelet count should be monitored before each dose for the first 5 doses, or longer if  values are unstable, and every 3 to 6 months thereaf ter to determine whether dose adjustments are required (see section 4.2).
+Decreased platelet count has been observed in some patients taking sotatercept including severe thrombocytopenia (platelet count &lt; 50 x 10 9 /L). Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (7.7% to 24.5%) compared to patients not receiving prostacyclin infusion (0.0% to 3.7%) (see section 4.8). Severe thrombocytopenia may increase the risk of bleeding events . Platelet count should be monitored before each dose for the first 5 doses, or longer if  values are unstable, and every 3 to 6 months thereaf ter to determine whether dose adjustments are required (see section 4.2).
 
 ## Serious bleeding
 
@@ -244,7 +244,7 @@ Sotatercept has no or negligible influence on the ability to drive and use machi
 
 ## Summary of safety profile
 
-The most frequently reported adverse reactions in either STELLAR or ZENITH were epistaxis (45.3%), headache (26.7%), telangiectasia (25.6%), diarrhoea (25.6%), increased haemoglobin (15.1%), thrombocytopenia (15.1%), dizziness (14.7%), back pain (14%), rash (12.3%), and gingival bleeding (10.5%).
+The most frequently reported adverse reactions in either STELLAR, ZENITH or HYPERION (highest frequency among the studies) were epistaxis (45.3%), headache (26.7%), telangiectasia (26.3%), diarrhoea (25.6%), increased haemoglobin (15.1%), thrombocytopenia (15.1%), dizziness (14.7%), back pain (14%), rash (12.3%), gastrointestinal tract bleeding (11.6%), and gingival bleeding (10.5%).
 
 The most frequently reported serious adverse reactions were thrombocytopenia (&lt; 1.2%), epistaxis (&lt; 1.2%) and dizziness (&lt; 1.2%).
 
@@ -254,26 +254,27 @@ The most common adverse reactions leading to discontinuation were epistaxis and 
 
 ## Tabulated list of adverse reactions
 
-The safety of sotatercept was evaluated in the pivotal placebo-controlled studies STELLAR and ZENITH, which included 163 and 86 patients with PAH treated with sotatercept, respectively (see section 5.1). The median duration of treatment with sotatercept was 313 days in STELLAR and 434.5 days in ZENITH .
+The safety of sotatercept was evaluated in the phase 3 placebo-controlled studies STELLAR, ZENITH, and HYPERION, which included 163, 86, and 160 patients with PAH treated with sotatercept, respectively (see section 5.1). The median duration of treatment with sotatercept was 313 days in STELLAR, 434.5 days in ZENITH, and 442.5 days in HYPERION .
 
-Table 3 shows the adverse reactions reported with sotatercept in placebo-controlled clinical studies and post-marketing surveillance. These are listed in the table below by MedDRA system organ class and by frequency. Frequencies are def ined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), and very rare (&lt; 1/10 000), and not known (cannot be estimated from available post-marketing data).
+Table 3 shows the adverse reactions reported with sotatercept in placebo-controlled clinical studies and post-marketing surveillance. These are listed by MedDRA system organ class and by frequency. Frequencies are def ined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), and very rare (&lt; 1/10 000), and not known (cannot be estimated from available post-marketing data).
 
 Table 3: Adverse reactions
 
-| System organ class                                   | Frequency   | Adverse reaction                             |
-|------------------------------------------------------|-------------|----------------------------------------------|
-| Infections and infestations                          | Common      | Urinary tract infections                     |
-| Blood and lymphatic system disorders                 | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1 |
-| Nervous system disorders                             | Very common | Dizziness Headache                           |
-| Cardiac disorders                                    | Not known   | Pericardial effusion 1                       |
-| Respiratory, thoracic and mediastinal                | Very common | Epistaxis                                    |
-| disorders                                            | Uncommon    | Intrapulmonary shunt 3                       |
-| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 4                |
-| Skin and subcutaneous tissue disorders               | Very common | Telangiectasia 1 Rash                        |
-| Skin and subcutaneous tissue disorders               | Common      | Erythema                                     |
-| Musculoskeletal and connective tissue disorders      | Very common | Back pain 4                                  |
-| General disorders and administration site conditions | Common      | Injection site pruritus                      |
-| Investigations                                       | Common      | Increased blood pressure 1,5                 |
+| System organ class                                   | Frequency   | Adverse reaction                                                  |
+|------------------------------------------------------|-------------|-------------------------------------------------------------------|
+| Infections and infestations                          | Common      | Urinary tract infections                                          |
+| Blood and lymphatic system disorders                 | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1                      |
+| Nervous system disorders                             | Very common | Dizziness Headache                                                |
+| Cardiac disorders                                    | Not known   | Pericardial effusion 1                                            |
+| Respiratory, thoracic and mediastinal disorders      | Very common | Epistaxis                                                         |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon    | Intrapulmonary shunt 3                                            |
+| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 4 Gastrointestinal tract bleeding 4,5 |
+| Gastrointestinal disorders                           | Common      | Colonic angioectasia                                              |
+| Skin and subcutaneous tissue disorders               | Very common | Telangiectasia 1 Rash                                             |
+| Skin and subcutaneous tissue disorders               | Common      | Erythema Skin hypopigmentation                                    |
+| Musculoskeletal and connective tissue disorders      | Very common | Back pain 4                                                       |
+| General disorders and administration site conditions | Common      | Injection site pruritus                                           |
+| Investigations                                       | Common      | Increased blood pressure 1,6                                      |
 
 ## Description of selected adverse reactions
 
@@ -283,17 +284,19 @@ In STELLAR, increased Hgb ( 'haemoglobin increased' and 'polycythaemia') was rep
 
 In ZENITH, increased Hgb was reported in 15.1% of patients taking sotatercept. Based on laboratory data, moderate elevations in Hgb occurred in 7.1% of patients taking sotatercept.
 
+<div style=\"page-break-after: always\"></div>
+
+In HYPERION, increased Hgb was reported in 11.3% of patients taking sotatercept. Based on laboratory data, moderate elevations in Hgb occurred in 5.7% of patients taking sotatercept.
+
 Increases in Hgb were managed by dose adjustments (see sections 4.2 and 4.4).
 
 ## Thrombocytopenia
 
-In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 2.5%
-
-<div style=\"page-break-after: always\"></div>
-
-of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
+In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 3.1% of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
 
 In ZENITH, thrombocytopenia was reported in 15.1% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 6.0% of patients taking sotatercept. Thrombocytopenia was reported only in patients also receiving prostacyclin inf usion (24.5%).
+
+In HYPERION, thrombocytopenia was reported in 4.4% of patients taking sotatercept. No severe reduction in platelet count &lt; 50 x 10 9 /L occurred in patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (7.7%) compared to patients not receiving prostacyclin infusion (3.7%).
 
 Thrombocytopenia was managed by dose adjustments (see sections 4.2 and 4.4).
 
@@ -303,29 +306,35 @@ In STELLAR, telangiectasia was observed in 16.6% of patients taking sotatercept.
 
 In ZENITH, telangiectasia was observed in 25.6% of patients taking sotatercept. The median time to onset was 12.8 weeks. There were no discontinuations of treatment due to telangiectasia in the sotatercept group.
 
+In HYPERION, telangiectasia, was observed in 26.3% of patients taking sotatercept. The median time to onset was 19.6 weeks. Discontinuations of treatment due to telangiectasia were 0.6% in the sotatercept group.
+
 ## Increased blood pressure
 
 In STELLAR, increased blood pressure was reported in 4.3% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased f rom baseline by 2.2 mmHg and diastolic blood pressure increased by 4.9 mmHg at 24 weeks.
 
 In ZENITH, increased blood pressure was reported in 2.3% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased f rom baseline by 3.1 mmHg and diastolic blood pressure increased by 5.1 mmHg at 24 weeks.
 
+In HYPERION, increased blood pressure was reported in 6.9% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased from baseline by 3.6 mmHg and diastolic blood pressure increased by 4.5 mmHg at 24 weeks.
+
 ## Pericardial effusion
 
 Cases of new-onset or worsening of pericardial effusions (including cardiac tamponade) have been reported in patients treated with sotatercept, despite improved or stable PAH haemodynamics. Most cases were reported in patients with PAH associated with connective tissue disease, pre-existing pericardial ef f usion, or both; most also received prostacyclin analogues.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
-With the exception of bleeding events (a collective group of adverse events of  clinical interest), there were no differences in safety between the &lt; 65-year-o ld and ≥ 65-year-old subgroups.
+With the exception of bleeding events (a collective group of adverse events of  clinical interest), there were no differences in safety between the &lt; 65-yearold and ≥ 65-year-old subgroups.
 
 In STELLAR, bleeding events occurred more commonly in the older sotatercept subgroup (52% versus 31.9% in patients &lt; 65-year-old); however, there was no notable imbalance between age categories for any specific bleeding event. Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 8.0% of patients ≥ 65-year-old taking sotatercept.
 
 In ZENITH, bleeding events occurred more commonly in the older sotatercept subgroup (73.3% versus 60.7% in patients &lt; 65-year-old). Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 13.3% of patients ≥ 65-year-old taking sotatercept.
 
+In HYPERION, bleeding events occurred more commonly in the older sotatercept subgroup (55.9% vs 38% in patients &lt; 65-year-old). Serious bleeding occurred in 2.2% of patients &lt; 65-year-old and in 13.2% of patients ≥ 65-year-old taking sotatercept.
+
 ## Long-term safety data
 
-Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-left intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
-
-<div style=\"page-break-after: always\"></div>
+Pooled long-term safety data are available f rom 431 patients who participated in phase 2 and phase 3 clinical studies (PULSAR, SPECTRA, and STELLAR). A majority of these patients continued into SOTERIA, an ongoing open-label follow-up study of the long-term safety and efficacy of sotatercept. The mean duration of exposure was 173 weeks, with a maximum exposure of 355 weeks. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-lef t intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
 
 ## Reporting of suspected adverse reactions
 
@@ -347,6 +356,8 @@ Pharmacotherapeutic group: antihypertensives, antihypertensives for pulmonary ar
 
 Sotatercept is an activin signalling inhibitor with high selectivity for Activin-A, a dimeric glycoprotein which belongs to the transf orming growth factorβ (TGF -β) superf amily of   ligands. Activin -A binds to the activin receptor type IIA (ActRIIA) regulating key signalling for inflammation, cell prolif eration, apoptosis, and tissue homeostasis.
 
+<div style=\"page-break-after: always\"></div>
+
 Activin-A levels are increased in PAH patients. Activin binding to ActRIIA promotes proliferative signalling while there is a decrease in anti-proliferative bone morphogenetic protein receptor type II (BMPRII) signalling. The imbalance of ActRIIA-BMPRII signalling underlying PAH results in vascular cell hyperproliferation, causing pathological remodelling of the pulmonary arterial wall, narrowing the arterial lumen, increasing pulmonary vascular resistance, and leads to increased pulmonary artery pressure and right ventricular dysfunction.
 
 Sotatercept consists of a recombinant homodimeric activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, which acts as a ligand trap that scavenges excess Activin-A and other ligands for ActRIIA to inhibit activin signalling. As a result, sotatercept rebalances the pro-proliferative (ActRIIA/Smad2/3mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signalling to modulate vascular prolif eration.
@@ -357,11 +368,9 @@ A phase 2 clinical study (PULSAR) assessed pulmonary vascular resistance (PVR) i
 
 In rat models of PAH, a sotatercept analogue reduced expression of pro-inflammatory markers at the pulmonary arterial wall, reduced leucocyte recruitment, inhibited proliferation of endothelial and smooth muscle cells, and promoted apoptosis in diseased vasculature. These cellular changes were associated with thinner vessel walls, reversed arterial and right ventricular remodelling, and improved haemodynamics.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunogenicity
 
-Anti-drug antibodies (ADA) were detected in 27% of patients in STELLAR and 43% of patients in ZENITH. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
+Anti-drug antibodies (ADA) were detected in 27% of patients in STELLAR, 43% of patients in ZENITH, and 40% of patients in HYPERION. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
 
 ## Clinical ef f icacy and saf ety
 
@@ -369,9 +378,11 @@ Anti-drug antibodies (ADA) were detected in 27% of patients in STELLAR and 43% o
 
 The efficacy of sotatercept was evaluated in adult patients with PAH in the pivotal STELLAR study. STELLAR was a double-blind, placebo-controlled, multicentre, parallel-group clinical study in which 323 patients with PAH (WHO FC II or III) were randomised 1:1 to sotatercept (starting dose 0.3 mg/kg escalated to target dose 0.7 mg/kg) (n = 163) or placebo (n = 160) administered subcutaneously once every 3 weeks. Patients continued their treatment assignment in the long-term double-blind treatment period until all patients completed Week 24.
 
-Participants in this study were adults with a median age of 48.0 years (range: 18 to 82 years), of which 16.7% were ≥ 65 years of age. Median weight was 68.2 kg (range: 38.0 to 141.3 kg); 89.2% of participants were White, and 79.3% were not Hispanic or Latino; and 79.3% were female. The most common PAH aetiologies were idiopathic PAH (58.5%), heritable PAH (18.3%), and PAH associated with connective tissue diseases (14.9%), PAH associated with simple congenital heart disease with repaired systemic-to-pulmonary shunts (5%), or drug or toxin-induced PAH (3.4%). The mean time since PAH diagnosis to screening was 8.76 years.
+Participants in this study were adults with a median age of  48.0 years (range: 18 to 82 years), of which 16.7% were ≥ 65 years of age. Median weight was 68.2 kg (range: 38.0 to 141.3 kg); 89.2% of participants were White, and 79.3% were not Hispanic or Latino; and 79.3% were female. The most common PAH aetiologies were idiopathic PAH (58.5%), heritable PAH (18.3%), and PAH associated with connective tissue diseases (14.9%), PAH associated with simple congenital heart disease with repaired systemic-to-pulmonary shunts (5%), or drug or toxin-induced PAH (3.4%). The mean time since PAH diagnosis to screening was 8.76 years.
 
 Most participants were receiving either triple (61.3%) or double (34.7%) background PAH therapy, and more than one-third (39.9%) were receiving prostacyclin infusions. The proportions of participants in WHO FC II was 48.6% and in WHO FC III was 51.4%. The STELLAR study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, schistosomiasis-associated PAH, and PVOD.
+
+<div style=\"page-break-after: always\"></div>
 
 The primary efficacy endpoint was the change from baseline at Week 24 in 6-Minute Walk Distance (6MWD). In the sotatercept treatment group, the median of the placebo-adjusted change in 6MWD from baseline at Week 24 was 40.8 meters (95% CI: 27.5, 54.1; p &lt; 0.001). The median of the placebo-adjusted changes in 6MWD at Week 24 were also evaluated in subgroups. The treatment effect was consistent across the dif ferent subgroups including sex, PAH diagnostic group, background therapy at baseline, prostacyclin infusion therapy at baseline, WHO FC, and baseline PVR.
 
@@ -379,15 +390,15 @@ The secondary endpoints included improvements in multicomponent improvement (MCI
 
 MCI was a pre-defined endpoint measured by the proportion of patients achieving all three of the following criteria at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m), improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NTproBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II.
 
-Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of  PAH (worsened WHO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
-
-<div style=\"page-break-after: always\"></div>
+Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or de terioration of  PAH (worsened WHO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
 
 At Week 24, 38.9% of sotatercept-treated patients showed improvement in MCI versus 10.1% in the placebo group (p &lt; 0.001). The median treatment difference in PVR between sotatercept and placebo group was -234.6 dyn*sec/cm 5 (95% CI: -288.4, -180.8; p &lt; 0.001). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was -441.6 pg/mL (95% CI: -573.5, 309.6; p &lt; 0.001). Improvement in WHO FC from baseline occurred in 29% of patients in sotatercept versus 13.8% in placebo (p &lt; 0.001).
 
 Treatment with sotatercept resulted in an 82% reduction (HR 0.182, 95% CI: 0.075, 0.441; p &lt; 0.001) in the occurrence of death or clinical worsening events compared to placebo (see Table 4). The treatment effect of sotatercept versus placebo started by Week 10 and continued f or the duration of the study.
 
-Table 4: Death or clinical worsening events
+<div style=\"page-break-after: always\"></div>
+
+Table 4: Death or clinical worsening events in STELLAR
 
 |                                                                                               | Sotatercept (N = 163)   | Placebo (N = 160)   |
 |-----------------------------------------------------------------------------------------------|-------------------------|---------------------|
@@ -399,24 +410,30 @@ Table 4: Death or clinical worsening events
 | PAH-specific hospitalisation (≥ 24 hours)                                                     | 0 (0.0)                 | 8 (5.0)             |
 | Deterioration ofPAH †                                                                         | 4 (2.5)                 | 15 (9.4)            |
 
+* A subject can have more than one assessment recorded f or their f irst event of clinical worsening. There were 2 participants receiving placebo and no participant receiving sotatercept who had more than one assessment recorded for their first event of clin ical worsening. This analysis excluded the component ' need to initiate rescue therapy with an approved PAH therapy or need to increase the dose of  inf usion prostacyclin by 10% or more'.
+
+† Deterioration of PAH is defined by both of the following events occurring at any time, even if  they began at dif ferent times, as compared to their baseline values: (a) Worsened WHO functional class (II to III, III to IV, II to IV, etc.); and (b) Decrease in 6MWD by ≥ 15% (confirmed by two 6MWTs at least 4 hours apart but no more than one week).
+
+N = number of subjects in FAS population; n = number of subjects in the category. Percentages are calculated as (n/N)*100.
+
 ## ZENITH
 
 The efficacy of sotatercept was evaluated in adult patients with PAH WHO FC III or IV at high-risk of mortality in the ZENITH study. ZENITH was a double-blind, placebo-controlled, multicentre, parallel-group clinical study in which 172 patients were randomised 1:1 to sotatercept (starting dose of 0.3 mg/kg escalated to target dose 0.7 mg/kg) (n = 86) or placebo (n = 86) administered subcutaneously once every 3 weeks. Patients who did not experience an event of the primary composite endpoint remained in the double-blind, placebo-controlled treatment period, while patients who experienced an event of PAH worseningrelated hospitalisation of  ≥ 24 hours were eligible to enrol into the open-label, long-term f ollow-up (LTFU) study SOTERIA.
 
-Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29.1% were ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
+Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29.1% w ere ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
 
-<div style=\"page-break-after: always\"></div>
-
-The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff .
+The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff.
 
 The median time to first event was 9.6 months (95% CI: 6.2, 14.8) in the placebo group. The KaplanMeier curves began to separate at approximately Week 5, and the separation increased for the remainder of the study (see Figure 1). The treatment ef f ect was consistent across the different subgroups including age, sex, PAH subtype (CTD-associated versus not CTD-associated), WHO FC, double versus triple background therapy at baseline, prostacyclin infusion therapy at baseline, baseline PVR, and baseline eGFR.
 
-Table 5: Components of the primary endpoint
+<div style=\"page-break-after: always\"></div>
+
+Table 5: Components of the primary endpoint in ZENITH
 
 |                                                                        | Sotatercept (N = 86) n (%)   | Placebo (N = 86) n (%)   | Hazard ratio (95% CI) p-value a   |
 |------------------------------------------------------------------------|------------------------------|--------------------------|-----------------------------------|
 | Number (%) ofparticipants with ≥ 1 primary event during or post ZENITH | 15 (17.4)                    | 47 (54.7)                | 0.24 (0.13, 0.43) < 0.0001        |
-| Participants with first event ofthe composite, by component b          |                              |                          |                                   |
+| First event ofthe composite ofthe primary endpoint, by component b     |                              |                          |                                   |
 | All-cause death c                                                      | 6 (7.0)                      | 3 (3.5)                  |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 1 (1.2)                  |                                   |
 | PAHworsening related hospitalisation of≥ 24 hours                      | 8 (9.3)                      | 43 (50.0)                |                                   |
@@ -437,7 +454,7 @@ e  Corresponds to the first secondary endpoint of ZENITH.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Time to first event of all-cause death, lung transplantation, or PAH worsening-related hospitalis ation of ≥ 24 hours Kaplan-Meier plot
+Figure 1: Time to first event of all-cause death, lung transplantation, or PAH worsening-related hospitalis ation of ≥ 24 hours in ZENITH Kaplan-Meier plot
 
 120
 
@@ -453,9 +470,63 @@ The point estimate for the transplant-free survival f avoured the sotatercept tr
 
 <div style=\"page-break-after: always\"></div>
 
+## HYPERION
+
+The efficacy of sotatercept in adult patients with newly diagnosed PAH (WHO FC II or III, diagnosis within 12 months prior to screening) at intermediate to high-risk of  disease progression was evaluated in HYPERION. HYPERION was a global, double-blind, placebo-controlled clinical study in which 320 patients were randomised 1:1 to sotatercept (starting dose of 0.3 mg/kg escalated to target dose 0.7 mg/kg) (n = 160) or placebo (n = 160) administered subcutaneously once every 3 weeks. HYPERION was stopped early based on the positive results from the interim analysis of the ZENITH study and a review of the totality of data f rom the sotatercept clinical program.
+
+Participants in this study were adults with a median age of 60.0 years (range: 18 to 88 years) of  whom 40.6 % were ≥ 65 years of  age, 86.3% of participants were White, 76.6% were not Hispanic or Latino, and 72.5% were female. The PAH aetiologies studied were idiopathic PAH (59.4%), PAH associated with CTD (30.3%), heritable PAH (5.9%), drug or toxin induced PAH (2.5%), and PAH associated with simple congenital heart disease with repaired systemic-to-pulmonary shunts (at least 1 year following shunt repair (1.9%)). The mean time since PAH diagnosis was 0.7 years. All participants were receiving either double (72.2%) or triple (27.8%) background PAH therapy, and 16.6% were receiving prostacyclin infusion. The proportions of  participants in WHO FC II was 21.3% and in WHO FC III was 78.8%. The REVEAL Lite 2 risk score was &lt; 6 for 20.6% of participants, 6 to 7 for 50.9% of participants, and ≥ 8 f or 28.1% of participants. The COMPERA 2 risk score was low for 1.9% of participants, intermediate-low f or 64.1% of participants, intermediate-high for 32.2% of participants, high for 1.6% of participants, and missing for 0.3% of participants. The HYPERION study excluded participants diagnosed HIV-associated PAH, PAH associated with portal hypertension, schistosomiasis-associated PAH, PVOD, and pulmonary capillary hemangiomatosis.
+
+The primary efficacy endpoint was time to clinical worsening (TTCW), defined as the time to death or the first conf irmed morbidity event. Events comprising this endpoint included all-cause death, nonplanned PAH worseningrelated hospitalisation of  ≥ 24 hours, atrial septostomy, lung transplantation, and deterioration in 6MWD from baseline combined with at least one of the following: worsening of WHO FC, signs/symptoms of increased right heart failure, or addition of a new background PAH therapy or change to a parenteral route of  administration.
+
+In the sotatercept treatment group, the risk of  experiencing a first clinical worsening event was 76% lower compared with the placebo group (HR: 0.24; 95% CI: 0.14, 0.41; p &lt; 0.0001) (see Table 6). Fewer participants in the sotatercept group (17 (10.6%)) than in the placebo group (59 (36.9%)) had a primary endpoint event.
+
+The median TTCW was 23.0 months (95% CI: 17.3, NR) in the placebo group. The Kaplan-Meier curves showed early separation beginning at approximately Week 5 and with increasing separation for the remainder of the study (see Figure 2). The treatment ef fect was consistent across subgroups: age, sex, PAH subtype (idiopathic PAH, CTD-associated PAH), double versus triple background PAH therapy, WHO FC, prostacyclin infusion versus non prostacyclin infusion therapy, PVR, eGFR, REVEAL Lite 2 score, intermediate-low versus intermediate-high COMPERA 2 risk score.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6: Components of the primary endpoint in HYPERION
+
+|                                                                            | Sotatercept (N = 160) n (%)   | Placebo (N = 160) n (%)   | Hazard Ratio (95% CI) p-value   |
+|----------------------------------------------------------------------------|-------------------------------|---------------------------|---------------------------------|
+| Number (%) of participants with ≥ 1 primary event during or post-HYPERION* | 17 (10.6)                     | 59 (36.9)                 | 0.24 (0.14, 0.41) < 0.0001      |
+| First event of the composite of the primary endpoint, per component †      |                               |                           |                                 |
+| All cause death                                                            | 7 (4.4)                       | 5 (3.1)                   |                                 |
+| Non-planned PAH-related hospitalisation of> 24 hours                       | 2 (1.3)                       | 12 (7.5)                  |                                 |
+| Atrial septostomy                                                          | 0                             | 0                         |                                 |
+| Lung transplant                                                            | 0                             | 0                         |                                 |
+| Deterioration in performance in exercise due to PAH                        | 8 (5.0)                       | 46 (28.8)                 |                                 |
+| Participants with any events of the components of the composite ‡          |                               |                           |                                 |
+| All-cause death                                                            | 7 (4.4)                       | 6 (3.8)                   |                                 |
+| Non-planned PAH- related hospitalization of≥ 24 hours                      | 3 (1.9)                       | 14 (8.8)                  |                                 |
+| Atrial septostomy                                                          | 0                             | 0                         |                                 |
+| Lung transplant                                                            | 0                             | 0                         |                                 |
+| Deterioration in performance in exercise due to PAH §                      | 8 (5.0)                       | 46 (28.8)                 |                                 |
+
+* The primary composite endpoint analysis includes the first occurrence of an adjudicated clinical worsening event. All deaths are included, regardless of  adjudication and regardless of whether they occurred during or post-HYPERION, except for those occurring after enrollment in SOTERIA.
+
+† Participants who experienced &gt; 1 component are counted toward only the component that occurred first. Participants who experienced multiple components simultaneously as their first event are counted toward each applicable first component.
+
+‡ Shows each component of the composite primary endpoint as a standalone outcome. A participant is included in more than one row if multiple events meeting primary endpoint definition were observed.
+
+§  Defined as a decrease in 6MWD from the average of the screening on 2 consecutive tests (which must be at least 4 hours apart) and at least 1 of  the f ollowing: worsening of WHO FC, signs/symptoms of increased right heart failure; or addition/change of a background PAH therapy.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Time to first clinical worsening event in HYPERION Kaplan-Meier plot
+
+<!-- image -->
+
+n = number of subjects at risk
+
+The secondary endpoints included improvements in multicomponent improvement (MCI), NTproBNP, WHO FC, and 6MWD.
+
+MCI was measured by the proportion of participants achieving all of the following at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m), improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NT-proBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II. For each component of the MCI definition, the observed proportion of participants was higher in the sotatercept group compared with the placebo group. The proportion of participants who met all three MCI criteria was signif icantly greater in the sotatercept group (29.4%) than in the placebo group (14.6%) (p = 0.003). At week 24, the median treatment difference in 6MWD between the sotatercept and placebo groups was 21.4 m (95% CI: 4.65, 38.24). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was 308.6 pg/mL (95% CI: -434.84, -182.37). Improvement in WHO FC from baseline occurred in 55.2% of patients in the sotatercept group versus 38.9% in the placebo group.
+
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Winrevair in one or more subsets of the paediatric population in the treatment of pulmonary arterial hypertension (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -491,11 +562,11 @@ The clearance and central volume of distribution of sotatercept increase with in
 
 Sotatercept pharmacokinetics was comparable in PAH patients with mild to moderate renal impairment (eGFR ranging from 30 to 89 mL/min/1.73m 2 ) to those with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ). Severe renal impairment (eGFR ranging from 15 to 30 mL/min/1.73m 2 , n = 3) had no impact on the PK of sotatercept. Additionally, sotatercept PK is comparable between non-PAH end-stage renal disease (ESRD) patients (eGFR &lt; 15 mL/min/1.73m 2 ) and patients with normal renal function. Sotatercept is not dialyzable during haemodialysis. Limited data are available on the use of sotatercept in PAH patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 Sotatercept has not been studied in PAH patients with hepatic impairment (Child-Pugh Classification A to C). Hepatic impairment is not expected to influence sotatercept metabolism since sotatercept is metabolised via cellular catabolism.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -515,8 +586,6 @@ In embryo-fetal developmental toxicity studies, ef f ects in rats and rabbits in
 
 In a pre- and postnatal development study in rats, no sotatercept related adverse ef f ects were observed in f irst f ilial generation (F1) pups f rom dams dosed during gestation at estimated exposures up to 2times the MRHD. In F1 pups from dams dosed during lactation, decreases in pup weight correlated with delays in sexual maturation. The NOAEL for effects on growth and maturation in pups provides a systemic exposure 0.6-times the clinical exposure at the MRHD.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -525,7 +594,9 @@ In a pre- and postnatal development study in rats, no sotatercept related advers
 
 Citric acid monohydrate (E330) Sodium citrate (E331) Polysorbate 80 (E433) Sucrose
 
-Solvent
+<div style=\"page-break-after: always\"></div>
+
+## Solvent
 
 Water for injections
 
@@ -557,7 +628,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-## Winrevair 45 mg powder and solvent for solution for injection
+Winrevair 45 mg powder and solvent for solution for injection
 
 2 mL capacity, type I glass vial sealed with a bromobutyl rubber stopper with polymer coating and aluminium seal with lime polypropylene flip-off cap containing 45 mg of sotatercept.
 
@@ -567,14 +638,17 @@ Prefilled syringe (type I glass cartridge closed with a bromobutyl rubber stoppe
 
 2 mL capacity, type I glass vial sealed with a bromobutyl rubber stopper with polymer coating and aluminium seal with burgundy polypropylene flip-off cap containing 60 mg of sotatercept.
 
-<div style=\"page-break-after: always\"></div>
-
 Prefilled syringe (type I glass cartridge closed with a bromobutyl rubber stopper) with 1.3 mL of solvent.
 
 Winrevair powder and solvent for solution for injection is available as the following pack sizes:
 
 - -Kits containing 1 vial with 45 mg powder, 1 prefilled syringe with 1.0 mL solvent, 1 dosing syringe with 0.1 mL graduations, 1 vial adaptor (13 mm), 1 needle for injection and 4 alcohol wipes.
-- -Kits containing 2 vials with 45 mg powder, 2 prefilled syringes with 1.0 mL solvent, 1 dosing syringe with 0.1 mL graduations, 2 vial adaptors (13 mm), 1 needle for injection and 8 alcohol wipes.
+- -Kits containing 2 vials with 45 mg powder, 2 prefilled syringes with 1.0 mL solvent, 1 dosing syringe with 0.1 mL graduations, 2 vial adaptors (13 mm), 1 needle for injection and 8 alcohol
+
+<div style=\"page-break-after: always\"></div>
+
+wipes.
+
 - -Kits containing 1 vial with 60 mg powder, 1 prefilled syringe with 1.3 mL solvent, 1 dosing syringe with 0.1 mL graduations, 1 vial adaptor (13 mm), 1 needle for injection and 4 alcohol wipes.
 - -Kits containing 2 vials with 60 mg powder, 2 prefilled syringes with 1.3 mL solvent, 1 dosing syringe with 0.1 mL graduations, 2 vial adaptors (13 mm), 1 needle for injection and 8 alcohol wipes.
 
@@ -584,7 +658,7 @@ Not all pack sizes may be marketed.
 
 ## Selecting the appropriate product kit
 
-If   a  patient's  weight  requires  the  use  of   two 45 mg or two 60 mg vials, a 2-vial kit should be used instead of two 1-vial kit to eliminate the need for multiple injections (see section 6.5).
+If   a  patient's  weight  requires  the  use  of   two  45 mg or two 60 mg vials, a 2-vial kit should be used instead of two 1-vial kit to eliminate the need for multiple injections (see section 6.5).
 
 ## Reconstitution and administration instructions
 
@@ -606,8 +680,6 @@ See the separate Instructions for Use booklet provided in the kit for detailed s
 
 After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration after reconstitution is 50 mg/mL.
 
-<div style=\"page-break-after: always\"></div>
-
 - -Gently swirl the vial to reconstitute the medicinal product. Do not shake or vigorously agitate.
 - -Allow the vial to stand f or up to 3 minutes to allow bubbles to disappear.
 - -Visually inspect the reconstituted solution. When properly mixed, the reconstituted solution should be clear to opalescent and colourless to slightly brownish-yellow, and should not have clumps or powder.
@@ -617,7 +689,12 @@ After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of 
 
 ## Dosing syringe preparation
 
-- -Before preparing the dosing syringe, visually inspect the reconstituted solution. The reconstituted solution should be clear to opalescent and colourless to slightly brownish-yellow, and should not have clumps or powder.
+- -Before preparing the dosing syringe, visually inspect the reconstituted solution. The reconstituted solution should be clear to opalescent and colourless to slightly brownish-yellow,
+
+<div style=\"page-break-after: always\"></div>
+
+and should not have clumps or powder.
+
 - -Swab the vial adaptor with an alcohol wipe.
 - -Remove the dosing syringe from its packaging and attach the syringe to the vial adaptor.
 - -Turn the syringe and vial upside-down and withdraw the appropriate volume for injection, based on the patient's weight.
@@ -646,8 +723,6 @@ Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1850/001 EU/1/24/1850/002 EU/1/24/1850/003 EU/1/24/1850/004
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -728,7 +803,7 @@ Table 1: Injection volume for dose of 0.3 mg/kg
 
 ## Recommended target dose
 
-Three weeks after a single starting dose of  0.3 mg/kg, the dose should be escalated to the recommended target dose of 0.7 mg/kg after verifying acceptable Hgb and platelet count (see section 4.2 ' Dose adjustments due to increase in haemoglobin or decreased platelet count' ). Treatment should be continued at 0.7 mg/kg every 3 weeks unless dose adjustments are required.
+Three weeks after a single starting dose of  0.3 mg/kg, the dose should be escalated to the recommended target dose of 0.7 mg/kg after verifying acceptable Hgb and platelet count (see section 4.2 'Dose adjustments due to increase in haemoglobin or decreased platelet count' ). Treatment should be continued at 0.7 mg/kg every 3 weeks unless dose adjustments are required.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -758,7 +833,7 @@ Table 2: Injection volume for dose of 0.7 mg/kg
 | 160.4 - 167.4               |                      2.3 | Pack containing 2 x 60 mg vials |
 | 167.5 and above             |                      2.4 | Pack containing 2 x 60 mg vials |
 
-Dose adjustments due to increase in haemoglobin or decreased platelet count
+## Dose adjustments due to increase in haemoglobin or decreased platelet count
 
 Hgb and platelet count should be monitored for the first 5 doses, or longer if values are unstable. Thereafter, Hgb and platelet count should be verif ied every 3 to 6 months and the dose adjusted if necessary (see sections 4.4 and 4.8).
 
@@ -825,7 +900,7 @@ Increases in Hgb have been observed in patients during treatment with sotatercep
 
 ## Severe thrombocytopenia
 
-Decreased platelet count has been observed in some patients taking sotatercept including severe thrombocytopenia (platelet count &lt; 50 x 10 9 /L). Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5% to 24.5%) compared to patients not receiving prostacyclin infusion (0.0% to 3.1%) (see section 4.8). Severe thrombocytopenia may increase the risk of bleeding events . Platelet count should be monitored before each dose for the first 5 doses, or longer if  values are unstable, and every 3 to 6 months thereaf ter to determine whether dose adjustments are required (see section 4.2).
+Decreased platelet count has been observed in some patients taking sotatercept including severe thrombocytopenia (platelet count &lt; 50 x 10 9 /L). Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (7.7% to 24.5%) compared to patients not receiving prostacyclin infusion (0.0% to 3.7%) (see section 4.8). Severe thrombocytopenia may increase the risk of bleeding events . Platelet count should be monitored before each dose for the first 5 doses, or longer if  values are unstable, and every 3 to 6 months thereaf ter to determine whether dose adjustments are required (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -879,7 +954,7 @@ Sotatercept has no or negligible influence on the ability to drive and use machi
 
 ## Summary of safety profile
 
-The most frequently reported adverse reactions in either STELLAR or ZENITH were epistaxis (45.3%), headache (26.7%), telangiectasia (25.6%), diarrhoea (25.6%), increased haemoglobin (15.1%), thrombocytopenia (15.1%), dizziness (14.7%), back pain (14%), rash (12.3%), and gingival bleeding (10.5%).
+The most frequently reported adverse reactions in either STELLAR, ZENITH or HYPERION (highest frequency among the studies) were epistaxis (45.3%), headache (26.7%), telangiectasia (26.3%), diarrhoea (25.6%), increased haemoglobin (15.1%), thrombocytopenia (15.1%), dizziness (14.7%), back pain (14%), rash (12.3%), gastrointestinal tract bleeding (11.6%), and gingival bleeding (10.5%).
 
 The most frequently reported serious adverse reactions were thrombocytopenia (&lt; 1.2%), epistaxis (&lt; 1.2%) and dizziness (&lt; 1.2%).
 
@@ -887,27 +962,37 @@ The most common adverse reactions leading to discontinuation were epistaxis and 
 
 ## Tabulated list of adverse reactions
 
-The safety of sotatercept was evaluated in the pivotal placebo-controlled studies STELLAR and ZENITH, which included 163 and 86 patients with PAH treated with sotatercept, respectively (see section 5.1). The median duration of treatment with sotatercept was 313 days in STELLAR and 434.5 days in ZENITH .
+The safety of sotatercept was evaluated in the phase 3 placebo-controlled studies STELLAR, ZENITH, and HYPERION, which included 163, 86, and 160 patients with PAH treated with sotatercept, respectively (see section 5.1). The median duration of treatment with sotatercept was 313 days in STELLAR, 434.5 days in ZENITH, and 442.5 days in HYPERION .
 
-Table 3 shows the adverse reactions reported with sotatercept in placebo-controlled clinical studies and post-marketing surveillance. These are listed in the table below by MedDRA system organ class and by frequency. Frequencies are def ined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), and very rare (&lt; 1/10 000), and not known (cannot be estimated from available post-marketing data).
+Table 3 shows the adverse reactions reported with sotatercept in placebo-controlled clinical studies and post-marketing surveillance. These are listed by MedDRA system organ class and by frequency. Frequencies are def ined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), and very rare (&lt; 1/10 000), and not known (cannot be estimated from available post-marketing data).
 
 Table 3: Adverse reactions
 
-| System organ class                              | Frequency   | Adverse reaction                             |
-|-------------------------------------------------|-------------|----------------------------------------------|
-| Infections and infestations                     | Common      | Urinary tract infections                     |
-| Blood and lymphatic system disorders            | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1 |
-| Nervous system disorders                        | Very common | Dizziness Headache                           |
-| Cardiac disorders                               | Not known   | Pericardial effusion 1                       |
-| Respiratory, thoracic and mediastinal           | Very common | Epistaxis                                    |
-| disorders                                       | Uncommon    | Intrapulmonary shunt 3                       |
-| Gastrointestinal disorders                      | Very common | Diarrhoea Gingival bleeding 4                |
-| disorders                                       | Common      | Rash Erythema                                |
-| Musculoskeletal and connective tissue disorders | Very common | Back pain 4                                  |
-| General disorders and administration            | Common      | Injection site pruritus                      |
-| site conditions                                 |             |                                              |
+| System organ class                                   | Frequency   | Adverse reaction                                                  |
+|------------------------------------------------------|-------------|-------------------------------------------------------------------|
+| Infections and infestations                          | Common      | Urinary tract infections                                          |
+| Blood and lymphatic system disorders                 | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1                      |
+| Nervous system disorders                             | Very common | Dizziness Headache                                                |
+| Cardiac disorders                                    | Not known   | Pericardial effusion 1                                            |
+| Respiratory, thoracic and mediastinal disorders      | Very common | Epistaxis                                                         |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon    | Intrapulmonary shunt 3                                            |
+| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 4 Gastrointestinal tract bleeding 4,5 |
+| Gastrointestinal disorders                           | Common      | Colonic angioectasia                                              |
+| Skin and subcutaneous tissue disorders               | Very common | Telangiectasia 1 Rash                                             |
+| Skin and subcutaneous tissue disorders               | Common      | Erythema Skin hypopigmentation                                    |
+| Musculoskeletal and connective tissue disorders      | Very common | Back pain 4                                                       |
+| General disorders and administration site conditions | Common      | Injection site pruritus                                           |
+| Investigations                                       | Common      | Increased blood pressure 1,6                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+3  S ee 'Long -term safety data'
+
+4  The frequency category is based on ZENITH
+
+5  Includes ' gastrointestinal haemorrhage ' , ' upper gastrointestinal haemorrhage ' , ' haematemesis ' , ' lower gastrointestinal haemorrhage ' , ' haematochezia ' , ' rectal haemorrhage ' , 'melaena' and ' gastritis haemorrhagic '
+
+6 Includes ' hypertension ' , ' blood pressure diastolic increased ' and ' blood pressure increased '
 
 ## Description of selected adverse reactions
 
@@ -917,13 +1002,17 @@ In STELLAR, increased Hgb ( 'haemoglobin increased' and 'polycythaemia') was rep
 
 In ZENITH, increased Hgb was reported in 15.1% of patients taking sotatercept. Based on laboratory data, moderate elevations in Hgb occurred in 7.1% of patients taking sotatercept.
 
+In HYPERION, increased Hgb was reported in 11.3% of patients taking sotatercept. Based on laboratory data, moderate elevations in Hgb occurred in 5.7% of patients taking sotatercept.
+
 Increases in Hgb were managed by dose adjustments (see sections 4.2 and 4.4).
 
 ## Thrombocytopenia
 
-In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 2.5% of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
+In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 3.1% of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
 
 In ZENITH, thrombocytopenia was reported in 15.1% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 6.0% of patients taking sotatercept. Thrombocytopenia was reported only in patients also receiving prostacyclin inf usion (24.5%).
+
+In HYPERION, thrombocytopenia was reported in 4.4% of patients taking sotatercept. No severe reduction in platelet count &lt; 50 x 10 9 /L occurred in patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (7.7%) compared to patients not receiving prostacyclin infusion (3.7%).
 
 Thrombocytopenia was managed by dose adjustments (see sections 4.2 and 4.4).
 
@@ -933,11 +1022,17 @@ In STELLAR, telangiectasia was observed in 16.6% of patients taking sotatercept.
 
 In ZENITH, telangiectasia was observed in 25.6% of patients taking sotatercept. The median time to onset was 12.8 weeks. There were no discontinuations of treatment due to telangiectasia in the sotatercept group.
 
+In HYPERION, telangiectasia, was observed in 26.3% of patients taking sotatercept. The median time to onset was 19.6 weeks. Discontinuations of treatment due to telangiectasia were 0.6% in the sotatercept group.
+
 ## Increased blood pressure
 
 In STELLAR, increased blood pressure was reported in 4.3% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased f rom baseline by 2.2 mmHg and diastolic blood pressure increased by 4.9 mmHg at 24 weeks.
 
+<div style=\"page-break-after: always\"></div>
+
 In ZENITH, increased blood pressure was reported in 2.3% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased f rom baseline by 3.1 mmHg and diastolic blood pressure increased by 5.1 mmHg at 24 weeks.
+
+In HYPERION, increased blood pressure was reported in 6.9% of patients taking sotatercept. In patients taking sotatercept, mean systolic blood pressure increased from baseline by 3.6 mmHg and diastolic blood pressure increased by 4.5 mmHg at 24 weeks.
 
 ## Pericardial effusion
 
@@ -949,13 +1044,13 @@ With the exception of bleeding events (a collective group of adverse events of  
 
 In STELLAR, bleeding events occurred more commonly in the older sotatercept subgroup (52% versus 31.9% in patients &lt; 65-year-old); however, there was no notable imbalance between age categories for any specific bleeding event. Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 8.0% of patients ≥ 65-year-old taking sotatercept.
 
-<div style=\"page-break-after: always\"></div>
-
 In ZENITH, bleeding events occurred more commonly in the older sotatercept subgroup (73.3% versus 60.7% in patients &lt; 65-year-old). Serious bleeding occurred in 3.6% of patients &lt; 65-year-old and in 13.3% of patients ≥ 65-year-old taking sotatercept.
+
+In HYPERION, bleeding events occurred more commonly in the older sotatercept subgroup (55.9% vs 38% in patients &lt; 65-year-old). Serious bleeding occurred in 2.2% of patients &lt; 65-year-old and in 13.2% of patients ≥ 65-year-old taking sotatercept.
 
 ## Long-term safety data
 
-Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-left intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
+Pooled long-term safety data are available f rom 431 patients who participated in phase 2 and phase 3 clinical studies (PULSAR, SPECTRA, and STELLAR). A majority of these patients continued into SOTERIA, an ongoing open-label follow-up study of the long-term safety and efficacy of sotatercept. The mean duration of exposure was 173 weeks, with a maximum exposure of 355 weeks. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-lef t intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
 
 ## Reporting of suspected adverse reactions
 
@@ -966,6 +1061,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 In a phase 1 healthy volunteer study, one participant dosed at 1 mg/kg of sotatercept experienced increased Hgb associated with symptomatic hypertension that improved with phlebotomy.
 
 In the event of overdose in a patient with PAH, increases in Hgb and blood pressure should be closely monitored, and supportive care should be provided as appropriate (see sections 4.2 and 4.4). Sotatercept is not dialyzable during haemodialysis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -981,8 +1078,6 @@ Activin-A levels are increased in PAH patients. Activin binding to ActRIIA promo
 
 Sotatercept consists of a recombinant homodimeric activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, which acts as a ligand trap that scavenges excess Activin-A and other ligands for ActRIIA to inhibit activin signalling. As a result, sotatercept rebalances the pro-proliferative (ActRIIA/Smad2/3mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signalling to modulate vascular prolif eration.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 A phase 2 clinical study (PULSAR) assessed pulmonary vascular resistance (PVR) in patients with PAH after 24 weeks of treatment with sotatercept. The decrease from baseline in PVR was signif icantly greater in the sotatercept 0.7 mg/kg and 0.3 mg/kg groups compared with the placebo group. The placebo-adjusted least squares (LS) mean difference from baseline was -269.4 dyn*sec/cm 5 (95% CI: -365.8, -173.0) f or the sotatercept 0.7 mg/kg group and -151.1 dyn*sec/cm 5 (95% CI: -249.6, -52.6) for the sotatercept 0.3 mg/kg group.
@@ -991,7 +1086,9 @@ In rat models of PAH, a sotatercept analogue reduced expression of pro-inflammat
 
 ## Immunogenicity
 
-Anti-drug antibodies (ADA) were detected in 27% of patients in STELLAR and 43% of patients in ZENITH. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
+Anti-drug antibodies (ADA) were detected in 27% of patients in STELLAR, 43% of patients in ZENITH, and 40% of patients in HYPERION. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical ef f icacy and saf ety
 
@@ -1009,15 +1106,15 @@ The secondary endpoints included improvements in multicomponent improvement (MCI
 
 MCI was a pre-defined endpoint measured by the proportion of patients achieving all three of the following criteria at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m), improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NTproBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II.
 
-<div style=\"page-break-after: always\"></div>
-
-Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of PAH (worsened W HO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
+Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of  PAH (worsened WHO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
 
 At Week 24, 38.9% of sotatercept-treated patients showed improvement in MCI versus 10.1% in the placebo group (p &lt; 0.001). The median treatment difference in PVR between sotatercept and placebo group was -234.6 dyn*sec/cm 5 (95% CI: -288.4, -180.8; p &lt; 0.001). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was -441.6 pg/mL (95% CI: -573.5, 309.6; p &lt; 0.001). Improvement in WHO FC from baseline occurred in 29% of patients in sotatercept versus 13.8% in placebo (p &lt; 0.001).
 
+<div style=\"page-break-after: always\"></div>
+
 Treatment with sotatercept resulted in an 82% reduction (HR 0.182, 95% CI: 0.075, 0.441; p &lt; 0.001) in the occurrence of death or clinical worsening events compared to placebo (see Table 4). The treatment effect of sotatercept versus placebo started by Week 10 and continued f or the duration of the study.
 
-Table 4: Death or clinical worsening events
+Table 4: Death or clinical worsening events in STELLAR
 
 |                                                                                               | Sotatercept (N = 163)   | Placebo (N = 160)   |
 |-----------------------------------------------------------------------------------------------|-------------------------|---------------------|
@@ -1029,33 +1126,29 @@ Table 4: Death or clinical worsening events
 | PAH-specific hospitalisation (≥ 24 hours)                                                     | 0 (0.0)                 | 8 (5.0)             |
 | Deterioration ofPAH †                                                                         | 4 (2.5)                 | 15 (9.4)            |
 
-* A subject can have more than one assessment recorded f or their f irst event of clinical worsening. There were 2 participants receiving placebo and no participant receiving sotatercept who had more than one assessment recorded for their first event of clinical worsening. This analysis excluded the component ' need to initiate rescue therapy with an approved PAH therapy or need to increase the dose of  inf usion prostacyclin by 10% or more'.
-
-† Deterioration of PAH is defined by both of the following events occurring at any time, even if  they began at dif ferent times, as compared to their baseline values: (a) Worsened WHO functional class (II to III, III to IV, II to IV, etc.); and (b) Decrease in 6MWD by ≥ 15% (confirmed by two 6MWTs at least 4 hours apart but no more than one week).
-
 N = number of subjects in FAS population; n = number of subjects in the category. Percentages are calculated as (n/N)*100.
 
 ## ZENITH
 
 The efficacy of sotatercept was evaluated in adult patients with PAH WHO FC III or IV at high-risk of mortality in the ZENITH study. ZENITH was a double-blind, placebo-controlled, multicentre, parallel-group clinical study in which 172 patients were randomised 1:1 to sotatercept (starting dose of 0.3 mg/kg escalated to target dose 0.7 mg/kg) (n = 86) or placebo (n = 86) administered subcutaneously once every 3 weeks. Patients who did not experience an event of the primary composite endpoint remained in the double-blind, placebo-controlled treatment period, while patients who experienced an event of PAH worseningrelated hospitalisation of  ≥ 24 hours were eligible to enrol into the open-label, long-term f ollow-up (LTFU) study SOTERIA.
 
-<div style=\"page-break-after: always\"></div>
-
 Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29 .1% were ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
 
 The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff.
 
+<div style=\"page-break-after: always\"></div>
+
 The median time to first event was 9.6 months (95% CI: 6.2, 14.8) in the placebo group. The KaplanMeier curves began to separate at approximately Week 5, and the separation increased for the remainder of the study (see Figure 1). The treatment ef f ect was consistent across the different subgroups including age, sex, PAH subtype (CTD-associated versus not CTD-associated), WHO FC, double versus triple background therapy at baseline, prostacyclin infusion therapy at baseline, baseline PVR, and baseline eGFR.
 
-Table 5: Components of the primary endpoint
+Table 5: Components of the primary endpoint in ZENITH
 
 |                                                                        | Sotatercept (N = 86) n (%)   | Placebo (N = 86) n (%)   | Hazard ratio (95% CI) p-value a   |
 |------------------------------------------------------------------------|------------------------------|--------------------------|-----------------------------------|
 | Number (%) ofparticipants with ≥ 1 primary event during or post ZENITH | 15 (17.4)                    | 47 (54.7)                | 0.24 (0.13, 0.43) < 0.0001        |
-| Participants with first event ofthe composite, by component b          |                              |                          |                                   |
+| First event ofthe composite ofthe primary endpoint, by component b     |                              |                          |                                   |
 | All-cause death c                                                      | 6 (7.0)                      | 3 (3.5)                  |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 1 (1.2)                  |                                   |
-| PAH worsening related hospitalisation of ≥ 24 hours                    | 8 (9.3)                      | 43 (50.0)                |                                   |
+| PAHworsening related hospitalisation of≥ 24 hours                      | 8 (9.3)                      | 43 (50.0)                |                                   |
 | Participants with any events ofthe components ofthe composite d        |                              |                          |                                   |
 | All-cause death c,e                                                    | 7 (8.1)                      | 13 (15.1)                |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 6 (7.0)                  |                                   |
@@ -1073,7 +1166,7 @@ e  Corresponds to the first secondary endpoint of ZENITH.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Time to first event of all-cause death, lung transplantation, or PAH worsening-related hospitalis ation of ≥ 24 hours Kaplan-Meier plot
+Figure 1: Time to first event of all-cause death, lung transplantation, or PAH worsening-related hospitalis ation of ≥ 24 hours in ZENITH Kaplan-Meier plot
 
 120
 
@@ -1087,9 +1180,65 @@ The point estimate for the transplant-free survival f avoured the sotatercept tr
 
 <div style=\"page-break-after: always\"></div>
 
+## HYPERION
+
+The efficacy of sotatercept in adult patients with newly diagnosed PAH (WHO FC II or III, diagnosis within 12 months prior to screening) at intermediate to high-risk of  disease progression was evaluated in HYPERION. HYPERION was a global, double-blind, placebo-controlled clinical study in which 320 patients were randomised 1:1 to sotatercept (starting dose of 0.3 mg/kg escalated to target dose 0.7 mg/kg) (n = 160) or placebo (n = 160) administered subcutaneously once every 3 weeks. HYPERION was stopped early based on the positive results from the interim analysis of the ZENITH study and a review of the totality of data f rom the sotatercept clinical program.
+
+Participants in this study were adults with a median age of 60.0 years (range: 18 to 88 years) of  whom 40.6 % were ≥ 65 years of age, 86.3% of participants were White, 76.6% were not Hispanic or Latino, and 72.5% were female. The PAH aetiologies studied were idiopathic PAH (59.4%), PAH associated with CTD (30.3%), heritable PAH (5.9%), drug or toxin induced PAH (2.5%), and PAH associated with simple congenital heart disease with repaired systemic-to-pulmonary shunts (at least 1 year following shunt repair (1.9%)). The mean time since PAH diagnosis was 0.7 years. All participants were receiving either double (72.2%) or triple (27.8%) background PAH therapy, and 16.6% were receiving prostacyclin infusion. The proportions of  participants in WHO FC II was 21.3% and in WHO FC III was 78.8%. The REVEAL Lite 2 risk score was &lt; 6 for 20.6% of participants, 6 to 7 for 50.9% of participants, and ≥ 8 f or 28.1% of participants. The COMPERA 2 risk score was low for 1.9% of participants, intermediate-low f or 64.1% of participants, intermediate-high for 32.2% of participants, high for 1.6% of participants, and missing for 0.3% of participants. The HYPERION study excluded participants diagnosed HIV-associated PAH, PAH associated with portal hypertension, schistosomiasis-associated PAH, PVOD, and pulmonary capillary hemangiomatosis.
+
+The primary efficacy endpoint was time to clinical worsening (TTCW), defined as the time to death or the first conf irmed morbidity event. Events comprising this endpoint included all-cause death, nonplanned PAH worseningrelated hospitalisation of  ≥ 24 hours, atrial septostomy, lung transplantation, and deterioration in 6MWD from baseline combined with at least one of the following: worsening of WHO FC, signs/symptoms of increased right heart failure, or addition of a new background PAH therapy or change to a parenteral route of  administration.
+
+In the sotatercept treatment group, the risk of  experiencing a first clinical worsening event was 76% lower compared with the placebo group (HR: 0.24; 95% CI: 0.14, 0.41; p &lt; 0.0001) (see Table 6). Fewer participants in the sotatercept group (17 (10.6%)) than in the placebo group (59 (36.9%)) had a primary endpoint event.
+
+The median TTCW was 23.0 months (95% CI: 17.3, NR) in the placebo group. The Kaplan-Meier curves showed early separation beginning at approximately Week 5 and with increasing separation for the remainder of the study (see Figure 2). The treatment ef fect was consistent across subgroups: age, sex, PAH subtype (idiopathic PAH, CTD-associated PAH), double versus triple background PAH therapy, WHO FC, prostacyclin infusion versus non prostacyclin infusion therapy, PVR, eGFR, REVEAL Lite 2 score, intermediate-low versus intermediate-high COMPERA 2 risk score.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6: Components of the primary endpoint in HYPERION
+
+|                                                                            | Sotatercept (N = 160) n (%)   | Placebo (N = 160) n (%)   | Hazard Ratio (95% CI) p-value   |
+|----------------------------------------------------------------------------|-------------------------------|---------------------------|---------------------------------|
+| Number (%) of participants with ≥ 1 primary event during or post-HYPERION* | 17 (10.6)                     | 59 (36.9)                 | 0.24 (0.14, 0.41) < 0.0001      |
+| First event of the composite of the primary endpoint, per component †      |                               |                           |                                 |
+| All cause death                                                            | 7 (4.4)                       | 5 (3.1)                   |                                 |
+| Non-planned PAH-related hospitalisation of> 24 hours                       | 2 (1.3)                       | 12 (7.5)                  |                                 |
+| Atrial septostomy                                                          | 0                             | 0                         |                                 |
+| Lung transplant                                                            | 0                             | 0                         |                                 |
+| Deterioration in performance in exercise due to PAH                        | 8 (5.0)                       | 46 (28.8)                 |                                 |
+| Participants with any events of the components of the composite ‡          |                               |                           |                                 |
+| All-cause death                                                            | 7 (4.4)                       | 6 (3.8)                   |                                 |
+| Non-planned PAH- related hospitalization of≥ 24 hours                      | 3 (1.9)                       | 14 (8.8)                  |                                 |
+| Atrial septostomy                                                          | 0                             | 0                         |                                 |
+| Lung transplant                                                            | 0                             | 0                         |                                 |
+| Deterioration in performance in exercise due to PAH §                      | 8 (5.0)                       | 46 (28.8)                 |                                 |
+
+* The primary composite endpoint analysis includes the first occurrence of an adjudicated clinical worsening event. All deaths are included, regardless of  adjudication and regardless of whether they occurred during or post-HYPERION, except for those occurring after enrollment in SOTERIA.
+
+† Participants who experienced &gt; 1 component are counted toward only the component that occurred first. Participants who experienced multiple components simultaneously as their first event are counted toward each applicable first component.
+
+‡ Shows each component of the composite primary endpoint as a standalone outcome. A participant is included in more than one row if multiple events meeting primary endpoint definition were observed.
+
+§  Defined as a decrease in 6MWD from the average of the screening on 2 consecutive tests (which must be at least 4 hours apart) and at least 1 of  the f ollowing: worsening of WHO FC, signs/symptoms of increased right heart failure; or addition/change of a background PAH therapy.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Time to first clinical worsening event in HYPERION Kaplan-Meier plot
+
+<!-- image -->
+
+Placebo (n)
+
+n = number of subjects at risk
+
+The secondary endpoints included improvements in multicomponent improvement (MCI), NTproBNP, WHO FC, and 6MWD.
+
+MCI was measured by the proportion of participants achieving all of the following at Week 24 relative to baseline: improvement in 6MWD (increase ≥ 30 m), improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NT-proBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II. For each component of the MCI definition, the observed proportion of participants was higher in the sotatercept group compared with the placebo group. The proportion of participants who met all three MCI criteria was signif icantly greater in the sotatercept group (29.4%) than in the placebo group (14.6%) (p = 0.003). At week 24, the median treatment difference in 6MWD between the sotatercept and placebo groups was 21.4 m (95% CI: 4.65, 38.24). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was 308.6 pg/mL (95% CI: -434.84, -182.37). Improvement in WHO FC from baseline occurred in 55.2% of patients in the sotatercept group versus 38.9% in the placebo group.
+
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Winrevair in one or more subsets of the paediatric population in the treatment of pulmonary arterial hypertension (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1125,11 +1274,11 @@ The clearance and central volume of distribution of sotatercept increase with in
 
 Sotatercept pharmacokinetics was comparable in PAH patients with mild to moderate renal impairment (eGFR ranging from 30 to 89 mL/min/1.73m 2 ) to those with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ). Severe renal impairment (eGFR ranging from 15 to 30 mL/min/1.73m 2 , n = 3) had no impact on the PK of sotatercept. Additionally, sotatercept PK is comparable between non-PAH end-stage renal disease (ESRD) patients (eGFR &lt; 15 mL/min/1.73m 2 ) and patients with normal renal function. Sotatercept is not dialyzable during haemodialysis. Limited data are available on the use of sotatercept in PAH patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73m 2 ).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 Sotatercept has not been studied in PAH patients with hepatic impairment (Child-Pugh Classification A to C). Hepatic impairment is not expected to influence sotatercept metabolism since sotatercept is metabolised via cellular catabolism.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -1137,7 +1286,7 @@ No carcinogenicity or mutagenicity studies have been conducted with sotatercept.
 
 ## Repeat dose toxicity
 
-In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and  monkeys, sotatercept exposures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
+In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and monkeys, sotatercept exp osures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
 
 ## Reproductive toxicity
 
@@ -1149,8 +1298,6 @@ In embryo-fetal developmental toxicity studies, ef f ects in rats and rabbits in
 
 In a pre- and postnatal development study in rats, no sotatercept related adverse ef f ects were observed in f irst f ilial generation (F1) pups f rom dams dosed during gestation at estimated exposures up to 2times the MRHD. In F1 pups from dams dosed during lactation, decreases in pup weight correlated with delays in sexual maturation. The NOAEL for effects on growth and maturation in pups provides a systemic exposure 0.6-times the clinical exposure at the MRHD.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1159,13 +1306,15 @@ In a pre- and postnatal development study in rats, no sotatercept related advers
 
 Citric acid monohydrate (E330) Sodium citrate (E331) Polysorbate 80 (E433) Sucrose
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 4 years
 
@@ -1187,7 +1336,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-Winrevair 45 mg powder for solution for injection
+## Winrevair 45 mg powder for solution for injection
 
 2 mL capacity, type I glass vial sealed with a bromobutyl rubber stopper with polymer coating and aluminium seal with lime polypropylene flip-off cap containing 45 mg of sotatercept.
 
@@ -1202,8 +1351,6 @@ Winrevair powder for solution for injection is available as the following pack s
 - -Pack containing 1 vial with 60 mg powder
 - -Pack containing 2 vials with 60 mg powder
 
-<div style=\"page-break-after: always\"></div>
-
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
@@ -1211,6 +1358,8 @@ Not all pack sizes may be marketed.
 ## Selecting the appropriate product pack
 
 If   a  patient's  weight  requires  the  use  of   two  45 mg or two 60 mg vials, a 2-vial pack should be used instead of two 1-vial pack to eliminate the need for multiple injections (see section 6.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reconstitution and administration instructions
 
@@ -1247,11 +1396,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 See section 4.4 for instructions on the traceability of biological medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1682,9 +1831,8 @@ Important: Do not use Winrevair until your healthcare professional has shown you
 |--------------------------------------------------|
 | Kit with two 45 mgvials                          |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -1739,58 +1887,45 @@ D E F
 
 Lift here
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
-|--------------------------------------------|
-| Kit with two 45 mgvials                    |
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Winrevair 45 mg powder for injection sotatercept
-
-SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot
-
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
-
-45 mg
-
-| 6.   | OTHER   |
-|------|---------|
-
-MSD
-
-MINIMUM PARTICULARS TO APPEAR ON
-
-PREFILLED SYRINGE LABEL
+## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
 
 Kit with two 45 mg vials
 
-1.
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Solvent for Winrevair 45 mg
+Winrevair 45 mg powder for injection sotatercept SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3.
+3. EXPIRY DATE
 
-EXPIRY DATE
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+45 mg
+
+6. OTHER
+
+MSD
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON PREFILLED SYRINGE LABEL
+
+Kit with two 45 mg vials
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Solvent for Winrevair 45 mg
+
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
 
 EXP
 
@@ -2010,9 +2145,7 @@ MSD
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON
-
-PREFILLED SYRINGE LABEL
+## MINIMUM PARTICULARS TO APPEAR ON PREFILLED SYRINGE LABEL
 
 Kit with one 60 mg vial
 
@@ -2022,9 +2155,7 @@ Solvent for Winrevair 60 mg
 
 ## 2. METHOD OF ADMINISTRATION
 
-3.
-
-EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -2227,7 +2358,9 @@ Kit with two 60 mg vials
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Winrevair 60 mg powder for injection sotatercept SC
+Winrevair 60 mg powder for injection sotatercept
+
+SC
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -2239,17 +2372,21 @@ EXP
 
 Lot
 
-5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+5.
+
+CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 60 mg
 
-6. OTHER
+## 6. OTHER
 
 MSD
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON PREFILLED SYRINGE LABEL
+MINIMUM PARTICULARS TO APPEAR ON
+
+PREFILLED SYRINGE LABEL
 
 Kit with two 60 mg vials
 
@@ -2257,9 +2394,11 @@ Kit with two 60 mg vials
 
 Solvent for Winrevair 60 mg
 
-2. METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+3.
+
+EXPIRY DATE
 
 EXP
 
@@ -2359,40 +2498,33 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
 
-| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
-|--------------------------------------------|
-| Pack with one 45 mgvial                    |
+Pack with one 45 mg vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Winrevair 45 mg powder for injection sotatercept
+Winrevair 45 mg powder for injection sotatercept SC
 
-SC
+## 2. METHOD OF ADMINISTRATION
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg
 
-| 6.   | OTHER   |
-|------|---------|
+6. OTHER
 
 MSD
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2478,20 +2610,15 @@ Justif ication f or not including Braille accepted
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
 
-| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
-|--------------------------------------------|
-| Pack with two 45 mg vials                  |
+Pack with two 45 mg vials
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Winrevair 45 mg powder for injection sotatercept
+Winrevair 45 mg powder for injection sotatercept SC
 
-SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 ## 3. EXPIRY DATE
 
@@ -2508,6 +2635,8 @@ Lot
 6. OTHER
 
 MSD
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2555,11 +2684,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2  C -8  C). Do not freeze.
+Store in a refrigerator (2  C - 8  C). Do not freeze.
 
 Store in the original package in order to protect from light.
 
@@ -2578,12 +2705,14 @@ EU/1/24/1850/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justif ication f or not including Braille accepted
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2593,38 +2722,33 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
-|--------------------------------------------|
-| Pack with one 60 mgvial                    |
+## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
+
+Pack with one 60 mg vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Winrevair 60 mg powder for injection sotatercept
+Winrevair 60 mg powder for injection sotatercept SC
 
-SC
+## 2. METHOD OF ADMINISTRATION
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 60 mg
 
-| 6.   | OTHER   |
-|------|---------|
+6. OTHER
 
 MSD
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2672,8 +2796,6 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
-<!-- image -->
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -2712,6 +2834,8 @@ Justif ication f or not including Braille accepted
 
 PC SN NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
 
 Pack with two 60 mg vials
@@ -2730,7 +2854,7 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 60 mg
 
@@ -2740,17 +2864,15 @@ MSD
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-## Package leaflet: Information for the patient Winrevair 45 mg powder and solvent for solution for injection
+## Package leaflet: Information for the patient
 
-## Winrevair 60 mg powder and solvent for solution for injection
+## Winrevair 45 mg powder and solvent for solution for injection Winrevair 60 mg powder and solvent for solution for injection
 
 sotatercept
 
@@ -2799,9 +2921,9 @@ Talk to your doctor or pharmacist before and while using Winrevair if you have:
 
 This can increase the chance of a blood clot forming that can block a blood vessel. Your doctor will check haemoglobin levels with regular blood tests before each of your f irst 5 doses of Winrevair, or longer before each dose if needed, and regularly while you are using this medicine.
 
-## -low number of platelets in your blood (blood cells that help blood to clot).
+## -low number of platelets in your blood
 
-This can cause easy bruising, continued bleeding from cuts and nosebleeds. Your doctor will check your number of platelets with regular blood tests before each of your f irst 5 doses of Winrevair, or longer before each dose if needed, and regularly while you are using this medicine. In case the number of platelets in your blood is repeatedly very low, your doctor will not start your treatment.
+(blood cells that help blood to clot). This can cause easy bruising, continued bleeding from cuts and nosebleeds. Your doctor will check your number of platelets with regular blood tests before each of your f irst 5 doses of Winrevair, or longer before each dose if needed, and regularly while you are using this medicine. In case the number of platelets in your blood is repeatedly very low, your doctor will not start your treatment.
 
 ## -signs and symptoms of serious bleeding:
 
@@ -2937,13 +3059,16 @@ Very common (may affect more than 1 in 10 people):
 - Skin rash
 - Bleeding gums
 - Back pain
+- Bleeding in the digestive system (stomach, intestine, or rectum) that may show as blood in the vomit or in the stool
 
 Common (may affect up to 1 in 10 people):
 
 - High blood pressure
 - Redness of the skin
+- Lighter or white patches on the skin (skin hypopigmentation)
 - Itching at the injection site
 - An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination
+- Fragile or widened blood vessels in the colon (colonic angioectasia)
 
 Uncommon (may affect up to 1 in 100 people):
 
@@ -2963,7 +3088,7 @@ If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This in
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the vial  and  the  carton  af ter  'EXP'. The expiry date refers to the last day of  that month.
+Do not use this medicine af ter the expiry date which is stated on the vial and the carton af ter 'EXP'. The expiry date refers to the last day of  that month.
 
 Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
 
@@ -2989,7 +3114,7 @@ Winrevair 45 mg is available in:
 - -Pack containing 1 vial 45 mg (powder), 1 prefilled syringe 1.0 mL (solvent), 1 vial adaptor, 1 dosing syringe, 1 needle and 4 alcohol wipes.
 - -Pack containing 2 vials 45 mg (powder), 2 prefilled syringes 1.0 mL (solvent), 2 vial adaptors, 1 dosing syringe, 1 needle and 8 alcohol wipes.
 
-Winrevair 60 mg is available in:
+## Winrevair 60 mg is available in:
 
 - -Pack containing 1 vial 60 mg (powder), 1 prefilled syringe 1.3 mL (solvent), 1 vial adaptor, 1 dosing syringe, 1 needle and 4 alcohol wipes.
 - -Pack containing 2 vials 60 mg (powder), 2 prefilled syringes 1.3 mL (solvent), 2 vial adaptors, 1 dosing syringe, 1 needle and 8 alcohol wipes.
@@ -3008,11 +3133,11 @@ MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@merck.com
+Ме/er/ka Ша/er/pecyril и /Deо/ucyril/em /Beъл/geа/erи/ia Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
@@ -3028,31 +3153,23 @@ Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A.
-
-Tel: +34 91 321 06 00 msd\\_info@msd.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
-MSD France
-
-Tél: + 33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
-
-## Ireland
-
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Lietuva
 
-UAB Merck Sharp &amp; Dohme Tel. + 370 5 2780 247 dpoc\\_lithuania@msd.com
+UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 ## Luxembourg/Luxemburg
 
@@ -3060,57 +3177,71 @@ MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153)
-
-medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
-MSD (Norge) AS
-
-Tlf: +47 32 20 73 00 medinfo.norway@msd.com
+MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: +40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 5204 201 msd.slovenia@merck.com
+Merck Sharp &amp; Dohme Ireland (Human Health)
+
+Limited
+
+Tel: +353 (0)1 2998700
+
+medinfo\\_ireland@msd.com
+
+Merck Sharp &amp; Dohme, inovativna zdravila
+
+d.o.o.
+
+Tel: +386 1 520 4201
+
+msd.slovenia@msd.com
 
 ## Ísland
 
 Vistor ehf.
 
-Sími: + 354 535 7000
+Sími: +354 535 7000
 
 ## Slovensk á republika
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel: +421 2 58282010
+Tel.: +421 2 58282010
 
-dpoc\\_czechslovak@merck.com
+dpoc\\_czechslovak@msd.com
 
 ## Italia
 
@@ -3122,17 +3253,25 @@ dpoc.italy@msd.com
 
 ## Suomi/Finland
 
-MSD Finland Oy Puh/Tel: +358 (0)9 804 650
+MSD Finland Oy
+
+Puh/Tel: +358 (0)9 804 650
 
 info@msd.fi
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited
+
+Τηλ: 800 00 673 (+357 22866700)
+
+dpoccyprus@msd.com
 
 ## Sverige
 
-Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488
+Merck Sharp &amp; Dohme (Sweden) AB
+
+Tel: +46 77 5700488
 
 medicinskinfo@msd.com
 
@@ -3140,15 +3279,13 @@ medicinskinfo@msd.com
 
 SIA Merck Sharp &amp; Dohme Latvija
 
-Tel.: + 371 67025300 dpoc.latvia@msd.com
+Tel.: +371 67025300
 
-<div style=\"page-break-after: always\"></div>
+dpoc.latvia@msd.com
 
 ## This leaflet was last revised in {MM/YYYY} .
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -3164,15 +3301,18 @@ See the separate Instructions for Use booklet provided together with this leaf l
 - -Check the vial to ensure the medicinal product is not expired. The powder should be white to off-white and may look like a whole or broken up cake.
 - -Remove the lid from the vial containing the powder and swab the rubber stopper with an alcohol wipe.
 - -Attach the vial adaptor to the vial.
-- -Visually inspect the pref illed syringe for any damage or leaks and the sterile water inside to ensure there are no visible particles.
+- -Visually inspect the pref illed syringe for any damage or leaks and the sterile water inside to
+
+<div style=\"page-break-after: always\"></div>
+
+ensure there are no visible particles.
+
 - -Break off the cap of the pref illed syringe and attach the syringe to the vial adaptor.
 - -Inject all of  the sterile water f rom the attached syringe into the vial containing the powder:
 - The prefilled syringe provided with the vial 45 mg contains 1.0 mL of sterile water.
 - The prefilled syringe provided with the vial 60 mg contains 1.3 mL of sterile water.
 
 After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration after reconstitution is 50 mg/mL.
-
-<div style=\"page-break-after: always\"></div>
 
 - -Gently swirl the vial to reconstitute the medicinal product. Do not shake or vigorously agitate.
 - -Allow the vial to stand f or up to 3 minutes to allow bubbles to disappear.
@@ -3277,9 +3417,11 @@ Top tray: Use to mix the medicine
 
 <!-- image -->
 
+Medicine powder
+
 <!-- image -->
 
-Medicine powder
+品
 
 <!-- image -->
 
@@ -3290,6 +3432,8 @@ Medicine powder
 <!-- image -->
 
 <!-- image -->
+
+D
 
 ## Important information to know before injecting
 
@@ -3329,9 +3473,9 @@ Wait 15 minutes to allow your pack to warm to room temperature.
 
 Cold medicine is more painful to inject.
 
-<!-- image -->
+15 minutes
 
-## 15 minutes
+<!-- image -->
 
 Along with your pack, gather these items and f ind a clean, f lat surf ace where you will prepare and inject your dose.
 
@@ -3369,8 +3513,6 @@ Visually inspect the medicine powder. It should be white to of f -white and may 
 
 <!-- image -->
 
-A
-
 Do not use if  expired, damaged, or you can see particles in it.
 
 <div style=\"page-break-after: always\"></div>
@@ -3387,7 +3529,7 @@ Flip of f  the plastic cap and clean the rubber stopper on top of the vial with 
 
 Do not use if  vial cap is missing
 
-Do not touch the cleaned rubber stopper △
+Do not touch the cleaned rubber stopper
 
 Set vial aside on a clean, f lat surf ace.
 
@@ -3465,9 +3607,7 @@ Slowly push the plunger all the way down to transf er all the sterile water into
 
 <!-- image -->
 
-<!-- image -->
-
-## Do not shake the vial △
+## Do not shake the vial
 
 Hold the pref illed syringe and gently swirl the vial in a circular motion until the powder is f ully dissolved. This may take up to 2 minutes. Do not shake or agitate vigorously.
 
@@ -3537,6 +3677,8 @@ For the next steps, you will need:
 With a new alcohol wipe f rom the bottom tray, clean the top of  the vial adaptor.
 
 <!-- image -->
+
+DhED
 
 ## 15 Remove empty dosing syringe from its package
 
@@ -3884,7 +4026,7 @@ If you have questions about how to give Winrevair the right way or need more inf
 
 <!-- image -->
 
-## How to use this product
+How to use this product
 
 Before injecting, make sure you read the full instructions in this booklet to get the right dose of medicine.
 
@@ -3904,17 +4046,13 @@ Top tray: Use to mix the medicine
 
 <!-- image -->
 
-一
-
 Vial
 
 A -2 Vials of Winrevair medicine powder
 
 Medicine powder
 
-心
-
-一一
+品
 
 B -2 Prefilled syringes (solvent) with sterile water to mix medicine powder into liquid
 
@@ -3925,6 +4063,8 @@ C -2 Vial adaptors to connect the vial and syringe
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+M
 
 <!-- image -->
 
@@ -3962,9 +4102,9 @@ Wait 15 minutes to allow your pack to warm to room temperature.
 
 Cold medicine is more painful to inject.
 
-<!-- image -->
+15 minutes
 
-## 15 minutes
+<!-- image -->
 
 Along with your pack, gather these items and f ind a clean, f lat surf ace where you will prepare and inject your dose.
 
@@ -4001,6 +4141,8 @@ Check the vial label to confirm the medicine is not expired.
 Visually inspect the medicine powder. It should be white to of f -white and may look like a whole or broken up cake.
 
 <!-- image -->
+
+A
 
 Do not use if  expired, damaged, or you can see particles in it
 
@@ -4237,7 +4379,7 @@ This will make sure all the medicine in the vial is in the dosing syringe.
 
 <!-- image -->
 
-Do not pull the plunger beyond 1.5 mL. Stop at 1.5 mL △ +
+Do not pull the plunger beyond 1.5 mL. Stop at 1.5 mL
 
 Be careful not to pull the plunger out of  the dosing syringe
 
@@ -4341,6 +4483,8 @@ Find the needle in the bottom tray and open its package.
 
 <!-- image -->
 
+WR
+
 With the needle still in the package, grip the base of the needle and twist on the dosing syringe until it  stops. Remove the needle package.
 
 <div style=\"page-break-after: always\"></div>
@@ -4401,7 +4545,9 @@ Do not touch the plunger until ready to inject  so you don't lose any medicine G
 
 <!-- image -->
 
-Push the plunger with slow, steady pressure all the way down until the dosing syringe is empty. Confirm all the medicine has been injected.
+Push the plunger with slow, steady pressure all the way down until the dosing syringe is empty.
+
+Confirm all the medicine has been injected.
 
 You can let go of the skin fold now.
 
@@ -4470,7 +4616,7 @@ Call your doctor or pharmacist.
 
 ## What should I do if  the plunger of  my dosing syringe moves automatically when I try to withdraw medicine f rom the vial?
 
-Don't worry if  your plunger moves slightly on its own when you are f illing your dosing syringe with medicine.
+Don't  worry  if   your  plunger  moves  slightly  on  its  own  when  you  are  f illing  your  dosing  syringe  with medicine.
 
 ## With one hand, hold the plunger in place to stop the plunger f rom moving.
 
@@ -4684,13 +4830,16 @@ Very common (may affect more than 1 in 10 people):
 - Skin rash
 - Bleeding gums
 - Back pain
+- Bleeding in the digestive system (stomach, intestine, or rectum) that may show as blood in the vomit or in the stool
 
 Common (may affect up to 1 in 10 people):
 
 - High blood pressure
 - Redness of the skin
+- Lighter or white patches on the skin (skin hypopigmentation)
 - Itching at the injection site
 - An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination
+- Fragile or widened blood vessels in the colon (colonic angioectasia)
 
 Uncommon (may affect up to 1 in 100 people):
 
@@ -4741,35 +4890,25 @@ Winrevair is a powder for solution for injection (powder for injection). The whi
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Merck Sharp &amp; Dohme B.V.
-
-Waarderweg 39
-
-2031 BN Haarlem
-
-The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 MSD Belgium
 
-Tél/Tel: +32(0)27766211
-
-dpoc\\_belux@msd.com
-
-UAB Merck Sharp &amp; Dohme Tel. + 370 5 2780 247 dpoc\\_lithuania@msd.com
+Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De
+Ме/er/ka Ша/er/pecyril и /Deо/ucyril/em /Beъл/geа/erи/ia Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
 
-Тел.: +359 2 819 3737
+## Česká republika
 
-info-msdbg@merck.com
+## Lietuva
+
+UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 ## Luxembourg/Luxemburg
 
@@ -4777,21 +4916,13 @@ MSD Belgium
 
 Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-## Česká republika
+## Magyarország
 
 Merck Sharp &amp; Dohme s.r.o.
 
-Tel: +420 233 010 111
+Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
-dpoc\\_czechslovak@merck.com
-
-## Magyarország
-
-MSD Pharma Hungary Kft.
-
-Tel.: +36 1 888 5300
-
-hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Danmark
 
@@ -4803,39 +4934,21 @@ dkmail@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
-
-## Deutschland
-
-MSD Sharp &amp; Dohme GmbH
-
-Tel.: +49 (0) 89 20 300 4500
-
-medinfo@msd.de
-
-## Nederland
-
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
+## Deutschland
+
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
+
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ
-
-Tel: +372 614 4200
-
-dpoc.estonia@msd.com
+Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε.
-
-Τηλ
-
-: +30 210 98 97 300
-
-dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
@@ -4847,11 +4960,11 @@ Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 MSD France
 
-Tél: + 33 (0) 1 80 46 40 40
+Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
@@ -4859,93 +4972,59 @@ Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 me
 
 ## Ísland
 
-Vistor ehf.
-
-Sími: + 354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
-MSD Italia S.r.l.
-
-Tel: 800 23 99 89 (+39 06 361911)
-
-dpoc.italy@msd.com
+MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited
-
-Τηλ.: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
-SIA Merck Sharp &amp; Dohme Latvija
+SIA Merck Sharp &amp; Dohme Latvija Tel.: +371 67025300 dpoc.latvia@msd.com
 
-Tel.: + 371 67025300
+## Nederland
 
-dpoc.latvia@msd.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153)
 
-## This leaflet was last revised in {MM/YYYY} .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+medicalinfo.nl@msd.com
 
 ## Norge
 
-MSD (Norge) AS
-
-Tlf: +47 32 20 73 00
-
-medinfo.norway@msd.com
+MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H.
-
-Tel: +43 (0) 1 26 044
-
-dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o.
-
-Tel: +48 22 549 51 00
-
-msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda
-
-Tel: +351 21 4465700
-
-inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L.
-
-Tel: +40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
 Merck Sharp &amp; Dohme, inovativna zdravila
 
-d.o.o. Tel: +386 1 5204 201 msd.slovenia@merck.com
+d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
 ## Slovensk á republika
 
-Merck Sharp &amp; Dohme, s. r. o.
-
-Tel: +421 2 58282010
-
-dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
-MSD Finland Oy
-
-Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 
@@ -4954,6 +5033,10 @@ Merck Sharp &amp; Dohme (Sweden) AB
 Tel: +46 77 5700488 medicinskinfo@msd.com
 
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY} .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -4969,9 +5052,7 @@ Winrevair powder for solution for injection should be reconstituted before use a
 - -Reconstitute the content of the vial with sterile water:
 - For each vial of Winrevair 45 mg, inject 1.0 mL of sterile water
 - For each vial of Winrevair 60 mg, inject 1.3 mL of sterile water
-
-After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration af ter reconstitution is 50 mg/mL.
-
+- After reconstitution, the 45 mg vial can only provide up to a dose of 0.9 mL of medicinal product and the 60 mg vial can only provide up to a dose of 1.2 mL of medicinal product. The final concentration af ter reconstitution is 50 mg/mL.
 - -Gently swirl the vial to reconstitute the medicinal product. Do not shake or vigorously agitate.
 - -Allow the vial to stand f or up to 3 minutes to allow bubbles to disappear.
 - -Visually inspect the reconstituted solution. When properly mixed, the reconstituted solution should be clear to opalescent and colourless to slightly brownish-yellow, and should not have clumps or powder.

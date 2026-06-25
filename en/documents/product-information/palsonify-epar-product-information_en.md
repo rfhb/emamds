@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-05 11:49:52
+document_datetime: 2026-06-15 14:17:05
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/palsonify-epar-product-information_en.pdf
 document_name: palsonify-epar-product-information_en.pdf
 version: success
-processing_time: 9.0142898
-conversion_datetime: 2026-05-07 20:22:14.88826
+processing_time: 7.9642638
+conversion_datetime: 2026-06-25 09:11:00.782293
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Palsonify 20 mg film-coated tablets
-
-Palsonify 30 mg film-coated tablets
+Palsonify 20 mg film-coated tablets Palsonify 30 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -48,7 +46,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet)
 
-Palsonify 20 mg film-coated tablets
+## Palsonify 20 mg film-coated tablets
 
 Pink, biconvex oval film-coated tablets, 16 mm length and 8 mm width, debossed with 'PAL' on one side and '20' on the other side.
 
@@ -511,7 +509,7 @@ Table 8: Exposure parameters of single dose of paltusotine when administered wit
 | AUC 0-24 (ng*h/mL) | 651 (53)      | 1 310 (41)    | 2 370 (45)    |
 | T max (h)          | 1.4 (0.8-4.0) | 1.5 (1.5-4.0) | 2.0 (1.0-4.0) |
 
-Data are  shown  as  geometric  means  (geometric  %CV)  except  for  Tmax,  which  is  shown  as  median (range).
+Data  are  shown  as  geometric  means  (geometric  %CV)  except  for  Tmax,  which  is  shown  as  median (range).
 
 AUC0-24 = area under the plasma concentration-time curve from time 0 to 24 hours, Cmax = maximum (peak) plasma drug concentration, Tmax =time to reach maximum (peak) plasma concentration following drug administration
 
@@ -587,7 +585,9 @@ Copovidone Cellulose, microcrystalline Crospovidone Silica, colloidal anhydrous 
 
 Palsonify 20 mg film-coated tablets Hypromellose Titanium dioxide (E 171) Triacetin (E 1518) Iron oxide, yellow (E 172) Iron oxide, red (E 172)
 
-Palsonify 30 mg film-coated tablets Hypromellose Titanium dioxide (E 171) Triacetin (E 1518) Iron oxide, yellow (E 172)
+Palsonify 30 mg film-coated tablets
+
+Hypromellose Titanium dioxide (E 171) Triacetin (E 1518) Iron oxide, yellow (E 172)
 
 ## 6.2 Incompatibilities
 
@@ -605,9 +605,7 @@ This medicinal product does not require any special storage conditions.
 
 A heat induction sealed, white high-density polyethylene (HDPE) bottle with a white child-resistant polypropylene (PP) closure.
 
-Each bottle contains 60 film-coated tablets and a silica gel desiccant.
-
-Each carton contains one bottle.
+Each bottle contains 60 film-coated tablets and a silica gel desiccant. Each carton contains one bottle.
 
 ## 6.6 Special precautions for disposal
 
@@ -623,7 +621,7 @@ Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/26/2021
+EU/1/26/2021/001 EU/1/26/2021/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -648,7 +646,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Cilatus Manufacturing Services Ltd. Pembroke House 28-32 Upper Pembroke Street Dublin 2 D02 EK84 Ireland
+Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -721,13 +719,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/26/2021 60 film-coated tablets
+EU/1/26/2021/001 60 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -749,11 +749,7 @@ Palsonify 20 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -767,7 +763,7 @@ Palsonify 20 mg tablets paltusotine
 
 Each tablet contains 20 mg paltusotine (as hydrochloride).
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -781,7 +777,7 @@ Oral use
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -795,13 +791,15 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Crinetics Pharmaceuticals Europe GmbH
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/26/2021 60 tablets
+EU/1/26/2021/001 60 tablets
 
 ## 13. BATCH NUMBER
 
@@ -822,8 +820,6 @@ Lot
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -857,14 +853,19 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -872,7 +873,7 @@ Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam N
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/26/2021 60 film-coated tablets
+EU/1/26/2021/002 60 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -880,7 +881,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -894,11 +895,7 @@ Palsonify 30 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -912,7 +909,7 @@ Palsonify 30 mg tablets paltusotine
 
 Each tablet contains 30 mg paltusotine, (as hydrochloride).
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -926,7 +923,7 @@ Oral use
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -940,13 +937,15 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Crinetics Pharmaceuticals Europe GmbH
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/26/2021 60 film-coated tablets
+EU/1/26/2021/002 60 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -958,7 +957,7 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -975,6 +974,8 @@ NN
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -1178,15 +1179,11 @@ Palsonify 20 mg and 30 mg film-coated tablets are available in plastic bottles, 
 
 Each bottle contains 60 film-coated tablets and a silica gel desiccant. Each carton contains one bottle.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
 Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
 
-## Manufacturer
-
-Cilatus Manufacturing Services Limited Pembroke House 28-32 Pembroke Street Upper Dublin 2 Co. Dublin D02 EK84 Ireland
-
-## This leaflet was last revised in
+This leaflet was last revised in
 
 ## Other sources of information
 

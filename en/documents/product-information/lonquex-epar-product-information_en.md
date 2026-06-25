@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-02-19 11:43:33
-document_pages: 50
+document_datetime: 2026-06-15 16:16:20
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lonquex-epar-product-information_en.pdf
 document_name: lonquex-epar-product-information_en.pdf
 version: success
-processing_time: 11.9773799
-conversion_datetime: 2025-12-28 12:28:02.640217
+processing_time: 11.9069977
+conversion_datetime: 2026-06-25 09:11:28.793496
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -158,11 +158,9 @@ Granulocyte-colony stimulating factor can promote growth of myeloid cells and so
 
 The safety and efficacy of Lonquex have not been investigated in patients with chronic myeloid leukaemia, myelodysplastic syndromes or secondary acute myeloid leukaemia; it should therefore not be used in such patients. Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from acute myeloid leukaemia.
 
-Myelodysplastic syndrome and acute myeloid leukaemia in breast and lung cancer patients
+Myelodysplastic syndrome and acute myeloid leukaemia in breast and lung cancer patients In an observational post-marketing study, myelodysplastic syndrome (MDS) and acute myeloid leukaemia (AML) were associated with the use of pegfilgrastim, an alternative G-CSF, in combination with chemotherapy and/or radiotherapy in breast and lung cancer patients. A similar association is not known between lipegfilgrastim and MDS/AML. Nevertheless, patients with breast cancer and patients with lung cancer should be monitored for signs and symptoms of MDS/AML.
 
 <div style=\"page-break-after: always\"></div>
-
-In an observational post-marketing study, myelodysplastic syndrome (MDS) and acute myeloid leukaemia (AML) were associated with the use of pegfilgrastim, an alternative G-CSF, in combination with chemotherapy and/or radiotherapy in breast and lung cancer patients. A similar association is not known between lipegfilgrastim and MDS/AML. Nevertheless, patients with breast cancer and patients with lung cancer should be monitored for signs and symptoms of MDS/AML.
 
 ## Splenic adverse reactions
 
@@ -296,7 +294,8 @@ Certain adverse reactions have not yet been observed with lipegfilgrastim, but a
 
 ## Vascular disorders
 
-- -Capillary leak syndrome Cases of capillary leak syndrome have been reported in post marketing experience after administration of G-CSF or derivatives. These have generally occurred in patients suffering from advanced malignant diseases, having sepsis, taking multiple chemotherapy medicinal products or undergoing apheresis (see section 4.4).
+- -Capillary leak syndrome
+- Cases of capillary leak syndrome have been reported in post marketing experience after administration of G-CSF or derivatives. These have generally occurred in patients suffering from advanced malignant diseases, having sepsis, taking multiple chemotherapy medicinal products or undergoing apheresis (see section 4.4).
 - -Aortitis (see section 4.4)
 
 Skin and subcutaneous tissue disorders
@@ -392,11 +391,9 @@ A post-authorisation safety study XM22-ONC-40041 was conducted to collect data o
 
 ## Immunogenicity
 
-An analysis of anti-drug antibodies of 579 patients and healthy volunteers treated with lipegfilgrastim, 188 patients and healthy volunteers treated with pegfilgrastim and 121 patients treated with placebo
+An analysis of anti-drug antibodies of 579 patients and healthy volunteers treated with lipegfilgrastim, 188 patients and healthy volunteers treated with pegfilgrastim and 121 patients treated with placebo was performed. Drug-specific antibodies emerging after start of treatment were detected in 0.86 % of the subjects receiving lipegfilgrastim, in 1.06 % of the subjects receiving pegfilgrastim and in 1.65 % of the subjects receiving placebo. No neutralising antibodies against lipegfilgrastim were observed.
 
 <div style=\"page-break-after: always\"></div>
-
-was performed. Drug-specific antibodies emerging after start of treatment were detected in 0.86 % of the subjects receiving lipegfilgrastim, in 1.06 % of the subjects receiving pegfilgrastim and in 1.65 % of the subjects receiving placebo. No neutralising antibodies against lipegfilgrastim were observed.
 
 ## Paediatric population
 
@@ -558,28 +555,22 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer of the biological active substance
 
-Teva Biotech GmbH Dornierstraße 10 D-89079 Ulm Germany
-
 UAB Teva Baltics Molėtų pl. 5 08409 Vilnius Lithuania
 
-Name and address of the manufacturers responsible for batch release
-
-Teva Biotech GmbH Dornierstraße 10 D-89079 Ulm Germany
+Name and address of the manufacturer responsible for batch release
 
 Merckle GmbH, Graf-Arco-Straße 3 89079 Ulm Germany
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -598,8 +589,6 @@ The requirements for submission of PSURs for this medicinal product are set out 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
-
-<div style=\"page-break-after: always\"></div>
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -717,17 +706,19 @@ SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Lonquex 6 mg injection lipegfilgrastim SC
+Lonquex 6 mg injection lipegfilgrastim
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -739,8 +730,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.6 ml
 
@@ -847,17 +838,17 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL                                                            |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Lonquex 6 mg/0.6 ml injection lipegfilgrastim SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -869,8 +860,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 6 mg/0.6 ml
 
@@ -885,9 +876,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Lonquex 6 mg solution for injection in pre-filled syringe
-
-## lipegfilgrastim
+## Lonquex 6 mg solution for injection in pre-filled syringe lipegfilgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1052,9 +1041,9 @@ If someone else is injecting you or if you are injecting your child, the followi
 
 <!-- image -->
 
-<!-- image -->
-
 3
+
+<!-- image -->
 
 4
 
@@ -1202,11 +1191,7 @@ Before you give yourself or your child a Lonquex injection, you must do the foll
 
 <div style=\"page-break-after: always\"></div>
 
-Remember
-
 <!-- image -->
-
-If you have any problems, please ask your doctor or nurse for help and advice.
 
 ## If you use more Lonquex than you should
 
@@ -1231,11 +1216,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Increased spleen size has been reported uncommonly  and cases of splenic ruptures have been reported with other medicines similar to Lonquex. Some cases of splenic rupture were fatal. It is important to contact your doctor immediately if you experience pain in the upper left side of the abdomen or left shoulder pain since this may relate to a problem with your spleen.
 - Cough, fever and difficult or painful breathing can be signs of uncommon  serious pulmonary side effects, such as pneumonia and acute respiratory distress syndrome, which may be fatal. If you have a fever or any of these symptoms, it is important to contact your doctor immediately.
 - It is important to contact your doctor immediately if you have any of the following symptoms: swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
-- These could be symptoms of a condition reported with frequency not known (cannot be estimated from the available data), called 'capillary leak syndrome', which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
+
+These could be symptoms of a condition reported with frequency not known (cannot be estimated from the available data), called 'capillary leak syndrome', which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
 
 ## Other side effects
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - Musculoskeletal pains such as bone pain and pain in the joints, muscles, limbs, chest, neck or back. Tell your doctor if you experience severe musculoskeletal pain.
 - Nausea.
@@ -1249,7 +1235,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Chest pain.
 - Coughing up blood.
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Rise in white blood cells.
 - Local reactions at the injection site, such as pain or hardening.
@@ -1314,43 +1300,23 @@ Teva B.V. Swensweg 5 2031 GA Haarlem Netherlands
 
 ## Manufacturer
 
-Teva Biotech GmbH Dornierstraße 10 89079 Ulm Germany
-
-Merckle GmbH, Graf-Arco-Straße 3
-
-<div style=\"page-break-after: always\"></div>
-
-## 89079 Ulm
-
-## Germany
+Merckle GmbH, Graf-Arco-Straße 3 89079 Ulm Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
+<div style=\"page-break-after: always\"></div>
+
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG
-
-Tél/Tel: +32 38207373
-
-## Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 52660203
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл: +359 24899585
+Teл
 
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG
-
-Belgique/Belgien
-
-Tél/Tel: +32 38207373
+.: +359 24899585
 
 ## Česká republika
 
@@ -1358,25 +1324,11 @@ Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
 
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel: +36 12886400
-
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
-
-## Malta
-
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
-
-Tel: +44 2075407117
+Tlf.: +45 44985511
 
 ## Deutschland
 
@@ -1384,83 +1336,31 @@ TEVA GmbH
 
 Tel: +49 73140208
 
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
 ## Eesti
 
 UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
 
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
-
 ## Ελλάδα
 
-TEVA HELLAS Α.Ε.
-
-Τηλ: +30 2118805000
-
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
+TEVA HELLAS Α . Ε . Τηλ: +30 2118805000
 
 ## España
 
-Teva Pharma, S.L.U.
-
-Tel: +34 913873280
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel: +48 223459300
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## France
 
-Teva Santé
-
-Tél: +33 155917800
-
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
+Teva Santé Tél: +33 155917800
 
 ## Hrvatska
 
-Pliva Hrvatska d.o.o.
-
-Tel: +385 13720000
-
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
+Pliva Hrvatska d.o.o. Tel: +385 13720000
 
 ## Ireland
 
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
-
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
+Teva Pharmaceuticals Ireland Tel: +44 2075407117
 
 ## Ísland
 
@@ -1468,57 +1368,87 @@ Alvogen ehf.
 
 Sími: +354 5222900
 
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
-
 ## Italia
 
-## Suomi/Finland
-
-Teva Italia S.r.l.
-
-Tel: +39 028917981
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
+Teva Italia S.r.l. Tel: +39 028917981
 
 ## Κύπρος
 
-TEVA HELLAS Α.Ε. Ελλάδα
+TEVA HELLAS Α . Ε .
 
-Τηλ: +30
+## Lietuva
 
-2118805000
+UAB Teva Baltics Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt. Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α . Ε . ilGreċja Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V. Tel: +31 8000228400
+
+## Norge
+
+Teva Norway AS
+
+Tlf: +47 66775590
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L. Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o. Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy Puh/Tel: +358 201805900
 
 ## Sverige
 
 Teva Sweden AB
 
-Tel: +46 42121100
+Ελλάδα
 
-Latvija
-
-UAB Teva Baltics filiāle Latvijā
-
-Tel: +371 67323666
-
-United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland
-
-Ireland
-
-Tel: +44 2075407117
+Τηλ: +30 2118805000
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+UAB Teva Baltics filiāle Latvijā Tel: +371 67323666
 
 ## This leaflet was last revised in { month YYYY } .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1727,13 +1657,7 @@ Teva B.V. Swensweg 5 2031 GA Haarlem Netherlands
 
 ## Manufacturer
 
-Teva Biotech GmbH Dornierstraße 10 89079 Ulm Germany
-
-## Merckle GmbH,
-
-Graf-Arco-Straße 3 89079 Ulm
-
-Germany
+Merckle GmbH, Graf-Arco-Straße 3 89079 Ulm Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1743,15 +1667,15 @@ Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 ## Lietuva
 
-UAB Teva Baltics
-
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл: +359 2489958 5
+Teл
+
+.: +359 24899585
 
 ## Luxembourg/Luxemburg
 
@@ -1771,19 +1695,21 @@ Tel: +420 251007111
 
 Teva Gyógyszergyár Zrt.
 
-Tel: +36 12886400
+Tel.: +36 12886400
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α . Ε .
 
-Tel: +44 2075407117
+il- Greċja
+
+Tel: +30 2118805000
 
 ## Deutschland
 
@@ -1797,13 +1723,13 @@ Teva Nederland B.V.
 
 Tel: +31 8000228400
 
-Eesti
-
-## Norge
+## Eesti
 
 UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
+
+## Norge
 
 Teva Norway AS
 
@@ -1811,15 +1737,15 @@ Tlf: +47 66775590
 
 ## Ελλάδα
 
-TEVA HELLAS Α.Ε.
-
-Τηλ: +30
-
-2118805000
+TEVA HELLAS Α . Ε .
 
 ## Österreich
 
 ratiopharm Arzneimittel Vertriebs-GmbH
+
+Τηλ: +30
+
+2118805000
 
 Tel: +43 1970070
 
@@ -1827,13 +1753,13 @@ Tel: +43 1970070
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
+Tel.: +48 223459300
 
 ## France
 
@@ -1897,7 +1823,7 @@ Puh/Tel: +358 201805900
 
 ## Κύπρος
 
-TEVA HELLAS Α.Ε.
+TEVA HELLAS Α . Ε .
 
 Ελλάδα
 
@@ -1911,19 +1837,13 @@ Teva Sweden AB
 
 Tel: +46 42121100
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
-
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland
-
-Ireland
-
-Tel: +44 2075407117
 
 ## This leaflet was last revised in { month YYYY } .
 
@@ -1931,19 +1851,17 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<div style=\"page-break-after: always\"></div>
-
 The following information is intended for medical or healthcare professionals only:
 
 ## Storage and inspection
 
 Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the vial in the outer carton, in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 The solution should be allowed to reach a comfortable temperature (15 °C - 25 °C) before the injection.
 
 Once removed from the refrigerator Lonquex may be stored below 25 °C for a maximum single period of up to 7 days.
+
+<div style=\"page-break-after: always\"></div>
 
 The solution should be visually inspected before use. Only clear, colourless solutions without particles should be used.
 

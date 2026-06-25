@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-06-19 10:28:49
+document_datetime: 2026-06-23 13:54:33
 document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.0207888
-conversion_datetime: 2026-06-25 09:17:05.616948
+processing_time: 2.9961608
+conversion_datetime: 2026-06-25 17:26:27.241689
 docling_version:
   docling-serve: 1.25.0
   docling-jobkit: 1.24.0

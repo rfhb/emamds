@@ -1,105 +1,32 @@
 ---
-document_datetime: 2026-01-19 15:52:00
+document_datetime: 2026-06-23 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tagrisso.html
 document_name: tagrisso.html
 version: success
-processing_time: 0.144268
-conversion_datetime: 2026-01-20 20:11:19.084171
+processing_time: 0.1817797
+conversion_datetime: 2026-06-25 16:44:24.936998
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Academia](/en/partners-networks/academia)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Tagrisso
-
 # Tagrisso
 
 [RSS](/en/individual-human-medicine.xml/66888)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-osimertinib Medicine Human Authorised
+osimertinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -126,7 +53,10 @@ Tagrisso is a cancer medicine used to treat non-small cell lung cancer (NSCLC). 
 
 It is used on its own:
 
-• in patients whose cancer cells have Ex19del or L858R mutations and whose cancer has not spread to other organs and has been completely removed by surgery; the medicine is then given to help prevent the cancer from coming back (adjuvant therapy); • in patients whose cancer cells have Ex19del or L858R mutations whose cancer is locally advanced (has started to spread to nearby areas) and cannot be removed by surgery, and whose disease has not worsened during or after treatment with platinum-based chemotherapy plus radiation therapy; • in patients whose cancer cells have mutations known as 'activating mutations' and whose cancer is advanced or has spread; Tagrisso is then given as the first treatment; • in patients whose cancer cells have T790M mutations and whose cancer is locally advanced or metastatic (has spread to other parts of the body).
+• in patients whose cancer cells have Ex19del or L858R mutations and whose cancer has not spread to other organs and has been completely removed by surgery; the medicine is then given to help prevent the cancer from coming back (adjuvant therapy);
+• in patients whose cancer cells have Ex19del or L858R mutations whose cancer is locally advanced (has started to spread to nearby areas) and cannot be removed by surgery, and whose disease has not worsened during or after treatment with platinum-based chemotherapy plus radiation therapy;
+• in patients whose cancer cells have mutations known as 'activating mutations' and whose cancer is advanced or has spread; Tagrisso is then given as the first treatment;
+• in patients whose cancer cells have T790M mutations and whose cancer is locally advanced or metastatic (has spread to other parts of the body).
 
 Tagrisso can also be used in combination with pemetrexed and platinum-based chemotherapy (other cancer medicines) as the first treatment in adults with advanced NSCLC with Ex19del or L858R mutations.
 
@@ -136,7 +66,7 @@ Expand section
 
 Collapse section
 
-## How is Tagrisso used?
+### How is Tagrisso used?
 
 Tagrisso can only be obtained with a prescription and treatment should be started and supervised by a doctor who is experienced in the use of cancer medicines. Before starting treatment, the doctor should use a genetic test to confirm that the patient has an EGFR mutation.
 
@@ -144,11 +74,11 @@ Tagrisso is available as tablets to be taken once a day for as long as the disea
 
 For more information about using Tagrisso, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tagrisso work?
+### How does Tagrisso work?
 
 The active substance in Tagrisso, osimertinib, is a type of cancer medicine called a tyrosine kinase inhibitor. It blocks the activity of EGFR, which normally controls the growth and division of cells. In lung cancer, EGFR is often overactive, causing uncontrolled growth of cancer cells. By blocking EGFR, osimertinib helps to reduce the growth and spread of the cancer.
 
-## What benefits of Tagrisso have been shown in studies?
+### What benefits of Tagrisso have been shown in studies?
 
 Studies in patients with NSCLC have found Tagrisso on its own to be effective at shrinking tumours and at slowing down the worsening of the cancer. One study has also found it to be effective at helping to prevent the cancer from coming back in patients who had surgery to completely remove the cancer.
 
@@ -164,7 +94,7 @@ Finally, in a study involving 682 patients with Ex19del or L858R mutations who h
 
 Another study investigated the use of Tagrisso as first treatment in 557 patients with advanced NSCLC with Ex19del or L858R mutations. The study showed that patients treated with Tagrisso in combination with pemetrexed and platinum-based chemotherapy lived on average for 25.5 months without the disease getting worse, compared with 16.7 months for patients treated with Tagrisso on its own.
 
-## What are the risks associated with Tagrisso?
+### What are the risks associated with Tagrisso?
 
 For the full list of restrictions and side effects with Tagrisso, see the package leaflet.
 
@@ -172,19 +102,19 @@ The most common side effects with Tagrisso when used on its own (which may affec
 
 Tagrisso must not be used together with St. John's wort (a herbal preparation used to treat depression).
 
-## Why is Tagrisso authorised in the EU?
+### Why is Tagrisso authorised in the EU?
 
 Tagrisso, both alone and in combination with other cancer medicines, has been shown in studies to be effective at shrinking tumours and slowing down the worsening of the cancer in patients with NSCLC whose tumours have EGFR mutations . The medicine is also effective at preventing NSCLC from coming back in patients whose tumours have EGFR mutations and who have had surgery to completely remove the cancer. Regarding safety, the side effects with Tagrisso when used on its own are similar to those seen with other medicines of the same class and are considered acceptable.
 
 The European Medicines Agency therefore concluded that Tagrisso's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tagrisso?
+### What measures are being taken to ensure the safe and effective use of Tagrisso?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tagrisso have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Tagrisso are continuously monitored. Suspected side effects reported with Tagrisso are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tagrisso
+### Other information about Tagrisso
 
 Tagrisso received a conditional marketing authorisation valid throughout the EU on 2 February 2016. This was switched to a full marketing authorisation on 24 April 2017.
 
@@ -194,275 +124,141 @@ Reference Number: EMA/547447/2024
 
 English (EN) (143.36 KB - PDF)
 
-**First published:** 17/02/2016
-
-**Last updated:** 24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/en/documents/overview/tagrisso-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-695)
+[Other languages (22)](#file-language-dropdown-409)
 
 български (BG) (170.13 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/bg/documents/overview/tagrisso-epar-medicine-overview_bg.pdf)
 
 español (ES) (143.58 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/es/documents/overview/tagrisso-epar-medicine-overview_es.pdf)
 
 čeština (CS) (168.73 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/cs/documents/overview/tagrisso-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (143.29 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/da/documents/overview/tagrisso-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (147.55 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/de/documents/overview/tagrisso-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (140.59 KB - PDF)
+eesti (ET) (140.59 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/et/documents/overview/tagrisso-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (171.4 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/el/documents/overview/tagrisso-epar-medicine-overview_el.pdf)
 
 français (FR) (144.68 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/fr/documents/overview/tagrisso-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (168.43 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/hr/documents/overview/tagrisso-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (133.79 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/it/documents/overview/tagrisso-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (173.51 KB - PDF)
+latviešu (LV) (173.51 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/lv/documents/overview/tagrisso-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (165.06 KB - PDF)
+lietuvių (LT) (165.06 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/lt/documents/overview/tagrisso-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (168 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/hu/documents/overview/tagrisso-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (172.35 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/mt/documents/overview/tagrisso-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/nl/documents/overview/tagrisso-epar-medicine-overview_nl.pdf)
 
 polski (PL) (170.19 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/pl/documents/overview/tagrisso-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.86 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/pt/documents/overview/tagrisso-epar-medicine-overview_pt.pdf)
 
 română (RO) (155.1 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/ro/documents/overview/tagrisso-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (159.17 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/sk/documents/overview/tagrisso-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (157.78 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/sl/documents/overview/tagrisso-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (140.75 KB - PDF)
+suomi (FI) (140.75 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/fi/documents/overview/tagrisso-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (141.54 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-24/01/2025
+**First published:** 17/02/2016 **Last updated:** 24/01/2025
 
 [View](/sv/documents/overview/tagrisso-epar-medicine-overview_sv.pdf)
 
@@ -470,9 +266,7 @@ Tagrisso : EPAR - Risk management plan
 
 English (EN) (922.46 KB - PDF)
 
-**First published:** 30/11/2018
-
-**Last updated:** 09/01/2025
+**First published:** 30/11/2018 **Last updated:** 09/01/2025
 
 [View](/en/documents/rmp/tagrisso-epar-risk-management-plan_en.pdf)
 
@@ -480,287 +274,162 @@ English (EN) (922.46 KB - PDF)
 
 Tagrisso : EPAR - Product Information
 
-English (EN) (1.08 MB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 17/02/2016
-
-**Last updated:** 19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/tagrisso-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-635)
+[Other languages (23)](#file-language-dropdown-23)
 
-български (BG) (1.09 MB - PDF)
+български (BG) (1.05 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/tagrisso-epar-product-information_bg.pdf)
 
-español (ES) (1.13 MB - PDF)
+čeština (CS) (1.52 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
-
-[View](/es/documents/product-information/tagrisso-epar-product-information_es.pdf)
-
-čeština (CS) (1.14 MB - PDF)
-
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/tagrisso-epar-product-information_cs.pdf)
 
-dansk (DA) (3.11 MB - PDF)
+dansk (DA) (1.41 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/tagrisso-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.06 MB - PDF)
+Deutsch (DE) (1.02 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/tagrisso-epar-product-information_de.pdf)
 
-eesti keel (ET) (1014.75 KB - PDF)
+eesti (ET) (973.66 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/tagrisso-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.12 MB - PDF)
+ελληνικά (EL) (1.08 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/tagrisso-epar-product-information_el.pdf)
 
-français (FR) (1.1 MB - PDF)
+français (FR) (1.06 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/tagrisso-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.25 MB - PDF)
+hrvatski (HR) (1.22 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/tagrisso-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.19 MB - PDF)
+italiano (IT) (1.03 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
-
-[View](/is/documents/product-information/tagrisso-epar-product-information_is.pdf)
-
-italiano (IT) (1.07 MB - PDF)
-
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/tagrisso-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.77 MB - PDF)
+latviešu (LV) (1.66 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/tagrisso-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.12 MB - PDF)
+lietuvių (LT) (1.07 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/tagrisso-epar-product-information_lt.pdf)
 
-magyar (HU) (1.14 MB - PDF)
+magyar (HU) (1.09 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/tagrisso-epar-product-information_hu.pdf)
 
-Nederlands (NL) (1.18 MB - PDF)
+Malti (MT) (1.57 MB - PDF)
 
-**First published:**
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
-17/02/2016
+[View](/mt/documents/product-information/tagrisso-epar-product-information_mt.pdf)
 
-**Last updated:**
+Nederlands (NL) (1.13 MB - PDF)
 
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/tagrisso-epar-product-information_nl.pdf)
 
-norsk (NO) (1.12 MB - PDF)
+polski (PL) (1.47 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
-
-[View](/no/documents/product-information/tagrisso-epar-product-information_no.pdf)
-
-polski (PL) (2.71 MB - PDF)
-
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/tagrisso-epar-product-information_pl.pdf)
 
-português (PT) (1.11 MB - PDF)
+português (PT) (1.06 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/tagrisso-epar-product-information_pt.pdf)
 
-slovenčina (SK) (1.08 MB - PDF)
+română (RO) (1.09 MB - PDF)
 
-**First published:**
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
-17/02/2016
+[View](/ro/documents/product-information/tagrisso-epar-product-information_ro.pdf)
 
-**Last updated:**
+slovenčina (SK) (1.04 MB - PDF)
 
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/tagrisso-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.33 MB - PDF)
+slovenščina (SL) (1.44 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/tagrisso-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.08 MB - PDF)
+suomi (FI) (1.04 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/tagrisso-epar-product-information_fi.pdf)
 
-svenska (SV) (1.08 MB - PDF)
+svenska (SV) (1.07 MB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-19/01/2026
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/tagrisso-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310732 03/12/2025
+Íslenska (IS) (1.15 MB - PDF)
+
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
+
+[View](/is/documents/product-information/tagrisso-epar-product-information_is.pdf)
+
+norsk (NO) (1.08 MB - PDF)
+
+**First published:** 17/02/2016 **Last updated:** 23/06/2026
+
+[View](/no/documents/product-information/tagrisso-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000326185
+
+21/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -774,305 +443,168 @@ Tagrisso : EPAR - All Authorised presentations
 
 English (EN) (45.17 KB - PDF)
 
-**First published:** 17/02/2016
-
-**Last updated:** 12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/en/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-341)
+[Other languages (24)](#file-language-dropdown-265)
 
 български (BG) (40.25 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/bg/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (52.44 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/es/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (29.51 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/cs/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (28.75 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/da/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (30.25 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/de/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.31 KB - PDF)
+eesti (ET) (45.31 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/et/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (38.35 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/el/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (37 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/fr/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (37.54 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/hr/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (27.69 KB - PDF)
-
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
-
-[View](/is/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (29.75 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/it/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (28.71 KB - PDF)
+latviešu (LV) (28.71 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/lv/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (31.16 KB - PDF)
+lietuvių (LT) (31.16 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/lt/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (32.86 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/hu/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (38.52 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/mt/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (28.34 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/nl/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (28.52 KB - PDF)
-
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
-
-[View](/no/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (45.82 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/pl/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (29.7 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/pt/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (31.4 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/ro/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (31.67 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/sk/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (31.42 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/sl/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (26.41 KB - PDF)
+suomi (FI) (26.41 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/fi/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (27.32 KB - PDF)
 
-**First published:**
-
-17/02/2016
-
-**Last updated:**
-
-12/04/2016
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
 
 [View](/sv/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (27.69 KB - PDF)
+
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
+
+[View](/is/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (28.52 KB - PDF)
+
+**First published:** 17/02/2016 **Last updated:** 12/04/2016
+
+[View](/no/documents/all-authorised-presentations/tagrisso-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Tagrisso Active substance osimertinib mesilate International non-proprietary name (INN) or common name osimertinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01XE
+- **Name of medicine**
+    - Tagrisso
+- **Active substance**
+    - osimertinib mesilate
+- **International non-proprietary name (INN) or common name**
+    - osimertinib
+- **Therapeutic area (MeSH)**
+    - Carcinoma, Non-Small-Cell Lung
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XE
 
 ### Pharmacotherapeutic group
 
@@ -1094,19 +626,18 @@ TAGRISSO is indicated in combination with:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004124
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Marketing authorisation holder
-
-AstraZeneca AB
-
-SE-151 85 Södertälje
-
-Opinion adopted 17/12/2015 Marketing authorisation issued 01/02/2016 Revision 23
+- **EMA product number**
+    - EMEA/H/C/004124
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+- **Marketing authorisation holder**
+    - AstraZeneca AB SE-151 85 Södertälje  Sweden
+- **Opinion adopted**
+    - 17/12/2015
+- **Marketing authorisation issued**
+    - 01/02/2016
+- **Revision**
+    - 24
 
 ## Assessment history
 
@@ -1114,13 +645,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tagrisso : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.24 KB - PDF)
+English (EN) (155.43 KB - PDF)
 
-**First published:** 04/12/2025
+**First published:** 04/12/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/procedural-steps-after/tagrisso-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1128,17 +659,13 @@ Tagrisso : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (276.94 KB - PDF)
 
-**First published:** 12/04/2016
-
-**Last updated:** 04/12/2025
+**First published:** 12/04/2016 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/tagrisso-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Tagrisso-H-C-004124-II-0056 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/559416/2024
+Adopted Reference Number: EMA/559416/2024
 
 English (EN) (6.45 MB - PDF)
 
@@ -1148,9 +675,7 @@ English (EN) (6.45 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tagrisso (II-56)
 
-Adopted
-
-Reference Number: EMA/CHMP/519859/2024
+Adopted Reference Number: EMA/CHMP/519859/2024
 
 English (EN) (161.55 KB - PDF)
 
@@ -1160,9 +685,7 @@ English (EN) (161.55 KB - PDF)
 
 Tagrisso-H-C-004124-II-0053 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/291598/2024
+Adopted Reference Number: EMA/291598/2024
 
 English (EN) (8.22 MB - PDF)
 
@@ -1172,9 +695,7 @@ English (EN) (8.22 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tagrisso (II-53)
 
-Adopted
-
-Reference Number: EMA/CHMP/240704/2024
+Adopted Reference Number: EMA/CHMP/240704/2024
 
 English (EN) (161.95 KB - PDF)
 
@@ -1188,9 +709,7 @@ Reference Number: EMA/797953/2022
 
 English (EN) (194.7 KB - PDF)
 
-**First published:** 23/09/2022
-
-**Last updated:** 03/10/2022
+**First published:** 23/09/2022 **Last updated:** 03/10/2022
 
 [View](/en/documents/scientific-conclusion/tagrisso-h-c-psusa-00010472-202111-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation-annex-iv_en.pdf)
 
@@ -1206,9 +725,7 @@ English (EN) (10.36 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tagrisso (II-39-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/230979/2021
+Adopted Reference Number: EMA/CHMP/230979/2021
 
 English (EN) (113.99 KB - PDF)
 
@@ -1238,85 +755,77 @@ Tagrisso-H-C-4124-II-0019 : EPAR - Assessment Report - Variation
 
 Reference Number: EMA/396618/2018
 
-English (EN) (7.57 MB - PDF)
+English (EN) (7.83 MB - PDF)
 
-**First published:** 09/07/2018
-
-**Last updated:** 09/07/2018
+**First published:** 09/07/2018 **Last updated:** 05/02/2026
 
 [View](/en/documents/variation-report/tagrisso-h-c-4124-ii-0019-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Tagrisso II/0019
 
-Adopted
-
-Reference Number: EMA/CHMP/254059/2018
+Adopted Reference Number: EMA/CHMP/254059/2018
 
 English (EN) (72.42 KB - PDF)
 
-**First published:** 27/04/2018
-
-**Last updated:** 27/04/2018
+**First published:** 27/04/2018 **Last updated:** 27/04/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tagrisso-ii0019_en.pdf)
 
 Tagrisso-H-C-4124-II-0009-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/134310/2017
+Adopted Reference Number: EMA/CHMP/134310/2017
 
 English (EN) (4.86 MB - PDF)
 
-**First published:** 16/05/2017
-
-**Last updated:** 16/05/2017
+**First published:** 16/05/2017 **Last updated:** 16/05/2017
 
 [View](/en/documents/variation-report/tagrisso-h-c-4124-ii-0009-g-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tagrisso : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/15445/20165
+Adopted Reference Number: EMA/CHMP/15445/20165
 
 English (EN) (5.26 MB - PDF)
 
-**First published:** 17/02/2016
-
-**Last updated:** 17/02/2016
+**First published:** 17/02/2016 **Last updated:** 17/02/2016
 
 [View](/en/documents/assessment-report/tagrisso-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Tagrisso
 
-Adopted
-
-Reference Number: EMA/776644/2015
+Adopted Reference Number: EMA/776644/2015
 
 English (EN) (68.78 KB - PDF)
 
-**First published:** 18/12/2015
-
-**Last updated:** 18/12/2015
+**First published:** 18/12/2015 **Last updated:** 18/12/2015
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-tagrisso_en.pdf)
 
-#### News on Tagrisso
+## News on Tagrisso
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
+15/11/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2021) 23/04/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024)
 
-[EMA fast-tracks new oral treatment for non-small cell lung cancer](/en/news/ema-fast-tracks-new-oral-treatment-non-small-cell-lung-cancer) 18/12/2015
+31/05/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015) 18/12/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2021)
 
-#### Product information - with tracked changes
+23/04/2021
+
+[EMA fast-tracks new oral treatment for non-small cell lung cancer](/en/news/ema-fast-tracks-new-oral-treatment-non-small-cell-lung-cancer)
+
+18/12/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015)
+
+18/12/2015
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1328,207 +837,161 @@ English (EN) (1.22 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-5)
+[Other languages (23)](#file-language-dropdown-550)
 
 български (BG) (1.16 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/bg/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_bg.docx)
 
 čeština (CS) (1.7 MB - DOC)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/cs/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_cs.doc)
 
 dansk (DA) (1.16 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/da/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (1.11 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/de/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.11 MB - DOCX)
+eesti (ET) (1.11 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/et/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.81 MB - DOC)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/el/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_el.doc)
 
 français (FR) (1.16 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/fr/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (1.34 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/hr/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.26 MB - DOCX)
-
-**First published:**
-
-04/12/2025
-
-[View](/is/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.05 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/it/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.97 MB - DOCX)
+latviešu (LV) (1.97 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/lv/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.15 MB - DOCX)
+lietuvių (LT) (1.15 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/lt/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (1.15 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/hu/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (1.03 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/mt/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (1.29 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/nl/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (1.21 MB - DOCX)
-
-**First published:**
-
-04/12/2025
-
-[View](/no/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (1.26 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/pl/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (1.17 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/pt/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (1.2 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/ro/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (1.2 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/sk/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (1.28 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/sl/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.25 MB - DOCX)
+suomi (FI) (1.25 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/fi/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (1.16 MB - DOCX)
 
-**First published:**
-
-04/12/2025
+**First published:** 04/12/2025
 
 [View](/sv/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_sv.docx)
 
-#### Related information
+Íslenska (IS) (1.26 MB - DOCX)
+
+**First published:** 04/12/2025
+
+[View](/is/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.21 MB - DOCX)
+
+**First published:** 04/12/2025
+
+[View](/no/documents/product-information-tracked-changes/tagrisso-epar-product-information-tracked-changes_no.docx)
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0041240000) (initial marketing authorisation)
 
-#### More information on Tagrisso
+## More information on Tagrisso
 
 - [EMEA-002125-PIP01-17 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002125-pip01-17)
 - [Real-world evidence of first-line Osimertinib effectiveness in Bulgarian patients: a retrospective analysis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000686)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/01/2026
+**This page was last updated on**
+
+23/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

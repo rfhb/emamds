@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:23:23
+document_datetime: 2026-06-23 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-accord.html
 document_name: pomalidomide-accord.html
 version: success
-processing_time: 0.1162298
-conversion_datetime: 2025-12-30 00:49:36.15159
+processing_time: 0.1595181
+conversion_datetime: 2026-06-25 16:45:33.192522
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Pomalidomide Accord
 
 [RSS](/en/individual-human-medicine.xml/243395)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pomalidomide Medicine Human Authorised
+pomalidomide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -49,13 +49,13 @@ Pomalidomide Accord is a cancer medicine used to treat multiple myeloma (a cance
 
 It is also used in combination with dexamethasone in adults who have received at least two prior therapies, including both lenalidomide and bortezomib, and whose disease has worsened.
 
-Pomalidomide Accord contains the active substance pomalidomide and is a 'generic medicine'. This means that Pomalidomide Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Pomalidomide Accord is Imnovid. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Pomalidomide Accord contains the active substance pomalidomide and is a 'generic medicine'. This means that Pomalidomide Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Pomalidomide Accord is Imnovid.
 
 Expand section
 
 Collapse section
 
-## How is Pomalidomide Accord used?
+### How is Pomalidomide Accord used?
 
 Treatment with Pomalidomide Accord must be started and supervised by a doctor experienced in treating multiple myeloma. The medicine can only be obtained with a prescription.
 
@@ -63,31 +63,31 @@ Pomalidomide Accord is available as capsules. It is taken daily in the first 2 w
 
 Treatment with Pomalidomide Accord may need to be interrupted or stopped, or the dose may need to be reduced, if the disease gets worse or certain side effects occur. For more information about using Pomalidomide Accord, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Pomalidomide Accord work?
+### How does Pomalidomide Accord work?
 
 The active substance in Pomalidomide Accord, pomalidomide, is an immunomodulating agent. This means that it affects the activity of the immune system (the body's natural defences). Pomalidomide works in a number of ways in multiple myeloma: it blocks the development of tumour cells, prevents the growth of blood vessels within tumours and also stimulates some specialised cells of the immune system to attack the tumour cells.
 
-## How has Pomalidomide Accord been studied?
+### How has Pomalidomide Accord been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Imnovid, and do not need to be repeated for Pomalidomide Accord.
 
 As for every medicine, the company provided studies on the quality of Pomalidomide Accord. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Pomalidomide Accord?
+### What are the benefits and risks of Pomalidomide Accord?
 
 Because Pomalidomide Accord is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Pomalidomide Accord authorised in the EU?
+### Why is Pomalidomide Accord authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Pomalidomide Accord has been shown to have comparable quality and to be bioequivalent to Imnovid. Therefore, the Agency's view was that, as for Imnovid, the benefits of Pomalidomide Accord outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Pomalidomide Accord?
+### What measures are being taken to ensure the safe and effective use of Pomalidomide Accord?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Pomalidomide Accord have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Imnovid, such as a patient card with key safety information, also apply to Pomalidomide Accord where appropriate.
 
 As for all medicines, data on the use of Pomalidomide Accord are continuously monitored. Suspected side effects reported with Pomalidomide Accord are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Pomalidomide Accord
+### Other information about Pomalidomide Accord
 
 Pomalidomide Accord received a marketing authorisation valid throughout the EU on 26 July 2024.
 
@@ -97,489 +97,318 @@ Reference Number: EMA/281837/2024
 
 English (EN) (177.17 KB - PDF)
 
-**First published:** 02/08/2024
-
-**Last updated:** 17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/en/documents/overview/pomalidomide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-341)
+[Other languages (22)](#file-language-dropdown-873)
 
 български (BG) (165.36 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/bg/documents/overview/pomalidomide-accord-epar-medicine-overview_bg.pdf)
 
 español (ES) (143.77 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/es/documents/overview/pomalidomide-accord-epar-medicine-overview_es.pdf)
 
 čeština (CS) (163.04 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/cs/documents/overview/pomalidomide-accord-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (142.76 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/da/documents/overview/pomalidomide-accord-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (146.35 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/de/documents/overview/pomalidomide-accord-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (140.44 KB - PDF)
+eesti (ET) (140.44 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/et/documents/overview/pomalidomide-accord-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (165.77 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/el/documents/overview/pomalidomide-accord-epar-medicine-overview_el.pdf)
 
 français (FR) (145.26 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/fr/documents/overview/pomalidomide-accord-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (161.02 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/hr/documents/overview/pomalidomide-accord-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (141.5 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/it/documents/overview/pomalidomide-accord-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (178.95 KB - PDF)
+latviešu (LV) (178.95 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/lv/documents/overview/pomalidomide-accord-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (162.88 KB - PDF)
+lietuvių (LT) (162.88 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/lt/documents/overview/pomalidomide-accord-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (165.75 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/hu/documents/overview/pomalidomide-accord-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (165.99 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/mt/documents/overview/pomalidomide-accord-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (143.98 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/nl/documents/overview/pomalidomide-accord-epar-medicine-overview_nl.pdf)
 
 polski (PL) (166.37 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/pl/documents/overview/pomalidomide-accord-epar-medicine-overview_pl.pdf)
 
 português (PT) (143.55 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/pt/documents/overview/pomalidomide-accord-epar-medicine-overview_pt.pdf)
 
 română (RO) (160.96 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/ro/documents/overview/pomalidomide-accord-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (163.81 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/sk/documents/overview/pomalidomide-accord-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (161.18 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/sl/documents/overview/pomalidomide-accord-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (140.76 KB - PDF)
+suomi (FI) (140.76 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/fi/documents/overview/pomalidomide-accord-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (141.84 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-**Last updated:**
-
-17/09/2024
+**First published:** 02/08/2024 **Last updated:** 17/09/2024
 
 [View](/sv/documents/overview/pomalidomide-accord-epar-medicine-overview_sv.pdf)
+
+Pomalidomide Accord : EPAR - Risk management plan
+
+English (EN) (854.61 KB - PDF)
+
+**First published:** 23/06/2026
+
+[View](/en/documents/rmp/pomalidomide-accord-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Pomalidomide Accord : EPAR - Product information
 
-English (EN) (1.4 MB - PDF)
+English (EN) (977.11 KB - PDF)
 
-**First published:** 02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/pomalidomide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-105)
 
-български (BG) (1.14 MB - PDF)
+български (BG) (1.02 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/pomalidomide-accord-epar-product-information_bg.pdf)
 
-español (ES) (863.62 KB - PDF)
+español (ES) (908.16 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/es/documents/product-information/pomalidomide-accord-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (999.42 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/pomalidomide-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (930.87 KB - PDF)
+dansk (DA) (974.34 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/pomalidomide-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.08 MB - PDF)
+Deutsch (DE) (698.32 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/pomalidomide-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (791.85 KB - PDF)
+eesti (ET) (879.3 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/pomalidomide-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.09 MB - PDF)
+ελληνικά (EL) (1 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/pomalidomide-accord-epar-product-information_el.pdf)
 
-français (FR) (1.46 MB - PDF)
+français (FR) (1.1 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/pomalidomide-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1016.26 KB - PDF)
+hrvatski (HR) (977.07 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/pomalidomide-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (975.86 KB - PDF)
+italiano (IT) (958.96 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-[View](/is/documents/product-information/pomalidomide-accord-epar-product-information_is.pdf)
-
-italiano (IT) (942.82 KB - PDF)
-
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/pomalidomide-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.1 MB - PDF)
+latviešu (LV) (976.12 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/pomalidomide-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.23 MB - PDF)
+lietuvių (LT) (1.01 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/pomalidomide-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (983.38 KB - PDF)
+magyar (HU) (988.54 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/pomalidomide-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (1.15 MB - PDF)
+Malti (MT) (1.06 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/mt/documents/product-information/pomalidomide-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (881.53 KB - PDF)
+Nederlands (NL) (583.21 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/pomalidomide-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (880.17 KB - PDF)
+polski (PL) (914.68 KB - PDF)
 
-**First published:**
-
-02/08/2024
-
-[View](/no/documents/product-information/pomalidomide-accord-epar-product-information_no.pdf)
-
-polski (PL) (842.46 KB - PDF)
-
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/pomalidomide-accord-epar-product-information_pl.pdf)
 
-português (PT) (895.82 KB - PDF)
+português (PT) (759.89 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/pomalidomide-accord-epar-product-information_pt.pdf)
 
-română (RO) (1.11 MB - PDF)
+română (RO) (1 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/ro/documents/product-information/pomalidomide-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.25 MB - PDF)
+slovenčina (SK) (990.12 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/pomalidomide-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.08 MB - PDF)
+slovenščina (SL) (991.45 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/pomalidomide-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.14 MB - PDF)
+suomi (FI) (1 MB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/pomalidomide-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (844.99 KB - PDF)
+svenska (SV) (914.99 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/pomalidomide-accord-epar-product-information_sv.pdf)
 
-26/07/2024
+Íslenska (IS) (950.35 KB - PDF)
+
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
+
+[View](/is/documents/product-information/pomalidomide-accord-epar-product-information_is.pdf)
+
+norsk (NO) (933.17 KB - PDF)
+
+**First published:** 02/08/2024 **Last updated:** 23/06/2026
+
+[View](/no/documents/product-information/pomalidomide-accord-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349530
+
+19/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -597,199 +426,151 @@ English (EN) (92.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-796)
+[Other languages (24)](#file-language-dropdown-685)
 
 български (BG) (101.96 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/bg/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (92.71 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/es/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (95.83 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/cs/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (94.88 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/da/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (96.48 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/de/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (93.33 KB - PDF)
+eesti (ET) (93.33 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/et/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (98.19 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/el/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (94.95 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/fr/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (94.05 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/hr/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (96.43 KB - PDF)
-
-**First published:**
-
-02/08/2024
-
-[View](/is/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (93.21 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/it/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (96.03 KB - PDF)
+latviešu (LV) (96.03 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/lv/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (95.57 KB - PDF)
+lietuvių (LT) (95.57 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/lt/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (97.21 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/hu/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (98.42 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/mt/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (92.93 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/nl/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (94.58 KB - PDF)
-
-**First published:**
-
-02/08/2024
-
-[View](/no/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (97.07 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/pl/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (93.42 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/pt/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (92.68 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/ro/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (96.43 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sk/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (92.88 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sl/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (93.08 KB - PDF)
+suomi (FI) (93.08 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/fi/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (94.51 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sv/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (96.43 KB - PDF)
+
+**First published:** 02/08/2024
+
+[View](/is/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (94.58 KB - PDF)
+
+**First published:** 02/08/2024
+
+[View](/no/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_no.pdf)
 
 Pomalidomide Accord : EPAR - Conditions imposed on member states for safe and effective use - Annex related to Art. 127a
 
@@ -799,211 +580,170 @@ English (EN) (383.18 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-676)
+[Other languages (25)](#file-language-dropdown-736)
 
 български (BG) (246.74 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/bg/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_bg.pdf)
 
 español (ES) (210.65 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/es/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_es.pdf)
 
 čeština (CS) (256.18 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/cs/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_cs.pdf)
 
 dansk (DA) (210.06 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/da/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_da.pdf)
 
 Deutsch (DE) (242.67 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/de/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_de.pdf)
 
-eesti keel (ET) (238 KB - PDF)
+eesti (ET) (238 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/et/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_et.pdf)
 
 ελληνικά (EL) (245.39 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/el/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_el.pdf)
 
 français (FR) (216.74 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/fr/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fr.pdf)
 
-hrvatski (HR) (235.02 KB - PDF)
-
-**First published:**
-
-02/08/2024
-
-[View](/hr/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hr.pdf)
-
-íslenska (IS) (213.26 KB - PDF)
-
-**First published:**
-
-02/08/2024
-
-[View](/is/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_is.pdf)
-
 Gaeilge (GA) (212.3 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/ga/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ga.pdf)
 
+hrvatski (HR) (235.02 KB - PDF)
+
+**First published:** 02/08/2024
+
+[View](/hr/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hr.pdf)
+
 italiano (IT) (237.7 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/it/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_it.pdf)
 
-latviešu valoda (LV) (285.95 KB - PDF)
+latviešu (LV) (285.95 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/lv/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lv.pdf)
 
-lietuvių kalba (LT) (245.32 KB - PDF)
+lietuvių (LT) (245.32 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/lt/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lt.pdf)
 
 magyar (HU) (215.24 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/hu/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hu.pdf)
 
 Malti (MT) (223.09 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/mt/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_mt.pdf)
 
 Nederlands (NL) (242.93 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/nl/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_nl.pdf)
 
-norsk (NO) (207.66 KB - PDF)
-
-**First published:**
-
-02/08/2024
-
-[View](/no/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_no.pdf)
-
 polski (PL) (248.89 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/pl/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pl.pdf)
 
 português (PT) (239.93 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/pt/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pt.pdf)
 
 română (RO) (214.6 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/ro/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ro.pdf)
 
 slovenčina (SK) (217.64 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sk/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sk.pdf)
 
 slovenščina (SL) (248.7 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sl/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sl.pdf)
 
-Suomi (FI) (205.91 KB - PDF)
+suomi (FI) (205.91 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/fi/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fi.pdf)
 
 svenska (SV) (241.14 KB - PDF)
 
-**First published:**
-
-02/08/2024
+**First published:** 02/08/2024
 
 [View](/sv/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sv.pdf)
 
+Íslenska (IS) (213.26 KB - PDF)
+
+**First published:** 02/08/2024
+
+[View](/is/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_is.pdf)
+
+norsk (NO) (207.66 KB - PDF)
+
+**First published:** 02/08/2024
+
+[View](/no/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_no.pdf)
+
 ## Product details
 
-Name of medicine Pomalidomide Accord Active substance Pomalidomide International non-proprietary name (INN) or common name pomalidomide Therapeutic area (MeSH) Multiple Myeloma Anatomical therapeutic chemical (ATC) code L04AX06
+- **Name of medicine**
+    - Pomalidomide Accord
+- **Active substance**
+    - Pomalidomide
+- **International non-proprietary name (INN) or common name**
+    - pomalidomide
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AX06
 
 ### Pharmacotherapeutic group
 
@@ -1017,29 +757,40 @@ Pomalidomide Accord in combination with dexamethasone is indicated in the treatm
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006273
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted 30/05/2024 Marketing authorisation issued 26/07/2024
+- **EMA product number**
+    - EMEA/H/C/006273
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+- **Opinion adopted**
+    - 30/05/2024
+- **Marketing authorisation issued**
+    - 26/07/2024
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Pomalidomide Accord : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (148.32 KB - PDF)
+
+**First published:** 23/06/2026
+
+[View](/en/documents/procedural-steps-after/pomalidomide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Pomalidomide Accord : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/341688/2024
+Adopted Reference Number: EMA/341688/2024
 
 English (EN) (594.85 KB - PDF)
 
@@ -1049,9 +800,7 @@ English (EN) (594.85 KB - PDF)
 
 CHMP summary of positive opinion for Pomalidomide Accord
 
-Adopted
-
-Reference Number: EMA/227529/2024
+Adopted Reference Number: EMA/227529/2024
 
 English (EN) (142.01 KB - PDF)
 
@@ -1059,12 +808,14 @@ English (EN) (142.01 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pomalidomide-accord_en.pdf)
 
-#### News on Pomalidomide Accord
+## News on Pomalidomide Accord
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024)
 
-**This page was last updated on** 17/09/2024
+31/05/2024
+
+**This page was last updated on**
+
+23/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

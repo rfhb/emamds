@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 15:58:00
+document_datetime: 2026-06-23 12:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/agamree.html
 document_name: agamree.html
 version: success
-processing_time: 0.1256756
-conversion_datetime: 2026-04-09 12:28:29.395711
+processing_time: 0.1417532
+conversion_datetime: 2026-06-25 16:51:18.034669
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Agamree
 
@@ -47,7 +47,7 @@ Page contents
 
 ## Overview
 
-Agamree is a medicine for treating Duchenne muscular dystrophy in patients from 4 years of age. Duchenne muscular dystrophy is a genetic disease that gradually causes weakness and loss of muscle function.
+Agamree is a medicine for treating Duchenne muscular dystrophy in patients from 2years of age. Duchenne muscular dystrophy is a genetic disease that gradually causes weakness and loss of muscle function.
 
 Duchenne muscular dystrophy is rare, and Agamree was designated an 'orphan medicine' (a medicine used in rare diseases) on 22 August 2014. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1309) .
 
@@ -57,201 +57,205 @@ Expand section
 
 Collapse section
 
-## How is Agamree used?
+### How is Agamree used?
 
 The medicine can only be obtained with a prescription. Treatment should only be started by a specialist doctor with experience in managing Duchenne muscular dystrophy.
 
-The medicine is available as a suspension to be taken by mouth once a day. The doctor will prescribe the dose based on the patient's bodyweight.
+Agamree is available as a suspension to be taken by mouth once a day. The doctor will prescribe the dose based on the patient's bodyweight.
 
 For more information about using Agamree, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Agamree work?
+### How does Agamree work?
 
-The active substance in Agamree, vamorolone, is a modified corticosteroid medicine and reduces inflammation by blocking the production of certain inflammatory substances called cytokines. The way it works in patients with Duchenne muscular dystrophy is not fully understood.
+The active substance in Agamree, vamorolone, is a modified corticosteroid medicine which reduces inflammation by blocking the production of certain inflammatory substances called cytokines. The way it works in patients with Duchenne muscular dystrophy is not fully understood.
 
-## What benefits of Agamree have been shown in studies?
+### What benefits of Agamree have been shown in studies?
 
-A main study showed that Agamree was more effective than placebo (a dummy treatment) in treating Duchenne muscular dystrophy in patients between the ages of 4 and 7 years who were able to walk. The study, involving 121 patients, looked at their TTSTAND velocity (time to stand), which is the speed at which they can stand up from a lying position.
+A main study showed that Agamree was more effective than placebo (a dummy treatment) in treating Duchenne muscular dystrophy in patients between the ages of 4 and below 7 years who were able to walk. The study, involving 121 patients, looked at their TTSTAND velocity (time to stand), which is the speed at which they can stand up from a lying position.
 
 After 24 weeks of treatment, the average TTSTAND velocity increased from 0.19 to 0.24 rises per second in patients who took Agamree, while it decreased slightly from 0.20 to 0.19 rises per second in those who had placebo. This effect was maintained up to week 48.
 
-## What are the risks associated with Agamree?
+In addition, a study in 20 boys aged 2 to under 4 years, who had not previously received corticosteroids, showed that Agamree works in a similar way to how it works in slightly older children (aged between 4-6 years). The study also showed that Agamree improved the children's movement skills, with greater improvements seen at higher doses. However, the study did not compare Agamree with another treatment or placebo.
+
+Studies carried out with Agamree are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Agamree?
 
 For the full list of side effects and restrictions with Agamree, see the package leaflet.
 
 The most common side effects with Agamree (which may affect more than 1 in 10 people) include Cushingoid features (features caused by long-term use of a corticosteroid, such as fat build-up on the face and bruising), vomiting, increased weight and irritability.
 
-The medicine must not be used in patients who have severely impaired liver function or who have recently received a live vaccine (a vaccine that uses a weakened form of the organism).
+The medicine must not be used in patients who have severely impaired liver function or who have received a live vaccine (a vaccine that uses a weakened form of the organism) in the 6 weeks before starting treatment or while receiving treatment.
 
-## Why is Agamree authorised in the EU?
+### Why is Agamree authorised in the EU?
 
 The European Medicines Agency decided that Agamree's benefits are greater than its risks and it can be authorised for use in the EU.
 
-The main study in patients between 4 and 7 years of age showed that Agamree is effective in improving their ability to move. Given that vamorolone works in the same way as currently used corticosteroids, the Agency concluded that it can be used in older patients as well.
+The data available supports the use of Agamree in patients between 2 and below 7 years of age to improve their ability to move. Given that vamorolone works in the same way as currently used corticosteroids, the Agency concluded that it can be used in older patients as well.
 
 In terms of safety, Agamree compares well with conventional corticosteroids and does not cause some of the side effects that conventional corticosteroids cause (such as effects on the bone and growth).
 
-## What measures are being taken to ensure the safe and effective use of Agamree?
+### What measures are being taken to ensure the safe and effective use of Agamree?
 
 The company that markets Agamree will provide patients with an alert card with information about the need for daily treatment and the risk of adrenal crisis, a side effect which can occur in patients abruptly stopping corticosteroid treatment.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Agamree have also been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Agamree are continuously monitored. Suspected side effects reported with Agamree are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Agamree are continuously monitored. Suspected side effects reported with Agamree are carefully evaluated and any necessary action is taken to protect patients.
 
-## Other information about Agamree
+### Other information about Agamree
 
 Agamree received a marketing authorisation valid throughout the EU on 14 December 2023.
 
 Agamree : EPAR - Medicine overview
 
-Reference Number: EMA/489334/2023
+Reference Number: EMADOC-1829012207-51873
 
-English (EN) (108.05 KB - PDF)
+English (EN) (134.69 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/en/documents/overview/agamree-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-954)
+[Other languages (22)](#file-language-dropdown-573)
 
-български (BG) (132.75 KB - PDF)
+български (BG) (148.74 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/bg/documents/overview/agamree-epar-medicine-overview_bg.pdf)
 
-español (ES) (107.97 KB - PDF)
+español (ES) (131.98 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/es/documents/overview/agamree-epar-medicine-overview_es.pdf)
 
-čeština (CS) (129.15 KB - PDF)
+čeština (CS) (145.23 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/cs/documents/overview/agamree-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (108.13 KB - PDF)
+dansk (DA) (129.51 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/da/documents/overview/agamree-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (112.18 KB - PDF)
+Deutsch (DE) (132.69 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/de/documents/overview/agamree-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (105.7 KB - PDF)
+eesti (ET) (125.6 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/et/documents/overview/agamree-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (132.84 KB - PDF)
+ελληνικά (EL) (148.27 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/el/documents/overview/agamree-epar-medicine-overview_el.pdf)
 
-français (FR) (109.21 KB - PDF)
+français (FR) (130.26 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/fr/documents/overview/agamree-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (128.16 KB - PDF)
+hrvatski (HR) (145.24 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/hr/documents/overview/agamree-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (108.02 KB - PDF)
+italiano (IT) (128.24 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/it/documents/overview/agamree-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (136.93 KB - PDF)
+latviešu (LV) (153.45 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/lv/documents/overview/agamree-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (128.26 KB - PDF)
+lietuvių (LT) (144.78 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/lt/documents/overview/agamree-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (128.91 KB - PDF)
+magyar (HU) (145.77 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/hu/documents/overview/agamree-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (131.63 KB - PDF)
+Malti (MT) (147.36 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/mt/documents/overview/agamree-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (108.64 KB - PDF)
+Nederlands (NL) (130.21 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/nl/documents/overview/agamree-epar-medicine-overview_nl.pdf)
 
-polski (PL) (132.79 KB - PDF)
+polski (PL) (148.46 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/pl/documents/overview/agamree-epar-medicine-overview_pl.pdf)
 
-português (PT) (109.28 KB - PDF)
+português (PT) (129.57 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/pt/documents/overview/agamree-epar-medicine-overview_pt.pdf)
 
-română (RO) (124.41 KB - PDF)
+română (RO) (140.03 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/ro/documents/overview/agamree-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (128.96 KB - PDF)
+slovenčina (SK) (145.92 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sk/documents/overview/agamree-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (126.75 KB - PDF)
+slovenščina (SL) (143.18 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sl/documents/overview/agamree-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (105.56 KB - PDF)
+suomi (FI) (126.5 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/fi/documents/overview/agamree-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (106.94 KB - PDF)
+svenska (SV) (128.18 KB - PDF)
 
-**First published:** 04/01/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sv/documents/overview/agamree-epar-medicine-overview_sv.pdf)
 
 Agamree : EPAR - Risk management plan
 
-English (EN) (596.8 KB - PDF)
+English (EN) (707 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 15/11/2024
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/en/documents/rmp/agamree-epar-risk-management-plan_en.pdf)
 
@@ -259,167 +263,168 @@ English (EN) (596.8 KB - PDF)
 
 Agamree : EPAR - Product information
 
-English (EN) (446.24 KB - PDF)
+English (EN) (519.59 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/agamree-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-592)
+[Other languages (24)](#file-language-dropdown-49)
 
-български (BG) (541.03 KB - PDF)
+български (BG) (690.23 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/agamree-epar-product-information_bg.pdf)
 
-español (ES) (468.85 KB - PDF)
+español (ES) (597.39 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/es/documents/product-information/agamree-epar-product-information_es.pdf)
 
-čeština (CS) (541.1 KB - PDF)
+čeština (CS) (655.98 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/agamree-epar-product-information_cs.pdf)
 
-dansk (DA) (457.32 KB - PDF)
+dansk (DA) (576.39 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/agamree-epar-product-information_da.pdf)
 
-Deutsch (DE) (483.49 KB - PDF)
+Deutsch (DE) (606.75 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/agamree-epar-product-information_de.pdf)
 
-eesti keel (ET) (464.92 KB - PDF)
+eesti (ET) (585.15 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/agamree-epar-product-information_et.pdf)
 
-ελληνικά (EL) (530.47 KB - PDF)
+ελληνικά (EL) (690.73 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/agamree-epar-product-information_el.pdf)
 
-français (FR) (472.75 KB - PDF)
+français (FR) (599.43 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/agamree-epar-product-information_fr.pdf)
 
-hrvatski (HR) (522.37 KB - PDF)
+hrvatski (HR) (641.5 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/agamree-epar-product-information_hr.pdf)
 
-íslenska (IS) (479.42 KB - PDF)
+italiano (IT) (599.33 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
-
-[View](/is/documents/product-information/agamree-epar-product-information_is.pdf)
-
-italiano (IT) (484.05 KB - PDF)
-
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/agamree-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (546.01 KB - PDF)
+latviešu (LV) (669.65 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/agamree-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (537.14 KB - PDF)
+lietuvių (LT) (658.28 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/agamree-epar-product-information_lt.pdf)
 
-magyar (HU) (552.19 KB - PDF)
+magyar (HU) (672.22 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/agamree-epar-product-information_hu.pdf)
 
-Malti (MT) (572.35 KB - PDF)
+Malti (MT) (704.2 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/mt/documents/product-information/agamree-epar-product-information_mt.pdf)
 
-Nederlands (NL) (474.33 KB - PDF)
+Nederlands (NL) (596.72 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/agamree-epar-product-information_nl.pdf)
 
-norsk (NO) (443.97 KB - PDF)
+polski (PL) (668.49 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
-
-[View](/no/documents/product-information/agamree-epar-product-information_no.pdf)
-
-polski (PL) (556.83 KB - PDF)
-
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/agamree-epar-product-information_pl.pdf)
 
-português (PT) (469.87 KB - PDF)
+português (PT) (535.95 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/agamree-epar-product-information_pt.pdf)
 
-română (RO) (523.74 KB - PDF)
+română (RO) (644.41 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/ro/documents/product-information/agamree-epar-product-information_ro.pdf)
 
-slovenčina (SK) (557.88 KB - PDF)
+slovenčina (SK) (662.35 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/agamree-epar-product-information_sk.pdf)
 
-slovenščina (SL) (545.16 KB - PDF)
+slovenščina (SL) (658.86 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/agamree-epar-product-information_sl.pdf)
 
-Suomi (FI) (460.44 KB - PDF)
+suomi (FI) (588.67 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/agamree-epar-product-information_fi.pdf)
 
-svenska (SV) (460.42 KB - PDF)
+svenska (SV) (581.88 KB - PDF)
 
-**First published:** 04/01/2024 **Last updated:** 08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/agamree-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000338132
+Íslenska (IS) (600.24 KB - PDF)
 
-08/04/2026
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
+
+[View](/is/documents/product-information/agamree-epar-product-information_is.pdf)
+
+norsk (NO) (573.41 KB - PDF)
+
+**First published:** 04/01/2024 **Last updated:** 23/06/2026
+
+[View](/no/documents/product-information/agamree-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000293535
+
+29/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +442,7 @@ English (EN) (40.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-225)
 
 български (BG) (57.51 KB - PDF)
 
@@ -469,7 +474,7 @@ Deutsch (DE) (42.37 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.83 KB - PDF)
+eesti (ET) (39.83 KB - PDF)
 
 **First published:** 04/01/2024
 
@@ -493,25 +498,19 @@ hrvatski (HR) (60.08 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.51 KB - PDF)
-
-**First published:** 04/01/2024
-
-[View](/is/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (40.5 KB - PDF)
 
 **First published:** 04/01/2024
 
 [View](/it/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (59.27 KB - PDF)
+latviešu (LV) (59.27 KB - PDF)
 
 **First published:** 04/01/2024
 
 [View](/lv/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (59.09 KB - PDF)
+lietuvių (LT) (59.09 KB - PDF)
 
 **First published:** 04/01/2024
 
@@ -534,12 +533,6 @@ Nederlands (NL) (40.83 KB - PDF)
 **First published:** 04/01/2024
 
 [View](/nl/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (44.56 KB - PDF)
-
-**First published:** 04/01/2024
-
-[View](/no/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.63 KB - PDF)
 
@@ -571,7 +564,7 @@ slovenščina (SL) (57.25 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (39.92 KB - PDF)
+suomi (FI) (39.92 KB - PDF)
 
 **First published:** 04/01/2024
 
@@ -583,27 +576,30 @@ svenska (SV) (40.98 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.51 KB - PDF)
+
+**First published:** 04/01/2024
+
+[View](/is/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (44.56 KB - PDF)
+
+**First published:** 04/01/2024
+
+[View](/no/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Agamree
-
-Active substance
-
-vamorolone
-
-International non-proprietary name (INN) or common name
-
-vamorolone
-
-Therapeutic area (MeSH)
-
-Muscular Dystrophy, Duchenne
-
-Anatomical therapeutic chemical (ATC) code
-
-H02AB18
+- **Name of medicine**
+    - Agamree
+- **Active substance**
+    - vamorolone
+- **International non-proprietary name (INN) or common name**
+    - vamorolone
+- **Therapeutic area (MeSH)**
+    - Muscular Dystrophy, Duchenne
+- **Anatomical therapeutic chemical (ATC) code**
+    - H02AB18
 
 ### Pharmacotherapeutic group
 
@@ -611,39 +607,24 @@ Glucocorticoids
 
 ### Therapeutic indication
 
-Agamree is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 4 years and older.
+Agamree is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 2 years and older.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005679
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Santhera Pharmaceuticals (Deutschland) GmbH
-
-Marie-Curie Strasse 8
-
-Opinion adopted
-
-12/10/2023
-
-Marketing authorisation issued
-
-14/12/2023
-
-Revision
-
-7
+- **EMA product number**
+    - EMEA/H/C/005679
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie Strasse 8  79539 Lorrach  Germany
+- **Opinion adopted**
+    - 12/10/2023
+- **Marketing authorisation issued**
+    - 14/12/2023
+- **Revision**
+    - 8
 
 ## Assessment history
 
@@ -651,13 +632,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Agamree : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.25 KB - PDF)
+English (EN) (191.88 KB - PDF)
 
-**First published:** 16/12/2025 **Last updated:** 08/04/2026
+**First published:** 16/12/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/procedural-steps-after/agamree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -669,7 +650,17 @@ English (EN) (149.88 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/agamree-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+Agamree-VR-0000293535 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2976725
+
+English (EN) (3.94 MB - PDF)
+
+**First published:** 23/06/2026
+
+[View](/en/documents/variation-report/agamree-vr-0000293535-epar-assessment-report-variation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Agamree : Orphan maintenance assessment report - initial authorisation
 
@@ -703,6 +694,10 @@ English (EN) (159.17 KB - PDF)
 
 ## News on Agamree
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026)
+
+24/04/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023)
 
 13/10/2023
@@ -713,165 +708,20 @@ The approved product information for this medicine is available below showing th
 
 Agamree : EPAR - Product information - tracked changes
 
-English (EN) (277.88 KB - DOCX)
+English (EN) (301.12 KB - DOCX)
 
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
+**First published:** 25/03/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-769)
-
-български (BG) (293.6 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/bg/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (232.24 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/es/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (231.48 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/cs/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (225.08 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/da/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (287.2 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/de/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (280.11 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/et/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (242.96 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/el/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (233.63 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/fr/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (232.7 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/hr/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_hr.docx)
-
-íslenska (IS) (233.22 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/is/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (230.06 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/it/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (286.33 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/lv/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių kalba (LT) (286.39 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/lt/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (239.12 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/hu/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (281.36 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/mt/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (234.34 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/nl/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (231.62 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/no/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (284.46 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/pl/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (236.83 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/pt/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (285.49 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/ro/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (234.84 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/sk/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (235.89 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/sl/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_sl.docx)
-
-Suomi (FI) (236.97 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/fi/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (274.16 KB - DOCX)
-
-**First published:** 25/03/2025 **Last updated:** 20/01/2026
-
-[View](/sv/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_sv.docx)
 
 ## More information on Agamree
 
 - [EU/3/14/1309 - orphan designation for treatment of Duchenne muscular dystrophy](/en/medicines/human/orphan-designations/eu-3-14-1309)
 - [EMEA-001794-PIP02-16-M09 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001794-pip02-16-m09)
+- [Agamree - opinion on variation to marketing authorisation](/en/medicines/human/variation/agamree)
 
 **This page was last updated on**
 
-08/04/2026
+23/06/2026
 
 ## Share this page

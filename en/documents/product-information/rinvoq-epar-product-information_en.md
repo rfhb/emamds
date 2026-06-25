@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-06-09 09:47:42
-document_pages: 106
+document_datetime: 2026-06-22 11:54:52
+document_pages: 104
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rinvoq-epar-product-information_en.pdf
 document_name: rinvoq-epar-product-information_en.pdf
 version: success
-processing_time: 72.0808569
-conversion_datetime: 2026-06-10 13:47:23.018658
+processing_time: 56.9506152
+conversion_datetime: 2026-06-25 17:02:20.317776
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
@@ -116,7 +116,7 @@ Consideration should be given to discontinuing treatment in patients with axial 
 
 The recommended dose of upadacitinib is 15 mg once daily in combination with a tapering course of corticosteroids. Upadacitinib monotherapy should not be used for the treatment of acute relapses (see section 4.4).
 
-Based upon the chronic nature of giant cell arteritis, upadacitinib 15 mg once daily can be continued as monotherapy following discontinuation of corticosteroids. Treatment beyond 52 weeks should be guided by disease activity, physician discretion, and patient choice.
+Based upon the chronic nature of giant cell arteritis, upadacitinib 15 mg once daily can be continued as monotherapy following discontinuation of corticosteroids.
 
 ## Atopic dermatitis
 
@@ -465,7 +465,7 @@ The safety profile of upadacitinib with long-term treatment was generally simila
 
 ## Tabulated list of adverse reactions
 
-The following list of adverse reactions is based on experience from clinical studies and post-marketing experience. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100; rare (≥ 1/10 000 to &lt; 1/1 000). The frequencies in Table 3 are based on the higher of the rates for adverse reactions reported with RINVOQ in clinical trials of rheumatologic disease (15 mg), atopic dermatitis (15 mg and 30 mg), ulcerative colitis (15 mg, 30 mg and 45 mg), or Crohn's disease (15 mg, 30 mg, and 45 mg). When notable differences in frequency were observed between indications, these are presented in the footnotes below the table.
+The following list of adverse reactions is based on experience from clinical studies and post-marketing experience. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000). The frequencies in Table 3 are based on the higher of the rates for adverse reactions reported with RINVOQ in clinical trials of rheumatologic disease (15 mg), atopic dermatitis (15 mg and 30 mg), ulcerative colitis (15 mg, 30 mg and 45 mg), or Crohn's disease (15 mg, 30 mg, and 45 mg). When notable differences in frequency were observed between indications, these are presented in the footnotes below the table.
 
 Table 3 Adverse reactions
 
@@ -475,24 +475,22 @@ Table 3 Adverse reactions
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                             | Non-melanoma skin cancer f                                                                                   |                                        |        |
 | Blood and lymphatic system disorders                                     |                                             | Anaemia a Neutropenia a Lymphopenia                                                                          |                                        |        |
 | Immune system disorders                                                  |                                             | Urticaria c,g                                                                                                | Serious hypersensitivity reactions a,e |        |
-| Metabolism and nutrition disorders                                       |                                             | Hypercholesterolaemia a,b Hyperlipidaemia a,b                                                                | Hypertriglyceridaemia                  |        |
+| Metabolism and nutrition disorders                                       |                                             | Hypercholesterola emia a,b Hyperlipidaemia a,b                                                               | Hypertriglycerida emia                 |        |
+| Nervous system disorders                                                 |                                             | Headache a,j Dizziness                                                                                       |                                        |        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                             |              | Headache a,j Dizziness                                                 |                                |                        |
-|------------------------------------------------------|--------------|------------------------------------------------------------------------|--------------------------------|------------------------|
-| Ear and labyrinth disorders                          |              | Vertigo a                                                              |                                |                        |
-| Respiratory, thoracic and mediastinal disorders      |              | Cough                                                                  |                                |                        |
-| Gastrointestinal disorders                           |              | Abdominal pain a Nausea                                                | Gastrointestinal perforation i |                        |
-| Skin and subcutaneous tissue disorders               | Acne a,c,d,g | Rash a                                                                 |                                |                        |
-| Reproductive system and breast disorders             |              |                                                                        |                                | Semen discolouration l |
-| General disorders and administration site conditions |              | Fatigue Pyrexia Peripheral oedema a,k                                  |                                |                        |
-| Investigations                                       |              | Blood CPK increased ALT increased b AST increased b Weight increased g |                                |                        |
+| Ear and labyrinth disorders                          |              | Vertigo a                                                            |                                |                        |
+|------------------------------------------------------|--------------|----------------------------------------------------------------------|--------------------------------|------------------------|
+| Respiratory, thoracic and mediastinal disorders      |              | Cough                                                                |                                |                        |
+| Gastrointestinal disorders                           |              | Abdominal pain a Nausea                                              | Gastrointestinal perforation i |                        |
+| Skin and subcutaneous tissue disorders               | Acne a,c,d,g | Rash a                                                               |                                |                        |
+| Reproductive system and breast disorders             |              |                                                                      |                                | Semen discolouration l |
+| General disorders and administration site conditions |              | Fatigue Pyrexia Peripheral oedema a,k                                |                                |                        |
+| Investigations                                       |              | Blood CPK increased ALT increased b AST increased b Weight increased |                                |                        |
 
 - c In rheumatologic disease trials, the frequency was common for acne and uncommon for urticaria.
-
-d In ulcerative colitis trials, the frequency was common for acne.
-
+- d In ulcerative colitis trials, the frequency was common for acne.
 - e Serious hypersensitivity reactions including anaphylactic reaction and angioedema
 - f Most events reported as basal cell carcinoma and squamous cell carcinoma of skin
 - g In Crohn's disease, the frequency was common for acne, and uncommon for urticaria and weight increased.
@@ -510,9 +508,11 @@ d In ulcerative colitis trials, the frequency was common for acne.
 
 In placebo-controlled clinical studies with background DMARDs, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg group was 27.4% compared to 20.9% in the placebo group. In methotrexate (MTX)-controlled studies, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 19.5% compared to 24.0% in the MTX group. The overall long-term rate of infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies (2 630 patients) was 93.7 events per 100 patient-years.
 
+In placebo-controlled clinical studies with background DMARDs, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg group was 1.2% compared to 0.6% in the placebo group. In MTX-controlled studies, the frequency of serious infection over 12/14 weeks in the upadacitinib
+
 <div style=\"page-break-after: always\"></div>
 
-In placebo-controlled clinical studies with background DMARDs, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg group was 1.2% compared to 0.6% in the placebo group. In MTX-controlled studies, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 0.6% compared to 0.4% in the MTX group. The overall long-term rate of serious infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 3.8 events per 100 patient-years. The most common serious infection was pneumonia. The rate of serious infections remained stable with long-term exposure.
+15 mg monotherapy group was 0.6% compared to 0.4% in the MTX group. The overall long-term rate of serious infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 3.8 events per 100 patient-years. The most common serious infection was pneumonia. The rate of serious infections remained stable with long-term exposure.
 
 ## Opportunistic infections (excluding tuberculosis)
 
@@ -539,9 +539,9 @@ Upadacitinib 15 mg treatment was associated with increases in lipid parameters i
 
 ## Creatine phosphokinase
 
-<div style=\"page-break-after: always\"></div>
-
 In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, increases in CPK values were observed. CPK elevations &gt; 5 x upper limit of normal (ULN) were reported in 1.0% and 0.3% of patients over 12/14 weeks in the upadacitinib 15 mg and placebo groups, respectively. Most elevations &gt; 5 x ULN were transient and did not require treatment discontinuation. Mean CPK values increased by 4 weeks with a mean increase of 60 U/L at 12 weeks and then remained stable at an increased value thereafter including with extended therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutropenia
 
@@ -561,13 +561,13 @@ Overall, the safety profile observed in patients with giant cell arteritis treat
 
 ## Serious Infections
 
-In the placebo-controlled clinical study, the frequency of serious infections over 52 weeks was 5.7% in the upadacitinib 15 mg group and 10.7% in the placebo group. The long-term rate of serious infections for the upadacitinib 15 mg group was 2.9 events per 100 patient-years.
+In the placebo-controlled clinical study, the frequency of serious infections over 52 weeks was 5.7% in the upadacitinib 15 mg group and 10.7% in the placebo group. The long-term rate of serious infections was 5.9 events per 100 patient-years for the upadacitinib 15 mg group and 10.5 events per 100 patientyears for the placebo group.
 
 ## Opportunistic infections (excluding tuberculosis)
 
-In the placebo-controlled clinical study, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) over 52 weeks was 1.9% in the upadacitinib 15 mg group and 0.9% in the placebo group. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) for the upadacitinib 15 mg group was 0.6 events per 100 patient-years.
+In the placebo-controlled clinical study, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) over 52 weeks was 1.9% in the upadacitinib 15 mg group and 0.9% in the placebo group. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) was 1.8 events per 100 patient-years for the upadacitinib 15 mg group and 1.5 events per 100 patient-years for the placebo group.
 
-In the placebo-controlled clinical study, the frequency of herpes zoster over 52 weeks was 5.3% in the upadacitinib 15 mg group and 2.7% in the placebo group. The long-term rate of herpes zoster for the upadacitinib 15 mg group was 4.1 events per 100 patient-years.
+In the placebo-controlled clinical study, the frequency of herpes zoster over 52 weeks was 5.3% in the upadacitinib 15 mg group and 2.7% in the placebo group. The long-term rate of herpes zoster was 5.9 events per 100 patient-years for the upadacitinib 15 mg group and 3.0 events per 100 patient-years for the placebo group.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1125,11 +1125,11 @@ Signs of inflammation were assessed by MRI and expressed as change from baseline
 
 ## Giant cell arteritis
 
-The efficacy and safety of upadacitinib 15 mg once daily were assessed in SELECT-GCA, a Phase 3 randomised, double-blind, multicentre, placebo-controlled study in patients 50 years of age and older with new onset or relapsing giant cell arteritis. SELECT-GCA was a 52-week study in which 428 patients were randomised in a 2:1:1 ratio and dosed once daily with upadacitinib 15 mg, upadacitinib 7.5 mg, or placebo. All patients received background corticosteroid (prednisone or prednisolone) therapy. The upadacitinib-treated groups followed a pre-specified corticosteroid taper regimen with the aim to reach 0 mg by 26 weeks; the placebo-treated group followed a pre-specified corticosteroid taper regimen with the aim to reach 0 mg by 52 weeks. The primary endpoint was the proportion of patients achieving sustained remission at week 52 as defined by the absence of giant cell arteritis signs and symptoms from week 12 through week 52 and adherence to the protocol-defined corticosteroid taper regimen. Patients who prematurely discontinued study treatment (upadacitinib or placebo) or had a missing assessment were classified as non-responders. The study included a 52-week extension for a total study duration of up to 2 years.
+The efficacy and safety of upadacitinib 15 mg once daily were assessed in SELECT-GCA, a Phase 3 randomised, double-blind, multicentre, placebo-controlled study in patients 50 years of age and older with new onset or relapsing giant cell arteritis. SELECT-GCA (Period 1) was a 52-week study in which 428 patients were randomised in a 2:1:1 ratio and dosed once daily with upadacitinib 15 mg, upadacitinib 7.5 mg, or placebo. All patients received background corticosteroid (prednisone or prednisolone) therapy. The upadacitinib-treated groups followed a pre-specified corticosteroid taper regimen with the aim to reach 0 mg by 26 weeks; the placebo-treated group followed a pre-specified corticosteroid taper regimen with the aim to reach 0 mg by 52 weeks. The primary endpoint was the proportion of patients achieving sustained remission at week 52 as defined by the absence of giant cell arteritis signs and symptoms from week 12 through week 52 and adherence to the protocol-defined corticosteroid taper regimen. Patients who prematurely discontinued study treatment (upadacitinib or placebo) or had a missing assessment were classified as non-responders. The study included a 52-week blinded extension (Period 2) for a total study duration of up to 2 years.
 
 ## Clinical response
 
-Upadacitinib 15 mg and a 26-week corticosteroid taper showed superiority in achieving corticosteroidfree sustained remission at week 52 compared to placebo and a 52-week corticosteroid taper (Table 12). Results for each component of sustained remission and sustained complete remission at week 52 were consistent with those of the composite endpoints.  For sustained remission at week 52 (the primary endpoint), a similar percentage of patients in each arm were classified as non-responders due to premature discontinuation of study treatment (placebo: 19.6%; upadacitinib 15 mg: 20.1%) or due to a missing assessment (placebo: 0.9%; upadacitinib 15 mg: 0.5%).
+Upadacitinib 15 mg and a 26-week corticosteroid taper showed superiority in achieving corticosteroidfree sustained remission at week 52 compared to placebo and a 52-week corticosteroid taper (Table 12). Results for each component of sustained remission and sustained complete remission at week 52 were consistent with those of the composite endpoints. For sustained remission at week 52 (the primary endpoint), a similar percentage of patients in each arm were classified as non-responders due to premature discontinuation of study treatment (placebo: 19.6%; upadacitinib 15 mg: 20.1%) or due to a missing assessment (placebo: 0.9%; upadacitinib 15 mg: 0.5%).
 
 Treatment effects in subgroups (gender, age, race, prior use of interleukin-6 inhibitor, new onset or relapsing giant cell arteritis, baseline corticosteroid dose, and giant cell arteritis with or without polymyalgia rheumatica) were consistent with the results in the overall study population.
 
@@ -1137,7 +1137,7 @@ A significantly lower proportion of patients treated with upadacitinib 15 mg and
 
 <div style=\"page-break-after: always\"></div>
 
-Table 12 Clinical response in SELECT-GCA
+Table 12 Clinical response in SELECT-GCA (Period 1)
 
 | Treatment Group                                        | PBO + 52-week corticosteroid taper N=112   | UPA 15 mg + 26-week corticosteroid taper N=209   | Treatment Difference (95% CI)   |
 |--------------------------------------------------------|--------------------------------------------|--------------------------------------------------|---------------------------------|
@@ -1158,9 +1158,9 @@ Week 12 through Week 52, and adherence to the protocol-defined corticosteroid ta
 
 c  Complete remission is defined as having achieved absence of GCA signs and symptoms, normalization of ESR (to ≤ 30 mm/hr; if ESR &gt; 30 mm/hr and elevation is not attributable to GCA, this criterion can still be met), normalization of hsCRP to &lt; 1 mg/dL, and adherence to the protocoldefined corticosteroid taper regimen
 
-d GCA flare is defined as an event representing recurrence of GCA signs or symptoms or an ESR measurement &gt; 30 mm/hr (attributable to GCA) and requiring an increase in corticosteroid dose, and is only considered after all of the 3 following criteria are met: absence of recurrence of GCA signs and symptoms, normalization of ESR, and no corticosteroid dose increase. Subjects who do not have an assessment that meets all 3 criteria are considered as having a GCA flare at baseline.
+d GCA flare is defined as an event representing recurrence of GCA signs or symptoms or an ESR measurement &gt; 30 mm/hr (attributable to GCA) and requiring an increase in corticosteroid dose, and is only considered after all of the 3 following criteria are met: absence of recurrence of GCA not have an assessment that meets all 3 criteria are considered as having a GCA flare at baseline.
 
-Time to first GCA flare is calculated from the time when all three criteria above are met. Subjects who meet all 3 criteria above but never experience GCA flare are censored at the last assessment
+signs and symptoms, normalization of ESR, and no corticosteroid dose increase. Subjects who do Time to first GCA flare is calculated from the time when all three criteria above are met. Subjects who meet all 3 criteria above but never experience GCA flare are censored at the last assessment
 
 e p≤0.01
 
@@ -1182,17 +1182,27 @@ Fatigue was assessed using FACIT-Fatigue score. Patients treated with upadacitin
 
 Health-related quality of life was assessed using SF-36. Patients receiving upadacitinib 15 mg and a 26-week corticosteroid taper experienced significantly greater improvement from baseline compared to placebo and a 52-week corticosteroid taper in the Physical Component Summary score of SF-36 at week 52 (3.75, 95% CI: 1.39, 6.11).
 
+## Maintenance of response
+
+A total of 223 patients entered the blinded extension period (Period 2), of the SELECT-GCA study. Patients originally randomised to upadacitinib 15 mg in Period 1, and who achieved sustained remission (defined by the absence of giant cell arteritis signs and symptoms and being corticosteroid free) for at least 24 weeks prior to week 52, were re-randomised to continue upadacitinib 15 mg (N = 68) or placebo (N = 35).
+
+Among patients who achieved sustained remission at week 52, 71.7% of patients re-randomised to continue treatment with upadacitinib 15 mg maintained corticosteroid-free remission through week 104 compared to 31.4% of patients re-randomised to placebo.
+
+Among those patients who were re-randomised to placebo, 59.5% experienced a giant cell arteritis flare, compared to 7.4% of patients re-randomised to continue upadacitinib 15 mg. The median time to flare was 113 days for patients re-randomised to placebo and was greater than 365 days (median not reached) for patients re-randomised to upadacitinib 15 mg.
+
 ## Atopic dermatitis
 
 The efficacy and safety of upadacitinib 15 mg and 30 mg once daily ware assessed in three Phase 3 randomised, double-blind, multicentre studies (MEASURE UP 1, MEASURE UP 2 and AD UP) in a total of 2782 patients (12 years of age and older). Upadacitinib was evaluated in 542 (344 in the primary analysis) adolescent and 2240 adult patients with moderate to severe atopic dermatitis (AD) not adequately controlled by topical medication(s). At baseline, patients had to have all the following: an Investigator's Global Assessment (vIGA-AD) score ≥ 3 in the overall assessment of AD (erythema, induration/papulation, and oozing/crusting) on an increasing severity scale of 0 to 4, an Eczema Area and Severity Index (EASI) score ≥16 (composite score assessing extent and severity of erythema, oedema/papulation, scratches and lichenification across 4 different body sites), a minimum body surface area (BSA) involvement of ≥ 10%, and weekly average Worst Pruritus Numerical Rating Scale (NRS) ≥ 4.
 
 In all three studies, patients received upadacitinib once daily doses of 15 mg, 30 mg, or matching placebo for 16 weeks. In the AD UP study, patients also received concomitant topical corticosteroids (TCS). Following completion of the double blinded period, patients originally randomised to upadacitinib were to continue receiving the same dose until week 260. Patients in the placebo group were re-randomised in a 1:1 ratio to receive upadacitinib 15 mg or 30 mg until week 260.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Baseline characteristics
 
 In the monotherapy studies (MEASURE UP 1 and 2), 50.0% of patients had a baseline vIGA-AD score of 3 (moderate) and 50.0% of patients had a baseline vIGA-AD of 4 (severe). The mean baseline EASI score was 29.3 and the mean baseline weekly average Worst Pruritus NRS was 7.3. In the concomitant TCS study (AD UP), 47.1% of patients had a baseline vIGA-AD score of 3 (moderate) and 52.9% of patients had a baseline vIGA-AD of 4 (severe). The mean baseline EASI score was 29.7 and the mean baseline weekly average Worst Pruritus NRS was 7.2.
 
-<div style=\"page-break-after: always\"></div>
+## Clinical response
 
 ## Monotherapy (MEASURE UP 1 AND MEASURE UP 2) and Concomitant TCS (AD UP) studies
 
@@ -1202,30 +1212,30 @@ Figure 1 shows the proportion of patients achieving an EASI 75 response and mean
 
 Table 13 Efficacy results of upadacitinib
 
-| Study                                                    | MEASURE UP 1                                | MEASURE UP 1                                | MEASURE UP 1                                | MEASURE UP 2                                | MEASURE UP 2                                | MEASURE UP 2                                | AD UP                                       | AD UP                                       | AD UP                                       |
-|----------------------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| Treatment Group                                          | PBO                                         | UPA 15 mg                                   | UPA 30 mg                                   | PBO                                         | UPA 15 mg                                   | UPA 30 mg                                   | PBO + TCS                                   | UPA 15 mg + TCS                             | UPA 30 mg + TCS                             |
-| Number of subjects randomised                            | 281                                         | 281                                         | 285                                         | 278                                         | 276                                         | 282                                         | 304                                         | 300                                         | 297                                         |
-| Week 16 endpoints, %responders (95% CI)                  | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     | Week 16 endpoints, %responders (95% CI)     |
-| vIGA-AD 0/1 a , b (co-primary)                           | 8 (5,12)                                    | 48 d (42,54)                                | 62 d (56,68)                                | 5 (2,7)                                     | 39 d (33,45)                                | 52 d (46,58)                                | 11 (7,14)                                   | 40 d (34,45)                                | 59 d (53,64)                                |
-| EASI 75 a (co-primary)                                   | 16 (12,21)                                  | 70 d (64,75)                                | 80 d (75,84)                                | 13 (9,17)                                   | 60 d (54,66)                                | 73 d (68,78)                                | 26 (21,31)                                  | 65 d (59,70)                                | 77 d (72,82)                                |
-| EASI 90 a                                                | 8 (5,11)                                    | 53 d (47,59)                                | 66 d (60,71)                                | 5 (3,8)                                     | 42 d (37,48)                                | 58 d (53,64)                                | 13 (9,17)                                   | 43 d (37,48)                                | 63 d (58,69)                                |
-| EASI 100 a                                               | 2 (0,3)                                     | 17 d (12,21)                                | 27 d (22,32)                                | 1 (0,2)                                     | 14 d (10,18)                                | 19 d (14,23)                                | 1 (0,3)                                     | 12 e (8,16)                                 | 23 d (18,27)                                |
-| Worst Pruritus NRS c (≥ 4-point improvement)             | 12 (8,16)                                   | 52 d (46,58)                                | 60 d (54,66)                                | 9 (6,13)                                    | 42 d (36,48)                                | 60 d (54,65)                                | 15 (11,19)                                  | 52 d (46,58)                                | 64 d (58,69)                                |
-| Early onset endpoints, %responders (95% CI)              | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) | Early onset endpoints, %responders (95% CI) |
-| EASI 75 a (Week 2)                                       | 4 (1,6)                                     | 38 d (32,44)                                | 47 d (42,53)                                | 4 (1,6)                                     | 33 d (27,39)                                | 44 d (38,50)                                | 7 (4,10)                                    | 31 d (26,36)                                | 44 d (38,50)                                |
-| Worst Pruritus NRS (≥ 4-point improvement at week 1) c,f | 0 (0,1)                                     | 15 d (11,19)                                | 20 d (15,24)                                | 1 (0,2)                                     | 7 d (4,11)                                  | 16 d (11,20)                                | 3 (1,5)                                     | 12 d (8,16)                                 | 19 d (15,24)                                |
+| Study                                        | MEASURE UP 1                            | MEASURE UP 1                            | MEASURE UP 1                            | MEASURE UP 2                            | MEASURE UP 2                            | MEASURE UP 2                            | AD UP                                   | AD UP                                   | AD UP                                   |
+|----------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Treatment Group                              | PBO                                     | UPA 15 mg                               | UPA 30 mg                               | PBO                                     | UPA 15 mg                               | UPA 30 mg                               | PBO + TCS                               | UPA 15 mg + TCS                         | UPA 30 mg + TCS                         |
+| Number of subjects randomised                | 281                                     | 281                                     | 285                                     | 278                                     | 276                                     | 282                                     | 304                                     | 300                                     | 297                                     |
+| Week 16 endpoints, %responders (95% CI)      | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) | Week 16 endpoints, %responders (95% CI) |
+| vIGA-AD 0/1 a , b (co-primary)               | 8 (5,12)                                | 48 d (42,54)                            | 62 d (56,68)                            | 5 (2,7)                                 | 39 d (33,45)                            | 52 d (46,58)                            | 11 (7,14)                               | 40 d (34,45)                            | 59 d (53,64)                            |
+| EASI 75 a (co-primary)                       | 16 (12,21)                              | 70 d (64,75)                            | 80 d (75,84)                            | 13 (9,17)                               | 60 d (54,66)                            | 73 d (68,78)                            | 26 (21,31)                              | 65 d (59,70)                            | 77 d (72,82)                            |
+| EASI 90 a                                    | 8 (5,11)                                | 53 d (47,59)                            | 66 d (60,71)                            | 5 (3,8)                                 | 42 d (37,48)                            | 58 d (53,64)                            | 13 (9,17)                               | 43 d (37,48)                            | 63 d (58,69)                            |
+| EASI 100 a                                   | 2 (0,3)                                 | 17 d (12,21)                            | 27 d (22,32)                            | 1 (0,2)                                 | 14 d (10,18)                            | 19 d (14,23)                            | 1 (0,3)                                 | 12 e (8,16)                             | 23 d (18,27)                            |
+| Worst Pruritus NRS c (≥ 4-point improvement) | 12 (8,16)                               | 52 d (46,58)                            | 60 d (54,66)                            | 9 (6,13)                                | 42 d (36,48)                            | 60 d (54,65)                            | 15 (11,19)                              | 52 d (46,58)                            | 64 d (58,69)                            |
+
+<div style=\"page-break-after: always\"></div>
+
+| Early onset endpoints, %responders (95% CI)              | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   | Early onset endpoints, %responders (95% CI)   |
+|----------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| EASI 75 a (Week 2)                                       | 4 (1,6)                                       | 38 d (32,44)                                  | 47 d (42,53)                                  | 4 (1,6)                                       | 33 d (27,39)                                  | 44 d (38,50)                                  | 7 (4,10)                                      | 31 d (26,36)                                  | 44 d (38,50)                                  |
+| Worst Pruritus NRS (≥ 4-point improvement at week 1) c,f | 0 (0,1)                                       | 15 d (11,19)                                  | 20 d (15,24)                                  | 1 (0,2)                                       | 7 d (4,11)                                    | 16 d (11,20)                                  | 3 (1,5)                                       | 12 d (8,16)                                   | 19 d (15,24)                                  |
 
 Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo
 
 Subjects with rescue medication or with missing data were counted as non-responders. The number and percentage of subjects who were imputed as non-responders for EASI 75 and vIGA-AD 0/1 at Week 16 due to the use of rescue therapy in the placebo, upadacitinib 15 mg, and upadacitinib 30 mg groups, respectively, were 132 (47.0%), 31 (11.0%), 16 (5.6%) in MEASURE UP 1, 119 (42.8%), 24 (8.7%), 16 (5.7%) in MEASURE UP 2, and 78 (25.7%), 15 (5.0%), 14 (4.7%) in AD UP.
 
-a Based on number of subjects randomised
-
-b Responder was defined as a patient with vIGA-AD 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on a 0-4 ordinal scale
-
-<div style=\"page-break-after: always\"></div>
-
+- a Based on number of subjects randomised
+- b Responder was defined as a patient with vIGA-AD 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on a 0-4 ordinal scale
 - c Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline)
 - d Statistically significant vs. placebo with p &lt; 0.001
 - e p &lt; 0.001 vs placebo, without multiplicity control
@@ -1245,9 +1255,11 @@ Figure 1 Proportion of patients achieving an EASI 75 response and mean percent c
 
 Treatment effects in subgroups (weight, age, gender, race, and prior systemic treatment with immunosuppressants) were consistent with the results in the overall study population.
 
+<div style=\"page-break-after: always\"></div>
+
 Results at week 16 continued to be maintained through week 52 in patients treated with upadacitinib 15 mg or 30 mg.
 
-Quality of life/patient-reported outcomes Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo; DLQI = Dermatology Life Quality Index; HADS = Hospital Anxiety and Depression Scale Subjects with rescue medication or with missing data were counted as non-responders. The threshold values specified correspond to the minimal clinically important difference (MCID) and was used to determine response.
+Quality of life/patient-reported outcomes
 
 Table 14 Patient-reported outcomes results of upadacitinib at week 16
 
@@ -1257,14 +1269,15 @@ Table 14 Patient-reported outcomes results of upadacitinib at week 16
 | Number of subjects randomised                | 281                  | 281                  | 285                  | 278                  | 276                  | 282                  |
 | %responders (95% CI)                         | %responders (95% CI) | %responders (95% CI) | %responders (95% CI) | %responders (95% CI) | %responders (95% CI) | %responders (95% CI) |
 | ADerm-SS Skin Pain (≥ 4-point improvement) a | 15 (10,20)           | 54 e (47,60)         | 63 e (57,69)         | 13 (9,18)            | 49 e (43,56)         | 65 e (59,71)         |
+| ADerm-IS Sleep (≥ 12-point improvement) a,b  | 13 (9,18)            | 55 e (48,62)         | 66 e (60,72)         | 12 (8,17)            | 50 e (44,57)         | 62 e (56,69)         |
+| DLQI 0/1 c                                   | 4 (2,7)              | 30 e (25,36)         | 41 e (35,47)         | 5 (2,7)              | 24 e (19,29)         | 38 e (32,44)         |
+| HADS Anxiety <8 and HADS Depression < 8 d    | 14 (8,20)            | 46 e (37,54)         | 49 e (41,57)         | 11 (6,17)            | 46 e (38,54)         | 56 e (48,64)         |
 
-<div style=\"page-break-after: always\"></div>
+Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo; DLQI = Dermatology Life Quality Index; HADS = Hospital Anxiety and Depression Scale
 
-| Study                                       | MEASURE UP 1   | MEASURE UP 1   | MEASURE UP 1   | MEASURE UP 2   | MEASURE UP 2   | MEASURE UP 2   |
-|---------------------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| ADerm-IS Sleep (≥ 12-point improvement) a,b | 13 (9,18)      | 55 e (48,62)   | 66 e (60,72)   | 12 (8,17)      | 50 e (44,57)   | 62 e (56,69)   |
-| DLQI 0/1 c                                  | 4 (2,7)        | 30 e (25,36)   | 41 e (35,47)   | 5 (2,7)        | 24 e (19,29)   | 38 e (32,44)   |
-| HADS Anxiety <8 and HADS Depression < 8 d   | 14 (8,20)      | 46 e (37,54)   | 49 e (41,57)   | 11 (6,17)      | 46 e (38,54)   | 56 e (48,64)   |
+Subjects with rescue medication or with missing data were counted as non-responders.
+
+The threshold values specified correspond to the minimal clinically important difference (MCID) and was used to determine response.
 
 - a Results shown in subset of patients eligible for assessment (patients with assessment score &gt; MCID at baseline).
 - b ADerm-IS Sleep assesses difficulty falling asleep, sleep impact, and waking up at night due to AD.
@@ -1278,54 +1291,51 @@ The efficacy and safety of upadacitinib was evaluated in three multicentre, doub
 
 Disease activity was based on the adapted Mayo score (aMS, Mayo scoring system excluding Physician's Global Assessment), which ranged from 0 to 9 and has three subscores that were each scored 0 (normal) to 3 (most severe): stool frequency subscore (SFS), rectal bleeding subscore (RBS) and a centrally-reviewed endoscopy subscore (ES).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Induction studies (UC-1 and UC-2)
 
 In UC-1 and UC-2, 988 patients (473 and 515 patients, respectively) were randomised to upadacitinib 45 mg once daily or placebo for 8 weeks with a 2:1 treatment allocation ratio and included in the efficacy analysis. All enrolled patients had moderately to severely active ulcerative colitis defined as an aMS of 5 to 9 with an ES of 2 or 3 and demonstrated prior treatment failure including inadequate response, loss of response, or intolerance to prior conventional and/or biologic treatment. Prior treatment failure to at least 1 biologic therapy (prior biologic failure) was seen in 52% (246/473) and 51% (262/515) of patients, respectively. Previous treatment failure to conventional therapy but not biologics (without prior biologic failure) was seen in 48% (227/473) and 49% (253/515) of patients, respectively.
 
 At baseline in UC-1 and UC-2, 39% and 37% of patients received corticosteroids, 1.1% and 0.6% of patients received methotrexate and 68% and 69% of patients received aminosalicylates. Concomitant use of thiopurine was not allowed during the studies. Patient disease activity was moderate (aMS ≥5, ≤7) in 61% and 60% of patients and severe (aMS &gt;7) in 39% and 40% of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 The primary endpoint was clinical remission per aMS at week 8. Table 15 shows the primary and key secondary endpoints including clinical response, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
 
 Table 15 Proportion of patients meeting primary and key secondary efficacy endpoints at week 8 in the induction studies UC-1 and UC-2
 
-|                                         | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)              | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)           |
-|-----------------------------------------|--------------------|--------------------|-------------------------------|-----------------------|-----------------------|-------------------------------|
-| Endpoint                                | PBO N=154          | UPA 45 mg N=319    | Treatment Difference (95% CI) | PBO N=174             | UPA 45 mg N=341       | Treatment Difference (95% CI) |
-| Clinical remission a                    | 4.8%               | 26.1%              | 21.6%* (15.8, 27.4)           | 4.1%                  | 33.5%                 | 29.0%* (23.2, 34.7)           |
-| Prior biologic failure +                | 0.4%               | 17.9%              | 17.5%                         | 2.4%                  | 29.6%                 | 27.1%                         |
-| Without prior biologic failure +        | 9.2%               | 35.2%              | 26.0%                         | 5.9%                  | 37.5%                 | 31.6%                         |
-| Clinical response b                     | 27.3%              | 72.6%              | 46.3%* (38.4, 54.2)           | 25.4%                 | 74.5%                 | 49.4%* (41.7, 57.1)           |
-| Prior biologic failure +                | 12.8%              | 64.4%              | 51.6%                         | 19.3%                 | 69.4%                 | 50.1%                         |
-| Without prior biologic failure +        | 42.1%              | 81.8%              | 39.7%                         | 31.8%                 | 79.8%                 | 48.0%                         |
-| Mucosal healing c                       | 7.4%               | 36.3%              | 29.3%* (22.6, 35.9)           | 8.3%                  | 44.0%                 | 35.1%* (28.6, 41.6)           |
-| Prior biologic failure +                | 1.7%               | 27.0%              | 25.3%                         | 4.8%                  | 37.1%                 | 32.3%                         |
-| Without prior biologic failure +        | 13.2%              | 46.8%              | 33.6%                         | 12.0%                 | 51.2%                 | 39.2%                         |
-| Histologic-endoscopic mucosal healing d | 6.6%               | 30.1%              | 23.7%* (17.5, 30.0)           | 5.9%                  | 36.7%                 | 30.1%* (24.1, 36.2)           |
-| Prior biologic failure +                | 1.4%               | 22.7%              | 21.3%                         | 4.6%                  | 30.7%                 | 26.1%                         |
-| Without prior biologic failure +        | 11.8%              | 38.2%              | 26.4%                         | 7.2%                  | 42.9%                 | 35.7%                         |
-| Deep mucosal healing e                  | 1.3%               | 10.7%              | 9.7%* (5.7, 13.7)             | 1.7%                  | 13.5%                 | 11.3%* (7.2, 15.3)            |
-| Prior biologic failure +                | 0                  | 6.5%               | 6.5%                          | 1.1%                  | 9.2%                  | 8.1%                          |
-| Without prior biologic failure +        | 2.6%               | 15.4%              | 12.8%                         | 2.4%                  | 17.9%                 | 15.5%                         |
+|                                  | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)              | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)           |
+|----------------------------------|--------------------|--------------------|-------------------------------|-----------------------|-----------------------|-------------------------------|
+| Endpoint                         | PBO N=154          | UPA 45 mg N=319    | Treatment Difference (95% CI) | PBO N=174             | UPA 45 mg N=341       | Treatment Difference (95% CI) |
+| Clinical remission a             | 4.8%               | 26.1%              | 21.6%* (15.8, 27.4)           | 4.1%                  | 33.5%                 | 29.0%* (23.2, 34.7)           |
+| Prior biologic failure +         | 0.4%               | 17.9%              | 17.5%                         | 2.4%                  | 29.6%                 | 27.1%                         |
+| Without prior biologic failure + | 9.2%               | 35.2%              | 26.0%                         | 5.9%                  | 37.5%                 | 31.6%                         |
+| Clinical response b              | 27.3%              | 72.6%              | 46.3%* (38.4, 54.2)           | 25.4%                 | 74.5%                 | 49.4%* (41.7, 57.1)           |
+| Prior biologic failure +         | 12.8%              | 64.4%              | 51.6%                         | 19.3%                 | 69.4%                 | 50.1%                         |
+| Without prior biologic failure + | 42.1%              | 81.8%              | 39.7%                         | 31.8%                 | 79.8%                 | 48.0%                         |
+| Mucosal healing c                | 7.4%               | 36.3%              | 29.3%* (22.6, 35.9)           | 8.3%                  | 44.0%                 | 35.1%* (28.6, 41.6)           |
+| Prior biologic failure +         | 1.7%               | 27.0%              | 25.3%                         | 4.8%                  | 37.1%                 | 32.3%                         |
+| Without prior biologic failure + | 13.2%              | 46.8%              | 33.6%                         | 12.0%                 | 51.2%                 | 39.2%                         |
 
 <div style=\"page-break-after: always\"></div>
+
+| Histologic-endoscopic mucosal healing d   | 6.6%   | 30.1%   | 23.7%* (17.5, 30.0)   | 5.9%   | 36.7%   | 30.1%* (24.1, 36.2)   |
+|-------------------------------------------|--------|---------|-----------------------|--------|---------|-----------------------|
+| Prior biologic failure +                  | 1.4%   | 22.7%   | 21.3%                 | 4.6%   | 30.7%   | 26.1%                 |
+| Without prior biologic failure +          | 11.8%  | 38.2%   | 26.4%                 | 7.2%   | 42.9%   | 35.7%                 |
+| Deep mucosal healing e                    | 1.3%   | 10.7%   | 9.7%* (5.7, 13.7)     | 1.7%   | 13.5%   | 11.3%* (7.2, 15.3)    |
+| Prior biologic failure +                  | 0      | 6.5%    | 6.5%                  | 1.1%   | 9.2%    | 8.1%                  |
+| Without prior biologic failure +          | 2.6%   | 15.4%   | 12.8%                 | 2.4%   | 17.9%   | 15.5%                 |
 
 Abbreviations: PBO = placebo; UPA= upadacitinib; aMS = adapted Mayo Score, based on the Mayo Scoring system (excluding Physician's Global Assessment), which ranged from 0 to 9 and has three subscores that were each scored 0 (normal) to 3 (most severe): stool frequency subscore (SFS), rectal bleeding subscore (RBS) and a centrally-reviewed endoscopy subscore (ES).
 
 + The number of 'Prior biologic failure' patients in UC-1 and UC-2 are 78 and 89 in the placebo group, and 168 and 173 in the upadacitinib 45 mg group, respectively; the number of 'Without prior biologic failure' patients in UC-1 and UC-2 are 76 and 85 in the placebo group, and 151 and 168 in the upadacitinib 45 mg group, respectively.
 
 * p &lt;0.001, adjusted treatment difference (95% CI)
-
-a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
-
-b Per aMS: decrease ≥ 2 points and ≥ 30% from baseline and a decrease in RBS ≥ 1 from baseline or an absolute RBS ≤ 1.
-
-c ES ≤ 1 without friability
-
-d ES ≤ 1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue.)
-
-e ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations, or granulation tissue)
+- a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
+- b Per aMS: decrease ≥ 2 points and ≥ 30% from baseline and a decrease in RBS ≥ 1 from baseline or an absolute RBS ≤ 1.
+- c ES ≤ 1 without friability
+- d ES ≤ 1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue.)
+- e ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations, or granulation tissue)
 
 ## Disease activity and symptoms
 
@@ -1339,9 +1349,9 @@ A total of 125 patients in UC-1 and UC-2 who did not achieve clinical response a
 
 The efficacy analysis for UC-3 was evaluated in 451 patients who achieved clinical response per aMS with 8-week upadacitinib 45 mg once daily induction treatment. Patients were randomised to receive upadacitinib 15 mg, 30 mg or placebo once daily for up to 52 weeks.
 
-The primary endpoint was clinical remission per aMS at week 52. Table 16 shows the key secondary endpoints including maintenance of clinical remission, corticosteroid-free clinical remission, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
-
 <div style=\"page-break-after: always\"></div>
+
+The primary endpoint was clinical remission per aMS at week 52. Table 16 shows the key secondary endpoints including maintenance of clinical remission, corticosteroid-free clinical remission, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
 
 Table 16 Proportion of patients meeting primary and key secondary efficacy endpoints at week 52 in the maintenance study UC-3
 
@@ -1369,15 +1379,18 @@ Table 16 Proportion of patients meeting primary and key secondary efficacy endpo
 Abbreviations: PBO = placebo; UPA= upadacitinib; aMS = adapted Mayo Score, based on the Mayo Scoring system (excluding Physician's Global Assessment), which ranged from 0 to 9 and has three subscores that were each scored 0 (normal) to 3 (most severe): stool frequency subscore (SFS), rectal bleeding subscore (RBS) and a centrally-reviewed endoscopy subscore (ES).
 
 + The number of 'Prior biologic failure' patients are 81, 71, and 73 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively. The number of 'Without prior biologic failure' patients are 68, 77, and 81 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively.
+
 * p &lt;0.001, adjusted treatment difference (95% CI)
 - a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
 - b Clinical remission per aMS at Week 52 among patients who achieved clinical remission at the end of induction treatment.
 - c Clinical remission per aMS at Week 52 and corticosteroid-free for ≥90 days immediately preceding Week 52 among patients who achieved clinical remission at the end of the induction treatment.
-- d ES ≤1 without friability
-- e ES ≤1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt;5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue).
-- f ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations or granulation tissue).
+
+d ES ≤1 without friability
 
 <div style=\"page-break-after: always\"></div>
+
+- e ES ≤1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt;5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue).
+- f ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations or granulation tissue).
 
 ## Disease symptoms
 
@@ -1395,11 +1408,11 @@ Endoscopic remission (normalisation of the endoscopic appearance of the mucosa) 
 
 Patients treated with upadacitinib demonstrated significantly greater and clinically meaningful improvement in health-related quality of life measured by the Inflammatory Bowel Disease Questionnaire (IBDQ) total score compared to placebo. Improvements were seen in all 4 domain scores: systemic symptoms (including fatigue), social function, emotional function and bowel symptoms (including abdominal pain and bowel urgency). Changes in IBDQ total score at week 8 from baseline with upadacitinib 45 mg once daily compared to placebo were 55.3 and 21.7 in UC-1 and 52.2 and 21.1 in UC-2, respectively. Changes in IBDQ total score at week 52 from baseline were 49.2, 58.9 and 17.9 in patients treated with upadacitinib 15 mg, 30 mg once daily and placebo, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Long-term extension study (UC-4)
 
 Patients who achieved clinical remission in UC-3 per aMS at 1 year were eligible to continue with the same dose in the extension study (UC-4). At the entry of UC-4, there were 96 and 146 patients in clinical remission and 49 and 82 patients in endoscopic remission with upadacitinib 15 mg and 30 mg, respectively. This population is partly, but not fully, overlapping with the population presented in the above table depicting proportion of patients meeting endpoints at week 52 in the maintenance study UC-3. Among patients who achieved remission in UC-3 per aMS at 1 year and had available 96 weeks data, 55/70 (78.6%) and 75/89 (84.3%) maintained clinical remission and 22/34 (64.7%) and 40/54 (74.1%) maintained endoscopic remission after 96 weeks of additional treatment with upadacitinib 15 mg and 30 mg, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 In patients entering the extension study upon completion of UC-3 (1 year) and had available 96 weeks data, improvements in IBDQ total scores and in IBDQ domain scores were maintained through week 96 of UC-4.
 
@@ -2295,9 +2308,9 @@ rinvoq 15 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOF THE MEDICINAL PRODUCT   |
 |------|--------------------------------|
@@ -2715,7 +2728,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 rinvoq 30 mg
 
@@ -2921,8 +2934,6 @@ Lot
 
 87
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 Blister/Bottle Carton
@@ -2964,6 +2975,8 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -3738,25 +3751,3 @@ Detailed and updated information on this product is also available by scanning t
 ## QR code to be included
 
 To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for upadacitinib, the scientific conclusions of PRAC are as follows:
-
-In view of available data on semen discolouration from clinical trial(s) and spontaneous reports including, in 6 cases a positive rechallenge and, in 3 cases a positive dechallenge, the PRAC considers that a causal relationship between upadacitinib and semen discolouration is at least a reasonable possibility. The PRAC concluded that the product information of products containing upadacitinib should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for upadacitinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing upadacitinib is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

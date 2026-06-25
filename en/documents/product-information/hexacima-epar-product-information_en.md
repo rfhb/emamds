@@ -1,21 +1,25 @@
 ---
-document_datetime: 2025-09-29 13:31:21
-document_pages: 52
+document_datetime: 2026-06-22 16:28:21
+document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hexacima-epar-product-information_en.pdf
 document_name: hexacima-epar-product-information_en.pdf
 version: success
-processing_time: 14.5688726
-conversion_datetime: 2025-12-23 22:16:33.418761
+processing_time: 16.3135866
+conversion_datetime: 2026-06-25 17:15:48.858737
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+This document is the approved product information for Hexyon, with the changes since the previous procedure affecting the product information (EMA/N/0000296772) tracked.
+
+For more information, see the European Medicines Agency's website: https://www.ema.europa.eu/en/medicines/human/EPAR/hexyon
+
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
@@ -24,7 +28,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Hexacima suspension for injection in pre-filled syringe Hexacima suspension for injection
+Hexyon suspension for injection in pre-filled syringe Hexyon suspension for injection
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed).
 
@@ -32,33 +36,19 @@ Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), polio
 
 One dose 1 (0.5 mL) contains:
 
-| Diphtheria Toxoid                                                           | not less than 20 IU 2,4 (30 Lf)   |
-|-----------------------------------------------------------------------------|-----------------------------------|
-| Tetanus Toxoid                                                              | not less than 40 IU 3,4 (10 Lf)   |
-| Bordetella pertussis antigens                                               |                                   |
-| Pertussis Toxoid                                                            | 25 micrograms                     |
-| Filamentous Haemagglutinin                                                  | 25 micrograms                     |
-| Poliovirus (Inactivated) 5                                                  |                                   |
-| Type 1 (Mahoney)                                                            | 29 D-antigen units 6              |
-| Type 2 (MEF-1)                                                              | 7 D-antigen units 6               |
-| Type 3 (Saukett)                                                            | 26 D-antigen units 6              |
-| Hepatitis B surface antigen 7                                               | 10 micrograms                     |
-| Haemophilus influenzae type b polysaccharide (Polyribosylribitol Phosphate) | 12 micrograms                     |
-| conjugated to Tetanus protein                                               | 22-36 micrograms                  |
-
-1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
-
-2 As lower confidence limit (p= 0.95) and not less than 30 IU as mean value
-
-3 As lower confidence limit (p= 0.95)
-
-4 Or equivalent activity determined by an immunogenicity evaluation
-
-5 Cultivated on Vero cells
-
-6 These antigen quantities are strictly the same as those previously expressed as 40-8-32 D-antigen units, for virus type 1, 2 and 3 respectively, when measured by another suitable immunochemical method
-
-7 Produced in yeast Hansenula polymorpha cells by recombinant DNA technology
+| Diphtheria Toxoid                                                           | not less than 20 IU 2,4 (30 Lf) 3,4   |
+|-----------------------------------------------------------------------------|---------------------------------------|
+| Tetanus Toxoid                                                              | not less than 40 IU (10 Lf)           |
+| Bordetella pertussis antigens                                               |                                       |
+| Pertussis Toxoid                                                            | 25 micrograms                         |
+| Filamentous Haemagglutinin                                                  | 25 micrograms                         |
+| Poliovirus (Inactivated) 5                                                  |                                       |
+| Type 1 (Mahoney)                                                            | 29 D-antigen units 6                  |
+| Type 2 (MEF-1)                                                              | 7 D-antigen units 6                   |
+| Type 3 (Saukett)                                                            | 26 D-antigen units 6                  |
+| Hepatitis B surface antigen 7                                               | 10 micrograms                         |
+| Haemophilus influenzae type b polysaccharide (Polyribosylribitol Phosphate) | 12 micrograms                         |
+| conjugated to Tetanus protein                                               | 22-36 micrograms                      |
 
 The vaccine may contain traces of glutaraldehyde, formaldehyde, neomycin, streptomycin and polymyxin B which are used during the manufacturing process (see section 4.3).
 
@@ -74,7 +64,7 @@ For the full list of excipients, see section 6.1.
 
 Suspension for injection.
 
-Hexacima is a whitish, cloudy suspension.
+Hexyon is a whitish, cloudy suspension.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -82,7 +72,7 @@ Hexacima is a whitish, cloudy suspension.
 
 ## 4.1 Therapeutic indications
 
-Hexacima (DTaP-IPV-HB-Hib) is indicated for primary and booster vaccination of infants and toddlers from six weeks of age against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and invasive diseases caused by Haemophilus influenzae type b (Hib).
+Hexyon (DTaP-IPV-HB-Hib) is indicated for primary and booster vaccination of infants and toddlers from six weeks of age against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and invasive diseases caused by Haemophilus influenzae type b (Hib).
 
 The use of this vaccine should be in accordance with official recommendations.
 
@@ -98,22 +88,22 @@ All vaccination schedules including the WHO Expanded Program on Immunisation (EP
 
 Where a dose of hepatitis B vaccine is given at birth;
 
-- -Hexacima can be used for supplementary doses of hepatitis B vaccine from the age of 6 weeks. If a second dose of hepatitis B vaccine is required before this age, monovalent hepatitis B vaccine should be used.
-- -Hexacima can be used for a mixed hexavalent/pentavalent/hexavalent combined vaccine immunisation schedule in accordance with official recommendations.
+- -Hexyon can be used for supplementary doses of hepatitis B vaccine from the age of 6 weeks. If a second dose of hepatitis B vaccine is required before this age, monovalent hepatitis B vaccine should be used.
+- -Hexyon can be used for a mixed hexavalent/pentavalent/hexavalent combined vaccine immunisation schedule in accordance with official recommendations.
 
 ## Booster vaccination
 
-After a 2-dose primary vaccination with Hexacima, a booster dose must be given. After a 3-dose primary vaccination with Hexacima, a booster dose should be given.
+After a 2-dose primary vaccination with Hexyon, a booster dose must be given. After a 3-dose primary vaccination with Hexyon, a booster dose should be given.
 
 Booster doses should be given at least 6 months after the last priming dose and in accordance with the official recommendations. As a minimum, a dose of Hib vaccine must be administered.
 
 ## In addition:
 
-In the absence of hepatitis B vaccination at birth, it is necessary to give a hepatitis B vaccine booster dose. Hexacima can be considered for the booster.
+In the absence of hepatitis B vaccination at birth, it is necessary to give a hepatitis B vaccine booster dose. Hexyon can be considered for the booster.
 
-When a hepatitis B vaccine is given at birth, after a 3-dose primary vaccination, Hexacima or a pentavalent DTaP-IPV/Hib vaccine can be administered for the booster.
+When a hepatitis B vaccine is given at birth, after a 3-dose primary vaccination, Hexyon or a pentavalent DTaP-IPV/Hib vaccine can be administered for the booster.
 
-Hexacima may be used as a booster in individuals who have previously been vaccinated with another hexavalent vaccine or a pentavalent DTaP-IPV/Hib vaccine associated with a monovalent hepatitis B vaccine.
+Hexyon may be used as a booster in individuals who have previously been vaccinated with another hexavalent vaccine or a pentavalent DTaP-IPV/Hib vaccine associated with a monovalent hepatitis B vaccine.
 
 ## WHO-EPI schedule (6, 10, 14 weeks):
 
@@ -121,13 +111,13 @@ After a WHO-EPI schedule, a booster dose should be given
 
 - -As a minimum, a booster dose of polio vaccine should be given
 - -In absence of hepatitis B vaccine at birth, a hepatitis B vaccine booster must be given
-- -Hexacima can be considered for the booster
+- -Hexyon can be considered for the booster
 
 ## Other paediatric population
 
-The safety and efficacy of Hexacima in infants less than 6 weeks of age have not been established. No data are available.
+The safety and efficacy of Hexyon in infants less than 6 weeks of age have not been established. No data are available.
 
-No data are available in older children (see sections 4.8 and 5.1).
+No data are available in older children (see sections 4.8 and 5.1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -139,13 +129,13 @@ For instructions on handling, see section 6.6.
 
 ## 4.3 Contraindications
 
-History of an anaphylactic reaction after a previous administration of Hexacima.
+History of an anaphylactic reaction after a previous administration of Hexyon.
 
-Hypersensitivity to the active substances, to any of the excipients listed in section 6.1, to trace residuals (glutaraldehyde, formaldehyde, neomycin, streptomycin and polymyxin B), to any pertussis vaccine, or after previous administration of Hexacima or a vaccine containing the same components or constituents.
+Hypersensitivity to the active substances, to any of the excipients listed in section 6.1, to trace residuals (glutaraldehyde, formaldehyde, neomycin, streptomycin and polymyxin B), to any pertussis vaccine, or after previous administration of Hexyon or a vaccine containing the same components or constituents.
 
-Vaccination with Hexacima is contraindicated if the individual has experienced an encephalopathy of unknown aetiology, occurring within 7 days following prior vaccination with a pertussis containing vaccine (whole cell or acellular pertussis vaccines).
+Vaccination with Hexyon is contraindicated if the individual has experienced an encephalopathy of unknown aetiology, occurring within 7 days following prior vaccination with a pertussis containing vaccine (whole cell or acellular pertussis vaccines). In these circumstances pertussis vaccination should be discontinued and the vaccination course should
 
-In these circumstances pertussis vaccination should be discontinued and the vaccination course should be continued with diphtheria, tetanus, hepatitis B, poliomyelitis and Hib vaccines.
+be continued with diphtheria, tetanus, hepatitis B, poliomyelitis and Hib vaccines.
 
 Pertussis vaccine should not be administered to individuals with uncontrolled neurologic disorder or uncontrolled epilepsy until treatment for the condition has been established, the condition has stabilised and the benefit clearly outweighs the risk.
 
@@ -155,34 +145,32 @@ Pertussis vaccine should not be administered to individuals with uncontrolled ne
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-Hexacima will not prevent disease caused by pathogens other than Corynebacterium diphtheriae , Clostridium tetani , Bordetella pertussis , hepatitis B virus, poliovirus or Haemophilus influenzae type b. However, it can be expected that hepatitis D will be prevented by immunisation as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection. Hexacima will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C and hepatitis E or by other liver pathogens.
+Hexyon will not prevent disease caused by pathogens other than Corynebacterium diphtheriae , Clostridium tetani , Bordetella pertussis , hepatitis B virus, poliovirus or Haemophilus influenzae type b. However, it can be expected that hepatitis D will be prevented by immunisation as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection. Hexyon will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C and hepatitis E or by other liver pathogens.
 
 Because of the long incubation period of hepatitis B, it is possible for unrecognised hepatitis B infection to be present at the time of vaccination. The vaccine may not prevent hepatitis B infection in such cases.
 
-Hexacima does not protect against infectious diseases caused by other types of Haemophilus influenzae or against meningitis of other origins.
+Hexyon does not protect against infectious diseases caused by other types of Haemophilus influenzae or against meningitis of other origins.
 
 ## Prior to immunisation
 
 Immunisation should be postponed in individuals suffering from moderate to severe acute febrile illness or infection. The presence of a minor infection and/or low-grade fever should not result in the deferral of vaccination.
 
-Vaccination should be preceded by a review of the person's medical history (in particular previous vaccinations and possible adverse reactions). The administration of Hexacima must be carefully
+Vaccination should be preceded by a review of the person's medical history (in particular previous vaccinations and possible adverse reactions). The administration of Hexyon must be carefully considered in individuals who have a history of serious or severe reactions within 48 hours following administration of a vaccine containing similar components.
 
 <div style=\"page-break-after: always\"></div>
-
-considered in individuals who have a history of serious or severe reactions within 48 hours following administration of a vaccine containing similar components.
 
 Before the injection of any biological medicinal product, the person responsible for administration must take all precautions known for the prevention of allergic or any other reactions. As with all injectable vaccines, appropriate medical treatment and supervision should always be readily available in case of an anaphylactic reaction following administration of the vaccine.
 
 If any of the following events are known to have occurred after receiving any pertussis containing vaccine, the decision to give further doses of pertussis containing vaccine should be carefully considered:
 
-- Temperature of ≥40°C within 48 hours of vaccination not due to another identifiable cause;
+- Temperature of ≥ 40°C within 48 hours of vaccination not due to another identifiable cause;
 - Collapse or shock-like state (hypotonic-hyporesponsive episode) within 48 hours of vaccination;
-- Persistent, inconsolable crying lasting ≥3 hours, occurring within 48 hours of vaccination;
+- Persistent, inconsolable crying lasting ≥ 3 hours, occurring within 48 hours of vaccination;
 - Convulsions with or without fever, occurring within 3 days of vaccination.
 
 There may be some circumstances, such as high incidence of pertussis, when the potential benefits outweigh possible risks.
 
-A history of febrile convulsions, a family history of convulsions or Sudden Infant Death Syndrome (SIDS) do not constitute a contraindication for the use of Hexacima. Individuals with a history of febrile convulsions should be closely followed up as such adverse events may occur within 2 to 3 days post vaccination.
+A history of febrile convulsions, a family history of convulsions or Sudden Infant Death Syndrome (SIDS) do not constitute a contraindication for the use of Hexyon. Individuals with a history of febrile convulsions should be closely followed up as such adverse events may occur within 2 to 3 days post vaccination.
 
 If Guillain-Barré syndrome or brachial neuritis has occurred following receipt of prior vaccine containing tetanus toxoid, the decision to give any vaccine containing tetanus toxoid should be based on careful consideration of the potential benefits and possible risks, such as whether or not the primary vaccination has been completed. Vaccination is usually justified for individuals whose primary vaccination is incomplete (i.e. fewer than three doses have been received).
 
@@ -190,17 +178,17 @@ The immunogenicity of the vaccine may be reduced by immunosuppressive treatment 
 
 ## Special populations
 
-Immunogenicity data are available for 105 preterm infants. These data support the use of Hexacima in preterm infants. As expected in preterm infants, lower immune response has been observed for some antigens, when indirectly compared to term infants, although seroprotective levels have been achieved (see section 5.1). No safety data were collected in preterm infants (born ≤37 weeks of gestation) in clinical trials.
+Immunogenicity data are available for 248 preterm infants. These data support the use of Hexyon in preterm infants. As expected in preterm infants, lower immune response has been observed for some antigens, when indirectly compared to term infants, although seroprotective levels have been achieved (see section 5.1).
 
-The potential risk of apnoea and the need for respiratory monitoring for 48 to 72 hours should be considered when administering the primary immunisation series to very premature infants (born ≤28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of infants, vaccination should not be withheld or delayed.
+The potential risk of apnoea and the need for respiratory monitoring for 48 to 72 hours should be considered when administering the primary immunisation series to very premature infants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of infants, vaccination should not be withheld or delayed.
 
 Immune responses to the vaccine have not been studied in the context of genetic polymorphism.
 
 In individuals with chronic renal failure, an impaired hepatitis B response is observed and administration of additional doses of hepatitis B vaccine should be considered according to the antibody level against hepatitis B virus surface antigen (anti-HBsAg).
 
-<div style=\"page-break-after: always\"></div>
+Immunogenicity data in HIV-exposed infants (infected and uninfected) showed that Hexyon is immunogenic in the potentially immunodeficient population of HIV-exposed infants whatever their HIV status at birth (see section 5.1). No specific safety concern was observed in this population.
 
-Immunogenicity data in HIV-exposed infants (infected and uninfected) showed that Hexacima is immunogenic in the potentially immunodeficient population of HIV-exposed infants whatever their HIV status at birth (see section 5.1). No specific safety concern was observed in this population.
+<div style=\"page-break-after: always\"></div>
 
 ## Precautions for use
 
@@ -214,19 +202,19 @@ Syncope can occur following, or even before, any vaccination as a psychogenic re
 
 Since the Hib capsular polysaccharide antigen is excreted in the urine, a positive urine test can be observed within 1 to 2 weeks following vaccination. Other tests should be performed in order to confirm Hib infection during this period.
 
-## Hexacima contains phenylalanine, potassium and sodium
+## Hexyon contains phenylalanine, potassium and sodium
 
-Hexacima contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful for individuals with phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
+Hexyon contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful for individuals with phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
-Hexacima contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
+Hexyon contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Hexacima can be administered simultaneously with a pneumococcal polysaccharide conjugate vaccine, measles, mumps, rubella (MMR) and varicella-containing vaccines, rotavirus vaccines, a meningococcal C conjugate vaccine or a meningococcal group A, C, W-135 and Y conjugate vaccine, as no clinically relevant interference in the antibody response to each of the antigens has been shown.
+Hexyon can be administered simultaneously with a pneumococcal polysaccharide conjugate vaccine, measles, mumps, rubella (MMR) and varicella-containing vaccines, rotavirus vaccines, a meningococcal C conjugate vaccine or a meningococcal group A, C, W-135 and Y conjugate vaccine, as no clinically relevant interference in the antibody response to each of the antigens has been shown.
 
 If co-administration with another vaccine is considered, immunisation should be carried out on separate injection sites.
 
-Hexacima must not be mixed with any other vaccines or other parenterally administered medicinal products.
+Hexyon must not be mixed with any other vaccines or other parenterally administered medicinal products.
 
 No significant clinical interaction with other treatments or biological products has been reported except in the case of immunosuppressive therapy (see section 4.4).
 
@@ -240,29 +228,27 @@ Not applicable. This vaccine is not intended for administration to women of chil
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
-## Summary of the safety profile
+Summary of the safety profile In clinical studies in individuals who received Hexyon, the most frequently reported reactions include injection-site pain, irritability, crying, and injection-site erythema.
 
-In clinical studies in individuals who received Hexacima, the most frequently reported reactions include injection-site pain, irritability, crying, and injection-site erythema.
+<div style=\"page-break-after: always\"></div>
 
 Slightly higher solicited reactogenicity was observed after the first dose compared to subsequent doses.
 
-The safety of Hexacima in children over 24 months of age has not been studied in clinical trials.
+The safety of Hexyon in children over 24 months of age has not been studied in clinical trials.
 
 ## Tabulated list of adverse reactions
 
 The following convention has been used for the classification of adverse reactions;
 
-Very common (≥1/10)
+Very common ( ≥ 1/10)
 
-Common (≥1/100 to &lt;1/10)
+Common ( ≥ 1/100 to &lt;1/10)
 
-Uncommon (≥1/1 000 to &lt;1/100)
+Uncommon ( ≥ 1/1 000 to &lt;1/100)
 
-Rare (≥1/10 000 to &lt;1/1 000)
+Rare ( ≥ 1/10 000 to &lt;1/1 000)
 
 Very rare (&lt;1/10 000)
 
@@ -272,50 +258,48 @@ Within each frequency grouping the adverse reactions are presented in the order 
 
 Table 1: Adverse Reactions from clinical trials and post marketing surveillance
 
-| System Organ Class                                   | Frequency   | Adverse Events                                                                                                        |
-|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                              | Uncommon    | Hypersensitivity reaction                                                                                             |
-| Immune system disorders                              | Rare        | Anaphylactic reaction*                                                                                                |
-| Metabolism and nutrition disorders                   | Very common | Anorexia (decreased appetite)                                                                                         |
-| Nervous system disorders                             | Very common | Crying, somnolence                                                                                                    |
-| Nervous system disorders                             | Common      | Abnormal crying (prolonged crying)                                                                                    |
-| Nervous system disorders                             | Rare        | Convulsions with or without fever*                                                                                    |
-| Nervous system disorders                             | Very rare   | Hypotonic reactions or hypotonic- hyporesponsive episodes (HHE)                                                       |
-| Gastrointestinal disorders                           | Very common | Vomiting                                                                                                              |
-| Gastrointestinal disorders                           | Common      | Diarrhoea                                                                                                             |
-| Skin and subcutaneous tissue disorders               | Rare        | Rash                                                                                                                  |
-| General disorders and administration site conditions | Very common | Pyrexia (body temperature ≥38.0°C) Irritability Injection-site pain, injection-site erythema, injection-site swelling |
-| General disorders and administration site conditions | Common      | Injection-site induration                                                                                             |
-| General disorders and administration site conditions | Uncommon    | Pyrexia (body temperature ≥39.6°C) Injection-site nodule                                                              |
-| General disorders and administration site conditions | Rare        | Extensive limb swelling†                                                                                              |
-
-*Adverse reactions from spontaneous reporting.
+| System Organ Class                                   | Frequency   | Adverse Events                                                                                                         |
+|------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Uncommon    | Hypersensitivity reaction                                                                                              |
+| Immune system disorders                              | Rare        | Anaphylactic reaction*                                                                                                 |
+| Metabolism and nutrition disorders                   | Very common | Anorexia (decreased appetite)                                                                                          |
+| Nervous system disorders                             | Very common | Crying, somnolence                                                                                                     |
+| Nervous system disorders                             | Common      | Abnormal crying (prolonged crying)                                                                                     |
+| Nervous system disorders                             | Rare        | Convulsions with or without fever*                                                                                     |
+| Nervous system disorders                             | Very rare   | Hypotonic reactions or hypotonic- hyporesponsive episodes (HHE)                                                        |
+| Gastrointestinal disorders                           | Very common | Vomiting                                                                                                               |
+| Gastrointestinal disorders                           | Common      | Diarrhoea                                                                                                              |
+| Skin and subcutaneous tissue disorders               | Rare        | Rash                                                                                                                   |
+| General disorders and administration site conditions | Very common | Pyrexia (body temperature ≥ 38.0°C) Irritability Injection-site pain, injection-site erythema, injection-site swelling |
+| General disorders and administration site conditions | Common      | Injection-site induration                                                                                              |
+| General disorders and administration site conditions | Uncommon    | Pyrexia (body temperature ≥ 39.6°C) Injection-site nodule                                                              |
+| General disorders and administration site conditions | Rare        | Extensive limb swelling†                                                                                               |
 
 †See section Description of selected adverse reactions
 
 ## Description of selected adverse reactions
 
-Extensive limb swelling: Large injection-site reactions (&gt;50 mm), including extensive limb swelling from the injection site beyond one or both joints, have been reported in children. These reactions start within 24-72 hours after vaccination, may be associated with erythema, warmth, tenderness or pain at
+Extensive limb swelling: Large injection-site reactions (&gt;50 mm), including extensive limb swelling from the injection site beyond one or both joints, have been reported in children. These reactions start within 24-72 hours after vaccination, may be associated with erythema, warmth, tenderness or pain at the injection site and resolve spontaneously within 3-5 days. The risk appears to be dependent on the number of prior doses of acellular pertussis containing vaccine, with a greater risk following the 4th dose.
 
 <div style=\"page-break-after: always\"></div>
 
-the injection site and resolve spontaneously within 3-5 days. The risk appears to be dependent on the number of prior doses of acellular pertussis containing vaccine, with a greater risk following the 4th dose.
+## Safety in preterm infants
+
+Hexyon has been administered to 143 preterm infants (born after a gestational period of 24 to 36 weeks) who received a 2-dose primary series at 2 and 4 months of age followed by a booster dose at 11 months of age (concomitantly with other routine infant vaccines). The adverse reactions were similar among all groups of preterm infants, including the extremely preterm infants, and reactions were mainly of mild intensity. No vaccine-related case of apnoea was reported in preterm infants in the clinical trial (See section 4.4 for information on apnoea).
 
 ## Potential adverse events
 
-These are adverse events that have been reported with other vaccines containing one or more of the components or constituents of Hexacima and not directly with Hexacima.
+These are adverse events that have been reported with other vaccines containing one or more of the components or constituents of Hexyon and not directly with Hexyon.
 
 ## Nervous system disorders
 
 - Brachial neuritis and Guillain-Barré Syndrome have been reported after administration of a tetanus toxoid-containing vaccine
-
-- Peripheral neuropathy (polyradiculoneuritis, facial paralysis), optic neuritis, central nervous system demyelination (multiple sclerosis) have been reported after administration of a hepatitis B antigencontaining vaccine
-
+- Peripheral neuropathy (polyradiculoneuritis, facial paralysis), optic neuritis, central nervous system demyelination (multiple sclerosis) have been reported after administration of a hepatitis B antigen-containing vaccine
 - Encephalopathy/encephalitis
 
 ## Respiratory, thoracic and mediastinal disorders
 
-Apnoea in very premature infants (≤28 weeks of gestation) (see section 4.4)
+Apnoea in very premature infants ( ≤ 28 weeks of gestation) (see section 4.4)
 
 ## General disorders and administration site conditions
 
@@ -335,91 +319,71 @@ No cases of overdose have been reported.
 
 Pharmaco-therapeutic group: Vaccines, bacterial and viral vaccines combined, ATC code: J07CA09
 
-The immunogenicity of Hexacima in children over 24 months of age has not been studied in clinical trials.
+The immunogenicity of Hexyon in children over 24 months of age has not been studied in clinical trials.
 
-Results obtained for each of the components are summarised in the tables below:
+Results obtained for each of the components are summarised below.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Seroprotection/Seroconversion rates * one month after primary vaccination with 2 or 3 doses of Hexacima
+Table 1 presents immune responses after primary vaccination (2-dose and 3-dose primary vaccinations, with or without hepatitis B at birth).
 
-| Antibody Thresholds                              | Antibody Thresholds                              | Two doses   | Three doses   | Three doses   | Three doses    |
-|--------------------------------------------------|--------------------------------------------------|-------------|---------------|---------------|----------------|
-|                                                  |                                                  | 3-5 Months  | 6-10-14 Weeks | 2-3-4 Months  | 2-4-6 Months   |
-|                                                  |                                                  | N=249**     | N=123 to 220† | N=322††       | N=934 to 1270‡ |
-|                                                  |                                                  | %           | %             | %             | %              |
-| Anti-diphtheria ( ≥ 0.01 IU/mL)                  | Anti-diphtheria ( ≥ 0.01 IU/mL)                  | 99.6        | 97.6          | 99.7          | 97.1           |
-| Anti-tetanus (  0.01 IU/mL)                     | Anti-tetanus (  0.01 IU/mL)                     | 100.0       | 100.0         | 100.0         | 100.0          |
-| Anti-PT (Seroconversion ‡‡) (Vaccine response§)  | Anti-PT (Seroconversion ‡‡) (Vaccine response§)  | 93.4 98.4   | 93.6 100.0    | 88.3 99.4     | 96.0 99.7      |
-| Anti-FHA (Seroconversion ‡‡) (Vaccine response§) | Anti-FHA (Seroconversion ‡‡) (Vaccine response§) | 92.5 99.6   | 93.1 100.0    | 90.6 99.7     | 97.0 99.9      |
-| Anti-HBs (  10                                  | With hepatitis B vaccination at birth            | /           | 99.0          | /             | 99.7           |
-| mIU/mL)                                          | Without hepatitis B vaccination at birth         | 97.2        | 95.7          | 96.8          | 98.8           |
-| Anti-Polio type 1 (  8 (1/dilution))            | Anti-Polio type 1 (  8 (1/dilution))            | 90.8        | 100.0         | 99.4          | 99.9           |
-| Anti-Polio type 2 (  8 (1/dilution))            | Anti-Polio type 2 (  8 (1/dilution))            | 95.0        | 98.5          | 100.0         | 100.0          |
-| Anti-Polio type 3 (  8 (1/dilution))            | Anti-Polio type 3 (  8 (1/dilution))            | 96.7        | 100.0         | 99.7          | 99.9           |
-| Anti-PRP (  0.15 µg/mL)                         | Anti-PRP (  0.15 µg/mL)                         | 71.5        | 95.4          | 96.2          | 98.0           |
+Table 2 presents immune responses after booster vaccination.
+
+Table 3 presents peristence of immune response for different schedules.
+
+Additional data are then provided for immune responses in preterm infants (2-dose and 3-dose primary vaccination, including long-term persistence follow-up), immune responses in infants born to women vaccinated with Tdap during pregnancy (including long-term persistence follow-up), and immune responses in HIV-exposed infants.
+
+<div style=\"page-break-after: always\"></div>
+
+## Immune responses after primary vaccination
+
+Table 1: Seroprotection/Seroconversion rates * one month after a primary vaccination with 2 or 3 doses of Hexyon
+
+| Antibody Thresholds                             | Antibody Thresholds                             | Two doses   | Three doses    | Three doses   | Three doses     |
+|-------------------------------------------------|-------------------------------------------------|-------------|----------------|---------------|-----------------|
+|                                                 |                                                 | 3-5 Months  | 6-10-14 Weeks  | 2-3-4 Months  | 2-4-6 Months    |
+|                                                 |                                                 | N=249**     | N=123 to 220 † | N=322 ††      | N=934 to 1270 ‡ |
+|                                                 |                                                 | %           | %              | %             | %               |
+| Anti-diphtheria ( ≥ 0.01 IU/mL)                 | Anti-diphtheria ( ≥ 0.01 IU/mL)                 | 99.6        | 97.6           | 99.7          | 97.1            |
+| Anti-tetanus ( ≥ 0.01 IU/mL)                    | Anti-tetanus ( ≥ 0.01 IU/mL)                    | 100.0       | 100.0          | 100.0         | 100.0           |
+| Anti PT (Seroconversion‡‡) (Vaccine response§)  | Anti PT (Seroconversion‡‡) (Vaccine response§)  | 93.4 98.4   | 93.6 100.0     | 88.3 99.4     | 96.0 99.7       |
+| Anti FHA (Seroconversion‡‡) (Vaccine response§) | Anti FHA (Seroconversion‡‡) (Vaccine response§) | 92.5 99.6   | 93.1 100.0     | 90.6 99.7     | 97.0 99.9       |
+| Anti-HBs ( ≥ 10                                 | With hepatitis B vaccination at birth           | /           | 99.0           | /             | 99.7            |
+| mIU/mL)                                         | Without hepatitis B vaccination at birth        | 97.2        | 95.7           | 96.8          | 98.8            |
+| Anti-Polio type 1 ( ≥ 8 (1/dilution))           | Anti-Polio type 1 ( ≥ 8 (1/dilution))           | 90.8        | 100.0          | 99.4          | 99.9            |
+| Anti-Polio type 2 ( ≥ 8 (1/dilution))           | Anti-Polio type 2 ( ≥ 8 (1/dilution))           | 95.0        | 98.5           | 100.0         | 100.0           |
+| Anti-Polio type 3 ( ≥ 8 (1/dilution))           | Anti-Polio type 3 ( ≥ 8 (1/dilution))           | 96.7        | 100.0          | 99.7          | 99.9            |
+| Anti-PRP ( ≥ 0.15 µg/mL)                        | Anti-PRP ( ≥ 0.15 µg/mL)                        | 71.5        | 95.4           | 96.2          | 98.0            |
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2: Seroprotection/Seroconversion rates * one month after booster vaccination with Hexyon
 
 * Generally accepted surrogates (PT, FHA) or correlates of protection (other components)
-
-N = Number of individuals analysed (per protocol set)
-
-** 3, 5 months without hepatitis B vaccination at birth (Finland, Sweden)
-
-† 6, 10, 14 weeks with and without hepatitis B vaccination at birth (Republic of South Africa)
-
-†† 2, 3, 4 months without hepatitis B vaccination at birth (Finland)
-
-‡ 2, 4, 6 months without hepatitis B vaccination at birth (Argentina, Mexico, Peru) and with hepatitis B vaccination at birth (Costa Rica and Colombia)
-
-‡‡ Seroconversion: minimum 4-fold increase compared to pre-vaccination level (pre-dose 1)
-
-§ Vaccine response: If pre-vaccination antibody concentration &lt;8 EU/mL, then the post-vaccination antibody concentration should be ≥8 EU/mL. Otherwise, post-vaccination antibody concentration should be ≥ preimmunisation level
-
-<div style=\"page-break-after: always\"></div>
-
-Table 2: Seroprotection/Seroconversion rates* one month after booster vaccination with Hexacima
 
 | Antibody Thresholds                             | Antibody Thresholds                             | Booster vaccination at 11-12 months of age after a two-dose primary course   | Booster vaccination during the second year of life following a three-dose primary course   | Booster vaccination during the second year of life following a three-dose primary course   | Booster vaccination during the second year of life following a three-dose primary course   |
 |-------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|                                                 |                                                 | 3-5 Months                                                                   | 6-10-14 Weeks N=204†                                                                       | 2-3-4 Months N=178††                                                                       | 2-4-6 Months N=177 396‡                                                                    |
-|                                                 |                                                 | N=249**                                                                      |                                                                                            |                                                                                            | to                                                                                         |
+|                                                 |                                                 | 3-5 Months                                                                   | 6-10-14 Weeks                                                                              | 2-3-4 Months                                                                               | 2-4-6 Months                                                                               |
+|                                                 |                                                 | N=249**                                                                      | N=204 †                                                                                    | N=178 ††                                                                                   | N=177 to 396 ‡                                                                             |
 |                                                 |                                                 | %                                                                            | %                                                                                          | %                                                                                          | %                                                                                          |
-| Anti-diphtheria (  0.1 IU/mL)                  | Anti-diphtheria (  0.1 IU/mL)                  | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 97.2                                                                                       |
-| Anti-tetanus (  0.1 IU/mL)                     | Anti-tetanus (  0.1 IU/mL)                     | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
+| Anti-diphtheria ( ≥ 0.1 IU/mL)                  | Anti-diphtheria ( ≥ 0.1 IU/mL)                  | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 97.2                                                                                       |
+| Anti-tetanus ( ≥ 0.1 IU/mL)                     | Anti-tetanus ( ≥ 0.1 IU/mL)                     | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
 | Anti-PT (Seroconversion‡‡) (Vaccine response§)  | Anti-PT (Seroconversion‡‡) (Vaccine response§)  | 94.3 98.0                                                                    | 94.4 100.0                                                                                 | 86.0 98.8                                                                                  | 96.2 100.0                                                                                 |
 | Anti-FHA (Seroconversion‡‡) (Vaccine response§) | Anti-FHA (Seroconversion‡‡) (Vaccine response§) | 97.6 100.0                                                                   | 99.4 100.0                                                                                 | 94.3 100.0                                                                                 | 98.4 100.0                                                                                 |
-| Anti-HBs (  10 mIU/mL)                         | With hepatitis B vaccination at birth           | /                                                                            | 100.0                                                                                      | /                                                                                          | 99.7                                                                                       |
-| Anti-HBs (  10 mIU/mL)                         | Without hepatitis B vaccination at birth        | 96.4                                                                         | 98.5                                                                                       | 98.9                                                                                       | 99.4                                                                                       |
-| Anti-Polio type 1 (  8 (1/dilution))           | Anti-Polio type 1 (  8 (1/dilution))           | 100.0                                                                        | 100.0                                                                                      | 98.9                                                                                       | 100.0                                                                                      |
-| Anti-Polio type 2 (  8 (1/dilution))           | Anti-Polio type 2 (  8 (1/dilution))           | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
-| Anti-Polio type 3 (  8 (1/dilution))           | Anti-Polio type 3 (  8 (1/dilution))           | 99.6                                                                         | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
-| Anti-PRP (  1.0 µg/mL)                         | Anti-PRP (  1.0 µg/mL)                         | 93.5                                                                         | 98.5                                                                                       | 98.9                                                                                       | 98.3                                                                                       |
-
-* Generally accepted surrogates (PT, FHA) or correlates of protection (other components)
-
-N = Number of individuals analysed (per protocol set)
-
-** 3, 5 months without hepatitis B vaccination at birth (Finland, Sweden)
-
-† 6, 10, 14 weeks with and without hepatitis B vaccination at birth (Republic of South Africa)
-
-†† 2, 3, 4 months without hepatitis B vaccination at birth (Finland)
-
-‡ 2, 4, 6 months without hepatitis B vaccination at birth (Mexico) and with hepatitis B vaccination at birth (Costa Rica and Colombia)
-
-‡‡ Seroconversion: minimum 4-fold increase compared to pre-vaccination level (pre-dose 1)
-
-§ Vaccine response: If pre-vaccination antibody concentration (pre-dose 1) &lt;8 EU/mL, then the post-booster antibody concentration should be ≥8 EU/mL. Otherwise, post-booster antibody concentration should be ≥ pre-immunisation level (pre-dose 1)
-
-## Immune responses to Hib and pertussis antigens after 2 doses at 2 and 4 months of age
-
-The immune responses to Hib (PRP) and pertussis antigens (PT and FHA) were evaluated after 2 doses in a subset of subjects receiving Hexacima (N=148) at 2, 4, 6 months of age. The immune
+|                                                 | With hepatitis B vaccination at birth           | /                                                                            | 100.0                                                                                      | /                                                                                          | 99.7                                                                                       |
+|                                                 | Without hepatitis B vaccination at birth        | 96.4                                                                         | 98.5                                                                                       | 98.9                                                                                       | 99.4                                                                                       |
+| Anti-Polio type 1 ( ≥ 8 (1/dilution))           | Anti-Polio type 1 ( ≥ 8 (1/dilution))           | 100.0                                                                        | 100.0                                                                                      | 98.9                                                                                       | 100.0                                                                                      |
+| Anti-Polio type 2 ( ≥ 8 (1/dilution))           | Anti-Polio type 2 ( ≥ 8 (1/dilution))           | 100.0                                                                        | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
+| Anti-Polio type 3 ( ≥ 8 (1/dilution))           | Anti-Polio type 3 ( ≥ 8 (1/dilution))           | 99.6                                                                         | 100.0                                                                                      | 100.0                                                                                      | 100.0                                                                                      |
+| Anti-PRP ( ≥ 1.0 µg/mL)                         | Anti-PRP ( ≥ 1.0 µg/mL)                         | 93.5                                                                         | 98.5                                                                                       | 98.9                                                                                       | 98.3                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-responses to PRP, PT and FHA antigens one month after 2 doses given at 2 and 4 months of age were similar to those observed one month after a 2-dose priming given at 3 and 5 months of age:
+## Immune responses to Hib and pertussis antigens after 2 doses at 2 and 4 months of age
 
-- -anti-PRP titers ≥0.15 µg/mL were observed in 73.0% of individuals,
+The immune responses to Hib (PRP) and pertussis antigens (PT and FHA) were evaluated after 2 doses in a subset of subjects receiving Hexyon (N=148) at 2, 4, 6 months of age. The immune responses to PRP, PT and FHA antigens one month after 2 doses given at 2 and 4 months of age were similar to those observed one month after a 2-dose priming given at 3 and 5 months of age:
+
+- -anti-PRP titers ≥ 0.15 µg/mL were observed in 73.0% of individuals,
 - -anti-PT vaccine response in 97.9% of individuals,
 - -anti-FHA vaccine response in 98.6% of individuals.
 
@@ -427,84 +391,104 @@ responses to PRP, PT and FHA antigens one month after 2 doses given at 2 and 4 m
 
 Studies on long-term persistence of vaccine induced antibodies following varying infant / toddler primary series and following Hepatitis B vaccine given at birth or not have shown maintenance of levels above the recognized protective levels or antibody thresholds for the vaccine antigens (see Table 3).
 
-Table 3: Seroprotection rates a at the age of 4.5 years old after vaccination with Hexacima
+<div style=\"page-break-after: always\"></div>
+
+Table 3: Seroprotection rates a at the age of 4.5 years old after vaccination with Hexyon
 
 | Antibody Thresholds                            | Primary 6-10-14 weeks and booster at 15-18 months   | Primary 6-10-14 weeks and booster at 15-18 months   | Primary 2-4-6 months and booster at 12-24 months   |
 |------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|
-| Antibody Thresholds                            | Without hepatitis B at birth                        | With hepatitis B at birth                           | With hepatitis B at birth                          |
-| Antibody Thresholds                            | N=173 b                                             | N=103 b                                             | N=220 c                                            |
-| Antibody Thresholds                            | %                                                   | %                                                   | %                                                  |
-| Anti-diphtheria (  0.01 IU/mL) (  0.1 IU/mL) | 98.2 75.3                                           | 97 64.4                                             | 100 57.2                                           |
-| Anti-tetanus (  0.01 IU/mL) (  0.1 IU/mL)    | 100 89.5                                            | 100 82.8                                            | 100 80.8                                           |
-| Anti-PT e (  8 EU/mL)                         | 42.5                                                | 23.7                                                | 22.2                                               |
-| Anti-FHA e (  8 EU/mL)                        | 93.8                                                | 89.0                                                | 85.6                                               |
-| Anti-HBs (  10 mIU/mL)                        | 73.3                                                | 96.1                                                | 92.3                                               |
-| Anti-Polio type 1 (  8 (1/dilution))          | NA d                                                | NA d                                                | 99.5                                               |
-| Anti-Polio type 2 (  8 (1/dilution))          | NA d                                                | NA d                                                | 100                                                |
-| Anti-Polio type 3 (  8 (1/dilution))          | NA d                                                | NA d                                                | 100                                                |
-| Anti-PRP (  0.15 µg/mL)                       | 98.8                                                | 100                                                 | 100                                                |
+|                                                | Without hepatitis B at birth                        | With hepatitis B at birth                           | With hepatitis B at birth                          |
+|                                                | N=173 b                                             | N=103 b                                             | N=220 c                                            |
+|                                                | %                                                   | %                                                   | %                                                  |
+| Anti-diphtheria ( ≥ 0.01 IU/mL) ( ≥ 0.1 IU/mL) | 98.2 75.3                                           | 97 64.4                                             | 100 57.2                                           |
+| Anti-tetanus ( ≥ 0.01 IU/mL) ( ≥ 0.1 IU/mL)    | 100 89.5                                            | 100 82.8                                            | 100 80.8                                           |
+| Anti-PT e ( ≥ 8 EU/mL)                         | 42.5                                                | 23.7                                                | 22.2                                               |
+| Anti-FHA e ( ≥ 8 EU/mL)                        | 93.8                                                | 89.0                                                | 85.6                                               |
+| Anti-HBs ( ≥ 10 mIU/mL)                        | 73.3                                                | 96.1                                                | 92.3                                               |
+| Anti-Polio type 1 ( ≥ 8 (1/dilution))          | NA d                                                | NA d                                                | 99.5                                               |
+| Anti-Polio type 2 ( ≥ 8 (1/dilution))          | NA d                                                | NA d                                                | 100                                                |
+| Anti-Polio type 3 ( ≥ 8 (1/dilution))          | NA d                                                | NA d                                                | 100                                                |
+| Anti-PRP ( ≥ 0.15 µg/mL)                       | 98.8                                                | 100                                                 | 100                                                |
 
 N = Number of individuals analysed (per protocol set)
 
-a Generally accepted surrogates (PT, FHA) or correlates of protection (other components)
-
-b 6, 10, 14 weeks with and without hepatitis B vaccination at birth (Republic of South Africa)
-
-c 2, 4, 6 months with hepatitis B vaccination at birth (Colombia)
-
-d Due to an OPV National Immunisation Days in the country, Polio results have not been analysed
-
-e 8 EU/mL corresponds to 4 LLOQ (Lower Limit Of Quantification in enzyme-linked immunosorbent assay ELISA).
+- a Generally accepted surrogates (PT, FHA) or correlates of protection (other components)
+- b 6, 10, 14 weeks with and without hepatitis B vaccination at birth (Republic of South Africa)
+- c 2, 4, 6 months with hepatitis B vaccination at birth (Colombia)
+- d Due to an OPV National Immunisation Days in the country, Polio results have not been analysed
+- e 8 EU/mL corresponds to 4 LLOQ (Lower Limit Of Quantification in enzyme-linked immunosorbent assay ELISA)
 
 LLOQ value for anti-PT and anti-FHA is 2 EU/mL
 
-<div style=\"page-break-after: always\"></div>
+The persistence of the immune responses against the hepatitis B component of Hexyon was evaluated in infants primed from two different schedules.
 
-The persistence of the immune responses against the hepatitis B component of Hexacima was evaluated in infants primed from two different schedules.
+For a 2-dose primary infant series at 3 and 5 months of age without hepatitis B at birth, followed by a toddler booster at 11-12 months of age, 53.8% of children were seroprotected (anti-HBsAg ≥ 10 mIU/mL) at 6 years of age, and 96.7% presented an anamnestic response after a challenge dose with a standalone Hepatitis B vaccine.
 
-For a 2-dose primary infant series at 3 and 5 months of age without hepatitis B at birth, followed by a toddler booster at 11-12 months of age, 53.8% of children were seroprotected (anti-HBsAg ≥10 mIU/mL) at 6 years of age, and 96.7% presented an anamnestic response after a challenge dose with a standalone Hepatitis B vaccine.
+For a primary series consisting of one dose of hepatitis B vaccine given at birth followed by a 3-dose infant series at 2, 4, and 6 months of age without a toddler booster, 49.3% of children were seroprotected (anti-HBsAg ≥ 10 mIU/mL) at 9 years of age, and 92.8% presented an anamnestic response after a challenge dose with a standalone Hepatitis B vaccine.
 
-For a primary series consisting of one dose of hepatitis B vaccine given at birth followed by a 3-dose infant series at 2, 4, and 6 months of age without a toddler booster, 49.3% of children were seroprotected (anti-HBsAg ≥10 mIU/mL) at 9 years of age, and 92.8% presented an anamnestic response after a challenge dose with a standalone Hepatitis B vaccine.
-
-These data support persisting immune memory induced in infants primed with Hexacima.
-
-## Immune responses to Hexacima in preterm infants
-
-Immune responses to Hexacima antigens in preterm (105) infants (born after a gestation period of 28 to 36 weeks), including 90 infants born to women vaccinated with Tdap vaccine during pregnancy and 15 to women not vaccinated during pregnancy, were evaluated following a 3-dose primary vaccination course at 2, 3, and 4 months of age, and a booster dose at 13 months of age.
-
-One month after primary vaccination, all subjects were seroprotected against diphtheria (≥0.01 IU/mL), tetanus (≥0.01 IU/mL), and poliovirus types 1, 2 and 3 (≥8 (1/dilution)); 89.8% of subjects were seroprotected against hepatitis B (≥10 IU/mL) and 79.4% were seroprotected against Hib invasive diseases (≥0.15 µg/mL).
-
-One month after the booster dose, all subjects were seroprotected against diphtheria (≥0.1 IU/mL), tetanus (≥0.1 IU/mL), and poliovirus types 1, 2 and 3 (≥8 (1/dilution)); 94.6% of subjects were seroprotected against hepatitis B (≥10 IU/mL) and 90.6% were seroprotected against Hib invasive diseases (≥1 µg/mL).
-
-Regarding pertussis, one month after primary vaccination 98.7% and 100% of subjects developed antibodies ≥8 EU/mL against PT and FHA antigens, respectively. One month after the booster dose, 98.8% of subjects developed antibodies ≥8 EU/mL against both PT and FHA antigens. Pertussis antibody concentrations increased by 13-fold after primary vaccination and by 6- to 14-fold after the booster dose.
-
-## Immune responses to Hexacima in infants born to women vaccinated with Tdap during pregnancy
-
-Immune  responses  to  Hexacima  antigens  in  term  (109)  and  preterm  (90)  infants  born  to  women vaccinated with Tdap vaccine during pregnancy (between 24 and 36 weeks of gestation) were evaluated following a 3-dose primary vaccination course at 2, 3, and 4 months of age, and a booster dose at 13 (preterm infants) or 15 (term infants) months of age.
-
-One month after primary vaccination, all subjects were seroprotected against diphtheria (≥0.01 IU/mL), tetanus  (≥0.01  IU/mL),  and  poliovirus  types  1  and  3  (≥8  (1/dilution));  97.3%  of  subjects  were seroprotected against poliovirus type 2 (≥8 (1/dilution)); 94.6% of subjects were seroprotected against hepatitis B (≥10 IU/mL) and 88.0% were seroprotected against Hib invasive diseases (≥0.15 µg/mL). One month after  the  booster  dose,  all  subjects  were  seroprotected  against  diphtheria  (≥0.1 IU/mL), tetanus  (≥0.1 IU/mL),  and  poliovirus  types  1,  2  and  3  (≥8  (1/dilution));  93.9%  of  subjects  were seroprotected  against  hepatitis  B  (≥10  IU/mL)  and  94.0%  were  seroprotected  against  Hib  invasive diseases (≥1 µg/mL).
-
-Regarding pertussis, one month after primary vaccination 99.4% and 100% of subjects developed antibodies ≥8 EU/mL against PT and FHA antigens, respectively. One month after the booster dose, 99.4% of subjects developed antibodies ≥8 EU/mL against both PT and FHA antigens. Pertussis antibody concentrations were increased by 5- to 9-fold after primary vaccination, and by 8- to 19-fold after the booster dose.
-
-## Immune responses to Hexacima in HIV-exposed infants
+These data support persisting immune memory induced in infants primed with Hexyon.
 
 <div style=\"page-break-after: always\"></div>
 
-Immune responses to Hexacima antigens in 51 HIV-exposed infants (9 infected and 42 uninfected) were evaluated following a 3-dose primary vaccination course at 6, 10, and 14 weeks of age, and a booster dose at 15 to 18 months of age.
+## Immune responses to Hexyon in preterm infants
 
-One month after primary vaccination, all infants were seroprotected against diphtheria (≥0.01 IU/mL), tetanus (≥0.01 IU/mL), poliovirus types 1, 2, and 3 (≥8 (1/dilution), hepatitis B (≥10 IU/mL), and more than 97.6% for Hib invasive diseases (≥0.15 µg/mL).
+## 2-dose primary series and booster dose
 
-One month after the booster dose, all subjects  were seroprotected  against  diphtheria (≥0.1  IU/mL), tetanus (≥0.1 IU/mL), poliovirus types 1, 2 and 3 (≥8 (1/dilution), hepatitis B (≥10 IU/mL), and more than 96.6% for Hib invasive diseases (≥1 µg/mL).
+Immune responses to Hexyon antigens were evaluated in 143 preterm infants born between 24 and 36 weeks of gestation, including extremely preterm (&lt;28 weeks), very preterm (28-30 weeks), moderate preterm (31-33 weeks), and late preterm (34-36 weeks), were evaluated following a 2-dose primary vaccination at 2 and 4 months of age and a booster dose at 11 months of age (administered concomitantly with other routine infant vaccines: pneumococcal conjugate, rotavirus, and meningococcal C conjugate).
 
-Regarding pertussis, one month after primary vaccination, 100% of subjects developed antibodies ≥8 EU/mL  against  both  PT  and  FHA  antigens.  One  month  after  the  booster  dose,  100%  of  subjects developed antibodies ≥8 EU/mL against both PT and FHA antigens. Seroconversion rates defined as minimum 4-fold increase compared to pre-vaccination level (pre-dose 1) were 100% in the HIV-exposed and infected group for anti-PT and anti-FHA; and 96.6% for anti-PT and 89.7% for anti-FHA in the HIV-exposed and uninfected group.
+One month after the booster dose, 100% of subjects were seroprotected against diphtheria ( ≥ 0.1 IU/mL), tetanus ( ≥ 0.1 IU/mL), and poliovirus types 1, 2, and 3 ( ≥ 8 [1/dilution]); 94.5% were seroprotected against hepatitis B ( ≥ 10 mIU/mL) and 92.3% against Hib invasive disease ( ≥ 1 µg/mL). Regarding pertussis, 99.2% and 100% of subjects developed antibodies ≥ 8 EU/mL against PT and FHA antigens, respectively.
+
+In extremely preterm infants (&lt;28 weeks), 81.0% of subjects were seroprotected against Hib invasive disease ( ≥ 1 µg/mL), and responses to other antigens were similar to those achieved by other preterm infants.
+
+## 3-dose primary series and booster dose
+
+Immune responses to Hexyon antigens in preterm (105) infants (born after a gestation period of 28 to 36 weeks), including 90 infants born to women vaccinated with Tdap vaccine during pregnancy and 15 to women not vaccinated during pregnancy, were evaluated following a 3-dose primary vaccination course at 2, 3, and 4 months of age, and a booster dose at 13 months of age.
+
+One month after primary vaccination, all subjects were seroprotected against diphtheria ( ≥ 0.01 IU/mL), tetanus ( ≥ 0.01 IU/mL), and poliovirus types 1, 2 and 3 ( ≥ 8 (1/dilution)); 89.8% of subjects were seroprotected against hepatitis B ( ≥ 10 IU/mL) and 79.4% were seroprotected against Hib invasive diseases ( ≥ 0.15 µg/mL).
+
+One month after the booster dose, all subjects were seroprotected against diphtheria ( ≥ 0.1 IU/mL), tetanus ( ≥ 0.1 IU/mL), and poliovirus types 1, 2 and 3 ( ≥ 8 (1/dilution)); 94.6% of subjects were seroprotected against hepatitis B ( ≥ 10 IU/mL) and 90.6% were seroprotected against Hib invasive diseases ( ≥ 1 µg/mL).
+
+Regarding pertussis, one month after primary vaccination 98.7% and 100% of subjects developed antibodies ≥ 8 EU/mL against PT and FHA antigens, respectively. One month after the booster dose, 98.8% of subjects developed antibodies ≥ 8 EU/mL against both PT and FHA antigens. Pertussis antibody concentrations increased by 13-fold after primary vaccination and by 6- to 14-fold after the booster dose.
+
+At 5 years of age, among preterm infants (44, including 40 born to women vaccinated with Tdap vaccine during pregnancy) high persistence of immune response against diphtheria, tetanus, poliovirus 1, 2 , 3 , and Hib antigens was demonstrated, comparable to that observed in term infants. Persistence of immune response against hepatitis B and pertussis antigens in preterm infants was lower than the values presented for term infants in Table 3; the clinical relevance of this observation is unknown.
+
+Responses to DTaP-IPV booster dose given at 5-7 years of age were observed in 96% to 100% of children confirming the persisting immune memory induced by the infant vaccination.
+
+Immune responses to Hexyon in infants born to women vaccinated with Tdap during pregnancy
+
+Immune responses to Hexyon antigens in term (109) and preterm (90) infants born to women vaccinated with Tdap vaccine during pregnancy (between 24 and 36 weeks of gestation) were evaluated following a 3-dose primary vaccination course at 2, 3, and 4 months of age, and a booster dose at 13 (preterm infants) or 15 (term infants) months of age.
+
+<div style=\"page-break-after: always\"></div>
+
+One month after primary vaccination, all subjects were seroprotected against diphtheria ( ≥ 0.01 IU/mL), tetanus ( ≥ 0.01 IU/mL), and poliovirus types 1 and 3 ( ≥ 8 (1/dilution)); 97.3% of subjects were seroprotected against poliovirus type 2 ( ≥ 8 (1/dilution)); 94.6% of subjects were seroprotected against hepatitis B ( ≥ 10 IU/mL) and 88.0% were seroprotected against Hib invasive diseases ( ≥ 0.15 µg/mL).
+
+One month after the booster dose, all subjects were seroprotected against diphtheria ( ≥ 0.1 IU/mL), tetanus ( ≥ 0.1 IU/mL), and poliovirus types 1, 2 and 3 ( ≥ 8 (1/dilution)); 93.9% of subjects were seroprotected against hepatitis B ( ≥ 10 IU/mL) and 94.0% were seroprotected against Hib invasive diseases ( ≥ 1 µg/mL).
+
+Regarding pertussis, one month after primary vaccination 99.4% and 100% of subjects developed antibodies ≥ 8 EU/mL against PT and FHA antigens, respectively. One month after the booster dose, 99.4% of subjects developed antibodies ≥ 8 EU/mL against both PT and FHA antigens. Pertussis antibody concentrations were increased by 5- to 9-fold after primary vaccination, and by 8- to 19-fold after the booster dose.
+
+At 5 years of age, among infants born to women vaccinated with Tdap vaccine during pregnancy (94, including 54 term and 40 preterm infants) high persistence of immune response against diphtheria, tetanus, poliovirus types 1, 2 , 3, and Hib antigens was demonstrated. Persistence of immune response against hepatitis B and pertussis antigens was lower than the values in Table 3; the clinical relevance of this observation is unknown.
+
+Responses to DTaP-IPV booster dose given at 5-7 years of age were observed in 98.5%-100% of children confirming the persisting immune memory induced by the infant vaccination.
+
+## Immune responses to Hexyon in HIV-exposed infants
+
+Immune responses to Hexyon antigens in 51 HIV-exposed infants (9 infected and 42 uninfected) were evaluated following a 3-dose primary vaccination course at 6, 10, and 14 weeks of age, and a booster dose at 15 to 18 months of age.
+
+One month after primary vaccination, all infants were seroprotected against diphtheria ( ≥ 0.01 IU/mL), tetanus ( ≥ 0.01 IU/mL), poliovirus types 1, 2, and 3 ( ≥ 8 (1/dilution), hepatitis B ( ≥ 10 IU/mL), and more than 97.6% for Hib invasive diseases ( ≥ 0.15 µg/mL).
+
+One month after the booster dose, all subjects were seroprotected against diphtheria ( ≥ 0.1 IU/mL), tetanus ( ≥ 0.1 IU/mL), poliovirus types 1, 2 and 3 ( ≥ 8 (1/dilution), hepatitis B ( ≥ 10 IU/mL), and more than 96.6% for Hib invasive diseases ( ≥ 1 µg/mL).
+
+Regarding pertussis, one month after primary vaccination, 100% of subjects developed antibodies ≥ 8 EU/mL against both PT and FHA antigens. One month after the booster dose, 100% of subjects developed antibodies ≥ 8 EU/mL against both PT and FHA antigens. Seroconversion rates defined as minimum 4-fold increase compared to pre-vaccination level (pre-dose 1) were 100% in the HIV-exposed and infected group for anti-PT and anti-FHA; and 96.6% for anti-PT, and 89.7% for anti-FHA in the HIV-exposed and uninfected group.
 
 ## Efficacy and effectiveness in protecting against pertussis
 
-Vaccine efficacy of the acellular pertussis (aP) antigens contained in Hexacima against the most severe WHO-defined typical pertussis (  21 days of paroxysmal cough) is documented in a randomised double-blind study among infants with a 3-dose primary series using a DTaP vaccine in a highly endemic country (Senegal). The need for a toddler booster dose was seen in this study. The long-term capability of the acellular pertussis (aP) antigens contained in Hexacima to reduce pertussis incidence and control pertussis disease in childhood has been demonstrated in a 10-year national pertussis surveillance on pertussis disease in Sweden with the pentavalent DTaP-IPV/Hib vaccine using a 3, 5, 12 months schedule. Results of long-term follow-up demonstrated a dramatic reduction of the pertussis incidence following the second dose regardless of the vaccine used.
+Vaccine efficacy of the acellular pertussis (aP) antigens contained in Hexyon against the most severe WHO-defined typical pertussis ( ≥ 21 days of paroxysmal cough) is documented in a randomised double-blind study among infants with a 3-dose primary series using a DTaP vaccine in a highly endemic country (Senegal). The need for a toddler booster dose was seen in this study. The long-term capability of the acellular pertussis (aP) antigens contained in Hexyon to reduce pertussis incidence and control pertussis disease in childhood has been demonstrated in a 10-year national pertussis surveillance on pertussis disease in Sweden with the pentavalent DTaP-IPV/Hib vaccine using a 3, 5, 12 months schedule. Results of long-term follow-up demonstrated a dramatic reduction of the pertussis incidence following the second dose regardless of the vaccine used.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effectiveness in protecting against Hib invasive disease
 
-The vaccine effectiveness against Hib invasive disease of DTaP and Hib combination vaccines (pentavalent and hexavalent including vaccines containing the Hib antigen from Hexacima) has been demonstrated in Germany via an extensive (over five years follow-up period) post-marketing surveillance study. The vaccine effectiveness was of 96.7% for the full primary series, and 98.5% for the booster dose (irrespective of priming).
+The vaccine effectiveness against Hib invasive disease of DTaP and Hib combination vaccines (pentavalent and hexavalent including vaccines containing the Hib antigen from Hexyon) has been demonstrated in Germany via an extensive (over five years follow-up period) post-marketing surveillance study. The vaccine effectiveness was of 96.7% for the full primary series, and 98.5% for the booster dose (irrespective of priming).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -520,13 +504,7 @@ At the injection sites, chronic histological inflammatory changes were observed 
 
 ## 6.1 List of excipients
 
-Disodium hydrogen phosphate Potassium dihydrogen phosphate Trometamol Sucrose
-
-<div style=\"page-break-after: always\"></div>
-
-Essential amino acids including L-phenylalanine Sodium hydroxide, acetic acid or hydrochloric acid (for pH adjustment) Water for injections.
-
-For adsorbent: see section 2.
+Disodium hydrogen phosphate Potassium dihydrogen phosphate Trometamol Sucrose Essential amino acids including L-phenylalanine Sodium hydroxide, acetic acid or hydrochloric acid (for pH adjustment) Water for injections. For adsorbent: see section 2.
 
 ## 6.2 Incompatibilities
 
@@ -538,25 +516,29 @@ In the absence of compatibility studies, this vaccine must not be mixed with oth
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C).
+Store in a refrigerator (2 ° C - 8 ° C).
 
 Do not freeze.
 
 Keep the container in the outer carton in order to protect it from the light.
 
-Stability data indicate that the vaccine components are stable at temperatures up to 25°C for 72 hours. At the end of this period, Hexacima should be used or discarded. These data are intended to guide healthcare professionals in case of temporary temperature excursion only.
+Stability data indicate that the vaccine components are stable at temperatures up to 25°C for 72 hours. At the end of this period, Hexyon should be used or discarded. These data are intended to guide healthcare professionals in case of temporary temperature excursion only.
 
 ## 6.5 Nature and contents of container
 
-## Hexacima in pre-filled syringes
+Hexyon in pre-filled syringes
+
+<div style=\"page-break-after: always\"></div>
 
 0.5 mL of suspension in pre-filled syringe (type I glass) equipped with a plunger stopper (halobutyl) and a Luer lock adaptor with a tip cap (halobutyl + polypropylene).
 
-Pack of 1 or 10 pre-filled syringe(s) without needle(s). Pack of 1 or 10 pre-filled syringe(s) with separate needle(s) (stainless steel). Pack of 1 or 10 pre-filled syringe(s) with separate needle(s) (stainless steel) with safety shield
+Pack of 1, 10 or 50 or Multipack of 50 (5 packs of 10) pre-filled syringe(s) without needle(s).
 
-(polycarbonate).
+Pack of 1 or 10 pre-filled syringe(s) with separate needle(s) (stainless steel).
 
-## Hexacima in vials
+Pack of 1 or 10 pre-filled syringe(s) with separate needle(s) (stainless steel) with safety shield (polycarbonate).
+
+## Hexyon in vials
 
 0.5 mL suspension in vial (type I glass) with a stopper (halobutyl).
 
@@ -566,7 +548,7 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Hexacima in pre-filled syringes
+## Hexyon in pre-filled syringes
 
 Prior to administration, the pre-filled syringe should be shaken in order to obtain a homogeneous, whitish, cloudy suspension.
 
@@ -576,11 +558,7 @@ The syringe with suspension for injection should be visually inspected prior to 
 
 The syringe is intended for single use only and must not be reused.
 
-<div style=\"page-break-after: always\"></div>
-
-Instructions for use of Luer Lock pre-filled syringe
-
-<!-- image -->
+Instructions for use of Luer Lock pre-filled syringe Follow Step 1 and 2 above to prepare the Luer Lock syringe and needle for attachment.
 
 Picture A: Luer Lock syringe with Rigid Tip Cap
 
@@ -590,7 +568,11 @@ Picture A: Luer Lock syringe with Rigid Tip Cap
 
 <!-- image -->
 
-Follow Step 1 and 2 above to prepare the Luer Lock syringe and needle for attachment.
+<div style=\"page-break-after: always\"></div>
+
+Instructions for use of safety needle with Luer Lock pre-filled syringe
+
+<!-- image -->
 
 <!-- image -->
 
@@ -600,7 +582,7 @@ Follow Step 1 and 2 above to prepare the Luer Lock syringe and needle for attach
 
 Caution: Do not attempt to unlock (deactivate) the safety device by forcing the needle out of the safety shield.
 
-## Hexacima in vials
+## Hexyon in vials
 
 The vial is intended for single use only and must not be reused.
 
@@ -620,25 +602,11 @@ Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Hexacima in vials EU/1/13/828/001
+Hexyon in vials EU/1/13/829/001
 
-## Hexacima in pre-filled syringes
+Hexyon in pre-filled syringes
 
-EU/1/13/828/002
-
-EU/1/13/828/003
-
-EU/1/13/828/004
-
-EU/1/13/828/005
-
-EU/1/13/828/006
-
-EU/1/13/828/007
-
-EU/1/13/828/008
-
-EU/1/13/828/009
+EU/1/13/829/002 EU/1/13/829/003 EU/1/13/829/004 EU/1/13/829/005 EU/1/13/829/006 EU/1/13/829/007 EU/1/13/829/008 EU/1/13/829/009 EU/1/13/829/010 EU/1/13/829/011
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -709,8 +677,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -728,11 +696,15 @@ If the submission of a PSUR and the update of a RMP coincide, they can be submit
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Hexacima - Carton for pre-filled syringe without needle, with one separate needle, with two separate needles. Pack of 1 or 10.
+Hexyon - Carton for pre-filled syringe without needle. Pack of 1, 10 or 50.
+
+Hexyon - Carton for pre-filled syringe with one separate needle. Pack of 1 or 10.
+
+Hexyon - Carton for pre-filled syringe with two separate needles. Pack of 1 or 10.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Hexacima suspension for injection in pre-filled syringe
+Hexyon suspension for injection in pre-filled syringe
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
 
@@ -742,14 +714,33 @@ DTaP-IPV-HB-Hib
 
 One dose 1 (0.5 mL) contains:
 
-| • Diphtheria Toxoid                                                          | ≥20 IU (30 Lf)   |
-|------------------------------------------------------------------------------|------------------|
-| • Tetanus Toxoid                                                             | ≥40 IU (10 Lf)   |
-| • Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin | 25/25 µg         |
-| • Poliovirus (Inactivated) Types 1/2/3                                       | 29/7/26 DU       |
-| • Hepatitis B surface antigen                                                | 10 µg            |
-| • Haemophilus influenzae type b polysaccharide                               | 12 µg            |
-| conjugated to Tetanus protein                                                | 22-36 µg         |
+- Diphtheria Toxoid
+
+≥ 20 IU (30 Lf)
+
+- Tetanus Toxoid
+
+≥ 40 IU (10 Lf)
+
+- Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin
+
+25/25 µg
+
+- Poliovirus (Inactivated) Types 1/2/3
+
+29/7/26 DU
+
+- Hepatitis B surface antigen
+
+10 µg
+
+- Haemophilus influenzae type b polysaccharide
+
+12 µg
+
+- conjugated to Tetanus protein
+
+22-36 µg
 
 1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
 
@@ -771,19 +762,23 @@ Water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Suspension for injection in pre-filled syringe.
+Suspension for injection in pre-filled syringe.
 
-- 1 pre-filled syringe (0.5 mL) without needle
+1 pre-filled syringe (0.5 mL) without needle
 
 10 pre-filled syringes (0.5 mL) without needle
 
-- 1 pre-filled syringe (0.5 mL) with 1 needle
-- 10 pre-filled syringes (0.5 mL) with 10 needles
-- 1 pre-filled syringe (0.5 mL) with 2 needles
+50 pre-filled syringes (0.5 mL) without needle
+
+1 pre-filled syringe (0.5 mL) with 1 needle
+
+10 pre-filled syringes (0.5 mL) with 10 needles
+
+1 pre-filled syringe (0.5 mL) with 2 needles
 
 10 pre-filled syringes (0.5 mL) with 20 needles
 
-- 1 pre-filled syringe (0.5 mL) with 1 safety needle
+1 pre-filled syringe (0.5 mL) with 1 safety needle
 
 10 pre-filled syringes (0.5 mL) with 10 safety needles
 
@@ -797,7 +792,7 @@ Shake before use.
 
 Read the package leaflet before use.
 
-Scan here QR code to be included or visit https://hexacima.info.sanofi
+Scan here QR code to be included or visit https://hexyon.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -825,27 +820,30 @@ Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/828/002
+EU/1/13/829/002
 
-EU/1/13/828/003
+EU/1/13/829/003
 
-EU/1/13/828/004
+EU/1/13/829/004
 
-EU/1/13/828/005
+EU/1/13/829/005
 
-EU/1/13/828/006
+EU/1/13/829/006
 
-EU/1/13/828/007
+EU/1/13/829/007
 
-EU/1/13/828/008
+EU/1/13/829/008
 
-EU/1/13/828/009
+EU/1/13/829/010
 
-## 13. BATCH NUMBER
-
-Lot
+EU/1/13/829/011
 
 <div style=\"page-break-after: always\"></div>
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -858,29 +856,295 @@ Lot
 
 Justification for not including Braille accepted
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| Label - Pre-filled syringe                                       |
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+Hexyon - Carton for pre-filled syringe without needle. Multipack of 50 (5x10) (including blue box)
 
-Hexacima suspension for injection DTaP-IPV-HB-Hib IM
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Hexyon suspension for injection in pre-filled syringe
+
+Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
+
+DTaP-IPV-HB-Hib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose 1 (0.5 mL) contains:
+
+- Diphtheria Toxoid
+
+≥ 20 IU (30 Lf)
+
+- Tetanus Toxoid
+
+≥ 40 IU (10 Lf)
+
+- Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin
+
+25/25 µg
+
+- Poliovirus (Inactivated) Types 1/2/3
+
+29/7/26 DU
+
+- Hepatitis B surface antigen
+
+10 µg
+
+- Haemophilus influenzae type b polysaccharide conjugated to Tetanus protein
+
+12 µg
+
+22-36 µg
+
+1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
+
+## 3. LIST OF EXCIPIENTS
+
+Disodium hydrogen phosphate
+
+Potassium dihydrogen phosphate
+
+Trometamol
+
+Sucrose
+
+Essential amino acids including L-phenylalanine
+
+Sodium hydroxide, acetic acid or hydrochloric acid (for pH adjustment)
+
+Water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Suspension for injection in pre-filled syringe.
+
+Multipack: 50 (5 packs of 10) pre-filled syringes (0.5 mL) without needle.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Shake before use.
+
+Read the package leaflet before use.
+
+Scan here QR code to be included or visit https://hexyon.info.sanofi
+
+<div style=\"page-break-after: always\"></div>
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the vaccine in the outer carton in order to protect it from the light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/829/009
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted
+
+<div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Hexyon - Carton for pre-filled syringe without needle. Pack of 10 for multipack (without blue box)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Hexyon suspension for injection in pre-filled syringe
+
+Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
+
+DTaP-IPV-HB-Hib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose 1 (0.5 mL) contains:
+
+- Diphtheria Toxoid
+
+≥ 20 IU (30 Lf)
+
+- Tetanus Toxoid
+
+≥ 40 IU (10 Lf)
+
+- Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin
+
+25/25 µg
+
+- Poliovirus (Inactivated) Types 1/2/3
+
+29/7/26 DU
+
+- Hepatitis B surface antigen
+
+10 µg
+
+- Haemophilus influenzae type b polysaccharide conjugated to Tetanus protein
+
+12 µg
+
+22-36 µg
+
+1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
+
+## 3. LIST OF EXCIPIENTS
+
+Disodium hydrogen phosphate
+
+Potassium dihydrogen phosphate
+
+Trometamol
+
+Sucrose
+
+Essential amino acids including L-phenylalanine
+
+Sodium hydroxide, acetic acid or hydrochloric acid (for pH adjustment)
+
+Water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Suspension for injection in pre-filled syringe.
+
+10 pre-filled syringes (0.5 mL) without needle.
+
+Component of a multipack, cannot be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Shake before use.
+
+Read the package leaflet before use.
+
+Scan here QR code to be included or visit https://hexyon.info.sanofi
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the vaccine in the outer carton in order to protect it from the light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/829/009
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Label - Pre-filled syringe                                         |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Hexyon suspension for injection DTaP-IPV-HB-Hib IM
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -892,8 +1156,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (0.5 mL)
 
@@ -904,11 +1168,11 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Hexacima - Carton for vial. Pack of 10.
+Hexyon - Carton for vial. Pack of 10.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Hexacima suspension for injection
+Hexyon suspension for injection
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
 
@@ -918,14 +1182,31 @@ DTaP-IPV-HB-Hib
 
 One dose 1 (0.5 mL) contains:
 
-| • Diphtheria Toxoid                                                          | ≥20 IU (30 Lf)   |
-|------------------------------------------------------------------------------|------------------|
-| • Tetanus Toxoid                                                             | ≥40 IU (10 Lf)   |
-| • Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin | 25/25 µg         |
-| • Poliovirus (Inactivated) Types 1/2/3                                       | 29/7/26 DU       |
-| • Hepatitis B surface antigen                                                | 10 µg            |
-| • Haemophilus influenzae type b polysaccharide                               | 12 µg            |
-| conjugated to Tetanus protein                                                | 22-36 µg         |
+- Diphtheria Toxoid
+
+≥ 20 IU (30 Lf)
+
+- Tetanus Toxoid
+
+≥ 40 IU (10 Lf)
+
+- Bordetella pertussis antigens: Pertussis Toxoid/Filamentous Haemagglutinin
+
+25/25 µg
+
+- Poliovirus (Inactivated) Types 1/2/3
+
+29/7/26 DU
+
+- Hepatitis B surface antigen
+
+10 µg
+
+- Haemophilus influenzae type b polysaccharide conjugated to Tetanus protein
+
+12 µg
+
+22-36 µg
 
 1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
 
@@ -959,7 +1240,7 @@ Shake before use.
 
 Read the package leaflet before use.
 
-Scan here QR code to be included or visit https://hexacima.info.sanofi
+Scan here QR code to be included or visit https://hexyon.info.sanofi
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -983,13 +1264,13 @@ Keep the vaccine in the outer carton in order to protect it from the light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
+Sanofi Winthrop Industrie, 82 Avenue Raspail,94250 Gentilly, France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/828/001
+EU/1/13/829/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -999,9 +1280,9 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-<div style=\"page-break-after: always\"></div>
-
 Justification for not including Braille accepted
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1010,24 +1291,24 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| Label - Vial                                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Label - Vial                                                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Hexacima suspension for injection DTaP-IPV-HB-Hib IM
+Hexyon suspension for injection DTaP-IPV-HB-Hib IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1039,126 +1320,128 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (0.5 mL)
 
 | 6.   | OTHER   |
 |------|---------|
 
+40
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Hexacima suspension for injection in pre-filled syringe
+## Package leaflet: Information for the user
+
+## Hexyon suspension for injection in pre-filled syringe
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
 
 ## Read all of this leaflet carefully before your child is vaccinated because it contains important information for him/her.
 
-- Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
+- Keep this leaflet. You may need to read it again.
 - If your child gets any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
-1. What Hexacima is and what it is used for
-2. What you need to know before Hexacima is given to your child
-3. How Hexacima is given
+1. What Hexyon is and what it is used for
+2. What you need to know before Hexyon is given to your child
+3. How Hexyon is given
 4. Possible side effects
-5. How to store Hexacima
+5. How to store Hexyon
 6. Contents of the pack and other information
 
-## 1. What Hexacima is and what it is used for
+## 1. What Hexyon is and what it is used for
 
-Hexacima (DTaP-IPV-HB-Hib) is a vaccine used to protect against infectious diseases.
+Hexyon (DTaP-IPV-HB-Hib) is a vaccine used to protect against infectious diseases.
 
-Hexacima helps to protect against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Hexacima is given to children from six weeks of age.
+Hexyon helps to protect against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Hexyon is given to children from six weeks of age.
 
 The vaccine works by causing the body to produce its own protection (antibodies) against the bacteria and viruses that cause these different infections:
 
-- Diphtheria is an infectious disease that usually first affects the throat. In the throat, the infection causes pain and swelling that can lead to suffocation. The bacterium that causes the disease also makes a toxin (poison) that can damage the heart, kidneys, and nerves.
 - Tetanus (often called lock jaw) is usually caused by the tetanus bacterium entering a deep wound. The bacterium makes a toxin (poison) that causes spasms of the muscles leading to inability to breathe and the possibility of suffocation.
+- Diphtheria is an infectious disease that usually first affects the throat. In the throat, the infection causes pain and swelling that can lead to suffocation. The bacterium that causes the disease also makes a toxin (poison) that can damage the heart, kidneys, and nerves.
 - Pertussis (often called whooping cough) is a highly infectious illness that affects the airways. It causes severe coughing that may lead to problems with breathing. The coughing often has a 'whooping' sound. The cough may last for one to two months or longer. Whooping cough can also cause ear infections, chest infections (bronchitis) that may last a long time, lung infections (pneumonia), fits, brain damage, and even death.
-- Hepatitis B is caused by the hepatitis B virus. It causes the liver to become swollen (inflamed). In some people, the virus can stay in the body for a long time and can eventually lead to serious liver problems, including liver cancer.
 - Poliomyelitis (often just called polio) is caused by viruses that affect the nerves. It can lead to paralysis or muscle weakness most commonly of the legs. Paralysis of the muscles that control breathing and swallowing can be fatal.
+- Hepatitis B is caused by the hepatitis B virus. It causes the liver to become swollen (inflamed). In some people, the virus can stay in the body for a long time and can eventually lead to serious liver problems, including liver cancer.
 - Haemophilus influenzae type b infections (often just called Hib) are serious bacterial infections and can cause meningitis (inflammation of the outer covering of the brain), which can lead to brain damage, deafness, epilepsy, or partial blindness. Infection can also cause inflammation and swelling of the throat leading to difficulties in swallowing and breathing. The infection can affect other parts of the body such as the blood, lungs, skin, bones, and joints.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Important information about the protection provided
 
-- Hexacima will only help to prevent these diseases if they are caused by the bacteria or viruses targeted by the vaccine. Your child could get diseases with similar symptoms if they are caused by other bacteria or viruses.
-- The vaccine does not contain any live bacteria or viruses and it cannot cause any of the infectious diseases against which it protects.
+- Hexyon will only help to prevent these diseases if they are caused by the bacteria or viruses targeted by the vaccine. Your child could get diseases with similar symptoms if they are caused by other bacteria or viruses.
 - This vaccine does not protect against infections caused by other types of Haemophilus influenzae nor against meningitis due to other micro-organisms.
-- Hexacima will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C, and hepatitis E.
+- The vaccine does not contain any live bacteria or viruses and it cannot cause any of the infectious diseases against which it protects.
+- Hexyon will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C, and hepatitis E.
+- As with any vaccine, Hexyon may not protect 100% of children who receive the vaccine.
 - Because symptoms of hepatitis B take a long time to develop, it is possible for unrecognised hepatitis B infection to be present at the time of vaccination. The vaccine may not prevent hepatitis B infection in such cases.
-- As with any vaccine, Hexacima may not protect 100% of children who receive the vaccine.
 
-## 2. What you need to know before Hexacima is given to your child
+## 2. What you need to know before Hexyon is given to your child
 
-To make sure that Hexacima is suitable for your child, it is important to talk to your doctor or nurse if any of the points below apply to your child. If there is anything you do not understand, ask your doctor, pharmacist, or nurse to explain.
+To make sure that Hexyon is suitable for your child, it is important to talk to your doctor or nurse if any of the points below apply to your child. If there is anything you do not understand, ask your doctor, pharmacist, or nurse to explain.
 
-## Do not use Hexacima if your child:
+## Do not use Hexyon if your child:
 
-- has had respiratory disorder or swelling of the face (anaphylactic reaction) after administration of Hexacima.
-- has had an allergic reaction
+- has had respiratory disorder or swelling of the face (anaphylactic reaction) after administration of Hexyon.
 - to the active substances,
+- has had an allergic reaction
 - to any of the excipients listed in section 6,
 - to glutaraldehyde, formaldehyde, neomycin, streptomycin or polymyxin B, as these substances are used during the manufacturing process.
-- after previous administration of Hexacima or any other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib containing vaccines.
-- suffered from a severe reaction affecting the brain (encephalopathy) within 7 days of a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
+- after previous administration of Hexyon or any other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib containing vaccines.
 - has an uncontrolled condition or severe illness affecting the brain and nervous system (uncontrolled neurologic disorder), or uncontrolled epilepsy.
+- suffered from a severe reaction affecting the brain (encephalopathy) within 7 days of a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before vaccination if your child:
 
-- has a moderate or high temperature or an acute illness (e.g. fever, sore throat, cough, cold, or flu). Vaccination with Hexacima may need to be delayed until your child is better.
 - has had any of the following events after receiving a pertussis vaccine, as the decision to give further doses of pertussis containing vaccine will need to be carefully considered:
+- has a moderate or high temperature or an acute illness (e.g. fever, sore throat, cough, cold, or flu). Vaccination with Hexyon may need to be delayed until your child is better.
 - fever of 40°C or above within 48 hours of vaccination not due to another identifiable cause.
 - collapse or shock-like state with hypotonic-hyporesponsive episode (drop in energy) within 48 hours of vaccination.
 - persistent, inconsolable crying lasting 3 hours or more, occurring within 48 hours of vaccination.
 - fits (convulsions) with or without fever, occurring within 3 days of vaccination.
-- previously had Guillain-Barré syndrome (temporary inflammation of nerves causing pain, paralysis, and sensitivity disorders) or brachial neuritis (severe pain and decreased mobility of
+- previously had Guillain-Barré syndrome (temporary inflammation of nerves causing pain, paralysis, and sensitivity disorders) or brachial neuritis (severe pain and decreased mobility of arm and shoulder) after being given a vaccine containing tetanus toxoid (an inactivated form of
 
 <div style=\"page-break-after: always\"></div>
 
-arm and shoulder) after being given a vaccine containing tetanus toxoid (an inactivated form of tetanus toxin). In this case, the decision to give any further vaccine containing tetanus toxoid should be evaluated by your doctor.
+tetanus toxin). In this case, the decision to give any further vaccine containing tetanus toxoid should be evaluated by your doctor.
 
-- is having a treatment that suppresses her/his immune system (the body's natural defenses) or has any disease that causes the weakness of the immune system. In these cases the immune response to the vaccine may be decreased. It is normally recommended to wait until the end of the treatment or disease before vaccinating. However children with long standing problems with their immune system such as HIV infection (AIDS) may still be given Hexacima, but the protection may not be as good as in children whose immune system is healthy.
 - suffers from an acute or chronic illness including chronic renal insufficiency or failure (inability of the kidneys to work properly).
+- is having a treatment that suppresses her/his immune system (the body's natural defenses) or has any disease that causes the weakness of the immune system. In these cases the immune response to the vaccine may be decreased. It is normally recommended to wait until the end of the treatment or disease before vaccinating. However children with long standing problems with their immune system such as HIV infection (AIDS) may still be given Hexyon, but the protection may not be as good as in children whose immune system is healthy.
 - suffers from any undiagnosed illness of the brain or epilepsy that is not controlled. Your doctor will assess the potential benefit offered by vaccination.
-- has any problems with the blood that cause easy bruising or bleeding for a long time after minor cuts. Your doctor will advise you whether your child should have Hexacima.
+- has any problems with the blood that cause easy bruising or bleeding for a long time after minor cuts. Your doctor will advise you whether your child should have Hexyon.
 
 Fainting can occur following, or even before, any needle injection. Therefore, tell your doctor or nurse your child fainted with a previous injection.
 
-## Other medicines or vaccines and Hexacima
+## Other medicines or vaccines and Hexyon
 
 Tell your doctor or nurse if your child is taking, has recently taken, or might take any other medicines or vaccines.
 
-Hexacima can be given at the same time as other vaccines such as pneumococcal vaccines, measles, mumps, rubella vaccines, varicella vaccines, rotavirus vaccines, or meningococcal vaccines.
+Hexyon can be given at the same time as other vaccines such as pneumococcal vaccines, measles, mumps, rubella vaccines, varicella vaccines, rotavirus vaccines, or meningococcal vaccines.
 
-When given at the same time with other vaccines, Hexacima will be given at different injection sites.
+When given at the same time with other vaccines, Hexyon will be given at different injection sites.
 
-## Hexacima contains phenylalanine, potassium and sodium
+## Hexyon contains phenylalanine, potassium and sodium
 
-Hexacima contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
+Hexyon contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
-Hexacima contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
+Hexyon contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
 
-## 3. How Hexacima is given
+## 3. How Hexyon is given
 
-Hexacima will be given to your child by a doctor or nurse trained in the use of vaccines and who are equipped to deal with any uncommon severe allergic reaction to the injection (see section 4 Possible side effects).
+Hexyon will be given to your child by a doctor or nurse trained in the use of vaccines and who are equipped to deal with any uncommon severe allergic reaction to the injection (see section 4 Possible side effects).
 
-Hexacima is given as an injection into a muscle (intramuscular route IM) in the upper part of your child's leg or upper arm. The vaccine will never be given into a blood vessel or into or under the skin.
+Hexyon is given as an injection into a muscle (intramuscular route IM) in the upper part of your child's leg or upper arm. The vaccine will never be given into a blood vessel or into or under the skin.
 
-The recommended dose is as follows:
+## The recommended dose is as follows:
 
 ## First course of vaccination (primary vaccination)
 
@@ -1170,7 +1453,7 @@ After the first course of injections, your child will receive a booster dose, in
 
 <div style=\"page-break-after: always\"></div>
 
-## If your child misses a dose of Hexacima
+## If your child misses a dose of Hexyon
 
 If your child misses a scheduled injection, it is important that you discuss with your doctor or nurse who will decide when to give the missed dose.
 
@@ -1187,10 +1470,10 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 If any of these symptoms occur after leaving the place where your child received his/her injection, you must consult a doctor IMMEDIATELY:
 
 - difficulty in breathing
-- blueness of the tongue or lips
 - a rash
+- blueness of the tongue or lips
 - swelling of the face or throat
-- sudden and serious malaise with drop in blood pressure causing dizziness and loss of consciousness, accelerated heart rate associated with respiratory disorders.
+- sudden and serious malaise with drop in blood pressure causing dizziness and loss of consciousness, accelerated heart rate associated with respiratory disorders
 
 When these signs or symptoms (signs or symptoms of anaphylactic reaction) occur they usually develop quickly after the injection is given and while the child is still in the clinic or doctor's surgery.
 
@@ -1200,47 +1483,49 @@ Serious allergic reactions are a rare possibility (may affect up to 1 in 1 000 p
 
 If your child experiences any of the following side effects, please tell your doctor, nurse, or pharmacist.
 
-- Very common side effects (may affect more than 1 in 10 people) are:
 - loss of appetite (anorexia)
+- Very common side effects (may affect more than 1 in 10 people) are:
 - crying
 - sleepiness (somnolence)
 - vomiting
 - fever (temperature 38°C or higher)
 - irritability
 - pain, redness, or swelling at the injection site
-- Common side effects (may affect up to 1 in 10 people) are:
 - abnormal crying (prolonged crying)
+- Common side effects (may affect up to 1 in 10 people) are:
 - diarrhoea
 - injection site hardness (induration)
-- Uncommon side effects (may affect up to 1 in 100 people) are:
 - allergic reaction
+- Uncommon side effects (may affect up to 1 in 100 people) are:
 - high fever (temperature 39.6°C or higher)
 - lump (nodule) at the injection site
-- Rare side effects (may affect up to 1 in 1 000people) are:
 - rash
-- large reactions at the injection site (larger than 5 cm), including extensive limb swelling from the injection site beyond one or both joints. These reactions start within 24-72 hours after vaccination, may be associated with redness, warmth, tenderness, or pain at the injection site, and get better within 3-5 days without the need for treatment.
+- Rare side effects (may affect up to 1 in 1 000 people) are:
+- large reactions at the injection site (larger than 5 cm), including extensive limb swelling from the injection site beyond one or both joints. These reactions start within 24-72 hours after vaccination, may be associated with redness, warmth, tenderness, or pain at the injection site,
 
 <div style=\"page-break-after: always\"></div>
 
+and get better within 3-5 days without the need for treatment.
+
 - fits (convulsions) with or without fever.
-- Very rare side effects (may affect up to 1 in 10 000 people) are:
 - episodes when your child goes into a shock-like state or is pale, floppy and unresponsive for a period of time (hypotonic reactions or hypotonic hyporesponsive episodes HHE).
+- Very rare side effects (may affect up to 1 in 10 000 people) are:
 
 ## Potential side effects
 
-Other side effects not listed above have been reported occasionally with other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib-containing vaccines and not directly with Hexacima:
+Other side effects not listed above have been reported occasionally with other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib-containing vaccines and not directly with Hexyon:
 
-- Temporary inflammation of nerves causing pain, paralysis and sensitivity disorders (GuillainBarré syndrome), and severe pain and decreased mobility of arm and shoulder (brachial neuritis) have been reported after administration of a tetanus containing vaccine.
 - Inflammation of several nerves causing sensory disorders or weakness of limbs (polyradiculoneuritis), facial paralysis, visual disturbances, sudden dimming or loss of vision (optic neuritis), inflammatory disease of brain and spinal cord (central nervous system demyelination, multiple sclerosis) have been reported after administration of a hepatitis B antigen containing vaccine.
+- Temporary inflammation of nerves causing pain, paralysis and sensitivity disorders (Guillain-Barré syndrome), and severe pain and decreased mobility of arm and shoulder (brachial neuritis) have been reported after administration of a tetanus containing vaccine.
 - Swelling or inflammation of the brain (encephalopathy/encephalitis).
-- In babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2 - 3 days after vaccination.
 - Swelling of one or both feet and lower limbs which may occur along with bluish discoloration of the skin (cyanosis), redness, small areas of bleeding under the skin (transient purpura), and severe crying following vaccination with Haemophilus influenzae type b containing vaccines. If this reaction occurs, it is mainly after first injections and within the first few hours following vaccination. All symptoms should disappear completely within 24 hours without need for treatment.
+- In babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2 - 3 days after vaccination.
 
 ## Reporting of side effects
 
 If your child gets any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5. How to store Hexacima
+## 5. How to store Hexyon
 
 Keep this vaccine out of the sight and reach of children.
 
@@ -1256,34 +1541,26 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What Hexacima contains
+## What Hexyon contains
 
-The active substances are per dose (0.5 mL) 1 : Diphtheria Toxoid Tetanus Toxoid Bordetella pertussis antigens
+The active substances are per dose (0.5 mL) 1 Diphtheria Toxoid Tetanus Toxoid Bordetella pertussis antigens
+
+:
 
 not less than 20 IU 2,4 (30 Lf) not less than 40 IU 3,4 (10 Lf)
 
 <div style=\"page-break-after: always\"></div>
 
-| Pertussis Toxoid                                                            | 25 micrograms        |
-|-----------------------------------------------------------------------------|----------------------|
-| Filamentous Haemagglutinin                                                  | 25 micrograms        |
-| Poliovirus (Inactivated) 5                                                  |                      |
-| Type 1 (Mahoney)                                                            | 29 D-antigen units 6 |
-| Type 2 (MEF-1)                                                              | 7 D-antigen units 6  |
-| Type 3 (Saukett)                                                            | 26 D-antigen units 6 |
-| Hepatitis B surface antigen 7                                               | 10 micrograms        |
-| Haemophilus influenzae type b polysaccharide (Polyribosylribitol Phosphate) | 12 micrograms        |
-| conjugated to Tetanus protein                                               | 22-36 micrograms     |
-
-1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
-
-2 As lower confidence limit (p= 0.95) and not less than 30 IU as mean value
-
-- 3 As lower confidence limit (p= 0.95)
-- 4 Or equivalent activity determined by an immunogenicity evaluation
-- 5 Cultivated on Vero cells
-- 6 These antigen quantities are strictly the same as those previously expressed as 40-8-32 D-antigen units, for virus type 1, 2 and 3 respectively, when measured by another suitable immunochemical method
-- 7 Produced in yeast Hansenula polymorpha cells by recombinant DNA technology
+| Pertussis Toxoid                                             | 25 micrograms        |
+|--------------------------------------------------------------|----------------------|
+| Filamentous Haemagglutinin                                   | 25 micrograms        |
+| Poliovirus (Inactivated) 5                                   |                      |
+| Type 1 (Mahoney)                                             | 29 D-antigen units 6 |
+| Type 2 (MEF-1)                                               | 7 D-antigen units 6  |
+| Type 3 (Saukett)                                             | 26 D-antigen units 6 |
+| Hepatitis B surface antigen 7                                | 10 micrograms        |
+| Haemophilus influenzae type b polysaccharide                 | 12 micrograms        |
+| (Polyribosylribitol Phosphate) conjugated to Tetanus protein | 22-36 micrograms     |
 
 ## The other ingredients are:
 
@@ -1291,17 +1568,19 @@ Disodium hydrogen phosphate, potassium dihydrogen phosphate, trometamol, sucrose
 
 The vaccine may contain traces of glutaraldehyde, formaldehyde, neomycin, streptomycin, and polymyxin B.
 
-## What Hexacima looks like and contents of the pack
+## What Hexyon looks like and contents of the pack
 
-Hexacima is provided as a suspension for injection in pre-filled syringe (0.5 mL).
+Hexyon is provided as a suspension for injection in pre-filled syringe (0.5 mL).
 
-Hexacima is available in pack containing 1 or 10 pre-filled syringes, without attached needle.
+Hexyon is available in pack containing 1,10 or 50 pre-filled syringes, without attached needle.
 
-Hexacima is available in pack containing 1 or 10 pre-filled syringes, with 1 separate needle.
+Hexyon is available in pack containing 1 or 10 pre-filled syringes, with 1 separate needle.
 
-Hexacima is available in pack containing 1 or 10 pre-filled syringes, with 2 separate needles.
+Hexyon is available in pack containing 1 or 10 pre-filled syringes, with 2 separate needles.
 
-Hexacima is available in pack containing 1 or 10 pre-filled syringes, with 1 separate safety needle.
+Hexyon is available in multipack comprising 5 cartons, each containing 10 pre-filled syringes, without attached needle.
+
+Hexyon is available in pack containing 1 or 10 pre-filled syringes, with 1 separate safety needle.
 
 Not all pack sizes may be marketed.
 
@@ -1311,7 +1590,7 @@ After shaking, the normal appearance of the vaccine is a whitish cloudy suspensi
 
 ## Marketing Authorisation Holder
 
-Sanofi Wintrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
+Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
 
 ## Manufacturer
 
@@ -1327,17 +1606,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/ Belgique /Belgien
 
-Sanofi Belgium Tel: +32 2 710.54.00
+Sanofi Belgium
+
+Tel: +32 2 710.54.00
 
 ## България
 
-Swixx Biopharma EOOD Teл.: +359 2 4942 480
+Swixx Biopharma EOOD Te л .: +359 2 4942 480
 
-## Česká republika
+## Č eská republika
 
-Sanofi s.r.o.
-
-Tel: +420 233 086 111
+Sanofi s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
@@ -1353,13 +1632,11 @@ Swixx Biopharma OÜ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε. Τηλ: +30.210.8009111
+ΒΙΑΝΕΞ Α . Ε . Τηλ : +30.210.8009111
 
 ## España
 
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
+sanofi-aventis, S.A. Tel: +34 93 485 94 00
 
 ## France
 
@@ -1379,7 +1656,9 @@ Vistor ehf. Tel: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800536389
+Sanofi S.r.l.
+
+Tel: 800536389
 
 ## Lietuva
 
@@ -1401,9 +1680,7 @@ Sanofi S.r.l. Tel: +39 02 39394 275
 
 ## Nederland
 
-Sanofi B.V.
-
-Tel: +31 20 245 4000
+Sanofi B.V. Tel: +31 20 245 4000
 
 ## Norge
 
@@ -1439,13 +1716,15 @@ Sanofi Oy
 
 Tel: +358 (0) 201 200 300
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
-Τηλ.: +357 22 741741
+Τηλ
 
-<div style=\"page-break-after: always\"></div>
+.: +357 22 741741
 
 ## Latvija
 
@@ -1457,9 +1736,9 @@ Tel: +371 6 6164 750
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed  information  on  this  medicine  is  available  on  the  European  Medicines  Agency  web  site: http://www.ema.europa.eu.
 
-Latest approved information on this vaccine is available on the following URL: https://hexacima.info.sanofi or by scanning the QR code with a smartphone:
+Latest approved information on this vaccine is available on the following URL: https://hexyon.info.sanofi or by scanning the QR code with a smartphone:
 
 QR code to be included
 
@@ -1468,8 +1747,8 @@ QR code to be included
 ## The following information is intended for healthcare professionals only:
 
 - Shake the pre-filled syringe so that the contents become homogeneous.
-- Hexacima should not be mixed with other medicinal products.
-- Hexacima must be administered intramuscularly. The recommended injection sites are the antero-lateral area of the upper thigh (preferred site) or the deltoid muscle in older children (possibly from 15 months of age).
+- Hexyon must be administered intramuscularly. The recommended injection sites are the anterolateral area of the upper thigh (preferred site) or the deltoid muscle in older children (possibly from 15 months of age).
+- Hexyon should not be mixed with other medicinal products.
 - The intradermal or intravenous routes must not be used. Do not administer by intravascular injection: ensure that the needle does not penetrate a blood vessel.
 - Do not use the pre-filled syringes if the carton is damaged.
 
@@ -1479,25 +1758,23 @@ The syringe with suspension for injection should be visually inspected prior to 
 
 The syringe is intended for single use only and must not be reused.
 
-Instructions for use of Luer Lock pre-filled syringe
-
-Picture A: Luer Lock syringe with Rigid Tip Cap
-
-<!-- image -->
-
-## Sverige
-
-Sanofi AB
+Sverige Sanofi AB
 
 Tel: +46 8-634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
+Instructions for use of Luer Lock pre-filled syringe
+
+<!-- image -->
+
+Picture A: Luer Lock syringe with Rigid Tip Cap
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-&lt;Instructions for use of Safety Needle with Luer Lock pre-filled syringe
+&lt;Instructions for use of safety needle with Luer Lock pre-filled syringe
 
 <!-- image -->
 
@@ -1519,110 +1796,110 @@ Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  
 
 ## Package leaflet: Information for the user
 
-## Hexacima suspension for injection
+## Hexyon suspension for injection
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
 
 ## Read all of this leaflet carefully before your child is vaccinated because it contains important information for him/her.
 
-- Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
+- Keep this leaflet. You may need to read it again.
 - If your child gets any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
-1. What Hexacima is and what it is used for
-2. What you need to know before Hexacima is given to your child
-3. How Hexacima is given
+1. What Hexyon is and what it is used for
+3. How Hexyon is given
+2. What you need to know before Hexyon is given to your child
 4. Possible side effects
-5. How to store Hexacima
 6. Contents of the pack and other information
+5. How to store Hexyon
 
-## 1. What Hexacima is and what it is used for
+## 1. What Hexyon is and what it is used for
 
-Hexacima (DTaP-IPV-HB-Hib) is a vaccine used to protect against infectious diseases.
+Hexyon (DTaP-IPV-HB-Hib) is a vaccine used to protect against infectious diseases.
 
-Hexacima helps to protect against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Hexacima is given to children from six weeks of age.
+Hexyon helps to protect against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Hexyon is given to children from six weeks of age.
 
 The vaccine works by causing the body to produce its own protection (antibodies) against the bacteria and viruses that cause these different infections:
 
 - Diphtheria is an infectious disease that usually first affects the throat. In the throat, the infection causes pain and swelling that can lead to suffocation. The bacterium that causes the disease also makes a toxin (poison) that can damage the heart, kidneys, and nerves.
-- Tetanus (often called lock jaw) is usually caused by the tetanus bacterium entering a deep wound. The bacterium makes a toxin (poison) that causes spasms of the muscles leading to inability to breathe and the possibility of suffocation.
 - Pertussis (often called whooping cough) is a highly infectious illness that affects the airways. It causes severe coughing that may lead to problems with breathing. The coughing often has a 'whooping' sound. The cough may last for one to two months or longer. Whooping cough can also cause ear infections, chest infections (bronchitis) that may last a long time, lung infections (pneumonia), fits, brain damage, and even death.
+- Tetanus (often called lock jaw) is usually caused by the tetanus bacterium entering a deep wound. The bacterium makes a toxin (poison) that causes spasms of the muscles leading to inability to breathe and the possibility of suffocation.
 - Hepatitis B is caused by the hepatitis B virus. It causes the liver to become swollen (inflamed). In some people, the virus can stay in the body for a long time and can eventually lead to serious liver problems, including liver cancer.
-- Poliomyelitis (often just called polio) is caused by viruses that affect the nerves. It can lead to paralysis or muscle weakness most commonly of the legs. Paralysis of the muscles that control breathing and swallowing can be fatal.
 - Haemophilus influenzae type b infections (often just called Hib) are serious bacterial infections and can cause meningitis (inflammation of the outer covering of the brain), which can lead to brain damage, deafness, epilepsy, or partial blindness. Infection can also cause inflammation and swelling of the throat leading to difficulties in swallowing and breathing. The infection can affect other parts of the body such as the blood, lungs, skin, bones, and joints.
+- Poliomyelitis (often just called polio) is caused by viruses that affect the nerves. It can lead to paralysis or muscle weakness most commonly of the legs. Paralysis of the muscles that control breathing and swallowing can be fatal.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Important information about the protection provided
 
-- Hexacima will only help to prevent these diseases if they are caused by the bacteria or viruses targeted by the vaccine. Your child could get diseases with similar symptoms if they are caused by other bacteria or viruses.
-- The vaccine does not contain any live bacteria or viruses and it cannot cause any of the infectious diseases against which it protects.
+- Hexyon will only help to prevent these diseases if they are caused by the bacteria or viruses targeted by the vaccine. Your child could get diseases with similar symptoms if they are caused by other bacteria or viruses.
 - This vaccine does not protect against infections caused by other types of Haemophilus influenzae nor against meningitis due to other micro-organisms.
-- Hexacima will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C, and hepatitis E.
+- The vaccine does not contain any live bacteria or viruses and it cannot cause any of the infectious diseases against which it protects.
+- Hexyon will not protect against hepatitis infection caused by other agents such as hepatitis A, hepatitis C, and hepatitis E.
+- As with any vaccine, Hexyon may not protect 100% of children who receive the vaccine.
 - Because symptoms of hepatitis B take a long time to develop, it is possible for unrecognised hepatitis B infection to be present at the time of vaccination. The vaccine may not prevent hepatitis B infection in such cases.
-- As with any vaccine, Hexacima may not protect 100% of children who receive the vaccine
 
-## 2. What you need to know before Hexacima is given to your child
+## 2. What you need to know before Hexyon is given to your child
 
-To make sure that Hexacima is suitable for your child, it is important to talk to your doctor or nurse if any of the points below apply to your child. If there is anything you do not understand, ask your doctor, pharmacist, or nurse to explain.
+To make sure that Hexyon is suitable for your child, it is important to talk to your doctor or nurse if any of the points below apply to your child. If there is anything you do not understand, ask your doctor, pharmacist, or nurse to explain.
 
-## Do not use Hexacima if your child:
+## Do not use Hexyon if your child:
 
-- has had respiratory disorder or swelling of the face (anaphylactic reaction) after administration of Hexacima
-- has had an allergic reaction
+- has had respiratory disorder or swelling of the face (anaphylactic reaction) after administration of Hexyon
 - to the active substances,
+- has had an allergic reaction
 - to any of the excipients listed in section 6,
 - to glutaraldehyde, formaldehyde, neomycin, streptomycin or polymyxin B, as these substances are used during the manufacturing process
-- after previous administration of Hexacima or any other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib containing vaccines.
-- suffered from a severe reaction affecting the brain (encephalopathy) within 7 days of a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
+- after previous administration of Hexyon or any other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib containing vaccines.
 - has an uncontrolled condition or severe illness affecting the brain and nervous system (uncontrolled neurologic disorder), or uncontrolled epilepsy.
+- suffered from a severe reaction affecting the brain (encephalopathy) within 7 days of a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before vaccination if your child:
 
-- has a moderate or high temperature or an acute illness (e.g. fever, sore throat, cough, cold, or flu). Vaccination with Hexacima may need to be delayed until your child is better.
 - has had any of the following events after receiving a pertussis vaccine, as the decision to give further doses of pertussis containing vaccine will need to be carefully considered:
+- has a moderate or high temperature or an acute illness (e.g. fever, sore throat, cough, cold, or flu). Vaccination with Hexyon may need to be delayed until your child is better.
 - fever of 40°C or above within 48 hours of vaccination not due to another identifiable cause.
 - collapse or shock-like state with hypotonic-hyporesponsive episode (drop in energy) within 48 hours of vaccination.
 - persistent, inconsolable crying lasting 3 hours or more, occurring within 48 hours of vaccination.
 - fits (convulsions) with or without fever, occurring within 3 days of vaccination.
-- previously had Guillain-Barré syndrome (temporary inflammation of nerves causing pain, paralysis, and sensitivity disorders) or brachial neuritis (severe pain and decreased mobility of
+- previously had Guillain-Barré syndrome (temporary inflammation of nerves causing pain, paralysis, and sensitivity disorders) or brachial neuritis (severe pain and decreased mobility of arm and shoulder) after being given a vaccine containing tetanus toxoid (an inactivated form of
 
 <div style=\"page-break-after: always\"></div>
 
-arm and shoulder) after being given a vaccine containing tetanus toxoid (an inactivated form of tetanus toxin). In this case, the decision to give any further vaccine containing tetanus toxoid should be evaluated by your doctor.
+tetanus toxin). In this case, the decision to give any further vaccine containing tetanus toxoid should be evaluated by your doctor.
 
-- is having a treatment that suppresses her/his immune system (the body's natural defenses) or has any disease that causes the weakness of the immune system. In these cases the immune response to the vaccine may be decreased. It is normally recommended to wait until the end of the treatment or disease before vaccinating. However children with long standing problems with their immune system such as HIV infection (AIDS) may still be given Hexacima, but the protection may not be as good as in children whose immune system is healthy.
 - suffers from an acute or chronic illness including chronic renal insufficiency or failure (inability of the kidneys to work properly).
+- is having a treatment that suppresses her/his immune system (the body's natural defenses) or has any disease that causes the weakness of the immune system. In these cases the immune response to the vaccine may be decreased. It is normally recommended to wait until the end of the treatment or disease before vaccinating. However children with long standing problems with their immune system such as HIV infection (AIDS) may still be given Hexyon, but the protection may not be as good as in children whose immune system is healthy.
 - suffers from any undiagnosed illness of the brain or epilepsy that is not controlled. Your doctor will assess the potential benefit offered by vaccination.
-- has any problems with the blood that cause easy bruising or bleeding for a long time after minor cuts. Your doctor will advise you whether your child should have Hexacima.
+- has any problems with the blood that cause easy bruising or bleeding for a long time after minor cuts. Your doctor will advise you whether your child should have Hexyon.
 
 Fainting can occur following, or even before, any needle injection. Therefore, tell your doctor or nurse your child fainted with a previous injection.
 
-## Other medicines or vaccines and Hexacima
+## Other medicines or vaccines and Hexyon
 
 Tell your doctor or nurse if your child is taking, has recently taken, or might take any other medicines or vaccines.
 
-Hexacima can be given at the same time as other vaccines such as pneumococcal vaccines, measles, mumps, rubella vaccines, varicella vaccines, rotavirus vaccines or meningococcal vaccines.
+Hexyon can be given at the same time as other vaccines such as pneumococcal vaccines, measles, mumps, rubella vaccines, varicella vaccines, rotavirus vaccines, or meningococcal vaccines.
 
-When given at the same time with other vaccines, Hexacima will be given at different injection sites.
+When given at the same time with other vaccines, Hexyon will be given at different injection sites.
 
-## Hexacima contains phenylalanine, potassium and sodium
+## Hexyon contains phenylalanine, potassium and sodium
 
-Hexacima contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
+Hexyon contains 85 micrograms phenylalanine in each 0.5-mL dose. Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
-Hexacima contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
+Hexyon contains less than 1 mmol potassium (39 mg) and less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'potassium-free' and 'sodium-free'.
 
-## 3. How Hexacima is given
+## 3. How Hexyon is given
 
-Hexacima will be given to your child by a doctor or nurse trained in the use of vaccines and who are equipped to deal with any uncommon severe allergic reaction to the injection (see section 4 Possible side effects).
+Hexyon will be given to your child by a doctor or nurse trained in the use of vaccines and who are equipped to deal with any uncommon severe allergic reaction to the injection (see section 4 Possible side effects).
 
-Hexacima is given as an injection into a muscle (intramuscular route IM) in the upper part of your child's leg or upper arm. The vaccine will never be given into a blood vessel or into or under the skin.
+Hexyon is given as an injection into a muscle (intramuscular route IM) in the upper part of your child's leg or upper arm. The vaccine will never be given into a blood vessel or into or under the skin.
 
-The recommended dose is as follows:
+## The recommended dose is as follows:
 
 ## First course of vaccination (primary vaccination)
 
@@ -1634,7 +1911,7 @@ After the first course of injections, your child will receive a booster dose, in
 
 <div style=\"page-break-after: always\"></div>
 
-## If your child misses a of Hexacima
+## If your child misses a dose of Hexyon
 
 If your child misses a scheduled injection, it is important that you discuss with your doctor or nurse who will decide when to give the missed dose.
 
@@ -1651,10 +1928,10 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 If any of these symptoms occur after leaving the place where your child received his/her injection, you must consult a doctor IMMEDIATELY:
 
 - difficulty in breathing
-- blueness of the tongue or lips
 - a rash
+- blueness of the tongue or lips
 - swelling of the face or throat
-- sudden and serious malaise with drop in blood pressure causing dizziness and loss of consciousness, accelerated heart rate associated with respiratory disorders.
+- sudden and serious malaise with drop in blood pressure causing dizziness and loss of consciousness, accelerated heart rate associated with respiratory disorders
 
 When these signs or symptoms (signs or symptoms of anaphylactic reaction) occur they usually develop quickly after the injection is given and while the child is still in the clinic or doctor's surgery.
 
@@ -1664,47 +1941,49 @@ Serious allergic reactions are a rare possibility (may affect up to 1 in 1 000 p
 
 If your child experiences any of the following side effects, please tell your doctor, nurse, or pharmacist.
 
-- Very common side effects (may affect more than 1 in 10 people) are:
 - loss of appetite (anorexia)
+- Very common side effects (may affect more than 1 in 10 people) are:
 - crying
 - sleepiness (somnolence)
 - vomiting
 - fever (temperature 38°C or higher)
 - irritability
 - pain, redness, or swelling at the injection site
-- Common side effects (may affect up to 1 in 10 people) are:
 - abnormal crying (prolonged crying)
+- Common side effects (may affect up to 1 in 10 people) are:
 - diarrhoea
 - injection site hardness (induration)
-- Uncommon side effects (may affect up to 1 in 100 people) are:
 - allergic reaction
+- Uncommon side effects (may affect up to 1 in 100 people) are:
 - high fever (temperature 39.6°C or higher)
-- lump (nodule) at the injection site
-- Rare side effects (may affect up to 1 in 1 000 people) are:
+- a lump (nodule) at the injection site
 - rash
-- large reactions at the injection site (larger than 5 cm), including extensive limb swelling from the injection site beyond one or both joints. These reactions start within 24-72 hours after vaccination, may be associated with redness, warmth, tenderness, or pain at the injection site, and get better within 3-5 days without the need for treatment.
+- Rare side effects (may affect up to 1 in 1 000 people) are:
+- large reactions at the injection site (larger than 5 cm), including extensive limb swelling from the injection site beyond one or both joints. These reactions start within 24-72 hours after vaccination, may be associated with redness, warmth, tenderness, or pain at the injection site,
 
 <div style=\"page-break-after: always\"></div>
 
+and get better within 3-5 days without the need for treatment.
+
 - fits (convulsions) with or without fever
-- Very rare side effects (may affect up to 1 in 10 000 people) are:
 - episodes when your child goes into a shock-like state or is pale, floppy and unresponsive for a period of time (hypotonic reactions or hypotonic hyporesponsive episodes HHE).
+- Very rare side effects (may affect up to 1 in 10 000 people) are:
 
 ## Potential side effects
 
-Other side effects not listed above have been reported occasionally with other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib-containing vaccines and not directly with Hexacima:
+Other side effects not listed above have been reported occasionally with other diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B, or Hib-containing vaccines and not directly with Hexyon:
 
-- Temporary inflammation of nerves causing pain, paralysis and sensitivity disorders (GuillainBarré syndrome), and severe pain and decreased mobility of arm and shoulder (brachial neuritis) have been reported after administration of a tetanus containing vaccine.
 - Inflammation of several nerves causing sensory disorders or weakness of limbs (polyradiculoneuritis), facial paralysis, visual disturbances, sudden dimming or loss of vision (optic neuritis), inflammatory disease of brain and spinal cord (central nervous system demyelination, multiple sclerosis) have been reported after administration of a hepatitis B antigen containing vaccine.
+- Temporary inflammation of nerves causing pain, paralysis and sensitivity disorders (GuillainBarré syndrome), and severe pain and decreased mobility of arm and shoulder (brachial neuritis) have been reported after administration of a tetanus containing vaccine.
 - Swelling or inflammation of the brain (encephalopathy/encephalitis).
-- In babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2 - 3 days after vaccination.
 - Swelling of one or both feet and lower limbs which may occur along with bluish discoloration of the skin (cyanosis), redness, small areas of bleeding under the skin (transient purpura), and severe crying following vaccination with Haemophilus influenzae type b containing vaccines. If this reaction occurs, it is mainly after first injections and within the first few hours following vaccination. All symptoms should disappear completely within 24 hours without need for treatment.
+- In babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2 - 3 days after vaccination.
 
 ## Reporting of side effects
 
 If your child gets any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5. How to store Hexacima
+## 5. How to store Hexyon
 
 Keep this vaccine out of the sight and reach of children.
 
@@ -1720,36 +1999,35 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What Hexacima contains
+## What Hexyon contains
 
-The active substances are per dose (0.5 mL) 1 : Diphtheria Toxoid Tetanus Toxoid Bordetella pertussis antigens
-
-not less than 20 IU 2,4 (30 Lf) not less than 40 IU 3,4 (10 Lf)
+The active substances are per dose (0.5 mL) 1 : Diphtheria Toxoid Tetanus Toxoid not less than 20 IU 2,4 (30 Lf) not less than 40 IU 3,4 (10 Lf)
 
 <div style=\"page-break-after: always\"></div>
 
-| Pertussis Toxoid                                             | 25 micrograms        |
-|--------------------------------------------------------------|----------------------|
-| Filamentous Haemagglutinin                                   | 25 micrograms        |
-| Poliovirus (Inactivated) 5                                   |                      |
-| Type 1 (Mahoney)                                             | 29 D-antigen units 6 |
-| Type 2 (MEF-1)                                               | 7 D-antigen units 6  |
-| Type 3 (Saukett)                                             | 26 D-antigen units 6 |
-| Hepatitis B surface antigen 7                                | 10 micrograms        |
-| Haemophilus influenzae type b polysaccharide                 | 12 micrograms        |
-| (Polyribosylribitol Phosphate) conjugated to Tetanus protein | 22-36 micrograms     |
+| Bordetella pertussis antigens                                               |                      |
+|-----------------------------------------------------------------------------|----------------------|
+| Pertussis Toxoid                                                            | 25 micrograms        |
+| Filamentous Haemagglutinin                                                  | 25 micrograms        |
+| Poliovirus (Inactivated) 5                                                  |                      |
+| Type 1 (Mahoney)                                                            | 29 D-antigen units 6 |
+| Type 2 (MEF-1)                                                              | 7 D-antigen units 6  |
+| Type 3 (Saukett)                                                            | 26 D-antigen units 6 |
+| Hepatitis B surface antigen 7                                               | 10 micrograms        |
+| Haemophilus influenzae type b polysaccharide (Polyribosylribitol Phosphate) | 12 micrograms        |
+| conjugated to Tetanus protein                                               | 22-36 micrograms     |
 
 1 Adsorbed on aluminium hydroxide, hydrated (0.6 mg Al 3+ )
 
-2 As lower confidence limit (p= 0.95) and not less than 30 IU as mean value
-
 3 As lower confidence limit (p= 0.95)
+
+2 As lower confidence limit (p= 0.95) and not less than 30 IU as mean value
 
 4 Or equivalent activity determined by an immunogenicity evaluation
 
-5 Cultivated on Vero cells
-
 6 These antigen quantities are strictly the same as those previously expressed as 40-8-32 D-antigen units, for virus type 1, 2 and 3 respectively, when measured by another suitable immunochemical method
+
+5 Cultivated on Vero cells
 
 7 Produced in yeast Hansenula polymorpha cells by recombinant DNA technology
 
@@ -1759,17 +2037,15 @@ Disodium hydrogen phosphate, potassium dihydrogen phosphate, trometamol, sucrose
 
 The vaccine may contain traces of glutaraldehyde, formaldehyde, neomycin, streptomycin, and polymyxin B.
 
-## What Hexacima looks like and contents of the pack
+## What Hexyon looks like and contents of the pack
 
-Hexacima is provided as a suspension for injection in vial (0.5 mL). Hexacima is available in pack containing 10 vials.
+Hexyon is provided as a suspension for injection in vial (0.5 mL). Hexyon is available in pack containing 10 vials.
 
 After shaking, the normal appearance of the vaccine is a whitish cloudy suspension.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
-
-Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
+Marketing Authorisation Holder Sanofi Winthrop Industrie, 82 Avenue Raspail, 94250 Gentilly, France
 
 ## Manufacturer
 
@@ -1783,19 +2059,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/ Belgique /Belgien
 
-Sanofi Belgium Tel: +32 2 710.54.00
+Sanofi Belgium
+
+Tel: +32 2 710.54.00
 
 ## България
 
-Swixx Biopharma EOOD
+Swixx Biopharma EOOD Te л .: +359 (0)2 4942 480
 
-Teл.: +359 (0)2 4942 480
+## Č eská republika
 
-## Česká republika
-
-Sanofi s.r.o.
-
-Tel: +420 233 086 111
+Sanofi s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
@@ -1811,13 +2085,11 @@ Swixx Biopharma OÜ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε. Τηλ: +30.210.8009111
+ΒΙΑΝΕΞ Α . Ε . Τηλ : +30.210.8009111
 
 ## España
 
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
+sanofi-aventis, S.A. Tel: +34 93 485 94 00
 
 ## France
 
@@ -1837,7 +2109,9 @@ Vistor ehf. Tel: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800536389
+Sanofi S.r.l.
+
+Tel: 800536389
 
 ## Lietuva
 
@@ -1863,7 +2137,9 @@ Sanofi B.V.Tel: +31 20 245 4000
 
 ## Norge
 
-Sanofi-aventis Norge AS Tel: + 47 67 10 71 00
+Sanofi-aventis Norge AS
+
+Tel: + 47 67 10 71 00
 
 ## Österreich
 
@@ -1871,7 +2147,9 @@ Sanofi-Aventis GmbH Tel: +43 (1) 80185-0
 
 ## Polska
 
-Sanofi sp. z o.o. Tel: +48 22 280 00 00
+Sanofi sp. z o.o.
+
+Tel: +48 22 280 00 00
 
 ## Portugal
 
@@ -1883,7 +2161,9 @@ Sanofi Romania SRL Tel: +40 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o Tel: +386 1 2355 100
+Swixx Biopharma d.o.o
+
+Tel: +386 1 2355 100
 
 ## Slovenská republika
 
@@ -1895,13 +2175,21 @@ Sanofi Oy
 
 Tel: +358 (0) 201 200 300
 
-Κύπρος C.A. Papaellinas Ltd. Τηλ.: +357 22 741741
+<div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+C.A. Papaellinas Ltd.
+
+Τηλ
+
+.: +357 22 741741
 
 ## Latvija
 
-Swixx Biopharma SIA Tel: +371 6 6164 750
+Swixx Biopharma SIA
 
-<div style=\"page-break-after: always\"></div>
+Tel: +371 6 6164 750
 
 ## This leaflet was last revised in
 
@@ -1909,7 +2197,7 @@ Swixx Biopharma SIA Tel: +371 6 6164 750
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-Latest approved information on this vaccine is available on the following URL: https://hexacima.info.sanofi or by scanning the QR code with a smartphone:
+Latest approved information on this vaccine is available on the following URL: https://hexyon.info.sanofi or by scanning the QR code with a smartphone:
 
 QR code to be included
 
@@ -1918,15 +2206,15 @@ QR code to be included
 ## The following information is intended for healthcare professionals only:
 
 - The vial is intended for single use only and must not be reused.
-- Shake the vial so that the contents become homogeneous.
 - A dose of 0.5 mL is withdrawn using a syringe for injection
-- Hexacima should not be mixed with other medicinal products.
-- Hexacima must be administered intramuscularly. The recommended injection sites are the antero-lateral area of the upper thigh (preferred site) or the deltoid muscle in older children (possibly from 15 months of age).
+- Shake the vial so that the contents become homogeneous.
+- Hexyon should not be mixed with other medicinal products.
+- Hexyon must be administered intramuscularly. The recommended injection sites are the anterolateral area of the upper thigh (preferred site) or the deltoid muscle in older children (possibly from 15 months of age).
 - The intradermal or intravenous routes must not be used. Do not administer by intravascular injection: ensure that the needle does not penetrate a blood vessel.
 - Do not use the vials if the carton is damaged.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Sverige
+Sverige Sanofi AB
 
-Sanofi AB Tel: +46 8-634 50 00
+Tel: +46 8-634 50 00

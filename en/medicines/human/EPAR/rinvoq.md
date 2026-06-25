@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-09 17:00:00
+document_datetime: 2026-06-22 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.2136207
-conversion_datetime: 2026-06-10 13:34:50.687304
+processing_time: 0.2167592
+conversion_datetime: 2026-06-25 16:44:40.990988
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Rinvoq
-
 # Rinvoq
 
 [RSS](/en/individual-human-medicine.xml/67263)
@@ -152,7 +76,7 @@ For more information about using Rinvoq, see the package leaflet or contact your
 
 In patients with rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, ulcerative colitis and Crohn's disease, the immune system attacks healthy tissue, causing inflammation, pain and other symptoms.
 
-Upadacitinib, the active substance in Rinvoq, is an immunosuppressant. This means that it reduces the activity of the immune system. Upadacitinib works by blocking the action of enzymes called Janus kinases, which are involved in processes that lead to inflammation.  Blocking the effect of Janus kinases helps to control the symptoms of the conditions.
+Upadacitinib, the active substance in Rinvoq, is an immunosuppressant. This means that it reduces the activity of the immune system. Upadacitinib works by blocking the action of enzymes called Janus kinases, which are involved in processes that lead to inflammation. Blocking the effect of Janus kinases helps to control the symptoms of the conditions.
 
 ### What benefits of Rinvoq have been shown in studies?
 
@@ -240,7 +164,7 @@ English (EN) (113.89 KB - PDF)
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-969)
+[Other languages (22)](#file-language-dropdown-198)
 
 български (BG) (143.84 KB - PDF)
 
@@ -386,161 +310,162 @@ English (EN) (10.91 MB - PDF)
 
 Rinvoq : EPAR - Product information
 
-English (EN) (892.52 KB - PDF)
+English (EN) (891.85 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-174)
+[Other languages (23)](#file-language-dropdown-523)
 
-български (BG) (1.03 MB - PDF)
+български (BG) (1.02 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/bg/documents/product-information/rinvoq-epar-product-information_bg.pdf)
 
-español (ES) (943.91 KB - PDF)
+español (ES) (937.78 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/es/documents/product-information/rinvoq-epar-product-information_es.pdf)
 
 čeština (CS) (1.01 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/cs/documents/product-information/rinvoq-epar-product-information_cs.pdf)
 
-dansk (DA) (920.97 KB - PDF)
+dansk (DA) (905.13 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/da/documents/product-information/rinvoq-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.1 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/de/documents/product-information/rinvoq-epar-product-information_de.pdf)
 
-eesti (ET) (908.63 KB - PDF)
+eesti (ET) (896.39 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/et/documents/product-information/rinvoq-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.03 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/el/documents/product-information/rinvoq-epar-product-information_el.pdf)
 
-français (FR) (1010.05 KB - PDF)
+français (FR) (1004.75 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/fr/documents/product-information/rinvoq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (953.3 KB - PDF)
+hrvatski (HR) (952.3 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/hr/documents/product-information/rinvoq-epar-product-information_hr.pdf)
 
-italiano (IT) (968.52 KB - PDF)
+italiano (IT) (960.92 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/it/documents/product-information/rinvoq-epar-product-information_it.pdf)
 
-latviešu (LV) (992.23 KB - PDF)
+latviešu (LV) (985.3 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/lv/documents/product-information/rinvoq-epar-product-information_lv.pdf)
 
-lietuvių (LT) (984.2 KB - PDF)
+lietuvių (LT) (975.4 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/lt/documents/product-information/rinvoq-epar-product-information_lt.pdf)
 
-magyar (HU) (1015.51 KB - PDF)
+magyar (HU) (1009.34 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/hu/documents/product-information/rinvoq-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (1.01 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/mt/documents/product-information/rinvoq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (938.45 KB - PDF)
+Nederlands (NL) (934.63 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/nl/documents/product-information/rinvoq-epar-product-information_nl.pdf)
 
-polski (PL) (1.02 MB - PDF)
+polski (PL) (1 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/pl/documents/product-information/rinvoq-epar-product-information_pl.pdf)
 
-português (PT) (960.5 KB - PDF)
+português (PT) (954.54 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/pt/documents/product-information/rinvoq-epar-product-information_pt.pdf)
 
-română (RO) (953.9 KB - PDF)
+română (RO) (954.02 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/ro/documents/product-information/rinvoq-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.02 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/sk/documents/product-information/rinvoq-epar-product-information_sk.pdf)
 
-suomi (FI) (930.47 KB - PDF)
+slovenščina (SL) (1.04 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
+
+[View](/sl/documents/product-information/rinvoq-epar-product-information_sl.pdf)
+
+suomi (FI) (929.09 KB - PDF)
+
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/fi/documents/product-information/rinvoq-epar-product-information_fi.pdf)
 
-svenska (SV) (902.72 KB - PDF)
+svenska (SV) (901.44 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/sv/documents/product-information/rinvoq-epar-product-information_sv.pdf)
 
-Íslenska (IS) (895 KB - PDF)
+norsk (NO) (843.07 KB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
-
-[View](/is/documents/product-information/rinvoq-epar-product-information_is.pdf)
-
-norsk (NO) (850.1 KB - PDF)
-
-**First published:** 18/12/2019 **Last updated:** 09/06/2026
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
 
 [View](/no/documents/product-information/rinvoq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000311064
+**Latest procedure affecting product information:** VR/0000322413
 
-04/06/2026
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -558,7 +483,7 @@ English (EN) (38.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-67)
 
 български (BG) (39.44 KB - PDF)
 
@@ -706,32 +631,23 @@ norsk (NO) (37.35 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Rinvoq
-
-Active substance
-
-upadacitinib
-
-International non-proprietary name (INN) or common name
-
-upadacitinib
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Psoriatic
-- Axial Spondyloarthritis
-- Spondylitis, Ankylosing
-- Giant Cell Arteritis
-- Dermatitis, Atopic
-- Colitis, Ulcerative
-- Crohn Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AA44
+- **Name of medicine**
+    - Rinvoq
+- **Active substance**
+    - upadacitinib
+- **International non-proprietary name (INN) or common name**
+    - upadacitinib
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Psoriatic
+        - Axial Spondyloarthritis
+        - Spondylitis, Ankylosing
+        - Giant Cell Arteritis
+        - Dermatitis, Atopic
+        - Colitis, Ulcerative
+        - Crohn Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA44
 
 ### Pharmacotherapeutic group
 
@@ -775,27 +691,16 @@ Crohn's disease
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004760
-
-Marketing authorisation holder
-
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Knollstrasse 67061 Ludwigshafen Germany
-
-Opinion adopted
-
-17/10/2019
-
-Marketing authorisation issued
-
-16/12/2019
-
-Revision
-
-31
+- **EMA product number**
+    - EMEA/H/C/004760
+- **Marketing authorisation holder**
+    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  67061 Ludwigshafen  Germany
+- **Opinion adopted**
+    - 17/10/2019
+- **Marketing authorisation issued**
+    - 16/12/2019
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -807,9 +712,9 @@ Collapse section
 
 Rinvoq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.63 KB - PDF)
+English (EN) (154.74 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 09/06/2026
+**First published:** 24/09/2025 **Last updated:** 22/06/2026
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -937,7 +842,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-574)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1349,6 +1254,6 @@ English (EN) (69.42 KB - PDF)
 
 **This page was last updated on**
 
-09/06/2026
+22/06/2026
 
 ## Share this page

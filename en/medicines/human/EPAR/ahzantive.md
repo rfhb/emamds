@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:35:48
+document_datetime: 2026-06-23 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ahzantive.html
 document_name: ahzantive.html
 version: success
-processing_time: 0.126247
-conversion_datetime: 2025-12-31 04:49:44.438411
+processing_time: 0.1599585
+conversion_datetime: 2026-06-25 16:50:58.128945
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Ahzantive
 
 [RSS](/en/individual-human-medicine.xml/251847)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-aflibercept Medicine Human Authorised
+aflibercept
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Ahzantive used?
+### How is Ahzantive used?
 
 Ahzantive is available as vials containing a solution for intravitreal injection (injection into the vitreous humour, the jelly-like fluid inside the eye). It can only be obtained with a prescription and must be given by a qualified doctor who is experienced in giving intravitreal injections.
 
@@ -67,11 +67,11 @@ Ahzantive is given as an injection into the affected eye, repeated as appropriat
 
 For more information about using Ahzantive, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ahzantive work?
+### How does Ahzantive work?
 
 The active substance in Ahzantive, aflibercept, is an engineered protein that has been designed to attach to and block the effects of a substance called vascular endothelial growth factor A (VEGF-A). It can also attach to other proteins such as placental growth factor (PlGF). VEGF-A and PlGF are involved in stimulating the abnormal growth of blood vessels in patients with AMD, certain types of macular oedema and myopic choroidal neovascularisation. By blocking these factors, aflibercept reduces the growth of abnormal blood vessels and controls leakage and swelling.
 
-## What benefits of Ahzantive have been shown in studies?
+### What benefits of Ahzantive have been shown in studies?
 
 Laboratory studies comparing Ahzantive with Eylea have shown that the active substance in Ahzantive is highly similar to that in Eylea in terms of structure, purity and biological activity. Studies have also shown that giving Ahzantive results in similar levels of the active substance in the body to when giving Eylea.
 
@@ -79,7 +79,7 @@ In addition, a study involving 434 patients with wet AMD showed that Ahzantive w
 
 Because Ahzantive is a biosimilar medicine, the studies on the effectiveness of aflibercept carried out with Eylea do not all need to be repeated for Ahzantive.
 
-## What are the risks associated with Ahzantive?
+### What are the risks associated with Ahzantive?
 
 The safety of Ahzantive has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine, Eylea.
 
@@ -91,13 +91,13 @@ Serious injection-related side effects (which have occurred in less than 1 in ar
 
 Ahzantive must not be used in patients who have or are thought to have ocular or periocular infections (infections in or around the eyes), or in patients who have severe inflammation inside the eye.
 
-## Why is Ahzantive authorised in the EU?
+### Why is Ahzantive authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Ahzantive has a highly similar structure, purity and biological activity to Eylea and is distributed in the body in the same way. In addition, a study in patients with wet AMD has shown that Ahzantive and Eylea are equivalent in terms of safety and effectiveness in this indication.
 
 All these data were considered sufficient to conclude that Ahzantive will have the same effects as Eylea in its authorised uses. Therefore, the Agency's view was that, as for Eylea, the benefits of Ahzantive outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ahzantive?
+### What measures are being taken to ensure the safe and effective use of Ahzantive?
 
 The company that markets Ahzantive will provide information packs to patients to help them prepare for treatment, recognise serious side effects and know when to seek urgent attention from their doctor. It will also provide material for doctors to minimise the risks associated with the injection in the eye.
 
@@ -105,7 +105,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Ahzantive are continuously monitored. Suspected side effects reported with Ahzantive are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ahzantive
+### Other information about Ahzantive
 
 Ahzantive received a marketing authorisation valid throughout the EU on 13 January 2024.
 
@@ -119,181 +119,137 @@ English (EN) (145.38 KB - PDF)
 
 [View](/en/documents/overview/ahzantive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-630)
+[Other languages (22)](#file-language-dropdown-237)
 
 български (BG) (173.53 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/bg/documents/overview/ahzantive-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.3 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/es/documents/overview/ahzantive-epar-medicine-overview_es.pdf)
 
 čeština (CS) (169.53 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/cs/documents/overview/ahzantive-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.17 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/da/documents/overview/ahzantive-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (148.94 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/de/documents/overview/ahzantive-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (142.33 KB - PDF)
+eesti (ET) (142.33 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/et/documents/overview/ahzantive-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (173.7 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/el/documents/overview/ahzantive-epar-medicine-overview_el.pdf)
 
 français (FR) (148.2 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/fr/documents/overview/ahzantive-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (169.96 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/hr/documents/overview/ahzantive-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (143.8 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/it/documents/overview/ahzantive-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (177.5 KB - PDF)
+latviešu (LV) (177.5 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/lv/documents/overview/ahzantive-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (166.93 KB - PDF)
+lietuvių (LT) (166.93 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/lt/documents/overview/ahzantive-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (165.68 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/hu/documents/overview/ahzantive-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (170.63 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/mt/documents/overview/ahzantive-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145.99 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/nl/documents/overview/ahzantive-epar-medicine-overview_nl.pdf)
 
 polski (PL) (182.9 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/pl/documents/overview/ahzantive-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.78 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/pt/documents/overview/ahzantive-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.53 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/ro/documents/overview/ahzantive-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (169.35 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/sk/documents/overview/ahzantive-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (165.15 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/sl/documents/overview/ahzantive-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.19 KB - PDF)
+suomi (FI) (142.19 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/fi/documents/overview/ahzantive-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.59 KB - PDF)
 
-**First published:**
-
-24/01/2025
+**First published:** 24/01/2025
 
 [View](/sv/documents/overview/ahzantive-epar-medicine-overview_sv.pdf)
 
@@ -309,311 +265,168 @@ English (EN) (610.24 KB - PDF)
 
 Ahzantive : EPAR - Product information
 
-English (EN) (2.88 MB - PDF)
+English (EN) (1.94 MB - PDF)
 
-**First published:** 24/01/2025
-
-**Last updated:** 07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/product-information/ahzantive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-367)
+[Other languages (24)](#file-language-dropdown-292)
 
-български (BG) (2.34 MB - PDF)
+български (BG) (2.68 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/bg/documents/product-information/ahzantive-epar-product-information_bg.pdf)
 
-español (ES) (1.12 MB - PDF)
+español (ES) (1.46 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/es/documents/product-information/ahzantive-epar-product-information_es.pdf)
 
-čeština (CS) (1.98 MB - PDF)
+čeština (CS) (2.31 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/cs/documents/product-information/ahzantive-epar-product-information_cs.pdf)
 
-dansk (DA) (1.89 MB - PDF)
+dansk (DA) (2.21 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/da/documents/product-information/ahzantive-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.17 MB - PDF)
+Deutsch (DE) (1.51 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/de/documents/product-information/ahzantive-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.78 MB - PDF)
+eesti (ET) (2.14 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/et/documents/product-information/ahzantive-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.98 MB - PDF)
+ελληνικά (EL) (2.35 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/el/documents/product-information/ahzantive-epar-product-information_el.pdf)
 
-français (FR) (1.81 MB - PDF)
+français (FR) (2.16 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/fr/documents/product-information/ahzantive-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.67 MB - PDF)
+hrvatski (HR) (2.02 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/hr/documents/product-information/ahzantive-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.62 MB - PDF)
+italiano (IT) (2.13 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
-
-[View](/is/documents/product-information/ahzantive-epar-product-information_is.pdf)
-
-italiano (IT) (1.76 MB - PDF)
-
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/it/documents/product-information/ahzantive-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.52 MB - PDF)
+latviešu (LV) (1.86 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/lv/documents/product-information/ahzantive-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.98 MB - PDF)
+lietuvių (LT) (2.32 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/lt/documents/product-information/ahzantive-epar-product-information_lt.pdf)
 
-magyar (HU) (1.97 MB - PDF)
+magyar (HU) (2.34 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/hu/documents/product-information/ahzantive-epar-product-information_hu.pdf)
 
-Malti (MT) (1.35 MB - PDF)
+Malti (MT) (1.7 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/mt/documents/product-information/ahzantive-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.97 MB - PDF)
+Nederlands (NL) (2.25 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/nl/documents/product-information/ahzantive-epar-product-information_nl.pdf)
 
-norsk (NO) (1.19 MB - PDF)
+polski (PL) (2.52 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
-
-[View](/no/documents/product-information/ahzantive-epar-product-information_no.pdf)
-
-polski (PL) (2.17 MB - PDF)
-
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/pl/documents/product-information/ahzantive-epar-product-information_pl.pdf)
 
-português (PT) (1.7 MB - PDF)
+português (PT) (2.08 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/pt/documents/product-information/ahzantive-epar-product-information_pt.pdf)
 
-română (RO) (1.81 MB - PDF)
+română (RO) (2.14 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/ro/documents/product-information/ahzantive-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.98 MB - PDF)
+slovenčina (SK) (2.34 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/sk/documents/product-information/ahzantive-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.61 MB - PDF)
+slovenščina (SL) (1.96 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/sl/documents/product-information/ahzantive-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.61 MB - PDF)
+suomi (FI) (1.95 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/fi/documents/product-information/ahzantive-epar-product-information_fi.pdf)
 
-svenska (SV) (1.75 MB - PDF)
+svenska (SV) (2.1 MB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-07/11/2025
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
 
 [View](/sv/documents/product-information/ahzantive-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000300507 06/11/2025
+Íslenska (IS) (1.99 MB - PDF)
+
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
+
+[View](/is/documents/product-information/ahzantive-epar-product-information_is.pdf)
+
+norsk (NO) (1.54 MB - PDF)
+
+**First published:** 24/01/2025 **Last updated:** 23/06/2026
+
+[View](/no/documents/product-information/ahzantive-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000347663
+
+18/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -627,313 +440,172 @@ Ahzantive : EPAR - All authorised presentations
 
 English (EN) (98.29 KB - PDF)
 
-**First published:** 24/01/2025
-
-**Last updated:** 15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/en/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-733)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (37.53 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/bg/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (14.39 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/es/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (33.66 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/cs/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (14.13 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/da/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (14.66 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/de/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (14.2 KB - PDF)
+eesti (ET) (14.2 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/et/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.5 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/el/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (14.24 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/fr/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (30.71 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/hr/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (14.06 KB - PDF)
-
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
-
-[View](/is/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (14.39 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/it/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.26 KB - PDF)
+latviešu (LV) (36.26 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/lv/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.37 KB - PDF)
+lietuvių (LT) (32.37 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/lt/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (31.19 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/hu/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (35.07 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/mt/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (14.34 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/nl/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (13.17 KB - PDF)
-
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
-
-[View](/no/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (35.75 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/pl/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (13.41 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/pt/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (34.63 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/ro/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.05 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/sk/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (22.74 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/sl/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (14.68 KB - PDF)
+suomi (FI) (14.68 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/fi/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (14.38 KB - PDF)
 
-**First published:**
-
-24/01/2025
-
-**Last updated:**
-
-15/10/2025
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
 
 [View](/sv/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (14.06 KB - PDF)
+
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
+
+[View](/is/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (13.17 KB - PDF)
+
+**First published:** 24/01/2025 **Last updated:** 15/10/2025
+
+[View](/no/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ahzantive Active substance aflibercept International non-proprietary name (INN) or common name aflibercept Therapeutic area (MeSH)
-
-- Wet Macular Degeneration
-- Macular Edema
-- Retinal Vein Occlusion
-- Choroidal Neovascularization
-- Diabetes Complications
-
-Anatomical therapeutic chemical (ATC) code S01LA05
+- **Name of medicine**
+    - Ahzantive
+- **Active substance**
+    - aflibercept
+- **International non-proprietary name (INN) or common name**
+    - aflibercept
+- **Therapeutic area (MeSH)**
+        - Wet Macular Degeneration
+        - Macular Edema
+        - Retinal Vein Occlusion
+        - Choroidal Neovascularization
+        - Diabetes Complications
+- **Anatomical therapeutic chemical (ATC) code**
+    - S01LA05
 
 ### Pharmacotherapeutic group
 
@@ -953,23 +625,20 @@ Ahzantive is indicated for adults for the treatment of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006607
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Formycon AG
-
-Fraunhoferstrasse 15 Martinsried 82152 Planegg Germany
-
-Opinion adopted 14/11/2024 Marketing authorisation issued 13/01/2025 Revision 4
+- **EMA product number**
+    - EMEA/H/C/006607
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Formycon AG Fraunhoferstrasse 15  Martinsried 82152  Planegg  Germany
+- **Opinion adopted**
+    - 14/11/2024
+- **Marketing authorisation issued**
+    - 13/01/2025
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -977,25 +646,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ahzantive : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (175.66 KB - PDF)
+English (EN) (162.35 KB - PDF)
 
-**First published:** 25/04/2025
-
-**Last updated:** 07/11/2025
+**First published:** 25/04/2025 **Last updated:** 23/06/2026
 
 [View](/en/documents/procedural-steps-after/ahzantive-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ahzantive : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/565845/2024
+Adopted Reference Number: EMA/CHMP/565845/2024
 
 English (EN) (4.76 MB - PDF)
 
@@ -1005,9 +670,7 @@ English (EN) (4.76 MB - PDF)
 
 CHMP summary of positive opinion for Ahzantive
 
-Adopted
-
-Reference Number: EMA/CHMP/515216/2024
+Adopted Reference Number: EMA/CHMP/515216/2024
 
 English (EN) (148.58 KB - PDF)
 
@@ -1015,290 +678,158 @@ English (EN) (148.58 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ahzantive_en.pdf)
 
-#### News on Ahzantive
+## News on Ahzantive
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-#### Related document
+15/11/2024
+
+## Related document
 
 Biosimilars in the EU - Information guide for healthcare professionals
 
 English (EN) (1.96 MB - PDF)
 
-**First published:** 05/05/2017
-
-**Last updated:** 13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-866)
+[Other languages (22)](#file-language-dropdown-207)
 
 български (BG) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/bg/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_bg.pdf)
 
 español (ES) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/es/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_es.pdf)
 
 čeština (CS) (1.89 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/cs/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_cs.pdf)
 
 dansk (DA) (1.87 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/da/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_da.pdf)
 
 Deutsch (DE) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/de/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_de.pdf)
 
-eesti keel (ET) (755.5 KB - PDF)
+eesti (ET) (755.5 KB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/et/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_et.pdf)
 
 ελληνικά (EL) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/el/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_el.pdf)
 
 français (FR) (1.89 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/fr/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_fr.pdf)
 
 hrvatski (HR) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/hr/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_hr.pdf)
 
 italiano (IT) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/it/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_it.pdf)
 
-latviešu valoda (LV) (1.9 MB - PDF)
+latviešu (LV) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/lv/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_lv.pdf)
 
-lietuvių kalba (LT) (1.94 MB - PDF)
+lietuvių (LT) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/lt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_lt.pdf)
 
 magyar (HU) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/hu/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_hu.pdf)
 
 Malti (MT) (825.65 KB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/mt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_mt.pdf)
 
 Nederlands (NL) (1.97 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/nl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_nl.pdf)
 
 polski (PL) (2 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/pl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_pl.pdf)
 
 português (PT) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/pt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_pt.pdf)
 
 română (RO) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/ro/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_ro.pdf)
 
 slovenčina (SK) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sk/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sk.pdf)
 
 slovenščina (SL) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sl.pdf)
 
-Suomi (FI) (1.79 MB - PDF)
+suomi (FI) (1.79 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/fi/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_fi.pdf)
 
 svenska (SV) (1.93 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sv/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sv.pdf)
 
-**This page was last updated on** 07/11/2025
+**This page was last updated on**
+
+23/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

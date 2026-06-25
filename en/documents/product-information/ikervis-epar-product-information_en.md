@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:42:57
+document_datetime: 2026-06-23 13:06:55
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ikervis-epar-product-information_en.pdf
 document_name: ikervis-epar-product-information_en.pdf
 version: success
-processing_time: 10.1496591
-conversion_datetime: 2025-12-27 20:52:25.167424
+processing_time: 10.7071794
+conversion_datetime: 2026-06-25 17:14:40.935997
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -90,7 +90,9 @@ If more than one topical ophthalmic medicinal product is being used, the medicin
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Ocular or peri-ocular malignancies or premalignant conditions. Active or suspected ocular or peri-ocular infection.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Ocular or peri-ocular malignancies or premalignant conditions. Active or suspected ocular or peri-ocular infection.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -249,7 +251,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Formal pharmacokinetic studies have not been conducted in humans with IKERVIS.
 
-Blood concentrations of IKERVIS were measured using a specific high-pressure liquid chromatography-mass spectrometry assay. In 374 patients from the two efficacy studies, plasma concentrations of ciclosporin were measured before administration and after 6 months (SICCANOVE study and SANSIKA study) and 12 months of treatment (SANSIKA study). After 6 months of ocular instillation of IKERVIS once per day, 327 patients had values below the lower limit of detection (0.050 ng/mL) and 35 patients were below the lower limit of quantification (0.100 ng/mL). Measurable values not exceeding 0.206 ng/mL were measured in eight patients, values considered to be negligible. Three patients had values above the upper limit of quantification (5 ng/mL) however they were already taking oral ciclosporin at a stable dose, wh ich was allowed by the studies' protocol. After 12 months of treatment, values were below the low limit of detection for 56 patients and below the low limit of quantification in 19 patients. Seven patients had measurable values (from 0.105 to 1.27 ng/mL), all considered to be negligible values. Two patients had values above the upper limit of quantification, however they were also on oral ciclosporin at a stable dose since their inclusion in the study.
+Blood concentrations of IKERVIS were measured using a specific high-pressure liquid chromatography-mass spectrometry assay. In 374 patients from the two efficacy studies, plasma concentrations of ciclosporin were measured before administration and after 6 months (SICCANOVE study and SANSIKA study) and 12 months of treatment (SANSIKA study). After 6 months of ocular instillation of IKERVIS once per day, 327 patients had values below the lower limit of detection (0.050 ng/mL) and 35 patients were below the lower limit of quantification (0.100 ng/mL). Measurable values not exceeding 0.206 ng/mL were measured in eight patients, values considered to be negligible. Three patients had values above the upper limit of quantification (5 ng/mL) however they were already taking oral ciclosporin at a stable dose, which was allowed by the studies' protocol. After 12 months of treatment, values were below the low limit of detection for 56 patients and below the low limit of quantification in 19 patients. Seven patients had measurable values (from 0.105 to 1.27 ng/mL), all considered to be negligible values. Two patients had values above the upper limit of quantification, however they were also on oral ciclosporin at a stable dose since their inclusion in the study.
 
 ## 5.3 Preclinical safety data
 
@@ -303,7 +305,9 @@ SANTEN Oy Niittyhaankatu 20 33720 Tampere Finland
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/15/990/001 EU/1/15/990/002
+EU/1/15/990/001
+
+EU/1/15/990/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -314,8 +318,6 @@ Date of latest renewal: 09 March 2020
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -518,7 +520,7 @@ In the 6 month, double-masked, vehicle controlled, supportive clinical trial (SI
 
 In both studies, no significant improvement of symptoms was observed for IKERVIS compared to vehicle after 6 months of treatment, whether using a visual analogue scale or the OSDI.
 
-In both studi es one third of the patients in average had Sjögren's syndrome; as for the overall population, a statistically significant improvement in CFS in favour of IKERVIS was observed in this subgroup of patients.
+In both studies one third of the patients in average had Sjögren's syndrome; as for the overall population, a statistically significant improvement in CFS in favour of IKERVIS was observed in this subgroup of patients.
 
 At completion of the SANSIKA study (12 month study), patients were asked to enter the Post SANSIKA study. This study was an open-label, non-randomised, one-arm, 24-month study extension of the Sansika Study. In Post SANSIKA study patients alternatively received IKERVIS treatment or no treatment depending on CFS score (patients received IKERVIS when there was a worsening of keratitis).
 
@@ -607,11 +609,14 @@ Any unused medicinal product or waste material should be disposed of in accordan
 1. Gently shake the bottle. Hold the bottle directly below the cap and turn the cap to open the bottle. Do not touch anything with the tip of the bottle to avoid contamination of the emulsion.
 2. Tilt your head backwards and hold the bottle above your eye.
 3. Pull the lower eyelid down and look up. Squeeze the bottle gently in the middle and let a drop fall into your eye. Please note that there might be a few seconds delay between squeezing and the drop coming out. Do not squeeze too hard.
+
+<!-- image -->
+
+<!-- image -->
+
+8
+
 4. Close your eye and press the inner corner of the eye with your finger for about two minutes. This helps to stop the medicine from getting into the rest of the body.
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 
@@ -658,7 +663,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-EXCELVISION 27 RUE DE LA LOMBARDIERE, ZI LA LOMBARDIERE 07100 ANNONAY France
+EXCELVISION 27 RUE DE LA LOMBARDIERE, ZI LA LOMBARDIERE 07100 ANNONAY
+
+France
 
 SANTEN Oy Kelloportinkatu 1 33100 Tampere Finland
 
@@ -687,7 +694,9 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -755,17 +764,21 @@ Store below 25°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SANTEN Oy Niittyhaankatu 20 33720 Tampere Finland
+SANTEN Oy Niittyhaankatu 20 33720 Tampere
+
+Finland
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/15/990/001 30 single-dose containers EU/1/15/990/002 90 single-dose containers
+EU/1/15/990/001 30 single-dose containers
+
+EU/1/15/990/002 90 single-dose containers
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -779,7 +792,9 @@ ikervis
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -840,11 +855,12 @@ Open date:
 
 Do not freeze. Store below 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
-|-------|-------------------------------------------------------------------------------------------------------------------------|
+| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS       |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 SANTEN Oy Niittyhaankatu 20 33720 Tampere Finland
 
@@ -878,8 +894,6 @@ ikervis
 |-------|-----------------------------------------|
 
 PC SN NN
-
-28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -921,17 +935,17 @@ Discard any opened individual single-dose container with any remaining emulsion 
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SINGLE-DOSE CONTAINER LABEL                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SINGLE-DOSE CONTAINER LABEL                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 IKERVIS 1 mg/mL eye drops, emulsion ciclosporin Ocular use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -943,8 +957,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 mL
 
@@ -955,17 +969,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| BOTTLE LABEL                                                    |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| BOTTLE LABEL                                                     |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 IKERVIS 1 mg/mL eye drops, emulsion ciclosporin Ocular use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -977,8 +991,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 x 2.5 mL 1 x 4.5 mL 1 x 7 mL
 
@@ -1210,9 +1224,13 @@ SANTEN Oy Niittyhaankatu 20 33720 Tampere Finland
 
 ## Manufacturer
 
-EXCELVISION Rue de la Lombardière ZI la Lombardière F-07100 Annonay France
+EXCELVISION Rue de la Lombardière ZI la Lombardière F-07100 Annonay
 
-SANTEN Oy Kelloportinkatu 1 33100 Tampere Finland
+France
+
+SANTEN Oy
+
+Kelloportinkatu 1 33100 Tampere Finland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1232,9 +1250,9 @@ Tel: +370 37 366628
 
 Santen Oy
 
-Teл.:
+Teл.: +
 
-+359 (0) 888 755 393
+40 21 528 0290
 
 ## Luxembourg/Luxemburg
 
@@ -1282,9 +1300,11 @@ Tel: +372 5067559
 
 ## Ελλάδα
 
-Santen Oy
+Vianex S.A.
 
-Τηλ: + 358 (0) 3 284 8111
+Τηλ
+
+: +30 210 8009111
 
 ## España
 
@@ -1324,9 +1344,9 @@ Tel: +39 0236009983
 
 ## Κύπρος
 
-Santen Oy
+Vianex S.A.
 
-Τηλ: + 358 (0) 3 284 8111
+Τηλ : +30 210 8009111
 
 ## Latvija
 
@@ -1653,9 +1673,9 @@ Tel: +370 37 366628
 
 Santen Oy
 
-Teл.:
+Teл.: +
 
-+359 (0) 888 755 393
+40 21 528 0290
 
 ## Luxembourg/Luxemburg
 
@@ -1703,9 +1723,11 @@ Tel: +372 5067559
 
 ## Ελλάδα
 
-Santen Oy
+Vianex S.A.
 
-Τηλ: + 358 (0) 3 284 8111
+Τηλ
+
+: +30 210 8009111
 
 ## España
 
@@ -1745,9 +1767,9 @@ Tel: +39 0236009983
 
 ## Κύπρος
 
-Santen Oy
+Vianex S.A.
 
-Τηλ: + 358 (0) 3 284 8111
+Τηλ : +30 210 8009111
 
 ## Latvija
 

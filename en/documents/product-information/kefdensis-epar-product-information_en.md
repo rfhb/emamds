@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-04 14:02:27
+document_datetime: 2026-06-16 11:19:19
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kefdensis-epar-product-information_en.pdf
 document_name: kefdensis-epar-product-information_en.pdf
 version: success
-processing_time: 9.2876177
-conversion_datetime: 2026-03-09 14:22:50.388997
+processing_time: 9.1465291
+conversion_datetime: 2026-06-25 09:12:18.346563
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,11 +64,9 @@ Patients must be adequately supplemented with calcium and vitamin D (see section
 
 Patients treated with Kefdensis should be given the package leaflet and they should be provided with the patient reminder card.
 
-The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and bisphosphonates) has not been established. The need for continued treatment should be re-evaluated
+The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and bisphosphonates) has not been established. The need for continued treatment should be re-evaluated periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 ## Elderly (age ≥ 65)
 
@@ -191,11 +189,9 @@ In postmenopausal women with osteoporosis the pharmacokinetics and pharmacodynam
 
 There are no or limited amount of data from the use of denosumab in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Kefdensis is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with denosumab. Any effects of denosumab are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the
+Kefdensis is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with denosumab. Any effects of denosumab are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 
 <div style=\"page-break-after: always\"></div>
-
-placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 
 ## Breast-feeding
 
@@ -397,11 +393,9 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 <div style=\"page-break-after: always\"></div>
-
-no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
@@ -495,11 +489,9 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary
+In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 <div style=\"page-break-after: always\"></div>
-
-gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
@@ -515,7 +507,7 @@ Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body w
 
 ## 6.1 List of excipients
 
-L-Histidine L-histidine monohydrochloride monohydrate Sucrose Poloxamer 188 Water for injections
+Histidine Histidine hydrochloride monohydrate Sucrose Poloxamer 188 Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -523,7 +515,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,7 +642,7 @@ Each 1 mL pre-filled syringe contains 60 mg of denosumab (60 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
-L-histidine, L-histidine monohydrochloride monohydrate, sucrose, poloxamer 188, water for injections.
+Histidine, histidine hydrochloride monohydrate, sucrose, poloxamer 188, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -662,9 +654,7 @@ Solution for injection
 
 Subcutaneous use
 
-Important:
-
-read the package leaflet before handling pre-filled syringe.
+Important: read the package leaflet before handling pre-filled syringe.
 
 Do not shake.
 
@@ -710,7 +700,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Kefdensis
 
@@ -722,9 +712,9 @@ Kefdensis
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -732,7 +722,8 @@ NN
 |-----------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL                                        |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------------------------------|
 
 Kefdensis 60 mg injection denosumab SC
 
@@ -977,7 +968,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 <div style=\"page-break-after: always\"></div>
 
-- The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, sucrose, poloxamer 188 and water for injections.
+- The other ingredients are histidine, histidine hydrochloride monohydrate, sucrose, poloxamer 188 and water for injections.
 
 ## What Kefdensis looks like and contents of the pack
 
@@ -1049,7 +1040,9 @@ Tél/Tel: +32 24797878
 
 ## Magyarország
 
-STADA Hungary Kft Tel.: +36 18009747
+STADA Hungary Kft
+
+Tel.: +36 18009747
 
 ## Malta
 
@@ -1163,10 +1156,10 @@ Tel: +45 44859999
 
 - It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
 - Kefdensis is given as an injection into the tissue just under the skin (subcutaneous injection).
-- Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject. ×
-- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider. ×
-- Do not attempt to activate the pre-filled syringe prior to injection. x
-- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. Call your doctor or healthcare provider if you have any questions. x
+- Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
+- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
+- Do not attempt to activate the pre-filled syringe prior to injection.
+- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. Call your doctor or healthcare provider if you have any questions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1178,9 +1171,9 @@ For a more comfortable injection, leave the pre-filled syringe at room temperatu
 
 On a clean, well-lit work surface, place the new pre-filled syringe and the other supplies.
 
-- Do not try to warm the syringe by using a heat source such as hot water or microwave. ×
-- Do not leave the pre-filled syringe exposed to direct sunlight. ×
-- Do not shake the pre-filled syringe. ×
+- Do not try to warm the syringe by using a heat source such as hot water or microwave.
+- Do not leave the pre-filled syringe exposed to direct sunlight.
+- Do not shake the pre-filled syringe.
 - Keep the pre-filled syringe out of the sight and reach of children.
 - B Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
 
@@ -1188,21 +1181,19 @@ On a clean, well-lit work surface, place the new pre-filled syringe and the othe
 
 For safety reasons:
 
-- Do not grasp the plunger. ×
+- Do not grasp the plunger.
 - Do not grasp the grey needle cap.
 
 <div style=\"page-break-after: always\"></div>
 
 - C Inspect the medicine and pre-filled syringe.
-- Do not use the pre-filled syringe if: ×
+- Do not use the pre-filled syringe if:
 - The medicine is cloudy or there are particles in it. It must be a clear, colourless to slightly yellow solution.
 - Any part appears cracked or broken.
 - The grey needle cap is missing or not securely attached.
-- The expiry date printed on the label has passed the last day of the month shown.
+- The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
 
 <!-- image -->
-
-In all cases, call your doctor or healthcare provider.
 
 Step 2: Get ready
 
@@ -1221,10 +1212,9 @@ Step 2: Get ready
 Clean the injection site with an alcohol wipe. Let your skin dry.
 
 - Do not touch the injection site before injecting.
-- Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks. 0
+- Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 - B Carefully pull the grey needle cap straight out and away from your body.
 - C Pinch your injection site to create a firm surface.
-- 0
 
 <!-- image -->
 
@@ -1234,17 +1224,20 @@ It is important to keep the skin pinched when injecting.
 
 <div style=\"page-break-after: always\"></div>
 
+Step 3: Inject
+
+- A Hold the pinch. INSERT the needle into skin.
+
+。06
+
 45°
+
+\\_
 
 - Do not touch the cleaned area of the skin.
 - B PUSH the plunger with slow and constant pressure, push the plunger rod until it reaches the bottom.
-- A Hold the pinch. INSERT the needle into skin.
-
-Step 3: Inject
 
 <!-- image -->
-
-.06
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1254,7 +1247,7 @@ Step 3: Inject
 
 After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.
 
-- Do not put the grey needle cap back on used pre-filled syringes. x
+- Do not put the grey needle cap back on used pre-filled syringes.
 
 Step 4: Finish
 
@@ -1266,7 +1259,7 @@ Medicines should be disposed of in accordance with local requirements. Ask your 
 
 Keep the syringe and sharps disposal container out of sight and reach of children.
 
-- Do not reuse the pre-filled syringe. x
+- Do not reuse the pre-filled syringe.
 - Do not recycle pre-filled syringes or throw them into household waste.
 
 <div style=\"page-break-after: always\"></div>

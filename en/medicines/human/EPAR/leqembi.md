@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-04 16:19:00
+document_datetime: 2026-06-19 10:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqembi.html
 document_name: leqembi.html
 version: success
-processing_time: 0.126173
-conversion_datetime: 2026-05-05 19:40:31.587145
+processing_time: 0.3393681
+conversion_datetime: 2026-06-25 09:09:19.72667
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.25.0
+  docling-jobkit: 1.24.0
+  docling: 2.107.0
+  docling-core: 2.84.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.0.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Leqembi
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Leqembi used?
+### How is Leqembi used?
 
 Leqembi can only be obtained with a prescription. It is given as an infusion (drip) into a vein once every two weeks.
 
@@ -67,11 +67,11 @@ Patients will need to have MRI scans to monitor for amyloid related imaging abno
 
 For more information about using Leqembi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Leqembi work?
+### How does Leqembi work?
 
 While the causes of Alzheimer's disease are not fully known, people with the disease have plaques in the brain made of a protein called amyloid beta, which can lead to problems with brain function. The active substance in Leqembi, lecanemab, is a monoclonal antibody (a type of protein) that attaches to amyloid beta. By attaching to amyloid beta, the medicine reduces the amyloid plaques in the brain.
 
-## What benefits of Leqembi have been shown in studies?
+### What benefits of Leqembi have been shown in studies?
 
 When compared with placebo (a dummy treatment), Leqembi was shown to slow cognitive decline in patients with early Alzheimer's disease in a main study.
 
@@ -81,7 +81,7 @@ The benefits of Leqembi were assessed in a subgroup of patients with only one or
 
 In this subgroup of 1,521 patients, after 18 months of treatment, patients treated with Leqembi had a smaller increase in CDR-SB score than those who received placebo (1.22 versus 1.76). The results of other key measures were in line with those seen with the CDR-SB scale.
 
-## What are the risks associated with Leqembi?
+### What are the risks associated with Leqembi?
 
 For the full list of side effects and restrictions with Leqembi, see the package leaflet.
 
@@ -89,13 +89,13 @@ The most common side effects with Leqembi (which may affect more than 1 in 10 pe
 
 Leqembi must not be used in people with bleeding disorders that are not adequately controlled and in those receiving anticoagulant treatment. Leqembi must also not be used when the pretreatment MRI scan shows previous bleeds in the brain, more than 4 microbleeds (very small chronic bleeds in the brain), superficial siderosis (a condition affecting the brain and the spinal cord that involves bleeding) or vasogenic oedema (swelling in the brain that affects the vessels), or other problems that may indicate cerebral amyloid angiopathy (build-up of amyloid proteins in arteries in the brain, causing bleeding).
 
-## Why is Leqembi authorised in the EU?
+### Why is Leqembi authorised in the EU?
 
 Leqembi has been shown to slow cognitive decline in patients with early Alzheimer's disease compared with placebo. The risk of ARIA is very common with Leqembi. While most people with ARIA do not experience symptoms, some may have serious ones, such as bleeds in the brain. ARIA, including its serious symptoms, is less frequent in patients with only one or no copy of *ApoE4* . The European Medicines Agency decided that in this group of patients, the risk of ARIA can be managed with appropriate risk minimisation measures.
 
 The Agency therefore decided that Leqembi's benefits are greater than its risks in patients with mild cognitive impairment or mild dementia due to Alzheimer's disease with one or no copy of *ApoE4* , and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Leqembi?
+### What measures are being taken to ensure the safe and effective use of Leqembi?
 
 The company that markets Leqembi will implement a controlled access programme in collaboration with national competent authorities to ensure that Leqembi is only used in the recommended patient population.
 
@@ -105,7 +105,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Leqembi are continuously monitored. Suspected side effects reported with Leqembi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Leqembi
+### Other information about Leqembi
 
 Leqembi received a marketing authorisation valid throughout the EU on 15 April 2025.
 
@@ -119,7 +119,7 @@ English (EN) (114.42 KB - PDF)
 
 [View](/en/documents/overview/leqembi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-413)
+[Other languages (22)](#file-language-dropdown-687)
 
 български (BG) (140.95 KB - PDF)
 
@@ -151,7 +151,7 @@ Deutsch (DE) (119.38 KB - PDF)
 
 [View](/de/documents/overview/leqembi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (111.62 KB - PDF)
+eesti (ET) (111.62 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -181,13 +181,13 @@ italiano (IT) (112.97 KB - PDF)
 
 [View](/it/documents/overview/leqembi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (145.8 KB - PDF)
+latviešu (LV) (145.8 KB - PDF)
 
 **First published:** 05/05/2025
 
 [View](/lv/documents/overview/leqembi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.37 KB - PDF)
+lietuvių (LT) (138.37 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -241,7 +241,7 @@ slovenščina (SL) (138.03 KB - PDF)
 
 [View](/sl/documents/overview/leqembi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (112.32 KB - PDF)
+suomi (FI) (112.32 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -265,161 +265,168 @@ English (EN) (2.13 MB - PDF)
 
 Leqembi : EPAR - Product information
 
-English (EN) (250.5 KB - PDF)
+English (EN) (465.36 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/en/documents/product-information/leqembi-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-163)
 
-español (ES) (251.52 KB - PDF)
+български (BG) (508.88 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
+
+[View](/bg/documents/product-information/leqembi-epar-product-information_bg.pdf)
+
+español (ES) (249.17 KB - PDF)
+
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/es/documents/product-information/leqembi-epar-product-information_es.pdf)
 
-čeština (CS) (317.77 KB - PDF)
+čeština (CS) (323.34 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/cs/documents/product-information/leqembi-epar-product-information_cs.pdf)
 
-dansk (DA) (466.18 KB - PDF)
+dansk (DA) (249.09 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/da/documents/product-information/leqembi-epar-product-information_da.pdf)
 
-Deutsch (DE) (282.2 KB - PDF)
+Deutsch (DE) (288.96 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/de/documents/product-information/leqembi-epar-product-information_de.pdf)
 
-eesti keel (ET) (268.9 KB - PDF)
+eesti (ET) (371.29 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/et/documents/product-information/leqembi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (501.11 KB - PDF)
+ελληνικά (EL) (536.48 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/el/documents/product-information/leqembi-epar-product-information_el.pdf)
 
-français (FR) (457.26 KB - PDF)
+français (FR) (491.54 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/fr/documents/product-information/leqembi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (492.32 KB - PDF)
+hrvatski (HR) (411.62 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/hr/documents/product-information/leqembi-epar-product-information_hr.pdf)
 
-íslenska (IS) (237.56 KB - PDF)
+italiano (IT) (507.73 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
-
-[View](/is/documents/product-information/leqembi-epar-product-information_is.pdf)
-
-italiano (IT) (442.54 KB - PDF)
-
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/it/documents/product-information/leqembi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (539.9 KB - PDF)
+latviešu (LV) (457.64 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/lv/documents/product-information/leqembi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (460.46 KB - PDF)
+lietuvių (LT) (523.17 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/lt/documents/product-information/leqembi-epar-product-information_lt.pdf)
 
-magyar (HU) (511.98 KB - PDF)
+magyar (HU) (554.91 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/hu/documents/product-information/leqembi-epar-product-information_hu.pdf)
 
-Malti (MT) (504.53 KB - PDF)
+Malti (MT) (400.05 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/mt/documents/product-information/leqembi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (468.94 KB - PDF)
+Nederlands (NL) (325.97 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/nl/documents/product-information/leqembi-epar-product-information_nl.pdf)
 
-norsk (NO) (429.91 KB - PDF)
+polski (PL) (323.19 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
-
-[View](/no/documents/product-information/leqembi-epar-product-information_no.pdf)
-
-polski (PL) (501.16 KB - PDF)
-
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/pl/documents/product-information/leqembi-epar-product-information_pl.pdf)
 
-português (PT) (244.17 KB - PDF)
+português (PT) (249.59 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/pt/documents/product-information/leqembi-epar-product-information_pt.pdf)
 
-română (RO) (511.45 KB - PDF)
+română (RO) (314.67 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/ro/documents/product-information/leqembi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (506.86 KB - PDF)
+slovenčina (SK) (467.09 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/sk/documents/product-information/leqembi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (527.87 KB - PDF)
+slovenščina (SL) (310.54 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/sl/documents/product-information/leqembi-epar-product-information_sl.pdf)
 
-Suomi (FI) (444.55 KB - PDF)
+suomi (FI) (249.42 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/fi/documents/product-information/leqembi-epar-product-information_fi.pdf)
 
-svenska (SV) (275.1 KB - PDF)
+svenska (SV) (252.22 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/05/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
 
 [View](/sv/documents/product-information/leqembi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000305053
+Íslenska (IS) (314.41 KB - PDF)
 
-23/04/2026
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
+
+[View](/is/documents/product-information/leqembi-epar-product-information_is.pdf)
+
+norsk (NO) (314.85 KB - PDF)
+
+**First published:** 05/05/2025 **Last updated:** 19/06/2026
+
+[View](/no/documents/product-information/leqembi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000302769
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +444,7 @@ English (EN) (54.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-874)
+[Other languages (24)](#file-language-dropdown-248)
 
 български (BG) (91.35 KB - PDF)
 
@@ -469,7 +476,7 @@ Deutsch (DE) (66.92 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (83.28 KB - PDF)
+eesti (ET) (83.28 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -493,25 +500,19 @@ hrvatski (HR) (79.67 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (63.19 KB - PDF)
-
-**First published:** 05/05/2025
-
-[View](/is/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (67.67 KB - PDF)
 
 **First published:** 05/05/2025
 
 [View](/it/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (89.32 KB - PDF)
+latviešu (LV) (89.32 KB - PDF)
 
 **First published:** 05/05/2025
 
 [View](/lv/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (80.68 KB - PDF)
+lietuvių (LT) (80.68 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -534,12 +535,6 @@ Nederlands (NL) (62.95 KB - PDF)
 **First published:** 05/05/2025
 
 [View](/nl/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (46.97 KB - PDF)
-
-**First published:** 05/05/2025
-
-[View](/no/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.48 KB - PDF)
 
@@ -571,7 +566,7 @@ slovenščina (SL) (71.31 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (49.92 KB - PDF)
+suomi (FI) (49.92 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -583,6 +578,18 @@ svenska (SV) (64.41 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (63.19 KB - PDF)
+
+**First published:** 05/05/2025
+
+[View](/is/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (46.97 KB - PDF)
+
+**First published:** 05/05/2025
+
+[View](/no/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_no.pdf)
+
 Leqembi : EPAR - Conditions imposed on member states for safe and effective use - Annex 127a
 
 English (EN) (69.17 KB - PDF)
@@ -591,7 +598,7 @@ English (EN) (69.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-187)
+[Other languages (25)](#file-language-dropdown-376)
 
 български (BG) (76.66 KB - PDF)
 
@@ -623,7 +630,7 @@ Deutsch (DE) (75.77 KB - PDF)
 
 [View](/de/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_de.pdf)
 
-eesti keel (ET) (66.25 KB - PDF)
+eesti (ET) (66.25 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -641,23 +648,17 @@ français (FR) (63.08 KB - PDF)
 
 [View](/fr/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_fr.pdf)
 
-hrvatski (HR) (75.91 KB - PDF)
-
-**First published:** 05/05/2025
-
-[View](/hr/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_hr.pdf)
-
-íslenska (IS) (63.31 KB - PDF)
-
-**First published:** 05/05/2025
-
-[View](/is/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_is.pdf)
-
 Gaeilge (GA) (60.93 KB - PDF)
 
 **First published:** 05/05/2025
 
 [View](/ga/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_ga.pdf)
+
+hrvatski (HR) (75.91 KB - PDF)
+
+**First published:** 05/05/2025
+
+[View](/hr/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_hr.pdf)
 
 italiano (IT) (68.78 KB - PDF)
 
@@ -665,13 +666,13 @@ italiano (IT) (68.78 KB - PDF)
 
 [View](/it/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_it.pdf)
 
-latviešu valoda (LV) (83.01 KB - PDF)
+latviešu (LV) (83.01 KB - PDF)
 
 **First published:** 05/05/2025
 
 [View](/lv/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_lv.pdf)
 
-lietuvių kalba (LT) (94.84 KB - PDF)
+lietuvių (LT) (94.84 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -694,12 +695,6 @@ Nederlands (NL) (63 KB - PDF)
 **First published:** 05/05/2025
 
 [View](/nl/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_nl.pdf)
-
-norsk (NO) (62.66 KB - PDF)
-
-**First published:** 05/05/2025
-
-[View](/no/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_no.pdf)
 
 polski (PL) (82.77 KB - PDF)
 
@@ -731,7 +726,7 @@ slovenščina (SL) (93.45 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_sl.pdf)
 
-Suomi (FI) (60.56 KB - PDF)
+suomi (FI) (60.56 KB - PDF)
 
 **First published:** 05/05/2025
 
@@ -743,28 +738,31 @@ svenska (SV) (163.58 KB - PDF)
 
 [View](/sv/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_sv.pdf)
 
+Íslenska (IS) (63.31 KB - PDF)
+
+**First published:** 05/05/2025
+
+[View](/is/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_is.pdf)
+
+norsk (NO) (62.66 KB - PDF)
+
+**First published:** 05/05/2025
+
+[View](/no/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Leqembi
-
-Active substance
-
-Lecanemab
-
-International non-proprietary name (INN) or common name
-
-lecanemab
-
-Therapeutic area (MeSH)
-
-- Cognitive Dysfunction
-- Alzheimer Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-N06DX04
+- **Name of medicine**
+    - Leqembi
+- **Active substance**
+    - Lecanemab
+- **International non-proprietary name (INN) or common name**
+    - lecanemab
+- **Therapeutic area (MeSH)**
+        - Cognitive Dysfunction
+        - Alzheimer Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - N06DX04
 
 ### Pharmacotherapeutic group
 
@@ -776,31 +774,18 @@ Leqembi is indicated for the treatment of adult patients with a clinical diagnos
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005966
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Eisai GmbH
-
-Edmund-Rumpler-Straße 3
-
-Opinion adopted
-
-14/11/2024
-
-Marketing authorisation issued
-
-15/04/2025
-
-Revision
-
-3
+- **EMA product number**
+    - EMEA/H/C/005966
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Eisai GmbH Edmund-Rumpler-Straße 3  60549 Frankfurt am Main  Germany
+- **Opinion adopted**
+    - 14/11/2024
+- **Marketing authorisation issued**
+    - 15/04/2025
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -808,13 +793,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Leqembi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (169.98 KB - PDF)
+English (EN) (178.01 KB - PDF)
 
-**First published:** 03/06/2025 **Last updated:** 04/05/2026
+**First published:** 03/06/2025 **Last updated:** 19/06/2026
 
 [View](/en/documents/procedural-steps-after/leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -828,7 +813,7 @@ English (EN) (147.29 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/leqembi-psusa-00011132-202507-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Leqembi - EPAR - Public assessment report
 
@@ -887,9 +872,10 @@ English (EN) (124.6 KB - PDF)
 ## More information on Leqembi
 
 - [Leqembi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/leqembi)
+- [German Dementia Registry (DEMREG) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000913)
 
 **This page was last updated on**
 
-04/05/2026
+19/06/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 09:34:56
-document_pages: 53
+document_datetime: 2026-06-29 15:41:14
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dazublys-epar-product-information_en.pdf
 document_name: dazublys-epar-product-information_en.pdf
 version: success
-processing_time: 22.8711064
-conversion_datetime: 2026-04-29 13:14:18.089217
+processing_time: 26.1990674
+conversion_datetime: 2026-07-04 15:08:07.726393
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -481,6 +481,7 @@ Table 1: Undesirable Effects Reported with Intravenous trastuzumab Monotherapy o
 |                                                | Oedema               | Common      |
 | Injury, poisoning and procedural complications | Contusion            | Common      |
 
++ Denotes adverse reactions that have been reported in association with a fatal outcome.
 - 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions. Specific percentages for these are not available.
 
 * Observed with combination therapy following anthracyclines and combined with taxanes
@@ -535,9 +536,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in human clinical trials. Single doses of trastuzumab alone greater  than 10 mg/kg have not been administered in the clinical trials; a maintenance dose of 10 mg/kg q3w following a loading dose of 8 mg/kg has been studied in a clinical trial with metastatic gastric cancer patients. Doses up to this level were well tolerated.
 
-## 5. PHARMACOLOGICAL PROPERTIES
-
 <div style=\"page-break-after: always\"></div>
+
+## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
@@ -567,12 +568,12 @@ Table 2: Recommended Scoring System to Evaluate the IHC Staining Patterns in Bre
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | 0       | No staining is observed or membrane staining is observed in < 10% of the tumor cells                                                        | Negative                        |
 | 1+      | A faint/barely perceptible membrane staining is detected in > 10% of the tumour cells. The cells areonly stained in part of their membrane. | Negative                        |
-| 2+      | Aweak to moderate complete membrane staining is detected in > 10% of the tumour cells.                                                      | Equivocal                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| 3+   | Strong complete membrane staining is detected in > 10% of the tumour cells.   | Positive   |
-|------|-------------------------------------------------------------------------------|------------|
+| 2+   | Aweak to moderate complete membrane staining is detected in > 10% of the tumour cells.   | Equivocal   |
+|------|------------------------------------------------------------------------------------------|-------------|
+| 3+   | Strong complete membrane staining is detected in > 10% of the tumour cells.              | Positive    |
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
@@ -582,7 +583,7 @@ For full instructions on assay performance and interpretation please refer to th
 
 For any other method that may be used for the assessment of HER2 protein or gene expression, the analyses should only be performed by laboratories that provide adequate state-of-the-art performance of validated methods. Such methods must clearly be precise and accurate enough to demonstrate overexpression of HER2 and must be able to distinguish between moderate (congruent with 2+) and strong (congruent with 3+) overexpression of HER2.
 
-## Detection of HER2 over expression or HER2 gene amplification in gastric cancer
+Detection of HER2 over expression or HER2 gene amplification in gastric cancer
 
 Only an accurate and validated assay should be used to detect HER2 over expression or HER2 gene amplification. IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, either a silver-enhanced in situ hybridization (SISH) or a FISH technique must be applied. SISH technology is however, recommended to allow for the parallel evaluation of tumor histology and morphology. To ensure validation of testing procedures and the generation of accurate and reproducible results, HER2 testing must be performed in a laboratory staffed by trained personnel. Full instructions on assay performance and results interpretation should  be taken from the product information leaflet provided with the HER2 testing assays used.
 
@@ -637,15 +638,7 @@ Table 4: Efficacy Results from the Monotherapy and Combination Therapy Studies
 | Response rate (95%CI)                       | 18% (13 - 25)         | 49% (36 - 61)                        | 17% (9 - 27)        | 61% (50 - 71)                        | 34% (25 - 45)         |
 | Median durationof response (months) (95%CI) | 9.1 (5.6 - 10.3)      | 8.3 (7.3 - 8.8)                      | 4.6 (3.7 - 7.4)     | 11.7 (9.3 - 15.0)                    | 5.7 (4.6 - 7.6)       |
 | Median TTP (months) (95%CI)                 | 3.2 (2.6 - 3.5)       | 7.1 (6.2 - 12.0)                     | 3.0 (2.0 - 4.4)     | 11.7 (9.2 - 13.5)                    | 6.1 (5.4 - 7.2)       |
-| Median Survival (months) (95%CI)            | 16.4 (12.3 - n e)     | 24.8 (18.6 - 33.7)                   | 17.9 (11.2 - 23.8 ) | 31.2 (27.3 - 40.8)                   | 22.74 (19.1 - 30. 8)  |
-
-TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
-
-1. Study H0649g: IHC3+ patient subset
-
-2. Study H0648g: IHC3+ patient subset
-
-3. Study M77001: Full analysis set (intent-to-treat), 24 months results
+| Median Survival (months) (95%CI)            | 16.4 (12.3 - ne)      | 24.8 (18.6 - 33.7)                   | 17.9 (11.2 - 23.8)  | 31.2 (27.3 - 40.8)                   | 22.74 (19.1 - 30.8)   |
 
 Combination treatment with trastuzumab and anastrozole
 
@@ -831,13 +824,9 @@ Table 11: Post-Hoc Exploratory Analysis Results from the Joint Analysis NSABP B-
 | Long term follow-up efficacy analysis** DFS Hazard ratios (95 %CI) p-value                                         | 0.61 (0.54, 0.69) p< 0.0001                           | 0.72 (0.61, 0.85) p< 0.0001       | 0.77 (0.65, 0.90) p = 0.0011      |
 | Post-hoc exploratory analysis with DFS and symptomatic cardiac events Long term follow-up** Hazard ratios (95% CI) | 0.67 (0.60, 0.75)                                     | 0.77 (0.66, 0.90)                 | 0.77 (0.66, 0.90)                 |
 
-A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carboplatin; H: trastuzumab  CI = confidence interval DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC→DH arm
-
-* At the time of the definitive analysis of DFS. Median duration of follow up was 1.8 years in the AC→P arm and 2.0 years in the AC→PH arm
-
-** Median duration of long-term follow-up for the Joint Analysis clinical studies was 8.3 years (range: 0.1 to 12.1) for the AC→PH arm and 7.9 years (range: 0.0 to 12.2) for the AC→P arm; Median duration of long term followup for the BCIRG 006 study was 10.3 years in both the AC→D arm (range: 0.0 to 12.6) arm and the
-
 <div style=\"page-break-after: always\"></div>
+
+DCarbH arm (range: 0.0 to 13.1), and was 10.4 years (range: 0.0 to 12.7) in the AC→DH arm
 
 ## Early breast cancer (neoadjuvant-adjuvant setting)
 
@@ -1061,17 +1050,19 @@ Dazublys should be carefully handled during reconstitution. Causing excessive fo
 
 The reconstituted solution should not be frozen.
 
-## Instructions for aseptic reconstitution:
+Instructions for aseptic reconstitution:
 
-- 1) Using a sterile syringe, slowly inject appropriate volume (as noted above) of sterile water for injection in the vial containing the  lyophilized trastuzumab, directing the stream into the lyophilized cake.
+1) Using a sterile syringe, slowly inject appropriate volume (as noted above) of sterile water for injection in the vial containing the  lyophilized trastuzumab, directing the stream into the lyophilized cake.
 
 ## 2) Swirl the vial gently to aid reconstitution. DO NOT SHAKE!
 
 Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted trastuzumab results in a colorless to pale yellow transparent solution and should be essentially free of visible particulates.
 
-Instructions for aseptic dilution of the reconstituted solution Determine the volume of the solution required:
-
 <div style=\"page-break-after: always\"></div>
+
+## Instructions for aseptic dilution of the reconstituted solution
+
+Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight or a subsequent weekly dose   of 2 mg trastuzumab/kg body weight:
 
@@ -1079,7 +1070,9 @@ Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maint
 
 - based on a loading dose of 8 mg trastuzumab/kg body weight or a subsequent 3-weekly dose   of 6 mg trastuzumab/kg body weight:
 
-Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance) 21 (mg/mL, concentration of reconstituted solution)
+## mg/kg for maintenance)
+
+Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 21 (mg/mL, concentration of reconstituted solution)
 
 The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to an infusion bag containing 250 mL of 0.9 % sodium chloride solution. Do not use with glucose-containing solutions (see section 6.2). The bag should be gently inverted to mix the solution in order to avoid foaming.
 
@@ -1091,15 +1084,19 @@ No incompatibilities between trastuzumab and polyvinylchloride polyethylene or p
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600 Prague Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1949/001 EU/1/25/1949/002
+EU/1/25/1949/001
+
+EU/1/25/1949/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorization: 30-June-2025
+Date of first authorization: 30 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1219,7 +1216,13 @@ Discard unused portion.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600 Prague Czech Republic
+CuraTeQ Biologics (Malta) Limited
+
+Vault 14 Level 2,
+
+Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1229,8 +1232,7 @@ EU/1/25/1949/001
 
 Batch
 
-| 14.   | GENERALCLASSIFICATIONFOR SUPPLY   |
-|-------|-----------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 Medicinal products subject to medical prescription
 
@@ -1248,10 +1250,15 @@ Justification for not including Braille accepted.
 
 &lt;2D barcode carrying the unique identifier included&gt;
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1332,43 +1339,49 @@ Do not freeze the reconstituted solution.
 
 Keep the container in the outer carton in order to protect from light.
 
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 Discard unused portion.
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600 Prague Czech Republic
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+CuraTeQ Biologics (Malta) Limited
+
+Vault 14 Level 2,
+
+Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/1949/002
 
+## 13. BATCH NUMBER
+
 Batch
 
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 Medicinal products subject to medical prescription
+
+## 15. INSTRUCTIONS ON USE
 
 Do not shake after reconstitution.
 
 For single use only.
 
-Justification for not including Braille accepted.
-
-&lt;2D barcode carrying the unique identifier included&gt;
-
-PC
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
 ## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+&lt;2D barcode carrying the unique identifier included&gt;
+
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
 
 SN
 
@@ -1385,9 +1398,7 @@ NN
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OF ADMINISTRATION   |
 |------|---------------------------------------------------------|
 
-Dazublys 420 mg powder for concentrate
-
-trastuzumab.
+Dazublys 420 mg powder for concentrate trastuzumab.
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -1409,6 +1420,8 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
+
+43
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1617,7 +1630,6 @@ If you experience any of the above symptoms when your treatment with Dazublys ha
 - itchy rash
 - sleepiness (somnolence)
 - haemorrhoids
-- itchiness
 - dry mouth and skin
 - dry eyes
 - sweating
@@ -1630,10 +1642,12 @@ If you experience any of the above symptoms when your treatment with Dazublys ha
 - back pain
 - neck pain
 - bone pain
-- acne
-- leg cramps
 
 <div style=\"page-break-after: always\"></div>
+
+- itchiness
+- acne
+- leg cramps
 
 ## Uncommon side effects of trastuzumab: may affect up to 1 in 100 people:
 
@@ -1683,11 +1697,10 @@ Dazublys will be stored by the health professionals at the hospital or clinic.
 - Do not use this medicine after the expiration date, which is stated on the outer carton and on the vial label after EXP. The expiry date refers to the last day of that month.
 - The unopened vial should be stored in a refrigerator (2 °C - 8 °C).
 - Do not freeze the reconstituted solution.
-- Infusion solutions should be used immediately after dilution. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally
 
 <div style=\"page-break-after: always\"></div>
 
-- be longer than 48 hours at 2 °C - 8 °C.
+- Infusion solutions should be used immediately after dilution. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally be longer than 48 hours at 2 °C - 8 °C.
 - Keep the container in the outer carton in order to protect from light.
 - Do not use Dazublys if you notice any particulate matter or discoloration prior to administration.
 - Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines that are no longer required. These measures will help to protect the environment.
@@ -1706,7 +1719,7 @@ trastuzumab is a powder for concentration solution for intravenous infusion, whi
 
 ## Marketing Authorization Holder
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600 Prague Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana, FRN 1914, Malta
 
 ## Manufacturer
 
@@ -1714,36 +1727,36 @@ APL Swift Services Malta Ltd. HF26, Hal Far Industrial Estate, Qasam Industrijal
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-| België/Belgique/Belgien Aurobindo NV/SA Tél/Tel: +32 24753540                          | Lietuva UAB Orion Pharma Tel: +370 5 276 9499              |
-|----------------------------------------------------------------------------------------|------------------------------------------------------------|
-| България Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu        | Luxembourg/Luxemburg Aurobindo NV/SA Tel/Tél: +32 24753540 |
-| Česká republika Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu | Magyarország Orion Pharma Kft. Tel.: +36 1 239 9095        |
+| België/Belgique/Belgien Aurobindo NV/SA Tél/Tel: +32 24753540                             | Lietuva UAB Orion Pharma Tel: +370 5 276 9499              |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| България CuraTeQ Biologics (Malta) Limited Teл. : +00356 99991443 Jfarrugia@aurobindo.com | Luxembourg/Luxemburg Aurobindo NV/SA Tél/Tel: +32 24753540 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Danmark Orion Pharma A/S Tlf.: +45 8614 0000                                  | Malta Curateq Biologics s.r.o. Tel: +420220990139 info@curateqbiologics.eu               |
-|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Deutschland PUREN Pharma GmbH Co. KG Tel: + 49 895589090                      | Nederland Aurobindo Pharma B.V. Tel: +31 35 542 99 33                                    |
-| Eesti Orion Pharma Eesti OÜ Tel: +372 66 44 550                               | Norge Orion Pharma AS Tlf: +47 4000 42 10                                                |
-| Ελλάδα Curateq Biologics s.r.o. Τηλ: +420220990139 info@curateqbiologics.eu   | Österreich Orion Pharma GmbH Tel: +49 40 899 6890                                        |
-| España Aurovitas Spain, S.A.U Tel: +34 91 630 86 45                           | Polska Aurovitas Pharma Polska Sp. z o.o. Tel.: +48 22 311 20 00                         |
-| France ARROW GENERIQUES Tél: + 33 4 72 72 60 72                               | Portugal Generis Farmacutica S. A Tel: +351 21 4967120                                   |
-| Hrvatska Curateq Biologics s.r.o. Tel: +420220990139 info@curateqbiologics.eu | România Curateq Biologics s.r.o. Tel: +420220990139 info@curateqbiologics.eu             |
-| Ireland Curateq Biologics s.r.o. Tel: +420220990139 info@curateqbiologics.eu  | Slovenija Orion Pharma d.o.o. Tel: +386 (0) 1 600 8015                                   |
-| Ísland Vistor hf. Sími: +354 535 7000                                         | Slovenská republika Curateq Biologics s.r.o. Tel: +420220990139 info@curateqbiologics.eu |
-| Italia Aurobindo Pharma (Italia) S.r.l. Tel: +39 02 9639 2601                 | Suomi/Finland Orion Corporation Puh/Tel: +358 10 4261                                    |
-| Κύπρος Curateq Biologics s.r.o. Τηλ: : +420220990139 info@curateqbiologics.eu | Sverige Orion Pharma AB Tel: + 46 8 623 6440                                             |
-| Latvija Orion Corporation Orion Pharma pārstāvniecība Tel: +371 20028332      |                                                                                          |
+| Česká republika CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com   | Magyarország Orion Pharma Kft. Tel.: +36 1 239 9095                                                |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Danmark Orion Pharma A/S Tlf.: +45 8614 0000                                                     | Malta CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com               |
+| Deutschland PUREN Pharma GmbH Co. KG Tel: + 49 895589090                                         | Nederland Aurobindo Pharma B.V. Tel: +31 35 542 99 33                                              |
+| Eesti Orion Pharma Eesti OÜ Tel: +372 66 44 550                                                  | Norge Orion Pharma AS Tlf: +47 4000 42 10                                                          |
+| Ελλάδα CuraTeQ Biologics (Malta) Limited Τηλ: +00356 99991443 Jfarrugia@aurobindo.com            | Österreich Orion Pharma GmbH Tel: +49 40 899 6890                                                  |
+| España Aurovitas Spain, S.A.U Tel: +34 91 630 86 45                                              | Polska Aurovitas Pharma Polska Sp. z o.o. Tel.: +48 22 311 20 00                                   |
+| France ARROW GENERIQUES Tél: + 33 4 72 72 60 72                                                  | Portugal Generis Farmacutica S. A Tel: +351 21 4967120                                             |
+| Hrvatska CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com          | România CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com             |
+| Ireland CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com           | Slovenija Orion Pharma d.o.o. Tel: +386 (0) 1 600 8015                                             |
+| Ísland Vistor hf. Sími: +354 535 7000                                                            | Slovenská republika CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com |
+| Italia Aurobindo Pharma (Italia) S.r.l. Tel: +39 02 9639 2601                                    | Suomi/Finland Orion Corporation Puh/Tel: +358 10 4261                                              |
+| Κύπρος CuraTeQ Biologics (Malta) Limited Τηλ: : +00356 99991443 Jfarrugia@aurobindo.com          | Sverige Orion Pharma AB Tel: + 46 8 623 6440                                                       |
+| Latvija Orion Corporation Orion Pharma pārstāvniecība Tel: +371 20028332                         |                                                                                                    |
 
-## This leaflet was last revised in 04/2026
+## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+<div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for medical or healthcare professionals only
 
 Dazublys intravenous is provided in sterile, preservative-free, non-pyrogenic, single use vials. In order to prevent medication errors, it is important to check the vial labels to ensure that the medicine  being prepared and given is Dazublys and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
-
-<div style=\"page-break-after: always\"></div>
 
 Always keep this medicine in the closed original pack at a temperature of 2 ºC - 8 ºC in a refrigerator.
 
@@ -1769,7 +1782,9 @@ Dazublys 150 mg powder for concentrate for solution for infusion.
 
 Each 150 mg vial of Dazublys is reconstituted with 7.2 mL of water for injections (not supplied). Use of other   reconstitution solvents should be avoided. This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 4 % ensures that the labelled dose of 150 mg can be withdrawn from each vial.
 
-Dazublys 420 mg powder for concentrate for solution for infusion. Each 420 mg vial of Dazublys is reconstituted with 20 mL of water for injections (not supplied). Use of other   reconstitution solvents should be avoided. This yields a 20.8 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 4 % ensures that the labelled dose of 420 mg can be withdrawn from each vial.
+Dazublys 420 mg powder for concentrate for solution for infusion.
+
+Each 420 mg vial of Dazublys is reconstituted with 20 mL of water for injections (not supplied). Use of other   reconstitution solvents should be avoided. This yields a 20.8 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab. A volume overage of 4 % ensures that the labelled dose of 420 mg can be withdrawn from each vial.
 
 Dazublys should be carefully handled during reconstitution. Causing excessive foaming during reconstitution or shaking the reconstituted trastuzumab may result in problems with the amount of trastuzumab that can be withdrawn from the vial.
 
@@ -1778,9 +1793,9 @@ Dazublys should be carefully handled during reconstitution. Causing excessive fo
 - 1) Using a sterile syringe, slowly inject appropriate volume (as noted above)of water for injections in the vial containing the   lyophilized Dazublys, directing the stream into the lyophilized cake.
 - 2) Swirl vial gently to aid reconstitution. DO NOT SHAKE!
 
-Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Dazublys results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
-
 <div style=\"page-break-after: always\"></div>
+
+Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Dazublys results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
 
 Determine the volume of the solution required:
 

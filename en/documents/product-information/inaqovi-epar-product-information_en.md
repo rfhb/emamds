@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-10 17:17:30
-document_pages: 33
+document_datetime: 2026-06-25 13:01:11
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/inaqovi-epar-product-information_en.pdf
 document_name: inaqovi-epar-product-information_en.pdf
 version: success
-processing_time: 7.5052333
-conversion_datetime: 2025-12-29 19:36:37.149062
+processing_time: 11.7798941
+conversion_datetime: 2026-07-04 15:03:13.243212
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,21 +52,38 @@ Red, oval biconvex shaped tablet, 14 mm diameter, plain on one side and debossed
 
 Inaqovi is indicated as monotherapy for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for standard induction chemotherapy.
 
+Inaqovi in combination with venetoclax is indicated for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for standard induction chemotherapy.
+
 ## 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by a physician experienced in the use of anticancer therapies.
 
-## Posology
+Posology
+
+Monotherapy
 
 The recommended dose of Inaqovi is 1 tablet once daily on Days 1 through 5 of each 28-day cycle.
 
 Cycles are to be repeated every 28 days. Treatment is to be continued for a minimum of 4 cycles until disease progression or unacceptable toxicity. A complete or partial response may take longer than 4 cycles.
 
 - Substitution with an intravenous decitabine product within a cycle is not recommended.
+
+<div style=\"page-break-after: always\"></div>
+
 - Premedication with standard antiemetic therapy prior to each dose to minimise nausea and vomiting is to be considered (see section 4.4).
 - A delay or reduction in the dose per cycle is to be considered for patients who experience haematologic and non-haematologic toxicities (see 'Dose adjustments').
 
-<div style=\"page-break-after: always\"></div>
+## In combination with venetoclax
+
+The recommended dose of Inaqovi is 1 tablet once daily on Days 1 through 5 of each 28-day cycle.
+
+Cycles are to be repeated every 28 days. Treatment is recommended to be continued for a minimum of 4 cycles until disease progression or unacceptable toxicity.
+
+- Substitution with an intravenous decitabine product within a cycle is not recommended.
+- Premedication with standard antiemetic therapy prior to each dose to minimise nausea and vomiting is to be considered (see section 4.4).
+- A delay or reduction in the dose per cycle is to be considered for patients who experience haematologic and non-haematologic toxicities (see 'Dose adjustments').
+- Patients treated with venetoclax may develop tumour lysis syndrome (TLS). Refer to sections 4.2, 4.4 and 4.8 of the venetoclax summary of product characteristics (SmPC) for additional information.
+- Information on dosing of venetoclax is provided in section 4.2 of the venetoclax SmPC.
 
 ## Missed or vomited dose
 
@@ -75,6 +92,8 @@ Cycles are to be repeated every 28 days. Treatment is to be continued for a mini
 - If the patient vomits following dosing, no additional dose is to be taken that day. The next dose must be taken at the usual time and resume the normal daily dosing, with no extension of the dosing period.
 
 ## Dose adjustments
+
+## Monotherapy
 
 ## Haematologic adverse reactions
 
@@ -85,12 +104,15 @@ The next cycle must be delayed if absolute neutrophil count (ANC) is less than 1
 - If haematological recovery occurs (ANC at least 1.0 × 10 9 /L and platelets at least 50 × 10 9 /L) within 2 weeks of the last treatment cycle, treatment is to be continued at the same dose.
 - If haematological recovery does not occur (ANC at least 1.0 × 10 9 /L and platelets at least 50 × 10 9 /L) within 2 weeks of the last treatment cycle:
 - o Treatment must be delayed for up to 2 additional weeks AND
+
+<div style=\"page-break-after: always\"></div>
+
 - o The patient must resume treatment at a reduced dose on Days 1 through 4. Further dose reductions have to be considered in the order listed in Table 1 if myelosuppression persists after a dose reduction.
 - o Dose has to be maintained or increased in subsequent cycles as clinically indicated.
 
 Patients are to be treated with a minimum of 4 cycles of treatments with active disease.
 
-Table 1: Recommended dose reductions for myelosuppression
+Table 1: Recommended Inaqovi dose reductions for myelosuppression
 
 | Dose reduction   | Dose                                    |
 |------------------|-----------------------------------------|
@@ -107,12 +129,40 @@ Subsequent treatment cycles must be delayed for the following non-haematologic a
 - Serum creatinine 2 mg/dL or greater
 - Serum bilirubin 2 times the upper limit of normal (ULN) or greater
 - Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) 2 times the ULN or greater
+- Active or uncontrolled infection
+
+Dose adjustments for all other Grade 3 or higher adverse reactions should follow institutional guidelines.
+
+## In combination with venetoclax
+
+Blood cell counts have to be monitored frequently through resolution of cytopenias. Dose modification and interruptions for cytopenias are dependent on remission status. Day 1 of Inaqovi dosing cycles should be matched with that used for venetoclax dosing. For Cycle 1, bone marrow assessment for response may be performed as early as Day 22. In the absence of remission (bone marrow blasts &lt; 5%), Inaqovi dosing schedule should not be delayed.
+
+## Haematologic adverse reactions
+
+Complete blood cell counts have to be obtained prior to initiating Inaqovi and before each cycle and have to be monitored until neutrophils and platelet counts have recovered to Grade 1 or 2 (see section 4.4).
+
+- If haematological recovery occurs (ANC at least 1.0 × 10 9 /L and platelets at least 50 × 10 9 /L) within 2 weeks of the last treatment cycle, treatment is to be continued at the same dose.
+- If haematological recovery does not occur (ANC at least 1.0 × 10 9 /L and platelets at least 50 × 10 9 /L) within 2 weeks of achieving remission, treatment with Inaqovi must be delayed for up to 2 additional weeks and reduction of the number of days of Inaqovi per cycle is to be considered according to Table 2.
 
 <div style=\"page-break-after: always\"></div>
 
-## · Active or uncontrolled infection
+Table 2: Recommended Inaqovi dose reductions for adverse reactions
 
-Dose adjustments for all other Grade 3 or higher adverse reactions should follow institutional guidelines.
+| Dose reduction   | Dose                                    |
+|------------------|-----------------------------------------|
+| First            | 1 tablet once daily on Days 1 through 3 |
+| Second           | 1 tablet once daily on Days 1, 3 and 5  |
+| Third            | 1 tablet once daily on Days 1 and 3     |
+
+Persistent severe neutropaenia and febrile neutropaenia have to be managed with supportive treatment (see section 4.4).
+
+Dose modifications for haematologic adverse reactions associated with venetoclax must follow the instructions in the venetoclax SmPC.
+
+## Non-Haematologic Adverse Reactions
+
+For Cycle 3 onwards, dose reductions of Inaqovi for non-haematologic adverse reactions are provided in Table 2.
+
+Dose modifications for non-haematologic adverse reactions associated with venetoclax must follow the instructions in the venetoclax SmPC.
 
 ## Special populations
 
@@ -130,11 +180,19 @@ The safety and efficacy of Inaqovi in the paediatric population (aged less than 
 
 ## Method of administration
 
+Monotherapy and in combination with venetoclax
+
 Inaqovi is for oral use. The tablets must be swallowed whole with water at approximately the same time each day. Food is not to be consumed 2 hours before and 2 hours after taking treatment in order to avoid a risk for lack of efficacy (see section 4.5).
 
-The tablets must not be chewed, crushed, or broken in order to avoid skin contact or release of active substance into the air.
+Inaqovi must not be chewed, crushed, or broken in order to avoid skin contact or release of active substance into the air.
 
-Inaqovi is a cytotoxicmedicinal product. For proper handling and disposal procedures see section 6.6.
+<div style=\"page-break-after: always\"></div>
+
+Inaqovi is a cytotoxic medicinal product. For proper handling and disposal procedures see section 6.6.
+
+## In combination with venetoclax
+
+Inaqovi must not be taken at the same time as venetoclax. Administration of Inaqovi and venetoclax is to be separated by at least 2 hours since venetoclax is to be taken with food. See the venetoclax SmPC for further information.
 
 ## 4.3 Contraindications
 
@@ -150,7 +208,9 @@ Fatal and serious myelosuppression can occur with treatment (see section 4.8).
 
 Complete blood cell counts must be obtained prior to the initiation of treatment, prior to each cycle, and as clinically indicated to monitor response and toxicity. Growth factors and anti-infective therapies must be administered for treatment or prophylaxis as appropriate. The next cycle must be delayed and resumed at the same or reduced dose as recommended (see sections 4.2 and 4.8). Patients must be monitored for signs and symptoms of infection and treated promptly.
 
-<div style=\"page-break-after: always\"></div>
+## Tumour lysis syndrome
+
+For patients taking venetoclax, due to the risk of tumour lysis syndrome (TLS), refer to the venetoclax SmPC sections 4.2, 4.4 and 4.8 for additional information.
 
 ## Neutropaenia
 
@@ -163,6 +223,8 @@ Cases of interstitial lung disease (ILD) (including pulmonary infiltrates, organ
 ## Hepatic impairment
 
 Use in patients with hepatic impairment has not been established. Caution must be exercised in the administration of medicinal product to patients with hepatic impairment and in patients who develop signs or symptoms of hepatic impairment. Liver function tests must be performed prior to the initiation of therapy, prior to each treatment cycle, and as clinically indicated (see sections 4.2 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -180,8 +242,6 @@ Cases of differentiation syndrome (also known as retinoic acid syndrome) have be
 
 Nausea and vomiting may occur during treatment. Administration of standard antiemetic therapy prior to each dose should be considered to minimise nausea and vomiting.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Excipients
 
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucosegalactose malabsorption should not take this medicinal product.
@@ -198,6 +258,8 @@ Decitabine and cedazuridine are not substrates or inhibitors for cytochrome P450
 
 Because decitabine is a substrate for the cytidine deaminase (CDA) enzyme, which metabolises decitabine resulting in an inactive deaminated form, other medicinal products inhibiting CDA should be avoided, as co-administration may result in increased decitabine exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of Inaqovi on other medicinal products
 
 ## Medicinal products metabolised by cytidine deaminase
@@ -206,7 +268,7 @@ Cedazuridine is an inhibitor of CDA and thereby increases the exposure of decita
 
 ## Food
 
-Overall decitabine exposure has been shown to be reduced when decitabine is administered with a highfat, high-calorie meal (see section 4.2).
+Overall decitabine exposure has been shown to be reduced when decitabine is administered with a highfat, high-calorie meal or a low fat, low-calorie meal (see section 4.2 and section 5.2).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -219,8 +281,6 @@ The use of decitabine and cedazuridine with hormonal contraceptives has not been
 ## Pregnancy
 
 There are no or a limited amount of human data from the use of decitabine and cedazuridine in pregnant women.
-
-<div style=\"page-break-after: always\"></div>
 
 Based on the results of embryo-foetal toxicity studies conducted in animals (see section 5.3), Inaqovi may harm the foetus when administered to pregnant women.
 
@@ -236,6 +296,8 @@ A risk to the newborns/infants cannot be excluded.
 
 Inaqovi is contraindicated during breast-feeding (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 No human data on the effect of decitabine and cedazuridine on fertility are available. Ovarian and testicular toxicity, including mutagenicity, has been observed in repeat-dose toxicity studies in mice. Because of the possibility of infertility as a consequence of therapy, men should seek advice on conservation of sperm and female patients of childbearing potential should seek consultation regarding oocyte cryopreservation prior to initiating treatment. Before starting treatment or planning pregnancy, consider the above guidance (see section 5.3).
@@ -248,91 +310,77 @@ Inaqovi has moderate influence on the ability to drive and use machines. Patient
 
 ## Summary of safety profile
 
-The safety of Inaqovi was evaluated in one Phase 3 study (ASTX727-02-EU) where 80 AML patients received the medicinal product. The overall safety profile for Inaqovi is described below and also reflects the known safety profile of intravenous decitabine.
+The safety of Inaqovi was evaluated in one Phase 3 study (ASTX727-02-EU) where 80 AML patients received the medicinal product as monotherapy and a Phase 1/2 study (ASTX727-07) where 189 AML patients received Inaqovi in combination with venetoclax. The overall safety profile for Inaqovi is described below and also reflects the known safety profile of intravenous decitabine.
 
-Among the 80 patients who received treatment, the most common adverse drug reaction (≥ 20%) including Grade ≥ 3 was thrombocytopaenia.
+Among the patients who received treatment in ASTX727-02-EU and ASTX727-07 studies, the most common adverse drug reactions (≥ 20%) including Grade ≥ 3 were thrombocytopaenia (ASTX727-02EU) and febrile neutropenia (ASTX727-07).
 
-The most common serious adverse reactions (≥ 20%) were febrile neutropaenia and pneumonia.
+The most common serious adverse reactions (≥ 20%) were febrile neutropaenia, sepsis, and pneumonia.
 
 Deaths while on treatment occurred in 24% of patients. The most frequent adverse reactions resulting in death included pneumonia (8%), sepsis (3%) and central nervous system haemorrhage in the setting of thrombocytopaenia (3%).
 
-Permanent discontinuation occurred in 14% of patients while on treatment. The most frequent adverse reaction resulting in permanent discontinuation was pneumonia (5%).
-
-<div style=\"page-break-after: always\"></div>
-
-Treatment interruption and dose reductions occurred in 48% of patients. The most frequent adverse reaction resulting in treatment interruption and dose reduction was myelosuppression occurring in 19% of patients (n=15) (neutropaenia [13%, n=10], febrile neutropaenia [5%, n=4], and thrombocytopaenia [3%, n=2]). The adverse reaction pneumonia led to treatment interruption and dose reduction in 5% of patients.
-
 ## Tabulated list of adverse reactions
 
-The safety evaluation of adverse reactions is largely based on experience with Dacogen in patients with AML. The safety of Inaqovi in adult patients was evaluated in a safety population that included AML patients from one Phase 3 study (ASTX727-02-EU, N=80).
+The safety evaluation of adverse reactions is largely based on experience with Dacogen in patients with AML. The safety of Inaqovi in adult patients was evaluated in a safety population that included AML patients from the Phase 3 study (ASTX727-02-EU, N=80) and the phase 1/2 study with Inaqovi in combination with venetoclax (ASTX727-07, N=189).
 
-Among the 80 patients who received Inaqovi, 38% were exposed for 6 months or longer and 6% were exposed for greater than 1 year.
+Table 3 lists adverse drug reactions associated with Inaqovi patients with AML monotherapy (N=80) or combination therapy with venetoclax (N=189), or that have been associated with intravenous decitabine, according to system organ class (SOC) in MedDRA. Within each SOC, the adverse drug reactions are ranked by frequency and then presented in order of decreasing seriousness. The corresponding frequency category for each adverse drug reaction is defined as: very common (≥1/10); common (≥ 1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from available data).
 
-Table 2 lists adverse drug reactions associated with Inaqovi (N=80), or that have been associated with intravenous decitabine, according to system organ class (SOC) in MedDRA. Within each SOC, the adverse drug reactions are ranked by frequency and then presented in order of decreasing seriousness. The corresponding frequency category for each adverse drug reaction is defined as: very common (≥1/10); common ( ≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from available data).
-
-Table 2: Adverse drug reactions observed with Inaqovi or with intravenous decitabine therapy in AML patients
-
-|                                      |                                                   | AML(N=80)        | AML(N=80)        | AML(N=80)       | AML(N=80)       |
-|--------------------------------------|---------------------------------------------------|------------------|------------------|-----------------|-----------------|
-| MedDRA SOC                           | MedDRA Term a                                     | All CTCAE Grades | All CTCAE Grades | CTCAE Grade 3-4 | CTCAE Grade 3-4 |
-|                                      |                                                   | %                | Frequency        | %               | Frequency       |
-| Infections and infestations          | All other infections (viral, bacterial, fungal) b | 50.0             | Very common      | 25.0            | Very common     |
-| Infections and infestations          | Pneumonia c                                       | 23.8             | Very common      | 18.8            | Very common     |
-| Infections and infestations          | Sepsis d                                          | 10.0             | Very common      | 6.3             | Common          |
-| Infections and infestations          | Urinary tract infection e                         | 17.5             | Very common      | 2.5             | Common          |
-| Infections and infestations          | Sinusitis (including fungal f and bacterial g )   | 2.5              | Common           | 2.5             | Common          |
-| Blood and lymphatic system disorders | Leukopenia h                                      | 81.3             | Very common      | 67.5            | Very common     |
-| Blood and lymphatic system disorders | Thrombocytopaenia h,i                             | 73.8             | Very common      | 67.5            | Very common     |
-| Blood and lymphatic system disorders | Anaemia h                                         | 67.5             | Very common      | 60.0            | Very common     |
-| Blood and lymphatic system disorders | Neutropaenia h,j                                  | 41.8             | Very common      | 41.8            | Very common     |
-| Blood and lymphatic system disorders | Febrile neutropaenia                              | 28.8             | Very common      | 26.3            | Very common     |
-| Blood and lymphatic system disorders | Pancytopaenia k                                   | Not known        | Uncommon k       | Not known       | Uncommon k      |
+Table 3: Adverse drug reactions observed with Inaqovi, Inaqovi combined with venetoclax or with intravenous decitabine therapy in AML patients
 
 <div style=\"page-break-after: always\"></div>
 
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)   | Differentiation syndrome l                              | Not known   | Not known   | Not known        | Not known        |
-|----------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------------|------------------|------------------|
-| Metabolism and nutrition disorders                                         | Hyperglycaemia h,m                                      | 61.1        | Very common | 4.2              | Common           |
-| Nervous system disorders                                                   | Headache n                                              | 2.5         | Common      | Not known        | Common n         |
-| Cardiac disorders                                                          | Cardiomyopathy o                                        | Not known   | Uncommon    | Not known        | Uncommon         |
-| Respiratory, thoracic and mediastinal disorders                            | Epistaxis n                                             | 6.3         | Common      | Not known        | Common n         |
-| Respiratory, thoracic and mediastinal disorders                            | Interstitial lung disease l                             | Not known   | Not known   | Not known        | Not known        |
-| Gastrointestinal disorders                                                 | Stomatitis p                                            | 10.0        | Very common | 1.3              | Common           |
-| Gastrointestinal disorders                                                 | Nausea q                                                | 21.3        | Very common | Not known        | Uncommon q       |
-| Gastrointestinal disorders                                                 | Diarrhoea r                                             | 13.8        | Very common | Not known        | Common r         |
-| Gastrointestinal disorders                                                 | Vomiting r                                              | 12.5        | Very common | Not known        | Common r         |
-|                                                                            | Neutropaenic colitis s Aspartate                        | 1.3         | Common      | 1.3              | Common           |
-| Hepatobiliary disorders                                                    | aminotransferase increased h,t Alanine aminotransferase | 30.6        | Very common | 2.8              | Common           |
-| Hepatobiliary disorders                                                    | increased h,u                                           | 28.8        | Very common | 2.7              | Common           |
-| Hepatobiliary disorders                                                    | Alkaline phosphatase increased h,v Bilirubin            | 43.7 23.3   | Very common | 0 Not known      | Not applicable   |
-|                                                                            | increased h,w,q Acute febrile neutrophilic              |             | Very common |                  | Uncommon f       |
-| Skin and subcutaneous tissue disorders                                     | dermatosis (Sweet's syndrome) x                         | Not known   | Uncommon x  | Not applicable y | Not applicable y |
-| General disorders and administration site conditions                       | Pyrexia z                                               | 23.8        | Very common | 1.3              | Common           |
+| MedDRA SOC                                                               | MedDRA Term a                                     | AMLmonotherapy (N=80), AMLcombination therapy (N=189) or IV decitabine   | AMLmonotherapy (N=80), AMLcombination therapy (N=189) or IV decitabine   |
+|--------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| MedDRA SOC                                                               | MedDRA Term a                                     | All CTCAE Grades Frequency                                               | CTCAE Grade 3-4 Frequency                                                |
+| Infections and infestations                                              | All other infections (viral, bacterial, fungal) b | Very common                                                              | Very common                                                              |
+| Infections and infestations                                              | Pneumonia                                         | Very common                                                              | Very common                                                              |
+| Infections and infestations                                              | Sepsis c                                          | Very common                                                              | Common                                                                   |
+| Infections and infestations                                              | Urinary tract infection d                         | Very common                                                              | Common                                                                   |
+| Infections and infestations                                              | Sinusitis (including fungal and bacterial e )     | Common e                                                                 | Common e                                                                 |
+| Blood and lymphatic system disorders                                     | Leukopenia f                                      | Very common                                                              | Very common                                                              |
+| Blood and lymphatic system disorders                                     | Thrombocytopaenia f,g                             | Very common                                                              | Very common                                                              |
+| Blood and lymphatic system disorders                                     | Anaemia f                                         | Very common                                                              | Very common                                                              |
+| Blood and lymphatic system disorders                                     | Neutropaenia f                                    | Very common                                                              | Very common                                                              |
+| Blood and lymphatic system disorders                                     | Febrile neutropaenia                              | Very common                                                              | Very common                                                              |
+| Blood and lymphatic system disorders                                     | Pancytopaenia h                                   | Uncommon h                                                               | Uncommon h                                                               |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Differentiation syndrome i                        | Not known                                                                | Not known                                                                |
+| Metabolism and nutrition disorders                                       | Hyperglycaemia f                                  | Very common                                                              | Common                                                                   |
+| Nervous system disorders                                                 | Headache                                          | Common                                                                   | Common                                                                   |
+| Cardiac disorders                                                        | Cardiomyopathy j                                  | Uncommon j                                                               | Uncommon j                                                               |
+| Respiratory, thoracic and mediastinal disorders                          | Epistaxis                                         | Common                                                                   | Common                                                                   |
+| Respiratory, thoracic and mediastinal disorders                          | Interstitial lung disease                         | Not known                                                                | Not known                                                                |
+| Gastrointestinal disorders                                               | Stomatitis k                                      | Very common                                                              | Common                                                                   |
+| Gastrointestinal disorders                                               | Nausea                                            | Very common                                                              | Uncommon                                                                 |
+| Gastrointestinal disorders                                               | Diarrhoea l                                       | Very common                                                              | Common l                                                                 |
+| Gastrointestinal disorders                                               | Vomiting l                                        | Very common                                                              | Common l                                                                 |
+| Gastrointestinal disorders                                               | Neutropaenic colitis m                            | Common                                                                   | Common                                                                   |
+| Hepatobiliary disorders                                                  | Aspartate aminotransferase increased f            | Very common                                                              | Common                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-- e Grouped terms include bacteriuria, cystitis, dysuria, escherichia urinary tract infection, urinary tract infection, urinary tract infection enterococcal
-- f Grouped terms include sinusitis aspergillus, sinusitis fungal
-- g Sinusitis bacterial was not observed in the clinical trial with Inaqovi, however sinusitis (organism not specified) was observed in clinical trials with IV decitabine at a frequency of common (3%, 1%)
-- h Based on laboratory values
-- i Thrombocytopaenia may lead to bleeding and haemorrhagic reactions that may be fatal
-- j Neutrophils decreased (n=79)
-- k Pancytopaenia, including fatal events, was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine at a frequency of uncommon (&lt; 1%)
-- l Differentiation syndrome and interstitial lung disease were not observed in the clinical trial with Inaqovi, however they were observed in post-market setting with the use of IV decitabine
-- m Hyperglycemia (n=72)
-- n Headache and epistaxis Grade 3-4, were not observed in the clinical trial with Inaqovi, however they were observed in clinical trials with IV decitabine at a frequency of common (1% and 2%)
-- o Cardiomyopathy was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine at a frequency of uncommon (&lt; 1%)
-- p Grouped terms include aphthous ulcer, glossitis, oral discomfort, oropharyngeal discomfort, oropharyngeal pain, stomatitis, tongue ulceration, toothache
-- q Nausea and bilirubin increased, Grade 3-4, were not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine at a frequency of uncommon (&lt; 1%)
-- r Diarrhoea and vomiting, Grade 3-4, were not observed in the clinical trial with Inaqovi, however they were observed in clinical trials with IV decitabine at a frequency of common (2% and 1%)
-- s Caecitis (including fatal events) was not observed in the clinical trial with Inaqovi, however they were observed in post-market setting with the use of IV decitabine
-- t Aspartate aminotransferase increased (n=72)
-- u Alanine aminotransferase increased (n=73)
-- v Alkaline phosphatase increased (n=71)
-- w Bilirubin increased (n=73)
-- x Acute febrile neutrophilic dermatosis was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine (all Grades) at a frequency of uncommon (&lt; 1%)
-- y Not applicable (Grade 3-4): Adverse drug reaction has not been observed with either Inaqovi or IV decitabine in both clinical trials and post-market
-- z Grouped terms include chills and pyrexia
+| MedDRA SOC                                           | MedDRA Term a                                              | AMLmonotherapy (N=80), AMLcombination therapy (N=189) or IV decitabine   | AMLmonotherapy (N=80), AMLcombination therapy (N=189) or IV decitabine   |
+|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| MedDRA SOC                                           | MedDRA Term a                                              | All CTCAE Grades Frequency                                               | CTCAE Grade 3-4 Frequency                                                |
+|                                                      | Alanine aminotransferase increased f                       | Very common                                                              | Common                                                                   |
+|                                                      | Alkaline phosphatase increased f                           | Very common                                                              | Common                                                                   |
+|                                                      | Bilirubin increased f                                      | Very common                                                              | Uncommon                                                                 |
+| Skin and subcutaneous tissue disorders               | Acute febrile neutrophilic dermatosis (Sweet's syndrome) n | Uncommon n                                                               | Not applicable o                                                         |
+| General disorders and administration site conditions | Pyrexia                                                    | Very common                                                              | Common                                                                   |
+
+- a The corresponding frequency category for each adverse drug reaction is based on the CIOMS III convention
+- b The most commonly observed include anal abscess, anorectal infection, bacteraemia, cellulitis, herpes virus infection, candidiasis, skin infection, varicella zoster virus infection
+- c The most commonly observed include sepsis, septic shock, systemic candidiasis, urosepsis
+- d The most commonly observed include bacteriuria, cystitis, urinary tract infection
+- e Sinusitis bacterial was not observed in the clinical trial with Inaqovi, however sinusitis (organism not specified) was observed in clinical trials with IV decitabine at a frequency of common
+- f Based on laboratory values
+- g Thrombocytopaenia may lead to bleeding and haemorrhagic reactions that may be fatal
+- h Pancytopaenia, including fatal events, was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine at a frequency of uncommon
+- i Differentiation syndrome and interstitial lung disease were not observed in the clinical trial with Inaqovi, however they were observed in post-market setting with the use of IV decitabine
+- j Cardiomyopathy was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine at a frequency of uncommon
+- k The most commonly observed include aphthous ulcer, glossitis, stomatitis, tongue ulceration
+- l Diarrhoea and vomiting, Grade 3-4, were not observed in the clinical trial with Inaqovi, however they were observed in clinical trials with IV decitabine at a frequency of common
+- m Caecitis (including fatal events) was not observed in the clinical trial with Inaqovi, however they were observed in post-market setting with the use of IV decitabine
+- n Acute febrile neutrophilic dermatosis was not observed in the clinical trial with Inaqovi, however it was observed in clinical trials with IV decitabine (all Grades) at a frequency of uncommon
+- o Not applicable (Grade 3-4): Adverse drug reaction has not been observed with either Inaqovi or IV decitabine in both clinical trials and post-market
 
 CTCAE= Common Terminology Criteria for Adverse Events
 
@@ -342,11 +390,11 @@ CTCAE= Common Terminology Criteria for Adverse Events
 
 The most commonly reported haematologic adverse drug reactions associated with treatment included leukopaenia, thrombocytopaenia, anaemia, neutropaenia and febrile neutropaenia. These adverse drug reactions are manifestations of myelosuppression and may present as pancytopenia.
 
+<div style=\"page-break-after: always\"></div>
+
 Serious bleeding-related adverse drug reactions, such as gastrointestinal haemorrhage and cerebral haemorrhage in the context of severe thrombocytopaenia, were reported in patients receiving treatment. Bleeding may also occur with the eyes, skin, and mucous membranes (mouth and anorectal).
 
 Haematological adverse drug reactions must be managed by routine monitoring of CBCs and early administration of supportive treatments as required. Supportive treatments include administration of prophylactic antibiotics and/or growth factor support (e.g., G-CSF) for neutropaenia and transfusions for anaemia or thrombocytopaenia according to institutional guidelines. For situations where treatment must be delayed, see section 4.2.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infections and infestations adverse drug reactions
 
@@ -368,11 +416,13 @@ Cases of differentiation syndrome (also known as retinoic acid syndrome) have be
 
 ## Elderly
 
-Of the 80 patients in clinical studies who received Inaqovi, 39% were younger than 75 years, and 61% were 75 years and older. No overall differences in safety or effectiveness were observed between patients aged 75 years and older and younger patients.
+Of the patients in clinical Phase 3 and Phase 1/2 studies who received Inaqovi, 39 % and 28 % were younger than 75 years, and 61 % and 72 % were 75 years and older. No overall differences in safety or effectiveness were observed between patients aged 75 years and older and younger patients.
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -383,8 +433,6 @@ Overdose could cause increased myelosuppression and neutropaenia-related infecti
 ## Management
 
 There is no known antidote for overdose with the medicinal product. In the event of an overdose, patients must be closely monitored for signs or symptoms of adverse reactions and appropriate symptomatic treatment instituted.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -400,28 +448,27 @@ Cytidine deaminase (CDA) is an enzyme that is responsible for the degradation of
 
 ## Clinical efficacy and safety
 
+## Monotherapy
+
 Inaqovi was evaluated in a Phase 3 (ASTX727-02-EU, NCT03306264) open-label, randomised, 2-cycle, 2-sequence crossover study that included adult patients with de novo or secondary AML as defined by World Health Organisation (WHO) criteria, who were not candidates for standard induction chemotherapy. A total of 89 patients were randomised 1:1 to receive Inaqovi (35 mg decitabine and 100 mg cedazuridine) orally in Cycle 1 and decitabine (20 mg/m 2 ) intravenously in Cycle 2 (n=44) or the reverse sequence (n=45). Both Inaqovi and intravenous decitabine were administered once daily on Days 1 through 5 of the 28-day cycle. Starting with Cycle 3, all patients received Inaqovi orally once daily on Days 1 through 5 of each 28-day cycle until disease progression, death, or unacceptable toxicity. Two of the patients randomised did not receive any study treatment and fifteen were treated in Cycle 1 alone: 8 with Inaqovi, and 7 with intravenous decitabine.
 
 The median treatment duration was 5 months (range 0 to 18 months).
 
-Demographic and baseline disease characteristics are shown in Table 3.
-
-Table 3: Demographic and disease baseline characteristics (Phase 3)
-
-| Characteristic             | Phase 3 Inaqovi (N=89)   |
-|----------------------------|--------------------------|
-| Age (years)                |                          |
-| Median (min, max)          | 78 (61, 92)              |
-| Gender (%)                 |                          |
-| Male                       | 54 (60.7)                |
-| Female                     | 35 (39.3)                |
-| ECOG Performance Score (%) |                          |
-| 0                          | 36 (40.4)                |
-
 <div style=\"page-break-after: always\"></div>
+
+Demographic and baseline disease characteristics are shown in Table 4.
+
+Table 4: Demographic and disease baseline characteristics (Phase 3)
 
 | Characteristic                           | Phase 3 Inaqovi (N=89)   |
 |------------------------------------------|--------------------------|
+| Age (years)                              |                          |
+| Median (min, max)                        | 78 (61, 92)              |
+| Gender (%)                               |                          |
+| Male                                     | 54 (60.7)                |
+| Female                                   | 35 (39.3)                |
+| ECOG Performance Score (%)               |                          |
+| 0                                        | 36 (40.4)                |
 | 1                                        | 53 (59.6)                |
 | Disease Category (%)                     |                          |
 | de novo AML                              | 57 (64.0)                |
@@ -437,9 +484,9 @@ Table 3: Demographic and disease baseline characteristics (Phase 3)
 
 The primary outcome measure of the Phase 3 study was 5-day cumulative decitabine AUC between Inaqovi and intravenous decitabine . Inaqovi achieved AUC0-24h exposures equivalent to intravenous infusion of decitabine at 20 mg/m 2 (see section 5.2).
 
-Secondary efficacy endpoints included complete response (CR) and the rate of conversion from transfusion dependence to transfusion independence. Descriptive summaries of efficacy are shown in Table 4.
+Secondary efficacy endpoints included complete response (CR) and the rate of conversion from transfusion dependence to transfusion independence. Descriptive summaries of efficacy are shown in Table 5.
 
-Table 4: Efficacy results in patients with AML study ASTX727-02-EU AML (Phase 3)
+Table 5: Efficacy results in patients with AML study ASTX727-02-EU AML (Phase 3)
 
 | Efficacy endpoints                        | Inaqovi (N=89)   |
 |-------------------------------------------|------------------|
@@ -448,29 +495,88 @@ Table 4: Efficacy results in patients with AML study ASTX727-02-EU AML (Phase 3)
 | Median time to CR - months [range]        | 3.0 [1.8, 7.4]   |
 | Overall response † (%) [95% CI]           | 32 [22.0, 42.2]  |
 
+<div style=\"page-break-after: always\"></div>
+
 A patient was considered transfusion independent if the patient was both RBC and platelet transfusion free posttreatment for ≥ 56 consecutive days. Among a total of 41 patients (out of the 87 treated patients) who were dependent on either RBC and/or platelet transfusions at baseline, 14 (34%) became independent of RBC or platelet transfusions during any 56-day post-baseline period. Of the 46 patients who were independent of both RBC and platelet transfusions at baseline, 12 (26%) remained transfusion-independent during any 56-day post-baseline period.
+
+## In combination with venetoclax
+
+Inaqovi in combination with venetoclax was evaluated in Study ASTX727-07 Phase 2 Part B, a singlearm, open-label, interventional study that included 101 treated adult patients with newly diagnosed AML who were age 75 years or older, or had comorbidities that precluded the use of intensive induction chemotherapy based on at least one of the following criteria: baseline ECOG performance status of 2-3, severe cardiac disorder or pulmonary comorbidity disorder, moderate he patic impairment, CLcr ≥30 mL/min to &lt;45 mL/min, or other comorbidity.
+
+Patients received Inaqovi orally once daily on Days 1 through 5 of each cycle and venetoclax once daily as follows: 100 mg on Cycle 1 Day 1, 200 mg on Cycle 1 Day 2, 400 mg on Cycle 1 Days 3 through 28, and 400 mg on Cycles ≥ 2 Days 1 through 28 in each 28-day cycle until disease progression or unacceptable toxicity occurred.
+
+Bone marrow evaluations were, with minimal exceptions, performed within a 7-day window prior to and including Day 1 of a treatment cycle to determine response to treatment and guide decisions on study treatment dosing. For those patients determined to be in remission, dose delay and/or dose reduction were allowed in the case of Grade 4 neutropenia or thrombocytopenia, as well as for Grade 3 or 4 nonhaematologic toxicities.
+
+The baseline demographic and disease characteristics are shown in Table 6.
+
+Table 6: Demographics and baseline disease characteristics for Study ASTX727-07 Part B
+
+| Characteristic                           | INAQOVI+VEN N=101   |
+|------------------------------------------|---------------------|
+| Age (years)                              |                     |
+| Median (min, max)                        | 78 (63, 88)         |
+| Gender (%)                               |                     |
+| Male                                     | 60                  |
+| Female                                   | 40                  |
+| ECOG Performance Score (%)               |                     |
+| 0-1                                      | 78                  |
+| 2                                        | 19                  |
+| 3                                        | 3                   |
+| Diagnosis, n (%)                         |                     |
+| AML with recurrent genetic abnormalities | 14 (13.9)           |
+| AML with myelodysplasia-related changes  | 57 (56.4)           |
+| AML, therapy-related                     | 7 (6.9)             |
+| AML, not otherwise specified             | 23 (22.8)           |
+
+Primary endpoint in Phase 2 Part B was CR as evaluated by investigator. The median follow-up time was 11.2 months (range: 0.3 to 17.5 months). The median treatment duration for Inaqovi was 5.5 months (range: 0.2 to 17.2 months) and the median treatment duration for venetoclax was 5.5 months (range: 0.2 to 17.2 months).
+
+<div style=\"page-break-after: always\"></div>
+
+The efficacy results are shown in Table 7.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7: Efficacy results in patients with AML (Study ASTX727-07 Part B)
+
+| Efficacy endpoints                                                                           | INAQOVI+VEN (N=101)      |
+|----------------------------------------------------------------------------------------------|--------------------------|
+| Response rate CR, n (%) (95% CI) *                                                           | 47 (46.5) (36.5, 56.7)   |
+| Duration of response †‡ Median DoR (CR) (months) (95% CI)                                    | NR (NR, NR)              |
+| Time to response by investigators (all responders) Time to response (months) Median Min, Max | CR (n=47) 2.37 0.7, 15.3 |
+
+Abbreviations: CI = confidence interval; CR = complete response; DoR = duration of response; NR = not reached
+
+CR was assessed based on 2017 European LeukemiaNet (ELN) criteria (Döhner et al 2017)
+
+*  Estimated using Clopper-Pearson method
+
+† Defined as the time from the first of CR until disease progression or death due to any cause, whichever occurred first
+
+‡  Estimated using Kaplan-Meier method
 
 ## Paediatric population
 
 The obligation to submit the results of studies with Inaqovi in one or more subsets of the paediatric population in AML has been deferred by the European Medicines Agency. See section 4.2 for information on paediatric use.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic (PK) parameters of decitabine and cedazuridine were studied following administration of Inaqovi at the recommended dose in patients with myelodysplastic syndrome (MDS), chronic myelomonocytic leukaemia (CMML), and AML.
 
-Decitabine AUC exposures equivalent to those achieved with intravenous infusion of decitabine at 20 mg/m 2  was achieved with the recommended dose of Inaqovi for 5 consecutive days. The geometric mean ratio (GMR) of 5-day total decitabine AUC0-24h between Inaqovi and intravenous decitabine was 99% for patients with MDS/CMML and 100% for patients with AML (90% confidence interval [CI] 93%, 106% and 91%, 109% for MDS/CMML and AML, respectively).
+Decitabine AUC exposures equivalent to those achieved with intravenous infusion of decitabine at 20 mg/m 2 was achieved with the recommended dose of Inaqovi for 5 consecutive days. The geometric mean ratio (GMR) of 5-day total decitabine AUC0-24h between Inaqovi and intravenous decitabine was 99% for patients with MDS/CMML and 100% for patients with AML (90% confidence interval [CI] 93%, 106% and 91%, 109% for MDS/CMML and AML, respectively).
 
 At steady state (achieved with the second dose), circulating plasma concentrations were typically 1.8 times and 1.1 times the Day 1 plasma concentrations for decitabine and cedazuridine, respectively.
 
 In the MDS population (highest number of subjects available; data from AML were similar), decitabine mean (% coefficient of variation [CV]) AUC0-24h exposure at steady state was 189 (55%) ng×h/mL and Cmax was 145 (55%) ng/mL, respectively. Cedazuridine mean AUC0-24h exposure at steady state (Day 2) was 3290 (45%) ng×h/mL and Cmax was 349 (49%) ng/mL.
 
+Decitabine exposures when Inaqovi was coadministered with venetoclax (Study ASTX727-07) were comparable to Inaqovi monotherapy.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Absorption
 
 After oral administration of Inaqovi, the median time to peak concentration (tmax) at steady state was 3 hours (range: 0.5 to 7.9 ) for cedazuridine and 1 hour (range: 0.3 to 3) for decitabine. Co-administered with cedazuridine increased decitabine oral relative bioavailability to achieve systemic AUC exposures seen with intravenous decitabine. The bioavailability of cedazuridine was 20.7% (range: 12.7% to 25.6%).
 
-In a crossover food effect study conducted in 16 patients, administration of the medicinal product with a high-fat, high-calorie meal reduced the overall decitabine exposure (AUC) by approximately 40% and Cmax by 54%. Cedazuridine time to maximum concentration (tmax) was slightly delayed but its systemic exposure was not significantly affected by the meal.
+Cedazuridine systemic exposure was not significantly affected by food. High calorie/high fat meals reduced decitabine AUC0-24 by 50% and Cmax by 70%; low calorie/low fat meals reduced AUC0-24 by 40% and Cmax by 45%. Therefore, Inaqovi should be administered in the fasted state, on an empty stomach with no food intake 2 hours before and following administration of the Inaqovi tablet (see section 4.2).
 
 ## Distribution
 
@@ -488,8 +594,6 @@ Cedazuridine is approximately 35% bound to human plasma proteins in vitro . The 
 
 Decitabine is metabolised primarily via deamination by cytidine deaminases and also physiochemical degradation at physiological conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cedazuridine
 
 The primary metabolic pathway for cedazuridine is conversion to its epimer by physiochemical conversion in GI tract preabsorption.
@@ -506,6 +610,8 @@ Following a single oral dose of Inaqovi, the mean (CV%) t1/2 of cedazuridine was
 
 The two major elimination pathways of cedazuridine are renal elimination as parent drug and conversion to its epimer (which is then renally excreted). Following a single oral dose of 100 mg radiolabeled cedazuridine, 46% (17.1% unchanged) of the administered dose was recovered in urine and 51% was recovered in the faeces.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity/non-linearity
 
 An approximately dose-proportional increase in peak concentrations (Cmax) and AUC over the dosing interval was observed for decitabine over a dose range from 20 mg to 40 mg in combination with 100 mg cedazuridine.
@@ -514,7 +620,7 @@ Exposure for cedazuridine over the dose range evaluated from 40 mg to 100 mg onc
 
 ## Special populations
 
-Age, sex, body weight, and body surface area  did not have a clinically relevant effect on the PK parameters of decitabine or cedazuridine after dosing with Inaqovi.
+Age, sex, body weight, and body surface area did not have a clinically relevant effect on the PK parameters of decitabine or cedazuridine after dosing with Inaqovi.
 
 ## Renal impairment
 
@@ -522,11 +628,7 @@ The PK of decitabine and cedazuridine have not been formally studied in patients
 
 ## Hepatic impairment
 
-The PK of decitabine and cedazuridine have not been formally studied in patients with hepatic impairment. Very few patients with impaired liver function were included in the clinical studies. Large effects of hepatic impairment on decitabine or cedazuridine exposure are not expected as cedazuridine is
-
-<div style=\"page-break-after: always\"></div>
-
-not hepatically metabolised and decitabine is metabolised by cytidine deaminase, which is present in several tissues.
+The PK of decitabine and cedazuridine have not been formally studied in patients with hepatic impairment. Very few patients with impaired liver function were included in the clinical studies. Large effects of hepatic impairment on decitabine or cedazuridine exposure are not expected as cedazuridine is not hepatically metabolised and decitabine is metabolised by cytidine deaminase, which is present in several tissues.
 
 ## 5.3 Preclinical safety data
 
@@ -537,6 +639,8 @@ Carcinogenicity studies with decitabine, cedazuridine, or their combination have
 Decitabine was mutagenic in in vitro and in vivo studies. Decitabine increased mutation frequency in L5178Y mouse lymphoma cells and mutations were produced in an Escherichia coli lac-I transgene in colonic DNA of decitabine-treated mice. Decitabine caused chromosomal rearrangements in larvae of fruit flies.
 
 Cedazuridine was mutagenic in the reverse bacterial mutation assay (Ames assay) and was genotoxic in the in vitro chromosomal aberration study using human lymphocytes. Cedazuridine was negative for the genotoxicity assessment in three in vivo studies including the mouse micronucleus, Comet assay, and the Pig-A assay.
+
+<div style=\"page-break-after: always\"></div>
 
 Fertility and repeat-dose toxicity studies in animals showed adverse outcomes on reproductive function and fertility.
 
@@ -552,8 +656,6 @@ Evidence from the literature indicates that decitabine has carcinogenic potentia
 
 Decitabine administration to neonatal/juvenile rats showed a comparable general toxicity profile as in older rats. Neurobehavioural development and reproductive capacity were unaffected when neonatal/juvenile rats were treated at dose levels inducing myelosuppression.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -564,53 +666,37 @@ Lactose monohydrate Hypromellose (E464) Croscarmellose sodium (E466) Silica, col
 
 ## Film-coating
 
-Polyvinyl alcohol (E1203) Titanium dioxide (E171) Polyethylene glycol (E1521) Talc (E553b) Iron oxide red (E172)
-
-## 6.2 Incompatibilities
-
-Not applicable.
-
-## 6.3 Shelf life
-
-5 years.
-
-## 6.4 Special precautions for storage
-
-Store in the original package in order to protect from moisture.
-
-This medicinal product does not require any special temperature storage conditions.
-
-## 6.5 Nature and contents of container
-
-5 film-coated tablets in PVC/Aluminum blisters with laminated desiccant (3-ply cold formable aluminumplastic).
-
-## 6.6 Special precautions for disposal and other handling
-
-## Safe handling of Inaqovi film-coated tablets
-
-The handling of Inaqovi film-coated tablets should follow guidelines for the handling of cytotoxic medicinal products according to prevailing local recommendation and/or regulations.
-
-Provided the outer coating of the tablet is intact, there is no risk in handling Inaqovi film-coated tablets.
-
-Inaqovi film-coated tablets must not be crushed or divided.
+Polyvinyl alcohol (E1203) Titanium dioxide (E171) Polyethylene glycol (E1521) Talc (E553b)
 
 <div style=\"page-break-after: always\"></div>
 
-## Disposal
+| Iron oxide red (E172)                                                                                                                                | Iron oxide red (E172)                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6.2                                                                                                                                                  | Incompatibilities                                                                                                                                    |
+| Not applicable.                                                                                                                                      | Not applicable.                                                                                                                                      |
+| 6.3                                                                                                                                                  | Shelf life                                                                                                                                           |
+| 5 years.                                                                                                                                             | 5 years.                                                                                                                                             |
+| 6.4                                                                                                                                                  | Special precautions for storage                                                                                                                      |
+| Store in the original package in order to protect from moisture. This medicinal product does not require any special temperature storage conditions. | Store in the original package in order to protect from moisture. This medicinal product does not require any special temperature storage conditions. |
+| 6.5                                                                                                                                                  | Nature and contents of container                                                                                                                     |
+| 5 film-coated tablets in PVC/Aluminium blisters (3-ply cold formable aluminium-plastic).                                                             | 5 film-coated tablets in PVC/Aluminium blisters (3-ply cold formable aluminium-plastic).                                                             |
+| 6.6                                                                                                                                                  | Special precautions for disposal and other handling                                                                                                  |
+| Safe handling of Inaqovi film-coated tablets                                                                                                         | Safe handling of Inaqovi film-coated tablets                                                                                                         |
+| medicinal products according to prevailing local recommendation and/or regulations. tablets.                                                         | medicinal products according to prevailing local recommendation and/or regulations. tablets.                                                         |
+| Provided the outer coating of the tablet is intact, there is no risk in handling Inaqovi film-coated                                                 | Provided the outer coating of the tablet is intact, there is no risk in handling Inaqovi film-coated                                                 |
+| Inaqovi film-coated tablets must not be crushed or divided.                                                                                          | Inaqovi film-coated tablets must not be crushed or divided.                                                                                          |
+| Disposal                                                                                                                                             | Disposal                                                                                                                                             |
+| 7.                                                                                                                                                   | MARKETING AUTHORISATION HOLDER                                                                                                                       |
+| Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam Netherlands                                                              | Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam Netherlands                                                              |
+| 8.                                                                                                                                                   | MARKETING AUTHORISATION NUMBER(S)                                                                                                                    |
+| EU/1/23/1756/001                                                                                                                                     | EU/1/23/1756/001                                                                                                                                     |
+| 9.                                                                                                                                                   | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                                             |
 
-Any unused medicinal product should be destroyed in accordance with relevant local requirements concerning the disposal of cytotoxic medicinal products.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam Netherlands
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/23/1756/001
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+21
 
 Date of first authorisation: 15 September 2023
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -658,12 +744,14 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-An updated RMP should be submitted:
-
 <div style=\"page-break-after: always\"></div>
+
+## An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## ANNEX III
 
@@ -681,7 +769,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Inaqovi 35 mg/100 mg film-coated tablets decitabine/cedazuridine
+Inaqovi 35 mg/100 mg film-coated tablets
+
+decitabine/cedazuridine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -760,17 +850,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Inaqovi 35 mg/100 mg tablets decitabine/cedazuridine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -827,7 +917,7 @@ Inaqovi is a cancer medicine. It contains the active substances decitabine and c
 
 ## What Inaqovi is used for
 
-Inaqovi is used alone to treat acute myeloid leukaemia (AML) in adults, when chemotherapy is not considered suitable. You will be given Inaqovi when you are first diagnosed with AML.
+Inaqovi is used alone or in combination with another medicine containing the active substance venetoclax to treat acute myeloid leukaemia (AML) in adults, when chemotherapy is not considered suitable. You will be given Inaqovi when you are first diagnosed with AML.
 
 AML is a type of cancer affecting white blood cells called myeloid cells. In AML, myeloid cells multiply and grow very quickly in bone marrow and blood.
 
@@ -855,7 +945,11 @@ Talk to your doctor, pharmacist or nurse before taking Inaqovi if you:
 
 ## Myelosuppression and 'differentiation syndrome'
 
-Inaqovi can cause serious myelosuppression (a condition in which the bone marrow cannot make enough blood cells), or a serious immune reaction called 'differentiation syndrome'. Both may be fatal. Seek urgent medical attention if you notice any signs and symptoms (for symptoms see section 4)
+Inaqovi can cause serious myelosuppression (a condition in which the bone marrow cannot make enough blood cells), or a serious immune reaction called 'differentiation syndrome'. Both may be fatal. Seek urgent medical attention if you notice any signs and symptoms (for symptoms see section 4).
+
+## Tumour Lysis Syndrome
+
+For patients taking Inaqovi in combination with venetoclax, there is a risk of tumour lysis syndrome (TLS). Please refer to the package leaflet of your venetoclax medicinal product for additional information.
 
 ## Cardiovascular disease
 
@@ -886,9 +980,9 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken, or
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
-You should not take Inaqovi during pregnancy as it may harm your unborn baby. If you are able to become pregnant, a pregnancy test is recommended before starting treatment with Inaqovi.
-
 <div style=\"page-break-after: always\"></div>
+
+You should not take Inaqovi during pregnancy as it may harm your unborn baby. If you are able to become pregnant, a pregnancy test is recommended before starting treatment with Inaqovi.
 
 ## Contraception
 
@@ -925,16 +1019,17 @@ The recommended dose is 1 tablet once a day for the first 5 days of a treatment 
 - -Swallow your tablets whole, with water, at approximately the same time each day.
 - -Do not chew, crush, or break your tablets to avoid skin contact or powdered medicine in the air.
 - -Since taking Inaqovi with food can decrease the effectiveness of the medicine, Inaqovi must be taken without food. Take Inaqovi 2 hours before or 2 hours after a meal.
+- -If you are taking both Inaqovi and venetoclax as your treatment for AML, do not take them at the same time, since venetoclax is to be taken with food. For venetoclax, please follow the instructions on the venetoclax package leaflet.
 
 You will usually take Inaqovi for at least 4 cycles. Your doctor will do regular blood tests to check on how well you respond to the treatment. Your doctor may delay your dose and change the total number of cycles, depending on how you respond to the treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you vomit
 
 If you vomit after taking a dose, do not take an additional dose that day. Take the next dose at the usual time the following day.
 
 Your doctor may prescribe you additional medicine to take before each Inaqovi dose to avoid you feeling sick or having to vomit during the treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you take more Inaqovi than you should
 
@@ -969,13 +1064,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -urinary tract infection
 - -infection caused by bacteria, viruses or fungi
+
+<div style=\"page-break-after: always\"></div>
+
 - -high blood glucose levels
 - -mouth or tongue ulcers because of painful inflammation of the lining of the mouth
 - -diarrhoea
 - -feeling sick and vomiting
 - -altered liver function tests (increased ALT, AST, alkaline phosphatase, bilirubin)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -986,7 +1082,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Uncommon (may affect up to 1 in 100 people)
 
 - -a drop in the number of red blood cells, white blood cells and platelets
-- -sudden fever with, multiple red or bluish-red raised painful patches on the skin, usually on the arms, legs, trunk, face or neck. ('Acute Febrile Neutrophilic Dermatosis' or 'Sweet's Syndrome')
+- -
+- sudden fever with, multiple red or bluish-red raised painful patches on the skin, usually on the arms, legs, trunk, face or neck. ('Acute Febrile Neutrophilic Dermatosis' or 'Sweet's Syndrome')
 - -heart muscle disease
 
 ## Reporting of side effects
@@ -1014,21 +1111,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Inaqovi contains lactose and sodium, see section 2.
 
-- Tablet core
+## Tablet core
 
 lactose monohydrate, hypromellose (E464), croscarmellose sodium (E466), silica, colloidal anhydrous, magnesium stearate (E572).
 
-- Film-coating
+## Film-coating
 
 polyvinyl alcohol (E1203), titanium dioxide (E171), polyethylene glycol (E1521), talc (E553b), iron oxide red (E172).
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Inaqovi looks like and contents of the pack
 
 Inaqovi are red, oval biconvex shaped film-coated tablets, 14 mm diameter, plain on one side and debossed with 'H35' on the other side.
 
 They are supplied in foil blister packs containing 5 tablets.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1042,65 +1139,79 @@ BSP Pharmaceuticals S.p.A. Via Appia Km. 65,561 04013 Latina Scalo (LT) Italy
 
 R-PHARM Germany GmbH Heinrich-Mack-Straße 35 89257 lllertissen Germany
 
-For any information about this medicine, please contact the Marketing Authorisation Holder.
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 (0) 8 545 286 60
+
+## Lietuva
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## България
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
-## Česká republika
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Danmark
-
-Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
-
-## Deutschland
-
-Otsuka Pharma GmbH Tel: +49 (0) 69 1700 860
-
-## Eesti
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Ελλάδα
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Lietuva
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
 ## Luxembourg/Luxemburg
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 (0) 8 545 286 60
+
+## Česká republika
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Magyarország
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
+
+## Danmark
+
+Otsuka Pharma Scandinavia AB
+
+Tlf: +46 (0) 8 545 286 60
 
 ## Malta
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
+
+## Deutschland
+
+Otsuka Pharma GmbH
+
+Tel: +49 (0) 69 1700 860
 
 ## Nederland
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
 
-## Norge
-
-Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
-
-## Österreich
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Tel: +31 (0) 20 85 46 555
 
 <div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
+
+## Ελλάδα
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## España
 
@@ -1128,7 +1239,7 @@ Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 (0) 535 7000
 
@@ -1157,6 +1268,18 @@ Tel: +31 (0) 20 85 46 555
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en. There are also links to other websites about rare diseases and treatments.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+## Norge
+
+Otsuka Pharma Scandinavia AB
+
+Tlf: +46 (0) 8 545 286 60
+
+## Österreich
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Polska
 
@@ -1199,3 +1322,17 @@ Tlf: +46 (0) 8 545 286 60
 Otsuka Pharma Scandinavia AB
 
 Tlf: +46 (0) 8 545 286 60
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
+
+<div style=\"page-break-after: always\"></div>
+
+## Conclusions presented by the European Medicines Agency on:
+
+## · one-year marketing protection
+
+The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

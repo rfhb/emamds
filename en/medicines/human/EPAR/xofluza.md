@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-20 17:17:00
+document_datetime: 2026-07-02 14:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xofluza.html
 document_name: xofluza.html
 version: success
-processing_time: 0.0960806
-conversion_datetime: 2026-05-22 22:31:52.522147
+processing_time: 0.1615047
+conversion_datetime: 2026-07-04 12:58:43.166818
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Xofluza
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Xofluza used?
+### How is Xofluza used?
 
 Xofluza is available as tablets and as granules to be dissolved into water; it is taken by mouth. To treat flu, patients should take a single dose by mouth within 48 hours of having symptoms. To prevent flu, the single dose is taken as soon as possible within 48 hours of being in contact with someone suspected of having flu.
 
@@ -64,11 +64,11 @@ The dose for treatment and prevention are the same: people weighing more than 20
 
 For more information about using Xofluza, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xofluza work?
+### How does Xofluza work?
 
 The active substance in Xofluza, baloxavir marboxil, blocks an enzyme known as CEN, which the influenza virus uses to produce more copies of itself. By interfering with the activity of this enzyme, the medicine can treat the infection and prevent infection in patients exposed to the virus.
 
-## What benefits of Xofluza have been shown in studies?
+### What benefits of Xofluza have been shown in studies?
 
 **Treating flu**
 
@@ -82,23 +82,23 @@ A third study involved 173 children between 1 and 11 years of age with flu-like 
 
 A study involving 752 people, including 142 children between 1 and 11 years of age, showed that taking Xofluza after being exposed to the virus from an infected person at home reduces the risk of a person getting the disease. In this study, around 2% of those who took Xofluza tested positive for flu and had symptoms compared with around 14% of those who took placebo.
 
-## What are the risks associated with Xofluza?
+### What are the risks associated with Xofluza?
 
 The most common side effect with Xofluza (which may affect up to 1 in 100 people) in people aged 12 years and above is itchy rash. In children younger than 12 years of age, the most common side effects (which may affect up to 1 in 10 people) are diarrhoea, vomiting and rash.
 
 For the full list of side effects and restrictions of Xofluza, see the package leaflet.
 
-## Why is Xofluza authorised in the EU?
+### Why is Xofluza authorised in the EU?
 
 Studies have shown that Xofluza is effective in treating uncomplicated flu and preventing illness in people who have been exposed to the flu virus. The side effects of the medicines appear to be few and are manageable. The European Medicines Agency therefore decided that Xofluza's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xofluza?
+### What measures are being taken to ensure the safe and effective use of Xofluza?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Xofluza have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Xofluza are continuously monitored. Side effects reported with Xofluza are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xofluza
+### Other information about Xofluza
 
 Xofluza received a marketing authorisation valid throughout the EU on 7 January 2021.
 
@@ -112,7 +112,7 @@ English (EN) (119.96 KB - PDF)
 
 [View](/en/documents/overview/xofluza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-86)
+[Other languages (22)](#file-language-dropdown-746)
 
 български (BG) (145.45 KB - PDF)
 
@@ -144,7 +144,7 @@ Deutsch (DE) (124.13 KB - PDF)
 
 [View](/de/documents/overview/xofluza-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.02 KB - PDF)
+eesti (ET) (108.02 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -174,13 +174,13 @@ italiano (IT) (119.15 KB - PDF)
 
 [View](/it/documents/overview/xofluza-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (156.75 KB - PDF)
+latviešu (LV) (156.75 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
 [View](/lv/documents/overview/xofluza-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (142.71 KB - PDF)
+lietuvių (LT) (142.71 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -234,7 +234,7 @@ slovenščina (SL) (141.6 KB - PDF)
 
 [View](/sl/documents/overview/xofluza-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (117.59 KB - PDF)
+suomi (FI) (117.59 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -264,7 +264,7 @@ English (EN) (457.9 KB - PDF)
 
 [View](/en/documents/product-information/xofluza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-730)
+[Other languages (24)](#file-language-dropdown-499)
 
 български (BG) (1.46 MB - PDF)
 
@@ -296,7 +296,7 @@ Deutsch (DE) (1.19 MB - PDF)
 
 [View](/de/documents/product-information/xofluza-epar-product-information_de.pdf)
 
-eesti keel (ET) (997.83 KB - PDF)
+eesti (ET) (997.83 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
@@ -320,25 +320,19 @@ hrvatski (HR) (1.06 MB - PDF)
 
 [View](/hr/documents/product-information/xofluza-epar-product-information_hr.pdf)
 
-íslenska (IS) (1018.1 KB - PDF)
-
-**First published:** 22/01/2021 **Last updated:** 20/05/2026
-
-[View](/is/documents/product-information/xofluza-epar-product-information_is.pdf)
-
 italiano (IT) (1.1 MB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
 [View](/it/documents/product-information/xofluza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.16 MB - PDF)
+latviešu (LV) (1.16 MB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
 [View](/lv/documents/product-information/xofluza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.2 MB - PDF)
+lietuvių (LT) (1.2 MB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
@@ -361,12 +355,6 @@ Nederlands (NL) (1.05 MB - PDF)
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
 [View](/nl/documents/product-information/xofluza-epar-product-information_nl.pdf)
-
-norsk (NO) (1.02 MB - PDF)
-
-**First published:** 22/01/2021 **Last updated:** 20/05/2026
-
-[View](/no/documents/product-information/xofluza-epar-product-information_no.pdf)
 
 polski (PL) (1.15 MB - PDF)
 
@@ -398,7 +386,7 @@ slovenščina (SL) (1.09 MB - PDF)
 
 [View](/sl/documents/product-information/xofluza-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.05 MB - PDF)
+suomi (FI) (1.05 MB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 20/05/2026
 
@@ -410,6 +398,18 @@ svenska (SV) (1.13 MB - PDF)
 
 [View](/sv/documents/product-information/xofluza-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1018.1 KB - PDF)
+
+**First published:** 22/01/2021 **Last updated:** 20/05/2026
+
+[View](/is/documents/product-information/xofluza-epar-product-information_is.pdf)
+
+norsk (NO) (1.02 MB - PDF)
+
+**First published:** 22/01/2021 **Last updated:** 20/05/2026
+
+[View](/no/documents/product-information/xofluza-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000323488
 
 10/04/2026
@@ -418,7 +418,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (16.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-683)
+[Other languages (24)](#file-language-dropdown-470)
 
 български (BG) (40.95 KB - PDF)
 
@@ -468,7 +469,7 @@ Deutsch (DE) (16.31 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (15.07 KB - PDF)
+eesti (ET) (15.07 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -492,25 +493,19 @@ hrvatski (HR) (34.02 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (15.58 KB - PDF)
-
-**First published:** 22/01/2021 **Last updated:** 19/01/2023
-
-[View](/is/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (19.83 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
 [View](/it/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.4 KB - PDF)
+latviešu (LV) (41.4 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
 [View](/lv/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (39.2 KB - PDF)
+lietuvių (LT) (39.2 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -533,12 +528,6 @@ Nederlands (NL) (15.41 KB - PDF)
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
 [View](/nl/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (20.56 KB - PDF)
-
-**First published:** 22/01/2021 **Last updated:** 19/01/2023
-
-[View](/no/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (36.08 KB - PDF)
 
@@ -570,7 +559,7 @@ slovenščina (SL) (33.76 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (15.34 KB - PDF)
+suomi (FI) (15.34 KB - PDF)
 
 **First published:** 22/01/2021 **Last updated:** 19/01/2023
 
@@ -582,23 +571,28 @@ svenska (SV) (18.96 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (15.58 KB - PDF)
+
+**First published:** 22/01/2021 **Last updated:** 19/01/2023
+
+[View](/is/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (20.56 KB - PDF)
+
+**First published:** 22/01/2021 **Last updated:** 19/01/2023
+
+[View](/no/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xofluza
-
-Active substance
-
-Baloxavir marboxil
-
-International non-proprietary name (INN) or common name
-
-baloxavir marboxil
-
-Therapeutic area (MeSH)
-
-Influenza, Human
+- **Name of medicine**
+    - Xofluza
+- **Active substance**
+    - Baloxavir marboxil
+- **International non-proprietary name (INN) or common name**
+    - baloxavir marboxil
+- **Therapeutic area (MeSH)**
+    - Influenza, Human
 
 ### Pharmacotherapeutic group
 
@@ -618,31 +612,18 @@ Xofluza should be used in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004974
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted
-
-12/11/2020
-
-Marketing authorisation issued
-
-07/01/2021
-
-Revision
-
-9
+- **EMA product number**
+    - EMEA/H/C/004974
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Opinion adopted**
+    - 12/11/2020
+- **Marketing authorisation issued**
+    - 07/01/2021
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -650,7 +631,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xofluza : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -667,6 +648,16 @@ English (EN) (192.14 KB - PDF)
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
 [View](/en/documents/procedural-steps-after/xofluza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Xofluza-PAM-0000328208 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3293183
+
+English (EN) (1.86 MB - PDF)
+
+**First published:** 02/07/2026
+
+[View](/en/documents/variation-report/xofluza-pam-0000328208-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Xofluza (II-21)
 
@@ -688,7 +679,7 @@ English (EN) (3.74 MB - PDF)
 
 [View](/en/documents/variation-report/xofluza-4974-x-0008-g-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xofluza : EPAR - Public assessment report
 
@@ -730,6 +721,6 @@ English (EN) (142.7 KB - PDF)
 
 **This page was last updated on**
 
-20/05/2026
+02/07/2026
 
 ## Share this page

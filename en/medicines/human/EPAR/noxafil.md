@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 15:24:00
+document_datetime: 2026-07-01 12:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/noxafil.html
 document_name: noxafil.html
 version: success
-processing_time: 0.1638989
-conversion_datetime: 2026-04-25 16:52:46.775937
+processing_time: 0.2340321
+conversion_datetime: 2026-07-04 13:04:31.754781
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Noxafil
 
@@ -68,7 +68,7 @@ Expand section
 
 Collapse section
 
-## How is Noxafil used?
+### How is Noxafil used?
 
 Noxafil can only be obtained with a prescription, and treatment should be started by a doctor who has experience in managing fungal infections or in treating patients at high risk of invasive fungal infections.
 
@@ -80,17 +80,18 @@ Patients treated with the solution for infusion should be switched to Noxafil ta
 
 For additional information, see the package leaflet.
 
-## How does Noxafil work?
+### How does Noxafil work?
 
 The active substance in Noxafil, posaconazole, is an antifungal medicine that belongs to the triazole group. It works by preventing the formation of ergosterol, which is an important part of fungal cell walls. Without ergosterol, the fungus dies or cannot spread. The list of fungi against which Noxafil is active can be found in the product information.
 
-## What benefits of Noxafil have been shown in studies?
+### What benefits of Noxafil have been shown in studies?
 
 **Treatment of infection**
 
 One main study involved 238 patients with invasive fungal infections that did not respond to standard antifungal treatment and who were treated with Noxafil oral suspension. These results obtained with Noxafil were compared with those for other antifungal medicines from records of 218 patients. In this study, 42% of the patients with invasive aspergillosis taking Noxafil oral suspension had a successful response compared with 26% of patients receiving other antifungal medicines. Noxafil also successfully treated 11 of 18 patients (61%) who had proven or probable fusariosis, 9 of 11 patients (82%) with chromoblastomycosis or mycetoma, and 11 of 16 patients (69%) with coccidioidomycosis.
 
-In the second main study involving 350 HIV-positive patients with oropharyngeal candidiasis, Noxafil oral suspension was as effective as the antifungal medicine fluconazole. For both medicines, after 14 days of treatment, oropharyngeal candidiasis either improved or was successfully cured in 92% of patients. A third study involving 575 patients with proven, probable or possible invasive aspergillosis found that Noxafil given as an infusion into the vein or as tablets was at least as effective as the antifungal medicine voriconazole in reducing the risk of death. The results showed that 44 of 288 (15%) patients who received initial treatment with Noxafil died within 42 days of starting treatment compared with 59 of 287 (21%) of those who received initial treatment with voriconazole.
+In the second main study involving 350 HIV-positive patients with oropharyngeal candidiasis, Noxafil oral suspension was as effective as the antifungal medicine fluconazole. For both medicines, after 14 days of treatment, oropharyngeal candidiasis either improved or was successfully cured in 92% of patients.
+A third study involving 575 patients with proven, probable or possible invasive aspergillosis found that Noxafil given as an infusion into the vein or as tablets was at least as effective as the antifungal medicine voriconazole in reducing the risk of death. The results showed that 44 of 288 (15%) patients who received initial treatment with Noxafil died within 42 days of starting treatment compared with 59 of 287 (21%) of those who received initial treatment with voriconazole.
 
 **Prevention of infection**
 
@@ -104,7 +105,7 @@ The effectiveness of Noxafil in children is based on a study establishing whethe
 
 Another study involved 31 children from 2 to 17 years of age with possible, probable or confirmed invasive aspergillosis. After 6 or 12 weeks of treatment, around 68% and 77% of children, respectively, had a successful response to Noxafil, which was either complete (infection resolved) or partial (improvement of symptoms). The study did not compare Noxafil with another treatment or placebo (a dummy treatment).
 
-## What are the risks associated with Noxafil?
+### What are the risks associated with Noxafil?
 
 For the full list of all side effects and restrictions with Noxafil, see the package leaflet. Side effects depend on the dosage form of the medicine being used.
 
@@ -123,17 +124,17 @@ Noxafil must not be used together with any of the following medicines:
 
 Further information is available in the package leaflet.
 
-## Why is Noxafil authorised in the EU?
+### Why is Noxafil authorised in the EU?
 
 Noxafil is effective at treating fungal infections in patients for whom therapeutic options are limited; it can also prevent certain infections in patients with a weakened immune system. The infections it can be used to treat or prevent can have serious outcomes, including death. Its side effects are considered manageable. The European Medicines Agency therefore decided that Noxafil's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Noxafil?
+### What measures are being taken to ensure the safe and effective use of Noxafil?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Noxafil have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Noxafil are continuously monitored. Suspected side effects reported with Noxafil are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Noxafil
+### Other information about Noxafil
 
 Noxafil received a marketing authorisation valid throughout the EU on 25 October 2005.
 
@@ -147,7 +148,7 @@ English (EN) (174.14 KB - PDF)
 
 [View](/en/documents/overview/noxafil-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-420)
+[Other languages (22)](#file-language-dropdown-272)
 
 български (BG) (205.53 KB - PDF)
 
@@ -179,7 +180,7 @@ Deutsch (DE) (184.71 KB - PDF)
 
 [View](/de/documents/overview/noxafil-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (177.83 KB - PDF)
+eesti (ET) (177.83 KB - PDF)
 
 **First published:** 28/03/2007 **Last updated:** 24/03/2026
 
@@ -209,13 +210,13 @@ italiano (IT) (179.08 KB - PDF)
 
 [View](/it/documents/overview/noxafil-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (203.54 KB - PDF)
+latviešu (LV) (203.54 KB - PDF)
 
 **First published:** 28/03/2007 **Last updated:** 24/03/2026
 
 [View](/lv/documents/overview/noxafil-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (197.67 KB - PDF)
+lietuvių (LT) (197.67 KB - PDF)
 
 **First published:** 28/03/2007 **Last updated:** 24/03/2026
 
@@ -269,7 +270,7 @@ slovenščina (SL) (204.17 KB - PDF)
 
 [View](/sl/documents/overview/noxafil-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (177.82 KB - PDF)
+suomi (FI) (177.82 KB - PDF)
 
 **First published:** 28/03/2007 **Last updated:** 24/03/2026
 
@@ -299,7 +300,7 @@ English (EN) (1.78 MB - PDF)
 
 [View](/en/documents/product-information/noxafil-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-15)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (4.08 MB - PDF)
 
@@ -331,7 +332,7 @@ Deutsch (DE) (2.07 MB - PDF)
 
 [View](/de/documents/product-information/noxafil-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.79 MB - PDF)
+eesti (ET) (1.79 MB - PDF)
 
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
@@ -355,25 +356,19 @@ hrvatski (HR) (2.3 MB - PDF)
 
 [View](/hr/documents/product-information/noxafil-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.8 MB - PDF)
-
-**First published:** 01/12/2009 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/noxafil-epar-product-information_is.pdf)
-
 italiano (IT) (2.12 MB - PDF)
 
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/noxafil-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.86 MB - PDF)
+latviešu (LV) (2.86 MB - PDF)
 
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/noxafil-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.8 MB - PDF)
+lietuvių (LT) (2.8 MB - PDF)
 
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
@@ -396,12 +391,6 @@ Nederlands (NL) (1.95 MB - PDF)
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/noxafil-epar-product-information_nl.pdf)
-
-norsk (NO) (1.84 MB - PDF)
-
-**First published:** 01/12/2009 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/noxafil-epar-product-information_no.pdf)
 
 polski (PL) (3.16 MB - PDF)
 
@@ -433,7 +422,7 @@ slovenščina (SL) (2.33 MB - PDF)
 
 [View](/sl/documents/product-information/noxafil-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.77 MB - PDF)
+suomi (FI) (1.77 MB - PDF)
 
 **First published:** 01/12/2009 **Last updated:** 24/03/2026
 
@@ -445,6 +434,18 @@ svenska (SV) (1.74 MB - PDF)
 
 [View](/sv/documents/product-information/noxafil-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.8 MB - PDF)
+
+**First published:** 01/12/2009 **Last updated:** 24/03/2026
+
+[View](/is/documents/product-information/noxafil-epar-product-information_is.pdf)
+
+norsk (NO) (1.84 MB - PDF)
+
+**First published:** 01/12/2009 **Last updated:** 24/03/2026
+
+[View](/no/documents/product-information/noxafil-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000263360
 
 05/03/2026
@@ -453,7 +454,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -471,7 +473,7 @@ English (EN) (19.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-859)
+[Other languages (24)](#file-language-dropdown-989)
 
 български (BG) (30.51 KB - PDF)
 
@@ -503,7 +505,7 @@ Deutsch (DE) (20.46 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19 KB - PDF)
+eesti (ET) (19 KB - PDF)
 
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
@@ -527,25 +529,19 @@ hrvatski (HR) (27.96 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (22.6 KB - PDF)
-
-**First published:** 04/11/2005 **Last updated:** 26/01/2022
-
-[View](/is/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (24.67 KB - PDF)
 
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
 [View](/it/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.76 KB - PDF)
+latviešu (LV) (41.76 KB - PDF)
 
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
 [View](/lv/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (28.21 KB - PDF)
+lietuvių (LT) (28.21 KB - PDF)
 
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
@@ -568,12 +564,6 @@ Nederlands (NL) (20.47 KB - PDF)
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
 [View](/nl/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (28.41 KB - PDF)
-
-**First published:** 04/11/2005 **Last updated:** 26/01/2022
-
-[View](/no/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (30.57 KB - PDF)
 
@@ -605,7 +595,7 @@ slovenščina (SL) (26.62 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (19.89 KB - PDF)
+suomi (FI) (19.89 KB - PDF)
 
 **First published:** 04/11/2005 **Last updated:** 26/01/2022
 
@@ -617,30 +607,33 @@ svenska (SV) (23.36 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (22.6 KB - PDF)
+
+**First published:** 04/11/2005 **Last updated:** 26/01/2022
+
+[View](/is/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (28.41 KB - PDF)
+
+**First published:** 04/11/2005 **Last updated:** 26/01/2022
+
+[View](/no/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Noxafil
-
-Active substance
-
-posaconazole
-
-International non-proprietary name (INN) or common name
-
-posaconazole
-
-Therapeutic area (MeSH)
-
-- Candidiasis
-- Mycoses
-- Coccidioidomycosis
-- Aspergillosis
-
-Anatomical therapeutic chemical (ATC) code
-
-J02AC04
+- **Name of medicine**
+    - Noxafil
+- **Active substance**
+    - posaconazole
+- **International non-proprietary name (INN) or common name**
+    - posaconazole
+- **Therapeutic area (MeSH)**
+        - Candidiasis
+        - Mycoses
+        - Coccidioidomycosis
+        - Aspergillosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - J02AC04
 
 ### Pharmacotherapeutic group
 
@@ -714,27 +707,16 @@ Noxafil gastro-resistant powder and solvent for oral suspension is indicated for
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000610
-
-Marketing authorisation holder
-
-Merck Sharp and Dohme B.V
-
-Waarderweg 39
-
-Opinion adopted
-
-27/07/2005
-
-Marketing authorisation issued
-
-25/10/2005
-
-Revision
-
-43
+- **EMA product number**
+    - EMEA/H/C/000610
+- **Marketing authorisation holder**
+    - Merck Sharp and Dohme B.V Waarderweg 39  2031 BN Haarlem  The Netherlands
+- **Opinion adopted**
+    - 27/07/2005
+- **Marketing authorisation issued**
+    - 25/10/2005
+- **Revision**
+    - 43
 
 ## Assessment history
 
@@ -742,7 +724,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Noxafil : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -848,7 +830,7 @@ English (EN) (151.12 KB - PDF)
 
 **First published:** 30/08/2021
 
-[View](/en/documents/scientific-conclusion/noxafil-h-c-610-psusa-00002480-202010-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/noxafil-h-c-610-psusa-00002480-202010-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Noxafil-H-C-610-P46-0030 : EPAR - Assessment Report
 
@@ -910,7 +892,7 @@ English (EN) (164.41 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/noxafil-h-c-610-ii-0001-epar-scientific-discussion-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Noxafil : EPAR - Procedural steps taken before authorisation
 
@@ -954,9 +936,155 @@ Noxafil : EPAR - Product information - tracked changes
 
 English (EN) (1.32 MB - DOCX)
 
-**First published:** 23/04/2025 **Last updated:** 22/04/2026
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-672)
+
+български (BG) (3.14 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (1.96 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/es/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.37 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (2.63 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/da/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (1.76 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/de/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (1.6 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/et/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (3.13 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/el/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (2.74 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (2.91 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_hr.doc)
+
+italiano (IT) (2.26 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/it/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (1.29 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (2.71 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (1.46 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.32 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.88 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (1.9 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (2.93 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (3.26 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (1.91 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (3 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sl.doc)
+
+suomi (FI) (2.7 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_fi.doc)
+
+svenska (SV) (1.73 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.77 MB - DOCX)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.75 MB - DOC)
+
+**First published:** 23/04/2025 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_no.doc)
 
 ## Preventing medication errors
 
@@ -970,7 +1098,7 @@ English (EN) (75.15 KB - PDF)
 
 [View](/en/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-676)
+[Other languages (22)](#file-language-dropdown-883)
 
 български (BG) (110.54 KB - PDF)
 
@@ -1002,7 +1130,7 @@ Deutsch (DE) (86.57 KB - PDF)
 
 [View](/de/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_de.pdf)
 
-eesti keel (ET) (83.12 KB - PDF)
+eesti (ET) (83.12 KB - PDF)
 
 **First published:** 24/06/2016 **Last updated:** 24/06/2016
 
@@ -1032,13 +1160,13 @@ italiano (IT) (85.39 KB - PDF)
 
 [View](/it/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_it.pdf)
 
-latviešu valoda (LV) (106.09 KB - PDF)
+latviešu (LV) (106.09 KB - PDF)
 
 **First published:** 24/06/2016 **Last updated:** 24/06/2016
 
 [View](/lv/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_lv.pdf)
 
-lietuvių kalba (LT) (110.15 KB - PDF)
+lietuvių (LT) (110.15 KB - PDF)
 
 **First published:** 24/06/2016 **Last updated:** 24/06/2016
 
@@ -1092,7 +1220,7 @@ slovenščina (SL) (100.77 KB - PDF)
 
 [View](/sl/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_sl.pdf)
 
-Suomi (FI) (84.76 KB - PDF)
+suomi (FI) (84.76 KB - PDF)
 
 **First published:** 24/06/2016 **Last updated:** 24/06/2016
 
@@ -1124,6 +1252,6 @@ English (EN) (591.29 KB - PDF)
 
 **This page was last updated on**
 
-22/04/2026
+01/07/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-17 12:30:26
-document_pages: 129
+document_datetime: 2026-07-02 11:35:26
+document_pages: 131
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trimbow-epar-product-information_en.pdf
 document_name: trimbow-epar-product-information_en.pdf
 version: success
-processing_time: 36.8264353
-conversion_datetime: 2026-03-21 12:01:25.97435
+processing_time: 56.1064208
+conversion_datetime: 2026-07-04 14:35:52.082546
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,9 +60,7 @@ Maintenance treatment of asthma, in adults not adequately controlled with a main
 
 ## Posology
 
-The recommended dose is two inhalations twice daily.
-
-The maximum dose is two inhalations twice daily.
+The recommended dose is two inhalations twice daily. The maximum dose is two inhalations twice daily.
 
 Patients should be advised to take Trimbow every day even when asymptomatic.
 
@@ -346,8 +344,8 @@ Adverse reactions associated to beclometasone dipropionate/formoterol/glycopyrro
 | Cardiac disorders                               | Angina pectoris (stable 1 and unstable), extrasystoles (ventricular 1 and supraventricular), nodal rhythm, sinus bradycardia                                                                | Rare                |
 | Vascular disorders                              | Hyperaemia 1 , flushing 1 , hypertension                                                                                                                                                    | Uncommon            |
 | Vascular disorders                              | Extravasation blood                                                                                                                                                                         | Rare                |
-| Respiratory, thoracic and mediastinal disorders | Dysphonia                                                                                                                                                                                   | Common Uncommon     |
-| Respiratory, thoracic and mediastinal disorders | Asthmatic crisis 1 , cough, productive cough 1 , throat irritation, epistaxis 1 , pharyngeal erythema                                                                                       |                     |
+| Respiratory, thoracic and mediastinal disorders | Dysphonia                                                                                                                                                                                   | Common              |
+| Respiratory, thoracic and mediastinal disorders | Asthmatic crisis 1 , cough, productive cough 1 , throat irritation, epistaxis 1 , pharyngeal erythema                                                                                       | Uncommon            |
 | Respiratory, thoracic and mediastinal disorders | Bronchospasm paradoxical 1 , exacerbation of asthma, oropharyngeal pain, pharyngeal inflammation, dry throat                                                                                | Rare                |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea 1                                                                                                                                                                                  | Very rare           |
 | Gastrointestinal disorders                      | Diarrhoea 1 , dry mouth, dysphagia 1 , nausea, dyspepsia 1 , burning sensation of the lips 1 , dental caries 1 , (aphthous) stomatitis                                                      | Uncommon            |
@@ -458,11 +456,11 @@ A responder analysis showed that a significantly greater percentage of patients 
 
 The Phase III clinical development programme in asthma included two randomized, double-blind, active-controlled studies of 52 weeks duration, one performed with the medium ICS dose strength (BDP/FF/G 87/5/9; TRIMARAN) and another one with the high ICS dose strength (BDP/FF/G 172/5/9; TRIGGER).
 
-Both studies were conducted in adult patients with a clinical diagnosis of asthma who were uncontrolled on dual maintenance treatment using a medium dose (TRIMARAN) or high dose (TRIGGER) ICS/LABA combination (ACQ-7 score ≥1.5). In order to be eligible, patients had to have experienced at least one asthma exacerbation requiring treatment with systemic corticosteroids or emergency department visit or in-patient hospitalisation in the previous year.
+Both studies were conducted in adult patients with a clinical diagnosis of asthma who were uncontrolled on dual maintenance treatment using a medium dose (TRIMARAN) or high dose (TRIGGER) ICS/LABA combination (ACQ7 score ≥1.5). In order to be eligible, patients had to have experienced at least one asthma exacerbation requiring treatment with systemic corticosteroids or emergency department visit or in-patient hospitalisation in the previous year.
 
-The TRIMARAN study compared two twice-daily doses of BDP/FF/G 87/5/9 (N=579) with two twice-daily doses of a fixed combination of beclometasone dipropionate (BDP) and formoterol (FF) 100/6 micrograms (delivered dose of 84.6/5.0) (N=576). The TRIGGER study compared two twicedaily doses of BDP/FF/G 172/5/9 (N=573) with two twice-daily doses of a fixed combination of BDP and FF 200/6 micrograms alone (delivered dose 177.7/5.1) (N=576) or on top of two once-daily doses of tiotropium 2.5 micrograms (N=288) as an open-label extemporary triple combination arm.
+The TRIMARAN study compared two twice-daily doses of BDP/FF/G 87/5/9 (N=579) with two twice-daily doses of a fixed combination of beclometasone dipropionate (BDP) and formoterol (FF) 100/6 micrograms (delivered dose of 84.6/5.0) (N=576). The TRIGGER study compared two twice-daily doses of BDP/FF/G 172/5/9 (N=573) with two twice-daily doses of a fixed combination of BDP and FF 200/6 micrograms alone (delivered dose 177.7/5.1) (N=576) or on top of two once-daily doses of tiotropium 2.5 micrograms (N=288) as an open-label extemporary triple combination arm.
 
-The primary objective of the studies was to demonstrate superiority of either BDP/FF/G 87/5/9 or BDP/FF/G 172/5/9 (two inhalations twice daily) over the respective fixed dual combination product (medium or high dose ICS/LABA) in terms of the co-primary endpoints (change from baseline in predose FEV1 at Week 26 and the rate of moderate and severe exacerbation rate over 52 weeks).
+The primary objective of the studies was to demonstrate superiority of either BDP/FF/G 87/5/9 or BDP/FF/G 172/5/9 (two inhalations twice daily) over the respective fixed dual combination product (medium or high dose ICS/LABA) in terms of the co-primary endpoints (change from baseline in pre-dose FEV1 at Week 26 and the rate of moderate and severe exacerbation rate over 52 weeks).
 
 The TRIGGER study was not powered to evaluate the comparative efficacy of BDP/FF/G 172/5/9 vs. BDP/FF + tiotropium 2.5 micrograms. Descriptive results are included in Table 1.
 
@@ -1005,9 +1003,9 @@ Adverse reactions associated to beclometasone dipropionate/formoterol/glycopyrro
 | Psychiatric disorders                | Restlessness 1                                                                                                                                                                              | Uncommon            |
 | Psychiatric disorders                | Psychomotor hyperactivity 1 , sleep disorders 1 , anxiety, depression 1 , aggression 1 , behavioural changes (predominantly in children) 1                                                  | Frequency not known |
 | Psychiatric disorders                | Insomnia                                                                                                                                                                                    | Rare                |
-| Nervous system disorders             | Headache                                                                                                                                                                                    | Common              |
-| Nervous system disorders             | Tremor, dizziness, dysgeusia 1 , hypoaesthesia 1                                                                                                                                            | Uncommon            |
-|                                      | Hypersomnia                                                                                                                                                                                 | Rare                |
+| Nervous system                       | Headache                                                                                                                                                                                    | Common              |
+| Nervous system                       | Tremor, dizziness, dysgeusia 1 , hypoaesthesia 1                                                                                                                                            | Uncommon            |
+| disorders                            | Hypersomnia                                                                                                                                                                                 | Rare                |
 | Eye disorders                        | Vision, blurred 1 (see also section 4.4)                                                                                                                                                    | Frequency not known |
 | Eye disorders                        | Glaucoma 1 , cataract 1                                                                                                                                                                     | Very rare           |
 | Ear and labyrinth disorders          | Otosalpingitis 1                                                                                                                                                                            | Uncommon            |
@@ -1089,7 +1087,7 @@ The Phase III clinical development programme in asthma included two randomized, 
 
 <div style=\"page-break-after: always\"></div>
 
-Both studies were conducted in adult patients with a clinical diagnosis of asthma who were uncontrolled on dual maintenance treatment using a medium dose (TRIMARAN) or high dose (TRIGGER) ICS/LABA combination (ACQ-7 score ≥1.5). In order to be eligible, patients had to have experienced at least one asthma exacerbation requiring treatment with systemic corticosteroids or emergency department visit or in-patient hospitalisation in the previous year.
+Both studies were conducted in adult patients with a clinical diagnosis of asthma who were uncontrolled on dual maintenance treatment using a medium dose (TRIMARAN) or high dose (TRIGGER) ICS/LABA combination (ACQ7 score ≥1.5). In order to be eligible, patients had to have experienced at least one asthma exacerbation requiring treatment with systemic corticosteroids or emergency department visit or in-patient hospitalisation in the previous year.
 
 The TRIMARAN study compared two twice-daily doses of BDP/FF/G 87/5/9 (N=579) with two twice-daily doses of a fixed combination of beclometasone dipropionate (BDP) and formoterol (FF) 100/6 micrograms (delivered dose of 84.6/5.0) (N=576). The TRIGGER study compared two twicedaily doses of BDP/FF/G 172/5/9 (N=573) with two twice-daily doses of a fixed combination of BDP and FF 200/6 micrograms alone (delivered dose 177.7/5.1) (N=576) or on top of two once-daily doses of tiotropium 2.5 micrograms (N=288) as an open-label extemporary triple combination arm.
 
@@ -1206,11 +1204,9 @@ The pharmacokinetics of beclometasone dipropionate in patients with hepatic impa
 
 ## Absorption and distribution
 
-Following inhalation, formoterol is absorbed from both the lung and the gastrointestinal tract. The fraction of an inhaled dose that is swallowed after administration with a metered dose inhaler may range between 60% and 90%. At least 65% of the fraction that is swallowed is absorbed from the gastrointestinal tract. Peak plasma concentrations of the unchanged active substance occur within 0.5 to 1 hours after oral administration. Plasma protein binding of formoterol is 61-64% with 34% bound to albumin. There was no saturation of binding in the concentration range attained with therapeutic
+Following inhalation, formoterol is absorbed from both the lung and the gastrointestinal tract. The fraction of an inhaled dose that is swallowed after administration with a metered dose inhaler may range between 60% and 90%. At least 65% of the fraction that is swallowed is absorbed from the gastrointestinal tract. Peak plasma concentrations of the unchanged active substance occur within 0.5 to 1 hours after oral administration. Plasma protein binding of formoterol is 61-64% with 34% bound to albumin. There was no saturation of binding in the concentration range attained with therapeutic doses. The elimination half-life determined after oral administration is 2-3 hours. Absorption of formoterol is linear following inhalation of 12 to 96 micrograms of formoterol.
 
 <div style=\"page-break-after: always\"></div>
-
-doses. The elimination half-life determined after oral administration is 2-3 hours. Absorption of formoterol is linear following inhalation of 12 to 96 micrograms of formoterol.
 
 ## Biotransformation
 
@@ -1284,15 +1280,23 @@ Not applicable.
 
 21 months.
 
-Chemical and physical in-use stability has been demonstrated for 3 months at 25°C. After dispensing, the medicinal product may be stored for a maximum of 3 months at a temperature up to 25°C.
+Chemical and physical in-use stability has been demonstrated for 3 months at 25°C.
+
+After dispensing, the medicinal product may be stored for a maximum of 3 months at a temperature up to 25°C.
 
 ## 6.4 Special precautions for storage
 
-Do not freeze. Do not expose to temperatures higher than 50°C. Do not pierce the pressurised container.
+Do not freeze.
+
+Do not expose to temperatures higher than 50°C.
+
+Do not pierce the pressurised container.
 
 ## Packs with 1 container (120 actuation)
 
-Prior to dispensing Store in a refrigerator (2°C-8°C).
+Prior to dispensing
+
+Store in a refrigerator (2°C-8°C).
 
 For in-use storage conditions, see section 6.3.
 
@@ -1312,7 +1316,11 @@ Pressurised container (coated aluminium), with a metering valve. The pressurised
 
 ## Pack sizes:
 
-Pack of 1 container with 120 actuations. Multipack containing 240 actuations (2 containers of 120 actuations each). Multipack containing 360 actuations (3 containers of 120 actuations each).
+Pack of 1 container with 120 actuations.
+
+Multipack containing 240 actuations (2 containers of 120 actuations each).
+
+Multipack containing 360 actuations (3 containers of 120 actuations each).
 
 Not all pack sizes may be marketed.
 
@@ -1370,7 +1378,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Inhalation powder
+## Inhalation powder
 
 White or almost white powder in a white inhaler (NEXThaler).
 
@@ -1378,13 +1386,31 @@ White or almost white powder in a white inhaler (NEXThaler).
 
 ## 4.1 Therapeutic indications
 
+## Chronic obstructive pulmonary disease (COPD)
+
 Maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist or a combination of a long-acting beta2-agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1).
+
+## Asthma
+
+Maintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and medium dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year.
 
 ## 4.2 Posology and method of administration
 
 ## Posology
 
 The recommended dose is two inhalations twice daily. The maximum dose is two inhalations twice daily.
+
+Patients should be advised to take Trimbow every day even when asymptomatic.
+
+<div style=\"page-break-after: always\"></div>
+
+If symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist should be used for immediate relief.
+
+## Asthma
+
+## Titration of treatment
+
+Patients should be regularly reassessed by a doctor, to ensure their doses of beclometasone/formoterol/glycopyrronium remain optimal and are only changed on medical advice. If a higher dose of beclometasone is needed (step-up therapy), switching to Trimbow 172/5/9 micrograms pressurised inhalation solution can also be considered. The doses should be titrated to the lowest doses (step-down therapy) at which effective control of asthma symptoms is maintained.
 
 ## Special populations
 
@@ -1394,11 +1420,7 @@ No dose adjustment is required in elderly patients (65 years of age and older).
 
 ## Renal impairment
 
-Trimbow can be used at the recommended dose in patients with mild (glomerular filtration rate [GFR] ≥50 to &lt;80 mL/min/1.73 m 2 ) to moderate (GFR ≥30 to &lt;50 mL/min/1.73 m 2 ) renal impairment. Use in patients with severe (GFR &lt;30 mL/min/1.73 m 2 ) renal impairment or end-stage renal (GFR &lt;15 mL/min/1.73 m 2 ) disease requiring dialysis, especially if associated with significant body weight
-
-<div style=\"page-break-after: always\"></div>
-
-reduction, should be considered only if the expected benefit outweighs the potential risk (see sections 4.4 and 5.2).
+Trimbow can be used at the recommended dose in patients with mild (glomerular filtration rate [GFR] ≥50 to &lt;80 mL/min/1.73 m 2 ) to moderate ( GFR ≥30 to &lt;50 mL/min/1.73 m 2 ) renal impairment. Use in patients with severe (GFR &lt;30 mL/min/1.73 m 2 ) renal impairment or end-stage renal (GFR &lt;15 mL/min/1.73 m 2 ) disease requiring dialysis, especially if associated with significant body weight reduction, should be considered only if the expected benefit outweighs the potential risk (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
@@ -1406,17 +1428,25 @@ There are no relevant data on the use of Trimbow in patients with severe hepatic
 
 ## Paediatric population
 
+## COPD
+
 There is no relevant use of Trimbow in the paediatric population (under 18 years of age) for the indication of COPD.
+
+## Asthma
+
+The safety and efficacy of Trimbow in the paediatric population (under 18 years of age) have not yet been established. No data are available.
 
 ## Method of administration
 
-For inhalation use.
+## For inhalation use.
 
 The inhaler is a breath-operated inhaler. To ensure proper administration of the medicinal product, the patient should be shown how to use the inhaler correctly by a physician or other healthcare professional, who should also regularly check the adequacy of the patient's inhalation technique (see ' Instructions for use ' below).
 
 The patient should be advised to read the Package Leaflet carefully and follow the instructions for use as given in the leaflet.
 
 After each inhalation, the patient should rinse the mouth or gargle with water without swallowing it or brush the teeth (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Instructions for use
 
@@ -1426,27 +1456,27 @@ After each inhalation, the patient should rinse the mouth or gargle with water w
 
 - If the pouch is not sealed or is damaged or if the inhaler looks broken or damaged, the patient should return it to the pharmacist who supplied it and get a new one.
 - The patient should write down the date the pouch is opened to the label on the box.
-- The dose counter window has to show '120'. If the number shown is less than '120', the patient should return the inhaler to the person who supplied it and get a new one.
+- The dose counter window has to show '120'. If the number shown is less than '120', the patient should contact the pharmacy or prescriber for a new one.
 
 ## Use of the inhaler
 
 The patient should stand or sit in an upright position when inhaling from the inhaler. The steps below should be followed.
 
 1. The patients should hold the inhaler in the upright position, check the number of doses (any number between '1' and '120' shows that there are doses left) and open the cover fully.
+2. The patient should breathe out slowly and as deeply as comfortable, in order to empty the lungs.
+3. The patient should place the lips around the mouthpiece, without covering the air vent or inhaling into the air vent.
+4. The patient should breathe in forcefully and deeply through the mouth. He/she may notice a taste or hear or feel a click when taking the dose.
+5. The patient should then remove the inhaler from the mouth, hold the breath as long as comfortably (5-10 seconds) and then breathe out slowly. The patient should not breathe out into the inhaler.
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-2. The patient should breathe out slowly and as deeply as comfortable, in order to empty the lungs.
-3. The patient should place the lips around the mouthpiece, without covering the air vent or inhaling into the air vent.
-4. The patient should breathe in forcefully and deeply through the mouth. He/she may notice a taste or hear or feel a click when taking the dose.
-5. The patient should then remove the inhaler from the mouth, hold the breath as long as comfortably (5-10 seconds) and then breathe out slowly. The patient should not breathe out into the inhaler.
 6. After use, the patient should move the inhaler back to the upright position, close the cover fully and check the dose counter to ensure it has gone down by one.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -1461,8 +1491,6 @@ Regular cleaning of the inhaler is normally not necessary. The patient may clean
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1482,9 +1510,11 @@ Paradoxical bronchospasm may occur with an immediate increase in wheezing and sh
 
 It is recommended that treatment should not be stopped abruptly. If patients find the treatment ineffective, they should continue treatment but medical attention must be sought. Increasing use of reliever bronchodilators indicates a worsening of the underlying condition and warrants a reassessment of the therapy. Sudden or progressive deterioration in symptoms is potentially life-threatening and the patient should undergo urgent medical assessment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cardiovascular effects
 
-Due to the presence of a long-acting beta2-agonist and a long-acting muscarinic antagonist, Trimbow should be used with caution in patients with cardiac arrhythmias, especially third degree atrioventricular block and tachyarrhythmias (accelerated and/or irregular heartbeat, including atrial fibrillation), idiopathic subvalvular aortic stenosis, hypertrophic obstructive cardiomyopathy, severe heart disease (particularly acute myocardial infarction, ischaemic heart disease, congestive heart failure), occlusive vascular diseases (particularly arteriosclerosis), arterial hypertension and aneurysm. Caution should also be exercised when treating patients with known or suspected prolongation of the QTc interval (QTc &gt; 450 milliseconds for males, or &gt; 470 milliseconds for females), either congenital or induced by medicinal products. Patients diagnosed with the described cardiovascular conditions were excluded from clinical studies with Trimbow.
+Due to the presence of a long-acting beta2-agonist and a long-acting muscarinic antagonist, Trimbow should be used with caution in patients with cardiac arrhythmias, especially third degree atrioventricular block and tachyarrhythmias (accelerated and/or irregular heartbeat, including atrial fibrillation), idiopathic subvalvular aortic stenosis, hypertrophic obstructive cardiomyopathy, severe heart disease (particularly acute myocardial infarction, ischaemic heart disease, congestive heart failure), occlusive vascular diseases (particularly arteriosclerosis), arterial hypertension and aneurysm. Caution should also be exercised when treating patients with known or suspected prolongation of the QTc interval (QTc &gt; 450 milliseconds for males, or &gt; 470 milliseconds for females), either congenital or induced by medicinal products. Patients diagnosed with the described cardiovascular conditions were excluded from clinical studies with Trimbow. Limited data in asthmatic patients with cardiovascular co-morbidities or risk-factors suggest that these patients are also at higher risk of adverse reactions like local fungal infections or dysphonia (see section 4.8).
 
 If anaesthesia with halogenated anaesthetics is planned, it should be ensured that Trimbow is not administered for at least 12 hours before the start of anaesthesia as there is a risk of cardiac arrhythmias.
 
@@ -1494,8 +1524,6 @@ Caution is also required when treating patients with thyrotoxicosis, diabetes me
 
 An increase in the incidence of pneumonia, including pneumonia requiring hospitalisation, has been observed in patients with COPD receiving inhaled corticosteroids. There is some evidence of an increased risk of pneumonia with increasing steroid dose but this has not been demonstrated conclusively across all studies.
 
-<div style=\"page-break-after: always\"></div>
-
 There is no conclusive clinical evidence for intra-class differences in the magnitude of the pneumonia risk among inhaled corticosteroid products.
 
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of such infections overlap with the symptoms of COPD exacerbations.
@@ -1504,9 +1532,11 @@ Risk factors for pneumonia in patients with COPD include current smoking, older 
 
 ## Systemic corticosteroid effects
 
-Systemic effects may occur with any inhaled corticosteroid, particularly at high doses prescribed for long periods. The daily dose of Trimbow corresponds to a medium dose of inhaled corticosteroid; furthermore, these effects are much less likely to occur than with oral corticosteroids. Possible systemic effects include: Cushing's syndrome, Cushingoid features, adrenal suppression, growth retardation, decrease in bone mineral density and, more rarely, a range of psychological or behavioural effects including psychomotor hyperactivity, sleep disorders, anxiety, depression or aggression (particularly in children). Therefore, it is important that the patient is reviewed regularly.
+Systemic effects may occur with any inhaled corticosteroid, particularly at high doses prescribed for long periods. The daily dose of Trimbow corresponds to a medium dose of inhaled corticosteroid; furthermore, these effects are much less likely to occur than with oral corticosteroids. Possible systemic effects include: Cushing's syndrome, Cushingoid features, adrenal suppression, growth retardation, decrease in bone mineral density and, more rarely, a range of psychological or behavioural effects including psychomotor hyperactivity, sleep disorders, anxiety, depression or aggression (particularly in children). Therefore, it is important that the patient is reviewed regularly, and the dose of inhaled corticosteroid is reduced to the lowest dose at which effective control of asthma is maintained (see section 4.2).
 
 Trimbow should be administered with caution in patients with active or quiescent pulmonary tuberculosis and in patients with fungal and viral infections in the airways.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypokalaemia
 
@@ -1528,8 +1558,6 @@ Additionally, due to the anticholinergic effect of glycopyrronium, the long-term
 
 In patients with severe renal impairment, including those with end-stage renal disease requiring dialysis, especially if associated with a significant body weight reduction, Trimbow should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored for potential adverse reactions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Patients with severe hepatic impairment
 
 In patients with severe hepatic impairment, Trimbow should be used only if the expected benefit outweighs the potential risk (see section 5.2). These patients should be monitored for potential adverse reactions.
@@ -1541,6 +1569,12 @@ In order to reduce the risk of oropharyngeal candida infection, patients should 
 ## Visual disturbance
 
 Visual disturbance may be reported with systemic and topical corticosteroid use. If a patient presents with symptoms such as blurred vision or other visual disturbances, the patient should be considered for referral to an ophthalmologist for evaluation of possible causes which may include cataract, glaucoma or rare diseases such as central serous chorioretinopathy (CSCR) which have been reported after use of systemic and topical corticosteroids.
+
+## Titration of treatment
+
+Patients should be regularly reassessed by a doctor, to ensure their doses of beclometasone/formoterol/glycopyrronium remain optimal and are only changed on medical advice.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lactose contents
 
@@ -1566,8 +1600,6 @@ Concomitant use of other beta-adrenergic medicinal products can have potentially
 
 Concomitant treatment with quinidine, disopyramide, procainamide, antihistamines, monoamine oxidase inhibitors, tricyclic antidepressants and phenothiazines can prolong the QT interval and increase the risk of ventricular arrhythmias. In addition, L-dopa, L-thyroxine, oxytocin and alcohol can impair cardiac tolerance towards beta2-sympathomimetics.
 
-<div style=\"page-break-after: always\"></div>
-
 Concomitant treatment with monoamine oxidase inhibitors, including medicinal products with similar properties such as furazolidone and procarbazine, may precipitate hypertensive reactions.
 
 There is an elevated risk of arrhythmias in patients receiving concomitant anaesthesia with halogenated hydrocarbons.
@@ -1577,6 +1609,8 @@ Concomitant treatment with xanthine derivatives, steroids, or diuretics may pote
 ## Related to glycopyrronium
 
 The long-term co-administration of Trimbow with other anticholinergic-containing medicinal products has not been studied and is therefore not recommended (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1610,48 +1644,48 @@ Trimbow has no or negligible influence on the ability to drive and use machines.
 
 In a 4-week study, the safety profile of Trimbow inhalation powder was similar to the one observed for Trimbow pressurised solution.
 
-<div style=\"page-break-after: always\"></div>
-
 The most frequently reported adverse reactions in patients with COPD or asthma with Trimbow pressurised solution are respectively dysphonia (0.3% and 1.5%) and oral candidiasis (0.8% and 0.3%), which are normally associated with inhaled corticosteroids; muscle spasms (0.4% and 0.2%), which can be attributed to the long-acting beta2-agonist component; and dry mouth (0.4% and 0.5%), which is a typical anticholinergic effect. Similarly, dry mouth was reported in 2 patients (0.6%) with Trimbow inhalation powder. In asthmatic patients, adverse reactions tend to cluster during the first 3 months following initiation of therapy and become less frequent with longer-term use (after 6 months of treatment).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions, associated to beclometasone dipropionate/formoterol/glycopyrronium, occurred during clinical studies and post-marketing experience as well as adverse reactions listed for the marketed individual components are provided below, listed by system organ class and frequency. Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from available data).
 
-| MedDRA system organ class                 | Adverse reaction                                                                                                                                                                            | Frequency           |
-|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| Infections and infestations               | Pneumonia (in COPD patients), pharyngitis, oral candidiasis, urinary tract infection 1 , nasopharyngitis 1                                                                                  | Common              |
-| Infections and infestations               | Influenza 1 , oral fungal infection, oropharyngeal candidiasis, oesophageal candidiasis, fungal (oro)pharyngitis, sinusitis 1 , rhinitis 1 , gastroenteritis 1 , vulvovaginal candidiasis 1 | Uncommon            |
-| Infections and infestations               | Lower respiratory tract infection (fungal)                                                                                                                                                  | Rare                |
-| Blood and lymphatic system disorders      | Granulocytopenia 1                                                                                                                                                                          | Uncommon            |
-| Blood and lymphatic system disorders      | Thrombocytopenia 1                                                                                                                                                                          | Very rare           |
-| Immune system disorders                   | Dermatitis allergic 1                                                                                                                                                                       | Uncommon            |
-| Immune system disorders                   | Hypersensitivity reactions, including erythema, lips, face, eye and pharyngeal oedema                                                                                                       | Rare                |
-| Endocrine disorders Metabolism and        | Adrenal suppression 1                                                                                                                                                                       | Very rare           |
-| Endocrine disorders Metabolism and        | Hypokalaemia, hyperglycaemia                                                                                                                                                                | Uncommon            |
-| nutrition disorders Psychiatric disorders | Decreased appetite                                                                                                                                                                          | Rare                |
-| nutrition disorders Psychiatric disorders | Restlessness 1                                                                                                                                                                              | Uncommon            |
-| nutrition disorders Psychiatric disorders | Psychomotor hyperactivity 1 , sleep disorders 1 , anxiety, depression 1 , aggression 1 , behavioural changes (predominantly in children) 1                                                  | Frequency not known |
-|                                           | Insomnia                                                                                                                                                                                    | Rare                |
-|                                           | Headache                                                                                                                                                                                    | Common              |
-| Nervous system disorders                  | Tremor, dizziness, dysgeusia 1 , hypoaesthesia 1                                                                                                                                            | Uncommon            |
-| Nervous system disorders                  | Hypersomnia                                                                                                                                                                                 | Rare                |
-| Eye disorders                             | Vision, blurred 1 (see also section 4.4)                                                                                                                                                    | Frequency not known |
-| Eye disorders                             | Glaucoma 1 , cataract 1                                                                                                                                                                     | Very rare           |
-| Ear and labyrinth disorders               | Otosalpingitis 1                                                                                                                                                                            | Uncommon            |
-| Cardiac disorders                         | Atrial fibrillation, electrocardiogram QT prolonged, tachycardia, tachyarrhythmia 1 , palpitations                                                                                          | Uncommon            |
-| Cardiac disorders                         | Angina pectoris (stable 1 and unstable), extrasystoles (ventricular 1 and supraventricular), nodal rhythm, sinus bradycardia                                                                | Rare                |
-| Vascular disorders                        | Hyperaemia 1 , flushing 1 , hypertension                                                                                                                                                    | Uncommon            |
-| Vascular disorders                        | Extravasation blood                                                                                                                                                                         | Rare                |
+| MedDRA system organ class                       | Adverse reaction                                                                                                                                                                            | Frequency           |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| Infections and infestations                     | Pneumonia (in COPD patients), pharyngitis, oral candidiasis, urinary tract infection 1 , nasopharyngitis 1                                                                                  | Common              |
+| Infections and infestations                     | Influenza 1 , oral fungal infection, oropharyngeal candidiasis, oesophageal candidiasis, fungal (oro)pharyngitis, sinusitis 1 , rhinitis 1 , gastroenteritis 1 , vulvovaginal candidiasis 1 | Uncommon            |
+| Infections and infestations                     | Lower respiratory tract infection (fungal)                                                                                                                                                  | Rare                |
+| Blood and lymphatic system disorders            | Granulocytopenia 1                                                                                                                                                                          | Uncommon            |
+| Blood and lymphatic system disorders            | Thrombocytopenia 1                                                                                                                                                                          | Very rare           |
+| Immune system disorders                         | Dermatitis allergic 1                                                                                                                                                                       | Uncommon            |
+| Immune system disorders                         | Hypersensitivity reactions, including erythema, lips, face, eye and pharyngeal oedema                                                                                                       | Rare                |
+| Endocrine disorders Metabolism and              | Adrenal suppression 1                                                                                                                                                                       | Very rare           |
+| nutrition disorders                             | Hypokalaemia, hyperglycaemia                                                                                                                                                                | Uncommon            |
+| nutrition disorders                             | Decreased appetite                                                                                                                                                                          | Rare                |
+| Psychiatric disorders                           | Restlessness 1                                                                                                                                                                              | Uncommon            |
+| Psychiatric disorders                           | Psychomotor hyperactivity 1 , sleep disorders 1 , anxiety, depression 1 , aggression 1 , behavioural changes (predominantly in children) 1                                                  | Frequency not known |
+| Psychiatric disorders                           | Insomnia                                                                                                                                                                                    | Rare                |
+| Nervous system disorders                        | Headache                                                                                                                                                                                    | Common              |
+| Nervous system disorders                        | Tremor, dizziness, dysgeusia 1 , hypoaesthesia 1                                                                                                                                            | Uncommon            |
+| Nervous system disorders                        | Hypersomnia                                                                                                                                                                                 | Rare                |
+| Eye disorders                                   | Vision, blurred 1 (see also section 4.4)                                                                                                                                                    | Frequency not known |
+| Eye disorders                                   | Glaucoma 1 , cataract 1                                                                                                                                                                     | Very rare           |
+| Ear and labyrinth disorders                     | Otosalpingitis 1                                                                                                                                                                            | Uncommon            |
+| Cardiac disorders                               | Atrial fibrillation, electrocardiogram QT prolonged, tachycardia, tachyarrhythmia 1 , palpitations                                                                                          | Uncommon            |
+| Cardiac disorders                               | Angina pectoris (stable 1 and unstable), extrasystoles (ventricular 1 and supraventricular), nodal rhythm, sinus bradycardia                                                                | Rare                |
+|                                                 | Hyperaemia 1 , flushing 1 , hypertension                                                                                                                                                    | Uncommon            |
+| Vascular disorders                              | Extravasation blood                                                                                                                                                                         | Rare                |
+|                                                 | Dysphonia                                                                                                                                                                                   | Common              |
+| Respiratory, thoracic and mediastinal disorders | Asthmatic crisis 1 , cough, productive cough 1 , throat irritation, epistaxis 1 , pharyngeal erythema Bronchospasm paradoxical 1 , exacerbation of asthma,                                  | Uncommon Rare       |
+|                                                 | 1                                                                                                                                                                                           | Very                |
+|                                                 | Dyspnoea                                                                                                                                                                                    | rare                |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA system organ class                            | Adverse reaction                                                                                                                                                              | Frequency   |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Respiratory, thoracic and mediastinal disorders      | Dysphonia                                                                                                                                                                     | Common      |
-| Respiratory, thoracic and mediastinal disorders      | Asthmatic crisis 1 , cough, productive cough 1 , throat irritation, epistaxis 1 , pharyngeal erythema                                                                         | Uncommon    |
-| Respiratory, thoracic and mediastinal disorders      | Bronchospasm paradoxical 1 , exacerbation of asthma, oropharyngeal pain, pharyngeal inflammation, dry throat                                                                  | Rare        |
-| Respiratory, thoracic and mediastinal disorders      | Dyspnoea 1                                                                                                                                                                    | Very rare   |
 | Gastrointestinal disorders                           | Diarrhoea 1 , dry mouth, dysphagia 1 , nausea, dyspepsia 1 , burning sensation of the lips 1 , dental caries 1 , (aphthous) stomatitis                                        | Uncommon    |
 | Skin and subcutaneous tissue disorders               | Rash 1 , urticaria, pruritus, hyperhidrosis 1                                                                                                                                 | Uncommon    |
 | Skin and subcutaneous tissue disorders               | Angioedema 1                                                                                                                                                                  | Rare        |
@@ -1683,11 +1717,11 @@ Glaucoma, atrial fibrillation, tachycardia, palpitations, dry mouth, dental cari
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 An overdose of Trimbow may produce signs and symptoms due to the individual component's pharmacological actions, including those seen with overdose of other beta2-agonists or anticholinergics and consistent with the known inhaled corticosteroid class effects (see section 4.4). If overdose occurs, the patient's symptoms should be treated supportively with appropriate monitoring as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1717,11 +1751,11 @@ Glycopyrronium is a high-affinity, long-acting muscarinic receptor antagonist (a
 
 The development programme of Trimbow inhalation powder was conducted with BDP/FF/G 88/5/9 and included one 4-week non-inferiority study. Study TRI-D was a multicentre, randomized, doubleblind, double-dummy, active controlled, 3-way cross-over study that compared 3 treatment periods of 4 weeks each with BDP/FF/G inhalation powder, BDP/FF/G pressurised inhalation, solution or a fixed-dose combination of beclometasone dipropionate and formoterol 100/6 micrograms pressurised inhalation solution, each delivered as 2 inhalations twice daily, separated by 2-week wash-outs in patients with stable, moderate-to-severe COPD. The co-primary efficacy endpoints were the change from baseline in FEV1 AUC0-12h normalised by time and in trough FEV1 at 24 hours on Day 28.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effects on lung function
 
 366 patients were randomized. Non-inferiority of BDP/FF/G inhalation powder versus BDP/FF/G pressurised inhalation solution was demonstrated for both co-primary endpoints, with the lower limits of confidence interval of the adjusted mean differences falling above the non-inferiority threshold of -50 mL: the adjusted mean differences (95% CI) were -20 mL (-35; -6) for FEV1 AUC0-12h, and 3 mL (-15; 20) for trough FEV1 at 24 hours on Day 28.
+
+<div style=\"page-break-after: always\"></div>
 
 Both BDP/FF/G powder inhalation and pressurised inhalation solution significantly improved FEV1 AUC0-12h versus the fixed-dose combination of beclometasone dipropionate and formoterol pressurised inhalation solution by 85 mL (95% CI: 70; 99) and 105 mL (95% CI: 90; 120), respectively (p &lt; 0.001 for both).
 
@@ -1731,6 +1765,8 @@ An open-label placebo study was conducted to verify that the inspiratory flow wh
 
 ## Trimbow pressurised solution
 
+## COPD
+
 The development programme of Trimbow pressurised solution in COPD was conducted with BDP/FF/G 87/5/9 and included two 52-week active-controlled studies. The TRILOGY study compared BDP/FF/G with a fixed combination of beclometasone dipropionate and formoterol 100/6 micrograms two inhalations twice daily (1,368 randomised patients). The TRINITY study compared BDP/FF/G with tiotropium 18 micrograms inhalation powder, hard capsule, one inhalation once daily; in addition, effects were compared with an extemporary triple combination made of a fixed combination of beclometasone dipropionate and formoterol 100/6 micrograms (corresponding to a delivered dose of 84.6/5.0 micrograms) two inhalations twice daily plus tiotropium 18 micrograms inhalation powder, hard capsule, one inhalation once daily (2,691 randomised patients). The TRIBUTE study compared BDP/FF/G with a fixed combination of indacaterol/glycopyrronium 85/43 micrograms inhalation powder, hard capsule, one inhalation once daily (1,532 randomised patients).
 
 ## Reduction of COPD exacerbations
@@ -1739,33 +1775,69 @@ BDP/FF/G reduced the rate of moderate/severe exacerbations over 52 weeks by 23% 
 
 ## Effects on lung function
 
-Compared with a fixed combination of beclometasone dipropionate and formoterol, BDP/FF/G improved pre-dose FEV1 by 71 mL after 28 days, by 81 mL after 26 weeks of treatment and by 63 mL after 52 weeks of treatment. Compared with tiotropium, BDP/FF/G improved pre-dose FEV1 by 51 mL after 26 weeks of treatment and by 61 mL after 52 weeks of treatment. These improvements were statistically significant (p &lt; 0.001). Compared with a fixed combination of indacaterol and glycopyrronium, BDP/FF/G improved average pre-dose FEV1 over the 52-week treatment period by 22 mL (p=0.018). Similar improvements, although not statistically significant, were observed at weeks 26 and 52.
-
-<div style=\"page-break-after: always\"></div>
+Compared with a fixed combination of beclometasone dipropionate and formoterol, BDP/FF/G improved pre-dose FEV1 by 71 mL after 28 days, by 81 mL after 26 weeks of treatment and by 63 mL after 52 weeks of treatment. Compared with tiotropium, BDP/FF/G improved pre-dose FEV1 by 51 mL after 26 weeks of treatment and by 61 mL after 52 weeks of treatment. These improvements were statistically significant (p &lt; 0.001). Compared with a fixed combination of indacaterol and glycopyrronium, BDP/FF/G improved average pre-dose FEV1 over the 52-week treatment period by 22 mL (p = 0.018). Similar improvements, although not statistically significant, were observed at weeks 26 and 52.
 
 No differences were observed when comparing BDP/FF/G and the extemporary triple combination made of a fixed combination of beclometasone dipropionate and formoterol plus tiotropium (difference of 3 mL in pre-dose FEV1 after 52 weeks of treatment).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Symptomatic outcomes
 
 BDP/FF/G was statistically significantly superior to a fixed combination of beclometasone dipropionate and formoterol, to tiotropium and to a fixed combination of indacaterol and glycopyrronium in terms of improvement in quality of life (measured by the Saint George Respiratory Questionnaire - SGRQ - total score).
 
+## Asthma
+
+The Phase III clinical development programme in adults with asthma included two randomized, double-blind, active-controlled studies of 52 weeks duration, one performed with the medium ICS dose strength (BDP/FF/G 87/5/9; TRIMARAN) and another one with the high ICS dose strength (BDP/FF/G 172/5/9; TRIGGER).
+
+The TRIMARAN study compared two twice-daily doses of BDP/FF/G 87/5/9 (N = 579) with two twice-daily doses of a fixed combination of beclometasone dipropionate (BDP) and formoterol (FF) 100/6 micrograms (delivered dose of 84.6/5.0) (N = 576). The TRIGGER study compared two twice-daily doses of BDP/FF/G 172/5/9 (N = 573) with two twice-daily doses of a fixed combination of BDP and FF 200/6 micrograms alone (delivered dose 177.7/5.1) (N = 576) or on top of two oncedaily doses of tiotropium 2.5 micrograms (N = 288) as an open-label extemporary triple combination arm.
+
+The primary objective of the studies was to demonstrate superiority of either BDP/FF/G 87/5/9 or BDP/FF/G 172/5/9 (two inhalations twice daily) over the respective fixed dual combination product (medium or high dose ICS/LABA) in terms of the co-primary endpoints (change from baseline in pre-dose FEV1 at Week 26 and the rate of moderate and severe exacerbation rate over 52 weeks).
+
+The TRIGGER study was not powered to evaluate the comparative efficacy of BDP/FF/G 172/5/9 vs. BDP/FF + tiotropium 2.5 micrograms.
+
+## Reduction of asthma exacerbations
+
+In the TRIMARAN study, BDP/FF/G 87/5/9 significantly reduced the rate of moderate/severe exacerbations compared with the fixed combination of BDP/FF 100/6 micrograms (adjusted rate ratio 0.846, 95%CI [0.725; 0.987]).
+
+In the TRIGGER study, BDP/FF/G 172/5/9 also reduced the rate of moderate/severe exacerbations more than the fixed combination of BDP/FF 200/6 micrograms but this effect did not achieve statistical significance (adjusted rate ratio 0.880, 95%CI [0.751;1.030], p = 0.11). Due to the hierarchical testing, all TRIGGER efficacy endpoints and the pre-specified analysis of severe exacerbations (data pooled across TRIMARAN and TRIGGER studies) resulted in nominal p-values only.
+
+Data of TRIMARAN and TRIGGER studies suggest that the time to first moderate/severe exacerbation (secondary endpoint) was prolonged in the triple combination arm when compared with the respective dual combination arm (Hazard ratio vs BDP/FF: 0.84, p = 0.022 in TRIMARAN, and 0.80, p = 0.003 in TRIGGER).
+
+The pooled analysis of the rate of severe exacerbations over 52 weeks (key secondary endpoint) resulted in an adjusted rate per patient/year of 0.24 vs 0.31 for BDP/FF/GB and BDP/FF respectively, which represents a rate reduction of 23.0% (p = 0.008) in the triple combination arm.
+
+## Effects on lung function
+
+In both and studies, BDP/FF/G 87/5/9 in TRIMARAN and 172/5/9 in TRIGGER improved the lung function parameters when compared with BDP/FF: pre-dose FEV1 (co-primary endpoint) +57 mL (p = 0.008) in TRIMARAN and +73 mL (p = 0.003) in TRIGGER, peak0-3h FEV1, +84 mL (p &lt; 0.001) in TRIMARAN and +105 mL (p &lt; 0.001) in TRIGGER and morning peak expiratory flow (key secondary endpoints) +8 L/min (p &lt; 0.001) in TRIMARAN and +8 L/min (p &lt; 0.001) in TRIGGER, compared with a fixed combination of beclometasone dipropionate and formoterol 100/6 micrograms and 200/6 micrograms, respectively, after 26 weeks of treatment. All improvements were statistically significant, with nominal p-values in TRIGGER due to the hierarchical testing in this study.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Trimbow in all subsets of the paediatric population in COPD (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Trimbow 88/5/9 µg inhalation powder in all subsets of the paediatric population in COPD and in asthma (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Trimbow - fixed combination
 
-The pharmacokinetic of beclometasone dipropionate (and its active metabolite beclometasone 17-monopropionate), formoterol and glycopyrronium bromide has been investigated in a pharmacokinetic study conducted in healthy subjects comparing Trimbow inhalation powder with the pressurised solution formulation, both delivering beclometasone dipropionate, formoterol fumarate and glycopyrronium bromide at a strength of 100/6/12.5 µg/inhalation, (8 inhalations corresponding to a total dose of 800/48/100 µg). The relative total systemic exposure was assessed without the use of activated charcoal ingestion to account for both the active substance absorbed from the lung and from the gastrointestinal tract, while the relative lung bioavailability was investigated by using an activated charcoal ingestion to exclude active substance absorption from the gastrointestinal tract. Beclometasone dipropionate was rapidly absorbed showing a peak in plasma concentration at 10 min post-dose for both Trimbow inhalation powder and the pressurised inhalation solution. Administration of the inhalation powder resulted in an increased total systemic exposure (1.2-fold for Cmax and 2.4-fold for AUC0-t) and lung bioavailability (1.3-fold for Cmax and 2.5-fold for AUC0-t) when compared to the pressurised solution. Beclometasone 17-monopropionate was rapidly formed showing a peak in plasma concentration at about 15-30 min after administration of the medicinal product. Administration of the inhalation powder resulted in a slightly lower total systemic exposure compared to the pressurised solution (-17% for Cmax and -16% for AUC0-t) while the lung bioavailability was equivalent for AUC0-t but slightly lower for Cmax (-13%). Formoterol was rapidly absorbed showing a peak in plasma concentration at 10 min post-dose for both the inhalation powder and the pressurised inhalation solution. Administration of the inhalation powder resulted in an increased total systemic exposure (1.6-fold for Cmax and 1.2-fold for AUC0-t) and lung bioavailability (1.8-fold for Cmax and 1.9-fold for AUC0-t) when compared to the pressurised solution. The pharmacokinetic profile of glycopyrronium bromide was characterised by a rapid absorption with plasma peak concentration at 10 min post-dose for both the inhalation powder and the pressurised inhalation solution. The total systemic exposure resulted equivalent for the inhalation powder in comparison to the pressurised solution but was 2.2-fold higher when assessed as maximum concentration. The lung bioavailability was higher for the inhalation powder, with a 2.9-fold increase in Cmax and a 1.2-fold increase in AUC0-t.
+The pharmacokinetics of beclometasone dipropionate, beclometasone 17-monopropionate, formoterol fumarate and glycopyrronium bromide were evaluated in healthy subjects following administration of Trimbow inhalation powder and the pressurised inhalation solution at a strength of 100/6/12.5 µg per inhalation in two pharmacokinetic studies.
 
-## Effect of renal impairment
+In the first study, subjects received 8 inhalations of each formulation (total dose 800/48/100 µg). Total systemic exposure was assessed without activated charcoal, while lung bioavailability was assessed with activated charcoal.
 
-Systemic exposure (AUC0-t) to beclometasone dipropionate, to its metabolite beclometasone 17-monopropionate and to formoterol was not affected by mild to severe renal impairment. For glycopyrronium, there was no impact in subjects with mild and moderate renal impairment. However, an increase in total systemic exposure of up to 2.5-fold was observed in subjects with severe renal impairment (glomerular filtration rate below 30 mL/min/1.73 m 2 ), as a consequence of a significant reduction of the amount excreted in urine (approximately 90% reduction of glycopyrronium renal clearance). Simulations performed with a pharmacokinetic model showed that even when covariates
+For total systemic exposure, beclometasone dipropionate showed higher exposure (Cmax 1.2-fold; AUC0-t 2.4-fold) with the inhalation powder, while beclometasone 17monopropionate showed slightly lower exposure (Cmax -17%; AUC 0-t -16%). Formoterol fumarate showed higher exposure (Cmax 1.6-fold; AUC0-t 1.2-fold) with the inhalation powder, while Glycopyrronium bromide showed similar overall exposure, although Cmax was higher with the inhalation powder (Cmax 2.2-fold). For lung bioavailability, beclometasone dipropionate showed increased lung bioavailability (Cmax 1.3-fold; AUC0-t 2.5-fold) with the inhalation powder, while beclometasone 17monopropionate showed comparable AUC0-t values and a slight reduction in Cmax (-13%). Both formoterol fumarate and glycopyrronium bromide showed higher lung bioavailability with the inhalation powder (Cmax 1.8-fold and AUC0-t 1.9-fold increase for formoterol; Cmax 2.9-fold and AUC0-t 1.2-fold increase for glycopyrronium bromide).
+
+In the second study, subjects received 4 inhalations of Trimbow inhalation powder and of the pressurised inhalation solution (total dose 400/24/50 µg). The pressurised inhalation solution was administered with and without the AeroChamber Plus spacer.
+
+Total systemic exposure was assessed using Cmax and AUC0-t for beclometasone 17monopropionate, formoterol fumarate and glycopyrronium bromide, using as reference the pressurised inhalation solution treatment (with or without spacer) yielding the highest systemic exposure. Lung bioavailability was assessed using Cmax and AUC0-30min for formoterol fumarate and glycopyrronium bromide, while Cmax and AUC0-t were used for beclometasone dipropionate, considering its negligible oral absorption, using as reference the pressurised inhalation solution treatment without spacer. For total systemic exposure, beclometasone 17monopropionate showed lower exposure (Cmax -59%; AUC0-t -23%) with the inhalation powder. Formoterol fumarate showed similar C max values, with a slight increase in AUC0-t (1.2-fold), while glycopyrronium bromide showed reduced exposure (Cmax -24%; AUC 0-t -27%) with the inhalation powder.
+
+For lung bioavailability, beclometasone dipropionate showed increased AUC0-t (1.6-fold), while Cmax was lower (approximately -50%) with the inhalation powder. Both formoterol fumarate and glycopyrronium bromide showed higher lung bioavailability (approximately 2-fold increase for formoterol Cmax and AUC0-30min and approximately 2-fold and 1.8-fold increase for glycopyrronium bromide Cmax and AUC0-30min, respectively).
+
+Overall, the inhalation powder demonstrated consistently higher lung bioavailability for all active substances, while systemic exposure was comparable or lower than with the pressurised inhalation solution. These findings indicate efficient pulmonary deposition with the inhalation powder while maintaining systemic exposure within acceptable limits.
 
 <div style=\"page-break-after: always\"></div>
 
-had extreme values (body weight less than 40 kg and concomitant glomerular filtration rate below 27 mL/min/1.73 m²), exposure to Trimbow active substances remains in approximately a 2.5-fold range compared to the exposure in a typical patient with median covariate values.
+## Effect of renal impairment
+
+Systemic exposure (AUC0-t) to beclometasone dipropionate, to its metabolite beclometasone 17-monopropionate and to formoterol was not affected by mild to severe renal impairment. For glycopyrronium, there was no impact in subjects with mild and moderate renal impairment. However, an increase in total systemic exposure of up to 2.5-fold was observed in subjects with severe renal impairment (glomerular filtration rate below 30 mL/min/1.73 m 2 ), as a consequence of a significant reduction of the amount excreted in urine (approximately 90% reduction of glycopyrronium renal clearance). Simulations performed with a pharmacokinetic model showed that even when covariates had extreme values (body weight less than 40 kg and concomitant glomerular filtration rate below 27 mL/min/1.73 m²), exposure to Trimbow active substances remains in approximately a 2.5-fold range compared to the exposure in a typical patient with median covariate values.
 
 ## Beclometasone dipropionate
 
@@ -1789,13 +1861,11 @@ The pharmacokinetics of beclometasone dipropionate in patients with hepatic impa
 
 Following inhalation, formoterol is absorbed from both the lung and the gastrointestinal tract. The fraction of an inhaled dose that is swallowed after administration with a metered dose inhaler may range between 60% and 90%. At least 65% of the fraction that is swallowed is absorbed from the gastrointestinal tract. Peak plasma concentrations of the unchanged active substance occur within 0.5 to 1 hours after oral administration. Plasma protein binding of formoterol is 61-64% with 34% bound to albumin. There was no saturation of binding in the concentration range attained with therapeutic doses. The elimination half-life determined after oral administration is 2-3 hours. Absorption of formoterol is linear following inhalation of 12 to 96 micrograms of formoterol.
 
-## Biotransformation
-
-Formoterol is widely metabolised and the prominent pathway involves direct conjugation at the phenolic hydroxyl group. Glucuronide acid conjugate is inactive. The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group. Cytochrome P450 isoenzymes CYP2D6, CYP2C19 and CYP2C9 are involved in the O-demethylation of formoterol.
-
 <div style=\"page-break-after: always\"></div>
 
-Liver appears to be the primary site of metabolism. Formoterol does not inhibit CYP450 enzymes at therapeutically relevant concentrations.
+## Biotransformation
+
+Formoterol is widely metabolised and the prominent pathway involves direct conjugation at the phenolic hydroxyl group. Glucuronide acid conjugate is inactive. The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group. Cytochrome P450 isoenzymes CYP2D6, CYP2C19 and CYP2C9 are involved in the O-demethylation of formoterol. Liver appears to be the primary site of metabolism. Formoterol does not inhibit CYP450 enzymes at therapeutically relevant concentrations.
 
 ## Elimination
 
@@ -1819,9 +1889,11 @@ The metabolic pattern of glycopyrronium in vitro (humans, dogs, rats, mice and r
 
 ## Elimination
 
-The mean elimination half-life of glycopyrronium in healthy volunteers was approximately 6 hours after intravenous injection while after inhalation in COPD patients it ranged from 5 to 12 hours at steady state. After a glycopyrronium single intravenous injection, 40% of the dose was excreted in the urine within 24 hours. In COPD patients receiving repeated twice daily administration of inhaled glycopyrronium, the fraction of the dose excreted in urine ranged from 13.0% to 14.5% at steady state. Mean renal clearance was similar across the range of doses tested and after single and repeated inhalation (range 281-396 mL/min).
+The mean elimination half-life of glycopyrronium in healthy volunteers was approximately 6 hours after intravenous injection while after inhalation in COPD patients it ranged from 5 to 12 hours at steady state. After a glycopyrronium single intravenous injection, 40% of the dose was excreted in the urine within 24 hours. In COPD patients receiving repeated twice daily administration of inhaled glycopyrronium, the fraction of the dose excreted in urine ranged from 13.0% to 14.5% at steady state.
 
 <div style=\"page-break-after: always\"></div>
+
+Mean renal clearance was similar across the range of doses tested and after single and repeated inhalation (range 281-396 mL/min).
 
 ## 5.3 Preclinical safety data
 
@@ -1909,15 +1981,13 @@ Date of first authorisation: 17
 
 th July 2017
 
-Date of latest renewal: 24
-
-th  March 2022
+Date of latest renewal: 24 March 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-56
+58
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1991,13 +2061,15 @@ Each metered dose (the dose leaving the valve) contains 100 micrograms of beclom
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: anhydrous ethanol, hydrochloric acid, propellant: norflurane. Contains fluorinated greenhouse gases.
+Excipients: anhydrous ethanol, hydrochloric acid, propellant: norflurane.
+
+Contains fluorinated greenhouse gases.
 
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Pressurised inhalation, solution.
+Pressurised inhalation, solution.
 
 1 pressurised container of 120 actuations .
 
@@ -2087,7 +2159,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (including Blue Box)
+OUTER CARTON FOR MULTIPACK (including Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2109,7 +2181,7 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Pressurised inhalation, solution.
+Pressurised inhalation, solution.
 
 Multipack:
 
@@ -2117,9 +2189,7 @@ Multipack:
 
 (2 pressurised containers of 120 actuations each).
 
-Multipack:
-
-360 actuations
+Multipack: 360 actuations
 
 (3 pressurised containers of 120 actuations each).
 
@@ -2424,7 +2494,7 @@ Do not pierce the pressurised container.
 
 Store in a refrigerator.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2468,7 +2538,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (including Blue Box)
+OUTER CARTON FOR MULTIPACK (including Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2498,9 +2568,7 @@ Multipack:
 
 (2 pressurised containers of 120 actuations each).
 
-Multipack:
-
-360 actuations
+Multipack: 360 actuations
 
 (3 pressurised containers of 120 actuations each).
 
@@ -2696,7 +2764,7 @@ Inhalation use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -2744,7 +2812,9 @@ Trimbow 172/5/9 mcg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Trimbow 88/5/9 micrograms inhalation powder beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
+Trimbow 88/5/9 micrograms inhalation powder
+
+beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2770,7 +2840,11 @@ See package leaflet for further information.
 
 Read the package leaflet before use.
 
-Inhalation use.
+## Inhalation use.
+
+The QR code links to a video with instructions for use:
+
+[https://instructionforuse.chiesi.com/trimbow/dpi-120](https://instructionforuse.chiesi.com/trimbow/dpi-120)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2820,7 +2894,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2846,7 +2920,9 @@ OUTER CARTON FOR MULTIPACK (including Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Trimbow 88/5/9 micrograms inhalation powder beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
+Trimbow 88/5/9 micrograms inhalation powder
+
+beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2870,13 +2946,19 @@ Multipack:
 
 240 inhalations (2 NEXThaler inhalers of 120 inhalations each).
 
-Multipack: 360 inhalations (3 NEXThaler inhalers of 120 inhalations each).
+Multipack: 360 inhalations
+
+(3 NEXThaler inhalers of 120 inhalations each).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Read the package leaflet before use.
 
 ## Inhalation use.
+
+The QR code links to a video with instructions for use:
+
+[https://instructionforuse.chiesi.com/trimbow/dpi-120](https://instructionforuse.chiesi.com/trimbow/dpi-120)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2947,7 +3029,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Trimbow 88/5/9 micrograms inhalation powder beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
+Trimbow 88/5/9 micrograms inhalation powder
+
+beclometasone dipropionate/formoterol fumarate dihydrate/glycopyrronium
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2975,7 +3059,11 @@ Component of a multipack, can't be sold separately .
 
 Read the package leaflet before use.
 
-Inhalation use.
+## Inhalation use.
+
+The QR code links to a video with instructions for use:
+
+[https://instructionforuse.chiesi.com/trimbow/dpi-120](https://instructionforuse.chiesi.com/trimbow/dpi-120)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3081,8 +3169,6 @@ EXP
 
 After first opening the pouch, the medicine should be used within 6 weeks and stored in a dry place.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25°C
@@ -3102,10 +3188,16 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3345,11 +3437,9 @@ IMPORTANT: Do not perform steps 2 to 5 too quickly.
 
 <!-- image -->
 
-3
-
 <!-- image -->
 
-十7
+4
 
 <!-- image -->
 
@@ -3400,7 +3490,9 @@ You should clean your inhaler once a week.
 
 It is important that you take your dose as advised by your doctor. Do not exceed your prescribed dose without talking to your doctor.
 
-If you use more Trimbow than you should, side effects, as described in section 4, may occur. Tell your doctor if you have used more Trimbow than you should and if you experience any of these symptoms. Your doctor may wish to carry out some blood tests.
+If you use more Trimbow than you should, side effects, as described in section 4, may occur.
+
+Tell your doctor if you have used more Trimbow than you should and if you experience any of these symptoms. Your doctor may wish to carry out some blood tests.
 
 ## If you forget to use Trimbow
 
@@ -3486,6 +3578,7 @@ Possible side effects are listed below according to their frequency.
 - fungal infections of the chest
 - decreased appetite
 - increased sweating
+- ·
 - muscle cramps and pain in muscles
 - pain in arms or legs
 - pain in muscles, bones or joints of the chest
@@ -3597,9 +3690,7 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 Chiesi Farmaceutici S.p.A. Via San Leonardo 96 43122 Parma Italy
 
-## Chiesi SAS
-
-2 rue des Docteurs Alberto et Paolo Chiesi 41260 La Chaussée Saint Victor France
+Chiesi SAS 2 rue des Docteurs Alberto et Paolo Chiesi 41260 La Chaussée Saint Victor France
 
 Chiesi Pharmaceuticals GmbH Gonzagagasse 16/16 1010 Wien Austria
 
@@ -3607,19 +3698,19 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv
+
+Tél/Tel: + 32 (0)2 788 42 00
 
 ## Lietuva
 
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 ## България
 
 Chiesi Bulgaria EOOD
 
-Teл.: + 359 29201205
+Te л .: + 359 29201205
 
 ## Luxembourg/Luxemburg
 
@@ -3671,13 +3762,11 @@ Tel: + 43 1 4073919
 
 ## Norge
 
-Chiesi Pharma AB
-
-Tlf: + 46 8 753 35 20
+Chiesi Pharma AB Tlf: + 46 8 753 35 20
 
 ## Ελλάδα
 
-Chiesi Hellas AEBE Τηλ: + 30 210 6179763
+Chiesi Hellas AEBE Τηλ : + 30 210 6179763
 
 ## Österreich
 
@@ -3685,13 +3774,15 @@ Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
+
+## Polska
 
 Chiesi España, S.A.U.
 
 Tel: + 34 93 494 8000
-
-## Polska
 
 Chiesi Poland Sp. z.o.o.
 
@@ -3775,17 +3866,15 @@ Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Trimbow 172 micrograms/5 micrograms/9 micrograms pressurised inhalation, solution
 
@@ -3975,15 +4064,17 @@ IMPORTANT: Do not perform steps 2 to 5 too quickly.
 
 <!-- image -->
 
-2
-
 <!-- image -->
 
 3
 
 <!-- image -->
 
+4
+
 5
+
+<!-- image -->
 
 1. Remove the protective cap from the mouthpiece and check that the mouthpiece is clean and free from dust and dirt.
 2. Breathe out as slowly and deeply as possible, in order to empty your lungs.
@@ -3991,8 +4082,6 @@ IMPORTANT: Do not perform steps 2 to 5 too quickly.
 4. Breathe in slowly and deeply through your mouth to fill your lungs with air (this should take about 4-5 seconds). Just after starting to breathe in, press down firmly on the top of the pressurised container to release one puff.
 5. Hold your breath for as long as possible and, finally, remove the inhaler from your mouth and breathe out slowly. Do not breathe out into the inhaler.
 6. Check that the dose counter has moved down by one.
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4010,9 +4099,7 @@ You should get a replacement when the counter shows the number 20. Stop using th
 
 If you have a weak grip, it may be easier to hold the inhaler with both hands: hold the upper part of the inhaler with both index fingers and its lower part with both thumbs.
 
-If you find it difficult to use the inhaler while starting to breathe in, you may use the AeroChamber
-
-Plus spacer device. Ask your doctor or pharmacist about this device.
+If you find it difficult to use the inhaler while starting to breathe in, you may use the AeroChamber Plus spacer device. Ask your doctor or pharmacist about this device.
 
 It is important that you read the package leaflet which is supplied with your AeroChamber Plus spacer device and that you carefully follow the instructions on how to use the AeroChamber Plus spacer device and how to clean it.
 
@@ -4043,13 +4130,13 @@ It is important to use Trimbow every day. Do not stop using Trimbow or lower the
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 There is a risk of worsening shortness of breath and wheezing immediately after using Trimbow and this is known as paradoxical bronchospasm (may affect up to 1 in 1,000 people). If this occurs you should stop using Trimbow and use your quick-acting 'reliever' inhaler straightaway to treat the shortness of breath and wheezing. You should contact your doctor straightaway.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tell your doctor immediately
 
@@ -4064,7 +4151,7 @@ Tell your doctor if you have any of the following while using Trimbow as they co
 
 Possible side effects are listed below according to their frequency.
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - sore throat
 - runny or stuffy nose and sneezing
@@ -4073,7 +4160,7 @@ Common (may affect up to 1 in 10 people)
 - headache
 - urinary tract infection.
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - flu
 - inflammation of the sinuses
@@ -4091,6 +4178,9 @@ Uncommon (may affect up to 1 in 100 people)
 - unusually fast heart beat and disorders of the heart rhythm
 - palpitations (feeling of abnormal beating of the heart)
 - reddening of the face
+- increased blood flow to some tissues in the body
+- asthma attack
+- cough and productive cough
 - irritation of the throat
 - nose bleeds
 - redness of the pharynx
@@ -4110,24 +4200,20 @@ Uncommon (may affect up to 1 in 100 people)
 - pain in muscles, bones or joints of the chest
 - tiredness
 - increase of blood pressure
+- fall in the level of some constituents of your blood: of certain white blood cells called granulocytes, of potassium or of cortisol
+- increase in the level of some constituents of your blood: glucose, C-reactive protein, number of platelets, insulin, free fatty acid or ketones.
 
 <div style=\"page-break-after: always\"></div>
-
-- increased blood flow to some tissues in the body
-- asthma attack
-- cough and productive cough
 
 ## Rare (may affect up to 1 in 1,000 people)
 
 - fungal infections of the chest
 - decreased appetite
-- fall in the level of some constituents of your blood: of certain white blood cells called granulocytes, of potassium or of cortisol
-- increase in the level of some constituents of your blood: glucose, C-reactive protein, number of platelets, insulin, free fatty acid or ketones.
-- leakage of blood from a vessel into the tissues surrounding it
 - sleep disorders (sleeping too little or too long)
 - crushing chest pain
 - sensation of a missed heart beat or of extra heart beats, unusually slow heart beat
 - worsening of asthma
+- leakage of blood from a vessel into the tissues surrounding it
 - decrease of blood pressure
 - weakness
 - pain in the back of the mouth and throat
@@ -4137,7 +4223,7 @@ Uncommon (may affect up to 1 in 100 people)
 - difficulty and pain when passing urine
 - inflammation of the kidneys.
 
-Very rare (may affect up to 1 in 10,000 people)
+## Very rare (may affect up to 1 in 10,000 people)
 
 - low level in the number of certain blood cells called platelets
 - feeling breathless or short of breath
@@ -4173,11 +4259,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not freeze. Do not expose to temperatures higher than 50°C. Do not pierce the pressurised container.
 
-Prior to dispensing:
+<div style=\"page-break-after: always\"></div>
+
+## Prior to dispensing:
 
 Store in a refrigerator (2°C-8°C).
 
@@ -4185,9 +4271,13 @@ Store in a refrigerator (2°C-8°C).
 
 120 actuation pressurised container
 
-| • from a single pack:   | Store the inhaler below 25°C for a maximum of 3 months.                                                                                                                                                                         |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • from a multipack:     | Store the multipack in a refrigerator (2°C-8°C). Before use, take one inhaler out of the refrigerator for some minutes to allow for the solution to warm up. After use, store the inhaler below 25°C for a maximum of 3 months. |
+- from a single pack:
+
+Store the inhaler below 25°C for a maximum of 3 months.
+
+- from a multipack:
+
+Store the multipack in a refrigerator (2°C-8°C). Before use, take one inhaler out of the refrigerator for some minutes to allow for the solution to warm up. After use, store the inhaler below 25°C for a maximum of 3 months.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -4217,11 +4307,11 @@ Each pack contains one pressurised container providing 120 puffs. Additional the
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
 Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -4241,23 +4331,9 @@ Chiesi sa/nv
 
 Tél/Tel: + 32 (0)2 788 42 00
 
-## Lietuva
-
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
-
 ## България
 
-Chiesi Bulgaria EOOD
-
-Teл.: + 359 29201205
-
-## Luxembourg/Luxemburg
-
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
+Chiesi Bulgaria EOOD Te л .: + 359 29201205
 
 ## Česká republika
 
@@ -4265,23 +4341,9 @@ Chiesi CZ s.r.o.
 
 Tel: + 420 261221745
 
-## Magyarország
-
-Chiesi Hungary Kft.
-
-Tel.: + 36-1-429 1060
-
 ## Danmark
 
-Chiesi Pharma AB
-
-Tlf: + 46 8 753 35 20
-
-## Malta
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
+Chiesi Pharma AB Tlf: + 46 8 753 35 20
 
 ## Deutschland
 
@@ -4289,17 +4351,47 @@ Chiesi GmbH
 
 Tel: + 49 40 89724-0
 
-## Nederland
-
-Chiesi Pharmaceuticals B.V.
-
-Tel: + 31 88 501 64 00
-
 ## Eesti
 
 Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
+
+## Ελλάδα
+
+Chiesi Hellas AEBE
+
+Τηλ : + 30 210 6179763
+
+## España
+
+Chiesi España, S.A.U. Tel: + 34 93 494 8000
+
+## France
+
+Chiesi S.A.S.
+
+Tél: + 33 1 47688899
+
+## Lietuva
+
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
+
+## Luxembourg/Luxemburg
+
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
+
+## Magyarország
+
+Chiesi Hungary Kft. Tel.: + 36-1-429 1060
+
+## Malta
+
+Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+
+## Nederland
+
+Chiesi Pharmaceuticals B.V. Tel: + 31 88 501 64 00
 
 ## Norge
 
@@ -4307,23 +4399,11 @@ Chiesi Pharma AB
 
 Tlf: + 46 8 753 35 20
 
-## Ελλάδα
-
-Chiesi Hellas AEBE
-
-Τηλ: + 30 210 6179763
-
 ## Österreich
 
 Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
-
-## España
-
-Chiesi España, S.A.U.
-
-Tel: + 34 93 494 8000
 
 ## Polska
 
@@ -4331,15 +4411,7 @@ Chiesi Poland Sp. z.o.o.
 
 Tel.: + 48 22 620 1421
 
-<div style=\"page-break-after: always\"></div>
-
-## France
-
 ## Portugal
-
-Chiesi S.A.S.
-
-Tél: + 33 1 47688899
 
 Chiesi Farmaceutici S.p.A.
 
@@ -4395,9 +4467,7 @@ Puh/Tel: +46 8 753 35 20
 
 ## Κύπρος
 
-Chiesi Farmaceutici S.p.A.
-
-Τηλ: + 39 0521 2791
+Chiesi Farmaceutici S.p.A. Τηλ: + 39 0521 2791
 
 ## Sverige
 
@@ -4409,15 +4479,17 @@ Tel: +46 8 753 35 20
 
 Chiesi Pharmaceuticals GmbH
 
+<div style=\"page-break-after: always\"></div>
+
+Chiesi Pharmaceuticals GmbH
+
 Tel: + 43 1 4073919
 
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website:
-
-https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -4455,7 +4527,22 @@ Beclometasone dipropionate belongs to a group of medicines called corticosteroid
 
 Formoterol and glycopyrronium are medicines called long-acting bronchodilators. They act in different ways to relax the muscles in your airways, helping to open the airways wider and allowing you to breathe more easily.
 
-Regular treatment with these three active substances helps to relieve and prevent symptoms such as shortness of breath, wheezing and cough in adult patients with chronic obstructive pulmonary disease (COPD). Trimbow can reduce exacerbations (flare-ups) of COPD symptoms. COPD is a serious longterm disease in which the airways become blocked and air sacs inside the lungs become damaged, leading to difficulty breathing.
+Regular treatment with these three active substances helps to relieve and prevent symptoms such as shortness of breath, wheezing and cough in adult patients with obstructive lung disease.
+
+Trimbow is used for the regular treatment of
+
+- chronic obstructive pulmonary disease (COPD) in adults
+- asthma in adults.
+
+Trimbow can reduce exacerbations (flare-ups) of COPD and asthma symptoms. COPD is a serious long-term disease in which the airways become blocked and air sacs inside the
+
+lungs become damaged, leading to difficulty breathing.
+
+Asthma is a serious, long-term disease where the muscles surrounding the airways become tight (bronchoconstriction) and swollen and irritated (inflammation). Symptoms come and go and include shortness of breath, wheezing, chest tightness and cough.
+
+You should use Trimbow every day and not only when you have breathing problems or other symptoms of asthma. This will ensure that it controls your asthma properly. Do not use this medicine to relieve a sudden attack of breathlessness or wheezing.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Trimbow
 
@@ -4466,8 +4553,6 @@ If you are allergic to beclometasone dipropionate, formoterol fumarate dihydrate
 ## Warnings and precautions
 
 Trimbow is used as a maintenance treatment for your obstructive lung disease. Do not use this medicine to treat a sudden attack of breathlessness or wheezing.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If your breathing gets worse
 
@@ -4487,17 +4572,16 @@ If your symptoms get worse or are difficult to control (e.g. if you are using a 
 - if you have any disease of your liver or kidneys.
 - if you have diabetes. High doses of formoterol may increase your blood glucose and therefore you may need to have extra blood tests to check your blood sugar when you start using this medicine, and from time to time during treatment.
 - if you have a tumour of the adrenal gland (known as a phaeochromocytoma).
+
+<div style=\"page-break-after: always\"></div>
+
 - if you are due to have an anaesthetic. Depending on the type of anaesthetic, it may be necessary to stop using Trimbow at least 12 hours before the anaesthesia.
 - if you are being, or have ever been, treated for tuberculosis (TB) or if you have a chest infection.
 - if you have an eye problem called narrow-angle glaucoma.
 - if you have difficulty passing urine.
 - if you have an infection of the mouth or throat.
 
-<div style=\"page-break-after: always\"></div>
-
-If any of the above applies to you, tell your doctor before you use Trimbow. If you have or have had any medical problems or any allergies or if you are not sure if you can use
-
-Trimbow, talk to your doctor or pharmacist before using the inhaler.
+If any of the above applies to you, tell your doctor before you use Trimbow. If you have or have had any medical problems or any allergies or if you are not sure if you can use Trimbow, talk to your doctor or pharmacist before using the inhaler.
 
 ## If you are already using Trimbow
 
@@ -4527,12 +4611,13 @@ Do not use this medicine with a beta-blocker medicine (used for treating certain
 can cause some changes in the electrocardiogram (ECG, heart trace). They may also increase the risk of disturbances of heart rhythm (ventricular arrhythmias).
 
 - medicines for treating Parkinson's disease (levodopa), to treat an underactive thyroid gland (levothyroxine), medicines containing oxytocin (which causes uterine contraction) and alcohol can increase the chances of formoterol side effects on the heart.
+
+<div style=\"page-break-after: always\"></div>
+
 - monoamine oxidase inhibitors (MAOIs), including medicines with similar properties like furazolidone and procarbazine, used to treat mental disorders, can cause a rise in blood pressure.
 - medicines for treating heart disease (digoxin) can cause a fall in your blood potassium level. This may increase the likelihood of abnormal heart rhythms.
 - other medicines used to treat obstructive lung disease (theophylline, aminophylline or corticosteroids) and diuretics may also cause a fall in your potassium level.
 - some anaesthetics can increase the risk of abnormal heart rhythms.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy and breast-feeding
 
@@ -4570,23 +4655,22 @@ You should inhale the medicine through your mouth and this takes the medicine di
 
 For information on the contents of the pack, see section 6.
 
-## If the pack contents are not the same as described in section 6, return your inhaler to the person who supplied it and get a new one.
+If the pack contents are not the same as described in section 6, return your inhaler to the person who supplied it and get a new one.
 
 - Do not remove the inhaler from the pouch if you do not intend to use it immediately.
 - Only use your inhaler as indicated.
 - Keep the cover closed until you need to take a dose from your inhaler.
 - When you are not using your inhaler keep it in a clean and dry place.
-- Do not attempt to take your inhaler apart for any reason.
 
 <div style=\"page-break-after: always\"></div>
+
+- Do not attempt to take your inhaler apart for any reason.
 
 ## A. Key features of your inhaler
 
 <!-- image -->
 
 <!-- image -->
-
-Taking a dose from your inhaler requires three steps: Open, Inhale, Close
 
 ## B. Before using a new inhaler
 
@@ -4596,11 +4680,13 @@ Taking a dose from your inhaler requires three steps: Open, Inhale, Close
 2. Inspect your inhaler.
 5. o If your inhaler looks broken or damaged, return it to the person who supplied it and get a new one.
 3. Check the Dose Counter Window. If your inhaler is new you will see '120' in the Dose Counter Window.
-7. o Do not use a new inhaler if the number shown is less than '120' - return it to the person who supplied it and get a new one.
+7. o Do not use a new inhaler if the number shown is less than '120' - contact the pharmacy or prescriber for a new one.
 
 <!-- image -->
 
 ## C. How to use your inhaler
+
+Taking a dose from your inhaler requires three steps: Open, Inhale, Close
 
 ## C.1. Open
 
@@ -4671,7 +4757,7 @@ Use it as soon as you remember. If it is almost time for your next dose, do not 
 
 It is important to use Trimbow every day. Do not stop using Trimbow or lower the dose, even if you are feeling better or you have no symptoms. If you want to do this, talk to your doctor.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -4686,7 +4772,7 @@ There is a risk of worsening shortness of breath and wheezing immediately after 
 
 <div style=\"page-break-after: always\"></div>
 
-Tell your doctor if you have any of the following while using Trimbow as they could be symptoms of a lung infection (may affect up to 1 in 10 people):
+Tell your doctor if you have any of the following while using Trimbow as they could be symptoms of a lung infection (may affect up to 1 in 10 people with COPD):
 
 - fever or chills
 - increased mucus production, change in mucus colour
@@ -4842,11 +4928,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 Chiesi Farmaceutici S.p.A. Via San Leonardo 96 43122 Parma Italy
 
-Chiesi SAS 2 rue des Docteurs Alberto et Paolo Chiesi 41260 La Chaussée Saint Victor France
+Chiesi SAS 2 rue des Docteurs Alberto et Paolo Chiesi 41260 La Chaussée Saint Victor France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -4856,13 +4940,11 @@ Tél/Tel: + 32 (0)2 788 42 00
 
 ## България
 
-Chiesi Bulgaria EOOD Teл.: + 359 29201205
+Chiesi Bulgaria EOOD Te л .: + 359 29201205
 
 ## Česká republika
 
-Chiesi CZ s.r.o.
-
-Tel: + 420 261221745
+Chiesi CZ s.r.o. Tel: + 420 261221745
 
 ## Danmark
 
@@ -4870,9 +4952,7 @@ Chiesi Pharma AB Tlf: + 46 8 753 35 20
 
 ## Deutschland
 
-Chiesi GmbH
-
-Tel: + 49 40 89724-0
+Chiesi GmbH Tel: + 49 40 89724-0
 
 ## Eesti
 
@@ -4880,17 +4960,17 @@ Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 ## Ελλάδα
 
-Chiesi Hellas AEBE Τηλ: + 30 210 6179763
+Chiesi Hellas AEBE Τηλ : + 30 210 6179763
 
 ## España
 
-Chiesi España, S.A.U.
-
-Tel: + 34 93 494 8000
+Chiesi España, S.A.U. Tel: + 34 93 494 8000
 
 ## France
 
-Chiesi S.A.S. Tél: + 33 1 47688899
+Chiesi S.A.S.
+
+Tél: + 33 1 47688899
 
 ## Hrvatska
 
@@ -4906,27 +4986,19 @@ Chiesi Pharma AB Sími: +46 8 753 35 20
 
 ## Italia
 
-Chiesi Italia S.p.A.
-
-Tel: + 39 0521 2791
+Chiesi Italia S.p.A. Tel: + 39 0521 2791
 
 ## Lietuva
 
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 ## Luxembourg/Luxemburg
 
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
 
 ## Magyarország
 
-Chiesi Hungary Kft.
-
-Tel.: + 36-1-429 1060
+Chiesi Hungary Kft. Tel.: + 36-1-429 1060
 
 ## Malta
 
@@ -4950,7 +5022,7 @@ Chiesi Poland Sp. z.o.o. Tel.: + 48 22 620 1421
 
 ## Portugal
 
-Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+Tecnifar- Indústria Técnica Farmacêutica S.A. Tel.: +351 210330700
 
 ## România
 
@@ -4958,7 +5030,9 @@ Chiesi Romania S.R.L. Tel: + 40 212023642
 
 ## Slovenija
 
-Chiesi Slovenija d.o.o. Tel: + 386-1-43 00 901
+Chiesi Slovenija d.o.o.
+
+Tel: + 386-1-43 00 901
 
 ## Slovenská republika
 
@@ -4968,25 +5042,19 @@ Tel: + 421 259300060
 
 ## Suomi/Finland
 
-Chiesi Pharma AB
-
-Puh/Tel: +46 8 753 35 20
+Chiesi Pharma AB Puh/Tel: +46 8 753 35 20
 
 <div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-Chiesi Farmaceutici S.p.A.
-
-Τηλ: + 39 0521 2791
+Chiesi Farmaceutici S.p.A. Τηλ: + 39 0521 2791
 
 ## Latvija
 
-Chiesi Pharmaceuticals GmbH
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
-Tel: + 43 1 4073919
-
-## This leaflet was last revised in .
+## This leaflet was last revised in
 
 ## Other sources of information
 

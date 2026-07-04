@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 16:06:00
+document_datetime: 2026-07-01 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ztalmy.html
 document_name: ztalmy.html
 version: success
-processing_time: 0.0983833
-conversion_datetime: 2026-03-01 20:15:15.955002
+processing_time: 0.1096027
+conversion_datetime: 2026-07-04 12:57:58.187788
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Ztalmy
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-ganaxolone Medicine Human Authorised
+ganaxolone
+
+Medicine Human Authorised
 
 Page contents
 
@@ -48,7 +50,7 @@ Ztalmy is a medicine used to treat epileptic seizures in children from 2 to 17 y
 
 The medicine is used in combination with other anti-epileptic medicines.
 
-CDKL5 deficiency disorder is rare, and Ztalmy was designated an 'orphan medicine' (a medicine used in rare diseases) on 13 November 2019. Further information on the orphan designation can be found on the EMA [website](/en/medicines/human/orphan-designations/eu-3-19-2224) .
+CDKL5 deficiency disorder is rare, and Ztalmy was designated an 'orphan medicine' (a medicine used in rare diseases) on 13 November 2019.
 
 Ztalmy contains the active substance ganaxolone.
 
@@ -56,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Ztalmy used?
+### How is Ztalmy used?
 
 The medicine can only be obtained with a prescription, and treatment should be started and supervised by a doctor who has experience in treating patients with epilepsy.
 
@@ -64,11 +66,11 @@ Ztalmy is available as a liquid to be taken by mouth and is usually given three 
 
 For more information about using Ztalmy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ztalmy work?
+### How does Ztalmy work?
 
 The active substance in Ztalmy, ganaxolone, mimics the action of a substance in the body called allopregnanolone. It switches on so-called GABA receptors, which reduces excessive electrical activity in the brain and thus lowers the number of seizures.
 
-## What benefits of Ztalmy have been shown in studies?
+### What benefits of Ztalmy have been shown in studies?
 
 A main study showed that Ztalmy reduces the frequency of seizures in children and adolescents with CDKL5 deficiency disorder who are taking at least one other epilepsy medicine.
 
@@ -76,23 +78,23 @@ The study involved a total of 101 patients with CDKL5 deficiency disorder and co
 
 On average, the monthly number of major seizures was reduced by 29% in the group of patients treated with Ztalmy, and by 6% in the group treated with placebo.
 
-## What are the risks associated with Ztalmy?
+### What are the risks associated with Ztalmy?
 
 For the full list of side effects and restrictions with Ztalmy, see the package leaflet.
 
 The most common side effects with Ztalmy (which may affect more than 1 in 10 people) include sleepiness and fever.
 
-## Why is Ztalmy authorised in the EU?
+### Why is Ztalmy authorised in the EU?
 
 The main study showed that Ztalmy is effective at reducing the number of seizures in children with CDKL5 deficiency disorder. The side effects are considered manageable. The European Medicines Agency therefore decided that Ztalmy's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ztalmy?
+### What measures are being taken to ensure the safe and effective use of Ztalmy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ztalmy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ztalmy are continuously monitored. Suspected side effects reported with Ztalmy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ztalmy
+### Other information about Ztalmy
 
 Ztalmy received a marketing authorisation valid throughout the EU on 26 July 2023.
 
@@ -106,181 +108,137 @@ English (EN) (103.91 KB - PDF)
 
 [View](/en/documents/overview/ztalmy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-106)
+[Other languages (22)](#file-language-dropdown-859)
 
 български (BG) (142.15 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/bg/documents/overview/ztalmy-epar-medicine-overview_bg.pdf)
 
 español (ES) (119.34 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/es/documents/overview/ztalmy-epar-medicine-overview_es.pdf)
 
 čeština (CS) (140.69 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/cs/documents/overview/ztalmy-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (118.5 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/da/documents/overview/ztalmy-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (121.03 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/de/documents/overview/ztalmy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (117.01 KB - PDF)
+eesti (ET) (117.01 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/et/documents/overview/ztalmy-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (141.28 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/el/documents/overview/ztalmy-epar-medicine-overview_el.pdf)
 
 français (FR) (119.6 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/fr/documents/overview/ztalmy-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (141.93 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/hr/documents/overview/ztalmy-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (118.86 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/it/documents/overview/ztalmy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (147.74 KB - PDF)
+latviešu (LV) (147.74 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/lv/documents/overview/ztalmy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.88 KB - PDF)
+lietuvių (LT) (138.88 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/lt/documents/overview/ztalmy-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.78 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/hu/documents/overview/ztalmy-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (142.39 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/mt/documents/overview/ztalmy-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (118.87 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/nl/documents/overview/ztalmy-epar-medicine-overview_nl.pdf)
 
 polski (PL) (143.21 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/pl/documents/overview/ztalmy-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.31 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/pt/documents/overview/ztalmy-epar-medicine-overview_pt.pdf)
 
 română (RO) (137.44 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/ro/documents/overview/ztalmy-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (139.54 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sk/documents/overview/ztalmy-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (137.42 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sl/documents/overview/ztalmy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (116.58 KB - PDF)
+suomi (FI) (116.58 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/fi/documents/overview/ztalmy-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (117.42 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sv/documents/overview/ztalmy-epar-medicine-overview_sv.pdf)
 
@@ -288,9 +246,7 @@ Ztalmy : EPAR - Risk management plan
 
 English (EN) (1.36 MB - PDF)
 
-**First published:** 31/07/2023
-
-**Last updated:** 27/02/2026
+**First published:** 31/07/2023 **Last updated:** 27/02/2026
 
 [View](/en/documents/rmp-summary/ztalmy-epar-risk-management-plan_en.pdf)
 
@@ -298,311 +254,168 @@ English (EN) (1.36 MB - PDF)
 
 Ztalmy : EPAR - Product Information
 
-English (EN) (921.6 KB - PDF)
+English (EN) (1.06 MB - PDF)
 
-**First published:** 31/07/2023
-
-**Last updated:** 27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/ztalmy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-782)
+[Other languages (24)](#file-language-dropdown-82)
 
-български (BG) (1.02 MB - PDF)
+български (BG) (1.14 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/ztalmy-epar-product-information_bg.pdf)
 
-español (ES) (962.84 KB - PDF)
+español (ES) (1.1 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/ztalmy-epar-product-information_es.pdf)
 
-čeština (CS) (1006.61 KB - PDF)
+čeština (CS) (1.11 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/ztalmy-epar-product-information_cs.pdf)
 
-dansk (DA) (940.85 KB - PDF)
+dansk (DA) (1.09 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/ztalmy-epar-product-information_da.pdf)
 
-Deutsch (DE) (970.99 KB - PDF)
+Deutsch (DE) (1.12 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/ztalmy-epar-product-information_de.pdf)
 
-eesti keel (ET) (895.71 KB - PDF)
+eesti (ET) (1.04 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/ztalmy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.04 MB - PDF)
+ελληνικά (EL) (1.15 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/ztalmy-epar-product-information_el.pdf)
 
-français (FR) (951.04 KB - PDF)
+français (FR) (1.09 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/ztalmy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1010.07 KB - PDF)
+hrvatski (HR) (1.12 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/ztalmy-epar-product-information_hr.pdf)
 
-íslenska (IS) (913.56 KB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
-
-[View](/is/documents/product-information/ztalmy-epar-product-information_is.pdf)
-
-italiano (IT) (938.48 KB - PDF)
-
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/ztalmy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (983.92 KB - PDF)
+latviešu (LV) (1.08 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/ztalmy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (982.54 KB - PDF)
+lietuvių (LT) (1.1 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/ztalmy-epar-product-information_lt.pdf)
 
-magyar (HU) (988.74 KB - PDF)
+magyar (HU) (1.11 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/ztalmy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.03 MB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/ztalmy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (960.04 KB - PDF)
+Nederlands (NL) (1.11 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/ztalmy-epar-product-information_nl.pdf)
 
-norsk (NO) (946.16 KB - PDF)
+polski (PL) (1.11 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
-
-[View](/no/documents/product-information/ztalmy-epar-product-information_no.pdf)
-
-polski (PL) (997.79 KB - PDF)
-
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/ztalmy-epar-product-information_pl.pdf)
 
-português (PT) (917.93 KB - PDF)
+português (PT) (1.06 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/ztalmy-epar-product-information_pt.pdf)
 
-română (RO) (1.02 MB - PDF)
+română (RO) (1.12 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/ztalmy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.01 MB - PDF)
+slovenčina (SK) (1.16 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/ztalmy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (966.97 KB - PDF)
+slovenščina (SL) (1.1 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/ztalmy-epar-product-information_sl.pdf)
 
-Suomi (FI) (898.45 KB - PDF)
+suomi (FI) (1.04 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/ztalmy-epar-product-information_fi.pdf)
 
-svenska (SV) (924.93 KB - PDF)
+svenska (SV) (1.07 MB - PDF)
 
-**First published:**
-
-31/07/2023
-
-**Last updated:**
-
-27/02/2026
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/ztalmy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263646 15/01/2026
+Íslenska (IS) (1.03 MB - PDF)
+
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information/ztalmy-epar-product-information_is.pdf)
+
+norsk (NO) (1.07 MB - PDF)
+
+**First published:** 31/07/2023 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information/ztalmy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000334684
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -620,208 +433,165 @@ English (EN) (44.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-750)
+[Other languages (24)](#file-language-dropdown-853)
 
 български (BG) (67.15 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/bg/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (49.94 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/es/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (68.3 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/cs/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (50.85 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/da/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (49.86 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/de/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (48.63 KB - PDF)
+eesti (ET) (48.63 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/et/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (66.92 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/el/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (49.66 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/fr/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (70.02 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/hr/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (46.25 KB - PDF)
-
-**First published:**
-
-31/07/2023
-
-[View](/is/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.79 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/it/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (69.1 KB - PDF)
+latviešu (LV) (69.1 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/lv/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (68.97 KB - PDF)
+lietuvių (LT) (68.97 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/lt/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.37 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/hu/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (71.75 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/mt/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (49.22 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/nl/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (46.14 KB - PDF)
-
-**First published:**
-
-31/07/2023
-
-[View](/no/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (72.32 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/pl/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (49.73 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/pt/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (65.17 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/ro/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (70.22 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sk/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (57.37 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sl/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.45 KB - PDF)
+suomi (FI) (48.45 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/fi/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (48.97 KB - PDF)
 
-**First published:**
-
-31/07/2023
+**First published:** 31/07/2023
 
 [View](/sv/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (46.25 KB - PDF)
+
+**First published:** 31/07/2023
+
+[View](/is/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (46.14 KB - PDF)
+
+**First published:** 31/07/2023
+
+[View](/no/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ztalmy Active substance ganaxolone International non-proprietary name (INN) or common name ganaxolone Therapeutic area (MeSH)
-
-- Epileptic Syndromes
-- Spasms, Infantile
-
-Anatomical therapeutic chemical (ATC) code N03AX
+- **Name of medicine**
+    - Ztalmy
+- **Active substance**
+    - ganaxolone
+- **International non-proprietary name (INN) or common name**
+    - ganaxolone
+- **Therapeutic area (MeSH)**
+        - Epileptic Syndromes
+        - Spasms, Infantile
+- **Anatomical therapeutic chemical (ATC) code**
+    - N03AX
 
 ### Pharmacotherapeutic group
 
@@ -833,23 +603,20 @@ Ztalmy is indicated for the adjunctive treatment of epileptic seizures associate
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005825
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Marinus Pharmaceuticals Emerald Limited
-
-10 Earlsfort Terrace
-
-Opinion adopted 25/05/2023 Marketing authorisation issued 26/07/2023 Revision 6
+- **EMA product number**
+    - EMEA/H/C/005825
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Marinus Pharmaceuticals Emerald Limited 10 Earlsfort Terrace  Dublin D02 T380  IRELAND
+- **Opinion adopted**
+    - 25/05/2023
+- **Marketing authorisation issued**
+    - 26/07/2023
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -857,15 +624,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ztalmy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (185.68 KB - PDF)
+English (EN) (189.17 KB - PDF)
 
-**First published:** 02/06/2025
-
-**Last updated:** 27/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/procedural-steps-after/ztalmy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -873,19 +638,15 @@ Ztalmy : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (197.44 KB - PDF)
 
-**First published:** 11/07/2024
-
-**Last updated:** 27/02/2026
+**First published:** 11/07/2024 **Last updated:** 27/02/2026
 
 [View](/en/documents/procedural-steps-after/ztalmy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ztalmy : EPAR - Orphan Maintenance Assessment Report
 
-Adopted
-
-Reference Number: EMA/OD/0000071368
+Adopted Reference Number: EMA/OD/0000071368
 
 English (EN) (369.04 KB - PDF)
 
@@ -895,9 +656,7 @@ English (EN) (369.04 KB - PDF)
 
 Ztalmy : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/267469/2023
+Adopted Reference Number: EMA/267469/2023
 
 English (EN) (2.65 MB - PDF)
 
@@ -907,9 +666,7 @@ English (EN) (2.65 MB - PDF)
 
 CHMP summary of positive opinion for Ztalmy
 
-Adopted
-
-Reference Number: EMA/CHMP/207481/2023
+Adopted Reference Number: EMA/CHMP/207481/2023
 
 English (EN) (128.64 KB - PDF)
 
@@ -919,7 +676,9 @@ English (EN) (128.64 KB - PDF)
 
 ## News on Ztalmy
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023) 26/05/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023)
+
+26/05/2023
 
 ## More information on Ztalmy
 
@@ -927,8 +686,8 @@ English (EN) (128.64 KB - PDF)
 - [EMEA-002341-PIP01-18-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002341-pip01-18-m03)
 - [EMEA-002341-PIP02-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002341-pip02-23)
 
-**This page was last updated on** 27/02/2026
+**This page was last updated on**
+
+01/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

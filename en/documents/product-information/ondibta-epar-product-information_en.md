@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 08:43:20
-document_pages: 44
+document_datetime: 2026-07-01 16:24:39
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ondibta-epar-product-information_en.pdf
 document_name: ondibta-epar-product-information_en.pdf
 version: success
-processing_time: 9.0212389
-conversion_datetime: 2026-04-25 16:53:41.165878
+processing_time: 16.7330273
+conversion_datetime: 2026-07-04 14:51:46.13061
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-- This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -62,7 +62,7 @@ The potency of this medicinal product is stated in units. These units are exclus
 
 ## Special populations
 
-## Elderly population (≥ 65 years old)
+## Elderly population ( ≥ 65 years old)
 
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
 
@@ -78,11 +78,11 @@ In patients with hepatic impairment, insulin requirements may be diminished due 
 
 ## Paediatric population
 
--  Adolescents and children aged 2 years and older patients
+- Adolescents and children aged 2 years and older patients
 
 The safety and efficacy of Ondibta in adolescents and children aged 2 years and older have been established (see section 5.1). The dose regimen (dose and timing) should be individually adjusted.
 
--  Children below 2 years of age
+- Children below 2 years of age
 
 The safety and efficacy of Ondibta have not been established. No data are available.
 
@@ -96,7 +96,7 @@ To reduce the risk of nocturnal and early morning hypoglycaemia, patients who ar
 
 ## Switch from insulin glargine 300 units/ml to Ondibta
 
-Ondibta and insulin glargine 300 units/ml are not bioequivalent and are not directly interchangeable. To reduce the risk of hypoglycemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Ondibta should reduce their dose by approximately 20%.
+Ondibta and insulin glargine 300 units/ml are not bioequivalent and are not directly interchangeable. To reduce the risk of hypoglycaemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Ondibta should reduce their dose by approximately 20%.
 
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
 
@@ -220,17 +220,15 @@ In addition, under the influence of sympatholytic medicinal products such as bet
 
 ## Pregnancy
 
-For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1 000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor feto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity. The use of Ondibta may be considered during pregnancy, if clinically needed.
+For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1 000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor foeto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity. The use of Ondibta may be considered during pregnancy, if clinically needed.
 
-It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycemia. Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters. Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia). Careful monitoring of glucose control is essential.
+It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycaemia. Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters. Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia). Careful monitoring of glucose control is essential.
 
 ## Breast-feeding
 
-It is unknown whether insulin glargine is excreted in human milk. No metabolic effects of ingested insulin glargine on the breast-fed newborn/infant are anticipated since insulin glargine as a peptide is
+It is unknown whether insulin glargine is excreted in human milk. No metabolic effects of ingested insulin glargine on the breast-fed newborn/infant are anticipated since insulin glargine as a peptide is digested into aminoacids in the human gastrointestinal tract. Breast-feeding women may require adjustments in insulin dose and diet.
 
 <div style=\"page-break-after: always\"></div>
-
-digested into aminoacids in the human gastrointestinal tract. Breast-feeding women may require adjustments in insulin dose and diet.
 
 ## Fertility
 
@@ -256,7 +254,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 | MedDRA system organ classes                     | Very common   | Common          | Uncommon    | Rare                          | Very rare   | Not known             |
 |-------------------------------------------------|---------------|-----------------|-------------|-------------------------------|-------------|-----------------------|
-| Immune system disorders                         |               |                 |             | Allergic reactions            |             |                       |
+| Immunesystem disorders                          |               |                 |             | Allergic reactions            |             |                       |
 | Metabolism and nutrition disorders              | Hypoglycaemia |                 |             |                               |             |                       |
 | Nervous system disorders                        |               |                 |             |                               | Dysgeusia   |                       |
 | Eye disorders                                   |               |                 |             | Visual impairment Retinopathy |             |                       |
@@ -320,7 +318,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -340,45 +338,23 @@ Insulin receptor binding: In vitro studies indicate that the affinity of insulin
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a halfmaximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in Ondibta therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in Ondibta therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
-The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake,
+The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis and enhances protein synthesis.
 
 <div style=\"page-break-after: always\"></div>
 
-Glucose Utilization
-
-Rate* (mg/kg/min)
-
-4
-
-3
-
-2
-
-1
-
-0
-
-0
-
-Activity profile in patients with type 1 diabetes especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis and enhances protein synthesis.
-
 In clinical pharmacology studies, intravenous insulin glargine and human insulin have been shown to be equipotent when given at the same doses. As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
-
-—NPH insulin
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
 
 The following graph shows the results from a study in patients:
 
-10
-
-20
-
 ## Activity profile in patients with type 1 diabetes
 
 <!-- image -->
+
+* determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
 
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration. The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
 
@@ -388,11 +364,9 @@ In clinical studies, antibodies that cross-react with human insulin and insulin 
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1 024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography. No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
-The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12 537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants)
+The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12 537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤ 1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6 264), titrated to reach FPG ≤ 95 mg/dl (5.3 mM), or standard care (n=6 273).
 
 <div style=\"page-break-after: always\"></div>
-
-or type 2 diabetes mellitus treated with ≤ 1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6 264), titrated to reach FPG ≤ 95 mg/dl (5.3 mM), or standard care (n=6 273).
 
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
@@ -408,7 +382,7 @@ At the last on-treatment visit, there was a mean increase in body weight from ba
 
 ## Paediatric population
 
-In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group.
+In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycaemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group.
 
 There was less severe hypoglycaemia in the insulin glargine group as well. One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years. No new safety signals were seen during this extended treatment with insulin glargine.
 
@@ -416,9 +390,9 @@ A crossover study comparing insulin glargine plus lispro insulin to NPH plus reg
 
 A 24-week parallel group study was conducted in 125 children with type 1 diabetes mellitus aged 2 to 6 years, comparing insulin glargine given once daily in the morning to NPH insulin given once or twice daily as basal insulin. Both groups received bolus insulin before meals.
 
-<div style=\"page-break-after: always\"></div>
+The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycaemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)].
 
-The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97-1.44)].
+<div style=\"page-break-after: always\"></div>
 
 Glycohaemoglobin and glucose variabilities were comparable in both treatment groups. No new safety signals were observed in this study.
 
@@ -450,17 +424,17 @@ Zinc chloride Metacresol Glycerol Hydrochloric acid (for pH adjustment) Sodium h
 
 ## 6.2 Incompatibilities
 
-<div style=\"page-break-after: always\"></div>
-
 This medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf-life
 
-3 years
+## 3 years
 
 ## Shelf-life after first use of the pen
 
-The medicinal product may be stored for a maximum of 4 weeks not above 30 ° C and away from direct heat or direct light.
+The medicinal product may be stored for a maximum of 4 weeks not above 30 °C and away from direct heat or direct light.
 
 The pre-filled pens in use must not be stored in the refrigerator.  The pen cap must be put back on the pen after each injection in order to protect from light.
 
@@ -468,7 +442,7 @@ The pre-filled pens in use must not be stored in the refrigerator.  The pen cap 
 
 ## Not in-use Ondibta pre-filled pens
 
-Store in a refrigerator (2 ° C-8 ° C).
+Store in a refrigerator (2 °C-8 °C).
 
 Do not freeze or place next to the freezer compartment or a freezer pack.
 
@@ -498,25 +472,19 @@ Ondibta must not be mixed with any other insulin or diluted. Mixing or diluting 
 
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
 
-Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. pre-filled pens must never be reused and must be properly discarded.
+Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty pre-filled pens must never be reused and must be properly discarded.
 
-To prevent the possible transmission of disease, each pen must be used by one patient only. carefully.
-
-Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty Before using the pre-filled pen, the instructions for use included in the package leaflet must be read
+To prevent the possible transmission of disease, each pen must be used by one patient only. Before using the pre-filled pen, the instructions for use included in the package leaflet must be read carefully.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 <div style=\"page-break-after: always\"></div>
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Dü sseldorf, Germany
+Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/2000/001
-
-EU/1/25/2000/002
-
-EU/1/25/2000/003
+EU/1/25/2000/001 EU/1/25/2000/002 EU/1/25/2000/003
 
 ## 9. DATE OF FIRST AUTHORISATION/ RENEWAL OF THE AUTHORISATION
 
@@ -545,7 +513,7 @@ Gan &amp; Lee Pharmaceuticals No.8 Nanfeng West First Road Huoxian Town Tongzhou
 
 ## Name and address of the manufacturer responsible for batch release
 
-IL-CSM Clinical Supplies Management GmbH Marie-Curie-Strasse 8 Loerrach, Baden-Wuerttemberg, 79539, Germany
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -565,8 +533,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -642,7 +610,7 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## In use conditions:
 
-After its first use, the pen may be stored for a maximum of 4 weeks not above 30° C.
+After its first use, the pen may be stored for a maximum of 4 weeks not above 30°C.
 
 Do not refrigerate. Keep the pen protected from light.
 
@@ -650,7 +618,7 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -664,7 +632,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -738,7 +706,7 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## In use conditions:
 
-After its first use, the pen may be stored for a maximum of 4 weeks not above 30° C.
+After its first use, the pen may be stored for a maximum of 4 weeks not above 30°C.
 
 Do not refrigerate. Keep the pen protected from light.
 
@@ -746,7 +714,7 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -836,13 +804,15 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## In use conditions:
 
-After its first use, the pen may be stored for a maximum of 4 weeks not above 30° C. Do not refrigerate. Keep the pen protected from light.
+After its first use, the pen may be stored for a maximum of 4 weeks not above 30°C.
+
+Do not refrigerate. Keep the pen protected from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -854,7 +824,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -866,17 +836,17 @@ Ondibta
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PEN LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PEN LABEL                                                        |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT ANDROUTEOF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT ANDROUTEOFADMINISTRATION   |
+|------|-------------------------------------------------------|
 
 Ondibta 100 units/ml solution for injection insulin glargine Subcutaneous use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -888,8 +858,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 3 ml
 
@@ -950,11 +920,9 @@ Follow closely the instructions for posology, monitoring (blood and urine tests)
 
 If your blood sugar is too low (hypoglycaemia), follow the guidance for hypoglycaemia (see box at the end of this leaflet).
 
-Skin changes at the injection site
+Skin changes at the injection site The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (see How to use Ondibta). Contact your doctor if you are currently injecting into a lumpy area before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
 
 <div style=\"page-break-after: always\"></div>
-
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (see How to use Ondibta). Contact your doctor if you are currently injecting into a lumpy area before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
 
 ## Travel
 
@@ -1128,12 +1096,12 @@ You must always check the insulin label before each injection to avoid mix-ups b
 
 ## If you use more Ondibta than you should
 
--  If you have injected too much Ondibta , your blood sugar level may become too low (hypoglycaemia). Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
+- -If you have injected too much Ondibta , your blood sugar level may become too low (hypoglycaemia). Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
 
 ## If you forget to use Ondibta
 
--  If you have missed a dose of Ondibta or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
--  Do not take a double dose to make up for a forgotten dose.
+- -If you have missed a dose of Ondibta or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
+- -Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Ondibta
 
@@ -1149,19 +1117,23 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of you blood sugar being too low (hypoglycaemia), take action to increase your blood sugar level straight away (see the box at the end of this leaflet). Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reactions (rare, may affect up to 1 in 1 000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+Severe allergic reactions (rare, may affect up to 1 in 1 000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+
+## Other side effects
+
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
 ## Skin changes at the injection site
 
 If you inject insulin too often at the same place, the skin may either shrink (lipoatrophy) ( may affect up to 1 in 100 people ) or thicken (lipohypertrophy) ( may affect up to 1 in 10 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 ## Skin and allergic reactions at the injection site
 
 The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear in a few days to a few weeks.
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 ## Eye reactions
 
@@ -1185,11 +1157,9 @@ There is no experience in children under 2 years.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
-
 <div style=\"page-break-after: always\"></div>
 
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ondibta
 
@@ -1199,13 +1169,13 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 ## Not in-use pens
 
-Store in a refrigerator (2 ° C-8 ° C). Do not freeze or place next to the freezer compartment or a freezer pack.
+Store in a refrigerator (2 °C-8 °C). Do not freeze or place next to the freezer compartment or a freezer pack.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## In-use pens
 
-Pre-filled pens in use or carried as a spare may be stored for a maximum of 4 weeks not above 30 ° C and away from direct heat or direct light. The pen in use must not be stored in the refrigerator. Do not use it after this time period.
+Pre-filled pens in use or carried as a spare may be stored for a maximum of 4 weeks not above 30 °C and away from direct heat or direct light. The pen in use must not be stored in the refrigerator. Do not use it after this time period.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1226,13 +1196,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Dü sseldorf, Germany.
+Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany.
 
-## Manufacturer
-
-IL-CSM Clinical Supplies Management GmbH Marie-Curie-Strasse 8 Loerrach, BadenWuerttemberg, 79539, Germany
+Manufacturer Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 ## This leaflet was last revised in
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -1259,7 +1229,7 @@ Examples include:
 
 ## Warning symptoms of hyperglycaemia
 
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heart beat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
+Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
 ## What should you do if you experience hyperglycaemia?
 
@@ -1296,7 +1266,7 @@ Examples include:
 
 ## -In your body
 
-Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
+Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heartbeat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
 
 ## -In your brain
 
@@ -1325,41 +1295,21 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
 <div style=\"page-break-after: always\"></div>
 
-Pen body
-
-A Ondibta'
-
-## INSTRUCTIONS FOR USE
-
-## Ondibta solution for injection in pre-filled pen
+## INSTRUCTIONS FOR USE Ondibta solution for injection in pre-filled pen
 
 Ondibta is a pre-filled pen for the injection of insulin glargine. Your doctor has decided that Ondibta is appropriate for you based on your ability to handle Ondibta.
 
 Talk with your doctor, pharmacist or nurse about proper injection technique before using Ondibta. People who are blind or have vision problems should not use the pen without help from a person trained to use Ondibta.
 
-needle cap
-
 Read these instructions carefully before using your Ondibta. If you are not able to use Ondibta or follow all the instructions completely on your own, you must use Ondibta only if you have help from a person who is able to follow the instructions completely.
 
 You can set doses from 1 to 60 units in steps of 1 unit. Each pen contains multiple doses. If your prescribed dose is more than 60 units, you will need to give yourself more than 1 injection.
-
-- Plunger
-
-Dose indicator
-
-Dose window
-
-- Dose selector
-
-Injection button
-
-Fioure A
 
 Keep this leaflet for future reference.
 
@@ -1404,7 +1354,7 @@ Not included in the carton (to be obtained separately)
 
 ## Step 1. Check the pen and insulin
 
-If your Ondibta pen is in the refrigerator, take it out 1 to 2 hours before you inject to allow it to reach room temperature (below 30° C). Injecting cold insulin can be uncomfortable.
+If your Ondibta pen is in the refrigerator, take it out 1 to 2 hours before you inject to allow it to reach room temperature (below 30°C). Injecting cold insulin can be uncomfortable.
 
 - A. Check the label on your Ondibta pen, to make sure you have the correct insulin (see Figure B ) - this is especially important if you have other pens.
 - Ondibta pen is white with a blue injection button.
@@ -1412,8 +1362,6 @@ If your Ondibta pen is in the refrigerator, take it out 1 to 2 hours before you 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-Andibto
 
 - B. Check the expiry date (EXP).
 - Do not use your pen after the expiry date.
@@ -1428,7 +1376,7 @@ Always use a new sterile needle for each injection. This helps prevent contamina
 - A. Wipe the rubber seal with an alcohol swab.
 - B. Remove the protective seal from a new needle.
 - C. Keep the needle straight and screw it onto the pen until fixed (see Figure C ).
-4.  If the needle is not kept straight while you attach it, it can damage the rubber seal, cause the insulin to leak, or break the needle.
+- If the needle is not kept straight while you attach it, it can damage the rubber seal, cause the insulin to leak, or break the needle.
 
 Step 3. Perform a safety test
 
@@ -1439,7 +1387,7 @@ Step 3. Perform a safety test
 - make sure the pen and needle work properly.
 - make sure you get the correct dose by removing air bubbles.
 - A. Select a dose of 2 units by turning the dose selector (see Figure D ).
--  If necessary, the selected dose can be corrected by turning the dose selector back down.
+- If necessary, the selected dose can be corrected by turning the dose selector back down.
 - B. Pull off the outer needle cap (see Figure E ) and keep it to remove the used needle after injection.
 - C. Pull off the inner needle cap (see Figure E ) and discard it.
 
@@ -1447,15 +1395,7 @@ Step 3. Perform a safety test
 
 <div style=\"page-break-after: always\"></div>
 
-Keep outer needle cap
-
-Figure E
-
-Figure F
-
 <!-- image -->
-
-Figure G
 
 - D. Hold the pen with the needle pointing upwards. Tap the insulin reservoir (see Figure F ) so that any air bubbles rise up towards the needle.
 - E. Press the injection button all the way in (see Figure G ).
@@ -1467,9 +1407,9 @@ Figure G
 
 You may have to perform the safety test several times before insulin comes out of the needle tip.
 
--  If no insulin comes out of the needle tip, check for air bubbles and repeat the safety test two more times to remove them.
--  If still no insulin comes out, the needle may be blocked. Change the needle and repeat the safety test.
--  If no insulin comes out after changing the needle, your pen may be damaged. Do not use this pen.
+- If no insulin comes out of the needle tip, check for air bubbles and repeat the safety test two more times to remove them.
+- If still no insulin comes out, the needle may be blocked. Change the needle and repeat the safety test.
+- If no insulin comes out after changing the needle, your pen may be damaged. Do not use this pen.
 
 ## Step 4. Select your dose
 
@@ -1477,50 +1417,33 @@ You can set the dose from 1 to 60 units in steps of 1 unit of insulin (one step 
 
 - A. Check that the dose window shows '0' following the safety test.
 
-120
-
-180
-
 <div style=\"page-break-after: always\"></div>
 
 - B. Select your required dose by turning the dose selector (see Figure H : selected dose is 30 units in this example).
-
-Figure I
+- If you turn past your dose, you can turn back down.
+- You will hear a click for every single unit dialed. Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
+- Do not push the injection button while turning, as insulin will come out.
+- You cannot turn the dose selector past the number of units left in the pen.
+- If the medicine left in the pen is less than your dose, inject what is remaining in the pen and complete your dose with a new pen, or use a new pen for your full dose.
+- You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale. Do not use this scale printed on the cartridge to measure your dose of insulin.
 
 <!-- image -->
-
--  If you turn past your dose, you can turn back down.
--  You will hear a click for every single unit dialed. Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
--  Do not push the injection button while turning, as insulin will come out.
--  You cannot turn the dose selector past the number of units left in the pen.
--  If the medicine left in the pen is less than your dose, inject what is remaining in the pen and complete your dose with a new pen, or use a new pen for your full dose.
--  You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale. Do not use this scale printed on the cartridge to measure your dose of insulin.
 
 ## Step 5. Inject the dose
 
 Use the injection method as instructed by your doctor, pharmacist or nurse.
 
 - A. Choose your injection site.
-2.  The pen can be injected into your thigh, stomach area (abdomen) or upper arm (see Figure I ).
-3.  Change (rotate) your injection site for each injection.
-4.  Do not inject where the skin has pits, is thickened or has lumps.
-5.  Do not inject where the skin is tender, bruised, scaly or hard or into scars or damaged skin.
+- The pen can be injected into your thigh, stomach area (abdomen) or upper arm (see Figure I ).
+- Change (rotate) your injection site for each injection.
+- Do not inject where the skin has pits, is thickened or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard or into scars or damaged skin.
 - B. Clean the injection site with an alcohol swab. Let it dry before injecting.
 - C. Insert the needle into the skin (see Figure J) .
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-L..
-
-10 sec
-
-Figure L
-
-Figure J
-
-Figure K
 
 <!-- image -->
 
@@ -1541,8 +1464,8 @@ The pen plunger moves with each dose. The plunger will reach the end of the cart
 
 Always remove the needle after each injection and store the pen without a needle attached. This helps prevent:
 
--  Contamination and/or infection.
--  Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
+- Contamination and/or infection.
+- Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 - A. Carefully put the outer needle cap back on the needle (see Figure L ), to reduce the risk of accidental needle injury.
 - Never replace the inner needle cap.
 - B. Pinch the base of the outer needle cap to unscrew the used needle (See Figure M ).
@@ -1560,20 +1483,20 @@ Always remove the needle after each injection and store the pen without a needle
 
 ## Before first use
 
--  Keep your pen in the refrigerator between 2 ° C to 8 ° C until first use.
--  Do not freeze. Throw away your pen if it has been frozen.
+- Keep your pen in the refrigerator between 2 °C to 8 °C until first use.
+- Do not freeze. Throw away your pen if it has been frozen.
 
 ## After first use
 
--  Store the pen you are currently using at room temperature below 30 ° C, and away from light, dust and dirt.
--  The pen in use must not be stored in a refrigerator.
--  Once you take your pen out of the refrigerator, you can use it for up to 28 days. Do not use it after this time.
--  Do not store your pen with the needle attached.
--  Keep your pen out of the reach and sight of children and any other persons who are not supposed to handle it.
--  When the pen is empty, throw it away without a needle on, as instructed by your doctor, pharmacist or nurse.
+- Store the pen you are currently using at room temperature below 30 °C, and away from light, dust and dirt.
+- The pen in use must not be stored in a refrigerator.
+- Once you take your pen out of the refrigerator, you can use it for up to 28 days. Do not use it after this time.
+- Do not store your pen with the needle attached.
+- Keep your pen out of the reach and sight of children and any other persons who are not supposed to handle it.
+- When the pen is empty, throw it away without a needle on, as instructed by your doctor, pharmacist or nurse.
 
 ## Maintenance
 
--  You can clean the outside of your pen by wiping it with a damp cloth (water only).
--  Do not soak, wash or lubricate the pen as this may damage it.
--  Your pen should be handled with care. Avoid situations where the pen might be damaged. If you are concerned that your pen may be damaged, use a new one.
+- You can clean the outside of your pen by wiping it with a damp cloth (water only).
+- Do not soak, wash or lubricate the pen as this may damage it.
+- Your pen should be handled with care. Avoid situations where the pen might be damaged. If you are concerned that your pen may be damaged, use a new one.

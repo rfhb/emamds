@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-02-16 09:46:39
+document_datetime: 2026-06-29 15:49:20
 document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ibuprofen-genorph-epar-product-information_en.pdf
 document_name: ibuprofen-genorph-epar-product-information_en.pdf
 version: success
-processing_time: 4.7366405
-conversion_datetime: 2026-02-18 17:46:18.563733
+processing_time: 4.6768355
+conversion_datetime: 2026-07-04 15:03:32.340226
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -105,11 +107,9 @@ Careful monitoring of both renal and gastrointestinal function is recommended.
 
 ## Severe skin reactions
 
-Serious skin reactions, some of them fatal, including exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely in association with the use of NSAIDSs (see section 4.8). Patients appear to be at highest risk of these reactions early in the course of therapy, the onset of the reaction occurring in the majority of cases within the first month of treatment. Acute generalised exanthematous pustulosis (AGEP) and drug reaction with eosinophilia
+Serious skin reactions, some of them fatal, including exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely in association with the use of NSAIDSs (see section 4.8). Patients appear to be at highest risk of these reactions early in the course of therapy, the onset of the reaction occurring in the majority of cases within the first month of treatment. Acute generalised exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) have been reported in relation to ibuprofen-containing products. Ibuprofen should be discontinued, at the first appearance of signs and symptoms of severe skin reactions, such as skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
 <div style=\"page-break-after: always\"></div>
-
-and systemic symptoms (DRESS syndrome) have been reported in relation to ibuprofen-containing products. Ibuprofen should be discontinued, at the first appearance of signs and symptoms of severe skin reactions, such as skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
 In preterm newborn infants less than 27 weeks of gestational age, the closure rate of the ductus arteriosus (33 to 50%) was shown to be low at the recommended dose regimen (see section 5.1).
 
@@ -148,7 +148,7 @@ Data are currently available on approximately 1 000 preterm newborn from both th
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-## Table 1. Tabulated list of adverse reactions
+Table 1. Tabulated list of adverse reactions
 
 | System organ class (SOC)             | Frequency   | Adverse reaction              |
 |--------------------------------------|-------------|-------------------------------|
@@ -202,7 +202,7 @@ Ibuprofen is a NSAID that possesses anti-inflammatory, analgesic and antipyretic
 
 Since prostaglandins are involved in the persistence of the ductus arteriosus after birth, this effect is believed to be the main mechanism of action of ibuprofen in this indication.
 
-In a dose-response study of ibuprofen in 40 preterm newborn infants, the ductus arteriosus closure rate associated to the 10-5-5 mg/kg dose regimen was 75% (6/8) in neonates of 2729 weeks' gestation and 33% (2/6) in neonates of 24-26 weeks' gestation.
+In a dose-response study of ibuprofen in 40 preterm newborn infants, the ductus arteriosus closure rate associated to the 10-5-5 mg/kg dose regimen was 75% (6/8) in neonates of 27-29 weeks' gestation and 33% (2/6) in neonates of 24-26 weeks' gestation.
 
 Prophylactic use of ibuprofen in the first 3 days of life (starting within 6 hours of birth) in preterm newborn infants less than 28 weeks of gestational age was associated with increased incidence of renal failure and pulmonary adverse events including hypoxia, pulmonary hypertension, pulmonary haemorrhage, as compared to curative use. Conversely, a lower incidence of neonatal grade III-IV intraventricular haemorrhage and of surgical ligation was associated with prophylactic use of ibuprofen.
 
@@ -220,7 +220,7 @@ In vitro studies suggest that, similarly to other NSAIDs, ibuprofen is highly bo
 
 ## Elimination
 
-Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16 -43). The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
+Elimination rate is markedly lower than in older children and adults, with an elimination half-life estimated at approximately 30 hours (16-43). The clearance of both enantiomers increases with gestational age, at least in the range of 24 to 28 weeks.
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
@@ -246,7 +246,7 @@ Ibuprofen Gen.Orph solution must not be in contact with any acidic solution such
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 To avoid any possible microbiological contamination, the product should be used immediately after first opening.
 
@@ -314,7 +314,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Haupt Pharma 1 rue Comte de Sinard 26250 Livron-sur-Drôme France
+Haupt Pharma 1 rue Comte de Sinard 26250 Livron-sur-Drôme
+
+France
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -407,7 +409,7 @@ EU/1/23/1791/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -423,15 +425,15 @@ Justification for not including Braille accepted
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| GLASS AMPOULE LABEL                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| GLASS AMPOULE LABEL                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -518,7 +520,7 @@ Ibuprofen Gen.Orph will only be given to your baby in a special neonatal intensi
 
 <div style=\"page-break-after: always\"></div>
 
-- -Before treatment with Ibuprofen Gen.Orph , your baby's heart will be examined to confirm that the ductus arteriosus is open.
+- -Before treatment with Ibuprofen Gen.Orph, your baby's heart will be examined to confirm that the ductus arteriosus is open.
 - -Ibuprofen Gen.Orph should not be given in the first 6 hours of life.
 - -If your baby is suspected of having liver disease, signs and symptoms of which include yellowing of the skin and eyes.
 - -If your baby is already suffering from an infection that is being treated, the doctor will treat your baby with Ibuprofen Gen.Orph only after careful consideration of your baby's condition.
@@ -555,7 +557,7 @@ Ibuprofen Gen.Orph will only be given to your baby in a special neonatal intensi
 
 A course of therapy is defined as three intravenous injections of Ibuprofen Gen.Orph given at 24 hour intervals. The dose to be administered will be calculated from the weight of your baby. It is 10 mg/kg for the first administration and 5 mg/kg for the second and the third administrations.
 
-This calculated amount will be given by infusion in a vein over a period of 15 minutes. If after this first course of treatment, the ductus arteriosus is not closed or reopens, your baby's doctor may decide to give a second course of treatment.
+This calculated amount will be given by infusion in a vein over a period of 15 minutes. If after this first course of treatment, the ductus arteriosus is not closed or re-opens, your baby's doctor may decide to give a second course of treatment.
 
 If after the second course of treatment, the ductus arteriosus is still not closed, a surgery may then be proposed.
 
@@ -588,7 +590,7 @@ The possible side effects are listed below.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Acute failure of the kidney's functions ,
+- -Acute failure of the kidney's functions,
 - -Bleeding in the intestine,
 - -Below normal oxygen content in the arterial blood (hypoxemia).
 
@@ -641,8 +643,6 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien Gen.Orph
 
-Tél/Tel: +32 (0)496 85 87 49
-
 e-mail: reg@studiopharma.be
 
 Lietuva
@@ -650,8 +650,6 @@ Lietuva
 Gen.Orph
 
 Tel: +33 (0)1 47 71 04 50
-
-e-mail: contact@gen-orph.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -667,13 +665,13 @@ Danmark
 
 Gen.Orph Tlf: +46 (0)8 21 54 45 e-mail:
 
-pharmacovigilance.SE@propharmagroup.com
+[pharmacovigilance.SE@propharmagroup.com](mailto:pharmacovigilance.SE@propharmagroup.com)
 
 ## Deutschland
 
 Gen.Orph Tel: +49 30 8560687897 e-mail:
 
-pharmacovigilance.DE@propharmagroup.com
+[pharmacovigilance.DE@propharmagroup.com](mailto:pharmacovigilance.DE@propharmagroup.com)
 
 Eesti
 
@@ -681,7 +679,7 @@ Gen.Orph
 
 Tel: +33 (0)1 47 71 04 50
 
-e-mail: contact@gen-orph.com
+[e-mail: contact@gen-orph.com](mailto:contact@gen-orph.com)
 
 Ελλάδα
 
@@ -721,15 +719,13 @@ Gen.Orph Tel: +33 (0)1 47 71 04 50 e-mail: contact@gen-orph.com
 
 Nederland
 
-Gen.Orph
-
-Tel: +32 (0)496 85 87 49 e-mail : reg@studiopharma.be
+Gen.Orph Tel: +32 (0)496 85 87 49 e-mail : reg@studiopharma.be
 
 Norge
 
 Gen.Orph Tlf: +46 (0)8 21 54 45
 
-e-mail: pharmacovigilance.SE@propharmagroup.com
+[e-mail: pharmacovigilance.SE@propharmagroup.com](mailto:pharmacovigilance.SE@propharmagroup.com)
 
 ## Österreich
 

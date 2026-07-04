@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-10 10:41:33
+document_datetime: 2026-07-02 11:24:27
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alkindi-epar-product-information_en.pdf
 document_name: alkindi-epar-product-information_en.pdf
 version: success
-processing_time: 8.6603491
-conversion_datetime: 2026-03-17 19:35:27.05142
+processing_time: 7.9627593
+conversion_datetime: 2026-07-04 15:10:42.685669
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -174,11 +174,9 @@ Corticosteroids may cause growth retardation in infancy, childhood and adolescen
 
 Bone mineral density may be impacted in children when higher doses of replacement steroids are used. The lowest appropriate dose of steroid according to the response of the individual patient should be used.
 
-Patients/and or carers should be warned that potentially severe psychiatric adverse reactions; euphoria, mania, psychosis with hallucinations and delirium have been seen in adult patients at replacement doses of hydrocortisone (see section 4.8). Symptoms typically emerge within a few days or weeks of starting the treatment. Risks may be higher with high doses/systemic exposure (see also section 4.5), although dose levels do not allow prediction of the onset, type, severity or duration of reactions. Most reactions recover after either dose reduction or withdrawal, although specific treatment may be necessary. Patients/carers should be encouraged to seek medical advice if worrying psychological symptoms develop, especially if depressed mood or suicidal ideation is suspected. Patients/carers should also be alert to possible psychiatric disturbances that may occur either during or immediately
+Patients/and or carers should be warned that potentially severe psychiatric adverse reactions; euphoria, mania, psychosis with hallucinations and delirium have been seen in adult patients at replacement doses of hydrocortisone (see section 4.8). Symptoms typically emerge within a few days or weeks of starting the treatment. Risks may be higher with high doses/systemic exposure (see also section 4.5), although dose levels do not allow prediction of the onset, type, severity or duration of reactions. Most reactions recover after either dose reduction or withdrawal, although specific treatment may be necessary. Patients/carers should be encouraged to seek medical advice if worrying psychological symptoms develop, especially if depressed mood or suicidal ideation is suspected. Patients/carers should also be alert to possible psychiatric disturbances that may occur either during or immediately after dose tapering/withdrawal of systemic steroids, although such reactions have been reported infrequently.
 
 <div style=\"page-break-after: always\"></div>
-
-after dose tapering/withdrawal of systemic steroids, although such reactions have been reported infrequently.
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroids, especially when a patient has a history of allergies to medicinal products.
 
@@ -299,7 +297,7 @@ As this was a single-dose study, the primary efficacy assessment was serum corti
 
 <div style=\"page-break-after: always\"></div>
 
-Alkindi was positively assessed in terms of palatability. Among parents and carers asked about their child's experience of taking the medication (n=23), 82.6% agreed/strongly agreed that their child found swallowing Alkindi easy; 65.2% agreed/strongly agreed that their child showed a positive reaction after Alkindi administration; 95.5% would be happy to give their child Alkindi in the future; and 95.5% said that they would prefer Alkindi for their child's treatment over their usual hydrocortisone formulation. Six of the 12 children in Cohort 1 (age range 2.6 to 4.7 years) responded to an adjusted palatability questionnaire. ≥50% subjects reported that the taste, feel in mouth and ease of swallowing were very good and that they were likely to take the medicinal product again. 68.8% of healthy adult volunteers have described the taste as neutral.
+Alkindi was positively assessed in terms of palatability. Among parents and carers asked about their child's experience of taking the medication (n=23), 82.6% agreed/strongly agreed that their child found swallowing Alkindi easy; 65.2% agreed/strongly agreed that their child showed a positive reaction after Alkindi administration; 95.5% would be happy to give their child Alkindi in the future; and 95.5% said that they would prefer Alkindi for their child's treatment over their usual hydrocortisone formulation. Six of the 12 children in Cohort 1 (age range 2.6 to 4.7 years) responded to an adjusted palatability questionnaire. ≥50% subjects report ed that the taste, feel in mouth and ease of swallowing were very good and that they were likely to take the medicinal product again. 68.8% of healthy adult volunteers have described the taste as neutral.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -335,21 +333,9 @@ Administration of corticosteroids to pregnant animals can cause abnormalities of
 
 ## Granules
 
-Microcrystalline cellulose Hypromellose Magnesium stearate Ethyl cellulose
+Microcrystalline cellulose Hypromellose Magnesium stearate Ethyl cellulose Capsule Hypromellose Printing ink Shellac Propylene glycol Concentrated ammonia solution Alkindi 0.5 mg capsules (red ink)
 
 <div style=\"page-break-after: always\"></div>
-
-Capsule
-
-Hypromellose
-
-Printing ink
-
-Shellac Propylene glycol
-
-Concentrated ammonia solution
-
-Alkindi 0.5 mg capsules (red ink)
 
 Red iron oxide (E172)
 
@@ -399,11 +385,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1260/001 EU/1/17/1260/002 EU/1/17/1260/003 EU/1/17/1260/004
+EU/1/17/1260/001
+
+EU/1/17/1260/002
+
+EU/1/17/1260/003
+
+EU/1/17/1260/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -444,7 +436,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -468,8 +460,6 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -515,6 +505,8 @@ Open date:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Do not store above 30°C. Store in the original bottle in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
@@ -523,7 +515,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -599,11 +591,12 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -667,13 +660,11 @@ Open date:
 
 Do not store above 30°C. Store in the original bottle in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -684,7 +675,9 @@ EU/1/17/1260/002 50 capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Alkindi 1 mg
@@ -698,6 +691,8 @@ Alkindi 1 mg
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -745,13 +740,11 @@ Use capsules within 60 days once the bottle is opened.
 
 Do not store above 30°C. Store in the original bottle in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -762,10 +755,16 @@ EU/1/17/1260/002 50 capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -821,7 +820,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -832,10 +831,9 @@ EU/1/17/1260/003 50 capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Alkindi 2 mg
 
@@ -897,11 +895,12 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -965,13 +964,11 @@ Open date:
 
 Do not store above 30°C. Store in the original bottle in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen,
-
-The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -985,7 +982,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Alkindi 5 mg
 
@@ -995,9 +992,7 @@ Alkindi 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1045,17 +1040,18 @@ Use capsules within 60 days once the bottle is opened.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 30°C. Store in the original bottle in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1189,11 +1185,9 @@ The granules should be given into the mouth and should not be chewed. The capsul
 
 <div style=\"page-break-after: always\"></div>
 
-- Hold capsule so that the text is at the top and tap thecapsuletomake surethe granules are at
-
-Gently squeeze the
-
-- bottom of the
+- Hold capsule so that the text is at the top and tap the capsule to make sure the granules are at
+- Gently squeeze the bottom of the
+- Twist off the top
 
 <!-- image -->
 
@@ -1211,21 +1205,13 @@ Either pour all the granules directly onto the
 
 OR pour all the granules directly onto a spoon and place them in the
 
-ORforchildrenwhoareable to take soft food, sprinkle the granules onto a spoonful of cold or room temperature soft food (such as yoghurt or fruit puree) and give
+ORfor children who are able to take soft food, sprinkle the granules onto a spoonful of cold or room temperature soft food (such as yoghurt or fruit puree) and give If you give the granules directly into the mouth, give a drink (e.g. water, milk, breast-milk or formula-milk) immediately after administration to If you give the granules sprinkled onto a spoonful of soft food, administer immediately (within 5
 
 <!-- image -->
 
-If you give the granules directly into the mouth, give a drink (e.g. water, milk, breast-milk or formula-milk)immediately afteradministrationto
+DO NOT add the granules to liquid before administration as this can result in less than the full dose being given, and might also dissolve the taste masking of the granules allowing the bitter
 
-If you give the granules sprinkled onto a spoonful of soft food, administerimmediately (within 5
-
-DO NoT add the granules to liquid before administration as this can result in less than the full dose being given, and might also dissolve the tastemaskingofthegranulesallowingthebitter
-
-<!-- image -->
-
-WarningAlkindi granulescome in a capsule that mustbe opened before use, discard the empty capsule after use out of reach of children. Do NOT swallow the capsule - small
-
-- Twist off the top
+Warning Alkindi granules come in a capsule that must be opened before use, discard the empty capsule after use out of reach of children. Do NOT swallow the capsule – small
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1329,7 +1315,7 @@ Pack size: 1 bottle containing 50 capsules.
 
 ## Marketing Authorisation Holder
 
-Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## Manufacturer
 

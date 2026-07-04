@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-04-28 14:25:00
+document_datetime: 2026-06-22 15:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecentriq.html
 document_name: tecentriq.html
 version: success
-processing_time: 0.1727863
-conversion_datetime: 2026-04-29 13:18:57.647012
+processing_time: 0.2289667
+conversion_datetime: 2026-07-04 13:00:44.447766
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Tecentriq
-
 # Tecentriq
 
 [RSS](/en/individual-human-medicine.xml/66713)
@@ -116,7 +40,6 @@ Page contents
 - [News on Tecentriq](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-78624)
 - [More information on Tecentriq](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -142,19 +65,19 @@ Expand section
 
 Collapse section
 
-## How is Tecentriq used?
+### How is Tecentriq used?
 
 Tecentriq is given as an infusion (drip) into a vein every 2, 3 or 4 weeks, or as an injection under the skin every 3 weeks. Depending on the type of cancer, patients are treated either for one year or for as long as they benefit from treatment, unless they have unmanageable side effects. The doctor may stop treatment if the patient has certain side effects involving the immune system (the body's defence system), including inflammation of various body organs or endocrine (glandular) disorders. For more information about using Tecentriq, see the package leaflet or contact your doctor or pharmacist.
 
 Tecentriq can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in treating cancer.
 
-## How does Tecentriq work?
+### How does Tecentriq work?
 
 The active substance in Tecentriq, atezolizumab, is a monoclonal antibody (a type of protein) designed to attach to a protein called PD-L1, which is present on many cancer cells.
 
 PD-L1 switches off immune cells that would otherwise attack cancer cells. By attaching to PD-L1, Tecentriq reduces its effects and so increases the immune system's ability to attack cancer cells and thereby slows down progression of the disease.
 
-## What benefits of Tecentriq have been shown in studies?
+### What benefits of Tecentriq have been shown in studies?
 
 **Urothelial cancer**
 
@@ -192,7 +115,7 @@ A study of 902 patients with a type of breast cancer known as triple-negative br
 
 A study involved 501 patients with hepatocellular carcinoma that had spread and had not been treated previously. Patients treated with Tecentriq in combination with bevacizumab lived on average for 6.8 months without their disease getting worse, compared to 4.3 months for patients treated with sorafenib.
 
-## What are the risks associated with Tecentriq?
+### What are the risks associated with Tecentriq?
 
 For the full list of side effects and restrictions with Tecentriq, see the package leaflet.
 
@@ -202,7 +125,7 @@ The most common side effects with Tecentriq when used with other cancer medicine
 
 In addition, when Tecentriq is given as an injection under the skin, reaction at the site of injection may occur in up to 1 in 10 people.
 
-## Why is Tecentriq authorised in the EU?
+### Why is Tecentriq authorised in the EU?
 
 In urothelial cancer, Tecentriq has been shown to reduce tumour size in patients who have been treated with platinum chemotherapy or who are not eligible for such treatment. Tecentriq can also prolong the time patients with lung cancer, triple-negative breast cancer and hepatocellular carcinoma live.
 
@@ -212,7 +135,7 @@ The European Medicines Agency therefore decided that Tecentriq's benefits are gr
 
 and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tecentriq?
+### What measures are being taken to ensure the safe and effective use of Tecentriq?
 
 The company that markets Tecentriq provides an educational programme for patients and healthcare professionals to explain that serious immune-related side effects can occur during treatment and what they should do to minimise risks.
 
@@ -220,7 +143,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Tecentriq are continuously monitored. Side effects reported with Tecentriq are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tecentriq
+### Other information about Tecentriq
 
 Tecentriq received a marketing authorisation valid throughout the EU on 21 September 2017.
 
@@ -234,7 +157,7 @@ English (EN) (136.78 KB - PDF)
 
 [View](/en/documents/overview/tecentriq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-118)
+[Other languages (22)](#file-language-dropdown-961)
 
 български (BG) (193.41 KB - PDF)
 
@@ -266,7 +189,7 @@ Deutsch (DE) (161.46 KB - PDF)
 
 [View](/de/documents/overview/tecentriq-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (153.42 KB - PDF)
+eesti (ET) (153.42 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 04/09/2024
 
@@ -296,13 +219,13 @@ italiano (IT) (153.63 KB - PDF)
 
 [View](/it/documents/overview/tecentriq-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (187.44 KB - PDF)
+latviešu (LV) (187.44 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 04/09/2024
 
 [View](/lv/documents/overview/tecentriq-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (190.64 KB - PDF)
+lietuvių (LT) (190.64 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 04/09/2024
 
@@ -356,7 +279,7 @@ slovenščina (SL) (189.44 KB - PDF)
 
 [View](/sl/documents/overview/tecentriq-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (153.89 KB - PDF)
+suomi (FI) (153.89 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 04/09/2024
 
@@ -386,7 +309,7 @@ English (EN) (1.53 MB - PDF)
 
 [View](/en/documents/product-information/tecentriq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-326)
 
 български (BG) (2.89 MB - PDF)
 
@@ -418,7 +341,7 @@ Deutsch (DE) (3.95 MB - PDF)
 
 [View](/de/documents/product-information/tecentriq-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.15 MB - PDF)
+eesti (ET) (2.15 MB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
@@ -442,25 +365,19 @@ hrvatski (HR) (3.16 MB - PDF)
 
 [View](/hr/documents/product-information/tecentriq-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.52 MB - PDF)
-
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/tecentriq-epar-product-information_is.pdf)
-
 italiano (IT) (2.15 MB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/tecentriq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.63 MB - PDF)
+latviešu (LV) (2.63 MB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/tecentriq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.76 MB - PDF)
+lietuvių (LT) (3.76 MB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
@@ -483,12 +400,6 @@ Nederlands (NL) (2.32 MB - PDF)
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/tecentriq-epar-product-information_nl.pdf)
-
-norsk (NO) (2.39 MB - PDF)
-
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/tecentriq-epar-product-information_no.pdf)
 
 polski (PL) (2.92 MB - PDF)
 
@@ -520,7 +431,7 @@ slovenščina (SL) (2.33 MB - PDF)
 
 [View](/sl/documents/product-information/tecentriq-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.97 MB - PDF)
+suomi (FI) (1.97 MB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 28/04/2026
 
@@ -532,6 +443,18 @@ svenska (SV) (1.94 MB - PDF)
 
 [View](/sv/documents/product-information/tecentriq-epar-product-information_sv.pdf)
 
+Íslenska (IS) (2.52 MB - PDF)
+
+**First published:** 29/09/2017 **Last updated:** 28/04/2026
+
+[View](/is/documents/product-information/tecentriq-epar-product-information_is.pdf)
+
+norsk (NO) (2.39 MB - PDF)
+
+**First published:** 29/09/2017 **Last updated:** 28/04/2026
+
+[View](/no/documents/product-information/tecentriq-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** PSUR/0000296544
 
 26/03/2026
@@ -540,7 +463,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -558,7 +482,7 @@ English (EN) (15.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-884)
+[Other languages (24)](#file-language-dropdown-697)
 
 български (BG) (37.37 KB - PDF)
 
@@ -590,7 +514,7 @@ Deutsch (DE) (22 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (16.11 KB - PDF)
+eesti (ET) (16.11 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
@@ -614,25 +538,19 @@ hrvatski (HR) (34.69 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.85 KB - PDF)
-
-**First published:** 29/09/2017 **Last updated:** 12/02/2024
-
-[View](/is/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (15.51 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
 [View](/it/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (37.36 KB - PDF)
+latviešu (LV) (37.36 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
 [View](/lv/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (31.83 KB - PDF)
+lietuvių (LT) (31.83 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
@@ -655,12 +573,6 @@ Nederlands (NL) (17.04 KB - PDF)
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
 [View](/nl/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (16.62 KB - PDF)
-
-**First published:** 29/09/2017 **Last updated:** 12/02/2024
-
-[View](/no/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (35.73 KB - PDF)
 
@@ -692,7 +604,7 @@ slovenščina (SL) (22.36 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (16.06 KB - PDF)
+suomi (FI) (16.06 KB - PDF)
 
 **First published:** 29/09/2017 **Last updated:** 12/02/2024
 
@@ -704,31 +616,34 @@ svenska (SV) (17.21 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (18.85 KB - PDF)
+
+**First published:** 29/09/2017 **Last updated:** 12/02/2024
+
+[View](/is/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (16.62 KB - PDF)
+
+**First published:** 29/09/2017 **Last updated:** 12/02/2024
+
+[View](/no/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Tecentriq
-
-Active substance
-
-atezolizumab
-
-International non-proprietary name (INN) or common name
-
-atezolizumab
-
-Therapeutic area (MeSH)
-
-- Carcinoma, Transitional Cell
-- Carcinoma, Non-Small-Cell Lung
-- Urologic Neoplasms
-- Breast Neoplasms
-- Small Cell Lung Carcinoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XC32
+- **Name of medicine**
+    - Tecentriq
+- **Active substance**
+    - atezolizumab
+- **International non-proprietary name (INN) or common name**
+    - atezolizumab
+- **Therapeutic area (MeSH)**
+        - Carcinoma, Transitional Cell
+        - Carcinoma, Non-Small-Cell Lung
+        - Urologic Neoplasms
+        - Breast Neoplasms
+        - Small Cell Lung Carcinoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XC32
 
 ### Pharmacotherapeutic group
 
@@ -741,38 +656,43 @@ Antineoplastic agents
 - after prior platinum containing chemotherapy, or
 - who are considered cisplatin ineligible, and whose tumours have a PD-L1 expression ≥ 5% (see section 5.1).
 
-**Early-stage non-small cell lung cancer (NSCLC)** Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR mutant or ALK positive NSCLC (see section 5.1 for selection criteria). **Advanced NSCLC** Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous non small cell lung cancer (NSCLC). In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1). Tecentriq, in combination with nab paclitaxel and carboplatin, is indicated for the first line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK positive NSCLC (see section 5.1). Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumours have a PD-L1 expression ≥ 50% tumour cells (TC) or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1). Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with advanced NSCLC who are ineligible for platinum-based therapy (see section 5.1 for selection criteria). Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior chemotherapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1). **Small cell lung cancer (SCLC)** Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1). **Triple-negative breast cancer (TNBC)** Tecentriq in combination with nab-paclitaxel is indicated for the treatment of adult patients with unresectable locally advanced or metastatic TNBC whose tumours have PD-L1 expression ≥ 1% and who have not received prior chemotherapy for metastatic disease. **Hepatocellular carcinoma** Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have not received prior systemic therapy (see section 5.1).
+**Early-stage non-small cell lung cancer (NSCLC)** Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR mutant or ALK positive NSCLC (see section 5.1 for selection criteria). **Advanced NSCLC** Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous non small cell lung cancer (NSCLC). In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1).
+
+Tecentriq, in combination with nab paclitaxel and carboplatin, is indicated for the first line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumours have a PD-L1 expression ≥ 50% tumour cells (TC) or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with advanced NSCLC who are ineligible for platinum-based therapy (see section 5.1 for selection criteria).
+
+Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior chemotherapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1). **Small cell lung cancer (SCLC)** Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1). **Triple-negative breast cancer (TNBC)** Tecentriq in combination with nab-paclitaxel is indicated for the treatment of adult patients with unresectable locally advanced or metastatic TNBC whose tumours have PD-L1 expression ≥ 1% and who have not received prior chemotherapy for metastatic disease. **Hepatocellular carcinoma** Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have not received prior systemic therapy (see section 5.1).
 
 **Urothelial carcinoma (UC)** Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic UC:
 
 - after prior platinum containing chemotherapy, or
 - who are considered cisplatin ineligible, and whose tumours have a PD-L1 expression ≥ 5% (see section 5.1).
 
-**Early-stage non-small cell lung cancer (NSCLC)** Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR mutant or ALK positive NSCLC (see section 5.1 for selection criteria). **Advanced NSCLC** Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC. In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1). Tecentriq, in combination with nab paclitaxel and carboplatin, is indicated for the first line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK positive NSCLC (see section 5.1). Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumours have a PD-L1 expression ≥ 50% TC or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1). Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with advanced NSCLC who are ineligible for platinum-based therapy (see section 5.1 for selection criteria). Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior chemotherapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1). **Small cell lung cancer (SCLC)** Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1). **Triple-negative breast cancer (TNBC)** Tecentriq in combination with nab-paclitaxel is indicated for the treatment of adult patients with unresectable locally advanced or metastatic TNBC whose tumours have PD-L1 expression ≥ 1% and who have not received prior chemotherapy for metastatic disease. **Hepatocellular carcinoma (HCC)** Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable HCC who have not received prior systemic therapy (see section 5.1).
+**Early-stage non-small cell lung cancer (NSCLC)** Tecentriq as monotherapy is indicated as adjuvant treatment following complete resection and platinum-based chemotherapy for adult patients with NSCLC with a high risk of recurrence whose tumours have PD-L1 expression on ≥ 50% of tumour cells (TC) and who do not have EGFR mutant or ALK positive NSCLC (see section 5.1 for selection criteria). **Advanced NSCLC** Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC. In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1).
+
+Tecentriq, in combination with nab paclitaxel and carboplatin, is indicated for the first line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumours have a PD-L1 expression ≥ 50% TC or ≥ 10% tumour-infiltrating immune cells (IC) and who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1).
+
+Tecentriq as monotherapy is indicated for the first-line treatment of adult patients with advanced NSCLC who are ineligible for platinum-based therapy (see section 5.1 for selection criteria).
+
+Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior chemotherapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving Tecentriq (see section 5.1). **Small cell lung cancer (SCLC)** Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1). **Triple-negative breast cancer (TNBC)** Tecentriq in combination with nab-paclitaxel is indicated for the treatment of adult patients with unresectable locally advanced or metastatic TNBC whose tumours have PD-L1 expression ≥ 1% and who have not received prior chemotherapy for metastatic disease. **Hepatocellular carcinoma (HCC)** Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable HCC who have not received prior systemic therapy (see section 5.1).
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004143
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted
-
-19/07/2017
-
-Marketing authorisation issued
-
-20/09/2017
-
-Revision
-
-38
+- **EMA product number**
+    - EMEA/H/C/004143
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Opinion adopted**
+    - 19/07/2017
+- **Marketing authorisation issued**
+    - 20/09/2017
+- **Revision**
+    - 38
 
 ## Assessment history
 
@@ -780,7 +700,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tecentriq : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -797,6 +717,16 @@ English (EN) (410.01 KB - PDF)
 **First published:** 25/01/2018 **Last updated:** 17/06/2025
 
 [View](/en/documents/procedural-steps-after/tecentriq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Tecentriq-PAM-0000327007 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-2944627
+
+English (EN) (774.8 KB - PDF)
+
+**First published:** 22/06/2026
+
+[View](/en/documents/variation-report/tecentriq-pam-0000327007-epar-assessment-report_en.pdf)
 
 Tecentriq-PSUSA-00010644-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -866,7 +796,7 @@ English (EN) (101.82 KB - PDF)
 
 **First published:** 07/03/2023
 
-[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202205-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202205-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tecentriq-H-C-H004143-II-0064 : EPAR - Assessment report - Variation
 
@@ -896,7 +826,7 @@ English (EN) (157.56 KB - PDF)
 
 **First published:** 14/03/2022
 
-[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202105-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202105-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tecentriq-H-C-004143-II-0033 : EPAR - Assessment report - Variation
 
@@ -946,7 +876,7 @@ English (EN) (89.75 KB - PDF)
 
 **First published:** 02/09/2020
 
-[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202005-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-202005-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tecentriq : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan (II-35)
 
@@ -996,7 +926,7 @@ English (EN) (115.34 KB - PDF)
 
 **First published:** 23/10/2019
 
-[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-201811-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tecentriq-h-c-psusa-00010644-201811-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Tecentriq - II/0019
 
@@ -1048,7 +978,7 @@ English (EN) (251.91 KB - PDF)
 
 [View](/en/documents/variation-report/tecentriq-h-c-004143-ii-0010-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tecentriq : EPAR - Public assessment report
 
@@ -1152,7 +1082,7 @@ English (EN) (1.69 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-91)
+[Other languages (24)](#file-language-dropdown-238)
 
 български (BG) (2.07 MB - DOCX)
 
@@ -1184,7 +1114,7 @@ Deutsch (DE) (3.05 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.51 MB - DOCX)
+eesti (ET) (1.51 MB - DOCX)
 
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
@@ -1208,25 +1138,19 @@ hrvatski (HR) (2.11 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.79 MB - DOCX)
-
-**First published:** 06/08/2025 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.34 MB - DOCX)
 
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.95 MB - DOCX)
+latviešu (LV) (1.95 MB - DOCX)
 
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.5 MB - DOCX)
+lietuvių (LT) (2.5 MB - DOCX)
 
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
@@ -1249,12 +1173,6 @@ Nederlands (NL) (1.63 MB - DOCX)
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.83 MB - DOCX)
-
-**First published:** 06/08/2025 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2 MB - DOCX)
 
@@ -1286,7 +1204,7 @@ slovenščina (SL) (1.49 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.15 MB - DOCX)
+suomi (FI) (1.15 MB - DOCX)
 
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
@@ -1297,6 +1215,18 @@ svenska (SV) (1.59 MB - DOCX)
 **First published:** 06/08/2025 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.79 MB - DOCX)
+
+**First published:** 06/08/2025 **Last updated:** 28/04/2026
+
+[View](/is/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.83 MB - DOCX)
+
+**First published:** 06/08/2025 **Last updated:** 28/04/2026
+
+[View](/no/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Tecentriq
 
@@ -1310,12 +1240,8 @@ svenska (SV) (1.59 MB - DOCX)
 - [Tecentriq - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/tecentriq-2)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-28/04/2026
+22/06/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-16 12:20:00
+document_datetime: 2026-07-01 16:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eydenzelt.html
 document_name: eydenzelt.html
 version: success
-processing_time: 0.1487146
-conversion_datetime: 2026-06-21 09:35:57.572369
+processing_time: 0.1317472
+conversion_datetime: 2026-07-04 13:09:33.781794
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.103.0
-  docling-core: 2.82.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Eydenzelt
 
@@ -52,7 +52,7 @@ Eydenzelt a is a medicine used to treat adults with:
 - impaired vision due to macular oedema caused by diabetes;
 - impaired vision due to myopic choroidal neovascularisation (a severe type of short-sightedness where the eyeball continues to grow, becoming longer than it should be).
 
-Eydenzelt contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Eydenzelt is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Eydenzelt is Eylea. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Eydenzelt contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Eydenzelt is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Eydenzelt is Eylea.
 
 Expand section
 
@@ -118,7 +118,7 @@ English (EN) (146.95 KB - PDF)
 
 [View](/en/documents/overview/eydenzelt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-469)
+[Other languages (22)](#file-language-dropdown-959)
 
 български (BG) (172 KB - PDF)
 
@@ -264,161 +264,161 @@ English (EN) (1.32 MB - PDF)
 
 Eydenzelt : EPAR - Product information
 
-English (EN) (1.96 MB - PDF)
+English (EN) (2.02 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/eydenzelt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-60)
+[Other languages (24)](#file-language-dropdown-524)
 
 български (BG) (1.84 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/eydenzelt-epar-product-information_bg.pdf)
 
 español (ES) (1.54 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/eydenzelt-epar-product-information_es.pdf)
 
 čeština (CS) (1.58 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/eydenzelt-epar-product-information_cs.pdf)
 
 dansk (DA) (1.32 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/eydenzelt-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.73 MB - PDF)
+Deutsch (DE) (1.72 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/eydenzelt-epar-product-information_de.pdf)
 
 eesti (ET) (1.56 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/eydenzelt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.66 MB - PDF)
+ελληνικά (EL) (1.64 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/eydenzelt-epar-product-information_el.pdf)
 
 français (FR) (1.62 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/eydenzelt-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.45 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/eydenzelt-epar-product-information_hr.pdf)
 
 italiano (IT) (1.39 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/eydenzelt-epar-product-information_it.pdf)
 
 latviešu (LV) (1.78 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/eydenzelt-epar-product-information_lv.pdf)
 
 lietuvių (LT) (1.82 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/eydenzelt-epar-product-information_lt.pdf)
 
 magyar (HU) (1.85 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/eydenzelt-epar-product-information_hu.pdf)
 
-Malti (MT) (1.97 MB - PDF)
+Malti (MT) (1.98 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/eydenzelt-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.57 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/eydenzelt-epar-product-information_nl.pdf)
 
-polski (PL) (1.75 MB - PDF)
+polski (PL) (1.76 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/eydenzelt-epar-product-information_pl.pdf)
 
-português (PT) (1.81 MB - PDF)
+português (PT) (1.82 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/eydenzelt-epar-product-information_pt.pdf)
 
 română (RO) (2.09 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/eydenzelt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.57 MB - PDF)
+slovenčina (SK) (1.59 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/eydenzelt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.48 MB - PDF)
+slovenščina (SL) (1.49 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/eydenzelt-epar-product-information_sl.pdf)
 
-suomi (FI) (1.78 MB - PDF)
+suomi (FI) (1.79 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/eydenzelt-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (1.39 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/eydenzelt-epar-product-information_sv.pdf)
 
 Íslenska (IS) (1.39 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/is/documents/product-information/eydenzelt-epar-product-information_is.pdf)
 
 norsk (NO) (1.34 MB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 16/06/2026
+**First published:** 27/03/2025 **Last updated:** 01/07/2026
 
 [View](/no/documents/product-information/eydenzelt-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000348371
+**Latest procedure affecting product information:** VR/0000350035
 
-16/06/2026
+26/06/2026
 
 icon globe
 
@@ -443,7 +443,7 @@ English (EN) (14.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eydenzelt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-28)
+[Other languages (24)](#file-language-dropdown-869)
 
 български (BG) (38.33 KB - PDF)
 
@@ -634,7 +634,7 @@ Eydenzelt is indicated for adults for the treatment of:
 - **Marketing authorisation issued**
     - 12/02/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -646,9 +646,9 @@ Collapse section
 
 Eydenzelt : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (206.74 KB - PDF)
+English (EN) (236.97 KB - PDF)
 
-**First published:** 16/05/2025 **Last updated:** 16/06/2026
+**First published:** 16/05/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/procedural-steps-after/eydenzelt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -682,6 +682,6 @@ English (EN) (169.74 KB - PDF)
 
 **This page was last updated on**
 
-16/06/2026
+01/07/2026
 
 ## Share this page

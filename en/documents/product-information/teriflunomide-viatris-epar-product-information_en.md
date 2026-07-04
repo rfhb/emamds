@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-05-29 14:40:42
+document_datetime: 2026-07-01 12:11:40
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teriflunomide-viatris-epar-product-information_en.pdf
 document_name: teriflunomide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 19.176455
-conversion_datetime: 2026-06-01 17:09:09.164635
+processing_time: 18.1321108
+conversion_datetime: 2026-07-04 14:36:46.43713
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -63,8 +61,7 @@ In adults, the recommended dose of teriflunomide is 14 mg once daily.
 In paediatric patients (10 years of age and above), the recommended dose is dependent on body weight:
 
 - -Paediatric patients with body weight &gt; 40 kg: 14 mg once daily.
-
--Paediatric patients with body weight ≤ 40 kg: 7 mg once daily.
+- -Paediatric patients with body weight ≤ 40 kg: 7 mg once daily.
 
 Paediatric patients who reach a stable body weight above 40 kg should be switched to 14 mg once daily.
 
@@ -124,8 +121,8 @@ Patients with severe hypoproteinaemia, e.g. in nephrotic syndrome.
 
 Before starting treatment with teriflunomide the following should be assessed:
 
-- Blood pressure
 - Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT)
+- Blood pressure
 
 <div style=\"page-break-after: always\"></div>
 
@@ -135,8 +132,8 @@ Before starting treatment with teriflunomide the following should be assessed:
 
 During treatment with teriflunomide the following should be monitored:
 
-- Blood pressure
 - o Check periodically
+- Blood pressure
 - Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT)
 - o Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment, and regularly thereafter.
 - o Consider additional monitoring when Teriflunomide Viatris is given in patients with preexisting liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine. Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
@@ -187,7 +184,9 @@ Interstitial lung disease (ILD) as well as cases of pulmonary hypertension have 
 
 The risk might be increased in patients with a history of ILD.
 
-ILD may occur acutely at any time during therapy with a variable clinical presentation. ILD may be fatal. New onset or worsening pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for discontinuation of the therapy and for further investigation, as appropriate. If discontinuation of the medicinal product is necessary, initiation of an accelerated elimination procedure should be considered.
+ILD may occur acutely at any time during therapy with a variable clinical presentation.
+
+ILD may be fatal. New onset or worsening pulmonary symptoms, such as persistent cough and dyspnoea, may be a reason for discontinuation of the therapy and for further investigation, as appropriate. If discontinuation of the medicinal product is necessary, initiation of an accelerated elimination procedure should be considered.
 
 ## Haematological effects
 
@@ -231,7 +230,7 @@ Due to the long half-life of natalizumab, concomitant exposure, and thus concomi
 
 Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2-month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod. Starting teriflunomide during this interval will result in concomitant exposure to fingolimod. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
 
-In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg. If a decision is made to stop treatment with teriflunomide, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to teriflunomide. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
+In MS patients, the median t 1/2z was approximately 19 days after repeated doses of 14 mg. If a decision is made to stop treatment with teriflunomide, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to teriflunomide. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
 
 ## Interference with determination of ionised calcium levels
 
@@ -277,7 +276,9 @@ It is recommended that patients receiving teriflunomide are not treated with cho
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . Therefore, medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, should be used with caution during treatment with teriflunomide.
 
-Effect of teriflunomide on oral contraceptives: 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide. While this interaction of teriflunomide is not expected to adversely impact the efficacy of oral contraceptives, it should be considered when selecting or adjusting oral contraceptive treatment used in combination with teriflunomide.
+## Effect of teriflunomide on oral contraceptives: 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel
+
+There was an increase in mean ethinylestradiol C max and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide. While this interaction of teriflunomide is not expected to adversely impact the efficacy of oral contraceptives, it should be considered when selecting or adjusting oral contraceptive treatment used in combination with teriflunomide.
 
 ## Effect of teriflunomide on CYP1A2 substrate: caffeine
 
@@ -311,9 +312,7 @@ Teriflunomide may cause serious birth defects when administered during pregnancy
 
 Women of childbearing potential have to use effective contraception during treatment and after treatment as long as teriflunomide plasma concentration is above 0.02 mg/l. During this period women should discuss any plans to stop or change contraception with the treating physician. Female children and/or parents/caregivers of female children should be informed about the need to contact the treating physician once the female child under teriflunomide treatment experiences menses. Counselling should be provided to the new patients of child-bearing potential about contraception and the potential risk to the foetus. Referral to a gynaecologist should be considered.
 
-The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must discontinue teriflunomide and notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure described below, at the first delay of menses, may decrease the risk to the foetus.
-
-For women receiving teriflunomide treatment, who wish to become pregnant, the medicinal product should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below).
+The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must discontinue teriflunomide and notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure described below, at the first delay of menses, may decrease the risk to the foetus. For women receiving teriflunomide treatment, who wish to become pregnant, the medicinal product should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below).
 
 If an accelerated elimination procedure is not used, teriflunomide plasma levels can be expected to be above 0.02 mg/l for an average of 8 months, however, in some patients it may take up to 2 years to reach plasma concentration below 0.02 mg/l. Therefore, teriflunomide plasma concentrations should be measured before a woman begins to attempt to become pregnant. Once the teriflunomide plasma concentration is determined to be below 0.02 mg/l, the plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/l, no risk to the foetus is to be expected.
 
@@ -323,8 +322,8 @@ For further information on the sample testing please contact the Marketing Autho
 
 After stopping treatment with teriflunomide:
 
-- cholestyramine 8 g is administered 3 times daily for a period of 11 days, or cholestyramine 4 g three times a day can be used, if cholestyramine 8 g three times a day is not well tolerated
 - alternatively, 50 g of activated powdered charcoal is administered every 12 hours for a period of 11 days.
+- cholestyramine 8 g is administered 3 times daily for a period of 11 days, or cholestyramine 4 g three times a day can be used, if cholestyramine 8 g three times a day is not well tolerated
 
 However, also following either of the accelerated elimination procedures, verification by 2 separate tests at an interval of at least 14 days and a waiting period of one-and-a-half months between the first occurrence of a plasma concentration below 0.02 mg/l and fertilisation is required.
 
@@ -356,7 +355,7 @@ Teriflunomide is the main metabolite of leflunomide. The safety profile of leflu
 
 Teriflunomide was evaluated in a total of 2,267 patients exposed to teriflunomide (1,155 on teriflunomide 7 mg and 1,112 on teriflunomide 14 mg) once daily for a median duration of about 672 days in four placebo-controlled studies (1,045 and 1,002 patients for teriflunomide 7 mg and 14 mg, respectively) and one active comparator study (110 patients in each of the teriflunomide treatment groups) in adult patients with relapsing forms of MS (Relapsing Multiple Sclerosis, RMS).
 
-Listed below are the adverse reactions reported with teriflunomide in placebo-controlled studies, reported for teriflunomide 7 mg or 14 mg from clinical studies in adult patients. Frequencies were defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
+Listed below are the adverse reactions reported with teriflunomide in placebo-controlled studies, reported for teriflunomide 7 mg or 14 mg from clinical studies in adult patients. Frequencies were defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
 
 | System organ class          | Very common   | Common                                        | Uncommon                             | Rare   | Very rare   | Not known   |
 |-----------------------------|---------------|-----------------------------------------------|--------------------------------------|--------|-------------|-------------|
@@ -461,13 +460,13 @@ The observed safety profile in paediatric patients (from 10 to 17 years-old) rec
 
 The following adverse reactions were more frequently reported in the paediatric population than in the adult
 
-population:
+## population:
 
-- Alopecia was reported in 22.0% of patients treated with teriflunomide versus 12.3% in patients treated with placebo.
 - Infections were reported in 66.1% of patients treated with teriflunomide versus 45.6% in patients treated with placebo. Among them, nasopharyngitis and upper respiratory tract infections were more frequently reported with teriflunomide.
+- Alopecia was reported in 22.0% of patients treated with teriflunomide versus 12.3% in patients treated with placebo.
 - CPK increase was reported in 5.5% of patients treated with teriflunomide versus 0% in patients treated with placebo. The majority of the cases were associated with documented physical exercise.
-- Paraesthesia was reported in 11.0% of patients treated with teriflunomide versus 1.8% in patients treated with placebo.
 - Abdominal pain was reported in 11.0% of patients treated with teriflunomide versus 1.8% in patients treated with placebo.
+- Paraesthesia was reported in 11.0% of patients treated with teriflunomide versus 1.8% in patients treated with placebo.
 
 ## Reporting of suspected adverse reactions
 
@@ -541,10 +540,10 @@ Table 1 - Main results (for the approved dose, ITT population)
 | 6-month Sustained Disability Progression week 108 | 13.8%                     | 18.7%                     | 11.7%                     | 11.9%                     |
 | Hazard ratio (CI 95% )                            | 0.75 (0.50, 1.11)         | 0.75 (0.50, 1.11)         | 0.84 (0.53, 1.33)         | 0.84 (0.53, 1.33)         |
 | MRI endpoints                                     |                           |                           |                           |                           |
-| Change in BOD week 108 (1)                        | 0.72                      | 2.21                      |                           |                           |
+| Change in BOD week 108 (1)                        | 0.72                      | 2.21                      | Not measured              |                           |
 | Change relative to placebo                        | 67% ***                   | 67% ***                   |                           |                           |
 | Mean Number of Gd-enhancing lesions at week 108   | 0.38                      | 1.18                      |                           |                           |
-| Change relative to placebo (CI 95% )              | -0.80 (-1.20, -0.39) **** | -0.80 (-1.20, -0.39) **** | Not measured              |                           |
+| Change relative to placebo (CI 95% )              | -0.80 (-1.20, -0.39) **** | -0.80 (-1.20, -0.39) **** |                           |                           |
 | Number of unique active lesions/scan              | 0.75                      | 2.46                      |                           |                           |
 | Change relative to placebo (CI 95% )              | 69%, (59%, 77%) ****      | 69%, (59%, 77%) ****      |                           |                           |
 
@@ -552,7 +551,7 @@ Table 1 - Main results (for the approved dose, ITT population)
 
 (1) BOD: burden of disease: total lesion volume (T2 and T1 hypointense) in ml
 
-Efficacy in patients with high disease activity:
+## Efficacy in patients with high disease activity:
 
 A consistent treatment effect on relapses and time to 3-month sustained disability progression in a subgroup of patients in TEMSO (n= 127) with high disease activity was observed. Due to the design of the study, high disease activity was defined as 2 or more relapses in one year, and with one or more Gdenhancing lesion on brain MRI. No similar subgroup analysis was performed in TOWER as no MRI data were obtained.
 
@@ -560,7 +559,7 @@ No data are available in patients who have failed to respond to a full and adequ
 
 TOPIC was a double-blind, placebo-controlled study that evaluated once daily doses of teriflunomide 7 mg and 14 mg for up to 108 weeks in patients with first clinical demyelinating event (mean age 32.1 years). The primary endpoint was time to a second clinical episode (relapse). A total of 618 patients were randomised to receive 7 mg (n=205) or 14 mg (n=216) of teriflunomide or placebo (n=197). The risk of a second clinical attack over 2 years was 35.9% in the placebo group and 24.0% in the teriflunomide 14 mg treatment group (hazard ratio: 0.57, 95% confidence interval: 0.38 to 0.87, p=0.0087). The results from the TOPIC study confirmed the efficacy of teriflunomide in RRMS (including early RRMS with first clinical demyelinating event and MRI lesions disseminated in time and space).
 
-Teriflunomide effectiveness was compared to that of a subcutaneous interferon beta-1a (at the recommended dose of 44 μg three times a week) in 324 randomised patients in a study (TENERE) with minimum treatment duration of 48 weeks (maximum 114 weeks). The risk of failure (confirmed relapse or permanent treatment discontinuation whichever came first) was the primary endpoint. The number of patients with permanent treatment discontinuation in the teriflunomide 14 mg group was 22 out of 111 (19.8%), the reasons being adverse events (10.8%), lack of efficacy (3.6%), other reason (4.5%) and lost to follow-up (0.9%). The number of patients with permanent treatment discontinuation in the subcutaneous interferon beta-1a group was 30 out of 104 (28 .8%), the reasons being adverse events (21.2%), lack of efficacy (1.9%), other reason (4.8%) and poor compliance to protocol (1%). Teriflunomide 14 mg/day was not superior to interferon beta-1a on the primary endpoint: the estimated percentage of patients with treatment failure at 96 weeks using the Kaplan-Meier method was 41.1% versus 44.4% (teriflunomide 14 mg versus interferon beta-1a group, p=0.595).
+Teriflunomide effectiveness was compared to that of a subcutaneous interferon beta-1a (at the recommended dose of 44 μ g three times a week) in 324 randomised patients in a study (TENERE) with minimum treatment duration of 48 weeks (maximum 114 weeks). The risk of failure (confirmed relapse or permanent treatment discontinuation whichever came first) was the primary endpoint. The number of patients with permanent treatment discontinuation in the teriflunomide 14 mg group was 22 out of 111 (19.8%), the reasons being adverse events (10.8%), lack of efficacy (3.6%), other reason (4.5%) and lost to follow-up (0.9%). The number of patients with permanent treatment discontinuation in the subcutaneous interferon beta-1a group was 30 out of 104 (28 .8%), the reasons being adverse events (21.2%), lack of efficacy (1.9%), other reason (4.8%) and poor compliance to protocol (1%). Teriflunomide 14 mg/day was not superior to interferon beta-1a on the primary endpoint: the estimated percentage of patients with treatment failure at 96 weeks using the Kaplan-Meier method was 41.1% versus 44.4% (teriflunomide 14 mg versus interferon beta-1a group, p=0.595).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -586,15 +585,15 @@ Table 2 -  Clinical and MRI results of EFC11759/TERIKIDS
 
 <div style=\"page-break-after: always\"></div>
 
-| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 Probability (95%CI) of confirmed relapse or high MRI activity at Week 48   | 0.51 (0.41, 0.60) 0.38 (0.29, 0.47)                                                                                                                               | 0.72 (0.58, 0.82) 0.56 (0.42, 0.68)                                                                                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hazard Ratio (95% CI)                                                                                                                                                                                              | 0.57 (0.37, 0.87)*                                                                                                                                                | 0.57 (0.37, 0.87)*                                                                                                                                                |
-| Key MRI endpoints                                                                                                                                                                                                  |                                                                                                                                                                   |                                                                                                                                                                   |
-| Adjusted number of new or enlarged T2 lesions, Estimate (95% CI) Estimate (95% CI), post-hoc analysis also adjusted for baseline T2 counts                                                                         | 4.74 (2.12, 10.57) 3.57 (1.97, 6.46)                                                                                                                              | 10.52 (4.71, 23.50) 5.37 (2.84, 10.16)                                                                                                                            |
-| Relative risk (95% CI) Relative risk (95% CI) , post-hoc analysis also adjusted for baseline T2 counts                                                                                                             | 0.45 (0.29, 0.71) ** 0.67 (0.45, 0.99)*                                                                                                                           | 0.45 (0.29, 0.71) ** 0.67 (0.45, 0.99)*                                                                                                                           |
-| Adjusted number of T1 Gd-enhancing lesions, Estimate (95% CI)                                                                                                                                                      | 1.90 (0.66, 5.49)                                                                                                                                                 | 7.51 (2.48, 22.70)                                                                                                                                                |
-| Relative risk (95% CI)                                                                                                                                                                                             | 0.25 (0.13, 0.51)***                                                                                                                                              | 0.25 (0.13, 0.51)***                                                                                                                                              |
-| ^p≥0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT).                                                  | ^p≥0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT). | ^p≥0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT). |
+| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 Probability (95%CI) of confirmed relapse or high MRI activity at Week 48   | 0.51 (0.41, 0.60) 0.38 (0.29, 0.47)                                                                                                                                 | 0.72 (0.58, 0.82) 0.56 (0.42, 0.68)                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hazard Ratio (95% CI)                                                                                                                                                                                              | 0.57 (0.37, 0.87)*                                                                                                                                                  | 0.57 (0.37, 0.87)*                                                                                                                                                  |
+| Key MRI endpoints                                                                                                                                                                                                  |                                                                                                                                                                     |                                                                                                                                                                     |
+| Adjusted number of new or enlarged T2 lesions, Estimate (95% CI) Estimate (95% CI), post-hoc analysis also adjusted for baseline T2 counts                                                                         | 4.74 (2.12, 10.57) 3.57 (1.97, 6.46)                                                                                                                                | 10.52 (4.71, 23.50) 5.37 (2.84, 10.16)                                                                                                                              |
+| Relative risk (95% CI) Relative risk (95% CI) , post-hoc analysis also adjusted for baseline T2 counts                                                                                                             | 0.45 (0.29, 0.71) ** 0.67 (0.45, 0.99)*                                                                                                                             | 0.45 (0.29, 0.71) ** 0.67 (0.45, 0.99)*                                                                                                                             |
+| Adjusted number of T1 Gd-enhancing lesions, Estimate (95% CI)                                                                                                                                                      | 1.90 (0.66, 5.49)                                                                                                                                                   | 7.51 (2.48, 22.70)                                                                                                                                                  |
+| Relative risk (95% CI)                                                                                                                                                                                             | 0.25 (0.13, 0.51)***                                                                                                                                                | 0.25 (0.13, 0.51)***                                                                                                                                                |
+| ^p ≥ 0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT).                                                | ^p ≥ 0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT). | ^p ≥ 0.05 compared to placebo, * p<0.05, ** p<0.001, *** p<0.0001 Probability was based on Kaplan-Meier estimator and Week 96 was the end of study treatment (EOT). |
 
 The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing teriflunomide in children from birth to less than 10 years in treatment of multiple sclerosis (see section 4.2 for information on paediatric use).
 
@@ -634,7 +633,7 @@ Systemic exposure increases in a dose proportional manner after oral administrat
 
 ## Gender and elderly
 
-Several sources of intrinsic variability were identified in healthy subjects and MS patients based on the PopPK analysis: age, body weight, gender, race, and albumin and bilirubin levels. Nevertheless, their impact remains limited (≤ 31%).
+Several sources of intrinsic variability were identified in healthy subjects and MS patients based on the PopPK analysis: age, body weight, gender, race, and albumin and bilirubin levels. Nevertheless, their impact remains limited ( ≤ 31%).
 
 ## Hepatic impairment
 
@@ -646,11 +645,9 @@ Severe renal impairment had no impact on the pharmacokinetic of teriflunomide. T
 
 ## Paediatric population
 
-In paediatric patients with body weight &gt; 40 kg treated with 14 mg once daily, steady state exposures were
+In paediatric patients with body weight &gt; 40 kg treated with 14 mg once daily, steady state exposures were in the range observed in adult patients treated with the same dosing regimen. In paediatric patients with body weight ≤ 40 kg treatment with 7 mg once daily (based on limited clinical
 
-in the range observed in adult patients treated with the same dosing regimen.
-
-In paediatric patients with body weight ≤ 40 kg treatment with 7 mg once daily (based on limited clinical data and simulations) led to steady state exposures in the range observed in adult patients treated with 14 mg once daily.
+data and simulations) led to steady state exposures in the range observed in adult patients treated with 14 mg once daily.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -755,7 +752,7 @@ Name and address of the manufacturer responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1 Komárom H-2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352 Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352 Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -775,8 +772,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 ## · Additional risk minimisation measures
 
@@ -787,32 +784,32 @@ The MAH shall ensure that, following discussion and agreement with the National 
 <div style=\"page-break-after: always\"></div>
 
 - Summary of Product Characteristics (SmPC)
-- HCP guide
 - Patient Card
+- HCP guide
 
 The HCP Guide will include the following key elements:
 
 1. HCPs should discuss with their patients the specific safety concerns of teriflunomide detailed below including the tests and precautions needed for safe use at first prescription, and regularly during treatment as follows:
-- Risk of hepatic effects
 - Liver function tests are needed prior to the start of treatment and periodically during treatment.
+- Risk of hepatic effects
 - To educate the patient about the signs and symptoms of liver disease and the need to report to their HCP if they experience any of them.
-- Potential risk of teratogenicity
 - To remind women of child-bearing potential (WOCP) including adolescents/their parents-caregivers that teriflunomide is contraindicated in pregnant women and in WOCP not using an effective contraception during and after treatment.
+- Potential risk of teratogenicity
 - To assess regularly the potential for pregnancy in female patients including patients below 18 years old.
-- To tell female children and/or parents/caregivers of female children about the need to contact the prescribing physician once the female child under teriflunomide treatment experiences menses. Counselling should be provided to the new patients of child-bearing potential about contraception and the potential risk to the foetus.
 - To check pregnancy status before starting treatment.
+- To tell female children and/or parents/caregivers of female children about the need to contact the prescribing physician once the female child under teriflunomide treatment experiences menses. Counselling should be provided to the new patients of child-bearing potential about contraception and the potential risk to the foetus.
 - To educate female patients of child-bearing potential on the need for effective contraception during and after treatment with teriflunomide.
-- To remind patients to inform their doctor immediately if they stop contraception, or prior to changing contraceptive measures.
 - If female patients become pregnant despite using contraceptive measures, they should stop teriflunomide and contact their doctor immediately who should:
+- To remind patients to inform their doctor immediately if they stop contraception, or prior to changing contraceptive measures.
 - Consider and discuss with the patient the accelerated elimination procedure,
-- Report any pregnancy case to &lt;marketing authorisation holder&gt; by calling &lt;local number&gt; or visiting &lt;URL&gt;, irrespective of adverse outcomes observed.
 - Risk of hypertension
+- Report any pregnancy case to &lt;marketing authorisation holder&gt; by calling &lt;local number&gt; or visiting &lt;URL&gt;, irrespective of adverse outcomes observed.
 - To check for a history of hypertension and that blood pressure should be appropriately managed during treatment.
-- The need for blood pressure checks before treatment and periodically during treatment.
 - Risk of haematologic effects
+- The need for blood pressure checks before treatment and periodically during treatment.
 - To discuss the risk of decreased blood cell counts (affecting mainly white blood cells) and the need for complete blood cell counts before treatment and periodically during treatment based on signs and symptoms.
-- Risk of infections/serious infections
 - To discuss the need to contact the doctor in the event of signs/symptoms of infection, or if the patient takes other medicines that affect the immune system. If serious infection occurs, consider the accelerated elimination procedure.
+- Risk of infections/serious infections
 2. A reminder to provide patients/legal representative with a Patient Card, including filling-in their contact details, and to provide replacement Patient Cards as necessary.
 3. A reminder to discuss the Patient Card content with the patient/legal representative regularly at each consultation at least annually during treatment.
 4. To encourage patients to contact their MS physician and/or General Practitioner if they experience any of the signs and symptoms discussed in the Patient Card.
@@ -824,23 +821,23 @@ The HCP Guide will include the following key elements:
 The Patient Card is aligned with labelling information and includes the following key elements:
 
 1. A reminder for both patients and all HCPs involved in their treatment that the patient is being treated with teriflunomide, a medicine which:
-- Should not be used in pregnant women.
 - Requires concomitant use of effective contraception in women of child-bearing potential.
+- Should not be used in pregnant women.
 - Requires a pregnancy status check before treatment.
-- Affects liver function.
 - Affects blood cell counts and the immune system.
+- Affects liver function.
 2. Information to educate the patient about important side effects:
-- To pay attention to certain signs and symptoms which might indicate liver disease, or infection, and if any of these occur, to contact their doctor/HCP promptly.
 - To remind female patients to tell their doctor if breast-feeding.
+- To pay attention to certain signs and symptoms which might indicate liver disease, or infection, and if any of these occur, to contact their doctor/HCP promptly.
 - A reminder for women of child-bearing potential including girls and their parents/ caregivers:
-- to use effective contraception during and after treatment with teriflunomide.
 - that your doctor will provide counselling on the potential risks to the foetus and on the need for effective contraception.
+- to use effective contraception during and after treatment with teriflunomide.
 - to stop treatment with teriflunomide immediately if they suspect they might be pregnant and also to contact their doctor immediately.
-- If women of child-bearing potential become pregnant:
 - To remind both patients and HCPs about the accelerated elimination procedure.
+- If women of child-bearing potential become pregnant:
 - To remind patients to show the Patient Card to Doctors/HCPs involved with their medical care (especially in the event of medical emergencies and/or if new Doctors/HCPs are involved).
-- To record the first date of prescription and the contact details of their prescriber.
 3. To encourage the patients to read the PIL thoroughly.
+- To record the first date of prescription and the contact details of their prescriber.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -915,17 +912,17 @@ EXP
 
 Store below 25 ° C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAMEAND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|---------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN,
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/22/1698/001  Blister (alu/OPA/PVC/alu)  28 tablets EU/1/22/1698/002  Blister (alu/OPA/PVC/alu)  84 tablets EU/1/22/1698/003  Blister (alu/OPA/PVC/alu)  28 x 1 tablets (unit dose) EU/1/22/1698/004  Blister (alu/OPA/PVC/alu)  84 x 1 tablets (unit dose) EU/1/22/1698/005  Blister (alu/OPA/PVC/alu)  98 x 1 tablets (unit dose) EU/1/22/1698/008  Blister (alu/OPA/PVC/alu)  14 tablets EU/1/22/1698/009  Blister (alu/OPA/PVC/alu)  14 x 1 tablets (unit dose) EU/1/22/1698/010  Blister Calendar (alu/OPA/PVC/alu)  14 tablets EU/1/22/1698/011  Blister Calendar (alu/OPA/PVC/alu)  28 tablets EU/1/22/1698/012  Blister Calendar (alu/OPA/PVC/alu)  84 tablets EU/1/22/1698/013  Blister Calendar (alu/OPA/PVC/alu)  98 tablets
 
@@ -946,23 +943,21 @@ Teriflunomide Viatris 14 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
-
-32
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER AND IMMEDIATE PACKAGING
 
-## BOTTLE (WITH OR WITHOUT CARTON)
+BOTTLE (WITH OR WITHOUT CARTON)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -980,7 +975,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 84 tablets
 
@@ -1005,8 +1000,6 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 <div style=\"page-break-after: always\"></div>
-
-Store below 25 ° C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1054,15 +1047,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1073,7 +1066,7 @@ NN
 | 5.   | OTHER   |
 |------|---------|
 
-MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTERS
 
@@ -1081,43 +1074,35 @@ BLISTERS
 
 Teriflunomide Viatris 14 mg film-coated tablets teriflunomide
 
-2.
-
-NAME OF THE MARKETING AUTHORISATION HOLDER
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
-3.
-
-EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-4.
-
-BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
-5.
-
-OTHER
+## 5. OTHER
 
 Oral use
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER (CALENDAR PACK)                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER (CALENDAR PACK)                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Teriflunomide Viatris 14 mg film-coated tablets teriflunomide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Viatris Limited
 
@@ -1158,16 +1143,13 @@ Sun.
 
 ## Package leaflet: Information for the patient
 
-## Teriflunomide Viatris 14 mg film-coated tablets
-
-teriflunomide
+## Teriflunomide Viatris 14 mg film-coated tablets teriflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -
-- -
+- -Keep this leaflet. You may need to read it again.
 
-Keep this leaflet. You may need to read it again.
+-
 
 If you have any further questions, ask your doctor or pharmacist.
 
@@ -1199,8 +1181,8 @@ MS is a long-term illness that affects the central nervous system (CNS). The CNS
 
 People with relapsing form of multiple sclerosis will have repeated attacks (relapses) of physical symptoms caused by their nerves not working properly. These symptoms vary from patient to patient but usually involve:
 
-- difficulty walking
 - vision problems
+- difficulty walking
 - balance problems.
 
 Symptoms may disappear completely after the relapse is over, but over time, some problems may remain between relapses. This can cause physical disabilities that may interfere with your daily activities.
@@ -1307,8 +1289,8 @@ If you suspect that you are pregnant while taking Teriflunomide Viatris or in th
 
 You must use an effective method of contraception during and after treatment with Teriflunomide Viatris. Teriflunomide remains in your blood for a long time after you stop taking it. Continue to use effective contraception after you stop treatment.
 
-- Do this until the levels of Teriflunomide Viatris in your blood are low enough - your doctor will check this.
 - Talk with your doctor about the best method of contraception for you and any potential need for contraception change.
+- Do this until the levels of Teriflunomide Viatris in your blood are low enough - your doctor will check this.
 
 Do not take Teriflunomide Viatris when you are breast-feeding, as teriflunomide passes into the breast milk.
 
@@ -1382,33 +1364,34 @@ Some side effects could be or could become serious, if you experience any of the
 Common (may affect up to 1 in 10 people)
 
 - -Inflammation of the pancreas which might include symptoms of pain in the abdominal area, nausea, or vomiting (the frequency is common in paediatric patients and uncommon in adult patients).
+- -Herpes virus infections, including oral herpes and herpes zoster (shingles) with symptoms such as blisters, burning, itching, numbness or pain of the skin, typically on one side of the upper body or face, and other symptoms, like fever and weakness
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - -Allergic reactions which might include symptoms of rash, hives, swelling of lips, tongue or face or sudden difficulty breathing.
 - -Severe skin reactions which might include symptoms of skin rash, blistering, fever or ulcers in your mouth.
 - -Severe infections or sepsis (a potentially life-threatening type of infection) which might include symptoms of high fever, shaking, chills, reduced urine flow, or confusion.
 - -Inflammation of the lungs which might include symptoms of shortness of breath or persistent cough.
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - -Serious liver disease which might include symptoms of yellowing of your skin or the whites of your eyes, darker urine than normal, unexplained nausea and vomiting, or abdominal pain.
 
-## Other side effects can occur with the following frequencies:
+Other side effects can occur with the following frequencies:
 
 Very common (may affect more than 1 in 10 people)
 
 - -Headache
 - -Diarrhoea, feeling sick
-- -Increase in ALT (increase in blood levels of certain hepatic enzymes) shown in tests
-- -Hair thinning.
 
 <div style=\"page-break-after: always\"></div>
+
+- -Increase in ALT (increase in blood levels of certain hepatic enzymes) shown in tests
+- -Hair thinning.
 
 ## Common (may affect up to 1 in 10 people)
 
 - -Influenza, upper respiratory tract infection, urinary tract infection, bronchitis, sinusitis, sore throat and discomfort when swallowing, cystitis, gastroenteritis viral, tooth infection, laryngitis, fungal infection of the foot
-- -Herpes virus infections, including oral herpes and herpes zoster (shingles) with symptoms such as blisters, burning, itching, numbness or pain of the skin, typically on one side of the upper body or face, and other symptoms, like fever and weakness
 - -Laboratory values: a decrease in the number of red blood cells (anaemia), changes in liver and white blood cell test results (see section 2), as well as elevations in a muscle enzyme (creatine phosphokinase) have been observed
 - -Mild allergic reactions
 - -Feeling anxious
@@ -1488,15 +1471,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN,
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland
 
 ## Manufacturer
 
 Mylan Hungary Kft Mylan utca 1 Komárom H-2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352
+Viatris Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1512,11 +1493,15 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис
 
-Тел: +359 2 44 55 400
+ЕООД
 
-## Česká republika
+Тел
+
+.: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1544,7 +1529,9 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ :  +30 2100 100 002
+Τηλ
+
+:  +30 2100 100 002
 
 ## España
 
@@ -1596,7 +1583,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 Viatris Healthcare Kft.
 
-Tel: + 36 1 465 2100
+Tel.: + 36 1 465 2100
 
 ## Malta
 
@@ -1658,32 +1645,32 @@ Viatris Italia S.r.l.
 
 Tel: + 39 (0) 2 612 46921
 
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ:
+Τηλ
 
-+357 22863100
+: +357 22863100
 
-Sverige Viatris AB
-
-Tel: + 46 (0)8 630 19 00
-
-Latvija
+## Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+Sverige Viatris AB
+
+Tel: + 46 (0)8 630 19 00

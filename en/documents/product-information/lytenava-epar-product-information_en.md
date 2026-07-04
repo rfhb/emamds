@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-09 17:38:38
+document_datetime: 2026-06-29 13:41:41
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lytenava-epar-product-information_en.pdf
 document_name: lytenava-epar-product-information_en.pdf
 version: success
-processing_time: 5.5493196
-conversion_datetime: 2026-02-13 18:24:20.056401
+processing_time: 7.2102387
+conversion_datetime: 2026-07-04 14:53:19.566857
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -415,7 +415,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-FUJIFILM Diosynth Biotechnologies Texas, LLC 3939 Biomedical Way College Station, Texas (TX) 77845 United States (USA)
+FUJIFILM Diosynth Biotechnologies Texas, LLC 3939 Fujifilm Way College Station, Texas (TX) 77845 United States (USA)
 
 Name and address of the manufacturer responsible for batch release
 
@@ -481,7 +481,9 @@ The patient information pack consists of the patient information leaflet and a p
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lytenava 25 mg/mL solution for injection bevacizumab gamma
+Lytenava 25 mg/mL solution for injection
+
+bevacizumab gamma
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -594,7 +596,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Lytenava 25 mg/mL solution for injection bevacizumab gamma
+## Lytenava 25 mg/mL solution for injection
+
+## bevacizumab gamma
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-29 15:04:56
-document_pages: 53
+document_datetime: 2026-06-30 12:02:51
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xgeva-epar-product-information_en.pdf
 document_name: xgeva-epar-product-information_en.pdf
 version: success
-processing_time: 14.3675353
-conversion_datetime: 2025-12-22 14:15:19.518125
+processing_time: 19.890277
+conversion_datetime: 2026-07-04 14:33:08.86247
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,9 +32,15 @@ Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL). Each pr
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
-## Excipient with known effects
+## Excipients with known effects
 
-Each 1.7 mL of solution contains 78 mg sorbitol (E420). Each 1.0 mL of solution contains 37 mg sorbitol (E420) and 6.1 mg L-phenylalanine.
+Each 1.7 mL of solution contains 78 mg sorbitol (E420).
+
+Each 1.0 mL of solution contains 37 mg sorbitol (E420) and 6.1 mg L-phenylalanine.
+
+Each 1.7 mL of solution contains 0.17 mg of polysorbate 20.
+
+Each 1.0 mL of solution contains 0.1 mg of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -64,9 +70,9 @@ Supplementation of at least 500 mg calcium and 400 IU vitamin D daily is require
 
 Patients treated with XGEVA should be given the package leaflet and the patient reminder card.
 
-Prevention of skeletal related events in adults with advanced malignancies involving bone The recommended dose is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm.
-
 <div style=\"page-break-after: always\"></div>
+
+Prevention of skeletal related events in adults with advanced malignancies involving bone The recommended dose is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm.
 
 ## Giant cell tumour of bone
 
@@ -112,11 +118,11 @@ The administration using the 120 mg/1.0 mL pre-filled syringe can be administere
 
 For instructions for use, handling and disposal see section 6.6.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 Severe, untreated hypocalcaemia (see section 4.4).
 
@@ -196,6 +202,8 @@ This medicinal product contains sorbitol. The additive effect of concomitantly a
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
 
+This medicinal product contains 0.17 mg of polysorbate 20 in each 1.7 mL vial solution. This medicinal product contains 0.1 mg of polysorbate 20 in each 1.0 mL PFS solution. Polysorbates may cause allergic reactions.
+
 ## Patients with Phenylketonuria (PKU)
 
 The XGEVA 120 mg/1.7 mL solution in a single use vial does not contain phenylalanine. Patients with PKU should be administered XGEVA from the single use vial containing 120 mg in 1.7 mL solution.
@@ -244,36 +252,29 @@ The following convention has been used for the classification of the adverse rea
 
 Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
-| MedDRA system organ class                                                | Frequency category   | Adverse reactions                                                                               |
-|--------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | New primary malignancy 1                                                                        |
-| Immune system disorders                                                  | Rare                 | Drug hypersensitivity 1                                                                         |
-| Immune system disorders                                                  | Rare                 | Anaphylactic reaction 1                                                                         |
-| Metabolism and nutrition disorders                                       | Very common          | Hypocalcaemia 1, 2                                                                              |
-| Metabolism and nutrition disorders                                       | Common               | Hypophosphataemia                                                                               |
-| Metabolism and nutrition disorders                                       | Uncommon             | Hypercalcaemia following treatment discontinuation in patients with giant cell tumour of bone 3 |
-| Respiratory, thoracic and mediastinal disorders                          | Very common          | Dyspnoea                                                                                        |
+| MedDRA system organ class                                                | Frequency category   | Adverse reactions        |
+|--------------------------------------------------------------------------|----------------------|--------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | New primary malignancy 1 |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                       | Frequency category   | Adverse reactions                                |
-|-------------------------------------------------|----------------------|--------------------------------------------------|
-| Gastrointestinal disorders                      | Very common          | Diarrhoea                                        |
-| Gastrointestinal disorders                      | Common               | Tooth extraction                                 |
-| Skin and subcutaneous tissue disorders          | Common               | Hyperhidrosis                                    |
-| Skin and subcutaneous tissue disorders          | Uncommon             | Lichenoid drug eruptions 1                       |
-| Musculoskeletal and connective tissue disorders | Very common          | Musculoskeletal pain 1                           |
-| Musculoskeletal and connective tissue disorders | Common               | Osteonecrosis of the jaw 1                       |
-| Musculoskeletal and connective tissue disorders | Uncommon             | Atypical femoral fracture 1                      |
-| Musculoskeletal and connective tissue disorders | Not known            | Osteonecrosis of the external auditory canal 3,4 |
-
-1  See section Description of selected adverse reactions
-
-2  See section Other special populations
-
-3 See section 4.4
-
-4 Class effect
+| MedDRA system organ class                            | Frequency category   | Adverse reactions                                                                               |
+|------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Rare                 | Drug hypersensitivity 1                                                                         |
+| Immune system disorders                              | Rare                 | Anaphylactic reaction 1                                                                         |
+| Metabolism and nutrition disorders                   | Very common          | Hypocalcaemia 1, 2                                                                              |
+| Metabolism and nutrition disorders                   | Common               | Hypophosphataemia                                                                               |
+| Metabolism and nutrition disorders                   | Uncommon             | Hypercalcaemia following treatment discontinuation in patients with giant cell tumour of bone 3 |
+| Respiratory, thoracic and mediastinal disorders      | Very common          | Dyspnoea                                                                                        |
+| Gastrointestinal disorders                           | Very common          | Diarrhoea                                                                                       |
+| Gastrointestinal disorders                           | Common               | Tooth extraction                                                                                |
+| Skin and subcutaneous tissue disorders               | Common               | Hyperhidrosis                                                                                   |
+| Skin and subcutaneous tissue disorders               | Uncommon             | Lichenoid drug eruptions 1                                                                      |
+| Musculoskeletal and connective tissue disorders      | Very common          | Musculoskeletal pain 1                                                                          |
+| Musculoskeletal and connective tissue disorders      | Common               | Osteonecrosis of the jaw 1                                                                      |
+| Musculoskeletal and connective tissue disorders      | Uncommon             | Atypical femoral fracture 1                                                                     |
+| Musculoskeletal and connective tissue disorders      | Not known            | Osteonecrosis of the external auditory canal 3,4                                                |
+| General disorders and administration site conditions | Uncommon             | Injection site reactions 5                                                                      |
 
 ## Description of selected adverse reactions
 
@@ -282,6 +283,8 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 A higher incidence of hypocalcaemia among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials.
 
 The highest incidence of hypocalcaemia was observed in a phase III trial in patients with multiple myeloma. Hypocalcaemia was reported in 16.9% of patients treated with XGEVA and 12.4% of patients treated with zoledronic acid. A grade 3 decrease in serum calcium levels was experienced in 1.4% of patients treated with XGEVA and 0.6% of patients treated with zoledronic acid. A grade 4 decrease in serum calcium levels was experienced in 0.4% of patients treated with XGEVA and 0.1% of patients treated with zoledronic acid.
+
+<div style=\"page-break-after: always\"></div>
 
 In three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, hypocalcaemia was reported in 9.6% of patients treated with XGEVA and 5.0% of patients treated with zoledronic acid.
 
@@ -295,11 +298,7 @@ In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal
 
 In clinical trials, the incidence of ONJ was higher with longer duration of exposure; ONJ has also been diagnosed after stopping treatment with XGEVA with the majority of cases occurring within 5 months after the last dose. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure were excluded from the clinical trials.
 
-A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with XGEVA (median exposure of 19.4 months; range 1 -
-
-<div style=\"page-break-after: always\"></div>
-
-52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the XGEVA group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
+A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with XGEVA (median exposure of 19.4 months; range 1 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the XGEVA group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
 
 In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with XGEVA (median exposure of 12.0 months; range: 0.1 -40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
 
@@ -308,6 +307,8 @@ The trials in patients with breast or prostate cancer included an XGEVA extensio
 The patient-year adjusted overall incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.7 in the second year and 4.6 thereafter. The median time to ONJ was 20.6 months (range: 4 - 53).
 
 A non-randomised, retrospective, observational study in 2,877 patients with cancer treated with XGEVA or zoledronic acid in Sweden, Denmark, and Norway showed that 5-year incidence proportions of medically confirmed ONJ were 5.7% (95% CI: 4.4, 7.3; median follow-up time of 20 months [range 0.2 - 60]) in a cohort of patients receiving XGEVA and 1.4% (95% CI: 0.8, 2.3; median follow-up time of 13 months [range 0.1 - 60]) in a separate cohort of patients receiving zoledronic acid. Five-year incidence proportion of ONJ in patients switching from zoledronic acid to XGEVA was 6.6% (95% CI: 4.2, 10.0; median follow-up time of 13 months [range 0.2 - 60]).
+
+<div style=\"page-break-after: always\"></div>
 
 In a phase III trial in patients with non-metastatic prostate cancer (a patient population for which XGEVA is not indicated), with longer treatment exposure of up to 7 years, the patient-year adjusted incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.0 in the second year, and 7.1 thereafter.
 
@@ -323,11 +324,7 @@ In the post-marketing setting, events of hypersensitivity, including rare events
 
 In the clinical trial programme overall, atypical femoral fractures have been reported uncommonly in patients treated with XGEVA and the risk increased with longer duration of treatment. Events have occurred during treatment and up to 9 months after treatment was discontinued (see section 4.4).
 
-In the clinical trial programme for GCTB, atypical femoral fractures have been reported commonly in patients treated with XGEVA. In study 6, incidence of confirmed AFF was 0.95% (5/526) in patients
-
-<div style=\"page-break-after: always\"></div>
-
-with giant cell tumour of bone. In the follow up study 7, the incidence of confirmed AFF was 3.9% (2/51) of patients exposed to denosumab.
+In the clinical trial programme for GCTB, atypical femoral fractures have been reported commonly in patients treated with XGEVA. In study 6, incidence of confirmed AFF was 0.95% (5/526) in patients with giant cell tumour of bone. In the follow up study 7, the incidence of confirmed AFF was 3.9% (2/51) of patients exposed to denosumab.
 
 ## Musculoskeletal pain
 
@@ -347,6 +344,8 @@ In patients with giant cell tumour of bone, incidence of new malignancy, includi
 
 Lichenoid drug eruptions (e.g. lichen planus-like reactions), have been reported in patients in the post-marketing setting.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 XGEVA was studied in an open-label trial that enrolled 28 skeletally mature adolescents with giant cell tumour of bone. Based on these limited data, the adverse event profile appeared to be similar to adults.
@@ -360,8 +359,6 @@ Clinically significant hypercalcaemia after treatment discontinuation has been r
 In a clinical study of patients without advanced cancer with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis, there was a greater risk of developing hypocalcaemia in the absence of calcium supplementation. The risk of developing hypocalcaemia during XGEVA treatment is greater with increasing degree of renal impairment. In a clinical study in patients without advanced cancer, 19% of patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) and 63% of patients receiving dialysis developed hypocalcaemia despite calcium supplementation. The overall incidence of clinically significant hypocalcaemia was 9%.
 
 Accompanying increases in parathyroid hormone have also been observed in patients receiving XGEVA with severe renal impairment or receiving dialysis. Monitoring of calcium levels and adequate intake of calcium and vitamin D is especially important in patients with renal impairment (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -381,6 +378,8 @@ Pharmacotherapeutic group: Drugs for treatment of bone diseases -other drugs aff
 
 RANKL exists as a transmembrane or soluble protein. RANKL is essential for the formation, function and survival of osteoclasts, the sole cell type responsible for bone resorption. Increased osteoclast activity, stimulated by RANKL, is a key mediator of bone destruction in metastatic bone disease and multiple myeloma. Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing the RANKL/RANK interaction from occurring and resulting in reduced osteoclast numbers and function, thereby decreasing bone resorption and cancer-induced bone destruction.
 
+<div style=\"page-break-after: always\"></div>
+
 Giant cell tumours of bone are characterised by neoplastic stromal cells expressing RANK ligand and osteoclast-like giant cells expressing RANK. In patients with giant cell tumour of bone, denosumab binds to RANK ligand, significantly reducing or eliminating osteoclast-like giant cells. Consequently, osteolysis is reduced and proliferative tumour stroma is replaced with non-proliferative, differentiated, densely woven new bone.
 
 ## Pharmacodynamic effects
@@ -393,23 +392,26 @@ In clinical studies, neutralising antibodies have not been observed for denosuma
 
 ## Clinical efficacy and safety in patients with bone metastases from solid tumours
 
-Efficacy and safety of 120 mg XGEVA SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind,
-
-<div style=\"page-break-after: always\"></div>
-
-active-controlled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of XGEVA to zoledronic acid, patients were offered open-label XGEVA in a pre-specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
+Efficacy and safety of 120 mg XGEVA SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of XGEVA to zoledronic acid, patients were offered open-label XGEVA in a pre-specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 XGEVA reduced the risk of developing a SRE, and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
 Table 2. Efficacy results in patients with advanced malignancies involving bone
 
+|                                    | Study 1 breast cancer   | Study 1 breast cancer   | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
+|------------------------------------|-------------------------|-------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
+|                                    | XGEVA                   | zoledronic acid         | XGEVA                                               | zoledronic acid                                     | XGEVA                     | zoledronic acid           | XGEVA                      | zoledronic acid            |
+| N                                  | 1,026                   | 1,020                   | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
+| First SRE                          |                         |                         |                                                     |                                                     |                           |                           |                            |                            |
+| Median time (months)               | NR                      | 26.4                    | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
+| Difference in median time (months) | NA                      | NA                      | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                        | Study 1 breast cancer     | Study 1 breast cancer     | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
 |----------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
 |                                        | XGEVA                     | zoledronic acid           | XGEVA                                               | zoledronic acid                                     | XGEVA                     | zoledronic acid           | XGEVA                      | zoledronic acid            |
 | N                                      | 1,026                     | 1,020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
-| First SRE                              |                           |                           |                                                     |                                                     |                           |                           |                            |                            |
-| Median time (months)                   | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
-| Difference in median time (months)     | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
 | HR (95% CI) / RRR (%)                  | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
 | Non-inferiority / Superiority p-values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †                                 | 0.0007 † / 0.0619 †                                 | 0.0002 † / 0.0085 †       | 0.0002 † / 0.0085 †       | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
 | Proportion of patients (%)             | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
@@ -427,17 +429,25 @@ Table 2. Efficacy results in patients with advanced malignancies involving bone
 | HR (95% CI) / RRR (%)                  | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
 | Superiority p-value                    | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
 
-<div style=\"page-break-after: always\"></div>
-
 NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1. Kaplan-Meier plots of time to first on-study SRE
 
 <!-- image -->
 
-Disease progression and overall survival with bone metastases from solid tumours
+Dmab = Denosumab 120 mg Q4W
+
+ZA = Zoledronic Acid 4 mg Q4W
+
+N = Number of subjects randomised
+
+* = Statistically significant for superiority; ** = Statistically significant for non-inferiority
+
+## Disease progression and overall survival with bone metastases from solid tumours
 
 Disease progression was similar between XGEVA and zoledronic acid in all three studies and in the pre-specified analysis of all three studies combined.
 
@@ -447,13 +457,13 @@ In studies 1, 2 and 3, overall survival was balanced between XGEVA and zoledroni
 
 The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for XGEVA compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy in patients with multiple myeloma
 
 XGEVA was evaluated in an international, randomised (1:1), double-blind, active-controlled study comparing XGEVA with zoledronic acid in patients with newly diagnosed multiple myeloma, study 4.
 
 In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg XGEVA subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
+
+<div style=\"page-break-after: always\"></div>
 
 Across both study arms, 54.5% of patients intended to undergo autologous PBSC transplantation, 95.8% patients utilised/planned to utilise a novel anti-myeloma agent (novel therapies include bortezomib, lenalidomide, or thalidomide) in first-line therapy, and 60.7% of patients had a previous SRE. The number of patients across both study arms with ISS stage I, stage II, and stage III at diagnosis were 32.4%, 38.2%, and 29.3%, respectively.
 
@@ -474,23 +484,23 @@ Table 3. Efficacy results for XGEVA compared to zoledronic acid in patients with
 | First SRE                           |                   |                             |
 | Number of patients who had SREs (%) | 376 (43.8)        | 383 (44.6)                  |
 | Median time to SRE (months)         | 22.8 (14.7, NE)   | 23.98 (16.56, 33.31)        |
+| Hazard ratio (95% CI)               | 0.98 (0.85, 1.14) | 0.98 (0.85, 1.14)           |
+| First and subsequent SRE            |                   |                             |
+| Mean number of events/patient       | 0.66              | 0.66                        |
+| Rate ratio (95% CI)                 | 1.01 (0.89, 1.15) | 1.01 (0.89, 1.15)           |
+| Skeletal morbidity rate per year    | 0.61              | 0.62                        |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                  | XGEVA (N = 859)   | Zoledronic Acid (N = 859)   |
-|----------------------------------|-------------------|-----------------------------|
-| Hazard ratio (95% CI)            | 0.98 (0.85, 1.14) | 0.98 (0.85, 1.14)           |
-| First and subsequent SRE         |                   |                             |
-| Mean number of events/patient    | 0.66              | 0.66                        |
-| Rate ratio (95% CI)              | 1.01 (0.89, 1.15) | 1.01 (0.89, 1.15)           |
-| Skeletal morbidity rate per year | 0.61              | 0.62                        |
-| First SRE orHCM                  |                   |                             |
-| Median time (months)             | 22.14 (14.26, NE) | 21.32 (13.86, 29.7)         |
-| Hazard ratio (95% CI)            | 0.98 (0.85, 1.12) | 0.98 (0.85, 1.12)           |
-| First radiation to bone          |                   |                             |
-| Hazard ratio (95% CI)            | 0.78 (0.53, 1.14) | 0.78 (0.53, 1.14)           |
-| Overall survival                 |                   |                             |
-| Hazard ratio (95% CI)            | 0.90 (0.70, 1.16) | 0.90 (0.70, 1.16)           |
+|                         | XGEVA (N = 859)   | Zoledronic Acid (N = 859)   |
+|-------------------------|-------------------|-----------------------------|
+| First SRE orHCM         |                   |                             |
+| Median time (months)    | 22.14 (14.26, NE) | 21.32 (13.86, 29.7)         |
+| Hazard ratio (95% CI)   | 0.98 (0.85, 1.12) | 0.98 (0.85, 1.12)           |
+| First radiation to bone |                   |                             |
+| Hazard ratio (95% CI)   | 0.78 (0.53, 1.14) | 0.78 (0.53, 1.14)           |
+| Overall survival        |                   |                             |
+| Hazard ratio (95% CI)   | 0.90 (0.70, 1.16) | 0.90 (0.70, 1.16)           |
 
 NE = not estimable
 
@@ -504,13 +514,11 @@ Study 5 enrolled 37 adult patients with histologically confirmed unresectable or
 
 Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
 
-In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with XGEVA had not undergone surgery by month 6. Of the 239 patients in cohort 2 with baseline target lesion location
-
-<div style=\"page-break-after: always\"></div>
-
-or on-study location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
+In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with XGEVA had not undergone surgery by month 6. Of the 239 patients in cohort 2 with baseline target lesion location or on-study location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
 
 Study 7 enrolled 85 adult patients who were previously enrolled and completed study 6. Patients were allowed to receive denosumab treatment for GCTB, and all patients were followed for 5 years. The primary objective was to evaluate the long-term safety profile of denosumab in patients with giant cell tumour of the bone.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect on pain
 
@@ -536,11 +544,9 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 In patients with advanced cancer, who received multiple doses of 120 mg every 4 weeks an approximate 2-fold accumulation in serum denosumab concentrations was observed and steady-state was achieved by 6 months, consistent with time-independent pharmacokinetics. In patients with multiple myeloma who received 120 mg every 4 weeks, median trough levels varied by less than 8% between months 6 and 12. In patients with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, steady-state levels were achieved within the first month of treatment. Between weeks 9 and 49, median trough levels varied by less than 9%. In patients who discontinued 120 mg every 4 weeks, the mean half-life was 28 days (range 14 to 55 days).
 
-A population pharmacokinetic analysis did not indicate clinically significant changes in the systemic exposure of denosumab at steady-state with respect to age (18 to 87 years), race/ethnicity (Blacks, Hispanics, Asians and Caucasians explored), gender or solid tumour types or patients with multiple
+A population pharmacokinetic analysis did not indicate clinically significant changes in the systemic exposure of denosumab at steady-state with respect to age (18 to 87 years), race/ethnicity (Blacks, Hispanics, Asians and Caucasians explored), gender or solid tumour types or patients with multiple myeloma. Increasing body weight was associated with decreases in systemic exposure, and vice versa. The alterations were not considered clinically-relevant, since pharmacodynamic effects based on bone turnover markers were consistent across a wide range of body weight.
 
 <div style=\"page-break-after: always\"></div>
-
-myeloma. Increasing body weight was associated with decreases in systemic exposure, and vice versa. The alterations were not considered clinically-relevant, since pharmacodynamic effects based on bone turnover markers were consistent across a wide range of body weight.
 
 ## Linearity/non-linearity
 
@@ -590,13 +596,11 @@ In preclinical studies knockout mice lacking RANK or RANKL had an absence of lac
 
 ## 6.1 List of excipients
 
-Vial Acetic acid, glacial* Sorbitol (E420) Polysorbate 20 Water for injections
+Vial Acetic acid, glacial* Sorbitol (E420) Polysorbate 20
 
-Sodium hydroxide (for pH adjustment)* * Acetate buffer is formed by mixing acetic acid with sodium hydroxide
+Sodium hydroxide (for pH adjustment)* Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide Pre-filled syringe Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) LPhenylalanineǂ Polysorbate 20
 
 <div style=\"page-break-after: always\"></div>
-
-Pre-filled syringe Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) LPhenylalanineǂ Polysorbate 20
 
 Water for injections
 
@@ -758,7 +762,9 @@ VIAL CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-XGEVA 120 mg solution for injection denosumab
+XGEVA 120 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -882,7 +888,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-XGEVA 120 mg solution for injection in pre-filled syringe denosumab
+XGEVA 120 mg solution for injection in pre-filled syringe
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -918,8 +926,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -953,29 +959,35 @@ EU/1/11/703/006 4 single use pre-filled syringes with automatic needle guards.
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 XGEVA
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTERED PRE-FILLED SYRINGE                         |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-XGEVA 120 mg injection denosumab
+XGEVA 120 mg injection
+
+denosumab
 
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
@@ -1005,31 +1017,25 @@ SC
 |------------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 XGEVA 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1039,7 +1045,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## XGEVA 120 mg solution for injection denosumab
+## XGEVA 120 mg solution for injection
+
+## denosumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1154,15 +1162,17 @@ This medicine contains 78 mg sorbitol in each vial.
 
 This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
 
+## XGEVA contains polysorbate
+
+This medicine contains 0.17 mg of polysorbate 20 in each 1.7 mL vial solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to use XGEVA
 
 XGEVA should be administered under the responsibility of a healthcare professional.
 
-The recommended dose of XGEVA is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). XGEVA will be injected into your thigh, abdomen or upper arm. If you
-
-<div style=\"page-break-after: always\"></div>
-
-are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
+The recommended dose of XGEVA is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). XGEVA will be injected into your thigh, abdomen or upper arm. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 Do not shake.
 
@@ -1199,7 +1209,10 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
+
+<div style=\"page-break-after: always\"></div>
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
@@ -1208,8 +1221,6 @@ Rare side effects (may affect up to 1 in 1,000 people):
 Not known (frequency cannot be estimated from the available data):
 
 - Talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1242,6 +1253,8 @@ XGEVA is a clear, colourless to slightly yellow solution. It may contain trace a
 
 Each pack contains one, three or four single use vials. Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder and Manufacturer
 
 Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
@@ -1250,29 +1263,25 @@ Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
 Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Amgen Technology (Ireland) Unlimited Company
 
-Pottery Road
+Pottery Road Dun Laoghaire Co Dublin Ireland
 
-Dun Laoghaire
+Manufacturer Telecomlaan 5-7
 
-Co Dublin
-
-Ireland
-
-## Manufacturer
-
-Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
+Amgen NV 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
+
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 ## България
 
@@ -1282,13 +1291,29 @@ s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 359 (0)2 424 7440
 
+## Luxembourg/Luxemburg
+
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+
 ## Česká republika
 
-Amgen s.r.o. Tel: +420 221 773 500
+Amgen s.r.o.
+
+Tel: +420 221 773 500
+
+## Magyarország
+
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
 
 ## Danmark
 
 Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+
+## Malta
+
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Deutschland
 
@@ -1296,57 +1321,53 @@ Amgen GmbH
 
 Tel.: +49 89 1490960
 
-## Eesti
-
-Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
-
-## Ελλάδα
-
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ: +30 210 3447000
-
-## España
-
-Amgen S.A. Tel: +34 93 600 18 60
-
-## France
-
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
-
-## Lietuva
-
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
-
-## Luxembourg/Luxemburg
-
-s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
-
-## Magyarország
-
-Amgen Kft. Tel.: +36 1 35 44 700
-
-## Malta
-
-Amgen S.r.l. Italy Tel: +39 02 6241121
-
 ## Nederland
 
 Amgen B.V. Tel: +31 (0)76 5732500
 
+## Eesti
+
+Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
+
 ## Norge
 
-Amgen AB Tlf: +47 23308000
+Amgen AB
+
+Tlf: +47 23308000
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
 
 ## Österreich
 
-Amgen GmbH Tel: +43 (0)1 50 217
+Amgen
+
+Ελλάς Φαρμακευτικά Ε.Π.Ε.
+
+Τηλ: +30 210 3447000
+
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
+
+## España
+
+Amgen S.A.
+
+Tel: +34 93 600 18 60
 
 ## Polska
 
 Amgen Biotechnologia Sp. z o.o.
 
 Tel.: +48 22 581 3000
+
+## France
+
+Amgen S.A.S.
+
+Tél: +33 (0)9 69 363 363
 
 ## Portugal
 
@@ -1380,7 +1401,7 @@ Tel: +386 (0)1 585 1767
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
@@ -1419,8 +1440,6 @@ Tel: +46 (0)8 6951100
 Amgen Switzerland AG Rīgas filiāle
 
 Tel: +371 257 25888
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1558,13 +1577,17 @@ This medicine contains 37 mg sorbitol in each pre-filled syringe.
 
 This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
 
+## XGEVA contains polysorbate
+
+This medicine contains 0.1 mg of polysorbate 20 in each 1.0 mL PFS solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## XGEVA pre-filled syringe contains phenylalanine
 
 This medicine contains 6.1 mg of phenylalanine in each pre-filled syringe.
 
-Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
-
 <div style=\"page-break-after: always\"></div>
+
+Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
 ## 3. How to use XGEVA
 
@@ -1603,15 +1626,16 @@ Common side effects (may affect up to 1 in 10 people):
 - excessive sweating,
 - in patients with advanced cancer: development of another form of cancer.
 
+<div style=\"page-break-after: always\"></div>
+
 Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
-<div style=\"page-break-after: always\"></div>
-
-Rare side effects (may affect up to 1 in 1,000 people):
+## Rare side effects (may affect up to 1 in 1,000 people):
 
 - allergic reactions (e.g. wheezing or difficulty breathing; swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin). In rare cases allergic reactions may be severe.
 
@@ -1646,11 +1670,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 XGEVA is a solution for injection (injection).
 
+<div style=\"page-break-after: always\"></div>
+
 XGEVA is a clear, colourless to slightly yellow solution. It may contain trace amounts of translucent to white proteinaceous particles.
 
 Each pack contains one, three or four single use pre-filled syringes with needle guards. Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1662,19 +1686,19 @@ Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
 ## Manufacturer
 
-Amgen Technology (Ireland) Unlimited Company
+Amgen Technology (Ireland) Unlimited Company Pottery Road Dun Laoghaire Co Dublin Ireland
 
-Pottery Road Dun Laoghaire Co Dublin Ireland
+## Manufacturer
 
-Manufacturer Telecomlaan 5-7
-
-Amgen NV 1831 Diegem Belgium
+Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
+s.a. Amgen n.v.
+
+Tél/Tel: +32 (0)2 7752711
 
 ## Lietuva
 
@@ -1688,7 +1712,11 @@ Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
-s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+s.a. Amgen
+
+Belgique/Belgien
+
+Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
@@ -1708,7 +1736,11 @@ Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
 
 ## Malta
 
-Amgen S.r.l. Italy Tel: +39 02 6241121
+Amgen S.r.l.
+
+Italy
+
+Tel: +39 02 6241121
 
 ## Deutschland
 
@@ -1722,25 +1754,27 @@ Amgen B.V.
 
 Tel: +31 (0)76 5732500
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
-Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
-
 ## Norge
+
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +372 586 09553
 
 Amgen AB
 
 Tlf: +47 23308000
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
-
-## Österreich
 
 Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
 
 Τηλ: +30 210 3447000
+
+## Österreich
 
 Amgen GmbH
 
@@ -1796,7 +1830,7 @@ Tel: +386 (0)1 585 1767
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
@@ -1814,7 +1848,9 @@ Tel: +39 02 6241121
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland
 
 Puh/Tel: +358 (0)9 54900500
 
@@ -1942,7 +1978,7 @@ Important: Only remove the needle cap when you can inject right away (within 5 m
 
 <div style=\"page-break-after: always\"></div>
 
-- 4b Pinch the skin around the injection site before the injection.
+## 4b Pinch the skin around the injection site before the injection.
 
 ## PINCH
 

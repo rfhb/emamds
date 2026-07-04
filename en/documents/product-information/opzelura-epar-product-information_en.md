@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-15 15:41:13
+document_datetime: 2026-06-30 15:21:50
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opzelura-epar-product-information_en.pdf
 document_name: opzelura-epar-product-information_en.pdf
 version: success
-processing_time: 8.049037
-conversion_datetime: 2026-06-16 13:56:45.540861
+processing_time: 8.0257923
+conversion_datetime: 2026-07-04 14:50:09.13127
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.102.2
-  docling-core: 2.82.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -112,6 +112,10 @@ The cream is not for ophthalmic, oral, or intravaginal use (see section 4.2). In
 
 Non-melanoma skin cancers (NMSCs), predominantly basal cell carcinomas, have been reported in patients treated with topical ruxolitinib. Most of these patients had risk factors, such as prior phototherapy or prior NMSC. A causal relationship to topical ruxolitinib has not been established. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
+## Herpes zoster
+
+Cases of herpes zoster reactivation have been reported in patients treated with topical ruxolitinib. If a patient develops herpes zoster, temporary interruption of ruxolitinib cream therapy should be considered until the episode resolves.
+
 ## Excipients with known effect
 
 ## Propylene glycol
@@ -146,13 +150,13 @@ The use of ruxolitinib cream in combination with other topical medicinal product
 
 Other topical medicinal products used to treat other conditions on the same skin areas should be applied with a minimum of 2 hours after the application of ruxolitinib cream. This is also applicable to the use of sunscreen or emollients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Contraception in women of childbearing potential
 
 Women of childbearing potential have to use effective contraception during treatment and for 4 weeks after discontinuation of treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -180,17 +184,18 @@ The most common adverse reaction is application site acne (5.8%).
 
 Adverse reactions are ranked under headings of frequency, with the most frequent first, using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
-## Table 1: Adverse reactions
+<div style=\"page-break-after: always\"></div>
+
+Table 1: Adverse reactions
 
 | System Organ Class                                   | Frequency   | Adverse Reaction      |
 |------------------------------------------------------|-------------|-----------------------|
 | General disorders and administration site conditions | Common      | Application site acne |
+| Infections and infestations                          | Uncommon    | Herpes zoster         |
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -216,11 +221,11 @@ Two double-blind, randomised, vehicle-controlled studies of identical design (TR
 
 In both studies, patients were randomised 2:1 to treatment with ruxolitinib cream or vehicle twice daily for 24 weeks with affected BSA not exceeding 10%, followed by an additional 28 weeks of treatment with ruxolitinib cream BID for all patients. The primary efficacy endpoint was the proportion of patients achieving a 75% repigmentation in the facial Vitiligo Area Scoring Index (F-VASI75) at week 24. Key secondary endpoints included the proportions of patients achieving a 90% repigmentation in F-VASI (F-VASI90), 50% improvement in total body Vitiligo Area Scoring Index (T-VASI50), and a Vitiligo Noticeability Scale (VNS) score of 4 or 5 (vitiligo \"a lot less noticeable\" or \"no longer noticeable\").
 
+<div style=\"page-break-after: always\"></div>
+
 Repigmentation of treated vitiligo lesions and superiority of ruxolitinib cream over vehicle cream were observed for both studies, as demonstrated by statistically significant differences in response rates for F-VASI75/90, T-VASI50, and VNS score of 4 or 5 at week 24 (Table 2).
 
 The treatment effect difference from vehicle emerges numerically as early as week 12. Continued repigmentation as assessed by VASI and VNS scores was observed through week 52 for patients who had continuously applied ruxolitinib cream twice daily from baseline. The proportion of patients who achieved F-VASI75 over the 52-week treatment period in pooled data from study TRuE-V1 and TRuE-V2 are shown in Figure 1.
-
-<div style=\"page-break-after: always\"></div>
 
 Similar treatment responses at week 52 are seen for those who crossed over from vehicle to ruxolitinib (Figure 1).
 
@@ -245,7 +250,7 @@ Figure 1: Proportion of patients achieving F-VASI75 during the 52 week treatment
 
 <!-- image -->
 
-VehicleBID-1.5%BID:Patientsonvehicle twicedailyforthefirst24weekswhocrossedover toOpzehura twice dailyfor28weeks
+Vehicle BID-1.5% BID: Patients on vehicle twice daily for the first 24 weeks who crossed over to Opzelura twice daily for 28 weeks
 
 At week 52, the observed response rate for F-VASI90, T-VASI50 and VNS was 30.3%, 51.1%, and 36.3% respectively for the ITT pooled population.
 
@@ -261,11 +266,9 @@ Safety in the long-term extension study up to 104 weeks cumulatively was consist
 
 ## Paediatric population
 
-A total of 72 adolescents (12 to &lt; 18 years; n = 55 ruxolitinib cream, n = 17 vehicle) were included in the pivotal studies. Adolescents showed equal response rates in primary and key secondary endpoints at 24 weeks when treated with ruxolitinib, as compared to adults from 18-65 years of age.
+A total of 72 adolescents (12 to &lt; 18 years; n = 55 ruxolitinib cream, n = 17 vehicle) were included in the pivotal studies. Adolescents showed equal response rates in primary and key secondary endpoints at 24 weeks when treated with ruxolitinib, as compared to adults from 18-65 years of age. The European Medicines Agency has deferred the obligation to submit the results of studies with Opzelura in one or more subsets of the paediatric population for the treatment of vitiligo (see section 4.2 for information on paediatric use).
 
 <div style=\"page-break-after: always\"></div>
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with Opzelura in one or more subsets of the paediatric population for the treatment of vitiligo (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -717,8 +720,8 @@ Do not store above 30 ºC.
 
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1726/001 1 tube (100 g)
 
@@ -741,6 +744,8 @@ Lot
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -815,41 +820,35 @@ Lot
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| TUBE (printed tube or label, aluminium tube) (5 g)                 |
+TUBE (printed tube or label, aluminium tube) (5 g)
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Opzelura 15 mg/g cream ruxolitinib Cutaneous use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 5 g
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
 EU/1/23/1726/003
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -898,15 +897,17 @@ Talk to your doctor or pharmacist before using Opzelura.
 
 Opzelura is not for use on the lips, in the eyes, mouth or vagina. If cream accidentally gets into these areas, thoroughly wipe off and/or rinse off the cream with water.
 
+Talk to your doctor or pharmacist before and during treatment with Opzelura if you have ever had a herpes infection (shingles) because Opzelura may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
+
 ## Children under 12 years
 
 Do not give Opzelura to children younger than 12 years because it has not been studied in this age group.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and Opzelura
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
-
-<div style=\"page-break-after: always\"></div>
 
 Using Opzelura at the same time as other medicines on the affected skin is not recommended, as it has not been studied.
 
@@ -976,6 +977,10 @@ Common (may affect up to 1 in 10 people)
 
 - -acne at application site
 
+Uncommon (may affect up to 1 in 100 people)
+
+- -shingles (herpes zoster): symptoms can include a painful skin rash with blisters
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
@@ -992,16 +997,17 @@ Once the tube has been opened, use the cream within 6 months but not after the e
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Opzelura contains
 
-- -The active substance is ruxolitinib. One gram of cream contains 15 mg of ruxolitinib.
-- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain
+- -The active substance is ruxolitinib.
 
-<div style=\"page-break-after: always\"></div>
+One gram of cream contains 15 mg of ruxolitinib.
 
-triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
+- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
 
 See section 2 'Opzelura contains propylene glycol, cetyl alcohol, stearyl alcohol, methyl parahydroxybenzoate, propyl parahydroxybenzoate, butylated hydroxytoluene and polysorbate 20'.
 

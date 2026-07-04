@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-05-08 12:01:44
+document_datetime: 2026-07-01 09:50:25
 document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_en.pdf
 document_name: tenofovir-disoproxil-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 17.8271869
-conversion_datetime: 2026-05-10 12:04:22.278936
+processing_time: 25.3916872
+conversion_datetime: 2026-07-04 14:37:25.773247
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -108,7 +106,7 @@ Reduced doses of tenofovir disoproxil are used for treatment of HIV-1 infected p
 
 The safety and efficacy of tenofovir disoproxil in HIV-1 infected children under 2 years of age have not been established. No data are available.
 
-Chronic  hepatitis B: In adolescents aged  12  to &lt; 18 years and  weighing  ≥  35 kg,  the recommended dose of tenofovir disoproxil is 245 mg (one tablet) once daily, taken orally with food (see sections 4.8 and 5.1). The optimal duration of treatment is currently unknown.
+Chronic  hepatitis B: In adolescents  aged  12  to  &lt;  18 years  and  weighing ≥ 35 kg, the recommended dose of tenofovir disoproxil is 245 mg (one tablet) once daily, taken orally with food (see sections 4.8 and 5.1). The optimal duration of treatment is currently unknown.
 
 The safety and efficacy of tenofovir disoproxil in children with chronic hepatitis B aged 2 to &lt; 12 years or weighing &lt; 35 kg have not been established. No data are available.
 
@@ -314,7 +312,7 @@ Nucleos(t)ide analogues may impact mitochondrial function to a variable degree, 
 
 In HIV infected patients with severe immune deficiency at the time of institution of CART, an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia. Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+Autoimmune disorders (such as Grav es' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 ## Osteonecrosis
 
@@ -354,17 +352,17 @@ Given that tacrolimus can affect renal function, close monitoring is recommended
 
 ## Other interactions
 
-Interactions between tenofovir disoproxil and other medicinal products are listed in Table 1 below (increase is indicated as '↑', decrease as '↓', no change as '↔', twice daily as 'b.i.d.', and once daily as 'q.d.').
+Interactions between tenofovir disoproxil and other medicinal products are listed in Table 1 below (increase is indicated as '↑', dec rease as '↓', no chan ge as '↔', twice daily as 'b. i .d.', and once daily as 'q.d.' ).
 
 Table 1: Interactions between tenofovir disoproxil and other medicinal products
 
-| Medicinal product by therapeutic areas (dose in mg)   | Effects on drug levels Mean percent change in AUC,C max , C min                                                               | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                           |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANTI-INFECTIVES                                       | ANTI-INFECTIVES                                                                                                               | ANTI-INFECTIVES                                                                                                                                                                                                        |
-| Antiretrovirals                                       | Antiretrovirals                                                                                                               | Antiretrovirals                                                                                                                                                                                                        |
-| Protease inhibitors                                   | Protease inhibitors                                                                                                           | Protease inhibitors                                                                                                                                                                                                    |
-| Atazanavir/Ritonavir (300 q.d./100 q.d.)              | Atazanavir: AUC: ↓ 25% C max : ↓ 28% C min : ↓ 26% Tenofovir: AUC: ↑ 37% C max : ↑ 34% C min : ↑ 29%                          | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir- associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
-| Lopinavir/Ritonavir (400 b.i.d./100 b.i.d.)           | Lopinavir/ritonavir: No significant effect on lopinavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 32% C max :↔ C min : ↑ 51% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir- associated adverse events, including renal disorders. Renal function should be closely monitored (see               |
+| Medicinal product by therapeutic areas (dose in mg)   | Effects on drug levels Mean percent change in AUC,C max , C min                                                                | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTI-INFECTIVES                                       | ANTI-INFECTIVES                                                                                                                | ANTI-INFECTIVES                                                                                                                                                                                                        |
+| Antiretrovirals                                       | Antiretrovirals                                                                                                                | Antiretrovirals                                                                                                                                                                                                        |
+| Protease inhibitors                                   | Protease inhibitors                                                                                                            | Protease inhibitors                                                                                                                                                                                                    |
+| Atazanavir/Ritonavir (300 q.d./100 q.d.)              | Atazanavir: AUC: ↓ 25% C max : ↓ 28% C min : ↓ 26% Tenofovir: AUC: ↑ 37% C max : ↑ 34% C min : ↑ 29%                           | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir- associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Lopinavir/Ritonavir (400 b.i.d./100 b.i.d.)           | Lopinavir/ritonavir: No significant effect on lopinavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 32% C max : ↔ C min : ↑ 51% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir- associated adverse events, including renal disorders. Renal function should be closely monitored (see               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -373,70 +371,70 @@ Table 1: Interactions between tenofovir disoproxil and other medicinal products
 | NRTIs                                                 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Darunavir/Ritonavir (300/100 b.i.d.)                  | Darunavir: No significant effect on darunavir/ritonavir PK parameters. Tenofovir: AUC: ↑ 22% C min : ↑ 37%                | section 4.4). No dose adjustment is recommended. The increased exposure of tenofovir could potentiate tenofovir- associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Didanosine                                            | Co-administration of tenofovir disoproxil and didanosine results in a 40-60% increase in systemic exposure to didanosine. | Co-administration of tenofovir disoproxil and didanosine is not recommended (see section 4.4). Increased systemic exposure to didanosine may increase didanosine related adverse reactions. Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported. Co-administration of tenofovir disoproxil and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine. A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection. Tenofovir disoproxil |
-| Adefovir dipivoxil                                    | AUC:↔ C max :↔                                                                                                            | should not be administered concurrently with adefovir dipivoxil (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Entecavir                                             | AUC:↔ C max :↔                                                                                                            | No clinically significant pharmacokinetic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Adefovir dipivoxil                                    | AUC: ↔ C max : ↔                                                                                                          | should not be administered concurrently with adefovir dipivoxil (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Entecavir                                             | AUC: ↔ C max : ↔                                                                                                          | No clinically significant pharmacokinetic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                                                    | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                                  | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                        |                                                                                                                                                                                                                                                                                  | interactions when tenofovir disoproxil was co-administered with entecavir.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Hepatitis C virus antiviral agents                                                                                                                     | Hepatitis C virus antiviral agents                                                                                                                                                                                                                                               | Hepatitis C virus antiviral agents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) 1 | Ledipasvir: AUC: ↑ 96% C max : ↑ 68% C min : ↑ 118% Sofosbuvir: AUC:↔ C max :↔ GS-331007 2 : AUC:↔ C max :↔ C min : ↑ 42% Atazanavir: AUC:↔ C max :↔ C min : ↑ 63% Ritonavir: AUC:↔ C max :↔ C min : ↑ 45% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC:↔ C max : ↑ 47% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) 1  | Ledipasvir: AUC:↔ C max :↔ C min :↔ Sofosbuvir: AUC: ↓ 27% C max : ↓ 37% GS-331007 2 : AUC:↔ C max :↔ C min :↔                                                                                                                                                                   | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used                                                                                                                                                                                                                                                            |
+| Medicinal product by therapeutic areas (dose in mg)                                                                                                    | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                                              | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                        |                                                                                                                                                                                                                                                                                              | interactions when tenofovir disoproxil was co-administered with entecavir.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Hepatitis C virus antiviral agents                                                                                                                     | Hepatitis C virus antiviral agents                                                                                                                                                                                                                                                           | Hepatitis C virus antiviral agents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) 1 | Ledipasvir: AUC: ↑ 96% C max : ↑ 68% C min : ↑ 118% Sofosbuvir: AUC: ↔ C max : ↔ GS-331007 2 : AUC: ↔ C max : ↔ C min : ↑ 42% Atazanavir: AUC: ↔ C max : ↔ C min : ↑ 63% Ritonavir: AUC: ↔ C max : ↔ C min : ↑ 45% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↔ C max : ↑ 47% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) 1  | Ledipasvir: AUC: ↔ C max : ↔ C min : ↔ Sofosbuvir: AUC: ↓ 27% C max : ↓ 37% GS-331007 2 : AUC: ↔ C max : ↔ C min : ↔                                                                                                                                                                         | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                   | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                       | Darunavir: AUC:↔ C max :↔ C min :↔ Ritonavir: AUC:↔ C max :↔ C min : ↑ 48% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 50%                                                                                                                        | with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovi r disoproxil (600 mg/200 mg/245 mg q.d.) | C min : ↑ 59% Ledipasvir: AUC: ↓ 34% C max : ↓ 34% C min : ↓ 34% Sofosbuvir: AUC:↔ C max :↔ GS-331007 2 : AUC:↔ C max :↔ C min :↔ Efavirenz: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 98% C max : ↑ 79% C min : ↑ 163% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                  |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) +                                                                           | Ledipasvir: AUC:↔                                                                                                                                                                                                                                              | No dose adjustment is recommended. The increased exposure of                                                                                                                                                                                              |
+| Medicinal product by therapeutic areas (dose in mg)                                                                   | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                           | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                       | Darunavir: AUC: ↔ C max : ↔ C min : ↔ Ritonavir: AUC: ↔ C max : ↔ C min : ↑ 48% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 50%                                                                                                                           | with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section 4.4). |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Efavirenz/Emtricitabine/Tenofovi r disoproxil (600 mg/200 mg/245 mg q.d.) | C min : ↑ 59% Ledipasvir: AUC: ↓ 34% C max : ↓ 34% C min : ↓ 34% Sofosbuvir: AUC: ↔ C max : ↔ GS-331007 2 : AUC: ↔ C max : ↔ C min : ↔ Efavirenz: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 98% C max : ↑ 79% C min : ↑ 163% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                  |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) +                                                                           | Ledipasvir: AUC: ↔                                                                                                                                                                                                                                                        | No dose adjustment is recommended. The increased exposure of                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                             | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                               | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Emtricitabine/Rilpivirine/ Tenofovir disoproxil (200 mg/25 mg/245 mg q.d.)                                                      | C max :↔ C min :↔ Sofosbuvir: AUC:↔ C max :↔ GS-331007 2 : AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Rilpivirine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 40% C max :↔ | tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                                                              |
-| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Dolutegravir (50 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | C min : ↑ 91% Sofosbuvir: AUC:↔ C max :↔ GS 331007 2 AUC:↔ C max :↔ C min :↔ Ledipasvir: AUC:↔ C max :↔ C min :↔ Dolutegravir AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔           | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Medicinal product by therapeutic areas (dose in mg)                                                                             | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                             | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Emtricitabine/Rilpivirine/ Tenofovir disoproxil (200 mg/25 mg/245 mg q.d.)                                                      | C max : ↔ C min : ↔ Sofosbuvir: AUC: ↔ C max : ↔ GS-331007 2 : AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Rilpivirine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 40% C max : ↔ | tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                                                              |
+| Ledipasvir/Sofosbuvir (90 mg/400 mg q.d.) + Dolutegravir (50 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | C min : ↑ 91% Sofosbuvir: AUC: ↔ C max : ↔ GS 331007 2 AUC: ↔ C max : ↔ C min : ↔ Ledipasvir: AUC: ↔ C max : ↔ C min : ↔ Dolutegravir AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔            | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                                                    | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                                                  | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                        | Tenofovir: AUC: ↑ 65% C max : ↑ 61% C min : ↑ 115%                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC:↔ C max :↔ GS 331007 2 : AUC:↔ C max :↔ C min : ↑ 42% Velpatasvir: AUC: ↑ 142% C max : ↑ 55% C min : ↑ 301% Atazanavir: AUC:↔ C max :↔ C min : ↑ 39% Ritonavir: AUC:↔ C max :↔ C min : ↑ 29% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC:↔ C max : ↑ 55% C min : ↑ 39% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.)  | Sofosbuvir: AUC: ↓28% C max : ↓ 38% GS 331007 2 : AUC:↔ C max :↔ C min :↔ Velpatasvir: AUC:↔ C max : ↓ 24% C min :↔                                                                                                                                                                              | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir                                                                                                                                                                                        |
+| Medicinal product by therapeutic areas (dose in mg)                                                                                                    | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                                                                          | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                        | Tenofovir: AUC: ↑ 65% C max : ↑ 61% C min : ↑ 115%                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Atazanavir/Ritonavir (300 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC: ↔ C max : ↔ GS 331007 2 : AUC: ↔ C max : ↔ C min : ↑ 42% Velpatasvir: AUC: ↑ 142% C max : ↑ 55% C min : ↑ 301% Atazanavir: AUC: ↔ C max : ↔ C min : ↑ 39% Ritonavir: AUC: ↔ C max : ↔ C min : ↑ 29% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↔ C max : ↑ 55% C : ↑ 39% | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Darunavir/Ritonavir (800 mg q.d./100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.)  | min Sofosbuvir: AUC: ↓28% C max : ↓ 38% GS 331007 2 : AUC: ↔ C max : ↔ C min : ↔ Velpatasvir: AUC: ↔ C max : ↓ 24% C min : ↔                                                                                                                                                                             | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                                              | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                        | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                  | Darunavir: AUC:↔ C max :↔ C min: ↔ Ritonavir: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir:                                                                                                                | and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4).                                                                                                                                                                                                                                                                                                                           |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Lopinavir/Ritonavir (800 mg/200 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC: ↓ 29% C max : ↓ 41% GS 331007 2 : AUC:↔ C max :↔ C min :↔ Velpatasvir: AUC:↔ C max : ↓ 30% C min : ↑ 63% Lopinavir: AUC:↔ C max :↔ C min :↔ Ritonavir: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and lopinavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
+| Medicinal product by therapeutic areas (dose in mg)                                                                                              | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                                     | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                  | Darunavir: AUC: ↔ C max : ↔ C min: ↔ Ritonavir: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir:                                                                                                                     | and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4).                                                                                                                                                                                                                                                                                                                           |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Lopinavir/Ritonavir (800 mg/200 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC: ↓ 29% C max : ↓ 41% GS 331007 2 : AUC: ↔ C max : ↔ C min : ↔ Velpatasvir: AUC: ↔ C max : ↓ 30% C min : ↑ 63% Lopinavir: AUC: ↔ C max : ↔ C min : ↔ Ritonavir: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ | Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and lopinavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                                | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                            | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                    | AUC:↔ C max : ↑ 42% C min :↔                                                                                                                                                                                               |                                                                                                                                                                                                                                          |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Raltegravir (400 mg b.i.d) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC:↔ C max :↔ GS 331007 2 : AUC:↔ C max :↔ C min :↔ Velpatasvir: AUC:↔ C max :↔ C min :↔ Raltegravir: AUC:↔ C max :↔ C min : ↓ 21% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 40% C max : ↑ 46% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4). |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Efavirenz/Emtricitabine/Tenofo vir disoproxil (600 mg/200 mg/245 mg q.d.)            | C min : ↑ 70% Sofosbuvir: AUC:↔ C max : ↑ 38% GS 331007 2 : AUC:↔ C max :↔ C min :↔ Velpatasvir: AUC: ↓ 53% C max : ↓ 47% C min : ↓ 57% Efavirenz: AUC:↔ C max :↔ C min :↔                                                 | Concomitant administration of sofosbuvir/velpatasvir and efavirenz is expected to decrease plasma concentrations of velpatasvir. Co- administration of sofosbuvir/velpatasvir with efavirenz- containing regimens is not recommended.    |
+| Medicinal product by therapeutic areas (dose in mg)                                                                                | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                         | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                    | AUC: ↔ C max : ↑ 42% C min : ↔                                                                                                                                                                                                          |                                                                                                                                                                                                                                          |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Raltegravir (400 mg b.i.d) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | Sofosbuvir: AUC: ↔ C max : ↔ GS 331007 2 : AUC: ↔ C max : ↔ C min : ↔ Velpatasvir: AUC: ↔ C max : ↔ C min : ↔ Raltegravir: AUC: ↔ C max : ↔ C min : ↓ 21% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 40% C max : ↑ 46% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4). |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Efavirenz/Emtricitabine/Tenofo vir disoproxil (600 mg/200 mg/245 mg q.d.)            | Sofosbuvir: AUC: ↔ C max : ↑ 38% GS 331007 2 : AUC: ↔ C max : ↔ C min : ↔ Velpatasvir: AUC: ↓ 53% C max : ↓ 47% C min : ↓ 57% Efavirenz: AUC: ↔ C max : ↔ C min : ↔                                                                     | Concomitant administration of sofosbuvir/velpatasvir and efavirenz is expected to decrease plasma concentrations of velpatasvir. Co- administration of sofosbuvir/velpatasvir with efavirenz- containing regimens is not recommended.    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                                                                                                      | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                           | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                            |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                          | Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 81% C max : ↑ 77% C : ↑ 121%                                                                                                                                     |                                                                                                                                                                                                                                                                                         |
-| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Emtricitabine/Rilpivirine/Tenof ovir disoproxil (200 mg/25 mg/245 mg q.d.)                                                                 | min Sofosbuvir: AUC:↔ C max :↔ GS 331007 2 : AUC:↔ C max :↔ C min :↔ Velpatasvir: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Rilpivirine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 40% C max : ↑ 44% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                                                |
-| Sofosbuvir/Velpatasvir/ Voxilaprevir (400 mg/100 mg/ 100 mg+100 mg q.d.) 3 + Darunavir (800 mg q.d.) + Ritonavir (100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | C min : ↑ 84% Sofosbuvir: AUC:↔ C max : ↓ 30% C min : N/A GS-331007 2 : AUC:↔ C max :↔ C min : N/A Velpatasvir: AUC:↔ C max :↔                                                                                            | Increased plasma concentrations of tenofovir resulting from co- administration of tenofovir disoproxil, sofosbuvir/velpatasvir/vox ilaprevir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir |
+| Medicinal product by therapeutic areas (dose in mg)                                                                                                                                      | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                         | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                          | Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 81% C max : ↑ 77% C : ↑ 121%                                                                                                                                                |                                                                                                                                                                                                                                                                                         |
+| Sofosbuvir/Velpatasvir (400 mg/100 mg q.d.) + Emtricitabine/Rilpivirine/Tenof ovir disoproxil (200 mg/25 mg/245 mg q.d.)                                                                 | min Sofosbuvir: AUC: ↔ C max : ↔ GS 331007 2 : AUC: ↔ C max : ↔ C min : ↔ Velpatasvir: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Rilpivirine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 40% C max : ↑ 44% | No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).                                                |
+| Sofosbuvir/Velpatasvir/ Voxilaprevir (400 mg/100 mg/ 100 mg+100 mg q.d.) 3 + Darunavir (800 mg q.d.) + Ritonavir (100 mg q.d.) + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg q.d.) | C min : ↑ 84% Sofosbuvir: AUC: ↔ C max : ↓ 30% C min : N/A GS-331007 2 : AUC: ↔ C max : ↔ C min : N/A Velpatasvir: AUC: ↔ C max : ↔                                                                                                     | Increased plasma concentrations of tenofovir resulting from co- administration of tenofovir disoproxil, sofosbuvir/velpatasvir/vox ilaprevir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas (dose in mg)                                                  | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                         |
-|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                      | C min :↔ Voxilaprevir: AUC: ↑ 143% C max :↑ 72% C min : ↑ 300% Darunavir: AUC:↔ C max :↔ C min : ↓ 34% Ritonavir: AUC: ↑ 45% C max : ↑ 60% C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC: ↑ 39% C max : ↑ 48% | disoproxil when used with sofosbuvir/velpatasvir/vox ilaprevir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
-| Sofosbuvir (400 mg q.d.) + Efavirenz/Emtricitabine/ Tenofovir disoproxil (600 mg/200 mg/245 mg q.d.) | Sofosbuvir: AUC:↔ C max : ↓ 19% GS-331007 2 : AUC:↔ C max : ↓ 23% Efavirenz: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir: AUC:↔ C max : ↑ 25%                                                     | No dose adjustment is required.                                                                                                                                                                                                                      |
+| Medicinal product by therapeutic areas (dose in mg)                                                  | Effects on drug levels Mean percent change in AUC,C max , C min                                                                                                                                                                       | Recommendation concerning co-administration with 245 mg tenofovir disoproxil                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                      | C min : ↔ Voxilaprevir: AUC: ↑ 143% C max :↑ 72% C min : ↑ 300% Darunavir: AUC: ↔ C max : ↔ C min : ↓ 34% Ritonavir: AUC: ↑ 45% C max : ↑ 60% C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↑ 39% C max : ↑ 48% | disoproxil when used with sofosbuvir/velpatasvir/vox ilaprevir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established. The combination should be used with caution with frequent renal monitoring (see section 4.4). |
+| Sofosbuvir (400 mg q.d.) + Efavirenz/Emtricitabine/ Tenofovir disoproxil (600 mg/200 mg/245 mg q.d.) | Sofosbuvir: AUC: ↔ C max : ↓ 19% GS-331007 2 : AUC: ↔ C max : ↓ 23% Efavirenz: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir: AUC: ↔ C max : ↑ 25%                                                   | No dose adjustment is required.                                                                                                                                                                                                                      |
 
 1 Data generated from simultaneous dosing with ledipasvir/sofosbuvir. Staggered administration (12 hours apart) provided similar results.
 
@@ -500,7 +498,7 @@ Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical 
 
 Patients  with  decompensated  liver  disease: The  safety  profile  of  tenofovir  disoproxil  in patients  with  decompensated  liver  disease  was  assessed  in  a  double-blind  active  controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil (n = 45) or emtricitabine plus tenofovir disoproxil (n = 45) or entecavir (n = 22) for 48 weeks.
 
-In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm. After 168 weeks, 16% (7/45) of the tenofovir disoproxil group, 4% (2/45) of the emtricitabine plus tenofovir disoproxil group, and 14% (3/22) of the entecavir group experienced tolerability failure. Thirteen percent (6/45) of the tenofovir disoproxil group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
+In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm. After 168 weeks, 16% (7/45) of the tenofovir disoproxil group, 4% (2/45) of the emtricitabine plus tenofovir disoproxil group, and 14% (3/22) of the entecavir group experienced tolerability failure. Thirteen percent (6/45) of the tenofovir disoproxil group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0. 5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -510,7 +508,7 @@ Subjects with a high baseline CPT score were at higher risk of developing seriou
 
 Patients with lamivudine-resistant chronic hepatitis B: No new adverse reactions to tenofovir disoproxil were identified from a randomised, double-blind study (GS-US-174-0121) in which 280 lamivudine-resistant patients received treatment with tenofovir disoproxil (n = 141) or emtricitabine/tenofovir disoproxil (n = 139) for 240 weeks.
 
-The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100) or rare (≥ 1/10,000 to &lt; 1/1,000).
+The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100) or rare ( ≥ 1/10,000 to &lt; 1/1,000).
 
 Table 2: Tabulated summary of adverse reactions associated with tenofovir disoproxil based on clinical study and post-marketing experience
 
@@ -572,7 +570,7 @@ Weight and levels of blood lipids and glucose may increase during antiretroviral
 
 ## Immune reactivation syndrome
 
-In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of CART, an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Grav es' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 ## Osteonecrosis
 
@@ -640,7 +638,7 @@ Pharmacotherapeutic group: Antiviral for systemic use; nucleoside and nucleotide
 
 ## Mechanism of action and pharmacodynamic effects
 
-Tenofovir disoproxil maleate is the maleate salt of the prodrug tenofovir disoproxil. Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue. Tenofovir is then converted to the active metabolite, tenofovir diphosphate, an obligate chain terminator, by constitutively expressed cellular enzymes. Tenofovir diphosphate has an intracellular half-life of 10 hours in activated and 50 hours in resting peripheral blood mononuclear cells (PBMCs). Tenofovir diphosphate inhibits HIV-1 reverse transcriptase and the HBV polymerase by direct binding competition with the natural deoxyribonucleotide substrate and, after incorporation into DNA, by DNA chain termination. Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ. At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
+Tenofovir disoproxil maleate is the maleate salt of the prodrug tenofovir disoproxil. Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue. Tenofovir is then converted to the active metabolite, tenofovir diphosphate, an obligate chain terminator, by constitutively expressed cellular enzymes. Tenofovir diphosphate has an intracellular half-life of 10 hours in activated and 50 hours in resting peripheral blood mononuclear cells (PBMCs). Tenofovir diphosphate inhibits HIV-1 reverse transcriptase and the HBV polymerase by direct binding competition with the natural deoxyribonucleotide substrate and, after incorporation into DNA, by DNA chain termination. Tenofovir diphosphate is a weak inhibitor of cellular polymer ases α, β, and γ . At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
 
 ## Data pertaining to HIV
 
@@ -702,6 +700,16 @@ Table 3: Efficacy parameters in compensated HBeAg negative and HBeAg positive pa
 | ALT (%) Normalised ALT d                                    | 76                                  | 77                                | 68*                                 | 54                                |
 | HBeAg loss/seroconversio n HBsAg loss/seroconversio         | n/a 0/0                             | n/a 0/0                           | 22/21 3*/1                          | 18/18 0/0                         |
 
+c
+
+Median change from baseline HBV DNA merely reflects the difference between baseline HBV DNA and the
+
+limit of detection (LOD) of the assay.
+
+d The population used for analysis of ALT normalisation included only patients with ALT above ULN at baseline.
+
+n/a = not applicable.
+
 Tenofovir disoproxil was associated with significantly greater proportions of patients with undetectable HBV DNA (&lt; 169 copies/ml [&lt; 29 IU/ml]; the limit of quantification of the Roche Cobas Taqman HBV assay), when compared to adefovir dipivoxil (study GS-US-174-0102; 91%, 56% and study GS-US-174-0103; 69%, 9%), respectively.
 
 Response to treatment with tenofovir disoproxil was comparable in nucleoside-experienced (n = 51) and nucleoside-naïve (n = 375) patients and in patients with normal ALT (n = 21) and abnormal ALT (n = 405) at baseline when studies GS-US-174-0102 and GS-US-174-0103 were combined. Forty-nine of the 51 nucleoside-experienced patients were previously treated with lamivudine. Seventy-three percent of nucleoside-experienced and 69% of nucleoside-naïve patients achieved complete response to treatment; 90% of nucleoside-experienced and 88% of nucleoside-naïve patients achieved HBV DNA suppression &lt; 400 copies/ml. All patients with normal ALT at baseline and 88% of patients with abnormal ALT at baseline achieved HBV DNA suppression &lt; 400 copies/ml.
@@ -723,28 +731,6 @@ Table 4: Efficacy parameters in compensated HBeAg negative patients at week 96, 
 | Serology (%) HBeAg loss/ seroconversion HBsAg loss/ | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       |
 | seroconversion                                      | 0/0                                 | 0/0                                 | 0/0                                 | 0/0                                 | 0/0                                 | 1/1 n                               | 0/0                                                                       | 0/0                                                                       | 0/0                                                                       | 0/0 k                                                                     | 1/1 n                                                                     | 1/1 n                                                                     |
 
-g  48 weeks of double-blind tenofovir disoproxil followed by 144 weeks open-label.
-
-h  48 weeks of double-blind adefovir dipivoxil followed by 144 weeks open-label tenofovir disoproxil.
-
-i  48 weeks of double-blind tenofovir disoproxil followed by 192 weeks open-label.
-
-j  48 weeks of double-blind adefovir dipivoxil followed by 192 weeks open-label tenofovir disoproxil.
-
-k  One patient in this group became HBsAg negative for the first time at the 240 week visit and was ongoing in the study at the time of the data cut-off. However, the subject's HBsAg loss was ultimately confirmed at the subsequent visit.
-
-l  48 weeks of double-blind tenofovir disoproxil followed by 240 weeks open-label.
-
-m  48 weeks of double-blind adefovir dipivoxil followed by 240 weeks open-label tenofovir disoproxil.
-
-n  Figures presented are cumulative percentages based upon a Kaplan Meier analysis excluding data collected after the addition of emtricitabine to open-label tenofovir disoproxil (KM-tenofovir disoproxil).
-
-o  48 weeks of double-blind tenofovir disoproxil followed by 336 weeks open-label.
-
-p  48 weeks of double-blind adefovir dipivoxil followed by 336 weeks open-label tenofovir disoproxil.
-
-n/a = not applicable.
-
 Table 5: Efficacy parameters in compensated HBeAg positive patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
 
 Study 174-0103 (HBeAg positive)
@@ -764,7 +750,7 @@ b 48 weeks of double-blind tenofovir disoproxil followed by 48 weeks open-label.
 
 c 48 weeks of double-blind adefovir dipivoxil followed by 48 weeks open-label tenofovir disoproxil.
 
-d The population used for analysis of ALT normalisation included only patients with ALT above ULN at baseline.
+- d The population used for analysis of ALT normalisation included only patients with ALT above ULN at baseline.
 
 e 48 weeks of double-blind tenofovir disoproxil followed by 96 weeks open-label.
 
@@ -817,7 +803,7 @@ In a randomised, 48-week double-blind, controlled study of tenofovir disoproxil 
 
 The efficacy and safety of tenofovir disoproxil 245 mg or tenofovir disoproxil 245 mg plus 200 mg emtricitabine has been evaluated in a randomised, double-blind study (study GS-US-174-0106), in HBeAg positive and HBeAg negative adult patients who had persistent viraemia (HBV DNA ≥ 1,000 copies/ml) while receiving adefovir dipivoxil 10 mg for more than 24 weeks. At baseline, 57% of patients randomised to tenofovir disoproxil versus 60% of patients randomised to emtricitabine plus tenofovir disoproxil treatment group had previously been treated with lamivudine. Overall at week 24, treatment with tenofovir disoproxil resulted in 66% (35/53) of patients with HBV DNA &lt; 400 copies/ml (&lt; 69 IU/ml) versus 69% (36/52) of patients treated with emtricitabine plus tenofovir disoproxil (p = 0.672). In addition 55% (29/53) of patients treated with tenofovir disoproxil had undetectable HBV DNA (&lt; 169 copies/ml [&lt; 29 IU/ml]; the limit of quantification of the Roche Cobas TaqMan HBV assay) versus 60% (31/52) of patients treated with emtricitabine plus tenofovir disoproxil (p = 0.504). Comparisons between treatment groups beyond week 24 are difficult to interpret since investigators had the option to intensify treatment to open-label emtricitabine plus tenofovir disoproxil. Long-term studies to evaluate the benefit/risk of bitherapy with emtricitabine plus tenofovir disoproxil in HBV monoinfected patients are ongoing.
 
-Experience in patients with decompensated liver disease at 48 weeks (study GS-US-174-0108) Study GS-US-174-0108 is a randomised, double-blind, active controlled study evaluating the safety and efficacy of tenofovir disoproxil (n = 45), emtricitabine plus tenofovir disoproxil (n = 45), and entecavir (n = 22), in patients with decompensated liver disease. In the tenofovir disoproxil treatment arm, patients had a mean CPT score of 7.2, mean HBV DNA of 5.8 log10 copies/ml and mean serum ALT of 61 U/l at baseline. Forty-two percent (19/45) of patients had at least 6 months of prior lamivudine experience, 20% (9/45) of patients had prior adefovir dipivoxil experience and 9 of 45 patients (20%) had lamivudine and/or adefovir dipivoxil resistance mutations at baseline. The co-primary safety endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
+Experience in patients with decompensated liver disease at 48 weeks (study GS-US-174-0108) Study GS-US-174-0108 is a randomised, double-blind, active controlled study evaluating the safety and efficacy of tenofovir disoproxil (n = 45), emtricitabine plus tenofovir disoproxil (n = 45), and entecavir (n = 22), in patients with decompensated liver disease. In the tenofovir disoproxil treatment arm, patients had a mean CPT score of 7.2, mean HBV DNA of 5.8 log10 copies/ml and mean serum ALT of 61 U/l at baseline. Forty-two percent (19/45) of patients had at least 6 months of prior lamivudine experience, 20% (9/45) of patients had prior adefovir dipivoxil experience and 9 of 45 patients (20%) had lamivudine and/or adefovir dipivoxil resistance mutations at baseline. The co-primary safety endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0. 5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
 
 In patients with CPT scores ≤ 9, 74% (29/39) of tenofovir disoproxil, and 94% (33/35) of emtricitabine plus tenofovir disoproxil treatment groups achieved HBV DNA &lt; 400 copies/ml after 48 weeks of treatment.
 
@@ -884,7 +870,7 @@ Reductions in BMD have been reported in paediatric patients. In patients who rec
 
 In study GS-US-104-0352, 8 out of 89 paediatric patients (9.0%) exposed to tenofovir disoproxil discontinued study drug due to renal adverse events. Five subjects (5.6%) had laboratory findings clinically consistent with proximal renal tubulopathy, 4 of whom discontinued tenofovir disoproxil therapy (median tenofovir disoproxil exposure 331 weeks).
 
-Chronic hepatitis B: In study GS-US-174-0115, 106 HBeAg negative and HBeAg positive patients aged 12 to &lt; 18 years with chronic HBV infection [HBV DNA ≥ 10 5 copies/ml, elevated serum ALT (≥ 2 x ULN) or a history of elevated serum ALT levels in the past 24 months] were treated with tenofovir disoproxil 245 mg (n = 52) or placebo (n = 54) for 72 weeks. Subjects must have been naïve to tenofovir disoproxil, but could have received interferon based regimens (&gt; 6 months prior to screening) or any other non-tenofovir disoproxil containing oral anti-HBV nucleoside/nucleotide therapy (&gt; 16 weeks prior to screening). At week 72, overall 88% (46/52) of patients in the tenofovir disoproxil treatment group and 0% (0/54) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-four percent (26/35) of patients in the tenofovir disoproxil group had normalised ALT at week 72 compared to 31% (13/42) in the placebo group. Response to treatment with tenofovir disoproxil was comparable in nucleos(t)ide-naïve (n = 20) and nucleos(t)ideexperienced (n = 32) patients, including lamivudine- resistant patients (n = 6). Ninety-five percent of nucleos(t)ide-naïve patients, 84% of nucleos(t)ide- experienced patients, and 83% of lamivudineresistant patients achieved HBV DNA &lt; 400 copies/ml at week 72. Thirty-one of the 32 nucleos(t)ide-experienced patients had prior lamivudine experience. At week 72, 96% (27/28) of immune-active patients (HBV DNA ≥ 10 5 copies/ml, serum ALT &gt; 1.5 x ULN) in the tenofovir disoproxil treatment group and 0% (0/32) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-five percent (21/28) of immune-active patients in the tenofovir disoproxil group had normal ALT at week 72 compared to 34% (11/32) in the placebo group.
+Chronic hepatitis B: In study GS-US-174-0115, 106 HBeAg negative and HBeAg positive patients aged 12 to &lt; 18 years with chronic HBV infection [HBV DNA ≥ 10 5 copies/ml, elevated serum ALT ( ≥ 2 x ULN) or a history of elevated serum ALT levels in the past 24 months] were treated with tenofovir disoproxil 245 mg (n = 52) or placebo (n = 54) for 72 weeks. Subjects must have been naïve to tenofovir disoproxil, but could have received interferon based regimens (&gt; 6 months prior to screening) or any other non-tenofovir disoproxil containing oral anti-HBV nucleoside/nucleotide therapy (&gt; 16 weeks prior to screening). At week 72, overall 88% (46/52) of patients in the tenofovir disoproxil treatment group and 0% (0/54) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-four percent (26/35) of patients in the tenofovir disoproxil group had normalised ALT at week 72 compared to 31% (13/42) in the placebo group. Response to treatment with tenofovir disoproxil was comparable in nucleos(t)ide-naïve (n = 20) and nucleos(t)ideexperienced (n = 32) patients, including lamivudine- resistant patients (n = 6). Ninety-five percent of nucleos(t)ide-naïve patients, 84% of nucleos(t)ide- experienced patients, and 83% of lamivudineresistant patients achieved HBV DNA &lt; 400 copies/ml at week 72. Thirty-one of the 32 nucleos(t)ide-experienced patients had prior lamivudine experience. At week 72, 96% (27/28) of immune-active patients (HBV DNA ≥ 10 5 copies/ml, serum ALT &gt; 1.5 x ULN) in the tenofovir disoproxil treatment group and 0% (0/32) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-five percent (21/28) of immune-active patients in the tenofovir disoproxil group had normal ALT at week 72 compared to 34% (11/32) in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -916,9 +902,9 @@ b  Primary safety endpoint through week 72
 
 In study GS-US-174-0144, 89 HBeAg-negative and -positive patients aged 2 to &lt; 12 years with chronic hepatitis B were treated with tenofovir disoproxil 6.5 mg/kg up to a maximum dose of 245 mg (n = 60) or placebo (n = 29) once daily for 48 weeks. Subjects must have been naïve to tenofovir disoproxil, with HBV DNA &gt; 10 5  copies/mL (~ 4.2 log10 IU/mL) and ALT &gt; 1.5 × the upper limit of normal (ULN) at screening. At Week 48, 77% (46 of 60) of patients in the tenofovir disoproxil treatment group and 7% (2 of 29) of patients in the placebo group had HBV DNA &lt; 400 copies/mL (69 IU/mL). Sixty-six percent (38 of 58) of patients in the tenofovir disoproxil group had normalized ALT at week 48 compared with 15% (4 of 27) in the placebo group. Twentyfive percent (14 of 56) of patients in the tenofovir disoproxil group and 24% (7 of 29) of patients in the placebo group achieved HBeAg seroconversion at Week 48.
 
-Response to treatment with tenofovir disoproxil was comparable in treatment-naïve and treatmentexperienced subjects with 76% (38/50) of treatment-naïve and 80% (8/10) of treatment-experienced subjects achieving HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48. Response to treatment with tenofovir disoproxil was also similar in subjects who were HBeAg-negative compared with those who were HBeAg-positive at baseline with 77% (43/56) HBeAg-positive and 75.0% (3/4) HBeAgnegative subjects achieving HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48. The distribution of HBV genotypes at baseline was similar between the TDF and Placebo groups. The majority of subjects were either genotypes C (43.8%) or D (41.6%) with a lower and similar frequency of genotypes A and B (6.7% each). Only 1 subject randomized to the TDF group was genotype E at baseline. In general, treatment responses to tenofovir disoproxil were similar for genotypes A, B, C and E [75-100% of subjects achieved HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48] with a lower response rate in subjects with genotype D infection (55%). tenofovir disoproxil treatment up to week 192. After week 48, virologic suppression was maintained
+Response to treatment with tenofovir disoproxil was comparable in treatment-naïve and treatmentexperienced subjects with 76% (38/50) of treatment-naïve and 80% (8/10) of treatment-experienced subjects achieving HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48. Response to treatment with tenofovir disoproxil was also similar in subjects who were HBeAg-negative compared with those who were HBeAg-positive at baseline with 77% (43/56) HBeAg-positive and 75.0% (3/4) HBeAgnegative subjects achieving HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48. The distribution of HBV genotypes at baseline was similar between the TDF and Placebo groups. The majority of subjects were either genotypes C (43.8%) or D (41.6%) with a lower and similar frequency of genotypes A and B (6.7% each). Only 1 subject randomized to the TDF group was genotype E at baseline. In general, treatment responses to tenofovir disoproxil were similar for genotypes A, B, C and E [75-100% of subjects achieved HBV DNA &lt; 400 copies/mL (69 IU/mL) at Week 48] with a lower response rate in subjects with genotype D infection (55%).
 
-After at least 48 weeks of blinded randomised treatment, each subject could switch to open-label for those receiving double-blind tenofovir disoproxil followed by open-label tenofovir disoproxil (TDF-TDF group): 83.3% (50/60) of subjects in the TDF-TDF group had HBV DNA &lt; 400 copies/mL (69 IU/ml) at week 192. Among the subjects who received placebo during the double-blind period, the proportion of subjects with HBV DNA &lt; 400 copies/mL rose sharply after receiving treatment with open-label TDF (PLB-TDF group): 62.1% (18/29) of subjects in the PLB-TDF group had HBV DNA &lt; 400 copies/mL at week 192. The proportion of subjects with ALT normalization at week 192 in the TDF-TDF and PLB-TDF groups was 79.3% and 59.3%, respectively (based on central laboratory criteria). Similar percentages of subjects in the TDF-TDF and PLB-TDF groups (33.9% and 34.5%, respectively) had experienced HBeAg seroconversion through week 192. No subjects in either treatment group had experienced HBsAg seroconversion at week 192. Treatment response rates to tenofovir disoproxil at week 192 were maintained for all genotypes A, B and C (80-100%) in the TDF TDF group. At week 192 a lower response rate is still observed in subjects with genotype D infection (77%) but with an improvement compared to 48 week results (55%).
+After at least 48 weeks of blinded randomised treatment, each subject could switch to open-label tenofovir disoproxil treatment up to week 192. After week 48, virologic suppression was maintained for those receiving double-blind tenofovir disoproxil followed by open-label tenofovir disoproxil (TDF-TDF group): 83.3% (50/60) of subjects in the TDF-TDF group had HBV DNA &lt; 400 copies/mL (69 IU/ml) at week 192. Among the subjects who received placebo during the double-blind period, the proportion of subjects with HBV DNA &lt; 400 copies/mL rose sharply after receiving treatment with open-label TDF (PLB-TDF group): 62.1% (18/29) of subjects in the PLB-TDF group had HBV DNA &lt; 400 copies/mL at week 192. The proportion of subjects with ALT normalization at week 192 in the TDF-TDF and PLB-TDF groups was 79.3% and 59.3%, respectively (based on central laboratory criteria). Similar percentages of subjects in the TDF-TDF and PLB-TDF groups (33.9% and 34.5%, respectively) had experienced HBeAg seroconversion through week 192. No subjects in either treatment group had experienced HBsAg seroconversion at week 192. Treatment response rates to tenofovir disoproxil at week 192 were maintained for all genotypes A, B and C (80-100%) in the TDF TDF group. At week 192 a lower response rate is still observed in subjects with genotype D infection (77%) but with an improvement compared to 48 week results (55%).
 
 Bone Mineral Density (BMD) data from Study GS-US-174-0144 are summarized in Table 9:
 
@@ -932,17 +918,17 @@ Table 9: Bone Mineral Density Evaluation at Baseline, Week 48 and Week 192
 
 <div style=\"page-break-after: always\"></div>
 
-| Whole body mean (SD) BMD Z-score                                       | -0.46 (1.113)   | -0.34 (1.468)   | -0.57 (0.978)   | -0.05 (1.360)   | -0.56 (1.082)   | -0.31 (1.418)   |
-|------------------------------------------------------------------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Whole body mean (SD) change from baseline BMD Z- score                 | NA              | NA              | -0.18 (0.514)   | 0.26 (0.516)    | -0.18 (1.020)   | 0.38 (0.934)    |
-| Cumulative incidence ≥ 4% decrease from baseline in lumbar spine BMD a | NA              | NA              | 18.3%           | 6.9%            | 18.3%           | 6.9%            |
-| Cumulative incidence ≥ 4% decrease from baseline in whole body BMD a   | NA              | NA              | 6.7%            | 0%              | 6.7%            | 0%              |
-| Lumbar spineBMD mean %increase                                         | NA              | NA              | 3.9%            | 7.6%            | 19.2%           | 26.1%           |
-| Whole bodyBMD mean %increase                                           | NA              | NA              | 4.6%            | 8.7%            | 23.7%           | 27.7%           |
+| Whole body mean (SD) BMD Z-score                                       | -0.46 (1.113)   | - 0.34 (1.468)   | -0.57 (0.978)   | -0.05 (1.360)   | -0.56 (1.082)   | -0.31 (1.418)   |
+|------------------------------------------------------------------------|-----------------|------------------|-----------------|-----------------|-----------------|-----------------|
+| Whole body mean (SD) change from baseline BMD Z- score                 | NA              | NA               | - 0.18 (0.514)  | 0.26 (0.516)    | -0.18 (1.020)   | 0.38 (0.934)    |
+| Cumulative incidence ≥ 4% decrease from baseline in lumbar spine BMD a | NA              | NA               | 18.3%           | 6.9%            | 18.3%           | 6.9%            |
+| Cumulative incidence ≥ 4% decrease from baseline in whole body BMD a   | NA              | NA               | 6.7%            | 0%              | 6.7%            | 0%              |
+| Lumbar spineBMD mean %increase                                         | NA              | NA               | 3.9%            | 7.6%            | 19.2%           | 26.1%           |
+| Whole bodyBMD mean %increase                                           | NA              | NA               | 4.6%            | 8.7%            | 23.7%           | 27.7%           |
 
 NA = Not Applicable
 
-a  No additional subjects had ≥ 4% BMD decreases beyond week 48
+a No additional subjects had ≥ 4% BMD decreases beyond week 48
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with tenofovir disoproxil in one or more subsets of the paediatric population in HIV and chronic hepatitis B (see section 4.2 for information on paediatric use).
 
@@ -990,7 +976,7 @@ Pharmacokinetics have not been specifically studied in different ethnic groups.
 
 ## Paediatric population
 
-HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to &lt; 18 years) with body weight ≥ 35 kg. Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/ml and 3.39 ± 1.22 μg·h/ml, respectively. Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
+HIV-1: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to &lt; 18 years) with body weight ≥ 35 kg. Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μ g/ml and 3.39 ± 1.22 μ g·h/ml, respectively. Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
 
 Chronic hepatitis B: Steady-state tenofovir exposure in HBV infected adolescent patients (12 to &lt; 18 years of age) receiving an oral daily dose of tenofovir disoproxil 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
 
@@ -1024,7 +1010,7 @@ Non-clinical safety pharmacology studies reveal no special hazard for humans. Fi
 
 <div style=\"page-break-after: always\"></div>
 
-and reduced bone mineral density (BMD) (rats and dogs). The bone toxicity in young adult rats and dogs occurred at exposures ≥ 5-fold the exposure in paediatric or adult patients; bone toxicity occurred in juvenile infected monkeys at very high exposures following subcutaneous dosing (≥ 40fold the exposure in patients). Findings in the rat and monkey studies indicated that there was a substance-related decrease in intestinal absorption of phosphate with potential secondary reduction in BMD.
+and reduced bone mineral density (BMD) (rats and dogs). The bone toxicity in young adult rats and dogs occurred at exposures ≥ 5-fold the exposure in paediatric or adult patients; bone toxicity occurred in juvenile infected monkeys at very high exposures following subcutaneous dosing ( ≥ 40fold the exposure in patients). Findings in the rat and monkey studies indicated that there was a substance-related decrease in intestinal absorption of phosphate with potential secondary reduction in BMD.
 
 Genotoxicity studies revealed positive results in the in vitro mouse lymphoma assay, equivocal results in one of the strains used in the Ames test, and weakly positive results in an UDS test in primary rat hepatocytes. However, it was negative in an in vivo mouse bone marrow micronucleus assay.
 
@@ -1064,7 +1050,7 @@ Do not store above 25 °C. Store in the original package in order to protect fro
 
 ## 6.5 Nature and contents of container
 
-High density polyethylene (HDPE) bottle with polypropylene (PP) child resistant closure with wad containing aluminium induction sealing liner and desiccant (silica gel), available in the following pack sizes: 30 film-coated tablets and multipacks containing 90 (3 packs of 30) film-coated tablets.
+High density polyethylene (HDPE) bottle with polypropylene (PP) screw cap or child resistant closure with wad containing aluminium induction sealing liner and desiccant (silica gel), available in the following pack sizes: 30 film-coated tablets and multipacks containing 90 (3 packs of 30) film-coated tablets.
 
 OPA/Aluminium/PE/Desiccant/PE- Aluminium blister packs containing 10 or 30 film coated tablets. OPA/Aluminium/PE/Desiccant/PE- Aluminium perforated unit dose blister pack containing 30 x 1 film-coated tablets.
 
@@ -1076,19 +1062,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1129/001
+EU/1/16/1129/001 EU/1/16/1129/002 EU/1/16/1129/003 EU/1/16/1129/004 EU/1/16/1129/005 EU/1/16/1129/006
 
-EU/1/16/1129/002
-
-EU/1/16/1129/003
-
-EU/1/16/1129/004
-
-EU/1/16/1129/005
+EU/1/16/1129/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1222,23 +1204,26 @@ Ireland
 
 EU/1/16/1129/001
 
+EU/1/16/1129/006
+
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 [only for the carton]
 
 Tenofovir disoproxil Viatris 245 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1302,11 +1287,13 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 EU/1/16/1129/002
 
+EU/1/16/1129/007
+
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1320,7 +1307,9 @@ Tenofovir disoproxil Viatris 245 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1328,7 +1317,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND IMMEDIATE PACKAGING
 
-## INNER CARTON OF MULTIPACK AND BOTTLE LABEL (WITHOUT BLUE BOX)
+INNER CARTON OF MULTIPACK AND BOTTLE LABEL (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1370,9 +1359,9 @@ EXP
 
 &lt;for carton only&gt;
 
-<div style=\"page-break-after: always\"></div>
-
 Open date:
+
+<div style=\"page-break-after: always\"></div>
 
 ## &lt;for bottle label and carton&gt;
 
@@ -1399,6 +1388,8 @@ Ireland
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/16/1129/002
+
+EU/1/16/1129/007
 
 ## 13. BATCH NUMBER
 
@@ -1488,14 +1479,15 @@ EU/1/16/1129/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 tenofovir disoproxil viatris 245 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1506,6 +1498,8 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
@@ -1529,15 +1523,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
-## Tenofovir disoproxil Viatris 245 mg film-coated tablets tenofovir disoproxil
+## Tenofovir disoproxil Viatris 245 mg film-coated tablets
+
+tenofovir disoproxil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1555,7 +1549,7 @@ Lot
 5. How to store Tenofovir disoproxil Viatris
 6. Contents of the pack and other information
 
-If this medicine has been prescribed for your child, please note that all the information in this leaflet is addressed to your child (in this case please read 'your child' instead of 'you').
+If this medicine has been prescribed for your child, please note that all the information in this leaflet is addressed to your child (in this case please read 'your chil d' instead of 'you' ).
 
 ## 1. What Tenofovir disoproxil Viatris is and what it is used for
 
@@ -1613,7 +1607,7 @@ Some adult patients with HIV taking combination antiretroviral therapy may devel
 
 higher risk of severe and potentially fatal liver complications. If you have hepatitis B infection, your doctor will carefully consider the best treatment for you. If you have a history of liver disease or chronic hepatitis B infection your doctor may conduct blood tests to monitor your liver function.
 
-- Look out for infections. If you have advanced HIV infection (AIDS) and have an infection, you may develop symptoms of infection and inflammation or worsening of the symptoms of an existing infection once treatment with Tenofovir disoproxil Viatris is started. These symptoms may indicate that your body's improved immune system is fighting infection. Look out for signs of inflammation or infection soon after you start taking Tenofovir disoproxil Viatris. If you notice signs of inflammation or infection, tell your doctor at once.
+- Look out for infections. If you have advanced HIV infection (AIDS) and have an infection, you may develop symptoms of infection and inflammation or worsening of the symptoms of an existing infection once treatment with Tenofovir disoproxil Viatris is started. These symptoms may indicate that your body ' s improved immune system is fighting infection. Look out for signs of inflammation or infection soon after you start taking Tenofovir disoproxil Viatris. If you notice signs of inflammation or infection, tell your doctor at once.
 
 In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
@@ -1637,7 +1631,7 @@ For dosage see section 3, How to take Tenofovir disoproxil Viatris.
 
 Tell your doctor or pharmacist if you are taking have recently taken or might take any other medicines.
 
-Don't stop any anti-HIV medicines prescribed by your doctor when you start Tenofovir disoproxil Viatris if you have both HBV and HIV.
+Don ' t stop any anti-HIV medicines prescribed by your doctor when you start Tenofovir disoproxil Viatris if you have both HBV and HIV.
 
 - Do not take Tenofovir disoproxil Viatris if you are already taking other medicines containing tenofovir disoproxil or tenofovir alafenamide. Do not take Tenofovir disoproxil Viatris together with medicines containing adefovir dipivoxil (a medicine used to treat chronic hepatitis B).
 - It is very important to tell your doctor if you are taking other medicines that may damage your kidneys.
@@ -1674,9 +1668,9 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 Tenofovir disoproxil can cause dizziness. If you feel dizzy while taking Tenofovir disoproxil Viatris, do not drive or ride a bicycle and do not use any tools or machines.
 
-Tenofovir disoproxil Viatris contains lactose If you have been told by your doctor
+Tenofovir disoproxil Viatris contains lactose
 
-Tell your doctor before taking Tenofovir disoproxil Viatris. that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+Tell your doctor before taking Tenofovir disoproxil Viatris. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## 3. How to take Tenofovir disoproxil Viatris
 
@@ -1711,7 +1705,7 @@ If you throw up less than 1 hour after taking Tenofovir disoproxil Viatris, take
 
 ## If you stop taking Tenofovir disoproxil Viatris
 
-Don't stop taking Tenofovir disoproxil Viatris without your doctor's advice. Stopping treatment with Tenofovir disoproxil Viatris may reduce the effectiveness of the treatment recommended by your doctor.
+Don ' t stop taking Tenofovir disoproxil Viatris without your docto r' s advice. Stopping treatment with Tenofovir disoproxil Viatris may reduce the effectiveness of the treatment recommended by your doctor.
 
 If you have hepatitis B or HIV and hepatitis B together (co-infection), it is very important not to stop your Tenofovir disoproxil Viatris treatment without talking to your doctor first. Some patients have had blood tests or symptoms indicating that their hepatitis has got worse after stopping tenofovir disoproxil. You may require blood tests for several months after stopping treatment. In some patients with advanced liver disease or cirrhosis, stopping treatment is not recommended as this may lead to worsening of your hepatitis.
 
@@ -1818,9 +1812,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 <div style=\"page-break-after: always\"></div>
 
-Tenofovir disoproxil Viatris 245 mg film-coated tablets are light blue, round, biconvex, debossed with 'TN245' on one side and 'M' on other side.
+Tenofovir disoproxil Viatris 245 mg film-coated tablets are light blue, round, biconvex, debossed with 'TN245' on one side and 'M' on other side .
 
-This medicine is available in plastic bottles with a child resistant cap and wad containing 30 filmcoated tablets and in multipacks of 90 film-coated tablets comprising 3 bottles, each containing 30 film-coated tablets. The bottles also contain desiccant. Do not eat the desiccant.
+This medicine is available in plastic bottles with a screw cap or child resistant cap and wad containing 30 film-coated tablets and in multipacks of 90 film-coated tablets comprising 3 bottles, each containing 30 film-coated tablets. The bottles also contain desiccant. Do not eat the desiccant.
 
 The tablets are also available in blister packs containing 10, 30 or 30 x 1 (unit dose) tablets.
 
@@ -1852,15 +1846,17 @@ Tel: + 370 5 205 1288
 
 ## България
 
-Виатрис ЕООД
+Виатрис
 
-Тел.: + 359 2 44 55 400
+ЕООД
+
+Тел
+
+.: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
-Viatris (Belgique/Belgien)
-
-Tél/Tel: + 32 (0)2 658 61 00
+Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -1876,7 +1872,9 @@ Tel: + 36 1 465 2100
 
 ## Danmark
 
-Viatris ApS Tlf: + 45 28 11 69 32
+Viatris ApS
+
+Tlf: + 45 28 11 69 32
 
 ## Malta
 
@@ -1886,7 +1884,9 @@ Tel: + 356 21 22 01 74
 
 ## Deutschland
 
-Viatris Healthcare GmbH Tel: + 49 800 0700 800
+Viatris Healthcare GmbH
+
+Tel: + 49 800 0700 800
 
 ## Nederland
 
@@ -1894,29 +1894,21 @@ Mylan BV
 
 Tel: + 31 (0)20 426 3300
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
 Viatris OÜ
 
 Tel: + 372 6363 052
 
-## Norge
-
-Viatris AS
-
-Tlf: + 47 66 75 33 00
-
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
-Τηλ:  + 30 2100 100 002
+Τηλ
 
-## Österreich
-
-Viatris Austria GmbH
-
-Tel: + 43 1 86390
+:  + 30 2100 100 002
 
 ## España
 
@@ -1924,23 +1916,11 @@ Viatris Pharmaceuticals, S.L.
 
 Tel: + 34 900 102 712
 
-## Polska
-
-Viatris Healthcare Sp. z o.o.
-
-Tel: + 48 22 546 64 00
-
 ## France
 
 Viatris Santé
 
 Tél: + 33 4 37 25 75 00
-
-## Portugal
-
-Mylan, Lda.
-
-Tel: + 351 214 127 200
 
 ## Hrvatska
 
@@ -1948,23 +1928,11 @@ Viatris Hrvatska d.o.o
 
 Tel: + 385 1 23 50 599
 
-## România
-
-BGP Products  SRL
-
-Tel: + 40 372 579 000
-
 ## Ireland
 
 Viatris Limited
 
 Tel: + 353 1 8711600
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
 
 ## Ísland
 
@@ -1972,35 +1940,19 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: + 421 2 32 199 100
-
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: + 358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Ltd.
 
-Τηλ: + 357 22863100
+Τηλ
 
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
+: + 357 22863100
 
 ## Latvija
 
@@ -2008,8 +1960,60 @@ Viatris SIA
 
 Tel: + 371 676 055 80
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in { MM/YYYY }.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## Norge
+
+Viatris AS
+
+Tlf: + 47 66 75 33 00
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: + 43 1 86390
+
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel: + 48 22 546 64 00
+
+## Portugal
+
+Mylan, Lda.
+
+Tel: + 351 214 127 200
+
+## România
+
+BGP Products  SRL
+
+Tel: + 40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: + 421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: + 358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00

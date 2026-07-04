@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 12:06:37
-document_pages: 29
+document_datetime: 2026-06-25 13:49:28
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/constella-epar-product-information_en.pdf
 document_name: constella-epar-product-information_en.pdf
 version: success
-processing_time: 6.5442409
-conversion_datetime: 2026-01-29 12:06:44.489151
+processing_time: 7.903613
+conversion_datetime: 2026-07-04 15:08:28.961926
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -144,15 +144,16 @@ The following adverse reactions were reported in clinical studies and in post-ma
 
 Table 1 Adverse reactions reported in clinical studies and from post-marketing experience at the recommended dose of 290 micrograms per day
 
-| MedDRA system organ class              | Very common   | Common                                         | Uncommon                                                                                                                                             | Rare                         | Unknown   |
-|----------------------------------------|---------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------|
-| Infections and infestations            |               | Gastroenteritis viral                          |                                                                                                                                                      |                              |           |
-| Metabolism and nutrition disorders     |               |                                                | Hypokalaemia Dehydration Decreased appetite                                                                                                          |                              |           |
-| Nervous system disorders               |               | Dizziness                                      |                                                                                                                                                      |                              |           |
-| Vascular disorders                     |               |                                                | Orthostatic hypotension                                                                                                                              |                              |           |
-| Gastrointestinal disorders             | Diarrhoea     | Abdominal pain Flatulence Abdominal distension | Faecal incontinence Defecation urgency Lower gastrointestinal haemorrhage including haemorrhoidal haemorrhage and rectal haemorrhage Nausea Vomiting | Gastrointestinal Perforation |           |
-| Skin and subcutaneous tissue disorders |               |                                                | Urticaria                                                                                                                                            |                              | Rash      |
-| Investigations                         |               |                                                |                                                                                                                                                      | Blood bicarbonate decreased  |           |
+| MedDRA system organ class              | Very common   | Common                                         | Uncommon                                                                                                                                             | Rare                         | Not known             |
+|----------------------------------------|---------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------|
+| Infections and infestations            |               | Gastroenteritis viral                          |                                                                                                                                                      |                              |                       |
+| Immune system disorders                |               |                                                |                                                                                                                                                      |                              | Anaphylactic reaction |
+| Metabolism and nutrition disorders     |               |                                                | Hypokalaemia Dehydration Decreased appetite                                                                                                          |                              |                       |
+| Nervous system disorders               |               | Dizziness                                      |                                                                                                                                                      |                              |                       |
+| Vascular disorders                     |               |                                                | Orthostatic hypotension                                                                                                                              |                              |                       |
+| Gastrointestinal disorders             | Diarrhoea     | Abdominal pain Flatulence Abdominal distension | Faecal incontinence Defecation urgency Lower gastrointestinal haemorrhage including haemorrhoidal haemorrhage and rectal haemorrhage Nausea Vomiting | Gastrointestinal Perforation |                       |
+| Skin and subcutaneous tissue disorders |               |                                                | Urticaria                                                                                                                                            |                              | Rash                  |
+| Investigations                         |               |                                                |                                                                                                                                                      | Blood bicarbonate decreased  |                       |
 
 ## Description of selected adverse reactions
 
@@ -170,13 +171,11 @@ Elderly (&gt;65 years), hypertensive and diabetic patients reported diarrhoea mo
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-## 4.9 Overdose
-
-An overdose may result in symptoms resulting from an exaggeration of the known pharmacodynamic effects of the medicinal product, mainly diarrhoea. In a study in healthy volunteers receiving a single dose of 2 897 micrograms (up to 10-fold the recommended therapeutic dose) the safety profile in these subjects was
-
 <div style=\"page-break-after: always\"></div>
 
-consistent with that in the overall population, with diarrhoea being the most commonly reported adverse event.
+## 4.9 Overdose
+
+An overdose may result in symptoms resulting from an exaggeration of the known pharmacodynamic effects of the medicinal product, mainly diarrhoea. In a study in healthy volunteers receiving a single dose of 2 897 micrograms (up to 10-fold the recommended therapeutic dose) the safety profile in these subjects was consistent with that in the overall population, with diarrhoea being the most commonly reported adverse event.
 
 Should an overdose occur, the patient should be treated symptomatically and supportive measures instituted as required.
 
@@ -204,11 +203,9 @@ The characteristics of the patient population included in Phase 3 clinical trial
 
 The co-primary endpoints in both clinical studies were 12-week IBS degree of relief responder rate and 12 week abdominal pain/discomfort responder rate. An IBS degree of relief responder was a patient that was considerably or completely relieved for at least 50% of the treatment period; an abdominal pain/discomfort responder was a patient that had an improvement of 30% or more for at least 50% of the treatment period.
 
-For the 12 weeks data, study 1 shows that 39% of the patients treated with linaclotide compared with 17% of the patients treated with placebo showed response to IBS degree of relief (p&lt;0.0001) and 54% of the patients treated with linaclotide compared with 39% of the patients treated with placebo showed response to
-
 <div style=\"page-break-after: always\"></div>
 
-abdominal pain/discomfort (p&lt;0.0001). Study 2 shows that 37% of the patients treated with linaclotide compared with 19% of the patients treated with placebo showed response to IBS degree of relief (p&lt;0.0001) and 55% of the patients treated with linaclotide compared with 42% of the patients treated with placebo showed response to abdominal pain/discomfort (p=0.0002).
+For the 12 weeks data, study 1 shows that 39% of the patients treated with linaclotide compared with 17% of the patients treated with placebo showed response to IBS degree of relief (p&lt;0.0001) and 54% of the patients treated with linaclotide compared with 39% of the patients treated with placebo showed response to abdominal pain/discomfort (p&lt;0.0001). Study 2 shows that 37% of the patients treated with linaclotide compared with 19% of the patients treated with placebo showed response to IBS degree of relief (p&lt;0.0001) and 55% of the patients treated with linaclotide compared with 42% of the patients treated with placebo showed response to abdominal pain/discomfort (p=0.0002).
 
 For the 26 weeks data, study 1 shows that 37% and 54% of the patients treated with linaclotide compared with 17% and 36% of the patients treated with placebo showed response to IBS degree of relief (p&lt;0.0001) and abdominal pain/discomfort (p&lt;0.0001) respectively.
 
@@ -216,13 +213,83 @@ In both studies, these improvements were seen by week 1 and sustained over the e
 
 Fig 1. IBS Degree of reli ef responder
 
-<!-- image -->
+70
 
-Pooled Phase III Efficacy clinical studies (Study 1 and 2) OC Approach (ITT Population)
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Responders Pooled Phase III Efficacy clinical studies (Study 1 and 2) OC Approach (ITT Population)
 
 Fig 2 . Abdominal pain/discomfort responder
 
 <!-- image -->
+
+*
+
+O
+
+1
+
+*
+
+2
+
+*
+
+O
+
+3
+
+*
+
+4
+
+*
+
+5
+
+*
+
+6
+
+* p value &lt; 0.0001
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Trial Week
 
 Pooled Phase III Efficacy clinical studies (Study 1 and 2) OC Approach (ITT Population)
 
@@ -230,17 +297,31 @@ Other signs and symptoms of IBS-C including bloating, complete spontaneous bowel
 
 ## Effect of linaclotide on IBS-C symptoms during the first 12 weeks of treatment in the pooled phase 3 efficacy clinical studies (studies 1 and 2).
 
-| Main secondary efficacy           | Placebo (N =797)   | Placebo (N =797)   | Placebo (N =797)          | Linaclotide (N =805)   | Linaclotide (N =805)   | Linaclotide (N =805)      |                    |
-|-----------------------------------|--------------------|--------------------|---------------------------|------------------------|------------------------|---------------------------|--------------------|
-| parameters                        | Baseline Mean      | 12- weeks Mean     | Change from baseline Mean | Baseline Mean          | 12- weeks Mean         | Change from baseline Mean | LS mean difference |
-| Bloating (11-point NRS)           | 6.5                | 5.4                | -1.0                      | 6.7                    | 4.6                    | -1.9                      | -0.9*              |
-| CSBM/week                         | 0.2                | 1.0                | 0.7                       | 0.2                    | 2.5                    | 2.2                       | 1.6*               |
-| Stool consistency (BSFS Score)    | 2.3                | 3.0                | 0.6                       | 2.3                    | 4.4                    | 2.0                       | 1.4*               |
-| Straining (5-point ordinal scale) | 3.5                | 2.8                | - 0.6                     | 3.6                    | 2.2                    | -1.3                      | -0.6*              |
+| Main secondary efficacy   | Placebo (N =797)   | Placebo (N =797)   | Placebo (N =797)          | Linaclotide (N =805)   | Linaclotide (N =805)   | Linaclotide (N =805)      |                    |
+|---------------------------|--------------------|--------------------|---------------------------|------------------------|------------------------|---------------------------|--------------------|
+| parameters                | Baseline Mean      | 12- weeks Mean     | Change from baseline Mean | Baseline Mean          | 12- weeks Mean         | Change from baseline Mean | LS mean difference |
+| Bloating (11-point NRS)   | 6.5                | 5.4                | -1.0                      | 6.7                    | 4.6                    | -1.9                      | -0.9*              |
+| CSBM/week                 | 0.2                | 1.0                | 0.7                       | 0.2                    | 2.5                    | 2.2                       | 1.6*               |
 
-CSBM: Complete Spontaneous Bowel Movement
+(%)
+
+0
+
+-0
+
+290 µg
+
+Placebo
 
 <div style=\"page-break-after: always\"></div>
+
+| Stool consistency (BSFS Score)    |   2.3 |   3.0 | 0.6   |   2.3 |   4.4 |   2.0 | 1.4*   |
+|-----------------------------------|-------|-------|-------|-------|-------|-------|--------|
+| Straining (5-point ordinal scale) |   3.5 |   2.8 | - 0.6 |   3.6 |   2.2 |  -1.3 | -0.6*  |
+
+*p&lt;0.0001, linaclotide vs placebo. LS: Least Square
+
+CSBM: Complete Spontaneous Bowel Movement
 
 Treatment with linaclotide also resulted in significant improvements in validated and disease-specific Quality of Life measure (IBS-QoL; p&lt;0.0001), and EuroQoL (p = 0.001). Clinically meaningful response in overall IBS-QoL (&gt; 14 points difference) was achieved in 54% of linaclotide treated patients vs. 39% in placebo treated patients.
 
@@ -270,13 +351,13 @@ The effect of linaclotide and its metabolites to inhibit the common intestinal e
 
 Following a single oral dose of 2 897 micrograms linaclotide on day 8, after a 7-day course of 290 micrograms/day in 18 healthy volunteers, approximately 3 to 5% of the dose was recovered in the faeces, virtually all of it as the des-tyrosine active metabolite.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Age and gender
 
 Clinical studies to determine the impact of age and gender on the clinical pharmacokinetics of linaclotide have not been conducted because it is rarely detectable in plasma. Gender is not expected to have any impact on dosing. For age related information, please see sections 4.2., 4.4., and 4.8.
 
 ## Renal impairment
-
-<div style=\"page-break-after: always\"></div>
 
 Constella has not been studied in patients who have renal impairment. Linaclotide is rarely detectable in plasma, therefore, renal impairment would not be expected to affect clearance of the parent compound or its metabolite.
 
@@ -308,29 +389,49 @@ Unopened bottle for 28, 90 and multipack containing 112 (4 packs of 28) capsules
 
 After first opening: 18 weeks.
 
-## 6.4 Special precautions for storage
+<div style=\"page-break-after: always\"></div>
+
+6.4
+
+Special precautions for storage
 
 Do not store above 30 ºC. Keep the bottle tightly closed in order to protect from moisture.
 
-The bottle contains one or more sealed canisters containing silica gel to keep the capsules dry. Keep the canisters in the bottle.
+The bottle contains one or more sealed canisters containing silica gel to keep the capsules dry. Keep the
 
-<div style=\"page-break-after: always\"></div>
+canisters in the bottle.
 
-## 6.5 Nature and contents of container
+6.5
 
-White  high  density  polyethylene  (HDPE)  bottle  with  a  tamper  evident  seal  and  a  child-resistant  closure, together with one or more desiccant canisters containing silica gel.
+Nature and contents of container
+
+White  high  density  polyethylene  (HDPE)  bottle  with  a  tamper  evident  seal  and  a  child-resistant  closure,
+
+together with one or more desiccant canisters containing silica gel.
 
 Pack sizes: 10, 28 or 90 capsules and multipacks containing 112 (4 packs of 28) capsules.
 
 Not all pack sizes may be marketed.
 
-## 6.6 Special precautions for disposal
+6.6
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Special precautions for disposal
 
-## 7. MARKETING AUTHORISATION HOLDER
+Any unused medicinal product or waste material should be disposed of in accordance with local
 
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+AbbVie Deutschland GmbH &amp; Co. KG
+
+Knollstrasse
+
+67061 Ludwigshafen
+
+Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -342,15 +443,23 @@ EU/1/12/801/004
 
 EU/1/12/801/005
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 November 2012
 
 Date of latest renewal: 28 August 2017
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu.
+
+10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -369,8 +478,6 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturers responsible for batch release
 
 Forest Laboratories Ireland Limited Clonshaugh Business and Technology Park Clonshaugh Dublin 17, D17 E400 Ireland
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -511,7 +618,9 @@ OUTER CARTON CONTAINING 4 x 28 CAPSULE BOTTLES (MULTIPACK) WITH BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Constella 290 micrograms hard capsules linaclotide
+Constella 290 micrograms hard capsules
+
+linaclotide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -881,13 +990,17 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Very common (may affect more than 1 in 10 people):
+## Serious side effects:
+
+Stop using Constella and seek medical attention immediately if you experience any of the following symptoms: difficulty breathing, light-headedness, fainting, fast heartbeat, swelling of the face, throat, or other parts of the body and sweating. These could be signs of an anaphylactic reaction (sudden, severe allergic reaction) (not known: frequency cannot be estimated from the available data).
+
+## Very common (may affect more than 1 in 10 people):
 
 - diarrhoea
 
 Diarrhoea is normally short lived; however, if you experience severe or prolonged diarrhoea (passing of frequent watery stools for 7 days or more) and feel lightheaded, dizzy or faint, stop taking Constella and contact your doctor.
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - stomach or abdominal pain
 - feeling bloated
@@ -903,13 +1016,14 @@ Common (may affect up to 1 in 10 people):
 - dehydration
 - low level of potassium in your blood
 - decreased appetite
+
+<div style=\"page-break-after: always\"></div>
+
 - rectal bleeding
 - bleeding from the bowel or rectum including bleeding from piles/haemorrhoids
 - nausea
 - vomiting
 - hives (urticaria)
-
-<div style=\"page-break-after: always\"></div>
 
 Rare (may affect up to 1 in 1 000 people):
 
@@ -918,7 +1032,7 @@ Rare (may affect up to 1 in 1 000 people):
 
 Not known (frequency cannot be estimated from the available data):
 
-- Rash
+- rash
 
 ## Reporting of side effects
 
@@ -953,13 +1067,13 @@ Capsule shell: red iron oxide (E172), titanium dioxide (E171), yellow iron oxide
 
 Capsule ink: shellac, propylene glycol, concentrated ammonia solution, potassium hydroxide, titanium dioxide (E171) and black iron oxide (E172).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Constella looks like and contents of the pack
 
 The capsules are white to off-white-orange opaque hard capsules marked '290' with grey ink.
 
 They are packaged in a white, high density polyethylene (HDPE) bottle with a tamper evident seal and a child-resistant screw cap, together with one or more desiccant canisters containing silica gel.
-
-<div style=\"page-break-after: always\"></div>
 
 Constella is available in packs containing 10, 28 or 90 capsules and in multipacks of 112 capsules comprising 4 cartons, each containing 28 capsules. Not all pack-sizes may be marketed.
 
@@ -979,9 +1093,17 @@ AbbVie SA
 
 Tél/Tel: +32 10 477811
 
+Lietuva AbbVie UAB Tel: + 370 5 205 3023
+
 ## България
 
-АбВи ЕООД Тел:+359 2 90 30 430
+АбВи ЕООД
+
+Тел:+359 2 90 30 430
+
+## Luxembourg/Luxemburg
+
+AbbVie SA Belgique/Belgien Tél/Tel: +32 10 477811
 
 ## Česká republika
 
@@ -989,11 +1111,23 @@ AbbVie s.r.o.
 
 Tel.: +420 233 098 111
 
+## Magyarország
+
+AbbVie Kft.
+
+Tel:+36 1 455 8600
+
 ## Danmark
 
 AbbVie A/S
 
 Tlf: +45 72 30 20 28
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 27780331
 
 ## Deutschland
 
@@ -1002,6 +1136,14 @@ AbbVie Deutschland GmbH &amp; Co. KG
 Tel.: 00800 222843 33 (gebührenfrei)
 
 Tel.: +49 (0) 611 / 1720-0
+
+## Nederland
+
+AbbVie B.V.
+
+Tel: +31 (0)88 322 2843
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1021,33 +1163,55 @@ AbbVie Spain, S.L.U.
 
 Tel: +34 913840910
 
-## Lietuva
+## France
 
-AbbVie UAB
+## AbbVie
 
-Tel: + 370 5 205 3023
+Tél: +33 (0) 1 45 60 13 00
 
-## Luxembourg/Luxemburg
+## Hrvatska
 
-AbbVie SA
+AbbVie d.o.o.
 
-Belgique/Belgien Tél/Tel: +32 10 477811
+Tel: + 385 (0)1 5625 501
 
-## Magyarország
+## Ireland
 
-AbbVie Kft.
+AbbVie Limited
 
-Tel:+36 1 455 8600
+Tel: +353 (0)1 4287900
 
-## Malta
+## Ísland
 
-Vivian Corporation Ltd. Tel: +356 27780331
+Vistor hf.
 
-## Nederland
+Sími: +354 535 7000
 
-AbbVie B.V.
+## Italia
 
-Tel: +31 (0)88 322 2843
+AbbVie S.r.l.
+
+Tel: +39 06 928921
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ: +357 22 34 74 40
+
+## Latvija
+
+AbbVie SIA
+
+Tel: +371 67605000
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+To listen to or request a copy of this leaflet in Braille, large print or audio, please contact the local representative of the Marketing Authorisation Holder.
 
 ## Norge
 
@@ -1067,23 +1231,11 @@ AbbVie Sp. z o.o.
 
 Tel.: +48 22 372 78 00
 
-## France
-
-AbbVie
-
-Tél: +33 (0) 1 45 60 13 00
-
 ## Portugal
 
 AbbVie, Lda.
 
 Tel.: +351 (0)21 1908400
-
-## Hrvatska
-
-AbbVie d.o.o.
-
-Tel: + 385 (0)1 5625 501
 
 ## România
 
@@ -1091,23 +1243,11 @@ AbbVie S.R.L.
 
 Tel: +40 21 529 30 35
 
-## Ireland
-
-AbbVie Limited
-
-Tel: +353 (0)1 4287900
-
 ## Slovenija
 
 AbbVie Biofarmacevtska družba d.o.o.
 
 Tel: +386 (1)32 08 060
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1115,23 +1255,11 @@ AbbVie s.r.o.
 
 Tel: +421 2 5050 0777
 
-## Italia
-
-AbbVie S.r.l.
-
-Tel: +39 06 928921
-
 ## Suomi/Finland
 
 AbbVie Oy
 
 Puh/Tel: +358 (0)10 2411 200
-
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: +357 22 34 74 40
 
 ## Sverige
 
@@ -1139,20 +1267,44 @@ AbbVie AB
 
 Tel: +46 (0)8 684 44 600
 
-## Latvija
+<div style=\"page-break-after: always\"></div>
 
-AbbVie SIA
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
 
 <div style=\"page-break-after: always\"></div>
 
-AbbVie SIA
+## Scientific conclusions
 
-Tel: +371 67605000
+Taking into account the PRAC Assessment Report on the PSUR(s) for linaclotide, the scientific conclusions of PRAC are as follows:
 
-## This leaflet was last revised in
+In view of available data on anaphylactic reaction from spontaneous reports including cases with a close temporal relationship, typical symptoms, typical treatment and a positive de-challenge, the PRAC considers a causal relationship between linaclotide and anaphylactic reaction is at least a reasonable possibility. The PRAC concluded that the product information of products containing linaclotide should be amended accordingly.
 
-## Other sources of information
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Grounds for the variation to the terms of the marketing authorisation(s)
 
-To listen to or request a copy of this leaflet in Braille, large print or audio, please contact the local representative of the Marketing Authorisation Holder.
+On the basis of the scientific conclusions for linaclotide the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing linaclotide is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+
+Update of section 4.8 of the SmPC to add anaphylactic reaction with a frequency not known. The Package leaflet is updated accordingly.
+
+## Summary of Product Characteristics
+
+Section 4.8
+
+The following adverse reaction(s) should be added under the SOC Immune system disorders with a frequency of ''not known':
+
+## Anaphylactic reaction
+
+## Package Leaflet
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects:
+
+Stop using &lt; product name &gt; and seek medical attention immediately if you experience any of the following symptoms: difficulty breathing, light-headedness, fainting, fast heartbeat, swelling of the face, throat, or other parts of the body and sweating. These could be signs of an anaphylactic reaction (sudden, severe allergic reaction) (not known: frequency cannot be estimated from the available data).

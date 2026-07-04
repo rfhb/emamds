@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 15:48:00
+document_datetime: 2026-07-01 10:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.3202095
-conversion_datetime: 2026-06-25 16:47:11.190413
+processing_time: 0.5283763
+conversion_datetime: 2026-07-04 13:07:02.880452
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
@@ -41,7 +41,6 @@ Page contents
 - [Related content](#related-content-1478)
 - [Clinical data](#clinical-data-78619)
 - [More information on Keytruda](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -268,7 +267,7 @@ English (EN) (200 KB - PDF)
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-604)
+[Other languages (22)](#file-language-dropdown-602)
 
 български (BG) (225.58 KB - PDF)
 
@@ -404,9 +403,9 @@ svenska (SV) (188.01 KB - PDF)
 
 Keytruda : EPAR - Risk management plan
 
-English (EN) (1.75 MB - PDF)
+English (EN) (1.97 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 22/04/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/en/documents/rmp/keytruda-epar-risk-management-plan_en.pdf)
 
@@ -414,161 +413,161 @@ English (EN) (1.75 MB - PDF)
 
 Keytruda : EPAR - Product information
 
-English (EN) (6 MB - PDF)
+English (EN) (6.55 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-173)
+[Other languages (24)](#file-language-dropdown-264)
 
-български (BG) (12.96 MB - PDF)
+български (BG) (13.41 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/keytruda-epar-product-information_bg.pdf)
 
-español (ES) (7.54 MB - PDF)
+español (ES) (7.59 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/keytruda-epar-product-information_es.pdf)
 
-čeština (CS) (9.83 MB - PDF)
+čeština (CS) (8.41 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/keytruda-epar-product-information_cs.pdf)
 
-dansk (DA) (5.94 MB - PDF)
+dansk (DA) (6.32 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/keytruda-epar-product-information_da.pdf)
 
-Deutsch (DE) (9.45 MB - PDF)
+Deutsch (DE) (9.88 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/keytruda-epar-product-information_de.pdf)
 
 eesti (ET) (6.91 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/keytruda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (9.84 MB - PDF)
+ελληνικά (EL) (10.24 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/keytruda-epar-product-information_el.pdf)
 
-français (FR) (7.32 MB - PDF)
+français (FR) (7.82 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/keytruda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (7.71 MB - PDF)
+hrvatski (HR) (7.48 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/keytruda-epar-product-information_hr.pdf)
 
-italiano (IT) (7.08 MB - PDF)
+italiano (IT) (7.23 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/keytruda-epar-product-information_it.pdf)
 
-latviešu (LV) (9.34 MB - PDF)
+latviešu (LV) (9.84 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/keytruda-epar-product-information_lv.pdf)
 
-lietuvių (LT) (8.59 MB - PDF)
+lietuvių (LT) (8.56 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/keytruda-epar-product-information_lt.pdf)
 
-magyar (HU) (7.78 MB - PDF)
+magyar (HU) (7.98 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/keytruda-epar-product-information_hu.pdf)
 
-Malti (MT) (9 MB - PDF)
+Malti (MT) (8.83 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/keytruda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (6.78 MB - PDF)
+Nederlands (NL) (7.04 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/keytruda-epar-product-information_nl.pdf)
 
-polski (PL) (8.5 MB - PDF)
+polski (PL) (9.17 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/keytruda-epar-product-information_pl.pdf)
 
-português (PT) (6.71 MB - PDF)
+português (PT) (6.82 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/keytruda-epar-product-information_pt.pdf)
 
-română (RO) (8.84 MB - PDF)
+română (RO) (9.16 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/keytruda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (9.76 MB - PDF)
+slovenčina (SK) (9.86 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/keytruda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (8.11 MB - PDF)
+slovenščina (SL) (9.86 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/keytruda-epar-product-information_sl.pdf)
 
-suomi (FI) (6.74 MB - PDF)
+suomi (FI) (6.51 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/keytruda-epar-product-information_fi.pdf)
 
-svenska (SV) (6.28 MB - PDF)
+svenska (SV) (6.35 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/keytruda-epar-product-information_sv.pdf)
 
-Íslenska (IS) (7.44 MB - PDF)
+Íslenska (IS) (7.2 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/is/documents/product-information/keytruda-epar-product-information_is.pdf)
 
-norsk (NO) (6.73 MB - PDF)
+norsk (NO) (6.66 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 23/06/2026
+**First published:** 30/07/2015 **Last updated:** 01/07/2026
 
 [View](/no/documents/product-information/keytruda-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000317322
+**Latest procedure affecting product information:** VR/0000316576; VR/0000316515
 
-30/04/2026
+19/06/2026
 
 icon globe
 
@@ -593,7 +592,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-617)
 
 български (BG) (24.69 KB - PDF)
 
@@ -795,6 +794,10 @@ Keytruda as monotherapy is indicated for the treatment of adult and paediatric p
 
 **Urothelial carcinoma**
 
+Keytruda, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+
+Keytruda, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
+
 Keytruda as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who have received prior platinum containing chemotherapy.
 
 Keytruda as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who are not eligible for cisplatin containing chemotherapy and whose tumours express PD L1 with a combined positive score (CPS) ≥ 10.
@@ -874,7 +877,7 @@ Keytruda, in combination with paclitaxel, with or without bevacizumab, is indica
 - **Marketing authorisation issued**
     - 17/07/2015
 - **Revision**
-    - 71
+    - 72
 
 ## Assessment history
 
@@ -886,9 +889,9 @@ Collapse section
 
 Keytruda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (200.92 KB - PDF)
+English (EN) (211.67 KB - PDF)
 
-**First published:** 14/08/2025 **Last updated:** 23/06/2026
+**First published:** 14/08/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -899,6 +902,46 @@ English (EN) (530.94 KB - PDF)
 **First published:** 29/03/2016 **Last updated:** 14/08/2025
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Keytruda-VR-0000316576 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2968830
+
+English (EN) (1.21 MB - PDF)
+
+**First published:** 01/07/2026
+
+[View](/en/documents/variation-report/keytruda-vr-0000316576-epar-assessment-report-variation_en.pdf)
+
+Keytruda-VR-0000312515 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3005612
+
+English (EN) (15.75 MB - PDF)
+
+**First published:** 01/07/2026
+
+[View](/en/documents/variation-report/keytruda-vr-0000312515-epar-assessment-report-variation_en.pdf)
+
+CHMP summary of post-authorisation positive opinion for Keytruda (VR/0000316576)
+
+Adopted Reference Number: EMADOC-1700519818-3170644
+
+English (EN) (122.36 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/smop/chmp-summary-post-authorisation-positive-opinion-keytruda-vr-0000316576_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Keytruda (VR-0000312515)
+
+Adopted Reference Number: EMADOC-1700519818-3169949
+
+English (EN) (124.71 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-vr-0000312515_en.pdf)
 
 Keytruda-VR-0000293815 : EPAR - Assessment report - Variation
 
@@ -1158,7 +1201,7 @@ English (EN) (131.26 KB - PDF)
 
 **First published:** 29/06/2022
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-202109-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-202109-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-003820-II-0110 : EPAR - Assessment report - Variation
 
@@ -1308,7 +1351,7 @@ English (EN) (125.54 KB - PDF)
 
 **First published:** 14/07/2021
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-202009-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-202009-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-97)
 
@@ -1388,7 +1431,7 @@ English (EN) (150.21 KB - PDF)
 
 **First published:** 11/06/2020
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201909-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201909-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-3820-II-0065 : EPAR - Assessment Report - Variation
 
@@ -1458,7 +1501,7 @@ English (EN) (122.05 KB - PDF)
 
 **First published:** 30/05/2019
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201809-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201809-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-3820-II-0060: EPAR - Assessment Report - Variation
 
@@ -1476,7 +1519,7 @@ English (EN) (66.33 KB - PDF)
 
 **First published:** 08/02/2019
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201803-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201803-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-3820-II-0047 : EPAR - Assessment Report - Variation
 
@@ -1536,7 +1579,7 @@ English (EN) (67.69 KB - PDF)
 
 **First published:** 16/01/2018 **Last updated:** 16/01/2018
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201703-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201703-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-2830-II-0023-G : EPAR - Assessment Report - Variation
 
@@ -1556,7 +1599,7 @@ English (EN) (106.56 KB - PDF)
 
 **First published:** 02/08/2017 **Last updated:** 02/08/2017
 
-[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201609-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda
 
@@ -1820,7 +1863,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-81)
+[Other languages (22)](#file-language-dropdown-916)
 
 български (BG) (145.05 KB - PDF)
 
@@ -1967,7 +2010,6 @@ svenska (SV) (122.23 KB - PDF)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda-0)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
 - [PSUSA/00002540/202509 - periodic safety update report single assessment](/en/node/279051)
-- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
 - [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-2)
 - [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
@@ -1977,12 +2019,8 @@ svenska (SV) (122.23 KB - PDF)
 - [A post-licensure prospective observational registry study in real-world Taiwanese cancer patients with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) genes - post-authorisation study](https://catalogues.ema.europa.eu/study/47306)
 - [Non-interventional post-marketing safety study (PMSS) to collect information on hepatic function disorders among Japanese patients with radically unresectable or metastatic renal cell carcinoma treated with pembrolizumab in combination with axitinib (MK-3475-A97) - post-authorisation study](https://catalogues.ema.europa.eu/study/48486)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-23/06/2026
+01/07/2026
 
 ## Share this page

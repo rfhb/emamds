@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-21 11:46:39
-document_pages: 169
+document_datetime: 2026-07-03 11:32:26
+document_pages: 166
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pyzchiva-epar-product-information_en.pdf
 document_name: pyzchiva-epar-product-information_en.pdf
 version: success
-processing_time: 42.0298425
-conversion_datetime: 2025-12-30 02:41:47.343422
+processing_time: 82.5388617
+conversion_datetime: 2026-07-04 14:49:00.456537
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,9 +64,9 @@ Pyzchiva concentrate for solution for infusion should only be used for the intra
 
 ## Posology
 
-## Adult
+Adult
 
-Crohn's Disease
+## Crohn's Disease
 
 Pyzchiva treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Pyzchiva 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
@@ -150,17 +150,15 @@ All patients, in particular those greater than 60 years of age, patients with a 
 
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of ustekinumab should be discontinued (see section 4.8).
 
-## Infusion -Related Reactions
+## Infusion-Related Reactions
 
 Infusion-related reactions were observed in clinical trials (see section 4.8). Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting. If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
 
 ## Respiratory
 
-Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough,
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 ## Cardiovascular events
 
@@ -190,11 +188,9 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 
 ## Lupus-related conditions
 
-Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 ## Special populations
 
@@ -224,11 +220,9 @@ In psoriasis studies, the safety and efficacy of ustekinumab in combination with
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential
+Women of childbearing potential Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
 
 ## Pregnancy
 
@@ -264,7 +258,7 @@ The safety data described below reflect exposure in adults to ustekinumab in 14 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt; 1/10), Uncommon ( ≥ 1/1,000 to &lt; 1/100), Rare ( ≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness
 
 Table 3: List of adverse reactions
 
@@ -280,13 +274,15 @@ Table 3: List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
+
 ## Description of selected adverse reactions Infections
 
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+
+<div style=\"page-break-after: always\"></div>
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -310,19 +306,19 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
+<div style=\"page-break-after: always\"></div>
+
 Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic properties
+## Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
@@ -344,13 +340,11 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Crohn's Disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease
-
-<div style=\"page-break-after: always\"></div>
-
-(Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
@@ -383,11 +377,11 @@ b p &lt; 0.01
 
 The maintenance study (IM-UNITI) evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the ustekinumab Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
-<div style=\"page-break-after: always\"></div>
-
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 5).
 
 Table 5: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+<div style=\"page-break-after: always\"></div>
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
 |--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
@@ -426,19 +420,19 @@ In IM-UNITI, patients who completed the study through week 44 were eligible to c
 
 The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
 
-<div style=\"page-break-after: always\"></div>
-
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
 ## Endoscopy
 
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fistula Response
 
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumabtreated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
-## Health -Related Quality of Life
+## Health-Related Quality of Life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
@@ -458,13 +452,13 @@ The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients w
 
 The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
 Table 6 presents the analyses for the secondary endpoints through maintenance week 44.
 
-Table 6: Summary of Secondary endpoints through Maintenance week 44
+## Table 6: Summary of Secondary endpoints through Maintenance week 44
+
+<div style=\"page-break-after: always\"></div>
 
 |                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
 |--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
@@ -494,11 +488,11 @@ The safety profile of the induction dose regimen and both maintenance dose regim
 
 The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
 
-## Health -related quality of life
+## Health-related quality of life
 
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
-## 5.2 Pharmacokinetic properties
+## 5.1 Pharmacokinetic properties
 
 Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease.
 
@@ -510,11 +504,11 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 The exact metabolic pathway for ustekinumab is unknown.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose linearity
 
@@ -536,19 +530,19 @@ A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conduc
 
 Serum ustekinumab concentrations in paediatric Crohn's disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn's disease population treated with the adult weight-based dose.
 
-## 5.3 Preclinical safety data
+## 5.2 Preclinical safety data
 
 Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
 Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
-
-<div style=\"page-break-after: always\"></div>
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
+
+<div style=\"page-break-after: always\"></div>
 
 Histidine Histidine hydrochloride monohydrate Methionine Disodium edetate Sucrose Polysorbate 80 (E 433) Water for injections
 
@@ -558,7 +552,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Before dilution 3 years Do not freeze.
+Before dilution 42 months Do not freeze.
 
 Individual vials may be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the vial if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -574,8 +568,6 @@ Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 26 mL solution in a type I glass 30 mL vial closed with a chlorobutyl rubber stopper. Pyzchiva is available in packs of 1 or 3 vials or multipack containing 3 (3 packs of 1) vials.
@@ -586,13 +578,15 @@ Not all pack sizes may be marketed
 
 The solution in the Pyzchiva vial should not be shaken. The solution should be visually inspected for particulate matter or discoloration prior to administration. The solution is clear, colourless to light yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dilution
 
 Pyzchiva concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
 
 1. Calculate the dose and the number of Pyzchiva vials needed based on patient weight (see section 4.2, Table 1). Each 26 mL vial of Pyzchiva contains 130 mg of ustekinumab. Only use complete vials of Pyzchiva.
 2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Pyzchiva to be added. (discard 26 mL sodium chloride for each vial of Pyzchiva needed, for 2 vials-discard 52 mL, for 3 vialsdiscard 78 mL, for 4 vials- discard 104 mL). Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.
-3. Withdraw 26 mL of Pyzchiva from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently   mix.
+3. Withdraw 26 mL of Pyzchiva from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently  mix.
 4. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discoloration or foreign particles are observed.
 5. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within 72 hours at room temperature up to 30°C of the dilution in the infusion bag. If necessary, the diluted infusion solution may be kept at 2°C to 8°C for up to 1 month and at room temperature up to 30°C for an additional 72 hours after removal from refrigeration including the infusion period.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
@@ -604,9 +598,9 @@ Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1801/003 EU/1/24/1801/006 EU/1/24/1801/008
+EU/1/24/1801/003 EU/1/24/1801/006
 
-<div style=\"page-break-after: always\"></div>
+EU/1/24/1801/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -614,7 +608,7 @@ Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -630,9 +624,7 @@ Pyzchiva 45 mg solution for injection Pyzchiva 45 mg solution for injection in p
 
 Pyzchiva 45 mg solution for injection Each vial contains 45 mg ustekinumab in 0.5 mL.
 
-Pyzchiva 45 mg solution for injection in pre-filled syringe
-
-Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
+Pyzchiva 45 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 
 Pyzchiva 90 mg solution for injection in pre-filled syringe
 
@@ -644,9 +636,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Pyzchiva 45 mg solution for injection
-
-Solution for injection.
+Pyzchiva 45 mg solution for injection Solution for injection.
 
 Pyzchiva 45 mg solution for injection in pre-filled syringe Solution for injection.
 
@@ -664,11 +654,9 @@ Pyzchiva is indicated for the treatment of moderate to severe plaque psoriasis i
 
 ## Paediatric plaque psoriasis
 
-Pyzchiva is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are
+Pyzchiva is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-intolerant to, other systemic therapies or phototherapies (see section 5.1).
 
 ## Psoriatic arthritis (PsA)
 
@@ -704,7 +692,7 @@ The recommended posology of Pyzchiva is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -727,7 +715,7 @@ Table 1: Recommended dose of ustekinumab for paediatric psoriasis
 | Body weight at the time of dosing   | Recommended Dose   |
 |-------------------------------------|--------------------|
 | < 60 kg                             | 0.75 mg/kg         |
-| ≥ 60- ≤ 100 kg                      | 45 mg              |
+| ≥ 60 - ≤ 100 kg                     | 45 mg              |
 | > 100 kg                            | 90 mg              |
 
 To calculate the volume of injection (mL) for patients &lt; 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2. The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe. A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
@@ -737,51 +725,51 @@ Table 2: Injection volumes of Pyzchiva for paediatric psoriasis patients &lt; 60
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 |                                   26 |        19.5 |                       0.22 |
 |                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
+|                                   28 |        21.0 |                       0.23 |
 |                                   29 |        21.8 |                       0.24 |
 |                                   30 |        22.5 |                       0.25 |
 |                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
+|                                   32 |        24.0 |                       0.27 |
 |                                   33 |        24.8 |                       0.27 |
 |                                   34 |        25.5 |                       0.28 |
 |                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
+|                                   36 |        27.0 |                       0.30 |
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
-|                                   40 |        30   |                       0.33 |
+|                                   40 |        30.0 |                       0.33 |
 |                                   41 |        30.8 |                       0.34 |
 |                                   42 |        31.5 |                       0.35 |
 |                                   43 |        32.3 |                       0.36 |
-|                                   44 |        33   |                       0.37 |
+|                                   44 |        33.0 |                       0.37 |
 |                                   45 |        33.8 |                       0.37 |
 |                                   46 |        34.5 |                       0.38 |
 |                                   47 |        35.3 |                       0.39 |
-|                                   48 |        36   |                       0.4  |
+|                                   48 |        36.0 |                       0.40 |
 |                                   49 |        36.8 |                       0.41 |
 |                                   50 |        37.5 |                       0.42 |
+|                                   51 |        38.3 |                       0.42 |
 
 <div style=\"page-break-after: always\"></div>
 
-|   51 |   38.3 |   0.42 |
+|   52 |   39.0 |   0.43 |
 |------|--------|--------|
-|   52 |   39   |   0.43 |
 |   53 |   39.8 |   0.44 |
 |   54 |   40.5 |   0.45 |
 |   55 |   41.3 |   0.46 |
-|   56 |   42   |   0.46 |
+|   56 |   42.0 |   0.46 |
 |   57 |   42.8 |   0.47 |
 |   58 |   43.5 |   0.48 |
 |   59 |   44.3 |   0.49 |
@@ -808,7 +796,7 @@ Immunomodulators and/or corticosteroids may be continued during treatment with P
 
 In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -822,11 +810,9 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 In the treatment regimen, the first dose of Pyzchiva is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Pyzchiva 130 mg Concentrate for solution for infusion SmPC.
 
-The first subcutaneous administration of 90 mg Pyzchiva should take place at week 8 after the
+The first subcutaneous administration of 90 mg Pyzchiva should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-intravenous dose. After this, dosing every 12 weeks is recommended.
 
 Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
@@ -864,11 +850,9 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of ustekinumab in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
-Prior to initiating treatment with ustekinumab, patients should be evaluated for tuberculosis infection. ustekinumab must not be given to patients with active tuberculosis (see section 4.3). Treatment of
+Prior to initiating treatment with ustekinumab, patients should be evaluated for tuberculosis infection. ustekinumab must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering ustekinumab. Anti-tuberculosis therapy should also be considered prior to initiation of ustekinumab in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving ustekinumab should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-latent tuberculosis infection should be initiated prior to administering ustekinumab. Anti-tuberculosis therapy should also be considered prior to initiation of ustekinumab in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving ustekinumab should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and ustekinumab should not be administered until the infection resolves.
 
@@ -880,9 +864,7 @@ No studies have been conducted that include patients with a history of malignanc
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
-## Systemic and respiratory hypersensitivity reactions
-
-## Systemic
+## Systemic and respiratory hypersensitivity reactions Systemic
 
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of ustekinumab should be discontinued (see section 4.8).
 
@@ -898,9 +880,9 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with ustekinumab. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with ustekinumab should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
-<div style=\"page-break-after: always\"></div>
-
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients receiving ustekinumab may receive concurrent inactivated or non-live vaccinations.
 
@@ -922,7 +904,9 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 
 Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
-## Special populations Elderly
+## Special populations
+
+## Elderly
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -934,11 +918,9 @@ Ustekinumab contains 0.04 mg (90 mg/1.0mL) or 0.02 mg (45 mg/0.5 mL) of polysorb
 
 Live vaccines should not be given concurrently with ustekinumab.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 <div style=\"page-break-after: always\"></div>
-
-undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
@@ -966,11 +948,9 @@ Administration of live vaccines (such as the BCG vaccine) to infants exposed in 
 
 ## Breast-feeding
 
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with ustekinumab must be made taking into account the benefit of breast-feeding to the child and the benefit of ustekinumab therapy to the woman.
 
 <div style=\"page-break-after: always\"></div>
-
-discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with ustekinumab must be made taking into account the benefit of breast-feeding to the child and the benefit of ustekinumab therapy to the woman.
 
 ## Fertility
 
@@ -990,26 +970,26 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt; 1/10), Uncommon ( ≥ 1/1,000 to &lt; 1/100), Rare ( ≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3: List of adverse reactions
 
-| System Organ Class          | Frequency: Adverse reaction                                                                                                                                                                                                              |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-| Immune system disorders     | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
-| Psychiatric disorders       | Uncommon: Depression                                                                                                                                                                                                                     |
-| Nervous system disorders    | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| System Organ Class                              | Frequency: Adverse reaction                                                                                                                                                                                                              |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders                         | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
+| Psychiatric disorders                           | Uncommon: Depression                                                                                                                                                                                                                     |
+| Nervous system disorders                        | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Gastrointestinal disorders                      | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                  |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                     |
-| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus |
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
+| System Organ Class                                        | Frequency: Adverse reaction                                                                                                                                                                  |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders                    | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus |
+| Musculoskeletal and connective tissue                     | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
+| di d General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
 
 ## Description of selected adverse reactions Infections
 
@@ -1023,11 +1003,9 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
@@ -1061,13 +1039,11 @@ Pyzchiva is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages
-
-<div style=\"page-break-after: always\"></div>
-
-and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+
+<div style=\"page-break-after: always\"></div>
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
@@ -1087,11 +1063,11 @@ Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients we
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
-<div style=\"page-break-after: always\"></div>
-
-Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
+Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DL QI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
@@ -1123,32 +1099,23 @@ b PGA = Physician Global Assessment
 
 Table 5: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                  | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | week)                              | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                          | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                          | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                           | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                          | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                          | 109 (72%)                               | 189 (77%)                               |
-
-<div style=\"page-break-after: always\"></div>
-
-|                             | Psoriasis Study 3                | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|-----------------------------|----------------------------------|-----------------------------------------|-----------------------------------------|
-|                             | Etanercept 24 doses (50 mg twice | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                             | a week)                          | 45 mg                                   | 90 mg                                   |
-| Number of patients > 100 kg | 96                               | 58                                      | 103                                     |
-| PASI 75 response N (%)      | 43 (45%)                         | 32 (55%)                                | 67 (65%)                                |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+|                                 | Psoriasis Study 3                | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|----------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 | a week)                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                              | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                        | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                        | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                         | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                        | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                              | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                        | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                               | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                         | 32 (55%)                                | 67 (65%)                                |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+
+<div style=\"page-break-after: always\"></div>
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after reinitiating therapy.
 
@@ -1158,15 +1125,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA ( ≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebocontrolled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
-Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX ( ≤ 25 mg/week).
-
-In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had
-
-<div style=\"page-break-after: always\"></div>
-
-discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
 
 ## Signs and Symptoms
 
@@ -1174,11 +1135,17 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 6: Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
+|                               | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 |                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
 | ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
 | ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
 | Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
@@ -1204,23 +1171,21 @@ d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
-The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses
-
-<div style=\"page-break-after: always\"></div>
-
-were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
+The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a g reater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Radiographic Response
 
 Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
-## Physical Function and Health -Related Quality of Life
+## Physical Function and Health-Related Quality of Life
 
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through Weeks 52 and 100.
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
@@ -1232,17 +1197,15 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Ustekinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis.
 
-## Adolescent patients (12 -17 years)
+## Adolescent patients (12-17 years)
 
-The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicenter, phase 3, randomised, double-blind, placebo-controlled
-
-<div style=\"page-break-after: always\"></div>
-
-study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
+The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicenter, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
 
 The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
+
+<div style=\"page-break-after: always\"></div>
 
 All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 7).
 
@@ -1266,13 +1229,9 @@ Table 7: Summary of primary and secondary endpoints at week 12 and week 52
 | PedsQL                                            |                                                   |                                                   |                                                   |
 | Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
 
-During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing
+During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
 
-<div style=\"page-break-after: always\"></div>
-
-interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
-
-## Children (6 -11 years)
+## Children (6-11 years)
 
 The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicenter, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
 
@@ -1280,16 +1239,19 @@ Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who we
 
 The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children's Dermatology Life Quality Index (CDLQI) at week 12. At week 12, subjects treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 8).
 
+<div style=\"page-break-after: always\"></div>
+
 All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 8).
 
 Table 8: Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | Week 12 dose                                         | Week 52 Recommended dose of Ustekinumab              |
-|                                                      | Recommended of Ustekinumab                           |                                                      |
+|                                                      | Week 12                                              | Week 52 Recommended dose of Ustekinumab              |
+|                                                      | Recommended dose of Ustekinumab                      |                                                      |
 |                                                      | N (%)                                                | N (%)                                                |
 | Patients enrolled                                    | 44                                                   | 41                                                   |
+| PGA                                                  |                                                      |                                                      |
 | PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
 | PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
 | PASI                                                 |                                                      |                                                      |
@@ -1300,13 +1262,9 @@ Table 8: Summary of primary and secondary endpoints at week 12 and week 52
 | Patients with a CDLQI > 1 at baseline                | (N=39)                                               | (N=36)                                               |
 | CDLQI of 0 or 1                                      | 24 (61.5%)                                           | 21 (58.3%)                                           |
 
-a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
-
 ## Crohn's Disease
 
 The safety and efficacy of ustekinumab was assessed in three randomized, double-blind, placebocontrolled, multicenter studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomized withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analyzed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Pyzchiva 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -1314,18 +1272,20 @@ Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Ap
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
+<div style=\"page-break-after: always\"></div>
+
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 9: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                              |
+|---------------------------------------|-----------------|------------------------------------------|-----------------|-----------------------------------------|
+|                                       | Placebo N = 247 | Recommendedd dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41              | 84 (40.2%) a                            |
+| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60              | 116 (55.5%) a                           |
+| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67              | 121 (57.9%) a                           |
+| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66              | 106 (50.7%) a                           |
+| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81              | 135 (64.6%) a                           |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
@@ -1343,8 +1303,6 @@ The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point 
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 10).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 10: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
@@ -1359,6 +1317,8 @@ Table 10: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 5
 | who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+
+<div style=\"page-break-after: always\"></div>
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy.
 
@@ -1384,8 +1344,6 @@ In IM-UNITI, patients who completed the study through week 44 were eligible to c
 
 The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
 
-<div style=\"page-break-after: always\"></div>
-
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
 ## Endoscopy
@@ -1394,11 +1352,13 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 ## Fistula Response
 
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumabtreated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
-## Health -Related Quality of Life
+## Health-Related Quality of Life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
 
@@ -1414,11 +1374,7 @@ The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients w
 
 ## Efficacy results
 
-The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is
-
-<div style=\"page-break-after: always\"></div>
-
-comparable to that observed in the adult ustekinumab phase 3 studies.
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
 
 Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
@@ -1434,13 +1390,15 @@ Table 11: Summary of Secondary endpoints through Maintenance week 44
 | Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
 | Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
 
-* Clinical remission is defined as PCDAI score ≤10 points.
+*
 
-§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+Clinical remission is defined as PCDAI score ≤10 points.
 
-† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+<div style=\"page-break-after: always\"></div>
 
-£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
+- § Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+- † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+- £ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
 
 ## Dosing frequency adjustment
 
@@ -1452,7 +1410,7 @@ The safety profile of the induction dose regimen and both maintenance dose regim
 
 The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
 
-## Health -related quality of life
+## Health-related quality of life
 
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
@@ -1462,11 +1420,7 @@ The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related 
 
 The median time to reach the maximum serum concentration (tmax) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
 
-The absolute bioavailability of ustekinumab following a single subcutaneous administration was
-
-<div style=\"page-break-after: always\"></div>
-
-estimated to be 57.2% in patients with psoriasis.
+The absolute bioavailability of ustekinumab following a single subcutaneous administration was estimated to be 57.2% in patients with psoriasis.
 
 ## Distribution
 
@@ -1482,7 +1436,11 @@ Median systemic clearance (CL) following a single intravenous administration to 
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately doseproportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately doseproportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately
+
+<div style=\"page-break-after: always\"></div>
+
+24 mg to 240 mg in patients with psoriasis.
 
 ## Single dose versus multiple doses
 
@@ -1492,15 +1450,11 @@ In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, sta
 
 ## Impact of weight on pharmacokinetics
 
-In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight ( ≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
 
-In patients with Crohn's disease, based on observed data and population PK analyses, randomized subjects who lost response to treatment had lower serum ustekinumab concentrations over time
-
-<div style=\"page-break-after: always\"></div>
-
-compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
+In patients with Crohn's disease, based on observed data and population PK analyses, randomized subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
 
 ## Special populations
 
@@ -1512,9 +1466,9 @@ In patients with Crohn's disease, variability in ustekinumab clearance was affec
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
-The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable
+The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
 
-Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+<div style=\"page-break-after: always\"></div>
 
 The steady-state serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
 
@@ -1528,11 +1482,7 @@ A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conduc
 
 Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
-Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose
-
-<div style=\"page-break-after: always\"></div>
-
-intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
+Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
@@ -1548,9 +1498,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+<div style=\"page-break-after: always\"></div>
+
 Pyzchiva 45 mg solution for injection 42 months
 
-Pyzchiva 45 mg solution for injection in pre-filled syringe 42 months
+## Pyzchiva 45 mg solution for injection in pre-filled syringe
+
+42 months
 
 Pyzchiva 90 mg solution for injection in pre-filled syringe 42 months
 
@@ -1570,11 +1524,9 @@ If needed, individual pre-filled syringes may be stored at room temperature up t
 
 0.5 mL solution in a type I glass 2 mL vial closed with a chlorobutyl rubber stopper.
 
-Pyzchiva 45 mg solution for injection in pre-filled syringe
+## Pyzchiva 45 mg solution for injection in pre-filled syringe
 
 0.5 mL solution in a type I glass 1 mL syringe with a 29-gauge fixed 1/2 inch stainless steel needle and a needle cover containing rubber and the bromobutyl rubber plunger stopper. The syringe is fitted with a passive safety guard.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pyzchiva 90 mg solution for injection in pre-filled syringe
 
@@ -1589,6 +1541,8 @@ The solution in the Pyzchiva vial or pre-filled syringe should not be shaken. Th
 Pyzchiva does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. Pyzchiva is supplied as a sterile, single-use vial or single-use prefilled syringe. The syringe needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm) needle is recommended.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1608,7 +1562,7 @@ Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1656,11 +1610,9 @@ Pyzchiva is indicated for the treatment of adult patients with moderately to sev
 
 ## 4.2 Posology and method of administration
 
-Pyzchiva is intended for use under the guidance and supervision of physicians experienced in the
+Pyzchiva is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of conditions for which Pyzchiva is indicated.
 
 <div style=\"page-break-after: always\"></div>
-
-diagnosis and treatment of conditions for which Pyzchiva is indicated.
 
 ## Posology
 
@@ -1704,11 +1656,9 @@ Patients who lose response on dosing every 12 weeks may benefit from an increase
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
 
 <div style=\"page-break-after: always\"></div>
-
-therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with Pyzchiva. In patients who have responded to treatment with Pyzchiva, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
@@ -1750,11 +1700,9 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving ustekinumab (see section 4.8).
 
-Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been
+Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
 
 <div style=\"page-break-after: always\"></div>
-
-reported in patients treated with ustekinumab.
 
 Caution should be exercised when considering the use of ustekinumab in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
@@ -1786,11 +1734,9 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 ## Vaccinations
 
-It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with ustekinumab. Specific studies have not been conducted
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with ustekinumab. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with ustekinumab should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 <div style=\"page-break-after: always\"></div>
-
-in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with ustekinumab should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
@@ -1854,11 +1800,9 @@ However, the available clinical experience is limited. As a precautionary measur
 
 Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 <div style=\"page-break-after: always\"></div>
-
-serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -2042,25 +1986,25 @@ Table 4: Number of patients who achieved clinical response in Psoriatic arthriti
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 |                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
 | Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| ACR 20 response, N (%)                      | 47 (23%)   | 87 (42%) a   | 101 (50%) a   | 21 (20%)   | 45 (44%) a   | 46 (44%) a   |
-|---------------------------------------------|------------|--------------|---------------|------------|--------------|--------------|
-| ACR 50 response, N (%)                      | 18 (9%)    | 51 (25%) a   | 57 (28%) a    | 7 (7%)     | 18 (17%) b   | 24 (23%) a   |
-| ACR 70 response, N (%)                      | 5 (2%)     | 25 (12%) a   | 29 (14%) a    | 3 (3%)     | 7 (7%) c     | 9 (9%) c     |
-| Number of patients with ≥ 3% BSA d          | 146        | 145          | 149           | 80         | 80           | 81           |
-| PASI 75 response, N (%)                     | 16 (11%)   | 83 (57%) a   | 93 (62%) a    | 4 (5%)     | 41 (51%) a   | 45 (56%) a   |
-| PASI 90 response, N (%)                     | 4 (3%)     | 60 (41%) a   | 65 (44%) a    | 3 (4%)     | 24 (30%) a   | 36 (44%) a   |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)     | 40 (28%) a   | 62 (42%) a    | 2 (3%)     | 24 (30%) a   | 31 (38%) a   |
-| Number of patients ≤ 100 kg                 | 154        | 153          | 154           | 74         | 74           | 73           |
-| ACR 20 response, N (%)                      | 39 (25%)   | 67 (44%)     | 78 (51%)      | 17 (23%)   | 32 (43%)     | 34 (47%)     |
-| Number of patients with ≥ 3% BSA d          | 105        | 105          | 111           | 54         | 58           | 57           |
-| PASI 75 response, N (%)                     | 14 (13%)   | 64 (61%)     | 73 (66%)      | 4 (7%)     | 31 (53%)     | 32 (56%)     |
-| Number of patients > 100 kg                 | 52         | 52           | 50            | 30         | 29           | 31           |
-| ACR 20 response, N (%)                      | 8 (15%)    | 20 (38%)     | 23 (46%)      | 4 (13%)    | 13 (45%)     | 12 (39%)     |
-| Number of patients with ≥ 3% BSA d          | 41         | 40           | 38            | 26         | 22           | 24           |
-| PASI 75 response, N (%)                     | 2 (5%)     | 19 (48%)     | 20 (53%)      | 0          | 10 (45%)     | 13 (54%)     |
+| ACR 50 response, N (%)                      | 18 (9%)   | 51 (25%) a   | 57 (28%) a   | 7 (7%)   | 18 (17%) b   | 24 (23%) a   |
+|---------------------------------------------|-----------|--------------|--------------|----------|--------------|--------------|
+| ACR 70 response, N (%)                      | 5 (2%)    | 25 (12%) a   | 29 (14%) a   | 3 (3%)   | 7 (7%) c     | 9 (9%) c     |
+| Number of patients with ≥ 3% BSA d          | 146       | 145          | 149          | 80       | 80           | 81           |
+| PASI 75 response, N (%)                     | 16 (11%)  | 83 (57%) a   | 93 (62%) a   | 4 (5%)   | 41 (51%) a   | 45 (56%) a   |
+| PASI 90 response, N (%)                     | 4 (3%)    | 60 (41%) a   | 65 (44%) a   | 3 (4%)   | 24 (30%) a   | 36 (44%) a   |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)    | 40 (28%) a   | 62 (42%) a   | 2 (3%)   | 24 (30%) a   | 31 (38%) a   |
+| Number of patients ≤ 100 kg                 | 154       | 153          | 154          | 74       | 74           | 73           |
+| ACR 20 response, N (%)                      | 39 (25%)  | 67 (44%)     | 78 (51%)     | 17 (23%) | 32 (43%)     | 34 (47%)     |
+| Number of patients with ≥ 3% BSA d          | 105       | 105          | 111          | 54       | 58           | 57           |
+| PASI 75 response, N (%)                     | 14 (13%)  | 64 (61%)     | 73 (66%)     | 4 (7%)   | 31 (53%)     | 32 (56%)     |
+| Number of patients > 100 kg                 | 52        | 52           | 50           | 30       | 29           | 31           |
+| ACR 20 response, N (%)                      | 8 (15%)   | 20 (38%)     | 23 (46%)     | 4 (13%)  | 13 (45%)     | 12 (39%)     |
+| Number of patients with ≥ 3% BSA d          | 41        | 40           | 38           | 26       | 22           | 24           |
+| PASI 75 response, N (%)                     | 2 (5%)    | 19 (48%)     | 20 (53%)     | 0        | 10 (45%)     | 13 (54%)     |
 
 a p &lt; 0.001
 
@@ -2076,17 +2020,15 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a g reater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
-For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 <div style=\"page-break-after: always\"></div>
-
-statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 ## Radiographic Response
 
 Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
-## Physical function and health -related quality of life
+## Physical function and health-related quality of life
 
 Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through Weeks 52 and 100.
 
@@ -2102,11 +2044,11 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the ustekinumab 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-
 
 <div style=\"page-break-after: always\"></div>
 
-In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+## TNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
@@ -2128,12 +2070,9 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * AntiTNFα failures
-
-**  Conventional therapy failures
-
-a p &lt; 0.001
-
-b p &lt; 0.01
+- **  Conventional therapy failures
+- a p &lt; 0.001
+- b p &lt; 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
@@ -2149,12 +2088,10 @@ Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52
 | Clinical Remission in patients:                  |                      |                                             |                                              |
 | in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
 | who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 <div style=\"page-break-after: always\"></div>
-
-| who are Anti- TNFα naïve         | 49% (25/51)   | 65% (34/52) c   | 57% (30/53)   |
-|----------------------------------|---------------|-----------------|---------------|
-| who entered from study CRD3001 § | 26% (16/61)   | 41% (23/56)     | 39% (22/57)   |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
@@ -2184,13 +2121,11 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 ## Fistula Response
 
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%)
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
 <div style=\"page-break-after: always\"></div>
 
-## exposed to placebo.
-
-## Health -related quality of life
+## Health-related quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
@@ -2224,11 +2159,9 @@ Median systemic clearance (CL) following a single intravenous administration to 
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
 <div style=\"page-break-after: always\"></div>
-
-24 mg to 240 mg in patients with psoriasis.
 
 ## Single dose versus multiple doses
 
@@ -2256,9 +2189,9 @@ In the population pharmacokinetic analysis, there were no indications of an effe
 
 The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
 
-<div style=\"page-break-after: always\"></div>
-
 The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Regulation of CYP450 enzymes
 
@@ -2290,19 +2223,19 @@ Pyzchiva 45 mg solution for injection in pre-filled pen 42 months
 
 Pyzchiva 90 mg solution for injection in pre-filled pen 42 months
 
-<div style=\"page-break-after: always\"></div>
+Individual pre-filled pens may be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre- filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
 
-Individual pre-filled pens may be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light. If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+
+If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
-## Pyzchiva 45 mg solution for injection in pre-filled pen
-
-0.5 mL solution in a type I glass 1 mL syringe with a 29-gauge fixed 1/2 inch stainless steel needle assembled in a pre-filled pen with a passive needle guard.
+Pyzchiva 45 mg solution for injection in pre-filled pen 0.5 mL solution in a type I glass 1 mL syringe with a 29-gauge fixed 1/2 inch stainless steel needle assembled in a pre-filled pen with a passive needle guard.
 
 ## Pyzchiva 90 mg solution for injection in pre-filled pen
 
@@ -2334,7 +2267,7 @@ Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2456,7 +2389,9 @@ For other storage conditions, please refer to the leaflet.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2468,7 +2403,8 @@ EU/1/24/1801/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2533,9 +2469,9 @@ EXP
 
 Write the date removed from the refrigerator
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator.
 
@@ -2549,13 +2485,7 @@ For other storage conditions, please refer to the leaflet.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V.
-
-Olof Palmestraat 10
-
-2616 LR Delft
-
-The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2579,9 +2509,9 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+PC SN
 
-## PC SN NN
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2629,9 +2559,11 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
+EXP
 
 Write the date removed from the refrigerator
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2665,15 +2597,14 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2699,8 +2630,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 130 mg/26 mL
 
@@ -2715,7 +2645,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pyzchiva 45 mg solution for injection ustekinumab
+Pyzchiva 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2805,7 +2737,8 @@ NN
 |------------------------------------------------------------------|
 | VIAL LABEL TEXT (45 mg)                                          |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Pyzchiva 45 mg injection ustekinumab SC
 
@@ -2894,9 +2827,7 @@ Can be stored at room temperature (up to 30°C) for a single period up to 35 day
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
-
-The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2926,20 +2857,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL TEXT (45 mg)                            |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
-|------|------------------------------------------------------------|
+## PRE-FILLED SYRINGE LABEL TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Pyzchiva 45 mg injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2948,8 +2876,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg/0.5 mL
 
@@ -3133,11 +3060,7 @@ Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-Can be stored at room temperature (up to 30°C) for a single period up to 35 days, but not exceeding
-
-<div style=\"page-break-after: always\"></div>
-
-the original expiry date.
+Can be stored at room temperature (up to 30°C) for a single period up to 35 days, but not exceeding the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3167,20 +3090,19 @@ Pyzchiva 45 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN
 
-SN
+<div style=\"page-break-after: always\"></div>
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL TEXT (45 mg)                                |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
-|------|------------------------------------------------------------|
+## PRE-FILLED PEN LABEL TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Pyzchiva 45 mg injection ustekinumab SC
 
@@ -3261,7 +3183,9 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled pen in the outer carton in order to protect from light. Can be stored at room temperature (up to 30°C) for a single period up to 35 days, but not exceeding the original expiry date.
+Keep the pre-filled pen in the outer carton in order to protect from light. Can be stored at room temperature (up to 30°C) for a single period up to 35 days, but not exceeding
+
+the original expiry date.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3395,7 +3319,7 @@ Talk to your doctor or pharmacist before using Pyzchiva. Your doctor will check 
 
 Pyzchiva can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Pyzchiva. See 'Serious side effects' in section 4 for a full list of these side effects.
 
-## Before you use Pyzchiva tell your doctor:
+## Before you use Pyzchiva tell your doctor
 
 - If you ever had an allergic reaction to ustekinumab. Ask your doctor if you are not sure.
 - If you have ever had any type of cancer - this is because immunosuppressants like ustekinumab weaken part of the immune system. This may increase the risk of cancer.
@@ -3424,10 +3348,11 @@ Tell your doctor or pharmacist:
 
 - If you are taking, have recently taken or might take any other medicines.
 - If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Pyzchiva.
+- If you received Pyzchiva while pregnant, tell your baby's doctor about your Pyzchiva treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to
 
 <div style=\"page-break-after: always\"></div>
 
-- If you received Pyzchiva while pregnant, tell your baby's doctor about your Pyzchiva treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise.
+prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise.
 
 ## Pregnancy and breast-feeding
 
@@ -3515,9 +3440,9 @@ Some patients may have serious side effects that may need urgent treatment.
 - o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
-<div style=\"page-break-after: always\"></div>
-
 Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of ustekinumab is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
+
+<div style=\"page-break-after: always\"></div>
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
@@ -3560,15 +3485,15 @@ Common side effects (may affect up to 1 in 10 people):
 - Back, muscle or joint pain
 - Sore throat
 - Redness and pain where the injection is given
-
-<div style=\"page-break-after: always\"></div>
-
 - Sinus infection
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
 - Tooth infections
 - Vaginal yeast infection
+
+<div style=\"page-break-after: always\"></div>
+
 - Depression
 - Blocked or stuffy nose
 - Bleeding, bruising, hardness, swelling and itching where the injection is given
@@ -3601,16 +3526,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - If needed, individual Pyzchiva vials may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the vial if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
 - Do not shake the Pyzchiva vials. Prolonged vigorous shaking may damage the medicine.
 
-## Do not use this medicine:
+## Do not use this medicine
 
 - After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
 - If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Pyzchiva looks like and contents of the pack').
-
-<div style=\"page-break-after: always\"></div>
-
 - If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 - If the product has been shaken vigorously.
 - If the seal is broken.
+
+<div style=\"page-break-after: always\"></div>
 
 Pyzchiva is for single use only. Any diluted infusion solution or unused product remaining in the vial and the syringe should be thrown away in accordance with local requirements.
 
@@ -3629,9 +3553,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL. B.V.
+Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft
 
-Olof Palmestraat 10 2616 LR Delft The Netherlands
+The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3641,23 +3565,17 @@ Sandoz nv/sa
 
 Tél/Tel: +32 2 722 97 97
 
-## Lietuva
-
-Sandoz Pharmaceuticals d.d filialas
-
-Tel: +370 5 2636 037
-
 ## България
 
 Сандоз България КЧТ
 
 Тел.: +359 2 970 47 47
 
-## Luxembourg/Luxemburg
+## Lietuva
 
-Sandoz nv/sa
+Sandoz Pharmaceuticals d.d filialas
 
-Tél/Tel.: +32 2 722 97 97
+Tel: +370 5 2636 037
 
 ## Česká republika
 
@@ -3665,11 +3583,11 @@ Sandoz s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
+## Luxembourg/Luxemburg
 
-Sandoz Hungária Kft.
+Sandoz nv/sa
 
-Tel.: +36 1 430 2890
+Tél/Tel.: +32 2 722 97 97
 
 ## Danmark/Norge/Ísland/Sverige
 
@@ -3677,11 +3595,11 @@ Sandoz A/S
 
 Tlf: +45 63 95 10 00
 
-## Malta
+## Magyarország
 
-Sandoz Pharmaceuticals d.d.
+Sandoz Hungária Kft.
 
-Tel: +35699644126
+Tel.: +36 1 430 2890
 
 ## Deutschland
 
@@ -3689,49 +3607,49 @@ Hexal AG
 
 Tel: +49 8024 908 0
 
-Nederland
+## Malta
 
-Sandoz B.V.
+Sandoz Pharmaceuticals d.d.
 
-Tel: +31 36 52 41 600
-
-<div style=\"page-break-after: always\"></div>
+Tel: +35699644126
 
 ## Eesti
-
-## Österreich
 
 Sandoz d.d. Eesti filiaal
 
 Tel: +372 665 2400
 
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Ελλάδα
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+
+Τηλ: +30 216 600 5000
+
+## Österreich
+
 Sandoz GmbH
 
 Tel: +43 5338 2000
 
-## Ελλάδα
-
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
-
-Τηλ: +30 216 600 5000
-
-## Polska
-
-Sandoz Polska Sp. z o.o.
-
-Tel.: +48 22 209 70 00
+<div style=\"page-break-after: always\"></div>
 
 ## España
+
+## Polska
 
 Sandoz Farmacéutica, S.A.
 
 Tel: +34 900 456 856
 
-## Portugal
+Sandoz Polska Sp. z o.o.
 
-Sandoz Farmacêutica Lda.
-
-Tel: +351 21 000 86 00
+Tel.: +48 22 209 70 00
 
 ## France
 
@@ -3739,11 +3657,11 @@ Sandoz SAS
 
 Tél: +33 1 49 64 48 00
 
-## România
+## Portugal
 
-Sandoz Pharmaceuticals SRL
+Sandoz Farmacêutica Lda.
 
-Tel: +40 21 407 51 60
+Tel: +351 21 000 86 00
 
 ## Hrvatska
 
@@ -3751,11 +3669,11 @@ Sandoz d.o.o.
 
 Tel: +385 1 23 53 111
 
-## Slovenija
+## România
 
-Sandoz farmacevtska družba d.d.
+Sandoz Pharmaceuticals SRL
 
-Tel: +386 1 580 29 02
+Tel: +40 21 407 51 60
 
 ## Ireland
 
@@ -3763,11 +3681,11 @@ Rowex Ltd.
 
 Tel: + 353 27 50077
 
-## Slovenská republika
+## Slovenija
 
-Sandoz d.d. - organizačná zložka
+Sandoz farmacevtska družba d.d.
 
-Tel: +421 2 48 200 600
+Tel: +386 1 580 29 02
 
 ## Italia
 
@@ -3775,15 +3693,15 @@ Sandoz S.p.A.
 
 Tel: +39 02 81280696
 
-## Suomi/Finland
+## Slovenská republika
 
-Sandoz A/S
+Sandoz d.d. - organizačná zložka
 
-Puh/Tel: +358 10 6133 400
+Tel: +421 2 48 200 600
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ
 
@@ -3795,11 +3713,17 @@ Sandoz d.d. Latvia filiāle
 
 Tel: +371 67 892 006
 
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: +358 10 6133 400
+
 ## This leaflet was last revised in MM/YYYY.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -3815,11 +3739,12 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Pyzchiva concentrate for solution for infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-<div style=\"page-break-after: always\"></div>
-
 1. Calculate the dose and the number of Pyzchiva vials needed based on patient weight (see section 3, Table 1, Table 2). Each 26 mL vial of Pyzchiva contains 130 mg of ustekinumab.
 2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Pyzchiva to be added (discard 26 mL sodium chloride for each vial of Pyzchiva needed, for 2 vials- discard 52 mL, for 3 vials discard 78 mL, for 4 vials- discard 104 mL). Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.
 3. Withdraw 26 mL of Pyzchiva from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
+
+<div style=\"page-break-after: always\"></div>
+
 4. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discoloration or foreign particles are observed.
 5. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within 72 hours of the dilution in the infusion bag. If necessary, the diluted infusion solution may be kept at 2 °C to 8 °C for up to 1 month and at room temperature up to 30°C for an additional 72 hours after removal from refrigeration including the infusion period.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
@@ -3978,7 +3903,9 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Pyzchiva you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or Psoriatic Arthritis
 
 - The recommended starting dose is 45 mg Pyzchiva. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -3996,7 +3923,9 @@ Your doctor will decide how much Pyzchiva you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Pyzchiva.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg
+
+## Crohn's disease
 
 - During treatment, the first dose of approximately 6 mg/kg Pyzchiva will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Pyzchiva after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg Pyzchiva may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -4009,9 +3938,9 @@ Your doctor will decide how much Pyzchiva you need to use and for how long.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you use more Pyzchiva than you should
+
+<div style=\"page-break-after: always\"></div>
 
 If you have used or been given too much Pyzchiva, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
 
@@ -4061,10 +3990,10 @@ You must look out for signs of infection while you are using ustekinumab. These 
 - warm, red and painful skin, or a painful skin rash with blisters
 - burning when passing water
 - diarrhoea
+- visual disturbance or vision loss
 
 <div style=\"page-break-after: always\"></div>
 
-- visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use ustekinumab until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
@@ -4110,11 +4039,11 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Pyzchiva
 
@@ -4149,19 +4078,19 @@ Pyzchiva is a clear, colourless to light yellow solution for injection. The solu
 
 Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
-For any information about this medicine, please contact the local representative of the Marketing
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Sandoz nv/sa Tél/Tel: +32 2 722 97 97
+Sandoz nv/sa
+
+Tél/Tel: +32 2 722 97 97
 
 ## България
 
-Сандоз България КЧТ Тел.: +359 2 970 47 47
+Сандоз България КЧТ Тел .: +359 2 970 47 47
 
 ## Česká republika
 
@@ -4169,15 +4098,11 @@ Sandoz s.r.o. Tel: +420 225 775 111
 
 ## Danmark/Norge/Ísland/Sverige
 
-Sandoz A/S
-
-Tlf: +45 63 95 10 00
+Sandoz A/S Tlf: +45 63 95 10 00
 
 ## Deutschland
 
-Hexal AG
-
-Tel: +49 8024 908 0
+Hexal AG Tel: +49 8024 908 0
 
 ## Eesti
 
@@ -4185,7 +4110,7 @@ Sandoz d.d. Eesti filiaal Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## España
 
@@ -4193,9 +4118,7 @@ Sandoz Farmacéutica, S.A. Tel: +34 900 456 856
 
 ## France
 
-Sandoz SAS
-
-Tél: +33 1 49 64 48 00
+Sandoz SAS Tél: +33 1 49 64 48 00
 
 ## Hrvatska
 
@@ -4203,19 +4126,23 @@ Sandoz d.o.o. Tel: +385 1 23 53 111
 
 ## Ireland
 
-Rowex Ltd. Tel: + 353 27 50077
+Rowex Ltd.
+
+Tel: + 353 27 50077
 
 ## Italia
 
-Sandoz S.p.A. Tel: +39 02 81280696
+Sandoz S.p.A.
+
+Tel: +39 02 81280696
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ : +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ : +30 216 600 5000
 
 ## Latvija
 
-Sandoz d.d. Latvia filiāle
+Sandoz d.d. Latvia filiāle Tel: +371 67 892 006
 
 ## Lietuva
 
@@ -4235,7 +4162,9 @@ Sandoz Pharmaceuticals d.d. Tel: +35699644126
 
 ## Nederland
 
-Sandoz B.V. Tel: +31 36 52 41 600
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
 
 ## Österreich
 
@@ -4267,13 +4196,13 @@ Sandoz A/S Puh/Tel: +358 10 6133 400
 
 <div style=\"page-break-after: always\"></div>
 
-## Traceability:
+## Traceability
 
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
 ## This leaflet was last revised in MM/YYYY
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4288,7 +4217,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 Take the vial(s) out of the refrigerator. Let the vial stand for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature).
 
-## Check the vial(s) to make sure:
+Check the vial(s) to make sure:
 
 - the number of vials and strength is correct
 - o If your dose is 45 mg or less, you will get one 45 mg vial of Pyzchiva
@@ -4314,10 +4243,10 @@ Choose an injection site (see Figure 2)
 
 - Pyzchiva is given by injection under the skin (subcutaneously)
 - Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+- If possible, do not use areas of skin that show signs of psoriasis
 
 <div style=\"page-break-after: always\"></div>
 
-- If possible, do not use areas of skin that show signs of psoriasis
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
 *Areas in gray are recommended injection sites. Figure 2
@@ -4388,9 +4317,7 @@ Figure 4
 
 ## Package leaflet: Information for the user
 
-## Pyzchiva 45 mg solution for injection in pre-filled syringe
-
-## ustekinumab
+## Pyzchiva 45 mg solution for injection in pre-filled syringe ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -4434,11 +4361,9 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 Pyzchiva is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
-Pyzchiva is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments
+Pyzchiva is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
 <div style=\"page-break-after: always\"></div>
-
-did not work.
 
 ## Psoriatic arthritis
 
@@ -4480,9 +4405,9 @@ Pyzchiva can cause serious side effects, including allergic reactions and infect
 - If you are having or have ever had injections to treat allergies it is not known if ustekinumab may affect these.
 - If you are 65 years of age or over - you may be more likely to get infections.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
+
+<div style=\"page-break-after: always\"></div>
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -4515,11 +4440,11 @@ Tell your doctor or pharmacist:
 
 Ustekinumab has no or negligible influence on the ability to drive and use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pyzchiva contains polysorbate 80 (E433)
 
 This medicine contains 0.02 mg of polysorbate 80 (E433) in each pre-filled syringe (1 ml) which is equivalent to 0.02 mg/0.5 ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Pyzchiva
 
@@ -4557,16 +4482,13 @@ Your doctor will decide how much Pyzchiva you need to use and for how long.
 
 ## How Pyzchiva is given
 
-- Pyzchiva is given as an injection under the skin ('subcutaneously'). At the start of your treatment,
-
-<div style=\"page-break-after: always\"></div>
-
-medical or nursing staff may inject Pyzchiva.
-
+- Pyzchiva is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Pyzchiva.
 - However, you and your doctor may decide that you may inject Pyzchiva yourself. In this case you will get training on how to inject Pyzchiva yourself.
 - For instructions on how to inject Pyzchiva, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you use more Pyzchiva than you should
 
@@ -4607,11 +4529,7 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 - Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 - Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
-Ustekinumab may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic
-
-<div style=\"page-break-after: always\"></div>
-
-infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+Ustekinumab may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using ustekinumab. These include:
 
@@ -4620,6 +4538,9 @@ You must look out for signs of infection while you are using ustekinumab. These 
 - warm, red and painful skin, or a painful skin rash with blisters
 - burning when passing water
 - diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
+
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
 
@@ -4629,7 +4550,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
 - Diarrhoea
 - Nausea
@@ -4643,7 +4564,7 @@ Common side effects (may affect up to 1 in 10 people):
 - Redness and pain where the injection is given
 - Sinus infection
 
-Uncommon side effects (may affect up to 1 in 100 people):
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 - Tooth infections
 - Vaginal yeast infection
@@ -4658,12 +4579,7 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 ## Rare side effects (may affect up to 1 in 1000 people)
 
-- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of
-
-<div style=\"page-break-after: always\"></div>
-
-psoriasis symptoms (erythrodermic psoriasis)
-
+- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 - Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
@@ -4672,6 +4588,8 @@ psoriasis symptoms (erythrodermic psoriasis)
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
 ## Reporting of side effects
+
+<div style=\"page-break-after: always\"></div>
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -4701,19 +4619,15 @@ Pyzchiva is for single use only. Any unused product remaining in the syringe sho
 
 ## What Pyzchiva looks like and contents of the pack
 
-Pyzchiva is a clear, colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose,
-
-<div style=\"page-break-after: always\"></div>
-
-glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+Pyzchiva is a clear, colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL. B.V.
-
-Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -4721,119 +4635,41 @@ Sandoz nv/sa
 
 Tél/Tel: +32 2 722 97 97
 
-## Lietuva
-
-Sandoz Pharmaceuticals d.d filialas
-
-Tel: +370 5 2636 037
-
 ## България
 
-Сандоз България КЧТ
-
-Тел.: +359 2 970 47 47
-
-## Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel.: +32 2 722 97 97
+Сандоз България КЧТ Тел .: +359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o.
-
-Tel: +420 225 775 111
-
-## Magyarország
-
-Sandoz Hungária Kft.
-
-Tel.: +36 1 430 2890
+Sandoz s.r.o. Tel: +420 225 775 111
 
 ## Danmark/Norge/Ísland/Sverige
 
-Sandoz A/S
-
-Tlf: +45 63 95 10 00
-
-## Malta
-
-Sandoz Pharmaceuticals d.d.
-
-Tel: +35699644126
+Sandoz A/S Tlf: +45 63 95 10 00
 
 ## Deutschland
 
-Hexal AG
-
-Tel: +49 8024 908 0
-
-## Nederland
-
-Sandoz B.V.
-
-Tel: +31 36 52 41 600
+Hexal AG Tel: +49 8024 908 0
 
 ## Eesti
 
-Sandoz d.d. Eesti filiaal
-
-Tel: +372 665 2400
-
-## Österreich
-
-Sandoz GmbH
-
-Tel: +43 5338 2000
+Sandoz d.d. Eesti filiaal Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
-
-Τηλ: +30 216 600 5000
-
-## Polska
-
-Sandoz Polska Sp. z o.o.
-
-Tel.: +48 22 209 70 00
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## España
 
-Sandoz Farmacéutica, S.A.
-
-Tel: +34 900 456 856
-
-## Portugal
-
-Sandoz Farmacêutica Lda.
-
-Tel: +351 21 000 86 00
+Sandoz Farmacéutica, S.A. Tel: +34 900 456 856
 
 ## France
 
-Sandoz SAS
-
-Tél: +33 1 49 64 48 00
-
-## România
-
-Sandoz Pharmaceuticals SRL
-
-Tel: +40 21 407 51 60
+Sandoz SAS Tél: +33 1 49 64 48 00
 
 ## Hrvatska
 
-Sandoz d.o.o.
-
-Tel: +385 1 23 53 111
-
-## Slovenija
-
-Sandoz farmacevtska družba d.d.
-
-Tel: +386 1 580 29 02
+Sandoz d.o.o. Tel: +385 1 23 53 111
 
 ## Ireland
 
@@ -4841,35 +4677,73 @@ Rowex Ltd.
 
 Tel: + 353 27 50077
 
-## Slovenská republika
-
-Sandoz d.d. - organizačná zložka
-
-Tel: +421 2 48 200 600
-
 ## Italia
 
-Sandoz S.p.A.
-
-<div style=\"page-break-after: always\"></div>
-
-Tel: +39 02 81280696
+Sandoz S.p.A. Tel: +39 02 81280696
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
-
-Τηλ
-
-: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ : +30 216 600 5000
 
 ## Latvija
 
-Sandoz d.d. Latvia filiāle
-
-Tel: +371 67 892 006
+Sandoz d.d. Latvia filiāle Tel: +371 67 892 006
 
 ## Traceability:
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa Tél/Tel.: +32 2 722 97 97
+
+## Magyarország
+
+Sandoz Hungária Kft.
+
+Tel.: +36 1 430 2890
+
+## Malta
+
+Sandoz Pharmaceuticals d.d. Tel: +35699644126
+
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Österreich
+
+Sandoz GmbH Tel: +43 5338 2000
+
+## Polska
+
+Sandoz Polska Sp. z o.o. Tel.: +48 22 209 70 00
+
+## Portugal
+
+Sandoz Farmacêutica Lda. Tel: +351 21 000 86 00
+
+## România
+
+Sandoz Pharmaceuticals SRL Tel: +40 21 407 51 60
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d. Tel: +386 1 580 29 02
+
+## Slovenská republika
+
+Sandoz d.d. organizačná zložka Tel: +421 2 48 200 600
+
+## Suomi/Finland
+
+Sandoz A/S Puh/Tel: +358 10 6133 400
+
+<div style=\"page-break-after: always\"></div>
 
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
@@ -4877,13 +4751,7 @@ In order to improve the traceability of biological medicinal products, the trade
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-## Suomi/Finland
-
-Sandoz A/S
-
-Puh/Tel: +358 10 6133 400
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4910,7 +4778,7 @@ Preparing for use of the pre-filled syringe
 - Do not pull back on the plunger at any time
 - Do not remove the needle cover from the pre-filled syringe until instructed to do so
 
-Check the pre-filled syringe(s) to make sure
+## Check the pre-filled syringe(s) to make sure
 
 - the number of pre-filled syringes and strength is correct
 - o If your dose is 45 mg you will get one 45 mg pre-filled syringe of Pyzchiva
@@ -4946,6 +4814,8 @@ Choose an injection site (see Figure 2)
 - Do not touch this area again before giving the injection
 - Do not fan or blow on the clean area
 
+·
+
 ## 3. Remove the needle cover (see Figure 3):
 
 - The needle cover should not be removed until you are ready to inject the dose
@@ -4954,11 +4824,12 @@ Choose an injection site (see Figure 2)
 - You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
 - Do not touch the needle or allow it to touch any surface
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
-- Inject the dose promptly after removing the needle cover.
 
 Figure 3
 
 <!-- image -->
+
+Inject the dose promptly after removing the needle cover.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5101,9 +4972,9 @@ Pyzchiva can cause serious side effects, including allergic reactions and infect
 - If you are having or have ever had injections to treat allergies - it is not known if ustekinumab may affect these.
 - If you are 65 years of age or over - you may be more likely to get infections.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
+
+<div style=\"page-break-after: always\"></div>
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -5136,11 +5007,11 @@ Tell your doctor or pharmacist:
 
 Ustekinumab has no or negligible influence on the ability to drive and use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pyzchiva contains polysorbate 80 (E433)
 
 This medicine contains 0.04 mg of polysorbate 80 (E433) in each pre-filled syringe (1 ml) which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Pyzchiva
 
@@ -5179,17 +5050,14 @@ Your doctor will decide how much Pyzchiva you need to use and for how long.
 ## How Pyzchiva is given
 
 - Pyzchiva is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Pyzchiva.
-- However, you and your doctor may decide that you may inject Pyzchiva yourself. In this case you
-
-<div style=\"page-break-after: always\"></div>
-
-will get training on how to inject Pyzchiva yourself.
-
+- However, you and your doctor may decide that you may inject Pyzchiva yourself. In this case you will get training on how to inject Pyzchiva yourself.
 - For instructions on how to inject Pyzchiva, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
 
 ## If you use more Pyzchiva than you should
+
+<div style=\"page-break-after: always\"></div>
 
 If you have used or been given too much Pyzchiva, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
 
@@ -5233,15 +5101,14 @@ Ustekinumab may make you less able to fight infections. Some infections could be
 You must look out for signs of infection while you are using ustekinumab. These include:
 
 - fever, flu-like symptoms, night sweats, weight loss
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
 - burning when passing water
 - diarrhoea.
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
+
+<div style=\"page-break-after: always\"></div>
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use ustekinumab until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
@@ -5284,14 +5151,13 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
-
-<div style=\"page-break-after: always\"></div>
-
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Pyzchiva
 
@@ -5323,600 +5189,6 @@ Pyzchiva is a clear, colourless to light yellow solution for injection. The solu
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft
-
-<div style=\"page-break-after: always\"></div>
-
-## The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Sandoz nv/sa
-
-Tél/Tel: +32 2 722 97 97
-
-## България
-
-Сандоз България КЧТ
-
-Тел.: +359 2 970 47 47
-
-## Česká republika
-
-Sandoz s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark/Norge/Ísland/Sverige
-
-Sandoz A/S
-
-Tlf: +45 63 95 10 00
-
-## Deutschland
-
-Hexal AG
-
-Tel: +49 8024 908 0
-
-## Eesti
-
-Sandoz d.d. Eesti filiaal
-
-Tel: +372 665 2400
-
-## Ελλάδα
-
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ: +30 216 600 5000
-
-## España
-
-Sandoz Farmacéutica, S.A.
-
-Tel: +34 900 456 856
-
-## France
-
-Sandoz SAS
-
-Tél: +33 1 49 64 48 00
-
-## Hrvatska
-
-Sandoz d.o.o.
-
-Tel: +385 1 23 53 111
-
-## Ireland
-
-Rowex Ltd.
-
-Tel: + 353 27 50077
-
-## Italia
-
-Sandoz S.p.A.
-
-Tel: +39 02 81280696
-
-## Lietuva
-
-Sandoz Pharmaceuticals d.d filialas
-
-Tel: +370 5 2636 037
-
-## Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel.: +32 2 722 97 97
-
-## Magyarország
-
-Sandoz Hungária Kft.
-
-Tel.: +36 1 430 2890
-
-## Malta
-
-Sandoz Pharmaceuticals d.d.
-
-Tel: +35699644126
-
-## Nederland
-
-Sandoz B.V.
-
-Tel: +31 36 52 41 600
-
-## Österreich
-
-Sandoz GmbH Tel: +43 5338 2000
-
-## Polska
-
-Sandoz Polska Sp. z o.o.
-
-Tel.: +48 22 209 70 00
-
-## Portugal
-
-Sandoz Farmacêutica Lda.
-
-Tel: +351 21 000 86 00
-
-## România
-
-Sandoz Pharmaceuticals SRL
-
-Tel: +40 21 407 51 60
-
-## Slovenija
-
-Sandoz farmacevtska družba d.d.
-
-Tel: +386 1 580 29 02
-
-## Slovenská republika
-
-Sandoz d.d. - organizačná zložka
-
-Tel: +421 2 48 200 600
-
-## Suomi/Finland
-
-Sandoz A/S
-
-Puh/Tel: +358 10 6133 400
-
-<div style=\"page-break-after: always\"></div>
-
-## Κύπρος
-
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
-
-Τηλ
-
-: +30 216 600 5000
-
-## Latvija
-
-Sandoz d.d. Latvia filiāle
-
-Tel: +371 67 892 006
-
-## Traceability:
-
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
-## This leaflet was last revised in MM/YYYY Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-<div style=\"page-break-after: always\"></div>
-
-## Instructions for administration
-
-At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Pyzchiva yourself. If this happens, you will get training on how to inject Pyzchiva. Talk to your doctor if you have any questions about giving yourself an injection.
-
-- Do not mix Pyzchiva with other liquids for injection
-- Do not shake Pyzchiva pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
-
-Figure 1 shows what the pre-filled syringe looks like.
-
-Figure 1
-
-<!-- image -->
-
-## 1. Check the number of pre-filled syringes and prepare the materials:
-
-Preparing for use of the pre-filled syringe
-
-- Take the pre-filled syringe(s) out of the refrigerator. Let the pre-filled syringe stand outside the box for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature). Do not warm the pre-filled syringe in any other way (for example, do not warm it in a microwave or in hot water.). Do not remove the syringe's needle cover while allowing it to reach room temperature
-- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward
-- Do not hold by the plunger head, plunger, needle guard wings, or needle cover
-- •
-- Do not remove the needle cover from the pre-filled syringe until instructed to do so.
-- Do not pull back on the plunger at any time ·
-
-Check the pre-filled syringe(s) to make sure
-
-- the number of pre-filled syringes and strength is correct
-- o If your dose is 90 mg you will get one 90 mg pre-filled syringe of Pyzchiva.
-- it is the right medicine
-- it has not passed its expiry date
-- the pre-filled syringe is not damaged
-- the solution in the pre-filled syringe is clear and colourless to light yellow
-- the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
-- the solution in the pre-filled syringe is not frozen.
-
-Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
-
-## 2. Choose and prepare the injection site:
-
-Choose an injection site (see Figure 2)
-
-- Pyzchiva is given by injection under the skin (subcutaneously)
-- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
-- If possible, do not use areas of skin that show signs of psoriasis
-
-<div style=\"page-break-after: always\"></div>
-
-- If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site.
-
-*Areas in gray are recommended injection sites. Figure 2
-
-<!-- image -->
-
-## Prepare the injection site
-
-- Wash your hands very well with soap and warm water
-- Wipe the injection site on the skin with an antiseptic wipe
-- Do not touch this area again before giving the injection.
-- Do not fan or blow on the clean area
-3. Remove the needle cover (see Figure 3):
-- The needle cover should not be removed until you are ready to inject the dose
-- Pick up the pre-filled syringe, hold the body of the syringe with one hand
-- Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
-- You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
-- Do not touch the needle or allow it to touch any surface
-- Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
-- Inject the dose promptly after removing the needle cover.
-
-Figure 3
-
-<!-- image -->
-
-## 4. Inject the dose:
-
-- Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
-- Do not pull back on the plunger at any time
-- In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 4
-
-<!-- image -->
-
-- Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
-- When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure  6)
-- Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure  7:
-
-Figure 5
-
-<!-- image -->
-
-Figure 6
-
-<!-- image -->
-
-Figure 7
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## 5. After the injection:
-
-- Press an antiseptic wipe over the injection site for a few seconds after the injection.
-- There may be a small amount of blood or liquid at the injection site. This is normal.
-- You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
-- Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
-
-## 6. Disposal :
-
-- Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 8). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations
-- Antiseptic wipes and other supplies can be disposed of in your garbage.
-
-Figure 8
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## Package leaflet: Information for the user
-
-## Pyzchiva 45 mg solution for injection in pre-filled pen
-
-## ustekinumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
-Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-## This leaflet has been written for the person taking the medicine.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Pyzchiva is and what it is used for
-2. What you need to know before you use Pyzchiva
-3. How to use Pyzchiva
-4. Possible side effects
-5. How to store Pyzchiva
-6. Contents of the pack and other information
-
-## 1. What Pyzchiva is and what it is used for What Pyzchiva is
-
-Pyzchiva contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
-
-Pyzchiva belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
-
-## What Pyzchiva is used for
-
-Pyzchiva administered using the pre-filled pen is used to treat the following inflammatory diseases:
-
-- Plaque psoriasis - in adults
-- Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
-
-## Plaque psoriasis
-
-Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Pyzchiva will reduce the inflammation and other signs of the disease.
-
-Pyzchiva administered using the pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
-
-## Psoriatic arthritis
-
-Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well
-
-<div style=\"page-break-after: always\"></div>
-
-enough to these medicines, you may be given Pyzchiva to:
-
-- Reduce the signs and symptoms of your disease.
-- Improve your physical function.
-- Slow down the damage to your joints.
-
-## Crohn's disease
-
-Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Pyzchiva to reduce the signs and symptoms of your disease.
-
-## 2. What you need to know before you use Pyzchiva
-
-## Do not use Pyzchiva
-
-- If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
-- If you have an active infection which your doctor thinks important.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
-
-## Warnings and precautions
-
-Talk to your doctor or pharmacist before using Pyzchiva. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Pyzchiva. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
-
-## Look out for serious side effects
-
-Pyzchiva can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Pyzchiva. See 'Serious side effects' in section 4 for a full list of these side effects.
-
-## Before you use Pyzchiva tell your doctor:
-
-- If you ever had an allergic reaction to ustekinumab. Ask your doctor if you are not sure.
-- If you have ever had any type of cancer - this is because immunosuppressants like ustekinumab weaken part of the immune system. This may increase the risk of cancer.
-- If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher
-- If you have or have had a recent infection.
-- If you have any new or changing lesions within psoriasis areas or on normal skin.
-- If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
-- If you are having or have ever had injections to treat allergies it is not known if ustekinumab may affect these.
-- If you are 65 years of age or over - you may be more likely to get infections.
-
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
-
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised,
-
-<div style=\"page-break-after: always\"></div>
-
-scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
-
-## Heart attack and strokes
-
-Heart attack and strokes have been observed in a study in patients with psoriasis treated with ustekinumab. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
-
-## Children and adolescents
-
-Ustekinumab pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
-
-Ustekinumab is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
-
-## Other medicines, vaccines and Pyzchiva
-
-Tell your doctor or pharmacist:
-
-- If you are taking, have recently taken or might take any other medicines.
-- If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Pyzchiva.
-- If you received Pyzchiva while pregnant, tell your baby's doctor about your Pyzchiva treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise.
-
-## Pregnancy and breast-feeding
-
-- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
-- A higher risk of birth defects has not been seen in babies exposed to ustekinumab in the womb. However, there is limited experience with ustekinumab in pregnant women. It is therefore preferable to avoid the use of ustekinumab in pregnancy.
-- If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using ustekinumab and for at least 15 weeks after the last ustekinumab treatment.
-- Pyzchiva can pass across the placenta to the unborn baby. If you received Pyzchiva during your pregnancy, your baby may have a higher risk for getting an infection.
-- It is important that you tell your baby's doctors and other health care professionals if you received Pyzchiva during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise
-- Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use ustekinumab - do not do both.
-
-## Driving and using machines
-
-Ustekinumab has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
-
-## Pyzchiva contains polysorbate 80 (E433)
-
-This medicine contains 0.02 mg of polysorbate 80 (E433) in each pre-filled pen (1 ml) which is equivalent to 0.02 mg/0.5 ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How to use Pyzchiva
-
-Pyzchiva is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Pyzchiva is intended.
-
-Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
-
-## How much Pyzchiva is given
-
-Your doctor will decide how much Pyzchiva you need to use and for how long.
-
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
-
-- The recommended starting dose is 45 mg Pyzchiva. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
-- After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
-
-## Crohn's disease
-
-- During treatment, the first dose of approximately 6 mg/kg Pyzchiva will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Pyzchiva after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
-- In some patients, after the first injection under the skin, 90 mg Pyzchiva may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
-
-## How Pyzchiva is given
-
-- Pyzchiva is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Pyzchiva.
-- However, you and your doctor may decide that you may inject Pyzchiva yourself. In this case you will get training on how to inject Pyzchiva yourself.
-- For instructions on how to inject Pyzchiva, see 'Instructions for administration' at the end of this leaflet.
-
-Talk to your doctor if you have any questions about giving yourself an injection.
-
-## If you use more Pyzchiva than you should
-
-If you have used or been given too much Pyzchiva, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
-
-## If you forget to use Pyzchiva
-
-If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
-
-## If you stop using Pyzchiva
-
-It is not dangerous to stop using ustekinumab. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-## Serious side effects
-
-Some patients may have serious side effects that may need urgent treatment.
-
-## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
-
-- Serious allergic reactions ('anaphylaxis') are rare in people taking ustekinumab (may affect up to 1 in 1,000 people). Signs include:
-- o difficulty breathing or swallowing
-- o low blood pressure, which can cause dizziness or light-headedness
-- o swelling of the face, lips, mouth or throat.
-- Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
-
-In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
-
-If you have a serious allergic reaction, your doctor may decide that you should not use Pyzchiva again.
-
-Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
-
-- Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
-- Infections of the chest are uncommon (may affect up to 1 in 100 people)
-- Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
-- Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
-
-Ustekinumab may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
-
-You must look out for signs of infection while you are using ustekinumab. These include:
-
-- fever, flu-like symptoms, night sweats, weight loss
-- feeling tired or short of breath; cough which will not go away
-- warm, red and painful skin, or a painful skin rash with blisters
-- burning when passing water
-- diarrhoea.
-- visual disturbance or vision loss
-- headache, neck stiffness, light sensitivity, nausea or confusion.
-
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use ustekinumab until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
-
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
-
-<div style=\"page-break-after: always\"></div>
-
-## Other side effects
-
-## Common side effects (may affect up to 1 in 10 people):
-
-- Diarrhoea
-- Nausea
-- Vomiting
-- Feeling tired
-- Feeling dizzy
-- Headache
-- Itching ('pruritus')
-- Back, muscle or joint pain
-- Sore throat
-- Redness and pain where the injection is given
-- Sinus infection
-
-## Uncommon side effects (may affect up to 1 in 100 people):
-
-- Tooth infections
-- Vaginal yeast infection
-- Depression
-- Blocked or stuffy nose
-- Bleeding, bruising, hardness, swelling and itching where the injection is given
-- Feeling weak
-- Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
-- A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
-- Peeling of the skin (skin exfoliation)
-- Acne
-
-## Rare side effects (may affect up to 1 in 1000 people)
-
-- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
-- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
-
-## Very rare side effects (may affect up to 1 in 10,000 people)
-
-- Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
-- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Pyzchiva
-
-- Keep this medicine out of the sight and reach of children.
-- Store in a refrigerator (2°C-8°C). Do not freeze.
-- Keep the pre-filled pen in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
-
-- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
-- Do not shake Pyzchiva pre-filled pens. Prolonged vigorous shaking may damage the medicine.
-
-## Do not use this medicine:
-
-- After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
-- If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Pyzchiva looks like and contents of the pack').
-- If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
-- If the product has been shaken vigorously.
-
-Pyzchiva is for single use only. Any unused product remaining in the pre-filled pen should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Pyzchiva contains
-
-- The active substance is ustekinumab. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
-- The other ingredients are Histidine, Histidine hydrochloride monohydrate, Polysorbate 80, Sucrose, Water for injections.
-
-## What Pyzchiva looks like and contents of the pack
-
-Pyzchiva is a clear, colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
-
-## Marketing Authorisation Holder and Manufacturer
-
 Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -5927,25 +5199,15 @@ Sandoz nv/sa
 
 Tél/Tel: +32 2 722 97 97
 
-## Lietuva
-
-Sandoz Pharmaceuticals d.d filialas
-
-Tel: +370 5 2636 037
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
 Сандоз България КЧТ
 
-Тел.: +359 2 970 47 47
+Тел
 
-## Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel.: +32 2 722 97 97
-
-<div style=\"page-break-after: always\"></div>
+.: +359 2 970 47 47
 
 ## Česká republika
 
@@ -5973,7 +5235,7 @@ Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ: +30 216 600 5000
 
@@ -6009,7 +5271,7 @@ Tel: +39 02 81280696
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ
 
@@ -6027,7 +5289,17 @@ In order to improve the traceability of biological medicinal products, the trade
 
 ## This leaflet was last revised in MM/YYYY
 
-## Other sources of information
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas
+
+Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa
+
+Tél/Tel.: +32 2 722 97 97
 
 ## Magyarország
 
@@ -6091,15 +5363,618 @@ Puh/Tel: +358 10 6133 400
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
-## INSTRUCTIONS FOR USE Pyzchiva (ustekinumab) injection, for subcutaneous use Pre-filled pen
+## Instructions for administration
 
-## Instructions for injecting Pyzchiva using a pre-filled pen.
+At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Pyzchiva yourself. If this happens, you will get training on how to inject Pyzchiva. Talk to your doctor if you have any questions about giving yourself an injection.
 
-Read this Instructions for Use before you start using Pyzchiva. Your healthcare professional should show you how to prepare and give your injection of Pyzchiva the right way.
+- Do not mix Pyzchiva with other liquids for injection
+- Do not shake Pyzchiva pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
+
+Figure 1 shows what the pre-filled syringe looks like.
+
+Figure 1
+
+<!-- image -->
+
+## 1. Check the number of pre-filled syringes and prepare the materials:
+
+Preparing for use of the pre-filled syringe
+
+- Take the pre-filled syringe(s) out of the refrigerator. Let the pre-filled syringe stand outside the box for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature). Do not warm the pre-filled syringe in any other way (for example, do not warm it in a microwave or in hot water.). Do not remove the syringe's needle cover while allowing it to reach room temperature
+- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward
+- Do not hold by the plunger head, plunger, needle guard wings, or needle cover
+- Do not pull back on the plunger at any time
+- Do not remove the needle cover from the pre-filled syringe until instructed to do so.
+
+Check the pre-filled syringe(s) to make sure
+
+- the number of pre-filled syringes and strength is correct
+- o If your dose is 90 mg you will get one 90 mg pre-filled syringe of Pyzchiva.
+- it is the right medicine
+- it has not passed its expiry date
+- the pre-filled syringe is not damaged
+- the solution in the pre-filled syringe is clear and colourless to light yellow
+- the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
+- the solution in the pre-filled syringe is not frozen.
+
+Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
+
+## 2. Choose and prepare the injection site:
+
+Choose an injection site (see Figure 2)
+
+- Pyzchiva is given by injection under the skin (subcutaneously)
+- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
+- If possible, do not use areas of skin that show signs of psoriasis
+- If someone will assist in giving you the injection, then he or she may also choose the upper arms as
+
+<div style=\"page-break-after: always\"></div>
+
+an injection site.
+
+## Prepare the injection site
+
+- Wash your hands very well with soap and warm water
+- Wipe the injection site on the skin with an antiseptic wipe
+- Do not touch this area again before giving the injection.
+- Do not fan or blow on the clean area
+
+## 3. Remove the needle cover (see Figure 3):
+
+- The needle cover should not be removed until you are ready to inject the dose
+- Pick up the pre-filled syringe, hold the body of the syringe with one hand
+- Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
+- You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
+- Do not touch the needle or allow it to touch any surface
+- Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
+- Inject the dose promptly after removing the needle cover.
+
+Figure 3
+
+<!-- image -->
+
+## 4. Inject the dose:
+
+- Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
+- Do not pull back on the plunger at any time
+- In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
+
+*Areas in gray are recommended injection sites. Figure 2
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+5. After the injection:
+- Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
+- When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
+- Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
+
+Figure 4
+
+<!-- image -->
+
+Figure 5
+
+<!-- image -->
+
+Figure 6
+
+<!-- image -->
+
+Figure 7
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+- Press an antiseptic wipe over the injection site for a few seconds after the injection.
+- There may be a small amount of blood or liquid at the injection site. This is normal.
+- You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
+- Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
+
+## 6. Disposal :
+
+- Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 8). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations
+- Antiseptic wipes and other supplies can be disposed of in your garbage.
+
+Figure 8
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Pyzchiva 45 mg solution for injection in pre-filled pen
+
+## ustekinumab
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+## This leaflet has been written for the person taking the medicine.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Pyzchiva is and what it is used for
+2. What you need to know before you use Pyzchiva
+3. How to use Pyzchiva
+4. Possible side effects
+5. How to store Pyzchiva
+6. Contents of the pack and other information
+
+## 1. What Pyzchiva is and what it is used for
+
+## What Pyzchiva is
+
+Pyzchiva contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+
+Pyzchiva belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+
+## What Pyzchiva is used for
+
+Pyzchiva administered using the pre-filled pen is used to treat the following inflammatory diseases:
+
+- Plaque psoriasis - in adults
+- Psoriatic arthritis - in adults
+- Moderate to severe Crohn's disease - in adults
+
+## Plaque psoriasis
+
+Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Pyzchiva will reduce the inflammation and other signs of the disease.
+
+Pyzchiva administered using the pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Pyzchiva to:
+
+<div style=\"page-break-after: always\"></div>
+
+- Reduce the signs and symptoms of your disease.
+- Improve your physical function.
+- Slow down the damage to your joints.
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Pyzchiva to reduce the signs and symptoms of your disease.
+
+## 2. What you need to know before you use Pyzchiva
+
+## Do not use Pyzchiva
+
+- If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an active infection which your doctor thinks important.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before using Pyzchiva. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Pyzchiva. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+
+## Look out for serious side effects
+
+Pyzchiva can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Pyzchiva. See 'Serious side effects' in section 4 for a full list of these side effects.
+
+## Before you use Pyzchiva tell your doctor:
+
+- If you ever had an allergic reaction to ustekinumab. Ask your doctor if you are not sure.
+- If you have ever had any type of cancer - this is because immunosuppressants like ustekinumab weaken part of the immune system. This may increase the risk of cancer.
+- If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher
+- If you have or have had a recent infection.
+- If you have any new or changing lesions within psoriasis areas or on normal skin.
+- If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with ustekinumab has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+- If you are having or have ever had injections to treat allergies it is not known if ustekinumab may affect these.
+- If you are 65 years of age or over - you may be more likely to get infections.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+<div style=\"page-break-after: always\"></div>
+
+## Heart attack and strokes
+
+Heart attack and strokes have been observed in a study in patients with psoriasis treated with ustekinumab. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
+
+## Children and adolescents
+
+Ustekinumab pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
+
+Ustekinumab is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
+
+## Other medicines, vaccines and Pyzchiva
+
+Tell your doctor or pharmacist:
+
+- If you are taking, have recently taken or might take any other medicines.
+- If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Pyzchiva.
+- If you received Pyzchiva while pregnant, tell your baby's doctor about your Pyzchiva treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise.
+
+## Pregnancy and breast-feeding
+
+- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+- A higher risk of birth defects has not been seen in babies exposed to ustekinumab in the womb. However, there is limited experience with ustekinumab in pregnant women. It is therefore preferable to avoid the use of ustekinumab in pregnancy.
+- If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using ustekinumab and for at least 15 weeks after the last ustekinumab treatment.
+- Pyzchiva can pass across the placenta to the unborn baby. If you received Pyzchiva during your pregnancy, your baby may have a higher risk for getting an infection.
+- It is important that you tell your baby's doctors and other health care professionals if you received Pyzchiva during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise
+- Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use ustekinumab - do not do both.
+
+## Driving and using machines
+
+Ustekinumab has no or negligible influence on the ability to drive and use machines.
+
+## Pyzchiva contains polysorbate 80 (E433)
+
+This medicine contains 0.02 mg of polysorbate 80 (E433) in each pre-filled pen (1 ml) which is equivalent to 0.02 mg/0.5 ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. How to use Pyzchiva
+
+Pyzchiva is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Pyzchiva is intended.
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+## How much Pyzchiva is given
+
+Your doctor will decide how much Pyzchiva you need to use and for how long.
+
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+
+- The recommended starting dose is 45 mg Pyzchiva. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
+- After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
+
+## Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Pyzchiva will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Pyzchiva after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Pyzchiva may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+## How Pyzchiva is given
+
+- Pyzchiva is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Pyzchiva.
+- However, you and your doctor may decide that you may inject Pyzchiva yourself. In this case you will get training on how to inject Pyzchiva yourself.
+- For instructions on how to inject Pyzchiva, see 'Instructions for administration' at the end of this leaflet.
+
+Talk to your doctor if you have any questions about giving yourself an injection.
+
+## If you use more Pyzchiva than you should
+
+If you have used or been given too much Pyzchiva, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Pyzchiva
+
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop using Pyzchiva
+
+It is not dangerous to stop using ustekinumab. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Some patients may have serious side effects that may need urgent treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+
+- Serious allergic reactions ('anaphylaxis') are rare in people taking ustekinumab (may affect up to 1 in 1,000 people). Signs include:
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
+- Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
+
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Pyzchiva again.
+
+## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
+
+- Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
+- Infections of the chest are uncommon (may affect up to 1 in 100 people)
+- Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+- Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
+
+Ustekinumab may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+
+You must look out for signs of infection while you are using ustekinumab. These include:
+
+- fever, flu-like symptoms, night sweats, weight loss
+- feeling tired or short of breath; cough which will not go away
+- warm, red and painful skin, or a painful skin rash with blisters
+- burning when passing water
+- diarrhoea.
+- visual disturbance or vision loss
+- headache, neck stiffness, light sensitivity, nausea or confusion.
+
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use ustekinumab until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
+
+Common side effects (may affect up to 1 in 10 people):
+
+- Diarrhoea
+- Nausea
+- Vomiting
+- Feeling tired
+
+<div style=\"page-break-after: always\"></div>
+
+- Feeling dizzy
+- Headache
+- Itching ('pruritus')
+- Back, muscle or joint pain
+- Sore throat
+- Redness and pain where the injection is given
+- Sinus infection
+
+## Uncommon side effects (may affect up to 1 in 100 people):
+
+- Tooth infections
+- Vaginal yeast infection
+- Depression
+- Blocked or stuffy nose
+- Bleeding, bruising, hardness, swelling and itching where the injection is given
+- Feeling weak
+- Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+- A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
+- Peeling of the skin (skin exfoliation)
+- Acne
+
+## Rare side effects (may affect up to 1 in 1000 people)
+
+- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
+- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
+
+## Very rare side effects (may affect up to 1 in 10,000 people)
+
+- Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
+- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Pyzchiva
+
+- Keep this medicine out of the sight and reach of children.
+- Store in a refrigerator (2°C-8°C). Do not freeze.
+- Keep the pre-filled pen in the outer carton in order to protect from light.
+- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
+- Do not shake Pyzchiva pre-filled pens. Prolonged vigorous shaking may damage the medicine.
+
+## Do not use this medicine:
+
+<div style=\"page-break-after: always\"></div>
+
+- After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+- If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Pyzchiva looks like and contents of the pack').
+- If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+- If the product has been shaken vigorously.
+
+Pyzchiva is for single use only. Any unused product remaining in the pre-filled pen should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Pyzchiva contains
+
+- The active substance is ustekinumab. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
+- The other ingredients are Histidine, Histidine hydrochloride monohydrate, Polysorbate 80, Sucrose, Water for injections.
+
+## What Pyzchiva looks like and contents of the pack
+
+Pyzchiva is a clear, colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Sandoz nv/sa
+
+Tél/Tel: +32 2 722 97 97
+
+## България
+
+Сандоз България КЧТ
+
+Тел
+
+.: +359 2 970 47 47
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas
+
+Tel: +370 5 2636 037
+
+## Česká republika
+
+Sandoz s.r.o.
+
+Tel: +420 225 775 111
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa
+
+Tél/Tel.: +32 2 722 97 97
+
+## Danmark/Norge/Ísland/Sverige
+
+Sandoz A/S
+
+Tlf: +45 63 95 10 00
+
+## Magyarország
+
+Sandoz Hungária Kft.
+
+Tel.: +36 1 430 2890
+
+## Deutschland
+
+Hexal AG
+
+Tel: +49 8024 908 0
+
+Malta
+
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
+
+## Eesti
+
+Sandoz d.d. Eesti filiaal
+
+Tel: +372 665 2400
+
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Ελλάδα
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+
+Τηλ: +30 216 600 5000
+
+## Österreich
+
+Sandoz GmbH
+
+Tel: +43 5338 2000
+
+## España
+
+Sandoz Farmacéutica, S.A.
+
+Tel: +34 900 456 856
+
+## Polska
+
+Sandoz Polska Sp. z o.o.
+
+Tel.: +48 22 209 70 00
+
+## France
+
+Sandoz SAS
+
+Tél: +33 1 49 64 48 00
+
+## Portugal
+
+Sandoz Farmacêutica Lda.
+
+Tel: +351 21 000 86 00
+
+## Hrvatska
+
+Sandoz d.o.o.
+
+Tel: +385 1 23 53 111
+
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
+
+## Ireland
+
+Rowex Ltd.
+
+Tel: + 353 27 50077
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d.
+
+Tel: +386 1 580 29 02
+
+## Italia
+
+Sandoz S.p.A.
+
+Tel: +39 02 81280696
+
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka
+
+Tel: +421 2 48 200 600
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+
+Τηλ
+
+: +30 216 600 5000
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle
+
+Tel: +371 67 892 006
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: +358 10 6133 400
+
+## Traceability:
+
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
+## This leaflet was last revised in MM/YYYY
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## INSTRUCTIONS FOR USE
+
+## Pyzchiva (ustekinumab)
+
+injection, for subcutaneous use
+
+Pre-filled pen
+
+Instructions for injecting Pyzchiva using a pre-filled pen. Read this Instructions for Use before you start using Pyzchiva. Your healthcare professional should show you how to prepare and give your injection of Pyzchiva the right way.
 
 If you cannot give yourself the injection:
 
@@ -6132,10 +6007,12 @@ Figure A
 
 - Store Pyzchiva in the refrigerator between 2°C to 8°C.
 - Store Pyzchiva in the original carton to protect from light or physical damage.
+- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product
 
 <div style=\"page-break-after: always\"></div>
 
-- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier. Do not store Pyzchiva in extreme heat or cold.
+can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier. Do not store Pyzchiva in extreme heat or cold.
+
 - Do not freeze.
 
 ## Preparing to Inject Pyzchiva pre-filled pen
@@ -6143,7 +6020,7 @@ Figure A
 Step 1 Before you start, check the carton to make sure that it is the right dose. You will have either 45 mg or 90 mg as prescribed by your doctor.
 
 - If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
-- If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself two injections, one right after the other.
+- If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg prefilled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself two injections, one right after the other.
 
 ## Step 2 Gather supplies
 
@@ -6151,7 +6028,9 @@ Step 1 Before you start, check the carton to make sure that it is the right dose
 - Step 2.2: Gather the supplies you will need to prepare and to give your injection (Figure B) .
 - You will need the following supplies.
 - Included in the carton:
-- -Pyzchiva pre-filled pen
+
+-Pyzchiva pre-filled pen
+
 - Not included in the carton:
 - Alcohol swab
 - Cotton balls or gauze pads
@@ -6178,15 +6057,15 @@ Figure B
 
 <!-- image -->
 
-- Clear? Colorless?
-
-- No particles? Not expired?
-
-Exp: xxxXxx
-
-No damage?
-
 Figure C
+
+- √Clear? Colorless?
+
+- No particles?Not expired?
+
+Exp: Xxxxxx
+
+√No damage?
 
 ## Step 4 Allow the medicine to reach room temperature
 
@@ -6274,11 +6153,9 @@ Figure K
 
 <!-- image -->
 
-If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself a
+If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself a second injection right after the first. Repeat Steps 1-12 for the second injection using a new pen. Choose a different site for the second injection.
 
 <div style=\"page-break-after: always\"></div>
-
-second injection right after the first. Repeat Steps 1-12 for the second injection using a new pen. Choose a different site for the second injection.
 
 ## Disposing of Pyzchiva pre-filled pen
 
@@ -6345,11 +6222,11 @@ Plaque psoriasis is a skin condition that causes inflammation affecting the skin
 
 Pyzchiva administered using the pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Pyzchiva to:
+
+<div style=\"page-break-after: always\"></div>
 
 - Reduce the signs and symptoms of your disease.
 - Improve your physical function.
@@ -6389,9 +6266,9 @@ Pyzchiva can cause serious side effects, including allergic reactions and infect
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Pyzchiva.
 
-<div style=\"page-break-after: always\"></div>
-
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Heart attack and strokes
 
@@ -6420,13 +6297,13 @@ Tell your doctor or pharmacist:
 - It is important that you tell your baby's doctors and other health care professionals if you received Pyzchiva during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Pyzchiva during the pregnancy unless your baby's doctor recommends otherwise.
 - Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use ustekinumab -do not do both.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Driving and using machines
 
 Ustekinumab has no or negligible influence on the ability to drive and use machines.
 
 ## Pyzchiva contains polysorbate 80 (E433)
+
+<div style=\"page-break-after: always\"></div>
 
 This medicine contains 0.04 mg of polysorbate 80 (E433) in each pre-filled pen (1 ml) which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
@@ -6470,11 +6347,11 @@ If you forget a dose, contact your doctor or pharmacist. Do not take a double do
 
 It is not dangerous to stop using ustekinumab. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -6515,15 +6392,16 @@ Tell your doctor straight away if you notice any of these signs of infection. Th
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - Diarrhoea
 - Nausea
 - Vomiting
+
+<div style=\"page-break-after: always\"></div>
+
 - Feeling tired
 - Feeling dizzy
 - Headache
@@ -6565,13 +6443,10 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Keep this medicine out of the sight and reach of children.
 - Store in a refrigerator (2°C-8°C). Do not freeze.
 - Keep the pre-filled pen in the outer carton in order to protect from light.
-- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C
+- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
+- Do not shake Pyzchiva pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier.
-
-- Do not shake Pyzchiva pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -6595,7 +6470,9 @@ Pyzchiva is a clear, colourless to light yellow solution for injection. The solu
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL. B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL. B.V.
+
+Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -6605,23 +6482,19 @@ Sandoz nv/sa
 
 Tél/Tel: +32 2 722 97 97
 
+## България
+
+Сандоз България КЧТ
+
+Тел
+
+.: +359 2 970 47 47
+
 ## Lietuva
 
 Sandoz Pharmaceuticals d.d filialas
 
 Tel: +370 5 2636 037
-
-## България
-
-Сандоз България КЧТ
-
-Тел.: +359 2 970 47 47
-
-## Luxembourg/Luxemburg
-
-Sandoz nv/sa
-
-Tél/Tel.: +32 2 722 97 97
 
 ## Česká republika
 
@@ -6629,13 +6502,11 @@ Sandoz s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
+## Luxembourg/Luxemburg
 
-Sandoz Hungária Kft.
+Sandoz nv/sa
 
-Tel.: +36 1 430 2890
-
-<div style=\"page-break-after: always\"></div>
+Tél/Tel.: +32 2 722 97 97
 
 ## Danmark/Norge/Ísland/Sverige
 
@@ -6643,23 +6514,49 @@ Sandoz A/S
 
 Tlf: +45 63 95 10 00
 
+## Magyarország
+
+Sandoz Hungária Kft.
+
+Tel.: +36 1 430 2890
+
 ## Deutschland
 
 Hexal AG
 
 Tel: +49 8024 908 0
 
+## Malta
+
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
+
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
+
+## Nederland
 
 Sandoz d.d. Eesti filiaal
 
 Tel: +372 665 2400
 
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ: +30 216 600 5000
+
+## Österreich
+
+Sandoz GmbH
+
+Tel: +43 5338 2000
 
 ## España
 
@@ -6667,11 +6564,23 @@ Sandoz Farmacéutica, S.A.
 
 Tel: +34 900 456 856
 
+## Polska
+
+Sandoz Polska Sp. z o.o.
+
+Tel.: +48 22 209 70 00
+
 ## France
 
 Sandoz SAS
 
 Tél: +33 1 49 64 48 00
+
+## Portugal
+
+Sandoz Farmacêutica Lda.
+
+Tel: +351 21 000 86 00
 
 ## Hrvatska
 
@@ -6679,11 +6588,23 @@ Sandoz d.o.o.
 
 Tel: +385 1 23 53 111
 
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
+
 ## Ireland
 
 Rowex Ltd.
 
 Tel: + 353 27 50077
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d.
+
+Tel: +386 1 580 29 02
 
 ## Italia
 
@@ -6691,9 +6612,15 @@ Sandoz S.p.A.
 
 Tel: +39 02 81280696
 
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka
+
+Tel: +421 2 48 200 600
+
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ
 
@@ -6705,77 +6632,29 @@ Sandoz d.d. Latvia filiāle
 
 Tel: +371 67 892 006
 
-## Traceability:
-
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
-## This leaflet was last revised in MM/YYYY Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-## Malta
-
-Sandoz Pharmaceuticals d.d.
-
-Tel: +35699644126
-
-## Nederland
-
-Sandoz B.V.
-
-Tel: +31 36 52 41 600
-
-## Österreich
-
-Sandoz GmbH
-
-Tel: +43 5338 2000
-
-## Polska
-
-Sandoz Polska Sp. z o.o.
-
-Tel.: +48 22 209 70 00
-
-## Portugal
-
-Sandoz Farmacêutica Lda.
-
-Tel: +351 21 000 86 00
-
-## România
-
-Sandoz Pharmaceuticals SRL
-
-Tel: +40 21 407 51 60
-
-## Slovenija
-
-Sandoz farmacevtska družba d.d.
-
-Tel: +386 1 580 29 02
-
-## Slovenská republika
-
-Sandoz d.d. - organizačná zložka
-
-Tel: +421 2 48 200 600
-
 ## Suomi/Finland
 
 Sandoz A/S
 
 Puh/Tel: +358 10 6133 400
 
+## Traceability:
+
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
+## This leaflet was last revised in MM/YYYY Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
 <div style=\"page-break-after: always\"></div>
 
-## INSTRUCTIONS FOR USE Pyzchiva (ustekinumab)
+## INSTRUCTIONS FOR USE
+
+## Pyzchiva (ustekinumab)
 
 ## injection, for subcutaneous use Pre-filled pen
 
-## Instructions for injecting Pyzchiva using a pre-filled pen.
-
-Read this Instructions for Use before you start using Pyzchiva. Your healthcare professional should show you how to prepare and give your injection of Pyzchiva the right way.
+Instructions for injecting Pyzchiva using a pre-filled pen. Read this Instructions for Use before you start using Pyzchiva. Your healthcare professional should show you how to prepare and give your injection of Pyzchiva the right way.
 
 If you cannot give yourself the injection:
 
@@ -6790,13 +6669,7 @@ Call your doctor to talk about any questions you may have. For additional assist
 
 ## Guide to parts:
 
-## Before use
-
-## After use
-
 Figure A
-
-<!-- image -->
 
 <!-- image -->
 
@@ -6810,11 +6683,11 @@ Figure A
 
 - Store Pyzchiva in the refrigerator between 2°C to 8°C.
 - Store Pyzchiva in the original carton to protect from light or physical damage.
-- If needed, individual Pyzchiva pre-filled pens may also be stored at room
+- If needed, individual Pyzchiva pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product
 
 <div style=\"page-break-after: always\"></div>
 
-temperature up to 30°C for a maximum single period of up to 35 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier. Do not store Pyzchiva in extreme heat or cold.
+can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used after the maximum period of 35 days at room temperature storage or by the original expiry date, whichever is earlier. Do not store Pyzchiva in extreme heat or cold.
 
 - Do not freeze.
 
@@ -6823,7 +6696,7 @@ temperature up to 30°C for a maximum single period of up to 35 days in the orig
 Step 1 Before you start, check the carton to make sure that it is the right dose. You will have either 45 mg or 90 mg as prescribed by your doctor.
 
 - If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
-- If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself two injections, one right after the other.
+- If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg prefilled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself two injections, one right after the other.
 
 ## Step 2 Gather supplies
 
@@ -6860,13 +6733,13 @@ Figure B
 
 Figure C
 
-- Clear? Colorless?
+- √Clear? Colorless?
 
-- No particles? Not expired?
+- No particles?√Not expired?
 
-Exp: XxXxXX
+Exp: Xxxxxx
 
-No damage?
+√No damage?
 
 ## Step 4 Allow the medicine to reach room temperature
 
@@ -6948,21 +6821,21 @@ Figure J
 
 - The needle guard will completely cover the needle.
 - As in Figure K , a small gray band may still be visible in the viewing window.
-- When the needle is pulled out of your skin, there may be a little bleeding or a few drops at the injection site. This is normal. You can press a cotton ball or gauze pad to the injection site if needed. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if  necessary.
+- When the needle is pulled out of your skin, there may be a little bleeding or a few drops at the injection site. This is normal. You can press a cotton ball or gauze pad to the injection site if needed. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
 Figure K
 
 <!-- image -->
 
-If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself a
+If your dose is 90 mg, you will receive either one 90 mg pre-filled pen or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens for a 90 mg dose, you will need to give yourself a second injection right after the first. Repeat Steps 1-12 for the second injection using a new pen.
 
 <div style=\"page-break-after: always\"></div>
 
-second injection right after the first. Repeat Steps 1-12 for the second injection using a new pen. Choose a different site for the second injection.
+## Choose a different site for the second injection.
 
 ## Disposing of Pyzchiva pre-filled pen
 
-Step 13 Put the used pen in a sharps disposal container right away after use (Figure L) .
+## Step 13 Put the used pen in a sharps disposal container right away after use (Figure L) .
 
 - Do not throw away (dispose of) loose pens in your household trash.
 - Do not recycle your used sharps disposal container.

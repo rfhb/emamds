@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-02-18 09:40:13
+document_datetime: 2026-07-01 09:26:23
 document_pages: 149
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wezenla-epar-product-information_en.pdf
 document_name: wezenla-epar-product-information_en.pdf
 version: success
-processing_time: 57.5332625
-conversion_datetime: 2026-02-21 12:11:23.244811
+processing_time: 78.5055423
+conversion_datetime: 2026-07-04 14:34:42.582408
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -238,11 +236,9 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of WEZENLA in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant,
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 <div style=\"page-break-after: always\"></div>
-
-administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -354,28 +350,28 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Crohn's disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease ( Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease ( Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
-The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2, n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
 Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4 %).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF α naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4 %).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab-treated group compared to placebo (see table 4). Clinical response and remission were significant as early as week 3 in ustekinumab-treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 4. Induction of clinical response and remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2**       | UNITI-2**                               |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 point response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 point response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2**       | UNITI-2**                                |
+|---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
+|                                       | Placebo N = 247 | Recommende d dose of ustekinumab N = 249 | Placebo N = 209 | Recommende d dose of ustekinumab N = 209 |
+| Clinical remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41 (19.6%)      | 84 (40.2%) a                             |
+| Clinical response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60 (28.7%)      | 116 (55.5%) a                            |
+| Clinical response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67 (32.1%)      | 121 (57.9%) a                            |
+| 70 point response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66 (31.6%)      | 106 (50.7%) a                            |
+| 70 point response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81 (38.8%)      | 135 (64.6%) a                            |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the WEZENLA solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
@@ -384,8 +380,6 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 ** Conventional therapy failures
 
 <div style=\"page-break-after: always\"></div>
-
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the WEZENLA solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab-treated groups compared to the placebo group at week 44 (see table 5).
 
@@ -422,11 +416,9 @@ In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when tr
 
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
 
-Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
 <div style=\"page-break-after: always\"></div>
-
-response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
@@ -434,7 +426,7 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula response
 
@@ -452,13 +444,11 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's disease (see section 4.2 for information on paediatric use).
 
-## Paediatric Crohn's disease
-
-The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with
-
 <div style=\"page-break-after: always\"></div>
 
-moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior bio logic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
 
 ## Efficacy results
 
@@ -516,11 +506,11 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t 1/2 ) of ustekinumab was approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg.
+The systemic exposure of ustekinumab (C max  and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg.
 
 ## Special populations
 
@@ -530,13 +520,13 @@ No specific studies have been conducted with intravenous ustekinumab in elderly 
 
 In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Regulation of CYP450 enzymes
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
-
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinuma b at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 ## Paediatric population
 
@@ -560,15 +550,15 @@ EDTA disodium salt dihydrate L-histidine L-histidine hydrochloride monohydrate L
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. WEZENLA should only be diluted with sodium chloride 9 mg/mL (0.9%) solution. WEZENLA should not be administered concomitantly in the same intravenous line with other medicinal products.
 
-## 6.3 Shelf life
-
-3 years
-
 <div style=\"page-break-after: always\"></div>
 
-After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 24 hours at 15°C-25°C. Do not return to the refrigerator.
+## 6.3 Shelf life
 
-From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
+## 3 years
+
+After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 35 days at 2°C to 8°C, followed by an additional 72 hours at room temperature up to 30°C. Do not return the diluted infusion solution to the refrigerator once stored at room temperature. The diluted infusion solution should be stored protected from light. During preparation and administration, the diluted infusion solution may be exposed to light for up to 24 hours.
+
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at up to 25°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -606,7 +596,9 @@ WEZENLA concentrate for solution for infusion must be diluted and prepared by a 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin,
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -622,8 +614,6 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -632,7 +622,7 @@ WEZENLA 45 mg solution for injection WEZENLA 45 mg solution for injection in pre
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-WEZENLA 45 mg solution for injection
+## WEZENLA 45 mg solution for injection
 
 Each vial contains 45 mg ustekinumab in 0.5 mL.
 
@@ -749,15 +739,15 @@ Table 2. Injection volumes of WEZENLA for paediatric psoriasis patients &lt; 60 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 
 <div style=\"page-break-after: always\"></div>
@@ -766,35 +756,35 @@ Table 2. Injection volumes of WEZENLA for paediatric psoriasis patients &lt; 60 
 |--------------------------------------|-------------|----------------------------|
 |                                   26 |        19.5 |                       0.22 |
 |                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
+|                                   28 |        21.0 |                       0.23 |
 |                                   29 |        21.8 |                       0.24 |
 |                                   30 |        22.5 |                       0.25 |
 |                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
+|                                   32 |        24.0 |                       0.27 |
 |                                   33 |        24.8 |                       0.27 |
 |                                   34 |        25.5 |                       0.28 |
 |                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
+|                                   36 |        27.0 |                       0.30 |
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
-|                                   40 |        30   |                       0.33 |
+|                                   40 |        30.0 |                       0.33 |
 |                                   41 |        30.8 |                       0.34 |
 |                                   42 |        31.5 |                       0.35 |
 |                                   43 |        32.3 |                       0.36 |
-|                                   44 |        33   |                       0.37 |
+|                                   44 |        33.0 |                       0.37 |
 |                                   45 |        33.8 |                       0.37 |
 |                                   46 |        34.5 |                       0.38 |
 |                                   47 |        35.3 |                       0.39 |
-|                                   48 |        36   |                       0.4  |
+|                                   48 |        36.0 |                       0.40 |
 |                                   49 |        36.8 |                       0.41 |
 |                                   50 |        37.5 |                       0.42 |
 |                                   51 |        38.3 |                       0.42 |
-|                                   52 |        39   |                       0.43 |
+|                                   52 |        39.0 |                       0.43 |
 |                                   53 |        39.8 |                       0.44 |
 |                                   54 |        40.5 |                       0.45 |
 |                                   55 |        41.3 |                       0.46 |
-|                                   56 |        42   |                       0.46 |
+|                                   56 |        42.0 |                       0.46 |
 |                                   57 |        42.8 |                       0.47 |
 |                                   58 |        43.5 |                       0.48 |
 |                                   59 |        44.3 |                       0.49 |
@@ -977,11 +967,9 @@ Ustekinumab crosses the placenta and has been detected in the serum of infants b
 
 ## Breast-feeding
 
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with WEZENLA must be made taking into account the benefit of breast-feeding to the child and the benefit of WEZENLA therapy to the woman.
 
 <div style=\"page-break-after: always\"></div>
-
-therapy with WEZENLA must be made taking into account the benefit of breast-feeding to the child and the benefit of WEZENLA therapy to the woman.
 
 ## Fertility
 
@@ -999,7 +987,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psori asis or Crohn's disease were exposed for at least 5 years.
 
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by system organ class and frequency, using the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1036,11 +1024,9 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebocontrolled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
@@ -1138,19 +1124,19 @@ b  PGA = Physician Global Assessment.
 
 Table 5. Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | a                                      | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 |                                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
 
 a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 
@@ -1166,11 +1152,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA ( ≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying anti-rheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%),
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA ( ≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying anti-rheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX ( ≤ 25 mg/week).
 
 <div style=\"page-break-after: always\"></div>
-
-spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX ( ≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF) α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agen t(s), of whom over 70% had discontinued their anti-TNF α treatment for lack of efficacy or intolerance at any time.
 
@@ -1205,12 +1189,6 @@ Table 6. Number of patients who achieved clinical response in Psoriatic arthriti
 | ACR 20 response,N (%)              | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
 | Number of patients with ≥ 3% BSA d | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
 | PASI 75 response,N (%)             | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
-
-a p &lt; 0.001
-
-b  p &lt; 0.05
-
-c  p = NS
 
 d  Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
@@ -1303,9 +1281,8 @@ Table 8. Summary of primary and secondary endpoints at week 12 and week 52
 | Paediatric Psoriasis Study (CADMUS Jr.) (age 6-11)   | Paediatric Psoriasis Study (CADMUS Jr.) (age 6-11)   | Paediatric Psoriasis Study (CADMUS Jr.) (age 6-11)   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                      | Week 12 Recommended dose of ustekinumab              | Week 52 Recommended dose of ustekinumab              |
-|                                                      | N (%)                                                | N (%)                                                |
-| Patients enrolled                                    | 44                                                   | 41                                                   |
-| PGA                                                  |                                                      |                                                      |
+| Patients enrolled                                    | 44                                                   | N 41                                                 |
+|                                                      | N (%)                                                | (%)                                                  |
 | PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
 | PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
 | PASI                                                 |                                                      |                                                      |
@@ -1405,11 +1382,9 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula response
 
@@ -1429,13 +1404,13 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Paediatric Crohn's disease
 
-The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt; 30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior bio logic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
 
 ## Efficacy results
 
 The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
 
-Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt; 12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1443,13 +1418,13 @@ Table 11 presents the analyses for the secondary endpoints through maintenance w
 
 Table 11. Summary of Secondary endpoints through Maintenance week 44
 
-|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
-|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Clinical remission*                                                                  | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Corticosteroid-free clinical remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
-| Clinical response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
-| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
+|                                                                                     | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|-------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical remission*                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free clinical remission §                                            | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8* | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+| Clinical response †                                                                 | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
+| Endoscopic response £                                                               | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
 
 ## Dosing frequency adjustment
 
@@ -1469,7 +1444,7 @@ The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related 
 
 ## Absorption
 
-The median time to reach the maximum serum concentration (tmax) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
+The median time to reach the maximum serum concentration (t max ) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median t max values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
 
 The absolute bioavailability of ustekinumab following a single subcutaneous administration was estimated to be 57.2% in patients with psoriasis.
 
@@ -1485,11 +1460,11 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 L/day and 15.7 L, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t 1/2 ) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 L/day and 15.7 L, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+The systemic exposure of ustekinumab (C max  and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
 ## Single dose versus multiple doses
 
@@ -1527,7 +1502,7 @@ The steadystate serum concentrations in paediatric patients with Crohn's disease
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinuma b at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1601,7 +1576,7 @@ WEZENLA is available in 1 vial pack or a pack of 1 pre-filled syringe.
 
 The solution in the WEZENLA vial or pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to opalescent, colourless to light yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, WEZENLA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
-WEZENLA does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. WEZENLA is supplied as a sterile, single-use vial or singleuse pre-filled syringe. The syringe, needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+WEZENLA does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. WEZENLA is supplied as a sterile, single-use vial or single-use pre-filled syringe. The syringe, needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm) needle is recommended.
 
@@ -1661,7 +1636,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## WEZENLA 45 mg solution for injection in pre-filled pen
+WEZENLA 45 mg solution for injection in pre-filled pen
 
 Solution for injection (ConfiPen).
 
@@ -1761,11 +1736,9 @@ The safety and efficacy of ustekinumab for the treatment of Crohn's disease in p
 
 WEZENLA 45 mg and 90 mg pre-filled pens are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 
-After proper training in subcutaneous injection technique, patients or their caregivers may inject WEZENLA if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the
+After proper training in subcutaneous injection technique, patients or their caregivers may inject WEZENLA if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of WEZENLA according to the directions provided in the package leaflet. Comprehensive instructions for use are given in the package leaflet.
 
 <div style=\"page-break-after: always\"></div>
-
-prescribed amount of WEZENLA according to the directions provided in the package leaflet. Comprehensive instructions for use are given in the package leaflet.
 
 For further instructions on preparation and special precautions for handling, see section 6.6.
 
@@ -1829,11 +1802,9 @@ Long term treatment with WEZENLA does not suppress the humoral immune response t
 
 ## Concomitant immunosuppressive therapy
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and WEZENLA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and WEZENLA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 ## Immunotherapy
 
@@ -1948,11 +1919,9 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebocontrolled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
@@ -1980,11 +1949,9 @@ Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specific
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-reactive protein (CRP) and faecal calprotectin during the induction phase, which
-
 <div style=\"page-break-after: always\"></div>
 
-were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-reactive protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
 ## Immunisation
 
@@ -2004,9 +1971,9 @@ Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoria
 
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
-The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see tables 2 and 3).
-
 <div style=\"page-break-after: always\"></div>
+
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see tables 2 and 3).
 
 Table 2. Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
@@ -2036,21 +2003,23 @@ Table 2. Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psori
 
 Table 3. Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                  | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice a | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | week)                              | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                          | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                          | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                           | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                          | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                          | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                 | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                           | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|----------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 | a week)                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                              | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                        | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                        | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                         | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                        | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                              | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                        | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                               | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                         | 32 (55%)                                | 67 (65%)                                |
 
 <div style=\"page-break-after: always\"></div>
+
+b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
@@ -2096,11 +2065,9 @@ Table 4. Number of patients who achieved clinical response in Psoriatic arthriti
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
-The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab
+The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
 <div style=\"page-break-after: always\"></div>
-
-who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
 Responses observed in the ustekinumab-treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
@@ -2122,11 +2089,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Crohn's disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8 week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8 week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the WEZENLA 130 mg concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -2159,11 +2124,9 @@ a p &lt; 0.001
 
 b p &lt; 0.01
 
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg
+The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab-treated groups compared to the placebo group at week 44 (see table 6).
 
@@ -2210,7 +2173,7 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SE S-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula response
 
@@ -2232,7 +2195,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-The median time to reach the maximum serum concentration (tmax) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
+The median time to reach the maximum serum concentration (t max ) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median t max values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2248,11 +2211,11 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 L/day and 15.7 L, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t 1/2 ) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 L/day and 15.7 L, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+The systemic exposure of ustekinumab (C max  and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
 ## Single dose versus multiple doses
 
@@ -2262,11 +2225,9 @@ In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, sta
 
 ## Impact of weight on pharmacokinetics
 
-In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight ( ≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 <div style=\"page-break-after: always\"></div>
-
-lower weight ( ≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
 
@@ -2290,15 +2251,13 @@ The pre-filled pen has not been studied in the paediatric population and is not 
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n = 18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinuma b at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No
+Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
 <div style=\"page-break-after: always\"></div>
-
-adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
 Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
@@ -2425,7 +2384,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency:
+- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -2516,8 +2475,8 @@ Lot
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including in Braille accepted.
 
@@ -2537,7 +2496,8 @@ PC SN NN
 |----------------------------------------------------------------|
 | VIAL LABEL                                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 WEZENLA 130 mg concentrate for solution for infusion ustekinumab
 
@@ -2546,7 +2506,8 @@ WEZENLA 130 mg concentrate for solution for infusion ustekinumab
 
 For IV use after dilution. Do not shake.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2563,6 +2524,8 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+78
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -2571,7 +2534,9 @@ OUTER CARTON VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-WEZENLA 45 mg solution for injection ustekinumab
+WEZENLA 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2583,7 +2548,7 @@ Sucrose, L-histidine, L-histidine hydrochloride monohydrate, polysorbate 80 (E 4
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 vial
 
@@ -2621,7 +2586,9 @@ Keep the vial in the outer carton in order to protect from light.
 | 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |-------|---------------------------------------------------|
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin,
+
+Ireland
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -2639,8 +2606,8 @@ Lot
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 WEZENLA 45 mg vial
 
@@ -2688,6 +2655,8 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+81
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -2696,7 +2665,9 @@ OUTER CARTON PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-WEZENLA 45 mg solution for injection in pre-filled syringe ustekinumab
+WEZENLA 45 mg solution for injection in pre-filled syringe
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2746,7 +2717,11 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 | 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |-------|---------------------------------------------------|
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC,
+
+Pottery Road, Dun Laoghaire, Co Dublin,
+
+Ireland
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -2764,8 +2739,8 @@ Lot
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 WEZENLA 45 mg syringe
 
@@ -2803,7 +2778,7 @@ EXP
 | 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
 |------|----------------------------------------------|
 
-Lot
+Lot WEZENLA 45 mg injection ustekinumab SC
 
 | 5.   | OTHER   |
 |------|---------|
@@ -2818,8 +2793,6 @@ Lot
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
-
-WEZENLA 45 mg injection ustekinumab SC
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -2842,11 +2815,13 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+85
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON PRE-FILLED SYRINGE
+CARTON PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2900,7 +2875,9 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 | 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |-------|---------------------------------------------------|
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin,
+
+Ireland
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -2912,14 +2889,14 @@ EU/1/24/1823/003
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 WEZENLA 90 mg syringe
 
@@ -2931,7 +2908,9 @@ WEZENLA 90 mg syringe
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2957,7 +2936,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot WEZENLA 90 mg injection ustekinumab SC
 
 | 5.   | OTHER   |
 |------|---------|
@@ -2966,14 +2945,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALLIMMEDIATEPACKAGING   |
-|----------------------------------------------------------|
-| LABEL PRE-FILLED SYRINGE                                 |
+| MINIMUM PARTICULARS TO APPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|----------------------------------------------------------------|
+| LABEL PRE-FILLED SYRINGE                                       |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
-
-WEZENLA 90 mg injection ustekinumab SC
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -3002,7 +2979,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON PRE-FILLED PEN
+OUTER CARTON PRE-FILLED PEN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3042,14 +3019,15 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator.
 
-Store in a refrigerator. Do not freeze.
+Do not freeze.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
 
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -3057,9 +3035,7 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 | 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
 |-------|---------------------------------------------------|
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin,
-
-Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -3090,9 +3066,7 @@ WEZENLA 45 mg pen
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
 |-------|-----------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3206,8 +3180,8 @@ Lot
 | 15.   | INSTRUCTIONSONUSE   |
 |-------|---------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 WEZENLA 90 mg pen
 
@@ -3223,9 +3197,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALLIMMEDIATEPACKAGING   |
-|----------------------------------------------------------|
-| LABEL PRE-FILLED PEN                                     |
+| MINIMUM PARTICULARS TO APPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|----------------------------------------------------------------|
+| LABEL PRE-FILLED PEN                                           |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -3261,11 +3235,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the user
 
-## WEZENLA 130 mg concentrate for solution for infusion
-
-## ustekinumab
+## WEZENLA 130 mg concentrate for solution for infusion ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3556,7 +3530,9 @@ Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 ## Marketing Authorisation Holder
 
-Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin,
+
+Ireland
 
 ## Manufacturer
 
@@ -3568,9 +3544,7 @@ Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien s.a. Amgen n.v.
-
-Tél/Tel: +32 (0)2 7752711
+België/Belgique/Belgien s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 Lietuva Tel: +370 5 219 7474
 
@@ -3580,13 +3554,13 @@ Amgen Switzerland AG Vilniaus filialas
 
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
-Amgen s.r.o.
-
-Tel: +420 221 773 500
+Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
@@ -3606,7 +3580,9 @@ Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
 
 ## España
 
-Amgen S.A. Tel: +34 93 600 18 60
+Amgen S.A.
+
+Tel: +34 93 600 18 60
 
 ## France
 
@@ -3622,9 +3598,7 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor
-
-Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -3654,7 +3628,9 @@ Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tlf: +47 23308000
+Amgen AB
+
+Tlf: +47 23308000
 
 ## Österreich
 
@@ -3728,7 +3704,7 @@ WEZENLA concentrate for solution for infusion must be diluted, prepared and infu
 
 If necessary, the diluted infusion solution may be stored at room temperature.
 
-After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 24 hours at 15°C-25°C. Do not return to the refrigerator. Do not freeze.
+After dilution chemical and physical in-use stability has been demonstrated between 0.86 mg/mL and 2.60 mg/mL for 35 days at 2°C to 8°C, followed by an additional 72 hours at room temperature up to 30°C. Do not return the diluted infusion solution to the refrigerator once stored at room temperature. Do not freeze. The diluted infusion solution should be stored protected from light. During preparation and administration, the diluted infusion solution may be exposed to light for up to 24 hours.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3736,9 +3712,7 @@ After dilution chemical and physical in-use stability has been demonstrated betw
 
 ## Package leaflet: Information for the user
 
-## WEZENLA 45 mg solution for injection
-
-## ustekinumab
+## WEZENLA 45 mg solution for injection ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3818,7 +3792,8 @@ WEZENLA can cause serious side effects, including allergic reactions and infecti
 ## Before you use WEZENLA tell your doctor:
 
 - If you ever had an allergic reaction to WEZENLA . Ask your doctor if you are not sure.
-- If you have ever had any type of cancer -this is because immunosuppressants like WEZENLA weaken part of the immune system. This may increase the risk of cancer.
+- If you have ever had any type of cancer -this is because immunosuppressants like
+- WEZENLA weaken part of the immune system. This may increase the risk of cancer.
 - If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) -the risk of cancer may be higher.
 - If you have or have had a recent infection .
 - If you have any new or changing lesions within psoriasis areas or on normal skin.
@@ -4099,7 +4074,9 @@ Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Malta
 
-Amgen S.r.l. Italy
+Amgen S.r.l.
+
+Italy
 
 Tel: +39 02 6241121
 
@@ -4117,7 +4094,9 @@ Tel: +31 (0)76 5732500
 
 ## Eesti
 
-Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +372 586 09553
 
 ## Norge
 
@@ -4129,9 +4108,17 @@ Tlf: +47 23308000
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
+## Österreich
+
+Amgen
+
+Ελλάς Φαρμακευτικά Ε.Π.Ε.
 
 Τηλ.: +30 210 3447000
+
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
 
 ## España
 
@@ -4139,11 +4126,23 @@ Amgen S.A.
 
 Tel: +34 93 600 18 60
 
+## Polska
+
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
+
 ## France
 
 Amgen S.A.S.
 
 Tél: +33 (0)9 69 363 363
+
+## Portugal
+
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
 
 ## Hrvatska
 
@@ -4151,11 +4150,23 @@ Amgen d.o.o.
 
 Tel: +385 (0)1 562 57 20
 
+## România
+
+Amgen România SRL
+
+Tel: +4021 527 3000
+
 ## Ireland
 
 Amgen Ireland Limited
 
 Tel: +353 1 8527400
+
+## Slovenija
+
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
 
 ## Ísland
 
@@ -4163,17 +4174,35 @@ Vistor
 
 Sími: +354 535 7000
 
+## Slovenská republika
+
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
+
 ## Italia
 
 Amgen S.r.l.
 
 Tel: +39 02 6241121
 
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ: +357 22741 741
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -4195,54 +4224,6 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 - Do not mix WEZENLA with other liquids for injection.
 - Do not shake WEZENLA vials. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
-
-## Österreich
-
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
-
-## Polska
-
-Amgen Biotechnologia Sp. z o.o.
-
-Tel.: +48 22 581 3000
-
-## Portugal
-
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
-
-## România
-
-Amgen România SRL
-
-Tel: +4021 527 3000
-
-## Slovenija
-
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
-
-## Slovenská republika
-
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
-
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4345,11 +4326,9 @@ Figure 5
 - Used syringes and needles should be placed in a puncture-resistant container, like a sharps container. Never re-use needles and syringes, for your safety and health, and for the safety of others. Dispose of your sharps container according to your local regulations.
 - Empty vials, antiseptic wipes, and other supplies can be disposed of in your garbage.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## WEZENLA 45 mg solution for injection in pre-filled syringe WEZENLA 90 mg solution for injection in pre-filled syringe
 
@@ -4683,11 +4662,19 @@ s.a. Amgen n.v.
 
 Tél/Tel: +32 (0)2 7752711
 
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+
 ## България
 
 Амджен България ЕООД
 
 Тел.: +359 (0)2 424 7440
+
+## Luxembourg/Luxemburg
+
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
@@ -4695,9 +4682,21 @@ Amgen s.r.o.
 
 Tel: +420 221 773 500
 
+## Magyarország
+
+Amgen Kft. Tel.: +36 1 35 44 700
+
 ## Danmark
 
 Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
+
+## Malta
+
+Amgen S.r.l.
+
+Italy
+
+Tel: +39 02 6241121
 
 ## Deutschland
 
@@ -4705,39 +4704,17 @@ Amgen GmbH
 
 Tel.: +49 89 1490960
 
-## Eesti
-
-Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
-
-## Lietuva
-
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
-
-## Luxembourg/Luxemburg
-
-s.a. Amgen
-
-Belgique/Belgien
-
-Tél/Tel: +32 (0)2 7752711
-
-## Magyarország
-
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
-
-## Malta
-
-Amgen S.r.l. Italy
-
-Tel: +39 02 6241121
-
 ## Nederland
 
 Amgen B.V.
 
 Tel: +31 (0)76 5732500
+
+## Eesti
+
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +372 586 09553
 
 ## Norge
 
@@ -4751,7 +4728,9 @@ Tlf: +47 23308000
 
 ## Österreich
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
+Amgen
+
+Ελλάς Φαρμακευτικά Ε.Π.Ε.
 
 Τηλ.: +30 210 3447000
 
@@ -5010,22 +4989,17 @@ Important: Continue to pinch the skin until injection is complete.
 
 ## 4d Slowly press the plunger head down until it is completely between the needle guard clips.
 
-INJECT
-
 <!-- image -->
 
 - Do not pull back on the plunger at any time.
 - Do not remove pre-filled syringe until all medicine is delivered.
-
-## 4e Keep pressure on the plunger head and remove needle from skin.
-
-LIFT
-
-<!-- image -->
-
 - Keep pressure on the plunger head and take the needle out of the skin.
 - Let go of the skin after needle is removed.
 - Slowly take your thumb off the plunger head. This will let the empty syringe move up until the entire needle is entirely covered by the needle guard.
+
+4e Keep pressure on the plunger head and remove needle from skin. LIFT
+
+<!-- image -->
 
 ## If a second injection is required…
 
@@ -5043,7 +5017,7 @@ Important:
 
 Never put the cap back on.
 
-5a Place the used pre-filled syringe and needle cap in the sharps disposal container.
+## 5a Place the used pre-filled syringe and needle cap in the sharps disposal container.
 
 <!-- image -->
 
@@ -5366,13 +5340,9 @@ Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
 Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland
 
+Manufacturer Amgen NV Telecomlaan 5-7 1831 Diegem Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
 <div style=\"page-break-after: always\"></div>
-
-## Manufacturer
-
-Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -5412,9 +5382,7 @@ Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
@@ -5423,6 +5391,12 @@ Amgen d.o.o. Tel: +385 (0)1 562 57 20
 ## Ireland
 
 Amgen Ireland Limited Tel: +353 1 8527400
+
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
 
 ## Lietuva
 
@@ -5468,17 +5442,13 @@ Amgen România SRL Tel: +4021 527 3000
 
 AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
-## Ísland
-
-Vistor
-
-Sími: +354 535 7000
-
 ## Slovenská republika
 
 Amgen Slovakia s.r.o.
 
 Tel: +421 2 321 114 49
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -5486,23 +5456,11 @@ Amgen S.r.l.
 
 Tel: +39 02 6241121
 
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ: +357 22741 741
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -5516,9 +5474,19 @@ Tel: +371 257 25888
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 -----------------------------------------------------------------------------------------------------------------------
+
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5676,8 +5644,6 @@ WATCH
 
 - The injection can take up to 15 seconds to complete. You may hear or feel a click.
 - After the window turns fully yellow, lift the pre-filled pen away from the skin.
-
-## Checking the injection site and disposing of the pre-filled pen
 
 <!-- image -->
 

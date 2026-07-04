@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 12:10:49
+document_datetime: 2026-07-01 09:23:15
 document_pages: 94
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erelzi-epar-product-information_en.pdf
 document_name: erelzi-epar-product-information_en.pdf
 version: success
-processing_time: 19.1560928
-conversion_datetime: 2026-01-03 12:38:47.754026
+processing_time: 26.0929141
+conversion_datetime: 2026-07-04 15:06:59.196566
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -216,7 +216,9 @@ In clinical studies, concurrent administration of abatacept and etanercept resul
 
 <div style=\"page-break-after: always\"></div>
 
-Allergic reactions associated with etanercept administration have been reported commonly. Allergic reactions have included angioedema and urticaria; serious reactions have occurred. If any serious allergic or anaphylactic reaction occurs, Erelzi therapy should be discontinued immediately and appropriate therapy initiated. Immunosuppression
+Allergic reactions associated with etanercept administration have been reported commonly. Allergic reactions have included angioedema and urticaria; serious reactions have occurred. If any serious allergic or anaphylactic reaction occurs, Erelzi therapy should be discontinued immediately and appropriate therapy initiated.
+
+## Immunosuppression
 
 The possibility exists for TNF-antagonists, including Erelzi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses. In a study of 49 adult patients with rheumatoid arthritis treated with etanercept, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector cell populations.
 
@@ -234,7 +236,7 @@ In the controlled portions of clinical trials of TNF-antagonists, more cases of 
 
 Based on current knowledge, a possible risk for the development of lymphomas, leukaemia or other haematopoietic or solid malignancies in patients treated with a TNF-antagonist cannot be excluded. Caution should be exercised when considering TNF-antagonist therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including etanercept, in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies typically associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNFantagonists (initiation of therapy ≤ 18 years of age), including etanercept, in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies typically associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 ## Skin cancers
 
@@ -272,11 +274,9 @@ Based on pharmacokinetic data (see section 5.2), no dose adjustment is needed in
 
 ## Congestive heart failure (Cardiac failure congestive)
 
-Physicians should use caution when using Erelzi in patients who have congestive heart failure (CHF). There have been post-marketing reports of worsening of CHF, with and without identifiable
+Physicians should use caution when using Erelzi in patients who have congestive heart failure (CHF). There have been post-marketing reports of worsening of CHF, with and without identifiable precipitating factors, in patients taking etanercept. There have also been rare (&lt; 0.1%) reports of new onset CHF, including CHF in patients without known pre-existing cardiovascular disease. Some of these patients have been under 50 years of age. Two large clinical trials evaluating the use of etanercept in the treatment of CHF were terminated early due to lack of efficacy. Although not conclusive, data from one of these trials suggest a possible tendency toward worsening CHF in those patients assigned to etanercept treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-precipitating factors, in patients taking etanercept. There have also been rare (&lt; 0.1%) reports of new onset CHF, including CHF in patients without known pre-existing cardiovascular disease. Some of these patients have been under 50 years of age. Two large clinical trials evaluating the use of etanercept in the treatment of CHF were terminated early due to lack of efficacy. Although not conclusive, data from one of these trials suggest a possible tendency toward worsening CHF in those patients assigned to etanercept treatment.
 
 ## Alcoholic hepatitis
 
@@ -338,11 +338,9 @@ Women of childbearing potential should consider the use of appropriate contracep
 
 ## Pregnancy
 
-Developmental toxicity studies performed in rats and rabbits have revealed no evidence of harm to the foetus or neonatal rat due to etanercept. The effects of etanercept on pregnancy outcomes have been investigated in two observational cohort studies. A higher rate of major birth defects was observed in one observational study comparing pregnancies exposed to etanercept (n = 370) during the first trimester with pregnancies not exposed to etanercept or other TNF-antagonists (n = 164) (adjusted odds ratio 2.4, 95% CI: 1.0 - 5.5). The types of major birth defects were consistent with those most commonly reported in the general population and no particular pattern of abnormalities was identified. No change in the rate of spontaneous abortion, stillbirth, or minor malformations was observed. In another observational multi-country registry study comparing the risk of adverse pregnancy outcomes in women exposed to etanercept during the first 90 days of pregnancy (n = 425) to those exposed to nonbiologic drugs (n = 3497), there was no observed increased risk of major birth defects (crude odds ratio [OR] = 1.22, 95% CI: 0.79 - 1.90; adjusted OR = 0.96, 95% CI: 0.58 - 1.60 after adjusting for country, maternal disease, parity, maternal age and smoking in early pregnancy). This study also showed no increased risks of minor birth defects, preterm birth, stillbirth, or infections in the first year of life for
+Developmental toxicity studies performed in rats and rabbits have revealed no evidence of harm to the foetus or neonatal rat due to etanercept. The effects of etanercept on pregnancy outcomes have been investigated in two observational cohort studies. A higher rate of major birth defects was observed in one observational study comparing pregnancies exposed to etanercept (n = 370) during the first trimester with pregnancies not exposed to etanercept or other TNF-antagonists (n = 164) (adjusted odds ratio 2.4, 95% CI: 1.0 - 5.5). The types of major birth defects were consistent with those most commonly reported in the general population and no particular pattern of abnormalities was identified. No change in the rate of spontaneous abortion, stillbirth, or minor malformations was observed. In another observational multi-country registry study comparing the risk of adverse pregnancy outcomes in women exposed to etanercept during the first 90 days of pregnancy (n = 425) to those exposed to nonbiologic drugs (n = 3497), there was no observed increased risk of major birth defects (crude odds ratio [OR] = 1.22, 95% CI: 0.79 - 1.90; adjusted OR = 0.96, 95% CI: 0.58 - 1.60 after adjusting for country, maternal disease, parity, maternal age and smoking in early pregnancy). This study also showed no increased risks of minor birth defects, preterm birth, stillbirth, or infections in the first year of life for infants born to women exposed to etanercept during pregnancy.  Erelzi should only be used during pregnancy if clearly needed.
 
 <div style=\"page-break-after: always\"></div>
-
-infants born to women exposed to etanercept during pregnancy.  Erelzi should only be used during pregnancy if clearly needed.
 
 Etanercept crosses the placenta and has been detected in the serum of infants born to female patients treated with etanercept during pregnancy. The clinical impact of this is unknown, however, infants may be at increased risk of infection. Administration of live vaccines to infants for 16 weeks after the mother's last dose of Erelzi is generally not recommended.
 
@@ -376,7 +374,7 @@ The following list of adverse reactions is based on experience from clinical tri
 
 <div style=\"page-break-after: always\"></div>
 
-Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
+Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1 /100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
 | System Organ Class                                                       | Very Common ≥ 1/10                                                                             | Common ≥ 1/100 to < 1/10                                                                 | Uncommon ≥ 1/1,000 to < 1/100                                                                              | Rare ≥ 1/10,000 to < 1/1,000                                                                                                                                                                                                                                                              | Very Rare < 1/10,000   | Not Known (Cannot be Estimated from Available Data)           |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------|
@@ -425,11 +423,9 @@ In placebo-controlled trials, no increase in the incidence of serious infections
 
 There were no differences in rates of infection among patients treated with etanercept and those treated with placebo for plaque psoriasis in placebo-controlled trials of up to 24 weeks duration. Serious infections experienced by etanercept-treated patients included cellulitis, gastroenteritis, pneumonia, cholecystitis, osteomyelitis, gastritis, appendicitis, Streptococcal fasciitis, myositis, septic shock, diverticulitis and abscess. In the double-blind and open-label psoriatic arthritis trials, 1 patient reported a serious infection (pneumonia).
 
-Serious and fatal infections have been reported during use of etanercept; reported pathogens include bacteria, mycobacteria (including tuberculosis), viruses and fungi. Some have occurred within a few weeks after initiating treatment with etanercept in patients who have underlying conditions (e.g., diabetes, congestive heart failure, history of active or chronic infections) in addition to their rheumatoid
+Serious and fatal infections have been reported during use of etanercept; reported pathogens include bacteria, mycobacteria (including tuberculosis), viruses and fungi. Some have occurred within a few weeks after initiating treatment with etanercept in patients who have underlying conditions (e.g., diabetes, congestive heart failure, history of active or chronic infections) in addition to their rheumatoid arthritis (see section 4.4). Etanercept treatment may increase mortality in patients with established sepsis.
 
 <div style=\"page-break-after: always\"></div>
-
-arthritis (see section 4.4). Etanercept treatment may increase mortality in patients with established sepsis.
 
 Opportunistic infections have been reported in association with etanercept, including invasive fungal, parasitic (including protozoal), viral (including herpes zoster), bacterial (including Listeria and Legionella ), and atypical mycobacterial infections. In a pooled data set of clinical trials, the overall incidence of opportunistic infections was 0.09% for the 15,402 subjects who received etanercept. The exposure-adjusted rate was 0.06 events per 100 patient-years. In post-marketing experience, approximately half of all of the case reports of opportunistic infections worldwide were invasive fungal infections. The most commonly reported invasive fungal infections included Candida , Pneumocystis , Aspergillus and Histoplasma . Invasive fungal infections accounted for more than half of the fatalities amongst patients who developed opportunistic infections. The majority of the reports with a fatal outcome were in patients with Pneumocystis pneumonia, unspecified systemic fungal infections, and aspergillosis (see section 4.4).
 
@@ -483,7 +479,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No dose-limiting toxicities were observed during clinical trials of rheumatoid arthritis patients. The highest dose level evaluated has been an intravenous loading dose of 32 mg/m 2 followed by subcutaneous doses of 16 mg/m 2  administered twice weekly. One rheumatoid arthritis patient mistakenly self-administered 62 mg etanercept subcutaneously twice weekly for 3 weeks without experiencing undesirable effects. There is no known antidote to etanercept.
+No dose-limiting toxicities were observed during clinical trials of rheumatoid arthritis patients. The highest dose level evaluated has been an intravenous loading dose of 32 mg/m 2 followed by subcutaneous doses of 16 mg/m 2 administered twice weekly. One rheumatoid arthritis patient mistakenly self-administered 62 mg etanercept subcutaneously twice weekly for 3 weeks without experiencing undesirable effects. There is no known antidote to etanercept.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -491,7 +487,7 @@ No dose-limiting toxicities were observed during clinical trials of rheumatoid a
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB01
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNFα) inhibitors, ATC code: L04AB01
 
 Erelzi is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -513,11 +509,9 @@ The efficacy of etanercept was assessed in a randomised, double-blind, placebo-c
 
 ACR 20 and 50 responses were higher in patients treated with etanercept at 3 and 6 months than in patients treated with placebo (ACR 20: etanercept 62% and 59%, placebo 23% and 11% at 3 and 6 months, respectively: ACR 50: etanercept 41% and 40%, placebo 8% and 5% at months 3 and 6, respectively; p &lt; 0.01 etanercept vs. placebo at all timepoints for both ACR 20 and ACR 50 responses).
 
-Approximately 15% of subjects who received etanercept achieved an ACR 70 response at month 3 and month 6 compared to fewer than 5% of subjects in the placebo arm. Among patients receiving etanercept, the clinical responses generally appeared within 1 to 2 weeks after initiation of therapy and
+Approximately 15% of subjects who received etanercept achieved an ACR 70 response at month 3 and month 6 compared to fewer than 5% of subjects in the placebo arm. Among patients receiving etanercept, the clinical responses generally appeared within 1 to 2 weeks after initiation of therapy and nearly always occurred by 3 months. A dose response was seen; results with 10 mg were intermediate between placebo and 25 mg. Etanercept was significantly better than placebo in all components of the ACR criteria, as well as other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness. A Health Assessment Questionnaire (HAQ), which included disability, vitality, mental health, general health status, and arthritis-associated health status subdomains, was administered every 3 months during the trial. All subdomains of the HAQ were improved in patients treated with etanercept compared to controls at 3 and 6 months.
 
 <div style=\"page-break-after: always\"></div>
-
-nearly always occurred by 3 months. A dose response was seen; results with 10 mg were intermediate between placebo and 25 mg. Etanercept was significantly better than placebo in all components of the ACR criteria, as well as other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness. A Health Assessment Questionnaire (HAQ), which included disability, vitality, mental health, general health status, and arthritis-associated health status subdomains, was administered every 3 months during the trial. All subdomains of the HAQ were improved in patients treated with etanercept compared to controls at 3 and 6 months.
 
 After discontinuation of etanercept, symptoms of arthritis generally returned within a month. Re-introduction of treatment with etanercept after discontinuation of up to 24 months resulted in the same magnitudes of responses as patients who received etanercept without interruption of therapy based on results of open-label studies. Continued durable responses have been seen for up to 10 years in open-label extension treatment trials when patients received etanercept without interruption.
 
@@ -527,7 +521,7 @@ In this study, structural joint damage was assessed radiographically and express
 
 ## Radiographic progression: comparison of etanercept vs. methotrexate in patients with RA of &lt; 3 years duration
 
-*p &lt;0.05
+*p &lt; 0.05
 
 <!-- image -->
 
@@ -543,7 +537,7 @@ Patients in the etanercept in combination with methotrexate therapy group had si
 
 | Endpoint        |                  | Methotrexate (n = 228)   | Etanercept (n = 223)   | Etanercept + Methotrexate (n = 231)   |
 |-----------------|------------------|--------------------------|------------------------|---------------------------------------|
-| ACR Responses a | ACR 20           | 58.8%                    | 65.5%                  | 74.5% †,ϕ                             |
+| ACR Responses a | ACR 20           | 58.8%                    | 65.5%                  | 74.5% †, ϕ                            |
 | ACR Responses a | ACR 50           | 36.4%                    | 43.0%                  | 63.2% †, ϕ                            |
 | ACR Responses a | ACR 70           | 16.7%                    | 22.0%                  | 39.8% †, ϕ                            |
 | DAS             | Baseline score b | 5.5                      | 5.7                    | 5.5                                   |
@@ -582,17 +576,21 @@ Clinical responses were expressed as percentages of patients achieving the ACR 2
 
 Responses of patients with psoriatic arthritis in a placebo-controlled trial
 
-|                              | Percent of Patients   | Percent of Patients   | Percent of Patients   |
-|------------------------------|-----------------------|-----------------------|-----------------------|
-| Psoriatic Arthritis Response |                       | Placebo n = 104       | Etanercept a n = 101  |
-| ACR 20                       | Month 3               | 15                    | 59 b                  |
-| ACR 20                       | Month 6               | 13                    | 50 b                  |
-| ACR 50                       | Month 3               | 4                     | 38 b                  |
-| ACR 50                       | Month 6               | 4                     | 37 b                  |
-| ACR 70                       | Month 3               | 0                     | 11 b                  |
-| ACR 70                       | Month 6               | 1                     | 9 c                   |
-| PsARC                        | Month 3               | 31                    | 72 b                  |
-|                              | Month 6               | 23                    | 70 b                  |
+|                              | Percent of Patients          | Percent of Patients   | Percent of Patients   |
+|------------------------------|------------------------------|-----------------------|-----------------------|
+| Psoriatic Arthritis Response | Psoriatic Arthritis Response | Placebo n = 104       | Etanercept a n = 101  |
+| ACR 20                       | Month 3                      | 15                    | 59 b                  |
+| ACR 20                       | Month 6                      | 13                    | 50 b                  |
+| ACR 50                       | Month 3                      | 4                     | 38 b                  |
+| ACR 50                       | Month 6                      | 4                     | 37 b                  |
+| ACR 70                       | Month 3                      | 0                     | 11 b                  |
+| ACR 70                       | Month 6                      | 1                     | 9 c                   |
+| PsARC                        | Month 3                      | 31                    | 72 b                  |
+|                              | Month 6                      | 23                    | 70 b                  |
+
+b: p &lt; 0.001, etanercept vs. placebo
+
+c: p &lt; 0.01, etanercept vs. placebo
 
 Among patients with psoriatic arthritis who received etanercept, the clinical responses were apparent at the time of the first visit (4 weeks) and were maintained through 6 months of therapy. Etanercept was significantly better than placebo in all measures of disease activity (p &lt; 0.001), and responses were similar with and without concomitant methotrexate therapy. Quality of life in psoriatic arthritis patients was assessed at every timepoint using the disability index of the HAQ. The disability index score was significantly improved at all timepoints in psoriatic arthritis patients treated with etanercept, relative to placebo (p &lt; 0.001).
 
@@ -618,7 +616,7 @@ No study has been performed in patients with psoriatic arthritis using the 50 mg
 
 ## Adult patients with ankylosing spondylitis
 
-The efficacy of etanercept in ankylosing spondylitis was assessed in 3 randomised, double-blind studies comparing twice-weekly administration of 25 mg etanercept with placebo. A total of 401 patients were enrolled, from which 203 were treated with etanercept. The largest of these trials (n = 277) enrolled patients who were between 18 and 70 years of age and had active ankylosing spondylitis defined as visual analog scale (VAS) scores of ≥ 30 for average of duration and intensity of morning stiffness plus VAS scores of ≥ 30 for at least 2 of the following 3 parameters: patient global assessment; average of VAS values for nocturnal back pain and total back pain; average of 10 questions on the Bath Ankylosing Spondylitis Functional Index (BASFI). Patients receiving DMARDs, NSAIDS, or corticosteroids could continue them on stable doses. Patients with complete ankylosis of the spine were not included in the study. Doses of 25 mg of etanercept (based on dose-finding studies in patients with rheumatoid arthritis) or placebo were administered subcutaneously twice a week for 6 months in 138 patients.
+The efficacy of etanercept in ankylosing spondylitis was assessed in 3 randomised, double-blind studies comparing twice-weekly administration of 25 mg etanercept with placebo. A total of 401 patients were enrolled, from which 203 were treated with etanercept. The largest of these trials (n = 277) enrolled patients who were between 18 and 70 years of age and had active ankylosing spondylitis defined as visual analog scale (VAS) scores of ≥ 30 for average of duration and intensity of morning stiffness plus VA S scores of ≥ 30 for at least 2 of the following 3 parameters: patient global assessment; average of VAS values for nocturnal back pain and total back pain; average of 10 questions on the Bath Ankylosing Spondylitis Functional Index (BASFI). Patients receiving DMARDs, NSAIDS, or corticosteroids could continue them on stable doses. Patients with complete ankylosis of the spine were not included in the study. Doses of 25 mg of etanercept (based on dose-finding studies in patients with rheumatoid arthritis) or placebo were administered subcutaneously twice a week for 6 months in 138 patients.
 
 The primary measure of efficacy (ASAS 20) was a ≥ 20% improvement in at least 3 of the 4 Assessment in Ankylosing Spondylitis (ASAS) domains (patient global assessments, back pain, BASFI, and inflammation) and absence of deterioration in the remaining domain. ASAS 50 and 70 responses used the same criteria with a 50% improvement or a 70% improvement, respectively.
 
@@ -676,11 +674,9 @@ At week 12, there was a statistically significant improvement in the SPARCC (Spo
 
 Etanercept showed statistically significantly greater improvement from baseline to week 12 compared to placebo in most health-related quality of life and physical function assessments, including BASFI (Bath Ankylosing Spondylitis Functional Index), EuroQol 5D Overall Health State Score and SF-36 Physical Component Score.
 
-Clinical responses among nr-AxSpa patients who received etanercept were apparent at the time of the first visit (2 weeks) and were maintained through 2 years of therapy. Improvements in health-related quality of life and physical function were also maintained through 2 years of therapy. The 2 year data did not reveal any new safety findings. At week 104, 8 subjects had progressed to a score of bilateral
+Clinical responses among nr-AxSpa patients who received etanercept were apparent at the time of the first visit (2 weeks) and were maintained through 2 years of therapy. Improvements in health-related quality of life and physical function were also maintained through 2 years of therapy. The 2 year data did not reveal any new safety findings. At week 104, 8 subjects had progressed to a score of bilateral Grade 2 on spinal X-ray according to the modified New York Radiological Grade, indicative of axial spondyloarthropathy.
 
 <div style=\"page-break-after: always\"></div>
-
-Grade 2 on spinal X-ray according to the modified New York Radiological Grade, indicative of axial spondyloarthropathy.
 
 ## Study 2
 
@@ -716,17 +712,21 @@ In study 1, the etanercept-treated group had a significantly higher proportion o
 
 Responses of patients with psoriasis in studies 2, 3 and 4
 
-|                                | Study 2   |                           |                           |                           |                           | Study 3   |                      |                      | Study 4   |                      |                      |
-|--------------------------------|-----------|---------------------------|---------------------------|---------------------------|---------------------------|-----------|----------------------|----------------------|-----------|----------------------|----------------------|
-|                                |           | --------Etanercept------- | --------Etanercept------- | --------Etanercept------- | --------Etanercept------- |           | -----Etanercept----- | -----Etanercept----- | Placebo   | -----Etanercept----- | -----Etanercept----- |
-|                                | Placebo   | 25 mg BIW                 | 25 mg BIW                 | 50 mg BIW                 | 50 mg BIW                 | Placebo   | 25 mg BIW            | 50 mg BIW            | Placebo   | 50 mg QW             | 50 mg QW             |
-|                                | n = 166   | n = 162                   | n = 162                   | n = 164                   | n = 164                   | n = 193   | n = 196              | n = 196              | n = 46    | n = 96               | n = 90               |
-| Response (%)                   | wk 12     | wk 12                     | wk 24 a                   | wk 12                     | wk 24 a                   | wk 12     | wk 12                | wk 12                | wk 12     | wk 12                | wk 24 a              |
-| PASI 50                        | 14        | 58*                       | 70                        | 74*                       | 77                        | 9         | 64*                  | 77*                  | 9         | 69*                  | 83                   |
-| PASI 75                        | 4         | 34*                       | 44                        | 49*                       | 59                        | 3         | 34*                  | 49*                  | 2         | 38*                  | 71                   |
-| DSGA b , clear or almost clear | 5         | 34*                       | 39                        | 49*                       | 55                        | 4         | 39*                  | 57*                  | 4         | 39*                  | 64                   |
+|                                | 2       | Study Study               | Study Study               | Study Study               | Study Study               | 3       | Study Study          | Study Study          | Study 4   | Study 4              | Study 4              |
+|--------------------------------|---------|---------------------------|---------------------------|---------------------------|---------------------------|---------|----------------------|----------------------|-----------|----------------------|----------------------|
+|                                | Placebo | --------Etanercept------- | --------Etanercept------- | --------Etanercept------- | --------Etanercept------- |         | -----Etanercept----- | -----Etanercept----- | Placebo   | -----Etanercept----- | -----Etanercept----- |
+|                                | Placebo | 25 mg BIW                 | 25 mg BIW                 | 50 mg BIW                 | 50 mg BIW                 | Placebo | 25 mg BIW            | 50 mg BIW            | Placebo   | 50 mg QW             | 50 mg QW             |
+|                                | n = 166 | n = 162                   | n = 162                   | n = 164                   | n = 164                   | n = 193 | n = 196              | n = 196              | n = 46    | n = 96               | n = 90               |
+| Response (%)                   | wk 12   | wk 12                     | wk 24 a                   | wk 12                     | wk 24 a                   | wk 12   | wk 12                | wk 12                | wk 12     | wk 12                | wk 24 a              |
+| PASI 50                        | 14      | 58*                       | 70                        | 74*                       | 77                        | 9       | 64*                  | 77*                  | 9         | 69*                  | 83                   |
+| PASI 75                        | 4       | 34*                       | 44                        | 49*                       | 59                        | 3       | 34*                  | 49*                  | 2         | 38*                  | 71                   |
+| DSGA b , clear or almost clear | 5       | 34*                       | 39                        | 49*                       | 55                        | 4       | 39*                  | 57*                  | 4         | 39*                  | 64                   |
 
-*p ≤ 0.0001 compared with placebo a. No statistical comparisons to placebo were made at week 24 in studies 2 and 4 because the original placebo group began receiving etanercept 25 mg BIW or 50 mg once weekly from week 13 to week 24.
+*p ≤ 0.0001 compared with placebo
+
+a. No statistical comparisons to placebo were made at week 24 in studies 2 and 4 because the original
+
+placebo group began receiving etanercept 25 mg BIW or 50 mg once weekly from week 13 to week 24.
 
 b. Dermatologist Static Global Assessment. Clear or almost clear defined as 0 or 1 on a 0 to 5 scale.
 
@@ -786,7 +786,9 @@ Paediatric plaque psoriasis outcomes at 12 weeks
 | PASI 50, n (%)                   | 79 (75%) a                                   | 24 (23%)            |
 | sPGA 'clear' or 'minimal', n (%) | 56 (53%) a                                   | 14 (13%)            |
 
-Abbreviation: sPGA-static Physician Global Assessment a. p &lt; 0.0001 compared with placebo
+Abbreviation: sPGA-static Physician Global Assessment
+
+a. p &lt; 0.0001 compared with placebo
 
 After the 12-week double-blind treatment period, all patients received etanercept 0.8 mg/kg (up to 50 mg) once weekly for additional 24 weeks. Responses observed during the open-label period were similar to those observed in the double-blind period.
 
@@ -983,8 +985,6 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
 
-Novartis Singapore Pharmaceutical Manufacturing Pte. Ltd. BioProduction Operations 8 Tuas Bay Lane Singapore 636986
-
 Name and address of the manufacturer(s) responsible for batch release
 
 Sandoz GmbH Schaftenau Biochemiestrasse 10 6336 Langkampfen Austria
@@ -1009,12 +1009,12 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Additional risk minimisation measures
 
@@ -1345,17 +1345,17 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| TEXT FOR TRAY BACK - 25 MGPRE-FILLED SYRINGE         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| TEXT FOR TRAY BACK - 25 MGPRE-FILLED SYRINGE        |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Erelzi 25 mg injection etanercept
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1458,7 +1458,7 @@ Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 Refer to package leaflet for alternative storage details.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1590,8 +1590,8 @@ Erelzi 50 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
@@ -1672,7 +1672,9 @@ EU/1/17/1195/008 12 pre-filled syringes
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Erelzi 50 mg
@@ -1681,21 +1683,21 @@ Erelzi 50 mg
 
 Not applicable.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| TEXT FOR TRAY BACK - 50 MGPRE-FILLED SYRINGE         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| TEXT FOR TRAY BACK - 50 MGPRE-FILLED SYRINGE        |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1720,7 +1722,7 @@ Erelzi 50 mg injection etanercept
 
 EXP
 
-## 4. BATCH NUMBER
+4. BATCH NUMBER
 
 Lot
 
@@ -1756,7 +1758,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON OF UNIT PACK - 50 MG PRE-FILLED PEN
+CARTON OF UNIT PACK - 50 MG PRE-FILLED PEN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1934,7 +1936,8 @@ EU/1/17/1195/012 12 pre-filled pens
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1947,8 +1950,8 @@ Erelzi 50 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
@@ -1996,6 +1999,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2027,7 +2032,6 @@ EU/1/17/1195/012 12 pre-filled pens
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2040,10 +2044,8 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 Not applicable.
 
@@ -2288,14 +2290,13 @@ These are rare or uncommon side effects, but are serious conditions (some of whi
 
 The known side effects of Erelzi include the following in groups of decreasing frequency:
 
-## · Very common
-
 - (may affect more than 1 in 10 people)
+
+## · Very common
 
 Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment; some patients have developed a reaction at an injection site that was recently used); and headache.
 
-- Common
-- (may affect up to 1 in 10 people)
+- Common (may affect up to 1 in 10 people)
 
 Allergic reactions; fever; rash; itching; antibodies directed against normal tissue (autoantibody formation).
 
@@ -2306,11 +2307,9 @@ Serious infections (including pneumonia, deep skin infections, joint infections,
 - Rare
 - (may affect up to 1 in 1,000 people)
 
-Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those
+Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike whitegrey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
 
 <div style=\"page-break-after: always\"></div>
-
-of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike whitegrey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
 
 - Very rare (may affect up to 1 in 10,000 people) Failure of the bone marrow to produce crucial blood cells.
 - Not known (frequency cannot be estimated from the available data) Merkel cell carcinoma (a type of skin cancer); Kaposi's sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesion on the skin); excessive activation of white blood cells associated with inflammation (macrophage activation syndrome); recurrence of hepatitis B (a liver infection); worsening of a condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).
@@ -2409,9 +2408,11 @@ Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
 
-Τηλ: +30 216 600 5000
+Τηλ
+
+: +30 216 600 5000
 
 ## España
 
@@ -2445,7 +2446,7 @@ Tel: +39 02 81280696
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (Ελλάδα)
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . (Ελλάδα)
 
 Τηλ: +30 216 600 5000
 
@@ -2857,30 +2858,29 @@ These are rare or uncommon side effects, but are serious conditions (some of whi
 
 The known side effects of Erelzi include the following in groups of decreasing frequency:
 
-## · Very common
-
 - (may affect more than 1 in 10 people)
+
+## · Very common
 
 Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment; Some patients have developed a reaction at an injection site that was recently used); and headache.
 
-- Common (may affect up to 1 in 10 people)
+- (may affect up to 1 in 10 people)
+- Common
 
 Allergic reactions; fever; rash; itching; antibodies directed against normal tissue (autoantibody formation).
 
-## · Uncommon
-
 - (may affect up to 1 in 100 people)
+
+## · Uncommon
 
 Serious infections (including pneumonia, deep skin infections, joint infections, blood infection, and infections at various sites); worsening of congestive heart failure; low red blood cell count, low white blood cell count, low neutrophil (a type of white blood cell) count; low blood platelet count; skin cancer (excluding melanoma); localised swelling of the skin (angioedema); hives (elevated patches of red or pale skin that often itch); eye inflammation; psoriasis (new or worsening); inflammation of the blood vessels affecting multiple organs; elevated liver blood tests (in patients also receiving methotrexate treatment, the frequency of elevated liver blood tests is common); abdominal cramps and pain, diarrhoea, weight loss or blood in the stool (signs of bowel problems).
 
 - Rare
 - (may affect up to 1 in 1,000 people)
 
-Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those
+Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike whitegrey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
 
 <div style=\"page-break-after: always\"></div>
-
-of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike whitegrey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
 
 - Very rare (may affect up to 1 in 10,000 people) Failure of the bone marrow to produce crucial blood cells.
 - Not known (frequency cannot be estimated from the available data) Merkel cell carcinoma (a type of skin cancer); Kaposi's sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesion on the skin); excessive activation of white blood cells associated with inflammation (macrophage activation syndrome); recurrence of hepatitis B (a liver infection); worsening of a condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).
@@ -2975,9 +2975,11 @@ Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
 
-Τηλ: +30 216 600 5000
+Τηλ
+
+: +30 216 600 5000
 
 ## España
 
@@ -3011,7 +3013,7 @@ Tel: +39 02 81280696
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (Ελλάδα)
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . ( Ελλάδα )
 
 Τηλ: +30 216 600 5000
 
@@ -3081,7 +3083,7 @@ Tel: +386 1 580 21 11
 
 ## Slovenská republika
 
-Sandoz d.d. - organizačná zložka
+Sandoz d.d. organizačná zložka
 
 Tel: +421 2 48 20 0600
 

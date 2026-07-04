@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-10 11:16:00
+document_datetime: 2026-07-02 12:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alkindi.html
 document_name: alkindi.html
 version: success
-processing_time: 0.101952
-conversion_datetime: 2026-03-17 18:58:01.417737
+processing_time: 0.1505602
+conversion_datetime: 2026-07-04 13:13:20.817124
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Alkindi
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-hydrocortisone Medicine Human Authorised
+hydrocortisone
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Alkindi](#news-on)
 - [More information on Alkindi](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Alkindi and what is it used for?
+### What is Alkindi and what is it used for?
 
 Alkindi is a medicine for children (from birth to up to 18 years of age) whose adrenal glands cannot make enough of a hormone called cortisol.
 
@@ -63,7 +64,7 @@ Alkindi is a 'hybrid medicine'. This means that it is similar to a 'reference me
 
 Alkindi contains the active substance hydrocortisone.
 
-## How is Alkindi used?
+### How is Alkindi used?
 
 Alkindi is available as capsules containing granules. The capsules are opened and the granules are placed in the child's mouth. The child should then be given water or milk to swallow the granules. The granules can also be sprinkled on a spoonful of soft food and given to the child immediately.
 
@@ -71,33 +72,33 @@ The dose is chosen to be lowest possible that controls the child's symptoms. For
 
 The medicine can only be obtained with a prescription.
 
-## How does Alkindi work?
+### How does Alkindi work?
 
 The active substance in Alkindi, hydrocortisone, is the same as cortisol, the main steroid hormone released by the body's adrenal gland. Hydrocortisone replaces the natural cortisol that is missing in children whose adrenal glands do not produce enough of the hormone, thereby helping to relieve their symptoms.
 
-## What benefits of Alkindi have been shown in studies?
+### What benefits of Alkindi have been shown in studies?
 
 Studies on the benefits and risks of the active substance have already been carried out with the reference medicine and do not need to be repeated for Alkindi.
 
 As for every medicine, the company provided studies on the quality of Alkindi. The company also carried out studies to show that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the risks associated with Alkindi?
+### What are the risks associated with Alkindi?
 
 No side effects were reported in studies with Alkindi, but some side effects have been reported with other hydrocortisone medicines. These include changes in behaviour, nausea, inflammation in the lining of the stomach and changes in blood potassium levels and excess acid in the blood. For the full list of side effects see the package leaflet.
 
 Alkindi must not be used in patients with hypersensitivity (allergy) to the active substance or to any of the ingredients of Alkindi. It must also not be used in children with difficulty swallowing or in premature babies who haven't started feeding by mouth.
 
-## Why is Alkindi approved?
+### Why is Alkindi approved?
 
 Alkindi produces similar levels of hydrocortisone in the blood to a reference medicine already authorised in the EU. Alkindi is also available in a form suitable for children and it is easier to give a precise dose with Alkindi than with other treatments which require crushing tablets and weighing up the right dose.
 
 The European Medicines Agency concluded that the benefits of Alkindi are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Alkindi?
+### What measures are being taken to ensure the safe and effective use of Alkindi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Alkindi have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Alkindi
+### Other information about Alkindi
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Alkindi on 9 February 2018.
 
@@ -107,275 +108,141 @@ Alkindi : EPAR - Summary for the public
 
 English (EN) (74.31 KB - PDF)
 
-**First published:** 01/03/2018
-
-**Last updated:** 01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/en/documents/overview/alkindi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-696)
+[Other languages (22)](#file-language-dropdown-333)
 
 български (BG) (99.93 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/bg/documents/overview/alkindi-epar-summary-public_bg.pdf)
 
 español (ES) (73.76 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/es/documents/overview/alkindi-epar-summary-public_es.pdf)
 
 čeština (CS) (97.03 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/cs/documents/overview/alkindi-epar-summary-public_cs.pdf)
 
 dansk (DA) (72.94 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/da/documents/overview/alkindi-epar-summary-public_da.pdf)
 
 Deutsch (DE) (74.47 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/de/documents/overview/alkindi-epar-summary-public_de.pdf)
 
-eesti keel (ET) (71.33 KB - PDF)
+eesti (ET) (71.33 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/et/documents/overview/alkindi-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (98.82 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/el/documents/overview/alkindi-epar-summary-public_el.pdf)
 
 français (FR) (74.17 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/fr/documents/overview/alkindi-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (93.14 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/hr/documents/overview/alkindi-epar-summary-public_hr.pdf)
 
 italiano (IT) (72.89 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/it/documents/overview/alkindi-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (92.88 KB - PDF)
+latviešu (LV) (92.88 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/lv/documents/overview/alkindi-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (94.97 KB - PDF)
+lietuvių (LT) (94.97 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/lt/documents/overview/alkindi-epar-summary-public_lt.pdf)
 
 magyar (HU) (92.01 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/hu/documents/overview/alkindi-epar-summary-public_hu.pdf)
 
 Malti (MT) (96.17 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/mt/documents/overview/alkindi-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (73.56 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/nl/documents/overview/alkindi-epar-summary-public_nl.pdf)
 
 polski (PL) (97.21 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/pl/documents/overview/alkindi-epar-summary-public_pl.pdf)
 
 português (PT) (73.75 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/pt/documents/overview/alkindi-epar-summary-public_pt.pdf)
 
 română (RO) (94.08 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/ro/documents/overview/alkindi-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (96 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sk/documents/overview/alkindi-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (90.73 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sl/documents/overview/alkindi-epar-summary-public_sl.pdf)
 
-Suomi (FI) (71.46 KB - PDF)
+suomi (FI) (71.46 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/fi/documents/overview/alkindi-epar-summary-public_fi.pdf)
 
 svenska (SV) (71.91 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sv/documents/overview/alkindi-epar-summary-public_sv.pdf)
 
@@ -383,9 +250,7 @@ Alkindi : EPAR - Risk-management-plan summary
 
 English (EN) (82.4 KB - PDF)
 
-**First published:** 01/03/2018
-
-**Last updated:** 01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/en/documents/rmp-summary/alkindi-epar-risk-management-plan-summary_en.pdf)
 
@@ -393,311 +258,168 @@ English (EN) (82.4 KB - PDF)
 
 Alkindi : EPAR - Product Information
 
-English (EN) (857.15 KB - PDF)
+English (EN) (851.04 KB - PDF)
 
-**First published:** 01/03/2018
-
-**Last updated:** 10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/en/documents/product-information/alkindi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-210)
+[Other languages (24)](#file-language-dropdown-359)
 
-български (BG) (789.99 KB - PDF)
+български (BG) (790.68 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/bg/documents/product-information/alkindi-epar-product-information_bg.pdf)
 
-español (ES) (689.89 KB - PDF)
+español (ES) (689.34 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/es/documents/product-information/alkindi-epar-product-information_es.pdf)
 
-čeština (CS) (868.07 KB - PDF)
+čeština (CS) (870.35 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/cs/documents/product-information/alkindi-epar-product-information_cs.pdf)
 
-dansk (DA) (782.74 KB - PDF)
+dansk (DA) (773.13 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/da/documents/product-information/alkindi-epar-product-information_da.pdf)
 
-Deutsch (DE) (891.02 KB - PDF)
+Deutsch (DE) (882.83 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/de/documents/product-information/alkindi-epar-product-information_de.pdf)
 
-eesti keel (ET) (719.13 KB - PDF)
+eesti (ET) (711.34 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/et/documents/product-information/alkindi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (814.07 KB - PDF)
+ελληνικά (EL) (798.32 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/el/documents/product-information/alkindi-epar-product-information_el.pdf)
 
-français (FR) (879.12 KB - PDF)
+français (FR) (866.95 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/fr/documents/product-information/alkindi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (796.69 KB - PDF)
+hrvatski (HR) (791.44 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/hr/documents/product-information/alkindi-epar-product-information_hr.pdf)
 
-íslenska (IS) (760.5 KB - PDF)
+italiano (IT) (706.5 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
-
-[View](/is/documents/product-information/alkindi-epar-product-information_is.pdf)
-
-italiano (IT) (716.1 KB - PDF)
-
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/it/documents/product-information/alkindi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (855.65 KB - PDF)
+latviešu (LV) (847.8 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/lv/documents/product-information/alkindi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (834.59 KB - PDF)
+lietuvių (LT) (828.68 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/lt/documents/product-information/alkindi-epar-product-information_lt.pdf)
 
-magyar (HU) (847.96 KB - PDF)
+magyar (HU) (845.01 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/hu/documents/product-information/alkindi-epar-product-information_hu.pdf)
 
-Malti (MT) (834.22 KB - PDF)
+Malti (MT) (818.17 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/mt/documents/product-information/alkindi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (658.86 KB - PDF)
+Nederlands (NL) (651.06 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/nl/documents/product-information/alkindi-epar-product-information_nl.pdf)
 
-norsk (NO) (938.87 KB - PDF)
+polski (PL) (856.25 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
-
-[View](/no/documents/product-information/alkindi-epar-product-information_no.pdf)
-
-polski (PL) (855.85 KB - PDF)
-
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/pl/documents/product-information/alkindi-epar-product-information_pl.pdf)
 
-português (PT) (768.62 KB - PDF)
+português (PT) (758.58 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/pt/documents/product-information/alkindi-epar-product-information_pt.pdf)
 
-română (RO) (786.7 KB - PDF)
+română (RO) (776.53 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/ro/documents/product-information/alkindi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (860.21 KB - PDF)
+slovenčina (SK) (859.86 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/sk/documents/product-information/alkindi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (769.81 KB - PDF)
+slovenščina (SL) (766.48 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/sl/documents/product-information/alkindi-epar-product-information_sl.pdf)
 
-Suomi (FI) (750.63 KB - PDF)
+suomi (FI) (740.34 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/fi/documents/product-information/alkindi-epar-product-information_fi.pdf)
 
-svenska (SV) (680.09 KB - PDF)
+svenska (SV) (671.49 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-10/03/2026
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
 
 [View](/sv/documents/product-information/alkindi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000334727 10/03/2026
+Íslenska (IS) (756.71 KB - PDF)
+
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
+
+[View](/is/documents/product-information/alkindi-epar-product-information_is.pdf)
+
+norsk (NO) (930.68 KB - PDF)
+
+**First published:** 01/03/2018 **Last updated:** 02/07/2026
+
+[View](/no/documents/product-information/alkindi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** T/0000340447
+
+12/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -711,305 +433,168 @@ Alkindi : EPAR - All Authorised presentations
 
 English (EN) (24.35 KB - PDF)
 
-**First published:** 01/03/2018
-
-**Last updated:** 01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/en/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-506)
+[Other languages (24)](#file-language-dropdown-493)
 
 български (BG) (41.35 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/bg/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (20.35 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/es/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (33.71 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/cs/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (20.44 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/da/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (21.14 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/de/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20.36 KB - PDF)
+eesti (ET) (20.36 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/et/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (41.24 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/el/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.54 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/fr/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (26.34 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/hr/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (21.35 KB - PDF)
-
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
-
-[View](/is/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (20.37 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/it/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (37.22 KB - PDF)
+latviešu (LV) (37.22 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/lv/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (37.74 KB - PDF)
+lietuvių (LT) (37.74 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/lt/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (33.63 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/hu/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (35.59 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/mt/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.43 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/nl/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (21.23 KB - PDF)
-
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
-
-[View](/no/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (36.92 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/pl/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (20.57 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/pt/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (36.42 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/ro/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (35.06 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sk/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (26.99 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sl/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.22 KB - PDF)
+suomi (FI) (20.22 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/fi/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.41 KB - PDF)
 
-**First published:**
-
-01/03/2018
-
-**Last updated:**
-
-01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/sv/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (21.35 KB - PDF)
+
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
+
+[View](/is/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (21.23 KB - PDF)
+
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
+
+[View](/no/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Alkindi Active substance hydrocortisone International non-proprietary name (INN) or common name hydrocortisone Therapeutic area (MeSH) Adrenal Insufficiency Anatomical therapeutic chemical (ATC) code H02AB09
+- **Name of medicine**
+    - Alkindi
+- **Active substance**
+    - hydrocortisone
+- **International non-proprietary name (INN) or common name**
+    - hydrocortisone
+- **Therapeutic area (MeSH)**
+    - Adrenal Insufficiency
+- **Anatomical therapeutic chemical (ATC) code**
+    - H02AB09
 
 ### Pharmacotherapeutic group
 
@@ -1021,13 +606,16 @@ Replacement therapy of adrenal insufficiency in infants, children and adolescent
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004416 Marketing authorisation holder
-
-Immedica Netherlands B.V.
-
-Van Heuven Goedhartlaan 935 A 1181 LD Amstelveen NETHERLANDS
-
-Opinion adopted 14/12/2017 Marketing authorisation issued 09/02/2018 Revision 12
+- **EMA product number**
+    - EMEA/H/C/004416
+- **Marketing authorisation holder**
+    - Immedica Pharma AB Solnavagen 3H  113 63 Stockholm  Sweden
+- **Opinion adopted**
+    - 14/12/2017
+- **Marketing authorisation issued**
+    - 09/02/2018
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -1035,15 +623,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Alkindi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (127.7 KB - PDF)
+English (EN) (147.26 KB - PDF)
 
-**First published:** 24/10/2025
-
-**Last updated:** 10/03/2026
+**First published:** 24/10/2025 **Last updated:** 02/07/2026
 
 [View](/en/documents/procedural-steps-after/alkindi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1051,60 +637,52 @@ Alkindi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (125.59 KB - PDF)
 
-**First published:** 13/07/2018
-
-**Last updated:** 24/10/2025
+**First published:** 13/07/2018 **Last updated:** 24/10/2025
 
 [View](/en/documents/procedural-steps-after/alkindi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Alkindi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/4145/2018
+Adopted Reference Number: EMA/4145/2018
 
 English (EN) (993.04 KB - PDF)
 
-**First published:** 01/03/2018
-
-**Last updated:** 01/03/2018
+**First published:** 01/03/2018 **Last updated:** 01/03/2018
 
 [View](/en/documents/assessment-report/alkindi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Alkindi
 
-Adopted
-
-Reference Number: EMA/CHMP/817958/2017
+Adopted Reference Number: EMA/CHMP/817958/2017
 
 English (EN) (68.75 KB - PDF)
 
-**First published:** 15/12/2017
-
-**Last updated:** 15/12/2017
+**First published:** 15/12/2017 **Last updated:** 15/12/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-alkindi_en.pdf)
 
 ## News on Alkindi
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 11-14 January 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-11-14-january-2021) 15/01/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 11-14 January 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-11-14-january-2021)
 
-[First paediatric medicine to treat rare hormonal disorder](/en/news/first-paediatric-medicine-treat-rare-hormonal-disorder) 15/12/2017
+15/01/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017) 15/12/2017
+[First paediatric medicine to treat rare hormonal disorder](/en/news/first-paediatric-medicine-treat-rare-hormonal-disorder)
+
+15/12/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017)
+
+15/12/2017
 
 ## More information on Alkindi
 
 - [Alkindi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/alkindi)
 
-## Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 10/03/2026
+02/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

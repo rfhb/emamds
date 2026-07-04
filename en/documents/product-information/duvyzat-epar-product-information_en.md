@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-27 15:28:00
+document_datetime: 2026-07-03 10:21:58
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duvyzat-epar-product-information_en.pdf
 document_name: duvyzat-epar-product-information_en.pdf
 version: success
-processing_time: 9.5216105
-conversion_datetime: 2026-03-29 12:26:57.988646
+processing_time: 12.2855036
+conversion_datetime: 2026-07-04 15:07:26.559301
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -157,9 +157,9 @@ Diarrhoea and vomiting usually occur within the first few weeks of initiation of
 
 Antiemetics or antidiarrhoeal medications may be considered during treatment with givinostat.
 
-Fluid and electrolytes should be replaced as needed to prevent dehydration.
-
 <div style=\"page-break-after: always\"></div>
+
+Fluid and electrolytes should be replaced as needed to prevent dehydration.
 
 The dose of givinostat should be adjusted in case of moderate or severe diarrhoea (more than 4 stools per day) (see section 4.2).
 
@@ -177,7 +177,9 @@ Duvyzat should be withheld if the QTc interval is &gt; 500 ms or the change from
 
 ## Excipients with known effects
 
-Patients with hereditary fructose intolerance (HFI) should not take this medicinal product. This medicinal product contains 400 mg sorbitol in each ml which is equivalent to 40 mg/kg.
+Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
+
+This medicinal product contains 400 mg sorbitol in each ml which is equivalent to 40 mg/kg.
 
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
@@ -223,7 +225,9 @@ There are no human data on the effect of givinostat on fertility. Givinostat sho
 
 ## 4.7 Effects on ability to drive and use machines
 
-Givinostat may have a minor influence on the ability to drive and use machines. Dizziness and fatigue may occur following administration of givinostat (see section 4.8).
+Givinostat may have a minor influence on the ability to drive and use machines.
+
+Dizziness and fatigue may occur following administration of givinostat (see section 4.8).
 
 ## 4.8 Undesirable effects
 
@@ -289,11 +293,15 @@ Diarrhoea was reported in 38% of patients treated with Duvyzat (with 1 severe ca
 
 Vomiting occurred in 29% of patients treated with Duvyzat (with 2 severe cases reported) compared to
 
-13% of patients on placebo. Vomiting usually occurred within the first 2 months of treatment. Abdominal pain occurred in 34% of patients treated with Duvyzat compared to 23% of patients on placebo. One case of abdominal pain was serious.
+13% of patients on placebo. Vomiting usually occurred within the first 2 months of treatment. Abdominal pain occurred in 34% of patients treated with Duvyzat compared to 23% of patients on
+
+placebo. One case of abdominal pain was serious.
 
 ## Description of other laboratory abnormalities
 
-Adverse reactions of hypothyroidism and/or thyroid stimulating hormone (TSH) increased occurred in 5% of patients treated with Duvyzat compared to 2% of patients who received placebo. In addition, hypothyroidism (common) events were observed during long -term treatment. Blood thyroid stimulating hormone levels were generally within 2 times the upper limit of normal with no or minor changes in thyroid hormones.
+Adverse reactions of hypothyroidism and/or thyroid stimulating hormone (TSH) increased occurred in 5% of patients treated with Duvyzat compared to 2% of patients who received placebo. In addition, hypothyroidism (common) events were observed during long -term treatment. Blood thyroid stimulating hormone levels were generally within 2 times the upper limit of normal with
+
+no or minor changes in thyroid hormones.
 
 ## Reporting of suspected adverse reactions
 
@@ -361,11 +369,9 @@ Figure 1 - Study 48: Observed Mean Change in Seconds to 4SC by Treatment Over Ti
 
 * Givinostat or placebo were administered in addition to a stable dose of corticosteroids throughout the study.
 
-The key secondary efficacy endpoints in Group A were the change from baseline to 18 months in physical function assessed by North Star Ambulatory Assessment (NSAA), time to rise from floor (TTR); distance walked in 6 minutes (6MWT); muscle strength evaluated by knee extension and
+The key secondary efficacy endpoints in Group A were the change from baseline to 18 months in physical function assessed by North Star Ambulatory Assessment (NSAA), time to rise from floor (TTR); distance walked in 6 minutes (6MWT); muscle strength evaluated by knee extension and elbow flexion as measured by hand-held myometry (HHM); and fat fraction of vastus lateralis muscles evaluated by Magnetic Resonance Spectroscopy (MRS) technique. Overall, the results of the key secondary endpoints assessing function, strength and muscle morphology did not reach formal statistical significance based on the pre-specified Hochberg analysis, however all outcomes were in favour of givinostat (Figure 2).
 
 <div style=\"page-break-after: always\"></div>
-
-elbow flexion as measured by hand-held myometry (HHM); and fat fraction of vastus lateralis muscles evaluated by Magnetic Resonance Spectroscopy (MRS) technique. Overall, the results of the key secondary endpoints assessing function, strength and muscle morphology did not reach formal statistical significance based on the pre-specified Hochberg analysis, however all outcomes were in favour of givinostat (Figure 2).
 
 Figure 2 - EPIDYS Study: Primary and Key Secondary Efficacy Endpoints of Givinostat Versus Placebo (Group A) §
 
@@ -499,7 +505,7 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-Amber polyethylene terephthalate bottle containing 140 ml oral suspension closed with a high-density polyethylene child-resistant closure with low-density polyethylene syringe adapter. Each pack contains one bottle and one graduated oral syringe of 5 ml. The syringe of 5 ml is graduated from 1 to 5 ml by increments of 0.5 ml.
+Amber polyethylene terephthalate bottle containing 140 ml oral suspension closed with a high-density polyethylene child-resistant closure with low-density polyethylene syringe adapter. Each pack contains one bottle and one graduated oral syringe of 10 ml. The syringe of 10 ml is graduated from 1 to 10 ml by increments of 0.5 ml.
 
 ## 6.6 Special precautions for disposal
 
@@ -509,7 +515,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy Tel: +39 02 64431 info@italfarmacogroup.com
+Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano
+
+Italy
+
+Tel: +39 02 64431
+
+info@italfarmacogroup.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -518,6 +530,8 @@ EU/1/25/1930/001
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 6 June 2025
+
+Date of renewal: 21 May 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -539,9 +553,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain or
+Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain
 
-Italfarmaco S.p.A Viale F. Testi, 330 20126 Milano Italy
+or
+
+Italfarmaco S.p.A . Viale F. Testi, 330 20126 Milano Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -612,9 +628,9 @@ Also contains: sodium benzoate (E211) and sorbitol (E420) See leaflet for furthe
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Oral suspension
+Oral suspension
 
-Bottle of 140 ml with a 5 ml graduated dosing syringe
+Bottle of 140 ml with a 10 ml graduated dosing syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -741,7 +757,9 @@ Italfarmaco S.p.A.
 
 <div style=\"page-break-after: always\"></div>
 
-Italy info@italfarmacogroup.com
+Italy
+
+info@italfarmacogroup.com
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -844,7 +862,9 @@ Your doctor may adjust the dose of Duvyzat based on severity of diarrhoea or sto
 
 Your doctor might consider the use of medicines to treat vomiting, diarrhoea and to avoid excessive loss of fluids.
 
-High doses of Duvyzat (5 times higher than the recommended dose) may cause an irregular heartbeat. Your doctor will consider if you can use Duvyzat when there is an increased risk for abnormal heartbeat, abnormal mineral levels in your body or concomitant use of other medicines. Your doctor may check your heart function when starting Duvyzat if you have an underlying heart problem or if you use medicines that can cause irregular heartbeat.
+High doses of Duvyzat (5 times higher than the recommended dose) may cause an irregular heartbeat. Your doctor will consider if you can use Duvyzat when there is an increased risk for abnormal heartbeat, abnormal mineral levels in your body or concomitant use of other medicines. Your doctor may check your heart function when starting Duvyzat if you have an underlying heart
+
+problem or if you use medicines that can cause irregular heartbeat.
 
 Your doctor may consider to stop treatment with Duvyzat if your heartbeat is found irregular.
 
@@ -877,9 +897,9 @@ This medicine may cause dizziness or tiredness. If you feel dizzy or tired, do n
 
 Sorbitol:
 
-<div style=\"page-break-after: always\"></div>
-
 This medicine contains 400 mg sorbitol in each ml.
+
+<div style=\"page-break-after: always\"></div>
 
 Sorbitol is a source of fructose. If your doctor has told you that you (or your child) have an intolerance to some sugars or if you have been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your doctor before you (or your child) take or receive this medicine.
 
@@ -907,8 +927,6 @@ Table 1 - Recommended Dose
 | ≥ 20 and < 40 | 3.5 ml                                                   |
 | ≥ 40 and < 60 | 5.0 ml                                                   |
 | ≥ 60          | 6.0 ml                                                   |
-
-If your prescribed dose is more than 5 ml per dose, you can use the same oral syringe more than once.
 
 Your  dose  may  need  to  be  lowered  (see  Table  2)  by  your  doctor  if  certain  symptoms  appear  (see Warnings and precautions):
 
@@ -956,7 +974,33 @@ Ask your doctor or pharmacist to show you how to measure your prescribed dose.
 - The recommended dose of Duvyzat is taken by mouth 2 times per day;
 - Take Duvyzat as it is (not to be diluted in/with water or other liquids);
 - Take Duvyzat with food to reduce the bitter taste of givinostat;
-- Always take Duvyzat using the oral syringe (5 ml) provided with the medicine.
+- Always take Duvyzat using the oral syringe (10 ml) provided with the medicine.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Step  2 .  Open  the  bottle  by  pressing down on the bottle cap and turning it to the left (counter-clockwise) (see Figure C). Do not throw away the bottle cap.
+
+## Step 3.
+
+For  first  time  use  only: Take  the provided  oral  syringe  to  be  used  and firmly insert the tip of the oral syringe into  the  bottle  adapter  opening  (see Figure D).
+
+For all other uses: Take the provided oral syringe to be used, push the plunger  all  the  way  down  (to  remove the air) and firmly insert the tip of the oral syringe  into the bottle adapter opening (see Figure D).
+
+Step 4. While holding the oral syringe in  place,  turn  the  bottle  upside  down. Slowly  pull  the  plunger  down  to  pull back a small amount of the suspension. Then push the plunger all the way up to remove any air bubbles (see Figure E).
+
+Step 5. Slowly pull the plunger down until the bottom of the plunger is even with the  markings  on the oral  syringe for the prescribed dose of Duvyzat (see Figure F).
+
+<!-- image -->
+
+Figure C
+
+<!-- image -->
+
+<!-- image -->
+
+Figure E
 
 <!-- image -->
 
@@ -968,28 +1012,12 @@ Ask your doctor or pharmacist to show you how to measure your prescribed dose.
 
 <!-- image -->
 
-<!-- image -->
-
-| Step 2 . Open the bottle by pressing down on the bottle cap and turning it to the left (counter-clockwise) (see Figure C). Do not throw away the bottle cap.                                                                                                                                                                                                                                | Figure C   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Step 3. For first time use only: Take the provided oral syringe to be used and firmly insert the tip of the oral syringe into the bottle adapter opening (see Figure D). For all other uses: Take the provided oral syringe to be used, push the plunger all the way down (to remove the air) and firmly insert the tip of the oral syringe into the bottle adapter opening (see Figure D). | Figure D   |
-| Step 4. While holding the oral syringe in place, turn the bottle upside down. Slowly pull the plunger down to pull back a small amount of the suspension. Then push the plunger all the way up to remove any air bubbles (see Figure E).                                                                                                                                                    |            |
-| Step 5. Slowly pull the plunger down until the bottom of the plunger is even with the markings on the oral syringe for the prescribed dose of Duvyzat (see Figure F). If your prescribed dose is more than 5 ml, you will need to use the same oral syringe more than one time.                                                                                                             | Figure F   |
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-| Step 6. While keeping the plunger in the same position, turn the bottle upright, and place it carefully on a flat surface. Remove the oral syringe by gently twisting or pulling it out from the bottle adapter opening. Do not hold the oral syringe by the plunger because the plunger may come out (see Figure G). Take or give Duvyzat right away after it is drawn up into the oral syringe. Do not store the filled oral syringe.   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 7. Check that the prescribed volume (ml) of Duvyzat has been drawn up into the oral syringe (see Figure H). Figure H shows an example of a 5 ml dose. Your dose may be a different volume.                                                                                                                                                                                                                                           |
-| Step 8. The child or adult should sit upright to take a dose of Duvyzat. Place the tip of the oral syringe against the inside of the cheek. Slowly push the plunger all the way down until there is no more medicine left in the oral syringe. If your prescribed dose is more than 5 ml, repeat Step 3 through Step 8 to give the remaining part of the dose.                                                                            |
-| Step 9. After use, replace the bottle cap and turn the bottle cap to the right (clockwise) to close the bottle (see Figure I).                                                                                                                                                                                                                                                                                                            |
-| Step 10. Wash the oral syringe in water and allow to dry. Store the oral syringe in a clean, dry place.                                                                                                                                                                                                                                                                                                                                   |
+| Step 6. While keeping the plunger in the same position, turn the bottle upright, and place it carefully on a flat surface. Remove the oral syringe by gently twisting or pulling it out from the bottle adapter opening. Do not hold the oral syringe by the plunger because the plunger may come out (see Figure G). Take or give Duvyzat right away after it is drawn up into the oral syringe. Do not store the filled oral syringe.   | FigureG   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Step 7. Check that the prescribed volume (ml) of Duvyzat has been drawn up into the oral syringe (see Figure H). Figure H shows an example of a 5 ml dose. Your dose may be a different volume.                                                                                                                                                                                                                                           | FigureH   |
+| Step 8. The child or adult should sit upright to take a dose of Duvyzat. Place the tip of the oral syringe against the inside of the cheek. Slowly push the plunger all the way down until there is no more medicine left in the oral syringe.                                                                                                                                                                                            |           |
+| Step 9. After use, replace the bottle cap and turn the bottle cap to the right (clockwise) to close the bottle (see Figure I).                                                                                                                                                                                                                                                                                                            | Figure I  |
+| Step 10. Wash the oral syringe in water and allow to dry. Store the oral syringe in a clean, dry place.                                                                                                                                                                                                                                                                                                                                   |           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1078,7 +1106,7 @@ Duvyzat is a white to off-white or faintly pink oral suspension.
 
 Pack of one bottle of 140 ml.
 
-The bottle is packed with one 5 ml graduated oral syringe. The oral syringe is graduated from 1 to 5 ml by increments of 0.5 ml.
+The bottle is packed with one 10 ml graduated oral syringe. The oral syringe is graduated from 1 to 10 ml by increments of 0.5 ml.
 
 ## Marketing Authorisation Holder
 
@@ -1086,9 +1114,11 @@ Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy
 
 ## Manufacturer
 
-Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain or
+Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain
 
-Italfarmaco S.p.A Viale F. Testi, 330 20126 Milano Italy
+or
+
+Italfarmaco S.p.A . Viale F. Testi, 330 20126 Milano Italy
 
 Scan the code with a mobile device to get the package leaflet in different languages.
 

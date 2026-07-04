@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 10:35:24
-document_pages: 55
+document_datetime: 2026-07-01 12:20:43
+document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/braftovi-epar-product-information_en.pdf
 document_name: braftovi-epar-product-information_en.pdf
 version: success
-processing_time: 19.9888742
-conversion_datetime: 2025-12-27 23:52:44.370902
+processing_time: 25.2036806
+conversion_datetime: 2026-07-04 15:09:31.410905
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ Braftovi 50 mg hard capsules Braftovi 75 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Braftovi 50 mg hard capsules
-
-Each hard capsule contains 50 mg of encorafenib.
+Braftovi 50 mg hard capsules Each hard capsule contains 50 mg of encorafenib.
 
 Braftovi 75 mg hard capsules Each hard capsule contains 75 mg of encorafenib.
 
@@ -58,19 +56,22 @@ Encorafenib in combination with binimetinib is indicated for the treatment of ad
 
 ## Colorectal cancer (CRC)
 
-Encorafenib in combination with cetuximab is indicated for the treatment of adult patients with metastatic colorectal cancer with a BRAF V600E mutation, who have received prior systemic therapy.
+- Encorafenib in combination with cetuximab is indicated for the treatment of adult patients with metastatic colorectal cancer with a BRAF V600E mutation, who have received prior systemic therapy.
+- Encorafenib in combination with cetuximab and FOLFOX is indicated for the first line treatment of adult patients with metastatic colorectal cancer with a BRAF V600E mutation.
 
 ## Non-small cell lung cancer (NSCLC)
 
 Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
 
+For biomarker-based patient selection, see section 4.2
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4.2 Posology and method of administration
 
 Encorafenib treatment should be initiated and supervised under the responsibility of a physician experienced in the use of anticancer medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
-## BRAF mutation testing
+## Patient selection
 
 Before taking encorafenib, patients must have confirmation of BRAF V600E mutation assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If the CE-marked IVD is not available, an alternative validated test should be used.
 
@@ -84,7 +85,7 @@ The recommended dose of encorafenib is 450 mg (six 75 mg capsules) once daily, w
 
 ## Colorectal cancer
 
-The recommended dose of encorafenib is 300 mg (four 75 mg capsules) once daily, when used in combination with cetuximab.
+The recommended dose of encorafenib is 300 mg (four 75 mg capsules) once daily, when used in combination with cetuximab (weekly administration), or in combination with cetuximab (bi-weekly administration) and FOLFOX. For the dosage or recommended dose modifications of concomitantly administered chemotherapeutic agents and cetuximab, refer to the product information for these medicinal products.
 
 ## Dose modification
 
@@ -105,11 +106,11 @@ Table 1: Recommended dose modifications for encorafenib when used in combination
 | 2 nd dose reduction     | Three 75 mg (225 mg) capsules once daily                                                                                                                                                                                                                                                                                                                         |
 | Subsequent modification | For melanoma indication: There are limited data for dose reduction to 100 mg once daily. Encorafenib should be permanently discontinued if patient is unable to tolerate 100 mg (two 50 mg capsules) once daily. For NSCLC indication: Encorafenib should be permanently discontinued if patient is unable to tolerate 225 mg (three 75 mg capsules) once daily. |
 
+<div style=\"page-break-after: always\"></div>
+
 Administration of encorafenib at a dose of 450 mg once daily as a single agent is not recommended. If binimetinib is temporarily interrupted, encorafenib should be reduced to 300 mg once daily during the time of binimetinib dose interruption (see section 4.2 of binimetinib SmPC) as encorafenib is not well-tolerated at the dose of 450 mg as a single agent. If binimetinib is permanently discontinued, encorafenib should be discontinued.
 
 If encorafenib is temporarily interrupted (see Tables 3 and 4), binimetinib should be interrupted. If encorafenib is permanently discontinued, then binimetinib should be discontinued.
-
-<div style=\"page-break-after: always\"></div>
 
 If treatment-related toxicities occur, then encorafenib and binimetinib should be dose reduced, interrupted or discontinued. Dose modifications are necessary for binimetinib only (adverse reactions primarily related to binimetinib) for the following: retinal pigment epithelial detachment (RPED), retinal vein occlusion (RVO), interstitial lung disease/pneumonitis, cardiac dysfunction, creatine phosphokinase (CK) elevation and rhabdomyolysis, and venous thromboembolism (VTE). If one of these toxicities occurs, see section 4.2 of binimetinib SmPC for dose modification instructions for binimetinib.
 
@@ -117,19 +118,23 @@ If treatment-related toxicities occur, then encorafenib and binimetinib should b
 
 The management of adverse reactions may require dose reduction, temporary interruption or treatment discontinuation of encorafenib (see Tables 2, 3 and 4).
 
-For information on the posology and recommended dose modifications of cetuximab, see section 4.2 of cetuximab SmPC.
+For information on the posology and recommended dose modifications of cetuximab and FOLFOX (5fluorouracil/folinic acid/oxaliplatin), please refer to respective medicines SmPC.
 
 Dose reduction recommendations for encorafenib are presented in Table 2.
 
-Table 2: Recommended dose modifications for encorafenib when used in combination with cetuximab in CRC indication
+Table 2: Recommended dose modifications for encorafenib when used in combination with cetuximab or in combination with cetuximab and FOLFOX in CRC indication
 
-| Dose level          | Encorafenib dose when used in combination with cetuximab   |
-|---------------------|------------------------------------------------------------|
-| Starting dose       | Four 75 mg (300 mg) capsules once daily                    |
-| 1 st dose reduction | Three 75 mg (225 mg) capsules once daily                   |
-| 2 nd dose reduction | Two 75 mg (150 mg) capsules once daily                     |
+| Dose level          | Encorafenib dose when used in combination with cetuximab or in combination with cetuximab and FOLFOX                                                           |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Starting dose       | Four 75 mg (300 mg) capsules once daily                                                                                                                        |
+| 1 st dose reduction | Three 75 mg (225 mg) capsules once daily                                                                                                                       |
+| 2 nd dose reduction | Two 75 mg (150 mg) capsules once daily Encorafenib should be permanently discontinued if patient is unable to tolerate 150 mg (two 75 mg capsules) once daily. |
 
-If encorafenib is permanently discontinued, cetuximab should be discontinued. If cetuximab is permanently discontinued, encorafenib should be discontinued.
+If encorafenib is permanently discontinued, cetuximab should be discontinued. FOLFOX alone may be continued per standard of care.
+
+If cetuximab is permanently discontinued, encorafenib should be discontinued. FOLFOX alone may be continued per standard of care.
+
+If FOLFOX is permanently discontinued, the combination of encorafenib and cetuximab may be continued.
 
 ## Melanoma, colorectal cancer and NSCLC
 
@@ -139,47 +144,46 @@ For new primary cutaneous malignancies: No dose modifications are required for e
 
 For new primary non-cutaneous RAS mutation-positive malignancies : it should be considered to discontinue encorafenib permanently.
 
-Table 3: Recommended dose modifications for encorafenib when used in combination with binimetinib or in combination with cetuximab for selected adverse reactions
+<div style=\"page-break-after: always\"></div>
 
-| Severity of adverse reaction a   | Encorafenib                                                                                                                                                                               |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cutaneous reactions              | Cutaneous reactions                                                                                                                                                                       |
-| • Grade 2                        | Encorafenib should be maintained. If rash worsens or does not improve within 2 weeks with treatment, encorafenib should be withheld until Grade 0 or 1 and then resumed at the same dose. |
-| • Grade 3                        | Encorafenib should be withheld until improved to Grade 0 or 1 and resumed at the same dose if first occurrence, or resumed at a reduced dose if recurrent Grade 3.                        |
-| • Grade 4                        | Encorafenib should be permanently discontinued.                                                                                                                                           |
+Table 3: Recommended dose modifications for encorafenib when used in combination with binimetinib or in combination with cetuximab or in combination with cetuximab and FOLFOX for selected adverse reactions
+
+| Severity of adverse reaction a                     | Encorafenib                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cutaneous reactions                                | Cutaneous reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| • Grade 2                                          | Encorafenib should be maintained. If rash worsens or does not improve within 2 weeks with treatment, encorafenib should be withheld until Grade 0 or 1 and then resumed at the same dose.                                                                                                                                                                                                                                                                                                                                                                 |
+| • Grade 3                                          | Encorafenib should be withheld until improved to Grade 0 or 1 and resumed at the same dose if first occurrence, or resumed at a reduced dose if recurrent Grade 3.                                                                                                                                                                                                                                                                                                                                                                                        |
+| • Grade 4                                          | Encorafenib should be permanently discontinued.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Palmar-plantar erythrodysaesthesia syndrome (PPES) | Palmar-plantar erythrodysaesthesia syndrome (PPES)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| • Grade 2                                          | Encorafenib should be maintained and supportive measures such as topical therapy should be instituted. If not improved despite supportive therapy within 2 weeks, encorafenib should be withheld until improved to Grade 0 or 1 and treatment should be resumed at same dose level or at a reduced dose.                                                                                                                                                                                                                                                  |
+| • Grade 3                                          | Encorafenib should be withheld, supportive measures such as topical therapy should be instituted, and the patient should be reassessed weekly. Encorafenib should be resumed at same dose level or at a reduced dose level when improved to Grade 0 or 1.                                                                                                                                                                                                                                                                                                 |
+| Uveitis including iritis and iridocyclitis         | Uveitis including iritis and iridocyclitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| • Grade 1-3                                        | If Grade 1 or 2 uveitis does not respond to specific ( e.g. topical) ocular therapy or for Grade 3 uveitis, encorafenib should be withheld and ophthalmic monitoring should be repeated within 2 weeks. If uveitis is Grade 1 and it improves to Grade 0, then treatment should be resumed at the same dose. If uveitis is Grade 2 or 3 and it improves to Grade 0 or 1, then treatment should be resumed at a reduced dose. If not improved within 6 weeks, ophthalmic monitoring should be repeated and encorafenib should be permanently discontinued. |
+| • Grade 4                                          | Encorafenib should be permanently discontinued and a follow up with ophthalmologic monitoring should be performed.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Severity of adverse reaction a                                                                                     | Encorafenib                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Palmar-plantar erythrodysaesthesia syndrome (PPES)                                                                 | Palmar-plantar erythrodysaesthesia syndrome (PPES)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| • Grade 2                                                                                                          | Encorafenib should be maintained and supportive measures such as topical therapy should be instituted. If not improved despite supportive therapy within 2 weeks, encorafenib should be withheld until improved to Grade 0 or 1 and treatment should be resumed at same dose level or at a reduced dose.                                                                                                                                                                                                                                    |
-| • Grade 3                                                                                                          | Encorafenib should be withheld, supportive measures such as topical therapy should be instituted, and the patient should be reassessed weekly. Encorafenib should be resumed at same dose level or at a reduced dose level when improved to Grade 0 or 1.                                                                                                                                                                                                                                                                                   |
-| Uveitis including iritis and iridocyclitis                                                                         | Uveitis including iritis and iridocyclitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| • Grade 1-3                                                                                                        | If Grade 1 or 2 uveitis does not respond to specific ( e.g. topical) ocular therapy or for Grade 3 uveitis, encorafenib should be withheld and ophthalmic monitoring should be repeated within 2 weeks. If uveitis is Grade 1 and it improves to Grade 0, then treatment should be resumed at the same dose. If uveitis is Grade 2 or 3 and it improves to Grade 0 or 1, then treatment should be resumed at a reduced dose. If not improved within 6 weeks, ophthalmic monitoring should be repeated and encorafenib should be permanently |
-| • Grade 4                                                                                                          | Encorafenib should be permanently discontinued and a follow up with ophthalmologic monitoring should be performed.                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| QTc Prolongation                                                                                                   | QTc Prolongation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| • QTcF > 500 ms and change ≤ 60 ms from pre-treatment value                                                        | Encorafenib should be withheld (see monitoring in section 4.4). Encorafenib should be resumed at a reduced dose when QTcF ≤ 500 ms. Encorafenib should be discontinued if more than one recurrence.                                                                                                                                                                                                                                                                                                                                         |
-| • QTcF>500 ms and increased by >60 ms from pre-treatment values                                                    | Encorafenib should be permanently discontinued (see monitoring in section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Liver laboratory abnormalities                                                                                     | Liver laboratory abnormalities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| • Grade 2 (aspartate aminotransferase (AST) or alanine aminotransferase (ALT) >3x ≤5x upper limit of normal (ULN)) | Encorafenib should be maintained. If no improvement within 4 weeks, encorafenib should be withheld until improved to Grade 0 or 1 or to pre- treatment/baseline levels and then resumed at the same dose.                                                                                                                                                                                                                                                                                                                                   |
-| • First occurrence of Grade 3 (AST or ALT >5x ULN and blood bilirubin >2x ULN)                                     | Encorafenib should be withheld for up to 4 weeks. • If improved to Grade 0 or 1 or to baseline levels, it should be resumed at a reduced dose. • If not improved, encorafenib should be permanently discontinued                                                                                                                                                                                                                                                                                                                            |
-
-<div style=\"page-break-after: always\"></div>
-
-| Severity of adverse reaction a                                         | Encorafenib                                                                                                                                                                                                                                                                     |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • First occurrence of Grade 4 (AST or ALT >20 ULN)                     | Encorafenib should be withheld for up to 4 weeks • If improved to Grade 0 or 1 or to baseline levels, then it should be resumed at a reduced dose level. • If not improved, encorafenib should be permanently discontinued. Or, encorafenib should be permanently discontinued. |
-| • Recurrent Grade 3 (AST or ALT > 5x ULN and blood bilirubin > 2x ULN) | It should be considered to permanently discontinue encorafenib.                                                                                                                                                                                                                 |
-| • Recurrent Grade 4 (AST or ALT > 20 ULN)                              | Encorafenib should be permanently discontinued.                                                                                                                                                                                                                                 |
+| Severity of adverse reaction a                                                                                     | Encorafenib                                                                                                                                                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| QTc Prolongation                                                                                                   | QTc Prolongation                                                                                                                                                                                                                                                                |
+| • QTcF > 500 ms and change ≤ 60 ms from pre-treatment value                                                        | Encorafenib should be withheld (see monitoring in section 4.4). Encorafenib should be resumed at a reduced dose when QTcF ≤ 500 ms. Encorafenib should be discontinued if more than one recurrence.                                                                             |
+| • QTcF>500 ms and increased by >60 ms from pre-treatment values                                                    | Encorafenib should be permanently discontinued (see monitoring in section 4.4).                                                                                                                                                                                                 |
+| Liver laboratory abnormalities                                                                                     | Liver laboratory abnormalities                                                                                                                                                                                                                                                  |
+| • Grade 2 (aspartate aminotransferase (AST) or alanine aminotransferase (ALT) >3x ≤5x upper limit of normal (ULN)) | Encorafenib should be maintained. If no improvement within 4 weeks, encorafenib should be withheld until improved to Grade 0 or 1 or to pre- treatment/baseline levels and then resumed at the same dose.                                                                       |
+| • First occurrence of Grade 3 (AST or ALT >5x ULN and blood bilirubin >2x ULN)                                     | Encorafenib should be withheld for up to 4 weeks. • If improved to Grade 0 or 1 or to baseline levels, it should be resumed at a reduced dose. • If not improved, encorafenib should be permanently discontinued                                                                |
+| • First occurrence of Grade 4 (AST or ALT >20 ULN)                                                                 | Encorafenib should be withheld for up to 4 weeks • If improved to Grade 0 or 1 or to baseline levels, then it should be resumed at a reduced dose level. • If not improved, encorafenib should be permanently discontinued. Or, encorafenib should be permanently discontinued. |
+| • Recurrent Grade 3 (AST or ALT > 5x ULN and blood bilirubin > 2x ULN)                                             | It should be considered to permanently discontinue encorafenib.                                                                                                                                                                                                                 |
+| • Recurrent Grade 4 (AST or ALT > 20 ULN)                                                                          | Encorafenib should be permanently discontinued.                                                                                                                                                                                                                                 |
 
 a  National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03
 
-Table 4: Recommended dose modifications for encorafenib when used in combination with binimetinib or in combination with cetuximab for other adverse reactions
+<div style=\"page-break-after: always\"></div>
+
+Table 4: Recommended dose modifications for encorafenib when used in combination with binimetinib or in combination with cetuximab or in combination with cetuximab and FOLFOX for other adverse reactions
 
 | Severity of adverse reaction                                                                         | Encorafenib                                                                                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Recurrent or intolerable Grade 2 adverse reactions • First occurrence of Grade 3 adverse reactions | Encorafenib should be withheld for up to 4 weeks. • If improved to Grade 0 or 1 or to baseline levels, It should be resumed at a reduced dose. • If not improved, encorafenib should be permanently discontinued                                                                |
+| • Recurrent or intolerable Grade 2 adverse reactions • First occurrence of Grade 3 adverse reactions | Encorafenib should be withheld for up to 4 weeks. • If improved to Grade 0 or 1 or to baseline levels, it should be resumed at a reduced dose. • If not improved, encorafenib should be permanently discontinued                                                                |
 | • First occurrence of any Grade 4 adverse reaction                                                   | Encorafenib should be withheld for up to 4 weeks • If improved to Grade 0 or 1 or to baseline levels, then it should be resumed at a reduced dose level. • If not improved, encorafenib should be permanently discontinued. Or, encorafenib should be permanently discontinued. |
 | • Recurrent Grade 3 adverse reactions                                                                | Permanent discontinuation of encorafenib should be considered.                                                                                                                                                                                                                  |
 | • Recurrent Grade 4 adverse reactions                                                                | Encorafenib should be permanently discontinued.                                                                                                                                                                                                                                 |
@@ -202,8 +206,6 @@ In case of vomiting after administration of encorafenib, the patient should not 
 
 No dose adjustment is required for patients aged 65 years and older (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 Patients with mild to severe hepatic impairment may have increased encorafenib exposure (see section 5.2).
@@ -215,6 +217,8 @@ No dosing recommendation can be made in patients with moderate (Child-Pugh Class
 ## Renal impairment
 
 No dose adjustment is required for patients with mild or moderate renal impairment based on a population pharmacokinetics (PK) analysis. There are no clinical data with encorafenib in patients with severe renal impairment. Therefore, the potential need for dose adjustment cannot be determined. Encorafenib should be used with caution in patients with severe renal impairment (see sections 4.4 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -232,7 +236,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-Encorafenib is to be given in combination with binimetinib (for patients with BRAF V600 mutant unresectable or metastatic melanoma, and for patients with BRAF V600E mutant advanced NSCLC), or in combination with cetuximab (for patients with BRAF V600E mutant metastatic colorectal cancer). For additional information on warnings and precautions associated with binimetinib or cetuximab treatment, see section 4.4 of binimetinib SmPC or cetuximab SmPC.
+Encorafenib is to be given in combination with binimetinib (for patients with BRAF V600 mutant unresectable or metastatic melanoma, and for patients with BRAF V600E mutant advanced NSCLC), or in combination with cetuximab (for patients with BRAF V600E mutant metastatic colorectal cancer who have received prior systemic therapy), or in combination with cetuximab and FOLFOX (for first line treatment of patients with BRAF V600E mutant metastatic colorectal cancer). For additional information on warnings and precautions associated with binimetinib, cetuximab, 5-fluorouracil, folinic acid or oxaliplatin treatment, see section 4.4 of respective medicines SmPC.
 
 ## Encorafenib in combination with binimetinib in patients who have progressed on a BRAF inhibitor
 
@@ -244,13 +248,11 @@ There are limited efficacy data with the combination of encorafenib and binimeti
 
 ## Left ventricular dysfunction (LVD)
 
-LVD defined as symptomatic or asymptomatic decreases in ejection fraction has been reported when encorafenib is used in combination with binimetinib. It is recommended that left ventricular ejection
-
-<div style=\"page-break-after: always\"></div>
-
-fraction (LVEF) is assessed by echocardiogram or multi-gated acquisition (MUGA) scan before initiation of encorafenib and binimetinib, one month after initiation, and then at approximately 3month intervals or more frequently as clinically indicated, while on treatment. If during treatment LVD occurs, see section 4.2 of binimetinib SmPC.
+LVD defined as symptomatic or asymptomatic decreases in ejection fraction has been reported when encorafenib is used in combination with binimetinib. It is recommended that left ventricular ejection fraction (LVEF) is assessed by echocardiogram or multi-gated acquisition (MUGA) scan before initiation of encorafenib and binimetinib, one month after initiation, and then at approximately 3month intervals or more frequently as clinically indicated, while on treatment. If during treatment LVD occurs, see section 4.2 of binimetinib SmPC.
 
 The safety of encorafenib in combination with binimetinib has not been established in patients with a baseline LVEF that is either below 50% or below the institutional lower limits of normal. Therefore, in these patients, binimetinib should be used with caution and for any symptomatic left ventricular dysfunction, Grade 3-4 LVEF decrease or for absolute decrease of LVEF from baseline of ≥ 10%, binimetinib and encorafenib should be discontinued and LVEF should be evaluated every 2 weeks until recovery.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Haemorrhage
 
@@ -282,13 +284,13 @@ New primary malignancies, cutaneous and non-cutaneous, have been observed in pat
 
 Cutaneous malignancies such as cutaneous squamous cell carcinoma (cuSCC) including kerathoacanthoma have been observed in patients treated with BRAF-inhibitors including encorafenib. New primary melanoma has been observed in patients treated with BRAF inhibitors including encorafenib (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 Dermatologic evaluations should be performed prior to initiation of therapy with encorafenib, every 2 months while on therapy and for up to 6 months following treatment discontinuation. Suspicious skin lesions should be managed with dermatological excision and dermatopathologic evaluation. Patients should be instructed to immediately inform their physicians if new skin lesions develop. Encorafenib should be continued without any dose modification.
 
 ## Non-cutaneous malignancies
 
 Based on its mechanism of action, encorafenib may promote malignancies associated with activation of RAS through mutation or other mechanisms. Patients receiving encorafenib should undergo a head and neck examination, chest/abdomen computerised tomography (CT) scan, anal and pelvic examinations (for women) and complete blood cell counts prior to initiation, during and at the end of treatment as clinically appropriate. It should be considered to permanently discontinue encorafenib in patients who develop RAS mutation-positive non-cutaneous malignancies. Benefits and risks should be carefully considered before administering encorafenib to patients with a prior or concurrent cancer associated with RAS mutation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tumour lysis syndrome (TLS)
 
@@ -312,13 +314,13 @@ Closer monitoring of encorafenib related toxicities in patients with mild hepati
 
 There are no data available in patients with severe renal impairment (see sections 4.2 and 5.2). Encorafenib should be used with caution in patients with severe renal impairment. Creatinine elevation has been commonly reported with encorafenib as single agent or in combination with binimetinib or cetuximab. Observed cases of renal failure including acute kidney injury and renal impairment were generally associated with vomiting and dehydration. Other contributing factors included diabetes and hypertension. Blood creatinine should be monitored as clinically indicated and creatinine elevation managed with dose modification or discontinuation (see Table 4 in section 4.2). Patients should ensure adequate fluid intake during treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effects of other medicinal products on encorafenib.
 
 Concurrent use of strong CYP3A inhibitors during treatment with encorafenib should be avoided. If concomitant use with a strong CYP3A inhibitor is necessary, patients should be carefully monitored for safety (see section 4.5).
 
 Caution should be exercised if a moderate CYP3A inhibitor is co-administered with encorafenib.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -348,8 +350,6 @@ Encorafenib is an inhibitor of UGT1A1. Concomitant agents that are substrates of
 
 While encorafenib is a relatively potent reversible inhibitor of UGT1A1, no differences in binimetinib exposure have been observed clinically when binimetinib was co-administered with encorafenib.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Transporter substrates
 
 In vivo , encorafenib is an inhibitor of OATP1B1, OATP1B3 and/or BCRP. Coadministration of encorafenib with OATP1B1, OATP1B3 or BCRP substrates (such as rosuvastatin, atorvastatin, methotrexate) can result in increased concentrations (see section 5.2).
@@ -357,6 +357,8 @@ In vivo , encorafenib is an inhibitor of OATP1B1, OATP1B3 and/or BCRP. Coadminis
 In vitro , encorafenib potentially inhibits a number of other transporters. Agents that are substrates of renal transporters OAT1, OAT3, OCT2 (such as furosemide, penicillin) or agents that are substrates of the hepatic transporters OCT1 (such as, bosentan) or substrates of P-gp ( e.g. posaconazole) may also have increased exposure.
 
 Therefore, these agents, substrates of transporters should be co-administered with caution.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -386,13 +388,11 @@ Encorafenib has minor influence on the ability to drive or use machines. Visual 
 
 ## Summary of safety profile
 
-The safety of encorafenib (450 mg orally once daily) in combination with binimetinib (45 mg orally twice daily) has been evaluated in the integrated safety population (ISP) of 372 patients including patients with BRAF V600 mutant unresectable or metastatic melanoma and BRAF V600E mutant advanced NSCLC (hereafter referred to as the Combo 450 ISP). In Combo 450 ISP, 274 patients
-
-<div style=\"page-break-after: always\"></div>
-
-received the combination for the treatment of BRAF V600 mutant unresectable or metastatic melanoma (in two Phase II studies (CMEK162X2110 and CLGX818X2109) and one Phase III study (CMEK162B2301, Part 1)), and 98 patients received the combination for the treatment of BRAF V600E mutant advanced NSCLC (in one Phase II study (ARRAY-818-202)) (see section 5.1). The most common adverse reactions (&gt;25%) occurring in patients treated with encorafenib administered with binimetinib were fatigue, nausea, diarrhoea, vomiting, abdominal pain, myopathy/muscular disorders, and arthralgia.
+The safety of encorafenib (450 mg orally once daily) in combination with binimetinib (45 mg orally twice daily) has been evaluated in the integrated safety population (ISP) of 372 patients including patients with BRAF V600 mutant unresectable or metastatic melanoma and BRAF V600E mutant advanced NSCLC (hereafter referred to as the Combo 450 ISP). In Combo 450 ISP, 274 patients received the combination for the treatment of BRAF V600 mutant unresectable or metastatic melanoma (in two Phase II studies (CMEK162X2110 and CLGX818X2109) and one Phase III study (CMEK162B2301, Part 1)), and 98 patients received the combination for the treatment of BRAF V600E mutant advanced NSCLC (in one Phase II study (ARRAY-818-202)) (see section 5.1). The most common adverse reactions (&gt;25%) occurring in patients treated with encorafenib administered with binimetinib were fatigue, nausea, diarrhoea, vomiting, abdominal pain, myopathy/muscular disorders, and arthralgia.
 
 The safety of encorafenib (300 mg orally once daily) in combination with binimetinib (45 mg orally twice daily) was evaluated in 257 patients with BRAF V600 mutant unresectable or metastatic melanoma (hereafter referred to as the Combo 300 population), based on the Phase III study (CMEK162B2301, Part 2). The most common adverse reactions (&gt;25%) occurring in patients treated with encorafenib 300 mg administered with binimetinib were fatigue, nausea and diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
 
 The encorafenib single agent (300 mg orally once daily) safety profile is based on data from 217 patients with unresectable or metastatic BRAF V600-mutant melanoma (hereafter referred to as the pooled encorafenib 300 population). The most common adverse drug reactions (ADRs) (&gt;25%) reported with encorafenib 300 were hyperkeratosis, alopecia, PPES, fatigue, rash, arthralgia, dry skin, nausea, myalgia, headache, vomiting and pruritus.
 
@@ -400,90 +400,96 @@ The safety of encorafenib (300 mg orally once daily) in combination with cetuxim
 
 The rate of all study drug discontinuation due to any adverse reaction was 1.9 % in patients treated with encorafenib 300 mg in combination with cetuximab.
 
+The safety of encorafenib (300 mg orally once daily) in combination with cetuximab and FOLFOX was evaluated in 259 patients with BRAF V600E-mutant metastatic colorectal cancer, based on the study C4221015 - BREAKWATER (hereafter referred to as the pooled EC+FOLFOX population, i.e all patients who received encorafenib and cetuximab (EC)+FOLFOX in the different portions of the study). The most common ADRs (&gt;25%) reported in this population were: neuropathy peripheral, neutropenia, nausea, fatigue, anaemia, diarrhoea, vomiting, decreased appetite, rash, thrombocytopenia, abdominal pain, haemorrhage, arthralgia/musculoskeletal pain, pyrexia, constipation, mucosal inflammation and infection.
+
+The rate of all study drug discontinuation due to any adverse reaction was 3.5 % in patients treated with encorafenib 300 mg in combination with cetuximab and FOLFOX.
+
 ## Tabulated list of adverse reactions
 
 Adverse reactions are listed below by MedDRA body system organ class and the following frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5: Adverse reactions
 
-| Frequency                                   | Encorafenib single agent 300 mg (n = 217)   | Encorafenib 450 mg in combination with binimetinib (n = 372)   | Encorafenib 300 mg in combination with cetuximab (n = 216)   |
-|---------------------------------------------|---------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified                    | Neoplasms benign, malignant and unspecified                  |
-| Very common                                 | Skin papilloma * Melanocytic naevus         |                                                                | Melanocytic naevus                                           |
-| Common                                      | cuSCC a New Primary Melanoma *              | cuSCC a Skin papilloma *                                       | cuSCC a Skin papilloma * New Primary Melanoma *              |
-| Uncommon                                    | Basal cell carcinoma                        | Basal cell carcinoma *                                         | Basal cell carcinoma*                                        |
-| Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders                           | Blood and lymphatic system disorders                         |
-| Very common                                 |                                             | Anaemia                                                        |                                                              |
-| Immune system disorders                     | Immune system disorders                     | Immune system disorders                                        | Immune system disorders                                      |
-| Common                                      | Hypersensitivity b                          | Hypersensitivity b                                             | Hypersensitivity b                                           |
-| Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders                             | Metabolism and nutrition disorders                           |
-| Very common                                 | Decreased appetite                          |                                                                | Decreased appetite                                           |
-| Not known                                   |                                             | Tumour lysis syndrome                                          |                                                              |
+| Frequenc y                                  | Encorafenib single agent 300 mg (n = 217)      | Encorafenib 450 mg in combination with binimetinib (n = 372)   | Encorafenib 300 mg in combination with cetuximab (n = 216)   | Encorafenib 300 mg in combination with cetuximab and FOLFOX (n = 259)   |
+|---------------------------------------------|------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified    | Neoplasms benign, malignant and unspecified                    | Neoplasms benign, malignant and unspecified                  | Neoplasms benign, malignant and unspecified                             |
+| Very common                                 | Skin papilloma * Melanocytic naevus            |                                                                | Melanocytic naevus                                           |                                                                         |
+| Common                                      | cuSCC a New Primary Melanoma *                 | cuSCC a Skin papilloma *                                       | cuSCC a Skin papilloma * New Primary Melanoma *              | Melanocytic naevus Skin papilloma* Basal cell carcinoma cuSCC a         |
+| Uncommo n                                   | Basal cell carcinoma                           | Basal cell carcinoma *                                         | Basal cell carcinoma*                                        | New Primary Melanoma*                                                   |
+| Blood and lymphatic system disorders        | Blood and lymphatic system disorders           | Blood and lymphatic system disorders                           | Blood and lymphatic system disorders                         | Blood and lymphatic system disorders                                    |
+| Very common                                 |                                                | Anaemia                                                        |                                                              | Neutropenia* Anaemia* Thrombocytopenia * Leukopenia*                    |
+| Immune system disorders                     | Immune system disorders                        | Immune system disorders                                        | Immune system disorders                                      | Immune system disorders                                                 |
+| Very common                                 |                                                |                                                                |                                                              | Hypersensitivity b                                                      |
+| Common                                      | Hypersensitivity b                             | Hypersensitivity b                                             | Hypersensitivity b                                           |                                                                         |
+| Metabolism and nutrition disorders          | Metabolism and nutrition disorders             | Metabolism and nutrition disorders                             | Metabolism and nutrition disorders                           | Metabolism and nutrition disorders                                      |
+| Very common                                 | Decreased appetite                             |                                                                | Decreased appetite                                           | Decreased appetite Hypokalaemia Hypomagnesaemia Hypoalbuminaemi a*      |
+| Not known                                   |                                                | Tumour lysis syndrome                                          |                                                              |                                                                         |
+| Psychiatric disorders                       | Psychiatric disorders                          | Psychiatric disorders                                          | Psychiatric disorders                                        | Psychiatric disorders                                                   |
+| Very common                                 | Insomnia                                       |                                                                | Insomnia                                                     | Insomnia*                                                               |
+| Nervous system disorders                    | Nervous system disorders                       | Nervous system disorders                                       | Nervous system disorders                                     | Nervous system disorders                                                |
+| Very common                                 | Headache * Neuropathy peripheral * Dysgeusia * | Neuropathy peripheral * Dizziness * Headache *                 | Neuropathy peripheral * Headache *                           | Neuropathy peripheral n Dysgeusia* Headache*                            |
+| Common                                      | Facial paresis c                               | Dysgeusia *                                                    | Dizziness * Dysgeusia                                        | Dizziness*                                                              |
+| Uncommo n                                   |                                                | Facial paresis c                                               |                                                              |                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Psychiatric disorders                           | Psychiatric disorders                                                            | Psychiatric disorders                                                    | Psychiatric disorders                                                                      |
-|-------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Very common                                     | Insomnia                                                                         |                                                                          | Insomnia                                                                                   |
-| Nervous system disorders                        | Nervous system disorders                                                         | Nervous system disorders                                                 | Nervous system disorders                                                                   |
-| Very common                                     | Headache * Neuropathy peripheral * Dysgeusia *                                   | Neuropathy peripheral * Dizziness * Headache *                           | Neuropathy peripheral * Headache *                                                         |
-| Common                                          | Facial paresis c                                                                 | Dysgeusia *                                                              | Dizziness * Dysgeusia                                                                      |
-| Uncommon                                        |                                                                                  | Facial paresis c                                                         |                                                                                            |
-| Eye disorders                                   | Eye disorders                                                                    | Eye disorders                                                            | Eye disorders                                                                              |
-| Very common                                     |                                                                                  | Visual impairment * RPED *                                               |                                                                                            |
-| Common                                          |                                                                                  | Uveitis *                                                                |                                                                                            |
-| Uncommon                                        | Uveitis *                                                                        |                                                                          |                                                                                            |
-| Cardiac disorders                               | Cardiac disorders                                                                | Cardiac disorders                                                        | Cardiac disorders                                                                          |
-| Common                                          | Supraventricular tachycardia d                                                   | LVD h                                                                    | Supraventricular tachycardia d                                                             |
-| Vascular disorders                              | Vascular disorders                                                               | Vascular disorders                                                       | Vascular disorders                                                                         |
-| Very common                                     |                                                                                  | Haemorrhage i Hypertension *                                             | Haemorrhage i                                                                              |
-| Common                                          |                                                                                  | VTE j                                                                    |                                                                                            |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                       | Gastrointestinal disorders                                               | Gastrointestinal disorders                                                                 |
-| Very common                                     | Nausea Vomiting * Constipation                                                   | Nausea Vomiting * Constipation Abdominal pain * Diarrhoea *              | Nausea Vomiting* Constipation Abdominal pain * Diarrhoea *                                 |
-| Common                                          |                                                                                  | Colitis k                                                                |                                                                                            |
-| Uncommon                                        | Pancreatitis *                                                                   | Pancreatitis *                                                           | Pancreatitis *                                                                             |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                           | Skin and subcutaneous tissue disorders                                   | Skin and subcutaneous tissue disorders                                                     |
-| Very common                                     | PPES Hyperkeratosis * Rash * Dry skin * Pruritus * Alopecia * Erythema e Skin    | Hyperkeratosis * Rash * Dry skin * Pruritus * Alopecia *                 | Dermatitis acneiform * Rash * Dry skin * Pruritus *                                        |
-| Common                                          | hyperpigmentation * Dermatitis acneiform * Skin exfoliation f Photosensitivity * | Dermatitis acneiform * PPES Erythema * Panniculitis * Photosensitivity * | Skin hyperpigmentation PPES Hyperkeratosis * Alopecia Erythema e                           |
-| Uncommon                                        |                                                                                  |                                                                          | Skin exfoliation f                                                                         |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                  | Musculoskeletal and connective tissue disorders                          | Musculoskeletal and connective tissue disorders                                            |
-| Very common                                     | Arthralgia * Myalgia g Pain in extremity Back pain                               | Arthralgia * Myopathy/Muscular disorder l Pain in extremity Back pain*   | Arthralgia/Musculoskeletal pain * Myopathy/Muscular disorder * Pain in extremity Back pain |
-| Common                                          | Arthritis *                                                                      |                                                                          |                                                                                            |
+| Eye disorders                                   | Eye disorders                                                                                      | Eye disorders                                                            | Eye disorders                                                                               | Eye disorders                                                                         |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Very common                                     |                                                                                                    | Visual impairment * RPED *                                               |                                                                                             |                                                                                       |
+| Common Uveitis *                                | Common Uveitis *                                                                                   | Common Uveitis *                                                         | Common Uveitis *                                                                            | Common Uveitis *                                                                      |
+| Cardiac                                         |                                                                                                    | LVD h                                                                    |                                                                                             |                                                                                       |
+| n disorders                                     | n disorders                                                                                        | n disorders                                                              | n disorders                                                                                 | n disorders                                                                           |
+| Common                                          | Supraventricular tachycardia d                                                                     |                                                                          | Supraventricular tachycardia d                                                              | Supraventricular tachycardia d                                                        |
+| Vascular disorders                              | Vascular disorders                                                                                 | Vascular disorders                                                       | Vascular disorders                                                                          | Vascular disorders                                                                    |
+| Very common                                     |                                                                                                    | Haemorrhage i Hypertension *                                             | Haemorrhage i                                                                               | Haemorrhage i                                                                         |
+| Common VTE j                                    | Common VTE j                                                                                       | Common VTE j                                                             | Common VTE j                                                                                | Common VTE j                                                                          |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                         | Gastrointestinal disorders                                               | Gastrointestinal disorders                                                                  | Gastrointestinal disorders                                                            |
+| Very common                                     | Nausea Vomiting * Constipation                                                                     | Nausea Vomiting * Constipation Abdominal pain * Diarrhoea *              | Nausea Vomiting* Constipation Abdominal pain * Diarrhoea *                                  | Nausea Diarrhoea* Vomiting* Abdominal pain* Constipation Mucosal inflammation*        |
+| Common Colitis k                                | Common Colitis k                                                                                   | Common Colitis k                                                         | Common Colitis k                                                                            | Common Colitis k                                                                      |
+| Uncommo n                                       | Pancreatitis *                                                                                     | Pancreatitis *                                                           | Pancreatitis *                                                                              | Pancreatitis*                                                                         |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                             | Skin and subcutaneous tissue disorders                                   | Skin and subcutaneous tissue disorders                                                      | Skin and subcutaneous tissue disorders                                                |
+| Very common                                     | PPES Hyperkeratosis * Rash * Dry skin * Pruritus * Alopecia * Erythema e Skin hyperpigmentatio n * | Hyperkeratosis * Rash * Dry skin * Pruritus * Alopecia *                 | Dermatitis acneiform * Rash * Dry skin * Pruritus *                                         | Rash* Skin hyperpigmentation * Dermatitis acneiform* Dry skin* Alopecia PPES Pruritus |
+| Common                                          | Dermatitis acneiform * Skin exfoliation f Photosensitivity *                                       | Dermatitis acneiform * PPES Erythema * Panniculitis * Photosensitivity * | Skin hyperpigmentation PPES Hyperkeratosis * Alopecia Erythema e                            | Erythema Hyperkeratosis* Skin exfoliation                                             |
+| Uncommo n                                       |                                                                                                    |                                                                          | Skin exfoliation f                                                                          |                                                                                       |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                    | Musculoskeletal and connective tissue disorders                          | Musculoskeletal and connective tissue disorders                                             | Musculoskeletal and connective tissue disorders                                       |
+| Very common                                     | Arthralgia * Myalgia g Pain in extremity Back pain                                                 | Arthralgia * Myopathy/Muscul ar disorder l Pain in extremity Back pain*  | Arthralgia/Musculoskele tal pain * Myopathy/Muscular disorder * Pain in extremity Back pain | Arthralgia/Muscu- loskeletal pain* Myopathy/Muscu- lar disorder l Back pain*          |
+| Common                                          | Arthritis *                                                                                        |                                                                          |                                                                                             | Pain in extremity*                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                             |                                                                        | Rhabdomyolysis                                                                                               |                                                       |
-|------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Renal and urinary disorders                          | Renal and urinary disorders                                            | Renal and urinary disorders                                                                                  | Renal and urinary disorders                           |
-| Common                                               | Renal failure *                                                        | Renal failure *                                                                                              | Renal failure *                                       |
-| General disorders and administration site conditions | General disorders and administration site conditions                   | General disorders and administration site conditions                                                         | General disorders and administration site conditions  |
-| Very common                                          | Fatigue * Pyrexia *                                                    | Fatigue * Pyrexia * Peripheral oedema m                                                                      | Fatigue * Pyrexia *                                   |
-| Investigations                                       | Investigations                                                         | Investigations                                                                                               | Investigations                                        |
-| Very common                                          | Gamma-glutamyl transferase (GGT) increased *                           | Blood creatine phosphokinase increased Gamma-glutamyl transferase (GGT) increased * Transaminase increased * |                                                       |
-| Common                                               | Transaminase increased * Blood creatinine increased * Lipase increased | Blood alkaline phosphatase increased Blood creatinine increased * Amylase increased Lipase increased         | Blood creatinine increased * Transaminase increased * |
-| Uncommon                                             | Amylase increased                                                      |                                                                                                              | Amylase increased Lipase increased                    |
+| Uncommo n                                            |                                                                        | Rhabdomyolysis                                                                                               |                                                       |                                                            |
+|------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------|
+| Renal and urinary disorders                          | Renal and urinary disorders                                            | Renal and urinary disorders                                                                                  | Renal and urinary disorders                           | Renal and urinary disorders                                |
+| Common                                               | Renal failure *                                                        | Renal failure *                                                                                              | Renal failure *                                       | Renal failure*                                             |
+| General disorders and administration site conditions | General disorders and administration site conditions                   | General disorders and administration site conditions                                                         | General disorders and administration site conditions  | General disorders and administration site conditions       |
+| Very common                                          | Fatigue * Pyrexia *                                                    | Fatigue * Pyrexia * Peripheral oedema m                                                                      | Fatigue * Pyrexia *                                   | Fatigue* Pyrexia*                                          |
+| Infections and infestations                          | Infections and infestations                                            | Infections and infestations                                                                                  | Infections and infestations                           | Infections and infestations                                |
+| Very common                                          |                                                                        |                                                                                                              |                                                       | Infections o                                               |
+| Common                                               |                                                                        |                                                                                                              |                                                       | Upper respiratory tract infection* Sepsis*                 |
+| Investigations                                       | Investigations                                                         | Investigations                                                                                               | Investigations                                        | Investigations                                             |
+| Very common                                          | Gamma-glutamyl transferase (GGT) increased *                           | Blood creatine phosphokinase increased Gamma-glutamyl transferase (GGT) increased * Transaminase increased * |                                                       | Lipase increased* Weight decreased Transaminase increased* |
+| Common                                               | Transaminase increased * Blood creatinine increased * Lipase increased | Blood alkaline phosphatase increased Blood creatinine increased * Amylase increased Lipase increased         | Blood creatinine increased * Transaminase increased * | Blood creatinine increased* Amylase increased*             |
+| Uncommo n                                            | Amylase increased                                                      |                                                                                                              | Amylase increased Lipase increased                    |                                                            |
 
-haematochezia, haemoptysis, haemothorax, gastrointestinal haemorrhage and haematuria
-
-j includes, but not limited to, pulmonary embolism, deep vein thrombosis, embolism,
+haematochezia, epistaxis, haemoptysis, haemothorax, gastrointestinal haemorrhage and haematuria j includes, but not limited to, pulmonary embolism, deep vein thrombosis, embolism, m includes, but not limited to, fluid retention, peripheral oedema, localised oedema, generalised oedema and swelling n includes but not limited to cold dysaesthesia, dysaesthesia, hyperaesthesia, hypoaesthesia, neuralgia, neuropathy peripheral, neurotoxicity, paraesthesia, peripheral sensory neuropathy, polyneuropathy o includes but not limited to urinary tract infection, gastroenteritis, peritonitis, cellulitis, abdominal infection, gastrointestinal infection, infection, lower respiratory tract infection, viral and bacterial pneumonia, viral infection When encorafenib was used at a dose of 300 mg once daily in combination with binimetinib 45 mg twice daily (Combo 300) in study CMEK162B2301-Part 2, the frequency category was lower compared to the pooled Combo 450 population for the following adverse reactions: anaemia, peripheral neuropathy, haemorrhage, hypertension, pruritus (common); and colitis, increased amylase and increased lipase (uncommon).
 
 thrombophlebitis, thrombophlebitis superficial, thrombosis, phlebitis, superior vena cava syndrome, mesenteric vein thrombosis and vena cava thrombosis
 
 k includes colitis, colitis ulcerative, enterocolitis and proctitis
 
-l includes myalgia, muscular weakness, muscle spasm, muscle injury, myopathy, myositis
-
-m includes, but not limited to, fluid retention, peripheral oedema, localised oedema, generalised oedema and swelling
-
-When encorafenib was used at a dose of 300 mg once daily in combination with binimetinib 45 mg twice daily (Combo 300) in study CMEK162B2301-Part 2, the frequency category was lower compared to the pooled Combo 450 population for the following adverse reactions: anaemia, peripheral neuropathy, haemorrhage, hypertension, pruritus (common); and colitis, increased amylase and increased lipase (uncommon).
+l includes, but not limited to, myalgia, muscular weakness, muscle spasm, muscle injury, myopathy, myositis
 
 <div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
-## Cutaneous malignancies Cutaneous squamous cell carcinoma
+## Cutaneous malignancies
+
+## Cutaneous squamous cell carcinoma
 
 ## Melanoma and NSCLC
 
@@ -493,7 +499,13 @@ In the pooled encorafenib 300 population, cuSCC was reported in 7.4% (16/217) pa
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, cuSCC including keratoacanthoma was observed in 1.4% (3/216) of patients. The times to first event of cuSCC (all grades) were 0.5, 0.6 and 3.6 months for these 3 patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, cuSCC including keratoacanthoma was observed in 1.2% (3/259) of patients. The times to first event of cuSCC (all grades) were 1.9, 2.9 and 6.1 months for these 3 patients. No treatment discontinuation was reported.
 
 ## New primary melanoma
 
@@ -503,7 +515,15 @@ In the pooled encorafenib 300 population, new primary melanoma events occurred i
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, new primary melanoma events occurred in 1.9% of patients (4/216) and were reported as Grade 2 in 0.9% (2/216) of patients and Grade 3 in 0.9% (2/216) of patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, new primary melanoma events occurred in 0.8% of patients (2/259) and all were reported as Grade 3. Dose interruptions or dose reductions were required in 0.4% (1/259) of patients. No treatment discontinuation was reported.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ocular events
 
@@ -525,15 +545,21 @@ LVD was reported when encorafenib is used in combination with binimetinib in mel
 
 Haemorrhagic events were observed in 16.7% (62/372) of patients in the Combo 450 ISP. Most events were Grade 1 or 2: 13.2% (49/372), and 3.5% (13/372) were Grade ≥ 3. Few patients required dose interruptions or dose reductions (2.4% or 9/372). Haemorrhagic events led to discontinuation of treatment in 0.8% (3/372) of patients. The most frequent haemorrhagic events were haematuria in 2.7% (10/372) of patients, haematochezia in 2.7% (10/372) and rectal haemorrhage in 2.2% (8/372) of patients. Fatal gastric ulcer haemorrhage, with multiple organ failure as a concurrent cause of death, occurred in one patient. Cerebral haemorrhage/intracranial haemorrhage was reported in 1.6% (6/372) of patients, with fatal outcome in 4 patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In Study CMEK162B2301-Part 2, in the Combo 300 arm, haemorrhagic events were observed in 6.6% (17/257) of patients and were Grade 3-4 in 1.6% (4/257) of patients.
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 Haemorrhagic events were observed in 21.3% (46/216) of patients treated with encorafenib 300 mg in combination with cetuximab; 1.4% (3/216) of patients were Grade 3 events and one fatal case was reported. Dose interruptions or dose reductions were required in 1.9% (4/216) of patients. Haemorrhagic events led to treatment discontinuation in 1 patient (0.5%).
 
 The most frequent haemorrhagic events were epistaxis in 6.9% (15/216) of patients, haematochezia in 2.8% (6/216), rectal haemorrhage in 2.8% (6/216) of patients and haematuria in 2.8% (6/216) of patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+Haemorrhagic events were observed in 32.8% (85/259) of the pooled EC+FOLFOX population; 1.5% (4/259) of patients were Grade 3 events and 0.8% (2/259) of patients were Grade 4 events. Dose interruptions or dose reductions were required in 3.9% (10/259) of patients. No treatment discontinuation was reported.
+
+The most frequent haemorrhagic events were epistaxis in 18.5% (48/259) of patients, haematuria in 4.2% (11/259), gingival bleeding in 3.9% (10/259), and rectal haemorrhage and hemorrhoidal haemorrhage in 3.5% each (9/259) of patients.
 
 ## Hypertension
 
@@ -543,6 +569,8 @@ Hypertension was reported when encorafenib was used in combination with binimeti
 
 VTE was reported when encorafenib is used in combination with binimetinib in melanoma and NSCLC patients (see section 4.8 of binimetinib SmPC).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pancreatitis
 
 ## Melanoma and NSCLC
@@ -551,9 +579,17 @@ In the Combo 450 ISP, pancreatic enzyme elevation, mostly asymptomatic, was repo
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In the population treated with encorafenib 300 mg in combination with cetuximab, pancreatitis grade 3 with lipase and amylase increased events were reported in 1 patient (0.5%) and led to dose interruption.
 
-## Dermatologic reactions Rash
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, increased lipase events (mostly asymptomatic) were reported in 23.6% of patients. Pancreatitis Grade 3 was reported in 2 patients (0.8%) with lipase increased events reported for one patient. Dose interruption was reported for both patients and treatment discontinuation for one patient.
+
+## Dermatologic reactions
+
+## Rash
 
 ## Melanoma and NSCLC
 
@@ -563,7 +599,13 @@ In the pooled encorafenib 300 population, rash was reported in 43.3% (94/217) of
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, rash occurred in 30.6% (66/216) of patients. Most events were mild, with Grade 3 event reported in 0.5% (1/216) of patients. Rash led to dose interruption in 0.5% (1/216) of patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, rash occurred in 35.9% (93/259) of patients. Most events were mild, with Grade 3 event reported in 1.2% (3/259) of patients. Rash led to treatment discontinuation in 0.8% (2/259) of patients and led to dose interruption or reduction in 4.2% (11/259) of patients.
 
 ## Palmar-plantar erythrodysaesthesia syndrome (PPES)
 
@@ -573,13 +615,19 @@ PPES was reported in 5.1% (19/372) of patients in the Combo 450 ISP. All the PPE
 
 In the Combo 300 arm in Part 2 of the pivotal study, PPES was observed in 3.9% (10/257) of patients with Grade 3 reported in 0.4% (1/257) of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In the pooled encorafenib 300 population, PPES was reported in 51.6% (112/217) of patients. Most events were mild-moderate: Grade 1 in 12.4% (27/217) of patients, Grade 2 in 26.7% (58/217) and Grade 3 in 12.4% (27/217) of patients. PPES led to discontinuation in 4.1% (9/217) of patients and to dose interruption or dose modification in 23.0% (50/217) of patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In the population treated with encorafenib 300 mg in combination with cetuximab, PPES was reported in 5.1% (11/216) of patients. Most of PPES adverse reactions were Grade 1 in 3.7 % (8/216). Grade 2 events were reported in 0.9% (2/216) of patients, and Grade 3 in 0.5% (1/216) of patients. No dose interruption, dose modification or treatment discontinuation was required.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, PPES was reported in 15.8% (41/259) of patients. Most of the events were Grade 1 or 2, and 2.7% (7/259) were Grade 3 events. PPES led to treatment discontinuation in 0.4% (1/259) of patients and led to dose interruption or reduction in 3.5% (9/259) of patients.
 
 ## Dermatitis acneiform
 
@@ -589,7 +637,13 @@ Dermatitis acneiform was reported when encorafenib is used in combination with b
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, dermatitis acneiform occurred in 33.3% (72/216) of patients and was mostly Grade 1 (25.5% (55/216) of patients), or 2 (6.9% (15/216) of patients). Dose reduction or interruption was reported in 2.3 % (5/216) of patients. No treatment discontinuation was reported. Dermatitis acneiform was generally reversible.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, dermatitis acneiform occurred in 22.4% (58/259) of patients. Most of the events were Grade 1 or 2, and 0.8% (2/259) were Grade 3 events. Dose reduction or interruption was reported in 1.9 % (5/259) of patients. No treatment discontinuation was reported.
 
 ## Photosensitivity
 
@@ -607,6 +661,8 @@ In the Combo 450 ISP, facial paresis occurred in 0.8% (3/372) of patients includ
 
 In the pooled encorafenib 300 population, facial paresis was observed in 7.4% (16/217) of patients. Most events were mild-moderate: Grade 1 in 2.3% (5/217); Grade 2 in 3.7% (8/217) and Grade 3 in 1.4% (3/217) of patients. The median time to onset of the first event of facial paresis was 0.3 months (range 0.1 to 12.1 months). Facial paresis was generally reversible and led to treatment discontinuation in 0.9% (2/217). Dose interruption or modification was reported in 3.7% (8/217) and symptomatic treatment including corticosteroids was reported in 5.1% (11/217) of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## CK elevation and rhabdomyolysis
 
 CK elevation and rhabdomyolysis occurred when encorafenib is used in combination with binimetinib in melanoma and NSCLC patients (see section 4.8 of binimetinib SmPC).
@@ -615,17 +671,21 @@ CK elevation and rhabdomyolysis occurred when encorafenib is used in combination
 
 ## Melanoma and NSCLC
 
-In the Combo 450 ISP, mild, mostly Grade 1, asymptomatic blood creatinine elevation was noted in 9.4% (35/372) of patients treated with the Combo 450. The incidence of Grade 3 or 4 elevation was 0.8% (3/372). Renal failure events, including acute kidney injury, renal failure and renal impairment, were reported in 3.5% (13/372) patients treated with encorafenib and binimetinib with Grade 3 or 4
-
-<div style=\"page-break-after: always\"></div>
-
-events in 1.9% (7/372) of patients. Renal failure was generally reversible with dose interruption, rehydration and other general supportive measures.
+In the Combo 450 ISP, mild, mostly Grade 1, asymptomatic blood creatinine elevation was noted in 9.4% (35/372) of patients treated with the Combo 450. The incidence of Grade 3 or 4 elevation was 0.8% (3/372). Renal failure events, including acute kidney injury, renal failure and renal impairment, were reported in 3.5% (13/372) patients treated with encorafenib and binimetinib with Grade 3 or 4 events in 1.9% (7/372) of patients. Renal failure was generally reversible with dose interruption, rehydration and other general supportive measures.
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 Blood creatinine elevation was reported in 2.8% (6/216) of patients treated with encorafenib 300 mg in combination with cetuximab. All were mild except one event of Grade 4. Renal failure events were Grade 3 or 4 and reported as acute kidney injury in 1.9 % (4/216) of patients and renal failure in 0.5% (1/216) of patients.
 
-## Liver laboratory abnormality Melanoma and NSCLC
+## Encorafenib with cetuximab and FOLFOX combination
+
+Blood creatinine elevation was reported in 3.9% (10/259) of the pooled EC+FOLFOX population. All events were either Grade 1 (2.7% (7/259) of patients) or Grade 2 (1.2% (3/259) of patients). Renal failure, including acute kidney injury and renal impairment, was reported in 3.5% (9/259) of patients (Grade 3 events in 1.2% of patients and Grade 4 events in 0.4% of patients). Renal failure events led to interruption or dose reduction in 2.7% of patients and were resolved in 90% of cases. No treatment discontinuation was reported.
+
+## Liver laboratory abnormality
+
+## Melanoma and NSCLC
 
 The incidences of liver laboratory abnormalities reported in the Combo 450 ISP are listed below:
 
@@ -639,7 +699,13 @@ In Study CMEK162B2301-Part 2, in the Combo 300 arm, the incidence of liver labor
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 The incidence of increased transaminases in patients treated with encorafenib 300 mg in combination with cetuximab was 8.8% (19/216) of patients, with Grade 3 in 1.4% (3/216) of patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+The incidence of increased transaminases reported in the pooled EC+FOLFOX population was 17.0% (44/259) of patients, with Grade 3 events in 1.5% (4/259) of patients.
 
 ## Gastrointestinal disorders
 
@@ -649,13 +715,23 @@ In the Combo 450 ISP, diarrhoea was observed in 41.7% (155/372) of patients and 
 
 Constipation occurred in 24.7% (92/372) of patients and was Grade 1 or 2. Abdominal pain was reported in 28.5% (106/372) of patients and was Grade 3 in 2.2% (8/372) patients. Nausea occurred in 46.0% (171/372) with Grade 3 observed in 3.0% (11/372) of patients. Vomiting occurred in 31.2% (116/372) of patients with Grade 3 reported in 1.9% (7/372) of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In Study CMEK162B2301-Part 2, in the Combo 300 arm, nausea was observed in 27.2% (70/257) of patients and was Grade 3 in 1.6% (4/257) of patients. Vomiting occurred in 15.2% (39/257) of patients with Grade 3 reported in 0.4% (1/257) of patients. Diarrhoea occurred in 28.4% (73/257) of patients with Grade 3 reported in 1.6% (4/257) of patients.
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, diarrhoea was observed in 38.4% (83/216) of patients and was Grade 3 in 2.8% (6/216) of patients. Diarrhoea led to treatment discontinuation in 0.5% (1/216) of patients and to dose interruption or dose modification in 3.7% (8/216) of patients.
 
 Abdominal pain was reported in 36.6% (79/216) of patients and was Grade 3 in 5.1% (11/216) of patients. Nausea occurred in 38.0% (82/216) of patients with Grade 3 observed in 0.5% (1/216) of patients. Vomiting occurred in 27.3% (59/216) of patients with Grade 3 reported in 1.4 % (3/216) of patients. Constipation occurred in 18.1% (39/216) of patients and was Grade 1 or 2.
+
+Gastrointestinal disorders were typically managed with standard therapy.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, diarrhoea was observed in 41.3% (107/259) of patients and was Grade 3 in 1.9% (5/259) of patients. Diarrhoea led to treatment discontinuation in 1.2% (3/259) of patients and to dose interruption or dose modification in 8.9% (23/259) of patients. Abdominal pain was reported in 32.8% (85/259) of patients and was Grade 3 in 5.4% (14/259) of patients. Nausea occurred in 56.0% (145/259) of patients with Grade 3 observed in 2.7 % (7/259) of patients. Vomiting occurred in 36.7% (95/259) of patients with Grade 3 reported in 3.9% (10/259) of patients. Constipation occurred in 27.0% (70/259) of patients with Grade 3 observed in 0.4% (1/259) of patients.
 
 Gastrointestinal disorders were typically managed with standard therapy.
 
@@ -665,21 +741,31 @@ Gastrointestinal disorders were typically managed with standard therapy.
 
 In the Combo 450 ISP, anaemia was reported in 23.1% (86/372) of patients; 7.0% (26/372) patients had a Grade 3 or 4. No patients discontinued treatment due to anaemia, 3.2% (12/372) required dose interruption or dose modification.
 
-<div style=\"page-break-after: always\"></div>
-
 In Study CMEK162B2301-Part 2, in the Combo 300 arm, anaemia was observed in 9.7% (25/257) of patients with Grade 3-4 reported in 2.7% (7/257) patients.
 
-## Headache
+## Colorectal cancer
 
-## Melanoma and NSCLC
+## Encorafenib and cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, anaemia was reported in 43.6% (113/259) of patients; 14.3% (37/259) patients had a Grade 3. Anaemia led to treatment discontinuation in 2.3% (6/259) of patients and to dose interruption or dose modification in 13.9% (36/259) of patients.
+
+## Headache Melanoma and NSCLC
 
 In the Combo 450 ISP, headache occurred in 18.8% (70/372) of patients, including Grade 3 in 1.1% (4/372) of patients.
 
 In Study CMEK162B2301-Part 2, in the Combo 300 arm, headache was reported in 12.1% (31/257) of patients and was Grade 3 in 0.4% (1/257) of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, headache occurred in 20.4% (44/216) of patients and was Grade 1 or 2.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, headache occurred in 15.1% (39/259) of patients and 0.4% (1/259) of case was reported as Grade 3. Dose interruptions or dose reductions were required in 0.4% (1/259) of patients. No treatment discontinuation was reported.
 
 ## Fatigue
 
@@ -691,7 +777,13 @@ In Study CMEK162B2301-Part 2, in the Combo 300 arm, fatigue was observed in 33.5
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab, fatigue was reported in 56.9% (123/216) of patients including Grade 3 in 7.9% (17/216) of patients.
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population, fatigue was reported in 54.1% (140/259) of patients including Grade 3 events in 6.6% (17/259) of patients. Fatigue led to treatment discontinuation in 3.5% (9/259) of patients and to dose interruption or dose modification in 16.6% (43/259) of patients.
 
 ## Special populations
 
@@ -699,17 +791,25 @@ In patients treated with encorafenib 300 mg in combination with cetuximab, fatig
 
 ## Melanoma and NSCLC
 
-In patients treated with Combo 450 ISP (n = 372), 230 patients (61.8%) were &lt;65 years old, 107 patients (28.8%) were 65 -74 years old and 35 patients (9.4%) were aged &gt; 75. No overall differences in safety or efficacy were observed between elderly patients ( ≥ 65) and younger patients except diarrhoea and pruritus that were more frequently reported in elderly patients. In the age subgroup of patients aged ≥ 75 years, Grade ≥ 3 adverse reactions (62.9% vs 47.5%), adverse reactions (all grades) requiring dose modification of any study drug (60.0% vs 48.1%) or leading to treatment discontinuation (25.7% vs 7.4%) were more frequently reported than in patients &lt;75 years. The most common adverse reactions reported with a higher incidence in patients aged ≥ 75 years compared to patients aged &lt; 75 years included fatigue, nausea, diarrhoea, vomiting and anaemia.
+In patients treated with Combo 450 ISP (n = 372), 230 patients (61.8%) were &lt;65 years old, 107 patients (28.8%) were 65 -74 years old and 35 patients (9.4%) were aged &gt; 75. No overall differences in safety or efficacy were observed between elderly patients ( ≥ 65) and younger patients except diarrhoea and pruritus that were more frequently reported in elderly patients.
+
+In the age subgroup of patients aged ≥ 75 years, Grade ≥ 3 adverse reactions (62.9% vs 47.5%), adverse reactions (all grades) requiring dose modification of any study drug (60.0% vs 48.1%) or leading to treatment discontinuation (25.7% vs 7.4%) were more frequently reported than in patients &lt;75 years. The most common adverse reactions reported with a higher incidence in patients aged ≥ 75 years compared to patients aged &lt; 75 years included fatigue, nausea, diarrhoea, vomiting and anaemia.
 
 ## Colorectal cancer
 
+## Encorafenib and cetuximab combination
+
 In patients treated with encorafenib 300 mg in combination with cetuximab (n=216), 134 patients (62 %) were &lt; 65 years old, 62 patients (28.7%) were 65-74 years old, and 20 patients (9.3%) were aged ≥ 75. The most common adverse reactions reported with a higher incidence in patients aged ≥ 65 years compared to patients aged &lt; 65 years included fatigue, decreased appetite, and haemorrhage.
+
+<div style=\"page-break-after: always\"></div>
+
+## Encorafenib with cetuximab and FOLFOX combination
+
+In the pooled EC+FOLFOX population (n=259), 166 patients (64.1 %) were &lt; 65 years old, 93 patients (35.9%) were 65 years and older. The most common adverse reactions reported with a higher incidence in patients aged ≥ 65 years compared to patients aged &lt; 65 years included neutropenia, anaemia, infection, weight decreased and hypomagnesaemia.
 
 In the colorectal cancer population, due to a very small number of patients treated in the age subgroup of patients aged ≥ 75 years, differences in the incidence of adverse reactions compared to patients aged &lt; 75 years could not be assessed.
 
 ## Reporting of suspected adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -721,7 +821,7 @@ At doses of encorafenib between 600 to 800 mg once daily, renal dysfunction (Gra
 
 ## Management
 
-## There is no specific treatment for overdose.
+There is no specific treatment for overdose.
 
 Since encorafenib is moderately bound to plasma proteins, haemodialysis is likely to be ineffective in the treatment of overdose with encorafenib. There is no known antidote for encorafenib. In the event of an overdose, encorafenib treatment should be interrupted and renal function must be monitored as well as adverse reactions. Symptomatic treatment and supportive care should be provided as needed.
 
@@ -737,17 +837,17 @@ Encorafenib is a potent and highly selective ATP-competitive small molecule RAF 
 
 ## Combination with binimetinib
 
+<div style=\"page-break-after: always\"></div>
+
 Encorafenib and binimetinib (a MEK inhibitor, see section 5.1 of binimetinib SmPC) both inhibit the MAPK pathway, resulting in higher anti-tumour activity, compared to treatment with either drug alone.
 
-## Combination with cetuximab
+## Combination with cetuximab with or without FOLFOX
 
-One of the main mechanisms of resistance of BRAF-mutant CRC to RAF inhibitors has been identified as the re-activation of EGFR with bypassing signal transduction via BRAF. Combinations of a BRAF inhibitor, e.g. encorafenib and agents targeting EGFR, e.g . cetuximab have shown to improve anti-tumour efficacy in non-clinical models.
+One of the main mechanisms of resistance of BRAF-mutant CRC to RAF inhibitors has been identified as the re-activation of EGFR with bypassing signal transduction via BRAF. Combinations of a BRAF inhibitor, e.g. encorafenib and agents targeting EGFR, e.g . cetuximab have shown to improve anti-tumour efficacy in non-clinical models.  The addition of a cytostatic agent, e.g. 5-fluorouracil and a cytotoxic agent, e.g. oxaliplatin, have shown to improve anti-tumour efficacy in clinical studies.
 
 ## Clinical efficacy and safety
 
 ## BRAF V600 Mutant Unresectable or Metastatic Melanoma
-
-<div style=\"page-break-after: always\"></div>
 
 The safety and efficacy of encorafenib in combination with binimetinib were evaluated in a 2-part Phase III, randomised (1:1:1) active-controlled, open-label, multicentre study in patients with unresectable or metastatic BRAF V600 E or K mutant melanoma (Study CMEK162B2301), as detected using a BRAF assay. Patients had histologically confirmed cutaneous or unknown primary melanoma but those with uveal or mucosal melanoma were excluded. Patients were permitted to receive prior adjuvant therapy and one prior line of immunotherapy for unresectable locally advanced or metastatic disease. Prior treatment with BRAF/ MEK inhibitors was not allowed.
 
@@ -761,48 +861,40 @@ The median age of patients was 56 years (range 20-89), 58% were male, 90% were C
 
 The median duration of exposure was 11.7 months in patients treated with Combo 450, 7.1 months in patients treated with Enco 300 and 6.2 months in patients treated with vemurafenib. The median relative dose intensity (RDI) for Combo 450 was 100% for encorafenib and 99.6% for binimetinib; the median RDI was 86.2% for Enco 300 and 94.5% for vemurafenib.
 
-Part 1 of Study CMEK162B2301 demonstrated a statistically significant improvement in PFS in the patients treated with Combo 450 compared with patients treated with vemurafenib. Table 6 summarises the PFS and other efficacy results based on central review of the data by a blinded independent radiology committee.
+Part 1 of Study CMEK162B2301 demonstrated a statistically significant improvement in PFS in the patients treated with Combo 450 compared with patients treated with vemurafenib. Table 6
+
+<div style=\"page-break-after: always\"></div>
+
+summarises the PFS and other efficacy results based on central review of the data by a blinded independent radiology committee.
 
 The efficacy results based on investigator assessment were consistent with the independent central assessment. Unstratified subgroup analyses demonstrated point estimates in favour of Combo 450, including LDH at baseline, ECOG performance status and AJCC stage.
 
 Table 6: Study CMEK162B2301, Part 1: Progression-free survival and confirmed overall response results (independent central review)
 
-|                           | Encorafenib + binimetinib N=192 (Combo 450)   | Encorafenib N=194 (Enco300)   | Vemurafenib N=191 (Vem)   |
-|---------------------------|-----------------------------------------------|-------------------------------|---------------------------|
-| Cut-off date: 19 May 2016 |                                               |                               |                           |
+|                                                             | Encorafenib + binimetinib N=192 (Combo 450)   | Encorafenib N=194 (Enco300)   | Vemurafenib N=191 (Vem)     |
+|-------------------------------------------------------------|-----------------------------------------------|-------------------------------|-----------------------------|
+| Cut-off date: 19 May 2016                                   | Cut-off date: 19 May 2016                     | Cut-off date: 19 May 2016     | Cut-off date: 19 May 2016   |
+| PFS (primary analysis)                                      | PFS (primary analysis)                        | PFS (primary analysis)        | PFS (primary analysis)      |
+| Number of events (%)                                        | 98 (51.0)                                     | 96 (49.5)                     | 106 (55.5)                  |
+| Median, months (95% CI)                                     | 14.9 (11.0, 18.5)                             | 9.6 (7.5,14.8)                | 7.3 (5.6, 8.2)              |
+| HR a (95% CI) (vs Vem) p-value (stratified log-rank) b      | 0.54 (0.41, 0.71) <0.0001                     |                               |                             |
+| HR a (95% CI) (vs Vem) Nominal p-value                      |                                               | 0.68 (0.52, 0.90) 0.007       |                             |
+| HR a (95% CI) (vs Enco 300) p-value (stratified log-rank) b | 0.75 (0.56,1.00) 0.051                        |                               |                             |
+| Confirmed overall responses                                 | Confirmed overall responses                   | Confirmed overall responses   | Confirmed overall responses |
+| Overall response rate, n (%) (95% CI)                       | 121 (63.0) (55.8, 69.9)                       | 98 (50.5) (43.3, 57.8)        | 77 (40.3) (33.3, 47.6)      |
+| CR, n (%)                                                   | 15 (7.8)                                      | 10 (5.2)                      | 11 (5.8)                    |
+| PR, n (%)                                                   | 106 (55.2)                                    | 88 (45.4)                     | 66 (34.6)                   |
+| SD, n (%)                                                   | 46 (24.0)                                     | 53 (27.3)                     | 73 (38.2)                   |
+| DCR, n (%)                                                  | 177 (92.2)                                    | 163 (84.0)                    | 156 (81.7)                  |
+| (95% CI)                                                    | (87.4, 95.6)                                  | (78.1, 88.9)                  | (75.4, 86.9)                |
+| Duration of response                                        | Duration of response                          | Duration of response          | Duration of response        |
+| Median, months (95% CI)                                     | 16.6 (12.2, 20.4)                             | 14.9 (11.1, NE)               | 12.3 (6.9, 16.9)            |
 
-<div style=\"page-break-after: always\"></div>
-
-| PFS (primary analysis)                                      | PFS (primary analysis)      | PFS (primary analysis)      | PFS (primary analysis)      |
-|-------------------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| Number of events (%)                                        | 98 (51.0)                   | 96 (49.5)                   | 106 (55.5)                  |
-| Median, months (95% CI)                                     | 14.9 (11.0, 18.5)           | 9.6 (7.5,14.8)              | 7.3 (5.6, 8.2)              |
-| HR a (95% CI) (vs Vem) p-value (stratified log-rank) b      | 0.54 (0.41, 0.71) <0.0001   |                             |                             |
-| HR a (95% CI) (vs Vem) Nominal p-value                      |                             | 0.68 (0.52, 0.90) 0.007     |                             |
-| HR a (95% CI) (vs Enco 300) p-value (stratified log-rank) b | 0.75 (0.56,1.00) 0.051      |                             |                             |
-| Confirmed overall responses                                 | Confirmed overall responses | Confirmed overall responses | Confirmed overall responses |
-| Overall response rate, n (%) (95% CI)                       | 121 (63.0) (55.8, 69.9)     | 98 (50.5) (43.3, 57.8)      | 77 (40.3) (33.3, 47.6)      |
-| CR, n (%)                                                   | 15 (7.8)                    | 10 (5.2)                    | 11 (5.8)                    |
-| PR, n (%)                                                   | 106 (55.2)                  | 88 (45.4)                   | 66 (34.6)                   |
-| SD, n (%)                                                   | 46 (24.0)                   | 53 (27.3)                   | 73 (38.2)                   |
-| DCR, n (%)                                                  | 177 (92.2)                  | 163 (84.0)                  | 156 (81.7)                  |
-| (95% CI)                                                    | (87.4, 95.6)                | (78.1, 88.9)                | (75.4, 86.9)                |
-| Duration of response                                        | Duration of response        | Duration of response        | Duration of response        |
-| Median, months (95% CI)                                     | 16.6 (12.2, 20.4)           | 14.9 (11.1, NE)             | 12.3 (6.9, 16.9)            |
-
-CI=Confidence interval; CR=Complete Response; DCR=Disease Control Rate (CR+PR+SD+Non-CR/Non-PD; Non-CR/Non-PD applies only to patients without a target lesion who did not achieve CR or have PD);
-
-HR=hazard ratio; NE=Not estimable; PFS=progression-free survival; PR=Partial response; SD=stable disease.
-
-Vem=vemurafenib.
-
-a Hazard ratio based on a stratified Cox proportional hazard model
-
-b Log-rank p-value (2-sided)
-
-## Quality of Life (QoL) (cut-off date: 19 May 2016)
+Quality of Life (QoL) (cut-off date: 19 May 2016)
 
 The Functional Assessment of Cancer Therapy-Melanoma (FACT-M), the European Organisation for Research and Treatment of Cancer's core quality of life questionnaire (EORTC QLQ-C30) and the EuroQoL-5 Dimension-5 Level examination (EQ-5D-5L) were used to explore patient-reported outcomes (PRO) measures of health-related Quality of Life, functioning, melanoma symptoms, and treatment-related adverse reactions. A definitive 10% deterioration in FACT-M and in EORTC QLQC30 was significantly delayed in patients treated with Combo 450 relative to other treatments. The median time to definitive 10% deterioration in the FACT-M score was not reached in the Combo 450 arm and was 22.1 months (95% CI: 15.2, NE) in the vemurafenib arm with a HR for the difference of 0.46 (95% CI: 0.29, 0.72). An analysis of time to definitive 10% deterioration in EORTC QLQ-C30 score provided with similar results.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients receiving Combo 450 reported no change or a slight improvement in the mean change from baseline EQ-5D-5L index score at all visits, whilst patients receiving vemurafenib or encorafenib reported decreases at all visits (with statistical significant differences). An evaluation of change over time in score yielded the same trend for EORTC QLQ-C30 and at all visit for FACT-M.
 
@@ -810,11 +902,7 @@ Patients receiving Combo 450 reported no change or a slight improvement in the m
 
 Part 2 of Study CMEK162B2301 was designed to assess the contribution of binimetinib to the encorafenib and binimetinib combination.
 
-The PFS for encorafenib 300 mg orally daily used in combination with binimetinib 45 mg orally twice daily (Combo 300, n = 258) was compared to the PFS for Enco 300 (n = 280, including 194 patients
-
-<div style=\"page-break-after: always\"></div>
-
-from Part 1 and 86 patients from Part 2). Enrolment in Part 2 started after all Part 1 patients were randomised.
+The PFS for encorafenib 300 mg orally daily used in combination with binimetinib 45 mg orally twice daily (Combo 300, n = 258) was compared to the PFS for Enco 300 (n = 280, including 194 patients from Part 1 and 86 patients from Part 2). Enrolment in Part 2 started after all Part 1 patients were randomised.
 
 ## Final efficacy analysis of Study CMEK162B2301, parts 1 and 2 (cut-off date: 31 March 2023)
 
@@ -822,7 +910,7 @@ The final efficacy analysis was consistent with the results of the interim analy
 
 Moreover, Part 2 final analysis showed a numerical difference in OS for Combo 300 (Part 2) over Enco 300 monotherapy (Parts 1+2) (HR 0.89 [95% CI:0.72,1.09] with median OS of 27.1 months [95% CI:21.6-33.3] vs 22.7 months [95% CI: 19.3-29.3]). The median PFS remained longer in the Combo 300 (Part 2) arm than in the Enco 300 (Parts 1+2) group with median PFS estimates of 12.9 months (95% CI: 10.9, 14.9) and 9.2 months (95% CI: 7.4, 11.1), respectively. The confirmed ORR (per BIRC) was 67.8% (95% CI: 61.8, 73.5) and 51.4% (95% CI 45.4, 57.4) in the Combo 300 (Part 2) and Enco 300 (Parts 1 + 2) arms, respectively. Similar results were observed per Investigator assessment.
 
-## Table 7: Study CMEK162B2301 : Final results on PFS, OS and confirmed ORR (cut-off date: 31 March 2023)
+Table 7: Study CMEK162B2301 : Final results on PFS, OS and confirmed ORR (cut-off date: 31 March 2023)
 
 |                                                         | Encorafenib + binimetinib N=192 (Combo 450)   | Encorafenib N=194 (Enco 300)                | Vemurafenib N=191 (Vem)                     |
 |---------------------------------------------------------|-----------------------------------------------|---------------------------------------------|---------------------------------------------|
@@ -868,7 +956,7 @@ Figure 2 Study CMEK162B2301: Kaplan-Meier plot of OS (cut-off date: 31 March 202
 
 <div style=\"page-break-after: always\"></div>
 
-## BRAF V600E Mutant metastatic colorectal cancer - Study ARRAY-818-302
+## BRAF V600E Mutant metastatic colorectal cancer - encorafenib in combination with cetuximab Study ARRAY-818-302
 
 Encorafenib in combination with cetuximab was evaluated in a randomised, active-controlled, openlabel, multicentre trial (ARRAY 818-302 BEACON CRC). Eligible patients were required to have BRAF V600E mutant metastatic colorectal cancer that had progressed after 1 or 2 prior regimens. Enrolled patients were eligible to receive cetuximab per locally approved label with regards to tumour RAS status. Prior use of RAF inhibitors, MEK inhibitors or EGFR inhibitors was prohibited. Randomisation was stratified by Eastern Cooperative Oncology Group (ECOG) performance status, prior use of irinotecan and cetuximab source.
 
@@ -880,11 +968,11 @@ The median age of patients was 61 years (range 26-91), 47 % were male and 83% we
 
 The median duration of exposure was 3.2 months in patients treated with encorafenib 300 mg in combination with cetuximab, and 1.4 months in patients treated with irinotecan/cetuximab or FOLFIRI/cetuximab (Control arm).  In patients treated with the combination of encorafenib 300 mg and cetuximab, the median relative dose intensity (RDI) was 98% for encorafenib and 93.5% for cetuximab. In the control arm, the median RDI was 85.4% for cetuximab, 75.7% for irinotecan and in the subset of patients who received Folinic acid and 5-FU, the median RDI was 75.2% and 75% respectively.
 
-Encorafenib 300 mg in combination with cetuximab demonstrated a statistically significant improvement in OS, ORR and PFS compared to Control. Efficacy results are summarised in Table 8 and Figures 3 and 4.
+Encorafenib 300 mg in combination with cetuximab demonstrated a statistically significant improvement in OS, ORR and PFS compared to Control. Efficacy results are summarised in Table 8 and Figure 3.
 
 The efficacy results based on investigator assessment were consistent with the independent central assessment.
 
-Table 8: Study ARRAY-818-302: Efficacy Results
+## Table 8: Study ARRAY-818-302: Efficacy Results
 
 |                                                   | Encorafenib with cetuximab                        | Irinotecan with cetuximab or FOLFIRI with cetuximab (Control)   |
 |---------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------|
@@ -894,21 +982,16 @@ Table 8: Study ARRAY-818-302: Efficacy Results
 | Number of events (%)                              | 93 (42.3)                                         | 114 (51.6)                                                      |
 | Median, months (95% CI)                           | 8.4 (7.5-11.0)                                    | 5.4 (4.8, 6.6)                                                  |
 | HR (95% CI) b,c (vs Control) p-value b,c          | 0.60 (0.41-0.88) 0.0002                           |                                                                 |
-| Median duration of follow-up, months (95% CI)     | 7.6 (6.4, 9.20)                                   | 7.2 (6.1, 8.1)                                                  |
+| Median duration of follow-up, months              | 7.6                                               | 7.2                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| ORR (per BIRC)                                 | ORR (per BIRC)                                 | ORR (per BIRC)                                 |
+| (95% CI)                                       | (6.4, 9.20)                                    | (6.1, 8.1)                                     |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| ORR (per BIRC)                                 | ORR (per BIRC)                                 | ORR (per BIRC)                                 |
 | Number of patients e                           | 113                                            | 107                                            |
-| ORR n (%)                                      | 23 (20.4)                                      | 2 (1.9)                                        |
-| (95% CI) f                                     | (13.4, 29.0)                                   | (0.2, 6.6)                                     |
+| ORR n (%) (95% CI) f                           | 23 (20.4) (13.4, 29.0)                         | 2 (1.9) (0.2, 6.6)                             |
 | P-value b,d,g                                  | <0.0001                                        |                                                |
-| CR, n (%)                                      | 6 (5.3)                                        | 0                                              |
-| PR, n (%)                                      | 17 (15.0)                                      | 2 (1.9)                                        |
-| SD, n (%)                                      | 57 (50.4)                                      | 26 (24.3)                                      |
-| DCR, n (%)                                     | 84 (74.3)                                      | 33 (30.8)                                      |
-| (95% CI) f                                     | (65.3, 82.1)                                   | (22.3, 40.5)                                   |
 | PFS (per BIRC)                                 | PFS (per BIRC)                                 | PFS (per BIRC)                                 |
 | Number of patients a                           | 220                                            | 221                                            |
 | Number of events (%)                           | 133 (60.5)                                     | 128 (57.9)                                     |
@@ -919,45 +1002,72 @@ Table 8: Study ARRAY-818-302: Efficacy Results
 | Number of patients a                           | 220                                            | 221                                            |
 | Number of events (%)                           | 128 (58.2)                                     | 157 (71.0)                                     |
 | Median, months (95% CI)                        | 9.3 (8.0, 11.3)                                | 5.9 (5.1, 7.1)                                 |
-| HR (95% CI) b (vs Control)                     | 0.61 (0.48, 0.77)                              |                                                |
-| p-value b,d,h                                  | < 0.0001                                       |                                                |
-| Median duration of                             | 12.3                                           | 12.9                                           |
-| (95% CI)                                       | (11.1, 14.1)                                   | (10.9, 14.6)                                   |
-| ORR (per BIRC)                                 | ORR (per BIRC)                                 | ORR (per BIRC)                                 |
-| Number of patients a                           | 220                                            | 221                                            |
-| ORR n (%)                                      | 43 (19.5)                                      | 4 (1.8)                                        |
-| (95% CI) f                                     | (14.5, 25.4)                                   | (0.5, 4.6)                                     |
-| p-value b,d,g,h                                | <0.0001                                        |                                                |
-| CR, n (%)                                      | 7 (3.2)                                        | 0                                              |
-| PR, n (%)                                      | 36 (16.4)                                      | 4 (1.8)                                        |
-| SD, n (%)                                      | 117 (53.2)                                     | 59 (26.7)                                      |
-| DCR, n (%)                                     | 167 (75.9)                                     | 69 (31.2)                                      |
-| (95% CI) f                                     | (69.7, 81.4)                                   | (25.2, 37.8)                                   |
+| HR (95% CI) b (vs Control) p-value b,d,h       | 0.61 (0.48, 0.77) < 0.0001                     |                                                |
+| Median duration of follow-up, months (95% CI)  | 12.3 (11.1, 14.1)                              | 12.9 (10.9, 14.6)                              |
 | PFS (per BIRC)                                 | PFS (per BIRC)                                 | PFS (per BIRC)                                 |
 | Number of patients a                           | 220                                            | 221                                            |
 | Number of events (%)                           | 167 (75.9)                                     | 147 (66.5)                                     |
-| Median PFS, months                             | 4.3                                            | 1.5                                            |
-| (95% CI)                                       | (4.1, 5.5)                                     | (1.5, 1.9)                                     |
-| HR (95% CI) b                                  | 0.44 (0.35, 0.55)                              |                                                |
-| P-value b,d, h                                 | < 0.0001                                       |                                                |
+| Median PFS, months (95% CI)                    | 4.3 (4.1, 5.5)                                 | 1.5 (1.5, 1.9)                                 |
+| HR (95% CI) b P-value b,d, h                   | 0.44 (0.35, 0.55) < 0.0001                     |                                                |
 
-<div style=\"page-break-after: always\"></div>
-
+- a Randomised Phase 3, Full Analysis Set
 - b Stratified by ECOG PS, source of cetuximab, and prior irinotecan use at randomization
-- c Repeated CI derived using Lan DeMets O'Brien-Fleming boundaries associated with the observed information fraction at the interim analysis
+
+c Repeated CI derived using Lan DeMets O'Brien-Fleming boundaries associated with the observed information fraction at the interim analysis
+
 - d 1-sided
 - e Among the first 331 randomised patients
 - f Clopper-Pearson's method
 - g Cochran Mantel-Haenszel test
 - h Nominal p-value
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 3: Study ARRAY-818-302: Kaplan-Meier plot of Overall Survival (cut-off date: 11 February 2019)
 
 <!-- image -->
 
+## BRAF V600E Mutant metastatic colorectal cancer - encorafenib in combination with cetuximab and FOLFOX - Study C4221015
+
+Encorafenib in combination with cetuximab and mFOLFOX6 in first line treatment was evaluated in an open-label, multicenter, randomized phase 3 study (Study C4221015, BREAKWATER). Eligible patients were required to have MSS/pMMR (except if patients with dMMR or MSI-H status confirmed are unable to receive immune checkpoint inhibitor), RAS wildtype, BRAF V600E mutant metastatic colorectal cancer that was previously untreated. Prior use of BRAF inhibitors or EGFR inhibitors was prohibited. Randomisation was stratified by Eastern Cooperative Oncology Group (ECOG) performance status and region.
+
+A total of 637 patients were randomised (1:1:1) to receive encorafenib 300 mg orally daily in combination with biweekly cetuximab dosed per its approved SmPC (n=158 - recruitment was discontinued during the study), or encorafenib 300 mg orally daily in combination with cetuximab and mFOLFOX6 (5-fluorouracil/folinic acid/oxaliplatin) dosed as per respective medicines approved SmPC (n=236) or Control (mFOLFOX6, FOLFOXIRI or CAPOX each with or without bevacizumab, n= 243). Treatment continued until disease progression or unacceptable toxicity.
+
+The primary efficacy outcome measures were progression-free survival (PFS) and objective response rate (ORR) as assessed by a blinded independent central review committee (BIRC) comparing encorafenib 300 mg in combination with cetuximab and mFOLFOX6 versus Control. The key secondary endpoint was overall survival (OS). Efficacy results are summarised in Table 9 below.
+
+The median age of patients treated with encorafenib 300 mg in combination with cetuximab and mFOLFOX6 was 61 years (range 24-84), 50 % were male and 59% were white. 54% of patients had baseline ECOG performance status of 0 and 48% of patients had at least 3 organs with tumour involvement at baseline.
+
+The median duration of exposure was 11.5 months in patients treated with encorafenib 300 mg in combination with cetuximab and mFOLFOX6, and 6.0 months in patients treated with mFOLFOX6, FOLFOXIRI or CAPOX each with or without bevacizumab (Control arm).  In patients treated with the combination of encorafenib 300 mg plus cetuximab and mFOLFOX6, the median relative dose intensity (RDI) was 90% for encorafenib, 93% for cetuximab, 80% for fluorouracil, 93% for folinic acid and 83% for oxaliplatin.
+
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Study ARRAY-818-302: Kaplan-Meier plot of Overall Survival (cut-off date: 15 August 2019)
+Encorafenib 300 mg in combination with cetuximab and mFOLFOX6 demonstrated a statistically significant improvement in PFS, ORR and OS, compared to Control. Efficacy results are summarised in Table 9 and Figure 4.
+
+Table 9: Study C4221015: Efficacy Results
+
+|                                                       | Encorafenib with cetuximab and mFOLFOX6               | mFOLFOX6, FOLFOXIRI, or CAPOX each with or without bevacizumab (Control)   |
+|-------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|
+| Cut-off date: 22 December 2023 (ORR Primary analysis) | Cut-off date: 22 December 2023 (ORR Primary analysis) | Cut-off date: 22 December 2023 (ORR Primary analysis)                      |
+| ORR (per BIRC)                                        | ORR (per BIRC)                                        | ORR (per BIRC)                                                             |
+| Number of patients a                                  | 110                                                   | 110                                                                        |
+| ORR n (%) (95% CI)                                    | 67 (60.9) (51.6, 69.5)                                | 44 (40.0) (31.3, 49.3)                                                     |
+| P-value b,c,d                                         | 0.0008                                                |                                                                            |
+| Cut-off date: 06 January 2025 (PFS Primary analysis)  | Cut-off date: 06 January 2025 (PFS Primary analysis)  | Cut-off date: 06 January 2025 (PFS Primary analysis)                       |
+| PFS (per BIRC)                                        | PFS (per BIRC)                                        | PFS (per BIRC)                                                             |
+| Number of patients e                                  | 236                                                   | 243                                                                        |
+| Number of events (%)                                  | 122 (51.7)                                            | 132 (54.3)                                                                 |
+| Median PFS, months (95% CI)                           | 12.8 (11.2, 15.9)                                     | 7.1 (6.8, 8.5)                                                             |
+| HR (95% CI) c, f P-value d,g                          | 0.53 (0.41, 0.68) <0.0001                             |                                                                            |
+| OS                                                    | OS                                                    |                                                                            |
+| Number of patients e                                  | 236                                                   | 243                                                                        |
+| Number of events (%)                                  | 94 (39.8)                                             | 148 (60.9)                                                                 |
+| Median OS, months (95% CI)                            | 30.3 (21.7, NE)                                       | 15.1 (13.7, 17.7)                                                          |
+| HR (95% CI) c, f p-value d,g                          | 0.49 (0.38, 0.63) <0.0001                             |                                                                            |
+| Median duration of follow-up, months (95% CI)         | 21.8 (20.4, 23.4)                                     | 22.2 (18.9, 23.5)                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 4: Study C4221015: Kaplan-Meier plot of Overall Survival (cut-off date: 06 January 2025)
 
 <!-- image -->
 
@@ -971,11 +1081,9 @@ The analytical sensitivity was assessed through the Limit of Detection (LoD) stu
 
 A total of 98 patients were enrolled and treated with encorafenib 450 mg orally once daily and binimetinib 45 mg orally twice daily. Treatment continued until disease progression or unacceptable toxicity.
 
-The primary efficacy outcome measure was objective response rate (ORR) and was according to RECIST v1.1 as evaluated by an Independent Radiology Review (IRR). Secondary endpoints included duration of response (DoR), disease control rate (DCR), PFS and OS. Results of the primary analysis
+The primary efficacy outcome measure was objective response rate (ORR) and was according to RECIST v1.1 as evaluated by an Independent Radiology Review (IRR). Secondary endpoints included duration of response (DoR), disease control rate (DCR), PFS and OS. Results of the primary analysis with 18.2 months for treatment naïve and 12.8 months previously treated patients are presented below.
 
 <div style=\"page-break-after: always\"></div>
-
-with 18.2 months for treatment naïve and 12.8 months previously treated patients are presented below.
 
 Of the 98 patients enrolled in this study, 59 (60.2%) patients were treatment naïve. The median age of patients was 70 years (47-86), 53% were female, 88% were white and 30% had never smoked. 74% had a baseline ECOG performance status of 1 (67.8 % of participants had a baseline PS 1 in the treatment naïve population and 82.1 % in the previously treated population). All patients had metastatic disease of which 8% had brain metastases at baseline and 97% had adenocarcinoma.
 
@@ -985,9 +1093,9 @@ At the time of the primary analysis, the primary endpoint of IRR-assessed ORR in
 
 (10.3%) CRs and 14 (35.9%) PRs.
 
-Results updated with an additional 10-month follow-up (median duration of exposure of 16.3 months in treatment naïve patients and 5.5 months in previously treated patients) are provided in Table 9.
+Results updated with an additional 10-month follow-up (median duration of exposure of 16.3 months in treatment naïve patients and 5.5 months in previously treated patients) are provided in Table 10.
 
-Table 9: Study ARRAY-818-202: Efficacy Results
+Table 10: Study ARRAY-818-202: Efficacy Results
 
 |                             | Encorafenib with Binimetinib   | Encorafenib with Binimetinib   |
 |-----------------------------|--------------------------------|--------------------------------|
@@ -1006,9 +1114,13 @@ Table 9: Study ARRAY-818-202: Efficacy Results
 
 In the safety analysis of pooled studies, the incidence of new QTcF prolongation &gt;500 ms was 1.1% (4/363) in the Combo 450 ISP (n = 372), and 2.5% (5/203) in the encorafenib single agent group of patients with melanoma. QTcF prolongation of &gt;60 ms compared to pre-treatment values was observed in 6.0% (22/364) patients in the Combo 450 ISP, and in 3.4% (7/204) in the encorafenib single agent group (see sections 4.2 and 4.4).
 
-In the safety analysis of the Phase 3 (ARRAY-818-302) safety set in colorectal indication, the incidence of new QTcF prolongation &gt;500 ms was 3.2% (7/216) and QTcF prolongation of &gt;60 ms compared to pre-treatment values was observed in 8.8% (19/216) of patients of the encorafenib + cetuximab arm (see sections 4.2 and 4.4).
+In the safety analysis of the Phase 3 (ARRAY-818-302) safety set in colorectal indication for patients who have received prior systemic therapy, the incidence of new QTcF prolongation &gt;500 ms was 2.8% (6/216) and QTcF prolongation of &gt;60 ms compared to pre-treatment values was observed in 8.8% (19/216) of patients of the encorafenib + cetuximab arm (see sections 4.2 and 4.4).
+
+In the safety analysis of the pooled EC+FOLFOX population (Study C4221015, BREAKWATER) safety set in colorectal indication in first line treatment, the incidence of new QTcF prolongation
 
 <div style=\"page-break-after: always\"></div>
+
+&gt;500 ms was 4% (10/253) and QTcF prolongation of &gt;60 ms compared to pre-treatment values was observed in 11% (29/253) of patients (see sections 4.2 and 4.4).
 
 ## Paediatric population
 
@@ -1016,7 +1128,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of encorafenib were studied in healthy subjects and patients with solid tumours. The pharmacokinetics of encorafenib have been shown to be approximatively dose linear after single and multiples doses. After repeat once-daily dosing, steady-state conditions were reached within 15 days. The accumulation ratio of approximately 0.5 is likely due to auto-induction of CYP3A4. The inter-subject variability (CV%) of AUC is ranged from 12.3% to 68.9%.
+The pharmacokinetics of encorafenib were studied in healthy subjects and patients with solid tumours. The pharmacokinetics of encorafenib have been shown to be approximatively dose linear after single and multiples doses. After repeat once-daily dosing, steady-state conditions were reached within 15 days. The accumulation ratio of approximately 0.5 is likely due to auto-induction of CYP3A4. The inter-subject variability (CV%) of AUC ranged from 12.3% to 68.9%.
 
 ## Absorption
 
@@ -1036,15 +1148,13 @@ Following a single oral dose of 100 mg [ 14 C] encorafenib in healthy subjects, 
 
 ## Medicinal product interactions
 
-No drug drug interaction was evidenced between encorafenib and cetuximab.
-
-## Effect of CYP enzymes on encorafenib
-
-Encorafenib is metabolised by CYP3A4, CYP2C19 and CYP2D6. In vitro , CYP3A4 was predicted to be the major enzyme contributing to total oxidative clearance of encorafenib in human liver microsomes (~83.3%), followed by CYP2C19 and CYP2D6 (~16.0% and 0.71%, respectively). The effect of co-administering a strong CYP3A4 inducer on encorafenib exposure has not been studied in a dedicated trial. Repeat dose administration of encorafenib 450 mg once daily and
+No drug drug interaction was evidenced between encorafenib and cetuximab, and between encorafenib and FOLFOX.
 
 <div style=\"page-break-after: always\"></div>
 
-binimetinib 45 mg twice daily in melanoma patients with modafinil, a moderate CYP3A4 inducer, decreased encorafenib steady-state AUC by 24% and Cmax by 20%, compared to encorafenib alone.
+## Effect of CYP enzymes on encorafenib
+
+Encorafenib is metabolised by CYP3A4, CYP2C19 and CYP2D6. In vitro , CYP3A4 was predicted to be the major enzyme contributing to total oxidative clearance of encorafenib in human liver microsomes (~83.3%), followed by CYP2C19 and CYP2D6 (~16.0% and 0.71%, respectively). The effect of co-administering a strong CYP3A4 inducer on encorafenib exposure has not been studied in a dedicated trial. Repeat dose administration of encorafenib 450 mg once daily and binimetinib 45 mg twice daily in melanoma patients with modafinil, a moderate CYP3A4 inducer, decreased encorafenib steady-state AUC by 24% and Cmax by 20%, compared to encorafenib alone.
 
 ## Effect of encorafenib on CYP substrates
 
@@ -1066,9 +1176,9 @@ In vitro , encorafenib inhibited the hepatic transporter OCT1, but is unlikely t
 
 Based on a population pharmacokinetic analysis, age was found to be a significant covariate on encorafenib volume of distribution, but with high variability. Given the small magnitude of these changes and high variability, these are unlikely to be clinically meaningful, and no dose adjustments are needed for elderly patients.
 
-No clinical data are available in the paediatric population. The safety profile in the pediatric population is unknown. In adolescents with BRAF V600-mutant metastatic melanoma aged 12 to &lt;18 years,  population pharmacokinetic simulations show that the following doses and dose reductions for the management of adverse reactions result in plasma exposure similar to that achieved in adults:
-
 <div style=\"page-break-after: always\"></div>
+
+No clinical data are available in the paediatric population. The safety profile in the pediatric population is unknown. In adolescents with BRAF V600-mutant metastatic melanoma aged 12 to &lt;18 years,  population pharmacokinetic simulations show that the following doses and dose reductions for the management of adverse reactions result in plasma exposure similar to that achieved in adults:
 
 - Weighing 40 kg and more: the adult dose 450 mg QD with the same dose reductions: 300 and 225 mg QD.
 - Weighing between 30 and &lt;40 kg: 300 mg QD, dose reduction to 225 mg QD and then 150 mg QD,
@@ -1100,11 +1210,11 @@ Encorafenib undergoes minimal renal elimination. No formal clinical study has be
 
 In the 4-week and 13-week rat toxicity studies, clinical signs, reduced body weight reduced epididymides and prostate weights and microscopic findings in testes, epididymides, stomach and skin were noted. Partial reversibility of these findings was noted after a 4-week recovery period. No NOAEL could be established for the 4-week study. The NOAEL determined in the 13-week study was more than 10-times human therapeutic exposures.
 
-In the 4-week and 13-week monkey toxicity study, isolated/sporadic episodes of emesis and diarrhoea as well as ophthalmic lesions were observed at slightly above human therapeutic exposures. Ophthalmic lesions were partially reversible and consisted of a separation or detachment in the retina between the outer rods and cones layer and retinal pigmented epithelium at the central macula at the
-
 <div style=\"page-break-after: always\"></div>
 
-fovea. This observation was similar to that described in humans as central serous-like chorioretinopathy or central serous retinopathy.
+In the 4-week and 13-week monkey toxicity study, isolated/sporadic episodes of emesis and diarrhoea
+
+as well as ophthalmic lesions were observed at slightly above human therapeutic exposures. Ophthalmic lesions were partially reversible and consisted of a separation or detachment in the retina between the outer rods and cones layer and retinal pigmented epithelium at the central macula at the fovea. This observation was similar to that described in humans as central serous-like chorioretinopathy or central serous retinopathy.
 
 ## Encorafenib was not genotoxic.
 
@@ -1132,6 +1242,8 @@ Gelatin (E441) Titanium dioxide (E171) Iron oxide red (E172) Iron oxide yellow (
 
 Shellac (E904) Iron oxide black (E172) Propylene glycol (E1520)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
@@ -1139,8 +1251,6 @@ Not applicable.
 ## 6.3 Shelf life
 
 3 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -1178,7 +1288,9 @@ France
 
 Braftovi 50 mg hard capsules
 
-EU/1/18/1314/001 28x1 hard capsules EU/1/18/1314/003 112x1 hard capsules
+EU/1/18/1314/001 28x1 hard capsules
+
+EU/1/18/1314/003 112x1 hard capsules
 
 Braftovi 75 mg hard capsules
 
@@ -1187,6 +1299,8 @@ EU/1/18/1314/002 42x1 hard capsules EU/1/18/1314/004 168x1 hard capsules
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 September 2018
+
+<div style=\"page-break-after: always\"></div>
 
 Date of latest renewal: 23 June 2023
 
@@ -1220,8 +1334,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1298,7 +1410,9 @@ France
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/18/1314/001 28x1 hard capsules EU/1/18/1314/003 112x1 hard capsules
+EU/1/18/1314/001 28x1 hard capsules
+
+EU/1/18/1314/003 112x1 hard capsules
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1324,7 +1438,9 @@ braftovi 50 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1363,7 +1479,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Braftovi 75 mg hard capsules encorafenib
+Braftovi 75 mg hard capsules
+
+encorafenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1404,9 +1522,7 @@ Store below 30°C. Store in the original package in order to protect from moistu
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-PIERRE FABRE MEDICAMENT Les Cauquillous 81500 Lavaur
-
-France
+PIERRE FABRE MEDICAMENT Les Cauquillous 81500 Lavaur France
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1511,22 +1627,27 @@ It is used in combination with another medicine containing binimetinib to treat 
 
 When Braftovi is used in combination with binimetinib, which targets another protein that stimulates cancer cell growth, the combination slows down or stops the growth of your cancer.
 
-Braftovi is also used in combination with another medicine cetuximab, to treat adult patients with a type of large intestine cancer when it has
+Braftovi is also used to treat adult patients with a type of large intestine cancer when it has
 
 - -a particular change (mutation) in a gene responsible for producing a protein called BRAF, and
-- -spread to other parts of the body of patients who have been previously treated with other anticancer medicines
+- -spread to other parts of the body
 
-When Braftovi is used in combination with cetuximab (which binds to the epidermal growth factor receptor (EGFR)), a protein on the surface of certain cancer cells), the combination slows down or stops the growth of your cancer.
+It is used
+
+- -in combination with another medicine (cetuximab) to treat adult patients with this type of large intestine cancer when they were already treated with other anticancer medicines
+- -in combination with cetuximab and chemotherapy to treat adult patients with this type of large intestine cancer when they were never treated with other anticancer medicines.
+
+When Braftovi is used in combination with cetuximab (which binds to the epidermal growth factor receptor (EGFR), a protein on the surface of certain cancer cells) with or without chemotherapy, the combination slows down or stops the growth of your cancer.
 
 ## 2. What you need to know before you take Braftovi
 
 Before starting treatment your doctor will check for the BRAF mutation.
 
-As Braftovi is to be used in combination with binimetinib to treat melanoma and NSCLC, read the binimetinib leaflet carefully as well as this leaflet.
-
 <div style=\"page-break-after: always\"></div>
 
-As  Braftovi  is  to  be  used  in  combination  with  cetuximab  to  treat  large  intestine  cancer,  read  the cetuximab leaflet carefully as well as this leaflet.
+As Braftovi is to be used in combination with binimetinib to treat melanoma and NSCLC, read the binimetinib leaflet carefully as well as this leaflet.
+
+As  Braftovi  is  to  be  used  in  combination  with  cetuximab,  or  in  combination  with  cetuximab  and chemotherapy to treat large intestine cancer, read the leaflet of all these medicines carefully as well as this leaflet.
 
 ## Do not take Braftovi
 
@@ -1549,12 +1670,11 @@ Tell your doctor, pharmacist or nurse immediately if you get the following while
 - -Bleeding problems: Braftovi may cause serious bleeding problems. Talk to your doctor immediately if you have any symptoms of bleeding problems such as coughing up of blood, blood clots, vomit containing blood or that looks like 'coffee grounds', red or black stools that look like tar, passing blood in the urine, stomach (abdominal) pain, unusual vaginal bleeding. Also tell your doctor if you have headache, dizziness or weakness.
 - -Eye problems: Braftovi, when taken with binimetinib, can cause serious eye problems. Talk to your doctor immediately if you get blurred vision, loss of vision, or other vision changes ( e.g. coloured dots in your vision), halo (seeing blurred outline around objects). Your doctor will examine your eyes for any problems with your sight while you are taking Braftovi.
 - -Skin changes: Braftovi may cause other types of skin cancer such as cutaneous squamous cell carcinoma. New melanomas may also occur while taking Braftovi. Your doctor will check your skin for any new skin cancers before treatment, every 2 months during treatment, and for up to 6 months after you stop taking Braftovi. Tell your doctor immediately if you detect skin changes during and after treatment including: new wart, skin sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. Additionally, your doctor needs to check for squamous cell carcinoma on your head, neck, mouth and lymph glands, and you will have CT scans regularly. This is a precaution in case a squamous cell carcinoma develops inside your body. Genital examinations (for women) and anal examinations are also recommended before and at the end of your treatment.
-- -Liver problems: Braftovi can cause abnormal blood tests related to how your liver works (raised levels of liver enzymes). Your doctor will run blood tests to check your liver before and during treatment.
-- -Kidney problems: Braftovi can alter your kidney activity (often abnormal blood tests, more rarely dehydration and vomiting). Your doctor will run blood tests to monitor your kidneys
 
 <div style=\"page-break-after: always\"></div>
 
-before and during treatment. Drink plenty of fluids during treatment. Tell your doctor immediately if you vomit and become dehydrated.
+- -Liver problems: Braftovi can cause abnormal blood tests related to how your liver works (raised levels of liver enzymes). Your doctor will run blood tests to check your liver before and during treatment.
+- -Kidney problems: Braftovi can alter your kidney activity (often abnormal blood tests, more rarely dehydration and vomiting). Your doctor will run blood tests to monitor your kidneys before and during treatment. Drink plenty of fluids during treatment. Tell your doctor immediately if you vomit and become dehydrated.
 
 If you experience the following symptoms, contact your doctor immediately as this can be a lifethreatening condition: nausea, shortness of breath, irregular heartbeat, muscular cramps, seizures, clouding of urine, decrease in urine output and tiredness. These may be caused by a group of metabolic complications that can occur during treatment of cancer that are caused by the breakdown products of dying cancer cells (Tumour lysis syndrome (TLS)) and can lead to changes in kidney function (see also section 4. Possible side effects).
 
@@ -1593,13 +1713,13 @@ Contact your doctor straightaway if you become pregnant while taking Braftovi.
 
 ## Breast-feeding
 
+<div style=\"page-break-after: always\"></div>
+
 Braftovi is not recommended while breast-feeding. It is not known if Braftovi passes into breast milk. If you are breast-feeding, or planning to breast-feed, ask your doctor for advice before taking this medicine.
 
 ## Fertility
 
 Braftovi may reduce sperm count in males. This could affect the ability to father a child. Talk to your doctor if this is a concern for you.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1617,7 +1737,7 @@ The recommended dose of Braftovi  is 6 capsules of 75 mg once daily (correspondi
 
 ## For large intestine cancer treatment
 
-The recommended dose of Braftovi to treat large intestine cancer is 4 capsules of 75 mg once daily (corresponding to a daily dose of 300 mg). You will also receive treatment with another medicine cetuximab.
+The recommended dose of Braftovi to treat large intestine cancer is 4 capsules of 75 mg once daily (corresponding to a daily dose of 300 mg). You will also receive treatment with another medicine cetuximab, or with the combination of cetuximab and chemotherapy.
 
 If you have liver or kidney problems, your doctor may start you on a lower dose.
 
@@ -1625,9 +1745,9 @@ If you get serious side effects (such as heart, eye or bleeding problems) your d
 
 ## How to take Braftovi
 
-Instructions to open the blister:
-
 <!-- image -->
+
+Instructions to open the blister:
 
 - -Do not push the capsule through the blister.
 - -Separate one blister cell by bending it and gently tearing along the perforations.
@@ -1648,13 +1768,13 @@ If you vomit at any time after taking Braftovi, do not take an additional dose. 
 
 If you take more capsules than you should, contact your doctor, pharmacist or nurse straightaway. Side effects of Braftovi such as nausea, vomiting, dehydration and blurred vision may appear or worsen. If possible, show them this leaflet and the medicine package.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take Braftovi
 
 If you miss a dose of Braftovi, take it as soon as you remember. However if the missed dose is more than 12 hours late, skip that dose and take your next dose at the usual time. Then continue taking your capsules at regular times as usual.
 
 Do not take a double dose to make up for a forgotten dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you stop taking Braftovi
 
@@ -1700,9 +1820,9 @@ Muscle problems: Braftovi, when taken with binimetinib can cause breakdown of mu
 
 Other skin cancers: Treatment with Braftovi may result in a type of skin cancer such as cutaneous squamous cell carcinoma. Usually, these skin changes (see also section 2) are confined to a small area and can be removed with surgery and treatment with Braftovi can continue without interruption. Some people taking Braftovi may also notice new melanomas. These melanomas are usually removed by surgery and treatment with Braftovi can continue without interruption.
 
-Tumour lysis syndrome: Braftovi can cause a rapid breakdown of cancer cells which in some people may be fatal. Symptoms may include nausea, shortness of breath, irregular heartbeat, muscular cramps, seizures, clouding of urine, decrease in urine output and tiredness.
-
 <div style=\"page-break-after: always\"></div>
+
+Tumour lysis syndrome: Braftovi can cause a rapid breakdown of cancer cells which in some people may be fatal. Symptoms may include nausea, shortness of breath, irregular heartbeat, muscular cramps, seizures, clouding of urine, decrease in urine output and tiredness.
 
 ## Other side effects
 
@@ -1710,7 +1830,7 @@ Besides the serious side effects mentioned above, people taking Braftovi may als
 
 ## Side effects when Braftovi and binimetinib are taken together for treatment of melanoma or NSCLC
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people)
 
 - -reduced red blood cell count (anaemia)
 - -problem with the nerves resulting in pain, loss of sensation or tingling in hands and feet
@@ -1739,6 +1859,8 @@ Besides the serious side effects mentioned above, people taking Braftovi may als
 - -abnormal blood test results for liver function
 - -abnormal blood test results related to blood creatine kinase (an enzyme found in the blood that may indicate muscle inflammation or damage)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common (may affect up to 1 in 10 people)
 
 - -some types of skin tumours such as skin papilloma
@@ -1761,9 +1883,6 @@ Besides the serious side effects mentioned above, people taking Braftovi may als
 
 - -some types of skin tumours such as basal cell carcinoma
 - -weakness and paralysis of face muscles
-
-<div style=\"page-break-after: always\"></div>
-
 - -inflammation of the pancreas (pancreatitis) causing severe abdominal pain
 
 ## Side effects when Braftovi was used on its own in clinical trials conducted in patients with melanoma
@@ -1797,6 +1916,8 @@ If you continue Braftovi on its own while the other medicine (binimetinib) is te
 - -some types of benign skin tumour such as melanocytic naevus and skin papilloma
 - -abnormal blood tests results related to the liver
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common (may affect up to 1 in 10 people)
 
 - -allergic reaction that may include swelling of the face and difficulty in breathing
@@ -1816,8 +1937,6 @@ If you continue Braftovi on its own while the other medicine (binimetinib) is te
 - -inflammation of the eye (uveitis)
 - -inflammation of the pancreas (pancreatitis) causing severe abdominal pain
 - -abnormal blood test result for pancreas function (amylase)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Side effects when Braftovi is taken together with cetuximab for treatment of large intestine cancer
 
@@ -1858,6 +1977,9 @@ Besides the serious side effects mentioned above, people taking Braftovi togethe
 - -redness, skin peeling or blisters on hand and feet (palmar plantar erythrodysesthesia or hand and foot syndrome)
 - -thickening of the outer layers of the skin (hyperkeratosis)
 - -redness, chapping or cracking of the skin
+
+<div style=\"page-break-after: always\"></div>
+
 - -hair loss or thinning (alopecia)
 - -kidney failure
 - -abnormal kidney test results (creatinine elevations)
@@ -1870,11 +1992,74 @@ Besides the serious side effects mentioned above, people taking Braftovi togethe
 - -skin peeling
 - -abnormal blood test results for pancreas function (amylase, lipase)
 
+## Side effects when Braftovi is taken together with cetuximab and chemotherapy for treatment of large intestine cancer
+
+Besides the serious side effects mentioned above, people taking Braftovi together with cetuximab and chemotherapy may also get the following side effects.
+
+## Very common (may affect more than 1 in 10 people)
+
+- -reduced red blood cell count (anaemia)
+- -decrease in the number of blood platelets (which can lead to bruising or bleeding)
+- -decrease in the number of white blood cells, cells that fight infection (neutrophils)
+- -allergic reaction that may include swelling of the face and difficulty breathing
+- -loss of appetite
+- -difficulty sleeping (insomnia)
+- -problem with the nerves resulting in pain, loss of sensation or tingling in hands and feet
+- -changes in the way things taste
+- -headhache
+- -bleeding at various sites in the body
+- -feeling sick (nausea)
+- -diarrhoea
+- -being sick (vomiting)
+- -stomach pain
+- -constipation
+- -inflammation of the lining of the mouth and digestic tract
+- -skin rash of various type
+- -skin rash with a flat discoloured area or raised bumps like acne (dermatitis acneiform)
+- -dry skin
+- -hair loss or thinning (alopecia)
+- -skin darkening
+- -redness, skin peeling or blisters on hand and feet (palmar-plantar erythrodysesthesia or hand and foot syndrome)
+- -itching
+- -joint pain (arthralgia) and muscle and/or bone pain (musculosketal pain)
+- -muscle pain, weakness or spasm
+- -back pain
+- -fatigue
+- -fever
+- -infections
+- -abnormal blood test result for pancreas function (lipase)
+- -loss of weight
+- -low blood magnesium levels
+- -low blood potassium level (which can cause weekness, muscle cramps and heart rhythm disturbance)
+- -low blood level of a type of protein called albumin
+- -abnormal blood test results for liver function
+
+## Common (may affect up to 1 in 10 people)
+
+- -new moles called 'melanocytic naevus'
+
+<div style=\"page-break-after: always\"></div>
+
+- -some type of skin tumors such as basal cell carcinoma or skin papilloma
+- -dizziness
+- -fast heart beat
+- -pain in extremitis
+- -redness, chapping or cracking of the skin
+- -thickening of the outer layers of the skin (hyperkeratosis)
+- -skin peeling
+- -kidney failure
+- -upper respiratory tract infection
+- -sepsis (extreme reaction to an infection)
+- -abnormal kidney test results (creatinine elevations)
+- -abnormal blood test results for pancreas function (amylase)
+
+Uncommon (may affect up to 1 in 100 people)
+
+- -inflammation of the pancreas (pancreatitis) causing severe abdominal pain
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Braftovi
 
@@ -1886,13 +2071,17 @@ Store below 30°C. Store in the original package in order to protect from moistu
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Braftovi contains
 
 - -The active substance is encorafenib.
 
-Braftovi 50 mg hard capsules: Each hard capsule contains 50 mg encorafenib.
+Braftovi 50 mg hard capsules:
+
+Each hard capsule contains 50 mg encorafenib.
 
 Braftovi 75 mg hard capsules: Each hard capsule contains 75 mg encorafenib.
 

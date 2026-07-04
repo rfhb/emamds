@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 13:13:48
+document_datetime: 2026-06-29 16:16:59
 document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tagrisso-epar-product-information_en.pdf
 document_name: tagrisso-epar-product-information_en.pdf
 version: success
-processing_time: 25.8904721
-conversion_datetime: 2026-06-25 17:01:06.176464
+processing_time: 39.2826588
+conversion_datetime: 2026-07-04 14:38:18.943237
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 

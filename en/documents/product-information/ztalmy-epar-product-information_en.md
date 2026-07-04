@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 12:02:29
+document_datetime: 2026-07-01 12:14:46
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ztalmy-epar-product-information_en.pdf
 document_name: ztalmy-epar-product-information_en.pdf
 version: success
-processing_time: 21.9096498
-conversion_datetime: 2026-03-01 20:03:52.195702
+processing_time: 28.7639485
+conversion_datetime: 2026-07-04 14:32:35.592506
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,6 @@ Each mL of oral suspension contains 50 mg of ganaxolone.
 
 Each mL of oral suspension contains:
 
-- -0.92 mg of sodium benzoate
 - -0.00068 mg benzoic acid
 - -0.00023 mg benzyl alcohol
 - -1.02 mg methyl parahydroxybenzoate
@@ -62,17 +61,15 @@ ZTALMY is indicated for the adjunctive treatment of epileptic seizures associate
 
 Treatment should be initiated and supervised by physicians with experience in the treatment of epilepsy.
 
-Posology
+## Posology
 
-Children and adolescents
+## Children and adolescents
 
 ZTALMY should be titrated gradually to achieve individual clinical response and tolerability. Any patient not tolerating the dosing steps shown in the tables below, can be maintained at the lower dose for additional days before advancing to the next dose. If the next dose is still not tolerated, patients can drop back to the previous lower dose.
 
-ZTALMY must be administered 3 times a day. It is recommended that the total daily dose is administered in 3 equal doses throughout the day. If this is not tolerated by a patient, the dose at each
+ZTALMY must be administered 3 times a day. It is recommended that the total daily dose is administered in 3 equal doses throughout the day. If this is not tolerated by a patient, the dose at each dosing interval can be adjusted to manage symptoms (e.g., somnolence), provided that the total daily dose is administered.
 
 <div style=\"page-break-after: always\"></div>
-
-dosing interval can be adjusted to manage symptoms (e.g., somnolence), provided that the total daily dose is administered.
 
 ## Patients weighing ≤ 28 kg
 
@@ -93,12 +90,12 @@ The recommended maximum daily dose is 1 800 mg per day given in three separate d
 
 The recommended titration schedule for patients weighing more than 28 kg is shown below:
 
-| Week             | Dose (given 3 times a day)   |   mLper single dose | Total daily dose   |
-|------------------|------------------------------|---------------------|--------------------|
-| Week 1           | 150 mg                       |                   3 | 450 mg             |
-| Week 2           | 300 mg                       |                   6 | 900 mg             |
-| Week 3           | 450 mg                       |                   9 | 1 350 mg           |
-| Week 4 - ongoing | 600 mg                       |                  12 | 1 800 mg           |
+| Week             | Dose (given 3 times a day)   |   mL per single dose | Total daily dose   |
+|------------------|------------------------------|----------------------|--------------------|
+| Week 1           | 150 mg                       |                    3 | 450 mg             |
+| Week 2           | 300 mg                       |                    6 | 900 mg             |
+| Week 3           | 450 mg                       |                    9 | 1 350 mg           |
+| Week 4 - ongoing | 600 mg                       |                   12 | 1 800 mg           |
 
 ## Adults
 
@@ -141,12 +138,12 @@ The dose in patients with severe hepatic impairment weighing 28 kg or less is sh
 
 The dose in patients with severe hepatic impairment weighing more than 28 kg is shown below:
 
-| Week             | Dose (given 3 times a day)   |   mLper single dose | Total daily dose   |
-|------------------|------------------------------|---------------------|--------------------|
-| Week 1           | 50 mg                        |                   1 | 150 mg             |
-| Week 2           | 100 mg                       |                   2 | 300 mg             |
-| Week 3           | 150 mg                       |                   3 | 450 mg             |
-| Week 4 - ongoing | 200 mg                       |                   4 | 600 mg             |
+| Week             | Dose (given 3 times a day)   |   mL per single dose | Total daily dose   |
+|------------------|------------------------------|----------------------|--------------------|
+| Week 1           | 50 mg                        |                    1 | 150 mg             |
+| Week 2           | 100 mg                       |                    2 | 300 mg             |
+| Week 3           | 150 mg                       |                    3 | 450 mg             |
+| Week 4 - ongoing | 200 mg                       |                    4 | 600 mg             |
 
 Higher or lower doses may be considered in patients with severe hepatic impairment based on individual clinical response and tolerability.
 
@@ -210,7 +207,7 @@ It was not possible to assess physical dependence during clinical trials with ga
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per each daily dose, that is to say essentially 'sodium-free'.
 
-This medicinal product contains 0.92 mg sodium benzoate and 0.00068 mg benzoic acid in each mL. Benzoate salt and benzoic acid may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
+This medicinal product contains  0.00068 mg benzoic acid in each mL. Benzoic acid may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
 This medicinal product contains 0.00023 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Monitor patients less than 3 years of age for respiratory symptoms. Advise patients who are pregnant or breastfeeding of the potential risk from the excipient benzyl alcohol, which might accumulate over time and cause metabolic acidosis. Use with caution in patients with hepatic or renal impairment, because of the potential risk from the excipient benzyl alcohol which may accumulate over time and cause metabolic acidosis.
 
@@ -274,7 +271,7 @@ The  most  commonly  reported  adverse  reactions  in  clinical  trials  in  pat
 
 Adverse reactions reported with ganaxolone in a clinical trials in patients with CDD with an average exposure duration of 411.5 days (N = 102) are listed in the table below by System Organ Class and frequency.
 
-The frequencies are defined as follows: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -396,11 +393,9 @@ The pharmacokinetics of ganaxolone are generally linear between 200 mg and 600 m
 
 ## Effect of age, sex, race
 
-Population pharmacokinetic analyses demonstrated that there were no clinically relevant effects of age, sex, or race on exposure to ganaxolone. CL, V, and maximum absorbed dose all follow an allometric relationship with weight. No clinically relevant effects were observed in children with body weight below 28 kg due to weight-based dosing. Population pharmacokinetic simulations indicate that the ganaxolone exposure in adults was reversely correlated with body weight. The clinical relevance is
+Population pharmacokinetic analyses demonstrated that there were no clinically relevant effects of age, sex, or race on exposure to ganaxolone. CL, V, and maximum absorbed dose all follow an allometric relationship with weight. No clinically relevant effects were observed in children with body weight below 28 kg due to weight-based dosing. Population pharmacokinetic simulations indicate that the ganaxolone exposure in adults was reversely correlated with body weight. The clinical relevance is currently unknown as the efficacy and safety have only been demonstrated for CDD paediatric patients with a low body weight.
 
 <div style=\"page-break-after: always\"></div>
-
-currently unknown as the efficacy and safety have only been demonstrated for CDD paediatric patients with a low body weight.
 
 ## Paediatric population
 
@@ -408,7 +403,7 @@ The observed pharmacokinetic exposures in patients in study 1042-CDD-3001 were c
 
 ## Renal impairment
 
-The pharmacokinetics of ganaxolone were not significantly altered in patients with severe renal impairment. Following oral administration of a single 300 mg dose in subjects with severe renal impairment (creatinine clearance between 15 and 30 mL/min), the AUC0-inf of ganaxolone decreased 8% and Cmax decreased 11% as compared to that in subjects with normal renal function (creatinine clearance ≥ 90 mL/min as estimated by Cockcroft-Gault). Patients with end-stage renal disease were not studied.
+The pharmacokinetics of ganaxolone were not significantly altered in patients with severe renal impairment. Following oral administration of a single 300 mg dose in subjects with severe renal impairment (creatinine clearance between 15 and 30 mL/min), the AUC0-inf of ganaxolone decreased 8% and Cmax decreased 11% as compared to that in subjects with normal renal function (creatinine clearance ≥90 mL/min as estimated by Cockcroft-Gault). Patients with end-stage renal disease were not studied.
 
 ## Hepatic impairment
 
@@ -466,11 +461,9 @@ Animal studies suggest that abrupt discontinuation of ganaxolone may cause withd
 
 ## Studies with metabolites
 
-Based on in vitro data, a potential hormonal effect of metabolite M2 at clinical exposures cannot be excluded. In repeat-dose toxicity studies with direct administration of M2, for up to 6-month duration, changes in the prostate gland (decreased weight, small size, decreased secretion, and atrophy) and/or
+Based on in vitro data, a potential hormonal effect of metabolite M2 at clinical exposures cannot be excluded. In repeat-dose toxicity studies with direct administration of M2, for up to 6-month duration, changes in the prostate gland (decreased weight, small size, decreased secretion, and atrophy) and/or seminal vesicles (small size, decreased secretion, and atrophy) were observed in male rats at around clinical exposure levels (0.6 to 2.4-fold), and the clinical relevance remains unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-seminal vesicles (small size, decreased secretion, and atrophy) were observed in male rats at around clinical exposure levels (0.6 to 2.4-fold), and the clinical relevance remains unknown.
 
 In a 9-week oral M2 study in juvenile rats, signs of precocious puberty in females, adverse effects on female reproductive organs including decreased corpora lutea and follicular cysts in the ovary, and oestrous cycle disruption; in males changes in seminal vesicles (i.e. decreased weight, small appearance, atrophy), delayed male sexual maturation, and lower mean epididymis and prostate gland weight were observed at below or around clinical exposure levels (0.3 to 2-fold clinical AUC). The risk to humans for these effects is unknown.
 
@@ -478,7 +471,7 @@ In a 9-week oral M2 study in juvenile rats, signs of precocious puberty in femal
 
 ## 6.1 List of excipients
 
-Hypromellose (E464) Polyvinyl alcohol (E1203) Sodium lauryl sulfate (E487) Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Sodium benzoate (E211) Citric acid, anhydrous (E330) Sodium citrate dihydrate (E331) Artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]) Sucralose (E955) Simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethylene glycolmonostearate, glycerol monostearate, xanthan gum, benzoic acid [E210], sorbic acid, and purified water) Purified water
+Hypromellose (E464) Polyvinyl alcohol (E1203) Sodium lauryl sulfate (E487) Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Citric acid, anhydrous (E330) Sodium citrate dihydrate (E331) Artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]) Sucralose (E955) Simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethylene glycolmonostearate, glycerol monostearate, xanthan gum, benzoic acid [E210], sorbic acid, and purified water) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -505,9 +498,9 @@ Each carton contains either:
 
 Each 12 mL syringe is graduated in 0.25 mL increments and each 3 mL syringe is graduated in 0.1 mL increments.
 
-<div style=\"page-break-after: always\"></div>
-
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -530,8 +523,6 @@ Date of first authorisation: 26 July 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -595,7 +586,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ZTALMY 50 mg/mL oral suspension ganaxolone
+ZTALMY 50 mg/mL oral suspension
+
+ganaxolone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -603,21 +596,20 @@ Each mL contains 50 mg of ganaxolone.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), sodium benzoate (E211), artificial cherry flavour (including benzyl alcohol [E1519]), simethicone emulsion (including benzoic acid [E210]). See leaflet for further information.
+Also contains: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), artificial cherry flavour (including benzyl alcohol [E1519]), simethicone emulsion (including benzoic acid [E210]). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Oral suspension
+Oral suspension
 
-1 bottle pack:
-
+- 1 bottle pack:
 - 1 × 110 mL bottle
 - 2 × 12 mL reusable oral dosing syringes
 - 2 × 3 mL reusable oral dosing syringes
 
 1 bottle adaptor
 
-## 5 bottle pack:
+5 bottle pack:
 
 - 5 × 110 mL bottles
 - 5 × 12 mL reusable oral dosing syringes
@@ -678,9 +670,9 @@ ZTALMY
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -698,17 +690,17 @@ Each mL contains 50 mg of ganaxolone.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: E218, E216, E211, E1519, E210. See leaflet for further information.
+Also contains: E218, E216, E1519, E210. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Oral suspension
-
-110 mL
+Oral suspension 110 mL
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use Shake well before use.
+Read the package leaflet before use. Oral use
+
+Shake well before use.
 
 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -718,11 +710,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
-Discard 30 days after first opening.
-
-Discard by: \\_\\_\\_/\\_\\_\\_/\\_\\_\\_
+EXP Discard 30 days after first opening. Discard by: \\_\\_\\_/\\_\\_\\_/\\_\\_\\_
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -730,8 +718,8 @@ Discard by: \\_\\_\\_/\\_\\_\\_/\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -751,8 +739,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -881,9 +869,9 @@ ZTALMY can make you feel drowsy/sleepy. If affected, do not drive, ride a bicycl
 
 This medicine contains less than 1 mmol sodium (23 mg) per each mL, that is to say, it is essentially 'sodium-free'.
 
-## ZTALMY contains sodium benzoate and benzoic acid
+## ZTALMY contains benzoic acid
 
-This medicine contains 0.92 mg sodium benzoate and 0.00068 mg benzoic acid in each mL. Sodium benzoate and benzoic acid may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
+This medicine contains 0.00068 mg benzoic acid in each mL. Benzoic acid may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
 ## ZTALMY contains benzyl alcohol
 
@@ -944,19 +932,19 @@ ZTALMY is also supplied in a pack with five bottles of oral suspension, five 12 
 
 ## Preparing the bottle:
 
-| bottle in your hand and up and down well for shake the bottle well for then let the bottle stand for so that any foam that builds shaking can settle before and giving each dose of This helps you measure amount of medicine.   |                          | 1. Hold the shake it 1 minute. Always 1 minute 1 minute up during measuring ZTALMY. the correct NOTE: This   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
-| Remove the child-resistant bottle by pushing the cap turning the cap to the                                                                                                                                                      | cap on down left         |                                                                                                              |
-| Puncture and peel off                                                                                                                                                                                                            | the                      |                                                                                                              |
-| for                                                                                                                                                                                                                              | bottle                   |                                                                                                              |
-| one the                                                                                                                                                                                                                          | make                     |                                                                                                              |
-| adaptor the fully adaptor off and cause choking if                                                                                                                                                                               | hand sure it could it is |                                                                                                              |
-| bottle tight pushing the firmly into the neck of other hand, inserted. The                                                                                                                                                       |                          |                                                                                                              |
-| bottle and                                                                                                                                                                                                                       |                          |                                                                                                              |
-| the with                                                                                                                                                                                                                         |                          |                                                                                                              |
-| NOTE: This step is only the                                                                                                                                                                                                      |                          |                                                                                                              |
-|                                                                                                                                                                                                                                  | first                    |                                                                                                              |
-| induction                                                                                                                                                                                                                        |                          |                                                                                                              |
+| the bottle in your hand and it up and down well for shake the bottle well for then let the bottle stand for so that any foam that builds shaking can settle before and giving each dose of This helps you measure amount of medicine.   |                    | 1. Hold shake 1 minute. Always 1 minute 1 minute up during measuring ZTALMY. the correct NOTE: This   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|
+| Remove the child-resistant bottle by pushing the cap whilst turning the cap to the                                                                                                                                                      | cap on down left   |                                                                                                       |
+| the                                                                                                                                                                                                                                     |                    |                                                                                                       |
+| NOTE: This step is                                                                                                                                                                                                                      | for                |                                                                                                       |
+| the bottle                                                                                                                                                                                                                              | one bottle make    |                                                                                                       |
+| tight with the bottle neck of the other hand, and fully inserted. The adaptor off and cause                                                                                                                                             | hand sure it it is |                                                                                                       |
+| firmly into the the                                                                                                                                                                                                                     | could choking if   |                                                                                                       |
+| pushing adaptor                                                                                                                                                                                                                         |                    |                                                                                                       |
+| use of the bottle.                                                                                                                                                                                                                      |                    |                                                                                                       |
+|                                                                                                                                                                                                                                         | the                |                                                                                                       |
+| only                                                                                                                                                                                                                                    |                    |                                                                                                       |
+| Puncture and peel off induction                                                                                                                                                                                                         |                    |                                                                                                       |
 
 <!-- image -->
 
@@ -1040,7 +1028,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You may get the following side effects with this medicine. Tell the doctor if you have any of the following:
 
-Very common (may affect more than 1 in 10 people):
+## Very common (may affect more than 1 in 10 people):
 
 - -feeling drowsy or sleepy;
 - -fever.
@@ -1074,7 +1062,7 @@ Do not throw away any medicines in the wastewater or household waste. Ask your p
 ## What ZTALMY contains
 
 - -The active substance is ganaxolone. Each mL of oral suspension contains 50 mg of ganaxolone.
-- -The other ingredients are: hypromellose (E464), polyvinyl alcohol (E1203), sodium lauryl sulfate (E487), methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), sodium benzoate (E211), citric acid anhydrous (E330), sodium citrate dihydrate (E331), artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]), sucralose (E955), simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethelene, glycolmonostearate, glycerol monostrearate, xanthan gum, benzoic acid [E210], sorbic acid and purified water), purified water (see also section 2 'ZTALMY contains sodium'; 'ZTALMY contains sodium benzoate', 'ZTALMY contains benzoic acid', 'ZTALMY contains benzyl alcohol', and 'ZTALMY contains methyl parahydroxybenzoate and propyl parahydroxybenzoate').
+- -The other ingredients are: hypromellose (E464), polyvinyl alcohol (E1203), sodium lauryl sulfate (E487), methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), citric acid anhydrous (E330), sodium citrate dihydrate (E331), artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]), sucralose (E955), simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethylene, glycolmonostearate, glycerol monostearate, xanthan gum, benzoic acid [E210], sorbic acid and purified water), purified water (see also section 2 'ZTALMY contains sodium'; 'ZTALMY contains benzoic acid', 'ZTALMY contains benzyl alcohol', and 'ZTALMY contains methyl parahydroxybenzoate and propyl parahydroxybenzoate').
 
 ## What ZTALMY looks like and contents of the pack
 
@@ -1089,9 +1077,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Immedica Pharma AB
-
-113 63 Stockholm Sweden
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 <div style=\"page-break-after: always\"></div>
 

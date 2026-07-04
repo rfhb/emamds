@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 12:45:32
+document_datetime: 2026-07-02 11:30:38
 document_pages: 81
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lunsumio-epar-product-information_en.pdf
 document_name: lunsumio-epar-product-information_en.pdf
 version: success
-processing_time: 18.89754
-conversion_datetime: 2026-01-10 11:41:52.904246
+processing_time: 22.5562337
+conversion_datetime: 2026-07-04 14:54:23.690489
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -264,11 +264,9 @@ Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, have been repo
 
 Tumour flare has been reported in patients treated with Lunsumio (see section 4.8). Manifestations included new or worsening pleural effusions, localised pain and swelling at the sites of lymphoma lesions and tumour inflammation. Consistent with the mechanism of action of Lunsumio, tumour flare is likely due to the influx of T-cells into tumour sites following Lunsumio administration.
 
-There are no specific risk factors for tumour flare that have been identified, however, there is a heightened risk of compromise and morbidity due to mass effect secondary to tumour flare in patients
+There are no specific risk factors for tumour flare that have been identified, however, there is a heightened risk of compromise and morbidity due to mass effect secondary to tumour flare in patients with bulky tumours located in close proximity to airways and/or a vital organ. Patients treated with Lunsumio should be monitored and evaluated for tumour flare at critical anatomical sites.
 
 <div style=\"page-break-after: always\"></div>
-
-with bulky tumours located in close proximity to airways and/or a vital organ. Patients treated with Lunsumio should be monitored and evaluated for tumour flare at critical anatomical sites.
 
 ## Tumour lysis syndrome (TLS)
 
@@ -412,11 +410,9 @@ Across a broader clinical trial population, Immune Effector Cell-Associated Neur
 
 ## Tumour flare
 
-In patients treated with Lunsumio intravenous infusion or subcutaneous injection, tumour flare (including pleural effusion and tumour inflammation) occurred in 3.1% (11/357) of patients, which
+In patients treated with Lunsumio intravenous infusion or subcutaneous injection, tumour flare (including pleural effusion and tumour inflammation) occurred in 3.1% (11/357) of patients, which included 1.4% grade 2 and 1.4% grade 3 events. The median time to onset was 13 days (range 2-84 days), and median duration was 36 days (range 15-105 days).
 
 <div style=\"page-break-after: always\"></div>
-
-included 1.4% grade 2 and 1.4% grade 3 events. The median time to onset was 13 days (range 2-84 days), and median duration was 36 days (range 15-105 days).
 
 ## Tumour Lysis Syndrome (TLS)
 
@@ -979,11 +975,9 @@ Polysorbates may cause allergic reactions.
 
 No interaction studies have been performed.
 
-A transient clinically relevant effect on CYP450 substrates with a narrow therapeutic index (e.g. warfarin, voriconazole, cyclosporine, etc) cannot be excluded, since initiation of Lunsumio subcutaneous injection treatment causes a transient increase in cytokine levels which may cause
+A transient clinically relevant effect on CYP450 substrates with a narrow therapeutic index (e.g. warfarin, voriconazole, cyclosporine, etc) cannot be excluded, since initiation of Lunsumio subcutaneous injection treatment causes a transient increase in cytokine levels which may cause inhibition of CYP450 enzymes. On initiation of Lunsumio subcutaneous injection therapy in patients being treated with CYP450 substrates with a narrow therapeutic index, therapeutic monitoring should be considered. The dose of the concomitant medicinal product should be adjusted as needed.
 
 <div style=\"page-break-after: always\"></div>
-
-inhibition of CYP450 enzymes. On initiation of Lunsumio subcutaneous injection therapy in patients being treated with CYP450 substrates with a narrow therapeutic index, therapeutic monitoring should be considered. The dose of the concomitant medicinal product should be adjusted as needed.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1208,11 +1202,9 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 ## 5.2 Pharmacokinetic properties
 
-The Lunsumio subcutaneous monotherapy dosing regimen of 5/45/45 mg was found to be pharmokinetically non-inferior to the Lunsumio intravenous infusion 1/2/60/30 mg monotherapy dosing regimen in relapsed or refractory follicular lymphoma patients with ≥ 2 prior therapies. The
+The Lunsumio subcutaneous monotherapy dosing regimen of 5/45/45 mg was found to be pharmokinetically non-inferior to the Lunsumio intravenous infusion 1/2/60/30 mg monotherapy dosing regimen in relapsed or refractory follicular lymphoma patients with ≥ 2 prior therapies. The subcutaneous intravenous  geometric mean ratio (90% CI) was 1.39 (1.20 - 1.61) for CtroughCYC3\\_OBS and 1.06 (0.92 - 1.21) for AUC0-84.
 
 <div style=\"page-break-after: always\"></div>
-
-subcutaneous intravenous  geometric mean ratio (90% CI) was 1.39 (1.20 - 1.61) for CtroughCYC3\\_OBS and 1.06 (0.92 - 1.21) for AUC0-84.
 
 Similar to Lunsumio intravenous infusion, Lunsumio subcutaneous injection pharmacokinetic exposure increased in an approximately dose-proportional manner over the dose ranges studied. As compared to the intravenous route, the subcutaneous route maintained a high relative bioavailability, and had a slower absorption resulting in a lower Cmax, and delayed Tmax.
 
@@ -1362,9 +1354,13 @@ The release of pharmaceuticals into the environment should be minimised. Medicin
 
 ●
 
-Place all used needles and syringes into a sharps container (puncture-proof disposable container).
+Place all used needles and syringes into a sharps container (puncture-proof disposable
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements
+container).
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements
 
 7.
 
@@ -1464,7 +1460,7 @@ This being a conditional marketing authorisation and pursuant to Article 14-a(4)
 
 | Description                                                                                                                                                                                                                                                                                                                                                                                              | Due Date   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to provide further evidence of efficacy and safety of mosunetuzumab in follicular lymphoma, the MAHwill provide results from Study GO42909, a randomised, open-label, multicentre trial evaluating mosunetuzumab in combination with lenalidomide in comparison to rituximab in combination with lenalidomide in patients with follicular lymphoma after at least one line of systemic therapy. | Q3 2026    |
+| In order to provide further evidence of efficacy and safety of mosunetuzumab in follicular lymphoma, the MAHwill provide results from Study GO42909, a randomised, open-label, multicentre trial evaluating mosunetuzumab in combination with lenalidomide in comparison to rituximab in combination with lenalidomide in patients with follicular lymphoma after at least one line of systemic therapy. | Q1 2028    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1484,7 +1480,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lunsumio 1 mg concentrate for solution for infusion mosunetuzumab
+Lunsumio 1 mg concentrate for solution for infusion
+
+mosunetuzumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1616,7 +1614,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lunsumio 30 mg concentrate for solution for infusion mosunetuzumab
+Lunsumio 30 mg concentrate for solution for infusion
+
+mosunetuzumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1688,7 +1688,7 @@ EU/1/22/1649/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1780,7 +1780,9 @@ Do not shake the vial
 
 ## On the inside flap of the outer carton
 
-5 mg subcutaneous
+5 mg
+
+subcutaneous
 
 Apply peel-off label from the enclosed leaflet to the syringe
 
@@ -1864,7 +1866,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lunsumio 45 mg solution for injection mosunetuzumab
+Lunsumio 45 mg solution for injection
+
+mosunetuzumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1902,7 +1906,9 @@ Do not shake the vial
 
 ## On the inside flap of the outer carton
 
-45 mg subcutaneous
+45 mg
+
+subcutaneous
 
 Apply peel-off label from the enclosed leaflet to the syringe
 
@@ -2761,7 +2767,9 @@ Symptoms can include:
 
 ## Immune effector cell-associated neurotoxicity syndrome (ICANS)
 
-The symptoms can occur days or weeks after you receive the dose and may initially be subtle. Symptoms can include:
+The symptoms can occur days or weeks after you receive the dose and may initially be subtle.
+
+Symptoms can include:
 
 -  confusion/disorientation
 -  tiredness

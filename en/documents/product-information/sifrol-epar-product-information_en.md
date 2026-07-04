@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-04-25 12:07:53
+document_datetime: 2026-06-30 10:29:24
 document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sifrol-epar-product-information_en.pdf
 document_name: sifrol-epar-product-information_en.pdf
 version: success
-processing_time: 23.828235
-conversion_datetime: 2025-12-28 13:57:44.639821
+processing_time: 39.891817
+conversion_datetime: 2026-07-04 14:44:11.288957
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -26,9 +26,7 @@ docling_version:
 
 SIFROL 0.088 mg tablets
 
-SIFROL 0.18 mg tablets SIFROL 0.35 mg tablets
-
-SIFROL 0.7 mg tablets
+SIFROL 0.18 mg tablets SIFROL 0.35 mg tablets SIFROL 0.7 mg tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -50,9 +48,7 @@ Each tablet contains 1.0 mg pramipexole dihydrochloride monohydrate equivalent t
 
 ## Please note:
 
-Pramipexole doses as published in the literature refer to the salt form.
-
-Therefore, doses will be expressed in terms of both pramipexole base and pramipexole salt (in brackets).
+Pramipexole doses as published in the literature refer to the salt form. Therefore, doses will be expressed in terms of both pramipexole base and pramipexole salt (in brackets).
 
 For the full list of excipients, see section 6.1.
 
@@ -153,11 +149,9 @@ Patient's response should be evaluated after 3 months treatment and the need for
 
 ## Treatment discontinuation
 
-Since the daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) SIFROL can be discontinued without tapering off. In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was
+Since the daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) SIFROL can be discontinued without tapering off. In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment. This effect was found to be similar across all doses.
 
 <div style=\"page-break-after: always\"></div>
-
-observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment. This effect was found to be similar across all doses.
 
 ## Renal impairment
 
@@ -205,11 +199,9 @@ Axial dystonia including antecollis, camptocormia and pleurothotonus (Pisa Syndr
 
 ## Sudden onset of sleep and somnolence
 
-Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in
+Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson's disease. Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly. Patients must be informed of this and advised to exercise caution while driving or operating machines during treatment with SIFROL. Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines. Furthermore a reduction of the dose or termination of therapy may be considered. Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see sections 4.5, 4.7 and section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-patients with Parkinson's disease. Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly. Patients must be informed of this and advised to exercise caution while driving or operating machines during treatment with SIFROL. Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines. Furthermore a reduction of the dose or termination of therapy may be considered. Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see sections 4.5, 4.7 and section 4.8).
 
 ## Impulse control disorders
 
@@ -334,7 +326,7 @@ Table 1: Parkinson's disease
 
 The most commonly (≥ 5%) reported adverse drug reactions in patients with Restless Legs Syndrome treated with pramipexole were nausea, headache, dizziness and fatigue. Nausea and fatigue were more often reported in female patients treated with SIFROL (20.8% and 10.5%, respectively) compared to males (6.7% and 7.3%, respectively).
 
-Table 2: Restless Legs Syndrome
+## Table 2: Restless Legs Syndrome
 
 | Body System                 | Very common (≥ 1/10)                | Common (≥ 1/100 to < 1/10)    | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                                                                                                                      | Rare (≥ 1/10 000 to < 1/1 000)   | Not known   |
 |-----------------------------|-------------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|
@@ -441,11 +433,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Clinical efficacy and safety in Tourette Disorder
 
-The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study. A total of 63 patients were randomised (43 on pramipexole, 20 on placebo). The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS). No difference was observed for pramipexole as compared to placebo for either the primary endpoint or for any of the secondary efficacy endpoints including YGTSS total score, Patient Global Impression of Improvement (PGI-I), Clinical Global Impression of Improvement (CGI-I), or
+The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study. A total of 63 patients were randomised (43 on pramipexole, 20 on placebo). The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS). No difference was observed for pramipexole as compared to placebo for either the primary endpoint or for any of the secondary efficacy endpoints including YGTSS total score, Patient Global Impression of Improvement (PGI-I), Clinical Global Impression of Improvement (CGI-I), or Clinical Global Impressions of Severity of Illness (CGI-S). Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%). Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-Clinical Global Impressions of Severity of Illness (CGI-S). Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%). Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -539,7 +529,7 @@ Date of latest renewal: 14 October 2007
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,11 +640,9 @@ Doses should be increased gradually from a starting dose of 0.26 mg of base (0.3
 
 If a further dose increase is necessary the daily dose should be increased by 0.52 mg of base (0.75 mg of salt) at weekly intervals up to a maximum dose of 3.15 mg of base (4.5 mg of salt) per day. However, it should be noted that the incidence of somnolence is increased at doses higher than 1.05 mg of base (1.5 mg of salt) per day (see section 4.8).
 
-Patients already taking SIFROL tablets may be switched to SIFROL prolonged-release tablets
+Patients already taking SIFROL tablets may be switched to SIFROL prolonged-release tablets overnight, at the same daily dose. After switching to SIFROL prolonged-release tablets, the dose may be adjusted depending on the patient's therapeutic response (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-overnight, at the same daily dose. After switching to SIFROL prolonged-release tablets, the dose may be adjusted depending on the patient's therapeutic response (see section 5.1).
 
 ## Maintenance treatment
 
@@ -728,11 +716,9 @@ Patients should be regularly monitored for the development of mania and delirium
 
 ## Patients with psychotic disorders
 
-Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks. Co-administration of antipsychotic medicinal products with pramipexole
+Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks. Co-administration of antipsychotic medicinal products with pramipexole should be avoided (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-should be avoided (see section 4.5).
 
 ## Ophthalmologic monitoring
 
@@ -861,11 +847,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no clinical experience with massive overdose. The expected adverse reactions would be those related to the pharmacodynamic profile of a dopamine agonist, including nausea, vomiting, hyperkinesia, hallucinations, agitation and hypotension. There is no established antidote for overdose of a dopamine agonist. If signs of central nervous system stimulation are present, a neuroleptic agent
+There is no clinical experience with massive overdose. The expected adverse reactions would be those related to the pharmacodynamic profile of a dopamine agonist, including nausea, vomiting, hyperkinesia, hallucinations, agitation and hypotension. There is no established antidote for overdose of a dopamine agonist. If signs of central nervous system stimulation are present, a neuroleptic agent may be indicated. Management of the overdose may require general supportive measures, along with gastric lavage, intravenous fluids, administration of activated charcoal and electrocardiogram monitoring.
 
 <div style=\"page-break-after: always\"></div>
-
-may be indicated. Management of the overdose may require general supportive measures, along with gastric lavage, intravenous fluids, administration of activated charcoal and electrocardiogram monitoring.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -929,11 +913,9 @@ Pramipexole shows linear kinetics and a small inter-patient variation of plasma 
 
 ## Distribution
 
-In humans, the protein binding of pramipexole is very low (&lt; 20%) and the volume of distribution is
+In humans, the protein binding of pramipexole is very low (&lt; 20%) and the volume of distribution is large (400 L). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
 
 <div style=\"page-break-after: always\"></div>
-
-large (400 L). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
 
 ## Biotransformation
 
@@ -973,9 +955,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store in the original package in order to protect from moisture.
-
-This medicinal product does not require any special temperature storage conditions.
+Store in the original package in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
 
 ## 6.5 Nature and contents of container
 
@@ -997,9 +977,7 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-SIFROL 0.26 mg prolonged-release tablets
-
-EU/1/97/050/013-015
+SIFROL 0.26 mg prolonged-release tablets EU/1/97/050/013-015
 
 SIFROL 0.52 mg prolonged-release tablets EU/1/97/050/016-018
 
@@ -1017,9 +995,7 @@ SIFROL 2.62 mg prolonged-release tablets
 
 EU/1/97/050/031-033
 
-SIFROL 3.15 mg prolonged-release tablets
-
-EU/1/97/050/025-027
+SIFROL 3.15 mg prolonged-release tablets EU/1/97/050/025-027
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1031,7 +1007,7 @@ Date of latest renewal: 14 October 2007
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1062,20 +1038,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1095,7 +1071,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 0.088 mg tablets pramipexole
+SIFROL 0.088 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1131,10 +1109,7 @@ Do not store above 30 °C.
 
 Store in the original package in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1164,13 +1139,15 @@ SIFROL 0.088 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1205,7 +1182,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 0.18 mg tablets pramipexole
+SIFROL 0.18 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1255,7 +1234,7 @@ EU/1/97/050/003 [30 tablets] EU/1/97/050/004 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1277,9 +1256,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1314,7 +1293,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 0.35 mg tablets pramipexole
+SIFROL 0.35 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1352,7 +1333,7 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1367,7 +1348,7 @@ EU/1/97/050/011 [30 tablets] EU/1/97/050/012 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1387,9 +1368,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1464,8 +1445,7 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1479,7 +1459,7 @@ EU/1/97/050/005 [30 tablets] EU/1/97/050/006 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1499,9 +1479,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1536,7 +1516,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 0.26 mg prolonged-release tablets pramipexole
+SIFROL 0.26 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1548,7 +1530,7 @@ Each prolonged-release tablet contains 0.375 mg pramipexole dihydrochloride mono
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
+- 30 prolonged-release tablets
 
 100 prolonged-release tablets
 
@@ -1609,7 +1591,7 @@ Lot
 
 SIFROL 0.26 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1623,9 +1605,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1658,7 +1640,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 0.52 mg prolonged-release tablets pramipexole
+SIFROL 0.52 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1670,7 +1654,7 @@ Each prolonged-release tablet contains 0.75 mg pramipexole dihydrochloride monoh
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
+- 30 prolonged-release tablets
 
 100 prolonged-release tablets
 
@@ -1745,9 +1729,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1780,7 +1764,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 1.05 mg prolonged-release tablets pramipexole
+SIFROL 1.05 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1853,7 +1839,7 @@ Lot
 
 SIFROL 1.05 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1867,9 +1853,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1902,7 +1888,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 1.57 mg prolonged-release tablets pramipexole
+SIFROL 1.57 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1989,9 +1977,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2024,7 +2012,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 2.1 mg prolonged-release tablets pramipexole
+SIFROL 2.1 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2036,7 +2026,7 @@ Each prolonged-release tablet contains 3 mg pramipexole dihydrochloride monohydr
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
+- 30 prolonged-release tablets
 
 100 prolonged-release tablets
 
@@ -2097,7 +2087,7 @@ Lot
 
 SIFROL 2.1 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2111,9 +2101,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2146,7 +2136,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 2.62 mg prolonged-release tablets pramipexole
+SIFROL 2.62 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2233,9 +2225,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2268,7 +2260,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIFROL 3.15 mg prolonged-release tablets pramipexole
+SIFROL 3.15 mg prolonged-release tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2280,7 +2274,7 @@ Each prolonged-release tablet contains 4.5 mg pramipexole dihydrochloride monohy
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
+- 30 prolonged-release tablets
 
 100 prolonged-release tablets
 
@@ -2355,9 +2349,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2408,7 +2402,8 @@ SIFROL 0.18 mg tablets SIFROL 0.35 mg tablets SIFROL 0.7 mg tablets pramipexole
 3. How to take SIFROL
 4. Possible side effects
 5. How to store SIFROL
-6. Contents of the pack and other information
+6. 6.
+7. Contents of the pack and other information
 
 ## 1. What SIFROL is and what it is used for
 
@@ -2780,17 +2775,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 ## Manufacturer
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
-
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2798,9 +2785,7 @@ Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## България
 
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България
-
-Тел: +359 2 958 79 98
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ клон България Тел: +359 2 958 79 98
 
 ## Česká republika
 
@@ -2808,7 +2793,7 @@ Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Deutschland
 
@@ -2840,15 +2825,11 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -2868,7 +2849,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2892,9 +2873,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 
 
 ## Slovenská republika
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
-
-Tel: +421 2 5810 1211
+Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka Tel: +421 2 5810 1211
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2916,7 +2895,7 @@ Tel: +371 67 240 011
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Suomi/Finland
 
@@ -2929,12 +2908,6 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
 
 ## Package leaflet: Information for the user
 
@@ -3241,11 +3214,7 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim
 
 Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
 
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3261,7 +3230,7 @@ Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Deutschland
 
@@ -3293,7 +3262,9 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lietuva
 
@@ -3317,7 +3288,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -3341,9 +3312,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 
 
 ## Slovenská republika
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
-
-Tel: +421 2 5810 1211
+Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka Tel: +421 2 5810 1211
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3355,7 +3324,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
+
+Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -3365,7 +3336,7 @@ Tel: +371 67 240 011
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Suomi/Finland
 
@@ -3378,9 +3349,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

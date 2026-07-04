@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-27 14:04:21
+document_datetime: 2026-07-01 11:20:14
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lynkuet-epar-product-information_en.pdf
 document_name: lynkuet-epar-product-information_en.pdf
 version: success
-processing_time: 11.6216358
-conversion_datetime: 2025-12-27 14:26:22.975262
+processing_time: 13.1637712
+conversion_datetime: 2026-07-04 14:53:46.648193
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -341,11 +341,9 @@ Table 3: Key secondary endpoints (OASIS 1 and 2)
 
 ## VMS
 
-CI: confidence interval, LS-mean: least squares mean estimated from a mixed model for repeated measures analysis of covariance, MENQOL: menopause-specific quality of life, PROMIS SD SF 8b: patient-reported outcomes measurement information system sleep disturbance short form 8b, SD: standard deviation, SE: standard error
+CI: confidence interval, LS-mean: least squares mean estimated from a mixed model for repeated measures analysis of covariance, MENQOL: menopause-specific quality of life, PROMIS SD SF 8b: patient-reported outcomes measurement information system sleep disturbance short form 8b, SD: standard deviation, SE: standard error Treatment of moderate to severe VMS caused by adjuvant endocrine therapy (OASIS 4) The efficacy and safety of elinzanetant for the treatment of moderate to severe VMS caused by adjuvant endocrine therapy were studied in a randomised, double-blind, placebo-controlled, multicentre phase III study (OASIS 4) in women with, or at high risk for, developing hormone-receptor positive breast cancer. A total of 474 women were randomised 2:1 to receive 120 mg elinzanetant or placebo once daily at bedtime for 12 weeks, followed by elinzanetant for 40 weeks, for a total treatment of up to 52 weeks. Of these, 473 women had a history of breast cancer and 1 woman had a high risk of developing breast cancer. Women who had at least 35 moderate to severe VMS, including VMS at night, per week were enrolled in OASIS 4. All women received concurrently adjuvant endocrine therapy with tamoxifen (55.4%) or aromatase inhibitors (44.6% e.g. anastrozole), both with and without the use of GnRH analogues.
 
 <div style=\"page-break-after: always\"></div>
-
-Treatment of moderate to severe VMS caused by adjuvant endocrine therapy (OASIS 4) The efficacy and safety of elinzanetant for the treatment of moderate to severe VMS caused by adjuvant endocrine therapy were studied in a randomised, double-blind, placebo-controlled, multicentre phase III study (OASIS 4) in women with, or at high risk for, developing hormone-receptor positive breast cancer. A total of 474 women were randomised 2:1 to receive 120 mg elinzanetant or placebo once daily at bedtime for 12 weeks, followed by elinzanetant for 40 weeks, for a total treatment of up to 52 weeks. Of these, 473 women had a history of breast cancer and 1 woman had a high risk of developing breast cancer. Women who had at least 35 moderate to severe VMS, including VMS at night, per week were enrolled in OASIS 4. All women received concurrently adjuvant endocrine therapy with tamoxifen (55.4%) or aromatase inhibitors (44.6% e.g. anastrozole), both with and without the use of GnRH analogues.
 
 The patient demographics were generally balanced between treatment groups. The mean age of women was 51 years (range 28-70 years) with 18 women (3.8%) of 65 years or older. Most women were White (88.2%), 1.5% Black or African American, 0.4% Asian, and 2.5% with Hispanic or Latino ethnicity. The study population included women with prior hysterectomy (12.4%) or prior uni-/bilateral oophorectomy (12.2%).
 
@@ -370,11 +368,9 @@ Table 4: Mean change in frequency of moderate to severe VMS from baseline to wee
 
 a one-sided p-value (α=0.025)
 
-CI: confidence interval, LS-mean: least squares mean estimated from a mixed model for repeated measures analysis of covariance, SD: standard deviation, SE: standard error
+CI: confidence interval, LS-mean: least squares mean estimated from a mixed model for repeated measures analysis of covariance, SD: standard deviation, SE: standard error In OASIS 4 the women treated with elinzanetant showed statistically significant results compared to placebo for the key secondary endpoints:
 
 <div style=\"page-break-after: always\"></div>
-
-In OASIS 4 the women treated with elinzanetant showed statistically significant results compared to placebo for the key secondary endpoints:
 
 - -improvement in PROMIS SD SF 8b total T-score (sleep disturbances) from baseline to week 12
 - -improvement in MENQOL total score (menopause-related quality of life) from baseline to week 12.
@@ -536,7 +532,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-30 months
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -544,7 +540,9 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-PVC/PCTFE-Aluminium/PET/paper blister containing 12 soft capsules (6 × 2 as unit dose). Each pack contains 24 or 60 soft capsules.
+PVC/PCTFE-Aluminium/PET/paper blister containing 12 soft capsules (6 × 2 as unit dose).
+
+Each pack contains 24 or 60 soft capsules.
 
 Each multipack contains 180 (3 packs of 60) soft capsules.
 
@@ -570,7 +568,7 @@ EU/1/25/1991/003 - Lynkuet 60 mg - 180 soft capsules
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -637,7 +635,9 @@ OUTER CARTON - MULTI-PACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lynkuet 60 mg soft capsules elinzanetant
+Lynkuet 60 mg soft capsules
+
+elinzanetant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -724,7 +724,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lynkuet 60 mg soft capsules elinzanetant
+Lynkuet 60 mg soft capsules
+
+elinzanetant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -800,7 +802,9 @@ Lynkuet
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lynkuet 60 mg soft capsules elinzanetant
+Lynkuet 60 mg soft capsules
+
+elinzanetant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1220,7 +1224,9 @@ Sími: +354 540 8000
 
 ## Italia
 
-Bayer S.p.A. Tel: +39 02 397 8 1
+Bayer S.p.A.
+
+Tel: +39 02 397 8 1
 
 ## Κύπρος
 

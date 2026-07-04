@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-28 11:51:34
+document_datetime: 2026-06-25 13:38:33
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trajenta-epar-product-information_en.pdf
 document_name: trajenta-epar-product-information_en.pdf
 version: success
-processing_time: 6.1002487
-conversion_datetime: 2025-12-20 11:50:48.242616
+processing_time: 7.8766272
+conversion_datetime: 2026-07-04 14:36:13.21121
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -220,16 +220,6 @@ Table 1 Adverse reactions reported in patients who received linagliptin 5 mg dai
 | Amylase increased                                 | uncommon                        |
 | Lipase increased**                                | common                          |
 
-* Based on post-marketing experience
-
-** Based on lipase elevations &gt; 3 × ULN observed in clinical trials
-
-# Based on Linagliptin cardiovascular and renal safety study (CARMELINA) , see also below
-
-1 Adverse reaction observed in combination with metformin plus sulphonylurea
-
-2 Adverse reaction observed in combination with insulin
-
 ## Linagliptin cardiovascular and renal safety study (CARMELINA)
 
 The CARMELINA study evaluated the cardiovascular and renal safety of linagliptin versus placebo in patients with type 2 diabetes and with increased CV risk evidenced by a history of established macrovascular or renal disease (see section 5.1). The study included 3 494 patients treated with linagliptin (5 mg) and 3 485 patients treated with placebo. Both treatments were added to standard of care targeting regional standards for HbA1c and CV risk factors. The overall incidence of adverse events and serious adverse events in patients receiving linagliptin was similar to that in patients receiving placebo. Safety data from this study was in line with previous known safety profile of linagliptin.
@@ -300,11 +290,9 @@ The efficacy and safety of the addition of linagliptin 5 mg to insulin alone or 
 
 ## Linagliptin 24 month data, as add-on to metformin in comparison with glimepiride
 
-In a study comparing the efficacy and safety of the addition of linagliptin 5 mg or glimepiride (mean dose 3 mg) in patients with inadequate glycaemic control on metformin monotherapy, mean reductions in HbA1c were -0.16% with linagliptin (mean baseline HbA1c 7.69%) and -0.36% with glimepiride (mean baseline HbA1c 7.69%.) with a mean treatment difference of 0.20% (97.5% CI: 0.09, 0.299). The incidence of hypoglycaemia in the linagliptin group (7.5%) was significantly lower than that in the glimepiride group (36.1%). Patients treated with linagliptin exhibited a significant mean decrease
+In a study comparing the efficacy and safety of the addition of linagliptin 5 mg or glimepiride (mean dose 3 mg) in patients with inadequate glycaemic control on metformin monotherapy, mean reductions in HbA1c were -0.16% with linagliptin (mean baseline HbA1c 7.69%) and -0.36% with glimepiride (mean baseline HbA1c 7.69%.) with a mean treatment difference of 0.20% (97.5% CI: 0.09, 0.299). The incidence of hypoglycaemia in the linagliptin group (7.5%) was significantly lower than that in the glimepiride group (36.1%). Patients treated with linagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glimepiride (-1.39 vs +1.29 kg).
 
 <div style=\"page-break-after: always\"></div>
-
-from baseline in body weight compared to a significant weight gain in patients administered glimepiride (-1.39 vs +1.29 kg).
 
 Linagliptin as add-on therapy in patients with severe renal impairment, 12 week placebo-controlled data (stable background) and 40 week placebo-controlled extension (adjustable background) The efficacy and safety of linagliptin was also evaluated in type 2 diabetes patients with severe renal impairment in a double-blind study versus placebo for 12 weeks duration, during which background glycaemic therapies were kept stable. Most patients (80.5%) received insulin as background therapy, alone or in combination with other oral anti-diabetics such as sulphonylurea, glinide and pioglitazone. There was a further follow up 40 week treatment period during which dose adjustments in antidiabetes background therapies were allowed.
 
@@ -340,13 +328,13 @@ Table 2 Cardiovascular and renal outcomes by treatment group in the CARMELINA st
 
 * PY = patient years
 
-** Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
+**  Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
 
 In analyses for albuminuria progression (change from normoalbuminuria to micro- or macroalbuminuria, or from microalbuminuria to macroalbuminuria) the estimated hazard ratio was 0.86 (95% CI 0.78, 0.95) for linagliptin versus placebo.
 
 ## Linagliptin cardiovascular safety study (CAROLINA)
 
-CAROLINA was a randomized study in 6 033 patients with early type 2 diabetes and increased CV risk or established complications who were treated with linagliptin 5 mg (3 023) or glimepiride 1-4 mg (3 010) added to standard of care (including background therapy with metformin in 83% of patients) targeting regional standards for HbA1c and CV risk factors. The mean age for study population was 64 years and included 2 030 (34%) patients ≥ 70 years of age. The study population included 2 089 (35%) patients with cardiovascular disease and 1 130 (19%) patients with renal impairment with an eGFR &lt; 60 mL/min/1.73 m 2 at baseline. The mean HbA1c at baseline was 7.15%.
+CAROLINA was a randomized study in 6 033 patients with early type 2 diabetes and increased CV risk or established complications who were treated with linagliptin 5 mg (3 023) or glimepiride 1-4 mg (3 010) added to standard of care (including background therapy with metformin in 83% of patients) targeting regional standards for HbA1c and CV risk factors. The mean age for study population was 64 years and included 2 030 (34%) patients ≥ 70 years of age. The study population included 2 089 (35%) patients with cardiovascular disease and 1 130 (19%) patients with renal impairment with an eGFR &lt; 60 mL/min/1.73 m 2  at baseline. The mean HbA1c at baseline was 7.15%.
 
 The study was designed to demonstrate non-inferiority for the primary cardiovascular endpoint which was a composite of the first occurrence of cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke (3P-MACE).
 
@@ -367,7 +355,7 @@ Table 3 Major adverse cardiovascular events (MACE) and mortality by treatment gr
 
 * PY = patient years
 
-** Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
+**  Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
 
 For the entire treatment period (median time on treatment 5.9 years) the rate of patients with moderate or severe hypoglycaemia was 6.5% on linagliptin versus 30.9% on glimepiride, severe hypoglycaemia occurred in 0.3% of patients on linagliptin versus 2.2% on glimepiride.
 
@@ -441,7 +429,7 @@ Liver, kidneys and gastrointestinal tract are the principal target organs of tox
 
 In rats effects on reproductive organs, thyroid and the lymphoid organs were seen at more than 1 500 times human exposure. Strong pseudo-allergic reactions were observed in dogs at medium doses, secondarily causing cardiovascular changes, which were considered dog-specific. Liver, kidneys, stomach, reproductive organs, thymus, spleen, and lymph nodes were target organs of toxicity in Cynomolgus monkeys at more than 450 times human exposure. At more than 100 times human exposure, irritation of the stomach was the major finding in these monkeys.
 
-Linagliptin and its main metabolite did not show a genotoxic potential.
+## Linagliptin and its main metabolite did not show a genotoxic potential.
 
 Oral 2 year carcinogenicity studies in rats and mice revealed no evidence of carcinogenicity in rats or male mice. A significantly higher incidence of malignant lymphomas only in female mice at the highest dose (&gt; 200 times human exposure) is not considered relevant for humans (explanation: nontreatment related but due to highly variable background incidence). Based on these studies there is no concern for carcinogenicity in humans.
 
@@ -488,8 +476,10 @@ Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/11/707/001 (10 × 1 tablets) EU/1/11/707/002 (14 × 1 tablets) EU/1/11/707/003 (28 × 1 tablets) EU/1/11/707/004 (30 × 1 tablets) EU/1/11/707/005 (56 × 1 tablets) EU/1/11/707/006 (60 × 1 tablets) EU/1/11/707/007 (84 × 1 tablets) EU/1/11/707/008 (90 × 1 tablets) EU/1/11/707/009 (98 × 1 tablets) EU/1/11/707/010 (100 × 1 tablets) EU/1/11/707/011 (120 × 1 tablets)
+EU/1/11/707/001 (10 × 1 tablets) EU/1/11/707/002 (14 × 1 tablets) EU/1/11/707/003 (28 × 1 tablets) EU/1/11/707/004 (30 × 1 tablets) EU/1/11/707/005 (56 × 1 tablets) EU/1/11/707/006 (60 × 1 tablets) EU/1/11/707/007 (84 × 1 tablets) EU/1/11/707/008 (90 × 1 tablets) EU/1/11/707/009 (98 × 1 tablets) EU/1/11/707/010 (100 × 1 tablets)
 ```
+
+EU/1/11/707/011 (120 × 1 tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -530,20 +520,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -603,19 +593,17 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
+Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
 
-Germany
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-```
 EU/1/11/707/001 10 × 1 tablets EU/1/11/707/002 14 × 1 tablets EU/1/11/707/003 28 × 1 tablets EU/1/11/707/004 30 × 1 tablets EU/1/11/707/005 56 × 1 tablets EU/1/11/707/006 60 × 1 tablets EU/1/11/707/007 84 × 1 tablets EU/1/11/707/008 90 × 1 tablets EU/1/11/707/009 98 × 1 tablets EU/1/11/707/010 100 × 1 tablets EU/1/11/707/011 120 × 1 tablets
-```
 
 ## 13. BATCH NUMBER
 
@@ -629,22 +617,23 @@ Lot
 
 Trajenta 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS (PERFORATED)                               |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS (PERFORATED)                                |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -717,10 +706,10 @@ It is important to keep following the advice about diet and exercise that you ha
 
 Talk to your doctor, pharmacist or nurse before taking Trajenta if you:
 
--  have type 1 diabetes (your body does not produce any insulin) or diabetic ketoacidosis (a complication of diabetes with high blood sugar, rapid weight loss, nausea or vomiting). Trajenta should not be used to treat these conditions.
--  are taking an anti-diabetic medicine known as a 'sulphonylurea' (e.g. glimepiride, glipizide), your doctor may want to reduce your dose of sulphonylurea when you take it together with Trajenta in order to avoid your blood sugar going too low.
--  have had allergic reactions to any other medicines that you take to control the amount of sugar in your blood.
--  have or have had a disease of the pancreas.
+- have type 1 diabetes (your body does not produce any insulin) or diabetic ketoacidosis (a complication of diabetes with high blood sugar, rapid weight loss, nausea or vomiting). Trajenta should not be used to treat these conditions.
+- are taking an anti-diabetic medicine known as a 'sulphonylurea' (e.g. glimepiride, glipizide), your doctor may want to reduce your dose of sulphonylurea when you take it together with Trajenta in order to avoid your blood sugar going too low.
+- have had allergic reactions to any other medicines that you take to control the amount of sugar in your blood.
+- have or have had a disease of the pancreas.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -740,8 +729,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, you should tell your doctor if you are using medicines containing any of the following active substances:
 
--  Carbamazepine, phenobarbital or phenytoin. These may be used to control fits (seizures) or chronic pain.
--  Rifampicin. This is an antibiotic used to treat infections such as tuberculosis.
+- Carbamazepine, phenobarbital or phenytoin. These may be used to control fits (seizures) or chronic pain.
+- Rifampicin. This is an antibiotic used to treat infections such as tuberculosis.
 
 ## Pregnancy and breast-feeding
 
@@ -775,8 +764,8 @@ If you take more Trajenta than you should, talk to a doctor immediately.
 
 ## If you forget to take Trajenta
 
--  If you forget to take a dose of Trajenta, take it as soon as you remember it. However, if it is nearly time for the next dose, skip the missed dose.
--  Do not take a double dose to make up for a forgotten dose. Never take two doses on the same day.
+- If you forget to take a dose of Trajenta, take it as soon as you remember it. However, if it is nearly time for the next dose, skip the missed dose.
+- Do not take a double dose to make up for a forgotten dose. Never take two doses on the same day.
 
 ## If you stop taking Trajenta
 
@@ -798,13 +787,13 @@ Some patients have experienced inflammation of the pancreas (pancreatitis; frequ
 
 STOP taking Trajenta and contact a doctor immediately if you notice any of the following serious side effects:
 
--  Severe and persistent pain in the abdomen (stomach area) which might reach through to your back, as well as nausea and vomiting, as it could be a sign of an inflamed pancreas (pancreatitis).
+- Severe and persistent pain in the abdomen (stomach area) which might reach through to your back, as well as nausea and vomiting, as it could be a sign of an inflamed pancreas (pancreatitis).
 
 Some patients have had the following side effects while taking Trajenta alone or in combination with other medicinal products for the treatment of diabetes:
 
--  Common: level of lipase in the blood increased.
--  Uncommon: inflamed nose or throat (nasopharyngitis), cough, constipation (in combination with insulin), level of amylase in the blood increased.
--  Rare: blistering of skin (bullous pemphigoid).
+- Common: level of lipase in the blood increased.
+- Uncommon: inflamed nose or throat (nasopharyngitis), cough, constipation (in combination with insulin), level of amylase in the blood increased.
+- Rare: blistering of skin (bullous pemphigoid).
 
 ## Reporting of side effects
 
@@ -828,13 +817,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Trajenta contains
 
-- -The active substance is linagliptin Each film-coated tablet (tablet) contains 5 mg of linagliptin
+- -The active substance is linagliptin
+
+Each film-coated tablet (tablet) contains 5 mg of linagliptin
+
 - -The other ingredients are Tablet core: Mannitol, pregelatinised starch (maize), maize starch, copovidone, magnesium stearate Film coating: Hypromellose, titanium dioxide (E171), talc, macrogol (6000), iron oxide red (E172)
 
 ## What Trajenta looks like and contents of the pack
 
--  Trajenta 5 mg tablets are 8 mm diameter round, light red film-coated tablets debossed with 'D5' on one side and the Boehringer Ingelheim logo on the other.
--  Trajenta is available in perforated aluminium/aluminium unit dose blisters. The pack sizes are 10 × 1, 14 × 1, 28 × 1, 30 × 1, 56 × 1, 60 × 1, 84 × 1, 90 × 1, 98 × 1, 100 × 1 and 120 × 1 tablets.
+- Trajenta 5 mg tablets are 8 mm diameter round, light red film-coated tablets debossed with 'D5' on one side and the Boehringer Ingelheim logo on the other.
+- Trajenta is available in perforated aluminium/aluminium unit dose blisters. The pack sizes are 10 × 1, 14 × 1, 28 × 1, 30 × 1, 56 × 1, 60 × 1, 84 × 1, 90 × 1, 98 × 1, 100 × 1 and 120 × 1 tablets.
 
 Not all pack sizes may be marketed in your country.
 
@@ -846,17 +838,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441
-
-Greece
+Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece Dragenopharm Apotheker Püschl GmbH Göllstraße 1 84529 Tittmoning Germany For any information about this medicine, please contact the local representatives of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-Dragenopharm Apotheker Püschl GmbH Göllstraße 1 84529 Tittmoning Germany
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representatives of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -896,9 +880,7 @@ Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o.
-
-Tel: +385 1 2444 600
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
 
 ## Ireland
 
@@ -932,7 +914,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -956,17 +938,13 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG, Podružnica Ljubljana Tel: +386 1 586
 
 ## Slovenská republika
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG, organizačná zložka
-
-Tel: +421 2 5810 1211
+Boehringer Ingelheim RCV GmbH &amp; Co KG, organizačná zložka Tel: +421 2 5810 1211
 
 <div style=\"page-break-after: always\"></div>
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A.
-
-Tel: +39 02 5355 1
+Boehringer Ingelheim Italia S.p.A. Tel: +39 02 5355 1
 
 ## Κύπρος
 
@@ -984,7 +962,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Suomi/Finland
 
-Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
+Boehringer Ingelheim Finland Ky
+
+Puh/Tel: +358 10 3102 800
 
 ## Sverige
 

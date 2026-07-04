@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-28 15:36:00
+document_datetime: 2026-06-30 17:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.2335472
-conversion_datetime: 2026-06-01 16:56:58.718339
+processing_time: 0.3059343
+conversion_datetime: 2026-07-04 13:01:30.042638
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -72,7 +72,7 @@ Expand section
 
 Collapse section
 
-## How is Spikevax used?
+### How is Spikevax used?
 
 The originally authorised Spikevax is given in people from the age of 6 months as two injections, usually into the muscle of the upper arm, or the thigh in infants and young children, 28 days apart. A booster dose may be given to adults and children from the age of 6 years, at least 3 months after primary vaccination with Spikevax, or another mRNA vaccine or an adenoviral vector vaccine.
 
@@ -86,17 +86,18 @@ The vaccines should be used according to official recommendations, issued at nat
 
 For more information about using Spikevax, including information about the adapted vaccines and doses for different age groups, see the package leaflet or consult a healthcare professional.
 
-## How does Spikevax  work?
+### How does Spikevax work?
 
 Spikevax works by preparing the body to defend itself against COVID-19. It contains a molecule called mRNA which has instructions for making the spike protein. This is a protein on the surface of SARS-CoV-2 which the virus needs to enter the body's cells and which can differ between variants of the virus.
 
-When a person is given the vaccine, some of their cells will read the mRNA instructions and temporarily produce the spike protein. The person's immune system will then recognise this protein as foreign and produce antibodies and activate T cells (white blood cells) to attack it. If, later on, the person comes into contact with SARS-CoV-2, their immune system will recognise it and be ready to defend the body against it.
+When a person is given the vaccine, some of their cells will read the mRNA instructions and temporarily produce the spike protein. The person's immune system will then recognise this protein as foreign and produce antibodies and activate T cells (white blood cells) to attack it.
+If, later on, the person comes into contact with SARS-CoV-2, their immune system will recognise it and be ready to defend the body against it.
 
 After vaccination, the mRNA from the vaccine is broken down and removed from the body.
 
 Adapted vaccines work in the same way as the original vaccine and are expected to maintain protection against the virus as they contain mRNA more closely matching circulating variants of the virus.
 
-## What benefits of Spikevax have been shown in studies?
+### What benefits of Spikevax have been shown in studies?
 
 A very large clinical trial showed that Spikevax, given as a two-dose regimen, was effective at preventing COVID-19 in people from 18 years of age. The trial involved around 30,000 people in total. Half received the vaccine and half were given dummy injections. People did not know whether they received the vaccine or the dummy injections.
 
@@ -112,19 +113,19 @@ Additional data showed that subsequent doses, including boosters, lead to a rise
 
 Based on available data, vaccines adapted to target circulating strains of the virus are expected to elicit a strong immune response against these strains.
 
-## Can children be vaccinated with Spikevax?
+### Can children be vaccinated with Spikevax?
 
 Originally authorised Spikevax, Spikevax bivalent Original/Omicron BA.4-5, Spikevax XBB.1.5, Spikevax JN.1 and Spikevax LP.8.1 are authorised for adults and children from 6 months of age.
 
 Spikevax bivalent Original/Omicron BA.1 is authorised for adults and children from 6 years of age.
 
-## Can immunocompromised people be vaccinated with Spikevax?
+### Can immunocompromised people be vaccinated with Spikevax?
 
 Although immunocompromised people may not respond as well to the vaccine, there are no particular safety concerns. Immunocompromised people can still be vaccinated as they may be at higher risk from COVID-19.
 
 Severely immunocompromised people may be given an additional dose of Spikevax as part of their primary vaccination.
 
-## Can pregnant or breast-feeding women be vaccinated with Spikevax?
+### Can pregnant or breast-feeding women be vaccinated with Spikevax?
 
 Spikevax can be used during pregnancy.
 
@@ -134,17 +135,17 @@ Spikevax can be used during breast-feeding. Data from women who were breast-feed
 
 No data are currently available regarding the use of the adapted vaccines in pregnant or breast-feeding women. However, based on the similarity with the originally authorised Spikevax, including a comparable safety profile, the adapted vaccines can be used during pregnancy and breast-feeding.
 
-## Can people with allergies be vaccinated with Spikevax?
+### Can people with allergies be vaccinated with Spikevax?
 
 People who already know they have an allergy to one of the components of the vaccine listed in section 6 of the package leaflet should not receive the vaccine.
 
 Allergic reactions (hypersensitivity) have been seen in people receiving the vaccine. A very small number of cases of anaphylaxis (severe allergic reaction) have occurred. Therefore, as for all vaccines, Spikevax, including the adapted vaccines, should be given under close medical supervision, with the appropriate medical treatment available in case of allergic reactions. People who have a severe allergic reaction when they are given a dose of one of the Spikevax vaccines should not receive subsequent doses.
 
-## How well does Spikevax work for people of different ethnicities and genders?
+### How well does Spikevax work for people of different ethnicities and genders?
 
 The main clinical trials for Spikevax included people of different ethnicities and genders. The high efficacy was maintained across genders and ethnic groups.
 
-## What are the risks associated with Spikevax?
+### What are the risks associated with Spikevax?
 
 For the full list of side effects and restrictions with Spikevax, see the package leaflet.
 
@@ -158,7 +159,7 @@ A very small number of cases of erythema multiforme (red patches on the skin wit
 
 The safety of the adapted vaccines is comparable to that of the originally authorised Spikevax vaccine.
 
-## Why is Spikevax authorised in the EU?
+### Why is Spikevax authorised in the EU?
 
 Data have shown that originally authorised Spikevax and its adapted vaccines cause the production of antibodies against SARS-CoV-2 that can protect against COVID-19. The main trials showed that the originally authorised vaccine has a high efficacy in all age groups. Most side effects are mild to moderate in severity and are gone within a few days.
 
@@ -166,7 +167,7 @@ The European Medicines Agency therefore decided that the benefits of Spikevax, i
 
 Spikevax was originally given 'conditional authorisation' because there was more evidence to come about the vaccine. The company has provided comprehensive information, including data regarding its safety, efficacy, and how well Spikevax prevents severe disease. In addition, the company has completed all requested studies on the pharmaceutical quality of the vaccine. As a result, the conditional authorisation has been switched to a standard one.
 
-## What measures are being taken to ensure the safe and effective use of Spikevax?
+### What measures are being taken to ensure the safe and effective use of Spikevax?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Spikevax and its adapted vaccines have been included in the summary of product characteristics and the package leaflet.
 
@@ -176,7 +177,7 @@ Safety measures for Spikevax and its adapted vaccines are implemented in line wi
 
 As for all medicines, data on the use of Spikevax and its adapted vaccines are continuously monitored. Suspected side effects are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Spikevax
+### Other information about Spikevax
 
 COVID-19 Vaccine Moderna received a conditional marketing authorisation valid throughout the EU on 6 January 2021. This was switched to a standard marketing authorisation on 3 October 2022.
 
@@ -184,7 +185,7 @@ The name of the vaccine was changed to Spikevax on 22 June 2021.
 
 More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts) .
 
-## Key developments since authorisation
+### Key developments since authorisation
 
 | Date       | Key developments                                                                                                                                                                                                                                                                          |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -231,7 +232,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-197)
+[Other languages (22)](#file-language-dropdown-792)
 
 български (BG) (235.49 KB - PDF)
 
@@ -263,7 +264,7 @@ Deutsch (DE) (190.94 KB - PDF)
 
 [View](/de/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (181.43 KB - PDF)
+eesti (ET) (181.43 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 04/09/2025
 
@@ -293,13 +294,13 @@ italiano (IT) (197.29 KB - PDF)
 
 [View](/it/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (209.86 KB - PDF)
+latviešu (LV) (209.86 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/lv/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (225.12 KB - PDF)
+lietuvių (LT) (225.12 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 04/09/2025
 
@@ -353,7 +354,7 @@ slovenščina (SL) (223.4 KB - PDF)
 
 [View](/sl/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (195.57 KB - PDF)
+suomi (FI) (195.57 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 04/09/2025
 
@@ -383,7 +384,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-407)
 
 български (BG) (1.45 MB - PDF)
 
@@ -415,7 +416,7 @@ Deutsch (DE) (1.28 MB - PDF)
 
 [View](/de/documents/product-information/spikevax-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.05 MB - PDF)
+eesti (ET) (1.05 MB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
@@ -439,25 +440,19 @@ hrvatski (HR) (1.25 MB - PDF)
 
 [View](/hr/documents/product-information/spikevax-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.14 MB - PDF)
-
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
-
-[View](/is/documents/product-information/spikevax-epar-product-information_is.pdf)
-
 italiano (IT) (1.17 MB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/it/documents/product-information/spikevax-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.19 MB - PDF)
+latviešu (LV) (1.19 MB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/lv/documents/product-information/spikevax-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.43 MB - PDF)
+lietuvių (LT) (1.43 MB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
@@ -480,12 +475,6 @@ Nederlands (NL) (1.1 MB - PDF)
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/nl/documents/product-information/spikevax-epar-product-information_nl.pdf)
-
-norsk (NO) (1.19 MB - PDF)
-
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
-
-[View](/no/documents/product-information/spikevax-epar-product-information_no.pdf)
 
 polski (PL) (1.52 MB - PDF)
 
@@ -517,7 +506,7 @@ slovenščina (SL) (1.2 MB - PDF)
 
 [View](/sl/documents/product-information/spikevax-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.21 MB - PDF)
+suomi (FI) (1.21 MB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 24/02/2026
 
@@ -529,6 +518,18 @@ svenska (SV) (1.13 MB - PDF)
 
 [View](/sv/documents/product-information/spikevax-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.14 MB - PDF)
+
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
+
+[View](/is/documents/product-information/spikevax-epar-product-information_is.pdf)
+
+norsk (NO) (1.19 MB - PDF)
+
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
+
+[View](/no/documents/product-information/spikevax-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000316350
 
 20/01/2026
@@ -537,7 +538,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -555,7 +557,7 @@ English (EN) (90.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-354)
 
 български (BG) (126.99 KB - PDF)
 
@@ -587,7 +589,7 @@ Deutsch (DE) (103.29 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (100.49 KB - PDF)
+eesti (ET) (100.49 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
@@ -611,25 +613,19 @@ hrvatski (HR) (126.07 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (102.53 KB - PDF)
-
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
-
-[View](/is/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (91.71 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/it/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (129.34 KB - PDF)
+latviešu (LV) (129.34 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/lv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (137.04 KB - PDF)
+lietuvių (LT) (137.04 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
@@ -652,12 +648,6 @@ Nederlands (NL) (92.53 KB - PDF)
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/nl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (102.94 KB - PDF)
-
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
-
-[View](/no/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (123.85 KB - PDF)
 
@@ -689,7 +679,7 @@ slovenščina (SL) (130.47 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (89.88 KB - PDF)
+suomi (FI) (89.88 KB - PDF)
 
 **First published:** 20/01/2021 **Last updated:** 20/01/2026
 
@@ -701,27 +691,30 @@ svenska (SV) (91.94 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (102.53 KB - PDF)
+
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
+
+[View](/is/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (102.94 KB - PDF)
+
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
+
+[View](/no/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Spikevax (previously COVID-19 Vaccine Moderna)
-
-Active substance
-
-single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
-
-International non-proprietary name (INN) or common name
-
-COVID-19 mRNA vaccine
-
-Therapeutic area (MeSH)
-
-COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BN01
+- **Name of medicine**
+    - Spikevax (previously COVID-19 Vaccine Moderna)
+- **Active substance**
+    - single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
+- **International non-proprietary name (INN) or common name**
+    - COVID-19 mRNA vaccine
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -743,31 +736,18 @@ Spikevax LP.8.1 is indicated for active immunisation to prevent COVID 19 caused 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005791
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Moderna Biotech Spain, S.L.
-
-C/ Julián Camarillo nº 31
-
-Opinion adopted
-
-04/01/2021
-
-Marketing authorisation issued
-
-06/01/2021
-
-Revision
-
-61
+- **EMA product number**
+    - EMEA/H/C/005791
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  28037 Madrid  Spain
+- **Opinion adopted**
+    - 04/01/2021
+- **Marketing authorisation issued**
+    - 06/01/2021
+- **Revision**
+    - 61
 
 ## Assessment history
 
@@ -775,7 +755,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -871,7 +851,7 @@ English (EN) (146.95 KB - PDF)
 
 **First published:** 07/09/2023
 
-[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202212-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202212-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0104-G : EPAR - Assessment Report - Variation
 
@@ -991,7 +971,7 @@ English (EN) (119.05 KB - PDF)
 
 **First published:** 25/08/2022
 
-[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202112-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202112-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-41 : EPAR - Assessment Report - Variation
 
@@ -1031,7 +1011,7 @@ English (EN) (120.15 KB - PDF)
 
 **First published:** 16/02/2022
 
-[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202106-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/spikevax-previously-covid-19-vaccine-moderna-h-c-psusa-00010897-202106-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-34 : EPAR - Assessment Report - Variation
 
@@ -1083,7 +1063,7 @@ English (EN) (125.84 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-spikevax-ii-21_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Spikevax (previously COVID-19 Vaccine Moderna) : EPAR - Public assessment report
 
@@ -1381,7 +1361,7 @@ English (EN) (189.9 KB - PDF)
 
 15/09/2023
 
-[Spikevax: EMA recommends approval of adapted  COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/spikevax-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15)
+[Spikevax: EMA recommends approval of adapted COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/spikevax-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15)
 
 14/09/2023
 
@@ -1541,7 +1521,7 @@ English (EN) (189.9 KB - PDF)
 
 17/12/2020
 
-[EMA receives application for conditional marketing authorisation of    Moderna COVID-19 vaccine](/en/news/ema-receives-application-conditional-marketing-authorisation-moderna-covid-19-vaccine)
+[EMA receives application for conditional marketing authorisation of Moderna COVID-19 vaccine](/en/news/ema-receives-application-conditional-marketing-authorisation-moderna-covid-19-vaccine)
 
 01/12/2020
 
@@ -1551,7 +1531,7 @@ English (EN) (189.9 KB - PDF)
 
 ## Signal assessment report
 
-Signal assessment report on myocarditis and pericarditis with Spikevax  (previously COVID-19 Vaccine Moderna) - COVID-19 mRNA vaccine (nucleosidemodified)
+Signal assessment report on myocarditis and pericarditis with Spikevax (previously COVID-19 Vaccine Moderna) - COVID-19 mRNA vaccine (nucleosidemodified)
 
 Adopted Reference Number: EMA/PRAC/759618/2021
 
@@ -1627,9 +1607,9 @@ Documents published within the scope of the exceptional transparency measures th
 
 Spikevax : Module 2.3.S drug substance
 
-English (EN) (31.25 MB - ZIP)
+English (EN) (35.77 MB - ZIP)
 
-**First published:** 30/01/2026 **Last updated:** 28/05/2026
+**First published:** 30/01/2026 **Last updated:** 30/06/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -1783,7 +1763,7 @@ English (EN) (2.01 MB - DOCX)
 
 ## More information on Spikevax (previously COVID-19 Vaccine Moderna)
 
-- [EMEA-002893-PIP01-20-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002893-pip01-20-m04)
+- [EMA/PE/0000228531 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228531)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
 - [Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/spikevax-previously-covid-19-vaccine-moderna)
 - [Post-marketing safety of the Moderna COVID-19 vaccine following the 2024/2025 strain change in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000711)
@@ -1804,6 +1784,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-28/05/2026
+30/06/2026
 
 ## Share this page

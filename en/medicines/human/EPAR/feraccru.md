@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-20 17:41:00
+document_datetime: 2026-06-25 14:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/feraccru.html
 document_name: feraccru.html
 version: success
-processing_time: 0.1248118
-conversion_datetime: 2026-05-24 14:57:07.739201
+processing_time: 0.1591965
+conversion_datetime: 2026-07-04 13:09:18.768684
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Feraccru
 
@@ -47,7 +47,7 @@ Page contents
 
 ## Overview
 
-Feraccru is an iron-containing medicine used to treat iron deficiency (lack of iron) in adults.
+Feraccru is an iron-containing medicine used to treat iron deficiency (lack of iron) in adults and adolescents aged 12 years and older.
 
 Feraccru contains the active substance ferric maltol.
 
@@ -55,361 +55,368 @@ Expand section
 
 Collapse section
 
-## How is Feraccru used?
+### How is Feraccru used?
 
-Feraccru is available as capsules (30 mg). The recommended dose is one capsule taken twice a day, morning and evening, on an empty stomach. Treatment duration depends on the severity of the iron deficiency, but generally at least 12 weeks of treatment are required.
-
-The medicine can only be obtained with a prescription.
+Feraccru can only be obtained with a prescription and is available as capsules. The recommended dose is one capsule taken twice a day, morning and evening, on an empty stomach. While the duration of treatment depends on how severe the iron deficiency is, at least 12 weeks of treatment are generally required.
 
 For more information about using Feraccru, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Feraccru work?
+### How does Feraccru work?
 
-The active substance in Feraccru, ferric maltol, is an iron-containing compound. When taken by mouth, it is absorbed by the cells of the gut; the iron is then released from the compound and transported and stored in the body, helping to restore normal levels in patients with iron deficiency. This helps correct reduced production of haemoglobin (the oxygen-carrying pigment in red blood cells), anaemia (low levels of red blood cells) and any symptoms of the condition. Iron is an essential building block for haemoglobin and the body can produce more haemoglobin and correct anaemia once iron stores are replenished.
+The active substance in Feraccru, ferric maltol, is an iron-containing compound. When taken by mouth, it is absorbed by the cells of the gut; the iron is then released from the compound and transported and stored in the body, helping to restore normal levels in patients with iron deficiency. Iron is an essential building block for haemoglobin (the protein in red blood cells that carries oxygen around the body). The body can produce more haemoglobin and correct anaemia (low levels of red blood cells) once iron stores are replenished.
 
-## What benefits of Feraccru have been shown in studies?
+### What benefits of Feraccru have been shown in studies?
 
-Feraccru is effective at increasing haemoglobin levels in patients with iron deficiency and anaemia, (defined as haemoglobin levels lower than 12 g/dl for women and 13 g/dl for men).
+Feraccru is effective at increasing haemoglobin levels in patients with anaemia caused by iron deficiency (defined as haemoglobin levels lower than 12 g/dl for women and 13 g/dl for men).
 
-In a study of 128 patients, those taking Feraccru for 12 weeks had their haemoglobin levels increase on average from 11.0 to 13.2 g/dl whereas in patients taking placebo (a dummy treatment) haemoglobin levels remained at around 11.1 g/dl. In addition, around 65% of patients taking Feraccru achieved normal levels of haemoglobin compared with 10% of those on placebo.
+In a study of 128 adults, those taking Feraccru for 12 weeks had their haemoglobin levels increase on average from 11.0 to 13.2 g/dl whereas in patients taking placebo (a dummy treatment) haemoglobin levels remained at around 11.1 g/dl. In addition, around 65% of patients taking Feraccru achieved normal levels of haemoglobin compared with 10% of those on placebo.
 
-## What are the risks associated with Feraccru?
+A study involving 65 children including adolescents between 12 and 18 years of age with anaemia caused by iron deficiency showed that those taking Ferracru had their haemoglobin levels increase on average by 1.25 g/dl after 12 weeks of treatment. In addition, data also showed that Feraccru behaves in a similar way in adolescents aged 12 years and older as it does in adults.
 
-The most common side effects with Feraccru (which may affect up to 1 in 10 people) are symptoms affecting the gut such as abdominal (belly) pain, flatulence (passing wind), constipation, abdominal discomfort and distension, and diarrhoea; these side effects are usually of mild to moderate intensity.
+Studies carried out with Feraccru are described in more detail in the medicine's assessment reports.
 
-Severe side effects include abdominal pain, constipation and diarrhoea. For the full list of side effects of Feraccru, see the package leaflet.
+### What are the risks associated with Feraccru?
 
-Feraccru must not be used in patients with iron overload disorder (haemachromatosis) or in patients receiving repeated blood transfusions. For the full list of restrictions, see the package leaflet.
+For the full list of side effects and restrictions of Feraccru, see the package leaflet.
 
-## Why is Feraccru authorised in the EU?
+The most common side effects with Feraccru (which may affect up to 1 in 10 people) include those affecting the stomach and gut such as abdominal (belly) pain, flatulence (passing wind), constipation, abdominal discomfort and distension, and diarrhoea; these side effects are usually of mild to moderate intensity. Severe side effects include abdominal pain, constipation and diarrhoea.
 
-The European Medicines Agency decided that Feraccru's benefits are greater than its risks and it can be authorised for use in the EU. Feraccru has been shown to be effective in increasing haemoglobin levels in patients with iron deficiency anaemia. Data on how the medicine is absorbed in the body show that Feraccru can also have an effect on patients with iron deficiency who have not already developed anaemia. The safety profile of Feraccru is considered acceptable, with side effects that are mostly mild to moderate in intensity and in line with those of other iron preparations.
+Feraccru must not be used in patients with iron overload disorder (haemochromatosis) or in patients receiving repeated blood transfusions.
 
-## What measures are being taken to ensure the safe and effective use of Feraccru?
+### Why is Feraccru authorised in the EU?
+
+Feraccru has been shown to be effective in increasing haemoglobin levels in patients with iron deficiency anaemia. Data on how the medicine is absorbed in the body show that Feraccru can also have an effect on patients with iron deficiency who have not already developed anaemia. The safety profile of Feraccru is considered acceptable, with side effects that are mostly mild to moderate in intensity and in line with those of other iron preparations.
+
+The European Medicines Agency therefore decided that Feraccru's benefits are greater than its risks and it can be authorised for use in the EU.
+
+### What measures are being taken to ensure the safe and effective use of Feraccru?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Feraccru have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Feraccru are continuously monitored. Side effects reported with Feraccru are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Feraccru
+### Other information about Feraccru
 
 Feraccru received a marketing authorisation valid throughout the EU on 18 February 2016.
 
 Feraccru : EPAR - Medicine overview
 
-English (EN) (69.01 KB - PDF)
+Reference Number: EMADOC-1829012207-48605
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+English (EN) (126.2 KB - PDF)
+
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/en/documents/overview/feraccru-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-907)
+[Other languages (22)](#file-language-dropdown-541)
 
-български (BG) (100.63 KB - PDF)
+български (BG) (139.77 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/bg/documents/overview/feraccru-epar-medicine-overview_bg.pdf)
 
-español (ES) (74.51 KB - PDF)
+español (ES) (116.4 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/es/documents/overview/feraccru-epar-medicine-overview_es.pdf)
 
-čeština (CS) (95.79 KB - PDF)
+čeština (CS) (136.67 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/cs/documents/overview/feraccru-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (72.77 KB - PDF)
+dansk (DA) (114.06 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/da/documents/overview/feraccru-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (74.17 KB - PDF)
+Deutsch (DE) (119.29 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/de/documents/overview/feraccru-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (72.69 KB - PDF)
+eesti (ET) (113.83 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/et/documents/overview/feraccru-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (107.15 KB - PDF)
+ελληνικά (EL) (138.18 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/el/documents/overview/feraccru-epar-medicine-overview_el.pdf)
 
-français (FR) (73.96 KB - PDF)
+français (FR) (117.45 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/fr/documents/overview/feraccru-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (89.94 KB - PDF)
+hrvatski (HR) (135.49 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/hr/documents/overview/feraccru-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (73.21 KB - PDF)
+italiano (IT) (115.05 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/it/documents/overview/feraccru-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (95.46 KB - PDF)
+latviešu (LV) (144.67 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/lv/documents/overview/feraccru-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (96.26 KB - PDF)
+lietuvių (LT) (137.94 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/lt/documents/overview/feraccru-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (91.53 KB - PDF)
+magyar (HU) (138.51 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/hu/documents/overview/feraccru-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (96.97 KB - PDF)
+Malti (MT) (140.9 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/mt/documents/overview/feraccru-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (74.07 KB - PDF)
+Nederlands (NL) (116.02 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/nl/documents/overview/feraccru-epar-medicine-overview_nl.pdf)
 
-polski (PL) (104.79 KB - PDF)
+polski (PL) (137.89 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/pl/documents/overview/feraccru-epar-medicine-overview_pl.pdf)
 
-português (PT) (73.48 KB - PDF)
+português (PT) (117.31 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/pt/documents/overview/feraccru-epar-medicine-overview_pt.pdf)
 
-română (RO) (93.92 KB - PDF)
+română (RO) (136.5 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/ro/documents/overview/feraccru-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (95.59 KB - PDF)
+slovenčina (SK) (137.79 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sk/documents/overview/feraccru-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (90.65 KB - PDF)
+slovenščina (SL) (134.9 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sl/documents/overview/feraccru-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (72.96 KB - PDF)
+suomi (FI) (112.93 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/fi/documents/overview/feraccru-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (73.19 KB - PDF)
+svenska (SV) (114.21 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 23/04/2018
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sv/documents/overview/feraccru-epar-medicine-overview_sv.pdf)
 
-Feraccru : EPAR - Risk-management-plan summary
+Feraccru : EPAR - Risk management plan
 
-English (EN) (39.53 KB - PDF)
+English (EN) (774.24 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/03/2016
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
-[View](/en/documents/rmp-summary/feraccru-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/feraccru-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Feraccru : EPAR - Product Information
 
-English (EN) (2.45 MB - PDF)
+English (EN) (384.67 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/en/documents/product-information/feraccru-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-75)
 
-български (BG) (3.69 MB - PDF)
+български (BG) (434.04 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/bg/documents/product-information/feraccru-epar-product-information_bg.pdf)
 
-español (ES) (2.32 MB - PDF)
+español (ES) (182.05 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/es/documents/product-information/feraccru-epar-product-information_es.pdf)
 
-čeština (CS) (2.52 MB - PDF)
+čeština (CS) (452.19 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/cs/documents/product-information/feraccru-epar-product-information_cs.pdf)
 
-dansk (DA) (3.53 MB - PDF)
+dansk (DA) (232.56 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/da/documents/product-information/feraccru-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.62 MB - PDF)
+Deutsch (DE) (192.23 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/de/documents/product-information/feraccru-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.36 MB - PDF)
+eesti (ET) (194.54 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/et/documents/product-information/feraccru-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.53 MB - PDF)
+ελληνικά (EL) (483.75 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/el/documents/product-information/feraccru-epar-product-information_el.pdf)
 
-français (FR) (3.72 MB - PDF)
+français (FR) (410.7 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/fr/documents/product-information/feraccru-epar-product-information_fr.pdf)
 
-hrvatski (HR) (591.35 KB - PDF)
+hrvatski (HR) (428.64 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/hr/documents/product-information/feraccru-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.98 MB - PDF)
+italiano (IT) (220.62 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
-
-[View](/is/documents/product-information/feraccru-epar-product-information_is.pdf)
-
-italiano (IT) (2.93 MB - PDF)
-
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/it/documents/product-information/feraccru-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.44 MB - PDF)
+latviešu (LV) (451.88 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/lv/documents/product-information/feraccru-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.99 MB - PDF)
+lietuvių (LT) (470.75 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/lt/documents/product-information/feraccru-epar-product-information_lt.pdf)
 
-magyar (HU) (2.41 MB - PDF)
+magyar (HU) (345.92 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/hu/documents/product-information/feraccru-epar-product-information_hu.pdf)
 
-Malti (MT) (3.07 MB - PDF)
+Malti (MT) (390.4 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/mt/documents/product-information/feraccru-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.42 MB - PDF)
+Nederlands (NL) (216.71 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/nl/documents/product-information/feraccru-epar-product-information_nl.pdf)
 
-norsk (NO) (2.95 MB - PDF)
+polski (PL) (448.11 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
-
-[View](/no/documents/product-information/feraccru-epar-product-information_no.pdf)
-
-polski (PL) (10.11 MB - PDF)
-
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/pl/documents/product-information/feraccru-epar-product-information_pl.pdf)
 
-português (PT) (2.48 MB - PDF)
+português (PT) (181.5 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/pt/documents/product-information/feraccru-epar-product-information_pt.pdf)
 
-română (RO) (2.98 MB - PDF)
+română (RO) (414.63 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/ro/documents/product-information/feraccru-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.48 MB - PDF)
+slovenčina (SK) (395.21 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sk/documents/product-information/feraccru-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.64 MB - PDF)
+slovenščina (SL) (427.65 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sl/documents/product-information/feraccru-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.36 MB - PDF)
+suomi (FI) (312.92 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/fi/documents/product-information/feraccru-epar-product-information_fi.pdf)
 
-svenska (SV) (2.93 MB - PDF)
+svenska (SV) (323.49 KB - PDF)
 
-**First published:** 18/03/2016 **Last updated:** 18/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
 
 [View](/sv/documents/product-information/feraccru-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0046/G
+Íslenska (IS) (267.22 KB - PDF)
 
-15/12/2023
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
+
+[View](/is/documents/product-information/feraccru-epar-product-information_is.pdf)
+
+norsk (NO) (385.52 KB - PDF)
+
+**First published:** 18/03/2016 **Last updated:** 25/06/2026
+
+[View](/no/documents/product-information/feraccru-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000268118
+
+26/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -427,7 +434,7 @@ English (EN) (93.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (179.99 KB - PDF)
 
@@ -459,7 +466,7 @@ Deutsch (DE) (93.57 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (93.23 KB - PDF)
+eesti (ET) (93.23 KB - PDF)
 
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
@@ -483,25 +490,19 @@ hrvatski (HR) (180.75 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (94.92 KB - PDF)
-
-**First published:** 18/03/2016 **Last updated:** 10/02/2022
-
-[View](/is/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (93.45 KB - PDF)
 
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
 [View](/it/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (179.43 KB - PDF)
+latviešu (LV) (179.43 KB - PDF)
 
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
 [View](/lv/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (180.84 KB - PDF)
+lietuvių (LT) (180.84 KB - PDF)
 
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
@@ -524,12 +525,6 @@ Nederlands (NL) (93.09 KB - PDF)
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
 [View](/nl/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (93.23 KB - PDF)
-
-**First published:** 18/03/2016 **Last updated:** 10/02/2022
-
-[View](/no/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (182.67 KB - PDF)
 
@@ -561,7 +556,7 @@ slovenščina (SL) (133.76 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (93.04 KB - PDF)
+suomi (FI) (93.04 KB - PDF)
 
 **First published:** 18/03/2016 **Last updated:** 10/02/2022
 
@@ -573,27 +568,30 @@ svenska (SV) (93.74 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (94.92 KB - PDF)
+
+**First published:** 18/03/2016 **Last updated:** 10/02/2022
+
+[View](/is/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (93.23 KB - PDF)
+
+**First published:** 18/03/2016 **Last updated:** 10/02/2022
+
+[View](/no/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Feraccru
-
-Active substance
-
-ferric maltol
-
-International non-proprietary name (INN) or common name
-
-ferric maltol
-
-Therapeutic area (MeSH)
-
-Anemia, Iron-Deficiency
-
-Anatomical therapeutic chemical (ATC) code
-
-B03AB
+- **Name of medicine**
+    - Feraccru
+- **Active substance**
+    - ferric maltol
+- **International non-proprietary name (INN) or common name**
+    - ferric maltol
+- **Therapeutic area (MeSH)**
+    - Anemia, Iron-Deficiency
+- **Anatomical therapeutic chemical (ATC) code**
+    - B03AB
 
 ### Pharmacotherapeutic group
 
@@ -601,31 +599,20 @@ Antianemic preparations
 
 ### Therapeutic indication
 
-Feraccru is indicated in adults for the treatment of iron deficiency.
+Feraccru is indicated for the treatment of iron deficiency in adults and adolescents aged 12 years and older.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002733
-
-Marketing authorisation holder
-
-Norgine B.V.
-
-Antonio Vivaldistraat 150
-
-Opinion adopted
-
-17/12/2015
-
-Marketing authorisation issued
-
-18/02/2016
-
-Revision
-
-19
+- **EMA product number**
+    - EMEA/H/C/002733
+- **Marketing authorisation holder**
+    - Norgine B.V. Antonio Vivaldistraat 150  1083 HP Amsterdam  Netherlands
+- **Opinion adopted**
+    - 17/12/2015
+- **Marketing authorisation issued**
+    - 18/02/2016
+- **Revision**
+    - 20
 
 ## Assessment history
 
@@ -633,7 +620,15 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
+
+Feraccru : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (149.65 KB - PDF)
+
+**First published:** 25/06/2026
+
+[View](/en/documents/procedural-steps-after/feraccru-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Feraccru : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -643,6 +638,26 @@ English (EN) (220.66 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/feraccru-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Feraccru-VR-0000268118 : EPAR - Assessment Report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2933962
+
+English (EN) (8.01 MB - PDF)
+
+**First published:** 25/06/2026
+
+[View](/en/documents/variation-report/feraccru-vr-0000268118-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Feraccru (VR/0000268118)
+
+Adopted Reference Number: EMADOC-1700519818-2994500
+
+English (EN) (149.76 KB - PDF)
+
+**First published:** 27/03/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-feraccru-vr-0000268118_en.pdf)
+
 Feraccru-H-C-PSUSA-00010476-201808 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 Reference Number: EMA/CHMP/PRAC/501568/2019
@@ -651,7 +666,7 @@ English (EN) (116.48 KB - PDF)
 
 **First published:** 03/12/2019
 
-[View](/en/documents/scientific-conclusion/feraccru-h-c-psusa-00010476-201808-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/feraccru-h-c-psusa-00010476-201808-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Feraccru-H-C-2733-II-0010 : EPAR - Assessment Report - Variation
 
@@ -673,7 +688,7 @@ English (EN) (67.75 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-feraccru_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Feraccru : EPAR - Public assessment report
 
@@ -716,7 +731,6 @@ English (EN) (85.1 KB - PDF)
 ## More information on Feraccru
 
 - [EMEA-001195-PIP01-11-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001195-pip01-11-m07)
-- [Feraccru - opinion on variation to marketing authorisation](/en/medicines/human/variation/feraccru)
 
 ## Topics
 
@@ -724,6 +738,6 @@ English (EN) (85.1 KB - PDF)
 
 **This page was last updated on**
 
-20/05/2026
+25/06/2026
 
 ## Share this page

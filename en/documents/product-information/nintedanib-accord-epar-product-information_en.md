@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-14 17:04:14
-document_pages: 65
+document_datetime: 2026-06-25 10:16:09
+document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nintedanib-accord-epar-product-information_en.pdf
 document_name: nintedanib-accord-epar-product-information_en.pdf
 version: success
-processing_time: 20.1952831
-conversion_datetime: 2025-12-30 07:49:58.711316
+processing_time: 35.9548952
+conversion_datetime: 2026-07-04 14:52:35.500287
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -80,9 +80,9 @@ Paediatric patients: Treatment should be initiated only after involvement of a m
 
 ## Posology Adults
 
--  Idiopathic pulmonary fibrosis (IPF)
--  Other chronic fibrosing interstitial lung diseases (ILDs) with a progressive phenotype
--  Systemic sclerosis associated interstitial lung disease (SSc-ILD)
+- Idiopathic pulmonary fibrosis (IPF)
+- Other chronic fibrosing interstitial lung diseases (ILDs) with a progressive phenotype
+- Systemic sclerosis associated interstitial lung disease (SSc-ILD)
 
 The recommended dose is 150 mg nintedanib twice daily administered approximately 12 hours apart. The 100 mg twice daily dose is only recommended to be used in patients who do not tolerate the 150 mg twice daily dose.
 
@@ -100,8 +100,8 @@ For specific dose reduction recommendations for the management of adverse reacti
 
 ## Children and adolescents from 6 to 17 years old
 
--  Treatment of clinically significant, progressive fibrosing interstitial lung diseases (ILDs)
--  Treatment of systemic sclerosis associated interstitial lung disease (SSc-ILD)
+- Treatment of clinically significant, progressive fibrosing interstitial lung diseases (ILDs)
+- Treatment of systemic sclerosis associated interstitial lung disease (SSc-ILD)
 
 Growth must be regularly monitored, and evaluation of epiphyseal growth plate alteration via annual bone imaging is recommended in patients with open epiphyses. Treatment interruption should be considered in patients who develop signs of growth impairment or epiphyseal growth plates alterations (see sections 4.4 and 4.8).
 
@@ -120,6 +120,7 @@ Table 1: Nintedanib dose and reduced dose recommendation in milligrams (mg) by b
 | 33.5 - 57.4 kg                                                                                                                                                                                                                                               | 100 mg (one 100 mg capsule or four 25 mg capsules # ) twice daily                                                                                                                                                                                            | 75 mg (three 25 mg capsules # ) twice daily                                                                                                                                                                                                                  |
 | 57.5 kg and above                                                                                                                                                                                                                                            | 150 mg (one 150 mg capsule or six 25 mg capsules # ) twice daily                                                                                                                                                                                             | 100 mg (one 100 mg capsule or four 25 mg capsules # ) twice daily                                                                                                                                                                                            |
 | * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. |
+| ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg.                                                                                                                                   | ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg.                                                                                                                                   | ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg.                                                                                                                                   |
 
 # Nintedanib Accord is only available as 100 mg and 150 mg soft capsules. Thus, it is not possible to administer Nintedanib Accord to paediatric patients that require less than a full 100 mg dose. If an alternative dose is required, other nintedanib products offering such an option should be used.
 
@@ -141,11 +142,9 @@ The safety and efficacy of nintedanib have not been investigated in adult and pa
 
 ## Paediatric population
 
-The safety and efficacy of nintedanib have not been studied in paediatric patients below 6 years old. Therefore, treatment of children below 6 years old with nintedanib is not recommended. Nintedanib
+The safety and efficacy of nintedanib have not been studied in paediatric patients below 6 years old. Therefore, treatment of children below 6 years old with nintedanib is not recommended. Nintedanib has not been studied in patients with a weight below 13.5 kg and therefore, it is not recommended in this population (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-has not been studied in patients with a weight below 13.5 kg and therefore, it is not recommended in this population (see section 5.1).
 
 ## Method of administration
 
@@ -153,8 +152,8 @@ Nintedanib Accord is for oral use. The capsules should be taken with food, swall
 
 ## 4.3 Contraindications
 
--  Pregnancy (see section 4.6)
--  Hypersensitivity to nintedanib, to peanut or soya, or to any of the excipients listed in section 6.1.
+- Pregnancy (see section 4.6)
+- Hypersensitivity to nintedanib, to peanut or soya, or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -232,7 +231,7 @@ Administration of nintedanib may increase blood pressure. Systemic blood pressur
 
 ## Pulmonary hypertension
 
-Data on the use of nintedanib in patients with pulmonary hypertension is limited. Patients with significant pulmonary hypertension (cardiac index ≤ 2 L/min/m², or parenteral epoprostenol/treprostinil, or significant right heart failure) were excluded from the INBUILD and SENSCIS trials.
+Data on the use of nintedanib in patients with pulmonary hypertension is limited. Patients with significant pulmonar y hypertension (cardiac index ≤ 2 L/min/m², or parenteral epoprostenol/treprostinil, or significant right heart failure) were excluded from the INBUILD and SENSCIS trials.
 
 Nintedanib should not be used in patients with severe pulmonary hypertension. Close monitoring is recommended in patients with mild to moderate pulmonary hypertension.
 
@@ -242,11 +241,9 @@ No increased frequency of impaired wound healing was observed in the clinical tr
 
 ## Co-administration with pirfenidone
 
-In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with pirfenidone was investigated in patients with IPF. Based on these results, there is no evidence of a relevant
+In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with pirfenidone was investigated in patients with IPF. Based on these results, there is no evidence of a relevant pharmacokinetic drug-drug interaction between nintedanib and pirfenidone when administered in combination (see section 5.2). Given the similarity in safety profiles for both medicinal products, additive adverse reactions, including gastrointestinal and hepatic adverse events, may be expected. The benefit-risk balance of concomitant treatment with pirfenidone has not been established.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacokinetic drug-drug interaction between nintedanib and pirfenidone when administered in combination (see section 5.2). Given the similarity in safety profiles for both medicinal products, additive adverse reactions, including gastrointestinal and hepatic adverse events, may be expected. The benefit-risk balance of concomitant treatment with pirfenidone has not been established.
 
 ## Effect on QT interval
 
@@ -272,7 +269,9 @@ Particularities for the paediatric population are detailed below:
 
 Reversible epiphyseal growth plate alterations were observed in preclinical studies (see section 5.3). In the paediatric clinical trial, significant reductions in growth rate were not observed while receiving nintedanib. However, long term safety data in paediatric patients are not available.
 
-Growth must be regularly monitored, and evaluation of epiphyseal growth plate alteration via annual bone imaging is recommended in patients with open epiphyses. Treatment interruption should be considered in patients who develop signs of growth impairment or epiphyseal growth plates alterations.
+Growth must be regularly monitored, and evaluation of epiphyseal growth plate alteration via annual
+
+bone imaging is recommended in patients with open epiphyses. Treatment interruption should be considered in patients who develop signs of growth impairment or epiphyseal growth plates alterations.
 
 ## Tooth development disorders
 
@@ -288,7 +287,7 @@ Nintedanib is a substrate of P-gp (see section 5.2). Co-administration with the 
 
 <div style=\"page-break-after: always\"></div>
 
-Potent P-gp inducers (e.g. rifampicin, carbamazepine, phenytoin, and St. John's Wort) may decrease exposure to nintedanib. Selection of an alternate concomitant medicinal product with no or minimal Pgp induction potential should be considered.
+Potent Pgp inducers (e.g. rifampicin, carbamazepine, phenytoin, and St. John's Wort) may decrease exposure to nintedanib. Selection of an alternate concomitant medicinal product with no or minimal Pgp induction potential should be considered.
 
 ## Cytochrome (CYP)-enzymes
 
@@ -320,7 +319,7 @@ If the patient becomes pregnant while receiving nintedanib, treatment must be di
 
 ## Breast-feeding
 
-There is no information on the excretion of nintedanib and its metabolites in human milk. Pre-clinical studies showed that small amounts of nintedanib and its metabolites (≤ 0.5% of the administered dose) were secreted into milk of lactating rats. A risk to the newborns/infants cannot be excluded. Breast-feeding should be discontinued during treatment with nintedanib.
+There is no information on the excretion of nintedanib and its metabolites in human milk. Preclinical studies showed that small amounts of nintedanib and its metabolites (≤ 0.5% of the administered dose) were secreted into milk of lactating rats. A risk to the newborns/infants cannot be excluded. Breast-feeding should be discontinued during treatment with nintedanib.
 
 ## Fertility
 
@@ -429,7 +428,7 @@ In  clinical  trials,  the  frequency  of  patients  who  experienced  proteinur
 
 ## Paediatric population
 
-There are limited safety data for nintedanib in pediatric patients.
+## There are limited safety data for nintedanib in pediatric patients.
 
 A total of 39 patients aged 6 to 17 years were treated in a randomised, double-blind, placebocontrolled trial of 24 weeks duration, followed by open label treatment with nintedanib of variable duration (see section 5.1). Consistent with the safety profile seen in adult patients with IPF, other chronic fibrosing ILDs with progressive phenotype and SSc-ILD, the most frequently reported adverse reactions with nintedanib during placebo-controlled period were diarrhoea (38.5%), vomiting (26.9%), nausea (19.2%), abdominal pain (19.2%), and headache (11.5%).
 
@@ -521,7 +520,7 @@ Table 5: Proportion of FVC responders at 52 weeks in trials INPULSIS-1, INPULSIS
 |--------------------------------|-----------------------|-------------------------------|-----------------------|-------------------------------|------------------------------------|------------------------------------|
 |                                | Placebo               | Nintedanib 150 mg twice daily | Placebo               | Nintedanib 150 mg twice daily | Placebo                            | Nintedanib 150 mg twice daily      |
 | Number of analysed patients    | 204                   | 309                           | 219                   | 329                           | 423                                | 638                                |
-| 5%threshold                    |                       |                               |                       |                               |                                    |                                    |
+| 5% threshold                   |                       |                               |                       |                               |                                    |                                    |
 | Number (%) of FVC responders 1 | 78 (38.2)             | 163 (52.8)                    | 86 (39.3)             | 175 (53.2)                    | 164 (38.8)                         | 338 (53.0)                         |
 | Comparison vs placebo          | Comparison vs placebo |                               |                       |                               |                                    |                                    |
 | Odds ratio                     |                       | 1.85                          |                       | 1.79                          |                                    | 1.84                               |
@@ -552,11 +551,9 @@ Table 6: Frequency of patients with ≥ 10% absolute decline of FVC % predicted 
 
 ## Change from baseline in SGRQ total score at week 52
 
-In the pooled analysis of the INPULSIS trials, the baseline SGRQ scores were 39.51 in the nintedanib group and 39.58 in the placebo group. The estimated mean change from baseline to week 52 in SGRQ total score was smaller in the nintedanib group (3.53) than in the placebo group (4.96), with a
+In the pooled analysis of the INPULSIS trials, the baseline SGRQ scores were 39.51 in the nintedanib group and 39.58 in the placebo group. The estimated mean change from baseline to week 52 in SGRQ total score was smaller in the nintedanib group (3.53) than in the placebo group (4.96), with a difference between the treatment groups of -1.43 (95% CI: -3.09, 0.23; p=0.0923). Overall, the effect of nintedanib on health-related quality of life as measured by the SGRQ total score is modest, indicating less worsening compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-difference between the treatment groups of -1.43 (95% CI: -3.09, 0.23; p=0.0923). Overall, the effect of nintedanib on health-related quality of life as measured by the SGRQ total score is modest, indicating less worsening compared to placebo.
 
 ## Time to first acute IPF exacerbation
 
@@ -598,7 +595,7 @@ Table 8: All-cause mortality over 52 weeks in trials INPULSIS-1, INPULSIS-2, and
 
 ## Long-term treatment with Nintedanib in patients with IPF (INPULSIS-ON)
 
-An open-label extension trial of nintedanib included 734 patients with IPF. Patients who completed the 52-  week treatment period in an INPULSIS trial received open-label nintedanib treatment in the extension trial INPULSIS-ON. Median exposure time for patients treated with nintedanib in both the INPULSIS and INPULSIS-ON trials was 44.7 months (range 11.9-68.3). The exploratory efficacy endpoints included the annual rate of decline in FVC over 192 weeks which was -135.1 (5.8) mL/year in all patients treated and were consistent with the annual rate of FVC decline in patients treated with nintedanib in  the INPULSIS phase III trials (-113.6 mL per year). The adverse event profile of nintedanib in INPULSIS-ON was consistent to that in the INPULSIS phase III trials.
+An open-label extension trial of nintedanib included 734 patients with IPF. Patients who completed the 52-  week treatment period in an INPULSIS trial received open-label nintedanib treatment in the extension trial INPULSIS-ON. Median exposure time for patients treated with nintedanib in both the INPULSIS and INPULSIS-ON trials was 44.7 months (range 11.9-68.3). The exploratory efficacy endpoints included the annual rate of decline in FVC over 192 weeks which was -135.1 (5.8) mL/year in all patients treated and were consistent with the annual rate of FVC decline in patients treated with nintedanib in the INPULSIS phase III trials (-113.6 mL per year). The adverse event profile of nintedanib in INPULSIS-ON was consistent to that in the INPULSIS phase III trials.
 
 ## IPF patients with advanced lung function impairment (INSTAGE)
 
@@ -610,7 +607,7 @@ The safety and tolerability profile of nintedanib in IPF patients with advanced 
 
 Concomitant treatment with nintedanib and pirfenidone has been investigated in an exploratory openlabel, randomised trial of nintedanib 150 mg twice daily with add-on pirfenidone (titrated to 801 mg three times a day) compared to nintedanib 150 mg twice daily alone in 105 randomised patients for 12 weeks. The primary endpoint was the percentage of patients with gastrointestinal adverse events from  baseline to week 12. Gastrointestinal adverse events were frequent and in line with the established safety profile of each component. Diarrhoea, nausea and vomiting were the most frequent adverse events reported in patients, treated with pirfenidone added to nintedanib versus nintedanib alone, respectively.
 
-Mean (SE) absolute changes from baseline in FVC at week 12 were -13.3 (17.4) mL in patients  treated with nintedanib with add-on pirfenidone (n=48) compared to -40.9 (31.4) mL in patients  treated with nintedanib alone (n=44).
+Mean (SE) absolute changes from baseline in FVC at week 12 were -13.3 (17.4) mL in patients  treated with nintedanib with addon pirfenidone (n=48) compared to -40.9 (31.4) mL in patients  treated with nintedanib alone (n=44).
 
 ## Other chronic fibrosing interstitial lung diseases (ILDs) with a progressive phenotype
 
@@ -649,7 +646,7 @@ Similar results were observed in the co-primary population of patients with HRCT
 
 Figure 2 Forest plot of the annual rate of decline in FVC (mL) over 52 weeks in the patient populations
 
-|                                                                           | N analysed   | N analysed        | Estimate [95% C1]   | p-value   |
+|                                                                           | N analysed   | N analysed        | Estimate [95% CI]   | p-value   |
 |---------------------------------------------------------------------------|--------------|-------------------|---------------------|-----------|
 |                                                                           | Placebo      | Nintedanib 150bid |                     |           |
 | Overall population                                                        | 331          | 332               | 107.0 [65.4; 148.5] | <.0001    |
@@ -670,6 +667,8 @@ Figure 3 Mean (SEM) observed FVC change from baseline (mL) over 52 weeks
 
 <!-- image -->
 
+bid = twice daily
+
 In addition, favourable effects of nintedanib were observed on the adjusted mean absolute change from baseline in FVC % predicted at week 52. The adjusted mean absolute change from baseline to week 52 in FVC % predicted was lower in the nintedanib group (-2.62%) than in the placebo group (-5.86%). The adjusted mean difference between the treatment groups was 3.24 (95% CI: 2.09, 4.40, nominal p&lt;0.0001).
 
 ## FVC responder analysis
@@ -681,7 +680,7 @@ Table 10: Proportion of FVC responders at 52 weeks in INBUILD
 |                                | Placebo    | Nintedanib 150 mg twice daily   |
 |--------------------------------|------------|---------------------------------|
 | Number of analysed patients    | 331        | 332                             |
-| 5%threshold                    |            |                                 |
+| 5% threshold                   |            |                                 |
 | Number (%) of FVC responders 1 | 104 (31.4) | 158 (47.6)                      |
 | Comparison vs placebo          |            |                                 |
 | Odds ratio 2                   |            | 2.01                            |
@@ -704,7 +703,7 @@ Table 10: Proportion of FVC responders at 52 weeks in INBUILD
 
 Over the whole trial, the proportion of patients with at least one event of first acute ILD exacerbation or death was 13.9% in the nintedanib group and 19.6% in the placebo group. The HR was 0.67 (95% CI: 0.46, 0.98; nominal p=0.0387), indicating a 33% reduction in the risk of first acute ILD exacerbation or death in patients receiving nintedanib compared to placebo (Figure 4).
 
-Figure 4 Kaplan-Meier plot of time to first acute ILD exacerbation or death over the whole trial
+Figure 4 Kaplan -Meier plot of time to first acute ILD exacerbation or death over the whole trial
 
 <!-- image -->
 
@@ -714,7 +713,7 @@ The risk of death was lower in the nintedanib group compared to the placebo grou
 
 ## Time to progression (≥ 10% absolute decline of FVC % predicted) or death
 
-In the INBUILD trial, the risk of progression (≥ 10% absolute decline of FVC % predicted) or death was reduced for patients treated with nintedanib. The proportion of patients with an event was 40.4% in the nintedanib group and 54.7% in the placebo group. The HR was 0.66 (95% CI: 0.53, 0.83; p=0.0003), indicating a 34% reduction of the risk of progression (≥ 10% absolute decline of FVC % predicted) or death in patients receiving nintedanib compared to placebo.
+In the INBUILD tr ial, the risk of progression (≥ 10% absolute decline of FVC % predicted) or death was reduced for patients treated with nintedanib. The proportion of patients with an event was 40.4% in the nintedanib group and 54.7% in the placebo group. The HR was 0.66 (95% CI: 0.53, 0.83; p=0.0003), indicating a 34% reduction of the risk of progression (≥ 10% absolute decline of FVC % predicted) or death in patients receiving nintedanib compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -779,9 +778,7 @@ Table 12: Absolute change from baseline in FVC (mL) at week 52
 
 1 Based on Mixed Model for Repeated Measures (MMRM), with fixed categorical effects of ATA status, visit, treatment-by-visit interaction, baseline-by-visit interaction age, gender and height. Visit was the repeated measure. Within-patient errors were modelled by unstructured variance-covariance structure. Adjusted mean was based on all analysed patients in the model (not only patients with a baseline and measurement at week 52).
 
-Table 13:
-
-## Annual rate of decline in FVC (% predicted) over 52 weeks
+Table 13: Annual rate of decline in FVC (% predicted) over 52 weeks
 
 |                                     | Placebo    | Nintedanib 150 mg twice daily   |
 |-------------------------------------|------------|---------------------------------|
@@ -816,28 +813,26 @@ Patients were randomised in a 2:1 ratio to receive either nintedanib twice daily
 
 The primary objectives of the InPedILD trial were to evaluate the dose-exposure and safety of nintedanib in children and adolescents with clinically significant fibrosing ILD. Efficacy was evaluated as a secondary objective only.
 
-The InPedILD trial enrolled children and adolescents aged 6 to 17 years with clinically significant
+The InPedILD trial enrolled children and adolescents aged 6 to 17 years with clinically significant fibrosing ILD and FVC of at least 25% predicted. Patients were classified as having fibrosing ILD based on evidence of fibrosis on two HRCT scans (with one HRCT scan conducted within the previous 12 months) or evidence of fibrosis on lung biopsy and one HRCT scan conducted within the previous 12 months.
 
 <div style=\"page-break-after: always\"></div>
-
-fibrosing ILD and FVC of at least 25% predicted. Patients were classified as having fibrosing ILD based on evidence of fibrosis on two HRCT scans (with one HRCT scan conducted within the previous 12 months) or evidence of fibrosis on lung biopsy and one HRCT scan conducted within the previous 12 months.
 
 Clinically significant disease was defined as a Fan score ≥ 3 or documented evidence of clinical progression over any time frame. Evidence of clinical progression was based on a relative decline in FVC ≥ 10% predicted, a relative decline in FVC of 5 -10% predicted with worsening symptoms, worsening fibrosis on HRCT or other measures of clinical worsening attributed to progressive pulmonary fibrosis (e.g. increased oxygen requirement, decreased diffusion capacity) although this was not a requirement for enrolment for patients with a Fan score of ≥ 3.
 
 In total, 39 patients were randomised (61.5% female). Baseline characteristics:
 
--  6-11 years: 12 patients, 12-17 years: 27 patients. The mean [standard deviation (SD)] age was 12.6 (3.3) years.
--  Mean (SD) weight was 42.2 kg (17.8 kg); 6-11 years: 26.6 kg (10.4 kg), 12-17 years: 49.1 kg (16.0 kg).
--  The overall baseline mean BMI-for-age-Z-score (SD) was -0.6 (1.8).
--  The overall mean FVC Z-score (SD) at baseline was -3.5 (1.9).
+- 6-11 years: 12 patients, 12-17 years: 27 patients. The mean [standard deviation (SD)] age was 12.6 (3.3) years.
+- Mean (SD) weight was 42.2 kg (17.8 kg); 6-11 years: 26.6 kg (10.4 kg), 12-17 years: 49.1 kg (16.0 kg).
+- The overall baseline mean BMI-for-age-Z-score (SD) was -0.6 (1.8).
+- The overall mean FVC Z-score (SD) at baseline was -3.5 (1.9).
 
 The most frequent single underlying ILD diagnoses of enrolled patients were:
 
--  'Surfactant protein deficiency' (nintedanib: 26.9%, placebo: 38.5%),
--  'Systemic sclerosis' (nintedanib: 15.4%, placebo: 23.1%),
--  'Toxic/radiation/drug-induced pneumonitis' (nintedanib: 11.5%, placebo 7.7%).
--  'Chronic hypersensitivity pneumonitis' was reported for 2 patients (nintedanib: 7.7%).
--  The remaining underlying ILD diagnoses reported for 1 patient each were:
+- ' S urfactant protein deficiency' (nintedanib: 26.9%, placebo: 38.5%),
+- ' S ystemic sclerosis' (nintedanib: 15.4%, placebo: 23.1%),
+- ' Toxic/radiation/druginduced pneumonitis' (nintedanib: 11.5%, placebo 7.7%).
+- ' Chronic hypersensitivity pneumonitis ' was reported for 2 patients (nintedanib: 7.7%).
+- The remaining underlying ILD diagnoses reported for 1 patient each were:
 - o Post-HSCT fibrosis,
 - o Juvenile RA,
 - o Juvenile idiopathic arthritis,
@@ -853,25 +848,24 @@ The most frequent single underlying ILD diagnoses of enrolled patients were:
 - o Idiopathic
 - o Sting-associated Vasculopathy.
 
-The primary endpoint results were:
+## The primary endpoint results were:
 
--  Exposure to Nintedanib:
-- o The exposure to nintedanib described as AUCτ,ss based on sampling at steady state  was broadly similar in children and adolescents and comparable to the AUCτ,ss observed in adults (see section 5.2).
--  Treatment-Emergent Adverse Events (Week 24):
+- Exposure to Nintedanib:
+- o The exposure to nintedanib described as AUC τ,ss based on sampling at steady state  was broadly similar in children and adolescents and comparable to the AUC τ,ss observed in adults (see section 5.2).
+- Treatment-Emergent Adverse Events (Week 24):
 - o Nintedanib group: 84.6% of patients (6-11 years: 75.0%, 12-17 years: 88.9%)
 - o Placebo group: 84.6% of patients (6-11 years: 100%, 12-17 years: 77.8%)
 
 Change from baseline in Forced Vital Capacity FVC % predicted was investigated as a secondary efficacy endpoint. Results (Figure 6):
 
-##  Week 24:
-
+- Week 24:
 - o Nintedanib group: Adjusted mean change = 0.31 (95% CI: -2.36, 2.98)
 - o Placebo group: Adjusted mean change = -0.89 (95% CI: -4.61, 2.82)
 - o Difference in FVC % predicted 1.21 (95% CI: -3.40, 5.81) in favour of nintedanib.
 
 <div style=\"page-break-after: always\"></div>
 
-##  Week 52:
+## · Week 52:
 
 - o Randomised Nintedanib group: Adjusted mean change = 0.79 (95% CI: -2.95, 4.53)
 - o Randomised Placebo group: Adjusted mean change = -0.98 (95% CI: -6.26, 4.30)
@@ -888,11 +882,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Nintedanib reached maximum plasma concentrations approximately 2-4 h after oral administration as soft gelatine capsule under fed conditions (range 0.5-8 h). The absolute bioavailability of a 100 mg dose was 4.69% (90% CI: 3.615-6.078) in healthy volunteers. Absorption and bioavailability are
+Nintedanib reached maximum plasma concentrations approximately 2-4 h after oral administration as soft gelatine capsule under fed conditions (range 0.5-8 h). The absolute bioavailability of a 100 mg dose was 4.69% (90% CI: 3.615-6.078) in healthy volunteers. Absorption and bioavailability are decreased by transporter effects and substantial first-pass metabolism. Nintedanib exposure increased dose proportionally in the dose range of 50-450 mg once daily and 150-300 mg twice daily. Steady state plasma concentrations were achieved within one week of dosing at the latest.
 
 <div style=\"page-break-after: always\"></div>
-
-decreased by transporter effects and substantial first-pass metabolism. Nintedanib exposure increased dose proportionally in the dose range of 50-450 mg once daily and 150-300 mg twice daily. Steady state plasma concentrations were achieved within one week of dosing at the latest.
 
 After food intake, nintedanib exposure increased by approximately 20% compared to administration under fasted conditions (CI: 95.3 - 152.5%) and absorption was delayed (median tmax fasted: 2.00 h; fed: 3.98 h).
 
@@ -918,15 +910,13 @@ Total plasma clearance after intravenous infusion was high (CL: 1 390 mL/min, 28
 
 ## Linearity/non-linearity
 
-The pharmacokinetics (PK) of nintedanib can be considered linear with respect to time (i.e. singledose data can be extrapolated to multiple-dose data). Accumulation upon multiple administrations was 1.04-fold for Cmax and 1.38-fold for AUCτ. Nintedanib trough concentrations remained stable for more than one year.
+The pharmacokinetics (PK) of nintedanib can be considered linear with respect to time (i.e. singledose data can be extrapolated to multiple-dose data). Accumulation upon multiple administrations was 1.04-fold for Cmax and 1.38-fold for AUC τ . Nintedanib trough concentrations remained stable for more than one year.
 
 ## Transport
 
-Nintedanib is a substrate of P-gp. For the interaction potential of nintedanib with this transporter, see section 4.5. Nintedanib was shown to be not a substrate or inhibitor of OATP-1B1, OATP-1B3,
+Nintedanib is a substrate of P-gp. For the interaction potential of nintedanib with this transporter, see section 4.5. Nintedanib was shown to be not a substrate or inhibitor of OATP-1B1, OATP-1B3, OATP-2B1, OCT-2, or MRP-2 in vitro . Nintedanib was also not a substrate of BCRP. Only a weak inhibitory potential on OCT-1, BCRP, and P-gp was observed in vitro which is considered to be of low clinical relevance. The same applies for nintedanib being a substrate of OCT-1.
 
 <div style=\"page-break-after: always\"></div>
-
-OATP-2B1, OCT-2, or MRP-2 in vitro . Nintedanib was also not a substrate of BCRP. Only a weak inhibitory potential on OCT-1, BCRP, and P-gp was observed in vitro which is considered to be of low clinical relevance. The same applies for nintedanib being a substrate of OCT-1.
 
 ## Population pharmocokinetic analysis in special populations
 
@@ -936,13 +926,13 @@ PopPK analyses indicated moderate effects on exposure to nintedanib depending on
 
 ## Age
 
-Exposure to nintedanib increased linearly with age. AUCτ,ss decreased by 16% for a 45-year old patient   and increased by 13% for a 76-year old patient relative to a patient with the median age of 62 years.
+Exposure to nintedanib increased linearly with age. AUC τ,ss decreased by 16% for a 45-year old patient   and increased by 13% for a 76-year old patient relative to a patient with the median age of 62 years.
 
 The age range covered by the analysis was 29 to 85 years; approximately 5% of the population were older than 75 years. Based on a PopPK model, an increase in nintedanib exposure of approximately 20-25% was observed in patients ≥ 75 years compared with patients under 65 years.
 
 ## Paediatric population
 
-Based on the analysis of pharmacokinetic data of study InPedILD (1199.337), oral administration of nintedanib according to the weight-based dosing algorithm resulted in exposure within the range observed in adult patients. The observed geometric mean AUCτ,ss (geometric coefficient of variation) exposures were 175 ng/mL·hr (85.1%) and 167 ng/mL·hr (83.6 %) in 10 patients aged 6 to 11 years old and 23 patients aged 12 to 17 years old, respectively.
+Based on the analysis of pharmacokinetic data of study InPedILD (1199.337), oral administration of nintedanib according to the weight-based dosing algorithm resulted in exposure within the range observed in adult patients. The observed geometric mean AUC τ,ss (geometric coefficient of variation) exposures were 175 ng/mL·hr (85.1%) and 167 ng/mL·hr (83.6 %) in 10 patients aged 6 to 11 years old and 23 patients aged 12 to 17 years old, respectively.
 
 Exposure-response analyses of the data of study InPedILD indicated an Emax-like relationship between exposure and FVC % predicted as well FVC Z-score, supported by adult data. For FVC % predicted, the EC50 was 4.4 ng/mL (relative standard error: 28.6%), while for FVC Z-score, the EC50 was 5.0 ng/mL (relative standard error: 75.3%).
 
@@ -950,7 +940,7 @@ Nintedanib was not studied in children and adolescents with hepatic impairment. 
 
 ## Body weight
 
-An inverse correlation between body weight and exposure to nintedanib was observed. AUCτ,ss  increased by 25% for a 50 kg patient (5 th percentile) and decreased by 19% for a 100 kg patient  (95 th percentile) relative to a patient with the median weight of 71.5 kg.
+An inverse correlation between body weight and exposure to nintedanib was observed. AUC τ,ss increased by 25% for a 50 kg patient (5 th percentile) and decreased by 19% for a 100 kg patient  (95 th percentile) relative to a patient with the median weight of 71.5 kg.
 
 ## Race
 
@@ -958,15 +948,13 @@ The population mean exposure to nintedanib was 33 - 50% higher in Chinese, Taiwa
 
 ## Hepatic impairment
 
-In a dedicated single dose phase I study and compared to healthy subjects, exposure to nintedanib  based on Cmax and AUC was 2.2-fold higher in volunteers with mild hepatic impairment (Child Pugh A; 90% CI  1.3  -  3.7  for  Cmax and  1.2  -  3.8  for  AUC,  respectively).  In  volunteers  with  moderate  hepatic impairment (Child Pugh B), exposure was 7.6-fold higher based on Cmax (90% CI 4.4 - 13.2) and 8.7fold higher (90% CI 5.7 - 13.1) based on AUC, respectively, compared to healthy volunteers.  Subjects
+In a dedicated single dose phase I study and compared to healthy subjects, exposure to nintedanib  based on Cmax and AUC was 2.2-fold higher in volunteers with mild hepatic impairment (Child Pugh A; 90% CI  1.3 -3.7  for  C max and  1.2 -3.8  for  AUC,  respectively).  In  volunteers  with  moderate  hepatic impairment (Child Pugh B), exposure was 7.6-fold higher based on Cmax (90% CI 4.4 -13.2) and 8.7fold higher (90% CI 5.7 -13.1) based on AUC, respectively, compared to healthy volunteers.  Subjects with severe hepatic impairment (Child Pugh C) have not been studied.
 
 <div style=\"page-break-after: always\"></div>
 
-with severe hepatic impairment (Child Pugh C) have not been studied.
-
 ## Concomitant treatment with pirfenidone
 
-In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with pirfenidone was investigated in patients with IPF. Group 1 received a single dose of 150 mg nintedanib before and after uptitration to 801 mg pirfenidone three times a day at steady state (N=20 patients treated). Group 2 received steady state treatment of 801 mg pirfenidone three times a day and had a PK profiling before and after at least 7 days of co-treatment with 150 mg nintedanib twice daily (N=17 patients treated). In group 1, the adjusted geometric mean ratios (90% confidence interval (CI)) were 93% (57% - 151%) and 96% (70% - 131%) for Cmax and AUC0-tz of nintedanib, respectively (n=12 for intraindividual comparison). In group 2, the adjusted geometric mean ratios (90% CI)) were 97% (86% - 110%) and 95% (86% - 106%) for Cmax,ss and AUCτ,ss of pirfenidone, respectively (n=12 for intraindividual comparison).
+In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with pirfenidone was investigated in patients with IPF. Group 1 received a single dose of 150 mg nintedanib before and after uptitration to 801 mg pirfenidone three times a day at steady state (N=20 patients treated). Group 2 received steady state treatment of 801 mg pirfenidone three times a day and had a PK profiling before and after at least 7 days of co-treatment with 150 mg nintedanib twice daily (N=17 patients treated). In group 1, the adjusted geometric mean ratios (90% confidence interval (CI)) were 93% (57% - 151%) and 96% (70% - 131%) for Cmax and AUC0-tz of nintedanib, respectively (n=12 for intraindividual comparison). In group 2, the adjusted geometric mean ratios (90% CI)) were 97% (86% - 110%) and 95% (86% - 106%) for Cmax,ss and AUC τ,ss of pirfenidone, respectively (n=12 for intraindividual comparison).
 
 Based on these results, there is no evidence of a relevant pharmacokinetic drug-drug interaction between nintedanib and pirfenidone when administered in combination (see section 4.4).
 
@@ -976,13 +964,13 @@ In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with b
 
 ## Concomitant treatment with oral hormonal contraceptives
 
-In a dedicated pharmacokinetic study, female patients with SSc-ILD received a single dose of a combination of 30 µg ethinylestradiol and 150 µg levonorgestrel before and after twice daily dosing of 150 mg nintedanib for at least 10 days. The adjusted geometric mean ratios (90% confidence interval (CI)) were 117% (108%-127%; Cmax) and 101% (93% - 111%; AUC0-tz) for ethinylestradiol and 101% (90%-113%; Cmax) and 96% (91%-102%; AUC0-tz) for levonorgestrel, respectively (n=15), indicating that co-administration of nintedanib has no relevant effect on the plasma exposure of  ethinylestradiol and levonorgestrel.
+In a dedicated pharmacokinetic study, female patients with SSc-ILD received a single dose of a combination of 30 µg ethinylestradiol and 150 µg levonorgestrel before and after twice daily dosing of 150 mg nintedanib for at least 10 days. The adjusted geometric mean ratios (90% confidence interval (CI)) were 117% (108%-127%; Cmax) and 101% (93% - 111%; AUC0 -tz) for ethinylestradiol and 101% (90%-113%; Cmax) and 96% (91%-102%; AUC0 -tz) for levonorgestrel, respectively (n=15), indicating that co-administration of nintedanib has no relevant effect on the plasma exposure of  ethinylestradiol and levonorgestrel.
 
 ## Exposure-response relationship
 
 Exposure-response analyses of patients with IPF and other chronic fibrosing ILDs with a progressive phenotype, indicated a weak relationship between nintedanib plasma exposure and ALT and/or AST elevations. Actual administered dose might be the better predictor for the risk of developing diarrhoea of any intensity, even if plasma exposure as risk determining factor could not be ruled out (see section 4.4).
 
-For exposure-response analyses in paediatric population, see sub-section paediatric population.
+For exposure -response analyses in paediatric population, see sub-section paediatric population.
 
 ## 5.3 Preclinical safety data
 
@@ -1066,13 +1054,7 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est,
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Nintedanib Accord 100 mg soft capsules
-
-## Nintedanib Accord 150 mg soft capsules
-
-```
-EU/1/24/1803/001 EU/1/24/1803/002 EU/1/24/1803/003 EU/1/24/1803/004 EU/1/24/1803/005 EU/1/24/1803/006 EU/1/24/1803/007 EU/1/24/1803/008 EU/1/24/1803/009 EU/1/24/1803/010
-```
+## Nintedanib Accord 100 mg soft capsules EU/1/24/1803/001 EU/1/24/1803/002 EU/1/24/1803/003 EU/1/24/1803/004 EU/1/24/1803/005 EU/1/24/1803/006 Nintedanib Accord 150 mg soft capsules EU/1/24/1803/007 EU/1/24/1803/008 EU/1/24/1803/009 EU/1/24/1803/010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1082,7 +1064,7 @@ Date of first authorisation: 19 April 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1108,6 +1090,8 @@ Accord Healthcare B.V. Winthontlaan 200, 3526 KV Utrecht, Netherlands
 
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park, Paola PLA 3000, Malta
 
+Accord Healthcare Single Member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -1116,20 +1100,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1192,7 +1176,15 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6 a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona, s/n
+
+Edifici Est, 6 a Planta
+
+08039 Barcelona
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1216,7 +1208,7 @@ Lot
 
 Nintedanib Accord 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1272,8 +1264,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1293,7 +1284,7 @@ Lot
 
 Nintedanib Accord 100 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1356,6 +1347,7 @@ EU/1/24/1803/003 EU/1/24/1803/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1425,7 +1417,15 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona, s/n
+
+Edifici Est, 6a Planta
+
+08039 Barcelona
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1448,7 +1448,7 @@ Lot
 
 Nintedanib Accord 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1466,13 +1466,13 @@ NN
 |--------------------------------------------|
 | BLISTER (100 mg)                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Nintedanib Accord 100 mg soft capsules nintedanib
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Accord
 
@@ -1491,17 +1491,6 @@ Lot
 
 Oral use
 
-<div style=\"page-break-after: always\"></div>
-
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
 
 BLISTER (150 mg)
@@ -1518,13 +1507,15 @@ Accord
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
 ## 5. OTHER
 
 Oral use
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1600,7 +1591,7 @@ Based on this information your doctor may do some blood tests, for example to ch
 
 Inform your doctor immediately while taking this medicine,
 
-- -if you get diarrhoea. Treating diarrhoea early is important (see section 4, 'Posiible side effects');
+- -if you get diarrhoea. Treating diarrhoea early is important (see section 4 , 'Posiible side effects' );
 - -if you vomit or feel sick (nausea);
 - -if you have unexplained symptoms such as yellowing of your skin or the white part of your eyes (jaundice), dark or brown (tea coloured) urine, pain on the upper right side of your stomach area (abdomen), bleeding or bruising more easily than normal, or feeling tired. This could be symptoms of serious liver problems;
 - -if you have severe pain in your stomach, fever, chills, sickness, vomiting, or abdominal rigidity or bloating, as these could be symptoms of a hole in the wall of your gut ('gastrointestinal perforation'). Also, tell your doctor if you had peptic ulcers or diverticular disease in the past, or are concomitantly treated with anti-inflammatory drugs (NSAIDs) (used to treat pain relief and swelling) or steroids (used for inflammation and allergies), as this may increase this risk;
@@ -1625,7 +1616,7 @@ Your doctor may perform regular dental examinations at least every 6 months unti
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including herbal medicines and medicines obtained without a prescription.
 
-Nintedanib Accord can interact with certain other medicines. The following medicines are examples that may increase the levels of nintedanib in your blood, and hence may increase the risk for side effects (see section 4, 'Possible side effects'):
+Nintedanib Accord can interact with certain other medicines. The following medicines are examples that may increase the levels of nintedanib in your blood, and hence may increase the risk for side effects (see section 4 , 'Possible side effects' ):
 
 - -a medicine used to treat fungal infections (ketoconazole)
 - -a medicine used to treat bacterial infections (erythromycin)
@@ -1666,13 +1657,13 @@ Nintedanib Accord may have minor influence on your ability to drive and use mach
 
 <div style=\"page-break-after: always\"></div>
 
-If you are allergic to soya or peanut, do not take this medicine (see section 2, under 'Do not take Nintedanib Accord).
+If you are allergic to soya or peanut, do not take this medicine (see section 2 , under 'Do not take Nintedanib Accord).
 
 ## 3. How to take Nintedanib Accord
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Take the capsules twice daily approximately 12 hours apart at about the same time every day, for example one  capsule in the morning and one capsule in the evening. This ensures that a steady amount of nintedanib is maintained in your blood stream. Swallow the whole capsules with water and do not chew the capsules. It is recommended that you take the capsules with food, i.e. during or immediately before or after a meal. Do not open or crush the capsule (see section 5, under 'How to store Nintedanib Accord').
+Take the capsules twice daily approximately 12 hours apart at about the same time every day, for example one  capsule in the morning and one capsule in the evening. This ensures that a steady amount of nintedanib is maintained in your blood stream. Swallow the whole capsules with water and do not chew the capsules. It is recommended that you take the capsules with food, i.e. during or immediately before or after a meal. Do not open or crush the capsule (see section 5, under 'How to store Nintedanib Accord ' ).
 
 For the ease of swallowing, you can take the capsules with a small amount (one teaspoonful) of cold or room temperature soft food, such as apple sauce or chocolate pudding. Swallow immediately and do not chew the capsule, to ensure it stays intact.
 
@@ -1865,7 +1856,7 @@ This medicinal product does not require any special storage conditions.
 
 Do not use this medicine if you notice that the blister containing the capsules is opened or a capsule is broken.
 
-If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3, 'How to take Nintedanib Accord').
+If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3, 'How to take Nintedanib Accord' ).
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1878,7 +1869,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Capsule fill:
 
-Triglycerides, medium-chain, Lauroyl macrogolglycerides, lecithin (E322) (see section 2, under 'Do not take Nintedanib Accord')
+Triglycerides, medium-chain, Lauroyl macrogolglycerides, lecithin (E322) (see section 2 , under 'Do not take Nintedanib Accord' )
 
 Capsule shell:
 
@@ -1913,21 +1904,23 @@ Accord Healthcare B.V. Winthontlaan 200, 3526 KV Utrecht, Netherlands
 
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park, Paola PLA 3000, Malta
 
+Accord Healthcare Single Member S.A. 64th Km National Road Athens,
+
+Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
 Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
-EL
-
-Win Medica Α.Ε.
-
-Τηλ: +30 210 74 88 821
+EL Win Medica Α.Ε. Τηλ: +30 210 74 88 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1999,7 +1992,7 @@ Based on this information your doctor may do some blood tests, for example to ch
 
 Inform your doctor immediately while taking this medicine,
 
-- -if you get diarrhoea. Treating diarrhoea early is important (see section 4, 'Possible side effects');
+- -if you get diarrhoea. Treating diarrhoea early is important (see section 4, 'Possible side effects' );
 - -if you vomit or feel sick (nausea);
 - -if you have unexplained symptoms such as yellowing of your skin or the white part of your eyes (jaundice), dark or brown (tea coloured) urine, pain on the upper right side of your stomach area (abdomen), bleeding or bruising more easily than normal, or feeling tired. This could be symptoms of serious liver problems;
 - -if you have severe pain in your stomach, fever, chills, sickness, vomiting, or abdominal rigidity or bloating, as these could be symptoms of a hole in the wall of your gut ('gastrointestinal perforation'). Also, tell your doctor if you had peptic ulcers or diverticular disease in the past, or are concomitantly treated with anti-inflammatory drugs (NSAIDs) (used to treat pain relief and swelling) or steroids (used for inflammation and allergies), as this may increase this risk;
@@ -2024,7 +2017,7 @@ Your doctor may perform regular dental examinations at least every 6 months unti
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including herbal medicines and medicines obtained without a prescription.
 
-Nintedanib Accord can interact with certain other medicines. The following medicines are examples that may increase the levels of nintedanib in your blood, and hence may increase the risk for side effects (see section 4, 'Possible side effects'):
+Nintedanib Accord can interact with certain other medicines. The following medicines are examples that may increase the levels of nintedanib in your blood, and hence may increase the risk for side effects (see section 4 , 'Possible side effects' ):
 
 - -a medicine used to treat fungal infections (ketoconazole)
 - -a medicine used to treat bacterial infections (erythromycin)
@@ -2065,13 +2058,13 @@ Nintedanib Accord may have minor influence on your ability to drive and use mach
 
 <div style=\"page-break-after: always\"></div>
 
-If you are allergic to soya or peanut, do not take this medicine (see section 2, under 'Do not take Nintedanib Accord').
+If you are allergic to soya or peanut, do not take this medicine (see section 2 , under 'Do not take Nintedanib Accord ' ).
 
 ## 3. How to take Nintedanib Accord
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Take the capsules twice daily approximately 12 hours apart at about the same time every day, for example one  capsule in the morning and one capsule in the evening. This ensures that a steady amount of nintedanib is maintained in your blood stream. Swallow the whole capsules with water and do not chew the capsules. It is recommended that you take the capsules with food, i.e. during or immediately before or after a meal. Do not open or crush the capsule (see section 5, under 'How to store Nintedanib Accord').
+Take the capsules twice daily approximately 12 hours apart at about the same time every day, for example one  capsule in the morning and one capsule in the evening. This ensures that a steady amount of nintedanib is maintained in your blood stream. Swallow the whole capsules with water and do not chew the capsules. It is recommended that you take the capsules with food, i.e. during or immediately before or after a meal. Do not open or crush the capsule (see section 5 , under 'How to store Nintedanib Accord ').
 
 For the ease of swallowing, you can take the capsules with a small amount (one teaspoonful) of cold or room temperature soft food, such as apple sauce or chocolate pudding. Swallow immediately and do not chew the capsule, to ensure it stays intact.
 
@@ -2165,7 +2158,7 @@ Uncommon side effects (may affect up to 1 in 100 people)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Increased amount of protein in your urine (proteinuria)
+## -Increased amount of protein in your urine (proteinuria)
 
 ## Not known (cannot be estimated from the available data)
 
@@ -2266,7 +2259,7 @@ This medicinal product does not require any special storage conditions.
 
 Do not use this medicine if you notice that the blister containing the capsules is opened or a capsule is broken.
 
-If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3, 'How to take Nintedanib Accord').
+If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3 , 'How to take Nintedanib Accord' ).
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2281,7 +2274,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Capsule fill:
 
-Triglycerides, medium-chain, Lauroyl macrogolglycerides, lecithin (E322) (see section 2 under 'Do not take Nintedanib Accord')
+Triglycerides, medium-chain, Lauroyl macrogolglycerides, lecithin (E322) (see section 2 under 'Do not take Nintedanib Accord' )
 
 Capsule shell:
 
@@ -2314,20 +2307,18 @@ Accord Healthcare B.V. Winthontlaan 200, 3526 KV Utrecht, Netherlands
 
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park, Paola PLA 3000, Malta
 
+Accord Healthcare Single Member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
 Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
-EL
-
-Win Medica Α.Ε.
-
-Τηλ: +30 210 74 88 821
+EL Win Medica Α.Ε. Τηλ: +30 210 74 88 821
 
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

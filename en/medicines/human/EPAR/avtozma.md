@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-09 13:57:00
+document_datetime: 2026-06-30 11:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avtozma.html
 document_name: avtozma.html
 version: success
-processing_time: 0.1790428
-conversion_datetime: 2026-06-10 13:37:05.227484
+processing_time: 0.1828211
+conversion_datetime: 2026-07-04 13:12:50.623234
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Avtozma
-
 # Avtozma
 
 [RSS](/en/individual-human-medicine.xml/253176)
@@ -139,7 +63,7 @@ Avtozma is also used to treat:
 
 Avtozma can also be used in adults with COVID-19 who are receiving treatment with corticosteroid medicines by mouth or injection and require extra oxygen or mechanical ventilation (breathing assisted by a machine).
 
-Avtozma contains the active substance tocilizumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Avtozma is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Avtozma is RoActemra. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Avtozma contains the active substance tocilizumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Avtozma is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Avtozma is RoActemra.
 
 Expand section
 
@@ -205,7 +129,7 @@ English (EN) (139.34 KB - PDF)
 
 [View](/en/documents/overview/avtozma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-691)
+[Other languages (22)](#file-language-dropdown-949)
 
 български (BG) (167.18 KB - PDF)
 
@@ -341,9 +265,9 @@ svenska (SV) (136.22 KB - PDF)
 
 Avtozma : EPAR - Risk management plan
 
-English (EN) (1.55 MB - PDF)
+English (EN) (1.25 MB - PDF)
 
-**First published:** 04/04/2025
+**First published:** 04/04/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/rmp/avtozma-epar-risk-management-plan_en.pdf)
 
@@ -357,7 +281,7 @@ English (EN) (2.64 MB - PDF)
 
 [View](/en/documents/product-information/avtozma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-434)
 
 български (BG) (2.19 MB - PDF)
 
@@ -503,15 +427,16 @@ norsk (NO) (1.77 MB - PDF)
 
 [View](/no/documents/product-information/avtozma-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000280589
+**Latest procedure affecting product information:** VR/0000350606
 
-11/12/2025
+24/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -529,7 +454,7 @@ English (EN) (26.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-780)
+[Other languages (24)](#file-language-dropdown-655)
 
 български (BG) (56.81 KB - PDF)
 
@@ -677,28 +602,19 @@ norsk (NO) (21.44 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Avtozma
-
-Active substance
-
-tocilizumab
-
-International non-proprietary name (INN) or common name
-
-tocilizumab
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Juvenile Rheumatoid
-- Cytokine Release Syndrome
-- COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC07
+- **Name of medicine**
+    - Avtozma
+- **Active substance**
+    - tocilizumab
+- **International non-proprietary name (INN) or common name**
+    - tocilizumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Juvenile Rheumatoid
+        - Cytokine Release Syndrome
+        - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC07
 
 ### Pharmacotherapeutic group
 
@@ -755,35 +671,20 @@ Avtozma is indicated for the treatment of Giant Cell Arteritis (GCA) in adult pa
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006196
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Celltrion Healthcare Hungary Kft.
-
-1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
-
-Opinion adopted
-
-12/12/2024
-
-Marketing authorisation issued
-
-14/02/2025
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/006196
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Celltrion Healthcare Hungary Kft. 1062 Budapest  Váci út 1-3. WestEnd Office Building B torony  Hungary
+- **Opinion adopted**
+    - 12/12/2024
+- **Marketing authorisation issued**
+    - 14/02/2025
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -795,9 +696,9 @@ Collapse section
 
 Avtozma: EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (164.15 KB - PDF)
+English (EN) (180.74 KB - PDF)
 
-**First published:** 07/04/2025 **Last updated:** 26/01/2026
+**First published:** 07/04/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/procedural-steps-after/avtozma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -841,7 +742,7 @@ English (EN) (2.04 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-98)
+[Other languages (24)](#file-language-dropdown-564)
 
 български (BG) (1.65 MB - DOCX)
 
@@ -993,6 +894,6 @@ norsk (NO) (1.56 MB - DOCX)
 
 **This page was last updated on**
 
-09/06/2026
+30/06/2026
 
 ## Share this page

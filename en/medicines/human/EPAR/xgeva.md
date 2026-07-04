@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-19 16:45:00
+document_datetime: 2026-06-30 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xgeva.html
 document_name: xgeva.html
 version: success
-processing_time: 0.1428608
-conversion_datetime: 2026-03-25 12:27:07.219338
+processing_time: 0.1977692
+conversion_datetime: 2026-07-04 12:58:58.326854
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Xgeva
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Xgeva used?
+### How is Xgeva used?
 
 Xgeva can only be obtained with a prescription. It is available as a solution for injection under the skin.
 
@@ -71,11 +71,11 @@ Patients should take calcium and vitamin D supplements while being treated with 
 
 For more information about using Xgeva, see the package leaflet or contact a doctor or pharmacist.
 
-## How does Xgeva work?
+### How does Xgeva work?
 
 The active substance in Xgeva, denosumab, is a monoclonal antibody which has been designed to recognise and attach to a protein called RANKL. This protein activates osteoclasts, the cells in the body that are involved in breaking down bone tissue. By attaching to RANKL and blocking it, denosumab reduces the formation and activity of the osteoclasts. This reduces the loss of bone, making fractures and other serious bone complications less likely. The cells in giant cell tumour of bone are also activated via RANKL, and treatment with denosumab prevents them from growing and breaking down bone, allowing normal bone to replace the tumour.
 
-## What benefits of Xgeva have been shown in studies?
+### What benefits of Xgeva have been shown in studies?
 
 **Prevention of bone complications**
 
@@ -97,7 +97,7 @@ The first study involved 37 patients, 86 % of whom responded to treatment with X
 
 In the second study which involved 507 patients treatment with Xgeva prevented surgery in about half (109 of 225) of the group in whom surgery would have resulted in complications. Of the remainder, 84 were able to have less extensive surgery than previously planned. About 20% of patients were able to have complete surgical removal of the cancer. For 31 patients their disease got worse during treatment.
 
-## What are the risks associated with Xgeva?
+### What are the risks associated with Xgeva?
 
 The most common side effects with Xgeva (seen in more than 1 patient in 10) are hypocalcaemia (low levels of calcium in the blood), pain in the muscles and bones, dyspnoea (difficulty breathing) and diarrhoea. Other common side effects (seen in up to 1 patient in 10) are development of another form of cancer in patients with advanced cancer, hypophosphataemia (low levels of phosphate in the blood), excessive sweating, tooth loss and osteonecrosis in the jaw (damage to the bones of the jaw, which could lead to pain, sores in the mouth and loose teeth).
 
@@ -105,13 +105,13 @@ Xgeva must not be used in patients with wounds from dental or mouth surgery have
 
 For the full list of side effects and restrictions with Xgeva, see the package leaflet.
 
-## Why is Xgeva authorised in the EU?
+### Why is Xgeva authorised in the EU?
 
 The European Medicines Agency decided that Xgeva's benefits are greater than its risks for patients with cancers that has spread to the bone, and it can be authorised for use in the EU. The Agency noted that there is a need for an effective treatment for bone disease in advanced cancer, particularly for patients with kidney problems since currently available treatments can be toxic for the kidneys. The Agency considered that Xgeva was effective in preventing bone-related events and was less toxic to the kidneys and easier to use than existing treatments.
 
 For patients with giant cell tumour of bone the possibility of complete surgical removal of the tumour after treatment and the reduction in extent of the surgery in some patients were considered clinically important. The Agency considered that the benefits of Xgeva in giant cell tumour of bone were greater than the risks, and recommended that it be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xgeva?
+### What measures are being taken to ensure the safe and effective use of Xgeva?
 
 The company that markets Xgeva will provide a card to inform patients about the risk of osteonecrosis of the jaw and to instruct them to contact their doctor if they have symptoms.
 
@@ -119,7 +119,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Xgeva are continuously monitored. Side effects reported with Xgeva are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xgeva
+### Other information about Xgeva
 
 Xgeva received a marketing authorisation valid throughout the EU on 13 July 2011.
 
@@ -133,7 +133,7 @@ English (EN) (81 KB - PDF)
 
 [View](/en/documents/overview/xgeva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-248)
+[Other languages (22)](#file-language-dropdown-26)
 
 български (BG) (108.45 KB - PDF)
 
@@ -165,7 +165,7 @@ Deutsch (DE) (80.68 KB - PDF)
 
 [View](/de/documents/overview/xgeva-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (77.86 KB - PDF)
+eesti (ET) (77.86 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 05/08/2019
 
@@ -195,13 +195,13 @@ italiano (IT) (78.46 KB - PDF)
 
 [View](/it/documents/overview/xgeva-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (103.98 KB - PDF)
+latviešu (LV) (103.98 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 05/08/2019
 
 [View](/lv/documents/overview/xgeva-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (104.49 KB - PDF)
+lietuvių (LT) (104.49 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 05/08/2019
 
@@ -255,7 +255,7 @@ slovenščina (SL) (100.24 KB - PDF)
 
 [View](/sl/documents/overview/xgeva-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (77.48 KB - PDF)
+suomi (FI) (77.48 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 05/08/2019
 
@@ -279,167 +279,168 @@ English (EN) (1.46 MB - PDF)
 
 Xgeva : EPAR - Product Information
 
-English (EN) (798.38 KB - PDF)
+English (EN) (782.42 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/en/documents/product-information/xgeva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-206)
+[Other languages (24)](#file-language-dropdown-293)
 
-български (BG) (957.73 KB - PDF)
+български (BG) (887.16 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/bg/documents/product-information/xgeva-epar-product-information_bg.pdf)
 
-español (ES) (922.33 KB - PDF)
+español (ES) (855.11 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/es/documents/product-information/xgeva-epar-product-information_es.pdf)
 
-čeština (CS) (986.28 KB - PDF)
+čeština (CS) (896.59 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/cs/documents/product-information/xgeva-epar-product-information_cs.pdf)
 
-dansk (DA) (911.51 KB - PDF)
+dansk (DA) (839.92 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/da/documents/product-information/xgeva-epar-product-information_da.pdf)
 
-Deutsch (DE) (945.73 KB - PDF)
+Deutsch (DE) (863.54 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/de/documents/product-information/xgeva-epar-product-information_de.pdf)
 
-eesti keel (ET) (894.31 KB - PDF)
+eesti (ET) (831.53 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/et/documents/product-information/xgeva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (963.76 KB - PDF)
+ελληνικά (EL) (895.05 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/el/documents/product-information/xgeva-epar-product-information_el.pdf)
 
-français (FR) (967.67 KB - PDF)
+français (FR) (888.38 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/fr/documents/product-information/xgeva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (925.16 KB - PDF)
+hrvatski (HR) (880.58 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/hr/documents/product-information/xgeva-epar-product-information_hr.pdf)
 
-íslenska (IS) (896.97 KB - PDF)
+italiano (IT) (859.69 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
-
-[View](/is/documents/product-information/xgeva-epar-product-information_is.pdf)
-
-italiano (IT) (927.99 KB - PDF)
-
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/it/documents/product-information/xgeva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (928.82 KB - PDF)
+latviešu (LV) (862.52 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/lv/documents/product-information/xgeva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (948.51 KB - PDF)
+lietuvių (LT) (876.51 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/lt/documents/product-information/xgeva-epar-product-information_lt.pdf)
 
-magyar (HU) (960.28 KB - PDF)
+magyar (HU) (891.42 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/hu/documents/product-information/xgeva-epar-product-information_hu.pdf)
 
-Malti (MT) (1.04 MB - PDF)
+Malti (MT) (941.17 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/mt/documents/product-information/xgeva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (909.45 KB - PDF)
+Nederlands (NL) (840.39 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/nl/documents/product-information/xgeva-epar-product-information_nl.pdf)
 
-norsk (NO) (907.16 KB - PDF)
+polski (PL) (886.8 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
-
-[View](/no/documents/product-information/xgeva-epar-product-information_no.pdf)
-
-polski (PL) (960.48 KB - PDF)
-
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/pl/documents/product-information/xgeva-epar-product-information_pl.pdf)
 
-português (PT) (913.42 KB - PDF)
+português (PT) (846.49 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/pt/documents/product-information/xgeva-epar-product-information_pt.pdf)
 
-română (RO) (955.01 KB - PDF)
+română (RO) (882.08 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/ro/documents/product-information/xgeva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (987.64 KB - PDF)
+slovenčina (SK) (898.51 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/sk/documents/product-information/xgeva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (916.83 KB - PDF)
+slovenščina (SL) (845.36 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/sl/documents/product-information/xgeva-epar-product-information_sl.pdf)
 
-Suomi (FI) (901.41 KB - PDF)
+suomi (FI) (825.77 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/fi/documents/product-information/xgeva-epar-product-information_fi.pdf)
 
-svenska (SV) (896.72 KB - PDF)
+svenska (SV) (831.02 KB - PDF)
 
-**First published:** 15/08/2011 **Last updated:** 29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
 
 [View](/sv/documents/product-information/xgeva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280127
+Íslenska (IS) (834.56 KB - PDF)
 
-29/07/2025
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
+
+[View](/is/documents/product-information/xgeva-epar-product-information_is.pdf)
+
+norsk (NO) (836.88 KB - PDF)
+
+**First published:** 15/08/2011 **Last updated:** 30/06/2026
+
+[View](/no/documents/product-information/xgeva-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000320535
+
+12/03/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -457,7 +458,7 @@ English (EN) (51.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-658)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (58.86 KB - PDF)
 
@@ -489,7 +490,7 @@ Deutsch (DE) (56.56 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (49.44 KB - PDF)
+eesti (ET) (49.44 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
@@ -513,25 +514,19 @@ hrvatski (HR) (51.41 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (52.22 KB - PDF)
-
-**First published:** 15/08/2011 **Last updated:** 29/04/2024
-
-[View](/is/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (69.35 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
 [View](/it/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (53.41 KB - PDF)
+latviešu (LV) (53.41 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
 [View](/lv/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (55.3 KB - PDF)
+lietuvių (LT) (55.3 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
@@ -554,12 +549,6 @@ Nederlands (NL) (50.57 KB - PDF)
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
 [View](/nl/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (56.18 KB - PDF)
-
-**First published:** 15/08/2011 **Last updated:** 29/04/2024
-
-[View](/no/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.98 KB - PDF)
 
@@ -591,7 +580,7 @@ slovenščina (SL) (52.64 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (68.6 KB - PDF)
+suomi (FI) (68.6 KB - PDF)
 
 **First published:** 15/08/2011 **Last updated:** 29/04/2024
 
@@ -603,28 +592,31 @@ svenska (SV) (54.25 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (52.22 KB - PDF)
+
+**First published:** 15/08/2011 **Last updated:** 29/04/2024
+
+[View](/is/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (56.18 KB - PDF)
+
+**First published:** 15/08/2011 **Last updated:** 29/04/2024
+
+[View](/no/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xgeva
-
-Active substance
-
-denosumab
-
-International non-proprietary name (INN) or common name
-
-denosumab
-
-Therapeutic area (MeSH)
-
-- Giant Cell Tumor of Bone
-- Neoplasms, Bone Tissue
-
-Anatomical therapeutic chemical (ATC) code
-
-M05BX04
+- **Name of medicine**
+    - Xgeva
+- **Active substance**
+    - denosumab
+- **International non-proprietary name (INN) or common name**
+    - denosumab
+- **Therapeutic area (MeSH)**
+        - Giant Cell Tumor of Bone
+        - Neoplasms, Bone Tissue
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -638,27 +630,16 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002173
-
-Marketing authorisation holder
-
-Amgen Europe B.V.
-
-Minervum 7061
-
-Opinion adopted
-
-19/05/2011
-
-Marketing authorisation issued
-
-13/07/2011
-
-Revision
-
-28
+- **EMA product number**
+    - EMEA/H/C/002173
+- **Marketing authorisation holder**
+    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+- **Opinion adopted**
+    - 19/05/2011
+- **Marketing authorisation issued**
+    - 13/07/2011
+- **Revision**
+    - 29
 
 ## Assessment history
 
@@ -666,13 +647,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xgeva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.56 KB - PDF)
+English (EN) (153.13 KB - PDF)
 
-**First published:** 29/07/2025 **Last updated:** 19/03/2026
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/procedural-steps-after/xgeva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -702,7 +683,7 @@ English (EN) (68.63 KB - PDF)
 
 **First published:** 05/06/2019
 
-[View](/en/documents/scientific-conclusion/xgeva-h-c-psusa-00009119-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xgeva-h-c-psusa-00009119-201709-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xgeva-H-C-2173-II-0055 : EPAR - Assessment Report - Variation
 
@@ -742,7 +723,7 @@ English (EN) (60.24 KB - PDF)
 
 **First published:** 02/08/2017 **Last updated:** 02/08/2017
 
-[View](/en/documents/scientific-conclusion/xgeva-psusa-00009119-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xgeva-psusa-00009119-201609-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Xgeva-H-C-PSUSA-00009119-201409 : EPAR - Scientific conclusions and grounds for recommending the variation to the terms of the marketing authorisation
 
@@ -752,7 +733,7 @@ English (EN) (68.53 KB - PDF)
 
 **First published:** 19/08/2015 **Last updated:** 19/08/2015
 
-[View](/en/documents/scientific-conclusion/xgeva-h-c-psusa-00009119-201409-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xgeva-h-c-psusa-00009119-201409-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Xgeva-H-C-2173-II-0016 : EPAR - Assessment Report - Variation
 
@@ -784,7 +765,7 @@ English (EN) (927.01 KB - PDF)
 
 [View](/en/documents/variation-report/xgeva-h-c-2173-ii-0011-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xgeva : EPAR - Public assessment report
 
@@ -844,155 +825,155 @@ Xgeva : EPAR - Product information - tracked changes
 
 English (EN) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-929)
 
 български (BG) (5.46 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/bg/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (5.45 MB - DOCX)
+español (ES) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/es/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (5.45 MB - DOCX)
+čeština (CS) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/cs/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/da/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (5.45 MB - DOCX)
+Deutsch (DE) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/de/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (5.44 MB - DOCX)
+eesti (ET) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/et/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (5.46 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/el/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (5.45 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/fr/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (5.44 MB - DOCX)
+hrvatski (HR) (5.46 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/hr/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (5.44 MB - DOCX)
+italiano (IT) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
-
-[View](/is/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (5.45 MB - DOCX)
-
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/it/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (5.44 MB - DOCX)
+latviešu (LV) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/lv/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (5.45 MB - DOCX)
+lietuvių (LT) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/lt/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (5.46 MB - DOCX)
+magyar (HU) (5.45 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/hu/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/mt/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/nl/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (5.44 MB - DOCX)
-
-**First published:** 29/07/2025
-
-[View](/no/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (5.45 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/pl/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (5.45 MB - DOCX)
+português (PT) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/pt/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (5.45 MB - DOCX)
+română (RO) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/ro/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (5.45 MB - DOCX)
+slovenčina (SK) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/sk/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/sl/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (5.45 MB - DOCX)
+suomi (FI) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/fi/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (5.44 MB - DOCX)
 
-**First published:** 29/07/2025
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
 
 [View](/sv/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (5.44 MB - DOCX)
+
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
+
+[View](/is/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (5.44 MB - DOCX)
+
+**First published:** 29/07/2025 **Last updated:** 30/06/2026
+
+[View](/no/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Xgeva
 
@@ -1015,6 +996,6 @@ svenska (SV) (5.44 MB - DOCX)
 
 **This page was last updated on**
 
-19/03/2026
+30/06/2026
 
 ## Share this page

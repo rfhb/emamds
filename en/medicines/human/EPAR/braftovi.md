@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:44:16
+document_datetime: 2026-07-01 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/braftovi.html
 document_name: braftovi.html
 version: success
-processing_time: 0.1206778
-conversion_datetime: 2025-12-30 02:06:07.884475
+processing_time: 0.322299
+conversion_datetime: 2026-07-04 13:12:20.557331
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Braftovi
 
 [RSS](/en/individual-human-medicine.xml/66981)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-encorafenib Medicine Human Authorised
+encorafenib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Braftovi](#news-on)
 - [More information on Braftovi](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -62,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Braftovi used?
+### How is Braftovi used?
 
 Braftovi can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in using cancer medicines.
 
@@ -72,11 +71,11 @@ Treatment with Braftovi can last for as long as the patient benefits from it and
 
 For more information about using Braftovi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Braftovi work?
+### How does Braftovi work?
 
 In cancers with a BRAF V600 mutation, an abnormal form of the protein BRAF is present, which switches on another protein called MEK involved in stimulating cell division. This encourages cancers to develop by allowing uncontrolled division of cells. The active substance in Braftovi, encorafenib, works by blocking the BRAF protein thereby stopping its activation of cell division and slowing down the growth and spread of the cancer.
 
-## What benefits of Braftovi have been shown in studies?
+### What benefits of Braftovi have been shown in studies?
 
 **Melanoma**
 
@@ -92,7 +91,7 @@ In a study involving 665 patients with previously treated colorectal cancer with
 
 The benefits of Braftovi given with binimetinib were evaluated in a main study involving 98 patients who had advanced NSCLC with the BRAF V600E mutation, which included patients who had not received prior treatment for NSCLC and those who had. The study did not compare the combination of Braftovi and binimetinib with other medicines or placebo (a dummy treatment). The main measure of effectiveness was the percentage of patients who responded to treatment, with either no sign of cancer or a decrease in the extent of the cancer after treatment. Around 75% of patients who had not received prior treatment responded to Braftovi given with binimetinib, and they lived for an average of 40 months without their cancer getting worse. Around 46% of patients who had received prior treatment responded to this combination, and they lived for an average of around 17 months without their cancer getting worse.
 
-## What are the risks associated with Braftovi?
+### What are the risks associated with Braftovi?
 
 For the full list of side effects and restrictions, see the package leaflet.
 
@@ -100,7 +99,7 @@ The most common side effects (which can affect more than 1 in 4 people) with Bra
 
 The most common side effects with Braftovi and cetuximab (which can affect more than 1 in 4 people) include tiredness, nausea (feeling sick), diarrhoea, dermatitis acneiform (a skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back), abdominal pain, joint pain or pain in the muscles and bones, decreased appetite, rash and vomiting.
 
-## Why is Braftovi authorised in the EU?
+### Why is Braftovi authorised in the EU?
 
 Up to 50% of patients with metastatic melanoma have a mutation in the BRAF gene, with forms of the V600 mutation being the most common. Braftovi, in combination with binimetinib, can help prolong the time that these patients live without their cancer getting worse.
 
@@ -110,13 +109,13 @@ In patients with previously-treated colorectal cancer and a BRAF V600E mutation,
 
 The European Medicines Agency therefore decided that Braftovi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Braftovi?
+### What measures are being taken to ensure the safe and effective use of Braftovi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Braftovi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Braftovi are continuously monitored. Side effects reported with Braftovi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Braftovi
+### Other information about Braftovi
 
 Braftovi received a marketing authorisation valid throughout the EU on 20 September 2018.
 
@@ -126,285 +125,149 @@ Reference Number: EMA/372420/2024
 
 English (EN) (149.09 KB - PDF)
 
-**First published:** 12/10/2018
-
-**Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/en/documents/overview/braftovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-266)
+[Other languages (22)](#file-language-dropdown-520)
 
 български (BG) (165.64 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/bg/documents/overview/braftovi-epar-medicine-overview_bg.pdf)
 
 español (ES) (138.18 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/es/documents/overview/braftovi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (164.71 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/cs/documents/overview/braftovi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (139.12 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/da/documents/overview/braftovi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (142.83 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/de/documents/overview/braftovi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (134.93 KB - PDF)
+eesti (ET) (134.93 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/et/documents/overview/braftovi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (166.09 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/el/documents/overview/braftovi-epar-medicine-overview_el.pdf)
 
 français (FR) (139.21 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/fr/documents/overview/braftovi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (162.37 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/hr/documents/overview/braftovi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (136.63 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/it/documents/overview/braftovi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (168.49 KB - PDF)
+latviešu (LV) (168.49 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/lv/documents/overview/braftovi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (160.54 KB - PDF)
+lietuvių (LT) (160.54 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/lt/documents/overview/braftovi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (163.32 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/hu/documents/overview/braftovi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (163.19 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/mt/documents/overview/braftovi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (140.58 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/nl/documents/overview/braftovi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (165.29 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/pl/documents/overview/braftovi-epar-medicine-overview_pl.pdf)
 
 português (PT) (138.73 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/pt/documents/overview/braftovi-epar-medicine-overview_pt.pdf)
 
 română (RO) (159.43 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/ro/documents/overview/braftovi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (162.44 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/sk/documents/overview/braftovi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (161.81 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/sl/documents/overview/braftovi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (134.85 KB - PDF)
+suomi (FI) (134.85 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/fi/documents/overview/braftovi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (136.41 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-23/09/2024
+**First published:** 12/10/2018 **Last updated:** 23/09/2024
 
 [View](/sv/documents/overview/braftovi-epar-medicine-overview_sv.pdf)
 
 Braftovi : EPAR - Risk management plan
 
-English (EN) (1.68 MB - PDF)
+English (EN) (2.04 MB - PDF)
 
-**First published:** 12/10/2018
-
-**Last updated:** 05/09/2024
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/en/documents/rmp/braftovi-epar-risk-management-plan_en.pdf)
 
@@ -412,311 +275,168 @@ English (EN) (1.68 MB - PDF)
 
 Braftovi : EPAR - Product information
 
-English (EN) (916.38 KB - PDF)
+English (EN) (890.39 KB - PDF)
 
-**First published:** 12/10/2018
-
-**Last updated:** 05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/braftovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-652)
 
-български (BG) (1.14 MB - PDF)
+български (BG) (1.17 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/braftovi-epar-product-information_bg.pdf)
 
-español (ES) (826.36 KB - PDF)
+español (ES) (847.61 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/braftovi-epar-product-information_es.pdf)
 
-čeština (CS) (899.13 KB - PDF)
+čeština (CS) (965.01 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/braftovi-epar-product-information_cs.pdf)
 
-dansk (DA) (993.57 KB - PDF)
+dansk (DA) (919.72 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/braftovi-epar-product-information_da.pdf)
 
-Deutsch (DE) (984.49 KB - PDF)
+Deutsch (DE) (961.27 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/braftovi-epar-product-information_de.pdf)
 
-eesti keel (ET) (910.28 KB - PDF)
+eesti (ET) (884.11 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/braftovi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.03 MB - PDF)
+ελληνικά (EL) (1.13 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/braftovi-epar-product-information_el.pdf)
 
-français (FR) (956.78 KB - PDF)
+français (FR) (1.01 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/braftovi-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.02 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/braftovi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
+italiano (IT) (879.67 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
-
-[View](/is/documents/product-information/braftovi-epar-product-information_is.pdf)
-
-italiano (IT) (912.7 KB - PDF)
-
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/braftovi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (992.51 KB - PDF)
+latviešu (LV) (1.03 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/braftovi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (942.6 KB - PDF)
+lietuvių (LT) (950.78 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/braftovi-epar-product-information_lt.pdf)
 
-magyar (HU) (1 MB - PDF)
+magyar (HU) (1.04 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/braftovi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.04 MB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/braftovi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.06 MB - PDF)
+Nederlands (NL) (1009.31 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/braftovi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.03 MB - PDF)
+polski (PL) (1.12 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
-
-[View](/no/documents/product-information/braftovi-epar-product-information_no.pdf)
-
-polski (PL) (1.11 MB - PDF)
-
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/braftovi-epar-product-information_pl.pdf)
 
-português (PT) (975.37 KB - PDF)
+português (PT) (987.38 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/braftovi-epar-product-information_pt.pdf)
 
 română (RO) (1.05 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/braftovi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.15 MB - PDF)
+slovenčina (SK) (1.13 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/braftovi-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.03 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/braftovi-epar-product-information_sl.pdf)
 
-Suomi (FI) (759.07 KB - PDF)
+suomi (FI) (829.38 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/braftovi-epar-product-information_fi.pdf)
 
-svenska (SV) (1019.96 KB - PDF)
+svenska (SV) (1.01 MB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-05/11/2025
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/braftovi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000241083 18/09/2025
+Íslenska (IS) (1.09 MB - PDF)
+
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information/braftovi-epar-product-information_is.pdf)
+
+norsk (NO) (1.02 MB - PDF)
+
+**First published:** 12/10/2018 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information/braftovi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000304994
+
+19/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -730,310 +450,169 @@ Braftovi : All authorised presentations
 
 English (EN) (48.7 KB - PDF)
 
-**First published:** 12/10/2018
-
-**Last updated:** 01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/en/documents/all-authorised-presentations/braftovi-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-759)
 
 български (BG) (114.63 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/bg/documents/all-authorised-presentations/braftovi-all-authorised-presentations_bg.pdf)
 
 español (ES) (47.05 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/es/documents/all-authorised-presentations/braftovi-all-authorised-presentations_es.pdf)
 
 čeština (CS) (53.96 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/cs/documents/all-authorised-presentations/braftovi-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.3 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/da/documents/all-authorised-presentations/braftovi-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (52.5 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/de/documents/all-authorised-presentations/braftovi-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (124.64 KB - PDF)
+eesti (ET) (124.64 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/et/documents/all-authorised-presentations/braftovi-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (63.49 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/el/documents/all-authorised-presentations/braftovi-all-authorised-presentations_el.pdf)
 
 français (FR) (46.76 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/fr/documents/all-authorised-presentations/braftovi-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (108.65 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/hr/documents/all-authorised-presentations/braftovi-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (48.45 KB - PDF)
-
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
-
-[View](/is/documents/all-authorised-presentations/braftovi-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.1 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/it/documents/all-authorised-presentations/braftovi-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (68.86 KB - PDF)
+latviešu (LV) (68.86 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/lv/documents/all-authorised-presentations/braftovi-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (99.54 KB - PDF)
+lietuvių (LT) (99.54 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/lt/documents/all-authorised-presentations/braftovi-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (99.57 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/hu/documents/all-authorised-presentations/braftovi-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (64.07 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/mt/documents/all-authorised-presentations/braftovi-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (48.51 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/nl/documents/all-authorised-presentations/braftovi-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (48.84 KB - PDF)
-
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
-
-[View](/no/documents/all-authorised-presentations/braftovi-all-authorised-presentations_no.pdf)
-
 polski (PL) (67.83 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/pl/documents/all-authorised-presentations/braftovi-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.12 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/pt/documents/all-authorised-presentations/braftovi-all-authorised-presentations_pt.pdf)
 
 română (RO) (59.79 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/ro/documents/all-authorised-presentations/braftovi-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (65.04 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/sk/documents/all-authorised-presentations/braftovi-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (59.29 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/sl/documents/all-authorised-presentations/braftovi-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.23 KB - PDF)
+suomi (FI) (48.23 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/fi/documents/all-authorised-presentations/braftovi-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.33 KB - PDF)
 
-**First published:**
-
-12/10/2018
-
-**Last updated:**
-
-01/03/2021
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
 
 [View](/sv/documents/all-authorised-presentations/braftovi-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (48.45 KB - PDF)
+
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
+
+[View](/is/documents/all-authorised-presentations/braftovi-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.84 KB - PDF)
+
+**First published:** 12/10/2018 **Last updated:** 01/03/2021
+
+[View](/no/documents/all-authorised-presentations/braftovi-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Braftovi Active substance Encorafenib International non-proprietary name (INN) or common name encorafenib Therapeutic area (MeSH)
-
-- Melanoma
-- Colorectal Neoplasms
-
-Anatomical therapeutic chemical (ATC) code L01EC03
+- **Name of medicine**
+    - Braftovi
+- **Active substance**
+    - Encorafenib
+- **International non-proprietary name (INN) or common name**
+    - encorafenib
+- **Therapeutic area (MeSH)**
+        - Melanoma
+        - Colorectal Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EC03
 
 ### Pharmacotherapeutic group
 
@@ -1041,17 +620,29 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Melanoma Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation. Colorectal cancer (CRC) Encorafenib in combination with cetuximab is indicated for the treatment of adult patients with metastatic colorectal cancer (CRC)  with a BRAF V600E mutation, who have received prior systemic therapy. Non-small cell lung cancer (NSCLC) Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
+Melanoma
+Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.
+
+Colorectal cancer (CRC)
+Encorafenib in combination with cetuximab is indicated for the treatment of adult patients with metastatic colorectal cancer (CRC) with a BRAF V600E mutation, who have received prior systemic therapy.
+
+Encorafenib in combination with cetuximab and FOLFOX is indicated for the first line treatment of adult patients with metastatic colorectal cancer with a BRAF V600E mutation.
+
+Non-small cell lung cancer (NSCLC)
+Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004580 Marketing authorisation holder
-
-Pierre Fabre Medicament
-
-Les Cauquillous 81500 - Lavaur France
-
-Opinion adopted 26/07/2018 Marketing authorisation issued 19/09/2018 Revision 17
+- **EMA product number**
+    - EMEA/H/C/004580
+- **Marketing authorisation holder**
+    - Pierre Fabre Medicament Les Cauquillous  81500 - Lavaur  France
+- **Opinion adopted**
+    - 26/07/2018
+- **Marketing authorisation issued**
+    - 19/09/2018
+- **Revision**
+    - 18
 
 ## Assessment history
 
@@ -1059,15 +650,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Braftovi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (167.56 KB - PDF)
+English (EN) (182.43 KB - PDF)
 
-**First published:** 09/07/2025
-
-**Last updated:** 05/11/2025
+**First published:** 09/07/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/procedural-steps-after/braftovi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1075,11 +664,29 @@ Braftovi : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (220.97 KB - PDF)
 
-**First published:** 30/11/2018
-
-**Last updated:** 09/07/2025
+**First published:** 30/11/2018 **Last updated:** 09/07/2025
 
 [View](/en/documents/procedural-steps-after/braftovi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Braftovi-VR-0000304994 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2963465
+
+English (EN) (2.95 MB - PDF)
+
+**First published:** 01/07/2026
+
+[View](/en/documents/variation-report/braftovi-vr-0000304994-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Braftovi (VR/0000304994)
+
+Adopted Reference Number: EMADOC-1700519818-2963478
+
+English (EN) (153.74 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-braftovi-vr-0000304994_en.pdf)
 
 Braftovi : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -1093,9 +700,7 @@ English (EN) (144.12 KB - PDF)
 
 Braftovi-H-C-4280-WS-2538 EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/372317/2024
+Adopted Reference Number: EMA/CHMP/372317/2024
 
 English (EN) (3.2 MB - PDF)
 
@@ -1105,9 +710,7 @@ English (EN) (3.2 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Braftovi (WS-2538)
 
-Adopted
-
-Reference Number: EMA/CHMP/323249/2024
+Adopted Reference Number: EMA/CHMP/323249/2024
 
 English (EN) (156.41 KB - PDF)
 
@@ -1127,9 +730,7 @@ English (EN) (127.12 KB - PDF)
 
 Braftovi-H-C-4280-WS-1695 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/271532/2020
+Adopted Reference Number: EMA/CHMP/271532/2020
 
 English (EN) (15.23 MB - PDF)
 
@@ -1139,9 +740,7 @@ English (EN) (15.23 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Braftovi (WS-1695)
 
-Adopted
-
-Reference Number: EMA/CHMP/217942/2020
+Adopted Reference Number: EMA/CHMP/217942/2020
 
 English (EN) (133.78 KB - PDF)
 
@@ -1149,13 +748,11 @@ English (EN) (133.78 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-braftovi-ws-1695_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Braftovi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/554696/2018
+Adopted Reference Number: EMA/CHMP/554696/2018
 
 English (EN) (5.97 MB - PDF)
 
@@ -1165,38 +762,41 @@ English (EN) (5.97 MB - PDF)
 
 CHMP summary of positive opinion for Braftovi
 
-Adopted
-
-Reference Number: EMA/CHMP/476007/2018
+Adopted Reference Number: EMA/CHMP/476007/2018
 
 English (EN) (69.09 KB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-braftovi_en.pdf)
 
-#### News on Braftovi
+## News on Braftovi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020) 30/04/2020
+22/05/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024)
 
-#### More information on Braftovi
+26/07/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020)
+
+30/04/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
+
+## More information on Braftovi
 
 - [EMEA-001588-PIP01-13-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001588-pip01-13-m03)
 - [EMEA-001588-PIP03-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001588-pip03-18)
 - [EMEA-001588-PIP04-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001588-pip04-23)
+- [Real-World Treatment Patterns and Clinical Outcomes of BRAF V600-Mutant Metastatic Melanoma Patients Treated at Academic Oncology Centers in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000307)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 05/11/2025
+01/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

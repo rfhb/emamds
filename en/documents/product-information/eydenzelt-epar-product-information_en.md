@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-16 11:41:39
+document_datetime: 2026-07-01 14:29:57
 document_pages: 102
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eydenzelt-epar-product-information_en.pdf
 document_name: eydenzelt-epar-product-information_en.pdf
 version: success
-processing_time: 31.1136747
-conversion_datetime: 2026-06-25 09:13:45.276937
+processing_time: 37.839069
+conversion_datetime: 2026-07-04 15:06:17.827411
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1546,7 +1546,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-24 months
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -1755,13 +1755,17 @@ Name and address of the manufacturer of the biological active substance
 
 CELLTRION INC. 23 Academy-Ro Yeonsu-gu 22014 Incheon Republic of Korea
 
+CELLTRION INC. (Plant III), 20, Academy-ro 51 beon-gil, Yeonsu-gu, Incheon, 22014, Republic of Korea
+
 Name and address of the manufacturer responsible for batch release
 
 Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
 Midas Pharma GmbH Rheinstr. 49, 55218 Ingelheim, Germany
 
-KYMOS S.L. Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
+KYMOS S.L.
+
+Ronda Can Fatjó, 7B. 08290 Cerdanyola del Vallès, Barcelona, Spain
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1777,11 +1781,11 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
-
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the  marketing authorisation and any agreed subsequent updates of the RMP.
+- Risk management plan (RMP)
 
 <div style=\"page-break-after: always\"></div>
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the  marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -1822,7 +1826,7 @@ The patient information pack of the educational material for the adult populatio
 - What are the steps following treatment with Eydenzelt
 - Key signs and symptoms of serious adverse events including endophthalmitis, intraocular inflammation, intraocular pressure increased, retinal pigment epithelial tear and cataract
 - When to seek urgent attention from their health care provider
-- Female patients of childbearing potential have to use effective contraception and pregnant women should not use Eydenzelt
+- Female patients of childbearing potential have to use effective contraception and pregnant
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1892,17 +1896,11 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Celltrion Healthcare Hungary Kft.
-
-1062 Budapest
-
-Váci út 1-3. WestEnd Office Building B torony
-
-Hungary
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2115,9 +2113,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package Leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eydenzelt 40 mg/mL solution for injection in a pre-filled syringe aflibercept
 
@@ -2471,7 +2469,9 @@ Tel: +34 910 498 478
 
 [contact\\_es@celltrion.com](mailto:contact_es@celltrion.com)
 
-Ελλάδα ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111 - 120
+Ελλάδα
+
+ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
 
 ## France
 
@@ -2984,7 +2984,9 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.co
 
 ## Česká republika
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
 
 ## Magyarország
 
@@ -2998,11 +3000,7 @@ Malta
 
 Celltrion Healthcare Denmark ApS Tel: +45 3535 2989 contact\\_dk@celltrionhc.com
 
-## Deutschland
-
-Celltrion Healthcare Deutschland GmbH Tel: +49 30346494150
-
-[infoDE@celltrionhc.com](mailto:infoDE@celltrionhc.com)
+Deutschland Celltrion Healthcare Deutschland GmbH Tel: +49 30346494150 infoDE@celltrionhc.com
 
 ## Eesti
 
@@ -3010,19 +3008,13 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 [contact\\_fi@celltrionhc.com](mailto:contact_fi@celltrionhc.com)
 
-## España
-
-CELLTRION FARMACEUTICA (ESPAÑA)
-
-S.L.
-
-Tel: +34 910 498 478
+España CELLTRION FARMACEUTICA (ESPAÑA) S.L. Tel: +34 910 498 478
 
 [contact\\_es@celltrion.com](mailto:contact_es@celltrion.com)
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111 - 120
+ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
 
 ## France
 
@@ -3030,7 +3022,9 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o. Tel: +385 1 6595 777
+Oktal Pharma d.o.o.
+
+Tel: +385 1 6595 777
 
 ## Ireland
 
@@ -3060,9 +3054,7 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
-
-[NLinfo@celltrionhc.com](mailto:NLinfo@celltrionhc.com)
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -3096,9 +3088,7 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755
-
-[contact\\_fi@celltrionhc.com](mailto:contact_fi@celltrionhc.com)
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
 Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 11:40:05
-document_pages: 351
+document_datetime: 2026-07-01 10:01:20
+document_pages: 363
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/keytruda-epar-product-information_en.pdf
 document_name: keytruda-epar-product-information_en.pdf
 version: success
-processing_time: 236.6439109
-conversion_datetime: 2026-06-25 17:13:39.374661
+processing_time: 326.3624387
+conversion_datetime: 2026-07-04 15:02:06.112541
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -80,6 +80,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of adult and paediatric p
 
 ## Urothelial carcinoma
 
+KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+
 KEYTRUDA, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who have received prior platinum-containing chemotherapy (see section 5.1).
@@ -92,13 +94,13 @@ KEYTRUDA as monotherapy is indicated for the treatment of resectable locally adv
 
 KEYTRUDA, as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy, is indicated for the first-line treatment of metastatic or unresectable recurrent head and neck squamous cell carcinoma in adults whose tumours express PDL1 with a CPS ≥ 1 (see section 5.1).
 
-KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic head and neck squamous cell carcinoma in adults whose tumours express PDL1 with a ≥ 50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
+KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic head and neck squamous cell carcinoma in adults whose tumours express PD-L1 w ith a  ≥ 50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal cell carcinoma (RCC)
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
@@ -188,53 +190,55 @@ For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be admini
 
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
+For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 200 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 200 mg every 3 weeks or 7 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
 For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 200 mg every 3 weeks or 1 dose of 400 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 200 mg every 3 weeks or 2 doses of 400 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 200 mg every 3 weeks or 6 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes def initive surgery or unacceptable toxicity related to KEYTRUDA monotherapy as neoadjuvant treatment should not receive KEYTRUDA in combination with radiation with or without concomitant cisplatin as adjuvant treatment.
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, f ollowed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
 For locally advanced cervical cancer, patients should be treated with KEYTRUDA concurrent with chemoradiotherapy, followed by KEYTRUDA as monotherapy. KEYTRUDA can be administered as either 200 mg every 3 weeks or 400 mg every 6 weeks until disease progression, unacceptable toxicity or up to 24 months.
 
-## Dose delay or discontinuation (see also section 4.4)
+<div style=\"page-break-after: always\"></div>
+
+Dose delay or discontinuation (see also section 4.4)
 
 No dose reductions of KEYTRUDA are recommended. KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1: Recommended treatment modifications for KEYTRUDA
 
-| Immune-mediated adverse reactions                                                                                                                                 | Severity                                                                                                                                                                                                                  | Treatment modification                                                                                                                                                                                                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pneumonitis                                                                                                                                                       | Grade 2                                                                                                                                                                                                                   | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Pneumonitis                                                                                                                                                       | Grades 3 or 4, or recurrent Grade 2                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Colitis                                                                                                                                                           | Grades 2 or 3                                                                                                                                                                                                             | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Colitis                                                                                                                                                           | Grade 4 or recurrent Grade 3                                                                                                                                                                                              | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Nephritis                                                                                                                                                         | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit ofnormal (ULN)                                                                                                                                                     | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Nephritis                                                                                                                                                         | Grade ≥ 3 with creatinine > 3 times ULN                                                                                                                                                                                   | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Endocrinopathies                                                                                                                                                  | Grade 2 adrenal insufficiency and hypophysitis                                                                                                                                                                            | Withhold treatment until controlled by hormone replacement                                                                                                                                                                                                                                                                                     |
-| Endocrinopathies                                                                                                                                                  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | Withhold until adverse reactions recover to Grades 0-1 * For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
-| Endocrinopathies                                                                                                                                                  | Hypothyroidism                                                                                                                                                                                                            | managed with replacement therapy without treatment interruption.                                                                                                                                                                                                                                                                               |
-| Endocrinopathies                                                                                                                                                  |                                                                                                                                                                                                                           | Hypothyroidism may be                                                                                                                                                                                                                                                                                                                          |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN                                                                                | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN                                                                                                                                                  | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | In case ofliver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST orALT increases ≥ 50% and lasts ≥ 1 week                                                                                     | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Immune-mediated adverse reactions                                                            | Severity                                                                                                                                                                                                                  | Treatment modification                                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pneumonitis                                                                                  | Grade 2                                                                                                                                                                                                                   | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Pneumonitis                                                                                  | Grades 3 or 4, or recurrent Grade 2                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Colitis                                                                                      | Grades 2 or 3                                                                                                                                                                                                             | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Colitis                                                                                      | Grade 4 or recurrent Grade 3                                                                                                                                                                                              | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Nephritis                                                                                    | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit ofnormal (ULN)                                                                                                                                                     | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Nephritis                                                                                    | Grade ≥ 3 with creatinine > 3 times ULN                                                                                                                                                                                   | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Endocrinopathies                                                                             | Grade 2 adrenal insufficiency and hypophysitis                                                                                                                                                                            | Withhold treatment until controlled by hormone replacement                                                                                                                                                                                                                                                                                     |
+| Endocrinopathies                                                                             | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | Withhold until adverse reactions recover to Grades 0-1 * For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
+| Endocrinopathies                                                                             | Hypothyroidism                                                                                                                                                                                                            | Hypothyroidism may be managed with replacement therapy without treatment interruption.                                                                                                                                                                                                                                                         |
+| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN                                                                                | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| liver enzyme elevations, see dosing guidelines following this table.                         | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN                                                                                                                                                  | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-mediated adverse reactions                         | Severity                                                                                   | Treatment modification                                   |
-|-----------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Skin reactions                                            | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)    | Withhold until adverse reactions recover to Grades 0-1 * |
-| Skin reactions                                            | Grade 4 or confirmed SJS or TEN                                                            | Permanently discontinue                                  |
-| Other immune-mediated adverse reactions                   | Based on severity and type of reaction (Grade 2 or Grade 3)                                | Withhold until adverse reactions recover to Grades 0-1 * |
-| Other immune-mediated adverse reactions                   | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue                                  |
-| Other immune-mediated adverse reactions                   | Grade 4 or recurrent Grade 3                                                               | Permanently discontinue                                  |
-| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grade 2                                                                                    | Withhold until adverse reactions recover to Grades 0-1 * |
-| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grades 3 or 4                                                                              | Permanently discontinue                                  |
-| Infusion-related reactions                                | Grades 3 or 4                                                                              | Permanently discontinue                                  |
+| Immune-mediated adverse reactions                         | Severity                                                                                                                              | Treatment modification                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+|                                                           | In case ofliver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST orALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue                                  |
+| Skin reactions                                            | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)                                               | Withhold until adverse reactions recover to Grades 0-1 * |
+| Skin reactions                                            | Grade 4 or confirmed SJS or TEN                                                                                                       | Permanently discontinue                                  |
+| Other immune-mediated adverse reactions                   | Based on severity and type of reaction (Grade 2 or Grade 3)                                                                           | Withhold until adverse reactions recover to Grades 0-1 * |
+| Other immune-mediated adverse reactions                   | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome                                            | Permanently discontinue                                  |
+| Other immune-mediated adverse reactions                   | Grade 4 or recurrent Grade 3                                                                                                          | Permanently discontinue                                  |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grade 2                                                                                                                               | Withhold until adverse reactions recover to Grades 0-1 * |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grades 3 or 4                                                                                                                         | Permanently discontinue                                  |
+| Infusion-related reactions                                | Grades 3 or 4                                                                                                                         | Permanently discontinue                                  |
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 
 * If  treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of  KEYTRUDA, or if corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
-- † Presenting as an overlap of either two or all three conditions. The most severe CTCAE grade of the individual events should be considered when assessing the recommended treatment modification f or KEYTRUDA.
+
+† Presenting as an overlap of either two or all three conditions. The most severe CTCAE grade of the individual events should be considered when assessing the recommended treatment modification f or KEYTRUDA.
 
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
@@ -399,7 +403,7 @@ Severe infusion-related reactions, including hypersensitivity and anaphylaxis, h
 
 ## Use of pembrolizumab in combination with chemotherapy
 
-Pembrolizumab in combination with chemotherapy should be used with c aution in patients ≥ 75 years after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
+Pembrolizumab in combination with chemotherapy should be used with caution in patients ≥ 75 years after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
 
 ## Disease-specific precautions
 
@@ -433,7 +437,7 @@ A direct comparison of pembrolizumab when used in combination with lenvatinib to
 
 ## Use of pembrolizumab for adjuvant treatment of patients with melanoma
 
-A trend toward increased frequency of severe and serious adverse reactions in patients ≥ 75 years was observed. Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥ 75 years are limited.
+A trend toward increased f requency of  severe and serious adverse reactions in patients ≥ 75 years was observed. Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥ 75 years are limited.
 
 Use of pembrolizumab in combination with axitinib for first-line treatment of patients with RCC When pembrolizumab is given with axitinib, higher than expected frequencies of Grades 3 and 4 ALT and AST elevations have been reported in patients with advanced RCC (see section 4.8). Liver enzymes should be monitored before initiation of and periodically throughout treatment. More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered. Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
 
@@ -515,13 +519,13 @@ The safety of pembrolizumab in combination with chemotherapy, RT or CRT has been
 
 ## Pembrolizumab in combination with tyrosine kinase inhibitor (TKI) (see section 4.2)
 
-When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment. For additional lenvatinib safety information related to advanced RCC see the SmPC for Kisplyx and for advanced EC see the SmPC for Lenvima. For additional axitinib saf ety inf ormation f or elevated liver enzymes see also section 4.4.
+When pembrolizumab is administered in combination with axitinib or lenvatinib, refer to the SmPC for axitinib or lenvatinib prior to initiation of treatment. For additional lenvatinib safety inf ormation related to advanced RCC see the SmPC for Kisplyx and for advanced EC see the SmPC for Lenvima. For additional axitinib saf ety inf ormation f or elevated liver enzymes see also section 4.4.
 
 The safety of pembrolizumab in combination with axitinib or lenvatinib in advanced RCC, and in combination with lenvatinib in advanced EC has been evaluated in a total of 1 456 patients with advanced RCC or advanced EC receiving 200 mg pembrolizumab every 3 weeks with either axitinib 5 mg twice daily or lenvatinib 20 mg once daily in clinical studies, as appropriate. In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%). Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% f or sunitinib alone. In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2. These reactions are presented by system organ class and by frequency. Frequencies are def ined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data). Within each f requency grouping, adverse reactions are presented in the order of decreasing seriousness. Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
+Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2. These reactions are presented by system organ class and by frequency. Frequencies are def ined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness. Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 
 For additional saf ety inf ormation when pembrolizumab is administered in combination, ref er to the SmPC for the respective combination therapy components.
 
@@ -632,7 +636,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab †
 - infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity, infusion-related hypersensitivity reaction, cytokine release syndrome and serum sickness)
 - sarcoidosis (cutaneous sarcoidosis and pulmonary sarcoidosis)
 - hypothyroidism (myxoedema, immune-mediated hypothyroidism and autoimmune hypothyroidism)
-- adrenal i nsuff iciency (Addison's disease, adrenocortical insuf f iciency acute , secondary adrenocortical insuff iciency and primary adrenal insuff iciency)
+- adrenal insuf f iciency (Addison's disease, adrenocortical insuf f iciency acute , secondary adrenocortical insuff iciency and primary adrenal insuff iciency)
 - thyroiditis (autoimmune thyroiditis, silent thyroiditis, thyroid disorder, thyroiditis acute and immune-mediated thyroiditis)
 - hyperthyroidism (Graves' disease)
 - hypophysitis (hypopituitarism and lymphocytic hypophysitis)
@@ -680,7 +684,9 @@ Adverse reactions were generally similar to those observed in patients receiving
 
 <div style=\"page-break-after: always\"></div>
 
-Generally, adverse event f requencies were higher in patients ≥ 65 years of age compared to &lt; 65 years of age, particularly for serious adverse events ( 56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
+Generally, adverse event frequencies were higher in patients ≥ 65 years of age compared to &lt; 65 years of age, particularly  f or  serious adverse events (56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
+
+The safety of pembrolizumab in combination with enfortumab vedotin has been evaluated among 167 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment. Overall, the incidence of adverse reactions for pembrolizumab in combination with enfortumab vedotin was observed to be higher than for pembrolizumab monotherapy reflecting the contribution of enfortumab vedotin. Adverse reactions were generally similar to those occurring in patients with unresectable or metastatic urothelial carcinoma treated with pembrolizumab in combination with enfortumab vedotin.
 
 ## Description of selected adverse reactions
 
@@ -704,9 +710,11 @@ Hepatitis occurred in 80 (1.0%) patients, including Grade 2, 3 or 4 cases in 12 
 
 ## Immune-mediated nephritis
 
-Nephritis occurred in 37 (0.5%) patients, including Grade 2, 3 or 4 cases in 11 (0.1%), 19 (0.2%) and 2 (&lt; 0.1%) patients, respectively, receiving pembrolizumab as monotherapy. The median time to onset of nephritis was 4.2 months (range: 12 days to 21.4 months). The median duration was 3.3 months (range: 6 days to 28.2+ months). Nephritis led to discontinuation of pembrolizumab in 17 (0.2%) patients. Nephritis resolved in 25 patients, 5 with sequelae. In patients with non-squamous NSCLC treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
+Nephritis occurred in 37 (0.5%) patients, including Grade 2, 3 or 4 cases in 11 (0.1%), 19 (0.2%) and 2 (&lt; 0.1%) patients, respectively, receiving pembrolizumab as monotherapy. The median time to onset of nephritis was 4.2 months (range: 12 days to 21.4 months). The median duration was 3.3 months (range: 6 days to 28.2+ months). Nephritis led to discontinuation of pembrolizumab in 17 (0.2%) patients. Nephritis resolved in 25 patients, 5 with sequelae. In patients with non-squamous NSCLC
 
 <div style=\"page-break-after: always\"></div>
+
+treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
 
 ## Immune-mediated endocrinopathies
 
@@ -744,9 +752,9 @@ In patients treated with pembrolizumab monotherapy, the proportion of patients w
 
 In patients treated with pembrolizumab in combination with chemotherapy, RT or CRT, the proportion of patients who experienced a shif t f rom baseline to a Grade 3 or 4 laboratory abnormality was as follows: 36.4% for neutrophils decreased, 31.7% for lymphocytes decreased, 23.7% for leukocytes decreased, 20.2% for haemoglobin decreased, 11.4% for platelets decreased, 9.5% for sodium decreased, 7.8% for potassium decreased, 7.2% for phosphate decreased, 5.5% for glucose increased, 5.3% for ALT increased, 4.7% for AST increased, 3.4% for calcium decreased, 3.1% for creatinine increased, 3.0% for bilirubin increased, 3.0% for potassium increased, 2.4% f or albumin decreased, 2.3% for alkaline phosphatase increased, 1.6% for calcium increased, 0.9% for glucose decreased, 0.4% for sodium increased and 0.2% for haemoglobin increased.
 
-In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.3% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 2.2% for magnesium increased, 1.7% for leukocytes decreased, 1.5% for magnesium decreased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.0% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
-
 <div style=\"page-break-after: always\"></div>
+
+In patients treated with pembrolizumab in combination with axitinib or lenvatinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.0% for lipase increased (not measured in patients treated with pembrolizumab and axitinib), 12.3% for lymphocyte decreased, 11.4% for sodium decreased, 11.2% for amylase increased, 11.2% for triglycerides increased, 10.4% for ALT increased, 8.9% for AST increased, 7.8% for glucose increased, 6.8% for phosphate decreased, 6.1% for potassium decreased, 5.1% for potassium increased, 4.5% for cholesterol increased, 4.4% for creatinine increased, 4.2% for haemoglobin decreased, 4.0% for neutrophils decreased, 3.1% for alkaline phosphatase increased, 3.0% for platelets decreased, 2.8% for bilirubin increased, 2.2% for calcium decreased, 2.2% for magnesium increased, 1.7% for leukocytes decreased, 1.5% for magnesium decreased, 1.5% for prothrombin INR increased, 1.4% for glucose decreased, 1.2% for albumin decreased, 1.0% for calcium increased, 0.4% for sodium increased, and 0.1% for haemoglobin increased.
 
 ## Immunogenicity
 
@@ -772,13 +780,13 @@ In case of overdose, patients must be closely monitored for signs or symptoms of
 
 Pharmacotherapeutic group: Antineoplastic agents, PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors. ATC code: L01FF02
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 KEYTRUDA is a humanised monoclonal antibody which binds to the programmed cell death-1 (PD-1) receptor and blocks its interaction with ligands PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. KEYTRUDA potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment.
 
 The anti-angiogenic effect of lenvatinib (multi-TKI) in combination with the immune-stimulatory effect of pembrolizumab (anti-PD-1) results in a tumour microenvironment with greater T-cell activation to help overcome primary and acquired resistance to immunotherapy and may improve tumour responses compared to either treatment alone. In preclinical murine models, PD-1 plus TKI inhibitors have demonstrated enhanced anti-tumour activity compared to either agent alone.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical eff icacy and safety
 
@@ -842,9 +850,9 @@ Figure 2: Kaplan-Meier curve for progression-free survival by treatment arm in K
 
 ## KEYNOTE-002: Controlled study in melanoma patients previously treated with ipilimumab
 
-The safety and efficacy of pembrolizumab were investigated in KEYNOTE-002, a multicentre, double-blind, controlled study for the treatment of advanced melanoma in patients previously treated with ipilimumab and if BRAF V600 mutation-positive, with a BRAF or MEK inhibitor. Patients were randomised (1:1:1) to receive pembrolizumab at a dose of 2 (n=180) or 10 mg/kg bw (n=181) every 3 weeks or chemotherapy (n=179; including dacarbazine, temozolomide, carboplatin, paclitaxel, or carboplatin+paclitaxel). The study excluded patients with autoimmune disease or those receiving immunosuppression; further exclusion criteria were a history of severe or lif e-threatening immune-mediated adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (&gt; 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; ongoing adverse rea ctions ≥ Grade 2 from previous treatment with ipilimumab; previous severe hypersensitivity to other monoclonal antibodies; a history of pneumonitis or interstitial lung disease; HIV, hepatitis B or hepatitis C inf ection and ECOG Perf ormance Status ≥ 2.
+The safety and efficacy of pembrolizumab were investigated in KEYNOTE-002, a multicentre, double-blind, controlled study for the treatment of advanced melanoma in patients previously treated with ipilimumab and if BRAF V600 mutation-positive, with a BRAF or MEK inhibitor. Patients were randomised (1:1:1) to receive pembrolizumab at a dose of 2 (n=180) or 10 mg/kg bw (n=181) every 3 weeks or chemotherapy (n=179; including dacarbazine, temozolomide, carboplatin, paclitaxel, or carboplatin+paclitaxel). The study excluded patients with autoimmune disease or those receiving immunosuppression; further exclusion criteria were a history of severe or lif e-threatening immune-mediated adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (&gt; 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; ongoing adverse reactions ≥ Grade 2 from previous treatment with ipilimumab; previous severe hypersensitivity to other monoclonal antibodies; a history of pneumonitis or interstitial lung disease; HIV, hepatitis B or hepatitis C inf ection and ECOG Perf ormance Status ≥ 2.
 
-Patients were treated with pembrolizumab until disease progression or unacceptable toxicity. Clinically stable patients with initial evidence of disease progression were permitted to remain on treatment until disease progression was conf irmed. Assessment of  tumour status was performed at 12 weeks, then every 6 weeks through Week 48, followed by every 12 weeks thereafter. Patients on chemotherapy who experienced independently -verif ied progression of disease af ter the f irst scheduled disease assessment were able to crossover and receive 2 mg/kg bw or 10 mg/kg bw of pembrolizumab every 3 weeks in a double-blind fashion.
+Patients were treated with pembrolizumab until disease progression or unacceptable toxicity. Clinically stable patients with initial evidence of disease progression were permitted to remain on treatment until disease progression was conf irmed. Assessment of tumour status was performed at 12 weeks, then every 6 weeks through Week 48, followed by every 12 weeks thereafter. Patients on chemotherapy who experienced independently -verif ied progression of disease af ter the f irst scheduled disease assessment were able to crossover and receive 2 mg/kg bw or 10 mg/kg bw of pembrolizumab every 3 weeks in a double-blind fashion.
 
 Of the 540 patients, 61% were male, 43% were ≥ 65 years (median age was 62 years [range: 15-89]) and 98% were white. Eighty-two percent had M1c stage, 73% had at least two and 32% of patients had three or more prior systemic therapies for advanced melanoma. Forty-five percent had an ECOG Performance Status of 1, 40% had elevated LDH and 23% had a BRAF mutated tumour.
 
@@ -997,7 +1005,7 @@ In 20 subjects with ocular melanoma included in KEYNOTE-001, no objective respon
 
 ## KEYNOTE-716: Placebo-controlled study for the adjuvant treatment of patients with resected Stage IIB or IIC melanoma
 
-The efficacy of pembrolizumab was evaluated in KEYNOTE-716, a multicentre, randomised, double-blind, placebo-controlled study in patients with resected Stage IIB or IIC melanoma. A total of 976 patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (or the paediatric [12 to 17 years old] dose of 2 mg/kg intravenously [up to a maximum of 200 mg] every three weeks) (n=487) or placebo (n=489), for up to one year or until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by American Joint Committee on Cancer (AJCC) 8 th edition T stage. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery were ineligible. Patients underwent imaging every six months from randomisation through the 4 th year, and then once in year 5 f rom randomisation or until recurrence, whichever came first.
+The efficacy of pembrolizumab was evaluated in KEYNOTE-716, a multicentre, randomised, double-blind, placebo-controlled study in patients with resected Stage IIB or IIC melanoma. A total of 976 patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (or the paediatric [12 to 17 years old] dose of 2 mg/kg intravenously [up to a maximum of 200 mg] every three weeks) (n=487) or placebo (n=489), for up to one year or until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by American Joint Committee on Cancer (AJCC) 8 th edition T stage. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery were ineligible. Patients underwent imaging every six months from randomisation through the 4 th year, and then once in Year 5 f rom randomisation or until recurrence, whichever came first.
 
 Among the 976 patients, the baseline characteristics were: median age of 61 years (range: 16-87; 39% age 65 or older; 2 adolescent patients [one per treatment arm]); 60% male; and ECOG PS of 0 (93%) and 1 (7%). Sixty-four percent had Stage IIB and 35% had Stage IIC.
 
@@ -1037,7 +1045,7 @@ Figure 5: Kaplan-Meier curve for distant metastasis-free survival by treatment a
 
 ## KEYNOTE-054: Placebo-controlled study for the adjuvant treatment of patients with completely resected Stage III melanoma
 
-The efficacy of pembrolizumab was evaluated in KEYNOTE-054, a multicentre, randomised, double-blind, placebo-controlled study in patients with completely resected stage IIIA (&gt; 1 mm lymph node metastasis), IIIB or IIIC melanoma. A total of 1 019 adult patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (n=514) or placebo (n=505), for up to one year until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by AJCC 7 th edition stage (IIIA vs. IIIB vs. IIIC 1-3 positive lymph nod es vs. IIIC ≥ 4 positive lymph nodes) and geographic region (North America, European countries, Australia and other countries as designated). Patients must have undergone lymph node dissection, and if indicated, radiotherapy within 13 weeks prior to starting treatment. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery or interf eron for thick primary melanomas without evidence of lymph node involvement were ineligible. Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first two years, then every 6 months f rom year 3 to 5, and then annually.
+The efficacy of pembrolizumab was evaluated in KEYNOTE-054, a multicentre, randomised, double-blind, placebo-controlled study in patients with completely resected stage IIIA (&gt; 1 mm lymph node metastasis), IIIB or IIIC melanoma. A total of 1 019 adult patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (n=514) or placebo (n=505), for up to one year until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by AJCC 7 th edition stage (IIIA vs. IIIB vs. IIIC 1-3 positive lymph nodes vs. IIIC ≥ 4 positive lymph nodes) and geographic region (North America, European countries, Australia and other countries as designated). Patients must have undergone lymph node dissection, and if indicated, radiotherapy within 13 weeks prior to starting treatment. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery or interf eron for thick primary melanomas without evidence of lymph node involvement were ineligible. Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first two years, then every 6 months f rom Year 3 to 5, and then annually.
 
 Among the 1 019 patients, the baseline characteristics were: median age of 54 years (25% age 65 or older); 62% male; and ECOG PS of 0 (94%) and 1 (6%). Sixteen percent had stage IIIA; 46% had stage IIIB; 18% had stage IIIC (1-3 positive lymph nodes) and 20% had stage IIIC (≥ 4 positive lymph nodes); 50% were BRAF V600 mutation positive and 44% were BRAF wild-type. PD-L1 expression was tested retrospectively by IHC assay with the 22C3 anti-PD-L1 antibody; 84% of patients had PD-L1-positive melanoma (PDL1 expression in ≥ 1% of tumour and tumour-associated immune cells relative to all viable tumour cells). The same scoring system was used for metastatic melanoma (MEL score).
 
@@ -1146,7 +1154,7 @@ The following selection criteria def ine patients with high risk of recurrence w
 
 Patients may or may not have received adjuvant chemotherapy as recommended by their physician. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 4 cycles of adjuvant chemotherapy were ineligible. Randomisation was stratified by stage (IB vs. II vs. IIIA), adjuvant chemotherapy (no adjuvant chemotherapy vs. adjuvant chemotherapy), PD-L1 status (TPS &lt; 1% [negative] vs. TPS 1-49% vs. TPS ≥ 50%), and geographic region (Western Europe vs. Eastern Europe vs. Asia vs. Rest of World). Patients were randomised (1:1) to receive pembrolizumab 200 mg (n=590) or placebo (n=587) intravenously every 3 weeks.
 
-Treatment continued until RECIST 1.1-defined disease recurrence as determined by the investigator, unacceptable toxicity, or approximately 1 year (18 doses). Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first year, then every 6 months for years 2 to 3, and then annually up to the end of year 5. Af ter year 5, imaging is performed as per local standard of care.
+Treatment continued until RECIST 1.1-defined disease recurrence as determined by the investigator, unacceptable toxicity, or approximately 1 year (18 doses). Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first year, then every 6 months for Years 2 to 3, and then annually up to the end of Year 5. After Year 5, imaging is performed as per local standard of care.
 
 Of 1 177 patients randomised, 1 010 (86%) received adjuvant platinum-based chemotherapy following complete resection. Among these 1 010 patients in KEYNOTE-091, baseline characteristics were: median age of 64 years (range: 35 to 84), 49% age 65 or older; 68% male; and 77% White, 18% Asian, 86% current or former smokers. Sixty-one percent and 39% had ECOG performance of 0 or 1, respectively. Twelve percent had stage IB (T2a ≥ 4 cm), 57% had stage II, and 31% had stage IIIA disease. Thirty-nine percent had tumour PD-L1 expression TPS &lt; 1% [negative], 33% had TPS 1-49%, 28% had TPS ≥ 50%. Seven percent had known EGFR mutations, thirty-eight percent without EGFR mutations and in fifty-six percent EGFR mutation status was unknown. Fifty-two percent were from Western Europe, 20% from Eastern Europe, 17% from Asia, and 11% from Rest of World.
 
@@ -1213,7 +1221,13 @@ Table 14: Efficacy results in KEYNOTE-024
 
 Figure 11: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
+100
+
 <!-- image -->
+
+21
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 12: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
@@ -1225,9 +1239,11 @@ In a subgroup analysis, a reduced survival benef it of pembrolizumab compared to
 
 The safety and efficacy of pembrolizumab were also investigated in KEYNOTE-042, a multicentre, controlled study for the treatment of previously untreated locally advanced or metastatic NSCLC. The study design was similar to that of KEYNOTE-024, except that patients had PD -L1 expression with a 1% TPS. PD-L1 status was determined using the PD -L1 IHC 22C3 pharmDx assay. Patients were randomised (1:1) to receive pembrolizumab at a dose of 200 mg every 3 weeks (n=637) or investigator's choice platinum -containing chemotherapy (n=637; including pemetrexed+carboplatin or paclitaxel+carboplatin. Patients with non -squamous NSCLC could receive pemetrexed maintenance.). Assessment of tumour status was performed every 9 weeks for the first 45 weeks, and every 12 weeks thereafter.
 
+Among the 1 274 patients in KEYNOTE-042, 599 (47%) had tumours that expressed PD -L1 with TPS ≥ 50%. PD-L1 status was determined using the PD -L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 599 patients included: median age 63 years (45% age 65 or older); 69% male; 63% White and 32% Asian; 17% Hispanic or Latino; and ECOG performance status 0 and 1 in 31%
+
 <div style=\"page-break-after: always\"></div>
 
-Among the 1 274 patients in KEYNOTE-042, 599 (47%) had tumours that expressed PD -L1 with TPS ≥ 50%. PD-L1 status was determined using the PD -L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 599 patients included: median age 63 years (45% age 65 or older); 69% male; 63% White and 32% Asian; 17% Hispanic or Latino; and ECOG performance status 0 and 1 in 31% and 69%, respectively. Disease characteristics were squamous (37%) and non -squamous (63%); stage IIIA (0.8%); stage IIIB (9%); stage IV (90%); and treated brain metastases (6%).
+and 69%, respectively. Disease characteristics were squamous (37%) and non -squamous (63%); stage IIIA (0.8%); stage IIIB (9%); stage IV (90%); and treated brain metastases (6%).
 
 The primary efficacy outcome measure was OS. Secondary efficacy outcome measures were PFS and ORR (as assessed by BICR using RECIST 1.1). The study demonstrated a statistically significant improvement in OS for patients whose tumours expressed PD -L1 TPS ≥ 1% randomised to pembrolizumab monotherapy compared to chemotherapy (HR 0.82; 95% CI 0.71, 0.93 at the final analysis) and in patients whose tumours expressed PD -L1 TPS ≥ 50% randomised to pembrolizumab monotherapy compared to chemotherapy. Table 15 summarises key efficacy measures for the TPS 50% population at the final analysis performed at a median follow -up of 15.4 months. The Kaplan -Meier curve f or OS f or the TPS ≥ 50% population based on the final analysis is shown in Figure 13.
 
@@ -1268,8 +1284,8 @@ Figure 13: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-0
 
 The efficacy of pembrolizumab in combination with pemetrexed and platinum chemotherapy was investigated in a multicentre, randomised, active-controlled, double-blind study, KEYNOTE-189. Key eligibility criteria were metastatic non-squamous NSCLC, no prior systemic treatment for metastatic NSCLC, and no EGFR or ALK genomic tumour aberrations. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible. Patients were randomised (2:1) to receive one of the following regimens:
 
-- Pembrolizumab 200 mg with pemetrexed 500 mg/m 2 and investigator's choice of cisplatin 75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=410)
-- Placebo with pemetrexed 500 mg/m 2 and investigator's choice of  cisplatin  75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=206)
+- Pembrolizumab 200 mg with pemetrexed 500 mg/m 2 and investigator's choice of cisplatin 75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=410).
+- Placebo with pemetrexed 500 mg/m 2 and investigator's choice of  cisplatin  75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=206).
 
 Treatment with pembrolizumab continued until RECIST 1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 24 months. Administration of pembrolizumab was permitted beyond RECIST-defined disease progression by BICR or beyond discontinuation of pemetrexed if the patient was clinically stable and deriving clinical benef it as determined by the investigator. For patients who completed 24 months of therapy or had a complete response, treatment with pembrolizumab could be reinitiated for disease progression and administered for up to 1 additional year. Assessment of tumour status was performed at Week 6 and Week 12, followed by every 9 weeks thereafter. Patients receiving placebo plus chemotherapy who experienced independently-verified progression of disease were offered pembrolizumab as monotherapy.
 
@@ -1306,14 +1322,13 @@ A total of 113 patients (57%) who discontinued study treatment in the placebo pl
 
 *
 
-† Based on the stratified Cox proportional hazard model
+- † Based on the stratified Cox proportional hazard model
+- ‡ Based on stratified log-rank test
 
-‡ Based on stratified log-rank test
+§ Based on patients with a best objective response as confirmed complete or partial response
 
-- § Based on patients with a best objective response as confirmed complete or partial response
 - ¶ Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status
-
-# Based on Kaplan-Meier estimation
+- # Based on Kaplan-Meier estimation
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1344,7 +1359,7 @@ At f inal  analysis,  a  total  of   57  NSCLC  patients  aged  ≥ 75 years wer
 
 ## KEYNOTE-407: Controlled study of combination therapy in squamous NSCLC patients naïve to treatment
 
-The efficacy of pembrolizumab in combination with carboplatin and either paclitaxel or nab-paclitaxel was investigated in Study KEYNOTE-407, a randomised, double-blind, multicentre, placebo-controlled study. The key eligibility criteria for this study were metastatic squamous NSCLC, regardless of tumour PD-L1 expression status, and no prior systemic treatment for metastatic disease. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible. Randomisation was stratif ied by tumour PD-L1 expression (TPS &lt; 1% [nega tive] vs. TPS ≥ 1%), investigator's choice of  paclitaxel or nab -paclitaxel, and geographic region (East Asia vs. non-East Asia). Patients were randomised (1:1) to one of the following treatment arms via intravenous infusion:
+The efficacy of pembrolizumab in combination with carboplatin and either paclitaxel or nab-paclitaxel was investigated in Study KEYNOTE-407, a randomised, double-blind, multicentre, placebo-controlled study. The key eligibility criteria for this study were metastatic squamous NSCLC, regardless of tumour PD-L1 expression status, and no prior systemic treatment for metastatic disease. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible. Randomisation was stratif ied by tumour PD-L1 expression (TPS &lt; 1% [negative] vs. TPS ≥ 1%), investigator's choice of  paclitaxel or nab -paclitaxel, and geographic region (East Asia vs. non-East Asia). Patients were randomised (1:1) to one of the following treatment arms via intravenous infusion:
 
 - Pembrolizumab 200 mg and carboplatin AUC 6 mg/mL/min on Day 1 of each 21-day cycle for 4 cycles, and paclitaxel 200 mg/m 2 on Day 1 of each 21-day cycle for 4 cycles or nab-paclitaxel 100 mg/m 2 on Days 1, 8 and 15 of each 21-day cycle for 4 cycles, followed by pembrolizumab 200 mg every 3 weeks. Pembrolizumab was administered prior to chemotherapy on Day 1.
 - Placebo and carboplatin AUC 6 mg/mL/min on Day 1 of each 21-day cycle for 4 cycles and paclitaxel 200 mg/m 2 on Day 1 of each 21-day cycle for 4 cycles or nab-paclitaxel 100 mg/m 2 on Days 1, 8 and 15 of each 21-day cycle for 4 cycles, followed by placebo every 3 weeks.
@@ -1419,7 +1434,7 @@ Table 19: Efficacy results by PD-L1 expression in KEYNOTE-407 *
 | PFS Hazard ratio † (95% CI) | 0.67 (0.49, 0.91)                   | 0.67 (0.49, 0.91) | 0.52 (0.38, 0.71)                   | 0.52 (0.38, 0.71) | 0.43 (0.29, 0.63)                   | 0.43 (0.29, 0.63) |
 | ORR%                        | 67%                                 | 41%               | 55%                                 | 42%               | 64%                                 | 30%               |
 
-At f inal  analysis,  a  total  of   65  NSCLC  patients  aged  ≥ 75 years were enrolled in study KEYNOTE-407 (34 in the pembrolizumab combination and 31 in the control). An HR=0.81 [95% CI 0.43, 1.55] in OS, an HR=0.61 [95% CI 0.34, 1.09] in PFS, and an ORR of 62% and 45% for pembrolizumab combination vs. chemotherapy was reported within this study subgroup. Data about efficacy of pembrolizumab in combination with platinum chemotherapy are limited in this patient population.
+At final analysis, a total of  65 NSCLC patients aged ≥ 75 years were enrolled in study KEYNOTE-407 (34 in the pembrolizumab combination and 31 in the control). A HR=0.81 [95% CI 0.43, 1.55] in OS, a HR=0.61 [95% CI 0.34, 1.09] in PFS, and an ORR of 62% and 45% for pembrolizumab combination vs. chemotherapy was reported within this study subgroup. Data about efficacy of pembrolizumab in combination with platinum chemotherapy are limited in this patient population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1554,14 +1569,14 @@ Figure 20: Kaplan-Meier curve for progression-free survival in patients with non
 
 The efficacy of pembrolizumab was investigated in KEYNOTE-204, a randomised, open-label, active-controlled study conducted in 304 patients with relapsed or refractory cHL. Patients with active, non-infectious pneumonitis, an allogeneic HSCT within the past 5 years (or &gt; 5 years but with symptoms of GVHD), active autoimmune disease, a medical condition that required immunosuppression, or an active infection requiring systemic therapy were ineligible for the study. Randomisation was stratified by prior ASCT (yes vs. no) and disease status after f rontline therapy (primary refractory vs. relapse less than 12 months af ter completion vs. relapse 12 months or more after completion). Patients were randomised (1:1) to one of the following treatment arms:
 
-- Pembrolizumab 200 mg   intravenously every 3 weeks
+- Pembrolizumab 200 mg   intravenously every 3 weeks.
 - Brentuximab vedotin (BV) 1.8 mg/kg bw intravenously every 3 weeks.
 
 Patients received pembrolizumab 200 mg intravenously every 3 weeks until unacceptable toxicity or documented disease progression, or a maximum of 35 cycles. Limited data are currently available on response duration following pembrolizumab discontinuation at cycle 35. Response was assessed every 12 weeks, with the first planned post-baseline assessment at Week 12.
 
 <div style=\"page-break-after: always\"></div>
 
-Among the 304 patients in KEYNOTE-204, there is a subpopulation consisting of 112 patients who failed a transplant before enrolling and 137 who failed 2 or more prior therapies and were ineligible for ASCT at the time of enrolment. The baseline characteristics of these 249 patients were: median age 34 years (11% age 65 or older); 56% male; 80% White and 7% Asian and 58% and 41% with an ECOG performance status 0 and 1, respectively. Approximately 30% were refractory to frontline chemotherapy and ~ 45% had received prior ASCT. Nodular-sclerosis was the more represented cHL histological subtype (~ 81%) and bulky disease, B symptoms and bone marrow involvement were present in approximately 21%, 28% and 4% of patients, respectively.
+Among the 304 patients in KEYNOTE-204, there is a subpopulation consisting of 112 patients who failed a transplant before enrolling and 137 who failed 2 or more prior therapies and were ineligible for ASCT at the time of enrolment. The baseline characteristics of these 249 patients were: median age 34 years (11% age 65 or older); 56% male; 80% White and 7% Asian and 58% and 41% with an ECOG performance status 0 and 1, respectively. Approximately 30% were refractory to f rontline chemotherapy and ~ 45% had received prior ASCT. Nodular sclerosis was the more represented cHL histological subtype (~ 81%) and bulky disease, B symptoms and bone marrow involvement were present in approximately 21%, 28% and 4% of patients, respectively.
 
 The primary efficacy outcome was PFS and the secondary efficacy outcome measure was ORR, both assessed by BICR according to the 2007 revised International Working Group (IWG) criteria. The additional primary efficacy outcome measure, OS, was not formally assessed at the time of the analysis. In the ITT population, the median follow-up time for 151 patients treated with pembrolizumab was 24.9 months (range: 1.8 to 42.0 months). The initial analysis resulted in a HR for PFS of 0.65 (95% CI: 0.48, 0.88) with a one-sided p value of 0.0027. The ORR was 66% for pembrolizumab compared to 54% for standard treatment with a p-Value of 0.0225. Table 22 summarises the efficacy results in the subpopulation. Efficacy results in this subpopulation were consistent with the ITT population. The Kaplan-Meier curve for PFS for this subpopulation is shown in Figure 21.
 
@@ -1647,14 +1662,76 @@ Overall, 46 cHL patients ≥ 65 years were treated with pembrolizumab in studies
 
 ## Urothelial carcinoma
 
-## KEYNOTE-A39: Controlled study of combination therapy with enfortumab vedotin for the first-line treatment of unresectable or metastatic urothelial carcinoma
-
-The efficacy of pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39, an open-label, multicentre, randomised, active-controlled study, that enrolled 886 patients with unresectable or metastatic urothelial carcinoma. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression, active CNS metastases, ongoing sensory or motor neuropathy ≥ Grade 2, or uncontrolled diabetes def ined as haemoglobin A1C (HbA1c) ≥ 8% or HbA1c ≥ 7% with associated diabetes symptoms, pneumonitis, or other forms of interstitial lung disease. Patients who received neoadjuvant chemotherapy or patients who received adjuvant chemotherapy following cystectomy were included in the study if recurrence was &gt; 12 months from completion of therapy. Patients were considered cisplatin-ineligible if they had at least one of the following criteria: glomerular f iltration rate 30-59 mL/min, ECOG P S ≥ 2, Grade ≥ 2 hearing loss, or NYHA Class III heart failure. Patients randomised to the gemcitabine and platinum-based chemotherapy arm were permitted to receive maintenance immunotherapy. Randomisation was stratified by cisplatin eligibility (eligible or ineligible), PD-L1 expression (CPS ≥ 10 or CPS &lt; 10 determined using the PD-L1 IHC 22C3 pharmDx assay), and liver metastases (present or absent). Patients were randomised (1:1) to one of the following treatment arms; all study medications were administered via intravenous infusion;
+KEYNOTE-905: Controlled study of combination with enfortumab vedotin for neoadjuvant and adjuvant treatment of patients with MIBC who are ineligible for cisplatin-containing chemotherapy The efficacy of pembrolizumab in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment was investigated in KEYNOTE-905, an open-label, randomised, multicentre, active-controlled study in patients with MIBC. Key eligibility criteria were previously untreated cT2-T4aN0M0 or cT1-T4aN1M0 MIBC in patients who were ineligible for or declined cisplatin-based chemotherapy and were eligible for radical cystectomy (RC) and pelvic lymph node dissection (PLND), regardless of PD-L1 status. Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible. Patients were randomised 1:1:1 to receive neoadjuvant and adjuvant pembrolizumab in combination with enfortumab vedotin, neoadjuvant and adjuvant pembrolizumab monotherapy, or RC and PLND alone. Randomisation was stratified by tumour stage (T2N0 vs. T3/T4aN0 vs. T1-T4aN1), cisplatin eligibility (cisplatin-ineligible vs. cisplatin-eligible but declined), and geographic region (United States vs. European Union vs. Rest of the World). The study population characteristics and evaluation of ef ficacy were based on the following treatment arms; all study medications were administered via intravenous infusion.
 
 <div style=\"page-break-after: always\"></div>
 
+- Pembrolizumab in combination with enfortumab vedotin (n=170): neoadjuvant pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 3 cycles. Following RC and PLND, adjuvant pembrolizumab 200 mg over 30 minutes on Day 1 of each 21-day cycle for 14 cycles and adjuvant enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 6 cycles.
+- RC and PLND alone (n=174).
+
+Treatment continued until completion of study medications, disease progression that precluded RC and PLND, not undergoing or refusal of RC and PLND, disease recurrence in the adjuvant phase, or unacceptable toxicity. Assessment of tumour status was performed at baseline, within 5 weeks prior to RC and PLND, and at 6 weeks post-radical cystectomy. Following RC and PLND, assessment of tumour status was performed every 12 weeks up to 2 years, and every 24 weeks thereafter.
+
+The study population characteristics were: median age of 73 years; 78% male; and 78% White; 47% were CPS ≥ 10 and 51% were CPS &lt; 10; 86% had ECOG PS of 0-1 and 14% had ECOG PS of 2; 18% were T2N0, 77% T3/T4aN0, and 5% T1-T4aN1. Forty-one percent of patients had baseline creatinine clearance of ≥ 60 mL/min, 59% had &lt; 60 mL/min but ≥ 30 mL/min, and 0.3% had &lt; 30 mL/min, respectively. Ninety-one percent of patients had urothelial carcinoma histology; 4% had urothelial carcinoma with squamous differentiation, 3% had urothelial carcinoma with glandular differentiation, and 2% had urothelial carcinoma with other variant histology.
+
+A total of 149 (88%) patients in the pembrolizumab in combination with enfortumab vedotin arm and 156 (90%) patients in the RC and PLND alone arm underwent radical cystectomy.
+
+The primary efficacy outcome measure was EFS as assessed by BICR. Additional efficacy outcome measures were pCR rate as assessed by BICR and OS. The study demonstrated a statistically signif icant improvement in EFS, OS, and pCR in patients treated with neoadjuvant and adjuvant pembrolizumab in combination with enfortumab vedotin compared with RC and PLND alone. The median follow-up time for patients randomised to treatment with pembrolizumab in combination with enfortumab vedotin was 20.4 months (range: 1.4-52.6 months). Table 24 summarises key efficacy measures. Figures 22 and 23 show the Kaplan-Meier curves for EFS and OS.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 24: Efficacy results in KEYNOTE-905
+
+| Endpoint                                      | Pembrolizumab 200 mgevery 3 weeks in combination with enfortumab vedotin n=170   | RC and PLND alone n=174   |
+|-----------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
+| EFS                                           |                                                                                  |                           |
+| Number ofpatients with event (%)              | 48 (28%)                                                                         | 95 (55%)                  |
+| Median in months * (95% CI)                   | NR(37.3, NR)                                                                     | 15.7 (10.3, 20.5)         |
+| Hazard ratio † (95% CI)                       | 0.40 (0.28, 0.57)                                                                | 0.40 (0.28, 0.57)         |
+| p-Value ‡                                     | < 0.0001                                                                         | < 0.0001                  |
+| OS                                            |                                                                                  |                           |
+| Number ofpatients with event (%)              | 38 (22%)                                                                         | 68 (39%)                  |
+| Median in months * (95% CI)                   | NR(NR, NR)                                                                       | 41.7 (31.8, NR)           |
+| Hazard ratio † (95% CI)                       | 0.50 (0.33, 0.74)                                                                | 0.50 (0.33, 0.74)         |
+| p-Value ‡                                     | 0.0002                                                                           | 0.0002                    |
+| pCR                                           |                                                                                  |                           |
+| Number ofpatients with pCR                    | 97                                                                               | 15                        |
+| pCR Rate (%), (95% CI)                        | 57.1 (49.3, 64.6)                                                                | 8.6 (4.9, 13.8)           |
+| Treatment difference estimate (%), (95% CI) § | 48.3 (39.5, 56.5)                                                                | 48.3 (39.5, 56.5)         |
+| p-Value                                       | < 0.0001                                                                         | < 0.0001                  |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 22: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-905
+
+54
+
+<!-- image -->
+
+Number at Risk
+
+pembrolizumab + EV
+
+RC + PLND
+
+100
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 23: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-905
+
+54
+
+<!-- image -->
+
+## KEYNOTE-A39: Controlled study of combination therapy with enfortumab vedotin for the first-line treatment of unresectable or metastatic urothelial carcinoma
+
+The efficacy of pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39, an open-label, multicentre, randomised, active-controlled study, that enrolled 886 patients with unresectable or metastatic urothelial carcinoma. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression, active CNS metastases, ongoing sensory or motor neuropathy ≥ Grade 2, or uncontrolled diabetes def ined as haemoglobin A1C (HbA1c) ≥ 8% or HbA1c ≥ 7% with associated diabetes symptoms, pneumonitis, or other forms of interstitial lung disease. Patients who received neoadjuvant chemotherapy or patients who received adjuvant chemotherapy following cystectomy were included in the study if recurrence was &gt; 12 months from completion of therapy. Patients were considered cisplatin-ineligible if they had at least one of the following criteria: glomerular f iltration rate 30-59 mL/min, ECOG PS ≥ 2, Grade ≥ 2 hearing loss, or NYHA Class III heart failure. Patients randomised to the gemcitabine and platinum-based chemotherapy arm were permitted to receive maintenance immunotherapy. Randomisation was stratified by cisplatin eligibility (eligible or ineligible), PD-L1 expression (CPS ≥ 10 or CPS &lt; 10 determined using the PD-L1 IHC 22C3 pharmDx assay), and liver metastases (present or absent). Patients were randomised (1:1) to one of the following treatment arms; all study medications were administered via intravenous infusion;
+
 - Pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
-- Gemcitabine 1 000 mg/m 2  on Days 1 and 8 and investigator's choice of  cisplatin 70 mg/m 2  or carboplatin (AUC 4.5 or 5 mg/mL/min according to local guidelines) on Day 1 of each 21-day cycle.
+
+<div style=\"page-break-after: always\"></div>
+
+- Gemcitabine 1 000 mg/m 2  on Days 1 and 8 and investigator's choice of  cisplatin 70 mg/m 2 or carboplatin (AUC 4.5 or 5 mg/mL/min according to local guidelines) on Day 1 of each 21-day cycle.
 
 Treatment with pembrolizumab and enfortumab vedotin continued until RECIST v1.1-defined progression of disease, unacceptable toxicity, or for pembrolizumab a maximum of 35 cycles (up to approximately 2 years). Assessment of tumour status was performed every 9 weeks for 18 months, and then every 12 weeks thereafter.
 
@@ -1664,11 +1741,11 @@ The primary efficacy outcome measures were PFS as assessed by BICR according to 
 
 The study demonstrated a statistically signif icant improvement in OS, PFS and ORR in patients randomised to pembrolizumab in combination with enfortumab vedotin compared with patients randomised to gemcitabine and platinum-based chemotherapy.
 
-The median follow-up time for 442 patients treated with pembrolizumab and enfortumab vedotin was 17.3 months (range: 0.3 to 37.2 months). Key efficacy results are summarised in Table 24 and Figures 22 and 23.
+The median follow-up time for 442 patients treated with pembrolizumab and enfortumab vedotin was 17.3 months (range: 0.3 to 37.2 months). Key efficacy results are summarised in Table 25 and Figures 24 and 25.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 24: Efficacy results in KEYNOTE-A39
+Table 25: Efficacy results in KEYNOTE-A39
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks in combination with Enfortumab vedotin n=442   | Gemcitabine + Platinum chemotherapy with or without maintenance immunotherapy n=444   |
 |----------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -1692,7 +1769,7 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 22: Kaplan-Meier curve for overall survival in KEYNOTE-A39
+Figure 24: Kaplan-Meier curve for overall survival in KEYNOTE-A39
 
 100
 
@@ -1704,7 +1781,7 @@ Pembrolizumab + EV Chemotherapy 36 22 12 8 1 1 1 0 34 16 163 1 1 1 33 3 32 17 25
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 23: Kaplan-Meier curve for progression-free survival in KEYNOTE-A39
+Figure 25: Kaplan-Meier curve for progression-free survival in KEYNOTE-A39
 
 <!-- image -->
 
@@ -1774,15 +1851,15 @@ Chemotherapy
 
 ## KEYNOTE-045: Controlled study in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
 
-The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, open-label, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or af ter platinum-containing chemotherapy. Patients must have received first-line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤ 12 months following completion of therapy. Patients were randomised (1:1) to receive either pembrolizumab 200 mg every 3 weeks (n=270) or investigator's choice of  any of  the f ollowing chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m 2 (n=84), docetaxel 75 mg/m 2 (n=84), or vinf lunine 320 mg/m 2 (n=87). Patients were treated with pembrolizumab until unacceptable toxicity or disease progression. Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator. Patients without disease progression could be treated for up to 24 months. The study excluded patients with autoimmune disease, a medical condition that required immunosuppression and patients with more than 2 prior lines of systemic chemotherapy for metastatic urothelial carcinoma. Patients with an ECOG performance status of 2 had to have a ha emoglobin ≥ 10 g/dL, could not have liver metastases, and must have received the last dose of their last prior chemotherapy regimen ≥ 3 months prior to enrolment. Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
+The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, open-label, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or af ter platinum-containing chemotherapy. Patients must have received first-line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤ 12 months following completion of therapy. Patients were randomised (1:1) to receive either pembrolizumab 200 mg every 3 weeks (n=270) or investig ator's choice of  any of   the  f ollowing chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m 2 (n=84), docetaxel 75 mg/m 2 (n=84), or vinf lunine 320 mg/m 2 (n=87). Patients were treated with pembrolizumab until unacceptable toxicity or disease progression. Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator. Patients without disease progression could be treated for up to 24 months. The study excluded patients with autoimmune disease, a medical condition that required immunosuppression and patients with more than 2 prior lines of systemic chemotherapy for metastatic urothelial carcinoma. Patients with an ECOG performance status of 2 had to have a ha emoglobin ≥ 10 g/dL, could not have liver metastases, and must have received the last dose of their last prior chemotherapy regimen ≥ 3 months prior to enrolment. Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
 
 <div style=\"page-break-after: always\"></div>
 
 Among the 542 randomised patients in KEYNOTE-045, baseline characteristics were: median age 66 years (range: 26 to 88), 58% age 65 or older; 74% male; 72% White and 23% Asian; 56% ECOG performance status of 1 and 1% ECOG performance status of 2; and 96% M1 disease and 4% M0 disease. Eighty-seven percent of patients had visceral metastases, including 34% with liver metastases. Eighty-six percent had a primary tumour in the lower tract and 14% had a primary tumour in the upper tract. Fif teen percent of  patients had disease progression f ollowing prior platinum-containing neoadjuvant or adjuvant chemotherapy. Twenty-one percent had received 2 prior systemic regimens in the metastatic setting. Seventy-six percent of patients received prior cisplatin, 23% had prior carboplatin, and 1% was treated with other platinum-based regimens.
 
-The primary efficacy outcomes were OS and PFS as assessed by BICR using RECIST v1.1. Secondary outcome measures were ORR (as assessed by BICR using RECIST v1.1) and duration of response. Table 25 summarises the key efficacy measures for the ITT population at the final analysis. The Kaplan-Meier curve based on the final analysis for OS is shown in Figure 24. The study demonstrated statistically signif icant improvements in OS and ORR for patients randomised to pembrolizumab as compared to chemotherapy. There was no statistically significant difference between pembrolizumab and chemotherapy with respect to PFS.
+The primary efficacy outcomes were OS and PFS as assessed by BICR using RECIST v1.1. Secondary outcome measures were ORR (as assessed by BICR using RECIST v1.1) and duration of response. Table 26 summarises the key efficacy measures for the ITT population at the final analysis. The Kaplan-Meier curve based on the final analysis for OS is shown in Figure 26. The study demonstrated statistically signif icant improvements in OS and ORR for patients randomised to pembrolizumab as compared to chemotherapy. There was no statistically significant difference between pembrolizumab and chemotherapy with respect to PFS.
 
-Table 25: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
+Table 26: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
 
 | Endpoint                                           | Pembrolizumab 200 mgevery 3 weeks n=270   | Chemotherapy n=272   |
 |----------------------------------------------------|-------------------------------------------|----------------------|
@@ -1807,7 +1884,7 @@ Table 25: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 | Number (% # ) ofpatients with duration ≥ 6 months  | 46 (84%)                                  | 8 (47%)              |
 | Number (% # ) ofpatients with duration ≥ 12 months | 35 (68%)                                  | 5 (35%)              |
 
-* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratif ied Cox proportional hazard model An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS &lt; 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n=176 (65%)] or ≥ 10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n=90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 26).
+* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratif ied Cox proportional hazard model An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS &lt; 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n=176 (65%)] or ≥ 10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n=90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 27).
 
 † Based on stratified log-rank test
 
@@ -1821,11 +1898,11 @@ Table 25: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 24: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-045 (intent to treat population)
+Figure 26: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-045 (intent to treat population)
 
 <!-- image -->
 
-Table 26: OS by PD-L1 expression
+Table 27: OS by PD-L1 expression
 
 | PD-L1 Expression   | Pembrolizumab                                             | Chemotherapy                                              |                         |
 |--------------------|-----------------------------------------------------------|-----------------------------------------------------------|-------------------------|
@@ -1843,9 +1920,9 @@ The safety and efficacy of pembrolizumab were investigated in KEYNOTE-052, a mul
 
 Among 370 patients with urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy baseline characteristics were: median age 74 years (82% age 65 or older); 77% male; and 89% White and 7% Asian. Eighty-eight percent had M1 disease and 12% had M0 disease. Eighty-five percent of patients had visceral metastases, including 21% with liver metastases. Reasons for cisplatin ineligibility included: baseline creatinine clearance of  &lt; 60 mL/min (50%), ECOG performance status of 2 (32%), ECOG performance status of 2 and baseline creatinine clearance of &lt; 60 mL/min (9%), and other (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss; 9%). Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy. Eighty-one percent had a primary tumour in the lower tract, and 19% of patients had a primary tumour in the upper tract.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures were duration of response, PFS, and OS. Table 27 summarises the key efficacy measures for the study population at the f inal analysis based on a median follow-up time of 11.4 months (range: 0.1, 41.2 months) for all patients.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures were duration of response, PFS, and OS. Table 28 summarises the key efficacy measures for the study population at the f inal analysis based on a median follow-up time of 11.4 months (range: 0.1, 41.2 months) for all patients.
 
-Table 27: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
+Table 28: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
 
 | Endpoint                   | n=370              |
 |----------------------------|--------------------|
@@ -1877,9 +1954,9 @@ Table 27: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 
 <div style=\"page-break-after: always\"></div>
 
-An analysis was performed in KEYNOTE-052 in patients who had tumours that expressed PD-L1 with a CPS &lt; 10 (n=251; 68%) or ≥ 10 (n=110; 30%) (see Table 28). PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
+An analysis was performed in KEYNOTE-052 in patients who had tumours that expressed PD-L1 with a CPS &lt; 10 (n=251; 68%) or ≥ 10 (n=110; 30%) (see Table 29). PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 
-Table 28: ORR and OS by PD-L1 expression
+Table 29: ORR and OS by PD-L1 expression
 
 | Endpoint                  | CPS < 10 n=251   | CPS ≥ 10 n=110   |
 |---------------------------|------------------|------------------|
@@ -1891,11 +1968,11 @@ Table 28: ORR and OS by PD-L1 expression
 
 *   BICR using RECIST 1.1
 
-KEYNOTE-361 is a Phase III, randomised, controlled, open-label clinical study of pembrolizumab with or without platinum-based combination chemotherapy (i.e., either cisplatin or carboplatin with gemcitabine) versus chemotherapy as first-line treatment in subjects with advanced or metastatic urothelial carcinoma. Results of KEYNOTE-361 for pembrolizumab in combination with chemotherapy did not show statistically significant improvement in PFS as assessed by BICR using RECIST 1.1 (HR 0.78; 95% CI: 0.65, 0.93; p=0.0033), and OS (HR 0.86; 95% CI: 0.72, 1.02; p=0.0407) versus chemotherapy alone. Per the pre-specified hierarchical testing order no formal tests for statistical signif icance of  pembrolizumab versus chemotherapy could be performed. The key efficacy results of pembrolizumab monotherapy in patients for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy were consistent with KEYNOTE-052 results. Efficacy results in patients whose tumours express PDL1 with CPS ≥ 10 were similar to the overall population f or whom carboplatin was selected as the choice of chemotherapy. See Table 29 and Figures 25 and 26.
+KEYNOTE-361 is a Phase III, randomised, controlled, open-label clinical study of pembrolizumab with or without platinum-based combination chemotherapy (i.e., either cisplatin or carboplatin with gemcitabine) versus chemotherapy as first-line treatment in subjects with advanced or metastatic urothelial carcinoma. Results of KEYNOTE-361 for pembrolizumab in combination with chemotherapy did not show statistically significant improvement in PFS as assessed by BICR using RECIST 1.1 (HR 0.78; 95% CI: 0.65, 0.93; p=0.0033), and OS (HR 0.86; 95% CI: 0.72, 1.02; p=0.0407) versus chemotherapy alone. Per the pre-specified hierarchical testing order no formal tests for statistical signif icance of  pembrolizumab versus chemotherapy could be performed. The key efficacy results of pembrolizumab monotherapy in patients for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy were consistent with KEYNOTE-052 results. Efficacy results in patients whose tumours express PDL1 with CPS ≥ 10 were similar to the overall population f or whom carboplatin was selected as the choice of chemotherapy. See Table 30 and Figures 27 and 28.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 29: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in patients with previously untreated urothelial carcinoma for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy in KEYNOTE-361
+Table 30: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in patients with previously untreated urothelial carcinoma for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy in KEYNOTE-361
 
 | Endpoint                      | Pembrolizumab n=170   | Chemotherapy n=196   | Pembrolizumab CPS ≥ 10 n=84   | Chemotherapy CPS ≥ 10 n=89   |
 |-------------------------------|-----------------------|----------------------|-------------------------------|------------------------------|
@@ -1919,13 +1996,13 @@ Table 29: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in pati
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 25: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (intent to treat population, choice of carboplatin)
+Figure 27: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (intent to treat population, choice of carboplatin)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 26: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (patients with PD-L1 expression CPS ≥ 10, intent to treat population, choice of carboplatin)
+Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (patients with PD-L1 expression CPS ≥ 10, intent to treat population, choice of carboplatin)
 
 <!-- image -->
 
@@ -1950,11 +2027,11 @@ Among the 714 patients in KEYNOTE-689, 682 (96%) had tumours that expressed PD-L
 
 The primary efficacy outcome measure was EFS by BICR defined as the time from randomisation to the first occurrence of any of the following events: progression of disease that precludes def initive surgery, local or distant disease progression or recurrence, or death due to any cause. Secondary primary malignancy was not considered an event. Additional efficacy outcome measures were mPR as assessed by BIPR, OS, and pCR as assessed by BIPR.
 
-The study demonstrated a statistically signif icant improvement in EFS (HR 0.73; 95% CI: 0.58, 0.92; p-Value 0.00411) in patients randomised to pembrolizumab in combination with radiation with or without concomitant cisplatin compared to those randomised to radiation with or without concomitant cisplatin at the f irst pre-specif ied interim analysis in the overall population. OS at interim analysis was not f ormally tested. Table 30 summarises key eff icacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 at a median f ollow-up time of 27.0 months (range: 0.5 to 66.5 months). Figures 27 and 28 show the Kaplan-Meier curves for EFS and OS.
+The study demonstrated a statistically signif icant improvement in EFS (HR 0.73; 95% CI: 0.58, 0.92; p-Value 0.00411) in patients randomised to pembrolizumab in combination with radiation with or without concomitant cisplatin compared to those randomised to radiation with or without concomitant cisplatin at the f irst pre-specif ied interim analysis in the overall population. OS at interim analysis was not f ormally tested. Table 31 summarises key eff icacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 at a median f ollow-up time of 27.0 months (range: 0.5 to 66.5 months). Figures 29 and 30 show the Kaplan-Meier curves for EFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 30: Efficacy results in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+Table 31: Efficacy results in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks with RT with or without cisplatin n=347   | RT with or without cisplatin n=335   |
 |----------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
@@ -1972,13 +2049,13 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 27: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 29: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 30: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
@@ -1986,9 +2063,9 @@ Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-6
 
 The efficacy of pembrolizumab was investigated in KEYNOTE-048, a multicentre, randomised, open-label, active-controlled study in patients with histologically confirmed metastatic or recurrent HNSCC of the oral cavity, pharynx or larynx, who had not previously received systemic therapy for recurrent or metastatic disease and who were considered incurable by local therapies. Patients with nasopharyngeal carcinoma, active autoimmune disease that required systemic therapy within two years of treatment or a medical condition that required immunosuppression were ineligible for the study. Randomisation was stratified by tumour PD-L1 expression (TPS ≥ 50% or &lt; 50%), HPV status (positive or negative), and ECOG PS (0 vs. 1). Patients were randomised 1:1:1 to one of the following treatment arms:
 
-- Pembrolizumab 200 mg every 3 weeks
-- Pembrolizumab 200 mg every 3 weeks, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU)
-- Cetuximab 400 mg/m 2  load then 250 mg/m 2 once weekly, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU)
+- Pembrolizumab 200 mg every 3 weeks.
+- Pembrolizumab 200 mg every 3 weeks, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU).
+- Cetuximab 400 mg/m 2  load then 250 mg/m 2 once weekly, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1996,11 +2073,11 @@ Treatment with pembrolizumab continued until RECIST 1.1-defined progression of d
 
 Among the 882 patients in KEYNOTE-048, 754 (85%) had tumours that expressed PD-L1 with a CPS ≥ 1. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 754 patients included: median age of 61 years (range: 20 to 94); 36% age 65 or older; 82% male; 74% White and 19% Asian; 61% ECOG performance status of 1; and 77% former/current smokers. Disease characteristics were: 21% HPV positive and 95% had stage IV disease (stage IVa 21%, stage IVb 6%, and stage IVc 69%).
 
-The primary efficacy outcome measures were OS and PFS (assessed by BICR according to RECIST 1.1). The study demonstrated a statistically signif icant improvement in OS for all patients randomised to pembrolizumab in combination with chemotherapy compared to standard treatment (HR 0.72; 95% CI 0.60-0.87) and in patients whose tumours expressed PD-L1 CPS ≥ 1 randomised to pembrolizumab monotherapy compared to standard treatment. Tables 31 and 32 summarise key efficacy results for pembrolizumab in patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-048 at the final analysis performed at a median follow-up of 13 months for pembrolizumab in combination with chemotherapy and at a median follow-up of 11.5 months for pembrolizumab monotherapy. Kaplan -Meier curves for OS based on the final analysis are shown in Figures 29 and 30.
+The primary efficacy outcome measures were OS and PFS (assessed by BICR according to RECIST 1.1). The study demonstrated a statistically signif icant improvement in OS for all patients randomised to pembrolizumab in combination with chemotherapy compared to standard treatment (HR 0.72; 95% CI 0.60-0.87) and in patients whose tumours expressed PD-L1 CPS ≥ 1 randomised to pembrolizumab monotherapy compared to standard treatment. Tables 32 and 33 summarise key efficacy results for pembrolizumab in patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-048 at the final analysis performed at a median follow-up of 13 months for pembrolizumab in combination with chemotherapy and at a median follow-up of 11.5 months for pembrolizumab monotherapy. Kaplan -Meier curves for OS based on the final analysis are shown in Figures 31 and 32.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 31: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Table 32: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=242   | Standard Treatment * n=235   |
 |----------------------------------|------------------------------------------------------|------------------------------|
@@ -2023,9 +2100,9 @@ Table 31: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 wi
 | Median in months (range)         | 6.7 (1.6+, 39.0+)                                    | 4.3 (1.2+, 31.5+)            |
 | %with duration≥ 6 months         | 54%                                                  | 34%                          |
 
-*
-
 Cetuximab, platinum, and 5-FU
+
+*
 
 † Based on the stratified Cox proportional hazard model
 
@@ -2037,13 +2114,13 @@ Cetuximab, platinum, and 5-FU
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 29: Kaplan-Meier curve for overall survival for pembrolizumab plus chemotherapy in KEYNOTE-048 with PDL1 expression (CPS ≥ 1)
+Figure 31: Kaplan-Meier curve for overall survival for pembrolizumab plus chemotherapy in KEYNOTE-048 with PDL1 expression (CPS ≥ 1)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Table 32: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Table 33: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab n=257   | Standard Treatment * n=255   |
 |----------------------------------|-----------------------|------------------------------|
@@ -2068,13 +2145,13 @@ Table 32: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 30: Kaplan-Meier curve for overall survival for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Figure 32: Kaplan-Meier curve for overall survival for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
-An analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 20 [pembrolizumab plus chemotherapy: n=126 (49%) vs. standard treatment: n=110 (43%) and pembrolizumab monotherapy: n=133 (52%) vs. standard treatment: n=122 (48%)] (see Table 33).
+An analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 20 [pembrolizumab plus chemotherapy: n=126 (49%) vs. standard treatment: n=110 (43%) and pembrolizumab monotherapy: n=133 (52%) vs. standard treatment: n=122 (48%)] (see Table 34).
 
-Table 33: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 20)
+Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 20)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=126   | Standard Treatment * n=110   | Pembrolizumab Monotherapy n=133   | Standard Treatment * n=122   |
 |----------------------------------|------------------------------------------------------|------------------------------|-----------------------------------|------------------------------|
@@ -2105,19 +2182,11 @@ Table 33: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab
 | Number ofresponders              | 54                                                   | 42                           | 31                                | 44                           |
 | Median in months (range)         | 7.1 (2.1+, 39.0+)                                    | 4.2 (1.2+, 31.5+)            | 22.6 (2.7+, 43.0+)                | 4.2 (1.2+, 31.5+)            |
 
-* Cetuximab, platinum, and 5-FU
-
-† Based on the stratified Cox proportional hazard model
-
-‡ Based on stratified log-rank test
-
-§ Response: Best objective response as confirmed complete response or partial response
-
-An exploratory subgroup analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 1 to &lt; 20 [pembrolizumab plus chemotherapy: n=116 (45%) vs. standard treatment: n=125 (49%) and pembrolizumab monotherapy: n=124 (48%) vs. standard treatment: n=133 (52%)] (see Table 34).
+An exploratory subgroup analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 1 to &lt; 20 [pembrolizumab plus chemotherapy: n=116 (45%) vs. standard treatment: n=125 (49%) and pembrolizumab monotherapy: n=124 (48%) vs. standard treatment: n=133 (52%)] (see Table 35).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 1 to &lt; 20)
+Table 35: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 1 to &lt; 20)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=116   | Standard Treatment * n=125   | Pembrolizumab Monotherapy n=124   | Standard Treatment * n=133   |
 |----------------------------------|------------------------------------------------------|------------------------------|-----------------------------------|------------------------------|
@@ -2141,10 +2210,6 @@ Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab
 | Number ofresponders              | 34                                                   | 42                           | 18                                | 45                           |
 | Median in months (range)         | 5.6 (1.6+, 25.6+)                                    | 4.6 (1.4+, 31.4+)            | NR(1.5+, 38.9+)                   | 5.0 (1.4+, 38.7+)            |
 
-* Cetuximab, platinum, and 5-FU
-
-† Based on the stratified Cox proportional hazard model
-
 ‡ Response: Best objective response as confirmed complete response or partial response
 
 NR = not reached
@@ -2157,9 +2222,9 @@ The safety and efficacy of pembrolizumab were investigated in KEYNOTE-040, a mul
 
 Among the 495 patients in KEYNOTE-040, 129 (26%) had tumours that expressed PD-L1 with a TPS ≥ 50%. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 129 patients included: median age 62 years (40% age 65 or older); 81% male; 78% White, 11% Asian, and 2% Black; 23% and 77% with an ECOG performance status 0 or 1, respectively; and 19% with HPV positive tumours. Sixty-seven percent (67%) of patients had M1 disease and the majority had stage IV disease (stage IV 32%, stage IVa 14%, stage IVb 4%, and stage IVc 44%). Sixteen percent (16%) had disease progression following platinum-containing neoadjuvant or adjuvant chemotherapy, and 84% had received 1-2 prior systemic regimens for metastatic disease.
 
-The primary efficacy outcome was OS in the ITT population. The initial analysis resulted in a HR for OS of 0.82 (95% CI: 0.67, 1.01) with a one-sided p-Value of 0.0316. The median OS was 8.4 months for pembrolizumab compared to 7.1 months for standard treatment. Table 35 summarises the key efficacy measures for the TPS ≥ 50% population. The Kaplan-Meier curve for OS for the TPS ≥ 50% population is shown in Figure 31.
+The primary efficacy outcome was OS in the ITT population. The initial analysis resulted in a HR for OS of 0.82 (95% CI: 0.67, 1.01) with a one-sided p-Value of 0.0316. The median OS was 8.4 months for pembrolizumab compared to 7.1 months for standard treatment. Table 36 summarises the key efficacy measures for the TPS ≥ 50% population. The Kaplan-Meier curve for OS for the TPS ≥ 50% population is shown in Figure 33.
 
-Table 35: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with TPS ≥ 50% who were previously treated with platinum chemotherapy in KEYNOTE-040
+Table 36: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with TPS ≥ 50% who were previously treated with platinum chemotherapy in KEYNOTE-040
 
 | Endpoint                                          | Pembrolizumab 200 mgevery 3 weeks n=64   | Standard Treatment * n=65   |
 |---------------------------------------------------|------------------------------------------|-----------------------------|
@@ -2200,7 +2265,9 @@ Table 35: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 31: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-040 patients with PD-L1 expression (TPS ≥ 50%)
+Figure 33: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-040 patients with PD-L1 expression (TPS ≥ 50%)
+
+100
 
 <!-- image -->
 
@@ -2208,20 +2275,22 @@ Figure 31: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-0
 
 ## KEYNOTE-426: Controlled study of combination therapy with axitinib in RCC patients naïve to treatment
 
-The efficacy of pembrolizumab in combination with axitinib was investigated in KEYNOTE-426, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced RCC with clear cell component, regardless of PD-L1 tumour expression status and International Metastatic RCC Database Consortium (IMDC) risk group categories. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratif ied by risk categories (f avourable versus intermediate versus poor) and geographic region (North America versus Western Europe versus 'Rest of  the World'). Patients were randomised (1:1) to o ne of the following treatment arms:
+The efficacy of pembrolizumab in combination with axitinib was investigated in KEYNOTE-426, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced RCC with clear cell component, regardless of PD-L1 tumour expression status and International Metastatic RCC Database Consortium (IMDC) risk group categories. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratif ied by risk categories (f avourable versus intermediate versus poor) and geographic region (North America versus Western Europe versus Rest of the World). Patients were randomised (1:1) to one of the following treatment arms:
 
 - pembrolizumab 200 mg   intravenously every 3 weeks in combination with axitinib 5 mg orally, twice daily. Patients who tolerated axitinib 5 mg twice daily for 2 consecutive treatment cycles (i.e., 6 weeks) with no &gt; Grade 2 treatment-related adverse events to axitinib and with blood pressure well controlled to ≤ 150/90 mm Hg were permitted dose escalation of axitinib to 7 mg twice daily. Dose escalation of axitinib to 10 mg twice daily was permitted using the same criteria. Axitinib could be interrupted or reduced to 3 mg twice daily and subsequently to 2 mg twice daily to manage toxicity.
-- sunitinib 50 mg orally, once daily for 4 weeks and then off treatment for 2 weeks.
-
-Treatment with pembrolizumab and axitinib continued until RECIST v1.1-defined progression of disease as verif ied by BICR or confirmed by the investigator, unacceptable toxicity, or f or pembrolizumab, a maximum of 24 months. Administration of pembrolizumab and axitinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benef it by the investigator. Assessment of tumour status was performed at baseline, after randomisation at Week 12, then every 6 weeks thereafter until Week 54, and then every 12 weeks thereafter.
+- sunitinib 50 mg orally, once daily for 4 weeks and then off treatment f or 2 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
+Treatment with pembrolizumab and axitinib continued until RECIST v1.1-defined progression of disease as verif ied by BICR or confirmed by the investigator, unacceptable toxicity, or f or pembrolizumab, a maximum of 24 months. Administration of pembrolizumab and axitinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benef it by the investigator. Assessment of tumour status was performed at baseline, after randomisation at Week 12, then every 6 weeks thereafter until Week 54, and then every 12 weeks thereafter.
+
 A total of 861 patients were randomised. The study population characteristics were: median age of 62 years (range: 26 to 90); 38% age 65 or older; 73% male; 79% White and 16% Asian; 80% had a Karnofsky Performance Score (KPS) 90-100 and 20% had KPS 70-80; patient distribution by IMDC risk categories was 31% favourable, 56% intermediate and 13% poor.
 
-The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures were ORR and response duration, as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in OS (HR 0.53; 95% CI 0.38, 0.74; p-Value = 0.00005) and PFS (HR 0.69; 95% CI 0.56, 0.84; p-Value = 0.00012) for patients randomised to the pembrolizumab combination arm compared with sunitinib at its pre-specified interim analysis. Table 36 summarises key efficacy measures and Figures 32 and 33 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 37.7 months.
+The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures were ORR and response duration, as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in OS (HR 0.53; 95% CI 0.38, 0.74; p-Value = 0.00005) and PFS (HR 0.69; 95% CI 0.56, 0.84; p-Value = 0.00012) for patients randomised to the pembrolizumab combination arm compared with sunitinib at its pre-specified interim analysis. Table 37 summarises key efficacy measures and Figures 34 and 35 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 37.7 months.
 
-Table 36: Efficacy results in KEYNOTE-426
+<div style=\"page-break-after: always\"></div>
+
+Table 37: Efficacy results in KEYNOTE-426
 
 | Endpoint                                          | Pembrolizumab Axitinib n=432   | Sunitinib n=429   |
 |---------------------------------------------------|--------------------------------|-------------------|
@@ -2244,17 +2313,27 @@ Table 36: Efficacy results in KEYNOTE-426
 | Median in months (range)                          | 23.6 (1.4+, 43.4+)             | 15.3 (2.3, 42.8+) |
 | Number (% # ) ofpatients with duration≥ 30 months | 87 (45%)                       | 29 (32%)          |
 
+* Based on the stratified Cox proportional hazard model
+
+† Nominal p-Value based on stratified log-rank test
+
+‡ Assessed by BICR using RECIST 1.1
+
+§ Based on patients with a best objective response as confirmed complete or partial response
+
+¶ Nominal p-Value based on Miettinen and Nurminen method stratified by IMDC risk group and geographic region. At the pre-specified interim analysis of ORR (median follow-up time of 12.8 months), statistically significant superiority was achieved for ORR comparing pembrolizumab plus axitinib with sunitinib p-Value &lt; 0.0001
+
+# Based on Kaplan-Meier estimation NA = not available
+
 <div style=\"page-break-after: always\"></div>
 
-Figure 32: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-426 (intent to treat population)
-
-54
+Figure 34: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-426 (intent to treat population)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 33: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-426 (intent to treat population)
+Figure 35: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-426 (intent to treat population)
 
 <!-- image -->
 
@@ -2262,9 +2341,9 @@ Subgroup analyses were performed in KEYNOTE-426 in patients with PD-L1 CPS ≥ 1
 
 The KEYNOTE-426 study was not powered to evaluate efficacy of individual subgroups.
 
-Table 37 summarises the efficacy measures by IMDC risk category based on the final OS analysis at a median follow-up of 37.7 months.
+Table 38 summarises the efficacy measures by IMDC risk category based on the final OS analysis at a median follow-up of 37.7 months.
 
-Table 37: Efficacy results in KEYNOTE-426 by IMDC risk category
+Table 38: Efficacy results in KEYNOTE-426 by IMDC risk category
 
 | Endpoint *   | Pembrolizumab + Axitinib n=432   | Sunitinib n=429             | Pembrolizumab + Axitinib vs. Sunitinib   |
 |--------------|----------------------------------|-----------------------------|------------------------------------------|
@@ -2292,7 +2371,7 @@ n (%) for favourable, intermediate and poor risk categories for pembrolizumab/ax
 
 ## KEYNOTE-581 (CLEAR): Controlled study of combination therapy with lenvatinib in RCC patients naïve to treatment
 
-The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-581 (CLEAR), a multicentre, open-label, randomised study conducted in 1 069 patients with advanced RCC with clear cell component including other histological features such as sarcomatoid and papillary in the f irst-line setting. Patients were enrolled regardless of PD-L1 tumour expression status. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratified by geographic region (North America versus Western Europe versus 'Rest of  the World') and Memorial Sloan Kettering Cancer Center (MSKCC) prognostic groups (favourable versus intermediate versus poor).
+The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-581 (CLEAR), a multicentre, open-label, randomised study conducted in 1 069 patients with advanced RCC with clear cell component including other histological features such as sarcomatoid and papillary in the f irst-line setting. Patients were enrolled regardless of PD-L1 tumour expression status. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratified by geographic region (North America versus Western Europe versus Rest of the World) and Memorial Sloan Kettering Cancer Center (MSKCC) prognostic groups (favourable versus intermediate versus poor).
 
 Patients were randomised (1:1:1) to one of the following treatment arms:
 
@@ -2308,9 +2387,9 @@ The primary efficacy outcome measure was PFS based on BICR using RECIST 1.1. Key
 
 <div style=\"page-break-after: always\"></div>
 
-Efficacy results for KEYNOTE-581 (CLEAR) at the protocol-specified final analysis with median follow-up time of 49.4 months are summarised in Table 38 and Figures 34 and 35. PFS results were consistent across pre-specif ied subgroups, MSKCC prognostic groups and PD-L1 tumour expression status. Eff icacy results by MSKCC prognostic group are summarised in Table 39.
+Efficacy results for KEYNOTE-581 (CLEAR) at the protocol-specified final analysis with median follow-up time of 49.4 months are summarised in Table 39 and Figures 36 and 37. PFS results were consistent across pre-specif ied subgroups, MSKCC prognostic groups and PD-L1 tumour expression status. Eff icacy results by MSKCC prognostic group are summarised in Table 40.
 
-Table 38: Efficacy results in KEYNOTE-581 (CLEAR)
+Table 39: Efficacy results in KEYNOTE-581 (CLEAR)
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks and Lenvatinib n=355   | Sunitinib n=357      |
 |----------------------------------|-----------------------------------------------------------|----------------------|
@@ -2336,12 +2415,9 @@ The primary analysis of PFS included censoring f or new anti-cancer treatment. R
 
 *
 
-† Based on the stratified Cox proportional hazard model
-
-‡ Nominal p-Value, two-sided based on stratified log-rank test
-
-§ Response: Best objective response as confirmed complete response or partial response
-
+- † Based on the stratified Cox proportional hazard model
+- ‡ Nominal p-Value, two-sided based on stratified log-rank test
+- § Response: Best objective response as confirmed complete response or partial response
 - ¶ Nominal two-sided p-Value based on the stratified Cochran-Mantel-Haenszel (CMH) test. At the earlier pre-specified f inal analysis of  ORR (median f ollow-up time of 17.3 months), statistically signif icant superiority was achieved f or ORR comparing pembrolizumab plus lenvatinib with sunitinib, (odds ratio: 3.84 [95% CI: 2.81, 5.26], p-Value &lt; 0.0001)
 - # Based on Kaplan-Meier estimates NR = not reached
 
@@ -2349,7 +2425,7 @@ The final OS analysis was not adjusted to account for subsequent therapies, with
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 34: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-581 (CLEAR)
+Figure 36: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-581 (CLEAR)
 
 100
 
@@ -2357,9 +2433,13 @@ Figure 34: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 60
 
+0
+
 <div style=\"page-break-after: always\"></div>
 
-Figure 35: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-581 (CLEAR)
+Figure 37: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-581 (CLEAR)
+
+100
 
 <!-- image -->
 
@@ -2367,11 +2447,11 @@ The KEYNOTE-581 (CLEAR) study was not powered to evaluate efficacy of individual
 
 Subgroup analyses were performed by MSKCC prognostic group.
 
-Table 39 summarises the efficacy measures by MSKCC prognostic group based on the final OS analysis at a median follow-up of 49.4 months.
+Table 40 summarises the efficacy measures by MSKCC prognostic group based on the final OS analysis at a median follow-up of 49.4 months.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 39: Efficacy results in KEYNOTE-581 (CLEAR) by MSKCC prognostic group
+Table 40: Efficacy results in KEYNOTE-581 (CLEAR) by MSKCC prognostic group
 
 |                                           | Pembrolizumab + Lenvatinib (n=355)        | Pembrolizumab + Lenvatinib (n=355)        | Sunitinib (n=357)                         | Sunitinib (n=357)                         | Pembrolizumab + Lenvatinib vs. Sunitinib   |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------|
@@ -2395,7 +2475,7 @@ Additional data are available from the open-label single arm Phase II study KEYN
 
 ## KEYNOTE-564: Placebo-controlled study for the adjuvant treatment of patients with resected RCC
 
-The efficacy of pembrolizumab was investigated as adjuvant therapy for RCC in KEYNOTE-564, a multicentre, randomised, double-blind, placebo-controlled study in 994 patients with increased risk of recurrence defined as intermediate-high or high risk, or M1 with no evidence of disease (NED). The intermediate-high risk category included: pT2 with Grade 4 or sarcomatoid features; pT3, any Grade without nodal involvement (N0) or distant metastases (M0). The high risk category included: pT4, any Grade N0 and M0; any pT, any Grade with nodal involvement and M0. The M1 NED category included patients with metastatic disease who had undergone complete resection of primary and metastatic lesions. Patients must have undergone a partial nephroprotective or radical complete nephrectomy (and complete resection of solid, isolated, soft tissue metastatic lesion(s) in M1 NED participants) with negative surgical margins ≥ 4 weeks prior to the time of screening. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Patients with RCC with clear cell component were randomised (1:1) to receive pembrolizumab 200 mg every 3 weeks (n=496) or placebo (n=498) for up to 1 year until disease recurrence or unacceptable toxicity. Randomisation was stratified by metastasis status (M0, M1 NED), and within M0 group, further stratif ied by ECOG PS (0,1), and geographic region (US, non-US). Starting f rom randomisation, patients underwent imaging every 12 weeks for the first 2 years, then every 16 weeks from year 3 to 5, and then every 24 weeks annually.
+The efficacy of pembrolizumab was investigated as adjuvant therapy for RCC in KEYNOTE-564, a multicentre, randomised, double-blind, placebo-controlled study in 994 patients with increased risk of recurrence defined as intermediate-high or high risk, or M1 with no evidence of disease (NED). The intermediate-high risk category included: pT2 with Grade 4 or sarcomatoid features; pT3, any Grade without nodal involvement (N0) or distant metastases (M0). The high risk category included: pT4, any Grade N0 and M0; any pT, any Grade with nodal involvement and M0. The M1 NED category included patients with metastatic disease who had undergone complete resection of primary and metastatic lesions. Patients must have undergone a partial nephroprotective or radical complete nephrectomy (and complete resection of solid, isolated, soft tissue metastatic lesion(s) in M1 NED participants) with negative surgical margins ≥ 4 weeks prior to the time of screening. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Patients with RCC with clear cell component were randomised (1:1) to receive pembrolizumab 200 mg every 3 weeks (n=496) or placebo (n=498) for up to 1 year until disease recurrence or unacceptable toxicity. Randomisation was stratified by metastasis status (M0, M1 NED), and within M0 group, further stratif ied by ECOG PS (0,1), and geographic region (US, non-US). Starting f rom randomisation, patients underwent imaging every 12 weeks for the first 2 years, then every 16 weeks from Year 3 to 5, and then every 24 weeks annually.
 
 Among the 994 patients, the baseline characteristics were: median age of 60 years (range: 25 to 84), 33% age 65 or older; 71% male; and 85% ECOG PS of 0 and 15% ECOG PS of 1. Ninety-four percent were N0; 83% had no sarcomatoid features; 86% were pT2 with Grade 4 or sarcomatoid features or pT3; 8% were pT4 or with nodal involvement; and 6% were M1 NED. Baseline characteristics and demographics were generally comparable between the pembrolizumab and placebo arms.
 
@@ -2403,9 +2483,9 @@ The primary efficacy outcome measure was investigator-assessed disease-free surv
 
 <div style=\"page-break-after: always\"></div>
 
-was 0.68 (95% CI 0.53, 0.87; p-Value = 0.0010). Efficacy results with a median follow-up time of 55.8 months are summarised in Table 40 and Figures 36 and 37.
+was 0.68 (95% CI 0.53, 0.87; p-Value = 0.0010). Efficacy results with a median follow-up time of 55.8 months are summarised in Table 41 and Figures 38 and 39.
 
-Table 40: Efficacy results in KEYNOTE-564
+Table 41: Efficacy results in KEYNOTE-564
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks n=496   | Placebo n=498     |
 |----------------------------------|-------------------------------------------|-------------------|
@@ -2421,7 +2501,7 @@ Table 40: Efficacy results in KEYNOTE-564
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 36: Kaplan-Meier curve for disease-free survival by treatment arm in KEYNOTE-564 (intent to treat population)
+Figure 38: Kaplan-Meier curve for disease-free survival by treatment arm in KEYNOTE-564 (intent to treat population)
 
 100
 
@@ -2429,7 +2509,7 @@ Figure 36: Kaplan-Meier curve for disease-free survival by treatment arm in KEYN
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 37: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-564 (intent to treat population)
+Figure 39: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-564 (intent to treat population)
 
 <!-- image -->
 
@@ -2455,11 +2535,11 @@ Treatment with pembrolizumab continued until RECIST v1.1-defined progression of 
 
 A total of 307 patients were enrolled and randomised to pembrolizumab (n=153) or chemotherapy (n=154). The baseline characteristics of these patients were: median age of 63 years (range: 24 to 93), 47% age 65 or older; 50% male; 75% White and 16% Asian; 52% and 48% had an ECOG performance status of 0 or 1, respectively. Mutation status: 25% BRAF V600E, 24% KRAS/NRAS. For 143 patients treated with chemotherapy, 56% received mFOLFOX6 with or without bevacizumab or cetuximab and 44% received FOLFIRI with or without bevacizumab or cetuximab.
 
-The primary efficacy outcome measures were PFS assessed by BICR according to RECIST v1.1 and OS. Secondary outcome measures were ORR and response duration. The study demonstrated a statistically signif icant improvement in PFS (HR 0.60; 95% CI 0.45, 0.80; p-Value 0.0002) for patients randomised to the pembrolizumab arm compared with chemotherapy at the pre-specified final analysis for PFS. There was no statistically significant dif ference between pembrolizumab and chemotherapy in the final OS analysis in which 60% of the patients who had been randomised to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including pembrolizumab. Table 41 summarises the key efficacy measures and Figures 38 and 39 show the Kaplan-Meier curves for updated PFS and OS based on the final analysis with a median follow-up time of 38.1 months (range: 0.2 to 58.7 months).
+The primary efficacy outcome measures were PFS assessed by BICR according to RECIST v1.1 and OS. Secondary outcome measures were ORR and response duration. The study demonstrated a statistically signif icant improvement in PFS (HR 0.60; 95% CI 0.45, 0.80; p-Value 0.0002) for patients randomised to the pembrolizumab arm compared with chemotherapy at the pre-specified final analysis for PFS. There was no statistically significant dif ference between pembrolizumab and chemotherapy in the final OS analysis in which 60% of the patients who had been randomised to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including pembrolizumab. Table 42 summarises the key efficacy measures and Figures 40 and 41 show the Kaplan-Meier curves for updated PFS and OS based on the final analysis with a median follow-up time of 38.1 months (range: 0.2 to 58.7 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 41: Efficacy results in KEYNOTE-177
+Table 42: Efficacy results in KEYNOTE-177
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks n=153   | Chemotherapy n=154   |
 |----------------------------------|--------------------------------------------|----------------------|
@@ -2493,13 +2573,13 @@ Table 41: Efficacy results in KEYNOTE-177
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 38: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-177 (intent to treat population)
+Figure 40: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-177 (intent to treat population)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 39: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-177 (intent to treat population)
+Figure 41: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-177 (intent to treat population)
 
 <!-- image -->
 
@@ -2511,11 +2591,11 @@ Patients received pembrolizumab 200 mg every 3 weeks until unacceptable toxicity
 
 Among the 124 patients enrolled in KEYNOTE-164, the baseline characteristics were: median age 56 years (35% age 65 or older); 56% male; 68% White, 27% Asian; 41% and 59% had an ECOG performance status of 0 and 1, respectively. Twelve percent of patients had BRAF mutations and 36% had RAS mutations; 39% and 34% were undetermined for BRAF and RAS mutations, respectively. Ninety-seven percent of the patients had M1 disease and 3% had M0 disease (locally advanced unresectable). Seventy-six percent of patients received 2 or more prior lines of therapy.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 37.3 (range: 0.1 to 65.2). Eff icacy results are summarised in Table 42.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 37.3 (range: 0.1 to 65.2). Eff icacy results are summarised in Table 43.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 42: Efficacy results in KEYNOTE-164
+Table 43: Efficacy results in KEYNOTE-164
 
 | Endpoint                    | n=124            |
 |-----------------------------|------------------|
@@ -2549,11 +2629,11 @@ Among the 33 patients with small intestinal cancer, the baseline characteristics
 
 Among the 22 patients with biliary cancer, the baseline characteristics were: median age 61 years (range: 40 to 77); 41% age 65 or older; 73% male, 91% White, 9% Asian; ECOG PS 0 (45%) and 1 (55%); and 82% M1 disease and 18% M0 disease. Forty-one percent of patients received 2 or more prior lines of therapy.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 53.5 (range: 1.5 to 99.4) for endometrial, 12.9 (range: 1.0 to 102.6) f or gastric, 39.4 (range: 4.2 to 103.0) f or small intestine, and 19.4 (range: 1.1 to 97.1) f or biliary cancer. Ef f icacy results are summarised in Table 43.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 53.5 (range: 1.5 to 99.4) for endometrial, 12.9 (range: 1.0 to 102.6) f or gastric, 39.4 (range: 4.2 to 103.0) f or small intestine, and 19.4 (range: 1.1 to 97.1) f or biliary cancer. Ef f icacy results are summarised in Table 44.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 43: Efficacy results in KEYNOTE-158
+Table 44: Efficacy results in KEYNOTE-158
 
 | Endpoint                     | Endometrial n=83   | Gastric ¶ n=65   | Small Intestine ¶ n=32   | Biliary n=22     |
 |------------------------------|--------------------|------------------|--------------------------|------------------|
@@ -2566,9 +2646,7 @@ Table 43: Efficacy results in KEYNOTE-158
 | %with duration ≥ 12 months # | 86%                | 88%              | 87%                      | 90%              |
 | %with duration ≥ 60 months # | 64%                | 72%              | 72%                      | 50%              |
 
-Based on patients with a best objective response as confirmed complete or partial response
-
-*
+* Based on patients with a best objective response as confirmed complete or partial response
 
 # Based on Kaplan-Meier estimation
 
@@ -2597,9 +2675,9 @@ Among the 749 patients in KEYNOTE-590, 383 (51%) had tumours that expressed PD-L
 
 and 1, respectively. Ninety-three percent had M1 disease. Seventy-five percent had a tumour histology of squamous cell carcinoma, and 25% had adenocarcinoma.
 
-The primary efficacy outcome measures were OS and PFS as assessed by the investigator according to RECIST 1.1 in squamous cell histology, CPS ≥ 10, and in all patients. The study demonstrated a statistically signif icant improvement in OS and PFS f or all pre-specif ied study populations. In all patients randomised to pembrolizumab in combination with chemotherapy, compared to chemotherapy the OS HR was 0.73 (95% CI 0.62-0.86) and the PFS HR was 0.65 (95% CI 0.55-0.76). Secondary efficacy outcome measures were ORR and duration of response, according to RECIST 1.1 as assessed by the investigator. Table 44 summarises key efficacy measures from the pre-specified analysis in patients whose tumours expressed PD-L1 with a CPS ≥ 10 in KEYNOTE-590 performed at a median follow-up time of 13.5 months (range: 0.5 to 32.7 months). The Kaplan-Meier curve for OS and PFS are shown in Figures 40 and 41.
+The primary efficacy outcome measures were OS and PFS as assessed by the investigator according to RECIST 1.1 in squamous cell histology, CPS ≥ 10, and in all patients. The study demonstrated a statistically signif icant improvement in OS and PFS f or all pre-specif ied study populations. In all patients randomised to pembrolizumab in combination with chemotherapy, compared to chemotherapy the OS HR was 0.73 (95% CI 0.62-0.86) and the PFS HR was 0.65 (95% CI 0.55-0.76). Secondary efficacy outcome measures were ORR and duration of response, according to RECIST 1.1 as assessed by the investigator. Table 45 summarises key efficacy measures from the pre-specified analysis in patients whose tumours expressed PD-L1 with a CPS ≥ 10 in KEYNOTE-590 performed at a median follow-up time of 13.5 months (range: 0.5 to 32.7 months). The Kaplan-Meier curve for OS and PFS are shown in Figures 42 and 43.
 
-Table 44: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 with PD-L1 expression (CPS ≥ 10)
+Table 45: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 with PD-L1 expression (CPS ≥ 10)
 
 | Endpoint                         | Pembrolizumab Cisplatin Chemotherapy 5-FU n=186   | Standard Treatment * n=197   |
 |----------------------------------|---------------------------------------------------|------------------------------|
@@ -2642,13 +2720,15 @@ A total of 32 patients aged ≥ 75 years for PDL1 CPS ≥ 10 were enrolled in KE
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 40: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
+Figure 42: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 41: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
+Figure 43: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
+
+100
 
 <!-- image -->
 
@@ -2680,11 +2760,11 @@ The study demonstrated a statistically signif icant improvement in pCR rate diff
 
 of 73.1 months (range: 2.7-83.9 months), the study also demonstrated a statistically signif icant improvement in OS.
 
-Results reported from the pre-specif ied pCR final analysis (n=1002) and key eff icacy measures f rom the EFS and OS pre-specified interim analysis at median follow-up time for all patients of 73.1 months (range: 2.7-83.9 months) are summarised in Table 45. The Kaplan-Meier curves for EFS and OS are shown in Figures 42 and 43.
+Results reported from the pre-specif ied pCR final analysis (n=1 002) and key ef f icacy measures from the EFS and OS pre-specified interim analysis at median follow-up time for all patients of 73.1 months (range: 2.7-83.9 months) are summarised in Table 46. The Kaplan-Meier curves for EFS and OS are shown in Figures 44 and 45.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 45: Efficacy results in KEYNOTE-522
+Table 46: Efficacy results in KEYNOTE-522
 
 | Endpoint                                     | Pembrolizumab with Chemotherapy/Pembrolizumab   | Placebo with Chemotherapy/Placebo   |
 |----------------------------------------------|-------------------------------------------------|-------------------------------------|
@@ -2704,39 +2784,19 @@ Table 45: Efficacy results in KEYNOTE-522
 * Based on a pre-specified pCR final analysis (compared to a significance level of 0.0028)
 - † Based on Miettinen and Nurminen method stratified by nodal status, tumour size, and choice of carboplatin
 - ‡ One-sided p-Value for testing. H0: difference in % = 0 versus H1: difference in % &gt; 0
-- ¶ Based on Cox regression model with Ef ron's method of  tie handling with treatment as a covariate stratif ied by nodal status, tumour size, and choice of carboplatin
+- ¶ Based on Cox regression mode l  with Ef ron's method of  tie handling with treatment as a covariate stratif ied by nodal status, tumour size, and choice of carboplatin
 - Þ Based on a pre-specified OS interim analysis (compared to a significance level of 0.00503)
 - # One-sided p-Value based on log-rank test stratified by nodal status, tumour size, and choice of  carboplatin
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 42: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-522 (intent to treat population)
+Figure 44: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-522 (intent to treat population)
 
 <!-- image -->
 
 ## Number at Risk
 
-Pembrolizumab +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo Time in Months
-
-665
-
-300
-
-654
-
-293
-
-644
-
-287
-
-633
-
-285
-
-625
-
-278
+Pembrolizumab +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo
 
 784
 
@@ -2757,6 +2817,26 @@ Pembrolizumab +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo Time in Months
 681
 
 312
+
+665
+
+300
+
+654
+
+293
+
+644
+
+287
+
+633
+
+285
+
+625
+
+278
 
 618
 
@@ -2780,7 +2860,7 @@ Pembrolizumab +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo Time in Months
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 43: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-522 (intent to treat population)
+Figure 45: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-522 (intent to treat population)
 
 <!-- image -->
 
@@ -2865,11 +2945,11 @@ Treatment with pembrolizumab or placebo, both in combination with chemotherapy, 
 
 Among the 847 patients randomised in KEYNOTE-355, 636 (75%) had tumours that expressed PD-L1 with a CPS ≥ 1 and 323 (38%) had tumour PD-L1 expression CPS ≥ 10. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of the 323 patients with tumour PD-L1 expression CPS ≥ 10 included: median age of 53 years (range: 22 to 83); 20% age 65 or older; 100% female; 69% White, 20% Asian, and 5% Black; ECOG performance status of 0 (61%) and 1 (39%); 67% were post-menopausal status; 3% had a history of brain metastases; and 20% had disease-free interval of &lt; 12 months.
 
-The dual primary efficacy outcome measures were PFS as assessed by BICR using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in PFS at its pre-specified interim analysis (HR 0.65; 95% CI 0.49, 0.86; p-Value 0.0012) and OS at final analysis for patients with tumour PD-L1 expression CPS ≥ 10 randomised to the pembrolizumab in combination with chemotherapy arm compared with placebo in combination with chemotherapy. Table 46 summarises key efficacy measures and Figures 44 and 45 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 20.2 months (range: 0.3 to 53.1 months) for patients with tumour PD-L1 expression CPS ≥ 10.
+The dual primary efficacy outcome measures were PFS as assessed by BICR using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in PFS at its pre-specified interim analysis (HR 0.65; 95% CI 0.49, 0.86; p-Value 0.0012) and OS at final analysis for patients with tumour PD-L1 expression CPS ≥ 10 randomised to the pembrolizumab in combination with chemotherapy arm compared with placebo in combination with chemotherapy. Table 47 summarises key efficacy measures and Figures 46 and 47 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 20.2 months (range: 0.3 to 53.1 months) for patients with tumour PD-L1 expression CPS ≥ 10.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 46: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
+Table 47: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
 
 | Endpoint                         | Pembrolizumab with chemotherapy * n=220   | Placebo with chemotherapy * n=103   |
 |----------------------------------|-------------------------------------------|-------------------------------------|
@@ -2894,7 +2974,7 @@ Table 46: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
 
 * Chemotherapy: paclitaxel, nab-paclitaxel, or gemcitabine and carboplatin
 
-† Assessed by BICR using RECIST 1.1
+- † Assessed by BICR using RECIST 1.1
 
 ‡ Based on Cox regression model with Ef ron's method of  tie handling with treatment as a covariate stratif ied by chemotherapy on study (taxane vs. gemcitabine and carboplatin) and prior treatment with same class of chemotherapy in the neoadjuvant setting (yes vs. no)
 
@@ -2905,7 +2985,7 @@ Table 46: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 44: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
+Figure 46: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
 
 <!-- image -->
 
@@ -2919,11 +2999,7 @@ Placebo +  Chemotherapy
 
 95
 
-103 80
-
-41
-
-30
+63
 
 52
 
@@ -2931,39 +3007,33 @@ Placebo +  Chemotherapy
 
 42
 
-11
-
 38
-
-11
 
 36
 
-10
-
 34
-
-8
 
 32
 
-8
-
 27
-
-6
 
 19
 
 13
 
-4
-
 6
 
-3
+0
 
-63
+0
+
+0
+
+103 80
+
+41
+
+30
 
 18
 
@@ -2971,9 +3041,23 @@ Placebo +  Chemotherapy
 
 12
 
+11
+
+11
+
+10
+
+8
+
+8
+
+6
+
 4
 
-0
+4
+
+3
 
 1
 
@@ -2981,13 +3065,9 @@ Placebo +  Chemotherapy
 
 0
 
-0
-
-0
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 45: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
+Figure 47: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
 
 <!-- image -->
 
@@ -2995,9 +3075,7 @@ Figure 45: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-3
 
 Pembrolizumab +  Chemotherapy
 
-Placebo +  Chemotherapy
-
-220214 193 171 154 139 127 116105 91 84 78 73 59 43 31 17 2 0 103 98 91 77 66 55 46 39 35 30 25 22 22 17 12 8 6 2 0
+Placebo  +  Chemotherapy
 
 ## Endometrial carcinoma
 
@@ -3007,6 +3085,56 @@ The efficacy of pembrolizumab in combination with paclitaxel and carboplatin was
 
 - Pembrolizumab 200 mg every 3 weeks, paclitaxel 175 mg/m 2  and carboplatin AUC 5 mg/mL/min for 6 cycles, followed by pembrolizumab 400 mg every 6 weeks for up to 14 cycles.
 - Placebo every 3 weeks, paclitaxel 175 mg/m 2  and carboplatin AUC 5 mg/mL/min for 6 cycles, followed by placebo every 6 weeks for up to 14 cycles.
+
+220214 193 171 154 139 127 116105 91
+
+103 98 91
+
+77 66 55
+
+46
+
+39
+
+35
+
+30
+
+84
+
+25
+
+78
+
+22
+
+73
+
+22
+
+59
+
+17
+
+43
+
+12
+
+31
+
+8
+
+17
+
+6
+
+2
+
+2
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3018,11 +3146,11 @@ The dMMR population characteristics were: median age of 66 years (range: 37 to 8
 
 The pMMR population characteristics were: median age of 66 years (range: 29 to 94), 54% age 65 or older; 72% White, 16% Black, and 5% Asian; 6% Hispanic or Latino; 67% ECOG PS of 0, 30% ECOG PS of 1 and 3% ECOG PS of 2; 56% had recurrent disease and 44% had primary or persistent disease; 26% received prior adjuvant chemotherapy and 41% received prior radiotherapy. The histologic subtypes were endometrioid carcinoma (17% grade 1, 19% grade 2, and 16% grade 3), serous (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5% including mixed epithelial and dedif f erentiated/undif f erentiated).
 
-The primary efficacy outcome measure was PFS as assessed by the investigator according to RECIST 1.1 in the dMMR and pMMR populations. Secondary efficacy outcome measures included OS, ORR and response duration in the dMMR and pMMR populations. The study demonstrated statistically signif icant improvements in PFS for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy in both the dMMR and pMMR populations. The median follow-up time was 13.6 months (range: 0.6 to 39.4 months) and 8.7 months (range: 0.1 to 37.2 months) in the dMMR and pMMR populations, respectively. OS endpoint was not formally assessed within multiplicity control. OS results were not mature. Eff icacy results by MMR status are summarised in Table 47. The Kaplan-Meier curves for PFS by MMR status are shown in Figures 46 and 47, respectively.
+The primary efficacy outcome measure was PFS as assessed by the investigator according to RECIST 1.1 in the dMMR and pMMR populations. Secondary efficacy outcome measures included OS, ORR and response duration in the dMMR and pMMR populations. The study demonstrated statistically signif icant improvements in PFS for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy in both the dMMR and pMMR populations. The median follow-up time was 13.6 months (range: 0.6 to 39.4 months) and 8.7 months (range: 0.1 to 37.2 months) in the dMMR and pMMR populations, respectively. OS endpoint was not formally assessed within multiplicity control. OS results were not mature. Eff icacy results by MMR status are summarised in Table 48. The Kaplan-Meier curves for PFS by MMR status are shown in Figures 48 and 49, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 47: Efficacy results in KEYNOTE-868 (NRG-GY018)
+Table 48: Efficacy results in KEYNOTE-868 (NRG-GY018)
 
 | Endpoint                                                  | dMMRPopulation                          | dMMRPopulation                    | pMMRPopulation                          | pMMRPopulation                    |
 |-----------------------------------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------|
@@ -3054,13 +3182,13 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 46: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in dMMR population
+Figure 48: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in dMMR population
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 47: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in pMMR population
+Figure 49: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in pMMR population
 
 100
 
@@ -3071,7 +3199,7 @@ Figure 47: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-
 The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-775, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced EC who had been previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings. Participants may have received up to 2 platinum-containing therapies in total, as long as one was given in the neoadjuvant or adjuvant treatment setting. The study excluded patients with endometrial sarcoma, carcinosarcoma, pre-existing Grade ≥ 3 f istula, uncontrolled BP (&gt; 150/90 mmHg), significant cardiovascular impairment or event within previous 12 months, or patients who had active autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratified by MMR status (dMMR or pMMR [mismatch repair proficient]) using a validated IHC test. The pMMR stratum was further stratified by ECOG performance status, geographic region, and history of pelvic radiation. Patients were randomised (1:1) to one of the following treatment arms:
 
 - pembrolizumab 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily.
-- investigator's choice consisting of  either doxor ubicin 60 mg/m 2 every 3 weeks, or paclitaxel 80 mg/m 2 weekly, 3 weeks on/1 week off.
+- investigator's choice consisting of  either doxorubicin 60 mg/m 2 every 3 weeks, or paclitaxel 80 mg/m 2 weekly, 3 weeks on/1 week off.
 
 Treatment with pembrolizumab and lenvatinib continued until RECIST v1.1-defined progression of disease as verif ied by BICR, unacceptable toxicity, or f or pembrolizumab, a maximum of 24 months.
 
@@ -3081,11 +3209,11 @@ Administration of study treatment was permitted beyond RECIST-defined disease pr
 
 A total of 827 patients were enrolled and randomised to pembrolizumab in combination with lenvatinib (n=411) or investigator's choice of  doxorubicin (n=306) or paclitaxel (n=110). The baseline characteristics of these patients were: median age of 65 years (range : 30 to 86), 50% age 65 or older; 61% White, 21% Asian, and 4% Black; ECOG PS of 0 (59%) or 1 (41%), and 84% with pMMR tumour status and 16% with dMMR tumour status. The histologic subtypes were endometrioid carcinoma (60%), serous (26%), clear cell carcinoma (6%), mixed (5%), and other (3%). All 827 of these patients received prior systemic therapy f or EC: 69% had one, 28% had two, and 3% had three or more prior systemic therapies. 37% of patients received only prior neoadjuvant or adjuvant therapy.
 
-The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures included ORR, as assessed by BICR using RECIST 1.1. At the pre-specified interim analysis, with a median follow-up time of 11.4 months (range: 0.3 to 26.9 months), the study demonstrated a statistically signif icant improvement in OS and PFS. The prespecified final OS analysis with approximately 16 months of additional follow-up duration f rom the interim analysis (overall median follow-up time of 14.7 months [range: 0.3 to 43.0 months]) was performed without multiplicity adjustment. Efficacy results by MMR subgroups were consistent with overall study results. PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 48. Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 48 and 49, respectively.
+The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures included ORR, as assessed by BICR using RECIST 1.1. At the pre-specified interim analysis, with a median follow-up time of 11.4 months (range: 0.3 to 26.9 months), the study demonstrated a statistically signif icant improvement in OS and PFS. The prespecified final OS analysis with approximately 16 months of additional follow-up duration f rom the interim analysis (overall median follow-up time of 14.7 months [range: 0.3 to 43.0 months]) was performed without multiplicity adjustment. Efficacy results by MMR subgroups were consistent with overall study results. PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 49. Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 50 and 51, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 48: Efficacy results in KEYNOTE-775
+Table 49: Efficacy results in KEYNOTE-775
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks Lenvatinib n=411   | Chemotherapy * n=416   |
 |----------------------------------|-------------------------------------------------------|------------------------|
@@ -3119,43 +3247,15 @@ Table 48: Efficacy results in KEYNOTE-775
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 48: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
+
+100
 
 <!-- image -->
 
-416
-
-378
-
-305
-
-246
-
-196
-
-158
-
-129
-
-104
-
-84
-
-64
-
-49
-
-28
-
-6
-
-3
-
-1
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 49: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 51: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
 
 100
 
@@ -3173,13 +3273,13 @@ The efficacy of pembrolizumab in combination with cisplatin and external beam ra
 
 - Placebo IV every 3 weeks (5 cycles) concurrent with cisplatin 40 mg/m 2  IV weekly (5 cycles, an optional sixth infusion could be administered per local practice) and radiotherapy (EBRT followed by BT), followed by placebo IV every 6 weeks (15 cycles).
 
-Treatment continued until RECIST v1.1-defined progression of disease as determined by the investigator or unacceptable toxicity. Assessment of tumour status was performed every 12 weeks for the first two years, every 24 weeks in year 3, and then annually.
+Treatment continued until RECIST v1.1-defined progression of disease as determined by the investigator or unacceptable toxicity. Assessment of tumour status was performed every 12 weeks for the first two years, every 24 weeks in Year 3, and then annually.
 
 Among the 601 patients with FIGO 2014 Stage III - IVA disease enrolled in KEYNOTE-A18, the baseline characteristics were: median age of 51 years (range: 22 to 87), 16% age 65 or older; 36% White, 1% Black, 34% Asian, 38% Hispanic or Latino; 68% ECOG performance status of 0 and 32% ECOG performance status of 1; 93% with CPS ≥ 1; 71% had positive pelvic and/or positive para-aortic lymph node(s), 29% had neither positive pelvic nor para-aortic lymph node, 86% IMRT or VMAT EBRT, 90% ≥ 70 Gy (EQD2). Eighty-four percent had squamous cell carcinoma and 16% had non-squamous histology.
 
-The primary efficacy outcomes were PFS (as assessed by investigator according to RECIST v1.1 or histopathologic confirmation) and OS. The study demonstrated statistically significant improvements in PFS [0.70 (95% CI 0.55, 0.89; p-Value 0.0020)] from the first pre-specified interim analysis and OS [0.67 (95% CI 0.50, 0.90; p-Value 0.0040)] from the second pre-specified interim analysis in the overall population for patients randomised to pembrolizumab with CRT compared to placebo with CRT. Table 49 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months (range: 0.9 to 41.7 months). The Kaplan-Meier curves in patients with FIGO 2014 Stage III - IVA disease for OS and PFS based on this analysis are shown in Figures 50 and 51, respectively.
+The primary efficacy outcomes were PFS (as assessed by investigator according to RECIST v1.1 or histopathologic confirmation) and OS. The study demonstrated statistically significant improvements in PFS [0.70 (95% CI 0.55, 0.89; p-Value 0.0020)] from the first pre-specified interim analysis and OS [0.67 (95% CI 0.50, 0.90; p-Value 0.0040)] from the second pre-specified interim analysis in the overall population for patients randomised to pembrolizumab with CRT compared to placebo with CRT. Table 50 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months (range: 0.9 to 41.7 months). The Kaplan-Meier curves in patients with FIGO 2014 Stage III - IVA disease for OS and PFS based on this analysis are shown in Figures 52 and 53, respectively.
 
-Table 49: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Table 50: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks and 400 mg every 6 weeks with CRT n=296   | Pembrolizumab 200 mgevery 3 weeks and 400 mg every 6 weeks with CRT n=296   | Placebo with CRT n=305   |
 |----------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------|
@@ -3198,7 +3298,7 @@ Based on the unstratified Cox proportional hazard model CRT = Chemoradiotherapy 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Figure 52: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 100
 
@@ -3206,7 +3306,7 @@ Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 51: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Figure 53: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 39
 
@@ -3216,8 +3316,8 @@ Figure 51: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 The efficacy of pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab, was investigated in KEYNOTE-826, a multicentre, randomised, double-blind, placebo-controlled study that enrolled 617 patients with persistent, recurrent, or first-line metastatic cervical cancer who had not been treated with chemotherapy except when used concurrently as a radio-sensitising agent. Patients were enrolled regardless of tumour PD-L1 expression status. Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible. Randomisation was stratified by metastatic status at initial diagnosis, investigator decision to use bevacizumab, and PD-L1 status (CPS &lt; 1 vs. CPS 1 to &lt; 10 vs. CPS ≥ 10). Patients were randomised (1:1) to one of the two treatment groups:
 
-- Treatment Group 1: Pembrolizumab 200 mg plus chemotherapy with or without bevacizumab
-- Treatment Group 2: Placebo plus chemotherapy with or without bevacizumab
+- Treatment Group 1: Pembrolizumab 200 mg plus chemotherapy with or without bevacizumab.
+- Treatment Group 2: Placebo plus chemotherapy with or without bevacizumab.
 
 The investigator selected one of the following f our treatment regimens prior to randomisation:
 
@@ -3232,11 +3332,11 @@ All study medications were administered as an intravenous infusion. All study tr
 
 Of the 617 enrolled patients, 548 patients (89%) had tumours expressing PD-L1with a CPS ≥ 1. PDL1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. Among these 548 enrolled patients with tumours expressing PD-L1, 273 patients were randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab, and 275 patients were randomised to placebo in combination with chemotherapy with or without bevacizumab. The baseline characteristics of these 548 patients were: median age of 51 years (range: 22 to 82), 16% age 65 or older; 59% White, 18% Asian, and 1% Black; 37% Hispanic or Latino; 56% and 43% ECOG performance status of 0 or 1, respectively; 63% received bevacizumab as study treatment; 21% with adenocarcinoma and 5% with adenosquamous histology; for patients with persistent or recurrent disease with or without distant metastases, 39% had received prior chemoradiation only and 17% had received prior chemoradiation plus surgery.
 
-The primary efficacy outcome measures were OS and PFS as assessed by investigator according to RECIST v1.1. Secondary efficacy outcome measures were ORR and duration of response, according to RECIST v1.1, as assessed by investigator. At a pre-specified interim analysis, the study demonstrated statistically signif icant improvements in OS (HR 0.64; 95% CI 0.50, 0.81; p-Value = 0.0001) and PFS (HR 0.62; 95% CI 0.50, 0.77; p-Value &lt; 0.0001) for patients whose tumours expressed PD-L1 with a CPS ≥ 1 randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab. The study also demonstrated statistically significant improvements in OS and PFS in the overall population. Table 50 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months. The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 52 and 53.
+The primary efficacy outcome measures were OS and PFS as assessed by investigator according to RECIST v1.1. Secondary efficacy outcome measures were ORR and duration of response, according to RECIST v1.1, as assessed by investigator. At a pre-specified interim analysis, the study demonstrated statistically signif icant improvements in OS (HR 0.64; 95% CI 0.50, 0.81; p-Value = 0.0001) and PFS (HR 0.62; 95% CI 0.50, 0.77; p-Value &lt; 0.0001) for patients whose tumours expressed PD-L1 with a CPS ≥ 1 randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab. The study also demonstrated statistically significant improvements in OS and PFS in the overall population. Table 51 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months. The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 54 and 55.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 50: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CPS ≥ 1)
+Table 51: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks plus Chemotherapy * with or without bevacizumab n=273   | Placebo plus Chemotherapy * with or without bevacizumab n=275   |
 |----------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -3261,7 +3361,7 @@ Table 50: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CP
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 52: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
+Figure 54: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
@@ -3341,7 +3441,7 @@ Chemotherapy*
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 53: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
+Figure 55: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
@@ -3370,11 +3470,11 @@ Among the 698 patients randomised in KEYNOTE-811, 594 (85%) had tumours that exp
 
 The primary efficacy outcome measures were PFS based on BICR using RECIST 1.1, and OS. Secondary efficacy outcome measures included ORR and DoR based on BICR using RECIST 1.1. At the second interim analysis in the overall population, the study demonstrated a statistically signif icant improvement in PFS (HR 0.72; 95% CI 0.60, 0.87; p-Value 0.0002) for patients randomised to the pembrolizumab arm in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy. At this interim analysis, there was no statistically signif icant dif f erence with respect to OS. The median f ollow-up time was 15.4 months (range: 0.3 to 41.6 months). At the f irst interim analysis conducted on the first 264 patients randomised in the overall population (133 patients in the pembrolizumab arm and 131 in the placebo arm), a statistically signif icant improvement was observed in ORR (74.4% vs. 51.9%, representing a 22.7% difference in ORR, [95%CI: 11.2, 33.7]; p-Value 0.00006).
 
-Table 51 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 54 and 55 show the Kaplan-Meier curves for PFS and OS.
+Table 52 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 56 and 57 show the Kaplan-Meier curves for PFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 51: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
+Table 52: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab Trastuzumab and Chemotherapy n=298   | Placebo Trastuzumab and Chemotherapy n=296   |
 |----------------------------------|----------------------------------------------------|----------------------------------------------|
@@ -3400,7 +3500,7 @@ Table 51: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (C
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 54: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 56: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE811 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -3408,7 +3508,7 @@ Figure 54: Kaplan-Meier curve for progression free survival by treatment arm in 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 55: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 57: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
 
 42
 
@@ -3422,7 +3522,7 @@ Randomisation was stratified by PD-L1 expression (CPS ≥ 1 or &lt; 1), chemothe
 
 Patients were randomised (1:1) to one of the following treatment arms; all study medications, except oral capecitabine, were administered as an intravenous infusion f or every 3-week treatment cycle:
 
-- Pembrolizumab 200 mg, investigator's choice of  combination chemo therapy of cisplatin 80 mg/m 2 and 5-FU 800 mg/m 2 /day for 5 days (FP) or oxaliplatin 130 mg/m 2 and capecitabine 1 000 mg/m 2 bid f or 14 days (CAPOX) for up to 35 cycles. Duration
+- Pembrolizumab 200 mg, investigator's choice of  combination c hemotherapy of cisplatin 80 mg/m 2 and 5-FU 800 mg/m 2 /day for 5 days (FP) or oxaliplatin 130 mg/m 2 and capecitabine 1 000 mg/m 2 bid f or 14 days (CAPOX) for up to 35 cycles. Duration
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3436,11 +3536,11 @@ Among the 1 579 patients in KEYNOTE-859, 1 235 (78%) had tumours that expressed 
 
 The primary efficacy outcome measure was OS. Additional secondary efficacy outcome measures included PFS, ORR, and DOR as assessed by BICR using RECIST 1.1.
 
-The study demonstrated a statistically signif icant improvement in OS (HR 0.78; 95% CI 0.70, 0.87; pValue &lt; 0.0001), PFS (HR 0.76; 95% CI 0.67, 0.85; p-Value &lt; 0.0001) and ORR (51% [95% CI 47.7, 54.8] vs 42% [95% CI 38.5, 45.5]; p-Value 0.00009) in patients randomised to pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy in the overall population. The median follow-up time was 12 months (range: 0.1 to 45.9 months). Table 52 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 56 and 57 show the Kaplan-Meier curves for OS and PFS.
+The study demonstrated a statistically signif icant improvement in OS (HR 0.78; 95% CI 0.70, 0.87; pValue &lt; 0.0001), PFS (HR 0.76; 95% CI 0.67, 0.85; p-Value &lt; 0.0001) and ORR (51% [95% CI 47.7, 54.8] vs. 42% [95% CI 38.5, 45.5]; p-Value 0.00009) in patients randomised to pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy in the overall population. The median follow-up time was 12 months (range: 0.1 to 45.9 months). Table 53 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 58 and 59 show the Kaplan-Meier curves for OS and PFS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 52: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CPS ≥ 1)
+Table 53: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab Fluoropyrimidine and Platinum Chemotherapy n=618   | Placebo Fluoropyrimidine and Platinum Chemotherapy n=617   |
 |----------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
@@ -3465,7 +3565,7 @@ Table 52: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CP
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 56: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 58: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -3473,7 +3573,7 @@ Figure 56: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-8
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 57: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 59: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -3481,9 +3581,9 @@ Figure 57: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 50
 
-An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to &lt; 10 or CPS ≥ 10 in both arms (see Table 53).
+An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to &lt; 10 or CPS ≥ 10 in both arms (see Table 54).
 
-Table 53: Efficacy results by PD-L1 expression in KEYNOTE-859
+Table 54: Efficacy results by PD-L1 expression in KEYNOTE-859
 
 | Endpoint        | Pembrolizumab combination therapy n=337   | Chemotherapy n=345   | Pembrolizumab combination therapy n=279   | Chemotherapy n=272   |
 |-----------------|-------------------------------------------|----------------------|-------------------------------------------|----------------------|
@@ -3502,18 +3602,18 @@ The efficacy of pembrolizumab in combination with gemcitabine and cisplatin was 
 
 Patients were randomised (1:1) to one of the two treatment groups:
 
-- Pembrolizumab 200 mg on Day 1 plus gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks
-- Placebo on Day 1 plus gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks
+- Pembrolizumab 200 mg on Day 1 plus gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks.
+- Placebo on Day 1 plus gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks.
 
 All study medications were administered via intravenous infusion. Treatment was continued until unacceptable toxicity or disease progression. For pembrolizumab, treatment was continued for a maximum of 35 cycles, or approximately 24 months. For cisplatin, treatment could be administered for a maximum of 8 cycles and for gemcitabine, treatment could be continued beyond 8 cycles. Assessment of tumour status was performed at baseline and then every 6 weeks through 54 weeks followed by every 12 weeks thereafter.
 
 The study population characteristics were median age of 64 years (range: 23 to 85), 47% age 65 or older; 52% male; 49% White, 46% Asian; 46% ECOG PS of 0 and 54% ECOG PS of 1; 31% of patients had a history of hepatitis B infection, and 3% had a history of hepatitis C infection.
 
-The primary efficacy outcome measure was OS and the secondary efficacy measures were PFS, ORR and DOR as assessed by BICR using RECIST 1.1. The study demonstrated a statistically significant improvement in OS at final analysis for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy. Table 54 summarises key efficacy measures and Figures 58 and 59 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
+The primary efficacy outcome measure was OS and the secondary efficacy measures were PFS, ORR and DOR as assessed by BICR using RECIST 1.1. The study demonstrated a statistically significant improvement in OS at final analysis for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy. Table 55 summarises key efficacy measures and Figures 60 and 61 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 54: Efficacy results in KEYNOTE-966
+Table 55: Efficacy results in KEYNOTE-966
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks with gemcitabine/cisplatin n=533   | Placebo with gemcitabine/cisplatin n=536   |
 |----------------------------------|----------------------------------------------------------------------|--------------------------------------------|
@@ -3543,7 +3643,7 @@ Table 54: Efficacy results in KEYNOTE-966
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 58: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
+Figure 60: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
 
 <!-- image -->
 
@@ -3561,7 +3661,7 @@ Placebo + Chemotherapy
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 59: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE966 (intent to treat population)
+Figure 61: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE966 (intent to treat population)
 
 <!-- image -->
 
@@ -3648,11 +3748,11 @@ Among the 643 patients in KEYNOTE-B96, 466 (72%) had tumours that expressed PD-L
 
 The primary efficacy outcome measure was PFS as assessed by investigator according to RECIST v1.1. The secondary efficacy outcome measure was OS. At the first pre-specified interim analysis, the study demonstrated statistically significant improvement in PFS for patients randomised to pembrolizumab in combination with paclitaxel with or without bevacizumab compared to placebo in combination with paclitaxel with or without bevacizumab in the overall population (HR = 0.70 [95% CI: 0.58, 0.84; p-Value &lt; 0.0001]; median follow-up time of 11.8 months [range: 0.1 to 27.0 months]) and in patients whose tumours expressed PD-L1 CPS ≥ 1. The study demonstrated statistically signif icant improvement in OS for patients randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab whose tumours expressed PD-L1 CPS ≥ 1 at the second pre-specified interim analysis and in the overall population (HR = 0.82 [95% CI: 0.69, 0.97; p-Value 0.0115]) at the final analysis with median follow-up time of 15.6 months (range: 0.1 to 44.1 months).
 
-Table 55 summarises the efficacy results in patients whose tumours expressed PD-L1 with a CPS ≥ 1 and the Figures 60 and 61 show the Kaplan-Meier curves for PFS and OS.
+Table 56 summarises the efficacy results in patients whose tumours expressed PD-L1 with a CPS ≥ 1 and the Figures 62 and 63 show the Kaplan-Meier curves for PFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 55: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Table 56: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 400 mgevery 6 weeks plus paclitaxel with or without bevacizumab n=234   | Placebo plus paclitaxel with or without bevacizumab n=232   |
 |----------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -3669,7 +3769,7 @@ Table 55: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CP
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 60: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 62: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -3679,7 +3779,7 @@ Figure 60: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 61: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 63: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 42
 
@@ -3743,7 +3843,7 @@ The effect of hepatic impairment on the clearance of pembrolizumab was evaluated
 
 ## 5.3 Preclinical safety data
 
-The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered intravenous doses of 6, 40 or 200 mg/kg bw once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period. No findings of toxicological significance were observed and the no observed adverse ef fect level (NOAEL) in both studies was ≥ 200 mg/kg bw, which produced exposure multiples of 19 and 94 times the exposure in humans at doses of 10 and 2 mg/kg bw, respectively. The exposure multiple between the NOAEL and a human dose of 200 mg was 74.
+The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered intravenous doses of 6, 40 or 200 mg/kg bw once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period. No findings of toxicological significance were observed and the no observed adverse effect level (NOAEL) in both studies was ≥ 200 mg/kg bw, which produced exposure multiples of 19 and 94 times the exposure in humans at doses of 10 and 2 mg/kg bw, respectively. The exposure multiple between the NOAEL and a human dose of 200 mg was 74.
 
 Animal reproduction studies have not been conducted with pembrolizumab. The PD-1/PD-L1 pathway is thought to be involved in maintaining tolerance to the foetus throughout pregnancy. Blockade of PD-L1 signalling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in f oetal loss.
 
@@ -3763,7 +3863,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Unopened vial 2 years.
+## Unopened vial
+
+2 years
 
 ## After preparation of infusion
 
@@ -3804,9 +3906,11 @@ Preparation and administration of the infusion
 
 ·
 
+·
+
 Do not co-administer other medicinal products through the same infusion line.
 
-- KEYTRUDA is for single use only. Discard any unused portion left in the vial.
+KEYTRUDA is for single use only. Discard any unused portion left in the vial.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local
 
@@ -3828,7 +3932,9 @@ The Netherlands
 
 MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1024/002 EU/1/15/1024/003
+EU/1/15/1024/002
+
+EU/1/15/1024/003
 
 9.
 
@@ -3842,9 +3948,11 @@ Date of latest renewal: 24 March 2020
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
 
-154
+[Agency https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+160
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3884,9 +3992,9 @@ Clear to slightly opalescent, colourless to slightly yellow solution, pH 5.3 -5.
 
 ## Melanoma
 
-KEYTRUDA as monotherapy is indicated for the treatment of adults with advanced (unresectable or metastatic) melanoma.
+KEYTRUDA as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with advanced (unresectable or metastatic) melanoma.
 
-KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with Stage IIB, IIC or III melanoma and who have undergone complete resection (see section 5.1).
+KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults and adolescents aged 12 years and older with Stage IIB, IIC or III melanoma and who have undergone complete resection (see section 5.1).
 
 ## Non-small cell lung carcinoma (NSCLC)
 
@@ -3910,9 +4018,11 @@ KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated
 
 ## Classical Hodgkin lymphoma (cHL)
 
-KEYTRUDA as monotherapy is indicated for the treatment of adults with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or following at least two prior therapies when ASCT is not a treatment option.
+KEYTRUDA as monotherapy is indicated for the treatment of adults and adolescents aged 12 years and older with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or f ollowing at least two prior therapies when ASCT is not a treatment option.
 
 ## Urothelial carcinoma
+
+KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
 
 KEYTRUDA, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
 
@@ -3932,7 +4042,7 @@ KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastati
 
 ## Renal cell carcinoma (RCC)
 
-KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
+KEYTRUDA, in combination with axitinib, is indicated for the f irst-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
@@ -3964,11 +4074,11 @@ KEYTRUDA, in combination with chemotherapy as neoadjuvant treatment, and then co
 
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of locally recurrent unresectable or metastatic triple-negative breast cancer in adults whose tumours express PD-L1 with a CPS ≥ 10 and who have not received prior chemotherapy for metastatic disease (see section 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Endometrial carcinoma (EC)
 
 KEYTRUDA, in combination with carboplatin and paclitaxel, is indicated for the first-line treatment of primary advanced or recurrent endometrial carcinoma in adults who are candidates for systemic therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of advanced or recurrent endometrial carcinoma in adults who have disease progression on or following prior treatment with a platinum-containing therapy in any setting and who are not candidates for curative surgery or radiation.
 
@@ -3998,6 +4108,8 @@ Therapy must be initiated and supervised by specialist physicians experienced in
 
 Patients receiving intravenous pembrolizumab can switch to subcutaneous pembrolizumab at their next scheduled dose. Patients receiving subcutaneous pembrolizumab can switch to intravenous pembrolizumab at their next scheduled dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## PD-L1 testing
 
 If specif ied in the indication, patient selection f or treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
@@ -4006,11 +4118,9 @@ If specif ied in the indication, patient selection f or treatment with KEYTRUDA 
 
 If specif ied in the indication, patient selection f or treatment with KEYTRUDA based on MSI-H/dMMR tumour status should be confirmed by a validated test (see sections 4.1 and 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
 
-The recommended dose of KEYTRUDA solution for injection in adults is either:
+The recommended dose of KEYTRUDA solution for injection in adults and in adolescents with melanoma or cHL aged 12 years and older who weigh greater than 40 kg is either:
 
 - -395 mg every 3 weeks administered as a subcutaneous injection over 1 minute or
 - -790 mg every 6 weeks administered as a subcutaneous injection over 2 minutes.
@@ -4023,7 +4133,11 @@ For the adjuvant treatment of melanoma, NSCLC, or RCC, KEYTRUDA should be admini
 
 For the neoadjuvant and adjuvant treatment of resectable NSCLC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 4 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 13 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
-For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes def initive surgery or unacceptable toxicity related to KEYTRUDA monotherapy as neoadjuvant treatment should not receive KEYTRUDA in combination with radiation with or without concomitant cisplatin as adjuvant treatment.
+For the neoadjuvant and adjuvant treatment of cisplatin-ineligible MIBC, patients should be treated with neoadjuvant KEYTRUDA in combination with enfortumab vedotin for 3 doses of 395 mg every 3 weeks or until disease progression that precludes radical cystectomy or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with enfortumab vedotin for 14 doses of 395 mg every 3 weeks or 7 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
+
+For the neoadjuvant and adjuvant treatment of resectable locally advanced HNSCC, patients should be treated with neoadjuvant KEYTRUDA as monotherapy for 2 doses of 395 mg every 3 weeks or 1 dose of 790 mg or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA in combination with radiation with or without concomitant cisplatin for 3 doses of 395 mg every 3 weeks or 2 doses of 790 mg every 6 weeks followed by KEYTRUDA as monotherapy for 12 doses of 395 mg every 3 weeks or 6 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA monotherapy as neoadjuvant treatment should not receive KEYTRUDA in combination with radiation with or without concomitant cisplatin as adjuvant treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 395 mg every 3 weeks or 4 doses of 790 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, f ollowed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 395 mg every 3 weeks or 5 doses of 790 mg every 6 weeks or until disease recurrence or unacceptable toxicity. Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
 
@@ -4033,38 +4147,35 @@ For locally advanced cervical cancer, patients should be treated with KEYTRUDA c
 
 No dose reductions of KEYTRUDA are recommended. KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1: Recommended treatment modifications for KEYTRUDA
 
-| Immune-mediated adverse reactions                                                                                                                                 | Severity                                                                                                                                                                                                                  | Treatment modification                                                                                                                                                                                                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pneumonitis                                                                                                                                                       | Grade 2                                                                                                                                                                                                                   | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Pneumonitis                                                                                                                                                       | Grades 3 or 4, or recurrent Grade 2                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Colitis                                                                                                                                                           | Grades 2 or 3                                                                                                                                                                                                             | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Colitis                                                                                                                                                           | Grade 4 or recurrent Grade 3                                                                                                                                                                                              | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Nephritis                                                                                                                                                         | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit ofnormal (ULN)                                                                                                                                                     | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Nephritis                                                                                                                                                         | Grade ≥ 3 with creatinine > 3 times ULN                                                                                                                                                                                   | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Endocrinopathies                                                                                                                                                  | Grade 2 adrenal insufficiency and hypophysitis                                                                                                                                                                            | Withhold treatment until controlled by hormone replacement                                                                                                                                                                                                                                                                                     |
-| Endocrinopathies                                                                                                                                                  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | Withhold until adverse reactions recover to Grades 0-1 * For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
-| Endocrinopathies                                                                                                                                                  | Hypothyroidism                                                                                                                                                                                                            | managed with replacement therapy without treatment interruption.                                                                                                                                                                                                                                                                               |
-| Endocrinopathies                                                                                                                                                  |                                                                                                                                                                                                                           | Hypothyroidism may be                                                                                                                                                                                                                                                                                                                          |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN                                                                                | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN                                                                                                                                                  | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
-| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | In case ofliver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST orALT increases ≥ 50% and lasts ≥ 1 week                                                                                     | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Immune-mediated adverse reactions   | Severity                                                                                                                                                                                                                  | Treatment modification                                                                                                                                                                                                                                                                                                                         |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pneumonitis                         | Grade 2                                                                                                                                                                                                                   | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Pneumonitis                         | Grades 3 or 4, or recurrent Grade 2                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Colitis                             | Grades 2 or 3                                                                                                                                                                                                             | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Colitis                             | Grade 4 or recurrent Grade 3                                                                                                                                                                                              | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Nephritis                           | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit ofnormal (ULN)                                                                                                                                                     | Withhold until adverse reactions recover to Grades 0-1 *                                                                                                                                                                                                                                                                                       |
+| Nephritis                           | Grade ≥ 3 with creatinine > 3 times ULN                                                                                                                                                                                   | Permanently discontinue                                                                                                                                                                                                                                                                                                                        |
+| Endocrinopathies                    | Grade 2 adrenal insufficiency and hypophysitis                                                                                                                                                                            | Withhold treatment until controlled by hormone replacement                                                                                                                                                                                                                                                                                     |
+| Endocrinopathies                    | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | Withhold until adverse reactions recover to Grades 0-1 * For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-mediated adverse reactions                         | Severity                                                                                   | Treatment modification                                   |
-|-----------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Skin reactions                                            | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)    | Withhold until adverse reactions recover to Grades 0-1 * |
-| Skin reactions                                            | Grade 4 or confirmed SJS or TEN                                                            | Permanently discontinue                                  |
-| Other immune-mediated adverse reactions                   | Based on severity and type of reaction (Grade 2 or Grade 3)                                | Withhold until adverse reactions recover to Grades 0-1 * |
-| Other immune-mediated adverse reactions                   | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue                                  |
-| Other immune-mediated adverse reactions                   | Grade 4 or recurrent Grade 3                                                               | Permanently discontinue                                  |
-| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grade 2                                                                                    | Withhold until adverse reactions recover to Grades 0-1 * |
-| Myocarditis-myositis-myasthenia gravis overlap syndrome † | Grades 3 or 4                                                                              | Permanently discontinue                                  |
-| Infusion-related reactions                                | Grades 3 or 4                                                                              | Permanently discontinue                                  |
+| Immune-mediated adverse reactions                                                                                                                                 | Severity                                                                                                                                   | Treatment modification                                                                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|                                                                                                                                                                   | Hypothyroidism                                                                                                                             | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
+| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1 *                               |
+| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN                                                                   | Permanently discontinue                                                                |
+| Hepatitis NOTE: forRCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | In case ofliver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST orALT increases ≥ 50% and lasts ≥ 1 week      | Permanently discontinue                                                                |
+| Skin reactions                                                                                                                                                    | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)                                                    | Withhold until adverse reactions recover to Grades 0-1 *                               |
+| Skin reactions                                                                                                                                                    | Grade 4 or confirmed SJS or TEN                                                                                                            | Permanently discontinue                                                                |
+| Other immune-mediated adverse reactions                                                                                                                           | Based on severity and type of reaction (Grade 2 or Grade 3)                                                                                | Withhold until adverse reactions recover to Grades 0-1 *                               |
+| Other immune-mediated adverse reactions                                                                                                                           | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome                                                 | Permanently discontinue                                                                |
+| Other immune-mediated adverse reactions                                                                                                                           | Grade 4 or recurrent Grade 3                                                                                                               | Permanently discontinue                                                                |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome †                                                                                                         | Grade 2                                                                                                                                    | Withhold until adverse reactions recover to Grades 0-1 *                               |
+| Myocarditis-myositis-myasthenia gravis overlap syndrome †                                                                                                         | Grades 3 or 4                                                                                                                              | Permanently discontinue                                                                |
+| Infusion-related reactions                                                                                                                                        | Grades 3 or 4                                                                                                                              | Permanently discontinue                                                                |
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 
@@ -4077,11 +4188,11 @@ KEYTRUDA, as monotherapy or as combination therapy, should be permanently discon
 
 For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should be withheld until adverse reactions recover to Grades 0-1.
 
-## KEYTRUDA in combination with axitinib in RCC
-
-For RCC patients treated with KEYTRUDA in combination with axitinib, see the SmPC regarding dosing of axitinib. When used in combination with pembrolizumab, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer (see section 5.1).
+KEYTRUDA in combination with axitinib in RCC
 
 <div style=\"page-break-after: always\"></div>
+
+For RCC patients treated with KEYTRUDA in combination with axitinib, see the SmPC regarding dosing of axitinib. When used in combination with pembrolizumab, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer (see section 5.1).
 
 ## For liver enzyme elevations, in patients with RCC being treated with KEYTRUDA in combination with axitinib:
 
@@ -4098,7 +4209,7 @@ Patients treated with KEYTRUDA must be given the patient card and be informed ab
 
 ## Elderly
 
-No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).
+No dose adjustment is necessary in patie nts ≥ 65 years (see sections 4.4 and 5.1).
 
 ## Renal impairment
 
@@ -4110,7 +4221,7 @@ No dose adjustment is needed for patients with mild or moderate hepatic impairme
 
 ## Paediatric population
 
-The safety and efficacy of KEYTRUDA solution for injection in children below 18 years of age have not been established. Currently available data for intravenous pembrolizumab are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made on KEYTRUDA solution for injection.
+The safety and efficacy of KEYTRUDA solution for injection have not been established in paediatric patients except for adolescents aged 12 years and older with melanoma or cHL. A recommended dose for adolescents aged 12 years and older who weigh 40 kg or less has not been established (see sections 4.8, 5.1 and 5.2).
 
 ## Method of administration
 
@@ -4124,11 +4235,11 @@ KEYTRUDA solution for injection is for subcutaneous injection into the thigh or 
 
 Prior to administration, remove KEYTRUDA solution for injection from refrigeration and allow the solution to reach room temperature for at least 30 minutes. For instructions on the use and handling of KEYTRUDA solution for injection prior to administration, refer to section 6.6.
 
-Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel. Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches. Rotate injection sites for subsequent injections.
-
 <div style=\"page-break-after: always\"></div>
 
-During treatment with KEYTRUDA solution for injection, do not administer other medicinal products for subcutaneous use at the same site as KEYTRUDA solution for injection.
+Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel. Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches. Rotate injection sites for subsequent injections. During treatment with KEYTRUDA solution for injection, do not administer other medicinal products
+
+for subcutaneous use at the same site as KEYTRUDA solution for injection.
 
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
 
@@ -4162,11 +4273,9 @@ In patients with pre-existing autoimmune disease (AID), data from observational 
 
 ## Immune-mediated pneumonitis
 
-Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8) . Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded. Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent f ollowed by a taper);
+Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8) . Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded. Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent f ollowed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
 
 ## Immune-mediated colitis
 
@@ -4182,7 +4291,7 @@ Nephritis has been reported in patients receiving pembrolizumab (see section 4.8
 
 ## Immune-mediated endocrinopathies
 
-Severe endocrinopathies, including adrenal insuff iciency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
+Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-mediated endocrinopathies.
 
@@ -4252,11 +4361,11 @@ Physicians should consider the delayed onset of pembrolizumab effect before init
 
 The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, f or whom the benef it has been assessed in a comparative study (KEYNOTE-361). In KEYNOTE-361, a higher number of deaths within 6 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1). No specific factor(s) associated with early deaths could be identif ied. Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with urothelial carcinoma who are considered eligible for carboplatin-based combination chemotherapy. KEYNOTE-052 also included patients eligible f or mono-chemotherapy, for whom no randomised data are available. In addition, no safety and ef f icacy data are available in f railer patients (e.g., ECOG perf ormance status 3) considered not eligible f or chemotherapy. In the absence of these data, pembrolizumab should be used with caution in this population after careful consideration of the potential risk-benef it on an individual basis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Use of pembrolizumab for first-line treatment of patients with NSCLC
 
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see sections 4.2 and 4.8). A direct comparison of pembrolizumab when used in combination with chemotherapy to pembrolizumab monotherapy is not available.
-
-<div style=\"page-break-after: always\"></div>
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
@@ -4274,7 +4383,7 @@ A direct comparison of pembrolizumab when used in combination with lenvatinib to
 
 ## Use of pembrolizumab for adjuvant treatment of patients with melanoma
 
-A trend toward increased freq uency of  severe and serious adverse reactions in patients ≥ 75 years was observed. Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥ 75 years are limited.
+A trend toward increased f requency of  severe and serious adverse reactions in patients ≥ 75 years was observed. Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥ 75 years are limited.
 
 Use of pembrolizumab in combination with axitinib for first-line treatment of patients with RCC When pembrolizumab is given with axitinib, higher than expected frequencies of Grades 3 and 4 ALT and AST elevations have been reported in patients with advanced RCC (see section 4.8). Liver enzymes should be monitored before initiation of and periodically throughout treatment. More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered. Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
 
@@ -4284,9 +4393,11 @@ In KEYNOTE-177, the hazard rates for overall survival events were greater for pe
 
 ## Use of pembrolizumab for first-line treatment of patients with BTC
 
-Cholangitis and biliary tract infections are not uncommon in patients with BTC. Cholangitis events were reported in KEYNOTE-966 in both treatment groups (11.2% [n=59] of participants in the pembrolizumab plus chemotherapy arm and 10.3% [n=55] of participants in the placebo plus chemotherapy arm). Patients with biliary stents and drains (n=74) were at increased risk of cholangitis and biliary tract inf ections in KEYNOTE-966 (39.4% [n=13] of participants in the pembrolizumab plus chemotherapy arm vs. 29.3% [n=12] of participants in the placebo plus chemotherapy arm). Patients with BTC (especially those with biliary stents) should be closely monitored for development of cholangitis or biliary tract inf ections bef ore initiation of treatment and, regularly, thereaf ter.
+Cholangitis and biliary tract infections are not uncommon in patients with BTC. Cholangitis events were reported in KEYNOTE-966 in both treatment groups (11.2% [n=59] of participants in the pembrolizumab plus chemotherapy arm and 10.3% [n=55] of participants in the placebo plus chemotherapy arm). Patients with biliary stents and drains (n=74) were at increased risk of cholangitis and biliary tract inf ections in KEYNOTE-966 (39.4% [n=13] of participants in the pembrolizumab plus chemotherapy arm vs. 29.3% [n=12] of participants in the placebo plus chemotherapy arm).
 
 <div style=\"page-break-after: always\"></div>
+
+Patients with BTC (especially those with biliary stents) should be closely monitored for development of cholangitis or biliary tract inf ections bef ore initiation of treatment and, regularly, thereaf ter.
 
 ## Patients excluded from clinical studies
 
@@ -4344,7 +4455,7 @@ Pembrolizumab has a minor influence on the ability to drive and use machines. In
 
 ## Summary of the safety profile
 
-Pembrolizumab is most commonly associated with immune-mediated adverse reactions. Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of  pembrolizumab (see 'Description of selected adverse reactions' below). The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
+Pembrolizumab is most commonly associated with immune-mediated adverse reactions. Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of  pembrolizumab (see 'Description of  selected adverse reactions' below). The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 
 ## Subcutaneous formulation
 
@@ -4372,7 +4483,7 @@ The safety of intravenous pembrolizumab in combination with axitinib or lenvatin
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions observed in clinical studies of intravenous pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2. These reactions are presented by system organ class and by f requency. Frequencies are def ined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness. Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
+Adverse reactions observed in clinical studies of intravenous pembrolizumab as monotherapy or in combination with chemotherapy, RT or CRT or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2. These reactions are presented by system organ class and by frequ ency. Frequencies are def ined as: very common (≥ 1/10);  common (≥ 1/100 to &lt; 1/10);  uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness. Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 
 For additional saf ety inf ormation when pembrolizumab is administered in combination, ref er to the SmPC for the respective combination therapy components.
 
@@ -4528,17 +4639,21 @@ uveitis (chorioretinitis, iritis and iridocyclitis)
 
 ## Pembrolizumab in combination with enfortumab vedotin (see section 4.2)
 
-When pembrolizumab is administered in combination with enfortumab vedotin, ref er to the SmPC for enfortumab vedotin prior to initiation of treatment.
+When pembrolizumab is administered in combination with enfortumab vedotin, refer to the SmPC for enfortumab vedotin prior to initiation of treatment.
 
 The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 564 patients with unresectable or metastatic urothelial carcinoma receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle. Overall, the incidence of adverse reactions for pembrolizumab in combination with enfortumab vedotin was observed to be higher than for pembrolizumab monotherapy reflecting the contribution of enfortumab vedotin and the longer duration of treatment of the combination therapy.
 
 Adverse reactions were generally similar to those observed in patients receiving pembrolizumab or enfortumab vedotin as monotherapy. The incidence of rash maculo-papular was 36% all Grades (10% Grades 3-4), which is higher than observed in pembrolizumab monotherapy.
 
-Generally, adverse event f requencies were higher in patients ≥ 65 years of age compared to &lt; 65 years of age, particularly fo r  serious adverse events (56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
+Generally, adverse event frequencies were higher in pati ents ≥ 65 years of age compared to &lt; 65 years of age, particularly  f or  serious adverse events (56.3% and 35.3%, respectively) and ≥ Grade 3 events (80.3% and 64.2%, respectively), similar to observations with the chemotherapy comparator.
+
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin has been evaluated among 167 patients with MIBC receiving 200 mg pembrolizumab on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment. Overall, the incidence of adverse reactions for pembrolizumab in combination with enfortumab vedotin was observed to be higher than for pembrolizumab monotherapy reflecting the contribution of enfortumab vedotin. Adverse reactions were generally similar to those occurring in patients with unresectable or metastatic urothelial carcinoma treated with pembrolizumab in combination with enfortumab vedotin.
 
 ## Description of selected adverse reactions
 
 Data for the following immune-mediated adverse reactions are based on patients who received intravenous pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1). The management guidelines for these adverse reactions are described in section 4.4.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated adverse reactions (see section 4.4)
 
@@ -4547,8 +4662,6 @@ Data for the following immune-mediated adverse reactions are based on patients w
 Pneumonitis occurred in 324 (4.2%) patients, including Grade 2, 3, 4 or 5 cases in 143 (1.9%), 81 (1.1%), 19 (0.2%) and 9 (0.1%) patients, respectively, receiving pembrolizumab. The median time to onset of pneumonitis was 3.9 months (range: 2 days to 27.2 months). The median duration was 2.0 months (range: 1 day to 51.0+ months). Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (3.9%). Pneumonitis led to discontinuation of pembrolizumab in 131 (1.7%) patients. Pneumonitis resolved in 196 patients, 6 with sequelae.
 
 In patients with NSCLC, pneumonitis occurred in 230 (6.1%), including Grade 2, 3, 4 or 5 cases in 103 (2.7%), 63 (1.7%), 17 (0.4%) and 10 (0.3%), respectively. In patients with locally advanced or metastatic NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation. In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated colitis
 
@@ -4568,9 +4681,9 @@ Adrenal insufficiency occurred in 74 (1.0%) patients, including Grade 2, 3 or 4 
 
 Hypophysitis occurred in 52 (0.7%) patients, including Grade 2, 3 or 4 cases in 23 (0.3%), 24 (0.3%) and 1 (&lt; 0.1%) patients, respectively, receiving pembrolizumab. The median time to onset of hypophysitis was 5.9 months (range: 1 day to 17.7 months). The median duration was 3.6 months (range: 3 days to 48.1+ months). Hypophysitis led to discontinuation of pembrolizumab in 14 (0.2%) patients. Hypophysitis resolved in 23 patients, 8 with sequelae.
 
-Hyperthyroidism occurred in 394 (5.2%) patients, including Grade 2 or 3 cases in 108 (1.4%) and 9 (0.1%) patients, respectively, receiving pembrolizumab. The median time to onset of hyperthyroidism was 1.4 months (range: 1 day to 23.2 months). The median duration was 1.6 months (range: 4 days to 43.1+ months). Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients. Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae. In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
-
 <div style=\"page-break-after: always\"></div>
+
+Hyperthyroidism occurred in 394 (5.2%) patients, including Grade 2 or 3 cases in 108 (1.4%) and 9 (0.1%) patients, respectively, receiving pembrolizumab. The median time to onset of hyperthyroidism was 1.4 months (range: 1 day to 23.2 months). The median duration was 1.6 months (range: 4 days to 43.1+ months). Hyperthyroidism led to discontinuation of pembrolizumab in 4 (0.1%) patients. Hyperthyroidism resolved in 326 (82.7%) patients, 11 with sequelae. In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hyperthyroidism was 11.0%, the majority of which were Grade 1 or 2.
 
 Hypothyroidism occurred in 939 (12.3%) patients, including Grade 2 or 3 cases in 687 (9.0%) and 8 (0.1%) patients, respectively, receiving pembrolizumab. The median time to onset of hypothyroidism was 3.4 months (range: 1 day to 25.9 months). The median duration was not reached (range: 2 days to 63.0+ months). Hypothyroidism led to discontinuation of pembrolizumab in 6 (0.1%) patients. Hypothyroidism resolved in 216 (23.0%) patients, 16 with sequelae. In patients with cHL (n=389) the incidence of hypothyroidism was 17%, all of which were Grade 1 or 2. In patients with recurrent or metastatic HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3. In patients with recurrent or metastatic HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2. In patients with resectable locally advanced HNSCC treated with pembrolizumab as neoadjuvant treatment and in combination with radiation therapy with or without concomitant cisplatin for adjuvant treatment (n=361), the incidence of hypothyroidism was 24.7%, all of which were Grade 1 or 2. In patients treated with pembrolizumab in combination with axitinib or lenvatinib (n=1 456), the incidence of hypothyroidism was 46.2% (all Grades) with 0.8% Grade 3 or 4. In patients with melanoma, NSCLC and RCC treated with pembrolizumab monotherapy in the adjuvant setting (n=2 060), the incidence of hypothyroidism was 18.5%, the majority of which were Grade 1 or 2.
 
@@ -4588,11 +4701,11 @@ Of 32 patients in KEYNOTE-087 who proceeded to allogeneic HSCT after treatment w
 
 Of 14 patients in KEYNOTE-204 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 8 patients reported acute GVHD and 3 patients reported chronic GVHD, none of which were fatal. No patients experienced hepatic VOD. One patient experienced engraftment syndrome post-transplant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elevated liver enzymes when pembrolizumab is combined with axitinib in RCC
 
 In a clinical study of previously untreated patients with RCC receiving pembrolizumab in combination with axitinib, a higher than expected incidence of Grades 3 and 4 ALT increased (20%) and AST increased (13%) were observed. The median time to onset of ALT increased was 2.3 months (range: 7 days to 19.8 months). In patients with ALT ≥ 3 times ULN (Grades 2-4, n=116), ALT resolved to Grades 0-1 in 94%. Fifty-nine percent of the patients with increased ALT received systemic corticosteroids. Of the patients who recovered, 92 (84%) were rechallenged with either pembrolizumab (3%) or axitinib (31%) monotherapy or with both (50%). Of these patients, 55% had no recurrence of ALT &gt; 3 times ULN, and of those patients with recurrence of ALT &gt; 3 times ULN, all recovered. There were no Grade 5 hepatic events.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Laboratory abnormalities
 
@@ -4606,15 +4719,15 @@ In patients treated with pembrolizumab in combination with axitinib or lenvatini
 
 In a clinical study in patients treated with subcutaneous administration of KEYTRUDA solution for injection 790 mg every 6 weeks or intravenous administration of pembrolizumab 400 mg every 6 weeks, with a median duration of treatment on subcutaneous pembrolizumab exceeding 6 months (range: 1 day to 12.5 months), 1.4% (3/211) of patients developed treatment-emergent antipembrolizumab antibodies and 0.5% (1/211) developed neutralising antibodies. In the intravenous pembrolizumab arm, 0.9% (1/114) of patients developed treatment-emergent anti-pembrolizumab antibodies and 0% (0/114) developed neutralising antibodies. There was no evidence of an altered pharmacokinetic or safety profile with anti-pembrolizumab binding or neutralising antibody development. The pembrolizumab immunogenicity profile of subcutaneous pembrolizumab was consistent with the known immunogenicity profile of intravenous pembrolizumab.
 
+<div style=\"page-break-after: always\"></div>
+
 The incidence of treatment-emergent anti-recombinant berahyaluronidase alf a antibodies was 1.5% (3/194) with low titer values reported for all three subjects and no detectable systemic concentration of recombinant berahyaluronidase alfa. The clinical relevance of the development of anti-recombinant berahyaluronidase alf a antibodies after treatment with subcutaneous pembrolizumab is unknown.
 
 ## Paediatric population
 
 ## Subcutaneous formulation
 
-The safety of pembrolizumab solution for injection in paediatric patients has not been established in clinical studies.
-
-<div style=\"page-break-after: always\"></div>
+The safety of pembrolizumab solution for injection for the treatment of melanoma and cHL in adolescents aged 12 years and older who weigh greater than 40 kg is extrapolated f rom studies of intravenous pembrolizumab in adults. In addition, pharmacokinetic modeling and simulation analyses showed similar pembrolizumab exposures in adolescents aged 12 years and older who weigh greater than 40 kg compared to adults suggesting a similar saf ety profile to adult patients (see sections 5.1 and 5.2).
 
 ## Intravenous formulation
 
@@ -4638,13 +4751,13 @@ Pharmacotherapeutic group: Antineoplastic agents, PD-1/PDL-1 (Programmed cell de
 
 KEYTRUDA solution for injection contains the active substance pembrolizumab which provides the therapeutic ef f ect of this medicinal product and recombinant berahyaluronidase alfa (variant of human hyaluronidase PH20), an enzyme that temporarily and locally breaks down hyaluronan. Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. Recombinant berahyaluronidase alf a activity results in enhanced dispersion and permeation, which facilitates delivery of medicinal products that are co-administered subcutaneously.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 KEYTRUDA is a humanised monoclonal antibody which binds to the programmed cell death-1 (PD-1) receptor and blocks its interaction with ligands PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. KEYTRUDA potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment.
 
 The anti-angiogenic effect of lenvatinib (multi-TKI) in combination with the immune-stimulatory effect of pembrolizumab (anti-PD-1) results in a tumour microenvironment with greater T-cell activation to help overcome primary and acquired resistance to immunotherapy and may improve tumour responses compared to either treatment alone. In preclinical murine models, PD-1 plus TKI inhibitors have demonstrated enhanced anti-tumour activity compared to either agent alone.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical eff icacy and safety
 
@@ -4665,11 +4778,11 @@ Patients were randomised (2:1) to receive either pembrolizumab 790 mg subcutaneo
 - Non-squamous NSCLC: pemetrexed 500 mg/m 2  and a platinum chemotherapy (cisplatin 75 mg/m 2  or carboplatin AUC 5 mg/mL/min) intravenously every 3 weeks for 4 cycles, followed by pemetrexed 500 mg/m 2 intravenously every 3 weeks.
 - Squamous NSCLC: carboplatin AUC 6 mg/mL/min and a taxane (paclitaxel 200 mg/m 2  on Day 1 of each 21-day cycle or nab-paclitaxel 100 mg/m 2 on Days 1, 8 and 15 of each 21-day cycle) intravenously every 3 weeks for 4 cycles.
 
+<div style=\"page-break-after: always\"></div>
+
 Treatment with subcutaneous pembrolizumab or intravenous pembrolizumab continued until RECIST 1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 18 cycles (approximately 24 months). Treatment with subcutaneous pembrolizumab or intravenous pembrolizumab could be reinitiated for subsequent disease progression and administered for up to an additional 9 cycles (approximately 1 year). Assessment of tumour status was performed every 6 weeks through Week 18, every 9 weeks through Week 45 and every 12 weeks thereafter.
 
 Among the 377 patients in Study MK-3475A-D77 (251 patients in the subcutaneous pembrolizumab arm and 126 patients in the intravenous pembrolizumab arm), baseline characteristics were: median age of 65 years (range: 37 to 87); 53% age 65 or older and 14% age 75 or older; 71% male; 63% White, 29% Asian, 3% Black, 4% Multiracial; 31% Hispanic or Latino; 35% and 65% ECOG performance status of 0 or 1, respectively. Nineteen percent had PD-L1 TPS ≥ 50%; 34% had tumours with squamous histology and 66% had tumours with non-squamous histology; 9% with a history of brain metastases.
-
-<div style=\"page-break-after: always\"></div>
 
 The median time taken to administer pembrolizumab 790 mg subcutaneously was 2 minutes (range: 1 to 12 mins).
 
@@ -4683,13 +4796,7 @@ Table 3: Efficacy results in Study MK-3475A-D77
 | ORR † %(95% CI)              | 45.4% (39.1, 51.8)                                                 | 42.1% (33.3, 51.2 )                                               |
 | Difference in ORR ‡ (95% CI) | 3.5% (-7.0, 13.7)                                                  | 3.5% (-7.0, 13.7)                                                 |
 
-* Descriptive analysis
-
-† Based on patients with a best overall response as confirmed complete or partial response
-
-‡ SC minus IV arm; based on stratified Miettinen and Nurminen method
-
-## Intravenous formulation
+Intravenous formulation
 
 ## Melanoma
 
@@ -4699,11 +4806,13 @@ The safety and efficacy of pembrolizumab were investigated in KEYNOTE-006, a mul
 
 Patients were treated with pembrolizumab until disease progression or unacceptable toxicity. Clinically stable patients with initial evidence of disease progression were permitted to remain on treatment until disease progression was conf irmed. Assessment of tumour status was performed at 12 weeks, then every 6 weeks through Week 48, followed by every 12 weeks thereafter.
 
-Of the 834 patients, 60% were male, 44% were ≥ 65 years (median age was 62 years [range: 18-89]) and 98% were white. Sixty-five percent of patients had M1c stage, 9% had a history of brain metastases, 66% had no and 34% had one prior therapy. Thirty-one percent had an ECOG Performance Status of 1, 69% had ECOG Performance Status of 0 and 32% had elevated LDH. BRAF mutations were reported in 302 (36%) patients. Among patients with BRAF mutant tumours, 139 (46%) were previously treated with a BRAF inhibitor.
-
-The primary efficacy outcome measures were PFS as assessed by Integrated Radiology and Oncology Assessment [IRO] review using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration. Table 4 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up. Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 1 and 2.
+Of the 834 patients, 60% were male, 44% were ≥ 65 years (median age was 62 years [range: 18-89]) and 98% were white. Sixty-five percent of patients had M1c stage, 9% had a history of brain metastases, 66% had no and 34% had one prior therapy. Thirty-one percent had an ECOG Performance Status of 1, 69% had ECOG Performance Status of 0 and 32% had elevated LDH. BRAF
 
 <div style=\"page-break-after: always\"></div>
+
+mutations were reported in 302 (36%) patients. Among patients with BRAF mutant tumours, 139 (46%) were previously treated with a BRAF inhibitor.
+
+The primary efficacy outcome measures were PFS as assessed by Integrated Radiology and Oncology Assessment [IRO] review using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration. Table 4 summarises key efficacy measures in patients naïve to treatment with ipilimumab at the final analysis performed after a minimum of 21 months of follow-up. Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 1 and 2.
 
 Table 4: Efficacy results in KEYNOTE-006
 
@@ -4727,9 +4836,9 @@ Table 4: Efficacy results in KEYNOTE-006
 | Median in months (range)          | Not reached (2.0, 22.8+)                        | Not reached (1.8, 22.8+)                        | Not reached (1.1+, 23.8+)                   |
 | %ongoing at 18 months             | 68% §                                           | 71% §                                           | 70% §                                       |
 
-*
-
 Hazard ratio (pembrolizumab compared to ipilimumab) based on the stratified Cox proportional hazard model
+
+*
 
 † Based on stratified log-rank test
 
@@ -4834,7 +4943,7 @@ Table 6: Efficacy results in KEYNOTE-001
 
 † IRO = Integrated radiology and oncologist assessment using RECIST 1.1
 
-‡ Based on best response of stable disease or better
+- ‡ Based on best response of stable disease or better
 
 § Based on patients with a confirmed response by independent review, starting from the date the response was first
 
@@ -4916,7 +5025,7 @@ In 20 subjects with ocular melanoma included in KEYNOTE-001, no objective respon
 
 ## KEYNOTE-716: Placebo-controlled study for the adjuvant treatment of patients with resected Stage IIB or IIC melanoma
 
-The efficacy of pembrolizumab was evaluated in KEYNOTE-716, a multicentre, randomised, double-blind, placebo-controlled study in patients with resected Stage IIB or IIC melanoma. A total of 976 patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (or the paediatric [12 to 17 years old] dose of 2 mg/kg intravenously [up to a maximum of 200 mg] every three weeks) (n=487) or placebo (n=489), for up to one year or until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by American Joint Committee on Cancer (AJCC) 8 th edition T stage. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery were ineligible. Patients underwent imaging every six months from randomisation through the 4 th year, and then once in year 5 f rom randomisation or until recurrence, whichever came first.
+The efficacy of pembrolizumab was evaluated in KEYNOTE-716, a multicentre, randomised, double-blind, placebo-controlled study in patients with resected Stage IIB or IIC melanoma. A total of 976 patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (or the paediatric [12 to 17 years old] dose of 2 mg/kg intravenously [up to a maximum of 200 mg] every three weeks) (n=487) or placebo (n=489), for up to one year or until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by American Joint Committee on Cancer (AJCC) 8 th edition T stage. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery were ineligible. Patients underwent imaging every six months from randomisation through the 4 th year, and then once in Year 5 f rom randomisation or until recurrence, whichever came first.
 
 Among the 976 patients, the baseline characteristics were: median age of 61 years (range: 16-87; 39% age 65 or older; 2 adolescent patients [one per treatment arm]); 60% male; and ECOG PS of 0 (93%) and 1 (7%). Sixty-four percent had Stage IIB and 35% had Stage IIC.
 
@@ -4956,7 +5065,7 @@ Figure 5: Kaplan-Meier curve for distant metastasis-free survival by treatment a
 
 ## KEYNOTE-054: Placebo-controlled study for the adjuvant treatment of patients with completely resected Stage III melanoma
 
-The efficacy of pembrolizumab was evaluated in KEYNOTE-054, a multicentre, randomised, double-blind, placebo-controlled study in patients with completely resected stage IIIA (&gt; 1 mm lymph node metastasis), IIIB or IIIC melanoma. A total of 1 019 adult patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (n=514) or placebo (n=505), for up to one year until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by AJCC 7 th edition stage (IIIA vs. IIIB vs. IIIC 1-3 positive lymph nodes vs. IIIC ≥ 4 positive lymph nodes) and geographic region (North America, European countries, Australia and other countries as designated). Patients must have undergone lymph node dissection, and if indicated, radiotherapy within 13 weeks prior to starting treatment. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery or interf eron for thick primary melanomas without evidence of lymph node involvement were ineligible. Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first two years, then every 6 months f rom year 3 to 5, and then annually.
+The efficacy of pembrolizumab was evaluated in KEYNOTE-054, a multicentre, randomised, double-blind, placebo-controlled study in patients with completely resected stage IIIA (&gt; 1 mm lymph node metastasis), IIIB or IIIC melanoma. A total of 1 019 adult patients were randomised (1:1) to receive pembrolizumab 200 mg every three weeks (n=514) or placebo (n=505), for up to one year until disease recurrence or unacceptable toxicity. Randomisation was stratif ied by AJCC 7 th edition stage (IIIA vs. IIIB vs. IIIC 1-3 positive lymph nodes vs. IIIC ≥ 4 positive lymph nodes) and geographic region (North America, European countries, Australia and other countries as designated). Patients must have undergone lymph node dissection, and if indicated, radiotherapy within 13 weeks prior to starting treatment. Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible. Patients who received prior therapy for melanoma other than surgery or interf eron for thick primary melanomas without evidence of lymph node involvement were ineligible. Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first two years, then every 6 months f rom Year 3 to 5, and then annually.
 
 Among the 1 019 patients, the baseline characteristics were: median age of 54 years (25% age 65 or older); 62% male; and ECOG PS of 0 (94%) and 1 (6%). Sixteen percent had stage IIIA; 46% had stage IIIB; 18% had stage IIIC (1-3 pos itive  lymph nodes) and 20% had stage IIIC (≥ 4 positive lymph nodes); 50% were BRAF V600 mutation positive and 44% were BRAF wild-type. PD-L1 expression was tested retrospectively by IHC assay with the 22C3 anti-PD-L1 antibody; 84% of patients had PD-L1-positive melanoma (PDL1 expression in ≥ 1% of tumour and tumour-associated immune cells relative to all viable tumour cells). The same scoring system was used for metastatic melanoma (MEL score).
 
@@ -5065,7 +5174,7 @@ The following selection criteria def ine patients with high risk of recurrence w
 
 Patients may or may not have received adjuvant chemotherapy as recommended by their physician. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 4 cycles of adjuvant chemotherapy were ineligible. Randomisation was stratified by stage (IB vs. II vs. IIIA), adjuvant chemotherapy (no adjuvant chemotherapy vs. adjuvant chemotherapy), PD-L1 status (TPS &lt; 1% [negative] vs. TPS 1-49% vs. TPS ≥ 50%), and geographic region (Western Europe vs. Eastern Europe vs. Asia vs. Rest of World). Patients were randomised (1:1) to receive pembrolizumab 200 mg (n=590) or placebo (n=587) intravenously every 3 weeks.
 
-Treatment continued until RECIST 1.1-defined disease recurrence as determined by the investigator, unacceptable toxicity, or approximately 1 year (18 doses). Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first year, then every 6 months for years 2 to 3, and then annually up to the end of year 5. Af ter year 5, imaging is performed as per local standard of care.
+Treatment continued until RECIST 1.1-defined disease recurrence as determined by the investigator, unacceptable toxicity, or approximately 1 year (18 doses). Patients underwent imaging every 12 weeks after the f irst dose of pembrolizumab f or the first year, then every 6 months for Years 2 to 3, and then annually up to the end of Year 5. After Year 5, imaging is performed as per local standard of care.
 
 Of 1 177 patients randomised, 1 010 (86%) received adjuvant platinum-based chemotherapy following complete resection. Among these 1 010 patients in KEYNOTE-091, baseline characteristics were: median age of 64 years (range: 35 to 84), 49% age 65 or older; 68% male; and 77% White, 18% Asian, 86% current or former smokers. Sixty-one percent and 39% had ECOG performance of 0 or 1, respectively. Twelve percent had stage IB (T2a ≥ 4 cm), 57% had stage II, and 31% had stage IIIA disease. Thirty-nine percent had tumour PD-L1 expression TPS &lt; 1% [negative], 33% had TPS 1-49%, 28% had TPS ≥ 50%. Seven percent had known EGFR mutations, thirty-eight percent without EGFR mutations and in fifty-six percent EGFR mutation status was unknown. Fifty-two percent were from Western Europe, 20% from Eastern Europe, 17% from Asia, and 11% from Rest of World.
 
@@ -5132,11 +5241,21 @@ Table 15: Efficacy results in KEYNOTE-024
 
 Figure 11: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
+100
+
 <!-- image -->
+
+21
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 12: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-024 (intent to treat population)
 
+100
+
 <!-- image -->
+
+33
 
 In a subgroup analysis, a reduced survival benef it of pembrolizumab compared to chemotherapy was observed in the small number of patients who were never-smokers; however, due to the small number of patients, no def initive conclusions can be drawn from these data.
 
@@ -5144,9 +5263,9 @@ In a subgroup analysis, a reduced survival benef it of pembrolizumab compared to
 
 The safety and efficacy of pembrolizumab were also investigated in KEYNOTE-042, a multicentre, controlled study for the treatment of previously untreated locally advanced or metastatic NSCLC. The study design was similar to that of KEYNOTE-024, except that patients had PD -L1 expression with a 1% TPS. PD-L1 status was determined using the PD -L1 IHC 22C3 pharmDx assay. Patients were randomised (1:1) to receive pembrolizumab at a dose of 200 mg every 3 weeks (n=637) or investigator's choice platinum -containing chemotherapy (n=637; including pemetrexed+carboplatin or paclitaxel+carboplatin. Patients with non -squamous NSCLC could receive pemetrexed maintenance.). Assessment of tumour status was performed every 9 weeks for the first 45 weeks, and every 12 weeks thereafter.
 
-<div style=\"page-break-after: always\"></div>
-
 Among the 1 274 patients in KEYNOTE-042, 599 (47%) had tumours that expressed PD -L1 with TPS ≥ 50%. PD-L1 status was determined using the PD -L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 599 patients included: median age 63 years (45% age 65 or older); 69% male; 63% White and 32% Asian; 17% Hispanic or Latino; and ECOG performance status 0 and 1 in 31% and 69%, respectively. Disease characteristics were squamous (37%) and non -squamous (63%); stage IIIA (0.8%); stage IIIB (9%); stage IV (90%); and treated brain metastases (6%).
+
+<div style=\"page-break-after: always\"></div>
 
 The primary efficacy outcome measure was OS. Secondary efficacy outcome measures were PFS and ORR (as assessed by BICR using RECIST 1.1). The study demonstrated a statistically significant improvement in OS for patients whose tumours expressed PD -L1 TPS ≥ 1% randomised to pembrolizumab monotherapy compared to chemotherapy (HR 0.82; 95% CI 0.71, 0.93 at the final analysis) and in patients whose tumours expressed PD -L1 TPS ≥ 50% randomised to pembrolizumab monotherapy compared to chemotherapy. Table 16 summarises key efficacy measures for the TPS 50% population at the final analysis performed at a median follow -up of 15.4 months. The Kaplan -Meier curve f or OS f or the TPS ≥ 50% population based on the final analysis is shown in Figure 13.
 
@@ -5171,24 +5290,20 @@ Table 16: Efficacy results (PD-L1 TPS   50%) in KEYNOTE-042
 | Median in months (range)         | 22.0 (2.1+, 36.5+)                        | 10.8 (1.8+, 30.4+)   |
 | %with duration≥ 18 months        | 57%                                       | 34%                  |
 
-* Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratif ied Cox proportional hazard model
-
-† Based on stratified log-rank test
-
-‡ Based on patients with a best objective response as confirmed complete or partial response The results of a post-hoc exploratory subgroup analysis indicated a trend towards reduced survival benefit of pembrolizumab compared to chemotherapy, during both the first 4 months and throughout the entire duration of treatment, in patients who were never-smokers. However, due to the exploratory nature of this subgroup analysis, no definitive conclusions can be drawn.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 13: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-042 (patients with PD-L1 expression TPS ≥ 50%, intent to treat population)
 
 <!-- image -->
 
+The results of a post-hoc exploratory subgroup analysis indicated a trend towards reduced survival benefit of pembrolizumab compared to chemotherapy, during both the first 4 months and throughout the entire duration of treatment, in patients who were never-smokers. However, due to the exploratory nature of this subgroup analysis, no definitive conclusions can be drawn.
+
 ## KEYNOTE-189: Controlled study of combination therapy in non-squamous NSCLC patients naïve to treatment
 
 The efficacy of pembrolizumab in combination with pemetrexed and platinum chemotherapy was investigated in a multicentre, randomised, active-controlled, double-blind study, KEYNOTE-189. Key eligibility criteria were metastatic non-squamous NSCLC, no prior systemic treatment for metastatic NSCLC, and no EGFR or ALK genomic tumour aberrations. Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible. Patients were randomised (2:1) to receive one of the following regimens:
 
-- Pembrolizumab 200 mg with pemetrexed 500 mg/m 2 and investigator's choice of cisplatin 75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=410)
-- Placebo with pemetrexed 500 mg/m 2 and investigator's choice of  cisplatin  75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=206)
+- Pembrolizumab 200 mg with pemetrexed 500 mg/m 2 and investigator's choice of cisplatin 75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=410).
+- Placebo with pemetrexed 500 mg/m 2 and investigator's choice of  cisplatin  75 mg/m 2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m 2 intravenously every 3 weeks (n=206).
 
 Treatment with pembrolizumab continued until RECIST 1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 24 months. Administration of pembrolizumab was permitted beyond RECIST-defined disease progression by BICR or beyond discontinuation of pemetrexed if the patient was clinically stable and deriving clinical benef it as determined by the investigator. For patients who completed 24 months of therapy or had a complete response, treatment with pembrolizumab could be reinitiated for disease progression and administered for up to 1 additional year. Assessment of tumour status was performed at Week 6 and Week 12, followed by every 9 weeks thereafter. Patients receiving placebo plus chemotherapy who experienced independently-verified progression of disease were offered pembrolizumab as monotherapy.
 
@@ -5225,7 +5340,8 @@ A total of 113 patients (57%) who discontinued study treatment in the placebo pl
 
 *
 
-- † Based on the stratified Cox proportional hazard model
+† Based on the stratified Cox proportional hazard model
+
 - ‡ Based on stratified log-rank test
 - § Based on patients with a best objective response as confirmed complete or partial response
 - ¶ Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status
@@ -5300,6 +5416,8 @@ Table 19: Efficacy results in KEYNOTE-407
 | Median in months (range)         | 8.8 (1.3+, 28.4+)                                           | 4.9 (1.3+, 28.3+)                                     |
 | %with duration ≥ 12 months ¶     | 38%                                                         | 25%                                                   |
 
+A total of 138 patients (51%) who discontinued study treatment in the placebo plus chemotherapy arm crossed over to receive monotherapy pembrolizumab or received a checkpoint inhibitor as subsequent therapy
+
 *
 
 † Based on the stratified Cox proportional hazard model
@@ -5333,7 +5451,7 @@ Table 20: Efficacy results by PD-L1 expression in KEYNOTE-407 *
 | PFS Hazard ratio † (95% CI) | 0.67 (0.49, 0.91)                   | 0.67 (0.49, 0.91) | 0.52 (0.38, 0.71)                   | 0.52 (0.38, 0.71) | 0.43 (0.29, 0.63)                   | 0.43 (0.29, 0.63) |
 | ORR%                        | 67%                                 | 41%               | 55%                                 | 42%               | 64%                                 | 30%               |
 
-At f inal  analysis,  a  total  of   65  NSCLC  patients  aged  ≥ 75 years were enrolled in study KEYNOTE-407 (34 in the pembrolizumab combination and 31 in the control). An HR=0.81 [95% CI 0.43, 1.55] in OS, an HR=0.61 [95% CI 0.34, 1.09] in PFS, and an ORR of 62% and 45% for pembrolizumab combination vs. chemotherapy was reported within this study subgroup. Data about efficacy of pembrolizumab in combination with platinum chemotherapy are limited in this patient population.
+At f inal  analysis,  a  total  of   65  NSCLC  patients  aged  ≥ 75 years were enrolled in study KEYNOTE-407 (34 in the pembrolizumab combination and 31 in the control). A HR=0.81 [95% CI 0.43, 1.55] in OS, a HR=0.61 [95% CI 0.34, 1.09] in PFS, and an ORR of 62% and 45% for pembrolizumab combination vs. chemotherapy was reported within this study subgroup. Data about efficacy of pembrolizumab in combination with platinum chemotherapy are limited in this patient population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5425,32 +5543,29 @@ The primary efficacy outcome measure was OS. Additional efficacy outcome measure
 
 Table 22: Efficacy results in KEYNOTE-483 for patients with non-epithelioid malignant pleural mesothelioma
 
-| Endpoint                         | Pembrolizumab 200 mgevery 3 weeks + Pemetrexed + Platinum Chemotherapy (n=46)   | Pemetrexed + Platinum Chemotherapy (n=49)   |
-|----------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|
-| OS                               |                                                                                 |                                             |
-| Number (%) ofpatients with event | 37 (80%)                                                                        | 44 (90%)                                    |
-| Hazard ratio * (95% CI)          | 0.57 (0.36, 0.89)                                                               | 0.57 (0.36, 0.89)                           |
-| Median in months † (95% CI)      | 12.3 (8.7, 21.2)                                                                | 8.2 (5.8, 9.8)                              |
-| PFS                              |                                                                                 |                                             |
-| Number (%) ofpatients with event | 36 (78%)                                                                        | 38 (78%)                                    |
-| Hazard ratio * (95% CI)          | 0.47 (0.29, 0.77)                                                               | 0.47 (0.29, 0.77)                           |
-| Median in months † (95% CI)      | 7.1 (4.5, 9.8)                                                                  | 4.5 (4.0, 6.4)                              |
-| Objective response rate          |                                                                                 |                                             |
-| ORR%(95% CI) ‡                   | 41% (27, 57)                                                                    | 6% (1, 17)                                  |
-| Response duration †              |                                                                                 |                                             |
-| Median in months (range)         | 11.1 (1.3+, 38.9+)                                                              | 4.0 (2.4+, 5.2)                             |
-
-* Based on Cox regression model with Ef ron's method of  tie handling with treatment as a covariate
-
-† From product-limit (Kaplan-Meier) method for censored data
-
-‡ Based on the exact method for binomial data
+| Endpoint                         | Endpoint                                                                                                                                                  | Pembrolizumab 200 mgevery 3 weeks + Pemetrexed + Platinum Chemotherapy (n=46)                                                                             | Pemetrexed + Platinum Chemotherapy (n=49)                                                                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OS                               |                                                                                                                                                           |                                                                                                                                                           |                                                                                                                                                           |
+| Number (%) ofpatients with event | Number (%) ofpatients with event                                                                                                                          | 37 (80%)                                                                                                                                                  | 44 (90%)                                                                                                                                                  |
+| Hazard ratio * (95% CI)          | Hazard ratio * (95% CI)                                                                                                                                   | 0.57 (0.36, 0.89)                                                                                                                                         | 0.57 (0.36, 0.89)                                                                                                                                         |
+| Median in months † (95% CI)      | Median in months † (95% CI)                                                                                                                               | 12.3 (8.7, 21.2)                                                                                                                                          | 8.2 (5.8, 9.8)                                                                                                                                            |
+|                                  | PFS                                                                                                                                                       |                                                                                                                                                           |                                                                                                                                                           |
+| Number (%) ofpatients with event | Number (%) ofpatients with event                                                                                                                          | 36 (78%)                                                                                                                                                  | 38 (78%)                                                                                                                                                  |
+| Hazard ratio * (95% CI)          | Hazard ratio * (95% CI)                                                                                                                                   | 0.47 (0.29, 0.77)                                                                                                                                         | 0.47 (0.29, 0.77)                                                                                                                                         |
+| Median in months † (95% CI)      | Median in months † (95% CI)                                                                                                                               | 7.1 (4.5, 9.8)                                                                                                                                            | 4.5 (4.0, 6.4)                                                                                                                                            |
+| Objective response rate          | Objective response rate                                                                                                                                   |                                                                                                                                                           |                                                                                                                                                           |
+| ORR%(95% CI) ‡                   | ORR%(95% CI) ‡                                                                                                                                            | 41% (27, 57)                                                                                                                                              | 6% (1, 17)                                                                                                                                                |
+| Response duration †              | Response duration †                                                                                                                                       |                                                                                                                                                           |                                                                                                                                                           |
+| Median in months (range)         | Median in months (range)                                                                                                                                  | 11.1 (1.3+, 38.9+)                                                                                                                                        | 4.0 (2.4+, 5.2)                                                                                                                                           |
+| * †                              | Based on Cox regression model with Efron's method oftie handling with treatment as a covariate From product-limit (Kaplan-Meier) method for censored data | Based on Cox regression model with Efron's method oftie handling with treatment as a covariate From product-limit (Kaplan-Meier) method for censored data | Based on Cox regression model with Efron's method oftie handling with treatment as a covariate From product-limit (Kaplan-Meier) method for censored data |
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 19: Kaplan-Meier curve for overall survival in patients with non-epithelioid MPM in KEYNOTE-483
 
 <!-- image -->
+
+100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5466,16 +5581,16 @@ Figure 20: Kaplan-Meier curve for progression-free survival in patients with non
 
 The efficacy of pembrolizumab was investigated in KEYNOTE-204, a randomised, open-label, active-controlled study conducted in 304 patients with relapsed or refractory cHL. Patients with active, non-infectious pneumonitis, an allogeneic HSCT within the past 5 years (or &gt; 5 years but with symptoms of GVHD), active autoimmune disease, a medical condition that required immunosuppression, or an active infection requiring systemic therapy were ineligible for the study. Randomisation was stratified by prior ASCT (yes vs. no) and disease status after f rontline therapy (primary refractory vs. relapse less than 12 months af ter completion vs. relapse 12 months or more after completion). Patients were randomised (1:1) to one of the following treatment arms:
 
-- Pembrolizumab 200 mg   intravenously every 3 weeks
+- Pembrolizumab 200 mg   intravenously every 3 weeks.
 - Brentuximab vedotin (BV) 1.8 mg/kg bw intravenously every 3 weeks.
 
 Patients received pembrolizumab 200 mg intravenously every 3 weeks until unacceptable toxicity or documented disease progression, or a maximum of 35 cycles. Limited data are currently available on response duration following pembrolizumab discontinuation at cycle 35. Response was assessed every 12 weeks, with the first planned post-baseline assessment at Week 12.
 
 <div style=\"page-break-after: always\"></div>
 
-Among the 304 patients in KEYNOTE-204, there is a subpopulation consisting of 112 patients who failed a transplant before enrolling and 137 who failed 2 or more prior therapies and were ineligible for ASCT at the time of enrolment. The baseline characteristics of these 249 patients were: median age 34 years (11% age 65 or older); 56% male; 80% White and 7% Asian and 58% and 41% with an ECOG performance status 0 and 1, respectively. Approximately 30% were refractory to frontline chemotherapy and ~ 45% had received prior ASCT. Nodular-sclerosis was the more represented cHL histological subtype (~ 81%) and bulky disease, B symptoms and bone marrow involvement were present in approximately 21%, 28% and 4% of patients, respectively.
+Among the 304 patients in KEYNOTE-204, there is a subpopulation consisting of 112 patients who failed a transplant before enrolling and 137 who failed 2 or more prior therapies and were ineligible for ASCT at the time of enrolment. The baseline characteristics of these 249 patients were: median age 34 years (11% age 65 or older); 56% male; 80% White and 7% Asian and 58% and 41% with an ECOG performance status 0 and 1, respectively. Approximately 30% were refractory to frontline chemotherapy and ~ 45% had received prior ASCT. Nodular sclerosis was the more represented cHL histological subtype (~ 81%) and bulky disease, B symptoms and bone marrow involvement were present in approximately 21%, 28% and 4% of patients, respectively.
 
-The primary efficacy outcome was PFS and the secondary efficacy outcome measure was ORR, both assessed by BICR according to the 2007 revised International Working Group (IWG) criteria. The additional primary efficacy outcome measure, OS, was not formally assessed at the time of the analysis. In the ITT population, the median follow-up time for 151 patients treated with pembrolizumab was 24.9 months (range: 1.8 to 42.0 months). The initial analysis resulted in a HR for PFS of 0.65 (95% CI: 0.48, 0.88) with a one-sided p value of 0.0027. The ORR was 66% for pembrolizumab compared to 54% for standard treatment with a p-Value of 0.0225. Table 23 summarises the efficacy results in the subpopulation. Ef ficacy results in this subpopulation were consistent with the ITT population. The Kaplan-Meier curve for PFS for this subpopulation is shown in Figure 21.
+The primary efficacy outcome was PFS and the secondary efficacy outcome measure was ORR, both assessed by BICR according to the 2007 revised International Working Group (IWG) criteria. The additional primary efficacy outcome measure, OS, was not formally assessed at the time of the analysis. In the ITT population, the median follow-up time for 151 patients treated with pembrolizumab was 24.9 months (range: 1.8 to 42.0 months). The initial analysis resulted in a HR for PFS of 0.65 (95% CI: 0.48, 0.88) with a one-sided p value of 0.0027. The ORR was 66% for pembrolizumab compared to 54% for standard treatment with a p-Value of 0.0225. Table 23 summarises the efficacy results in the subpopulation. Efficacy results in this subpopulation were consistent with the ITT population. The Kaplan-Meier curve for PFS for this subpopulation is shown in Figure 21.
 
 Table 23: Efficacy results in cHL patients who failed a transplant before enrolling or who failed 2 or more prior therapies and were ineligible for ASCT in KEYNOTE-204
 
@@ -5559,14 +5674,72 @@ Overall, 46 cHL patients ≥ 65 years were treated with pembrolizumab in studies
 
 ## Urothelial carcinoma
 
+KEYNOTE-905: Controlled study of combination with enfortumab vedotin for neoadjuvant and adjuvant treatment of patients with MIBC who are ineligible for cisplatin-containing chemotherapy The efficacy of pembrolizumab in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment was investigated in KEYNOTE-905, an open-label, randomised, multicentre, active-controlled study in patients with MIBC. Key eligibility criteria were previously untreated cT2-T4aN0M0 or cT1-T4aN1M0 MIBC in patients who were ineligible for or declined cisplatin-based chemotherapy and were eligible for radical cystectomy (RC) and pelvic lymph node dissection (PLND), regardless of PD-L1 status. Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible. Patients were randomised 1:1:1 to receive neoadjuvant and adjuvant pembrolizumab in combination with enfortumab vedotin, neoadjuvant and adjuvant pembrolizumab monotherapy, or RC and PLND alone. Randomisation was stratified by tumour stage (T2N0 vs. T3/T4aN0 vs. T1-T4aN1), cisplatin eligibility (cisplatin-ineligible vs. cisplatin-eligible but declined), and geographic region (United States vs. European Union vs. Rest of the World). The study population characteristics and evaluation of ef ficacy were based on the following treatment arms; all study medications were administered via intravenous infusion.
+
+<div style=\"page-break-after: always\"></div>
+
+- Pembrolizumab in combination with enfortumab vedotin (n=170): neoadjuvant pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 3 cycles. Following RC and PLND, adjuvant pembrolizumab 200 mg over 30 minutes on Day 1 of each 21-day cycle for 14 cycles and adjuvant enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 6 cycles.
+- RC and PLND alone (n=174).
+
+Treatment continued until completion of study medications, disease progression that precluded RC and PLND, not undergoing or refusal of RC and PLND, disease recurrence in the adjuvant phase, or unacceptable toxicity. Assessment of tumour status was performed at baseline, within 5 weeks prior to RC and PLND, and at 6 weeks post-radical cystectomy. Following RC and PLND, assessment of tumour status was performed every 12 weeks up to 2 years, and every 24 weeks thereafter.
+
+The study population characteristics were: median age of 73 years; 78% male; and 78% White; 47% were CPS ≥ 10 and 51% were CPS &lt; 10; 86% had ECOG PS of 0-1 and 14% had ECOG PS of 2; 18% were T2N0, 77% T3/T4aN0, and 5% T1-T4aN1. Forty-one percent of patients had baseline creatinine clearance of ≥ 60 mL/min, 59% had &lt; 60 mL/min but ≥ 30 mL/min, and 0.3% had &lt; 30 mL/min, respectively. Ninety-one percent of patients had urothelial carcinoma histology; 4% had urothelial carcinoma with squamous differentiation, 3% had urothelial carcinoma with glandular differentiation, and 2% had urothelial carcinoma with other variant histology.
+
+A total of 149 (88%) patients in the pembrolizumab in combination with enfortumab vedotin arm and 156 (90%) patients in the RC and PLND alone arm underwent radical cystectomy.
+
+The primary efficacy outcome measure was EFS as assessed by BICR. Additional efficacy outcome measures were pCR rate as assessed by BICR and OS. The study demonstrated a statistically signif icant improvement in EFS, OS, and pCR in patients treated with neoadjuvant and adjuvant pembrolizumab in combination with enfortumab vedotin compared with RC and PLND alone. The median follow-up time for patients randomised to treatment with pembrolizumab in combination with enfortumab vedotin was 20.4 months (range: 1.4-52.6 months). Table 25 summarises key efficacy measures. Figures 22 and 23 show the Kaplan-Meier curves for EFS and OS.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 25: Efficacy results in KEYNOTE-905
+
+| Endpoint                                      | Pembrolizumab 200 mgevery 3 weeks in combination with enfortumab vedotin n=170   | RC and PLND alone n=174   |
+|-----------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
+| EFS                                           |                                                                                  |                           |
+| Number ofpatients with event (%)              | 48 (28%)                                                                         | 95 (55%)                  |
+| Median in months * (95% CI)                   | NR(37.3, NR)                                                                     | 15.7 (10.3, 20.5)         |
+| Hazard ratio † (95% CI)                       | 0.40 (0.28, 0.57)                                                                | 0.40 (0.28, 0.57)         |
+| p-Value ‡                                     | < 0.0001                                                                         | < 0.0001                  |
+| OS                                            |                                                                                  |                           |
+| Number ofpatients with event (%)              | 38 (22%)                                                                         | 68 (39%)                  |
+| Median in months * (95% CI)                   | NR(NR, NR)                                                                       | 41.7 (31.8, NR)           |
+| Hazard ratio † (95% CI)                       | 0.50 (0.33, 0.74)                                                                | 0.50 (0.33, 0.74)         |
+| p-Value ‡                                     | 0.0002                                                                           | 0.0002                    |
+| pCR                                           |                                                                                  |                           |
+| Number ofpatients with pCR                    | 97                                                                               | 15                        |
+| pCR Rate (%), (95% CI)                        | 57.1 (49.3, 64.6)                                                                | 8.6 (4.9, 13.8)           |
+| Treatment difference estimate (%), (95% CI) § | 48.3 (39.5, 56.5)                                                                | 48.3 (39.5, 56.5)         |
+| p-Value                                       | < 0.0001                                                                         | < 0.0001                  |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 22: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-905
+
+Number at Risk
+
+pembrolizumab + EV
+
+RC + PLND
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 23: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-905
+
+54
+
+<!-- image -->
+
 KEYNOTE-A39: Controlled study of combination therapy with enfortumab vedotin for the first-line treatment of unresectable or metastatic urothelial carcinoma
 
 The efficacy of pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39, an open-label, multicentre, randomised, active-controlled study, that enrolled 886 patients with unresectable or metastatic urothelial carcinoma. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression, active CNS metastases, ongoing sensory or motor neuropathy ≥ Grade 2, or uncontrolled diabetes def ined as haemoglobin A1C (HbA1c) ≥ 8% or HbA1c ≥ 7% with associated diabetes symptoms, pneumonitis, or other forms of interstitial lung disease. Patients who received neoadjuvant chemotherapy or patients who received adjuvant chemotherapy following cystectomy were included in the study if recurrence was &gt; 12 months from completion of therapy. Patients were considered cisplatin-ineligible if they had at least one of the following criteria: glomerular f iltration rate 30-59 mL/min, ECOG PS ≥ 2, Grade ≥ 2 hearing loss, or NYHA Class III heart failure. Patients randomised to the gemcitabine and platinum-based chemotherapy arm were permitted to receive maintenance immunotherapy. Randomisation was stratified by cisplatin eligibility (eligible or ineligible), PD-L1 expression (CPS ≥ 10 or CPS &lt; 10 determined using the PD-L1 IHC 22C3 pharmDx assay), and liver metastases (present or absent). Patients were randomised (1:1) to one of the following treatment arms; all study medications were administered via intravenous infusion;
 
+- Pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
+
 <div style=\"page-break-after: always\"></div>
 
-- Pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
-- Gemcitabine 1 000 mg/m 2  on Days 1 and 8 and investigator's choice of  cisplatin 70 mg/m 2  or carboplatin (AUC 4.5 or 5 mg/mL/min according to local guidelines) on Day 1 of each 21-day cycle.
+- Gemcitabine 1 000 mg/m 2  on Days 1 and 8 and investigator's choice of  cisplatin 70 mg/m 2 or carboplatin (AUC 4.5 or 5 mg/mL/min according to local guidelines) on Day 1 of each 21-day cycle.
 
 Treatment with pembrolizumab and enfortumab vedotin continued until RECIST v1.1-defined progression of disease, unacceptable toxicity, or for pembrolizumab a maximum of 35 cycles (up to approximately 2 years). Assessment of tumour status was performed every 9 weeks for 18 months, and then every 12 weeks thereafter.
 
@@ -5576,11 +5749,11 @@ The primary efficacy outcome measures were PFS as assessed by BICR according to 
 
 The study demonstrated a statistically signif icant improvement in OS, PFS and ORR in patients randomised to pembrolizumab in combination with enfortumab vedotin compared with patients randomised to gemcitabine and platinum-based chemotherapy.
 
-The median follow-up time for 442 patients treated with pembrolizumab and enfortumab vedotin was 17.3 months (range: 0.3 to 37.2 months). Key efficacy results are summarised in Table 25 and Figures 22 and 23.
+The median follow-up time for 442 patients treated with pembrolizumab and enfortumab vedotin was 17.3 months (range: 0.3 to 37.2 months). Key efficacy results are summarised in Table 26 and Figures 24 and 25.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 25: Efficacy results in KEYNOTE-A39
+Table 26: Efficacy results in KEYNOTE-A39
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks in combination with Enfortumab vedotin n=442   | Gemcitabine + Platinum chemotherapy with or without maintenance immunotherapy n=444   |
 |----------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -5604,7 +5777,7 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 22: Kaplan-Meier curve for overall survival in KEYNOTE-A39
+Figure 24: Kaplan-Meier curve for overall survival in KEYNOTE-A39
 
 100
 
@@ -5614,9 +5787,11 @@ Figure 22: Kaplan-Meier curve for overall survival in KEYNOTE-A39
 
 Pembrolizumab + EV Chemotherapy 36 22 12 8 1 1 1 0 34 16 163 1 1 1 33 3 32 17 25 18 12 7 6 2 1 0
 
+Time in Months
+
 <div style=\"page-break-after: always\"></div>
 
-Figure 23: Kaplan-Meier curve for progression-free survival in KEYNOTE-A39
+Figure 25: Kaplan-Meier curve for progression-free survival in KEYNOTE-A39
 
 <!-- image -->
 
@@ -5686,15 +5861,15 @@ Chemotherapy
 
 ## KEYNOTE-045: Controlled study in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
 
-The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, open-label, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or af ter platinum-containing chemotherapy. Patients must have received first-line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤ 12 months following completion of therapy. Patients were randomised (1:1) to receive either pembrolizumab 200 mg every 3 weeks (n=270) or investigator's choice of  any of  the f ollowing chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m 2 (n=84), docetaxel 75 mg/m 2 (n=84), or vinf lunine 320 mg/m 2 (n=87). Patients were treated with pembrolizumab until unacceptable toxicity or disease progression. Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benef it by the investigator. Patients without disease progression could be treated for up to 24 months. The study excluded patients with autoimmune disease, a medical condition that required immunosuppression and patients with more than 2 prior lines of systemic chemotherapy for metastatic urothelial carcinoma. Patients with an ECOG performance status of 2 had to have a haemoglobin ≥ 10 g/dL, could not have liver metastases, and must have received the last dose of their last prior chemotherapy regimen ≥ 3 months prior to enrolment. Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
+The safety and efficacy of pembrolizumab were evaluated in KEYNOTE-045, a multicentre, open-label, randomised (1:1), controlled study for the treatment of locally advanced or metastatic urothelial carcinoma in patients with disease progression on or af ter platinum-containing chemotherapy. Patients must have received first-line platinum-containing regimen for locally advanced/metastatic disease or as neoadjuvant/adjuvant treatment, with recurrence/progression ≤ 12 months following completion of therapy. Patients were randomised (1:1) to receive either pembrolizumab 200 mg every 3 weeks (n=270) or investigator's choice of  any of  the f ollowing chemotherapy regimens all given intravenously every 3 weeks (n=272): paclitaxel 175 mg/m 2 (n=84), docetaxel 75 mg/m 2 (n=84), or vinf lunine 320 mg/m 2 (n=87). Patients were treated with pembrolizumab until unacceptable toxicity or disease progression. Treatment could continue beyond progression if the patient was clinically stable and was considered to be deriving clinical benefit by the investigator. Patients without disease progression could be treated for up to 24 months. The study excluded patients with autoimmune disease, a medical condition that required immunosuppression and patients with more than 2 prior lines of systemic chemotherapy for metastatic urothelial carcinoma. Patients with an ECOG performance status of 2 had to have a haemoglobin ≥ 10 g/dL, could not have liver metastases, and must have received the last dose of their last prior chemotherapy regimen ≥ 3 months prior to enrolment. Assessment of tumour status was performed at 9 weeks after the first dose, then every 6 weeks through the first year, followed by every 12 weeks thereafter.
 
 <div style=\"page-break-after: always\"></div>
 
 Among the 542 randomised patients in KEYNOTE-045, baseline characteristics were: median age 66 years (range: 26 to 88), 58% age 65 or older; 74% male; 72% White and 23% Asian; 56% ECOG performance status of 1 and 1% ECOG performance status of 2; and 96% M1 disease and 4% M0 disease. Eighty-seven percent of patients had visceral metastases, including 34% with liver metastases. Eighty-six percent had a primary tumour in the lower tract and 14% had a primary tumour in the upper tract. Fif teen percent of  patients had disease progression f ollowing prior platinum-containing neoadjuvant or adjuvant chemotherapy. Twenty-one percent had received 2 prior systemic regimens in the metastatic setting. Seventy-six percent of patients received prior cisplatin, 23% had prior carboplatin, and 1% was treated with other platinum-based regimens.
 
-The primary efficacy outcomes were OS and PFS as assessed by BICR using RECIST v1.1. Secondary outcome measures were ORR (as assessed by BICR using RECIST v1.1) and duration of response. Table 26 summarises the key efficacy measures for the ITT population at the final analysis. The Kaplan-Meier curve based on the final analysis for OS is shown in Figure 24. The study demonstrated statistically signif icant improvements in OS and ORR for patients randomised to pembrolizumab as compared to chemotherapy. There was no statistically significant difference between pembrolizumab and chemotherapy with respect to PFS.
+The primary efficacy outcomes were OS and PFS as assessed by BICR using RECIST v1.1. Secondary outcome measures were ORR (as assessed by BICR using RECIST v1.1) and duration of response. Table 27 summarises the key efficacy measures for the ITT population at the final analysis. The Kaplan-Meier curve based on the final analysis for OS is shown in Figure 26. The study demonstrated statistically signif icant improvements in OS and ORR for patients randomised to pembrolizumab as compared to chemotherapy. There was no statistically significant difference between pembrolizumab and chemotherapy with respect to PFS.
 
-Table 26: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
+Table 27: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma previously treated with chemotherapy in KEYNOTE-045
 
 | Endpoint                                           | Pembrolizumab 200 mgevery 3 weeks n=270   | Chemotherapy n=272   |
 |----------------------------------------------------|-------------------------------------------|----------------------|
@@ -5727,17 +5902,17 @@ Table 26: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 
 § Based on method by Miettinen and Nurminen
 
-¶ Based on patients with a best objective response as confirmed complete or partial response An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS &lt; 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n=176 (65%)] or ≥ 10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n=90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 27).
+¶ Based on patients with a best objective response as confirmed complete or partial response An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS &lt; 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n=176 (65%)] or ≥ 10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n=90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 28).
 
 # Based on Kaplan-Meier estimation
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 24: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-045 (intent to treat population)
+Figure 26: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-045 (intent to treat population)
 
 <!-- image -->
 
-Table 27: OS by PD-L1 expression
+Table 28: OS by PD-L1 expression
 
 | PD-L1 Expression   | Pembrolizumab                                             | Chemotherapy                                              |                         |
 |--------------------|-----------------------------------------------------------|-----------------------------------------------------------|-------------------------|
@@ -5745,7 +5920,7 @@ Table 27: OS by PD-L1 expression
 | CPS < 10           | 140 (75%)                                                 | 144 (82%)                                                 | 0.75 (0.59, 0.95)       |
 | CPS ≥ 10           | 53 (72%)                                                  | 72 (80%)                                                  | 0.55 (0.37, 0.81)       |
 
-Patient-reported outcomes (PROs) were assessed using EORTC QLQ-C30. A prolonged time to deterioration in EORTC QLQ-C30 global health status/QoL was observed for patients treated with pembrolizumab compared to investigator's choice chemotherapy (HR 0.70; 95% CI 0.55 -0.90). Over 15 weeks of follow-up, patients treated with pembrolizumab had stable global health status/QoL, while those treated with investigator's choice chemotherapy had a decline in global health status/QoL. These results should be interpreted in the context of the open-label study design and therefore taken cautiously.
+Patient-reported outcomes (PROs) were assessed using EORTC QLQ-C30. A prolonged time to deterioration in EORTC QLQ-C30 global health status/QoL was observed for patients treated with pembrolizumab compared to investigator's choice chemotherapy (HR 0.70; 95% CI 0.55 -0.90). Over 15 weeks of follow-up, patients treated with pembrolizumab had stable global health status/QoL, w hile those treated with investigator's  choice chemotherapy had a decline in global health status/QoL. These results should be interpreted in the context of the open-label study design and therefore taken cautiously.
 
 ## KEYNOTE-052: Open-label study in urothelial carcinoma patients ineligible for cisplatin-containing chemotherapy
 
@@ -5755,9 +5930,9 @@ The safety and efficacy of pembrolizumab were investigated in KEYNOTE-052, a mul
 
 Among 370 patients with urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy baseline characteristics were: median age 74 years (82% age 65 or older); 77% male; and 89% White and 7% Asian. Eighty-eight percent had M1 disease and 12% had M0 disease. Eighty-five percent of patients had visceral metastases, including 21% with liver metastases. Reasons for cisplatin ineligibility included: baseline creatinine clearance of  &lt; 60 mL/min (50%), ECOG performance status of 2 (32%), ECOG performance status of 2 and baseline creatinine clearance of &lt; 60 mL/min (9%), and other (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss; 9%). Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy. Eighty-one percent had a primary tumour in the lower tract, and 19% of patients had a primary tumour in the upper tract.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures were duration of response, PFS, and OS. Table 28 summarises the key efficacy measures for the study population at the f inal analysis based on a median follow-up time of 11.4 months (range: 0.1, 41.2 months) for all patients.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures were duration of response, PFS, and OS. Table 29 summarises the key efficacy measures for the study population at the f inal analysis based on a median follow-up time of 11.4 months (range: 0.1, 41.2 months) for all patients.
 
-Table 28: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
+Table 29: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
 
 | Endpoint                   | n=370              |
 |----------------------------|--------------------|
@@ -5783,13 +5958,13 @@ Table 28: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 
 *   Assessed by BICR using RECIST 1.1
 
-† Based on best response of stable disease or better An analysis was performed in KEYNOTE-052 in patients who had tumours that expressed PD-L1 with a CPS &lt; 10 (n=251; 68%) or ≥ 10 (n=110; 30%)(see Table 29). PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
+† Based on best response of stable disease or better An analysis was performed in KEYNOTE-052 in patients who had tumours that expressed PD-L1 with a CPS &lt; 10 (n=251; 68%) or ≥ 10 (n=110; 30%)(see Table 30). PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 
 ‡ Based on Kaplan-Meier estimates; includes 84 patients with response of 6 months or longer
 
 <div style=\"page-break-after: always\"></div>
 
-Table 29: ORR and OS by PD-L1 expression
+Table 30: ORR and OS by PD-L1 expression
 
 | Endpoint                  | CPS < 10 n=251   | CPS ≥ 10 n=110   |
 |---------------------------|------------------|------------------|
@@ -5801,11 +5976,11 @@ Table 29: ORR and OS by PD-L1 expression
 
 *   BICR using RECIST 1.1
 
-KEYNOTE-361 is a Phase III, randomised, controlled, open-label clinical study of pembrolizumab with or without platinum-based combination chemotherapy (i.e., either cisplatin or carboplatin with gemcitabine) versus chemotherapy as first-line treatment in subjects with advanced or metastatic urothelial carcinoma. Results of KEYNOTE-361 for pembrolizumab in combination with chemotherapy did not show statistically significant improvement in PFS as assessed by BICR using RECIST 1.1 (HR 0.78; 95% CI: 0.65, 0.93; p=0.0033), and OS (HR 0.86; 95% CI: 0.72, 1.02; p=0.0407) versus chemotherapy alone. Per the pre-specified hierarchical testing order no formal tests for statistical signif icance of  pembrolizumab versus chemotherapy could be performed. The key efficacy results of pembrolizumab monotherapy in patients for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy were consistent with KEYNOTE-052 results. Efficacy results in patients whose tumours express PDL1 with CPS ≥ 10 were similar to the overall population f or whom carboplatin was selected as the choice of chemotherapy. See Table 30 and Figures 25 and 26.
+KEYNOTE-361 is a Phase III, randomised, controlled, open-label clinical study of pembrolizumab with or without platinum-based combination chemotherapy (i.e., either cisplatin or carboplatin with gemcitabine) versus chemotherapy as first-line treatment in subjects with advanced or metastatic urothelial carcinoma. Results of KEYNOTE-361 for pembrolizumab in combination with chemotherapy did not show statistically significant improvement in PFS as assessed by BICR using RECIST 1.1 (HR 0.78; 95% CI: 0.65, 0.93; p=0.0033), and OS (HR 0.86; 95% CI: 0.72, 1.02; p=0.0407) versus chemotherapy alone. Per the pre-specified hierarchical testing order no formal tests for statistical signif icance of  pembrolizumab versus chemotherapy could be performed. The key efficacy results of pembrolizumab monotherapy in patients for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy were consistent with KEYNOTE-052 results. Efficacy results in patients whose tumours express PDL1 with CPS ≥ 10 were similar to the overall population f or whom carboplatin was selected as the choice of chemotherapy. See Table 31 and Figures 27 and 28.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 30: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in patients with previously untreated urothelial carcinoma for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy in KEYNOTE-361
+Table 31: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in patients with previously untreated urothelial carcinoma for whom carboplatin rather than cisplatin was selected by the investigator as the better choice of chemotherapy in KEYNOTE-361
 
 | Endpoint                      | Pembrolizumab n=170   | Chemotherapy n=196   | Pembrolizumab CPS ≥ 10 n=84   | Chemotherapy CPS ≥ 10 n=89   |
 |-------------------------------|-----------------------|----------------------|-------------------------------|------------------------------|
@@ -5829,13 +6004,13 @@ Table 30: Response to pembrolizumab 200 mg every 3 weeks or chemotherapy in pati
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 25: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (intent to treat population, choice of carboplatin)
+Figure 27: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (intent to treat population, choice of carboplatin)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 26: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (patients with PD-L1 expression CPS ≥ 10, intent to treat population, choice of carboplatin)
+Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-361 (patients with PD-L1 expression CPS ≥ 10, intent to treat population, choice of carboplatin)
 
 <!-- image -->
 
@@ -5856,15 +6031,15 @@ High-risk pathologic features are def ined by evidence of positive margins or ex
 
 Treatment with pembrolizumab continued until RECIST v1.1-defined progression of disease as assessed by BICR, until completion of the treatment (17 cycles), disease progression that precluded definitive surgery, disease recurrence in the adjuvant phase, disease progression f or those who did not undergo surgery or had incomplete resection and entered the adjuvant phase, or unacceptable toxicity. Assessment of tumour status was performed prior to surgery at Week 6 in the neoadjuvant phase. Following the start of the adjuvant phase, assessment of tumour status was performed 12 weeks after end of RT ± cisplatin treatment and then every 3 months until the end of Year 3; then every 6 months thereafter up to the end of Year 5. In arm A, 89% of the patients had surgery compared to 88% in arm B. In arm A, 29% of patients received cisplatin plus radiation and 46% received radiation alone. In arm B, 40% of patients received cisplatin plus radiation and 39% received radiation alone.
 
-Among the 714 patients in KEYNOTE-689, 682 (96%) had tumours that expressed PD-L1 with a CPS ≥ 1. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 682 patients were: median age of 60 years (range: 22 to 87), 33% age 65 or older; 79% male; 78% White, 13% Asian and 2.5% Black; 43% had ECOG PS of 1, and 79% were former/current smokers. Four p ercent of  patients' tumours were HPV-positive, and 26% had Stage III disease, 74% had Stage IVA disease.
+Among the 714 patients in KEYNOTE-689, 682 (96%) had tumours that expressed PD-L1 with a CPS ≥ 1. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 682 patients were: median age of 60 years (range: 22 to 87), 33% age 65 or older; 79% male; 78% White, 13% Asian and 2.5% Black; 43% had ECOG PS of 1, and 79% were former/current smokers. Four percent of  patients' tumours were HPV-positive, and 26% had Stage III disease, 74% had Stage IVA disease.
 
 The primary efficacy outcome measure was EFS by BICR defined as the time from randomisation to the first occurrence of any of the following events: progression of disease that precludes def initive surgery, local or distant disease progression or recurrence, or death due to any cause. Secondary primary malignancy was not considered an event. Additional efficacy outcome measures were mPR as assessed by BIPR, OS, and pCR as assessed by BIPR.
 
-The study demonstrated a statistically signif icant improvement in EFS (HR 0.73; 95% CI 0.58, 0.92; p-Value 0.00411) in patients randomised to pembrolizumab in combination with radiation with or without concomitant cisplatin compared to those randomised to radiation with or without concomitant cisplatin at the f irst pre-specif ied interim analysis in the overall population. OS at interim analysis was not f ormally tested. Table 31 summarises key eff icacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 at a median f ollow-up time of 27.0 months (range: 0.5 to 66.5 months). Figures 27 and 28 show the Kaplan-Meier curves for EFS and OS.
+The study demonstrated a statistically signif icant improvement in EFS (HR 0.73; 95% CI: 0.58, 0.92; p-Value 0.00411) in patients randomised to pembrolizumab in combination with radiation with or without concomitant cisplatin compared to those randomised to radiation with or without concomitant cisplatin at the f irst pre-specif ied interim analysis in the overall population. OS at interim analysis was not f ormally tested. Table 32 summarises key eff icacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 at a median f ollow-up time of 27.0 months (range: 0.5 to 66.5 months). Figures 29 and 30 show the Kaplan-Meier curves for EFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 31: Efficacy results in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+Table 32: Efficacy results in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks with RT with or without cisplatin n=347   | RT with or without cisplatin n=335   |
 |----------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
@@ -5882,15 +6057,13 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 27: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 29: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
-
-72
+Figure 30: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-689 for patients with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
@@ -5898,9 +6071,9 @@ Figure 28: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-6
 
 The efficacy of pembrolizumab was investigated in KEYNOTE-048, a multicentre, randomised, open-label, active-controlled study in patients with histologically confirmed metastatic or recurrent HNSCC of the oral cavity, pharynx or larynx, who had not previously received systemic therapy for recurrent or metastatic disease and who were considered incurable by local therapies. Patients with nasopharyngeal carcinoma, active autoimmune disease that required systemic therapy within two years of treatment or a medical condition that required immunosuppression were ineligible for the study. Randomisation was stratified by tumour PD-L1 expression (TPS ≥ 50% or &lt; 50%), HPV status (positive or negative), and ECOG PS (0 vs. 1). Patients were randomised 1:1:1 to one of the following treatment arms:
 
-- Pembrolizumab 200 mg every 3 weeks
-- Pembrolizumab 200 mg every 3 weeks, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU)
-- Cetuximab 400 mg/m 2  load then 250 mg/m 2 once weekly, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU)
+- Pembrolizumab 200 mg every 3 weeks.
+- Pembrolizumab 200 mg every 3 weeks, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU).
+- Cetuximab 400 mg/m 2  load then 250 mg/m 2 once weekly, carboplatin AUC 5 mg/mL/min every 3 weeks or cisplatin 100 mg/m 2 every 3 weeks, and 5-FU 1 000 mg/m 2 /d 4 days continuous every 3 weeks (maximum of 6 cycles of platinum and 5-FU).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5908,11 +6081,11 @@ Treatment with pembrolizumab continued until RECIST 1.1-defined progression of d
 
 Among the 882 patients in KEYNOTE-048, 754 (85%) had tumours that expressed PD-L1 with a CPS ≥ 1. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 754 patients included: median age of 61 years (range: 20 to 94); 36% age 65 or older; 82% male; 74% White and 19% Asian; 61% ECOG performance status of 1; and 77% former/current smokers. Disease characteristics were: 21% HPV positive and 95% had stage IV disease (stage IVa 21%, stage IVb 6%, and stage IVc 69%).
 
-The primary efficacy outcome measures were OS and PFS (assessed by BICR according to RECIST 1.1). The study demonstrated a statistically signif icant improvement in OS for all patients randomised to pembrolizumab in combination with chemotherapy compared to standard treatment (HR 0.72; 95% CI 0.60-0.87) and in patients whose tumours expressed PD-L1 CPS ≥ 1 randomised to pembrolizumab monotherapy compared to standard treatment. Tables 32 and 33 summarise key efficacy results for pembrolizumab in patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-048 at the final analysis performed at a median follow-up of 13 months for pembrolizumab in combination with chemotherapy and at a median follow-up of 11.5 months for pembrolizumab monotherapy. Kaplan -Meier curves for OS based on the final analysis are shown in Figures 29 and 30.
+The primary efficacy outcome measures were OS and PFS (assessed by BICR according to RECIST 1.1). The study demonstrated a statistically signif icant improvement in OS for all patients randomised to pembrolizumab in combination with chemotherapy compared to standard treatment (HR 0.72; 95% CI 0.60-0.87) and in patients whose tumours expressed PD-L1 CPS ≥ 1 randomised to pembrolizumab monotherapy compared to standard treatment. Tables 33 and 34 summarise key efficacy results for pembrolizumab in patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-048 at the final analysis performed at a median follow-up of 13 months for pembrolizumab in combination with chemotherapy and at a median follow-up of 11.5 months for pembrolizumab monotherapy. Kaplan -Meier curves for OS based on the final analysis are shown in Figures 31 and 32.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 32: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Table 33: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=242   | Standard Treatment * n=235   |
 |----------------------------------|------------------------------------------------------|------------------------------|
@@ -5937,13 +6110,13 @@ Table 32: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-048 wi
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 29: Kaplan-Meier curve for overall survival for pembrolizumab plus chemotherapy in KEYNOTE-048 with PDL1 expression (CPS ≥ 1)
+Figure 31: Kaplan-Meier curve for overall survival for pembrolizumab plus chemotherapy in KEYNOTE-048 with PDL1 expression (CPS ≥ 1)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Table 33: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Table 34: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab n=257   | Standard Treatment * n=255   |
 |----------------------------------|-----------------------|------------------------------|
@@ -5968,13 +6141,13 @@ Table 33: Efficacy results for pembrolizumab as monotherapy in KEYNOTE-048 with 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 30: Kaplan-Meier curve for overall survival for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
+Figure 32: Kaplan-Meier curve for overall survival for pembrolizumab as monotherapy in KEYNOTE-048 with PD-L1 expression (CPS ≥ 1)
 
 <!-- image -->
 
-An analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 20 [pembrolizumab plus chemotherapy: n=126 (49%) vs. standard treatment: n=110 (43%) and pembrolizumab monotherapy: n=133 (52%) vs. standard treatment: n=122 (48%)] (see Table 34).
+An analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 20 [pembrolizumab plus chemotherapy: n=126 (49%) vs. standard treatment: n=110 (43%) and pembrolizumab monotherapy: n=133 (52%) vs. standard treatment: n=122 (48%)] (see Table 35).
 
-Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 20)
+Table 35: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 20)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=126   | Standard Treatment * n=110   | Pembrolizumab Monotherapy n=133   | Standard Treatment * n=122   |
 |----------------------------------|------------------------------------------------------|------------------------------|-----------------------------------|------------------------------|
@@ -6013,11 +6186,11 @@ Table 34: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab
 
 § Response: Best objective response as confirmed complete response or partial response
 
-An exploratory subgroup analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 1 to &lt; 20 [pembrolizumab plus chemotherapy: n=116 (45%) vs. standard treatment: n=125 (49%) and pembrolizumab monotherapy: n=124 (48%) vs. standard treatment: n=133 (52%)] (see Table 35).
+An exploratory subgroup analysis was performed in KEYNOTE-048 in patients whose tumours expressed PD-L1 CPS ≥ 1 to &lt; 20 [pembrolizumab plus chemotherapy: n=116 (45%) vs. standard treatment: n=125 (49%) and pembrolizumab monotherapy: n=124 (48%) vs. standard treatment: n=133 (52%)] (see Table 36).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 35: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 1 to &lt; 20)
+Table 36: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab as monotherapy by PD-L1 expression in KEYNOTE-048 (CPS ≥ 1 to &lt; 20)
 
 | Endpoint                         | Pembrolizumab + Platinum Chemotherapy + 5-FU n=116   | Standard Treatment * n=125   | Pembrolizumab Monotherapy n=124   | Standard Treatment * n=133   |
 |----------------------------------|------------------------------------------------------|------------------------------|-----------------------------------|------------------------------|
@@ -6057,9 +6230,9 @@ The safety and efficacy of pembrolizumab were investigated in KEYNOTE-040, a mul
 
 Among the 495 patients in KEYNOTE-040, 129 (26%) had tumours that expressed PD-L1 with a TPS ≥ 50%. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of these 129 patients included: median age 62 years (40% age 65 or older); 81% male; 78% White, 11% Asian, and 2% Black; 23% and 77% with an ECOG performance status 0 or 1, respectively; and 19% with HPV positive tumours. Sixty-seven percent (67%) of patients had M1 disease and the majority had stage IV disease (stage IV 32%, stage IVa 14%, stage IVb 4%, and stage IVc 44%). Sixteen percent (16%) had disease progression following platinum-containing neoadjuvant or adjuvant chemotherapy, and 84% had received 1-2 prior systemic regimens for metastatic disease.
 
-The primary efficacy outcome was OS in the ITT population. The initial analysis resulted in a HR for OS of 0.82 (95% CI: 0.67, 1.01) with a one-sided p-Value of 0.0316. The median OS was 8.4 months for pembrolizumab compared to 7.1 months for standard treatment. Table 36 summarises the key efficacy measures for the TPS ≥ 50% population. The Kaplan-Meier curve for OS for the TPS ≥ 50% population is shown in Figure 31.
+The primary efficacy outcome was OS in the ITT population. The initial analysis resulted in a HR for OS of 0.82 (95% CI: 0.67, 1.01) with a one-sided p-Value of 0.0316. The median OS was 8.4 months for pembrolizumab compared to 7.1 months for standard treatment. Table 37 summarises the key efficacy measures for the TPS ≥ 50% population. The Kaplan-Meier curve for OS for the TPS ≥ 50% population is shown in Figure 33.
 
-Table 36: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with TPS ≥ 50% who were previously treated with platinum chemotherapy in KEYNOTE-040
+Table 37: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with TPS ≥ 50% who were previously treated with platinum chemotherapy in KEYNOTE-040
 
 | Endpoint                                          | Pembrolizumab 200 mgevery 3 weeks n=64   | Standard Treatment * n=65   |
 |---------------------------------------------------|------------------------------------------|-----------------------------|
@@ -6100,7 +6273,9 @@ Table 36: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 31: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-040 patients with PD-L1 expression (TPS ≥ 50%)
+Figure 33: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-040 patients with PD-L1 expression (TPS ≥ 50%)
+
+100
 
 <!-- image -->
 
@@ -6108,20 +6283,22 @@ Figure 31: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-0
 
 ## KEYNOTE-426: Controlled study of combination therapy with axitinib in RCC patients naïve to treatment
 
-The efficacy of pembrolizumab in combination with axitinib was investigated in KEYNOTE-426, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced RCC with clear cell component, regardless of PD-L1 tumour expression status and International Metastatic RCC Database Consortium (IMDC) risk group categories. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratif ied by risk categories (f avourable versus intermediate versus poor) and geographic region (North America versus Western Europe versus 'Rest of  the World'). Patients we re randomised (1:1) to one of the following treatment arms:
+The efficacy of pembrolizumab in combination with axitinib was investigated in KEYNOTE-426, a randomised, multicentre, open-label, active-controlled study conducted in patients with advanced RCC with clear cell component, regardless of PD-L1 tumour expression status and International Metastatic RCC Database Consortium (IMDC) risk group categories. The study excluded patients with autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratif ied by risk categories (f avourable versus intermediate versus poor) and geographic region (North America versus Western Europe versus Rest of the World). Patients were randomised (1:1) to one of the following treatment arms:
 
 - pembrolizumab 200 mg   intravenously every 3 weeks in combination with axitinib 5 mg orally, twice daily. Patients who tolerated axitinib 5 mg twice daily for 2 consecutive treatment cycles (i.e., 6 weeks) with no &gt; Grade 2 treatment-related adverse events to axitinib and with blood pressure well controlled to ≤ 150/90 mm Hg were permitted dose escalation of axitinib to 7 mg twice daily. Dose escalation of axitinib to 10 mg twice daily was permitted using the same criteria. Axitinib could be interrupted or reduced to 3 mg twice daily and subsequently to 2 mg twice daily to manage toxicity.
 - sunitinib 50 mg orally, once daily for 4 weeks and then off treatment for 2 weeks.
 
-Treatment with pembrolizumab and axitinib continued until RECIST v1.1-defined progression of disease as verif ied by BICR or confirmed by the investigator, unacceptable toxicity, or f or pembrolizumab, a maximum of 24 months. Administration of pembrolizumab and axitinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benef it by the investigator. Assessment of tumour status was performed at baseline, after randomisation at Week 12, then every 6 weeks thereafter until Week 54, and then every 12 weeks thereafter.
-
 <div style=\"page-break-after: always\"></div>
+
+Treatment with pembrolizumab and axitinib continued until RECIST v1.1-defined progression of disease as verif ied by BICR or confirmed by the investigator, unacceptable toxicity, or f or pembrolizumab, a maximum of 24 months. Administration of pembrolizumab and axitinib was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benef it by the investigator. Assessment of tumour status was performed at baseline, after randomisation at Week 12, then every 6 weeks thereafter until Week 54, and then every 12 weeks thereafter.
 
 A total of 861 patients were randomised. The study population characteristics were: median age of 62 years (range: 26 to 90); 38% age 65 or older; 73% male; 79% White and 16% Asian; 80% had a Karnofsky Performance Score (KPS) 90-100 and 20% had KPS 70-80; patient distribution by IMDC risk categories was 31% favourable, 56% intermediate and 13% poor.
 
-The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures were ORR and response duration, as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in OS (HR 0.53; 95% CI 0.38, 0.74; p-Value = 0.00005) and PFS (HR 0.69; 95% CI 0.56, 0.84; p-Value = 0.00012) for patients randomised to the pembrolizumab combination arm compared with sunitinib at its pre-specified interim analysis. Table 37 summarises key efficacy measures and Figures 32 and 33 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 37.7 months.
+The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures were ORR and response duration, as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in OS (HR 0.53; 95% CI 0.38, 0.74; p-Value = 0.00005) and PFS (HR 0.69; 95% CI 0.56, 0.84; p-Value = 0.00012) for patients randomised to the pembrolizumab combination arm compared with sunitinib at its pre-specified interim analysis. Table 38 summarises key efficacy measures and Figures 34 and 35 show the Kaplan-Meier curves for OS and PFS based on the final analysis with a median follow-up time of 37.7 months.
 
-Table 37: Efficacy results in KEYNOTE-426
+<div style=\"page-break-after: always\"></div>
+
+Table 38: Efficacy results in KEYNOTE-426
 
 | Endpoint                                          | Pembrolizumab Axitinib n=432   | Sunitinib n=429   |
 |---------------------------------------------------|--------------------------------|-------------------|
@@ -6146,7 +6323,7 @@ Table 37: Efficacy results in KEYNOTE-426
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 32: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-426 (intent to treat population)
+Figure 34: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-426 (intent to treat population)
 
 54
 
@@ -6154,7 +6331,7 @@ Figure 32: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-4
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 33: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-426 (intent to treat population)
+Figure 35: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-426 (intent to treat population)
 
 <!-- image -->
 
@@ -6162,9 +6339,9 @@ Subgroup analyses were performed in KEYNOTE-426 in patients with PD-L1 CPS ≥ 1
 
 The KEYNOTE-426 study was not powered to evaluate efficacy of individual subgroups.
 
-Table 38 summarises the efficacy measures by IMDC risk category based on the final OS analysis at a median follow-up of 37.7 months.
+Table 39 summarises the efficacy measures by IMDC risk category based on the final OS analysis at a median follow-up of 37.7 months.
 
-Table 38: Efficacy results in KEYNOTE-426 by IMDC risk category
+Table 39: Efficacy results in KEYNOTE-426 by IMDC risk category
 
 | Endpoint *   | Pembrolizumab + Axitinib n=432   | Sunitinib n=429             | Pembrolizumab + Axitinib vs. Sunitinib   |
 |--------------|----------------------------------|-----------------------------|------------------------------------------|
@@ -6192,7 +6369,7 @@ n (%) for favourable, intermediate and poor risk categories for pembrolizumab/ax
 
 ## KEYNOTE-581 (CLEAR): Controlled study of combination therapy with lenvatinib in RCC patients naïve to treatment
 
-The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-581 (CLEAR), a multicentre, open-label, randomised study conducted in 1 069 patients with advanced RCC with clear cell component including other histological features such as sarcomatoid and papillary in the f irst-line setting. Patients were enrolled regardless of PD-L1 tumour expression status. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratified by geographic region (North America versus Western Europe versus 'Rest of  the World') and Memorial Sloan Kettering Cancer Center (MSKCC) prognostic groups (favourable versus intermediate versus poor).
+The efficacy of pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-581 (CLEAR), a multicentre, open-label, randomised study conducted in 1 069 patients with advanced RCC with clear cell component including other histological features such as sarcomatoid and papillary in the f irst-line setting. Patients were enrolled regardless of PD-L1 tumour expression status. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Randomisation was stratified by geographic region (North America versus Western Europe versus Rest of the World) and Memorial Sloan Kettering Cancer Center (MSKCC) prognostic groups (favourable versus intermediate versus poor).
 
 Patients were randomised (1:1:1) to one of the following treatment arms:
 
@@ -6208,9 +6385,9 @@ The primary efficacy outcome measure was PFS based on BICR using RECIST 1.1. Key
 
 <div style=\"page-break-after: always\"></div>
 
-Efficacy results for KEYNOTE-581 (CLEAR) at the protocol-specified final analysis with median follow-up time of 49.4 months are summarised in Table 39 and Figures 34 and 35. PFS results were consistent across pre-specif ied subgroups, MSKCC prognostic groups and PD-L1 tumour expression status. Eff icacy results by MSKCC prognostic group are summarised in Table 40.
+Efficacy results for KEYNOTE-581 (CLEAR) at the protocol-specified final analysis with median follow-up time of 49.4 months are summarised in Table 40 and Figures 36 and 37. PFS results were consistent across pre-specif ied subgroups, MSKCC prognostic groups and PD-L1 tumour expression status. Eff icacy results by MSKCC prognostic group are summarised in Table 41.
 
-Table 39: Efficacy results in KEYNOTE-581 (CLEAR)
+Table 40: Efficacy results in KEYNOTE-581 (CLEAR)
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks and Lenvatinib n=355   | Sunitinib n=357      |
 |----------------------------------|-----------------------------------------------------------|----------------------|
@@ -6246,7 +6423,7 @@ The final OS analysis was not adjusted to account for subsequent therapies, with
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 34: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-581 (CLEAR)
+Figure 36: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-581 (CLEAR)
 
 100
 
@@ -6258,7 +6435,7 @@ Figure 34: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 35: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-581 (CLEAR)
+Figure 37: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-581 (CLEAR)
 
 <!-- image -->
 
@@ -6266,11 +6443,11 @@ The KEYNOTE-581 (CLEAR) study was not powered to evaluate efficacy of individual
 
 Subgroup analyses were performed by MSKCC prognostic group.
 
-Table 40 summarises the efficacy measures by MSKCC prognostic group based on the final OS analysis at a median follow-up of 49.4 months.
+Table 41 summarises the efficacy measures by MSKCC prognostic group based on the final OS analysis at a median follow-up of 49.4 months.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 40: Efficacy results in KEYNOTE-581 (CLEAR) by MSKCC prognostic group
+Table 41: Efficacy results in KEYNOTE-581 (CLEAR) by MSKCC prognostic group
 
 |                                           | Pembrolizumab + Lenvatinib (n=355)        | Pembrolizumab + Lenvatinib (n=355)        | Sunitinib (n=357)                         | Sunitinib (n=357)                         | Pembrolizumab + Lenvatinib vs. Sunitinib   |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------|
@@ -6294,7 +6471,7 @@ Additional data are available from the open-label single arm Phase II study KEYN
 
 ## KEYNOTE-564: Placebo-controlled study for the adjuvant treatment of patients with resected RCC
 
-The efficacy of pembrolizumab was investigated as adjuvant therapy for RCC in KEYNOTE-564, a multicentre, randomised, double-blind, placebo-controlled study in 994 patients with increased risk of recurrence defined as intermediate-high or high risk, or M1 with no evidence of disease (NED). The intermediate-high risk category included: pT2 with Grade 4 or sarcomatoid features; pT3, any Grade without nodal involvement (N0) or distant metastases (M0). The high risk category included: pT4, any Grade N0 and M0; any pT, any Grade with nodal involvement and M0. The M1 NED category included patients with metastatic disease who had undergone complete resection of primary and metastatic lesions. Patients must have undergone a partial nephroprotective or radical complete nephrectomy (and complete resection of solid, isolated, soft tissue metastatic lesion(s) in M1 NED participants) with negative su rgical margins ≥ 4 weeks prior to the time of screening. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Patients with RCC with clear cell component were randomised (1:1) to receive pembrolizumab 200 mg every 3 weeks (n=496) or placebo (n=498) for up to 1 year until disease recurrence or unacceptable toxicity. Randomisation was stratified by metastasis status (M0, M1 NED), and within M0 group, further stratif ied by ECOG PS (0,1), and geographic region (US, non-US). Starting f rom randomisation, patients underwent imaging every 12 weeks for the first 2 years, then every 16 weeks from year 3 to 5, and then every 24 weeks annually.
+The efficacy of pembrolizumab was investigated as adjuvant therapy for RCC in KEYNOTE-564, a multicentre, randomised, double-blind, placebo-controlled study in 994 patients with increased risk of recurrence defined as intermediate-high or high risk, or M1 with no evidence of disease (NED). The intermediate-high risk category included: pT2 with Grade 4 or sarcomatoid features; pT3, any Grade without nodal involvement (N0) or distant metastases (M0). The high risk category included: pT4, any Grade N0 and M0; any pT, any Grade with nodal involvement and M0. The M1 NED category included patients with metastatic disease who had undergone complete resection of primary and metastatic lesions. Patients must have undergone a partial nephroprotective or radical complete nephrectomy (and complete resection of solid, isolated, soft tissue metastatic lesion(s) in M1 NED participants) with negative surgical margins ≥ 4 weeks prior to the time of screening. The study excluded patients with active autoimmune disease or a medical condition that required immunosuppression. Patients with RCC with clear cell component were randomised (1:1) to receive pembrolizumab 200 mg every 3 weeks (n=496) or placebo (n=498) for up to 1 year until disease recurrence or unacceptable toxicity. Randomisation was stratified by metastasis status (M0, M1 NED), and within M0 group, further stratif ied by ECOG PS (0,1), and geographic region (US, non-US). Starting f rom randomisation, patients underwent imaging every 12 weeks for the first 2 years, then every 16 weeks from Year 3 to 5, and then every 24 weeks annually.
 
 Among the 994 patients, the baseline characteristics were: median age of 60 years (range: 25 to 84), 33% age 65 or older; 71% male; and 85% ECOG PS of 0 and 15% ECOG PS of 1. Ninety-four percent were N0; 83% had no sarcomatoid features; 86% were pT2 with Grade 4 or sarcomatoid features or pT3; 8% were pT4 or with nodal involvement; and 6% were M1 NED. Baseline characteristics and demographics were generally comparable between the pembrolizumab and placebo arms.
 
@@ -6302,9 +6479,9 @@ The primary efficacy outcome measure was investigator-assessed disease-free surv
 
 <div style=\"page-break-after: always\"></div>
 
-was 0.68 (95% CI 0.53, 0.87; p-Value = 0.0010). Efficacy results with a median follow-up time of 55.8 months are summarised in Table 41 and Figures 36 and 37.
+was 0.68 (95% CI 0.53, 0.87; p-Value = 0.0010). Efficacy results with a median follow-up time of 55.8 months are summarised in Table 42 and Figures 38 and 39.
 
-Table 41: Efficacy results in KEYNOTE-564
+Table 42: Efficacy results in KEYNOTE-564
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks n=496   | Placebo n=498     |
 |----------------------------------|-------------------------------------------|-------------------|
@@ -6320,7 +6497,7 @@ Table 41: Efficacy results in KEYNOTE-564
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 36: Kaplan-Meier curve for disease-free survival by treatment arm in KEYNOTE-564 (intent to treat population)
+Figure 38: Kaplan-Meier curve for disease-free survival by treatment arm in KEYNOTE-564 (intent to treat population)
 
 100
 
@@ -6328,7 +6505,7 @@ Figure 36: Kaplan-Meier curve for disease-free survival by treatment arm in KEYN
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 37: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-564 (intent to treat population)
+Figure 39: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-564 (intent to treat population)
 
 <!-- image -->
 
@@ -6354,11 +6531,11 @@ Treatment with pembrolizumab continued until RECIST v1.1-defined progression of 
 
 A total of 307 patients were enrolled and randomised to pembrolizumab (n=153) or chemotherapy (n=154). The baseline characteristics of these patients were: median age of 63 years (range: 24 to 93), 47% age 65 or older; 50% male; 75% White and 16% Asian; 52% and 48% had an ECOG performance status of 0 or 1, respectively. Mutation status: 25% BRAF V600E, 24% KRAS/NRAS. For 143 patients treated with chemotherapy, 56% received mFOLFOX6 with or without bevacizumab or cetuximab and 44% received FOLFIRI with or without bevacizumab or cetuximab.
 
-The primary efficacy outcome measures were PFS assessed by BICR according to RECIST v1.1 and OS. Secondary outcome measures were ORR and response duration. The study demonstrated a statistically signif icant improvement in PFS (HR 0.60; 95% CI 0.45, 0.80; p-Value 0.0002) for patients randomised to the pembrolizumab arm compared with chemotherapy at the pre-specified final analysis for PFS. There was no statistically significant dif ference between pembrolizumab and chemotherapy in the final OS analysis in which 60% of the patients who had been randomised to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including pembrolizumab. Table 42 summarises the key efficacy measures and Figures 38 and 39 show the Kaplan-Meier curves for updated PFS and OS based on the final analysis with a median follow-up time of 38.1 months (range: 0.2 to 58.7 months).
+The primary efficacy outcome measures were PFS assessed by BICR according to RECIST v1.1 and OS. Secondary outcome measures were ORR and response duration. The study demonstrated a statistically signif icant improvement in PFS (HR 0.60; 95% CI 0.45, 0.80; p-Value 0.0002) for patients randomised to the pembrolizumab arm compared with chemotherapy at the pre-specified final analysis for PFS. There was no statistically significant dif ference between pembrolizumab and chemotherapy in the final OS analysis in which 60% of the patients who had been randomised to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including pembrolizumab. Table 43 summarises the key efficacy measures and Figures 40 and 41 show the Kaplan-Meier curves for updated PFS and OS based on the final analysis with a median follow-up time of 38.1 months (range: 0.2 to 58.7 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 42: Efficacy results in KEYNOTE-177
+Table 43: Efficacy results in KEYNOTE-177
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks n=153   | Chemotherapy n=154   |
 |----------------------------------|--------------------------------------------|----------------------|
@@ -6380,19 +6557,25 @@ Table 42: Efficacy results in KEYNOTE-177
 | Median in months (range)         | NR(2.3+, 53.5+)                            | 10.6 (2.8, 48.3+)    |
 | % with duration ≥ 24 months ¶    | 84%                                        | 34%                  |
 
+* With additional 12 months of follow-up after the pre-specified final analysis f or PFS
+
+† Based on Cox regression model
+
+‡ p-Value is nominal
+
 § Not statistically signif icant af ter adjustment f or multiplicity
 
 ¶ Based on Kaplan-Meier estimation NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 38: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-177 (intent to treat population)
+Figure 40: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-177 (intent to treat population)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 39: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-177 (intent to treat population)
+Figure 41: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-177 (intent to treat population)
 
 <!-- image -->
 
@@ -6404,11 +6587,11 @@ Patients received pembrolizumab 200 mg every 3 weeks until unacceptable toxicity
 
 Among the 124 patients enrolled in KEYNOTE-164, the baseline characteristics were: median age 56 years (35% age 65 or older); 56% male; 68% White, 27% Asian; 41% and 59% had an ECOG performance status of 0 and 1, respectively. Twelve percent of patients had BRAF mutations and 36% had RAS mutations; 39% and 34% were undetermined for BRAF and RAS mutations, respectively. Ninety-seven percent of the patients had M1 disease and 3% had M0 disease (locally advanced unresectable). Seventy-six percent of patients received 2 or more prior lines of therapy.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 37.3 (range: 0.1 to 65.2). Eff icacy results are summarised in Table 43.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 37.3 (range: 0.1 to 65.2). Eff icacy results are summarised in Table 44.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 43: Efficacy results in KEYNOTE-164
+Table 44: Efficacy results in KEYNOTE-164
 
 | Endpoint                    | n=124            |
 |-----------------------------|------------------|
@@ -6442,11 +6625,11 @@ Among the 33 patients with small intestinal cancer, the baseline characteristics
 
 Among the 22 patients with biliary cancer, the baseline characteristics were: median age 61 years (range: 40 to 77); 41% age 65 or older; 73% male, 91% White, 9% Asian; ECOG PS 0 (45%) and 1 (55%); and 82% M1 disease and 18% M0 disease. Forty-one percent of patients received 2 or more prior lines of therapy.
 
-The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 53.5 (range: 1.5 to 99.4) for endometrial, 12.9 (range: 1.0 to 102.6) f or gastric, 39.4 (range: 4.2 to 103.0) f or small intestine, and 19.4 (range: 1.1 to 97.1) f or biliary cancer. Ef f icacy results are summarised in Table 44.
+The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1. Secondary efficacy outcome measures included response duration, PFS, and OS. The median follow-up time in months was 53.5 (range: 1.5 to 99.4) for endometrial, 12.9 (range: 1.0 to 102.6) f or gastric, 39.4 (range: 4.2 to 103.0) f or small intestine, and 19.4 (range: 1.1 to 97.1) f or biliary cancer. Ef f icacy results are summarised in Table 45.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 44: Efficacy results in KEYNOTE-158
+Table 45: Efficacy results in KEYNOTE-158
 
 | Endpoint                     | Endometrial n=83   | Gastric ¶ n=65   | Small Intestine ¶ n=32   | Biliary n=22     |
 |------------------------------|--------------------|------------------|--------------------------|------------------|
@@ -6459,7 +6642,9 @@ Table 44: Efficacy results in KEYNOTE-158
 | %with duration ≥ 12 months # | 86%                | 88%              | 87%                      | 90%              |
 | %with duration ≥ 60 months # | 64%                | 72%              | 72%                      | 50%              |
 
-* Based on patients with a best objective response as confirmed complete or partial response
+Based on patients with a best objective response as confirmed complete or partial response
+
+*
 
 # Based on Kaplan-Meier estimation
 
@@ -6488,9 +6673,9 @@ Among the 749 patients in KEYNOTE-590, 383 (51%) had tumours that expressed PD-L
 
 and 1, respectively. Ninety-three percent had M1 disease. Seventy-five percent had a tumour histology of squamous cell carcinoma, and 25% had adenocarcinoma.
 
-The primary efficacy outcome measures were OS and PFS as assessed by the investigator according to RECIST 1.1 in squamous cell histology, CPS ≥ 10, and in all patients. The study demonstrated a statistically signif icant improvement in OS and PFS f or all pre-specif ied study populations. In all patients randomised to pembrolizumab in combination with chemotherapy, compared to chemotherapy the OS HR was 0.73 (95% CI 0.62-0.86) and the PFS HR was 0.65 (95% CI 0.55-0.76). Secondary efficacy outcome measures were ORR and duration of response, according to RECIST 1.1 as assessed by the investigator. Table 45 summarises key efficacy measures from the pre-specified analysis in patients whose tumours expressed PD-L1 with a CPS ≥ 10 in KEYNOTE-590 performed at a median follow-up time of 13.5 months (range: 0.5 to 32.7 months). The Kaplan-Meier curve for OS and PFS are shown in Figures 40 and 41.
+The primary efficacy outcome measures were OS and PFS as assessed by the investigator according to RECIST 1.1 in squam ous cell histology, CPS ≥ 10, and in all patients. The study demonstrated a statistically signif icant improvement in OS and PFS f or all pre-specif ied study populations. In all patients randomised to pembrolizumab in combination with chemotherapy, compared to chemotherapy the OS HR was 0.73 (95% CI 0.62-0.86) and the PFS HR was 0.65 (95% CI 0.55-0.76). Secondary efficacy outcome measures were ORR and duration of response, according to RECIST 1.1 as assessed by the investigator. Table 46 summarises key efficacy measures from the pre-specified analysis in patients whose tumours expressed PD-L1 with a CPS ≥ 10 in KEYNOTE-590 performed at a median follow-up time of 13.5 months (range: 0.5 to 32.7 months). The Kaplan-Meier curve for OS and PFS are shown in Figures 42 and 43.
 
-Table 45: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 with PD-L1 expression (CPS ≥ 10)
+Table 46: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 with PD-L1 expression (CPS ≥ 10)
 
 | Endpoint                         | Pembrolizumab Cisplatin Chemotherapy 5-FU n=186   | Standard Treatment * n=197   |
 |----------------------------------|---------------------------------------------------|------------------------------|
@@ -6521,7 +6706,9 @@ Cisplatin and 5-FU
 
 - † Based on Kaplan-Meier estimation
 - ‡ Based on the stratified Cox proportional hazard model
-- § One-sided p-Value based on log-rank test stratified by geographic region (Asia versus Rest of  the World) and tumour histology (Adenocarcinoma versus Squamous Cell Carcinoma) and ECOG performance status (0 versus 1)
+
+§ One-sided p-Value based on log-rank test stratified by geographic region (Asia versus Rest of  the World) and tumour histology (Adenocarcinoma versus Squamous Cell Carcinoma) and ECOG performance status (0 versus 1)
+
 - ¶ Assessed by investigator using RECIST 1.1
 - # One-sided p-Value for testing. H0: difference in % = 0 versus H1: difference in % &gt; 0
 - Þ Best objective response as confirmed complete response or partial response
@@ -6530,13 +6717,13 @@ A total of 32 patients aged ≥ 75 years for PDL1 CPS ≥ 10 were enrolled in KE
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 40: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
+Figure 42: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 41: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
+Figure 43: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-590 with PDL1 expression (CPS ≥ 10)
 
 <!-- image -->
 
@@ -6568,11 +6755,11 @@ The study demonstrated a statistically signif icant improvement in pCR rate diff
 
 of 73.1 months (range: 2.7-83.9 months), the study also demonstrated a statistically signif icant improvement in OS.
 
-Results reported from the pre-specif ied pCR final analysis (n=1002) and key eff icacy measures f rom the EFS and OS pre-specified interim analysis at median follow-up time for all patients of 73.1 months (range: 2.7-83.9 months) are summarised in Table 46. The Kaplan-Meier curves for EFS and OS are shown in Figures 42 and 43.
+Results reported from the pre-specif ied pCR final analysis (n=1 002) and key ef f icacy measures from the EFS and OS pre-specified interim analysis at median follow-up time for all patients of 73.1 months (range: 2.7-83.9 months) are summarised in Table 47. The Kaplan-Meier curves for EFS and OS are shown in Figures 44 and 45.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 46: Efficacy results in KEYNOTE-522
+Table 47: Efficacy results in KEYNOTE-522
 
 | Endpoint                                     | Pembrolizumab with Chemotherapy/Pembrolizumab   | Placebo with Chemotherapy/Placebo   |
 |----------------------------------------------|-------------------------------------------------|-------------------------------------|
@@ -6598,13 +6785,13 @@ Table 46: Efficacy results in KEYNOTE-522
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 42: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-522 (intent to treat population)
+Figure 44: Kaplan-Meier curve for event-free survival by treatment arm in KEYNOTE-522 (intent to treat population)
 
 <!-- image -->
 
 ## Number at Risk
 
-Pembrolizumab  +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo
+Pembrolizumab +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo
 
 784
 
@@ -6668,7 +6855,7 @@ Pembrolizumab  +  Chemo/Pembrolizumab Placebo +  Chemo/Placebo
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 43: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-522 (intent to treat population)
+Figure 45: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-522 (intent to treat population)
 
 <!-- image -->
 
@@ -6685,11 +6872,11 @@ Treatment with pembrolizumab or placebo, both in combination with chemotherapy, 
 
 Among the 847 patients randomised in KEYNOTE-355, 636 (75%) had tumours that expressed PD-L1 with a CPS ≥ 1 and 323 (38%) had tumour PD-L1 expression CPS ≥ 10. PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. The baseline characteristics of the 323 patients with tumour PD-L1 expression CPS ≥ 10 included: median age of 53 years (range: 22 to 83); 20% age 65 or older; 100% female; 69% White, 20% Asian, and 5% Black; ECOG performance status of 0 (61%) and 1 (39%); 67% were post-menopausal status; 3% had a history of brain metastases; and 20% had disease-free interval of &lt; 12 months.
 
-The dual primary efficacy outcome measures were PFS as assessed by BICR using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in PFS at its pre-specified interim analysis (HR 0.65; 95% CI 0.49, 0.86; p-Value 0.0012) and OS at final analysis for patients with tumour PD-L1 expression CPS ≥ 10 randomised to the pembrolizumab in combination with chemotherapy arm compared with placebo in combination with chemotherapy. Table 47 summarises key efficacy measures and Figures 44 and 45 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 20.2 months (range: 0.3 to 53.1 months) for patients with tumour PD-L1 expression CPS ≥ 10.
+The dual primary efficacy outcome measures were PFS as assessed by BICR using RECIST 1.1 and OS. Secondary efficacy outcome measures were ORR and response duration as assessed by BICR using RECIST 1.1. The study demonstrated a statistically signif icant improvement in PFS at its pre-specified interim analysis (HR 0.65; 95% CI 0.49, 0.86; p-Value 0.0012) and OS at final analysis for patients with tumour PD-L1 expression CPS ≥ 10 randomised to the pembrolizumab in combination with chemotherapy arm compared with placebo in combination with chemotherapy. Table 48 summarises key efficacy measures and Figures 46 and 47 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 20.2 months (range: 0.3 to 53.1 months) for patients with tumour PD-L1 expression CPS ≥ 10.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 47: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
+Table 48: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
 
 | Endpoint                         | Pembrolizumab with chemotherapy * n=220   | Placebo with chemotherapy * n=103   |
 |----------------------------------|-------------------------------------------|-------------------------------------|
@@ -6723,7 +6910,7 @@ Table 47: Efficacy results in KEYNOTE-355 patients with CPS ≥ 10
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 44: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
+Figure 46: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
 
 <!-- image -->
 
@@ -6737,11 +6924,7 @@ Placebo +  Chemotherapy
 
 95
 
-103 80
-
-41
-
-30
+63
 
 52
 
@@ -6749,37 +6932,33 @@ Placebo +  Chemotherapy
 
 42
 
-11
-
 38
-
-11
 
 36
 
-10
-
 34
-
-8
 
 32
 
 27
 
-6
-
 19
 
 13
 
-4
-
 6
 
-3
+0
 
-63
+0
+
+0
+
+103 80
+
+41
+
+30
 
 18
 
@@ -6787,11 +6966,23 @@ Placebo +  Chemotherapy
 
 12
 
+11
+
+11
+
+10
+
 8
+
+8
+
+6
 
 4
 
-0
+4
+
+3
 
 1
 
@@ -6799,13 +6990,9 @@ Placebo +  Chemotherapy
 
 0
 
-0
-
-0
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 45: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
+Figure 47: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-355 patients with PD-L1 expression (CPS ≥ 10)
 
 <!-- image -->
 
@@ -6836,11 +7023,11 @@ The dMMR population characteristics were: median age of 66 years (range: 37 to 8
 
 The pMMR population characteristics were: median age of 66 years (range: 29 to 94), 54% age 65 or older; 72% White, 16% Black, and 5% Asian; 6% Hispanic or Latino; 67% ECOG PS of 0, 30% ECOG PS of 1 and 3% ECOG PS of 2; 56% had recurrent disease and 44% had primary or persistent disease; 26% received prior adjuvant chemotherapy and 41% received prior radiotherapy. The histologic subtypes were endometrioid carcinoma (17% grade 1, 19% grade 2, and 16% grade 3), serous (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5% including mixed epithelial and dedif f erentiated/undif f erentiated).
 
-The primary efficacy outcome measure was PFS as assessed by the investigator according to RECIST 1.1 in the dMMR and pMMR populations. Secondary efficacy outcome measures included OS, ORR and response duration in the dMMR and pMMR populations. The study demonstrated statistically signif icant improvements in PFS for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy in both the dMMR and pMMR populations. The median follow-up time was 13.6 months (range: 0.6 to 39.4 months) and 8.7 months (range: 0.1 to 37.2 months) in the dMMR and pMMR populations, respectively. OS endpoint was not formally assessed within multiplicity control. OS results were not mature. Eff icacy results by MMR status are summarised in Table 48. The Kaplan-Meier curves for PFS by MMR status are shown in Figures 46 and 47, respectively.
+The primary efficacy outcome measure was PFS as assessed by the investigator according to RECIST 1.1 in the dMMR and pMMR populations. Secondary efficacy outcome measures included OS, ORR and response duration in the dMMR and pMMR populations. The study demonstrated statistically signif icant improvements in PFS for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy in both the dMMR and pMMR populations. The median follow-up time was 13.6 months (range: 0.6 to 39.4 months) and 8.7 months (range: 0.1 to 37.2 months) in the dMMR and pMMR populations, respectively. OS endpoint was not formally assessed within multiplicity control. OS results were not mature. Eff icacy results by MMR status are summarised in Table 49. The Kaplan-Meier curves for PFS by MMR status are shown in Figures 48 and 49, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 48: Efficacy results in KEYNOTE-868 (NRG-GY018)
+Table 49: Efficacy results in KEYNOTE-868 (NRG-GY018)
 
 | Endpoint                                                  | dMMRPopulation                          | dMMRPopulation                    | pMMRPopulation                          | pMMRPopulation                    |
 |-----------------------------------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------|
@@ -6872,19 +7059,17 @@ NR = not reached
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 46: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in dMMR population
+Figure 48: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in dMMR population
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 47: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in pMMR population
+Figure 49: Kaplan-Meier curve for progression-free survival in KEYNOTE-868 (NRG-GY018) in pMMR population
 
 100
 
 <!-- image -->
-
-36
 
 ## KEYNOTE-775: Controlled study of combination therapy in advanced EC patients previously treated with systemic chemotherapy
 
@@ -6901,11 +7086,11 @@ Administration of study treatment was permitted beyond RECIST-defined disease pr
 
 A total of 827 patients were enrolled and randomised to pembrolizumab in combination with lenvatinib (n=411) or investigator's choice of  doxorubicin (n=306) or paclitaxel (n=110). The baseline characteristics of these patients were: median age of 65 years (range : 30 to 86), 50% age 65 or older; 61% White, 21% Asian, and 4% Black; ECOG PS of 0 (59%) or 1 (41%), and 84% with pMMR tumour status and 16% with dMMR tumour status. The histologic subtypes were endometrioid carcinoma (60%), serous (26%), clear cell carcinoma (6%), mixed (5%), and other (3%). All 827 of these patients received prior systemic therapy f or EC: 69% had one, 28% had two, and 3% had three or more prior systemic therapies. 37% of patients received only prior neoadjuvant or adjuvant therapy.
 
-The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures included ORR, as assessed by BICR using RECIST 1.1. At the pre-specified interim analysis, with a median follow-up time of 11.4 months (range: 0.3 to 26.9 months), the study demonstrated a statistically signif icant improvement in OS and PFS. The prespecified final OS analysis with approximately 16 months of additional follow-up duration f rom the interim analysis (overall median follow-up time of 14.7 months [range: 0.3 to 43.0 months]) was performed without multiplicity adjustment. Efficacy results by MMR subgroups were consistent with overall study results. PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 49. Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 48 and 49, respectively.
+The primary efficacy outcome measures were OS and PFS (as assessed by BICR using RECIST 1.1). Secondary efficacy outcome measures included ORR, as assessed by BICR using RECIST 1.1. At the pre-specified interim analysis, with a median follow-up time of 11.4 months (range: 0.3 to 26.9 months), the study demonstrated a statistically signif icant improvement in OS and PFS. The prespecified final OS analysis with approximately 16 months of additional follow-up duration f rom the interim analysis (overall median follow-up time of 14.7 months [range: 0.3 to 43.0 months]) was performed without multiplicity adjustment. Efficacy results by MMR subgroups were consistent with overall study results. PFS, ORR and response duration results at the interim analysis and OS results at final analysis are summarised in Table 50. Kaplan-Meier curves for final OS and interim PFS analyses are shown in Figures 50 and 51, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 49: Efficacy results in KEYNOTE-775
+Table 50: Efficacy results in KEYNOTE-775
 
 | Endpoint                         | Pembrolizumab 200 mg every 3 weeks Lenvatinib n=411   | Chemotherapy * n=416   |
 |----------------------------------|-------------------------------------------------------|------------------------|
@@ -6937,9 +7122,11 @@ Table 49: Efficacy results in KEYNOTE-775
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 48: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-775 (intent to treat population)
 
 <!-- image -->
+
+416
 
 378
 
@@ -6965,15 +7152,19 @@ Figure 48: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-7
 
 6
 
+3
+
+1
+
 <div style=\"page-break-after: always\"></div>
 
-Figure 49: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
+Figure 51: Kaplan-Meier curve for progression free-survival by treatment arm in KEYNOTE-775 (intent to treat population)
 
 <!-- image -->
 
 ## Cervical cancer
 
-## KEYNOTE-A18: Controlled study of combination therapy with CRT in patients with locally advanced cervical cancer
+KEYNOTE-A18: Controlled study of combination therapy with CRT in patients with locally advanced cervical cancer
 
 The efficacy of pembrolizumab in combination with cisplatin and external beam radiation therapy (EBRT) followed by brachytherapy (BT) was investigated in KEYNOTE-A18, a multicentre, randomised, double-blind, placebo-controlled study that enrolled 1 060 patients with locally advanced cervical cancer who had not previously received any definitive surgery, radiation, or systemic therapy for cervical cancer. There were 601 patients with FIGO (International Federation of Gynaecology and Obstetrics) 2014 Stage III - IVA (tumour involvement of the lower vagina with or without extension onto pelvic sidewall or hydronephrosis/non-functioning kidney or has spread to adjacent pelvic organs) with either node-positive or node-negative disease and 459 patients with FIGO 2014 Stage IB2 - IIB (tumour lesions &gt;4 cm or clinically visible lesions that have spread beyond the uterus but have not extended onto the pelvic wall or to the lower third of vagina) with node-positive disease. Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible. Randomisation was stratified by planned type of EBRT (Intensity-modulated radiation therapy [IMRT] or volumetric modulated arc therapy [VMAT] vs. non-IMRT and non-VMAT), stage at screening of cervical cancer (FIGO 2014 Stage IB2 - IIB vs. Stage III - IVA) and planned total radiotherapy dose ([EBRT + BT dose] of &lt; 70 Gy vs. ≥ 70 Gy as per equivalent dose [EQD2]). Patients were randomised (1:1) to one of the two treatment arms:
 
@@ -6983,13 +7174,13 @@ The efficacy of pembrolizumab in combination with cisplatin and external beam ra
 
 - Placebo IV every 3 weeks (5 cycles) concurrent with cisplatin 40 mg/m 2  IV weekly (5 cycles, an optional sixth infusion could be administered per local practice) and radiotherapy (EBRT followed by BT), followed by placebo IV every 6 weeks (15 cycles).
 
-Treatment continued until RECIST v1.1-defined progression of disease as determined by the investigator or unacceptable toxicity. Assessment of tumour status was performed every 12 weeks for the first two years, every 24 weeks in year 3, and then annually.
+Treatment continued until RECIST v1.1-defined progression of disease as determined by the investigator or unacceptable toxicity. Assessment of tumour status was performed every 12 weeks for the first two years, every 24 weeks in Year 3, and then annually.
 
 Among the 601 patients with FIGO 2014 Stage III - IVA disease enrolled in KEYNOTE-A18, the baseline characteristics were: median age of 51 years (range: 22 to 87), 16% age 65 or older; 36% White, 1% Black, 34% Asian, 38% Hispanic or Latino; 68% ECOG performance status of 0 and 32% ECOG performance status of 1; 93% with CPS ≥ 1; 71% had positive pelvic and/or positive para-aortic lymph node(s), 29% had neither positive pelvic nor para-aortic lymph node, 86% IMRT or VMAT EBRT, 90% ≥ 70 Gy (EQD2). Eighty-four percent had squamous cell carcinoma and 16% had non-squamous histology.
 
-The primary efficacy outcomes were PFS (as assessed by investigator according to RECIST v1.1 or histopathologic confirmation) and OS. The study demonstrated statistically significant improvements in PFS [0.70 (95% CI 0.55, 0.89; p-Value 0.0020)] from the first pre-specified interim analysis and OS [0.67 (95% CI 0.50, 0.90; p-Value 0.0040)] from the second pre-specified interim analysis in the overall population for patients randomised to pembrolizumab with CRT compared to placebo with CRT. Table 50 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months (range: 0.9 to 41.7 months). The Kaplan-Meier curves in patients with FIGO 2014 Stage III - IVA disease for OS and PFS based on this analysis are shown in Figures 50 and 51, respectively.
+The primary efficacy outcomes were PFS (as assessed by investigator according to RECIST v1.1 or histopathologic confirmation) and OS. The study demonstrated statistically significant improvements in PFS [0.70 (95% CI 0.55, 0.89; p-Value 0.0020)] from the first pre-specified interim analysis and OS [0.67 (95% CI 0.50, 0.90; p-Value 0.0040)] from the second pre-specified interim analysis in the overall population for patients randomised to pembrolizumab with CRT compared to placebo with CRT. Table 51 summarises key efficacy measures from the second pre-specified interim analysis in patients with FIGO 2014 Stage III - IVA disease with median follow-up time of 26.6 months (range: 0.9 to 41.7 months). The Kaplan-Meier curves in patients with FIGO 2014 Stage III - IVA disease for OS and PFS based on this analysis are shown in Figures 52 and 53, respectively.
 
-Table 50: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Table 51: Efficacy results in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks and 400 mg every 6 weeks with CRT n=296   | Pembrolizumab 200 mgevery 3 weeks and 400 mg every 6 weeks with CRT n=296   | Placebo with CRT n=305   |
 |----------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------|
@@ -7008,7 +7199,7 @@ Based on the unstratified Cox proportional hazard model CRT = Chemoradiotherapy 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Figure 52: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 100
 
@@ -7016,7 +7207,7 @@ Figure 50: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-A
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 51: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
+Figure 53: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-A18 for patients with FIGO 2014 Stage III - IVA cervical cancer
 
 39
 
@@ -7026,8 +7217,8 @@ Figure 51: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 The efficacy of pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab, was investigated in KEYNOTE-826, a multicentre, randomised, double-blind, placebo-controlled study that enrolled 617 patients with persistent, recurrent, or first-line metastatic cervical cancer who had not been treated with chemotherapy except when used concurrently as a radio-sensitising agent. Patients were enrolled regardless of tumour PD-L1 expression status. Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible. Randomisation was stratified by metastatic status at initial diagnosis, investigator decision to use bevacizumab, and PD-L1 status (CPS &lt; 1 vs. CPS 1 to &lt; 10 vs. CPS ≥ 10). Patients were randomised (1:1) to one of the two treatment groups:
 
-- Treatment Group 1: Pembrolizumab 200 mg plus chemotherapy with or without bevacizumab
-- Treatment Group 2: Placebo plus chemotherapy with or without bevacizumab
+- Treatment Group 1: Pembrolizumab 200 mg plus chemotherapy with or without bevacizumab.
+- Treatment Group 2: Placebo plus chemotherapy with or without bevacizumab.
 
 The investigator selected one of the following f our treatment regimens prior to randomisation:
 
@@ -7042,11 +7233,11 @@ All study medications were administered as an intravenous infusion. All study tr
 
 Of the 617 enrolled patients, 548 patients (89%) had tumours expressing PD-L1with a CPS ≥ 1. PDL1 status was determined using the PD-L1 IHC 22C3 pharmDx assay. Among these 548 enrolled patients with tumours expressing PD-L1, 273 patients were randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab, and 275 patients were randomised to placebo in combination with chemotherapy with or without bevacizumab. The baseline characteristics of these 548 patients were: median age of 51 years (range: 22 to 82), 16% age 65 or older; 59% White, 18% Asian, and 1% Black; 37% Hispanic or Latino; 56% and 43% ECOG performance status of 0 or 1, respectively; 63% received bevacizumab as study treatment; 21% with adenocarcinoma and 5% with adenosquamous histology; for patients with persistent or recurrent disease with or without distant metastases, 39% had received prior chemoradiation only and 17% had received prior chemoradiation plus surgery.
 
-The primary efficacy outcome measures were OS and PFS as assessed by investigator according to RECIST v1.1. Secondary efficacy outcome measures were ORR and duration of response, according to RECIST v1.1, as assessed by investigator. At a pre-specified interim analysis, the study demonstrated statistically signif icant improvements in OS (HR 0.64; 95% CI 0.50, 0.81; p-Value = 0.0001) and PFS (HR 0.62; 95% CI 0.50, 0.77; p-Value &lt; 0.0001) for patients whose tumours expressed PD-L1 with a CPS ≥ 1 randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab. The study also demonstrated statistically significant improvements in OS and PFS in the overall population. Table 51 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months. The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 52 and 53.
+The primary efficacy outcome measures were OS and PFS as assessed by investigator according to RECIST v1.1. Secondary efficacy outcome measures were ORR and duration of response, according to RECIST v1.1, as assessed by investigator. At a pre-specified interim analysis, the study demonstrated statistically signif icant improvements in OS (HR 0.64; 95% CI 0.50, 0.81; p-Value = 0.0001) and PFS (HR 0.62; 95% CI 0.50, 0.77; p-Value &lt; 0.0001) for patients whose tumours expressed PD-L1 with a CPS ≥ 1 randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab. The study also demonstrated statistically significant improvements in OS and PFS in the overall population. Table 52 summarises key efficacy measures for patients whose tumours expressed PD-L1 with a CPS ≥ 1 in KEYNOTE-826 at the final analysis with a median duration of follow-up of 21.3 months. The Kaplan-Meier curves for OS and PFS based on the final analysis are shown in Figures 54 and 55.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 51: Efficacy results in KEYNOTE-826 for patients with PDL1 expression (CPS ≥ 1)
+Table 52: Efficacy results in KEYNOTE-826 for patients with PDL1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks plus Chemotherapy * with or without bevacizumab n=273   | Placebo plus Chemotherapy * with or without bevacizumab n=275   |
 |----------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -7071,7 +7262,7 @@ Table 51: Efficacy results in KEYNOTE-826 for patients with PDL1 expression (CPS
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 52: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression ( CPS ≥ 1)
+Figure 54: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression ( CPS ≥ 1)
 
 <!-- image -->
 
@@ -7151,7 +7342,7 @@ Chemotherapy*
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 53: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression ( CPS ≥ 1)
+Figure 55: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE-826 patients with PD-L1 expression ( CPS ≥ 1)
 
 <!-- image -->
 
@@ -7172,7 +7363,7 @@ Randomisation was stratified by PD-L1 expression (CPS ≥ 1 or &lt; 1), chemothe
 
 <div style=\"page-break-after: always\"></div>
 
-- Placebo, trastuzumab 8 mg/kg on first infusion and 6 mg/kg in subsequent cycles, followed by investigator's choice of  combination chemot herapy of cisplatin 80 mg/m 2 for up to 6 cycles and 5-FU 800 mg/m 2 /day for 5 days (FP) or oxaliplatin 130 mg/m 2 up to 6-8 cycles and capecitabine 1 000 mg/m 2 bid f or 14 days (CAPOX). Placebo was administered prior to trastuzumab and chemotherapy on Day 1 of each cycle.
+- Placebo, trastuzumab 8 mg/kg on first infusion and 6 mg/kg in subsequent cycles, f ollowed by investigator's choice of  combination chemotherapy of  cisplatin 80 mg/m 2 for up to 6 cycles and 5-FU 800 mg/m 2 /day for 5 days (FP) or oxaliplatin 130 mg/m 2 up to 6-8 cycles and capecitabine 1 000 mg/m 2 bid f or 14 days (CAPOX). Placebo was administered prior to trastuzumab and chemotherapy on Day 1 of each cycle.
 
 Treatment with pembrolizumab, trastuzumab and chemotherapy or placebo, trastuzumab and chemotherapy continued until RECIST v1.1-defined progression of disease as determined by BICR, unacceptable toxicity, or a maximum of 24 months. Assessment of tumour status was performed every 6 weeks.
 
@@ -7180,11 +7371,11 @@ Among the 698 patients randomised in KEYNOTE-811, 594 (85%) had tumours that exp
 
 The primary efficacy outcome measures were PFS based on BICR using RECIST 1.1, and OS. Secondary efficacy outcome measures included ORR and DoR based on BICR using RECIST 1.1. At the second interim analysis in the overall population, the study demonstrated a statistically signif icant improvement in PFS (HR 0.72; 95% CI 0.60, 0.87; p-Value 0.0002) for patients randomised to the pembrolizumab arm in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy. At this interim analysis, there was no statistically signif icant dif f erence with respect to OS. The median f ollow-up time was 15.4 months (range: 0.3 to 41.6 months). At the f irst interim analysis conducted on the first 264 patients randomised in the overall population (133 patients in the pembrolizumab arm and 131 in the placebo arm), a statistically signif icant improvement was observed in ORR (74.4% vs. 51.9%, representing a 22.7% difference in ORR, [95%CI: 11.2, 33.7]; p-Value 0.00006).
 
-Table 52 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 54 and 55 show the Kaplan-Meier curves for PFS and OS.
+Table 53 summarises key efficacy results at the second interim analysis for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 56 and 57 show the Kaplan-Meier curves for PFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 52: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
+Table 53: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab Trastuzumab and Chemotherapy n=298   | Placebo Trastuzumab and Chemotherapy n=296   |
 |----------------------------------|----------------------------------------------------|----------------------------------------------|
@@ -7210,7 +7401,7 @@ Table 52: Efficacy results for KEYNOTE-811 for patients with PD-L1 expression (C
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 54: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 56: Kaplan-Meier curve for progression free survival by treatment arm in KEYNOTE811 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -7218,7 +7409,7 @@ Figure 54: Kaplan-Meier curve for progression free survival by treatment arm in 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 55: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
+Figure 57: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-811 patients with PD-L1 expression (CPS ≥ 1)
 
 42
 
@@ -7246,11 +7437,11 @@ Among the 1 579 patients in KEYNOTE-859, 1 235 (78%) had tumours that expressed 
 
 The primary efficacy outcome measure was OS. Additional secondary efficacy outcome measures included PFS, ORR, and DOR as assessed by BICR using RECIST 1.1.
 
-The study demonstrated a statistically signif icant improvement in OS (HR 0.78; 95% CI 0.70, 0.87; pValue &lt; 0.0001), PFS (HR 0.76; 95% CI 0.67, 0.85; p-Value &lt; 0.0001) and ORR (51% [95% CI 47.7, 54.8] vs 42% [95% CI 38.5, 45.5]; p-Value 0.00009) in patients randomised to pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy in the overall population. The median follow-up time was 12 months (range: 0.1 to 45.9 months). Table 53 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 56 and 57 show the Kaplan-Meier curves for OS and PFS.
+The study demonstrated a statistically signif icant improvement in OS (HR 0.78; 95% CI 0.70, 0.87; pValue &lt; 0.0001), PFS (HR 0.76; 95% CI 0.67, 0.85; p-Value &lt; 0.0001) and ORR (51% [95% CI 47.7, 54.8] vs. 42% [95% CI 38.5, 45.5]; p-Value 0.00009) in patients randomised to pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy in the overall population. The median follow-up time was 12 months (range: 0.1 to 45.9 months). Table 54 summarises key efficacy results for the pre-specified subgroup of patients whose tumours expressed PD-L1 with a CPS ≥ 1 and Figures 58 and 59 show the Kaplan-Meier curves for OS and PFS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 53: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CPS ≥ 1)
+Table 54: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab Fluoropyrimidine and Platinum Chemotherapy n=618   | Placebo Fluoropyrimidine and Platinum Chemotherapy n=617   |
 |----------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
@@ -7275,7 +7466,7 @@ Table 53: Efficacy results in KEYNOTE-859 for patients with PD-L1 expression (CP
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 56: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 58: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -7283,7 +7474,7 @@ Figure 56: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-8
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 57: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
+Figure 59: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-859 patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -7291,9 +7482,9 @@ Figure 57: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 50
 
-An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to &lt; 10 or CPS ≥ 10 in both arms (see Table 54).
+An analysis was performed in KEYNOTE-859 in patients whose tumours expressed PD-L1 with a CPS ≥ 1 to &lt; 10 or CPS ≥ 10 in both arms (see Table 55).
 
-Table 54: Efficacy results by PD-L1 expression in KEYNOTE-859
+Table 55: Efficacy results by PD-L1 expression in KEYNOTE-859
 
 | Endpoint        | Pembrolizumab combination therapy n=337   | Chemotherapy n=345   | Pembrolizumab combination therapy n=279   | Chemotherapy n=272   |
 |-----------------|-------------------------------------------|----------------------|-------------------------------------------|----------------------|
@@ -7312,18 +7503,18 @@ The efficacy of pembrolizumab in combination with gemcitabine and cisplatin was 
 
 Patients were randomised (1:1) to one of the two treatment groups:
 
-- Pembrolizumab 200 mg on Day 1 plus gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks
-- Placebo on Day 1 plus gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks
+- Pembrolizumab 200 mg on Day 1 plus gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks.
+- Placebo on Day 1 plus gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 on Day 1 and Day 8 every 3 weeks.
 
 All study medications were administered via intravenous infusion. Treatment was continued until unacceptable toxicity or disease progression. For pembrolizumab, treatment was continued for a maximum of 35 cycles, or approximately 24 months. For cisplatin, treatment could be administered for a maximum of 8 cycles and for gemcitabine, treatment could be continued beyond 8 cycles. Assessment of tumour status was performed at baseline and then every 6 weeks through 54 weeks followed by every 12 weeks thereafter.
 
 The study population characteristics were median age of 64 years (range: 23 to 85), 47% age 65 or older; 52% male; 49% White, 46% Asian; 46% ECOG PS of 0 and 54% ECOG PS of 1; 31% of patients had a history of hepatitis B infection, and 3% had a history of hepatitis C infection.
 
-The primary efficacy outcome measure was OS and the secondary efficacy measures were PFS, ORR and DOR as assessed by BICR using RECIST 1.1. The study demonstrated a statistically significant improvement in OS at final analysis for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy. Table 55 summarises key efficacy measures and Figures 58 and 59 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
+The primary efficacy outcome measure was OS and the secondary efficacy measures were PFS, ORR and DOR as assessed by BICR using RECIST 1.1. The study demonstrated a statistically significant improvement in OS at final analysis for patients randomised to pembrolizumab in combination with chemotherapy compared to placebo in combination with chemotherapy. Table 56 summarises key efficacy measures and Figures 60 and 61 show the Kaplan-Meier curves for PFS and OS based on the final analysis with a median follow-up time of 11.6 months (range: 0.2 to 37.5 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 55: Efficacy results in KEYNOTE-966
+Table 56: Efficacy results in KEYNOTE-966
 
 | Endpoint                         | Pembrolizumab 200 mgevery 3 weeks with gemcitabine/cisplatin n=533   | Placebo with gemcitabine/cisplatin n=536   |
 |----------------------------------|----------------------------------------------------------------------|--------------------------------------------|
@@ -7347,14 +7538,13 @@ Table 55: Efficacy results in KEYNOTE-966
 | %with duration≥ 6 months ¶       | 65%                                                                  | 55%                                        |
 | %with duration≥ 12 months ¶      | 38%                                                                  | 27%                                        |
 
-- α One-sided p-Value based on the stratified Miettinen and Nurminen method. The ORR result did not meet the pre-specified one-sided signif icance level of 0.0125
 - § Based on patients with objective response that is confirmed complete response or partial response
 
 ¶ Based on Kaplan-Meier estimate
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 58: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
+Figure 60: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-966 (intent to treat population)
 
 <!-- image -->
 
@@ -7372,7 +7562,7 @@ Placebo + Chemotherapy
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 59: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE966 (intent to treat population)
+Figure 61: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE966 (intent to treat population)
 
 <!-- image -->
 
@@ -7459,11 +7649,11 @@ Among the 643 patients in KEYNOTE-B96, 466 (72%) had tumours that expressed PD-L
 
 The primary efficacy outcome measure was PFS as assessed by investigator according to RECIST v1.1. The secondary efficacy outcome measure was OS. At the first pre-specified interim analysis, the study demonstrated statistically significant improvement in PFS f or patients randomised to pembrolizumab in combination with paclitaxel with or without bevacizumab compared to placebo in combination with paclitaxel with or without bevacizumab in the overall population (HR = 0.70 [95% CI: 0.58, 0.84; p-Value &lt; 0.0001]; median follow-up time of 11.8 months [range: 0.1 to 27.0 months]) and in patients whose tumours expressed PD-L1 CPS ≥ 1. The study demonstrated statistically signif icant improvement in OS for patients randomised to pembrolizumab in combination with chemotherapy with or without bevacizumab compared to placebo in combination with chemotherapy with or without bevacizumab whose tumours expressed PD-L1 CPS ≥ 1 at the second pre-specified interim analysis and in the overall population (HR = 0.82 [95% CI: 0.69, 0.97; p-Value 0.0115]) at the final analysis with median follow-up time of 15.6 months (range: 0.1 to 44.1 months).
 
-Table 56 summarises the efficacy results in patients whose tumours expressed PD-L1 with a CPS ≥ 1 and the Figures 60 and 61 show the Kaplan-Meier curves for PFS and OS.
+Table 57 summarises the efficacy results in patients whose tumours expressed PD-L1 with a CPS ≥ 1 and the Figures 62 and 63 show the Kaplan-Meier curves for PFS and OS.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 56: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Table 57: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 | Endpoint                         | Pembrolizumab 400 mgevery 6 weeks plus paclitaxel with or without bevacizumab n=234   | Placebo plus paclitaxel with or without bevacizumab n=232   |
 |----------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -7480,7 +7670,7 @@ Table 56: Efficacy results in KEYNOTE-B96 for patients with PD-L1 expression (CP
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 60: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 62: Kaplan-Meier curve for progression-free survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 100
 
@@ -7490,7 +7680,7 @@ Figure 60: Kaplan-Meier curve for progression-free survival by treatment arm in 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 61: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
+Figure 63: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-B96 for patients with PD-L1 expression (CPS ≥ 1)
 
 42
 
@@ -7506,19 +7696,21 @@ No overall dif f erences in  saf ety were observed in patients ≥ 75 years of a
 
 ## Subcutaneous formulation
 
-No dedicated studies of pembrolizumab solution for injection have been conducted in paediatric patients.
+The efficacy of pembrolizumab solution for injection for the treatment of melanoma and cHL in adolescents aged 12 years and older who weigh greater than 40 kg is extrapolated f rom studies of intravenous pembrolizumab in adults. In addition, pharmacokinetic modeling and simulation analyses showed similar pembrolizumab exposures in adolescents aged 12 years and older who weigh greater than 40 kg compared to adults suggesting similar eff icacy to adult patients (see section 5.2).
 
 ## Intravenous formulation
 
-In KEYNOTE-051, 161 paediatric patients (62 children aged 9 months to less than 12 years and 99 adolescents aged 12 years to 17 years) with advanced melanoma or PD-L1 positive advanced, relapsed, or refractory solid tumours or lymphoma were administered intravenous pembrolizumab 2 mg/kg bw every 3 weeks. All patients received pembrolizumab for a median of 4 doses (range: 1-35 doses), with 138 patients (85.7%) receiving pembrolizumab for 2 doses or more. Participants were enrolled across 28 tumour types by primary diagnosis. The most common tumour types by histology were Hodgkin lymphoma (13.7%), glioblastoma multiforme (9.3%), neuroblastoma (6.2%), osteosarcoma (6.2%) and melanoma (5.6%). Of the 161 patients, 137 were enrolled with solid tumours, 22 with Hodgkin lymphoma, and 2 with other lymphomas. In patients with solid tumours and other lymphomas, the ORR was 5.8%, no patient had a complete response and 8 patients (5.8%) had a partial response. In the Hodgkin lymphoma population (n=22), in patients aged 11 years to 17 years, the baseline characteristics were median age 15 years; 64% male; 68% White; 77% had a Lansky/Karnofsky scale 90-100 and 23% had scale 70-80. Eighty-six percent had two or more prior lines of therapy and 64% had Stage 3 or higher. In these paediatric patients with cHL, the ORR assessed by BICR according to the IWG 2007 criteria was 54.5%, 1 patient (4.5%) had a complete response and 11 patients (50.0%) had a partial response, and the ORR assessed by the Lugano 2014 criteria was 63.6%, 4 patients (18.2%) had a complete response and 10 patients (45.5%) had a partial response. Data from clinical studies in adolescent melanoma patients is very limited and extrapolation from adult data has been used to establish ef ficacy. Among the 5 adolescent participants with advanced melanoma treated in KEYNOTE-051, no patient had a complete or a partial response, and 1 patient had stable disease.
+In KEYNOTE-051, 161 paediatric patients (62 children aged 9 months to less than 12 years and 99 adolescents aged 12 years to 17 years) with advanced melanoma or PD-L1 positive advanced, relapsed, or refractory solid tumours or lymphoma were administered intravenous pembrolizumab 2 mg/kg bw every 3 weeks. All patients received pembrolizumab for a median of 4 doses (range:
 
 <div style=\"page-break-after: always\"></div>
+
+1-35 doses), with 138 patients (85.7%) receiving pembrolizumab for 2 doses or more. Participants were enrolled across 28 tumour types by primary diagnosis. The most common tumour types by histology were Hodgkin lymphoma (13.7%), glioblastoma multiforme (9.3%), neuroblastoma (6.2%), osteosarcoma (6.2%) and melanoma (5.6%). Of the 161 patients, 137 were enrolled with solid tumours, 22 with Hodgkin lymphoma, and 2 with other lymphomas. In patients with solid tumours and other lymphomas, the ORR was 5.8%, no patient had a complete response and 8 patients (5.8%) had a partial response. In the Hodgkin lymphoma population (n=22), in patients aged 11 years to 17 years, the baseline characteristics were median age 15 years; 64% male; 68% White; 77% had a Lansky/Karnofsky scale 90-100 and 23% had scale 70-80. Eighty-six percent had two or more prior lines of therapy and 64% had Stage 3 or higher. In these paediatric patients with cHL, the ORR assessed by BICR according to the IWG 2007 criteria was 54.5%, 1 patient (4.5%) had a complete response and 11 patients (50.0%) had a partial response, and the ORR assessed by the Lugano 2014 criteria was 63.6%, 4 patients (18.2%) had a complete response and 10 patients (45.5%) had a partial response. Data from clinical studies in adolescent melanoma patients is very limited and extrapolation from adult data has been used to establish ef ficacy. Among the 5 adolescent participants with advanced melanoma treated in KEYNOTE-051, no patient had a complete or a partial response, and 1 patient had stable disease.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of Hodgkin lymphoma (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of pembrolizumab was studied in patients with various tumour types who received subcutaneous pembrolizumab (395 mg every 3 weeks or 790 mg every 6 weeks) or intravenous pembrolizumab (400 mg every 6 weeks) as monotherapy or in combination therapy. There are no clinically meaningf ul diff erences in pharmacokinetics of  pembrolizumab across indications and across route of administration.
+The pharmacokinetics of pembrolizumab was studied in patients with various tumour types who received subcutaneous pembrolizumab (395 mg every 3 weeks or 790 mg every 6 weeks) or intravenous pembrolizumab (400 mg every 6 weeks) as monotherapy or in combination therapy. There are no clinically meaningf ul diff erences in pharmacokinetics of pembrolizumab across indications and across route of administration.
 
 Steady-state concentrations of pembrolizumab were reached by 16 weeks. The systemic accumulation ratio was 1.6-fold f ollowing administration of subcutaneous pembrolizumab 790 mg every 6 weeks and 2.5-fold f ollowing administration of subcutaneous pembrolizumab 395 mg every 3 weeks.
 
@@ -7534,11 +7726,11 @@ Following subcutaneous administration of pembrolizumab, the mean bioavailability
 
 Consistent with a limited extravascular distribution, the volume of distribution of pembrolizumab at steady-state is small (~6.0 L; CV: 20%). As expected for an antibody, pembrolizumab does not bind to plasma proteins in a specif ic manner.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Pembrolizumab is catabolised through non-specific pathways; metabolism does not contribute to its clearance.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -7546,13 +7738,13 @@ Pembrolizumab CL is approximately 23% lower (geometric mean, 195 mL/day [CV%: 40
 
 ## Linearity/non-linearity
 
-Exposure to intravenous pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy. Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold. The median trough concentrations (Ctrough) at steady-state f or intravenous pembrolizumab were approximately 22 mcg/mL at a dose of 2 mg/kg bw every 3 weeks and 29 mcg/mL at a dose of 200 mg every 3 weeks. The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) for intravenous pembrolizumab was 794 mcg·day/mL at a dose of 2 mg/kg bw every 3 weeks and 1 053 mcg · day/mL at a dose of 200 mg every 3 weeks.
+Exposure to intravenous pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy. Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold. The median trough concentrations (Ctrough) at steady-state f or intravenous pembrolizumab were approximately 22 mcg/mL at a dose of 2 mg/kg bw every 3 weeks and 29 mcg/mL at a dose of 200 mg every 3 weeks. The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) for intravenous pembrolizumab was 794 mcg·day/mL at a dose of  2 mg/kg bw every 3 weeks and 1 053 mcg · day/mL at a dose of 200 mg every 3 weeks.
 
-Following intravenous administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Ctrough at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar. There are no notable dif f erences in median Cmax between cHL and other tumour types. Based on available safety data in cHL and other tumour types f or intravenous pembrolizumab, these dif ferences are not clinically meaningful.
+Following intravenous administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Ctrough at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar. There are no notable dif f erences in median Cmax between cHL and other tumour types. Based on available safety data in cHL and other tumour types for intravenous pembrolizumab, these differences are not clinically meaningful.
 
 ## Special populations
 
-The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses. The following factors had no clinically important ef fect on the absorption of pembrolizumab following subcutaneous administration of KEYTRUDA solution for injection: age, sex, body weight (range: 37 to 144 kg), tumour type, race and injection site (thigh or abdomen).
+The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses. The following factors had no clinically important ef fect on the absorption of pembrolizumab following subcutaneous administration of KEYTRUDA solution for injection: age, sex, body weight (range: 37 to 144 kg), tumour type, race and injection site (thigh or abdomen). Pembrolizumab exposures with subcutaneous doses of 395 mg every 3 weeks or 790 mg every 6 weeks in adolescents aged 12 years and older who weigh greater than 40 kg are expected to be an average of 30% higher to those of adult patients at the same dose, however this dif ference is not clinically meaningful.
 
 Based on the intravenous pembrolizumab population PK analysis, the following factors had no clinically important ef f ect on the clearance of pembrolizumab: age (range: 15-94 years), sex, race, mild or moderate renal impairment, mild or moderate hepatic impairment and tumour burden. The relationship between body weight and clearance supports the use of a fixed dose.
 
@@ -7564,13 +7756,13 @@ The effect of renal impairment on the clearance of pembrolizumab was evaluated b
 
 The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild and moderate hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function. No clinically important dif ferences in the clearance of pembrolizumab were found between patients with mild or moderate hepatic impairment and normal hepatic function. Pembrolizumab has not been studied in patients with severe hepatic impairment (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 ## Intravenous formulation
 
 The safety of pembrolizumab was evaluated in a 1-month and a 6-month repeat-dose toxicity study in Cynomolgus monkeys administered intravenous doses of 6, 40 or 200 mg/kg bw once a week in the 1-month study and once every two weeks in the 6-month study, followed by a 4-month treatment-free period. No findings of toxicological significance were observed and the no observed adverse effect level (NOAEL) in both studies was ≥ 200 mg/kg bw, which produced exposure multiples of 19 and 94 times the exposure in humans at doses of 10 and 2 mg/kg bw, respectively. The exposure multiple between the NOAEL and a human dose of 200 mg was 74.
-
-<div style=\"page-break-after: always\"></div>
 
 Animal reproduction studies have not been conducted with pembrolizumab. The PD-1/PD-L1 pathway is thought to be involved in maintaining tolerance to the foetus throughout pregnancy. Blockade of PD-L1 signalling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in f oetal loss.
 
@@ -7578,13 +7770,15 @@ Animal fertility studies have not been conducted with pembrolizumab. In 1 month 
 
 ## Subcutaneous formulation
 
-No human-relevant h azard of recombinant berahyaluronidase alf a alone was identified in rats, rabbits and Cynomolgus monkeys upon repeated subcutaneous administrations. Repeated subcutaneous administrations of pembrolizumab (50 mg/kg) with recombinant berahyaluronidase alfa (574 U/kg) was well-tolerated in a local tolerability study in Cynomolgus monkeys.
+No human-relevant hazard of  recombinant berahyaluronidase alf a alone was identif ied in rats, rabbits and Cynomolgus monkeys upon repeated subcutaneous administrations. Repeated subcutaneous administrations of pembrolizumab (50 mg/kg) with recombinant berahyaluronidase alfa (574 U/kg) was well-tolerated in a local tolerability study in Cynomolgus monkeys.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Recombinant berahyaluronidase alfa L-histidine L-histidine hydrochloride monohydrate L-methionine Sucrose Polysorbate 80 (E433) Water for injections
+Recombinant berahyaluronidase alfa L-histidine L-histidine hydrochloride monohydrate L-methionine Sucrose Polysorbate 80 (E433)
+
+Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -7594,15 +7788,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Unopened vial
 
-3 years.
+3 years
 
 ## Prepared syringe
 
-Once transferred f rom the vial into the syringe, chemical and physical in-use stability has been demonstrated for KEYTRUDA solution for injection for up to 30 days at 2 °C to 8 °C (protected from light) and for up to 24 hours at room temperature (under ambient room light).
+Once transferred from the vial into the syringe, chemical and physical in-use stability has been demonstrated for KEYTRUDA solution for injection for up to 30 days at 2 °C to 8 °C (protected from light) and for up to 24 hours at room temperature (under ambient room light).
 
-From a microbiological point of view, the solution, should be used immediately once transferred from the vial to the syringe. If  not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at room temperature or 24 hours at 2 °C to 8 °C, unless the preparation has taken place in controlled and validated aseptic conditions. The 24-hour period may include up to 8 hours at room temperature (at or below 25 °C). Discard if storage time exceeds these limits. If ref rigerated, the f illed syringe must be allowed to come to room temperature for at least 30 minutes prior to administration. The f illed syringe must not be frozen.
+From a microbiological point of view, the solution, should be used immediately once transferred from the vial to the syringe. If  not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at room temperature or
 
 <div style=\"page-break-after: always\"></div>
+
+24 hours at 2 °C to 8 °C, unless the preparation has taken place in controlled and validated aseptic conditions. The 24-hour period may include up to 8 hours at room temperature (at or below 25 °C). Discard if storage time exceeds these limits. If ref rigerated, the f illed syringe must be allowed to come to room temperature for at least 30 minutes prior to administration. The f illed syringe must not be frozen.
 
 ## 6.4 Special precautions for storage
 
@@ -7659,17 +7855,9 @@ KEYTRUDA solution for injection should be administered by a healthcare professio
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Merck Sharp &amp; Dohme B.V.
-
-Waarderweg 39
-
-2031 BN Haarlem
-
-The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -7684,8 +7872,6 @@ Date of latest renewal: 24 March 2020
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-309
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7894,9 +8080,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL
+| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
+|---------------------------------------------------------------|
+| VIAL                                                          |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------|
@@ -7970,8 +8156,6 @@ Do not shake.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -8003,15 +8187,16 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justif ication f or not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -8021,12 +8206,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
 |---------------------------------------------------------------|
 | VIAL                                                          |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 KEYTRUDA 395 mg injection pembrolizumab 395 mg/2.4 mL Subcutaneous use SC
 
@@ -8227,8 +8415,8 @@ KEYTRUDA contains the active substance pembrolizumab, which is a monoclonal anti
 
 ## KEYTRUDA is used in children and adolescents:
 
+- aged 12 years and older to treat a kind of skin cancer called melanoma
 - aged 3 years and older to treat a kind of cancer called classical Hodgkin lymphoma
-- aged 12 years and older to treat a kind of cancer called melanoma.
 
 People get KEYTRUDA when their cancer has spread or cannot be taken out by surgery.
 
@@ -8236,7 +8424,7 @@ People get KEYTRUDA when their cancer has spread or cannot be taken out by surge
 
 People get KEYTRUDA after they have had surgery to remove melanoma, non-small cell lung cancer or renal cell carcinoma to help prevent their cancer from coming back (adjuvant therapy).
 
-People get KEYTRUDA before surgery (neoadjuvant therapy) to treat non-small cell lung cancer, triple-negative breast cancer, or head and neck squamous cell carcinoma, and then continue getting KEYTRUDA after surgery (adjuvant therapy) to help prevent their cancer from coming back.
+People get KEYTRUDA before surgery (neoadjuvant therapy) to treat non-small cell lung cancer, urothelial carcinoma, triple-negative breast cancer, or head and neck squamous cell carcinoma, and then continue getting KEYTRUDA after surgery (adjuvant therapy) to help prevent their cancer from coming back.
 
 KEYTRUDA may be given in combination with other anti-cancer medicines with or without radiation therapy. It is important that you also read the package leaf lets f or these other medicines. If you have any questions about these medicines, ask your doctor.
 
@@ -8270,10 +8458,10 @@ If you have any of the following conditions, call or see your doctor right away.
 
 - inflammation of the lungs, which may include shortness of breath, chest pain or coughing
 - inflammation of the intestines, which may include diarrhoea or more bowel movements than usual, black, tarry, sticky stools or stools with blood or mucus, severe stomach pain or tenderness, nausea, vomiting
-- inflammation of the liver, which may include nausea or vomiting, feeling less hungry, pain on the right side of stomach, yellowing of skin or whites of eyes, dark urine or bleeding or bruising more easily than normal
 
 <div style=\"page-break-after: always\"></div>
 
+- inflammation of the liver, which may include nausea or vomiting, feeling less hungry, pain on the right side of stomach, yellowing of skin or whites of eyes, dark urine or bleeding or bruising more easily than normal
 - inflammation of the kidneys, which may include changes in the amount or colour of your urine
 - inflammation of hormone glands (especially the thyroid, pituitary and adrenal glands), which may include rapid heartbeat, weight loss, increased sweating, weight gain, hair loss, feeling cold, constipation, deeper voice, muscle aches, dizziness or fainting, headaches that will not go away or unusual headache
 - type 1 diabetes, including diabetic ketoacidosis (acid in the blood produced from diabetes), symptoms may include feeling more hungry or thirsty than usual, need to urinate more often or weight loss, feeling tired or feeling sick, stomach pain, fast and deep breathing, confusion, unusual sleepiness, a sweet smell to your breath, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat
@@ -8308,10 +8496,10 @@ Tell your doctor
 - If you are taking other medicines that make your immune system weak.
 - Examples of these may include corticosteroids, such as prednisone.
 - These medicines may interfere with the effect of KEYTRUDA.
-- However, once you are treated with KEYTRUDA, your doctor may give you corticosteroids to reduce the side-eff ects that you may have with KEYTRUDA.
 
 <div style=\"page-break-after: always\"></div>
 
+- However, once you are treated with KEYTRUDA, your doctor may give you corticosteroids to reduce the side-eff ects that you may have with KEYTRUDA.
 - Corticosteroids may also be given to you before receiving KEYTRUDA in combination with chemotherapy to prevent and/or treat nausea, vomiting, and other side ef fects caused by chemotherapy.
 - If you are taking, have recently taken or might take any other medicines.
 
@@ -8359,9 +8547,9 @@ Stopping your treatment may stop the effect of the medicine. Do not stop treatme
 
 If you have any further questions about your treatment, ask your doctor.
 
-## Patient card
-
 <div style=\"page-break-after: always\"></div>
+
+## Patient card
 
 You will also find this information in the patient card you have been given by your doctor. It is important that you keep this card and show it to your partner or caregivers.
 
@@ -8412,10 +8600,10 @@ When you get KEYTRUDA, you can have some serious side effects. See section 2.
 - decreased secretion of hormones produced by the adrenal glands; inflammation of the pituitary gland situated at the base of the brain; inflammation of the thyroid
 - type 1 diabetes, including diabetic ketoacidosis
 - a condition in which the muscles become weak and tire easily; seizure
-- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
 
 <div style=\"page-break-after: always\"></div>
 
+- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
 - inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); inf lammation of the covering of the heart, which may present as chest pain, shortness of breath or feeling tired (pericarditis); accumulation of f luid around the heart
 - inflammation of the pancreas; inflammation of the stomach; a sore that develops on the inside lining of your stomach or upper part of your small intestine
 - thickened, sometimes scaly, skin growth; small skin bumps, lumps or sores; hair colour changes
@@ -8446,11 +8634,11 @@ When you get KEYTRUDA, you can have some serious side effects. See section 2.
 - inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; headache
 - shortness of breath; cough
 - diarrhoea; nausea; vomiting; stomach pain; constipation
-- hair loss; itching; skin rash
-- joint pain; pain in the muscles and bones
 
 <div style=\"page-break-after: always\"></div>
 
+- hair loss; itching; skin rash
+- joint pain; pain in the muscles and bones
 - feeling tired; unusual tiredness or weakness; fever; swelling
 - increased blood level of the liver enzyme alanine aminotransferase; increased blood level of the liver enzyme aspartate aminotransferase
 
@@ -8493,10 +8681,10 @@ When you get KEYTRUDA, you can have some serious side effects. See section 2.
 
 - inflammation response against platelets
 - an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
-- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
 
 <div style=\"page-break-after: always\"></div>
 
+- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
 - a condition in which the muscles become weak and tire easily; a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome); pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, diff iculty urinating and constipation (myelitis); swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis); seizure; inf lammation of the membrane around the spinal cord and brain, which may present as neck stiffness, headache, fever, eye sensitivity to light, nausea or vomiting (meningitis)
 - lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); a hole in the small intestines; coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
 - inflammation of the bile ducts
@@ -8534,11 +8722,11 @@ When you get KEYTRUDA, you can have some serious side effects. See section 2.
 - inflammation of the lungs
 - inflammation of the intestines; inf lammation of the pancreas; inflammation of the stomach; dry mouth
 - inflammation of the liver
-- red raised rash, sometimes with blisters; inf lammation of the skin; dry skin; acne-like skin problem; hair loss
-- joint pain with swelling
 
 <div style=\"page-break-after: always\"></div>
 
+- red raised rash, sometimes with blisters; inf lammation of the skin; dry skin; acne-like skin problem; hair loss
+- joint pain with swelling
 - inflammation of the kidneys
 - flu-like illness; chills
 - increased levels of amylase, an enzyme that breaks down starch; increased bilirubin in the blood; increased blood levels of a liver enzyme known as alkaline phosphatase; increased calcium in the blood
@@ -8577,9 +8765,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store KEYTRUDA
 
-Unopened vial
-
-Keep this medicine out of the sight and reach of children.
+Unopened vial Keep this medicine out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8603,7 +8789,9 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 The active substance is pembrolizumab.
 
-One vial of 4 mL contains 100 mg of pembrolizumab. Each mL of concentrate contains 25 mg of pembrolizumab.
+One vial of 4 mL contains 100 mg of pembrolizumab.
+
+Each mL of concentrate contains 25 mg of pembrolizumab.
 
 The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, sucrose, polysorbate 80 and water for injections.
 
@@ -8613,607 +8801,13 @@ KEYTRUDA is a clear to slightly opalescent, colourless to slightly yellow soluti
 
 Not all pack sizes may be marketed.
 
-Marketing Authorisation Holder Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+## Marketing Authorisation Holder
+
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 Manufacturer
 
 Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgium
-
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-België/Belgique/Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
-
-Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
-
-<div style=\"page-break-after: always\"></div>
-
-## /Beъл/geа/erи/ia
-
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
-
-## Česká republika
-
-Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
-
-## Danmark
-
-MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
-
-## Deutschland
-
-MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
-
-## Eesti
-
-Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
-
-## Ελλάδα
-
-MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc.greece@msd.com
-
-## España
-
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
-
-## France
-
-MSD France
-
-Tél: +33 (0)1 80 46 40 40
-
-## Hrvatska
-
-Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
-
-## Ireland
-
-Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
-
-## Ísland
-
-Vistor ehf. Sími: +354 535 7000
-
-## Luxembourg/Luxemburg
-
-MSD Belgium Tél/Tel: +32(0)27766211
-
-dpoc\\_belux@msd.com
-
-## Magyarország
-
-MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
-
-## Malta
-
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
-
-## Nederland
-
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
-
-## Norge
-
-MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
-
-## Österreich
-
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
-
-## Polska
-
-MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
-
-## Portugal
-
-Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
-
-## România
-
-Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
-
-## Slovenija
-
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
-
-## Slovenská republika
-
-Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Italia
-
-MSD Italia S.r.l.
-
-Tel: 800 23 99 89 (+39 06 361911)
-
-dpoc.italy@msd.com
-
-## Κύπρος
-
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
-
-## Latvija
-
-SIA Merck Sharp &amp; Dohme Latvija
-
-Tel.: +371 67025300
-
-dpoc.latvia@msd.com
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Suomi/Finland
-
-MSD Finland Oy
-
-Puh/Tel: +358 (0)9 804 650
-
-info@msd.fi
-
-## Sverige
-
-Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
-
-<div style=\"page-break-after: always\"></div>
-
-## The following information is intended for healthcare professionals only:
-
-Preparation and administration of the infusion
-
-- Do not shake the vial.
-- Equilibrate the vial to room temperature (at or below 25 °C).
-- Prior to dilution, the vial of  liquid can be out of ref rigeration (temperatures at or below 25 °C) for up to 24 hours.
-- Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. The concentrate is a clear to slightly opalescent, colourless to slightly yellow solution. Discard the vial if visible particles are observed.
-- Withdraw the required volume up to 4 mL (100 mg) of concentrate and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9%) or glucose 50 mg/mL (5%) to prepare a diluted solution with a f inal concentration ranging from 1 to 10 mg/mL. Each vial contains an excess f ill of  0.25 mL (total content per vial 4.25 mL) to ensure the recovery of 4 mL of concentrate. Mix diluted solution by gentle inversion.
-- Chemical and physical in-use stability has been demonstrated for up to 42 days at 2 °C to 8 °C or at 23 °C to 27 °C. From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 7 days at 2 °C to 8 °C, or 12 hours at room temperature, unless dilution has taken place in controlled and validated aseptic conditions. If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use. Translucent to white proteinaceous particles may be seen in diluted solution. Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on f ilter.
-- Do not co-administer other medicinal products through the same infusion line.
-- KEYTRUDA is for single use only. Discard any unused portion left in the vial.
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## Package leaflet: Information for the patient
-
-<div style=\"page-break-after: always\"></div>
-
-## KEYTRUDA 395 mg solution for injection KEYTRUDA 790 mg solution for injection
-
-pembrolizumab
-
-## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
-
-- Keep this leaflet. You may need to read it again.
-- It is important that you keep the card with you during treatment.
-- If you have any further questions, ask your doctor.
-- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaf let. See section 4.
-
-## What is in this leaflet
-
-1. What KEYTRUDA is and what it is used for
-2. What you need to know before you are given KEYTRUDA
-3. How you are given KEYTRUDA solution for injection
-4. Possible side ef f ects
-5. How to store KEYTRUDA
-6. Contents of the pack and other information
-
-## 1. What KEYTRUDA is and what it is used for
-
-KEYTRUDA contains the active substance pembrolizumab, which is a monoclonal antibody. KEYTRUDA works by helping your immune system fight your cancer.
-
-## KEYTRUDA is used in adults to treat:
-
-- a kind of skin cancer called melanoma
-- a kind of lung cancer called non-small cell lung cancer
-- a kind of cancer called malignant pleural mesothelioma (MPM) that affects the lining of the lungs and chest wall
-- a kind of cancer called classical Hodgkin lymphoma
-- a kind of cancer called bladder cancer (urothelial carcinoma)
-- a kind of head and neck cancer called head and neck squamous cell carcinoma.
-- a kind of kidney cancer called renal cell carcinoma
-- a kind of cancer that is determined to be microsatellite instability-high (MSI-H) or mismatch repair def icient (dMMR) in the colon or rectum (called colorectal cancer), uterus (called endometrial cancer), stomach (called gastric cancer), small bowel (called small intestine cancer), or bile duct or gallbladder (called biliary tract cancer)
-- a kind of cancer called oesophageal carcinoma
-- a kind of breast cancer called triple-negative breast cancer
-- a kind of uterine cancer called endometrial carcinoma
-- a kind of cancer called cervical cancer
-- a kind of stomach cancer called gastric or gastro-oesophageal junction adenocarcinoma
-- a kind of bile duct or gallbladder cancer called biliary tract carcinoma
-- a kind of cancer called ovarian cancer
-
-People get KEYTRUDA when their cancer has spread or cannot be taken out by surgery.
-
-People get KEYTRUDA after they have had surgery to remove melanoma, non-small cell lung cancer or renal cell carcinoma to help prevent their cancer from coming back (adjuvant therapy).
-
-<div style=\"page-break-after: always\"></div>
-
-People get KEYTRUDA before surgery (neoadjuvant therapy) to treat non-small cell lung cancer, triple-negative breast cancer, or head and neck squamous cell carcinoma, and then continue getting KEYTRUDA after surgery (adjuvant therapy) to help prevent their cancer from coming back.
-
-KEYTRUDA may be given in combination with other anti-cancer medicines with or without radiation therapy. It is important that you also read the package leaf lets f or these other medicines. If you have any questions about these medicines, ask your doctor.
-
-## 2. What you need to know before you are given KEYTRUDA
-
-## You should not be given KEYTRUDA:
-
-- if  you are allergic to pembrolizumab or any of the other ingredients of this medicine (listed in section 6 'Contents of  the pack and other inf ormation'). Talk to your doctor if  you are not sure.
-
-## Warnings and precautions
-
-Talk to your doctor or nurse bef ore receiving KEYTRUDA.
-
-Before you get KEYTRUDA, tell your doctor if you:
-
-- have an autoimmune disease (a condition where the body attacks its own cells)
-- have pneumonia or inflammation of your lungs (called pneumonitis)
-- were previously given ipilimumab, another medicine for treating melanoma, and experienced serious side effects because of that medicine
-- had an allergic reaction to other monoclonal antibody therapies
-- have or have had chronic viral infection of the liver, including hepatitis B (HBV) or hepatitis C (HCV)
-- have human immunodeficiency virus (HIV) infection or acquired immune deficiency syndrome (AIDS)
-- have liver damage
-- have kidney damage
-- have had a solid organ transplant or a bone marrow (stem cell) transplant that used donor stem cells (allogeneic)
-
-KEYTRUDA acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side ef f ects may be higher if  you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience f requent flares of your autoimmune disease, which in the majority of cases are mild.
-
-When you get KEYTRUDA, you can have some serious side effects. These side effects can sometimes become life-threatening and can lead to death. These side ef f ects may happen anytime during treatment or even after your treatment has ended. You may experience more than one side effect at the same time.
-
-If you have any of the following conditions, call or see your doctor right away. Your doctor may give you other medicines in order to prevent more severe complications and reduce your symptoms. Your doctor may withhold the next dose of KEYTRUDA or stop your treatment with KEYTRUDA.
-
-- inflammation of the lungs, which may include shortness of breath, chest pain or coughing
-- inflammation of the intestines, which may include diarrhoea or more bowel movements than usual, black, tarry, sticky stools or stools with blood or mucus, severe stomach pain or tenderness, nausea, vomiting
-- inflammation of the liver, which may include nausea or vomiting, feeling less hungry, pain on the right side of stomach, yellowing of skin or whites of eyes, dark urine or bleeding or bruising more easily than normal
-- inflammation of the kidneys, which may include changes in the amount or colour of your urine
-- inflammation of hormone glands (especially the thyroid, pituitary and adrenal glands), which may include rapid heartbeat, weight loss, increased sweating, weight gain, hair loss, feeling
-
-<div style=\"page-break-after: always\"></div>
-
-cold, constipation, deeper voice, muscle aches, dizziness or fainting, headaches that will not go away or unusual headache
-
-- type 1 diabetes, including diabetic ketoacidosis (acid in the blood produced from diabetes), symptoms may include feeling more hungry or thirsty than usual, need to urinate more often or weight loss, feeling tired or feeling sick, stomach pain, fast and deep breathing, confusion, unusual sleepiness, a sweet smell to your breath, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat
-- inflammation of the eyes, which may include changes in eyesight
-- inflammation in the muscles, which may include muscle pain or weakness
-- inflammation of the heart muscle, which may include shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis)
-- inflammation of the pancreas, which may include abdominal pain, nausea and vomiting
-- inflammation of the skin, which may include rash, itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area
-- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
-- inflammation of the brain, which may include confusion, fever, memory problems or seizures (encephalitis)
-- pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, diff iculty urinating and constipation (myelitis)
-- inflammation and scarring of the bile ducts, which may include pain in the upper right part of the stomach, swelling of the liver or spleen, fatigue, itching, or yellowing of the skin or the whites of eyes (cholangitis sclerosing)
-- inflammation of the stomach (gastritis)
-- decreased function of the parathyroid gland, which may include muscle cramps or spasms, fatigue and weakness (hypoparathyroidism)
-- inflammation of the covering of the heart, which may include chest pain, shortness of breath or feeling tired (pericarditis)
-- a condition in which some or all of the f ollowing happen together: muscle pain or weakness, changes in eyesight, feeling tired, shortness of breath, chest pain, or irregular heartbeat (myocarditis-myositis-myasthenia gravis overlap syndrome)
-- infusion reactions, which may include shortness of breath, itching or rash, dizziness or fever
-
-Complications, including graft-versus-host-disease (GVHD), in people with bone marrow (stem cell) transplant that uses donor stem cells (allogeneic). These complications can be severe and can lead to death. They may occur if you had this kind of transplant in the past or if you get it in the future. Your doctor will monitor you for signs and symptoms, which may include skin rash, liver inflammation, abdominal pain, or diarrhoea.
-
-## Children and adolescents
-
-Do not give KEYTRUDA solution for injection to children under 18 years of age. Other forms of this medicine may be more suitable for children; ask your doctor or pharmacist.
-
-## Other medicines and KEYTRUDA
-
-Tell your doctor
-
-- If you are taking other medicines that make your immune system weak.
-- Examples of these may include corticosteroids, such as prednisone.
-- These medicines may interfere with the effect of KEYTRUDA.
-- However, once you are treated with KEYTRUDA, your doctor may give you corticosteroids to reduce the side-eff ects that you may have with KEYTRUDA.
-- Corticosteroids may also be given to you before receiving KEYTRUDA in combination with chemotherapy to prevent and/or treat nausea, vomiting, and other side ef fects caused by chemotherapy.
-- If you are taking, have recently taken or might take any other medicines.
-
-<div style=\"page-break-after: always\"></div>
-
-## Pregnancy
-
-- You must not use KEYTRUDA if you are pregnant unless your doctor specifically recommends it.
-- If you are pregnant, think you may be pregnant or are planning to have a baby, tell your doctor.
-- KEYTRUDA can cause harm or death to your unborn baby.
-- If you are a woman who could become pregnant, you must use adequate birth control while you are being treated with KEYTRUDA and for at least 4 months after your last dose.
-
-## Breast-feeding
-
-- If you are breast-feeding, tell your doctor.
-- Do not breast-feed while taking KEYTRUDA.
-- It is not known if  KEYTRUDA passes into your breast milk.
-
-## Driving and using machines
-
-KEYTRUDA has a minor effect on your ability to drive or use machines. Feeling dizzy, tired or weak are possible side ef f ects of  KEYTRUDA. Do not drive or use machines after you have been given KEYTRUDA unless you are sure you are feeling well.
-
-## KEYTRUDA solution for injection contains polysorbate 80
-
-This medicinal product contains 0.2 mg of polysorbate 80 in each mL of solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## KEYTRUDA solution for injection contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
-
-## 3. How you are given KEYTRUDA solution for injection
-
-You will be given KEYTRUDA under the care of a doctor experienced in cancer treatment.
-
-- The recommended dose of KEYTRUDA in adults is either
-- 395 mg every 3 weeks or
-- 790 mg every 6 weeks.
-- Your doctor will give you KEYTRUDA as an injection under the skin (subcutaneous) in the stomach area (abdomen) or thigh. This takes 1-2 minutes.
-- Your doctor or nurse will inject where the skin is not damaged, sore, bruised, scarred, scaly, or has red patches and will select a new site for each injection.
-- Your doctor may switch the way your treatment is given, from KEYTRUDA given as an injection under your skin to KEYTRUDA given as an infusion into your vein.
-- Your doctor will decide how many treatments you need.
-
-## If you miss an appointment to get KEYTRUDA
-
-- Call your doctor right away to reschedule your appointment.
-- It is very important that you do not miss a dose of this medicine.
-
-## If you stop receiving KEYTRUDA
-
-Stopping your treatment may stop the effect of the medicine. Do not stop treatment with KEYTRUDA unless you have discussed this with your doctor.
-
-If you have any further questions about your treatment, ask your doctor.
-
-## Patient card
-
-You will also find this information in the patient card you have been given by your doctor. It is important that you keep this card and show it to your partner or caregivers.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-When you get KEYTRUDA, you can have some serious side effects. See section 2.
-
-Local reactions at the injection site have been reported when KEYTRUDA is given as an injection under the skin. The frequency of local reactions at the injection site is common (may af fect up to 1 in 10 people).
-
-The side effects observed with KEYTRUDA given as an infusion into your vein may be experienced with KEYTRUDA given as an injection under the skin.
-
-## The following side effects have been reported with KEYTRUDA given as an infusion into your vein alone:
-
-## Very common (may affect more than 1 in 10 people)
-
-- decrease in the number of red blood cells
-- reduced thyroid gland activity
-- feeling less hungry
-- headache
-- shortness of breath; cough
-- diarrhoea; stomach pain; nausea; vomiting; constipation
-- itching; skin rash
-- pain in muscle and bones; joint pain
-- feeling tired; unusual tiredness or weakness; swelling; f ever
-
-## Common (may affect up to 1 in 10 people)
-
-- lung infection
-- decrease in the number of platelets (bruising or bleeding more easily); decrease in the number of white blood cell (neutrophils; lymphocytes)
-- reactions related to the administration of the medicine
-- overactive thyroid gland; hot f lush
-- decreased sodium, potassium, or calcium in the blood
-- trouble sleeping
-- dizziness; inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; lack of energy; change in your sense of taste
-- dry eye
-- abnormal heart rhythm
-- high blood pressure
-- inflammation of the lungs
-- inflammation of the intestines; dry mouth
-- inflammation of the liver
-- red raised rash sometimes with blisters; inf lammation of the skin; patches of skin which have lost colour; dry, itchy skin; hair loss; acne-like skin problem
-- muscle pain, aches or tenderness; pain in arms or legs; joint pain with swelling
-- flu-like illness; chills
-- increased liver enzyme levels in the blood; increased calcium in the blood; abnormal kidney function test
-
-## Uncommon (may affect up to 1 in 100 people)
-
-- a decreased number of white blood cells (leukocytes); inflammation response against platelets; an increased number of white blood cells (eosinophils)
-- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
-
-<div style=\"page-break-after: always\"></div>
-
-- decreased secretion of hormones produced by the adrenal glands; inflammation of the pituitary gland situated at the base of the brain; inflammation of the thyroid
-- type 1 diabetes, including diabetic ketoacidosis
-- a condition in which the muscles become weak and tire easily; seizure
-- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
-- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); inf lammation of the covering of the heart, which may present as chest pain, shortness of breath or feeling tired (pericarditis); accumulation of f luid around the heart
-- inflammation of the pancreas; inflammation of the stomach; a sore that develops on the inside lining of your stomach or upper part of your small intestine
-- thickened, sometimes scaly, skin growth; small skin bumps, lumps or sores; hair colour changes
-- inflammation of the sheath that surrounds tendons
-- inflammation of the kidneys
-- increased level of amylase, an enzyme that breaks down starch
-
-## Rare (may affect up to 1 in 1 000 people)
-
-- inflammation response against red blood cells; a condition called haemophagocytic lymphohistiocytosis, where the immune system makes too many infection fighting cells called histiocytes and lymphocytes that may cause various symptoms; feeling weak, lightheaded, short of breath or if  your skin looks pale (signs of low level of red blood cells, possibly due to a type of anaemia called pure red cell aplasia)
-- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
-- a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome); inflammation of the brain, which may present as confusion, fever, memory problems or seizures (encephalitis); pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, dif ficulty urinating and constipation (myelitis); swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis); inf lammation of the membrane around the spinal cord and brain, which may present as neck stif fness, headache, f ever, eye sensitivity to light, nausea or vomiting (meningitis)
-- inflammation of the blood vessels
-- lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); a hole in the small intestines; coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
-- inflammation of the bile ducts
-- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (Stevens-Johnson syndrome or toxic epidermal necrolysis); tender red bumps under the skin
-- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
-- inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
-
-The following side effects have been reported in clinical studies with KEYTRUDA given as an infusion into your vein in combination with chemotherapy, radiation therapy or chemotherapy with radiation therapy:
-
-## Very common (may affect more than 1 in 10 people)
-
-- decrease in the number of red blood cells; decreased number of white blood cells (neutrophils); decrease in the number of platelets (bruising or bleeding more easily)
-- reduced thyroid gland activity
-- decreased potassium in the blood; feeling less hungry
-
-<div style=\"page-break-after: always\"></div>
-
-- trouble sleeping
-- inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; headache
-- shortness of breath; cough
-- diarrhoea; nausea; vomiting; stomach pain; constipation
-- hair loss; itching; skin rash
-- joint pain; pain in the muscles and bones
-- feeling tired; unusual tiredness or weakness; fever; swelling
-- increased blood level of the liver enzyme alanine aminotransferase; increased blood level of the liver enzyme aspartate aminotransferase
-
-## Common (may affect up to 1 in 10 people)
-
-- lung infection
-- decreased number of white blood cells (neutrophils) with a fever; decreased number of white blood cells (leukocytes, lymphocytes)
-- reaction related to the administration of the medicine
-- decreased secretion of hormones produced by the adrenal glands; overactive thyroid gland; inflammation of the thyroid
-- decreased sodium or calcium in the blood
-- dizziness; change in your sense of taste
-- dry eye
-- abnormal heart rhythm
-- high blood pressure
-- inflammation of the lungs
-- inflammation of the intestines; inf lammation of the stomach; dry mouth
-- inflammation of the liver
-- red raised rash, sometimes with blisters; inf lammation of the skin; acne-like skin problem; dry, itchy skin
-- muscle pain, aches or tenderness; pain in arms or legs; joint pain with swelling
-- sudden kidney damage
-- flu-like illness; chills
-- increased bilirubin in the blood; increased blood level of the liver enzyme alkaline phosphatase; abnormal kidney function test; increased calcium in the blood
-
-## Uncommon (may affect up to 1 in 100 people)
-
-- inflammation response against red blood cells; an increased number of white blood cells (eosinophils)
-- inflammation of the pituitary gland situated at the base of the brain
-- type 1 diabetes, including diabetic ketoacidosis
-- inflammation of the brain, which may present as conf usion, fever, memory problems or seizures (encephalitis); lack of energy
-- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
-- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); inf lammation of the covering of the heart, which may present as chest pain, shortness of breath or feeling tired (pericarditis); accumulation of f luid around the heart
-- inflammation of the blood vessels
-- inflammation of the pancreas; a sore that develops on the inside lining of your stomach or upper part of your small intestine
-- thickened, sometimes scaly, skin growth; patches of skin which have lost colour; small skin bumps, lumps or sores
-- inflammation of the sheath that surrounds tendons
-- inflammation of the kidneys; inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
-
-<div style=\"page-break-after: always\"></div>
-
-- increased level of amylase, an enzyme that breaks down starch
-
-## Rare (may affect up to 1 in 1 000 people)
-
-- inflammation response against platelets
-- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
-- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
-- a condition in which the muscles become weak and tire easily; a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome); pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, diff iculty urinating and constipation (myelitis); swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis); seizure; inf lammation of the membrane around the spinal cord and brain, which may present as neck stiffness, headache, fever, eye sensitivity to light, nausea or vomiting (meningitis)
-- lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); a hole in the small intestines; coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
-- inflammation of the bile ducts
-- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (Stevens-Johnson syndrome); tender red bumps under the skin; hair colour changes
-- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
-
-## The following side effects have been reported in clinical studies with KEYTRUDA given as an infusion into your vein in combination with axitinib or lenvatinib:
-
-## Very common (may affect more than 1 in 10 people)
-
-- urinary infections (increased frequency in urination and pain in passing urine)
-- decrease in the number of red blood cells
-- reduced thyroid gland activity
-- feeling less hungry
-- headache; change in your sense of taste
-- high blood pressure
-- shortness of breath; cough
-- diarrhoea; stomach pain; nausea; vomiting; constipation
-- skin rash; itching
-- joint pain; pain in the muscles and bones; muscle pain, aches or tenderness; pain in arms or legs
-- feeling tired; unusual tiredness or weakness; swelling; f ever
-- increased levels of lipase, an enzyme that breaks down fats; increased liver enzyme levels in the blood; abnormal kidney function test
-
-## Common (may affect up to 1 in 10 people)
-
-- lung infection
-- decreased number of white blood cells (neutrophils, lymphocytes, leukocytes); decrease in the number of platelets (bruising or bleeding more easily)
-- reaction related to the administration of the medicine
-- decreased secretion of hormones produced by the adrenal glands; overactive thyroid gland; inflammation of the thyroid
-- decreased sodium, potassium, or calcium in the blood
-- trouble sleeping
-- dizziness; inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; lack of energy
-- dry eye
-- abnormal heart rhythm
-
-<div style=\"page-break-after: always\"></div>
-
-- inflammation of the lungs
-- inflammation of the intestines; inf lammation of the pancreas; inflammation of the stomach; dry mouth
-- inflammation of the liver
-- red raised rash, sometimes with blisters; inf lammation of the skin; dry skin; acne-like skin problem; hair loss
-- joint pain with swelling
-- inflammation of the kidneys
-- flu-like illness; chills
-- increased levels of amylase, an enzyme that breaks down starch; increased bilirubin in the blood; increased blood levels of a liver enzyme known as alkaline phosphatase; increased calcium in the blood
-
-## Uncommon (may affect up to 1 in 100 people)
-
-- an increased number of white blood cells (eosinophils)
-- inflammation of the pituitary gland situated at the base of the brain
-- type 1 diabetes, including diabetic ketoacidosis
-- a condition in which the muscles become weak and tire easily; inflammation of the brain, which may present as conf usion, f ever, memory problems or seizures (encephalitis)
-- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
-- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); accumulation of f luid around the heart
-- inflammation of the blood vessels
-- a sore that develops on the inside lining of your stomach or upper part of your small intestine
-- dry, itchy skin; thickened, sometimes scaly, skin growth; patches of skin which have lost colour; small skin bumps, lumps or sores; hair colour changes
-- inflammation of the sheath that surrounds tendons
-
-## Rare (may affect up to 1 in 1 000 people)
-
-- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
-- swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis)
-- a hole in the small intestines
-- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (toxic epidermal necrolysis or Stevens-Johnson syndrome)
-- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
-- inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
-
-## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
-
-- -lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
-
-Rash is more common when KEYTRUDA is given in combination with enfortumab vedotin than when KEYTRUDA is given alone.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor. This includes any possible side ef fects not listed in this leaflet. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side ef fects you can help provide more inf ormation on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
-
-## 5. How to store KEYTRUDA
-
-## Unopened vial
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the carton and vial label af ter EXP. The expiry date refers to the last day of that month.
-
-## Store in a refrigerator (2 °C -8 °C).
-
-## Do not freeze.
-
-Store in the original carton in order to protect f rom light.
-
-## Prepared syringe
-
-Once transferred from the vial into the syringe, chemical and physical in-use stability has been demonstrated for KEYTRUDA solution for injection for up to 30 days at 2 °C to 8 °C (protected from light) and for up to 24 hours at room temperature (under ambient room light). From a microbiological point of view, the solution, should be used immediately once transferred from the vial to the syringe. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at room temperature or 24 hours at 2 °C to 8 °C, unless the preparation has taken place in controlled and validated aseptic conditions. The 24-hour period may include up to 8 hours at room temperature (at or below 25 °C). Discard if storage time exceeds these limits. If  ref rigerated, the f illed syringe must be allowed to come to room temperature f or at least 30 minutes prior to administration. The filled syringe must not be frozen.
-
-Do not store any unused portion of the solution for injection for reuse. Any unused medicine or waste material should be disposed of in accordance with local requirements.
-
-## 6. Contents of the pack and other information
-
-## What KEYTRUDA contains
-
-The active substance is pembrolizumab.
-
-One vial of 2.4 mL solution for injection contains 395 mg of pembrolizumab. One vial of 4.8 mL solution for injection contains 790 mg of pembrolizumab.
-
-Each mL of solution for injection contains 165 mg of pembrolizumab.
-
-The other ingredients are recombinant berahyaluronidase alfa, L-histidine, L-histidine hydrochloride monohydrate, L-methionine, sucrose, polysorbate 80 and water for injections.
-
-## What KEYTRUDA looks like and contents of the pack
-
-KEYTRUDA is a clear to slightly opalescent, colourless to slightly yellow solution, pH 5.3 -5.9. It is available in cartons containing one glass vial.
-
-## Marketing Authorisation Holder and Manufacturer
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
@@ -9373,6 +8967,647 @@ Tel: +46 77 5700488 medicinskinfo@msd.com
 
 ## The following information is intended for healthcare professionals only:
 
+Preparation and administration of the infusion
+
+- Do not shake the vial.
+- Equilibrate the vial to room temperature (at or below 25 °C).
+- Prior to dilution, the vial of  liquid can be out of ref rigeration (temperatures at or below 25 °C) for up to 24 hours.
+- Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. The concentrate is a clear to slightly opalescent, colourless to slightly yellow solution. Discard the vial if visible particles are observed.
+- Withdraw the required volume up to 4 mL (100 mg) of concentrate and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9%) or glucose 50 mg/mL (5%) to prepare a diluted solution with a f inal concentration ranging from 1 to 10 mg/mL. Each vial contains an excess f ill of  0.25 mL (total content per vial 4.25 mL) to ensure the recovery of 4 mL of concentrate. Mix diluted solution by gentle inversion.
+- Chemical and physical in-use stability has been demonstrated for up to 42 days at 2 °C to 8 °C or at 23 °C to 27 °C. From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 7 days at 2 °C to 8 °C, or 12 hours at room temperature, unless dilution has taken place in controlled and validated aseptic conditions. If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use. Translucent to white proteinaceous particles may be seen in diluted solution. Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on f ilter.
+- Do not co-administer other medicinal products through the same infusion line.
+- KEYTRUDA is for single use only. Discard any unused portion left in the vial.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
+
+## KEYTRUDA 395 mg solution for injection KEYTRUDA 790 mg solution for injection
+
+pembrolizumab
+
+## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- It is important that you keep the card with you during treatment.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaf let. See section 4.
+
+## What is in this leaflet
+
+1. What KEYTRUDA is and what it is used for
+2. What you need to know before you are given KEYTRUDA
+3. How you are given KEYTRUDA solution for injection
+4. Possible side ef f ects
+5. How to store KEYTRUDA
+6. Contents of the pack and other information
+
+## 1. What KEYTRUDA is and what it is used for
+
+KEYTRUDA contains the active substance pembrolizumab, which is a monoclonal antibody.
+
+KEYTRUDA works by helping your immune system fight your cancer.
+
+## KEYTRUDA is used in adults to treat:
+
+- a kind of skin cancer called melanoma
+- a kind of lung cancer called non-small cell lung cancer
+- a kind of cancer called malignant pleural mesothelioma (MPM) that affects the lining of the lungs and chest wall
+- a kind of cancer called classical Hodgkin lymphoma
+- a kind of cancer called bladder cancer (urothelial carcinoma)
+- a kind of head and neck cancer called head and neck squamous cell carcinoma.
+- a kind of kidney cancer called renal cell carcinoma
+- a kind of cancer that is determined to be microsatellite instability-high (MSI-H) or mismatch repair def icient (dMMR) in the colon or rectum (called colorectal cancer), uterus (called endometrial cancer), stomach (called gastric cancer), small bowel (called small intestine cancer), or bile duct or gallbladder (called biliary tract cancer)
+- a kind of cancer called oesophageal carcinoma
+- a kind of breast cancer called triple-negative breast cancer
+- a kind of uterine cancer called endometrial carcinoma
+- a kind of cancer called cervical cancer
+- a kind of stomach cancer called gastric or gastro-oesophageal junction adenocarcinoma
+- a kind of bile duct or gallbladder cancer called biliary tract carcinoma
+- a kind of cancer called ovarian cancer
+
+KEYTRUDA is used in adolescents aged 12 years and older to treat:
+
+- a kind of skin cancer called melanoma
+- a kind of cancer called classical Hodgkin lymphoma
+
+People get KEYTRUDA when their cancer has spread or cannot be taken out by surgery.
+
+<div style=\"page-break-after: always\"></div>
+
+People get KEYTRUDA after they have had surgery to remove melanoma, non-small cell lung cancer or renal cell carcinoma to help prevent their cancer from coming back (adjuvant therapy).
+
+People get KEYTRUDA before surgery (neoadjuvant therapy) to treat non-small cell lung cancer, urothelial carcinoma, triple-negative breast cancer, or head and neck squamous cell carcinoma, and then continue getting KEYTRUDA after surgery (adjuvant therapy) to help prevent their cancer from coming back.
+
+KEYTRUDA may be given in combination with other anti-cancer medicines with or without radiation therapy. It is important that you also read the package leaf lets f or these other medicines. If you have any questions about these medicines, ask your doctor.
+
+## 2. What you need to know before you are given KEYTRUDA
+
+## You should not be given KEYTRUDA:
+
+- if  you are allergic to pembrolizumab or any of the other ingredients of this medicine (listed in section 6 'Contents of  the pack and other inf ormation'). Talk to your doctor if  you are not sure.
+
+## Warnings and precautions
+
+Talk to your doctor or nurse bef ore receiving KEYTRUDA.
+
+Before you get KEYTRUDA, tell your doctor if you:
+
+- have an autoimmune disease (a condition where the body attacks its own cells)
+- have pneumonia or inflammation of your lungs (called pneumonitis)
+- were previously given ipilimumab, another medicine for treating melanoma, and experienced serious side effects because of that medicine
+- had an allergic reaction to other monoclonal antibody therapies
+- have or have had chronic viral infection of the liver, including hepatitis B (HBV) or hepatitis C (HCV)
+- have human immunodeficiency virus (HIV) infection or acquired immune deficiency syndrome (AIDS)
+- have liver damage
+- have kidney damage
+- have had a solid organ transplant or a bone marrow (stem cell) transplant that used donor stem cells (allogeneic)
+
+KEYTRUDA acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side ef f ects may be higher if  you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience f requent flares of your autoimmune disease, which in the majority of cases are mild.
+
+When you get KEYTRUDA, you can have some serious side effects. These side effects can sometimes become life-threatening and can lead to death. These side ef f ects may happen anytime during treatment or even after your treatment has ended. You may experience more than one side effect at the same time.
+
+If you have any of the following conditions, call or see your doctor right away. Your doctor may give you other medicines in order to prevent more severe complications and reduce your symptoms. Your doctor may withhold the next dose of KEYTRUDA or stop your treatment with KEYTRUDA.
+
+- inflammation of the lungs, which may include shortness of breath, chest pain or coughing
+- inflammation of the intestines, which may include diarrhoea or more bowel movements than usual, black, tarry, sticky stools or stools with blood or mucus, severe stomach pain or tenderness, nausea, vomiting
+
+<div style=\"page-break-after: always\"></div>
+
+- inflammation of the liver, which may include nausea or vomiting, feeling less hungry, pain on the right side of stomach, yellowing of skin or whites of eyes, dark urine or bleeding or bruising more easily than normal
+- inflammation of the kidneys, which may include changes in the amount or colour of your urine
+- inflammation of hormone glands (especially the thyroid, pituitary and adrenal glands), which may include rapid heartbeat, weight loss, increased sweating, weight gain, hair loss, feeling cold, constipation, deeper voice, muscle aches, dizziness or fainting, headaches that will not go away or unusual headache
+- type 1 diabetes, including diabetic ketoacidosis (acid in the blood produced from diabetes), symptoms may include feeling more hungry or thirsty than usual, need to urinate more often or weight loss, feeling tired or feeling sick, stomach pain, fast and deep breathing, confusion, unusual sleepiness, a sweet smell to your breath, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat
+- inflammation of the eyes, which may include changes in eyesight
+- inflammation in the muscles, which may include muscle pain or weakness
+- inflammation of the heart muscle, which may include shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis)
+- inflammation of the pancreas, which may include abdominal pain, nausea and vomiting
+- inflammation of the skin, which may include rash, itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area
+- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
+- inflammation of the brain, which may include confusion, fever, memory problems or seizures (encephalitis)
+- pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, dif f iculty urinating and constipation (myelitis)
+- inflammation and scarring of the bile ducts, which may include pain in the upper right part of the stomach, swelling of the liver or spleen, fatigue, itching, or yellowing of the skin or the whites of eyes (cholangitis sclerosing)
+- inflammation of the stomach (gastritis)
+- decreased function of the parathyroid gland, which may include muscle cramps or spasms, fatigue and weakness (hypoparathyroidism)
+- inflammation of the covering of the heart, which may include chest pain, shortness of breath or feeling tired (pericarditis)
+- a condition in which some or all of the f ollowing happen together: muscle pain or weakness, changes in eyesight, feeling tired, shortness of breath, chest pain, or irregular heartbeat (myocarditis-myositis-myasthenia gravis overlap syndrome)
+- infusion reactions, which may include shortness of breath, itching or rash, dizziness or fever
+
+Complications, including graft-versus-host-disease (GVHD), in people with bone marrow (stem cell) transplant that uses donor stem cells (allogeneic). These complications can be severe and can lead to death. They may occur if you had this kind of transplant in the past or if you get it in the future. Your doctor will monitor you for signs and symptoms, which may include skin rash, liver inflammation, abdominal pain, or diarrhoea.
+
+## Children and adolescents
+
+Do not give KEYTRUDA solution for injection to children under 18 years of age, except for adolescents aged 12 years and older who weigh greater than 40 kg with classical Hodgkin lymphoma or melanoma.
+
+## Other medicines and KEYTRUDA
+
+Tell your doctor
+
+- If you are taking other medicines that make your immune system weak.
+- Examples of these may include corticosteroids, such as prednisone.
+- These medicines may interfere with the effect of KEYTRUDA.
+
+<div style=\"page-break-after: always\"></div>
+
+- However, once you are treated with KEYTRUDA, your doctor may give you corticosteroids to reduce the side-eff ects that you may have with KEYTRUDA.
+- Corticosteroids may also be given to you before receiving KEYTRUDA in combination with chemotherapy to prevent and/or treat nausea, vomiting, and other side ef fects caused by chemotherapy.
+- If you are taking, have recently taken or might take any other medicines.
+
+## Pregnancy
+
+- You must not use KEYTRUDA if you are pregnant unless your doctor specifically recommends it.
+- If you are pregnant, think you may be pregnant or are planning to have a baby, tell your doctor.
+- KEYTRUDA can cause harm or death to your unborn baby.
+- If you are a woman who could become pregnant, you must use adequate birth control while you are being treated with KEYTRUDA and for at least 4 months after your last dose.
+
+## Breast-feeding
+
+- If you are breast-feeding, tell your doctor.
+- Do not breast-feed while taking KEYTRUDA.
+- It is not known if  KEYTRUDA passes into your breast milk.
+
+## Driving and using machines
+
+KEYTRUDA has a minor effect on your ability to drive or use machines. Feeling dizzy, tired or weak are possible side ef f ects of  KEYTRUDA. Do not drive or use machines after you have been given KEYTRUDA unless you are sure you are feeling well.
+
+## KEYTRUDA solution for injection contains polysorbate 80
+
+This medicinal product contains 0.2 mg of polysorbate 80 in each mL of solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## KEYTRUDA solution for injection contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+
+## 3. How you are given KEYTRUDA solution for injection
+
+You will be given KEYTRUDA under the care of a doctor experienced in cancer treatment.
+
+- The recommended dose of KEYTRUDA in adults and in adolescents with melanoma or classical Hodgkin lymphoma aged 12 years and older who weigh greater than 40 kg is either
+- 395 mg every 3 weeks or
+- 790 mg every 6 weeks.
+- Your doctor will give you KEYTRUDA as an injection under the skin (subcutaneous) in the stomach area (abdomen) or thigh. This takes 1-2 minutes.
+- Your doctor or nurse will inject where the skin is not damaged, sore, bruised, scarred, scaly, or has red patches and will select a new site for each injection.
+- Your doctor may switch the way your treatment is given, from KEYTRUDA given as an injection under your skin to KEYTRUDA given as an infusion into your vein.
+- Your doctor will decide how many treatments you need.
+
+## If you miss an appointment to get KEYTRUDA
+
+- Call your doctor right away to reschedule your appointment.
+- It is very important that you do not miss a dose of this medicine.
+
+## If you stop receiving KEYTRUDA
+
+Stopping your treatment may stop the effect of the medicine. Do not stop treatment with KEYTRUDA unless you have discussed this with your doctor.
+
+<div style=\"page-break-after: always\"></div>
+
+If you have any further questions about your treatment, ask your doctor.
+
+## Patient card
+
+You will also find this information in the patient card you have been given by your doctor. It is important that you keep this card and show it to your partner or caregivers.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+When you get KEYTRUDA, you can have some serious side effects. See section 2.
+
+Local reactions at the injection site have been reported when KEYTRUDA is given as an injection under the skin. The frequency of local reactions at the injection site is common (may af fect up to 1 in 10 people).
+
+The side effects observed with KEYTRUDA given as an infusion into your vein may be experienced with KEYTRUDA given as an injection under the skin.
+
+## The following side effects have been reported with KEYTRUDA given as an infusion into your vein alone:
+
+## Very common (may affect more than 1 in 10 people)
+
+- decrease in the number of red blood cells
+- reduced thyroid gland activity
+- feeling less hungry
+- headache
+- shortness of breath; cough
+- diarrhoea; stomach pain; nausea; vomiting; constipation
+- itching; skin rash
+- pain in muscle and bones; joint pain
+- feeling tired; unusual tiredness or weakness; swelling; f ever
+
+## Common (may affect up to 1 in 10 people)
+
+- lung infection
+- decrease in the number of platelets (bruising or bleeding more easily); decrease in the number of white blood cell (neutrophils; lymphocytes)
+- reactions related to the administration of the medicine
+- overactive thyroid gland; hot f lush
+- decreased sodium, potassium, or calcium in the blood
+- trouble sleeping
+- dizziness; inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; lack of energy; change in your sense of taste
+- dry eye
+- abnormal heart rhythm
+- high blood pressure
+- inflammation of the lungs
+- inflammation of the intestines; dry mouth
+- inflammation of the liver
+- red raised rash sometimes with blisters; inf lammation of the skin; patches of skin which have lost colour; dry, itchy skin; hair loss; acne-like skin problem
+- muscle pain, aches or tenderness; pain in arms or legs; joint pain with swelling
+- flu-like illness; chills
+
+<div style=\"page-break-after: always\"></div>
+
+- increased liver enzyme levels in the blood; increased calcium in the blood; abnormal kidney function test
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- a decreased number of white blood cells (leukocytes); inflammation response against platelets; an increased number of white blood cells (eosinophils)
+- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
+- decreased secretion of hormones produced by the adrenal glands; inflammation of the pituitary gland situated at the base of the brain; inflammation of the thyroid
+- type 1 diabetes, including diabetic ketoacidosis
+- a condition in which the muscles become weak and tire easily; seizure
+- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
+- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); inf lammation of the covering of the heart, which may present as chest pain, shortness of breath or feeling tired (pericarditis); accumulation of f luid around the heart
+- inflammation of the pancreas; inflammation of the stomach; a sore that develops on the inside lining of your stomach or upper part of your small intestine
+- thickened, sometimes scaly, skin growth; small skin bumps, lumps or sores; hair colour changes
+- inflammation of the sheath that surrounds tendons
+- inflammation of the kidneys
+- increased level of amylase, an enzyme that breaks down starch
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- inflammation response against red blood cells; a condition called haemophagocytic lymphohistiocytosis, where the immune system makes too many infection fighting cells called histiocytes and lymphocytes that may cause various symptoms; feeling weak, lightheaded, short of breath or if  your skin looks pale (signs of low level of red blood cells, possibly due to a type of anaemia called pure red cell aplasia)
+- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
+- a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome); inflammation of the brain, which may present as confusion, fever, memory problems or seizures (encephalitis); pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, dif ficulty urinating and constipation (myelitis); swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis); inf lammation of the membrane around the spinal cord and brain, which may present as neck stif fness, headache, f ever, eye sensitivity to light, nausea or vomiting (meningitis)
+- inflammation of the blood vessels
+- lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); a hole in the small intestines; coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
+- inflammation of the bile ducts
+- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (Stevens-Johnson syndrome or toxic epidermal necrolysis); tender red bumps under the skin
+- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
+- inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
+
+<div style=\"page-break-after: always\"></div>
+
+The following side effects have been reported in clinical studies with KEYTRUDA given as an infusion into your vein in combination with chemotherapy, radiation therapy or chemotherapy with radiation therapy:
+
+## Very common (may affect more than 1 in 10 people)
+
+- decrease in the number of red blood cells; decreased number of white blood cells (neutrophils); decrease in the number of platelets (bruising or bleeding more easily)
+- reduced thyroid gland activity
+- decreased potassium in the blood; feeling less hungry
+- trouble sleeping
+- inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; headache
+- shortness of breath; cough
+- diarrhoea; nausea; vomiting; stomach pain; constipation
+- hair loss; itching; skin rash
+- joint pain; pain in the muscles and bones
+- feeling tired; unusual tiredness or weakness; fever; swelling
+- increased blood level of the liver enzyme alanine aminotransferase; increased blood level of the liver enzyme aspartate aminotransferase
+
+## Common (may affect up to 1 in 10 people)
+
+- lung infection
+- decreased number of white blood cells (neutrophils) with a fever; decreased number of white blood cells (leukocytes, lymphocytes)
+- reaction related to the administration of the medicine
+- decreased secretion of hormones produced by the adrenal glands; overactive thyroid gland; inflammation of the thyroid
+- decreased sodium or calcium in the blood
+- dizziness; change in your sense of taste
+- dry eye
+- abnormal heart rhythm
+- high blood pressure
+- inflammation of the lungs
+- inflammation of the intestines; inf lammation of the stomach; dry mouth
+- inflammation of the liver
+- red raised rash, sometimes with blisters; inf lammation of the skin; acne-like skin problem; dry, itchy skin
+- muscle pain, aches or tenderness; pain in arms or legs; joint pain with swelling
+- sudden kidney damage
+- flu-like illness; chills
+- increased bilirubin in the blood; increased blood level of the liver enzyme alkaline phosphatase; abnormal kidney function test; increased calcium in the blood
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- inflammation response against red blood cells; an increased number of white blood cells (eosinophils)
+- inflammation of the pituitary gland situated at the base of the brain
+- type 1 diabetes, including diabetic ketoacidosis
+- inflammation of the brain, which may present as conf usion, fever, memory problems or seizures (encephalitis); lack of energy
+- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
+- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); inf lammation of the covering of the heart, which may
+
+<div style=\"page-break-after: always\"></div>
+
+present as chest pain, shortness of breath or feeling tired (pericarditis); accumulation of f luid around the heart
+
+- inflammation of the blood vessels
+- inflammation of the pancreas; a sore that develops on the inside lining of your stomach or upper part of your small intestine
+- thickened, sometimes scaly, skin growth; patches of skin which have lost colour; small skin bumps, lumps or sores
+- inflammation of the sheath that surrounds tendons
+- inflammation of the kidneys; inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
+- increased level of amylase, an enzyme that breaks down starch
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- inflammation response against platelets
+- an immune disorder that can affect the lungs, skin, eyes and/or lymph nodes (sarcoidosis)
+- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
+- a condition in which the muscles become weak and tire easily; a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome); pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, diff iculty urinating and constipation (myelitis); swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis); seizure; inf lammation of the membrane around the spinal cord and brain, which may present as neck stiffness, headache, fever, eye sensitivity to light, nausea or vomiting (meningitis)
+- lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); a hole in the small intestines; coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
+- inflammation of the bile ducts
+- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (Stevens-Johnson syndrome); tender red bumps under the skin; hair colour changes
+- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
+
+## The following side effects have been reported in clinical studies with KEYTRUDA given as an infusion into your vein in combination with axitinib or lenvatinib:
+
+## Very common (may affect more than 1 in 10 people)
+
+- urinary infections (increased frequency in urination and pain in passing urine)
+- decrease in the number of red blood cells
+- reduced thyroid gland activity
+- feeling less hungry
+- headache; change in your sense of taste
+- high blood pressure
+- shortness of breath; cough
+- diarrhoea; stomach pain; nausea; vomiting; constipation
+- skin rash; itching
+- joint pain; pain in the muscles and bones; muscle pain, aches or tenderness; pain in arms or legs
+- feeling tired; unusual tiredness or weakness; swelling; f ever
+- increased levels of lipase, an enzyme that breaks down fats; increased liver enzyme levels in the blood; abnormal kidney function test
+
+## Common (may affect up to 1 in 10 people)
+
+- lung infection
+
+<div style=\"page-break-after: always\"></div>
+
+- decreased number of white blood cells (neutrophils, lymphocytes, leukocytes); decrease in the number of platelets (bruising or bleeding more easily)
+- reaction related to the administration of the medicine
+- decreased secretion of hormones produced by the adrenal glands; overactive thyroid gland; inflammation of the thyroid
+- decreased sodium, potassium, or calcium in the blood
+- trouble sleeping
+- dizziness; inflammation of the nerves causing numbness, weakness, tingling or burning pain of the arms and legs; lack of energy
+- dry eye
+- abnormal heart rhythm
+- inflammation of the lungs
+- inflammation of the intestines; inf lammation of the pancreas; inflammation of the stomach; dry mouth
+- inflammation of the liver
+- red raised rash, sometimes with blisters; inf lammation of the skin; dry skin; acne-like skin problem; hair loss
+- joint pain with swelling
+- inflammation of the kidneys
+- flu-like illness; chills
+- increased levels of amylase, an enzyme that breaks down starch; increased bilirubin in the blood; increased blood levels of a liver enzyme known as alkaline phosphatase; increased calcium in the blood
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- an increased number of white blood cells (eosinophils)
+- inflammation of the pituitary gland situated at the base of the brain
+- type 1 diabetes, including diabetic ketoacidosis
+- a condition in which the muscles become weak and tire easily; inflammation of the brain, which may present as conf usion, f ever, memory problems or seizures (encephalitis)
+- inflammation of the eyes; eye pain, irritation, itchiness or redness; uncomf ortable sensitivity to light; seeing spots
+- inflammation of the heart muscle, which may present as shortness of breath, irregular heartbeat, feeling tired, or chest pain (myocarditis); accumulation of f luid around the heart
+- inflammation of the blood vessels
+- a sore that develops on the inside lining of your stomach or upper part of your small intestine
+- dry, itchy skin; thickened, sometimes scaly, skin growth; patches of skin which have lost colour; small skin bumps, lumps or sores; hair colour changes
+- inflammation of the sheath that surrounds tendons
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- decreased function of the parathyroid gland, which may present as muscle cramps or spasms, fatigue and weakness
+- swelling of the optic nerve that may result in vision loss in one or both eyes, pain with eye movement, and/or loss of colour vision (optic neuritis)
+- a hole in the small intestines
+- itching, skin blistering, peeling or sores, and/or ulcers in mouth or in lining of nose, throat, or genital area (toxic epidermal necrolysis or Stevens-Johnson syndrome)
+- disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome)
+- inflammation of the bladder, which may present as frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
+
+<div style=\"page-break-after: always\"></div>
+
+## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
+
+- -lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency); coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
+
+Rash is more common when KEYTRUDA is given in combination with enfortumab vedotin than when KEYTRUDA is given alone.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side ef fects not listed in this leaflet. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side ef fects you can help provide more inf ormation on the safety of this medicine.
+
+## 5. How to store KEYTRUDA
+
+## Unopened vial
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and vial label af ter EXP. The expiry date refers to the last day of that month.
+
+## Store in a refrigerator (2 °C -8 °C). Do not freeze.
+
+Store in the original carton in order to protect f rom light.
+
+## Prepared syringe
+
+Once transferred from the vial into the syringe, chemical and physical in-use stability has been demonstrated for KEYTRUDA solution for injection for up to 30 days at 2 °C to 8 °C (protected from light) and for up to 24 hours at room temperature (under ambient room light). From a microbiological point of view, the solution, should be used immediately once transferred from the vial to the syringe. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at room temperature or 24 hours at 2 °C to 8 °C, unless the preparation has taken place in controlled and validated aseptic conditions. The 24-hour period may include up to 8 hours at room temperature (at or below 25 °C). Discard if storage time exceeds these limits. If  ref rigerated, the f illed syringe must be allowed to come to room temperature f or at least 30 minutes prior to administration. The filled syringe must not be frozen.
+
+Do not store any unused portion of the solution for injection for reuse. Any unused medicine or waste material should be disposed of in accordance with local requirements.
+
+## 6. Contents of the pack and other information
+
+## What KEYTRUDA contains
+
+The active substance is pembrolizumab.
+
+One vial of 2.4 mL solution for injection contains 395 mg of pembrolizumab. One vial of 4.8 mL solution for injection contains 790 mg of pembrolizumab.
+
+Each mL of solution for injection contains 165 mg of pembrolizumab.
+
+The other ingredients are recombinant berahyaluronidase alfa, L-histidine, L-histidine hydrochloride monohydrate, L-methionine, sucrose, polysorbate 80 and water for injections.
+
+<div style=\"page-break-after: always\"></div>
+
+## What KEYTRUDA looks like and contents of the pack
+
+KEYTRUDA is a clear to slightly opalescent, colourless to slightly yellow solution, pH 5.3 -5.9. It is available in cartons containing one glass vial.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+
+The Netherlands
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+MSD Belgium
+
+Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+
+## /Beъл/geа/erи/ia
+
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
+
+## Česká republika
+
+Merck Sharp &amp; Dohme s.r.o.
+
+Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
+
+## Danmark
+
+MSD Danmark ApS
+
+Tlf.: +45 4482 4000 dkmail@msd.com
+
+## Deutschland
+
+MSD Sharp &amp; Dohme GmbH
+
+Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
+
+## Eesti
+
+Merck Sharp &amp; Dohme OÜ
+
+Tel: +372 614 4200
+
+dpoc.estonia@msd.com
+
+## Ελλάδα
+
+MSD Α.Φ.Ε.Ε.
+
+Τηλ
+
+: +30 210 98 97 300
+
+dpoc.greece@msd.com
+
+## España
+
+Merck Sharp &amp; Dohme de España, S.A.
+
+Tel: +34 91 321 06 00 msd\\_info@msd.com
+
+## Lietuva
+
+UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
+
+## Luxembourg/Luxemburg
+
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+
+## Magyarország
+
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
+
+## Malta
+
+Merck Sharp &amp; Dohme Cyprus Limited
+
+Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
+
+## Nederland
+
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
+
+## Norge
+
+MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
+
+## Österreich
+
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
+
+## Polska
+
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
+
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+## Portugal
+
+MSD France
+
+Tél: +33 (0)1 80 46 40 40
+
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
+
+## Hrvatska
+
+Merck Sharp &amp; Dohme d.o.o.
+
+Tel: +385 1 6611 333
+
+dpoc.croatia@msd.com
+
+## România
+
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
+
+## Ireland
+
+Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
+
+## Slovenija
+
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Merck Sharp &amp; Dohme, s. r. o.
+
+Tel.: +421 2 58282010
+
+dpoc\\_czechslovak@msd.com
+
+## Italia
+
+MSD Italia S.r.l.
+
+Tel: 800 23 99 89 (+39 06 361911)
+
+dpoc.italy@msd.com
+
+## Suomi/Finland
+
+MSD Finland Oy
+
+Puh/Tel: +358 (0)9 804 650
+
+info@msd.fi
+
+## Κύπρος
+
+Merck Sharp &amp; Dohme Cyprus Limited
+
+Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
+
+## Sverige
+
+Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
+
+## Latvija
+
+SIA Merck Sharp &amp; Dohme Latvija
+
+Tel.: +371 67025300
+
+dpoc.latvia@msd.com
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+<div style=\"page-break-after: always\"></div>
+
+## The following information is intended for healthcare professionals only:
+
 ## Preparation and administration
 
 KEYTRUDA solution for injection should be administered by a healthcare professional only. KEYTRUDA solution for injection is ready to use. Do not dilute KEYTRUDA solution for injection. Do not shake the vial.
@@ -9393,7 +9628,11 @@ KEYTRUDA solution for injection should be administered by a healthcare professio
 
 ## Administration
 
-- Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel. Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches. Inject one 2.4 mL dose of KEYTRUDA solution for injection (395 mg) subcutaneously every 3 weeks over 1 minute. Inject one 4.8 mL dose of KEYTRUDA solution for injection (790 mg) subcutaneously every 6 weeks over 2 minutes. Rotate injection sites f or subsequent injections. During treatment with KEYTRUDA solution for injection, do not administer other medicinal products for subcutaneous use at the same site as KEYTRUDA solution for injection.
+- Inject KEYTRUDA solution for injection into the subcutaneous tissue of the thigh or abdomen, avoiding the 5 cm area around the navel. Do not inject into skin that is damaged, sore, bruised, scarred, scaly, or has red patches.
+- Inject one 2.4 mL dose of KEYTRUDA solution for injection (395 mg) subcutaneously every 3 weeks over 1 minute.
+- Inject one 4.8 mL dose of KEYTRUDA solution for injection (790 mg) subcutaneously every 6 weeks over 2 minutes.
+- Rotate injection sites for subsequent injections.
+- During treatment with KEYTRUDA solution for injection, do not administer other medicinal products for subcutaneous use at the same site as KEYTRUDA solution for injection.
 - KEYTRUDA is for single use only. Discard any unused portion left in the vial.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

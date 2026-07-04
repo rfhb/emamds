@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-09 15:38:15
+document_datetime: 2026-07-01 14:25:11
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zypadhera-epar-product-information_en.pdf
 document_name: zypadhera-epar-product-information_en.pdf
 version: success
-processing_time: 10.0586333
-conversion_datetime: 2026-02-13 18:35:12.790423
+processing_time: 13.0850535
+conversion_datetime: 2026-07-04 14:31:52.421281
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -33,6 +33,10 @@ ZYPADHERA 210 mg powder and solvent for prolonged release suspension for injecti
 ZYPADHERA 300 mg powder and solvent for prolonged release suspension for injection Each vial contains olanzapine pamoate monohydrate equivalent to 300 mg olanzapine. After reconstitution each ml of suspension contains 150 mg olanzapine.
 
 ZYPADHERA 405 mg powder and solvent for prolonged release suspension for injection Each vial contains olanzapine pamoate monohydrate equivalent to 405 mg olanzapine. After reconstitution each ml of suspension contains 150 mg olanzapine.
+
+## Excipient with known effect:
+
+ZYPADHERA solvent for prolonged release suspension for injection contains 1 mg of polysorbate 80 in each ml.
 
 For the full list of excipients see section 6.1.
 
@@ -188,11 +192,9 @@ Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting 
 
 ## QT interval
 
-In clinical trials with oral olanzapine, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF&lt;500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. In clinical trials with olanzapine powder for solution for injection or ZYPADHERA, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals. However, caution should be exercised when olanzapine is prescribed with medicines
+In clinical trials with oral olanzapine, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF&lt;500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. In clinical trials with olanzapine powder for solution for injection or ZYPADHERA, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 ## Thromboembolism
 
@@ -226,6 +228,14 @@ Olanzapine is not indicated for use in the treatment of children and adolescents
 
 No information on the use of ZYPADHERA in patients &gt;75 years is available. Due to biochemical and physiological modification and reduction of muscular mass, this formulation is not recommended to be started in this sub-group of patients.
 
+## Excipients with known effect
+
+## Polysorbate
+
+This medicinal product contains 1 mg of polysorbate 80 in each ml of solvent. After reconstitution ZYPADHERA 210 mg contains 1.3 mg, ZYPADHERA 300 mg contains 1.8 mg and ZYPADHERA 405 mg contains 2.3 mg of polysorbate 80. Polysorbates may cause hypersensitivity reactions.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium
 
 After reconstitution this medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially sodium-free.
@@ -233,8 +243,6 @@ After reconstitution this medicine contains less than 1 mmol sodium (23 mg) per 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
-
-<div style=\"page-break-after: always\"></div>
 
 Caution should be exercised in patients who receive medicinal products that can induce hypotension or sedation.
 
@@ -274,11 +282,11 @@ Caution should be used if olanzapine is being administered concomitantly with me
 
 ## 4.6 Fertility, pregnancy and lactation
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no adequate and well-controlled studies in pregnant women. Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with olanzapine. Nevertheless, because human experience is limited, olanzapine should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.
-
-<div style=\"page-break-after: always\"></div>
 
 New-born infants exposed to antipsychotics (including olanzapine) during the third trimester of pregnancy are at risk of adverse reactions including extrapyramidal and/or withdrawal symptoms that may vary in severity and duration following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder. Consequently, newborns should be monitored carefully.
 
@@ -308,13 +316,13 @@ Other adverse reactions observed in patients treated with ZYPADHERA were similar
 
 In clinical trials with ZYPADHERA the incidence of injection site related adverse reactions was approximately 8%. The most commonly reported injection site related adverse reaction was pain (5%); some other injection site adverse reactions reported were (in decreasing frequency): nodule type reactions, erythema type reactions, non-specific injection site reactions, irritation, oedema type reactions, bruising, haemorrhage, and anaesthesia. These events occurred in about 0.1 to 1.1% of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In a review of safety data from clinical trials and spontaneous postmarketing reports, injection site abscess was rarely (≥ 1/10,000 to &lt; 1/1,000) reported.
 
 ## Adverse reactions seen with olanzapine
 
 The undesirable effects listed below have been observed following administration of olanzapine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Adults
 
@@ -334,37 +342,37 @@ The following table lists the adverse reactions  and laboratory investigations o
 | Weight gain 1                            | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |                                          |
 | Nervous system disorders                 | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           | Nervous system disorders                 |
 | Somnolence                               | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |                                          |
-| Cardiac disorders                        | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  | Cardiac disorders                        |
-|                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrill ation, sudden death (see section 4.4) 11           |                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Vascular disorders                              | Vascular disorders                                                                                                          | Vascular disorders                                                                               | Vascular disorders                                                         | Vascular disorders                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Orthostatic hypotension 10                      |                                                                                                                             | Thromboembolis m(including pulmonary embolism and deep vein thrombosis) (see section 4.4)        |                                                                            |                                                               |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                                  | Respiratory, thoracic and mediastinal disorders                            | Respiratory, thoracic and mediastinal disorders               |
-| Epistaxis Gastrointestinal disorders            | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                             | Epistaxis Gastrointestinal disorders                                       | Epistaxis Gastrointestinal disorders                          |
-|                                                 | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                                | Pancreatitis 11                                                            |                                                               |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                          | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
-|                                                 | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                           | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
-|                                                 | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                               |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                  | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
-|                                                 | Arthralgia 9                                                                                                                |                                                                                                  | Rhabdomyolysis 11                                                          |                                                               |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                      | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
-|                                                 |                                                                                                                             | Urinary incontinence Urinary retention Urinary hesitation 11                                     |                                                                            |                                                               |
-| Pregnancy, puerperium and perinatal conditions  | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                                   | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
-|                                                 |                                                                                                                             |                                                                                                  |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)           |
-| Reproductive system and breast disorders        | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                         | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                      |
-|                                                 | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/ breast enlargement in males | Priapism 12                                                                |                                                               |
+| Cardiac disorders                                     | Cardiac disorders                                                                                                           | Cardiac disorders                                                                         | Cardiac disorders                                                          | Cardiac disorders                                             |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
+|                                                       |                                                                                                                             | Bradycardia QT c prolongation (see section 4.4)                                           | Ventricular tachycardia/fibrill ation, sudden death (see section 4.4) 11   |                                                               |
+| Vascular disorders                                    | Vascular disorders                                                                                                          | Vascular disorders                                                                        | Vascular disorders                                                         | Vascular disorders                                            |
+| Orthostatic hypotension 10                            |                                                                                                                             | Thromboembolis m(including pulmonary embolism and deep vein thrombosis) (see section 4.4) |                                                                            |                                                               |
+| Respiratory, thoracic and mediastinal disorders       | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                           | Respiratory, thoracic and mediastinal disorders                            | Respiratory, thoracic and mediastinal disorders               |
+|                                                       |                                                                                                                             | Epistaxis 9                                                                               |                                                                            |                                                               |
+| dry mouth Hepatobiliary disorders                     | dry mouth Hepatobiliary disorders                                                                                           | dry mouth Hepatobiliary disorders                                                         | dry mouth Hepatobiliary disorders                                          | dry mouth Hepatobiliary disorders                             |
+|                                                       | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                           | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
+| Skin and subcutaneous tissue disorders                | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                    | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
+|                                                       | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                        |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                           | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
+|                                                       | Arthralgia 9                                                                                                                |                                                                                           | Rhabdomyolysis 11                                                          |                                                               |
+| Renal and urinary disorders                           | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                               | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
+|                                                       |                                                                                                                             | Urinary incontinence Urinary retention Urinary hesitation 11                              |                                                                            |                                                               |
+| Pregnancy, puerperium and perinatal conditions        | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                            | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
+|                                                       |                                                                                                                             |                                                                                           |                                                                            | Drug withdrawal syndrome neonatal (see                        |
+| section 4.6) Reproductive system and breast disorders | section 4.6) Reproductive system and breast disorders                                                                       | section 4.6) Reproductive system and breast disorders                                     | section 4.6) Reproductive system and breast disorders                      | section 4.6) Reproductive system and breast disorders         |
+|                                                       | Erectile dysfunction in males Decreased libido                                                                              | Amenorrhea Breast enlargement Galactorrhea in                                             | Priapism 12                                                                |                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | General disorders and administration site conditions                                                                  | General disorders and administration site conditions   | General disorders and administration site conditions   | General disorders and administration site conditions   |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-|                                                        | Asthenia Fatigue Oedema Pyrexia 10 Injection site pain                                                                |                                                        | Injection site abscess                                 |                                                        |
-| Investigations                                         | Investigations                                                                                                        | Investigations                                         | Investigations                                         | Investigations                                         |
-| Elevated plasma prolactin levels 8                     | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransfera se 10 High uric acid 10 | Increased total bilirubin                              |                                                        |                                                        |
+|                                                      | in males and females                                                                                                  | females Gynaecomastia/ breast enlargement in males   |                                                      |                                                      |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                  | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+|                                                      | Asthenia Fatigue Oedema Pyrexia 10 Injection site pain                                                                |                                                      | Injection site abscess                               |                                                      |
+| Investigations                                       | Investigations                                                                                                        | Investigations                                       | Investigations                                       | Investigations                                       |
+| Elevated plasma prolactin levels 8                   | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransfera se 10 High uric acid 10 | Increased total bilirubin                            |                                                      |                                                      |
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %). Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25% of their baseline body weight with long-term exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
 
@@ -382,13 +390,13 @@ The following table lists the adverse reactions  and laboratory investigations o
 
 8 In clinical trials of up to 12 weeks, plasma prolactin concentrations exceeded the upper limit of normal range in approximately 30% of olanzapine treated patients with normal baseline prolactin value. In the majority of these patients the elevations were generally mild, and remained below two times the upper limit of normal range.
 
+<div style=\"page-break-after: always\"></div>
+
 9 Adverse event identified from clinical trials in the Olanzapine Integrated Database.
 
 10 As assessed by measured values from clinical trials in the Olanzapine Integrated Database.
 
-<div style=\"page-break-after: always\"></div>
-
-- 11 Adverse event identified from spontaneous post-marketing reporting with frequency determined utilising the Olanzapine Integrated Database.
+11 Adverse event identified from spontaneous post-marketing reporting with frequency determined utilising the Olanzapine Integrated Database.
 
 12 Adverse event identified from spontaneous post-marketing reporting with frequency estimated at the upper limit of the 95% confidence interval utilising the Olanzapine Integrated Database.
 
@@ -415,16 +423,15 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nervous system disorders Very common: Sedation (including: hypersomnia, lethargy, somnolence).                                                                  |
-| Gastrointestinal disorders Common: Dry mouth                                                                                                                    |
-| Hepatobiliary disorders Very common: Elevations of hepatic aminotransferases (ALT/AST; see section 4.4).                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-## Investigations
+| Gastrointestinal disorders Common: Dry mouth                                                                |
+|-------------------------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders Very common: Elevations of hepatic aminotransferases (ALT/AST; see section 4.4).    |
+| Investigations Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels 16 . |
 
-Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels 16 .
-
-13 Following short term treatment (median duration 22 days), weight gain ≥ 7% of baseline body weight (kg) was very common (40.6 %), ≥ 15% of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
+- 13 Following short term treatment (median duration 22 days), weight gain ≥ 7% of baseline body weight (kg) was very common (40.6 %), ≥ 15% of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
 
 14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l &lt; 1.467 mmol/l) to high (≥ 1.467 mmol/l).
 
@@ -474,11 +481,9 @@ The effectiveness of ZYPADHERA in the treatment and maintenance treatment of sch
 
 A total of 1469 patients with schizophrenia were included in 2 pivotal trials: The first, an 8-week, placebo controlled trial conducted in adult patients (n=404) who were experiencing acute psychotic symptoms. Patients were randomized to receive injections of ZYPADHERA 405 mg every 4 weeks, 300 mg every 2 weeks, 210 mg every 2 weeks, or placebo every 2 weeks. No oral antipsychotic supplementation was allowed. Total Positive and Negative Symptom Scores (PANSS) showed significant improvement from baseline (baseline mean Total PANSS Score 101) to endpoint (mean changes -22.57, -26.32, -22.49 respectively) with each dose of ZYPADHERA (405 mg every 4 weeks, 300 mg every 2 weeks, and 210 mg every 2 weeks) as compared to placebo (mean change -8.51). Visitwise mean change from baseline to endpoint in PANSS Total score  indicated that by Day 3, patients in the 300 mg/2 weeks and 405 mg/4 weeks treatment groups had statistically significantly greater reductions in PANSS Total score compared to placebo (-8.6, -8.2, and -5.2, respectively). All 3 ZYPADHERA treatment groups showed statistically significantly greater improvement than placebo beginning by end of Week 1. These results support efficacy for ZYPADHERA over 8 weeks of treatment and a drug effect that was observed as early as 1 week after starting treatment with ZYPADHERA.
 
-The second, a long term study in clinically stable patients (n=1065) (baseline mean Total PANSS Score 54.33 to 57.75) who were initially treated with oral olanzapine for 4 to 8 weeks and then switched to continue on oral olanzapine or to ZYPADHERA for 24 weeks. No oral antipsychotic supplementation was allowed. ZYPADHERA treatment groups of 150 mg and 300 mg given every 2 weeks (doses pooled for analysis) and 405 mg given every 4 weeks were non inferior to the combined doses of 10, 15 and 20 mg of oral olanzapine (doses pooled for analysis)  as measured by rates of exacerbation of symptoms of schizophrenia (respective exacerbation rates, 10%, 10% 7%). Exacerbation was measured by worsening of items on the PANSS derived BPRS Positive scale and hospitalization due to worsening of positive psychotic symptoms. The combined 150 mg and 300 mg/2 week treatment group was non
+The second, a long term study in clinically stable patients (n=1065) (baseline mean Total PANSS Score 54.33 to 57.75) who were initially treated with oral olanzapine for 4 to 8 weeks and then switched to continue on oral olanzapine or to ZYPADHERA for 24 weeks. No oral antipsychotic supplementation was allowed. ZYPADHERA treatment groups of 150 mg and 300 mg given every 2 weeks (doses pooled for analysis) and 405 mg given every 4 weeks were non inferior to the combined doses of 10, 15 and 20 mg of oral olanzapine (doses pooled for analysis)  as measured by rates of exacerbation of symptoms of schizophrenia (respective exacerbation rates, 10%, 10% 7%). Exacerbation was measured by worsening of items on the PANSS derived BPRS Positive scale and hospitalization due to worsening of positive psychotic symptoms. The combined 150 mg and 300 mg/2 week treatment group was non inferior to the 405 mg/4 week treatment group (exacerbation rates 10% for each group) at 24 weeks after randomisation.
 
 <div style=\"page-break-after: always\"></div>
-
-inferior to the 405 mg/4 week treatment group (exacerbation rates 10% for each group) at 24 weeks after randomisation.
 
 ## Paediatric population
 
@@ -506,11 +511,9 @@ Olanzapine plasma clearance after oral olanzapine is lower in females (18.9 l/hr
 
 ## Elderly
 
-No specific investigations have been conducted in the elderly with ZYPADHERA. ZYPADHERA is not recommended for treatment in the elderly population (65 years and over) unless a well-tolerated and
+No specific investigations have been conducted in the elderly with ZYPADHERA. ZYPADHERA is not recommended for treatment in the elderly population (65 years and over) unless a well-tolerated and effective dosage regimen using oral olanzapine has been established. In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hours) and the clearance was reduced (17.5 versus 18.2 l/hr). The pharmacokinetic variability observed in the elderly is within the range for the non-elderly. In 44 patients with schizophrenia &gt;65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
 
 <div style=\"page-break-after: always\"></div>
-
-effective dosage regimen using oral olanzapine has been established. In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hours) and the clearance was reduced (17.5 versus 18.2 l/hr). The pharmacokinetic variability observed in the elderly is within the range for the non-elderly. In 44 patients with schizophrenia &gt;65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
 
 ## Renal impairment
 
@@ -536,11 +539,9 @@ Signs of oral toxicity in rodents were characteristic of potent antipsychotic co
 
 In studies up to 3 months duration in mice and up to 1 year in rats and dogs, the predominant effects were CNS depression, anticholinergic effects, and peripheral haematological disorders. Tolerance developed to the CNS depression. Growth parameters were decreased at high doses. Reversible effects consistent with elevated prolactin in rats included decreased weights of ovaries and uterus and morphologic changes in vaginal epithelium and in mammary gland.
 
-Haematologic toxicity: Effects on haematology parameters were found in each species, including doserelated reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found. Reversible neutropenia,
+Haematologic toxicity: Effects on haematology parameters were found in each species, including doserelated reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found. Reversible neutropenia, thrombocytopenia, or anaemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12 mg dose). In cytopenic dogs, there were no undesirable effects on progenitor and proliferating cells in the bone marrow.
 
 <div style=\"page-break-after: always\"></div>
-
-thrombocytopenia, or anaemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12 mg dose). In cytopenic dogs, there were no undesirable effects on progenitor and proliferating cells in the bone marrow.
 
 ## Reproductive toxicity
 
@@ -631,6 +632,8 @@ It is important to note that there is more solvent in the vial than is needed to
 
 Remove by grasping the Luer hub of the needle protection device with thumb and forefinger, keeping the free fingers clear of the end of the device containing the needle point (Fig. 3).
 
+KEEP
+
 <!-- image -->
 
 9. Tap the vial firmly and repeatedly on a hard surface until no powder is visible. Protect the surface to cushion impact. (See Figure A)
@@ -666,9 +669,9 @@ This table confirms the final ZYPADHERA suspension volume to inject.  Suspension
 
 |   Dose (mg) |   Final volume to inject (ml) |
 |-------------|-------------------------------|
-|         150 |                           1   |
+|         150 |                           1.0 |
 |         210 |                           1.4 |
-|         300 |                           2   |
+|         300 |                           2.0 |
 |         405 |                           2.7 |
 
 1. Determine which needle will be used to administer the injection to the patient. For obese patients, the 50 mm needle is recommended for injection:
@@ -1188,7 +1191,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-ZYPADHERA 210 mg powder and solvent for prolonged release suspension for injection ZYPADHERA 300 mg powder and solvent for prolonged release suspension for injection ZYPADHERA 405 mg powder and solvent for prolonged release suspension for injection olanzapine
+ZYPADHERA 210 mg powder and solvent for prolonged release suspension for injection ZYPADHERA 300 mg powder and solvent for prolonged release suspension for injection ZYPADHERA 405 mg powder and solvent for prolonged release suspension for injection
+
+olanzapine
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1300,6 +1305,10 @@ The following symptoms may occur in newborn babies, of mothers that have used ZY
 
 Do not drive or operate machinery for the remainder of the day after each injection.
 
+## ZYPADHERA contains polysorbate 80
+
+This medicine contains 1 mg of polysorbate 80 in each ml of solvent. After reconstitution ZYPADHERA 210 mg contains 1.3 mg, ZYPADHERA 300 mg contains 1.8 mg and ZYPADHERA 405 mg contains 2.3 mg of polysorbate 80. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## ZYPADHERA contains sodium
 
 After reconstitution this medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially sodium-free.
@@ -1316,15 +1325,13 @@ This medicine will be given to you under medical supervision, it is therefore un
 
 Patients who have been given too much olanzapine have also experienced the following symptoms:
 
-- rapid beating of the heart, agitation/aggressiveness, problems with speech, unusual movements (especially of the face or tongue) and reduced level of consciousness.
+- rapid beating of the heart, agitation/aggressiveness, problems with speech, unusual movements (especially of the face or tongue) and reduced level of consciousness. Other symptoms may include:
 
-Other symptoms may include:
+<div style=\"page-break-after: always\"></div>
 
 - acute confusion, seizures (epilepsy), coma, a combination of fever, faster breathing, sweating, muscle stiffness, and drowsiness or sleepiness; slower breathing, aspiration, high or low blood pressure, abnormal rhythms of the heart.
 
 Contact your doctor or hospital straight away if you experience any of the above symptoms.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you miss an injection of ZYPADHERA
 
@@ -1355,11 +1362,9 @@ Other very common side effects (may affect more than 1 in 10 people) include wei
 
 Other common side effects (may affect up to 1 in 10 people) include changes in the levels of some blood cells, circulating fats and in early treatment, temporary increases in liver enzymes; increases in the level of sugars in the blood and urine; increases in levels of uric acid and creatine phosphokinase in the blood; feeling more hungry; dizziness; restlessness; tremor; unusual movements (dyskinesias); constipation; dry mouth; rash; loss of strength; extreme tiredness; water retention leading to swelling of the hands, ankles or feet; fever; joint pain; and sexual dysfunctions such as decreased libido in males and females or erectile dysfunction in males.
 
-Other uncommon side effects (may affect up to 1 in 100 people) include hypersensitivity (e.g. swelling in the mouth and throat, itching; rash); diabetes or the worsening of diabetes, occasionally associated with ketoacidosis (ketones in the blood and urine) or coma; seizures, usually associated with a history of seizures (epilepsy); muscle stiffness or spasms (including eye movements); restless legs syndrome; problems with speech; stuttering; slow heart rate; sensitivity to sunlight; bleeding from the nose: abdominal distension; drooling; memory loss or forgetfulness; urinary incontinence; lack of ability to
-
 <div style=\"page-break-after: always\"></div>
 
-urinate; hair loss; absence or decrease in menstrual periods; and changes in breasts in males and females such as an abnormal production of breast milk or abnormal growth.
+Other uncommon side effects (may affect up to 1 in 100 people) include hypersensitivity (e.g. swelling in the mouth and throat, itching; rash); diabetes or the worsening of diabetes, occasionally associated with ketoacidosis (ketones in the blood and urine) or coma; seizures, usually associated with a history of seizures (epilepsy); muscle stiffness or spasms (including eye movements); restless legs syndrome; problems with speech; stuttering; slow heart rate; sensitivity to sunlight; bleeding from the nose: abdominal distension; drooling; memory loss or forgetfulness; urinary incontinence; lack of ability to urinate; hair loss; absence or decrease in menstrual periods; and changes in breasts in males and females such as an abnormal production of breast milk or abnormal growth.
 
 Rare side effects (may affect up to 1 in 1000 people) include lowering of normal body temperature; abnormal rhythms of the heart; sudden unexplained death; inflammation of the pancreas causing severe stomach pain, fever and sickness; liver disease appearing as yellowing of the skin and white parts of the eyes; muscle disease presenting as unexplained aches and pains; and prolonged and/or painful erection.
 
@@ -1393,6 +1398,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is olanzapine.
 
+<div style=\"page-break-after: always\"></div>
+
 ZYPADHERA 210 mg: Each vial contains olanzapine pamoate monohydrate equivalent to 210 mg olanzapine.
 
 ZYPADHERA 300 mg: Each vial contains olanzapine pamoate monohydrate equivalent to 300 mg olanzapine.
@@ -1400,8 +1407,6 @@ ZYPADHERA 300 mg: Each vial contains olanzapine pamoate monohydrate equivalent t
 ZYPADHERA 405 mg: Each vial contains olanzapine pamoate monohydrate equivalent to 405 mg olanzapine.
 
 After reconstitution: 1ml suspension contains 150 mg/ml olanzapine.
-
-<div style=\"page-break-after: always\"></div>
 
 The solvent ingredients are carmellose sodium, mannitol, polysorbate 80, water for injections, hydrochloric acid and sodium hydroxide.
 
@@ -1425,7 +1430,7 @@ CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany.
 
 CHEPLAPHARM Arzneimittel GmbH, Ziegelhof 23-24, 17489 Greifswald, Germany.
 
-This leaflet was last revised in {mmm YYYY}
+## This leaflet was last revised in {mmm YYYY}
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
@@ -1519,9 +1524,9 @@ This table confirms the final ZYPADHERA suspension volume to inject.  Suspension
 
 |   Dose (mg) |   Final volume to inject (ml) |
 |-------------|-------------------------------|
-|         150 |                           1   |
+|         150 |                           1.0 |
 |         210 |                           1.4 |
-|         300 |                           2   |
+|         300 |                           2.0 |
 |         405 |                           2.7 |
 
 1. Determine which needle will be used to administer the injection to the patient. For obese patients, the 50 mm needle is recommended for injection:

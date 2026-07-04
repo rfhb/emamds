@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-13 13:25:00
+document_datetime: 2026-07-01 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hetronifly.html
 document_name: hetronifly.html
 version: success
-processing_time: 0.1270576
-conversion_datetime: 2026-05-22 22:37:19.677666
+processing_time: 0.1632027
+conversion_datetime: 2026-07-04 13:08:48.067411
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Hetronifly
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Hetronifly used?
+### How is Hetronifly used?
 
 The medicine can only be obtained with a prescription and treatment should be started and monitored by a doctor experienced in the treatment of cancer.
 
@@ -70,11 +70,11 @@ Treatment can continue for as long as the patient benefits from it but may be pa
 
 For more information about using Hetronifly, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Hetronifly work?
+### How does Hetronifly work?
 
 The active substance in Hetronifly, serplulimab, is a monoclonal antibody, a protein that has been designed to attach to and block a receptor (target) called PD-1, which is found on certain cells of the immune system (the body's natural defences). Some cancers can make proteins (PD-L1 and PD-L2) that combine with PD-1 to switch off the activity of the immune cells, preventing them from attacking the cancer. By blocking PD-1, serplulimab stops the cancer switching off these immune cells, thereby increasing the immune system's ability to kill the cancer cells.
 
-## What benefits of Hetronifly have been shown in studies?
+### What benefits of Hetronifly have been shown in studies?
 
 **Small-cell lung cancer**
 
@@ -94,7 +94,7 @@ The median length of time patients given Hetronifly with chemotherapy lived was 
 
 Studies carried out with Hetronifly are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with Hetronifly?
+### What are the side effects and restrictions with Hetronifly?
 
 For the full list of side effects and restrictions with Hetronifly, see the package leaflet.
 
@@ -104,7 +104,7 @@ Some side effects can be serious. The most frequently reported with Hetronifly w
 
 Hetronifly can cause side effects related to the activity of the immune system, which may cause inflammation of body organs and tissues. While these can be serious, most of the immune-related side effects resolve with appropriate treatment or on stopping Hetronifly. The most common immune-related side effect (which may affect more than 1 in 10 people) is hypothyroidism (an underactive thyroid gland). Other immune-related side effects (which may affect up to 1 in 10 people) include hyperthyroidism (an overactive thyroid gland), skin problems, such as rash, increased liver enzymes in the blood indicating problems with the liver, lung problems, kidney problems and colitis (inflammation of the large bowel).
 
-## Why is Hetronifly authorised in the EU?
+### Why is Hetronifly authorised in the EU?
 
 Hetronifly was shown to be effective in prolonging survival when given with chemotherapy to adults with extensive-stage SCLC who had not been previously treated. Hetronifly in combination with chemotherapy was also shown to be more effective than placebo and chemotherapy at treating adults with advanced or metastatic non-squamous NSCLC and adults with OSCC that cannot be removed by surgery, is locally advanced, has come back or is metastatic, and produces certain levels of PD-L1.
 
@@ -112,7 +112,7 @@ Hetronifly's safety profile is similar to that of other cancer medicines from th
 
 The European Medicines Agency therefore decided that Hetronifly's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Hetronifly?
+### What measures are being taken to ensure the safe and effective use of Hetronifly?
 
 The company that markets Hetronifly will provide educational materials, including a patient card, about side effects affecting the immune system and severe side effects related to the infusion. The educational materials will contain information on signs and symptoms of these side effects, the importance of monitoring patients for side effects and how they should be managed if they occur.
 
@@ -120,7 +120,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Hetronifly are continuously monitored. Suspected side effects reported with Hetronifly are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Hetronifly
+### Other information about Hetronifly
 
 Hetronifly received a marketing authorisation valid throughout the EU on 04 February 2025.
 
@@ -134,7 +134,7 @@ English (EN) (166.1 KB - PDF)
 
 [View](/en/documents/overview/hetronifly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-718)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (180.62 KB - PDF)
 
@@ -166,7 +166,7 @@ Deutsch (DE) (166.79 KB - PDF)
 
 [View](/de/documents/overview/hetronifly-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (155.9 KB - PDF)
+eesti (ET) (155.9 KB - PDF)
 
 **First published:** 11/02/2025 **Last updated:** 13/05/2026
 
@@ -196,13 +196,13 @@ italiano (IT) (158.32 KB - PDF)
 
 [View](/it/documents/overview/hetronifly-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (187.71 KB - PDF)
+latviešu (LV) (187.71 KB - PDF)
 
 **First published:** 11/02/2025 **Last updated:** 13/05/2026
 
 [View](/lv/documents/overview/hetronifly-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (180.3 KB - PDF)
+lietuvių (LT) (180.3 KB - PDF)
 
 **First published:** 11/02/2025 **Last updated:** 13/05/2026
 
@@ -256,7 +256,7 @@ slovenščina (SL) (176.82 KB - PDF)
 
 [View](/sl/documents/overview/hetronifly-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (157.45 KB - PDF)
+suomi (FI) (157.45 KB - PDF)
 
 **First published:** 11/02/2025 **Last updated:** 13/05/2026
 
@@ -270,9 +270,9 @@ svenska (SV) (158.41 KB - PDF)
 
 Hetronifly : EPAR - Risk management plan
 
-English (EN) (786.25 KB - PDF)
+English (EN) (1.02 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/rmp/hetronifly-epar-risk-management-plan_en.pdf)
 
@@ -280,167 +280,168 @@ English (EN) (786.25 KB - PDF)
 
 Hetronifly : EPAR - Product information
 
-English (EN) (846.28 KB - PDF)
+English (EN) (818.68 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/hetronifly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-122)
 
-български (BG) (953.18 KB - PDF)
+български (BG) (1014.23 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/hetronifly-epar-product-information_bg.pdf)
 
-español (ES) (872.69 KB - PDF)
+español (ES) (966.32 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/hetronifly-epar-product-information_es.pdf)
 
-čeština (CS) (966.74 KB - PDF)
+čeština (CS) (1.01 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/hetronifly-epar-product-information_cs.pdf)
 
-dansk (DA) (951.97 KB - PDF)
+dansk (DA) (958.08 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/hetronifly-epar-product-information_da.pdf)
 
-Deutsch (DE) (907.46 KB - PDF)
+Deutsch (DE) (630.83 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/hetronifly-epar-product-information_de.pdf)
 
-eesti keel (ET) (936.94 KB - PDF)
+eesti (ET) (1.1 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/hetronifly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (932.02 KB - PDF)
+ελληνικά (EL) (1 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/hetronifly-epar-product-information_el.pdf)
 
-français (FR) (1 MB - PDF)
+français (FR) (1.02 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/hetronifly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.06 MB - PDF)
+hrvatski (HR) (1.11 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/hetronifly-epar-product-information_hr.pdf)
 
-íslenska (IS) (940.2 KB - PDF)
+italiano (IT) (998 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
-
-[View](/is/documents/product-information/hetronifly-epar-product-information_is.pdf)
-
-italiano (IT) (954.18 KB - PDF)
-
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/hetronifly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (939.89 KB - PDF)
+latviešu (LV) (1020.79 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/hetronifly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1011.45 KB - PDF)
+lietuvių (LT) (983.91 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/hetronifly-epar-product-information_lt.pdf)
 
-magyar (HU) (932.98 KB - PDF)
+magyar (HU) (922.5 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/hetronifly-epar-product-information_hu.pdf)
 
-Malti (MT) (986.74 KB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/hetronifly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (954.07 KB - PDF)
+Nederlands (NL) (706.03 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/hetronifly-epar-product-information_nl.pdf)
 
-norsk (NO) (975.08 KB - PDF)
+polski (PL) (1.11 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
-
-[View](/no/documents/product-information/hetronifly-epar-product-information_no.pdf)
-
-polski (PL) (1.01 MB - PDF)
-
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/hetronifly-epar-product-information_pl.pdf)
 
-português (PT) (948 KB - PDF)
+português (PT) (974.01 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/hetronifly-epar-product-information_pt.pdf)
 
-română (RO) (1.01 MB - PDF)
+română (RO) (916.86 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/hetronifly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (960.21 KB - PDF)
+slovenčina (SK) (1000.36 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/hetronifly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1012.78 KB - PDF)
+slovenščina (SL) (1.06 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/hetronifly-epar-product-information_sl.pdf)
 
-Suomi (FI) (915.62 KB - PDF)
+suomi (FI) (930.08 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/hetronifly-epar-product-information_fi.pdf)
 
-svenska (SV) (947.68 KB - PDF)
+svenska (SV) (1.04 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/hetronifly-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000284402
+Íslenska (IS) (972.15 KB - PDF)
 
-30/04/2026
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information/hetronifly-epar-product-information_is.pdf)
+
+norsk (NO) (1011.09 KB - PDF)
+
+**First published:** 11/02/2025 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information/hetronifly-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000290021
+
+19/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -458,7 +459,7 @@ English (EN) (52.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-767)
 
 български (BG) (60.53 KB - PDF)
 
@@ -490,7 +491,7 @@ Deutsch (DE) (55.81 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (51.52 KB - PDF)
+eesti (ET) (51.52 KB - PDF)
 
 **First published:** 11/02/2025
 
@@ -514,25 +515,19 @@ hrvatski (HR) (55.76 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (54.9 KB - PDF)
-
-**First published:** 11/02/2025
-
-[View](/is/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (52.67 KB - PDF)
 
 **First published:** 11/02/2025
 
 [View](/it/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (57.62 KB - PDF)
+latviešu (LV) (57.62 KB - PDF)
 
 **First published:** 11/02/2025
 
 [View](/lv/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (57.42 KB - PDF)
+lietuvių (LT) (57.42 KB - PDF)
 
 **First published:** 11/02/2025
 
@@ -555,12 +550,6 @@ Nederlands (NL) (52.89 KB - PDF)
 **First published:** 11/02/2025
 
 [View](/nl/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (55.71 KB - PDF)
-
-**First published:** 11/02/2025
-
-[View](/no/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (58.85 KB - PDF)
 
@@ -592,7 +581,7 @@ slovenščina (SL) (54.22 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (51.63 KB - PDF)
+suomi (FI) (51.63 KB - PDF)
 
 **First published:** 11/02/2025
 
@@ -604,29 +593,32 @@ svenska (SV) (53.46 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (54.9 KB - PDF)
+
+**First published:** 11/02/2025
+
+[View](/is/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (55.71 KB - PDF)
+
+**First published:** 11/02/2025
+
+[View](/no/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Hetronifly
-
-Active substance
-
-serplulimab
-
-International non-proprietary name (INN) or common name
-
-serplulimab
-
-Therapeutic area (MeSH)
-
-- Small Cell Lung Carcinoma
-- Carcinoma, Non-Small-Cell Lung
-- Esophageal Squamous Cell Carcinoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FF12
+- **Name of medicine**
+    - Hetronifly
+- **Active substance**
+    - serplulimab
+- **International non-proprietary name (INN) or common name**
+    - serplulimab
+- **Therapeutic area (MeSH)**
+        - Small Cell Lung Carcinoma
+        - Carcinoma, Non-Small-Cell Lung
+        - Esophageal Squamous Cell Carcinoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FF12
 
 ### Pharmacotherapeutic group
 
@@ -651,31 +643,18 @@ Hetronifly in combination with fluoropyrimidine- and platinum-based chemotherapy
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006170
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted
-
-19/09/2024
-
-Marketing authorisation issued
-
-03/02/2025
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/006170
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+- **Opinion adopted**
+    - 19/09/2024
+- **Marketing authorisation issued**
+    - 03/02/2025
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -683,15 +662,35 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Hetronifly : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (193.58 KB - PDF)
+English (EN) (190.92 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 13/05/2026
+**First published:** 03/04/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/procedural-steps-after/hetronifly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Hetronifly-VR-0000290021 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3134594
+
+English (EN) (8.01 MB - PDF)
+
+**First published:** 01/07/2026
+
+[View](/en/documents/variation-report/hetronifly-vr-0000290021-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Hetronifly (VR/0000290021)
+
+Adopted Reference Number: EMADOC-1700519818-3134638
+
+English (EN) (157.13 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000290021_en.pdf)
 
 Hetronifly-VR-0000282407 : EPAR - Assessment report - Variation
 
@@ -733,7 +732,7 @@ English (EN) (146.19 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-hetronifly-vr-0000282407_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Hetronifly : EPAR - Public assessment report
 
@@ -767,6 +766,10 @@ English (EN) (112.62 KB - PDF)
 
 ## News on Hetronifly
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026)
+
+22/05/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2026)
 
 27/03/2026
@@ -778,10 +781,9 @@ English (EN) (112.62 KB - PDF)
 ## More information on Hetronifly
 
 - [EU/3/22/2731 - orphan designation for treatment of small cell lung cancer](/en/medicines/human/orphan-designations/eu-3-22-2731)
-- [Hetronifly - opinion on variation to marketing authorisation](/en/medicines/human/variation/hetronifly)
 
 **This page was last updated on**
 
-13/05/2026
+01/07/2026
 
 ## Share this page

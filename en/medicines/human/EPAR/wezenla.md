@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-18 09:48:00
+document_datetime: 2026-07-01 12:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wezenla.html
 document_name: wezenla.html
 version: success
-processing_time: 0.1048539
-conversion_datetime: 2026-02-21 13:09:31.888708
+processing_time: 0.1842818
+conversion_datetime: 2026-07-04 12:59:13.211298
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Wezenla
 
 [RSS](/en/individual-human-medicine.xml/241792)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ustekinumab Medicine Human Authorised
+ustekinumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -54,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Wezenla used?
+### How is Wezenla used?
 
 Wezenla can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Wezenla is used for.
 
@@ -64,11 +66,11 @@ In Crohn's disease, treatment is started Wezenla as an infusion (drip) into a ve
 
 Patients or their caregivers may inject Wezenla once they have been trained, if their doctor thinks that this is appropriate. For more information about using Wezenla, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Wezenla work?
+### How does Wezenla work?
 
 The active substance in Wezenla, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Wezenla have been shown in studies?
+### What benefits of Wezenla have been shown in studies?
 
 Laboratory studies comparing Wezenla with Stelara have shown that the active substance in Wezenla is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Wezenla produces similar levels of the active substance in the body to giving Stelara.
 
@@ -76,7 +78,7 @@ In addition, a study in 563 patients with moderate to severe plaque psoriasis sh
 
 Because Wezenla is a biosimilar medicine, the studies on effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Wezenla.
 
-## What are the risks associated with Wezenla?
+### What are the risks associated with Wezenla?
 
 The safety of Wezenla has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
@@ -84,19 +86,19 @@ For the complete list of side effects and restrictions of Wezenla, see the packa
 
 The most common side effects with ustekinumab (seen in more than 1 in 20 people during clinical trials) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported is serious hypersensitivity (allergic reaction).
 
-## Why is Wezenla authorised in the EU?
+### Why is Wezenla authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Wezenla has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, studies in plaque psoriasis have shown that Wezenla and Stelara are equivalent in terms of safety and effectiveness for this condition.
 
 All these data were considered sufficient to conclude that Wezenla will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Wezenla outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Wezenla?
+### What measures are being taken to ensure the safe and effective use of Wezenla?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Wezenla have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Wezenla are continuously monitored. Suspected side effects reported with Wezenla are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Wezenla
+### Other information about Wezenla
 
 Wezenla received a marketing authorisation valid throughout the EU on 20 June 2024.
 
@@ -104,275 +106,141 @@ Wezenla : EPAR - Medicine overview
 
 English (EN) (134.76 KB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/en/documents/overview/wezenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-297)
+[Other languages (22)](#file-language-dropdown-248)
 
 български (BG) (162.8 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/bg/documents/overview/wezenla-epar-medicine-overview_bg.pdf)
 
 español (ES) (135.22 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/es/documents/overview/wezenla-epar-medicine-overview_es.pdf)
 
 čeština (CS) (159.67 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/cs/documents/overview/wezenla-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (135.83 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/da/documents/overview/wezenla-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (138.54 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/de/documents/overview/wezenla-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (132.48 KB - PDF)
+eesti (ET) (132.48 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/et/documents/overview/wezenla-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.5 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/el/documents/overview/wezenla-epar-medicine-overview_el.pdf)
 
 français (FR) (136.12 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/fr/documents/overview/wezenla-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (157.12 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/hr/documents/overview/wezenla-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (134.11 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/it/documents/overview/wezenla-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (164.93 KB - PDF)
+latviešu (LV) (164.93 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/lv/documents/overview/wezenla-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (159.11 KB - PDF)
+lietuvių (LT) (159.11 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/lt/documents/overview/wezenla-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (158.12 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/hu/documents/overview/wezenla-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (160.19 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/mt/documents/overview/wezenla-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (137.84 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/nl/documents/overview/wezenla-epar-medicine-overview_nl.pdf)
 
 polski (PL) (161.31 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/pl/documents/overview/wezenla-epar-medicine-overview_pl.pdf)
 
 português (PT) (135.6 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/pt/documents/overview/wezenla-epar-medicine-overview_pt.pdf)
 
 română (RO) (154.41 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/ro/documents/overview/wezenla-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (159 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/sk/documents/overview/wezenla-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (156.43 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/sl/documents/overview/wezenla-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (131.77 KB - PDF)
+suomi (FI) (131.77 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/fi/documents/overview/wezenla-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (133.48 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-19/09/2025
+**First published:** 18/07/2024 **Last updated:** 19/09/2025
 
 [View](/sv/documents/overview/wezenla-epar-medicine-overview_sv.pdf)
 
@@ -380,9 +248,7 @@ Wezenla : EPAR - Risk management plan (archive)
 
 English (EN) (2.24 MB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/en/documents/rmp-summary/wezenla-epar-risk-management-plan-archive_en.pdf)
 
@@ -398,311 +264,168 @@ English (EN) (2.92 MB - PDF)
 
 Wezenla : EPAR - Product information
 
-English (EN) (1.67 MB - PDF)
+English (EN) (1.66 MB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information/wezenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-562)
+[Other languages (24)](#file-language-dropdown-803)
 
-български (BG) (2.38 MB - PDF)
+български (BG) (2.35 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information/wezenla-epar-product-information_bg.pdf)
 
-español (ES) (2.26 MB - PDF)
+español (ES) (2.25 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information/wezenla-epar-product-information_es.pdf)
 
 čeština (CS) (2.3 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information/wezenla-epar-product-information_cs.pdf)
 
-dansk (DA) (1.85 MB - PDF)
+dansk (DA) (1.84 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information/wezenla-epar-product-information_da.pdf)
 
 Deutsch (DE) (2.21 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information/wezenla-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.79 MB - PDF)
+eesti (ET) (1.8 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information/wezenla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.39 MB - PDF)
+ελληνικά (EL) (2.36 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information/wezenla-epar-product-information_el.pdf)
 
 français (FR) (1.92 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information/wezenla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.3 MB - PDF)
+hrvatski (HR) (2.29 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information/wezenla-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.1 MB - PDF)
+italiano (IT) (1.97 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
-
-[View](/is/documents/product-information/wezenla-epar-product-information_is.pdf)
-
-italiano (IT) (1.88 MB - PDF)
-
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information/wezenla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.96 MB - PDF)
+latviešu (LV) (1.89 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information/wezenla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.98 MB - PDF)
+lietuvių (LT) (1.97 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information/wezenla-epar-product-information_lt.pdf)
 
-magyar (HU) (2.31 MB - PDF)
+magyar (HU) (2.3 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information/wezenla-epar-product-information_hu.pdf)
 
-Malti (MT) (2.44 MB - PDF)
+Malti (MT) (2.4 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information/wezenla-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.17 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information/wezenla-epar-product-information_nl.pdf)
 
-norsk (NO) (1.89 MB - PDF)
+polski (PL) (2.41 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
-
-[View](/no/documents/product-information/wezenla-epar-product-information_no.pdf)
-
-polski (PL) (2.43 MB - PDF)
-
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information/wezenla-epar-product-information_pl.pdf)
 
-português (PT) (1.83 MB - PDF)
+português (PT) (1.9 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information/wezenla-epar-product-information_pt.pdf)
 
-română (RO) (2.3 MB - PDF)
+română (RO) (2.33 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information/wezenla-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.91 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information/wezenla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.93 MB - PDF)
+slovenščina (SL) (1.9 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information/wezenla-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.82 MB - PDF)
+suomi (FI) (1.87 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information/wezenla-epar-product-information_fi.pdf)
 
 svenska (SV) (1.83 MB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-18/02/2026
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information/wezenla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000332249 13/02/2026
+Íslenska (IS) (2.1 MB - PDF)
+
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information/wezenla-epar-product-information_is.pdf)
+
+norsk (NO) (1.94 MB - PDF)
+
+**First published:** 18/07/2024 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information/wezenla-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000340455
+
+25/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -716,311 +439,170 @@ Wezenla : EPAR - All authorised presentations
 
 English (EN) (48.77 KB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/en/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-270)
+[Other languages (24)](#file-language-dropdown-487)
 
 български (BG) (56.01 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/bg/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (48.15 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/es/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.45 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/cs/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (51.52 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/da/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (51.31 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/de/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.68 KB - PDF)
+eesti (ET) (45.68 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/et/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (51.58 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/el/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (47.34 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/fr/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (48.72 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/hr/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (50.04 KB - PDF)
-
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
-
-[View](/is/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.63 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/it/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (51.03 KB - PDF)
+latviešu (LV) (51.03 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/lv/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (51.22 KB - PDF)
+lietuvių (LT) (51.22 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/lt/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (50.65 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/hu/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (53.32 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/mt/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (47 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/nl/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (50.27 KB - PDF)
-
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
-
-[View](/no/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (53.31 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/pl/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (49.07 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/pt/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (49.55 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/ro/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (51.64 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/sk/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (49.93 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/sl/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (46.11 KB - PDF)
+suomi (FI) (46.11 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/fi/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.99 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/04/2025
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
 
 [View](/sv/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (50.04 KB - PDF)
+
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
+
+[View](/is/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (50.27 KB - PDF)
+
+**First published:** 18/07/2024 **Last updated:** 24/04/2025
+
+[View](/no/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Wezenla Active substance ustekinumab International non-proprietary name (INN) or common name ustekinumab Therapeutic area (MeSH)
-
-- Psoriasis
-- Arthritis, Psoriatic
-- Crohn Disease
-
-Anatomical therapeutic chemical (ATC) code L04AC05
+- **Name of medicine**
+    - Wezenla
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Crohn Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -1034,23 +616,20 @@ Immunosuppressants
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006132
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Amgen Technology (Ireland) UC
-
-Pottery Road
-
-Opinion adopted 25/04/2024 Marketing authorisation issued 20/06/2024 Revision 8
+- **EMA product number**
+    - EMEA/H/C/006132
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Amgen Technology (Ireland) UC Pottery Road  Dun Laoghaire  Co. Dublin  Ireland
+- **Opinion adopted**
+    - 25/04/2024
+- **Marketing authorisation issued**
+    - 20/06/2024
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -1058,15 +637,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Wezenla : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (150.16 KB - PDF)
 
-**First published:** 02/06/2025
-
-**Last updated:** 02/06/2025
+**First published:** 02/06/2025 **Last updated:** 02/06/2025
 
 [View](/en/documents/procedural-steps-after/wezenla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf-0)
 
@@ -1074,19 +651,15 @@ Wezenla : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (148.16 KB - PDF)
 
-**First published:** 20/08/2024
-
-**Last updated:** 02/06/2025
+**First published:** 20/08/2024 **Last updated:** 02/06/2025
 
 [View](/en/documents/procedural-steps-after/wezenla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Wezenla : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/228742/2024
+Adopted Reference Number: EMA/228742/2024
 
 English (EN) (2.89 MB - PDF)
 
@@ -1096,9 +669,7 @@ English (EN) (2.89 MB - PDF)
 
 CHMP summary of positive opinion for Wezenla
 
-Adopted
-
-Reference Number: EMA/153422/2024
+Adopted Reference Number: EMA/153422/2024
 
 English (EN) (152.91 KB - PDF)
 
@@ -1106,316 +677,172 @@ English (EN) (152.91 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-wezenla_en.pdf)
 
-#### News on Wezenla
+## News on Wezenla
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024)
 
-#### Product information - with tracked changes
+26/04/2024
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Wezenla : EPAR - Product information - tracked changes
 
-English (EN) (9.92 MB - DOCX)
+English (EN) (9.93 MB - DOCX)
 
-**First published:** 02/06/2025
-
-**Last updated:** 18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/en/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-973)
 
-български (BG) (8.62 MB - DOCX)
+български (BG) (8.66 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/bg/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (9.49 MB - DOCX)
+español (ES) (9.5 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/es/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (9.78 MB - DOCX)
+čeština (CS) (9.77 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/cs/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (9.86 MB - DOCX)
+dansk (DA) (9.89 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/da/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (9.93 MB - DOCX)
+Deutsch (DE) (9.97 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/de/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (9.84 MB - DOCX)
+eesti (ET) (9.88 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/et/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (9.54 MB - DOCX)
+ελληνικά (EL) (9.55 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/el/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (9.4 MB - DOCX)
+français (FR) (9.43 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/fr/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (9.53 MB - DOCX)
+hrvatski (HR) (9.52 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/hr/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (9.94 MB - DOCX)
-
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
-
-[View](/is/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (9.96 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/it/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (9.84 MB - DOCX)
+latviešu (LV) (9.84 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/lv/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (9.85 MB - DOCX)
+lietuvių (LT) (9.89 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/lt/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (5.93 MB - DOCX)
+magyar (HU) (5.96 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/hu/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (10.25 MB - DOCX)
+Malti (MT) (10.26 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/mt/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (9.44 MB - DOCX)
+Nederlands (NL) (9.49 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/nl/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (10.15 MB - DOCX)
+polski (PL) (9.77 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
-
-[View](/no/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (9.78 MB - DOCX)
-
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/pl/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (9.39 MB - DOCX)
+português (PT) (9.43 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/pt/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (9.48 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/ro/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (9.39 MB - DOCX)
+slovenčina (SK) (9.42 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/sk/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (9.4 MB - DOCX)
+slovenščina (SL) (9.41 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/sl/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (9.89 MB - DOCX)
+suomi (FI) (9.94 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/fi/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (9.61 MB - DOCX)
 
-**First published:**
-
-02/06/2025
-
-**Last updated:**
-
-18/02/2026
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
 
 [View](/sv/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 18/02/2026
+Íslenska (IS) (10 MB - DOCX)
+
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
+
+[View](/is/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (10.15 MB - DOCX)
+
+**First published:** 02/06/2025 **Last updated:** 01/07/2026
+
+[View](/no/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_no.docx)
+
+**This page was last updated on**
+
+01/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

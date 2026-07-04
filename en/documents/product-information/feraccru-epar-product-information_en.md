@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-12-18 16:00:35
-document_pages: 25
+document_datetime: 2026-06-25 14:21:45
+document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/feraccru-epar-product-information_en.pdf
 document_name: feraccru-epar-product-information_en.pdf
 version: success
-processing_time: 5.434529
-conversion_datetime: 2025-12-28 11:42:23.897128
+processing_time: 5.7291144
+conversion_datetime: 2026-07-04 15:05:26.482687
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,23 +32,27 @@ Each capsule contains 30 mg iron (as ferric maltol).
 
 ## Excipient(s) with known effect
 
-Each capsule contains 91.5 mg of lactose monohydrate, 0.3 mg of Allura Red AC (E129) and 0.1 mg Sunset Yellow FCF (E 110). For the full list of excipients, see section 6.1.
+Each capsule contains 91.5 mg of lactose monohydrate, 0.3 mg of Allura Red AC (E129) and 0.1 mg Sunset Yellow FCF (E 110).
+
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Hard capsule.
 
-Red capsule (19 mm long x 7 mm diameter) printed '30'.
+Red capsule (19 mm long x 7 mm diameter) printed '30' .
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Feraccru is indicated in adults for the treatment of iron deficiency.
+Feraccru is indicated for the treatment of iron deficiency in adults and adolescents aged 12 years and older.
 
 ## 4.2 Posology and method of administration
 
 Posology
+
+Adults and adolescents aged 12 years and older
 
 The recommended dose is one capsule twice daily, morning and evening, on an empty stomach (see section 4.5).
 
@@ -60,19 +64,19 @@ No dose adjustment is needed in elderly patients or patients with renal impairme
 
 No clinical data on the need to adjust the dose in patients with impaired hepatic function and/or renal impairment (eGFR &lt;15 ml/min/1.73 m 2 ) are available.
 
-Paediatric population
+## Paediatric population
 
-The safety and efficacy of Feraccru in children (17 years and under) has not yet been established. No data are available
+Currently available efficacy and safety data in the paediatric population are described in sections 4.8 and 5.1.
+
+This medicinal product should not be used in children under 12 years of age, as the capsules do not allow appropriate dosing (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
 Oral use.
 
-Feraccru capsules should be taken whole on an empty stomach (with half a glass of water), as the
-
-<div style=\"page-break-after: always\"></div>
-
-absorption of iron is reduced when it is taken with food (see section 4.5).
+The capsules should be taken whole on an empty stomach (with half a glass of water), as the absorption of iron is reduced when it is taken with food (see section 4.5).
 
 ## 4.3 Contraindications
 
@@ -86,13 +90,13 @@ Iron deficiency or iron deficiency anaemia (IDA) diagnosis should be made based 
 
 Feraccru is not recommended for use in patients with inflammatory bowel disease (IBD) flare or in IBD- patients with haemoglobin (Hb) &lt;9.5 g/dl.
 
-Concomitant administration of ferric maltol with intravenous iron, dimercaprol, chloramphenicol or methyldopa is to be avoided (see section 4.5)
+Concomitant administration of ferric maltol with intravenous iron, dimercaprol, chloramphenicol or methyldopa is to be avoided (see section 4.5).
 
 This medicinal product contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 This medicinal product also contains Allura Red AC (E 129) and Sunset Yellow FCF (E 110): these may cause allergic reactions.
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -106,15 +110,15 @@ Concomitant administration of Feraccru and intravenous iron may induce hypotensi
 
 ## Medicinal products that may impact absorption and distribution of iron from Feraccru
 
-Absorption of oral iron may be reduced by calcium and magnesium salts (such as magnesium trisilicate). Administration of iron preparations with such compounds should be separated by at least 2 hours
+Absorption of oral iron may be reduced by calcium and magnesium salts (such as magnesium trisilicate). Administration of iron preparations with such compounds should be separated by at least 2 hours.
 
 ## Impact of Feraccru on absorption of other medicinal products
 
 Oral iron is known to reduce the absorption of penicillamine, bisphosphonates, ciprofloxacin, entacapone, levodopa, levofloxacin, levothyroxine (thyroxine) moxifloxacin, mycophenolate, norfloxacin and ofloxacin. These medicinal products should be given at least 2 hours apart from Feraccru.
 
-Absorption of both iron and antibiotic may be reduced if oral iron is given with tetracycline. Administration of iron preparations and tetracyclines should be separated by 2 to 3 hours.
-
 <div style=\"page-break-after: always\"></div>
+
+Absorption of both iron and antibiotic may be reduced if oral iron is given with tetracycline. Administration of iron preparations and tetracyclines should be separated by 2 to 3 hours.
 
 ## Pharmacodynamic interactions
 
@@ -152,11 +156,11 @@ The most frequently reported adverse reactions were gastrointestinal symptoms (a
 
 ## Tabulated list of adverse reactions
 
-Table 1 presents all adverse reactions occurring clinical studies to date with Feraccru. Adverse reaction frequencies are defined as: very common (≥1/10), common (≥1/100, &lt;1/10), uncommon (≥1/1,000, &lt;1/100), rare (≥1/10,000, &lt;1/1,000) or very rare (&lt;1/10000).
+Table 1 presents all adverse reactions occurring clinical studies to date with Feraccru. Adverse reaction frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, &lt;1/10), uncommon (≥ 1/1,000, &lt;1/100), rare ( ≥ 1/10,000, &lt;1/1,000) or very rare (&lt;1/10000).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Adverse reactions observed during clinical studies to date.
+Table 1: Adverse reactions observed during clinical studies to date
 
 | System organ class                                   | Common                                                                                                                                | Uncommon                                                                                                             |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -167,7 +171,11 @@ Table 1: Adverse reactions observed during clinical studies to date.
 | General disorders and administration site conditions |                                                                                                                                       | Thirst                                                                                                               |
 | Investigations                                       |                                                                                                                                       | Blood alkaline phosphatase increased Blood thyroid stimulating hormone increased Gamma-glutamyltransferase increased |
 
-## Reporting of suspected adverse reactions:
+## Paediatric population
+
+The safety profile of ferric maltol in paediatric patients was assessed in two open-label, randomized studies, a Phase 1 and a Phase 3 study (see section 5.1). The Phase 1 study enrolled 37 patients aged 10 to &lt;18 years who received ferric maltol capsules. The Phase 3 study enrolled 31 patients aged 2 to &lt;18 years who received ferric maltol oral suspension. Overall, the safety profile reported in these two studies was consistent with the safety profile reported in adult patients with iron deficiency.
+
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -177,15 +185,15 @@ Iron overdose is dangerous and can be life-threatening in children, infants and 
 
 ## Symptoms of iron overdose
 
-Early signs and symptoms include nausea, vomiting, abdominal pain and diarrhoea. The vomit and stools may be grey or black. In mild cases early features improve but in more serious cases there may be evidence of hypoperfusion (cool peripheries and hypotension), metabolic acidosis and systemic toxicity.  In serious cases there can be recurrence of vomiting and gastrointestinal bleeding, up to 12 hours after ingestion.  Shock can result from hypovolaemia or direct cardiotoxicity. Evidence of hepatocellular necrosis appears at this stage with jaundice, bleeding, hypoglycaemia, encephalopathy and positive anion gap metabolic acidosis. Poor tissue perfusion may lead to renal failure. Rarely, gastric scarring causing stricture or pyloric stenosis (alone or in combination) may lead to partial or complete bowel obstruction 2-5 weeks after ingestion.
-
-Ingestion of 20 mg/kg elemental iron is potentially toxic and 200-250 mg/kg is potentially fatal. No single method of assessment is entirely satisfactory - clinical features as well as laboratory analysis must be taken into account. Serum iron levels measured at about 4 hours after ingestion is the best laboratory measure of severity.
+Early signs and symptoms include nausea, vomiting, abdominal pain and diarrhoea. The vomit and stools may be grey or black. In mild cases early features improve but in more serious cases there may be evidence of hypoperfusion (cool peripheries and hypotension), metabolic acidosis and systemic toxicity. In serious cases there can be recurrence of vomiting and gastrointestinal bleeding, up to 12 hours after ingestion. Shock can result from hypovolaemia or direct cardiotoxicity. Evidence of hepatocellular necrosis appears at this stage with jaundice, bleeding, hypoglycaemia, encephalopathy and positive anion gap metabolic acidosis. Poor tissue perfusion may lead to renal failure. Rarely, gastric scarring causing stricture or pyloric stenosis (alone or in combination) may lead to partial or complete bowel obstruction 2-5 weeks after ingestion.
 
 <div style=\"page-break-after: always\"></div>
 
+Ingestion of 20 mg/kg elemental iron is potentially toxic and 200-250 mg/kg is potentially fatal. No single method of assessment is entirely satisfactory - clinical features as well as laboratory analysis must be taken into account. Serum iron levels measured at about 4 hours after ingestion is the best laboratory measure of severity.
+
 ## Management
 
-Supportive and symptomatic measures reflecting best standard medical care should be implemented. The use of desferroxamine should be considered: for detailed information see product information provided by the manufacturer. Haemodialysis does not remove iron effectively but should be considered on a supportive basis for acute renal failure as this will facilitate removal of the iron- desferroxamine complex.
+Supportive and symptomatic measures reflecting best standard medical care should be implemented. The use of desferroxamine should be considered: for detailed information see product information provided by the manufacturer. Haemodialysis does not remove iron effectively but should be considered on a supportive basis for acute renal failure as this will facilitate removal of the irondesferroxamine complex.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -195,54 +203,83 @@ Pharmacotherapeutic group: Antianemic preparations, iron trivalent, oral prepara
 
 ## Mechanism of action
 
-Feraccru contains iron in a stable ferric state as a complex with a trimaltol ligand. The complex is designed to provide, in a controlled way, utilisable iron for uptake across the intestinal wall and transfer to the iron transport and storage proteins in the body (transferrin and ferritin, respectively). The complex dissociates on uptake from the gastro-intestinal tract and the complex itself does not enter the systemic circulation.
+Ferric maltol  contains iron in a stable ferric state as a complex with a trimaltol ligand. The complex is designed to provide, in a controlled way, utilisable iron for uptake across the intestinal wall and transfer to the iron transport and storage proteins in the body (transferrin and ferritin, respectively). The complex dissociates on uptake from the gastro-intestinal tract and the complex itself does not enter the systemic circulation.
 
 ## Clinical efficacy
 
+## Adults
+
 ## IBD Studies
 
-The safety and efficacy of Feraccru for the treatment of iron deficiency anaemia was studied in 128 patients (age range 18-76 years; 45 males and 83 females) with inactive to mildly active IBD (58 patients with Ulcerative Colitis [UC] and 70 patients with Crohn's disease [CD]) and baseline Hb concentrations between 9.5 g/dL and 12 / 13 g/dL for females / males. Patients were enrolled in one combined randomised, placebo-controlled clinical study (AEGIS 1/2).  69 % of the patients with UC had a SCCAI score ≤2 and 31 % a SCCAI score of 3.  83 % of the patients with CD had a CDAI-score
-
-&lt;150 and 17 % a CDAI-score &gt;150-220. All patients had discontinued from prior oral ferrous product (OFP) treatment:  more than 60 % of the subjects stopped taking prior OFP due to adverse events. The median time since last dose of OFP was 22 months in the experimental group and 17 months in the placebo arm. 52 % of the patients in AEGIS 1 and 33 % in AEGIS 2 had a disease flare in the previous 6 months. The median (min-max) time since last disease flare was around 7 months (0.0-450 months). Subjects were randomised to receive either 30 mg Feraccru twice daily or a matched placebo control for 12 weeks. The difference between the change from baseline for Feraccru compared to placebo at week 12 was 2.25 g/dL (p&lt;0.0001). Following completion of the 12-week placebo-controlled phase of the studies, all subjects were switched to Feraccru 30 mg twice daily open-label treatment for a further 52 weeks.
+The safety and efficacy of ferric maltol for the treatment of iron deficiency anaemia was studied in 128 patients (age range 18-76 years; 45 males and 83 females) with inactive to mildly active IBD (58 patients with Ulcerative Colitis [UC] and 70 patients with Crohn ' s disease [CD]) and baseline Hb concentrations between 9.5 g/dL and 12 / 13 g/dL for females / males. Patients were enrolled in one combined randomised, placebo-controlled clinical study (AEGIS 1/2). 69 % of the patients with UC had a SCCAI score ≤ 2 and 31 % a SCCAI score of 3.  83 % of the patients with CD had a CDAI-score &lt;150 and 17 % a CDAI-score &gt;150-220. All patients had discontinued from prior oral ferrous product (OFP) treatment: more than 60 % of the subjects stopped taking prior OFP due to adverse events. The median time since last dose of OFP was 22 months in the experimental group and 17 months in the placebo arm. 52 % of the patients in AEGIS 1 and 33 % in AEGIS 2 had a disease flare in the previous 6 months. The median (min-max) time since last disease flare was around 7 months (0.0-450 months). Subjects were randomised to receive either 30 mg ferric maltol twice daily or a matched placebo control for 12 weeks. The difference between the change from baseline for ferric maltol compared to placebo at week 12 was 2.25 g/dL (p&lt;0.0001). Following completion of the 12-week placebocontrolled phase of the studies, all subjects were switched to ferric maltol 30 mg twice daily open-label treatment for a further 52 weeks.
 
 The results for the other key efficacy endpoints are shown in Table 2.
 
-Table 2: Summary of Other Key Efficacy Endpoints (AEGIS 1/2)
-
-| Endpoint        | Hb change (g/dL) from Baseline* at Week 4 Mean (SE)   | Hb change (g/dL) from Baseline* at Week 8 Mean (SE)   |   Proportion of subjects that achieved normalised Hb at Week 12 (%) |   Proportion of subjects that achieved ≥1 g/dL change in Hbat Week 12 (%) |   Proportion of subjects that achieved ≥2 g/dL change in Hbat Week 12 (%) |
-|-----------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Feraccru (N=64) | 1.06 (0.08)***                                        | 1.79 (0.11)***                                        |                                                                  66 |                                                                        78 |                                                                        56 |
-| Placebo (N=64)  | 0.02 (0.08)                                           | 0.06 (0.11)                                           |                                                                  12 |                                                                        11 |                                                                         0 |
-
 <div style=\"page-break-after: always\"></div>
 
-An increase of ≥1 g/dL change in Hb at Week 12 was achieved in 90 % and 69 % of the ulcerative colitis (N=29) and Crohn's Disease (N=35) subgroups, respectively. An increase of ≥2 g/dL change in Hb at Week 12 was achieved in 62 % and 51 % of the ulcerative colitis and Crohn's Disease subgroups, respectively. Iron deficiency was also shown to be corrected by increase in ferritin levels in both studies.  Mean ferritin (μg/L) levels in subjects taking Feraccru improved steadily from baseline (mean 8.6 μg/L [SD 6.77]) to Week 12 (mean 26.0 μg/L [SD 30.57]), a mean overall improvement of 17.4 μg/L. Ferritin continued to rise over long-term treatment with Feraccru (mean 68.9 μg/L [SD 96.24] at 64 weeks, a mean overall improvement of 60.3 μg/L).
+Table 2: Summary of Other Key Efficacy Endpoints (AEGIS 1/2)
+
+| Endpoint             | Hb change (g/dL) from Baseline* at Week 4 Mean (SE)   | Hb change (g/dL) from Baseline* at Week 8 Mean (SE)   |   Proportion of subjects that achieved normalised Hb at Week 12 (%) |   Proportion of subjects that achieved ≥ 1 g/dL change in Hbat Week 12 (%) |   Proportion of subjects that achieved ≥ 2 g/dL change in Hbat Week 12 (%) |
+|----------------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Ferric maltol (N=64) | 1.06 (0.08)***                                        | 1.79 (0.11)***                                        |                                                                  66 |                                                                         78 |                                                                         56 |
+| Placebo (N=64)       | 0.02 (0.08)                                           | 0.06 (0.11)                                           |                                                                  12 |                                                                         11 |                                                                          0 |
+
+* Hb at Baseline mean (SE):  Ferric maltol 11.0 (1.027) g/dL, Placebo 11.1 (0.851) g/dL;
+
+***p&lt;0.0001 compared to placebo group;
+
+An increase of ≥1 g/dL change in Hb at Week 12 was achieved in 90 % and 69 % of the ulcerative colitis (N=29) and Crohn's Disease (N=35) subgroups, respectively. An increase of ≥2 g/dL change in Hb at Week 12 was achieved in 62 % and 51 % of the ulcerative colitis and Crohn's Disease subgroups, respectively. Iron deficiency was also shown to be corrected by increase in ferritin levels in both studies.  Mean ferritin (μg/L) levels in subjects taking ferric maltol improved steadily from baseline (mean 8.6 μg/L [SD 6.77]) to Week 12 (mean 26.0 μg/L [SD 30.57]), a mean overall improvement of 17.4 μg/L. Ferritin continued to rise over long -term treatment with ferric maltol (mean 68.9 μg/L [SD 96.24] at 64 weeks, a mean overall improvement of 60.3 μg/L).
 
 ## Chronic Kidney Disease (CKD) study
 
-The efficacy, safety, tolerability and pharmacokinetics (PK) of Feraccru for the treatment of iron deficiency anaemia in adult subjects with chronic kidney disease (CKD) was studied in a phase III randomised placebo-controlled clinical study (AEGIS-CKD). 167 patients (age range 30-90 years; 50 males and 117 females) with an eGFR of  15 mL/min/1.73m 2  and &lt;60 mL/min/1.73m 2  and baseline Hb  8.0 g/dL and &lt;11.0 g/dL and ferritin &lt;250 ng/mL with a transferrin saturation (TSAT) &lt;25%, or ferritin &lt;500 ng/mL with a TSAT of &lt;15% were randomized 2:1 to receive either Feraccru 30 mg capsules twice daily or placebo twice daily for a treatment period of 16 weeks. This was followed by an open-label treatment phase, which included up to 36 weeks of treatment with Feraccru only.
+The efficacy, safety, tolerability and pharmacokinetics (PK) of ferric maltol for the treatment of iron deficiency anaemia in adult subjects with chronic kidney disease (CKD) was studied in a phase III randomised placebo-controlled clinical study (AEGIS-CKD). 167 patients (age range 30-90 years; 50 males and 117 females) with an eGFR of  15 mL/min/1.73m 2  and &lt;60 mL/min/1.73m 2  and baseline Hb  8.0 g/dL and &lt;11.0 g/dL and ferritin &lt;250 ng/mL with a transferrin saturation (TSAT) &lt;25%, or ferritin &lt;500 ng/mL with a TSAT of &lt;15% were randomized 2:1 to receive either ferric maltol 30 mg capsules twice daily or placebo twice daily for a treatment period of 16 weeks. This was followed by an open-label treatment phase, which included up to 36 weeks of treatment with ferric maltol only.
 
-Feraccru resulted in clinically and statistically significant increases in Hb compared to placebo during the double-blind 16-week treatment period. The least squares mean (LSM) change in Hb concentration from baseline to Week 16 was 0.50 g/dL for the ferric maltol group and -0.02 g/dL for the placebo group, with a statistically significant LSM difference of 0.52 (p=0.0149).
+The administration of ferric maltol resulted in clinically and statistically significant increases in Hb compared to placebo during the double-blind 16-week treatment period. The least squares mean (LSM) change in Hb concentration from baseline to Week 16 was 0.50 g/dL for the ferric maltol group and 0.02 g/dL for the placebo group, with a statistically significant LSM difference of 0.52 (p=0.0149).
 
-The LSM change in ferritin concentration from baseline to Week 16 with LOCF was 25.42 µg/L for the Feraccru group and -7.23 µg/L for the placebo group, with a statistically significant LSM difference of 32.65 (p=0.0007)
+The LSM change in ferritin concentration from baseline to Week 16 with LOCF was 25.42 µg/L for the ferric maltol group and -7.23 µg/L for the placebo group, with a statistically significant LSM difference of 32.65 (p=0.0007).
 
-## Paediatric Studies
+## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Feraccru in one or more subsets of the paediatric population in iron deficient anaemia (see section 4.2 for information on paediatric use).
+Two clinical studies (a Phase 1 and a Phase 3 trial) provide available safety and efficacy data for ferric maltol in paediatric patients (see also section 4.8).
+
+In the randomised, open-label, active-controlled, Phase 3 study, patients aged 2 to &lt;18 with iron deficiency anaemia received ferric maltol as oral suspension, at doses based on age (patients aged 2 to 11 years: 15 mg per dose; patients aged 12 to &lt;18 years: 30 mg per dose) or ferrous sulphate as oral solution (3 mg/kg/dose), both administered twice daily, for 12 weeks.
+
+The efficacy endpoints of the study were represented by changes from baseline to week 12 in standard iron markers. The primary efficacy endpoint was the change in Hb at week 12. The secondary efficacy endpoints were changes in ferritin, serum iron and transferrin saturation (TSAT) at week 12.
+
+The results for the efficacy endpoints are shown in Table 3.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3: Summary of efficacy endpoints in patients aged 2 to &lt;18 years
+
+| Endpoint                        | Ferric maltol (N=31)   |
+|---------------------------------|------------------------|
+| Hb concentrations (g/dL)        |                        |
+| Baseline                        | 10.54 ± 1.096          |
+| Change from baseline to week 12 | 1.25 ± 1.389           |
+| Ferritin (µg/L)                 |                        |
+| Baseline                        | 12.7 ± 10.69           |
+| Change from baseline to week 12 | 8.1 ± 11.06            |
+| Serum iron (µmol/L)             |                        |
+| Baseline                        | 6.81 ± 5.162           |
+| Change from baseline to week 12 | 5.77 ± 8.518           |
+| Transferrin saturation (%)      |                        |
+| Baseline                        | 8.4 ± 7.60             |
+| Change from baseline to week 12 | 7.7 ± 10.14            |
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption and elimination
 
-The pharmacokinetic properties of ferric maltol was assessed through measurement of plasma and urine concentrations of maltol and maltol glucuronide, together with serum iron parameters after a single dose and at steady state (after 1 week) in 24 subjects with iron deficiency, randomised to receive 30 mg, 60 mg or 90 mg Feraccru twice daily. Blood and urine samples were assayed for maltol and maltol glucuronide. Serum samples were assayed for iron parameters.
+The pharmacokinetic properties of ferric maltol were assessed through measurement of plasma and urine concentrations of maltol and maltol glucuronide, together with serum iron parameters after a single dose and at steady state (after 1 week) in 24 subjects with iron deficiency, randomised to receive 30 mg, 60 mg or 90 mg ferric maltol twice daily. Blood and urine samples were assayed for maltol and maltol glucuronide. Serum samples were assayed for iron parameters.
 
-Maltol was transiently measured in plasma with a AUC0-t between 0.022 and 0.205 h.µg/mL across all dosing regimens and both study days. Non-clinical studies have shown that maltol is metabolised through UGT1A6 and by sulphation. It is not known if medical products that inhibit UGT enzymes have the potential to increase maltol concentration (see section 4.5). The maltol appeared to be rapidly metabolised to maltol glucuronide (AUC0-t between 9.83 and 30.9 h.µg/mL across all dose regimens). Maximum maltol and maltol glucuronide concentrations were reached 1 to 1.5 hours after oral administration of Feraccru. Exposure to maltol glucuronide increased dose proportionally over the Feraccru 30 to 90 mg twice daily dosing range and there was no significant accumulation of either after 7 days treatment with Feraccru. Of the total maltol ingested, a mean of between 39.8 % and 60.0 % was excreted as maltol glucuronide. Peak transferrin saturation (TSAT) and total serum iron values were reached 1.5 to 3 hours after oral administration of Feraccru. Total serum iron concentrations and TSAT values were generally higher with increasing Feraccru doses. TSAT and total serum iron profiles were comparable between Day 1 and Day 8.
+Maltol was transiently measured in plasma with a AUC0-t between 0.022 and 0.205 h.µg/mL across all dosing regimens and both study days. Non-clinical studies have shown that maltol is metabolised through UGT1A6 and by sulphation. It is not known if medical products that inhibit UGT enzymes have the potential to increase maltol concentration (see section 4.5). The maltol appeared to be rapidly metabolised to maltol glucuronide (AUC0-t between 9.83 and 30.9 h.µg/mL across all dose regimens). Maximum maltol and maltol glucuronide concentrations were reached 1 to 1.5 hours after oral administration of ferric maltol. Exposure to maltol glucuronide increased dose proportionally over the ferric maltol 30 to 90 mg twice daily dosing range and there was no significant accumulation of either after 7 days treatment with ferric maltol. Of the total maltol ingested, a mean of between 39.8 % and 60.0 % was excreted as maltol glucuronide. Peak transferrin saturation (TSAT) and total serum iron values were reached 1.5 to 3 hours after oral administration of ferric maltol. Total serum iron concentrations and TSAT values were generally higher with increasing ferric maltol doses. TSAT and total serum iron profiles were comparable between Day 1 and Day 8.
 
-The pharmacokinetic properties of Feraccru were also investigated at steady state in 15 subjects who
+The pharmacokinetic properties of ferric maltol were also investigated at steady state in 15 subjects who were already participating in the AEGIS1/2 study described above and who had been in the openlabel treatment phase for at least 7 days (ferric maltol 30 mg twice daily). Maltol was again transiently measured in plasma with a half-life of 0.7 hours, with a Cmax of 67.3 + 28.3 ng/mL. The maltol appeared to be rapidly metabolised to maltol glucuronide (Cmax = 4677 + 1613 ng/mL). Maximum maltol and maltol glucuronide concentrations were reached approximately 1 hour after oral administration of ferric maltol. Maximum total iron serum concentrations were measured 1-2 hours after administration. The pharmacokinetic profiles of maltol/maltol glucuronide and iron parameters were independent of one another.
+
+The influence of food on the pharmacokinetic properties of ferric maltol capsules (30 mg) was investigated in a Phase 1, open-label, randomized, cross-over study in healthy adults. Consumption of a high-fat high-calorie content meal prior to the administration of ferric maltol capsules decreased the Cmax (mean baseline corrected value of 44.47 ± 73.06 ng/mL after fed and 89.94 ± 50.99 ng/mL after fasted conditions) and AUClast (mean baseline corrected value of 3697.5 ± 5587.7 h·ng/mL after fed and 6520.3 ± 4449.8 h·ng/mL after fasted conditions), and increased the Tmax (mean values of 7.4 ± 9.2 hours after fed and 3.7 ± 4.1 hours after fasted conditions) of serum iron. Food intake affected the absorption and the total exposure over time of serum iron.
 
 <div style=\"page-break-after: always\"></div>
-
-were already participating in the AEGIS1/2 study described above and who had been in the open-label treatment phase for at least 7 days (Feraccru 30 mg twice daily). Maltol was again transiently measured in plasma with a half-life of 0.7 hours, with a Cmax of 67.3 + 28.3 ng/mL. The maltol appeared to be rapidly metabolised to maltol glucuronide (Cmax = 4677 + 1613 ng/mL). Maximum maltol and maltol glucuronide concentrations were reached approximately 1 hour after oral administration of Feraccru. Maximum total iron serum concentrations were measured 1-2 hours after administration. The pharmacokinetic profiles of maltol/maltol glucuronide and iron parameters were independent of one another.
 
 ## 5.3 Preclinical safety data
 
@@ -272,15 +309,15 @@ Printing Ink Shellac glaze-45% (20 %esterfied) in Ethanol Iron oxide black Propy
 
 ## 6.2 Incompatibilities
 
-<div style=\"page-break-after: always\"></div>
-
 Not applicable.
 
 ## 6.3 Shelf life
 
-5 years
+## 5 years
 
 Shelf-life after first opening container: 45 days.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -298,9 +335,7 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
-
-Netherlands
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -320,7 +355,9 @@ Date of latest renewal: 25 November 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+&lt;{MM/YYYY}&gt;
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -341,7 +378,7 @@ Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu FRANCE
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
-## B. CONDITIONS  OR  RESTRICTIONS  REGARDING  SUPPLY AND USE
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
 
@@ -355,9 +392,9 @@ The requirements for submission of PSURs (MAH) for this medicinal product are se
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and  interventions  detailed  in  the  agreed  RMP  presented  in  Module  1.8.2  of  the  marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-An updated RMP  should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -388,15 +425,13 @@ Each capsule contains 30 mg iron (as ferric maltol)
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, Sunset Yellow FCF (E 110) and Allura Red AC (E 129).
-
-See package leaflet for further information.
+Contains lactose, Sunset Yellow FCF (E 110) and Allura Red AC (E 129). See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 56 capsules
 
-50 capsules
+- 50 capsules
 
 14 capsules
 
@@ -422,11 +457,7 @@ Use within 45 days of first opening.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25 °C
-
-<div style=\"page-break-after: always\"></div>
-
-.
+Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -434,17 +465,11 @@ Store below 25 °C
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Norgine B.V.
-
-Antonio Vivaldistraat 150
-
-1083 HP Amsterdam
-
-Netherlands
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## EU/1/15/1075/001
+EU/1/15/1075/001
 
 EU/1/15/1075/002
 
@@ -456,13 +481,15 @@ EU/1/15/1075/004
 
 Lot:
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Feraccru 30 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -498,9 +525,9 @@ See package leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## 56 capsules
+56 capsules
 
-14 capsules
+- 14 capsules
 
 50 capsules ( for pack-sizes of 50 and 100 capsules)
 
@@ -528,11 +555,11 @@ Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|------------------------------------------------------------------------------------------------------------------------------------------|
+| 10. APPROPRIATE   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Norgine B.V.
 
@@ -591,7 +618,7 @@ Lot:
 
 ## 1. What Feraccru is and what it is used for
 
-Feraccru contains iron (as ferric maltol).  Feraccru is used in adults to treat low iron stores in your body. Low iron causes anaemia (too few red blood cells).
+Feraccru contains iron (as ferric maltol).  Feraccru is used in adults and adolescents aged 12 years and older, to treat low iron stores in your body. Low iron causes anaemia (too few red blood cells).
 
 ## 2. What you need to know before you take Feraccru
 
@@ -605,13 +632,15 @@ Feraccru contains iron (as ferric maltol).  Feraccru is used in adults to treat 
 
 Before starting treatment, your doctor will use a blood test to make sure that your anaemia is not severe or caused by anything other than iron deficiency (low iron stores).
 
-You should avoid taking Feraccru if you are experiencing a 'flare' of your inflammatory bowel disease (IBD).
+You should avoid taking Feraccru if you are experiencing a ' flare ' of your inflammatory bowel disease (IBD).
 
 You should not take Feraccru if you are taking dimercaprol (a medicine used to remove toxic metals from the blood), chloramphenicol (used to treat bacterial infections), or methyldopa (used to treat high blood pressure).
 
 ## Children and adolescents
 
-Do not give this treatment to children or adolescents 17 years and under as it has not been studied in this age group. Too much iron is dangerous in children, infants and toddlers and can be life-threatening.
+Do not give Feraccru to children under 12 years of age.
+
+Too much iron is dangerous in children, infants and toddlers and can be life-threatening.
 
 ## Other medicines and Feraccru
 
@@ -619,14 +648,17 @@ Tell your doctor or pharmacist if you are taking any other medicines.
 
 You should leave at least 2 hours between taking Feraccru and taking:
 
+- Supplements or medicines that contain magnesium or calcium.
+
 <div style=\"page-break-after: always\"></div>
 
-- Supplements or medicines that contain magnesium or calcium.
 - Some antibiotics, such as ciprofloxacin, tetracycline, levofloxacin, moxifloxacin, norfloxacin and ofloxacin.
 - Bisphosphonates (used to treat bone diseases).
 - Penicillamine (used to bind metals).
-- Some medicines used to treat Parkinson's disease (entacapone, levodopa) and thyroid problems (levothyroxine)
-- Mycophenolate (used with other medicines to prevent the body rejecting transplanted organs). You should not be given iron by injection or infusion (intravenously) while you are taking Feraccru.
+- Some medicines used to treat Parkinson ' s disease (entacapone, levodopa) and thyroid problems (levothyroxine).
+- Mycophenolate (used with other medicines to prevent the body rejecting transplanted organs).
+
+You should not be given iron by injection or infusion (intravenously) while you are taking Feraccru.
 
 ## Pregnancy and breast-feeding
 
@@ -646,13 +678,15 @@ Sunset Yellow FCF (E 110) and Allura Red AC (E 129) may cause allergic reactions
 
 ## Feraccru contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Feraccru
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The recommended dose is one capsule (30 mg) taken twice a day, morning and evening. Take this medicine on an empty stomach with half a glass of water (one hour before a meal, or at least 2 hours after a meal).
+The recommended dose for adults and adolescents aged 12 years and older is one capsule (30 mg) taken twice a day, morning and evening.
+
+Take this medicine on an empty stomach with half a glass of water (one hour before a meal, or at least 2 hours after a meal).
 
 Swallow the capsules whole.
 
@@ -670,23 +704,24 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody get them. The most common side effects (may affect up to 1 in 10 people) of Feraccru are:
 
+## · Stomach pain
+
 <div style=\"page-break-after: always\"></div>
 
-- Stomach pain
 - Flatulence (wind)
 - Constipation
 - Discomfort or bloating in the stomach
 - Diarrhoea
 - Nausea (feeling sick)
-- Discoloured faeces
+- Discoloured faeces.
 
 Uncommon side effects (may affect up to 1 in 100 people) are:
 
-- Thirst,
+- Thirst
 - Stiff joints
 - Pain in fingers/toes
 - Headache
-- Acne, skin redness,
+- Acne, skin redness
 - Vomiting
 - Abdominal bloating, abdominal pain, nausea and diarrhea due to increase in bacteria in the gut
 - Blood tests may show increased levels of proteins (alkaline phosphatase, Gammaglutamyltransferase) that break down chemicals in the blood and of a hormone (Thyroid stimulating hormone) that stimulates the thyroid gland.
@@ -699,7 +734,7 @@ If you get any side effects, talk to your doctor or pharmacist.  This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton after EXP: The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
 
 Do not use this medicine for more than 45 days after first opening the bottle. Store below 25°C.
 
@@ -722,18 +757,16 @@ The other ingredients are:
 - Titanium dioxide (E 171)
 - Sunset Yellow FCF (E 110) (see section 2)
 - Shellac glaze-45% (20 %esterfied) in Ethanol
+- Iron oxide black
+- Propylene glycol
 
 <div style=\"page-break-after: always\"></div>
 
-- Iron oxide black
-- Propylene glycol
-- Ammonium hydroxide
+## · Ammonium hydroxide
 
 ## What Feraccru looks like and contents of the pack
 
-Feraccru is a red hard capsule printed '30' containing a reddish-brown powder. Feraccru is available in packs, each containing 14, 50, 56 or 100 (2 bottles of 50) capsules.
-
-Not all pack sizes may be marketed.
+Feraccru is a red hard capsule printed '30' containing a reddish-brown powder. Feraccru is available in packs, each containing 14, 50, 56 or 100 (2 bottles of 50) capsules. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -741,71 +774,64 @@ Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 ## Manufacturer
 
-Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu FRANCE
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-BE\\ LU Norgine NV/SA +32 16 39 27 10 medinfo.benelux@norgine.com
+## BE\\LU
 
-## DE
-
-Norgine GmbH +49 641984970 info@norgine.de
-
-## AT
-
-Norgine Pharma GmbH
-
-+43 1 8178120
-
-Info@norgine.at
-
-## BG\\CZ\\HR\\HU\\PL\\RO\\SI\\SK
-
-AOP Orphan Pharmaceuticals AG +43-1-503-72-44 office@aoporphan.com
-
-## IE/UK (NI)
-
-Norgine Pharmaceuticals Ltd. +44 1895 826666 MedInfo@norgine.com
-
-FR
-
-ES Norgine de España, S.L.U +34 91 375 8870
-
-iberiamedinfo@norgine.com
-
-Norgine SAS +33 141399400 infomedicale.norginefrance@norgine.com
-
-<div style=\"page-break-after: always\"></div>
-
-IT Norgine Italia S.r.l. +39 0267 977211
-
-medinfoitaly@norgine.com
-
-Norgine Portugal Farmacêutica Unipessoal, Lda
-
-PT +351 218952735 iberiamedinfo@norgine.com
+Norgine NV/SA +32 16 39 27 43 medinfo@norgine.com
 
 ## DK/FI/IS/NO/SE
 
-Norgine Denmark A/S. +45 33170400 Minfonordic@norgine.com
+Norgine Denmark A/S. +45 33170400 medinfo@norgine.com
 
-## This leaflet was last revised in
+## DE
 
-## Other sources of information
+Norgine GmbH +49 641984970
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+info@norgine.de
 
-NL Norgine B.V. +31 20 567 0900 medinfo.benelux@norgine.com
+## ES
 
-## EE\\EL\\CY\\LV\\LT\\MT
+Norgine de España, S.L.U. +34 91 375 8870 iberiamedinfo@norgine.com
 
-Norgine B.V. +44 1895 826600 GMedicalAffairs@norgine.com
+## IT
+
+Norgine Italia S.r.l. +39 0267 977211 medicaitalia@norgine.com
+
+## PT
+
+Norgine Portugal Farmacêutica Unipessoal, Lda +351 218952735 iberiamedinfo@norgine.com AT +43 1 817812020
+
+Norgine Pharma GmbH
+
+medinfo@norgine.com
+
+## BG\\CY\\CZ\\EE\\EL\\HR\\HU\\LV\\LT\\M T\\ PL\\RO\\SI\\SK
+
+Norgine B.V.
+
++44 (0) 1895 826 600
+
+medinfo@norgine.com
+
+## IE
+
+Norgine Pharmaceuticals Ltd. +44 1895 826606 medinfo@norgine.com
+
+## FR
+
+Norgine SAS +33 (0)1 41 39 93 90 medinfo@norgine.com
+
+## NL
+
+Norgine B.V. + 31 20 567 0998 medinfo@norgine.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Signature Page for 00240541 v1.0
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;
 
-| Approval   | Corinne Granet Lifecycle Management 19-Oct-2023 12:44:48 GMT+0000   |
-|------------|---------------------------------------------------------------------|
+## Other sources of information
 
-Signature Page for 00240541 v1.0
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

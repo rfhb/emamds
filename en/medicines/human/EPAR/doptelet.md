@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 13:30:00
+document_datetime: 2026-06-30 12:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doptelet.html
 document_name: doptelet.html
 version: success
-processing_time: 0.275605
-conversion_datetime: 2026-04-13 13:50:30.555406
+processing_time: 0.139333
+conversion_datetime: 2026-07-04 13:10:34.507352
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Doptelet
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Doptelet](#news-on)
 - [More information on Doptelet](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Doptelet used?
+### How is Doptelet used?
 
 Doptelet can only be obtained with a prescription. It is available as 20-mg tablets.
 
@@ -65,33 +64,33 @@ Treatment with Doptelet should start at least 10 days before the procedure. The 
 
 For more information about using Doptelet, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Doptelet work?
+### How does Doptelet work?
 
 In the body, a hormone called thrombopoietin stimulates the production of platelets by attaching to receptors (targets) in the bone marrow. The active substance in Doptelet, avatrombopag, attaches to the same receptors as thrombopoietin, helping to increase the platelet count.
 
-## What benefits of Doptelet have been shown in studies?
+### What benefits of Doptelet have been shown in studies?
 
 Two main studies in 435 patients with low levels of platelets due to long-standing liver disease found Doptelet effective at increasing platelet levels before an invasive procedure. The main measure of effectiveness was the number of patients who did not require a transfusion of platelets or other treatment ('rescue procedure') to prevent excessive bleeding after starting Doptelet treatment and for up to 7 days after their invasive procedure.
 
 In these studies, 88% of patients who received Doptelet 40 mg daily did not require a transfusion or rescue procedure compared with 36% of patients who were given placebo (a dummy treatment). Among patients with more severe thrombocytopenia, 67% of those given Doptelet 60 mg daily did not require a transfusion or rescue procedure compared with 29% of those who received placebo.
 
-## What are the risks associated with Doptelet?
+### What are the risks associated with Doptelet?
 
 The most common side effect with Doptelet (which may affect up to 1 in 10 people) is tiredness. For the full list of side effects and restrictions with Doptelet, see the package leaflet.
 
-## Why is Doptelet authorised in the EU?
+### Why is Doptelet authorised in the EU?
 
 Studies have found that Doptelet reduced the need for platelet transfusions or other rescue treatments to prevent excessive bleeding before an invasive procedure and for up to 7 days afterward. The platelet count increased in patients treated with Doptelet. Any unwanted effects during treatment with Doptelet were thought to result from patients' medical condition and the nature of the invasive procedure for which it was used.
 
 The European Medicines Agency decided that Doptelet's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Doptelet?
+### What measures are being taken to ensure the safe and effective use of Doptelet?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Doptelet have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Doptelet are continuously monitored. Side effects reported with Doptelet are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Doptelet
+### Other information about Doptelet
 
 Doptelet received a marketing authorisation valid throughout the EU on 20 June 2019.
 
@@ -105,7 +104,7 @@ English (EN) (104.1 KB - PDF)
 
 [View](/en/documents/overview/doptelet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-327)
+[Other languages (22)](#file-language-dropdown-677)
 
 български (BG) (169.05 KB - PDF)
 
@@ -137,7 +136,7 @@ Deutsch (DE) (146.37 KB - PDF)
 
 [View](/de/documents/overview/doptelet-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (132.67 KB - PDF)
+eesti (ET) (132.67 KB - PDF)
 
 **First published:** 25/06/2019
 
@@ -167,13 +166,13 @@ italiano (IT) (142.96 KB - PDF)
 
 [View](/it/documents/overview/doptelet-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (174.69 KB - PDF)
+latviešu (LV) (174.69 KB - PDF)
 
 **First published:** 25/06/2019
 
 [View](/lv/documents/overview/doptelet-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (166.18 KB - PDF)
+lietuvių (LT) (166.18 KB - PDF)
 
 **First published:** 25/06/2019
 
@@ -227,7 +226,7 @@ slovenščina (SL) (163.94 KB - PDF)
 
 [View](/sl/documents/overview/doptelet-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.78 KB - PDF)
+suomi (FI) (142.78 KB - PDF)
 
 **First published:** 25/06/2019
 
@@ -239,13 +238,13 @@ svenska (SV) (143.17 KB - PDF)
 
 [View](/sv/documents/overview/doptelet-epar-medicine-overview_sv.pdf)
 
-Doptelet : EPAR - Risk-management-plan summary
+Doptelet : EPAR - Risk management plan
 
-English (EN) (293.18 KB - PDF)
+English (EN) (681.5 KB - PDF)
 
-**First published:** 25/06/2019 **Last updated:** 28/01/2021
+**First published:** 25/06/2019 **Last updated:** 30/06/2026
 
-[View](/en/documents/rmp-summary/doptelet-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/doptelet-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -257,7 +256,7 @@ English (EN) (322.06 KB - PDF)
 
 [View](/en/documents/product-information/doptelet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-103)
+[Other languages (24)](#file-language-dropdown-502)
 
 български (BG) (459.11 KB - PDF)
 
@@ -289,7 +288,7 @@ Deutsch (DE) (330.38 KB - PDF)
 
 [View](/de/documents/product-information/doptelet-epar-product-information_de.pdf)
 
-eesti keel (ET) (308.38 KB - PDF)
+eesti (ET) (308.38 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
@@ -313,25 +312,19 @@ hrvatski (HR) (392.07 KB - PDF)
 
 [View](/hr/documents/product-information/doptelet-epar-product-information_hr.pdf)
 
-íslenska (IS) (304.54 KB - PDF)
-
-**First published:** 25/06/2019 **Last updated:** 18/06/2025
-
-[View](/is/documents/product-information/doptelet-epar-product-information_is.pdf)
-
 italiano (IT) (317.62 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/it/documents/product-information/doptelet-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (410.63 KB - PDF)
+latviešu (LV) (410.63 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/lv/documents/product-information/doptelet-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (425.35 KB - PDF)
+lietuvių (LT) (425.35 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
@@ -354,12 +347,6 @@ Nederlands (NL) (314 KB - PDF)
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/nl/documents/product-information/doptelet-epar-product-information_nl.pdf)
-
-norsk (NO) (328.96 KB - PDF)
-
-**First published:** 25/06/2019 **Last updated:** 18/06/2025
-
-[View](/no/documents/product-information/doptelet-epar-product-information_no.pdf)
 
 polski (PL) (421.85 KB - PDF)
 
@@ -391,7 +378,7 @@ slovenščina (SL) (389.44 KB - PDF)
 
 [View](/sl/documents/product-information/doptelet-epar-product-information_sl.pdf)
 
-Suomi (FI) (306 KB - PDF)
+suomi (FI) (306 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 18/06/2025
 
@@ -403,6 +390,18 @@ svenska (SV) (327.44 KB - PDF)
 
 [View](/sv/documents/product-information/doptelet-epar-product-information_sv.pdf)
 
+Íslenska (IS) (304.54 KB - PDF)
+
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
+
+[View](/is/documents/product-information/doptelet-epar-product-information_is.pdf)
+
+norsk (NO) (328.96 KB - PDF)
+
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
+
+[View](/no/documents/product-information/doptelet-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000255149
 
 22/05/2025
@@ -411,7 +410,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -429,7 +429,7 @@ English (EN) (17.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-310)
+[Other languages (24)](#file-language-dropdown-522)
 
 български (BG) (40.22 KB - PDF)
 
@@ -461,7 +461,7 @@ Deutsch (DE) (17.07 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (17.15 KB - PDF)
+eesti (ET) (17.15 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
@@ -485,25 +485,19 @@ hrvatski (HR) (26.21 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (16.95 KB - PDF)
-
-**First published:** 25/06/2019 **Last updated:** 28/01/2021
-
-[View](/is/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (17.21 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/it/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (39.09 KB - PDF)
+latviešu (LV) (39.09 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/lv/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (39.28 KB - PDF)
+lietuvių (LT) (39.28 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
@@ -526,12 +520,6 @@ Nederlands (NL) (17.1 KB - PDF)
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/nl/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.17 KB - PDF)
-
-**First published:** 25/06/2019 **Last updated:** 28/01/2021
-
-[View](/no/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.14 KB - PDF)
 
@@ -563,7 +551,7 @@ slovenščina (SL) (25.6 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.13 KB - PDF)
+suomi (FI) (17.13 KB - PDF)
 
 **First published:** 25/06/2019 **Last updated:** 28/01/2021
 
@@ -575,27 +563,30 @@ svenska (SV) (17.01 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (16.95 KB - PDF)
+
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
+
+[View](/is/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.17 KB - PDF)
+
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
+
+[View](/no/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Doptelet
-
-Active substance
-
-avatrombopag maleate
-
-International non-proprietary name (INN) or common name
-
-avatrombopag
-
-Therapeutic area (MeSH)
-
-Thrombocytopenia
-
-Anatomical therapeutic chemical (ATC) code
-
-B02BX
+- **Name of medicine**
+    - Doptelet
+- **Active substance**
+    - avatrombopag maleate
+- **International non-proprietary name (INN) or common name**
+    - avatrombopag
+- **Therapeutic area (MeSH)**
+    - Thrombocytopenia
+- **Anatomical therapeutic chemical (ATC) code**
+    - B02BX
 
 ### Pharmacotherapeutic group
 
@@ -609,27 +600,16 @@ Doptelet is indicated for the treatment of primary chronic immune thrombocytopen
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004722
-
-Marketing authorisation holder
-
-Swedish Orphan Biovitrum AB (publ)
-
-SE-112 76 Stockholm
-
-Opinion adopted
-
-26/04/2019
-
-Marketing authorisation issued
-
-20/06/2019
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/004722
+- **Marketing authorisation holder**
+    - Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm  Sweden
+- **Opinion adopted**
+    - 26/04/2019
+- **Marketing authorisation issued**
+    - 20/06/2019
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -637,13 +617,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Doptelet : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (175.23 KB - PDF)
+English (EN) (165.49 KB - PDF)
 
-**First published:** 18/06/2025 **Last updated:** 08/04/2026
+**First published:** 18/06/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/procedural-steps-after/doptelet-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -683,7 +663,7 @@ English (EN) (126.76 KB - PDF)
 
 **First published:** 07/04/2021
 
-[View](/en/documents/scientific-conclusion/doptelet-h-c-psusa-00010779-202005-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/doptelet-h-c-psusa-00010779-202005-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Doptelet-H-C-004722-II-0004-G : EPAR - Assessment report - Variation
 
@@ -705,7 +685,7 @@ English (EN) (100.12 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-doptelet-ii-04-g_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Doptelet : EPAR - Public assessment report
 
@@ -744,12 +724,8 @@ English (EN) (113.92 KB - PDF)
 - [Postauthorisation Safety Study (PASS) of Avatrombopag in Patients With Severe Chronic Liver Disease (CLD) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000310)
 - [Postauthorisation Safety Study (PASS) of Avatrombopag and Haematological Malignancies in Patients With Primary Immune Thrombocytopaenia - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000315)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/04/2026
+30/06/2026
 
 ## Share this page

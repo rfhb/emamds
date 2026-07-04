@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-28 14:10:18
-document_pages: 35
+document_datetime: 2026-07-02 14:52:21
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aquipta-epar-product-information_en.pdf
 document_name: aquipta-epar-product-information_en.pdf
 version: success
-processing_time: 17.6364552
-conversion_datetime: 2026-06-01 17:17:20.656657
+processing_time: 15.8388002
+conversion_datetime: 2026-07-04 15:10:21.584807
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AQUIPTA 10 mg tablets
-
-AQUIPTA 60 mg tablets
+AQUIPTA 10 mg tablets AQUIPTA 60 mg tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -64,21 +62,28 @@ White to off-white, oval biconvex tablet, 16 mm x 9 mm, and debossed with 'A60' 
 
 ## 4.1 Therapeutic indications
 
-AQUIPTA is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month.
+AQUIPTA is indicated for:
+
+- Acute treatment of migraine with or without aura in adults
+- Prophylaxis of migraine in adults who have at least 4 migraine days per month.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
-The recommended dose is 60 mg atogepant once daily.
-
-The tablets can be taken with or without meals.
+The maximum dose per day is 60 mg atogepant.
 
 <div style=\"page-break-after: always\"></div>
 
+For acute treatment of migraine as needed, the recommended dose is 60 mg atogepant.
+
+For prophylaxis of migraine, the recommended dose is 60 mg atogepant once daily.
+
+The tablets can be taken with or without meals.
+
 ## Missed dose
 
-A missed dose should be taken as soon as it is remembered. If it is forgotten for an entire day, the missed dose should be skipped and the next dose taken as scheduled.
+For migraine prophylaxis, a missed dose should be taken as soon as it is remembered. If it is forgotten for an entire day, the missed dose should be skipped and the next dose taken as scheduled.
 
 ## Dose modifications
 
@@ -91,9 +96,9 @@ Table 1: Dose modifications for interactions
 | Strong CYP3A4 inhibitors | 10 mg                         |
 | Strong OATP inhibitors   | 10 mg                         |
 
-## Special populations
+Special populations
 
-Elderly
+## Elderly
 
 Population pharmacokinetic modelling suggests no clinically significant pharmacokinetic differences between elderly and younger subjects. No dose adjustment is needed in elderly patients.
 
@@ -117,13 +122,13 @@ AQUIPTA is for oral use. Tablets should be swallowed whole and should not be spl
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1 (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Serious hypersensitivity reactions
 
 Serious hypersensitivity reactions, including anaphylaxis, dyspnoea, rash, pruritus, urticaria, and facial oedema, have been reported with use of AQUIPTA (see section 4.8). Most serious reactions have occurred within 24 hours of first use, however, some hypersensitivity reactions can occur days after administration. Patients should be warned about the symptoms associated with hypersensitivity. If a hypersensitivity reaction occurs, discontinue AQUIPTA and institute appropriate therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -155,13 +160,13 @@ Co-administration of atogepant with oral contraceptive components ethinyl estrad
 
 There are limited data from the use of atogepant in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Atogepant is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Pharmacokinetic data after single-dose administration showed minimal transfer of atogepant into breast milk (see section 5.2).
 
 There are no data on the effects of atogepant on the breastfed infant or the effects of atogepant on milk production.
-
-<div style=\"page-break-after: always\"></div>
 
 The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for atogepant and any potential adverse effects on the breastfed infant from atogepant or from the underlying maternal condition.
 
@@ -177,28 +182,32 @@ Atogepant has no or negligible influence on the ability to drive and use machine
 
 ## Summary of the safety profile
 
-Safety was evaluated in 2 657 patients with migraine who received at least one dose of atogepant in clinical studies. Of these, 1 225 patients were exposed to atogepant for at least 6 months and 826 patients were exposed for 12 months.
+Safety was evaluated in 3 852 patients with migraine who received at least one dose of atogepant in clinical studies. Of these, 1 225 patients were exposed to atogepant for prophylaxis daily for at least 6 months and 826 patients were exposed for 12 months. 895 patients were exposed during 24 weeks on an as-needed basis for treatment of acute migraine attacks.
 
-In 12-week, placebo-controlled clinical studies, 678 patients received at least one dose of atogepant 60 mg once daily, and 663 patients received placebo.
+In 12-week, placebo-controlled prophylaxis clinical studies, 678 patients received at least one dose of atogepant 60 mg once daily, and 663 patients received placebo. In the placebo-controlled clinical study for acute treatment of migraine, 1 195 patients received at least one dose of atogepant 60 mg, and 1 177 patients received placebo; patients received both atogepant and placebo to treat qualifying migraines.
 
-The most commonly reported adverse drug reactions were nausea (9%), constipation (8%), and fatigue/somnolence (5%). Most of the reactions were mild or moderate in severity. The adverse reaction that most commonly led to discontinuation was nausea (0.4%).
+In placebo-controlled prophylaxis studies, the most commonly reported adverse reactions were nausea (9%), constipation (8%), and fatigue/somnolence (5%). Most of the reactions were mild or moderate in severity. The adverse reaction that most commonly led to discontinuation for prophylaxis was nausea (0.4%). Nausea (1.3%) was the most commonly reported adverse reaction for acute treatment.
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported in clinical trials and from post-marketing experience are listed below by system organ class and frequency, most frequent reactions first. Frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 2. Adverse reactions identified with atogepant
+<div style=\"page-break-after: always\"></div>
+
+Table 2: Adverse reactions identified with atogepant
 
 | System organ class                                   | Frequency   | Adverse reaction                                                                         |
 |------------------------------------------------------|-------------|------------------------------------------------------------------------------------------|
+| Acute treatment of migraine                          |             |                                                                                          |
+| Gastrointestinal disorders                           | Common      | Nausea                                                                                   |
+| Investigations                                       | Uncommon    | ALT/AST increased**                                                                      |
+| Prophylaxis of migraine                              |             |                                                                                          |
 | Immune system disorders                              | Not known   | Hypersensitivity (e.g., anaphylaxis, dyspnoea, rash, pruritus, urticaria, facial oedema) |
 | Metabolism and nutrition disorders                   | Common      | Decreased appetite                                                                       |
-| Gastrointestinal disorders                           | Common      | Nausea, Constipation                                                                     |
+| Gastrointestinal disorders                           | Common      | Nausea Constipation                                                                      |
 | General disorders and administration site conditions | Common      | Fatigue/somnolence                                                                       |
 | Investigations                                       | Common      | Weight decreased*                                                                        |
 | Investigations                                       | Uncommon    | ALT/AST increased**                                                                      |
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -216,9 +225,55 @@ Pharmacotherapeutic group: Analgesics, calcitonin gene-related peptide (CGRP) an
 
 ## Mechanism of action
 
-Non-clinical receptor binding studies and in vitro functional studies point to an involvement of more than one receptor type in the pharmacological effects of atogepant. Atogepant shows affinity to several receptors  of  the  calcitonin/CGRP-receptor  family.  In  view  of  the  clinically  relevant  free  plasma concentrations of atogepant (Cmax &gt; 20 nM for a 60 mg dose) and the fact that CGRP and amylin-1 receptors  are  considered  to  be  involved  in  the  pathophysiology  of  migraine,  inhibitory  effects  of atogepant at these receptors (Ki-value 26 pM and 2.4 nM, respectively) could be of clinical relevance. However, the precise mechanism of action of atogepant in the prophylaxis of migraine remains to be established.
+Non-clinical receptor binding studies and in vitro functional studies point to an involvement of more than one receptor type in the pharmacological effects of atogepant. Atogepant shows affinity to several receptors of the calcitonin/CGRP-receptor family. In view of the clinically relevant free plasma concentrations of atogepant (Cmax &gt; 20 nM for a 60 mg dose) and the fact that CGRP and amylin-1 receptors are considered to be involved in the pathophysiology of migraine, inhibitory effects of atogepant at these receptors (Ki-value 26 pM and 2.4 nM, respectively) could be of clinical relevance. However, the precise mechanism of action of atogepant in the prophylaxis or treatment of migraine remains to be established.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
+
+## Acute treatment of migraine
+
+The efficacy of AQUIPTA for the acute treatment of migraine with or without aura in adults was studied in a randomised, double-blind, placebo-controlled study (ECLIPSE). In the 16-week blinded treatment period, 1 328 subjects were randomised to 1 of 4 sequence groups to treat 4 qualifying migraine attacks of moderate or severe headache pain intensity with either atogepant 60 mg (3 attacks) or placebo (1 attack) in a prespecified order. Subjects who completed the blinded period of the study treated subsequent attacks with open-label atogepant 60 mg until the end of week 24. Approximately 22% of subjects were using concomitant migraine-prophylaxis medication (e.g., topiramate, amitriptyline, propranolol). Rescue medication was permitted beginning 2 hours after taking study drug. The use of a concomitant medicinal product that acts on the CGRP pathway was not permitted for either acute or preventive treatment of migraine.
+
+During the double-blind study period, 1 037 subjects treated 4 qualifying migraine attacks. Mean migraine frequency was approximately 4 moderate to severe migraine attacks per month over the 3 months prior to enrolment.
+
+The primary efficacy endpoint was pain freedom (defined as reduction in headache severity from moderate/severe to no pain) at 2 hours during Attack 1 (Table 3). Secondary endpoints included absence of patient-identified most bothersome symptom at 2 hours, pain relief (defined as reduction in headache severity from moderate/severe to mild/no pain) at 2 hours, and sustained pain freedom from 2 hours to 48 hours. AQUIPTA demonstrated statistically significant and clinically meaningful improvement for these endpoints compared to placebo. In addition, statistically significant effects were demonstrated for secondary endpoints of use of rescue medication within 24 hours and ability to function normally at 2 hours.
+
+Table 3: Efficacy endpoints during Attack 1 in ECLIPSE
+
+|                                                                                                                            | AQUIPTA 60 mg N=602                                                                                                        | Placebo N=612                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Pain-free at 2 hours                                                                                                       |                                                                                                                            |                                                                                                                            |
+| %Responders                                                                                                                | 24.3                                                                                                                       | 13.1                                                                                                                       |
+| Odds ratio (95% CI)                                                                                                        | 2.36 (1.76, 3.15)                                                                                                          |                                                                                                                            |
+| p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
+| Freedom from most bothersome symptom b at 2 hours                                                                          |                                                                                                                            |                                                                                                                            |
+| %Responders                                                                                                                | 43.7                                                                                                                       | 32.7                                                                                                                       |
+| Odds ratio (95% CI)                                                                                                        | 1.77 (1.41, 2.24)                                                                                                          |                                                                                                                            |
+| p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
+| Pain relief at 2 hours                                                                                                     |                                                                                                                            |                                                                                                                            |
+| %Responders                                                                                                                | 72.1                                                                                                                       | 54.4                                                                                                                       |
+| Odds ratio (95% CI)                                                                                                        | 2.35 (1.85, 2.98)                                                                                                          |                                                                                                                            |
+| p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
+| Sustained pain freedom from 2 to 48 hours                                                                                  |                                                                                                                            |                                                                                                                            |
+| %Responders                                                                                                                | 16.6                                                                                                                       | 5.7                                                                                                                        |
+| Odds ratio (95% CI)                                                                                                        | 3.62 (2.43, 5.39)                                                                                                          |                                                                                                                            |
+| p -value                                                                                                                   | <0.0001 a                                                                                                                  |                                                                                                                            |
+| a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) | a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) | a p values adjusted for multiple comparisons b Patient-identified as nausea (31%), photophobia (44%), or phonophobia (25%) |
+
+A greater percentage of patients treated with AQUIPTA 60 mg achieved pain freedom beginning at 1.5 hours during Attack 1 compared to patients who received placebo (Figure 1). Atogepant also demonstrated clinically meaningful and consistent effect with 26.3% of patients achieving pain freedom at 2 hours in at least 2 of 3 migraine attacks.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Percentage of patients achieving pain freedom within 2 hours for Attack 1 in ECLIPSE
+
+<!-- image -->
+
+† p &lt; 0.001 (not adjusted for multiple comparisons)
+
+- ‡ p &lt; 0.0001 (adjusted for multiple comparisons)
+
+## Prophylaxis of migraine
 
 Atogepant was evaluated for the prophylaxis of migraine in two pivotal studies across the migraine spectrum in chronic and episodic migraine. The episodic migraine study (ADVANCE) enrolled patients who met International Classification of Headache Disorders (ICHD) criteria for a diagnosis of migraine with or without aura. The chronic migraine study (PROGRESS) enrolled patients who also met ICHD criteria for chronic migraine. Both studies excluded patients with myocardial infarction, stroke, or transient ischemic attacks within six months prior to screening.
 
@@ -228,11 +283,11 @@ Atogepant was evaluated for the prophylaxis of episodic migraine (4 to 14 migrai
 
 A total of 88% patients completed the 12-week double-blind study period. Patients had a mean age of 42 years (range: 18 to 73 years), 4% were 65 years or older, 89% were female, and 83% were white. The mean migraine frequency at baseline was approximately 8 migraine days per month and was similar across treatment groups.
 
+The primary efficacy endpoint was the change from baseline in mean monthly migraine days (MMD) across the 12-week treatment period. Secondary endpoints controlled for multiplicity included the change from baseline in mean monthly headache days, the change from baseline in mean monthly acute medication use days, the proportion of patients achieving at least a 50% reduction from baseline in mean MMD (3 month average), and several patient-reported outcome measures assessing functioning. Statistically significant findings were demonstrated for AQUIPTA versus placebo for the primary and secondary efficacy endpoints in ADVANCE, as summarized in Table 4.
+
 <div style=\"page-break-after: always\"></div>
 
-The primary efficacy endpoint was the change from baseline in mean monthly migraine days (MMD) across the 12-week treatment period. Secondary endpoints controlled for multiplicity included the change from baseline in mean monthly headache days, the change from baseline in mean monthly acute medication use days, the proportion of patients achieving at least a 50% reduction from baseline in mean MMD (3 month average), and several patient-reported outcome measures assessing functioning. Statistically significant findings were demonstrated for AQUIPTA versus placebo for the primary and secondary efficacy endpoints in ADVANCE, as summarized in Table 3.
-
-Table 3: Efficacy endpoints in ADVANCE
+Table 4: Efficacy endpoints in ADVANCE
 
 |                                                   | AQUIPTA 60 mg N=226   |   Placebo N=216 |
 |---------------------------------------------------|-----------------------|-----------------|
@@ -256,17 +311,17 @@ Table 3: Efficacy endpoints in ADVANCE
 | Odds ratio (95% CI)                               | 3.55 (2.39, 5.28)     |                 |
 | p -value                                          | <0.001                |                 |
 
-Figure 1 shows the mean change from baseline in MMD in ADVANCE. Patients treated with AQUIPTA 60 mg once daily had greater mean decreases from baseline in MMD across the 12-week treatment period compared to patients who received placebo. AQUIPTA 60 mg once daily resulted in significant decreases from baseline in mean monthly migraine days within the first 4-week interval compared to placebo-treated patients.
+Figure 2 shows the mean change from baseline in MMD in ADVANCE. Patients treated with AQUIPTA 60 mg once daily had greater mean decreases from baseline in MMD across the 12-week treatment period compared to patients who received placebo. AQUIPTA 60 mg once daily resulted in significant decreases from baseline in mean monthly migraine days within the first 4-week interval compared to placebo-treated patients.
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 1: Change from baseline in monthly migraine days in ADVANCE
+Figure 2: Change from baseline in monthly migraine days in ADVANCE
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## Long-term efficacy
 
-Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of -5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
+Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of 5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
 
 ## Patients with previous failure to 2 to 4 classes of oral prophylactic treatments
 
@@ -276,53 +331,55 @@ In the ELEVATE study, 315 adult patients with episodic migraine who previously f
 
 Atogepant was evaluated for the prophylaxis of chronic migraine (15 or more headache days per month with at least 8 migraine days) in a randomised, multicentre, double-blind, placebo-controlled study (PROGRESS). Patients were randomised to AQUIPTA 60 mg (N = 262) or placebo (N = 259) once daily for 12 weeks. A subset of patients (11%) was allowed to use one concomitant migraine prophylaxis medicinal product (e.g., amitriptyline, propranolol, topiramate). Patients were allowed to use acute headache treatments (i.e., triptans, ergotamine derivatives, NSAIDs, paracetamol and opioids) as needed. Patients with acute medication overuse and medication overuse headache also were enrolled. The use of a concomitant medicinal product that acts on the CGRP pathway was not permitted for either acute or preventive treatment of migraine.
 
-<div style=\"page-break-after: always\"></div>
-
 A total of 463 (89%) patients completed the 12-week double-blind study. Patients had a mean age of 42 years (range: 18 to 74 years), 3% were 65 years or older, 87% were female, and 59% were white. The mean migraine frequency at baseline was approximately 19 migraine days per month and was similar across treatment groups.
 
-The primary efficacy endpoint was the change from baseline in mean MMD across the 12-week treatment period. Secondary endpoints controlled for multiplicity included the change from baseline in mean monthly headache days, the change from baseline in mean monthly acute medication use days, the proportion of patients achieving at least a 50% reduction from baseline in mean MMD (3-month average), and several patient-reported outcome measures assessing functioning. Statistically significant findings were demonstrated for AQUIPTA versus placebo for the primary and secondary efficacy endpoints for PROGRESS, as summarized in Table 4.
+The primary efficacy endpoint was the change from baseline in mean MMD across the 12-week treatment period. Secondary endpoints controlled for multiplicity included the change from baseline in mean monthly headache days, the change from baseline in mean monthly acute medication use days, the proportion of patients achieving at least a 50% reduction from baseline in mean MMD (3-month average), and several patient-reported outcome measures assessing functioning. Statistically significant findings were demonstrated for AQUIPTA versus placebo for the primary and secondary efficacy endpoints for PROGRESS, as summarized in Table 5.
 
-Table 4: Efficacy endpoints in PROGRESS
+Table 5: Efficacy endpoints in PROGRESS
 
-|                                                   | AQUIPTA 60 mg N=257   |   Placebo N=249 |
-|---------------------------------------------------|-----------------------|-----------------|
-| Monthly migraine days (MMD) across 12 weeks       |                       |                 |
-| Baseline                                          | 19.2                  |            19.0 |
-| Mean change from baseline                         | -6.8                  |            -5.1 |
-| Difference from placebo                           | -1.7                  |                 |
-| p -value                                          | 0.002                 |                 |
-| Monthly headache days across 12 weeks             |                       |                 |
-| Baseline                                          | 21.5                  |            21.4 |
-| Mean change from baseline                         | -6.9                  |            -5.2 |
-| Difference from placebo                           | -1.7                  |                 |
-| p -value                                          | 0.002                 |                 |
-| Monthly acute medication use days across 12 weeks |                       |                 |
-| Baseline                                          | 15.5                  |            15.3 |
-| Mean change from baseline                         | -6.2                  |            -4.1 |
-| Difference from placebo                           | -2.1                  |                 |
-| p -value                                          | 0.002                 |                 |
-| ≥ 50% MMDresponders across 12 weeks               |                       |                 |
-| %Responders                                       | 40                    |              27 |
-| Odds ratio (95% CI)                               | 1.90 (1.29, 2.79)     |                 |
-| p -value                                          | 0.002                 |                 |
-
-Figure 2 shows the mean change from baseline in MMD in PROGRESS. Patients treated with AQUIPTA 60 mg once daily had a greater mean decrease from baseline in MMD across the 12-week treatment period compared to patients who received placebo.
+|                                             |   AQUIPTA 60 mg N=257 |   Placebo N=249 |
+|---------------------------------------------|-----------------------|-----------------|
+| Monthly migraine days (MMD) across 12 weeks |                       |                 |
+| Baseline                                    |                  19.2 |            19.0 |
+| Mean change from baseline                   |                  -6.8 |            -5.1 |
+| Difference from placebo                     |                  -1.7 |                 |
+| p -value                                    |                 0.002 |                 |
+| Monthly headache days across 12 weeks       |                       |                 |
+| Baseline                                    |                  21.5 |            21.4 |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Change from baseline in monthly migraine days in PROGRESS
+| Mean change from baseline                         | -6.9                                              | -5.2                                              |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| Difference from placebo                           | -1.7                                              |                                                   |
+| p -value                                          | 0.002                                             |                                                   |
+| Monthly acute medication use days across 12 weeks | Monthly acute medication use days across 12 weeks | Monthly acute medication use days across 12 weeks |
+| Baseline                                          | 15.5                                              | 15.3                                              |
+| Mean change from baseline                         | -6.2                                              | -4.1                                              |
+| Difference from placebo                           | -2.1                                              |                                                   |
+| p -value                                          | 0.002                                             |                                                   |
+| ≥ 50% MMDresponders across 12 weeks               | ≥ 50% MMDresponders across 12 weeks               | ≥ 50% MMDresponders across 12 weeks               |
+| %Responders                                       | 40                                                | 27                                                |
+| Odds ratio (95% CI)                               | 1.90 (1.29, 2.79)                                 |                                                   |
+| p -value                                          | 0.002                                             |                                                   |
+
+Figure 3 shows the mean change from baseline in MMD in PROGRESS. Patients treated with AQUIPTA 60 mg once daily had a greater mean decrease from baseline in MMD across the 12-week treatment period compared to patients who received placebo.
+
+Figure 3: Change from baseline in monthly migraine days in PROGRESS
 
 h
 
 <!-- image -->
 
-Tolerability and efficacy compared to topiramate
+## Tolerability and efficacy compared to topiramate
 
 In the TEMPLE study, 540 adult patients with episodic or chronic migraine were randomised and received either atogepant 60 mg once daily (N = 273) or topiramate 50 mg to 100 mg per day (N = 267) for 24 weeks during the double-blind phase to assess tolerability, safety, and efficacy. Atogepant demonstrated superior tolerability versus topiramate based on the rate of treatment discontinuation due to adverse events (atogepant: 12.1%, topiramate: 29.6%; p&lt;0.0001; primary endpoint). 64.1% of patients in the atogepant group achieved at least a 50% reduction in MMD during Months 4 to 6 of the study compared to 39.3% in the topiramate group (p&lt;0.0001).
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with AQUIPTA in one or more subsets of the paediatric population in prophylaxis of migraine headaches (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with AQUIPTA in one or more subsets of the paediatric population in acute treatment and prophylaxis of migraine headaches (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -336,8 +393,6 @@ When atogepant was administered with a high-fat meal, AUC and Cmax were reduced 
 
 ## Distribution
 
-<div style=\"page-break-after: always\"></div>
-
 Plasma protein binding of atogepant was not concentration-dependent in the range of 0.1 to 10 µM; the unbound fraction of atogepant was approximately 4.7% in human plasma. The mean apparent volume of distribution of atogepant (Vz/F) after oral administration is approximately 292 L.
 
 ## Biotransformation
@@ -346,7 +401,7 @@ Atogepant is eliminated mainly through metabolism, primarily by CYP3A4. The pare
 
 ## CYP3A4 inducers
 
-Co-administration of atogepant with steady state rifampicin, a strong CYP3A4 inducer, resulted in a significant decrease in exposure  (Cmax by 30% and AUC by 60%) of atogepant in healthy subjects.
+Co-administration of atogepant with steady state rifampicin, a strong CYP3A4 inducer, resulted in a significant decrease in exposure (Cmax by 30% and AUC by 60%) of atogepant in healthy subjects.
 
 Co-administration of atogepant with steady-state topiramate, a mild CYP3A4 inducer, resulted in a decrease in exposure (Cmax by 24% and AUC by 25%) of atogepant.
 
@@ -364,6 +419,8 @@ Atogepant is not an inhibitor of P-gp, BCRP, OAT1, OAT3, NTCP, BSEP, MRP3, or MR
 
 ## Special populations
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 The renal route of elimination plays a minor role in the clearance of atogepant. Based on population pharmacokinetic analysis, there is no significant difference in the pharmacokinetics of atogepant in patients with mild or moderate renal impairment (CLcr 30-89 mL/min) relative to those with normal renal function (CLcr  90 mL/min). As patients with severe renal impairment or end-stage renal disease (ESRD; CLcr &lt; 30 mL/min) have not been studied, use of atogepant 10 mg is recommended in those patients.
@@ -371,8 +428,6 @@ The renal route of elimination plays a minor role in the clearance of atogepant.
 ## Hepatic impairment
 
 In patients with pre-existing mild (Child-Pugh Class A), moderate (Child-Pugh Class B), or severe hepatic impairment (Child-Pugh Class C), total atogepant exposure was increased by 24%, 15% and 38%, respectively. However, unbound atogepant exposure was approximately 3-fold higher in patients with severe hepatic impairment. The use of AQUIPTA in patients with severe hepatic impairment should be avoided.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Transfer into breast milk
 
@@ -396,13 +451,13 @@ Oral administration of atogepant to pregnant rats and rabbits during the period 
 
 Oral administration of atogepant to rats throughout gestation and lactation resulted in non-adverse significant decreased pup body weight which persisted into adulthood. Plasma exposure (AUC) at the no-effect dose for pre- and postnatal development were approximately 5-times that in humans at the MRHD. In lactating rats, oral dosing with atogepant resulted in levels of atogepant in milk approximately 2-fold higher than those in maternal plasma.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 Polyvinylpyrrolidone/Vinyl acetate copolymer Vitamin E polyethylene glycol succinate Mannitol Microcrystalline cellulose Sodium chloride Croscarmellose sodium Colloidal silicon dioxide Sodium stearyl fumarate
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -420,11 +475,13 @@ This medicinal product does not require any special storage conditions.
 
 ## AQUIPTA 10 mg tablets
 
-Aluminium foil and PVC/PE/PCTFE blisters, each containing 7 tablets. Packs containing 28 or 98 tablets.
+Aluminium foil and PVC/PE/PCTFE blisters, each containing 7 tablets. Packs containing 7, 28 or 98 tablets.
 
 ## AQUIPTA 60 mg tablets
 
-Aluminium foil and PVC/PE/PCTFE blisters, each containing 7 tablets. Packs containing 28 or 98 tablets.
+Aluminium foil and PVC/PE/PCTFE blisters containing 2 tablets. Packs containing 2 tablets.
+
+Aluminium foil and PVC/PE/PCTFE blisters, each containing 7 tablets. Packs containing 7, 28 or 98 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -434,23 +491,19 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse
+
+<div style=\"page-break-after: always\"></div>
+
+67061 Ludwigshafen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1750/001
-
-EU/1/23/1750/002
-
-EU/1/23/1750/003
-
-EU/1/23/1750/004
+EU/1/23/1750/001 EU/1/23/1750/002 EU/1/23/1750/003 EU/1/23/1750/004 EU/1/23/1750/005 EU/1/23/1750/006 EU/1/23/1750/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 11 August 2023
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -520,13 +573,11 @@ atogepant
 
 Each tablet contains 10 mg of atogepant.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Tablet
-
-28 tablets
+Tablet 7 tablets 28 tablets
 
 98 tablets
 
@@ -540,13 +591,13 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -562,12 +613,10 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/23/1750/001
+EU/1/23/1750/005 7 tablets EU/1/23/1750/001 28 tablets EU/1/23/1750/002 98 tablets
 
-EU/1/23/1750/002
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
@@ -582,8 +631,8 @@ Lot
 
 aquipta 10 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -598,9 +647,7 @@ Inner carton of 49 tablets (for the 98 pack)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AQUIPTA 10 mg tablets
-
-atogepant
+AQUIPTA 10 mg tablets atogepant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -632,7 +679,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -648,13 +695,13 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/23/1750/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -672,9 +719,9 @@ aquipta 10 mg AQUIPTA 10 mg tablets atogepant AbbVie (as logo)
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
 | 1.   | NAMEOF THE MEDICINAL PRODUCT   |
 |------|--------------------------------|
@@ -695,7 +742,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-23
+24
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -719,7 +766,13 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Tablet 28 tablets
+Tablet
+
+2 tablets
+
+7 tablets
+
+28 tablets
 
 98 tablets
 
@@ -735,38 +788,46 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/23/1750/003 EU/1/23/1750/004
+EU/1/23/1750/006 2 tablets EU/1/23/1750/007 7 tablets EU/1/23/1750/003 28 tablets
 
-13. BATCH NUMBER
+EU/1/23/1750/004 98 tablets
+
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 aquipta 60 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -783,9 +844,7 @@ Inner carton of 49 tablets (for the 98 pack)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AQUIPTA 60 mg tablets
-
-atogepant
+AQUIPTA 60 mg tablets atogepant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -815,13 +874,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -837,8 +896,8 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/23/1750/004
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
@@ -884,7 +943,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-28
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -920,7 +979,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What AQUIPTA is and what it is used for
 
-AQUIPTA contains the active substance atogepant. AQUIPTA is used to prevent migraine in adult patients who have at least 4 migraine days per month.
+AQUIPTA contains the active substance atogepant. AQUIPTA is used in adult patients to:
+
+- treat an active migraine attack
+- prevent migraine in those who have at least 4 migraine days per month
 
 AQUIPTA is thought to block the activity of the calcitonin/calcitonin gene related peptide (CGRP)receptor family, which have been linked to migraine.
 
@@ -986,10 +1048,18 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 ## How much to take
 
-The recommended dose is 60 mg atogepant once a day. Your doctor may tell you to take a lower dose if:
+The maximum dose per day is 60 mg atogepant.
+
+For treatment of a migraine attack as needed, the recommended dose is 60 mg atogepant.
+
+For prevention of migraine, the recommended dose is 60 mg atogepant once a day.
+
+Your doctor may tell you to take a lower dose if:
 
 - you are taking other medicines (listed in section 2)
 - you have severe kidney problems or you are undergoing dialysis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How to take
 
@@ -999,17 +1069,17 @@ AQUIPTA is for oral use. Do not split, crush, chew or break the tablet before sw
 
 If you have taken more tablets than you should, tell your doctor. You may get some of the side effects listed in section 4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take AQUIPTA
 
-- If you miss a dose, take it as soon as you remember.
+If you take AQUIPTA for the prevention of migraine and forget to take it:
+
+- Take it as soon as you remember.
 - If you forget your dose for an entire day, just skip the missed dose and take a single dose as usual the following day.
 - Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking AQUIPTA
 
-Do not stop taking AQUIPTA without talking to your doctor first. Your symptoms may return if you stop the treatment.
+If you take AQUIPTA for the prevention of migraine, do not stop taking it without talking to your doctor first. Your symptoms may return if you stop the treatment.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1038,13 +1108,15 @@ Tell your doctor if you notice any of the following side effects:
 - decreased appetite
 - weight loss
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - increased levels of liver enzymes
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listing in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store AQUIPTA
 
@@ -1053,8 +1125,6 @@ Keep this medicine out of the sight and reach of children.
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1076,11 +1146,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## AQUIPTA 10 mg tablets
 
-AQUIPTA 10 mg tablet is a white to off-white, round biconvex tablet debossed with 'A' and '10' on one side. It is available in packs containing 28 or 98 tablets.
+AQUIPTA 10 mg tablet is a white to off-white, round biconvex tablet debossed with 'A' and '10' on one side. It is available in packs containing 7, 28 or 98 tablets.
 
 ## AQUIPTA 60 mg tablets
 
-AQUIPTA 60 mg tablet is a white to off-white, oval biconvex tablet debossed with 'A60' on one side. It is available in packs containing 28 or 98 tablets.
+AQUIPTA 60 mg tablet is a white to off-white, oval biconvex tablet debossed with 'A60' on one side. It is available in packs containing 2, 7, 28 or 98 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1094,27 +1164,15 @@ AbbVie S.r.l S.R. 148 Pontina Km 52 Snc Campoverde di Aprilia, Latina 04011 Ital
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
+<div style=\"page-break-after: always\"></div>
+
 ## België/Belgique/Belgien
 
-AbbVie SA
+AbbVie SA Tél/Tel: +32 10 477811
 
-Tél/Tel: +32 10 477811
+## България
 
-Lietuva
-
-AbbVie UAB
-
-Tel: +370 5 205 3023
-
-България
-
-АбВи ЕООД
-
-Тел.:+359 2 90 30 430
-
-Luxembourg/Luxemburg AbbVie SA Belgique/Belgien Tél/Tel: +32 10 477811
-
-<div style=\"page-break-after: always\"></div>
+АбВи ЕООД Тел.:+359 2 90 30 430
 
 ## Česká republika
 
@@ -1122,9 +1180,7 @@ AbbVie s.r.o. Tel: +420 233 098 111
 
 ## Danmark
 
-AbbVie A/S
-
-Tlf: +45 72 30-20-28
+AbbVie A/S Tlf: +45 72 30-20-28
 
 ## Deutschland
 
@@ -1162,23 +1218,19 @@ Vistor Sími: +354 535 7000
 
 AbbVie S.r.l. Tel: +39 06 928921
 
-## Κύπρος
+## Lietuva
 
-Lifepharma (Z.A.M.) Ltd Τηλ.: +357 22 34 74 40
+AbbVie UAB
 
-## Latvija
+Tel: +370 5 205 3023
 
-AbbVie SIA
+## Luxembourg/Luxemburg
 
-Tel: +371 67605000
-
-## This leaflet was last revised in
+AbbVie SA Belgique/Belgien Tél/Tel: +32 10 477811
 
 ## Magyarország
 
-AbbVie Kft.
-
-Tel.:+36 1 455 8600
+AbbVie Kft. Tel.:+36 1 455 8600
 
 ## Malta
 
@@ -1186,7 +1238,9 @@ Vivian Corporation Ltd. Tel: +356 27780331
 
 ## Nederland
 
-AbbVie B.V. Tel:  +31 (0)88 322 2843
+AbbVie B.V.
+
+Tel:  +31 (0)88 322 2843
 
 ## Norge
 
@@ -1198,17 +1252,19 @@ AbbVie GmbH Tel: +43 1 20589-0
 
 ## Polska
 
-AbbVie Sp. z o.o. Tel.: +48 22 372 78 00
+AbbVie Sp. z o.o.
+
+Tel.: +48 22 372 78 00
 
 ## Portugal
 
-AbbVie, Lda. Tel: +351 (0)21 1908400
+AbbVie, Lda.
+
+Tel: +351 (0)21 1908400
 
 ## România
 
-AbbVie S.R.L.
-
-Tel: +40 21 529 30 35
+AbbVie S.R.L. Tel: +40 21 529 30 35
 
 ## Slovenija
 
@@ -1216,22 +1272,32 @@ AbbVie Biofarmacevtska družba d.o.o. Tel: +386 (1)32 08 060
 
 ## Slovenská republika
 
-AbbVie s.r.o.
-
-Tel: +421 2 5050 0777
+AbbVie s.r.o. Tel: +421 2 5050 0777
 
 ## Suomi/Finland
 
 AbbVie Oy Puh/Tel:  +358 (0)10 2411 200
 
-## Sverige
+## Κύπρος
 
-AbbVie AB Tel:  +46 (0)8 684 44 600
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ.: +357 22 34 74 40
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+AbbVie SIA
+
+Tel: +371 67605000
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
+
+Sverige AbbVie AB Tel:  +46 (0)8 684 44 600

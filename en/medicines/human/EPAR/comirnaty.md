@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-29 14:35:00
+document_datetime: 2026-06-30 17:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.238443
-conversion_datetime: 2026-06-01 16:59:31.475679
+processing_time: 0.3153675
+conversion_datetime: 2026-07-04 13:11:35.0761
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -70,7 +70,7 @@ Expand section
 
 Collapse section
 
-## How is Comirnaty used?
+### How is Comirnaty used?
 
 Adults and children from 5 years of age should receive a single dose injected into the muscle of the upper arm, irrespective of their previous vaccination history.
 
@@ -84,7 +84,7 @@ The vaccines should be used according to official recommendations issued at nati
 
 For more information about using Comirnaty, including information about the adapted vaccines, doses for different age groups, see the package leaflet or consult a healthcare professional.
 
-## How does Comirnaty work?
+### How does Comirnaty work?
 
 Comirnaty works by preparing the body to defend itself against COVID-19. It contains a molecule called mRNA which has instructions for making the spike protein. This is a protein on the surface of SARS-CoV-2 which the virus needs to enter the body's cells and can differ between variants of the virus.
 
@@ -96,7 +96,7 @@ The mRNA from the vaccine is broken down after vaccination and removed from the 
 
 Adapted vaccines are expected to maintain protection against the virus as it evolves since they contain mRNA more closely matching circulating variants of the virus.
 
-## What benefits of Comirnaty have been shown in studies?
+### What benefits of Comirnaty have been shown in studies?
 
 A very large clinical trial showed that Comirnaty, given as a two-dose regimen, was effective at preventing COVID-19 in people from 12 years of age.
 
@@ -118,17 +118,17 @@ Additional data showed that subsequent doses, including boosters, lead to a rise
 
 Available data also indicate that vaccines adapted to target circulating strains of the virus are expected to elicit a strong immune response against these strains.
 
-## Can children be vaccinated with Comirnaty?
+### Can children be vaccinated with Comirnaty?
 
 The originally authorised Comirnaty and the adapted vaccines are authorised for adults and children from 6 months of age.
 
-## Can immunocompromised people be vaccinated with Comirnaty?
+### Can immunocompromised people be vaccinated with Comirnaty?
 
 Although immunocompromised people may not respond as well to the vaccine, there are no particular safety concerns. Immunocompromised people can still be vaccinated as they may be at higher risk from COVID-19.
 
 Severely immunocompromised people may be given an additional dose of Comirnaty as part of their primary vaccination.
 
-## Can pregnant or breast-feeding women be vaccinated with Comirnaty?
+### Can pregnant or breast-feeding women be vaccinated with Comirnaty?
 
 Comirnaty can be used during pregnancy. A large amount of data from pregnant women vaccinated with Comirnaty during the second or third trimester of their pregnancy has been analysed and showed no increase in pregnancy complications. Although data in the first trimester of pregnancy are more limited, no increased risk of miscarriage was seen.
 
@@ -136,17 +136,17 @@ Comirnaty can also be used during breast-feeding. Data from women who were breas
 
 No data are currently available regarding the use of the adapted vaccines in pregnant or breastfeeding women. Based on the data available for the originally authorised Comirnaty, Comirnaty Original/Omicron BA.4-5, Comirnaty Omicron XBB.1.5, Comirnaty JN.1 and Comirnaty KP.2 can also be used during pregnancy and breast-feeding.
 
-## Can people with allergies be vaccinated with Comirnaty?
+### Can people with allergies be vaccinated with Comirnaty?
 
 People who already know they have an allergy to one of the components of the vaccine listed in section 6 of the package leaflet must not receive the vaccine.
 
 Allergic reactions (hypersensitivity) have been seen in people receiving the vaccine. A very small number of cases of anaphylaxis (severe allergic reaction) have occurred. Therefore, as for all vaccines, Comirnaty, including its adapted vaccines, should be given under close medical supervision, with the appropriate medical treatment available. People who have a severe allergic reaction when they are given a dose of one of the Comirnaty vaccines should not receive subsequent doses.
 
-## How well does Comirnaty work for people of different ethnicities and genders?
+### How well does Comirnaty work for people of different ethnicities and genders?
 
 The main Comirnaty trial included people of different ethnicities and genders. Efficacy of around 95% in the main trial was maintained across genders and ethnic groups.
 
-## What are the risks associated with Comirnaty?
+### What are the risks associated with Comirnaty?
 
 For the full list of side effects and restrictions with Comirnaty, see the package leaflet.
 
@@ -158,7 +158,7 @@ Myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of
 
 Very few cases of extensive swelling of the vaccinated arm, swelling of the face in people with a history of injections with dermal fillers (soft, gel-like substances injected under the skin), erythema multiforme (red patches on the skin with a dark red centre and paler red rings) paraesthesia (unusual feeling in the skin, such as tingling or a crawling feeling), hypoesthesia (decreased feeling or sensitivity in the skin) and heavy menstrual bleeding have occurred. Allergic reactions have also occurred with Comirnaty, including a very small number of cases of severe allergic reactions (anaphylaxis).
 
-## Why is Comirnaty authorised in the EU?
+### Why is Comirnaty authorised in the EU?
 
 Data show that Comirnaty causes the production of antibodies against SARS-CoV-2 that can protect against COVID-19. The main trials of Comirnaty showed that the vaccine has a high efficacy in all age groups. Most side effects are mild to moderate in severity and resolve within a few days.
 
@@ -166,7 +166,7 @@ The Agency therefore decided that the benefits of Comirnaty, including its adapt
 
 Comirnaty was originally given 'conditional authorisation' because there was more evidence to come about the vaccine. The company has provided comprehensive information, including data regarding its safety, efficacy, and how well Comirnaty prevents severe disease. In addition, the company has completed all requested studies on the pharmaceutical quality of the vaccine. As a result, the conditional authorisation has been switched to a standard one.
 
-## What measures are being taken to ensure the safe and effective use of Comirnaty?
+### What measures are being taken to ensure the safe and effective use of Comirnaty?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Comirnaty have been included in the summary of product characteristics and the package leaflet.
 
@@ -176,13 +176,13 @@ Safety measures for Comirnaty are implemented in line with the [EU safety monito
 
 As for all medicines, data on the use of Comirnaty are continuously monitored. Suspected side effects are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Comirnaty
+### Other information about Comirnaty
 
 Comirnaty received a conditional marketing authorisation valid throughout the EU on 21 December 2020. This was switched to a standard marketing authorisation on 10 October 2022.
 
 More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts) .
 
-## Key developments since authorisation
+### Key developments since authorisation
 
 | **Date**   | **Key developments**                                                                                                                                                                                                                                                                 |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-971)
+[Other languages (22)](#file-language-dropdown-707)
 
 български (BG) (204.05 KB - PDF)
 
@@ -259,7 +259,7 @@ Deutsch (DE) (172.24 KB - PDF)
 
 [View](/de/documents/overview/comirnaty-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (174.55 KB - PDF)
+eesti (ET) (174.55 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 10/09/2025
 
@@ -289,13 +289,13 @@ italiano (IT) (167.73 KB - PDF)
 
 [View](/it/documents/overview/comirnaty-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (199.53 KB - PDF)
+latviešu (LV) (199.53 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/lv/documents/overview/comirnaty-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (194.3 KB - PDF)
+lietuvių (LT) (194.3 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 10/09/2025
 
@@ -349,7 +349,7 @@ slovenščina (SL) (195.63 KB - PDF)
 
 [View](/sl/documents/overview/comirnaty-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (165.23 KB - PDF)
+suomi (FI) (165.23 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 10/09/2025
 
@@ -379,13 +379,19 @@ English (EN) (1.93 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (14)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (4.08 MB - PDF)
 
 **First published:** 12/01/2021 **Last updated:** 29/05/2026
 
 [View](/bg/documents/product-information/comirnaty-epar-product-information_bg.pdf)
+
+español (ES) (3.6 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/es/documents/product-information/comirnaty-epar-product-information_es.pdf)
 
 čeština (CS) (4.05 MB - PDF)
 
@@ -405,11 +411,53 @@ Deutsch (DE) (2.98 MB - PDF)
 
 [View](/de/documents/product-information/comirnaty-epar-product-information_de.pdf)
 
+eesti (ET) (3.51 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/et/documents/product-information/comirnaty-epar-product-information_et.pdf)
+
 ελληνικά (EL) (3.94 MB - PDF)
 
 **First published:** 12/01/2021 **Last updated:** 29/05/2026
 
 [View](/el/documents/product-information/comirnaty-epar-product-information_el.pdf)
+
+français (FR) (3.9 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf)
+
+hrvatski (HR) (3.66 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/hr/documents/product-information/comirnaty-epar-product-information_hr.pdf)
+
+italiano (IT) (3.89 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/it/documents/product-information/comirnaty-epar-product-information_it.pdf)
+
+latviešu (LV) (3.68 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/lv/documents/product-information/comirnaty-epar-product-information_lv.pdf)
+
+lietuvių (LT) (3.85 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/lt/documents/product-information/comirnaty-epar-product-information_lt.pdf)
+
+magyar (HU) (3.86 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/hu/documents/product-information/comirnaty-epar-product-information_hu.pdf)
 
 Malti (MT) (4.31 MB - PDF)
 
@@ -422,12 +470,6 @@ Nederlands (NL) (3.65 MB - PDF)
 **First published:** 12/01/2021 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information/comirnaty-epar-product-information_nl.pdf)
-
-norsk (NO) (3.6 MB - PDF)
-
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
-
-[View](/no/documents/product-information/comirnaty-epar-product-information_no.pdf)
 
 polski (PL) (4.14 MB - PDF)
 
@@ -459,11 +501,29 @@ slovenščina (SL) (3.79 MB - PDF)
 
 [View](/sl/documents/product-information/comirnaty-epar-product-information_sl.pdf)
 
+suomi (FI) (3.7 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/fi/documents/product-information/comirnaty-epar-product-information_fi.pdf)
+
 svenska (SV) (3.52 MB - PDF)
 
 **First published:** 12/01/2021 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information/comirnaty-epar-product-information_sv.pdf)
+
+Íslenska (IS) (3.54 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/is/documents/product-information/comirnaty-epar-product-information_is.pdf)
+
+norsk (NO) (3.6 MB - PDF)
+
+**First published:** 12/01/2021 **Last updated:** 29/05/2026
+
+[View](/no/documents/product-information/comirnaty-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000320534
 
@@ -473,7 +533,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -491,7 +552,7 @@ English (EN) (41.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-505)
+[Other languages (24)](#file-language-dropdown-726)
 
 български (BG) (134.77 KB - PDF)
 
@@ -523,7 +584,7 @@ Deutsch (DE) (111.5 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (121.7 KB - PDF)
+eesti (ET) (121.7 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
@@ -547,25 +608,19 @@ hrvatski (HR) (109.56 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (124.87 KB - PDF)
-
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
-
-[View](/is/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (134.67 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
 [View](/it/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (118.43 KB - PDF)
+latviešu (LV) (118.43 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
 [View](/lv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (132.91 KB - PDF)
+lietuvių (LT) (132.91 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
@@ -588,12 +643,6 @@ Nederlands (NL) (125.89 KB - PDF)
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
 [View](/nl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (120.97 KB - PDF)
-
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
-
-[View](/no/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (128.99 KB - PDF)
 
@@ -625,7 +674,7 @@ slovenščina (SL) (123.29 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (117.17 KB - PDF)
+suomi (FI) (117.17 KB - PDF)
 
 **First published:** 23/12/2020 **Last updated:** 29/05/2026
 
@@ -637,27 +686,30 @@ svenska (SV) (123.19 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (124.87 KB - PDF)
+
+**First published:** 23/12/2020 **Last updated:** 29/05/2026
+
+[View](/is/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (120.97 KB - PDF)
+
+**First published:** 23/12/2020 **Last updated:** 29/05/2026
+
+[View](/no/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Comirnaty
-
-Active substance
-
-single-stranded, 5'-capped messenger RNA produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
-
-International non-proprietary name (INN) or common name
-
-COVID-19 mRNA vaccine
-
-Therapeutic area (MeSH)
-
-COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BN01
+- **Name of medicine**
+    - Comirnaty
+- **Active substance**
+    - single-stranded, 5'-capped messenger RNA produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
+- **International non-proprietary name (INN) or common name**
+    - COVID-19 mRNA vaccine
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -675,31 +727,18 @@ Comirnaty LP.8.1 dispersion for injection is indicated for active immunisation t
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005735
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-BioNTech Manufacturing GmbH
-
-An der Goldgrube 12
-
-Opinion adopted
-
-21/12/2020
-
-Marketing authorisation issued
-
-21/12/2020
-
-Revision
-
-62
+- **EMA product number**
+    - EMEA/H/C/005735
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - BioNTech Manufacturing GmbH An der Goldgrube 12  55131 Mainz  Germany
+- **Opinion adopted**
+    - 21/12/2020
+- **Marketing authorisation issued**
+    - 21/12/2020
+- **Revision**
+    - 62
 
 ## Assessment history
 
@@ -707,7 +746,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Comirnaty : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -853,7 +892,7 @@ English (EN) (168.05 KB - PDF)
 
 **First published:** 11/09/2023
 
-[View](/en/documents/variation-report/comirnaty-h-c-psusa-00010898-202212-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/variation-report/comirnaty-h-c-psusa-00010898-202212-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Comirnaty-H-C-005735-X-0180 : EPAR - Assessment report - Extension
 
@@ -1075,7 +1114,7 @@ English (EN) (153.07 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-comirnaty-ii-30_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Comirnaty : EPAR - Public assessment report
 
@@ -1687,9 +1726,9 @@ English (EN) (3.84 MB - ZIP)
 
 Comirnaty : 2.3.S drug substance
 
-English (EN) (24.15 MB - ZIP)
+English (EN) (26.73 MB - ZIP)
 
-**First published:** 25/07/2025 **Last updated:** 28/05/2026
+**First published:** 25/07/2025 **Last updated:** 30/06/2026
 
 [View](/en/documents/other/comirnaty-23s-drug-substance_en.zip)
 
@@ -1827,11 +1866,11 @@ English (EN) (813.79 KB - PDF)
 
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
+- [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Non-Interventional Postmarketing Safety Study to Evaluate the COMIRNATY 2024-2025 Formula (monovalent KP.2) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000476)
 - [TARGET-EU: Effectiveness of BNT162b2 mRNA COVID-19 vaccine in healthy individuals or with stable pre-existing medical conditions against SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000995)
 - [Post Conditional Approval Active Surveillance Study Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/46939)
 - [Human genetics of myocarditis: overall, after mRNA COVID-19 vaccination, and after SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000728)
-- [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Non-Interventional Postmarketing Safety Study of the COMIRNATY 2025-2026 Formula (LP.8.1) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000932)
 - [id.DRIVE (former COVIDRIVE) study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [Assessment of risk factors for Myocarditis in the United States (US) using Electronic Health Records and Claims data - post-authorisation study](https://catalogues.ema.europa.eu/study/104404)
@@ -1855,6 +1894,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-29/05/2026
+30/06/2026
 
 ## Share this page

@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-03-10 17:15:58
-document_pages: 3
+document_datetime: 2026-06-25 13:05:10
+document_pages: 6
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/inaqovi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: inaqovi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.4991253
-conversion_datetime: 2025-12-20 09:33:16.032788
+processing_time: 3.2482433
+conversion_datetime: 2026-07-04 15:23:14.837005
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## Inaqovi
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | This was an application for a group of | 10/03/2025                          |                                             | SmPC and PL                      |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number                    | Scope                                                                                         | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                 |
+|---------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|---------------------------------------------------------|
+| Variation type II / EMA/VR/0000304730 | Outcome: C.I.6 Change(s) to therapeutic indication(s) - C.I.6.a Addition of a new therapeutic | 23/04/2026                          | 19/06/2026                                  | SmPC and PL                      | Please refer to Scientific Discussion EMA/VR/0000304730 |
 
 <!-- image -->
 
@@ -38,11 +32,32 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000247810                        | variations. B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                           |            |                 |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
-| Variation type IA_IN / EMA/VR/0000244058 | This was an application for a group of variations. B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.b Primary packaging site - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not | 17/01/2025 | Annex II and PL |
+|                                       | indication or modification of an approved one - Accepted Extension of indication to include treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for standard induction chemotherapy for INAQOVI in combination with venetoclax, based on interim results from study ASTX727-07; this is a single-arm, open-label pharmacokinetic, safety, and efficacy study of ASTX727 (INAQOVI) in combination with venetoclax in adult patients with acute myeloid leukemia; as a consequence, sections 4.1, 4.2, 4.4, 4.5, 4.8, 5.1, and 5.2 of the SmPC are updated. The Package Leaflet is updated in accordance. Version 1.3 of the RMP has also been submitted. In addition, the Marketing authorisation holder (MAH) took the opportunity to update the list of local representatives for Belgium, Luxemburg and Iceland in the Package Leaflet and bring editorial changes to the PI. As part of the application, the MAH is requesting a 1-year extension of the market   |            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000338606 | Outcome: Q.I.b.2 Change to analytical procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 09/04/2026 |
 
 <div style=\"page-break-after: always\"></div>
 
-| including batch control/testing - Accepted   |
-|----------------------------------------------|
+|                                       | substance - Q.I.b.2.e) Minor change to an analytical procedure for starting material/reagent/intermediate - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |            |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IA / EMA/VR/0000310879 | Outcome: This was an application for a group of variations. B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted B.I.a.3 Change in batch size (including batch size ranges) of active substance or intermediate used in the manufacturing process of the active substance - B.I.a.3.a Up to 10-fold increase compared to the originally approved batch size - Accepted | 13/11/2025 |
+| Variation type IB / EMA/VR/0000287525 | Outcome: This was an application for a group of variations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 04/09/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.e Minor change to the restricted part of an Active Substance Master File - Accepted                                                                                                                                           |            |            |             |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|
+| Variation type IB / EMA/VR/0000281955 | Outcome: This was an application for a group of variations. B.I.d.1.a Re-test period/storage period - B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted B.I.d.1 Change in the re-test period/storage period or storage conditions of the active substance where no Ph. Eur. Certificate of Suitability covering the retest period is part of the approved dossier - B.I.d.1.z Other variation - Accepted | 23/07/2025 |            |             |
+| Variation type IB / EMA/VR/0000247810 | Outcome: This was an application for a group of variations. B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged                                                                                                                                                                                                                                                                                                                   | 10/03/2025 | 03/03/2026 | SmPC and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | for sale (supported by real time data) - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                                                                                                                                                                                     |            |            |                 |             |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|-------------|
+| Variation type IA_IN / EMA/VR/0000244058 | Outcome: This was an application for a group of variations. B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.b Primary packaging site - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted | 17/01/2025 | 03/03/2026 | Annex II and PL |             |
+| PSUR / EMA/PSUR/0000305018               | EURD: PSUSA/00000118/202507 Active substance: decitabine / cedazuridine Outcome: Maintenance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 12/02/2026 |            |                 | Maintenance |
+
+<div style=\"page-break-after: always\"></div>
+
+| PSUR / EMA/PSUR/0000268951   | EURD: PSUSA/00000118/202501 Active substance: decitabine / cedazuridine   | 04/09/2025   | Maintenance   |
+|------------------------------|---------------------------------------------------------------------------|--------------|---------------|

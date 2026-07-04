@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-26 12:28:00
+document_datetime: 2026-07-02 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xtandi.html
 document_name: xtandi.html
 version: success
-processing_time: 0.131019
-conversion_datetime: 2026-03-29 12:27:50.212663
+processing_time: 0.1789348
+conversion_datetime: 2026-07-04 12:58:28.129091
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Xtandi
 
@@ -63,7 +63,7 @@ Expand section
 
 Collapse section
 
-## How is Xtandi used?
+### How is Xtandi used?
 
 Xtandi can only be obtained with a prescription and treatment should be started and monitored by a doctor who has experience in treating prostate cancer.
 
@@ -71,11 +71,11 @@ Xtandi is available as capsules and tablets, taken once daily at about the same 
 
 For more information about using Xtandi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xtandi work?
+### How does Xtandi work?
 
 The active substance in Xtandi, enzalutamide, works by blocking the action of the male hormone testosterone and other male hormones known as androgens. Enzalutamide does this by blocking the receptors to which these hormones attach. Because prostate cancer needs testosterone and other male hormones to survive and grow, by blocking the effects of these hormones, enzalutamide slows down the growth of the prostate cancer.
 
-## What benefits of Xtandi have been shown in studies?
+### What benefits of Xtandi have been shown in studies?
 
 **Metastatic prostate cancer**
 
@@ -89,9 +89,9 @@ A third main study showed that Xtandi was more effective than placebo in 1,150 p
 
 Xtandi has been compared with placebo in a study involving 1,401 patients with castration-resistant prostate cancer at high risk of becoming metastatic. Patients treated with Xtandi lived for an average of 37 months without their disease becoming metastatic compared with 15 months on placebo.
 
-Another study involved 1,068  previously treated patients with rapidly rising levels of PSA whose prostate cancer had not spread and was hormone sensitive. In this study patients given Xtandi with leuprolide (a medicine that blocks the production or action of male hormones) or Xtandi on its own lived longer without their disease becoming metastatic compared to those treated with placebo given with leuprolide. Within the study patients' blood levels of PSA were monitored; if their PSA levels were undetectable after 36 weeks, treatment was paused and restarted if their PSA levels began to increase again. After around 61 months, the cancer had spread, or the patient died, in around 13 % of patients given Xtandi with leuprolide (45 out of 355) and around 18% of patients given Xtandi on its own (63 out of 355) compared to around 26% (92 out of 358) of patients given placebo with leuprolide.
+Another study involved 1,068 previously treated patients with rapidly rising levels of PSA whose prostate cancer had not spread and was hormone sensitive. In this study patients given Xtandi with leuprolide (a medicine that blocks the production or action of male hormones) or Xtandi on its own lived longer without their disease becoming metastatic compared to those treated with placebo given with leuprolide. Within the study patients' blood levels of PSA were monitored; if their PSA levels were undetectable after 36 weeks, treatment was paused and restarted if their PSA levels began to increase again. After around 61 months, the cancer had spread, or the patient died, in around 13 % of patients given Xtandi with leuprolide (45 out of 355) and around 18% of patients given Xtandi on its own (63 out of 355) compared to around 26% (92 out of 358) of patients given placebo with leuprolide.
 
-## What are the risks associated with Xtandi?
+### What are the risks associated with Xtandi?
 
 For the full list of side effects and restrictions of Xtandi, see the package leaflet.
 
@@ -99,19 +99,19 @@ The most common side effects with Xtandi (which may affect more than 1 in 10 peo
 
 Xtandi is not for use in women and must not be given to women who are or may become pregnant.
 
-## Why is Xtandi authorised in the EU?
+### Why is Xtandi authorised in the EU?
 
 The European Medicines Agency considered that the anticancer effects of Xtandi have been clearly demonstrated and that its benefit in prolonging life of patients with metastatic disease is important for patients. Xtandi has also been shown to delay the development of metastatic disease. Regarding the medicines' safety profile, the side effects with Xtandi are generally mild and can be managed appropriately.
 
 The Agency therefore concluded that Xtandi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xtandi?
+### What measures are being taken to ensure the safe and effective use of Xtandi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Xtandi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Xtandi are continuously monitored. Side effects reported with Xtandi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xtandi
+### Other information about Xtandi
 
 Xtandi received a marketing authorisation valid throughout the EU on 21 June 2013.
 
@@ -127,7 +127,7 @@ English (EN) (172.39 KB - PDF)
 
 [View](/en/documents/overview/xtandi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-576)
+[Other languages (22)](#file-language-dropdown-700)
 
 български (BG) (195.49 KB - PDF)
 
@@ -159,7 +159,7 @@ Deutsch (DE) (173.8 KB - PDF)
 
 [View](/de/documents/overview/xtandi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (167.26 KB - PDF)
+eesti (ET) (167.26 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 03/06/2024
 
@@ -189,13 +189,13 @@ italiano (IT) (168.02 KB - PDF)
 
 [View](/it/documents/overview/xtandi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (199.13 KB - PDF)
+latviešu (LV) (199.13 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 03/06/2024
 
 [View](/lv/documents/overview/xtandi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (193.67 KB - PDF)
+lietuvių (LT) (193.67 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 03/06/2024
 
@@ -249,7 +249,7 @@ slovenščina (SL) (191.84 KB - PDF)
 
 [View](/sl/documents/overview/xtandi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (167.2 KB - PDF)
+suomi (FI) (167.2 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 03/06/2024
 
@@ -263,9 +263,9 @@ svenska (SV) (168.78 KB - PDF)
 
 Xtandi : EPAR - Risk management plan
 
-English (EN) (1.3 MB - PDF)
+English (EN) (1.38 MB - PDF)
 
-**First published:** 25/01/2019 **Last updated:** 25/04/2024
+**First published:** 25/01/2019 **Last updated:** 02/07/2026
 
 [View](/en/documents/rmp/xtandi-epar-risk-management-plan_en.pdf)
 
@@ -279,7 +279,7 @@ English (EN) (1.63 MB - PDF)
 
 [View](/en/documents/product-information/xtandi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-848)
 
 български (BG) (1.76 MB - PDF)
 
@@ -311,7 +311,7 @@ Deutsch (DE) (1.5 MB - PDF)
 
 [View](/de/documents/product-information/xtandi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.64 MB - PDF)
+eesti (ET) (1.64 MB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
@@ -335,25 +335,19 @@ hrvatski (HR) (1.8 MB - PDF)
 
 [View](/hr/documents/product-information/xtandi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.57 MB - PDF)
-
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
-
-[View](/is/documents/product-information/xtandi-epar-product-information_is.pdf)
-
 italiano (IT) (1.69 MB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/xtandi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.57 MB - PDF)
+latviešu (LV) (1.57 MB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/xtandi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.52 MB - PDF)
+lietuvių (LT) (1.52 MB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
@@ -376,12 +370,6 @@ Nederlands (NL) (2.2 MB - PDF)
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/xtandi-epar-product-information_nl.pdf)
-
-norsk (NO) (1.57 MB - PDF)
-
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
-
-[View](/no/documents/product-information/xtandi-epar-product-information_no.pdf)
 
 polski (PL) (1.52 MB - PDF)
 
@@ -413,7 +401,7 @@ slovenščina (SL) (1.87 MB - PDF)
 
 [View](/sl/documents/product-information/xtandi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.89 MB - PDF)
+suomi (FI) (1.89 MB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 26/03/2026
 
@@ -425,6 +413,18 @@ svenska (SV) (1.75 MB - PDF)
 
 [View](/sv/documents/product-information/xtandi-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.57 MB - PDF)
+
+**First published:** 02/07/2013 **Last updated:** 26/03/2026
+
+[View](/is/documents/product-information/xtandi-epar-product-information_is.pdf)
+
+norsk (NO) (1.57 MB - PDF)
+
+**First published:** 02/07/2013 **Last updated:** 26/03/2026
+
+[View](/no/documents/product-information/xtandi-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000313098
 
 12/02/2026
@@ -433,7 +433,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -451,7 +452,7 @@ English (EN) (18.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-365)
 
 български (BG) (41.17 KB - PDF)
 
@@ -483,7 +484,7 @@ Deutsch (DE) (18.1 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.4 KB - PDF)
+eesti (ET) (18.4 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
@@ -507,25 +508,19 @@ hrvatski (HR) (26.84 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.28 KB - PDF)
-
-**First published:** 02/07/2013 **Last updated:** 14/03/2018
-
-[View](/is/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (23.24 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
 [View](/it/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (39.76 KB - PDF)
+latviešu (LV) (39.76 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
 [View](/lv/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.21 KB - PDF)
+lietuvių (LT) (41.21 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
@@ -548,12 +543,6 @@ Nederlands (NL) (22.17 KB - PDF)
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
 [View](/nl/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (18.46 KB - PDF)
-
-**First published:** 02/07/2013 **Last updated:** 14/03/2018
-
-[View](/no/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (42.73 KB - PDF)
 
@@ -585,7 +574,7 @@ slovenščina (SL) (28.2 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.33 KB - PDF)
+suomi (FI) (18.33 KB - PDF)
 
 **First published:** 02/07/2013 **Last updated:** 14/03/2018
 
@@ -597,27 +586,30 @@ svenska (SV) (18.3 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (18.28 KB - PDF)
+
+**First published:** 02/07/2013 **Last updated:** 14/03/2018
+
+[View](/is/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (18.46 KB - PDF)
+
+**First published:** 02/07/2013 **Last updated:** 14/03/2018
+
+[View](/no/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xtandi
-
-Active substance
-
-enzalutamide
-
-International non-proprietary name (INN) or common name
-
-enzalutamide
-
-Therapeutic area (MeSH)
-
-Prostatic Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L02BB04
+- **Name of medicine**
+    - Xtandi
+- **Active substance**
+    - enzalutamide
+- **International non-proprietary name (INN) or common name**
+    - enzalutamide
+- **Therapeutic area (MeSH)**
+    - Prostatic Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L02BB04
 
 ### Pharmacotherapeutic group
 
@@ -635,27 +627,16 @@ Xtandi is indicated for:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002639
-
-Marketing authorisation holder
-
-Astellas Pharma Europe B.V.
-
-Sylviusweg 62
-
-Opinion adopted
-
-25/04/2013
-
-Marketing authorisation issued
-
-21/06/2013
-
-Revision
-
-28
+- **EMA product number**
+    - EMEA/H/C/002639
+- **Marketing authorisation holder**
+    - Astellas Pharma Europe B.V. Sylviusweg 62  2333 BE Leiden  The Netherlands
+- **Opinion adopted**
+    - 25/04/2013
+- **Marketing authorisation issued**
+    - 21/06/2013
+- **Revision**
+    - 28
 
 ## Assessment history
 
@@ -663,7 +644,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xtandi : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -729,7 +710,7 @@ English (EN) (124.69 KB - PDF)
 
 **First published:** 23/06/2021
 
-[View](/en/documents/scientific-conclusion/xtandi-h-c-psusa-00010095-202008-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/xtandi-h-c-psusa-00010095-202008-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Xtandi-H-C-2639-II-0047-G : EPAR - Assessment Report - Variation
 
@@ -769,7 +750,7 @@ English (EN) (67.3 KB - PDF)
 
 **First published:** 28/05/2015 **Last updated:** 28/05/2015
 
-[View](/en/documents/scientific-conclusion/xtandi-h-c-psusa-00010095-201408-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/xtandi-h-c-psusa-00010095-201408-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Xtandi-H-C-2639-II-0008 : EPAR - Assessment Report - Variation
 
@@ -791,7 +772,7 @@ English (EN) (67.78 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-xtandi_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xtandi : EPAR - Public assessment report
 
@@ -845,9 +826,9 @@ English (EN) (2.13 MB - DOCX)
 
 ## More information on Xtandi
 
-- [Therapy of metastatic castration-resistant prostate cancer with Talazoparib + Enzalutamide under real world conditions in Germany - an observational medical chart review study (PROTEGE study) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000593)
 - [A multicentre, non-interventional, cohort analysis describing the patients' experience focusing on safety events among metastatic hormone-sensitive prostate cancer patients treated with Androgen Receptor Pathway Inhibitors (ARPIs) followed through a Telemonitoring tool funded by the French national healthcare insurance complemented with a chart review (ESPERANTO) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000759)
 - [Enzalutamide and Other Androgen Receptor Pathway Inhibitors (ARPIs) in Metastatic Hormone Sensitive Prostate Cancer (mHSPC): A Non-Interventional Center-based Chart Review in Europe (ENHANCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000776)
+- [Therapy of metastatic castration-resistant prostate cancer with Talazoparib + Enzalutamide under real world conditions in Germany - an observational medical chart review study (PROTEGE study) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000593)
 - [An International, Multicenter, Prospective Non-Interventional Study of Real-World Treatment Outcomes in Patients with Metastatic Castrate Resistant Prostate Cancer (mCRPC) treated with Talazoparib and Enzalutamide (TALENZA) - post-authorisation study](https://catalogues.ema.europa.eu/study/106720)
 - [A Multicenter, Single-arm, Open-label, Post-marketing Safety Study to Evaluate the Risk of Seizure Among Subjects with Metastatic Castration-Resistant Prostate Cancer (mCRPC) Treated with Enzalutamide Who Are at Potential Increased Risk of Seizure - post-authorisation study](https://catalogues.ema.europa.eu/study/32806)
 
@@ -857,6 +838,6 @@ English (EN) (2.13 MB - DOCX)
 
 **This page was last updated on**
 
-26/03/2026
+02/07/2026
 
 ## Share this page

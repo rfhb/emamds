@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-25 12:18:07
+document_datetime: 2026-07-02 13:02:30
 document_pages: 81
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/suliqua-epar-product-information_en.pdf
 document_name: suliqua-epar-product-information_en.pdf
 version: success
-processing_time: 20.6867302
-conversion_datetime: 2025-12-15 06:16:10.643651
+processing_time: 39.9972648
+conversion_datetime: 2026-07-04 14:39:12.169188
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.109.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -85,13 +85,11 @@ Therapy with basal insulin or glucagon-like peptide-1 (GLP-1) receptor agonist o
 
 The starting dose of Suliqua is based on previous anti-diabetic treatment, and in order not to exceed the recommended lixisenatide starting dose of 10 mcg:
 
-|                       |                     | Previous therapy                                                                | Previous therapy                                    | Previous therapy                                     |
-|-----------------------|---------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
-|                       |                     | Insulin naïve patients (oral anti-diabetic treatment or GLP-1 receptor agonist) | Insulin glargine (100 units/ml)** ≥ 20 to <30 units | Insulin glargine (100 units/ml)** ≥ 30 to ≤ 60 units |
-| Starting dose and pen | Suliqua (10-40) pen | 10 dose steps (10 units/5 mcg)*                                                 | 20 dose steps (20 units/10 mcg)*                    |                                                      |
-|                       | Suliqua (30-60) pen |                                                                                 |                                                     | 30 dose steps (30 units/10 mcg)*                     |
-
-* Units insulin glargine (100 units/ml)/mcg lixisenatide
+|                       |                     | Previous therapy                                                                | Previous therapy                                   | Previous therapy                                   |
+|-----------------------|---------------------|---------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+|                       |                     | Insulin naïve patients (oral anti-diabetic treatment or GLP-1 receptor agonist) | Insulin glargine (100 units/ml)** ≥20 to <30 units | Insulin glargine (100 units/ml)** ≥30 to ≤60 units |
+| Starting dose and pen | Suliqua (10-40) pen | 10 dose steps (10 units/5 mcg)*                                                 | 20 dose steps (20 units/10 mcg)*                   |                                                    |
+|                       | Suliqua (30-60) pen |                                                                                 |                                                    | 30 dose steps (30 units/10 mcg)*                   |
 
 Patients on less than 20 units of insulin glargine may be considered similar to insulin naive patients.
 
@@ -395,7 +393,7 @@ Table 2: Documented symptomatic or severe hypoglycaemic adverse reactions
 | Severe hypoglycaemia**                |                          |                          |                          |                             |                             |                                         |                                         |
 | Events per patient- year, n           | 0                        | <0.01                    | 0                        | 0.02                        | <0.01                       | <0.01                                   | 0                                       |
 
-* Documented symptomatic hypoglycaemia was an event during which typical symptoms of hypoglyca emia were accompanied by a measured plasma glucose concentration of ≤3. 9 mmol/L. ** Severe symptomatic hypoglycaemia was an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
+* Documented symptomatic hypoglycaemia was an event during which typical symptoms of hypoglycaemia were accompanied by a measured plasma glucose concentration of ≤3.9 mmol/L. ** Severe symptomatic hypoglycaemia was an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
 
 *** Liraglutide, exenatide BID (twice in a day) or extended release, dulaglutide or albiglutide
 
@@ -457,11 +455,9 @@ The primary activity of insulin, including insulin glargine, is regulation of gl
 
 Lixisenatide is a GLP-1 receptor agonist. The GLP-1 receptor is the target for native GLP-1, an endogenous incretin hormone that potentiates glucose-dependent insulin secretion from beta cells and suppresses glucagon from alpha cells in the pancreas.
 
-Lixisenatide stimulates insulin secretion when blood glucose is increased but not at normoglycaemia, which limits the risk of hypoglycaemia. In parallel, glucagon secretion is suppressed. In case of hypoglycaemia, the rescue mechanism of glucagon secretion is preserved. A preprandial injection of
+Lixisenatide stimulates insulin secretion when blood glucose is increased but not at normoglycaemia, which limits the risk of hypoglycaemia. In parallel, glucagon secretion is suppressed. In case of hypoglycaemia, the rescue mechanism of glucagon secretion is preserved. A preprandial injection of Lixisenatide also slows gastric emptying thereby reducing the rate at which meal-derived glucose is absorbed and appears in the circulation.
 
 <div style=\"page-break-after: always\"></div>
-
-Lixisenatide also slows gastric emptying thereby reducing the rate at which meal-derived glucose is absorbed and appears in the circulation.
 
 ## Pharmacodynamic effects
 
@@ -511,7 +507,9 @@ Patients with type 2 diabetes, treated with metformin alone or metformin and a s
 
 The randomised type 2 diabetes population had the following characteristics: Mean age was 58.4 years with the majority (57.1%) being aged of 50 to 64 years, and 50.6 percent were male. The mean BMI at baseline was 31.7 kg/m 2 with 63.4% of patients having a BMI ≥30 kg/m 2 . The mean duration of diabetes was approximately 9 years. Metformin was a mandatory background therapy and 58% of patients received a second OAD at screening, being a sulfonylurea in 54% of patients.
 
-At week 30, Suliqua provided statistically significant improvement in HbA1c (p-value &lt;0.0001) compared to the individual components. In a pre-specified analysis of this primary endpoint, the differences observed were consistent with regard to baseline HbA1c (&lt;8% or ≥ 8%) or baseline OAD use (metformin alone or metformin plus second OAD). See table and figure below for the other endpoints in the study.
+At week 30, Suliqua provided statistically significant improvement in HbA1c (p-value &lt;0.0001) compared to the individual components. In a pre-specified analysis of this primary endpoint, the differences observed were consistent with regard to baseline HbA1c (&lt;8% or ≥8%) or baseline OAD use (metformin alone or metformin plus second OAD).
+
+See table and figure below for the other endpoints in the study.
 
 Table 3: Results at 30 weeks - Add-on to metformin clinical study (mITT population)
 
@@ -535,8 +533,9 @@ Table 3: Results at 30 weeks - Add-on to metformin clinical study (mITT populati
 
 <div style=\"page-break-after: always\"></div>
 
-| Baseline (mean)                                                                | 15.19       | 14.61                         | 14.72                  |
+|                                                                                | Suliqua     | Insulin glargine              | Lixisenatide           |
 |--------------------------------------------------------------------------------|-------------|-------------------------------|------------------------|
+| Baseline (mean)                                                                | 15.19       | 14.61                         | 14.72                  |
 | End of study (mean)                                                            | 9.15        | 11.35                         | 9.99                   |
 | LS change from baseline                                                        | -5.68       | -3.31                         | -4.58                  |
 | LS difference versus glargine (mean) [95% confidence interval]                 |             | -2.38 (-2.79 to -1.96)        |                        |
@@ -552,19 +551,15 @@ Table 3: Results at 30 weeks - Add-on to metformin clinical study (mITT populati
 | Insulin glargine daily dose                                                    |             |                               |                        |
 | LS insulin dose at week 30 (mean)                                              | 39.8        | 40.5                          | NA                     |
 
-*Not included in the pre-specified step-down testing procedure
-
-**2 hour PPG minus the pre-meal glucose value
-
 Figure 1: Mean HbA1c (%) by visit during 30-week randomised treatment period - mITT population
 
 <!-- image -->
 
-Patients in the Suliqua group reported a statistically significantly greater decrease in the average 7-point self-monitored plasma glucose (SMPG) profile from baseline to Week 30 (-3.35 mmol/L) compared to patients in the insulin glargine group (-2.66 mmol/L; difference -0.69 mmol/L) and patients in the lixisenatide group (-1.95 mmol/L; difference -1.40 mmol/L) (p&lt;0.0001 for both comparisons). At all time points, 30-week mean plasma glucose values were lower in the Suliqua
+Patients in the Suliqua group reported a statistically significantly greater decrease in the average 7-point self-monitored plasma glucose (SMPG) profile from baseline to Week 30 (-3.35 mmol/L)
 
 <div style=\"page-break-after: always\"></div>
 
-group than in both the insulin glargine group and the lixisenatide group, with the only exception of the pre-breakfast value which was similar between the Suliqua group and the insulin glargine group.
+compared to patients in the insulin glargine group (-2.66 mmol/L; difference -0.69 mmol/L) and patients in the lixisenatide group (-1.95 mmol/L; difference -1.40 mmol/L) (p&lt;0.0001 for both comparisons). At all time points, 30-week mean plasma glucose values were lower in the Suliqua group than in both the insulin glargine group and the lixisenatide group, with the only exception of the pre-breakfast value which was similar between the Suliqua group and the insulin glargine group.
 
 ## Switch from basal insulin
 
@@ -574,7 +569,7 @@ Patients screened had type 2 diabetes were treated with basal insulin for at lea
 
 After screening, eligible patients (n=1018) entered a 6 week run-in phase where patients remained on or switched to insulin glargine, in case they took another basal insulin, and had their insulin dose titrated/stabilised while continuing metformin (if previously taken). Any other OADs were discontinued.
 
-At the end of the run-in period, patients with an HbA1c between 7 and 10%, FPG ≤ 7.77 mmol/L and insulin glargine daily dose of 20 to 50 units, were randomised to either Suliqua (n=367) or insulin glargine (n=369).
+At the end of the run-in period, patients with an HbA1c between 7 and 10%, FPG ≤7.77 mmol/L and insulin glargine daily dose of 20 to 50 units, were randomised to either Suliqua (n=367) or insulin glargine (n=369).
 
 This type 2 diabetes population had the following characteristics: mean age was 60.0 years with the majority (56.3%) being aged of 50 to 64 years, and 53.3 percent were female. The mean BMI at baseline was 31.1 kg/m 2 with 57.3% of patients having a BMI ≥30 kg/m 2 . The mean diabetes duration was approximately 12 years and the mean duration of previous basal insulin treatment was approximately 3 years. At screening 64.4% of patients were receiving insulin glargine as basal insulin and 95% received at least 1 concomitant OAD.
 
@@ -599,7 +594,7 @@ Table 4: Results at 30 weeks - Study Type 2 diabetes uncontrolled on basal insul
 | Baseline (mean)                                                                   | 7.33                          | 7.32                          |
 | End of study (mean)                                                               | 6.78                          | 6.69                          |
 | LS change from baseline (mean)                                                    | -0.35                         | -0.46                         |
-| Difference versus insulin glargine [95% confidence interval]                      | 0.11                          | 0.43)                         |
+| Difference versus insulin glargine [95% confidence interval]                      | 0.11 (-0.21 to 0.43)          | 0.11 (-0.21 to 0.43)          |
 | 2 hour PPG (mmol/L)**                                                             |                               |                               |
 | Baseline (mean)                                                                   | 14.85                         | 14.97                         |
 | End of study (mean)                                                               | 9.91                          | 13.41                         |
@@ -630,13 +625,13 @@ Figure 2: Mean HbA1c (%) by visit during 30-week randomised treatment period - m
 
 Clinical study in patients with Type 2 diabetes insufficiently controlled on GLP-1 receptor agonist The efficacy and safety of Suliqua compared to unchanged pre-trial GLP-1 receptor agonist treatment were studied in a 26-week, randomised, open-label trial. The trial included 514 patients with type 2 diabetes mellitus inadequately controlled (HbA1c level of 7% to 9% both inclusive) while treated for at least 4 months with liraglutide or exenatide or for at least 6 months with dulaglutide, albiglutide or exenatide extended release, all at maximal tolerated dose, and metformin alone or in combination with pioglitazone, a SGLT-2 inhibitor or both. Eligible patients were randomised to either receive Suliqua or to continue their previous GLP-1 receptor agonist both on top of their previous oral anti-diabetic treatment.
 
-At screening, 59.7% of the subjects received a once or twice-daily GLP-1 receptor agonist and 40.3% received a once weekly GLP-1 receptor agonist. At screening, 6.6% of the subjects received pioglitazone, and 10.1% a SGLT-2 inhibitor in combination with metformin. The study population had the following characteristics: mean age was 59.6 years, 52.5% of the subjects were male. The mean duration of diabetes was 11 years, the mean duration of previous GLP-1 receptor agonist treatment was 1.9 years, the mean BMI was approximately 32.9 kg/m 2 , mean eGFR was 87.3 ml/min/1.73 m 2 and 90.7% of patients had an eGFR ≥60 m l/min.
+At screening, 59.7% of the subjects received a once or twice-daily GLP-1 receptor agonist and 40.3% received a once weekly GLP-1 receptor agonist. At screening, 6.6% of the subjects received pioglitazone, and 10.1% a SGLT-2 inhibitor in combination with metformin. The study population had the following characteristics: mean age was 59.6 years, 52.5% of the subjects were male. The mean duration of diabetes was 11 years, the mean duration of previous GLP-1 receptor agonist treatment was 1.9 years, the mean BMI was approximately 32.9 kg/m 2 , mean eGFR was 87.3 ml/min/1.73 m 2 and 90.7% of patients had an eGFR ≥60 ml/min.
 
 At week 26, Suliqua provided statistically significant improvement in HbA1c (p &lt;0.0001). A prespecified analysis by GLP-1 receptor agonist subtype (once/twice daily or weekly formulation) used at screening showed that HbA1c change at week 26 was similar for each subgroup and consistent with the primary analysis for the overall population. The mean daily dose of Suliqua at Week 26 was 43.5 dose steps.
 
-See table and figure below for the other endpoints in the study.
-
 <div style=\"page-break-after: always\"></div>
+
+See table and figure below for the other endpoints in the study.
 
 Table 5: Results at 26 weeks - Study Type 2 diabetes uncontrolled on GLP-1 receptor agonist mITT population
 
@@ -665,10 +660,6 @@ Table 5: Results at 26 weeks - Study Type 2 diabetes uncontrolled on GLP-1 recep
 | Baseline (mean)                                                                        | 93.01                            | 95.49                            |
 | LS change from baseline (mean)                                                         | 1.89                             | -1.14                            |
 | Comparison versus GLP-1 receptor agonist [95% confidence interval] (p-value)           | -3.03 (2.417 to 3.643) (<0.0001) | -3.03 (2.417 to 3.643) (<0.0001) |
-
-* Liraglutide, exenatide BID or extended release, dulaglutide or albiglutide
-
-**2 hour PPG minus the pre-meal glucose value
 
 <div style=\"page-break-after: always\"></div>
 
@@ -724,11 +715,9 @@ Lixisenatide has a low level (55%) of binding to human proteins. The apparent vo
 
 ## Biotransformation
 
-A metabolism study in diabetic patients who received insulin glargine alone indicates that insulin glargine is rapidly metabolised at the carboxyl terminus of the B chain to form two active metabolites, M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin). In plasma, the principal circulating
+A metabolism study in diabetic patients who received insulin glargine alone indicates that insulin glargine is rapidly metabolised at the carboxyl terminus of the B chain to form two active metabolites, M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin). In plasma, the principal circulating compound is the metabolite M1. The pharmacokinetic and pharmacodynamic findings indicate that the effect of the subcutaneous injection with insulin glargine is principally based on exposure to M1.
 
 <div style=\"page-break-after: always\"></div>
-
-compound is the metabolite M1. The pharmacokinetic and pharmacodynamic findings indicate that the effect of the subcutaneous injection with insulin glargine is principally based on exposure to M1.
 
 As a peptide, lixisenatide is eliminated through glomerular filtration, followed by tubular reabsorption and subsequent metabolic degradation, resulting in smaller peptides and amino acids, which are reintroduced in the protein metabolism.
 
@@ -945,15 +934,15 @@ The MAH shall ensure that, in each Member State where Suliqua is marketed, all h
 - Ensure that your patients and their caretakers are adequately informed on how to use insulin glargine/lixisenatide.
 - Suliqua is supplied in pre-filled pen and must only be used with this device; healthcare professionals must never use a syringe to withdraw insulin glargine/lixisenatide from prefilled pen or dosing errors and serious harm can result.
 - Suliqua is available in two pre-filled pens containing different strengths of lixisenatide, and different dose ranges:
--  Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
--  Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
--  Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
+- Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
+- Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
+- Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
 - The prescription must state the dose range and strength of the Suliqua pre-filled pen and the number of dose steps to be administered.
 - The pharmacist should clarify with the prescriber any incomplete prescription.
 - Explain to your patient that:
--  You are prescribing a number of dose steps which corresponds to a set number of units of insulin plus a fixed amount lixisenatide
--  For Suliqua, one dose step always contains one unit of insulin, regardless of the Suliqua pre-filled pen being used (10-40 pen or 30-60 pen)
--  The dose counter of the pen device shows the number of dose steps to be injected,
+- You are prescribing a number of dose steps which corresponds to a set number of units of insulin plus a fixed amount lixisenatide
+- For Suliqua, one dose step always contains one unit of insulin, regardless of the Suliqua pre-filled pen being used (10-40 pen or 30-60 pen)
+- The dose counter of the pen device shows the number of dose steps to be injected,
 - If the patient has been transferred from a different pre-filled pen device, highlight the differences in design between the two devices (focus on colour differentiation, warning statements on carton/label and other safety design features such as tactile elements on the prefilled pen).
 - Explain what the patient should anticipate regarding dysglycaemia and potential adverse reactions.
 - Pharmacists are encouraged to check that patients and caretakers are able to read the strength of Suliqua, the dose range of the pre-filled pen and the dose counter of the pre-filled pen before dispensing insulin glargine/lixisenatide. Pharmacists should also check that patients have been trained on how to use the pen.
@@ -968,9 +957,9 @@ The MAH shall ensure that, in each Member State where Suliqua is marketed, all h
 - Read the instructions in your package leaflet carefully before using Suliqua.
 - Suliqua is supplied in pre-filled pen and must only be used with this device; patients, carers and healthcare professionals must never use a syringe to withdraw insulin glargine/lixisenatide from pre-filled pen or dosing errors and serious harm can result.
 - Suliqua is available in two pre-filled pens containing two different strengths of lixisenatide, and different dose ranges:
--  Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
--  Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
--  Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
+- Both pre-filled pens contain insulin glargine in a strength of 100 units/ml
+- Suliqua 10-40 pen allows daily doses between 10 and 40 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 50 mcg/ml; dose range: 10 to 40 units of insulin glargine in combination with 5 to 20 mcg lixisenatide)
+- Suliqua 30-60 pen allows daily doses between 30 and 60 dose steps of Suliqua to be given (strength: insulin glargine 100 units/ml and lixisenatide 33 mcg/ml; dose range: 30 to 60 units insulin glargine in combination with 10 to 20 mcg lixisenatide)
 - The prescription should mention the pre-filled pen type you need (Suliqua 10-40 pen or 30-60 pen) and the number of dose steps to be injected.
 - The Pharmacist should clarify with the prescriber any incomplete prescription.
 - One dose step contains one unit of insulin glargine plus a fixed amount of lixisenatide. Before you use insulin glargine/lixisenatide, be clear on how many dose steps you require. Your healthcare professional will give you this information.
@@ -1002,7 +991,11 @@ Suliqua 100 units/ml + 50 micrograms/ml solution for injection in pre-filled pen
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pen contains 300 units of insulin glargine and 150 micrograms lixisenatide in 3 ml solution. Each ml contains 100 units of insulin glargine and 50 micrograms lixisenatide. Each dose step contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
+Each pen contains 300 units of insulin glargine and 150 micrograms lixisenatide in 3 ml solution.
+
+Each ml contains 100 units of insulin glargine and 50 micrograms lixisenatide.
+
+Each dose step contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1098,11 +1091,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Suliqua 10 - 40
 
@@ -1111,8 +1104,8 @@ Suliqua 10 - 40
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1144,9 +1137,7 @@ Lot
 
 ## 6. OTHER
 
-10-40 dose steps SoloStar
-
-Always use a new needle
+10-40 dose steps SoloStar Always use a new needle
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1269,8 +1260,8 @@ Suliqua 30-60
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1280,8 +1271,9 @@ PC SN NN
 |------------------------------------------------------------------|
 | PEN LABEL                                                        |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Suliqua 100 units/ml +33 mcg/ml solution for injection insulin glargine + lixisenatide
 
@@ -1308,9 +1300,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-30-60 dose steps SoloStar
-
-Always use a new needle
+30-60 dose steps SoloStar Always use a new needle
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1324,10 +1314,10 @@ Always use a new needle
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1347,6 +1337,8 @@ Suliqua is an injectable diabetes medicine that contains two active substances:
 
 Suliqua is used to treat adults with type 2 diabetes, to help control blood sugar levels when they are too high, it is an adjunct to diet and exercise. It is given, with metformin with or without sodiumglucose co-transporter-2 (SGLT2) inhibitors (gliflozin products), when other medicines are not enough on their own to control your blood sugar levels.
 
+If you use another anti-diabetic medicine, discuss with your doctor whether, you should stop using that medicine when starting Suliqua.
+
 ## 2. What you need to know before you use Suliqua
 
 ## Do not use Suliqua:
@@ -1357,41 +1349,49 @@ Suliqua is used to treat adults with type 2 diabetes, to help control blood suga
 
 Talk to your doctor, pharmacist or nurse before using Suliqua if:
 
-- you have type 1 diabetes, as Suliqua is used for type 2 diabetes and this medicine will not be right for you.
-- you have diabetic ketoacidosis (a complication of diabetes that occurs when the body is unable to use glucose because there is not enough insulin) since this medicine will not be right for you.
-- you have a severe stomach or gut problem such as a disease of the muscles of the stomach called 'gastroparesis' which results in delayed stomach emptying. Since Suliqua may cause stomach side effects (see section 4), the medicine has not been studied in patients with severe stomach or gut problems. Please see the information regarding medicines that should not stay too long in your stomach in the section 'Other medicines and Suliqua'.
-- If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Suliqua.
+- you have type 1 diabetes or diabetic ketoacidosis (a complication of diabetes that occurs when the body is unable to use glucose because there is not enough insulin) since this medicine will not be right for you.
+- you have a severe stomach or gut problem such as a disease of the muscles of the stomach called 'gastroparesis' which results in delayed stomach emptying.
+- you are taking other oral medicines that should not stay too long in your stomach, see section 'Oral medicines and Suliqua'.
 
 <div style=\"page-break-after: always\"></div>
 
-- you have severe kidney disease or you are on dialysis as the use of this medicine will not be recommended.
+- you have severe kidney disease or you are on dialysis, as the use of this medicine is not recommended.
+- you know that you are due to have surgery where you will be under anaesthesia (sleeping), tell your doctor that you are taking Suliqua.
 
-Follow closely your doctor's instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise) and injection technique.
+Closely follow your doctors instructions for how much Suliqua to use, how to monitor your blood and urine, your diet and physical activity levels and injection technique.
 
-## Be especially aware of the following:
+## Important:
 
-- Too low blood sugar (hypoglycaemia). If your blood sugar is too low, follow the guidance for hypoglycaemia (see information in the box at the end of this leaflet).
-- Too high blood sugar (hyperglycaemia). If your blood sugar is too high, follow the guidance for hyperglycaemia (see information in the box at the end of this leaflet).
-- Ensure that you use the right medicine. You must always check the label before each injection to avoid mix-ups between Suliqua and other insulins.
-- If you have poor eyesight, please see section 3.
+- If your blood sugar is too low (hypoglycaemia) - see 'what to do if you have low blood sugar' at the end of this leaflet.
+- If your blood sugar is too high (hyperglycaemia) - see 'what to do if you have high blood sugar' at the end of this leaflet.
+- Make sure you use the right type of insulin - always check the insulin label before each injection to avoid mix-ups with other insulins.
+- If you are blind or have poor eyesight, do not use the pre-filled pen without help. This is because you will not be able to read the dose window on the pen. Get help from a person with good eyesight who is trained in using the pen.
 
-## While using this medicine be aware of the following and talk to your doctor, pharmacist or nurse before using Suliqua:
+While using Suliqua be aware of the following and talk to your doctor, pharmacist or nurse:
 
 - severe pain in your stomach area (abdomen) that will not go away. This could be a sign of inflamed pancreas (acute pancreatitis).
 - loss of fluids from your body (dehydration) e.g., in case of vomiting and diarrhoea. It is important to avoid dehydration by drinking plenty of fluids, especially during the first weeks of treatment with Suliqua.
 
-## Skin changes at the injection site
+## Skin changes where the injection is given
 
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (see How to use Suliqua). Contact your doctor if you are currently injecting into a lumpy area before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medicine dose.
+Change where you inject regularly. This is to prevent skin changes such as thickening, shrinking or lumps. The insulin may not work well if you inject into a lumpy area
 
-## Travel
+- Tell your doctor, pharmacist or nurse if you are currently injecting into a lumpy area before you start injecting in a different area.
 
-Talk to your doctor before travelling. You may need to talk about:
+Your doctor may tell you to check your blood sugar more closely, and to adjust the dose of your insulin or other anti-diabetic medications.
+
+## Antibody formation
+
+Suliqua treatment can cause the body to produce antibodies to insulin glargine and/or lixisenatide (substances that act against insulin glargine and/or lixisenatide). However, only very rarely, this will require a change to your Suliqua dose.
+
+## Travel and Suliqua
+
+If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections. You may need to talk to your doctor about:
 
 - If your medicine is available in the country you are visiting.
-- How to arrange the supply of your medicine, needles and other items.
-- How to correctly store your medicine while travelling.
-- The time you eat meals and use your medicine.
+- How to arrange the supply of your insulin, needles and other items.
+- How to correctly store your insulin while travelling.
+- The time you eat meals and use your insulin.
 - The possible effects of changing to different time zones.
 - Any health risks in the countries you will visit.
 - What you should do in an emergency if you feel unwell or become ill.
@@ -1400,180 +1400,177 @@ Talk to your doctor before travelling. You may need to talk about:
 
 There is no experience with Suliqua in children and adolescents aged less than 18 years; therefore, the use of Suliqua is not recommended in this age group.
 
-## Other medicines and Suliqua
-
-Tell your doctor, pharmacist or nurse if you are using, have recently used or might use any other medicines. If you use another antidiabetic medicine, discuss with your doctor whether you should stop using that medicine when starting Suliqua.
-
-Some medicines can change your blood sugar level. This may mean your doctor may need to change your Suliqua dose. So, before taking a medicine ask your doctor if it will affect your blood sugar and what action, if any, you need to take. You also need to be careful when you stop taking a medicine.
-
-The effect of some medicines you swallow might be affected by Suliqua. Some medicines such as antibiotics, oral contraceptives, statins (medicines like atorvastatin to lower cholesterol), gastro-resistant tablets or capsules or granules or oral powder or suspensions that should not stay too
-
 <div style=\"page-break-after: always\"></div>
 
-long in your stomach may need to be taken at least one hour before or four hours after your Suliqua injection.
+## Other medicines and Suliqua
+
+Tell your doctor, pharmacist or nurse if you are using, have recently used or might use any other medicines. Some medicines can change your blood sugar level. Your doctor will tell you if your insulin dose has to change. You also need to be careful when you stop taking a medicine.
+
+## Oral medicines and Suliqua
+
+Because Suliqua can slow stomach emptying the effect of some medicines you swallow might be affected. Some medicines such as antibiotics, oral contraceptives, statins (such as atorvastatin to lower cholesterol), gastro-resistant tablets or capsules or granules or oral powder or suspensions that should not stay too long in your stomach may need to be taken at least one hour before or four hours after your Suliqua injection.
+
+Listed below are the most common medicines which may affect your insulin treatment:
 
 ## Your blood sugar level may fall (hypoglycaemia) if you take:
 
-- Any other medicine to treat diabetes.
-- Disopyramide, for some heart problems.
-- Fluoxetine, for depression.
-- Sulphonamide antibiotics, to treat infections.
-- Fibrates, for lowering high levels of blood fats.
-- Monoamine oxidase inhibitors (MAOIs), for depression or Parkinson´s disease.
-- Angiotensin converting enzyme (ACE) inhibitors, for heart problems or high blood pressure.
-- Medicines to relieve pain and lower fever, such as pentoxifylline, propoxyphene and salicylates (such as acetylsalicylic acid).
-- Pentamidine, for some parasite infections. This may cause too low blood sugar which is sometimes followed by too high blood sugar.
+- any other medicine for diabetes
+- disopyramide - for some heart problems
+- fluoxetine - for depression
+- pentamidine - for some parasitic infections. This may cause too low blood sugar which is sometimes followed by too high blood sugar
+- sulphonamide antibiotics - for infection
+- fibrates - for lowering high levels of fat in the blood
+- monoamine oxidase inhibitors (MAOIs) - for depression or Parkinson´s disease
+- pentoxifylline, propoxyphene and salicylates (such as aspirin) - for pain and mild fever
+- angiotensin converting enzyme (ACE) inhibitors - for heart problems or high blood pressure
 
 ## Your blood sugar level may rise (hyperglycaemia) if you take:
 
-- Corticosteroids such as cortisone and prednisolone, for inflammation.
-- Danazol, for endometriosis.
-- Diazoxide, for high blood pressure.
-- Protease inhibitors, for HIV.
-- Diuretics, for high blood pressure or fluid retention.
-- Glucagon, for very low blood sugar.
-- Isoniazid, for tuberculosis.
-- Somatropin, a growth hormone.
-- Thyroid hormones, for thyroid gland problems.
-- Oestrogens and progestogens, such as in the contraceptive pill for birth control or use of oestrogens for bone loss (osteoporosis).
-- Clozapine, olanzapine and phenothiazine derivatives, for mental health problems.
-- Sympathomimetic medicines such as epinephrine (adrenaline), salbutamol and terbutaline, for asthma.
+- danazol - for endometriosis
+- diazoxide - for high blood pressure
+- glucagon - for very low blood sugar
+- isoniazid - for tuberculosis
+- somatropin - a growth hormone
+- thyroid hormones - for thyroid gland problems
+- oestrogens and progestogens - such as in the contraceptive pill, for birth control or use of oestrogens for bone loss (osteoporosis)
+- corticosteroids such as cortisone and prednisolone - for inflammation
+- protease inhibitors - for HIV
+- diuretics - for high blood pressure or fluid retention
+- clozapine, olanzapine and phenothiazine derivatives - for mental health problems
+- sympathomimetic medicines such as epinephrine (adrenaline), salbutamol and terbutaline, for asthma.
 
 ## Your blood sugar level may either rise or fall if you take:
 
-- Beta-blockers or clonidine, for high blood pressure.
-- Lithium salts, for mental health problems.
+- beta-blockers or clonidine - for high blood pressure.
+- lithium salts - for mental health problems.
 
-## Medicine that may reduce warning signs of low blood sugar
+## Beta-blockers
 
-Beta-blockers and some other medicines (such as clonidine, guanethidine, reserpine - for high blood pressure) may make it harder to recognise warning signs of your low blood sugar levels (hypoglycaemia). It can even hide or stop the first signs that your blood sugar is too low.
+- Beta-blockers like other 'Sympatholytic medicines' (such as clonidine, guanethidine, reserpine - for high blood pressure) can hide or stop the first signs that your blood sugar being too low (hypoglycaemia) or may make it harder to recognise warning signs.
 
-If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before using this medicine.
+## Warfarin or other blood thinners
 
-## Warfarin or other anticoagulants
+Tell your doctor if you are taking warfarin or other blood thinners (anticoagulants) as you might need to have more frequent blood tests (called 'International Normalised Ratio' or INR test).
 
-Tell your doctor if you are taking warfarin or other anticoagulants (medicines used to prevent clotting of the blood) as you might need to have more frequent blood tests (called 'International Normalised Ratio' or INR test) to check your blood clotting.
+<div style=\"page-break-after: always\"></div>
+
+If any of the above apply to you, or you are not sure, talk to your doctor, pharmacist or nurse before using Suliqua.
 
 ## Suliqua with alcohol
 
-Your blood sugar level may either rise or fall if you drink alcohol. You should check your blood sugar level more often.
+Your blood sugar level may rise or fall if you drink alcohol - you will need to check your blood sugar level more often than usual.
 
 ## Pregnancy and breast-feeding
 
-Suliqua should not be used during pregnancy. It is not known if Suliqua harms your unborn child.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
-Suliqua should not be used if breast-feeding. It is not known if Suliqua passes into your milk. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+- Suliqua should not be used during pregnancy. It is not known if Suliqua harms your unborn child.
+- Suliqua should not be used if breast-feeding. It is not known if Suliqua passes into your milk.
 
 ## Driving and using machines
 
-Having too low or too high blood sugar (see information in the box at the end of this leaflet) can affect your ability to drive and use tools or machines. Your concentration may be affected. This could be dangerous to yourself and others.
+Having too low or too high blood sugar can affect your ability to drive, use tools or machines. Your concentration may be affected. This could be dangerous to yourself and others. Ask your doctor, pharmacist or nurse whether you can drive, use tools or machines if:
 
-Ask your doctor whether you can drive if:
+- you often get low blood sugar.
+- you find it hard to recognise your low blood sugar.
 
-- Your blood sugar is often too low.
-- You find it hard to recognise when your blood sugar is too low.
+## Suliqua contains sodium and metacresol
 
-## Suliqua contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
-
-## Suliqua contains metacresol
-
-This medicine contains metacresol which may cause allergic reactions.
+This medicine contains less than 1 mmol sodium (23 mg) sodium per dose, that is to say essentially 'sodium-free'. This medicine contains metacresol which may cause allergic reactions.
 
 ## 3. How to use Suliqua
 
-Always use this medicine exactly as your doctor has told you. Your doctor may tell you to use a different dose of Suliqua compared to your previous insulin dose or glucose lowering medicine if any. Check with your doctor, pharmacist or nurse if you are not sure.
+Always use this medicine exactly as your doctor has told you.
 
-Based on your lifestyle, your blood sugar tests and your previous insulin use, your doctor will tell you:
-
-- How much Suliqua you need each day and at what time.
-- When to check your blood sugar level and if you need to carry out urine tests.
-- When you may need a higher or lower dose.
+Your doctor may tell you to use a different dose of Suliqua compared to your previous insulin dose or glucose lowering medicine if any.
 
 Your doctor may tell you to use Suliqua with other medicines for high blood sugar.
 
+Check with your doctor, pharmacist or nurse if you are not sure.
+
 ## How much to use
 
-Suliqua 100 units/ml + 50 micrograms/ml solution for injection in pre-filled pen:
+Your doctor will decide :
 
-- This pen provides a dose of 10 to 40 dose steps in one injection, in steps of 1 dose step.
-- Each dose step you dial contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
+- how much Suliqua you need each day and at what time
+- when to check your blood sugar level and if you need to carry out urine tests
+- when you may need a higher or lower dose
+
+These are based on your life-style, your blood sugar (glucose) tests and your insulin use in the past.
+
+Talk to your doctor as you may need a lower dose if:
+
+- you are 65 years or older
+- you have kidney or liver problems
 
 Your dose of Suliqua is administered as 'dose steps'. The dose window on the pen shows the number of dose steps.
 
-Do not inject a dose lower than 10 dose steps. Do not inject a dose higher than 40 dose steps. If a dose greater than 40 dose steps is needed, your doctor will prescribe a different strength. For dose steps from 30-60 units, Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen is available.
+Suliqua 100 units/ml + 50 micrograms/ml in pre-filled pen (10-40):
 
-Many factors may affect your blood sugar level. You should know what they are so that you can take the right action if your blood sugar level changes and help stop it becoming too high or too low. See the box at the end of this leaflet for more information.
-
-## Use in elderly patients (65 years and older)
-
-If you are 65 years or older, talk to your doctor as you may need a lower dose.
-
-## If you have kidney or liver problems
+- this pen provides a dose of 10 to 40 dose steps in one injection, in steps of 1 dose step.
+- each dose step you dial contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
+- Do not inject a dose lower than 10 dose steps.
+- Do not inject a dose higher than 40 dose steps.
 
 <div style=\"page-break-after: always\"></div>
 
-If you have kidney or liver problems, talk to your doctor as you may need a lower dose.
+- If a dose greater than 40 dose steps is needed, your doctor will prescribe a different strength. For dose steps from 30-60 units, Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen (30-60) is available.
 
-## When to inject Suliqua
+Make sure you have the correct pen:
 
-Use Suliqua once a day, within 1 hour before a meal. Preferably inject Suliqua before the same meal every day, when you have chosen the most convenient meal.
+- always check the medicine label before each injection to avoid mistakes, especially if you inject more than one medicine.
+
+Many factors may affect your blood sugar level - learn what these are and what to do if your sugar level changes. This will help stop it becoming too high or too low. See 'hyperglycaemia and hypoglycaemia' at the end of this leaflet for more information.
+
+## When to use Suliqua
+
+- Use Suliqua once a day, within 1 hour before a meal.
+- Preferably inject Suliqua before the same meal every day, when you have chosen the most convenient meal.
 
 ## Before injecting Suliqua
 
-- Always follow the 'Instructions for use' that come with this package leaflet and use the pen as described.
-- If you do not follow all of these instructions, you may get too much or too little of Suliqua.
-
-To avoid mistakes, always check the medicine pack and label on the pen before each injection to make sure you have the correct pen, especially if you inject more than one medicine. Ask your doctor or pharmacist if you are not sure.
+- Read the Instructions for use that come with this package leaflet.
+- If you do not follow all the instructions, you may get too much or too little of Suliqua.
 
 ## How to inject
 
-- Suliqua is injected under the skin (subcutaneous use or 'SC').
+- Inject Suliqua under the skin. This is called 'subcutaneous use' or 'SC'.
 - Inject it into the front of your thighs, upper arms or the front of your waist (abdomen).
-- Change the place within the area you inject each day. This will reduce the risk of developing dents or lumps at the site (for more information, see 'Other side effects' in section 4).
+- Change the place within the area where you inject each day - to reduce the risk of developing dents or lumps at the site (see section 4).
+- Always use a new sterile needle for each injection - to reduce the risk of infection and blocked needles which can lead to you getting too much or too little medicine.
+- Throw away the used needle in a sharps container, or as instructed by your pharmacist
+- Do not share your insulin pen with anyone else, even when the needle is changed - to prevent infection.
+- Do not use a syringe to remove the solution from the pen - to avoid potential overdose.
+- Perform safety test before each injection.
 
 ## Do not use Suliqua
 
-- If there are particles in the Suliqua. The solution should be clear, colourless and water-like.
+- if there are particles in the Suliqua - the liquid should be clear, colourless and water-like.
 
-## Other important information about using the pre-filled pens
+Throw the pen away and use a new one if:
 
-- Always use a new needle for each injection. The re-use of needles increases the risk of blocked needles which may cause under- or overdosing. Dispose of the needle safely after each use.
-- To prevent infection being passed from one person to another, pens should never be used for more than one person, even when the needle is changed.
-- Only use needles that are compatible with Suliqua pen (see 'Instructions for Use').
-- A safety test must be performed before each injection.
-- Throw away the used needle in a sharps container, or as told by your pharmacist or local authority.
+- you notice that your blood sugar control is unexpectedly getting worse
+- the pen is damaged or has not been stored correctly
 
-Never use a syringe to remove the solution from the pen to avoid dosing errors and potential overdose.
-
-If the pen is damaged, has not been stored correctly, if you are not sure that it is working properly or you notice that your blood sugar control is unexpectedly getting worse:
-
-- Throw the pen away and use a new one.
-- Talk to your doctor, pharmacist or nurse if you think you have a problem with your pen.
+Talk to your doctor, pharmacist or nurse if you are not sure your pen is working properly.
 
 ## If you use more Suliqua than you should
 
-If you have injected too much of this medicine, your blood sugar level may become too low (hypoglycaemia). Check your blood sugar and eat more food to prevent your blood sugar getting too low (hypoglycaemia). If your blood sugar gets too low, see the advice in the box at the end of this leaflet.
+If you use too much of this medicine, your blood sugar level may get too low - see 'low blood sugar' at the end of this leaflet for advice.
 
 ## If you forget to use Suliqua
 
-If you have missed a dose of Suliqua or if you have not injected enough insulin, your blood sugar level may become too high (hyperglycaemia):
-
-When needed, Suliqua can be injected before the next meal.
-
+- If you miss a dose of Suliqua or if you have not injected enough insulin, your blood sugar level may get too high see 'high blood sugar (hyperglycaemia) at the end of this leaflet for advice.
+- When needed, Suliqua can be injected before the next meal.
 - Do not inject a double dose to make up for a forgotten dose.
 - Do not use two injections per day
 - Check your blood sugar and then inject your next dose at the usual time.
-- For information on the treatment of hyperglycaemia, see the box at the end of this leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
 ## If you stop using Suliqua
 
-Do not stop using this medicine without talking to your doctor. If you do, it could lead to very high blood sugar (hyperglycaemia) and a build-up of acid in the blood (ketoacidosis).
+Do not stop using this medicine without talking to your doctor. If you stop using this medicine, this could lead to very high blood sugar and a build-up of acid in the blood called (ketoacidosis) see 'high blood sugar' at the end of this leaflet for advice.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -1581,49 +1578,56 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## If you notice signs of your blood sugar being too low (hypoglycaemia), take action to increase your blood sugar level straightaway (see the box at the end of this leaflet).
+## Serious side effects
 
-Hypoglycaemia can be very serious and is very common with medicines containing insulin (may affect more than 1 in 10 people).
+Tell your doctor, pharmacist or nurse straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-Low blood sugar means that there is not enough sugar in your blood.
+## Low blood sugar (hypoglycaemia) very common: may affect more than 1 in 10 people
 
-If your blood sugar falls too low, you may pass out (become unconscious).
+- If your blood sugar falls too much, you may pass out.
+- Serious low blood sugar may cause brain damage and may be life-threatening.
 
-If blood sugar remains very low for too long, it may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
+If you have signs of low blood sugar, try to increase your blood sugar level straight away. See advice in 'low blood sugar' at the end of this leaflet.
 
 ## Other side effects
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
-## Skin changes at the injection site
+Skin changes where the injection is given (not known: frequency cannot be estimated from the available data):
 
-If you inject insulin too often at the same place, the skin may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). This is not known how often these skin changes occur. The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+If you inject insulin too often at the same place, the skin may change which include:
+
+- skin shrinking (lipoatrophy)
+- skin thickening (lipohypertrophy)
+- lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area.
+
+Change the area where the injection is given regularly to prevent skin changes.
 
 ## Common ( may affect up to 1 in 10 people)
 
-- Feeling dizzy
-- Feeling sick (nausea)
-- Vomiting
-- Diarrhoea
-- Skin and allergic reactions at the injection site: The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear in a few days to a few weeks.
+- feeling dizzy
+- feeling sick (nausea)
+- vomiting
+- diarrhoea
+- skin and allergic reactions  where the injection  is given, the signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
 
 ## Uncommon ( may affect up to 1 in 100 people)
 
-- Cold, runny nose, sore throat
-- Hives (urticaria)
-- Headache
-- Indigestion (dyspepsia)
-- Stomach ache
-- Tiredness
-- Gallstones
-- Inflamed gallbladder
-- Changed sense of taste
+- cold, runny nose, sore throat
+- hives (urticaria)
+- headache
+- indigestion (dyspepsia)
+- stomach ache
+- tiredness
+- gallstones
+- inflamed gallbladder
+- changed sense of taste
+
+<div style=\"page-break-after: always\"></div>
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-- A delay in the emptying of the stomach
-
-<div style=\"page-break-after: always\"></div>
+- delay in the emptying of the stomach
 
 ## Reporting of side effects
 
@@ -1637,15 +1641,17 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 ## Before first use
 
-Store in a refrigerator (2°C-8°C).
-
-Do not freeze or place next to the freezer compartment or a freezer pack. Keep the pen in the outer carton in order to protect from light.
+- Store in a refrigerator, 2°C-8°C .
+- Do not freeze or place next to the freezer compartment or a freezer pack.
+- Keep the pen in the outer carton in order to protect from light.
 
 ## After first use
 
-Store your pen in use below 25°C for a maximum of 28 days. Discard the pen after this period. Do not return the pen to a refrigerator and do not freeze. Store the pen away from direct heat or direct light. Always keep the cap on the pen when you are not using it in order to protect it from light. Do not leave the pen in a car on an exceptionally warm or cold day.
-
-Do not store the pen with the needle attached.
+- Do not store the pen in a refrigerator and do not freeze.
+- Store your pen in use for a maximum of 28 days below 25°C and away from direct heat or direct light. Discard the pen after this period.
+- Do not leave the pen in a car on a very warm or cold day.
+- Always keep the cap on the pen when you are not using it in order to protect it from light.
+- Do not store the pen with the needle attached.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer used. These measures will help protect the environment.
 
@@ -1653,27 +1659,28 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Suliqua contains
 
-- The active substances are insulin glargine and lixisenatide.
-- Each pen contains 300 units insulin glargine and 150 micrograms lixisenatide in 3 ml of solution.
-- Each ml contains 100 units insulin glargine and 50 micrograms lixisenatide.
-- Each dose step of Suliqua contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
-- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 ' What you need to know before you use Suliqua' for information on sodium and metacresol.
+- ·
+- The active substances are insulin glargine and lixisenatide. Each pen contains 300 units insulin glargine and 150 micrograms lixisenatide in 3 ml of solution. Each ml contains 100 units insulin glargine and 50 micrograms lixisenatide.
+
+Each dose step of Suliqua contains 1 unit of insulin glargine and 0.5 micrograms of lixisenatide.
+
+- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 ' Suliqua contains sodium and metacresol'.
 
 ## What Suliqua looks like and contents of the pack
 
-Suliqua is a clear and colourless solution for injection (injection) filled in a glass cartridge inserted in a pre-filled pen (SoloStar).
-
-Pack sizes of 3, 5 and 10 pre-filled pens. Not all pack sizes may be marketed.
-
-Needles are not included in the pack.
-
-Marketing Authorisation Holder Sanofi Winthrop Industrie
-
-82 avenue Raspail 94250 Gentilly
+- Suliqua is a clear and colourless solution.
+- Each pre-filled pen (SoloStar) contains 3 ml of solution for injection.
+- Pack sizes of 3, 5 and 10 pre-filled pens.
+- Not all pack sizes may be marketed.
+- Needles are not included in the pack.
 
 <div style=\"page-break-after: always\"></div>
 
-## France
+## Marketing Authorisation Holder
+
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
+
+France
 
 ## Manufacturer
 
@@ -1691,9 +1698,7 @@ Tél/Tel: +32 (0)2 710 54 00
 
 Swixx Biopharma EOOD
 
-Тел
-
-.: +359 (0)2 4942 480
+Тел.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -1740,18 +1745,6 @@ Sanofi Winthrop Industrie
 Tél: 0 800 222 555
 
 Appel depuis l'étranger: +33 1 57 63 23 23
-
-## Hrvatska
-
-Swixx Biopharma d.o.o.
-
-Tel: +385 1 2078 500
-
-## Ireland
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +353 (0) 1 403 56 00
 
 ## Lietuva
 
@@ -1807,11 +1800,23 @@ Sanofi - Produtos Farmacêuticos, Lda
 
 Tel: +351 21 35 89 400
 
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
 ## România
 
 Sanofi Romania SRL
 
 Tel: +40 (0) 21 317 31 36
+
+## Ireland
+
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Slovenija
 
@@ -1821,7 +1826,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1835,9 +1840,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 131212 (domande di tipo tecnico)
-
-800 536389 (altre domande)
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -1863,12 +1866,6 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
@@ -1879,105 +1876,110 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## HYPERGLYCAEMIA AND HYPOGLYCAEMIA
+## Hyperglycaemia and hypoglycaemia
 
 ## If you use insulin, you should always carry the following things with you:
 
 - Foods containing sugar, such as glucose tablets or a sugary drink (at least 20 grams).
 - Information so that others know you have diabetes.
 
-## Hyperglycaemia (high blood sugar levels)
+## High blood sugar (hyperglycaemia)
 
-## If your blood sugar is too high (hyperglycaemia), you may not have injected enough insulin.
+## Warning signs of high blood sugar:
 
-## Reasons why hyperglycaemia may happen:
+- feeling thirsty, needing to urinate more often
+- feeling tired or dry skin, reddening of the face, loss of appetite
+- low blood pressure, fast heartbeat
+- glucose and ketone bodies in urine
+- stomach pain, fast and deep breathing, feeling sleepy or passing out (becoming unconscious) may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
-Examples include:
+## What to do if you have high blood sugar
 
-- You have not injected your Suliqua or not injected enough.
-- Your medicine has become less effective - for example because it was not stored properly.
-- Your pen does not work properly.
-- You are doing less exercise than usual.
-- You are under stress - such as emotional distress or excitement.
-- You have an injury, infection or fever or have had an operation.
-- You are taking or have taken certain other medicines (see section 2, \"Other medicines and Suliqua\").
-
-## Warning signs of hyperglycaemia
-
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and urine test showing glucose and ketone bodies. Stomach pain, fast and deep breathing, feeling sleepy or passing out (becoming unconscious) may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
-
-## What to do if you experience hyperglycaemia
-
-- Test your blood sugar level and, if it is high, as agreed with your doctor or nurse, test your urine for ketones as soon as you notice any of the above signs
+- Test your blood sugar level and your urine for ketones as soon as you notice any of the above signs.
 - Contact your doctor straight away if you have severe hyperglycaemia or ketoacidosis. This must always be treated by a doctor, normally in a hospital.
 
-## Hypoglycaemia (low blood sugar levels)
+## High blood sugar can happen if:
 
-If your blood sugar level falls too much you may pass out (become unconscious). Serious hypoglycaemia may cause a heart attack or brain damage and may be life-threatening. You should learn to recognise the signs when your blood sugar is falling - so you can take action to stop it getting worse.
+- you have not injected your Suliqua or not injected enough.
+- your medicine is not working properly - this could be because it was not stored properly.
+- your pen does not work properly.
+- you do less exercise than usual.
+- you are under stress - such as emotional distress or excitement.
+- you have an injury, infection or fever or have had an operation.
+- you take or have taken some other medicines, see section 2 'Other medicines and Suliqua'.
 
-## Reasons why hypoglycaemia may happen:
+## Low blood sugar (hypoglycaemia):
 
-Examples include:
+Very low blood sugar may make you pass out (unconscious), cause a heart attack or brain damage and be life-threatening. Learn to recognise the signs when your blood sugar is falling - and what to do to stop it getting worse.
 
-- You inject too much Suliqua.
-- You miss meals or delay them.
-- You do not eat enough, or eat food containing less carbohydrates than normal - artificial sweeteners are not carbohydrates.
-- You drink alcohol - especially when you have not eaten much.
-- You lose carbohydrates from being sick (vomiting) or diarrhoea.
-- You are doing more exercise than usual or a different type of physical activity.
-- You are recovering from an injury, operation or other stress.
-- You are recovering from an illness or from fever.
-- You are taking or have stopped taking certain other medicines (see section 2, \"Other medicines and Suliqua\").
+## Warning signs of low blood sugar
 
-<div style=\"page-break-after: always\"></div>
+- The first signs may be in your body generally:
+- feeling sweaty
+- having clammy skin
+- feeling anxious
+- fast or irregular heartbeat, high blood pressure, palpitations
 
-## Hypoglycaemia is also more likely to happen if:
+Other signs in your brain may come slightly later:
 
-- You have just started Suliqua treatment - if low blood sugar occurs, it may be more likely to happen in the morning.
-- Your blood sugar levels are almost normal or are unstable.
-- You change the area where you inject Suliqua. For example, from the thigh to the upper arm.
-- You have severe kidney or liver disease, or some other disease such as hypothyroidism.
-
-## Warning signs of hypoglycaemia
-
-The first signs may be in your body generally. Examples of signs that your blood sugar level is falling too much or too fast include: sweating, clammy skin, feeling anxious, fast or irregular heartbeat, high blood pressure and palpitations. These signs often develop before the signs of a low sugar level in the brain.
-
-Other signs include: headaches, feeling very hungry, feeling sick (nausea) or being sick (vomiting), feeling tired, sleepy, restless, sleeping problems, aggressive behaviour, difficulty concentrating, slow reactions, depression, feeling confused, difficulty speaking (sometimes total loss of speech), changes in your sight, trembling, being unable to move (paralysis), tingling in the hands or arms, feeling numb and tingling often around the mouth, feeling dizzy, loss of self-control, being unable to look after yourself, fits, passing out.
-
-When the signs of hypoglycaemia may be less clear:
-
-The first warning signs of hypoglycaemia may change, be weaker or missing altogether if:
-
-- You are elderly.
-- You have had diabetes for a long time.
-- You have a certain type of nerve damage (called 'diabetic autonomic neuropathy').
-- You have recently had too low blood sugar (for example the day before).
-- Your low blood sugar comes on slowly.
-- Your low blood sugar is always around 'normal' or your diabetes control has greatly improved recently.
-- You have recently changed from animal insulin to a manufactured insulin, like there is in Suliqua.
-- You are taking or have taken certain other medicines (see section 2, \"Other medicines and Suliqua\").
-
-In such cases, you may develop severe hypoglycaemia (and even pass out) before you know what is happening. Be familiar with your warning signs. If necessary, you might need to test your blood sugar more often. This can help to spot mild hypoglycaemic episodes. If you find it difficult to recognise your warning signs, you should avoid situations (such as driving a car) in which you or others would be put at risk by hypoglycaemia.
-
-## What to do if you experience hypoglycaemia?
-
-1. Do not inject Suliqua. Take about 15 to 20 grams sugar straight away - such as glucose, sugar cubes or a sugary drink. Drink or foods that contain artificial sweeteners (such as diet drinks) do not help treat low blood sugar.
-2. You might then need to eat something (such as bread or pasta) that will raise your blood sugar over a longer time, especially if your next meal is not due. Ask your doctor or nurse if you are not sure which foods you should eat.
-
-With Suliqua, it may take longer to recover from low blood sugar because it contains a long-acting insulin (insulin glargine).
-
-3. Test your blood glucose levels after 10-15 minutes after taking sugar. If blood glucose levels are still too low (&lt;4 mmol/L) or hypoglycaemia comes back, take another 15 to 20 grams of sugar.
-4. Speak to a doctor straightaway if you are not able to control the hypoglycaemia, or it comes back again.
+- headache, trembling, feeling dizzy
+- changes in your sight
+- feeling very hungry, feeling sick (nausea) or vomiting
+- changes in behaviour, aggression, depression
+- feeling tired or sleepy, sleeping problems, feeling restless
+- difficulty concentrating, confusion, slowed reactions or difficulty speaking (sometimes total loss of speech)
+- not being able to move (paralysis), tingling in hands or arms, feeling numb and tingling often around the mouth
+- loss of self-control, being unable to look after yourself, fits or passing out.
 
 <div style=\"page-break-after: always\"></div>
 
-## What other people should do if you have hypoglycaemia
+## What to do if you have low blood sugar
 
-Tell your relatives, friends and close colleagues to get medical help straightaway if you are not able to swallow or if you pass out (become unconscious).
+- Do not inject Suliqua.
+- Take about 15 to 20 grams sugar straight away - such as glucose, sugar cubes or a sugary drink. Do not drink or eat foods that contain artificial sweeteners (such as diet drinks). They do not help treat low blood sugar.
+- Then eat something such as bread or pasta that will raise your blood sugar over a longer time. Ask your doctor or nurse if you are not sure which foods you should eat, especially if your next meal is not due. With Suliqua, it may take longer to recover from low blood sugar because it contains a long acting insulin (insulin glargine).
+- Test your blood glucose levels after 10-15 minutes after taking sugar. If blood glucose levels are still too low (&lt;4 mmol/L) or hypoglycaemia comes back, take another 15 to 20 grams of sugar.
+- Speak to a doctor straight away if you are not able to control the hypoglycaemia- or if it comes back.
 
-You will require glucose or glucagon (a medicine which increases blood sugar) and it should be given even if it is not certain that you have hypoglycaemia.
+## What other people should do if you have low blood sugar
 
-You should test your blood sugar straightaway after taking glucose to check that you really have hypoglycaemia.
+- Tell your relatives, friends and close colleagues to get medical help straightaway if you are not able to swallow or if you pass out (become unconscious).
+- You will require glucose or glucagon (a medicine which increases blood sugar) and it should be given even if it is not certain that you have hypoglycaemia.
+- You should test your blood sugar straight away after taking glucose to check that you really have hypoglycaemia.
+
+## Low blood sugar can happen if:
+
+- you inject too much Suliqua.
+- you miss meals or eat late.
+- you do not eat enough, or eat food containing less carbohydrates than normal - artificial sweeteners are not carbohydrates.
+- you drink alcohol - especially when you have not eaten much.
+- you lose carbohydrates from being sick (vomiting) or diarrhoea.
+- you do more exercise than usual or a different type of physical activity.
+- you are recovering from an injury, operation or other stress.
+- you are recovering from an illness or from fever.
+- you take or have stopped taking certain other medicines, see section 2 'Other medicines and Suliqua'.
+
+## Low blood sugar is more likely to happen if:
+
+- you have just started Suliqua treatment - if low blood sugar occurs, it may be more likely to happen in the morning.
+- your blood sugar levels are almost normal or are unstable.
+- you change the area of body where you inject Suliqua, for example from the thigh to the upper arm.
+- you have severe kidney or liver disease, or some other disease such as hypothyroidism.
+
+## Signs of low blood sugar may be different, less clear or missing if:
+
+- you are elderly.
+- you have had diabetes for a long time.
+- you have a nervous disease called 'diabetic autonomic neuropathy'.
+- you have recently had too low blood sugar, for example the day before.
+- your low blood sugar comes on slowly.
+- your low blood sugar is always around 'normal' or your blood sugar has got much better.
+- you have recently changed from animal insulin to a manufactured insulin, like Suliqua.
+- you take or have taken some other medicines, see section 2, 'Other medicines and Suliqua'.
+
+<div style=\"page-break-after: always\"></div>
+
+In such cases, you may get very low blood sugar and even pass out before you know what is happening. Know your warning signs. You may need to test your blood sugar more often - to help you spot low blood sugar. If you find it difficult to spot your warning signs, you should avoid situations (such as driving a car) in which you or others would be put at risk by low blood sugar.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2088,8 +2090,7 @@ Always do a safety test before each injection to:
 
 - Check your pen and the needle to make sure they are working properly
 - Make sure that you get the correct dose.
-
-## A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
+- A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
 
 <!-- image -->
 
@@ -2125,9 +2126,6 @@ Always do a safety test before each injection to:
 ## B. Turn the dose selector until the dose pointer lines up with your dose.
 
 - If you turn past your dose, you can turn back down.
-
-•
-
 - If there are not enough dose steps left in your pen for your dose, the dose selector will stop at the number of dose steps left.
 - If you cannot select your full prescribed dose, use a new pen or inject the remaining dose steps and use a new pen to complete your dose. Only in this case, it is okay to inject a partial dose of less than 10 dose steps . Always use another Suliqua (10-40) Solostar pen to complete your dose and no other pen.
 
@@ -2136,12 +2134,11 @@ Always do a safety test before each injection to:
 ## How to read the dose window
 
 - Even numbers are presented in line with the dose pointer and odd numbers are presented as a line between even numbers.
+- Do not use the pen if your single daily dose is less than 10 dose steps, shown as white numbers on a black background.
+
+29 units selected
 
 <!-- image -->
-
-## 29 units selected
-
-- Do not use the pen if your single daily dose is less than 10 dose steps, shown as white numbers on a black background.
 
 <!-- image -->
 
@@ -2159,16 +2156,13 @@ Always do a safety test before each injection to:
 - Do not use a syringe to remove medicine from your pen.
 - A. Choose a place to inject as shown in the picture above.
 - B. Push the needle into your skin as shown by your doctor or pharmacist or nurse.
-- •
-
-Do not touch the injection button yet.
-
-<!-- image -->
+- Do not touch the injection button yet.
 
 <div style=\"page-break-after: always\"></div>
 
-## C. Place your thumb on the injection button. Then press all the way in and hold.
+<!-- image -->
 
+- C. Place your thumb on the injection button. Then press all the way in and hold.
 - Do not press at an angle. Your thumb could block the dose selector from turning.
 - D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
 - This will make sure you get your full dose.
@@ -2185,9 +2179,9 @@ Do not touch the injection button yet.
 - A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
 - The needle can puncture the cap if it is recapped at an angle.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 - B. Grip and squeeze the widest part of the outer needle cap. Turn your pen several times with your other hand to remove the needle.
 - Try again if the needle does not come off the first time.
@@ -2218,6 +2212,8 @@ Do not touch the injection button yet.
 - Store the pen with your pen cap on.
 - Only use your pen for up to 28 days after its first use.
 
+<div style=\"page-break-after: always\"></div>
+
 ## How to care for your pen
 
 ## Handle your pen with care
@@ -2227,8 +2223,6 @@ Do not touch the injection button yet.
 ## Protect your pen from dust and dirt
 
 - You can clean the outside of your pen by wiping it with a damp cloth (water only). Do not soak, wash or lubricate the pen. This may damage it.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Throwing your pen away
 
@@ -2243,10 +2237,10 @@ Do not touch the injection button yet.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2266,6 +2260,8 @@ Suliqua is an injectable diabetes medicine that contains two active substances:
 
 Suliqua is used to treat adults with type 2 diabetes, to help control blood sugar levels when they are too high, it is an adjunct to diet and exercise. It is given, with metformin with or without sodiumglucose co-transporter-2 (SGLT2) inhibitors (gliflozin products), when other medicines are not enough on their own to control your blood sugar levels.
 
+If you use another anti-diabetic medicine, discuss with your doctor whether, you should stop using that medicine when starting Suliqua.
+
 ## 2. What you need to know before you use Suliqua
 
 ## Do not use Suliqua:
@@ -2276,41 +2272,49 @@ Suliqua is used to treat adults with type 2 diabetes, to help control blood suga
 
 Talk to your doctor, pharmacist or nurse before using Suliqua if:
 
-- you have type 1 diabetes, as Suliqua is used for type 2 diabetes and this medicine will not be right for you.
-- you have diabetic ketoacidosis (a complication of diabetes that occurs when the body is unable to use glucose because there is not enough insulin) since this medicine will not be right for you.
-- you have a severe stomach or gut problem such as a disease of the muscles of the stomach called 'gastroparesis' which results in delayed stomach emptying. Since Suliqua may cause stomach side effects (see section 4), the medicine has not been studied in patients with severe stomach or gut problems. Please see the information regarding medicines that should not stay too long in your stomach in the section 'Other medicines and Suliqua'.
+- you have type 1 diabetes or diabetic ketoacidosis (a complication of diabetes that occurs when the body is unable to use glucose because there is not enough insulin) since this medicine will not be right for you.
+- you have a severe stomach or gut problem such as a disease of the muscles of the stomach called 'gastroparesis' which results in delayed stomach emptying.
+- you are taking other oral medicines that should not stay too long in your stomach, see section 'Oral medicines and Suliqua'.
 
 <div style=\"page-break-after: always\"></div>
 
-- If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Suliqua.
-- you have severe kidney disease or you are on dialysis as the use of this medicine will not be recommended.
+- you have severe kidney disease or you are on dialysis, as the use of this medicine is not recommended.
+- you know that you are due to have surgery where you will be under anaesthesia (sleeping), tell your doctor that you are taking Suliqua.
 
-Follow closely your doctor's instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise) and injection technique.
+Closely follow your doctors instructions for how much Suliqua to use, how to monitor your blood and urine, your diet and physical activity levels and injection technique.
 
-## Be especially aware of the following:
+## Important:
 
-- Too low blood sugar (hypoglycaemia). If your blood sugar is too low, follow the guidance for hypoglycaemia (see information in the box at the end of this leaflet).
-- Too high blood sugar (hyperglycaemia). If your blood sugar is too high, follow the guidance for hyperglycaemia (see information in the box at the end of this leaflet).
-- Ensure that you use the right medicine. You must always check the label before each injection to avoid mix-ups between Suliqua and other insulins.
-- If you have poor eyesight, please see section 3.
+- If your blood sugar is too low (hypoglycaemia) - see 'what to do if you have low blood sugar' at the end of this leaflet.
+- If your blood sugar is too high (hyperglycaemia) - see 'what to do if you have high blood sugar' at the end of this leaflet.
+- Make sure you use the right type of insulin - always check the insulin label before each injection to avoid mix-ups with other insulins.
+- If you are blind or have poor eyesight, do not use the pre-filled pen without help. This is because you will not be able to read the dose window on the pen. Get help from a person with good eyesight who is trained in using the pen.
 
-## While using this medicine be aware of the following and talk to your doctor, pharmacist or nurse before using Suliqua:
+While using Suliqua be aware of the following and talk to your doctor, pharmacist or nurse:
 
 - severe pain in your stomach area (abdomen) that will not go away. This could be a sign of inflamed pancreas (acute pancreatitis).
 - loss of fluids from your body (dehydration) e.g., in case of vomiting and diarrhoea. It is important to avoid dehydration by drinking plenty of fluids, especially during the first weeks of treatment with Suliqua.
 
-## Skin changes at the injection site
+## Skin changes where the injection is given
 
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (see How to use Suliqua). Contact your doctor if you are currently injecting into a lumpy area before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medicine dose.
+Change where you inject regularly. This is to prevent skin changes such as thickening, shrinking or lumps. The insulin may not work well if you inject into a lumpy area
 
-## Travel
+- Tell your doctor, pharmacist or nurse if you are currently injecting into a lumpy area before you start injecting in a different area.
 
-Talk to your doctor before travelling. You may need to talk about:
+Your doctor may tell you to check your blood sugar more closely, and to adjust the dose of your insulin or other anti-diabetic medications.
+
+## Antibody formation
+
+Suliqua treatment can cause the body to produce antibodies to insulin glargine and/or lixisenatide (substances that act against insulin glargine and/or lixisenatide). However, only very rarely, this will require a change to your Suliqua dose.
+
+## Travel and Suliqua
+
+If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections. You may need to talk to your doctor about:
 
 - If your medicine is available in the country you are visiting.
-- How to arrange the supply of your medicine, needles and other items.
-- How to correctly store your medicine while travelling.
-- The time you eat meals and use your medicine.
+- How to arrange the supply of your insulin, needles and other items.
+- How to correctly store your insulin while travelling.
+- The time you eat meals and use your insulin.
 - The possible effects of changing to different time zones.
 - Any health risks in the countries you will visit.
 - What you should do in an emergency if you feel unwell or become ill.
@@ -2319,178 +2323,178 @@ Talk to your doctor before travelling. You may need to talk about:
 
 There is no experience with Suliqua in children and adolescents aged less than 18 years; therefore, the use of Suliqua is not recommended in this age group.
 
-## Other medicines and Suliqua
-
-Tell your doctor, pharmacist or nurse if you are using, have recently used or might use any other medicines. If you use another antidiabetic medicine, discuss with your doctor whether you should stop using that medicine when starting Suliqua.
-
-Some medicines can change your blood sugar level. This may mean your doctor may need to change your Suliqua dose. So, before taking a medicine ask your doctor if it will affect your blood sugar and what action, if any, you need to take. You also need to be careful when you stop taking a medicine.
-
 <div style=\"page-break-after: always\"></div>
 
-The effect of some medicines you swallow might be affected by Suliqua. Some medicines such as antibiotics, oral contraceptives, statins (medicines like atorvastatin to lower cholesterol), gastro-resistant tablets or capsules or granules or oral powder or suspensions that should not stay too long in your stomach may need to be taken at least one hour before or four hours after your Suliqua injection.
+## Other medicines and Suliqua
+
+Tell your doctor, pharmacist or nurse if you are using, have recently used or might use any other medicines. Some medicines can change your blood sugar level. Your doctor will tell you if your insulin dose has to change. You also need to be careful when you stop taking a medicine.
+
+## Oral medicines and Suliqua
+
+Because Suliqua can slow stomach emptying the effect of some medicines you swallow might be affected. Some medicines such as antibiotics, oral contraceptives, statins (such as atorvastatin to lower cholesterol), gastro-resistant tablets or capsules or granules or oral powder or suspensions that should not stay too long in your stomach may need to be taken at least one hour before or four hours after your Suliqua injection.
+
+Listed below are the most common medicines which may affect your insulin treatment:
 
 ## Your blood sugar level may fall (hypoglycaemia) if you take:
 
-- Any other medicine to treat diabetes.
-- Disopyramide, for some heart problems.
-- Fluoxetine, for depression.
-- Sulphonamide antibiotics, to treat infections.
-- Fibrates, for lowering high levels of blood fats.
-- Monoamine oxidase inhibitors (MAOIs), for depression or Parkinson´s disease.
-- Angiotensin converting enzyme (ACE) inhibitors, for heart problems or high blood pressure.
-- Medicines to relieve pain and lower fever, such as pentoxifylline, propoxyphene and salicylates (such as acetylsalicylic acid).
-- Pentamidine, for some parasite infections. This may cause too low blood sugar which is sometimes followed by too high blood sugar.
+- any other medicine for diabetes
+- disopyramide - for some heart problems
+- fluoxetine - for depression
+- pentamidine - for some parasitic infections. This may cause too low blood sugar which is sometimes followed by too high blood sugar
+- sulphonamide antibiotics - for infection
+- fibrates - for lowering high levels of fat in the blood
+- monoamine oxidase inhibitors (MAOIs) - for depression or Parkinson´s disease
+- pentoxifylline, propoxyphene and salicylates (such as aspirin) - for pain and mild fever
+- angiotensin converting enzyme (ACE) inhibitors - for heart problems or high blood pressure
 
 ## Your blood sugar level may rise (hyperglycaemia) if you take:
 
-- Corticosteroids such as cortisone and prednisolone, for inflammation.
-- Danazol, for endometriosis.
-- Diazoxide, for high blood pressure.
-- Protease inhibitors, for HIV.
-- Diuretics, for high blood pressure or fluid retention.
-- Glucagon, for very low blood sugar.
-- Isoniazid, for tuberculosis.
-- Somatropin, a growth hormone.
-- Thyroid hormones, for thyroid gland problems.
-- Oestrogens and progestogens, such as in the contraceptive pill for birth control or use of oestrogens for bone loss (osteoporosis).
-- Clozapine, olanzapine and phenothiazine derivatives, for mental health problems.
-- Sympathomimetic medicines such as epinephrine (adrenaline), salbutamol and terbutaline, for asthma.
+- danazol - for endometriosis
+- diazoxide - for high blood pressure
+- glucagon - for very low blood sugar
+- isoniazid - for tuberculosis
+- somatropin - a growth hormone
+- thyroid hormones - for thyroid gland problems
+- oestrogens and progestogens - such as in the contraceptive pill, for birth control or use of oestrogens for bone loss (osteoporosis)
+- corticosteroids such as cortisone and prednisolone - for inflammation
+- protease inhibitors - for HIV
+- diuretics - for high blood pressure or fluid retention
+- clozapine, olanzapine and phenothiazine derivatives - for mental health problems
+- sympathomimetic medicines such as epinephrine (adrenaline), salbutamol and terbutaline, for asthma.
 
 ## Your blood sugar level may either rise or fall if you take:
 
-- Beta-blockers or clonidine, for high blood pressure.
-- Lithium salts, for mental health problems.
+- beta-blockers or clonidine - for high blood pressure.
+- lithium salts - for mental health problems.
 
-## Medicine that may reduce warning signs of low blood sugar
+## Beta-blockers
 
-Beta-blockers and some other medicines (such as clonidine, guanethidine, reserpine - for high blood pressure) may make it harder to recognise warning signs of your low blood sugar levels (hypoglycaemia). It can even hide or stop the first signs that your blood sugar is too low.
+- Beta-blockers like other 'Sympatholytic medicines' (such as clonidine, guanethidine, reserpine - for high blood pressure) can hide or stop the first signs that your blood sugar  being too low (hypoglycaemia) or may make it harder to recognise warning signs.
 
-If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before using this medicine.
+## Warfarin or other blood thinners
 
-## Warfarin or other anticoagulants
-
-Tell your doctor if you are taking warfarin or other anticoagulants (medicines used to prevent clotting of the blood) as you might need to have more frequent blood tests (called 'International Normalised Ratio' or INR test) to check your blood clotting.
+Tell your doctor if you are taking warfarin or other blood thinners (anticoagulants) as you might need to have more frequent blood tests (called 'International Normalised Ratio' or INR test).
 
 <div style=\"page-break-after: always\"></div>
+
+If any of the above apply to you, or you are not sure, talk to your doctor, pharmacist or nurse before using Suliqua.
 
 ## Suliqua with alcohol
 
-Your blood sugar level may either rise or fall if you drink alcohol. You should check your blood sugar level more often.
+Your blood sugar level may rise or fall if you drink alcohol - you will need to check your blood sugar level more often than usual.
 
 ## Pregnancy and breast-feeding
 
-Suliqua should not be used during pregnancy. It is not known if Suliqua harms your unborn child. Suliqua should not be used if breast-feeding. It is not known if Suliqua passes into your milk. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
+
+- Suliqua should not be used during pregnancy. It is not known if Suliqua harms your unborn child.
+- Suliqua should not be used if breast-feeding. It is not known if Suliqua passes into your milk.
 
 ## Driving and using machines
 
-Having too low or too high blood sugar (see information in the box at the end of this leaflet) can affect your ability to drive and use tools or machines. Your concentration may be affected. This could be dangerous to yourself and others.
+Having too low or too high blood sugar can affect your ability to drive, use tools or machines. Your concentration may be affected. This could be dangerous to yourself and others. Ask your doctor, pharmacist or nurse whether you can drive, use tools or machines if:
 
-Ask your doctor whether you can drive if:
+- you often get low blood sugar.
+- you find it hard to recognise your low blood sugar.
 
-- Your blood sugar is often too low.
-- You find it hard to recognise when your blood sugar is too low.
+## Suliqua contains sodium and metacresol
 
-## Suliqua contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
-
-## Suliqua contains metacresol
-
-This medicine contains metacresol which may cause allergic reactions.
+This medicine contains less than 1 mmol sodium (23 mg) sodium per dose, that is to say essentially 'sodium-free'. This medicine contains metacresol which may cause allergic reactions.
 
 ## 3. How to use Suliqua
 
-Always use this medicine exactly as your doctor has told you. Your doctor may tell you to use a different dose of Suliqua compared to your previous insulin dose or glucose lowering medicine if any. Check with your doctor, pharmacist or nurse if you are not sure.
+Always use this medicine exactly as your doctor has told you.
 
-Based on your lifestyle, your blood sugar tests and your previous insulin use, your doctor will tell you:
-
-- How much Suliqua you need each day and at what time.
-- When to check your blood sugar level and if you need to carry out urine tests.
-- When you may need a higher or lower dose.
+Your doctor may tell you to use a different dose of Suliqua compared to your previous insulin dose or glucose lowering medicine if any.
 
 Your doctor may tell you to use Suliqua with other medicines for high blood sugar.
 
+Check with your doctor, pharmacist or nurse if you are not sure.
+
 ## How much to use
 
-The Suliqua 100 units/ml + 33 micrograms/ml solution for injection in pre-filled pen :
+Your doctor will decide:
 
-- This pen provides a dose of 30 to 60 dose steps in one injection, in steps of 1 dose step.
-- Each dose step you dial contains 1 unit of insulin glargine and 0.33 micrograms of lixisenatide.
+- how much Suliqua you need each day and at what time
+- when to check your blood sugar level and if you need to carry out urine tests
+- when you may need a higher or lower dose
+
+These are based on your life-style, your blood sugar (glucose) tests and your insulin use in the past.
+
+Talk to your doctor as you may need a lower dose if:
+
+- you are 65 years or older
+- you have kidney or liver problems
 
 Your dose of Suliqua is administered as 'dose steps'. The dose window on the pen shows the number of dose steps.
 
-Do not inject a dose lower than 30 dose steps. Do not inject a dose higher than 60 dose steps.
+Suliqua 100 units/ml + 33 micrograms/ml in pre-filled pen (30-60):
 
-If a dose lower than 30 dose steps is needed, your doctor will prescribe a different strength. For dose steps from 10-40 units, Suliqua 100 units/ml + 50 micrograms/ml solution for injection in pre-filled pen.
+- this pen provides a dose of 30 to 60 dose steps in one injection, in steps of 1 dose step.
+- each dose step you dial contains 1 unit of insulin glargine and 0.33 micrograms of lixisenatide.
+- Do not inject a dose lower than 30 dose steps.
+- Do not inject a dose higher than 60 dose steps.
+- If a dose lower than 30 dose steps is needed, your doctor will prescribe a different strength. For
 
 <div style=\"page-break-after: always\"></div>
 
-Many factors may affect your blood sugar level. You should know what they are so that you can take the right action if your blood sugar level changes and help stop it becoming too high or too low. See the box at the end of this leaflet for more information.
+dose steps from 10-40 units, Suliqua 100 units/ml + 50 micrograms/ml solution for injection in pre-filled pen (10-40) is available.
 
-## Use in elderly patients (65 years and older)
+Make sure you have the correct pen:
 
-If you are 65 years or older, talk to your doctor as you may need a lower dose.
+- always check the medicine label before each injection to avoid mistakes, especially if you inject more than one medicine.
 
-## If you have kidney or liver problems
+Many factors may affect your blood sugar level - learn what these are and what to do if your sugar level changes. This will help stop it becoming too high or too low. See 'hyperglycaemia and hypoglycaemia' at the end of this leaflet for more information.
 
-If you have kidney or liver problems, talk to your doctor as you may need a lower dose.
+## When to use Suliqua
 
-## When to inject Suliqua
-
-Use Suliqua once a day, within 1 hour before a meal. Preferably inject Suliqua before the same meal every day, when you have chosen the most convenient meal.
+- Use Suliqua once a day, within 1 hour before a meal.
+- Preferably inject Suliqua before the same meal every day, when you have chosen the most convenient meal.
 
 ## Before injecting Suliqua
 
-- Always follow the 'Instructions for use' that come with this package leaflet and use the pen as described.
-- If you do not follow all of these instructions, you may get too much or too little of Suliqua.
-
-To avoid mistakes, always check the medicine pack and label on the pen before each injection to make sure you have the correct pen, especially if you inject more than one medicine. Ask your doctor or pharmacist if you are not sure.
+- Read the Instructions for use that come with this package leaflet
+- If you do not follow all the instructions, you may get too much or too little of Suliqua.
 
 ## How to inject
 
-- Suliqua is injected under the skin (subcutaneous use or 'SC').
+- Inject Suliqua under the skin This is called 'subcutaneous use' or 'SC'.
 - Inject it into the front of your thighs, upper arms or the front of your waist (abdomen).
-- Change the place within the area you inject each day. This will reduce the risk of developing dents or lumps at the site (for more information, see 'Other side effects' in section 4).
+- Change the place within the area where you inject each day - to reduce the risk of developing dents or lumps at the site (see section 4).
+- Always use a new sterile needle for each injection - to reduce the risk of infection and blocked needles which can lead to you getting too much or too little medicine.
+- Throw away the used needle in a sharps container, or as instructed by your pharmacist
+- Do not share your insulin pen with anyone else, even when the needle is changed - to prevent infection.
+- Do not use a syringe to remove the solution from the pen - to avoid potential overdose.
+- Perform safety test before each injection.
 
 ## Do not use Suliqua
 
-- If there are particles in the Suliqua. The solution should be clear, colourless and water-like.
+- if there are particles in the Suliqua - the liquid should be clear, colourless and water-like.
 
-## Other important information about using the pre-filled pens
+Throw the pen away and use a new one if:
 
-- Always use a new needle for each injection. The re-use of needles increases the risk of blocked needles which may cause under- or overdosing. Dispose of the needle safely after each use.
-- To prevent infection being passed from one person to another, pens should never be used for more than one person, even when the needle is changed.
-- Only use needles that are compatible with Suliqua pen (see 'Instructions for Use').
-- A safety test must be performed before each injection.
-- Throw away the used needle in a sharps container, or as told by your pharmacist or local authority.
+- you notice that your blood sugar control is unexpectedly getting worse
+- the pen is damaged or has not been stored correctly
 
-Never use a syringe to remove the solution from the pen to avoid dosing errors and potential overdose.
-
-If the pen is damaged, has not been stored correctly, if you are not sure that it is working properly or you notice that your blood sugar control is unexpectedly getting worse:
-
-- throw the pen away and use a new one.
-- talk to your doctor, pharmacist or nurse if you think you have a problem with your pen.
+Talk to your doctor, pharmacist or nurse if you are not sure your pen is working properly.
 
 ## If you use more Suliqua than you should
 
-If you have injected too much of this medicine, your blood sugar level may become too low (hypoglycaemia). Check your blood sugar and eat more food to prevent your blood sugar getting too low (hypoglycaemia). If your blood sugar gets too low, see the advice in the box at the end of this leaflet.
+If you use too much of this medicine, your blood sugar level may get too low - see 'low blood sugar' at the end of this leaflet for advice.
 
 ## If you forget to use Suliqua
 
-<div style=\"page-break-after: always\"></div>
-
-If you have missed a dose of Suliqua or if you have not injected enough insulin, your blood sugar level may become too high (hyperglycaemia):
-
-When needed, Suliqua can be injected before the next meal.
-
+- If you miss a dose of Suliqua or if you have not injected enough insulin, your blood sugar level may get too high see 'high blood sugar (hyperglycaemia) at the end of this leaflet for advice.
+- When needed, Suliqua can be injected before the next meal.
 - Do not inject a double dose to make up for a forgotten dose.
 - Do not use two injections per day
 - Check your blood sugar and then inject your next dose at the usual time.
-- For information on the treatment of hyperglycaemia, see the box at the end of this leaflet.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you stop using Suliqua
 
-Do not stop using this medicine without talking to your doctor. If you do, it could lead to very high blood sugar (hyperglycaemia) and a build-up of acid in the blood (ketoacidosis).
+Do not stop using this medicine without talking to your doctor. If you stop using this medicine, this could lead to very high blood sugar and a build-up of acid in the blood called (ketoacidosis) see 'high blood sugar' at the end of this leaflet for advice.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -2498,50 +2502,56 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## If you notice signs of your blood sugar being too low (hypoglycaemia), take action to increase your blood sugar level straightaway (see the box at the end of this leaflet).
+## Serious side effects
 
-Hypoglycaemia can be very serious and is very common with medicines containing insulin (may affect more than 1 in 10 people).
+Tell your doctor, pharmacist or nurse straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-Low blood sugar means that there is not enough sugar in your blood.
+## Low blood sugar (hypoglycaemia) very common: may affect more than 1 in 10 people
 
-If your blood sugar falls too low, you may pass out (become unconscious).
+- If your blood sugar falls too much, you may pass out
+- Serious low blood sugar may cause brain damage and may be life-threatening.
 
-If blood sugar remains very low for too long, it may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
+If you have signs of low blood sugar, try to increase your blood sugar level straight away. See advice in 'low blood sugar' at the end of this leaflet.
 
 ## Other side effects
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
-## Skin changes at the injection site
+Skin changes where the injection is given (not known: frequency cannot be estimated from the available data):
 
-If you inject insulin too often at the same place, the skin may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). This is not known how often these skin changes occur. The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+If you inject insulin too often at the same place, the skin may change which include:
+
+- skin shrinking (lipoatrophy)
+- skin thickening (lipohypertrophy)
+- lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area.
+
+Change the area where the injection is given regularly to prevent skin changes.
 
 ## Common (may affect up to 1 in 10 people)
 
-- Feeling dizzy
-- Feeling sick (nausea)
-- Vomiting
-- Diarrhoea
-- Skin and allergic reactions at the injection site: The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear in a few days to a few weeks.
+- feeling dizzy
+- feeling sick (nausea)
+- vomiting
+- diarrhoea
+- skin and allergic reactions where the injection is given ,the signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- Cold, runny nose, sore throat
-- Hives (urticaria)
-- Headache
-- Indigestion (dyspepsia)
-- Stomach ache
-- Tiredness
+- cold, runny nose, sore throat
+- hives (urticaria)
+- headache
+- indigestion (dyspepsia)
+- stomach ache
+- tiredness
+- gallstones
+- inflamed gallbladder
+- changed sense of taste
 
 <div style=\"page-break-after: always\"></div>
 
-- Gallstones
-- Inflamed gallbladder
-- Changed sense of taste
+## Rare (may affect up to 1 in 1,000 people)
 
-Rare (may affect up to 1 in 1,000 people)
-
-- A delay in the emptying of the stomach
+- delay in the emptying of the stomach
 
 ## Reporting of side effects
 
@@ -2555,15 +2565,17 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 ## Before first use
 
-Store in a refrigerator (2°C-8°C). Do not freeze or place next to the freezer compartment or a freezer pack. Keep the pen in the outer carton in order to protect from light.
+- Store in a refrigerator, 2°C-8°C .
+- Do not freeze or place next to the freezer compartment or a freezer pack.
+- Keep the pen in the outer carton in order to protect from light.
 
 ## After first use
 
-Store your pen in use below 25°C for a maximum of 28 days. Discard the pen after this period. Do not return the pen to a refrigerator and do not freeze. Store the pen away from direct heat or direct light. Always keep the cap on the pen when you are not using it in order to protect it from light.
-
-Do not leave the pen in a car on an exceptionally warm or cold day.
-
-Do not store the pen with the needle attached.
+- Do not store the pen in a refrigerator and do not freeze.
+- Store your pen in use for a maximum of 28 days below 25°C and away from direct heat or direct light. Discard the pen after this period.
+- Do not leave the pen in a car on a very warm or cold day.
+- Always keep the cap on the pen when you are not using it in order to protect it from light.
+- Do not store the pen with the needle attached.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer used. These measures will help protect the environment.
 
@@ -2571,28 +2583,27 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Suliqua contains
 
-- •
-- The active substances are insulin glargine and lixisenatide. Each pen contains 300 units insulin glargine and 100 micrograms lixisenatide in 3 ml of solution.
+- The active substances are insulin glargine and lixisenatide. Each pen contains 300 units insulin glargine and 100 micrograms lixisenatide in 3 ml of solution. Each ml contains 100 units insulin glargine and 33 micrograms lixisenatide. Each dose step of Suliqua contains 1 unit of insulin glargine and 0.33 micrograms of
 
-Each ml contains 100 units insulin glargine and 33 micrograms lixisenatide Each dose step of Suliqua contains 1 unit of insulin glargine and 0.33 micrograms of lixisenatide.
+lixisenatide.
 
-- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 ' What you need to know before you use Suliqua' for information on sodium and metacresol.
+- The other ingredients are: glycerol 85%, methionine, metacresol, zinc chloride, concentrated hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections. See also section 2 'Suliqua contains sodium and 'metacresol'.
 
 ## What Suliqua looks like and contents of the pack
 
-Suliqua is a clear and colourless solution for injection (injection) filled in a glass cartridge inserted in a pre-filled pen (SoloStar).
-
-Pack sizes of 3, 5 and 10 pre-filled pens.
+- Suliqua is a clear and colourless solution.
+- Each pre-filled pen (SoloStar) contains 3 ml of solution for injection.
+- Pack sizes of 3, 5 and 10 pre-filled pens.
+- Not all pack sizes may be marketed.
+- Needles are not included in the pack.
 
 <div style=\"page-break-after: always\"></div>
 
-Not all pack sizes may be marketed.
-
-Needles are not included in the pack.
-
 ## Marketing Authorisation Holder
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
+
+France
 
 ## Manufacturer
 
@@ -2602,17 +2613,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
 Swixx Biopharma EOOD
 
-Тел
-
-.: +359 (0)2 4942 480
+Тел.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -2651,6 +2658,14 @@ Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
+
+## France
+
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Lietuva
 
@@ -2700,15 +2715,11 @@ Sanofi Sp. z o.o.
 
 Tel.: +48 22 280 00 00
 
-<div style=\"page-break-after: always\"></div>
+## Portugal
 
-## France
+Sanofi - Produtos Farmacêuticos, Lda
 
-Sanofi Winthrop Industrie
-
-Tél: 0 800 222 555
-
-Appel depuis l'étranger: +33 1 57 63 23 23
+Tel: +351 21 35 89 400
 
 ## Hrvatska
 
@@ -2716,55 +2727,17 @@ Swixx Biopharma d.o.o.
 
 Tel: +385 1 2078 500
 
-## Ireland
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +353 (0) 1 403 56 00
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Sanofi S.r.l.
-
-Tel: 800 131212 (domande di tipo tecnico)
-
-800 536389 (altre domande)
-
-## Κύπρος
-
-C.A. Papaellinas Ltd.
-
-Τηλ: +357 22 741741
-
-## Latvija
-
-Swixx Biopharma SIA
-
-Tel: +371 6 616 47 50
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda
-
-Tel: +351 21 35 89 400
-
 ## România
 
 Sanofi Romania SRL
 
 Tel: +40 (0) 21 317 31 36
+
+## Ireland
+
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Slovenija
 
@@ -2772,11 +2745,23 @@ Swixx Biopharma d.o.o.
 
 Tel: +386 1 235 51 00
 
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
 Swixx Biopharma s.r.o.
 
 Tel: +421 2 208 33 600
+
+## Italia
+
+Sanofi S.r.l.
+
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -2784,119 +2769,136 @@ Sanofi Oy
 
 Puh/Tel: +358 (0) 201 200 300
 
+## Κύπρος
+
+C.A. Papaellinas Ltd.
+
+Τηλ: +357 22 741741
+
 ## Sverige
 
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-## United Kingdom (Northern Ireland)
+## Latvija
 
-sanofi-aventis Ireland Ltd. T/A SANOFI
+Swixx Biopharma SIA
 
-Tel: +44 (0) 800 035 2525
+Tel: +371 6 616 47 50
 
 <div style=\"page-break-after: always\"></div>
 
-## HYPERGLYCAEMIA AND HYPOGLYCAEMIA
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
+
+## Hyperglycaemia and hypoglycaemia
 
 ## If you use insulin, you should always carry the following things with you:
 
 - Foods containing sugar, such as glucose tablets or a sugary drink (at least 20 grams).
 - Information so that others know you have diabetes.
 
-## Hyperglycaemia (high blood sugar levels)
+## High blood sugar (hyperglycaemia)
 
-## If your blood sugar is too high (hyperglycaemia), you may not have injected enough insulin.
+## Warning signs of high blood sugar:
 
-## Reasons why hyperglycaemia may happen:
+- feeling thirsty, needing to urinate more often
+- feeling tired or dry skin, reddening of the face, loss of appetite
+- low blood pressure, fast heartbeat
+- glucose and ketone bodies in urine
+- stomach pain, fast and deep breathing, feeling sleepy or passing out (becoming unconscious) may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
-Examples include:
+## What to do if you have high blood sugar
 
-- You have not injected your Suliqua or not injected enough.
-- Your medicine has become less effective - for example because it was not stored properly.
-- Your pen does not work properly.
-- You are doing less exercise than usual.
-- You are under stress - such as emotional distress or excitement.
-- You have an injury, infection or fever or have had an operation.
-- You are taking or have taken certain other medicines (see section 2, \"Other medicines and Suliqua\").
-
-## Warning signs of hyperglycaemia
-
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and urine test showing glucose and ketone bodies. Stomach pain, fast and deep breathing, feeling sleepy or passing out (becoming unconscious) may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
-
-## What to do if you experience hyperglycaemia
-
-- Test your blood sugar level and, if it is high, as agreed with your doctor or nurse, test your urine for ketones as soon as you notice any of the above signs
+- Test your blood sugar level and your urine for ketones as soon as you notice any of the above signs.
 - Contact your doctor straight away if you have severe hyperglycaemia or ketoacidosis. This must always be treated by a doctor, normally in a hospital.
 
-## Hypoglycaemia (low blood sugar levels)
+## High blood sugar can happen if:
 
-If your blood sugar level falls too much you may pass out (become unconscious). Serious hypoglycaemia may cause a heart attack or brain damage and may be life-threatening. You should learn to recognise the signs when your blood sugar is falling - so you can take action to stop it getting worse.
+- you have not injected your Suliqua or not injected enough.
+- your medicine is not working properly - this could be because it was not stored properly.
+- your pen does not work properly.
+- you do less exercise than usual.
+- you are under stress - such as emotional distress or excitement.
+- you have an injury, infection or fever or have had an operation.
+- you take or have taken some other medicines see section 2 'Other medicines and Suliqua'.
 
-## Reasons why hypoglycaemia may happen:
+## Low blood sugar (hypoglycaemia):
 
-Examples include:
+Very low blood sugar may make you pass out (unconscious), cause a heart attack or brain damage and be life-threatening. Learn to recognise the signs when your blood sugar is falling - and what to do to stop it getting worse.
 
-- You inject too much Suliqua.
-- You miss meals or delay them.
-- You do not eat enough, or eat food containing less carbohydrates than normal - artificial sweeteners are not carbohydrates.
-- You drink alcohol - especially when you have not eaten much.
-- You lose carbohydrates from being sick (vomiting) or diarrhoea.
-- You are doing more exercise than usual or a different type of physical activity.
-- You are recovering from an injury, operation or other stress.
-- You are recovering from an illness or from fever.
-- You are taking or have stopped taking certain other medicines (see section 2, \"Other medicines and Suliqua\").
+## Warning signs of low blood sugar
 
-<div style=\"page-break-after: always\"></div>
+- The first signs may be in your body generally:
+- feeling sweaty
+- having clammy skin
+- feeling anxious
+- fast or irregular heartbeat, high blood pressure, palpitations
 
-## Hypoglycaemia is also more likely to happen if:
+Other signs in your brain may come slightly later:
 
-- You have just started Suliqua treatment - if low blood sugar occurs, it may be more likely to happen in the morning.
-- Your blood sugar levels are almost normal or are unstable.
-- You change the area where you inject Suliqua. For example, from the thigh to the upper arm.
-- You have severe kidney or liver disease, or some other disease such as hypothyroidism.
-
-## Warning signs of hypoglycaemia
-
-The first signs may be in your body generally. Examples of signs that your blood sugar level is falling too much or too fast include: sweating, clammy skin, feeling anxious, fast or irregular heartbeat, high blood pressure and palpitations. These signs often develop before the signs of a low sugar level in the brain.
-
-Other signs include: headaches, feeling very hungry, feeling sick (nausea) or being sick (vomiting), feeling tired, sleepy, restless, sleeping problems, aggressive behaviour, difficulty concentrating, slow reactions, depression, feeling confused, difficulty speaking (sometimes total loss of speech), changes in your sight, trembling, being unable to move (paralysis), tingling in the hands or arms, feeling numb and tingling often around the mouth, feeling dizzy, loss of self-control, being unable to look after yourself, fits, passing out.
-
-When the signs of hypoglycaemia may be less clear:
-
-The first warning signs of hypoglycaemia may change, be weaker or missing altogether if:
-
-- You are elderly.
-- You have had diabetes for a long time.
-- You have a certain type of nerve damage (called 'diabetic autonomic neuropathy').
-- You have recently had too low blood sugar (for example the day before).
-- Your low blood sugar comes on slowly.
-- Your low blood sugar is always around 'normal' or your diabetes control has greatly improved recently.
-- You have recently changed from animal insulin to a manufactured insulin, like there is in Suliqua.
-- You are taking or have taken certain other medicines (see section 2, \"Other medicines and Suliqua\").
-
-In such cases, you may develop severe hypoglycaemia (and even pass out) before you know what is happening. Be familiar with your warning signs. If necessary, you might need to test your blood sugar more often. This can help to spot mild hypoglycaemic episodes. If you find it difficult to recognise your warning signs, you should avoid situations (such as driving a car) in which you or others would be put at risk by hypoglycaemia.
-
-## What to do if you experience hypoglycaemia?
-
-1. Do not inject Suliqua. Take about 15 to 20 grams sugar straight away - such as glucose, sugar cubes or a sugary drink. Drink or foods that contain artificial sweeteners (such as diet drinks) do not help treat low blood sugar.
-2. You might then need to eat something (such as bread or pasta) that will raise your blood sugar over a longer time, especially if your next meal is not due. Ask your doctor or nurse if you are not sure which foods you should eat.
-
-With Suliqua, it may take longer to recover from low blood sugar because it contains a long-acting insulin (insulin glargine).
-
-3. Test your blood glucose levels after 10-15 minutes after taking sugar. If blood glucose levels are still too low (&lt;4 mmol/L) or hypoglycaemia comes back, take another 15 to 20 grams of sugar.
-4. Speak to a doctor straightaway if you are not able to control the hypoglycaemia, or it comes back again.
+- headache, trembling, feeling dizzy
+- changes in your sight
+- feeling very hungry, feeling sick (nausea) or vomiting
+- changes in behaviour, aggression, depression
+- feeling tired or sleepy, sleeping problems, feeling restless
+- difficulty concentrating, confusion, slowed reactions or difficulty speaking (sometimes total loss of speech)
+- not being able to move (paralysis), tingling in hands or arms, feeling numb and tingling often around the mouth
+- loss of self-control, being unable to look after yourself, fits or passing out.
 
 <div style=\"page-break-after: always\"></div>
 
-## What other people should do if you have hypoglycaemia
+## What to do if you have low blood sugar
 
-Tell your relatives, friends and close colleagues to get medical help straightaway if you are not able to swallow or if you pass out (become unconscious).
+- Do not inject Suliqua.
+- Take about 15 to 20 grams sugar straight away - such as glucose, sugar cubes or a sugary drink. Do not drink or eat foods that contain artificial sweeteners (such as diet drinks). They do not help treat low blood sugar.
+- Then eat something such as bread or pasta that will raise your blood sugar over a longer time. Ask your doctor or nurse if you are not sure which foods you should eat, especially if your next meal is not due. With Suliqua, it may take longer to recover from low blood sugar because it contains a long-acting insulin (insulin glargine).
+- Test your blood glucose levels after 10-15 minutes after taking sugar. If blood glucose levels are still too low (&lt;4 mmol/L) or hypoglycaemia comes back, take another 15 to 20 grams of sugar.
+- Speak to a doctor straight away if you are not able to control the hypoglycaemia, or if it comes back.
 
-You will require glucose or glucagon (a medicine which increases blood sugar) and it should be given even if it is not certain that you have hypoglycaemia.
+## What other people should do if you have low blood sugar
 
-You should test your blood sugar straightaway after taking glucose to check that you really have hypoglycaemia.
+- Tell your relatives, friends and close colleagues to get medical help straightaway if you are not able to swallow or if you pass out (become unconscious).
+- You will require glucose or glucagon (a medicine which increases blood sugar) and it should be given even if it is not certain that you have hypoglycaemia.
+- You should test your blood sugar straight away after taking glucose to check that you really have hypoglycaemia.
+
+## Low blood sugar can happen if:
+
+- you inject too much Suliqua.
+- you miss meals or eat late.
+- you do not eat enough, or eat food containing less carbohydrates than normal - artificial sweeteners are not carbohydrates.
+- you drink alcohol - especially when you have not eaten much.
+- you lose carbohydrates from being sick (vomiting) or diarrhoea.
+- you do more exercise than usual or a different type of physical activity.
+- you are recovering from an injury, operation or other stress.
+- you are recovering from an illness or from fever.
+- you take or have stopped taking certain other medicines, see section 2 'Other medicines and Suliqua'.
+
+## Low blood sugar is more likely to happen if:
+
+- you have just started Suliqua treatment - if low blood sugar occurs, it may be more likely to happen in the morning.
+- your blood sugar levels are almost normal or are unstable.
+- you change the area of body where you inject Suliqua, for example from the thigh to the upper arm.
+- you have severe kidney or liver disease, or some other disease such as hypothyroidism.
+
+## Signs of low blood sugar may be different, less clear or missing if:
+
+- you are elderly.
+- you have had diabetes for a long time.
+- you have a nervous disease called 'diabetic autonomic neuropathy'.
+- you have recently had too low blood sugar, for example the day before.
+- your low blood sugar comes on slowly.
+- your low blood sugar is always around 'normal' or your blood sugar has got much better.
+- you have recently changed from animal insulin to a manufactured insulin, like Suliqua.
+- you take or have taken some other medicines, see section 2, 'Other medicines and Suliqua'.
+
+In such cases, you may get very low blood sugar and even pass out before you know what is happening. Know your warning signs. You may need to test your blood sugar more often - to help you spot low blood sugar. If you find it difficult to spot your warning signs, you should avoid situations (such as driving a car) in which you or others would be put at risk by low blood sugar.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2944,6 +2946,8 @@ If you have any questions about Suliqua, the pen or about diabetes, ask your doc
 
 ## Get to know your pen
 
+*You will not see the plunger until you have injected a few doses
+
 <!-- image -->
 
 ## STEP 1: Check your pen
@@ -2965,8 +2969,6 @@ For first use of a new pen take it out of the refrigerator at least 1 hour befor
 <div style=\"page-break-after: always\"></div>
 
 ## C. Check that the medicine is clear.
-
-•
 
 - Look at the transparent cartridge holder. Do not use the pen if the medicine looks cloudy, coloured or contains particles.
 
@@ -3007,14 +3009,11 @@ Always do a safety test before each injection to:
 
 - Check your pen and the needle to make sure they are working properly
 - Make sure that you get the correct dose.
-
-## A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
+- A. Select 2 dose steps by turning the dose selector until the dose pointer is at the 2 mark.
 
 <!-- image -->
 
 ## B. Press the injection button all the way in.
-
-•
 
 - When medicine comes out of the needle tip, your pen is working correctly, the dose selector will be reset to '0'.
 
@@ -3027,9 +3026,10 @@ Always do a safety test before each injection to:
 - change the needle ( see STEP 6 and STEP 2 ),
 - then repeat the safety test ( STEP 3 ).
 - Do not use your pen if there is still no medicine coming out of the needle tip. Use a new pen.
-- Do not use a syringe to remove medicine from your pen.
 
 <div style=\"page-break-after: always\"></div>
+
+- Do not use a syringe to remove medicine from your pen.
 
 ## If you see air bubbles
 
@@ -3062,6 +3062,8 @@ Always do a safety test before each injection to:
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Units of medicine in your pen
 
 - Your pen contains a total of 300 dose steps. You can select your dose in steps of 1 dose step.
@@ -3074,48 +3076,48 @@ Always do a safety test before each injection to:
 - Change the needle ( see STEP 6 Remove the needle and STEP 2 Attach a new needle) then do a safety test ( see STEP 3 ).
 - If you still find it hard to press in, get a new pen.
 - Do not use a syringe to remove medicine from your pen.
-
-## A. Choose a place to inject as shown in the picture above.
-
+- A. Choose a place to inject as shown in the picture above.
 - B. Push the needle into your skin as shown by your doctor or pharmacist or nurse.
-2. •
-
-Do not touch the injection button yet.
+- Do not touch the injection button yet.
+- C. Place your thumb on the injection button. Then press all the way in and hold.
+- Do not press at an angle. Your thumb could block the dose selector from turning.
 
 <!-- image -->
-
-## C. Place your thumb on the injection button. Then press all the way in and hold.
-
-- Do not press at an angle. Your thumb could block the dose selector from turning.
-- D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
-- This will make sure you get your full dose.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+## D. Keep the injection button held in and when you see \"0\" in the dose window, slowly count to 10.
+
+- This will make sure you get your full dose.
+
 <!-- image -->
 
-- E. After holding and slowly counting to 10, release the injection button. Then remove the needle from your skin.
+## E. After holding and slowly counting to 10, release the injection button. Then remove the needle from your skin.
 
 ## STEP 6: Remove the needle
 
 - Take care when handling needles to prevent needle injury and cross-infection.
 - Do not put the inner needle cap back on.
-- A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
+
+## A. Grip the widest part of the outer needle cap. Keep the needle straight and guide it into the outer needle cap back. Then push firmly on.
+
 - The needle can puncture the cap if it is recapped at an angle.
 - B. Grip and squeeze the widest part of the outer needle cap. Turn your pen several times with your other hand to remove the needle.
 - Try again if the needle does not come off the first time.
-- C. Throw away the used needle in a puncture resistant container (see ' Throwing your pen away ' at the end of these Instructions for Use).
-- D. Put your pen cap back on.
-
-<!-- image -->
 
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+- C. Throw away the used needle in a puncture resistant container (see ' Throwing your pen away ' at the end of these Instructions for Use).
+
+<!-- image -->
+
+## D. Put your pen cap back on.
 
 - Do not put the pen back in the refrigerator.
 

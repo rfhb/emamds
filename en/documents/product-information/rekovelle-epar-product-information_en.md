@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-10-31 11:13:43
-document_pages: 76
+document_datetime: 2026-06-29 13:30:07
+document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rekovelle-epar-product-information_en.pdf
 document_name: rekovelle-epar-product-information_en.pdf
 version: success
-processing_time: 23.4220882
-conversion_datetime: 2025-12-22 17:12:13.359169
+processing_time: 21.3084678
+conversion_datetime: 2026-07-07 15:18:27.088044
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -70,11 +70,9 @@ Treatment should be initiated under the supervision of a physician experienced i
 
 The posology of REKOVELLE is individualised for each patient and aims to obtain an ovarian response which is associated with a favourable safety/efficacy profile, i.e. aims to achieve an adequate number of oocytes retrieved and reduce the interventions to prevent ovarian hyperstimulation syndrome (OHSS). REKOVELLE is dosed in micrograms (see section 5.1). The dosing regimen is specific for REKOVELLE and the microgram dose cannot be applied to other gonadotropins.
 
-For the first treatment cycle, the individual daily dose will be determined on the basis of the woman's serum anti-Müllerian hormone (AMH) concentration and her body weight. The dose should be based on a recent determination of AMH (i.e. within the last 12 months) measured by the following diagnostic tests: ELECSYS AMH Plus immunoassay from Roche (i.e. assay used in clinical development trials), or alternatively the ACCESS AMH Advanced from Beckman Coulter or
+For the first treatment cycle, the individual daily dose will be determined on the basis of the woman's serum anti-Müllerian hormone (AMH) concentration and her body weight. The dose should be based on a recent determination of AMH (i.e. within the last 12 months) measured by the following diagnostic tests: ELECSYS AMH Plus immunoassay from Roche (i.e. assay used in clinical development trials), or alternatively the ACCESS AMH Advanced from Beckman Coulter or LUMIPULSE G AMH from Fujirebio (see section 4.4). The individual daily dose is to be maintained throughout the stimulation period. For women with AMH &lt;15 pmol/L the daily dose is 12 micrograms, irrespective of body weight. For women with AMH ≥15 pmol/L the daily dose decreases from 0.19 to 0.10 micrograms/kg by increasing AMH concentration (Table 1). The dose is to be rounded off to the nearest 0.33 micrograms to match the dosing scale on the injection pen. The maximum daily dose for the first treatment cycle is 12 micrograms.
 
 <div style=\"page-break-after: always\"></div>
-
-LUMIPULSE G AMH from Fujirebio (see section 4.4). The individual daily dose is to be maintained throughout the stimulation period. For women with AMH &lt;15 pmol/L the daily dose is 12 micrograms, irrespective of body weight. For women with AMH ≥15 pmol/L the daily dose decreases from 0.19 to 0.10 micrograms/kg by increasing AMH concentration (Table 1). The dose is to be rounded off to the nearest 0.33 micrograms to match the dosing scale on the injection pen. The maximum daily dose for the first treatment cycle is 12 micrograms.
 
 For calculation of the REKOVELLE dose, the body weight is to be measured without shoes and overcoat just prior to start of stimulation.
 
@@ -98,7 +96,7 @@ Time of initiating treatment with REKOVELLE depends on the type of protocol.
 
 Treatment should continue until adequate follicular development (≥3 follicles ≥17 mm) has been achieved, which on average is by the ninth or tenth day of treatment (range 5 to 20 days). With pituitary desensitisation caused by a GnRH agonist, a longer duration of stimulation and therefore a higher total dose of REKOVELLE may be necessary to achieve adequate follicular response. A single injection of 250 micrograms recombinant human chorionic gonadotropin (hCG) or 5,000 IU hCG is administered to induce final follicular maturation. In patients with excessive follicular development (of ≥ 25 follicles ≥12 mm), treatment with REKOVELLE should be stopped and triggering of final follicular maturation with hCG should not be performed.
 
-For subsequent treatment cycles, the daily dose of REKOVELLE should be maintained or modified according to the patient's ovarian response in the previous cycle. If the patient had adequate ovarian response in the previous cycle without developing OHSS, the same daily dose should be used. In case of ovarian hypo-response in the previous cycle, the daily dose in the subsequent cycle should be increased by 25% or 50%, according to the extent of response observed. In case of ovarian hyperresponse in the previous cycle, the daily dose in the subsequent cycle should be decreased by 20% or 33%, according to the extent of response observed. In patients who developed OHSS or were at risk of OHSS in a previous cycle, the daily dose for the subsequent cycle is 33% lower than the dose used in the cycle where OHSS or risk of OHSS occurred. The maximum daily dose is 24 micrograms.
+For subsequent treatment cycles, the daily dose of REKOVELLE should be maintained or modified according to the patient's ovarian response in the previous cycle. If the patient had adequate ovarian response in the previous cycle without developing OHSS, the same daily dose should be used. In case of ovarian hypo-response in the previous cycle, the daily dose in the subsequent cycle should be increased by 25% or 50%, according to the extent of response observed. In case of ovarian hyperresponse in the previous cycle, the daily dose in the subsequent cycle should be decreased by 20% or 33%, according to the extent of response observed. In patients who developed OHSS or were at risk of OHSS in a previous cycle, the daily dose for the subsequent cycle should be 33% lower than the dose used in the cycle where OHSS or risk of OHSS occurred. The maximum daily dose is 24 micrograms.
 
 ## Elderly
 
@@ -204,7 +202,13 @@ REKOVELLE has not been studied in patients with moderate/severe renal or hepatic
 
 ## Sodium content
 
-REKOVELLE contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+REKOVELLE contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+
+## Polysorbate 20 content
+
+REKOVELLE contains 0.005 mg of polysorbate 20 per ml.
+
+Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -268,9 +272,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 The effect of an overdose is unknown, nevertheless, there is a risk that OHSS may occur (see section 4.4).
 
-## 5. PHARMACOLOGICAL PROPERTIES
-
 <div style=\"page-break-after: always\"></div>
+
+## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
@@ -284,15 +288,22 @@ Follitropin delta is a recombinant human FSH. The amino acid sequences of the tw
 
 ## Pharmacodynamic effects
 
-Following daily administration of equal IU doses of REKOVELLE and follitropin alfa as determined in the rat in vivo bioassay (Steelman-Pohley assay), higher ovarian response (i.e. estradiol, inhibin B and follicular volume) was observed in patients after administration of REKOVELLE compared to follitropin alfa. As the rat bioassay might not fully reflect the potency of the FSH in REKOVELLE in humans, REKOVELLE is dosed in micrograms and not in IU. The clinical trial data suggest that a daily dose of 10.0 [95% CI 9.2; 10.8] micrograms REKOVELLE provides, for the majority of patients, an ovarian response close to that obtained with 150 IU/day follitropin alfa.
+Following daily administration of equal IU doses of REKOVELLE and follitropin alfa as determined in the rat in vivo bioassay (Steelman-Pohley assay), higher ovarian response (i.e. estradiol, inhibin B, follicular volume and number of follicles) was observed in healthy women after administration of follitropin delta compared to follitropin alfa. As the rat bioassay might not fully reflect the potency of the FSH in follitropin delta in humans, it is dosed in micrograms and not in IU. The clinical data below show that a comparable ovarian response can be obtained for:
 
-The number of oocytes retrieved increases with the dose of REKOVELLE and serum AMH concentration. Conversely, increasing body weight leads to a decrease in the number of oocytes retrieved (only clinically relevant for REKOVELLE doses below 12 micrograms). The resulting REKOVELLE dosing regimen is in section 4.2.
+- 10 micrograms follitropin delta and 150 IU follitropin alfa
+- 15 micrograms follitropin delta and 225 IU follitropin alfa
+
+The clinical trial data suggest that a daily dose of 10.0 [95% CI 9.2; 10.8] micrograms REKOVELLE provides, for the majority of patients, an ovarian response close to that obtained with 150 IU/day follitropin alfa. In a phase 3 trial (ADAPT-1), comparing an initial daily dose of 15 micrograms follitropin delta to an initial daily dose of 225 IU follitropin alfa in a GnRH antagonist protocol using a conventional dosing regimen, a comparable ovarian response was observed with regards to number of oocytes retrieved, follicular development, and hormone levels.
+
+The number of oocytes retrieved increases with the dose of REKOVELLE and serum AMH concentration. Conversely, increasing body weight leads to a decrease in the number of oocytes retrieved (only clinically relevant for follitropin delta doses below 12 micrograms). The resulting REKOVELLE dosing regimen is in section 4.2.
 
 ## Clinical efficacy and safety
 
 The ESTHER-1 trial was a randomised, assessor-blinded, controlled trial in 1,326 IVF/ICSI patients. The trial compared the individualised dosing regimen of REKOVELLE where the daily dose is established for each patient and fixed throughout stimulation with no adjustments (see section 4.2) to follitropin alfa filled-by-mass at a starting dose of 11 micrograms (150 IU) for the first five days followed by dose adjustments from day 6 of stimulation based on follicular development in a GnRH antagonist protocol. The patients were up to 40 years of age and had regular menstrual cycles presumed to be ovulatory. Single blastocyst transfer on day 5 was compulsory with the exception of patients 38-40 years in whom double blastocyst transfer was performed if no good-quality blastocysts were available. The two co-primary endpoints were ongoing pregnancy rate and ongoing implantation rate in the fresh cycle, defined as at least one intrauterine viable fetus 10-11 weeks after transfer and number of intrauterine viable fetuses 10-11 weeks after transfer divided by number of blastocysts transferred, respectively.
 
 The trial demonstrated that REKOVELLE was at least as effective as follitropin alfa in terms of ongoing pregnancy rate and ongoing implantation rate, as shown in Table 3.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3 Ongoing pregnancy rate and ongoing implantation rate in ESTHER-1 trial
 
@@ -305,8 +316,6 @@ Population: all randomised and exposed
 
 The impact of the AMH-based dosing regimen of REKOVELLE was also assessed in secondary endpoints, such as ovarian response and OHSS risk management.
 
-<div style=\"page-break-after: always\"></div>
-
 In the overall trial population, the mean number of oocytes retrieved was 10.0 ± 5.6 with REKOVELLE (N=636) in the individualised dosing regimen and 10.4 ± 6.5 with follitropin alfa (N=643) at a starting dose of 150 IU followed by dose adjustments.
 
 Among patients with AMH ≥15 pmol/L, the ovarian response with REKOVELLE (N=355) and follitropin alfa (N=353), respectively, was as follows: mean number of oocytes retrieved 11.6 ± 5.9 and 13.3 ± 6.9, and proportion of patients with ≥20 oocytes 10.1% (36/355) and 15.6% (55/353).
@@ -315,7 +324,7 @@ In ovulatory patients with polycystic ovaries undergoing a GnRH antagonist cycle
 
 In a controlled trial evaluating the ovarian response with individualised REKOVELLE dosing in patients with AMH ≤35 pmol/L, the mean number of oocytes was 11.1 ± 5.9 in a GnRH agonist cycle (N=202) compared to 9.6 ± 5.5 in a GnRH antagonist cycle (N=204), and the mean duration of stimulation with REKOVELLE was 10.4 ± 1.9 days in a GnRH agonist cycle compared to 8.8 ± 1.8 days in a GnRH antagonist cycle.
 
-## Safety - immunogenicity
+## Safety -immunogenicity
 
 Anti-FSH antibodies were measured pre-dosing and post-dosing in patients undergoing up to three repeated treatment cycles with REKOVELLE (665 patients in cycle 1 in the ESTHER-1 trial as well as 252 patients in cycle 2 and 95 patients in cycle 3 in the ESTHER-2 trial). The incidence of anti-FSH antibodies after treatment with REKOVELLE was 1.1% in cycle 1, 0.8% in cycle 2 and 1.1% in cycle 3. These rates were similar to the incidence of pre-existing anti-FSH antibodies before exposure to REKOVELLE in cycle 1 which was 1.4%, and comparable to the incidences of anti-FSH antibodies after treatment with follitropin alfa. In all patients with anti-FSH antibodies, titres were undetectable or very low and without neutralising capacity. Repeated treatment with REKOVELLE of patients with pre-existing or treatment-induced anti-FSH antibodies did not increase the antibody titre, was not associated with decreased ovarian response, and did not induce immune-related adverse events.
 
@@ -323,9 +332,13 @@ Clinical trial experience with REKOVELLE in the long GnRH agonist protocol is li
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetic profile of follitropin delta has been investigated in healthy female subjects and in IVF/ICSI patients undergoing COS. Following repeated daily subcutaneous administrations, REKOVELLE reaches steady-state within 6 to 7 days with a threefold higher concentration compared with the concentration after the first dose. Circulating levels of follitropin delta are inversely related to the body weight, which supports individualised dosing based on body weight. Follitropin delta leads to greater exposure than follitropin alfa.
+The pharmacokinetic profile of follitropin delta has been investigated in healthy female subjects and in
+
+IVF/ICSI patients undergoing COS. Following repeated daily subcutaneous administrations, REKOVELLE reaches steady-state within 6 to 7 days with a threefold higher concentration compared with the concentration after the first dose. Circulating levels of follitropin delta are inversely related to the body weight, which supports individualised dosing based on body weight. Follitropin delta leads to greater exposure than follitropin alfa.
 
 ## Absorption
+
+<div style=\"page-break-after: always\"></div>
 
 After daily subcutaneous administration of REKOVELLE, the time to maximum serum concentration is 10 hours. The absolute bioavailability is about 64%.
 
@@ -334,8 +347,6 @@ After daily subcutaneous administration of REKOVELLE, the time to maximum serum 
 The apparent volume of distribution is about 25 L after subcutaneous administration and the volume of distribution at steady state is 9 L after intravenous administration. Within the therapeutic dose range, exposure to follitropin delta increases proportionally with the dose.
 
 ## Elimination
-
-<div style=\"page-break-after: always\"></div>
 
 Following subcutaneous administration, the apparent clearance of follitropin delta is 0.6 L/h and the clearance after intravenous is 0.3 L/h. The terminal elimination half-life after single subcutaneous administration is 40 hours and after multiple subcutaneous administration is 28 hours. The apparent clearance for follitropin delta is low, i.e. 0.6 L/h after multiple subcutaneous administration, leading to high exposure. Follitropin delta is expected to be eliminated similarly to other follitropins, i.e. mainly by the kidneys. The fraction of follitropin delta excreted unchanged in the urine was estimated to 9%.
 
@@ -361,23 +372,19 @@ In use: 28 days when stored at or below 25 °C.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
 
 REKOVELLE may be removed from the refrigerator, without being refrigerated again, and stored at or below 25 °C for up to 3 months including the period after first use. It must be discarded afterwards.
+
+<div style=\"page-break-after: always\"></div>
 
 For storage conditions after first use of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-REKOVELLE 12 micrograms/0.36 mL solution for injection 3 mL multidose cartridge (Type I glass) with a plunger (halobutyl rubber) and a crimp cap
+## REKOVELLE 12 micrograms/0.36 mL solution for injection
 
-(aluminium) with an inlay (rubber). Each cartridge contains 0.36 mL of solution.
-
-Pack size of 1 pre-filled pen and 3 injection needles (stainless steel).
-
-<div style=\"page-break-after: always\"></div>
+3 mL multidose cartridge (Type I glass) with a plunger (halobutyl rubber) and a crimp cap (aluminium) with an inlay (rubber). Each cartridge contains 0.36 mL of solution. Pack size of 1 pre-filled pen and 3 injection needles (stainless steel).
 
 ## REKOVELLE 36 micrograms/1.08 mL solution for injection
 
@@ -477,7 +484,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-REKOVELLE 12 micrograms/0.36 mL solution for injection in a pre-filled pen follitropin delta
+REKOVELLE 12 micrograms/0.36 mL solution for injection in a pre-filled pen
+
+follitropin delta
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -521,7 +530,7 @@ Store in the original package in order to protect from light.
 
 The medicine may be stored at or below 25 °C for up to 3 months including the period after first use. It must be discarded afterwards.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -537,13 +546,13 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 REKOVELLE 12 micrograms/0.36 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -650,13 +659,13 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 REKOVELLE 36 micrograms/1.08 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -692,8 +701,7 @@ Batch
 
 36 mcg/1.08 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -703,7 +711,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-REKOVELLE 72 micrograms/2.16 mL solution for injection in a pre-filled pen follitropin delta
+REKOVELLE 72 micrograms/2.16 mL solution for injection in a pre-filled pen
+
+follitropin delta
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -769,7 +779,7 @@ Batch
 
 REKOVELLE 72 micrograms/2.16 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -805,8 +815,7 @@ Batch
 
 72 mcg/2.16 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -816,7 +825,9 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-## REKOVELLE 12 micrograms/0.36 mL solution for injection in a pre-filled pen follitropin delta
+## REKOVELLE 12 micrograms/0.36 mL solution for injection in a pre-filled pen
+
+## follitropin delta
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -887,7 +898,7 @@ There have been reports of twisting of ovaries (ovarian torsion) following assis
 
 ## Multiple pregnancy and birth defects
 
-When undergoing assisted reproductive technology treatment the possibility of having a multiple pregnancy (such as twins) is mainly related to the number of embryos placed inside your womb, the quality of the embryos, and your age. Multiple pregnancy may lead to medical complications for you and your babies. Furthermore, the risk of birth defects may be slightly higher following infertility treatment, which is thought to be due to characteristics of the parents (such as your age, and your partner's sperm characteristics) and multiple pregnancy.
+When undergoing assisted reproductive technology treatment the possibility of having a multiple pregnancy (such as twins) is mainly related to the number of embryos placed inside your womb, the quality of the embryos, and your age. Multiple pregnancy may lead to medical complications for you and your babies. Furthermore, the risk of birth defects may be slightly higher following infertility treatment, which is thought to be due to characteristics of the parents (such as your age, and your partner's sperm ch aracteristics) and multiple pregnancy.
 
 ## Pregnancy loss
 
@@ -928,7 +939,13 @@ This medicine does not affect your ability to drive and use machines.
 
 ## REKOVELLE contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+
+## REKOVELLE contains polysorbate 20
+
+This medicine contains 0.005 mg of polysorbate 20 per ml.
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use REKOVELLE
 
@@ -952,13 +969,13 @@ This medicine is to be given by injection just under the skin (subcutaneously) u
 
 The effects of taking too much of this medicine are unknown. Ovarian hyperstimulation syndrome may possibly occur, which is described in section 4.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to use REKOVELLE
 
 Do not take a double dose to make up for a forgotten dose. Please contact your doctor as soon as you notice that you forgot a dose.
 
 If you have any further questions on the use of this medicine, ask your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1004,15 +1021,17 @@ Store in refrigerator (2 °C - 8 °C). Do not freeze.
 
 Store in the original package in order to protect from light.
 
-REKOVELLE may be stored at or below 25 °C for up to 3 months including the period after first use. It must not be refrigerated again and must be discarded if it has not been used after 3 months.
+REKOVELLE may be stored at or below 25 °C for up to 3 months including the period after first use.
+
+It must not be refrigerated again and must be discarded if it has not been used after 3 months.
 
 After first use: 28 days when stored at or below 25 °C.
+
+<div style=\"page-break-after: always\"></div>
 
 At the end of the treatment any unused solution must be discarded.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1052,7 +1071,9 @@ CentralPharma Communications UAB Tel: +370 5 243 0444 centralpharma@centralpharm
 
 Фармонт ЕООД
 
-Тел: +359 2 807 5022
+Тел
+
+: +359 2 807 5022
 
 farmont@farmont.bg
 
@@ -1070,11 +1091,7 @@ cz1-info@ferring.com
 
 ## Magyarország
 
-Ferring Magyarország Gyógyszerkereskedelmi Kft.
-
-Tel: +36 1 236 3800
-
-ferring@ferring.hu
+Ferring Magyarország Gyógyszerkereskedelmi Kft. Tel: +36 1 686 2128 ferring@ferring.hu
 
 ## Danmark
 
@@ -1088,23 +1105,11 @@ E.J. Busuttil Ltd. Tel: +356 21447184
 
 info@ejbusuttil.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
-Ferring Arzneimittel GmbH
-
-Tel: +49 431 5852 0
-
-info-service@ferring.de
-
-## Nederland
-
-Ferring B.V.
-
-Tel: +31 235680300
-
-infoNL@ferring.com
-
-<div style=\"page-break-after: always\"></div>
+Ferring Arzneimittel GmbH Tel: +49 431 5852 0 info-service@ferring.de
 
 ## Eesti
 
@@ -1112,17 +1117,19 @@ CentralPharma Communications OÜ Tel: +372 601 5540 centralpharma@centralpharma.
 
 ## Ελλάδα
 
-Ferring Ελλάς ΜΕΠΕ
-
-Τηλ: +30 210 68 43 449
+Ferring Ελλάς ΜΕΠΕ Τηλ: +30 210 68 43 449
 
 ## España
 
-Ferring S.A.U. Tel: +34 91 387 70 00 Registros@ferring.com
+Ferring S.A.U. Tel: +34 91 387 70 00
+
+Registros@ferring.com
 
 ## France
 
-Ferring S.A.S. Tél: +33 1 49 08 67 60 information.medicale@ferring.com
+Ferring S.A.S. Tél: +33 1 49 08 67 60
+
+information.medicale@ferring.com
 
 ## Hrvatska
 
@@ -1130,41 +1137,31 @@ Clinres farmacija d.o.o. Tel: +385 1 2396 900 info@clinres-farmacija.hr
 
 ## Ireland
 
-Ferring Ireland Ltd. Tel: +353 1 4637355 EnquiriesIrelandMailbox@ferring.com
+Ferring Ireland Ltd. Tel: +44 (0) 800 111 4126
+
+Ferring@MedInformation.co.uk
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 70 00
+Vistor ehf. Sími: +354 535 70 00
 
 ## Italia
 
-Ferring S.p.A.
-
-Tel: +39 02 640 00 11
+Ferring S.p.A. Tel: +39 02 640 00 11
 
 ## Κύπρος
 
-A.Potamitis Medicare Ltd
-
-Τηλ: +357 22583333
-
-a.potamitismedicare@cytanet.com.cy
+A.Potamitis Medicare Ltd Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
 
 ## Latvija
 
-CentralPharma Communications SIA
+CentralPharma Communications SIA Tālr: +371 674 50497 centralpharma@centralpharma.lv
 
-Tālr: +37
+## Nederland
 
-1 674 50497
+Ferring B.V.
 
-centralpharma@centralpharma.lv
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Tel: +31 235680300 infoNL@ferring.com
 
 ## Norge
 
@@ -1180,7 +1177,7 @@ Ferring Pharmaceuticals Poland Sp. z o.o. Tel: +48 22 246 06 80 PL0-Recepcja@fer
 
 ## Portugal
 
-Ferring Portuguesa - Produtos Farmacêuticos, Sociedade Unipessoal, Lda. Tel: +351 21 940 51 90
+Ferring Portuguesa -Produtos Farmacêuticos, Sociedade Unipessoal, Lda. Tel: +351 21 940 51 90
 
 ## România
 
@@ -1188,13 +1185,13 @@ Ferring Pharmaceuticals Romania SRL Tel: +40 356 113 270
 
 ## Slovenija
 
-SALUS, Veletrgovina, d.o.o. Tel: +386 1 5899 100 regulatory@salus.si
+SALUS, Veletrgovina, d.o.o.
+
+Tel: +386 1 5899 100 regulatory@salus.eu
 
 ## Slovenská republika
 
-Ferring Slovakia s.r.o.
-
-Tel: +421 2 54 416 010
+Ferring Slovakia s.r.o. Tel: +421 2 54 416 010
 
 SK0-Recepcia@ferring.com
 
@@ -1204,15 +1201,15 @@ Ferring Lääkkeet Oy Puh/Tel: +358 207 401 440 info@ferring.fi
 
 ## Sverige
 
-Ferring Läkemedel AB Tel: +46 40 691 69 00 info@ferring.se
+Ferring Läkemedel AB
 
-## United Kingdom (Northern Ireland)
+Tel: +46 40 691 69 00 info@ferring.se
 
-Ferring Ireland Ltd.
+<div style=\"page-break-after: always\"></div>
 
-Tel.: +353 14637355
+## This leaflet was last revised in .
 
-EnquiriesIrelandMailbox@ferring.com
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1238,7 +1235,7 @@ The REKOVELLE pre-filled pen is a disposable, dial-a-dose pen that can be used t
 
 <!-- image -->
 
-## Instructions for use - REKOVELLE (follitropin delta) pre-filled pen
+## Instructions for use -REKOVELLE (follitropin delta) pre-filled pen
 
 ## Important information
 
@@ -1283,7 +1280,7 @@ The pen can be dialed to give doses from 0.33 micrograms to 20 micrograms of REK
 
 <!-- image -->
 
-Before use - (Step 1)
+Before use -(Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1297,7 +1294,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Attaching needle - (Step 2 to 6)
+## Attaching needle -(Step 2 to 6)
 
 ## Important:
 
@@ -1343,7 +1340,7 @@ Before use - (Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
-## Priming - (Step 7 to 9)
+## Priming -(Step 7 to 9)
 
 - Before using the pen for the first time, you need to remove air bubbles from the cartridge (Priming) to receive the correct dose of medicine.
 - Only prime your pen the first time you use it.
@@ -1376,7 +1373,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Dialing the dose - (Step 10)
+## Dialing the dose -(Step 10)
 
 See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 
@@ -1393,9 +1390,9 @@ See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 - You may need more than one pen to complete your prescribed dose.
 - If you are not able to dial your complete dose, this means there is not enough medicine left in the pen. You will need to give a split-dose injection or throw away (dispose of) your current pen and use a new pen for your injection.
 
-See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
+See 'Giving a split -dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
 
-## Injecting the dose - (Step 11 to 12)
+## Injecting the dose -(Step 11 to 12)
 
 ## Important:
 
@@ -1429,7 +1426,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Tilting the pen can cause the needle to bend or break off.
 - If a broken needle remains stuck in the body or remains under the skin, get medical help right away.
 
-## Disposal of Needle - (Step 13)
+## Disposal of Needle -(Step 13)
 
 ## Step 13:
 
@@ -1447,7 +1444,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Always remove the needle after every use. The needles are for single-use only.
 - Do not store the pen with the needle attached.
 
-## Replace pen cap - (Step 14)
+## Replace pen cap -(Step 14)
 
 ## Step 14:
 
@@ -1490,7 +1487,7 @@ If you do not have a sharps disposal container, you may use a household containe
 
 The chart below shows examples of prescribed doses, how to dial the examples of prescribed doses, and what the dose display window looks like for the prescribed doses.
 
-<!-- image -->
+Giving a split-dose of REKOVELLE
 
 | Examples of prescribed dose (in micrograms)   | Dose to dial on pen                       | Dose display window for example of prescribed dose   |
 |-----------------------------------------------|-------------------------------------------|------------------------------------------------------|
@@ -1502,13 +1499,9 @@ The chart below shows examples of prescribed doses, how to dial the examples of 
 | 18.66                                         | 18 and 2 lines (Dial to 18 plus 2 clicks) |                                                      |
 | 20.00                                         | 20 (Dial to 20)                           |                                                      |
 
-## Giving a split-dose of REKOVELLE
-
-If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using
-
 <div style=\"page-break-after: always\"></div>
 
-your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
+If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
 
 - Column A shows an example of a prescribed dose. Write down your prescribed dose in column A.
 - Column B shows an example of the dose that is left in the pen (this is equal to what you are able to dial).
@@ -1522,13 +1515,13 @@ your current pen and the remainder of the dose using a new pen (split-dose injec
 
 ## Split-dose diary
 
-|   A Prescribed Dose | B Dose leff inpen (DoseshownatdoseindicatorIndosedisplaywindow)   | C =A minus B Dosetoinjectonnewpen (DoseshownatdoseindicatorIndosedisplaywindow)   |
-|---------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|               11.33 | 4.00 (4)                                                          | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                      |
-|               12.66 | 12.33(12and 1line(12plus 1 cllick))                               | 0.33(0and1lne(Dial to0plus1click))                                                |
-|               11    | 3.00 (3)                                                          | 8.00 (8 (Dial to 8))                                                              |
-|               12    | 6.66(6and 2 lines (6plus 2clicks))                                | Round5.34to5.33(5and1line(Dialto5and1click))                                      |
-|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                            | Round 9.67to 9.66(9 and 2 lines (Dial to 9 plus 2 clicks))                        |
+|   A Prescribed Dose | B Dose left in pen (Dose shown at dose indicator in dose display window)   | C = A minus B Dose to inject on new pen (Dose shown at dose indicator in dose display window)   |
+|---------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|               11.33 | 4.00 (4)                                                                   | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                                    |
+|               12.66 | 12.33 (12 and 1 lIne (12 plus 1 click))                                    | 0.33 (0 and 1 line (Dlal to 0 plus 1 click))                                                    |
+|               11.00 | 3.00 (3)                                                                   | 8.00 (8 (Dial to 8))                                                                            |
+|               12.00 | 6.66 (6 and 2 lines (6 plus 2 clicks))                                     | Round 5.34 to 5.33 (5 and 1 line (Dial to 5 and 1 click))                                       |
+|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                                     | Round 9.67 to 9.66 (9 and 2 lines (Dial to 9 plus 2 clicks))                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1683,7 +1676,13 @@ This medicine does not affect your ability to drive and use machines.
 
 ## REKOVELLE contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+
+## REKOVELLE contains polysorbate 20
+
+This medicine contains 0.005 mg of polysorbate 20 per ml.
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use REKOVELLE
 
@@ -1707,13 +1706,13 @@ This medicine is to be given by injection just under the skin (subcutaneously) u
 
 The effects of taking too much of this medicine are unknown. Ovarian hyperstimulation syndrome may possibly occur, which is described in section 4.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to use REKOVELLE
 
 Do not take a double dose to make up for a forgotten dose. Please contact your doctor as soon as you notice that you forgot a dose.
 
 If you have any further questions on the use of this medicine, ask your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1759,20 +1758,18 @@ Store in refrigerator (2 °C - 8 °C). Do not freeze. Store in the original pack
 
 After first use: 28 days when stored at or below 25 °C.
 
+<div style=\"page-break-after: always\"></div>
+
 At the end of the treatment any unused solution must be discarded.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What REKOVELLE contains
 
 - -The active substance is follitropin delta.
-
-Each pre-filled pen with multidose cartridge contains 36 micrograms of follitropin delta in 1.08 millilitre of solution. One millilitre of solution contains 33.3 micrograms of follitropin delta in each millilitre of solution.
-
+- Each pre-filled pen with multidose cartridge contains 36 micrograms of follitropin delta in 1.08 millilitre of solution. One millilitre of solution contains 33.3 micrograms of follitropin delta in each millilitre of solution.
 - -The other ingredients are phenol, polysorbate 20, L-methionine, sodium sulphate decahydrate, disodium phosphate dodecahydrate, concentrated phosphoric acid, sodium hydroxide and water for injections.
 
 ## What REKOVELLE looks like and contents of the pack
@@ -1791,11 +1788,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Ferring N.V.
-
-Tel/Tél: +32 53 72 92 00
-
-ferringnvsa@ferring.be
+Ferring N.V. Tel/Tél: +32 53 72 92 00 ferringnvsa@ferring.be
 
 ## Lietuva
 
@@ -1805,9 +1798,7 @@ CentralPharma Communications UAB Tel: +370 5 243 0444 centralpharma@centralpharm
 
 Фармонт ЕООД
 
-Тел: +359 2 807 5022
-
-farmont@farmont.bg
+Тел : +359 2 807 5022 farmont@farmont.bg
 
 ## Luxembourg/Luxemburg
 
@@ -1815,33 +1806,33 @@ Ferring N.V. Belgique/Belgien Tel/Tél: +32 53 72 92 00 ferringnvsa@ferring.be
 
 ## Česká republika
 
-Ferring Pharmaceuticals CZ s.r.o. Tel: +420 234 701 333 cz1-info@ferring.com
+Ferring Pharmaceuticals CZ s.r.o.
+
+Tel: +420 234 701 333
+
+cz1-info@ferring.com
 
 ## Magyarország
 
-Ferring Magyarország Gyógyszerkereskedelmi Kft. Tel: +36 1 236 3800 ferring@ferring.hu
+Ferring Magyarország Gyógyszerkereskedelmi Kft. Tel: +36 1 686 2128 ferring@ferring.hu
 
 ## Danmark
 
-Ferring Lægemidler A/S Tlf: +45 88 16 88 17
+Ferring Lægemidler A/S
+
+Tlf: +45 88 16 88 17
 
 ## Malta
 
 E.J. Busuttil Ltd.
 
-Tel: +356 21447184 info@ejbusuttil.com
+Tel: +356 21447184
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
 Ferring Arzneimittel GmbH Tel: +49 431 5852 0 info-service@ferring.de
-
-## Nederland
-
-Ferring B.V. Tel: +31 235680300
-
-infoNL@ferring.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1849,13 +1840,13 @@ CentralPharma Communications OÜ Tel: +372 601 5540 centralpharma@centralpharma.
 
 ## Ελλάδα
 
-Ferring Ελλάς ΜΕΠΕ
-
-Τηλ: +30 210 68 43 449
+Ferring Ελλάς ΜΕΠΕ Τηλ : +30 210 68 43 449
 
 ## España
 
-Ferring S.A.U. Tel: +34 91 387 70 00 Registros@ferring.com
+Ferring S.A.U. Tel: +34 91 387 70 00
+
+Registros@ferring.com
 
 ## France
 
@@ -1867,19 +1858,17 @@ Clinres farmacija d.o.o. Tel: +385 1 2396 900 info@clinres-farmacija.hr
 
 ## Ireland
 
-Ferring Ireland Ltd. Tel: +353 1 4637355 EnquiriesIrelandMailbox@ferring.com
+Ferring Ireland Ltd. Tel: +44 (0) 800 111 4126
+
+Ferring@MedInformation.co.uk
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 70 00
+Vistor ehf. Sími: +354 535 70 00
 
 ## Italia
 
-Ferring S.p.A.
-
-Tel: +39 02 640 00 11
+Ferring S.p.A. Tel: +39 02 640 00 11
 
 ## Κύπρος
 
@@ -1887,11 +1876,11 @@ A.Potamitis Medicare Ltd Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.c
 
 ## Latvija
 
-CentralPharma Communications SIA Tālr: +371 674 50497 centralpharma@centralpharma.lv
+CentralPharma Communications SIA Tālr: +371 674 50497 centralpharma@centralpharma.lv info@ejbusuttil.com
 
-## This leaflet was last revised in .
+## Nederland
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Ferring B.V. Tel: +31 235680300 infoNL@ferring.com
 
 ## Norge
 
@@ -1907,21 +1896,17 @@ Ferring Pharmaceuticals Poland Sp. z o.o. Tel: +48 22 246 06 80 PL0-Recepcja@fer
 
 ## Portugal
 
-Ferring Portuguesa - Produtos Farmacêuticos,
-
-Sociedade Unipessoal, Lda.
-
-Tel: +351 21 940 51 90
+Ferring Portuguesa -Produtos Farmacêuticos, Sociedade Unipessoal, Lda. Tel: +351 21 940 51 90
 
 ## România
 
-Ferring Pharmaceuticals Romania SRL
-
-Tel: +40 356 113 270
+Ferring Pharmaceuticals Romania SRL Tel: +40 356 113 270
 
 ## Slovenija
 
-SALUS, Veletrgovina, d.o.o. Tel: +386 1 5899 100 regulatory@salus.si
+SALUS, Veletrgovina, d.o.o. Tel: +386 1 5899 100
+
+regulatory@salus.eu
 
 ## Slovenská republika
 
@@ -1933,13 +1918,13 @@ Ferring Lääkkeet Oy Puh/Tel: +358 207 401 440 info@ferring.fi
 
 ## Sverige
 
-Ferring Läkemedel AB
+Ferring Läkemedel AB Tel: +46 40 691 69 00 info@ferring.se
 
-Tel: +46 40 691 69 00 info@ferring.se
+<div style=\"page-break-after: always\"></div>
 
-## United Kingdom (Northern Ireland)
+## This leaflet was last revised in .
 
-Ferring Ireland Ltd. Tel: +353 1 4637355 EnquiriesIrelandMailbox@ferring.com
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1965,7 +1950,7 @@ The REKOVELLE pre-filled pen is a disposable, dial-a-dose pen that can be used t
 
 <!-- image -->
 
-## Instructions for use - REKOVELLE (follitropin delta) pre-filled pen
+## Instructions for use -REKOVELLE (follitropin delta) pre-filled pen
 
 ## Important information
 
@@ -2010,7 +1995,7 @@ The pen can be dialed to give doses from 0.33 micrograms to 20 micrograms of REK
 
 <!-- image -->
 
-Before use - (Step 1)
+Before use -(Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2024,7 +2009,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Attaching needle - (Step 2 to 6)
+## Attaching needle -(Step 2 to 6)
 
 ## Important:
 
@@ -2070,7 +2055,7 @@ Before use - (Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
-## Priming - (Step 7 to 9)
+## Priming -(Step 7 to 9)
 
 - Before using the pen for the first time, you need to remove air bubbles from the cartridge (Priming) to receive the correct dose of medicine.
 - Only prime your pen the first time you use it.
@@ -2103,7 +2088,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Dialing the dose - (Step 10)
+## Dialing the dose -(Step 10)
 
 See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 
@@ -2120,9 +2105,9 @@ See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 - You may need more than one pen to complete your prescribed dose.
 - If you are not able to dial your complete dose, this means there is not enough medicine left in the pen. You will need to give a split-dose injection or throw away (dispose of) your current pen and use a new pen for your injection.
 
-See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
+See 'Giving a split -dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
 
-## Injecting the dose - (Step 11 to 12)
+## Injecting the dose -(Step 11 to 12)
 
 ## Important:
 
@@ -2156,7 +2141,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Tilting the pen can cause the needle to bend or break off.
 - If a broken needle remains stuck in the body or remains under the skin, get medical help right away.
 
-## Disposal of Needle - (Step 13)
+## Disposal of Needle -(Step 13)
 
 ## Step 13:
 
@@ -2174,7 +2159,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Always remove the needle after every use. The needles are for single-use only.
 - Do not store the pen with the needle attached.
 
-## Replace pen cap - (Step 14)
+## Replace pen cap -(Step 14)
 
 ## Step 14:
 
@@ -2217,7 +2202,7 @@ If you do not have a sharps disposal container, you may use a household containe
 
 The chart below shows examples of prescribed doses, how to dial the examples of prescribed doses, and what the dose display window looks like for the prescribed doses.
 
-<!-- image -->
+Giving a split-dose of REKOVELLE
 
 | Examples of prescribed dose (in micrograms)   | Dose to dial on pen                       | Dose display window for example of prescribed dose   |
 |-----------------------------------------------|-------------------------------------------|------------------------------------------------------|
@@ -2229,13 +2214,9 @@ The chart below shows examples of prescribed doses, how to dial the examples of 
 | 18.66                                         | 18 and 2 lines (Dial to 18 plus 2 clicks) |                                                      |
 | 20.00                                         | 20 (Dial to 20)                           |                                                      |
 
-## Giving a split-dose of REKOVELLE
-
-If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using
-
 <div style=\"page-break-after: always\"></div>
 
-your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
+If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
 
 - Column A shows an example of a prescribed dose. Write down your prescribed dose in column A.
 - Column B shows an example of the dose that is left in the pen (this is equal to what you are able to dial).
@@ -2249,13 +2230,13 @@ your current pen and the remainder of the dose using a new pen (split-dose injec
 
 ## Split-dose diary
 
-|   A Prescribed Dose | B Dose leff inpen (DoseshownatdoseindicatorIndosedisplaywindow)   | C =A minus B Dosetoinjectonnewpen (DoseshownatdoseindicatorIndosedisplaywindow)   |
-|---------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|               11.33 | 4.00 (4)                                                          | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                      |
-|               12.66 | 12.33(12and 1line(12plus 1 cllick))                               | 0.33(0and1lne(Dial to0plus1click))                                                |
-|               11    | 3.00 (3)                                                          | 8.00 (8 (Dial to 8))                                                              |
-|               12    | 6.66(6and 2 lines (6plus 2clicks))                                | Round5.34to5.33(5and1line(Dialto5and1click))                                      |
-|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                            | Round 9.67to 9.66(9 and 2 lines (Dial to 9 plus 2 clicks))                        |
+|   A Prescribed Dose | B Dose left in pen (Dose shown at dose indicator in dose display window)   | C = A minus B Dose to inject on new pen (Dose shown at dose indicator in dose display window)   |
+|---------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|               11.33 | 4.00 (4)                                                                   | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                                    |
+|               12.66 | 12.33 (12 and 1 lIne (12 plus 1 click))                                    | 0.33 (0 and 1 line (Dlal to 0 plus 1 click))                                                    |
+|               11.00 | 3.00 (3)                                                                   | 8.00 (8 (Dial to 8))                                                                            |
+|               12.00 | 6.66 (6 and 2 lines (6 plus 2 clicks))                                     | Round 5.34 to 5.33 (5 and 1 line (Dial to 5 and 1 click))                                       |
+|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                                     | Round 9.67 to 9.66 (9 and 2 lines (Dial to 9 plus 2 clicks))                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2410,7 +2391,13 @@ This medicine does not affect your ability to drive and use machines.
 
 ## REKOVELLE contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+
+## REKOVELLE contains polysorbate 20
+
+This medicine contains 0.005 mg of polysorbate 20 per ml.
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use REKOVELLE
 
@@ -2434,13 +2421,13 @@ This medicine is to be given by injection just under the skin (subcutaneously) u
 
 The effects of taking too much of this medicine are unknown. Ovarian hyperstimulation syndrome may possibly occur, which is described in section 4.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to use REKOVELLE
 
 Do not take a double dose to make up for a forgotten dose. Please contact your doctor as soon as you notice that you forgot a dose.
 
 If you have any further questions on the use of this medicine, ask your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -2486,11 +2473,11 @@ Store in refrigerator (2 °C - 8 °C). Do not freeze. Store in the original pack
 
 After first use: 28 days when stored at or below 25 °C.
 
+<div style=\"page-break-after: always\"></div>
+
 At the end of the treatment any unused solution must be discarded.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2522,61 +2509,51 @@ Tel/Tél: +32 53 72 92 00
 
 ferringnvsa@ferring.be
 
-## Lietuva
-
-CentralPharma Communications UAB Tel: +370 5 243 0444 centralpharma@centralpharma.lt
-
 ## България
 
 Фармонт ЕООД
 
-Тел: +359 2 807 5022
+Тел
+
+: +359 2 807 5022
 
 farmont@farmont.bg
+
+## Česká republika
+
+## Lietuva
+
+CentralPharma Communications UAB Tel: +370 5 243 0444 centralpharma@centralpharma.lt
 
 ## Luxembourg/Luxemburg
 
 Ferring N.V. Belgique/Belgien Tel/Tél: +32 53 72 92 00 ferringnvsa@ferring.be
 
-## Česká republika
-
-Ferring Pharmaceuticals CZ s.r.o. Tel: +420 234 701 333 cz1-info@ferring.com
-
 ## Magyarország
 
-Ferring Magyarország Gyógyszerkereskedelmi Kft.
+Ferring Pharmaceuticals CZ s.r.o.
 
-Tel: +36 1 236 3800
+Tel: +420 234 701 333
 
-ferring@ferring.hu
+cz1-info@ferring.com
+
+Ferring Magyarország Gyógyszerkereskedelmi Kft. Tel: +36 1 686 2128 ferring@ferring.hu
 
 ## Danmark
 
 Ferring Lægemidler A/S
 
-Tlf: +45 88 16 88 17
-
 ## Malta
 
 E.J. Busuttil Ltd.
 
-Tel: +356 21447184
+<div style=\"page-break-after: always\"></div>
 
-info@ejbusuttil.com
+Tlf: +45 88 16 88 17
 
 ## Deutschland
 
 Ferring Arzneimittel GmbH Tel: +49 431 5852 0 info-service@ferring.de
-
-## Nederland
-
-Ferring B.V.
-
-Tel: +31 235680300
-
-infoNL@ferring.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -2584,7 +2561,7 @@ CentralPharma Communications OÜ Tel: +372 601 5540 centralpharma@centralpharma.
 
 ## Ελλάδα
 
-Ferring Ελλάς ΜΕΠΕ Τηλ: +30 210 68 43 449
+Ferring Ελλάς ΜΕΠΕ Τηλ : +30 210 68 43 449
 
 ## España
 
@@ -2602,17 +2579,17 @@ Clinres farmacija d.o.o. Tel: +385 1 2396 900 info@clinres-farmacija.hr
 
 ## Ireland
 
-Ferring Ireland Ltd. Tel: +353 1 4637355 EnquiriesIrelandMailbox@ferring.com
+Ferring Ireland Ltd. Tel: +44 (0) 800 111 4126
+
+Ferring@MedInformation.co.uk
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 70 00
+Vistor ehf. Sími: +354 535 70 00
 
 ## Italia
 
-Ferring S.p.A.
-
-Tel: +39 02 640 00 11
+Ferring S.p.A. Tel: +39 02 640 00 11
 
 ## Κύπρος
 
@@ -2622,9 +2599,13 @@ A.Potamitis Medicare Ltd Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.c
 
 CentralPharma Communications SIA Tālr: +371 674 50497 centralpharma@centralpharma.lv
 
-## This leaflet was last revised in .
+Tel: +356 21447184 info@ejbusuttil.com
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Nederland
+
+Ferring B.V. Tel: +31 235680300
+
+infoNL@ferring.com
 
 ## Norge
 
@@ -2632,7 +2613,9 @@ Ferring Legemidler AS Tlf: +47 22 02 08 80 mail@oslo.ferring.com
 
 ## Österreich
 
-Ferring Arzneimittel Ges.m.b.H Tel: +43 1 60 8080 office@ferring.at
+Ferring Arzneimittel Ges.m.b.H
+
+Tel: +43 1 60 8080 office@ferring.at
 
 ## Polska
 
@@ -2640,25 +2623,19 @@ Ferring Pharmaceuticals Poland Sp. z o.o. Tel: +48 22 246 06 80 PL0-Recepcja@fer
 
 ## Portugal
 
-Ferring Portuguesa - Produtos Farmacêuticos, Sociedade Unipessoal, Lda.
-
-Tel: +351 21 940 51 90
+Ferring Portuguesa -Produtos Farmacêuticos, Sociedade Unipessoal, Lda. Tel: +351 21 940 51 90
 
 ## România
 
-Ferring Pharmaceuticals Romania SRL
-
-Tel: +40 356 113 270
+Ferring Pharmaceuticals Romania SRL Tel: +40 356 113 270
 
 ## Slovenija
 
-SALUS, Veletrgovina, d.o.o. Tel: +386 1 5899 100 regulatory@salus.si
+SALUS, Veletrgovina, d.o.o. Tel: +386 1 5899 100 regulatory@salus.eu
 
 ## Slovenská republika
 
-Ferring Slovakia s.r.o. Tel: +421 2 54 416 010
-
-SK0-Recepcia@ferring.com
+Ferring Slovakia s.r.o. Tel: +421 2 54 416 010 SK0-Recepcia@ferring.com
 
 ## Suomi/Finland
 
@@ -2670,9 +2647,11 @@ Ferring Läkemedel AB
 
 Tel: +46 40 691 69 00 info@ferring.se
 
-## United Kingdom (Northern Ireland)
+<div style=\"page-break-after: always\"></div>
 
-Ferring Ireland Ltd. Tel: +353 1 4637355 EnquiriesIrelandMailbox@ferring.com
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2698,7 +2677,7 @@ The REKOVELLE pre-filled pen is a disposable, dial-a-dose pen that can be used t
 
 <!-- image -->
 
-## Instructions for use - REKOVELLE (follitropin delta) pre-filled pen
+## Instructions for use -REKOVELLE (follitropin delta) pre-filled pen
 
 ## Important information
 
@@ -2743,7 +2722,7 @@ The pen can be dialed to give doses from 0.33 micrograms to 20 micrograms of REK
 
 <!-- image -->
 
-Before use - (Step 1)
+Before use -(Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2757,7 +2736,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Attaching needle - (Step 2 to 6)
+## Attaching needle -(Step 2 to 6)
 
 ## Important:
 
@@ -2803,7 +2782,7 @@ Before use - (Step 1)
 
 <div style=\"page-break-after: always\"></div>
 
-## Priming - (Step 7 to 9)
+## Priming -(Step 7 to 9)
 
 - Before using the pen for the first time, you need to remove air bubbles from the cartridge (Priming) to receive the correct dose of medicine.
 - Only prime your pen the first time you use it.
@@ -2836,7 +2815,7 @@ Before use - (Step 1)
 
 <!-- image -->
 
-## Dialing the dose - (Step 10)
+## Dialing the dose -(Step 10)
 
 See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 
@@ -2853,9 +2832,9 @@ See 'Examples of how to dial a dose' at Page 20 to 21 1 .
 - You may need more than one pen to complete your prescribed dose.
 - If you are not able to dial your complete dose, this means there is not enough medicine left in the pen. You will need to give a split-dose injection or throw away (dispose of) your current pen and use a new pen for your injection.
 
-See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
+See 'Giving a split -dose of REKOVELLE' at Page 22 to 23 1 for examples of how to calculate and record your split dose.
 
-## Injecting the dose - (Step 11 to 12)
+## Injecting the dose -(Step 11 to 12)
 
 ## Important:
 
@@ -2889,7 +2868,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Tilting the pen can cause the needle to bend or break off.
 - If a broken needle remains stuck in the body or remains under the skin, get medical help right away.
 
-## Disposal of Needle - (Step 13)
+## Disposal of Needle -(Step 13)
 
 ## Step 13:
 
@@ -2907,7 +2886,7 @@ See 'Giving a split-dose of REKOVELLE' at Page 22 to 23 1 for examples of how to
 - Always remove the needle after every use. The needles are for single-use only.
 - Do not store the pen with the needle attached.
 
-## Replace pen cap - (Step 14)
+## Replace pen cap -(Step 14)
 
 ## Step 14:
 
@@ -2950,7 +2929,7 @@ If you do not have a sharps disposal container, you may use a household containe
 
 The chart below shows examples of prescribed doses, how to dial the examples of prescribed doses, and what the dose display window looks like for the prescribed doses.
 
-<!-- image -->
+Giving a split-dose of REKOVELLE
 
 | Examples of prescribed dose (in micrograms)   | Dose to dial on pen                       | Dose display window for example of prescribed dose   |
 |-----------------------------------------------|-------------------------------------------|------------------------------------------------------|
@@ -2962,13 +2941,9 @@ The chart below shows examples of prescribed doses, how to dial the examples of 
 | 18.66                                         | 18 and 2 lines (Dial to 18 plus 2 clicks) |                                                      |
 | 20.00                                         | 20 (Dial to 20)                           |                                                      |
 
-## Giving a split-dose of REKOVELLE
-
-If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using
-
 <div style=\"page-break-after: always\"></div>
 
-your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
+If you are not able to dial the full prescribed dose in your pen, this means that there is not enough medicine left in the pen to give the full dose. You will need to give part of your prescribed dose using your current pen and the remainder of the dose using a new pen (split-dose injection) or you may throw away (dispose of) the pen you are using and use a new pen to give your full prescribed dose in 1 injection. If you decide to give a split-dose injection, follow these instructions and write down how much medicine to give using the split-dose diary on Page 23 1 .
 
 - Column A shows an example of a prescribed dose. Write down your prescribed dose in column A.
 - Column B shows an example of the dose that is left in the pen (this is equal to what you are able to dial).
@@ -2982,13 +2957,13 @@ your current pen and the remainder of the dose using a new pen (split-dose injec
 
 ## Split-dose diary
 
-|   A Prescribed Dose | B Dose leff inpen (DoseshownatdoseindicatorIndosedisplaywindow)   | C =A minus B Dosetoinjectonnewpen (DoseshownatdoseindicatorIndosedisplaywindow)   |
-|---------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|               11.33 | 4.00 (4)                                                          | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                      |
-|               12.66 | 12.33(12and 1line(12plus 1 cllick))                               | 0.33(0and1lne(Dial to0plus1click))                                                |
-|               11    | 3.00 (3)                                                          | 8.00 (8 (Dial to 8))                                                              |
-|               12    | 6.66(6and 2 lines (6plus 2clicks))                                | Round5.34to5.33(5and1line(Dialto5and1click))                                      |
-|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                            | Round 9.67to 9.66(9 and 2 lines (Dial to 9 plus 2 clicks))                        |
+|   A Prescribed Dose | B Dose left in pen (Dose shown at dose indicator in dose display window)   | C = A minus B Dose to inject on new pen (Dose shown at dose indicator in dose display window)   |
+|---------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|               11.33 | 4.00 (4)                                                                   | 7.33 (7 and 1 line (Dial to 7 plus 1 click))                                                    |
+|               12.66 | 12.33 (12 and 1 lIne (12 plus 1 click))                                    | 0.33 (0 and 1 line (Dlal to 0 plus 1 click))                                                    |
+|               11.00 | 3.00 (3)                                                                   | 8.00 (8 (Dial to 8))                                                                            |
+|               12.00 | 6.66 (6 and 2 lines (6 plus 2 clicks))                                     | Round 5.34 to 5.33 (5 and 1 line (Dial to 5 and 1 click))                                       |
+|               18.33 | 8.66 (8 and 2 lines (8 plus 2 clicks))                                     | Round 9.67 to 9.66 (9 and 2 lines (Dial to 9 plus 2 clicks))                                    |
 
 <div style=\"page-break-after: always\"></div>
 

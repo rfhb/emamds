@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-29 15:46:00
+document_datetime: 2026-07-06 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tysabri.html
 document_name: tysabri.html
 version: success
-processing_time: 0.1882791
-conversion_datetime: 2026-06-01 16:56:28.343822
+processing_time: 0.2341298
+conversion_datetime: 2026-07-07 15:03:01.154208
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Tysabri
 
@@ -61,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Tysabri used?
+### How is Tysabri used?
 
 Treatment with Tysabri should be started and supervised by a doctor who is experienced in treating diseases of the nervous system and has access to a magnetic resonance imaging (MRI) scanner. This scanner will enable the doctor to check for changes in the brain or spinal cord linked to MS or to the brain infection called progressive multifocal leukoencephalopathy (PML), which has been associated with Tysabri and other MS medicines.
 
@@ -71,11 +71,11 @@ The medicine can only be obtained with a prescription.
 
 For more information about using Tysabri, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tysabri work?
+### How does Tysabri work?
 
 The active substance in Tysabri, natalizumab, is a monoclonal antibody which targets a protein called ?4?1 integrin on white blood cells involved in inflammation. By attaching to integrin, natalizumab is thought to stop white blood cells from entering the brain and spinal cord tissue, thereby reducing inflammation and the resulting nerve damage. This helps to reduce symptoms of the disease.
 
-## What benefits of Tysabri have been shown in studies?
+### What benefits of Tysabri have been shown in studies?
 
 Tysabri was effective at reducing the number of relapses and the worsening of disability (as measured with the Expanded Disability Status Scale).
 
@@ -85,7 +85,7 @@ A second study showed that adding Tysabri to treatment with another medicine, in
 
 Finally, a third study, still ongoing, has shown the average number of MS attacks per year falling from about 2 to 0.2 in Tysabri-treated patients (regardless of which disease-modifying treatment they had previously used). The response was maintained for up to 5 years.
 
-## What are the risks associated with Tysabri?
+### What are the risks associated with Tysabri?
 
 Tysabri can increase the risk of infections, including the brain infection PML. PML is a very serious condition that may result in severe disability or death. The risk of PML increases the longer a patient has been receiving Tysabri, especially in patients treated for more than 2 years. The risk is also higher for patients who used medicines that supress the immune system before starting Tysabri, or if the patient has antibodies against the virus that causes PML. If PML is suspected, the doctor must stop treatment until it is certain that the patient does not have the infection.
 
@@ -97,13 +97,13 @@ Tysabri must not be given to patients who have PML or who are at risk of getting
 
 For the full list of side effects and restrictions of Tysabri, see the package leaflet.
 
-## Why is Tysabri authorised in the EU?
+### Why is Tysabri authorised in the EU?
 
 Studies have shown that Tysabri is effective in treating relapsing-remitting MS. However, because of its safety risks, it should only be used in patients who have a real need for the medicine either because their disease is not sufficiently controlled with at least one other disease-modifying therapy or is rapidly getting worse.
 
 The European Medicines Agency decided therefore that Tysabri's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tysabri?
+### What measures are being taken to ensure the safe and effective use of Tysabri?
 
 The company that markets Tysabri has agreed on measures to improve the monitoring of patients with each Member State, such as registries and studies of patients receiving Tysabri. It will also supply all doctors who prescribe Tysabri with an educational pack that includes information on the safety of Tysabri, including information on which patients may be at a higher or lower risk of PML. Patients should receive this information when starting Tysabri, when continuing treatment for longer than 2 years, and when stopping treatment, as the risk of PML persists for 6 months after stopping treatment. The pack will also include information about other risks of this medicine for patients.
 
@@ -113,7 +113,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Tysabri are continuously monitored. Side effects reported with Tysabri are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tysabri
+### Other information about Tysabri
 
 Tysabri received a marketing authorisation valid throughout the EU on 27 June 2006.
 
@@ -125,7 +125,7 @@ English (EN) (135.59 KB - PDF)
 
 [View](/en/documents/overview/tysabri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-965)
+[Other languages (22)](#file-language-dropdown-614)
 
 български (BG) (148.94 KB - PDF)
 
@@ -157,7 +157,7 @@ Deutsch (DE) (133.77 KB - PDF)
 
 [View](/de/documents/overview/tysabri-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (132.58 KB - PDF)
+eesti (ET) (132.58 KB - PDF)
 
 **First published:** 18/06/2009 **Last updated:** 04/05/2020
 
@@ -187,13 +187,13 @@ italiano (IT) (130.35 KB - PDF)
 
 [View](/it/documents/overview/tysabri-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (121.13 KB - PDF)
+latviešu (LV) (121.13 KB - PDF)
 
 **First published:** 18/06/2009 **Last updated:** 04/05/2020
 
 [View](/lv/documents/overview/tysabri-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (146.69 KB - PDF)
+lietuvių (LT) (146.69 KB - PDF)
 
 **First published:** 18/06/2009 **Last updated:** 04/05/2020
 
@@ -247,7 +247,7 @@ slovenščina (SL) (145.89 KB - PDF)
 
 [View](/sl/documents/overview/tysabri-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (127.34 KB - PDF)
+suomi (FI) (127.34 KB - PDF)
 
 **First published:** 18/06/2009 **Last updated:** 04/05/2020
 
@@ -273,165 +273,166 @@ Tysabri : EPAR - Product information
 
 English (EN) (1.62 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/en/documents/product-information/tysabri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-830)
+[Other languages (24)](#file-language-dropdown-356)
 
-български (BG) (1.53 MB - PDF)
+български (BG) (1.43 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/bg/documents/product-information/tysabri-epar-product-information_bg.pdf)
 
-español (ES) (1.67 MB - PDF)
+español (ES) (1.19 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/es/documents/product-information/tysabri-epar-product-information_es.pdf)
 
-čeština (CS) (1.78 MB - PDF)
+čeština (CS) (1.35 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/cs/documents/product-information/tysabri-epar-product-information_cs.pdf)
 
-dansk (DA) (1.67 MB - PDF)
+dansk (DA) (1.2 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/da/documents/product-information/tysabri-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.7 MB - PDF)
+Deutsch (DE) (1.58 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/de/documents/product-information/tysabri-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.72 MB - PDF)
+eesti (ET) (1.24 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/et/documents/product-information/tysabri-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.54 MB - PDF)
+ελληνικά (EL) (1.36 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/el/documents/product-information/tysabri-epar-product-information_el.pdf)
 
-français (FR) (1.74 MB - PDF)
+français (FR) (1.61 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/fr/documents/product-information/tysabri-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.85 MB - PDF)
+hrvatski (HR) (1.28 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/hr/documents/product-information/tysabri-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.68 MB - PDF)
+italiano (IT) (1.23 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
-
-[View](/is/documents/product-information/tysabri-epar-product-information_is.pdf)
-
-italiano (IT) (1.35 MB - PDF)
-
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/it/documents/product-information/tysabri-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.79 MB - PDF)
+latviešu (LV) (1.69 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/lv/documents/product-information/tysabri-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.4 MB - PDF)
+lietuvių (LT) (1.31 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/lt/documents/product-information/tysabri-epar-product-information_lt.pdf)
 
-magyar (HU) (1.42 MB - PDF)
+magyar (HU) (1.28 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/hu/documents/product-information/tysabri-epar-product-information_hu.pdf)
 
-Malti (MT) (1.95 MB - PDF)
+Malti (MT) (1.49 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/mt/documents/product-information/tysabri-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.67 MB - PDF)
+Nederlands (NL) (1.27 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/nl/documents/product-information/tysabri-epar-product-information_nl.pdf)
 
-norsk (NO) (1.64 MB - PDF)
+polski (PL) (1.29 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
-
-[View](/no/documents/product-information/tysabri-epar-product-information_no.pdf)
-
-polski (PL) (1.78 MB - PDF)
-
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/pl/documents/product-information/tysabri-epar-product-information_pl.pdf)
 
-português (PT) (1.34 MB - PDF)
+português (PT) (1.25 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/pt/documents/product-information/tysabri-epar-product-information_pt.pdf)
 
-română (RO) (1.8 MB - PDF)
+română (RO) (1.28 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/ro/documents/product-information/tysabri-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.8 MB - PDF)
+slovenčina (SK) (1.33 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/sk/documents/product-information/tysabri-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.79 MB - PDF)
+slovenščina (SL) (1.7 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/sl/documents/product-information/tysabri-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.69 MB - PDF)
+suomi (FI) (1.23 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/fi/documents/product-information/tysabri-epar-product-information_fi.pdf)
 
-svenska (SV) (1.28 MB - PDF)
+svenska (SV) (1.17 MB - PDF)
 
-**First published:** 18/06/2009 **Last updated:** 26/05/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
 
 [View](/sv/documents/product-information/tysabri-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315289
+Íslenska (IS) (1.2 MB - PDF)
 
-10/04/2026
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
+
+[View](/is/documents/product-information/tysabri-epar-product-information_is.pdf)
+
+norsk (NO) (1.18 MB - PDF)
+
+**First published:** 18/06/2009 **Last updated:** 06/07/2026
+
+[View](/no/documents/product-information/tysabri-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000314828
+
+18/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -449,7 +450,7 @@ English (EN) (43.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-417)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (86.54 KB - PDF)
 
@@ -481,7 +482,7 @@ Deutsch (DE) (81.56 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (76.48 KB - PDF)
+eesti (ET) (76.48 KB - PDF)
 
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
@@ -505,25 +506,19 @@ hrvatski (HR) (81.43 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (45.07 KB - PDF)
-
-**First published:** 09/11/2007 **Last updated:** 09/01/2026
-
-[View](/is/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (78.32 KB - PDF)
 
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
 [View](/it/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (82.65 KB - PDF)
+latviešu (LV) (82.65 KB - PDF)
 
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
 [View](/lv/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (82.78 KB - PDF)
+lietuvių (LT) (82.78 KB - PDF)
 
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
@@ -546,12 +541,6 @@ Nederlands (NL) (61.14 KB - PDF)
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
 [View](/nl/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (80.71 KB - PDF)
-
-**First published:** 09/11/2007 **Last updated:** 09/01/2026
-
-[View](/no/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (47.38 KB - PDF)
 
@@ -583,7 +572,7 @@ slovenščina (SL) (79.13 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (76.81 KB - PDF)
+suomi (FI) (76.81 KB - PDF)
 
 **First published:** 09/11/2007 **Last updated:** 09/01/2026
 
@@ -595,15 +584,27 @@ svenska (SV) (79.35 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (45.07 KB - PDF)
+
+**First published:** 09/11/2007 **Last updated:** 09/01/2026
+
+[View](/is/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (80.71 KB - PDF)
+
+**First published:** 09/11/2007 **Last updated:** 09/01/2026
+
+[View](/no/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_no.pdf)
+
 Tysabri : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
 
 English (EN) (43.8 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
-[View](/en/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
+[View](/en/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-33)
+[Other languages (23)](#file-language-dropdown-415)
 
 български (BG) (146.24 KB - PDF)
 
@@ -635,7 +636,7 @@ Deutsch (DE) (34.99 KB - PDF)
 
 [View](/de/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
-eesti keel (ET) (33.93 KB - PDF)
+eesti (ET) (33.93 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
@@ -653,25 +654,19 @@ français (FR) (32.69 KB - PDF)
 
 [View](/fr/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
-íslenska (IS) (62.24 KB - PDF)
-
-**First published:** 31/05/2007 **Last updated:** 08/07/2011
-
-[View](/is/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
-
 italiano (IT) (34.25 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
 [View](/it/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
-latviešu valoda (LV) (126.71 KB - PDF)
+latviešu (LV) (126.71 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
 [View](/lv/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (132.36 KB - PDF)
+lietuvių (LT) (132.36 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
@@ -694,12 +689,6 @@ Nederlands (NL) (26.05 KB - PDF)
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
 [View](/nl/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
-
-norsk (NO) (36.75 KB - PDF)
-
-**First published:** 31/05/2007 **Last updated:** 08/07/2011
-
-[View](/no/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
 
 polski (PL) (134.09 KB - PDF)
 
@@ -731,7 +720,7 @@ slovenščina (SL) (163.84 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
-Suomi (FI) (95.74 KB - PDF)
+suomi (FI) (95.74 KB - PDF)
 
 **First published:** 31/05/2007 **Last updated:** 08/07/2011
 
@@ -743,27 +732,30 @@ svenska (SV) (94.46 KB - PDF)
 
 [View](/sv/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
+Íslenska (IS) (62.24 KB - PDF)
+
+**First published:** 31/05/2007 **Last updated:** 08/07/2011
+
+[View](/is/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
+
+norsk (NO) (36.75 KB - PDF)
+
+**First published:** 31/05/2007 **Last updated:** 08/07/2011
+
+[View](/no/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Tysabri
-
-Active substance
-
-natalizumab
-
-International non-proprietary name (INN) or common name
-
-natalizumab
-
-Therapeutic area (MeSH)
-
-Multiple Sclerosis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AG03
+- **Name of medicine**
+    - Tysabri
+- **Active substance**
+    - natalizumab
+- **International non-proprietary name (INN) or common name**
+    - natalizumab
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AG03
 
 ### Pharmacotherapeutic group
 
@@ -778,23 +770,14 @@ Tysabri is indicated as single disease modifying therapy in adults with highly a
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000603
-
-Marketing authorisation holder
-
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
-
-Marketing authorisation issued
-
-27/06/2006
-
-Revision
-
-52
+- **EMA product number**
+    - EMEA/H/C/000603
+- **Marketing authorisation holder**
+    - Biogen Netherlands B.V. Prins Mauritslaan 13  1171 LP Badhoevedorp  The Netherlands
+- **Marketing authorisation issued**
+    - 27/06/2006
+- **Revision**
+    - 53
 
 ## Assessment history
 
@@ -802,13 +785,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tysabri : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (194.37 KB - PDF)
+English (EN) (198.47 KB - PDF)
 
-**First published:** 14/11/2025 **Last updated:** 26/05/2026
+**First published:** 14/11/2025 **Last updated:** 06/07/2026
 
 [View](/en/documents/procedural-steps-after/tysabri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -828,7 +811,7 @@ English (EN) (126.92 KB - PDF)
 
 **First published:** 08/06/2022
 
-[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-202108-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-202108-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tysabri-H-C-PSUSA-00002127-202008 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -838,7 +821,7 @@ English (EN) (96.16 KB - PDF)
 
 **First published:** 15/06/2021
 
-[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-202008-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-202008-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tysabri-H-C-603-X-0116 : EPAR - Assessment report - Extension
 
@@ -868,7 +851,7 @@ English (EN) (132.93 KB - PDF)
 
 **First published:** 04/05/2020
 
-[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-201908-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tysabri-h-c-psusa-00002127-201908-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tysabri-H-C-603-II-77 : EPAR - Assessment Report - Variation
 
@@ -898,7 +881,7 @@ English (EN) (72.27 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-150)
+[Other languages (22)](#file-language-dropdown-440)
 
 български (BG) (100.06 KB - PDF)
 
@@ -930,7 +913,7 @@ Deutsch (DE) (70.07 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_de.pdf)
 
-eesti keel (ET) (69.43 KB - PDF)
+eesti (ET) (69.43 KB - PDF)
 
 **First published:** 12/05/2016 **Last updated:** 12/05/2016
 
@@ -960,13 +943,13 @@ italiano (IT) (69.5 KB - PDF)
 
 [View](/it/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_it.pdf)
 
-latviešu valoda (LV) (112.38 KB - PDF)
+latviešu (LV) (112.38 KB - PDF)
 
 **First published:** 12/05/2016 **Last updated:** 12/05/2016
 
 [View](/lv/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_lv.pdf)
 
-lietuvių kalba (LT) (109.25 KB - PDF)
+lietuvių (LT) (109.25 KB - PDF)
 
 **First published:** 12/05/2016 **Last updated:** 12/05/2016
 
@@ -1020,7 +1003,7 @@ slovenščina (SL) (91.56 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_sl.pdf)
 
-Suomi (FI) (66.64 KB - PDF)
+suomi (FI) (66.64 KB - PDF)
 
 **First published:** 12/05/2016 **Last updated:** 12/05/2016
 
@@ -1050,7 +1033,7 @@ English (EN) (72.55 KB - PDF)
 
 **First published:** 01/04/2014 **Last updated:** 01/04/2014
 
-[View](/en/documents/scientific-conclusion/tysabri-h-c-603-psuv-0062-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/tysabri-h-c-603-psuv-0062-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Tysabri-H-C-603-II-0059-G : EPAR - Assessment Report - Variation
 
@@ -1082,7 +1065,7 @@ English (EN) (114.16 KB - PDF)
 
 [View](/en/documents/variation-report/tysabri-h-c-603-a20-0029-epar-assessment-report-article-20_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tysabri : EPAR - Scientific Discussion
 
@@ -1158,7 +1141,7 @@ English (EN) (1.66 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-879)
 
 български (BG) (982.63 KB - DOCX)
 
@@ -1190,7 +1173,7 @@ Deutsch (DE) (1.65 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.66 MB - DOCX)
+eesti (ET) (1.66 MB - DOCX)
 
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
@@ -1214,25 +1197,19 @@ hrvatski (HR) (1.62 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.69 MB - DOCX)
-
-**First published:** 19/06/2025 **Last updated:** 29/05/2026
-
-[View](/is/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.12 MB - DOCX)
 
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
 [View](/it/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.68 MB - DOCX)
+latviešu (LV) (1.68 MB - DOCX)
 
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.1 MB - DOCX)
+lietuvių (LT) (1.1 MB - DOCX)
 
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
@@ -1255,12 +1232,6 @@ Nederlands (NL) (1.33 MB - DOCX)
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.64 MB - DOCX)
-
-**First published:** 19/06/2025 **Last updated:** 29/05/2026
-
-[View](/no/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (1.64 MB - DOCX)
 
@@ -1292,7 +1263,7 @@ slovenščina (SL) (1.63 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.62 MB - DOCX)
+suomi (FI) (1.62 MB - DOCX)
 
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
@@ -1303,6 +1274,18 @@ svenska (SV) (1.09 MB - DOCX)
 **First published:** 19/06/2025 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.69 MB - DOCX)
+
+**First published:** 19/06/2025 **Last updated:** 29/05/2026
+
+[View](/is/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.64 MB - DOCX)
+
+**First published:** 19/06/2025 **Last updated:** 29/05/2026
+
+[View](/no/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Tysabri
 
@@ -1333,6 +1316,6 @@ English (EN) (65.06 KB - PDF)
 
 **This page was last updated on**
 
-29/05/2026
+06/07/2026
 
 ## Share this page

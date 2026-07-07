@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-05-02 15:43:22
-document_pages: 2
+document_datetime: 2026-07-06 13:24:32
+document_pages: 6
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/alprolix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: alprolix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.2527316
-conversion_datetime: 2025-12-22 10:50:11.254824
+processing_time: 2.8143098
+conversion_datetime: 2026-07-07 17:29:08.0874
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## Alprolix
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | C. SAFETY, EFFICACY, | 30/04/2025                          |                                             | SmPC and PL                      |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | Outcome: | 19/06/2026                          |                                             |                                  |           |
 
 <!-- image -->
 
@@ -38,6 +32,31 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000262414                        | PHARMACOVIGILANCE CHANGES - C.z Other variation - Accepted C.I.z - To update sections 2 and 4.4 in SmPC and section 2 in Package Leaflet following the excipients with known effect guideline, where the wording for Polysorbate was added. The MAH took the opportunity to update the PI due to an inconsistency which was detected in the text for instructional video. As a consequence, section 6.6 of the SmPC and section \"Instructions for Preparation and Administration\" in the Package Leaflet were updated. Finally, minor linguistic corrections were applied in all the   |            |     |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| Variation type IA_IN / EMA/VR/0000263807 | B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted                                                                                                                                                                                                                                                                                                                                                                                                         | 08/04/2025 | N/A |
+| EMA/VR/0000343915                     | Q.I.b.3 Change to an in-house reference standard/preparation for a biological active substance - Q.I.b.3.e) Other change to the qualification protocol for the prepartation/replacement of an in-house reference standard or preparation - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |            |          |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|
+| Variation type II / EMA/VR/0000338616 | Outcome: This was an application for a group of variations. Q.I.a.1 Change in the manufacturing site of a starting material/intermediate used in the manufacturing process of the active substance or change in the manufacturing site (including where relevant quality control testing sites) of the active substance - Q.I.a.1.d) Addition or replacement of a manufacturing site of - a biological active substance or - a biological starting material/reagent/raw material/intermediate used in the manufacture of a biological active substance which may have a significant impact on the quality, safety or efficacy of the finished product or - a material for which an assessment is required of viral safety and/or TSE risk - Accepted E.4 Change in the name and/or address of the marketing Term name: E.4 authorisation holder, ASMF holder, storage site of the | 04/06/2026 | Annex II |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | manufacturing site for an active substance, intermediate or finished product, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/or excipient (when mentioned in the dossier - E.4.c) The change in the name and/or address does not concern a manufacturer(s) whose activities include batch release of the finished product nor the marketing authorisation holder - Accepted Q.III.2 Change to comply with Ph. Eur. or with a national pharmacopoeia of a Member State for active substances, reagents, intermediates, excipients, immediate packaging materials and active substance starting materials(*) - Q.III.2.b Change to comply with an update of the relevant monograph of the Ph. Eur. or national pharmacopoeia of a Member State -   |            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000327068 | Outcome: This was an application for a group of variations. Q.II.d.2 Change to analytical procedure for the finished product - Q.II.d.2.d) Other change to an analytical procedure for a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 23/02/2026 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                     | finished product (including replacement or addition) - Accepted Q.I.a.1 Change in the manufacturing site of a starting material/intermediate used in the manufacturing process of the active substance or change in the manufacturing site (including where relevant quality control testing sites) of the active substance - Q.I.a.1.i) Addition or replacement of a batch control/testing site of the active substance or starting material/intermediate used in the manufacturing of a biological active substance, applying a biological/immunological/immunochemical analytical procedure - Accepted   |            |                   |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IB / | Outcome: B.II.g.5 Implementation of changes foreseen in an approved change management protocol - B.II.g.5.c Implementation of a change for a biological/immunological medicinal product - Accepted B.II.b.5 Change to in-process tests or limits applied during the manufacture of the finished product - B.II.b.5.c Deletion of a non-significant in-process test - Accepted B.II.b.5 Change to in-process tests or limits applied during the manufacture of the finished product - B.II.b.5.c Deletion of a non-significant in-process test - Accepted B.II.b.5 Change to in-process tests or limits      | 04/02/2026 | EMA/VR/0000314729 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | applied during the manufacture of the finished product - B.II.b.5.b Addition of a new test(s) and limits - Accepted                                                                                                                                                                                                                                                                                                                                                                                                    |            |            |             |                   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|-------------------|
+| Variation type IA /                   | Outcome: This was an application for a group of variations. B.I.a.4 Change to in-process tests or limits applied during the manufacture of the active substance - B.I.a.4.a Tightening of in- process limits - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted                                                                                                                                                                 | 02/10/2025 |            |             | EMA/VR/0000302431 |
+| Variation type IB / EMA/VR/0000262414 | Outcome: C. SAFETY, EFFICACY, PHARMACOVIGILANCE CHANGES - C.z Other variation - Accepted C.I.z - To update sections 2 and 4.4 in SmPC and section 2 in Package Leaflet following the excipients with known effect guideline, where the wording for Polysorbate was added. The MAH took the opportunity to update the PI due to an inconsistency which was detected in the text for instructional video. As a consequence, section 6.6 of the SmPC and section \"Instructions for Preparation and Administration\" in the | 30/04/2025 | 20/04/2026 | SmPC and PL |                   |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | Package Leaflet were updated. Finally, minor linguistic corrections were applied in all the languages annexes.                                                                          |            |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IA_IN / EMA/VR/0000263807 | Outcome: B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted | 08/04/2025 |

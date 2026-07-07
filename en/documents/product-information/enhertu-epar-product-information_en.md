@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-03 13:51:09
+document_datetime: 2026-07-06 12:18:57
 document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enhertu-epar-product-information_en.pdf
 document_name: enhertu-epar-product-information_en.pdf
 version: success
-processing_time: 20.4477681
-conversion_datetime: 2025-12-26 17:19:33.652836
+processing_time: 20.1392144
+conversion_datetime: 2026-07-07 17:23:48.033883
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -138,7 +138,7 @@ Table 1: Dose reduction schedule
 | Second dose reduction                  | 3.2 mg/kg                 | 4.4 mg/kg             |
 | Requirement for further dose reduction | Discontinue treatment     | Discontinue treatment |
 
-Table 2: Dose modifications for adverse reactions
+## Table 2: Dose modifications for adverse reactions
 
 | Adverse reaction                            | Severity                                         | Treatment modification                                                                                                                                                                                                                                                                                               |
 |---------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -172,11 +172,9 @@ No dose adjustment of Enhertu is required in patients aged 65 years or older. Li
 
 ## Renal impairment
 
-No dose adjustment is required in patients with mild (creatinine clearance [CLcr] ≥ 60 and &lt; 90 mL/min) or moderate (CLcr ≥ 30 and &lt; 60 mL/min) renal impairment (see section 5.2). The
+No dose adjustment is required in patients with mild (creatinine clearance [CLcr] ≥ 60 and &lt; 90 mL/min) or moderate (CLcr ≥ 30 and &lt; 60 mL/min) renal impairment (see section 5.2). The potential need for dose adjustment in patients with severe renal impairment or end-stage renal disease cannot be determined as severe renal impairment was an exclusion criterion in clinical studies. A higher incidence of Grade 1 and 2 ILD/pneumonitis leading to an increase in discontinuation of therapy has been observed in patients with moderate renal impairment. In patients with moderate renal impairment at baseline who received Enhertu 6.4 mg/kg, a higher incidence of serious adverse reactions was observed compared to those with normal renal function. Patients with moderate or severe renal impairment should be monitored carefully for adverse reactions including ILD/pneumonitis (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-potential need for dose adjustment in patients with severe renal impairment or end-stage renal disease cannot be determined as severe renal impairment was an exclusion criterion in clinical studies. A higher incidence of Grade 1 and 2 ILD/pneumonitis leading to an increase in discontinuation of therapy has been observed in patients with moderate renal impairment. In patients with moderate renal impairment at baseline who received Enhertu 6.4 mg/kg, a higher incidence of serious adverse reactions was observed compared to those with normal renal function. Patients with moderate or severe renal impairment should be monitored carefully for adverse reactions including ILD/pneumonitis (see section 4.4).
 
 ## Hepatic impairment
 
@@ -488,20 +486,6 @@ Figure 1: Kaplan-Meier plot of overall survival (Data cutoff 25 July 2022)
 
 <!-- image -->
 
-Number at Risk.
-
-Enhertu
-
-(261)
-
-Trastuzumab emtansine (263)
-
-Time,months
-
-261256256255254251249244243241238236236236231224218213211206201200196193187182173156142124109917364514438302218119761
-
-26325725224824324223723323222722421721120319919719118618317917216916716416415814012911710690705945413827201587433110
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Kaplan-Meier plot of progression-free survival per BICR (Data cutoff 25 July 2022)
@@ -564,7 +548,7 @@ The efficacy and safety of Enhertu were studied in DESTINY-Breast01, a multicent
 
 Of the 184 patients enrolled in DESTINY-Breast01, baseline demographic and disease characteristics were: median age 55 years (range: 28 to 96); 65 years or older (23.9%); female (100%); White (54.9%), Asian (38.0%), Black or African American (2.2%); Eastern Cooperative Oncology Group (ECOG) performance status 0 (55.4%) or 1 (44.0%); hormone receptor status (positive: 52.7%); presence of visceral disease (91.8%); previously treated and stable brain metastases (13.0%); median number of prior therapies in the metastatic setting: 5 (range: 2 to 17); sum of diameters of target lesions (&lt; 5 cm: 42.4%, ≥ 5 cm: 50.0%).
 
-An earlier analysis (median duration of follow-up 11.1 months [range: 0.7 to 19.9 months]) showed a confirmed objective response rate of 60.9% (95% CI: 53.4, 68.0) with 6.0% being complete responders and 54.9% being partial responders; 36.4% had stable disease, 1.6% had progressive disease and 1.1% were not evaluable. Median duration of response at that time was 14.8 months (95% CI: 13.8, 16.9) with 81.3% of responders having a response of ≥ 6 months (95% CI: 71.9, 87.8). Efficacy results from an updated data cutoff with median duration of follow-up of 20.5 months (range: 0.7 to 31.4 months) are shown in Table 6.
+An earlier analysis (median duration of follow-up 11.1 months [range: 0.7 to 19.9 months]) showed a confirmed objective response rate of 60.9% (95% CI: 53.4, 68.0) with 6.0% being complete responders and 54.9% being partial responders; 36.4% had stable disease, 1.6% had progressive disease and 1.1% were not evaluable. Median duration of response at that time was 14.8 months (95% CI: 13.8, 16.9) with 81.3% of re sponders having a response of ≥ 6 months (95% CI: 71.9, 87.8). Efficacy results from an updated data cutoff with median duration of follow-up of 20.5 months (range: 0.7 to 31.4 months) are shown in Table 6.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -605,19 +589,17 @@ Patients were randomised 1:1 to receive either Enhertu 5.4 mg/kg (N = 436) by in
 
 The primary efficacy outcome measure was PFS in patients with HER2-low breast cancer assessed by BICR based on RECIST v1.1. Key secondary efficacy outcome measures were PFS assessed by BICR based on RECIST v1.1 in the overall population (HER2-low and HER2-ultralow), OS in HER2-low patients, and OS in the overall population. ORR and DOR were secondary endpoints.
 
-In the overall population, demographics and baseline tumour characteristics were similar between treatment arms. Of the 866 patients randomised, the median age was 57 years (range: 28 to 87); 31% were age 65 or older; 99.9% were female; 53% were White, 35% were Asian, and 1% were Black or
+In the overall population, demographics and baseline tumour characteristics were similar between treatment arms. Of the 866 patients randomised, the median age was 57 years (range: 28 to 87); 31% were age 65 or older; 99.9% were female; 53% were White, 35% were Asian, and 1% were Black or African American. Patients had an ECOG performance status of 0 (59%) or 1 (39%) at baseline; 18% were IHC &gt;0&lt;1+, 55% were IHC 1+, 27% were IHC 2+/ISH-; 67% had liver metastases, 32% had lung metastases, 8% had brain metastases, and 3% had bone-only metastases. Patients had a median of 2 prior lines of endocrine therapy in the metastatic setting (range: 1 to 5) with 17% having 1 and 68% having 2. Eighty-nine percent of patients had prior endocrine therapy in combination with CDK4/6i treatment in the metastatic setting, 47% had prior anthracycline use, and 41% had prior taxane use in the non-metastatic setting.
 
 <div style=\"page-break-after: always\"></div>
-
-African American. Patients had an ECOG performance status of 0 (59%) or 1 (39%) at baseline; 18% were IHC &gt;0&lt;1+, 55% were IHC 1+, 27% were IHC 2+/ISH-; 67% had liver metastases, 32% had lung metastases, 8% had brain metastases, and 3% had bone-only metastases. Patients had a median of 2 prior lines of endocrine therapy in the metastatic setting (range: 1 to 5) with 17% having 1 and 68% having 2. Eighty-nine percent of patients had prior endocrine therapy in combination with CDK4/6i treatment in the metastatic setting, 47% had prior anthracycline use, and 41% had prior taxane use in the non-metastatic setting.
 
 Efficacy results are summarised in Table 7 and Figures 5 and 6.
 
 Table 7: Efficacy Results in DESTINY-Breast06
 
-| Efficacy Parameter                           | HER2-low                                     | HER2-low                                     | Overall Population (HER2-low and HER2-ultralow)   | Overall Population (HER2-low and HER2-ultralow)   |
+| Efficacy                                     | HER2-low                                     | HER2-low                                     | Overall Population (HER2-low and HER2-ultralow)   | Overall Population (HER2-low and HER2-ultralow)   |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| Efficacy Parameter                           | Enhertu (N = 359)                            | Chemotherapy (N = 354)                       | Enhertu (N = 436)                                 | Chemotherapy (N = 430)                            |
+| Parameter                                    | Enhertu (N = 359)                            | Chemotherapy (N = 354)                       | Enhertu (N = 436)                                 | Chemotherapy (N = 430)                            |
 | Progression Free Survival per BICR           | Progression Free Survival per BICR           | Progression Free Survival per BICR           | Progression Free Survival per BICR                | Progression Free Survival per BICR                |
 | Number of events (%)                         | 225 (62.7)                                   | 232 (65.5)                                   | 269 (61.7)                                        | 271 (63.0)                                        |
 | Median, months (95% CI)                      | 13.2 (11.4, 15.2)                            | 8.1 (7.0, 9.0)                               | 13.2 (12.0, 15.2)                                 | 8.1 (7.0, 9.0)                                    |
@@ -714,11 +696,69 @@ Figure 8: Kaplan-Meier plot of progression-free survival per BICR (overall popul
 
 <!-- image -->
 
+Enhertu (373) 373 365 325 295290 272 238 217 201 183 156 142 118 100 88
+
+Chemotherapy (184) 184 166 119 93 90 73 60 51 45 34 32 29 26 22 15
+
 ## NSCLC
 
 ## DESTINY-Lung02 (NCT04644237)
 
 The efficacy and safety of Enhertu were studied in DESTINY-Lung02, a phase 2, randomised study evaluating two dose levels. The treatment dosage assignment was blinded to patients and investigators. The study included adult patients with metastatic HER2-mutant NSCLC who had received at least one regimen containing platinum-based chemotherapy. Identification of an activating HER2 (ERBB2) mutation was prospectively determined in tumour tissue by local laboratories using a validated test such as next generation sequencing, polymerase chain reaction or mass spectrometry. Patients were
+
+81
+
+13
+
+71
+
+9
+
+53
+
+5
+
+42
+
+4
+
+35
+
+3
+
+32
+
+1
+
+21
+
+1
+
+18
+
+1
+
+15
+
+1
+
+8
+
+1
+
+4
+
+1
+
+4
+
+0
+
+1
+
+1
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -777,9 +817,7 @@ Table 10: Efficacy results in DESTINY-Gastric04
 | Duration of Response (DOR) per Investigator Assessment                 | Duration of Response (DOR) per Investigator Assessment                 | Duration of Response (DOR) per Investigator Assessment                 |
 | Median, months (95% CI)                                                | 7.4 (5.7, 10.1)                                                        | 5.3 (4.1, 5.7)                                                         |
 
-§
-
-p-value for the difference in ORR uses the Cochran-Mantel-Haenszel test adjusted for stratification factor: HER2 status (IHC 3+ or IHC 2+/ISH+).
+§ p-value for the difference in ORR uses the Cochran-Mantel-Haenszel test adjusted for stratification factor: HER2 status (IHC 3+ or IHC 2+/ISH+).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -951,9 +989,11 @@ Store in a refrigerator (2 ºC - 8 ºC).
 
 Do not freeze.
 
-For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
+Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
+
+For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -1010,7 +1050,7 @@ EU/1/20/1508/001
 
 Date of first authorisation: 18 January 2021
 
-Date of latest renewal: 28 October 2024
+Date of latest renewal: 21 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1170,52 +1210,47 @@ Enhertu should not be substituted with trastuzumab or trastuzumab emtansine.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Do not freeze.
 
+Store in the original carton in order to protect from light.
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Daiichi Sankyo Europe GmbH Zielstattstrasse 48 81379 Munich Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER   |
-|-------|----------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/20/1508/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1251,11 +1286,13 @@ Cytotoxic
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Enhertu 100 mg powder for concentrate for solution for infusion trastuzumab deruxtecan
+## Enhertu 100 mg powder for concentrate for solution for infusion
 
-<!-- image -->
+trastuzumab deruxtecan
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1372,8 +1409,8 @@ Enhertu will be given to you in a hospital or clinic:
 - Before each Enhertu infusion, your doctor may give you medicines to help prevent nausea and vomiting.
 - If you get infusion-related symptoms, your doctor or nurse may slow down your infusion or interrupt or stop your treatment.
 - Before and during treatment with Enhertu, your doctor will carry out tests that may include:
-- › blood tests to check your blood cells, liver and kidneys.
-- › testing to check your heart and lungs.
+- ­ blood tests to check your blood cells, liver and kidneys.
+- ­ testing to check your heart and lungs.
 - Your doctor may lower your dose, or temporarily or permanently stop your treatment depending on your side effects.
 
 ## If you miss an appointment to get Enhertu
@@ -1462,7 +1499,7 @@ Enhertu will be stored by healthcare professionals at the hospital or clinic whe
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the outer carton and vial after EXP. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Store in a refrigerator (2 °C - 8 °C). Store in the original carton in order to protect from light. Do not freeze.
 - The prepared solution for infusion is stable for up to 24 hours at 2 °C - 8 °C protected from light and must be discarded thereafter.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
@@ -1471,10 +1508,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Enhertu contains
 
-- The active substance is trastuzumab deruxtecan.
+- ·
 
-One vial of powder for concentrate for solution for infusion contains 100 mg of trastuzumab deruxtecan. After reconstitution, one vial of 5 mL solution contains 20 mg/mL of trastuzumab deruxtecan.
+One vial of powder for concentrate for solution for infusion contains 100 mg of trastuzumab deruxtecan.
 
+- The active substance is trastuzumab deruxtecan. deruxtecan. After reconstitution, one vial of 5 mL solution contains 20 mg/mL of trastuzumab
 - The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, sucrose, polysorbate 80 (E433).
 
 ## What Enhertu looks like and contents of the pack
@@ -1499,7 +1537,7 @@ Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
 ## България
 
-АстраЗенека България ЕООД Тел.: +359 24455000
+АстраЗенека България ЕООД Тел .: +359 24455000
 
 ## Česká republika
 
@@ -1519,7 +1557,7 @@ AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E. Τηλ: +30 210 6871500
+AstraZeneca A.E. Τηλ : +30 210 6871500
 
 ## España
 
@@ -1551,9 +1589,7 @@ Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
 ## Magyarország
 
-AstraZeneca Kft.
-
-Tel.: +36 1 883 6500
+AstraZeneca Kft. Tel.: +36 1 883 6500
 
 ## Malta
 
@@ -1601,7 +1637,9 @@ Tel: +39-06 85 2551
 
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ
+
+Τηλ: + 357 22490305
 
 Latvija
 

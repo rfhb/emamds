@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-27 16:02:00
+document_datetime: 2026-07-06 17:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/calquence.html
 document_name: calquence.html
 version: success
-processing_time: 0.3084807
-conversion_datetime: 2026-05-29 20:16:25.620567
+processing_time: 0.1595729
+conversion_datetime: 2026-07-07 15:04:42.701165
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Calquence
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Calquence](#news-on)
 - [More information on Calquence](#more-information-on-calquence-914)
 - [More information on Calquence](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -59,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Calquence used?
+### How is Calquence used?
 
 Calquence can only be obtained with a prescription, and treatment should be started and supervised by a doctor with experience in the use of cancer medicines.
 
@@ -69,11 +68,11 @@ Calquence should not be used together with some medicines known as strong CYP3A 
 
 For more information about using Calquence, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Calquence work?
+### How does Calquence work?
 
 The active substance in Calquence, acalabrutinib, blocks an enzyme called Bruton's tyrosine kinase, which helps B cells to survive and grow. By blocking this enzyme, acalabrutinib is expected to slow down the build-up of cancerous B cells in CLL and MCL, thereby delaying progression of the cancer.
 
-## What benefits of Calquence have been shown in studies?
+### What benefits of Calquence have been shown in studies?
 
 **Chronic lymphocytic leukaemia**
 
@@ -91,7 +90,7 @@ In a study involving 124 adults with MCL that had come back or not responded to 
 
 A second study, involving 598 adults aged 65 years and older with previously untreated MCL, showed that Calquence given in combination with bendamustine and rituximab is more effective than placebo with bendamustine and rituximab at delaying death or worsening of the cancer. Patients given Calquence lived on average for 66 months without their cancer getting worse compared with 50 months for patients given placebo.
 
-## What are the risks associated with Calquence?
+### What are the risks associated with Calquence?
 
 For the full list of side effects and restrictions with Calquence, see the package leaflet.
 
@@ -99,7 +98,7 @@ The most common side effects with Calquence when used on its own (which may affe
 
 Additional side effects may occur when Calquence is used with other cancer medicines.
 
-## Why is Calquence authorised in the EU?
+### Why is Calquence authorised in the EU?
 
 Calquence showed clear benefits in patients with CLL, whether used on its own or in combination with other cancer treatments, in terms of how long patients lived without their cancer getting worse. Even though the studies involved older patients and those with other illnesses, the results are likely to apply to younger and fitter patients too.
 
@@ -111,13 +110,13 @@ Calquence's side effects are considered acceptable and in line with those of oth
 
 The European Medicines Agency therefore decided that Calquence's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Calquence?
+### What measures are being taken to ensure the safe and effective use of Calquence?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Calquence have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Calquence are continuously monitored. Side effects reported with Calquence are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Calquence
+### Other information about Calquence
 
 Calquence received a marketing authorisation valid throughout the EU on 5 November 2020.
 
@@ -131,7 +130,7 @@ English (EN) (151.7 KB - PDF)
 
 [View](/en/documents/overview/calquence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-630)
+[Other languages (22)](#file-language-dropdown-460)
 
 български (BG) (178.45 KB - PDF)
 
@@ -163,7 +162,7 @@ Deutsch (DE) (155.38 KB - PDF)
 
 [View](/de/documents/overview/calquence-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (148.83 KB - PDF)
+eesti (ET) (148.83 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 15/07/2025
 
@@ -193,13 +192,13 @@ italiano (IT) (150.36 KB - PDF)
 
 [View](/it/documents/overview/calquence-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (183.75 KB - PDF)
+latviešu (LV) (183.75 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/lv/documents/overview/calquence-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (177.13 KB - PDF)
+lietuvių (LT) (177.13 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 15/07/2025
 
@@ -253,7 +252,7 @@ slovenščina (SL) (175.2 KB - PDF)
 
 [View](/sl/documents/overview/calquence-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (149.42 KB - PDF)
+suomi (FI) (149.42 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 15/07/2025
 
@@ -267,9 +266,9 @@ svenska (SV) (149.77 KB - PDF)
 
 Calquence : EPAR - Risk management plan
 
-English (EN) (1.08 MB - PDF)
+English (EN) (959.22 KB - PDF)
 
-**First published:** 11/11/2020 **Last updated:** 15/07/2025
+**First published:** 11/11/2020 **Last updated:** 06/07/2026
 
 [View](/en/documents/rmp/calquence-epar-risk-management-plan_en.pdf)
 
@@ -283,7 +282,7 @@ English (EN) (993.02 KB - PDF)
 
 [View](/en/documents/product-information/calquence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-451)
+[Other languages (24)](#file-language-dropdown-49)
 
 български (BG) (1.06 MB - PDF)
 
@@ -315,7 +314,7 @@ Deutsch (DE) (1.05 MB - PDF)
 
 [View](/de/documents/product-information/calquence-epar-product-information_de.pdf)
 
-eesti keel (ET) (1008.32 KB - PDF)
+eesti (ET) (1008.32 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
@@ -339,25 +338,19 @@ hrvatski (HR) (1.06 MB - PDF)
 
 [View](/hr/documents/product-information/calquence-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
-
-**First published:** 11/11/2020 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/calquence-epar-product-information_is.pdf)
-
 italiano (IT) (1.05 MB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/calquence-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.07 MB - PDF)
+latviešu (LV) (1.07 MB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/calquence-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.09 MB - PDF)
+lietuvių (LT) (1.09 MB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
@@ -380,12 +373,6 @@ Nederlands (NL) (1016 KB - PDF)
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/calquence-epar-product-information_nl.pdf)
-
-norsk (NO) (1006.89 KB - PDF)
-
-**First published:** 11/11/2020 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/calquence-epar-product-information_no.pdf)
 
 polski (PL) (1.11 MB - PDF)
 
@@ -417,7 +404,7 @@ slovenščina (SL) (1.01 MB - PDF)
 
 [View](/sl/documents/product-information/calquence-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.03 MB - PDF)
+suomi (FI) (1.03 MB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 27/05/2026
 
@@ -429,6 +416,18 @@ svenska (SV) (957.2 KB - PDF)
 
 [View](/sv/documents/product-information/calquence-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.05 MB - PDF)
+
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
+
+[View](/is/documents/product-information/calquence-epar-product-information_is.pdf)
+
+norsk (NO) (1006.89 KB - PDF)
+
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
+
+[View](/no/documents/product-information/calquence-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000332092
 
 26/05/2026
@@ -437,7 +436,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -455,7 +455,7 @@ English (EN) (23.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-378)
+[Other languages (24)](#file-language-dropdown-40)
 
 български (BG) (28.52 KB - PDF)
 
@@ -487,7 +487,7 @@ Deutsch (DE) (24.32 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (24.55 KB - PDF)
+eesti (ET) (24.55 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
@@ -511,25 +511,19 @@ hrvatski (HR) (23.85 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (23.25 KB - PDF)
-
-**First published:** 11/11/2020 **Last updated:** 06/03/2023
-
-[View](/is/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (23.02 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/it/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (24 KB - PDF)
+latviešu (LV) (24 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/lv/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (25.62 KB - PDF)
+lietuvių (LT) (25.62 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
@@ -552,12 +546,6 @@ Nederlands (NL) (23.15 KB - PDF)
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/nl/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (24.19 KB - PDF)
-
-**First published:** 11/11/2020 **Last updated:** 06/03/2023
-
-[View](/no/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.46 KB - PDF)
 
@@ -589,7 +577,7 @@ slovenščina (SL) (23.22 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (22.41 KB - PDF)
+suomi (FI) (22.41 KB - PDF)
 
 **First published:** 11/11/2020 **Last updated:** 06/03/2023
 
@@ -601,28 +589,31 @@ svenska (SV) (23.75 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (23.25 KB - PDF)
+
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
+
+[View](/is/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (24.19 KB - PDF)
+
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
+
+[View](/no/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Calquence
-
-Active substance
-
-- acalabrutinib
-- acalabrutinib maleate
-
-International non-proprietary name (INN) or common name
-
-acalabrutinib
-
-Therapeutic area (MeSH)
-
-Leukemia, Lymphocytic, Chronic, B-Cell
-
-Anatomical therapeutic chemical (ATC) code
-
-L01EL02
+- **Name of medicine**
+    - Calquence
+- **Active substance**
+        - acalabrutinib
+        - acalabrutinib maleate
+- **International non-proprietary name (INN) or common name**
+    - acalabrutinib
+- **Therapeutic area (MeSH)**
+    - Leukemia, Lymphocytic, Chronic, B-Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EL02
 
 ### Pharmacotherapeutic group
 
@@ -630,31 +621,28 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Calquence as monotherapy or in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL). Calquence in combination with venetoclax with or without obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL). Calquence as monotherapy is indicated for the treatment of adult patients with chronic lymphocytic leukaemia (CLL) who have received at least one prior therapy. Calquence in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who are not eligible for autologous stem cell transplant (ASCT). Calquence as monotherapy is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) not previously treated with a BTK inhibitor.
+Calquence as monotherapy or in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL).
+
+Calquence in combination with venetoclax with or without obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL).
+
+Calquence as monotherapy is indicated for the treatment of adult patients with chronic lymphocytic leukaemia (CLL) who have received at least one prior therapy.
+
+Calquence in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who are not eligible for autologous stem cell transplant (ASCT).
+
+Calquence as monotherapy is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) not previously treated with a BTK inhibitor.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005299
-
-Marketing authorisation holder
-
-AstraZeneca AB
-
-151 85 Sodertalje
-
-Opinion adopted
-
-05/11/2020
-
-Marketing authorisation issued
-
-05/11/2020
-
-Revision
-
-12
+- **EMA product number**
+    - EMEA/H/C/005299
+- **Marketing authorisation holder**
+    - AstraZeneca AB 151 85 Sodertalje  Sweden
+- **Opinion adopted**
+    - 05/11/2020
+- **Marketing authorisation issued**
+    - 05/11/2020
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -662,7 +650,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Calquence : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -750,7 +738,7 @@ English (EN) (520.03 KB - PDF)
 
 [View](/en/documents/variation-report/calquence-h-c-005299-x-0009-g-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Calquence : EPAR - Public assessment report
 
@@ -808,13 +796,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 - [EMEA-001796-PIP03-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001796-pip03-16-m03)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Rare diseases](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A64)
-
 **This page was last updated on**
 
-27/05/2026
+06/07/2026
 
 ## Share this page

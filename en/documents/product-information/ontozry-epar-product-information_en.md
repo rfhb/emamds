@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-03 09:16:00
-document_pages: 50
+document_datetime: 2026-07-01 14:57:43
+document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ontozry-epar-product-information_en.pdf
 document_name: ontozry-epar-product-information_en.pdf
 version: success
-processing_time: 14.4172133
-conversion_datetime: 2025-12-30 07:47:30.375949
+processing_time: 14.6594256
+conversion_datetime: 2026-07-07 17:22:31.937023
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -199,13 +199,17 @@ Drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life
 
 At the time of prescription, patients should be advised of the signs and symptoms of DRESS and monitored closely for skin reactions. Symptoms of DRESS include typically, although not exclusively, fever, rash associated with other organ system involvement, lymphadenopathy, liver function tests abnormalities and eosinophilia. It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If signs and symptoms suggestive of these reactions appear, cenobamate should be withdrawn immediately and an alternative treatment considered (as appropriate).
 
-## QT-shortening
-
-A dose-dependent shortening of the QTcF interval has been observed with cenobamate. Reductions of the QTcF interval below 340 msec were not observed (see section 5.1). In clinical trials there was no
-
 <div style=\"page-break-after: always\"></div>
 
-evidence that the combination of cenobamate with other antiepileptic medicines led to further QTshortening. Clinicians should use caution when prescribing cenobamate in combination with other medicinal products that are known to shorten the QT.
+## Liver injury
+
+Increased levels of hepatic enzymes and rare cases of severe liver injury with hepatic failure have been reported in patients treated with cenobamate. Many cases occurred in the context of a polytherapy with other antiseizure medications (see section 4.8).
+
+Serum transaminases (ALT and AST), gamma-glutamyl transferase (GGT), alkaline phosphatase and total bilirubin should be evaluated before initiation of cenobamate and monitored during treatment. If liver injury is suspected or detected, dose reduction or discontinuation of cenobamate should be considered.
+
+## QT-shortening
+
+A dose-dependent shortening of the QTcF interval has been observed with cenobamate. Reductions of the QTcF interval below 340 msec were not observed (see section 5.1). In clinical trials there was no evidence that the combination of cenobamate with other antiepileptic medicines led to further QTshortening. Clinicians should use caution when prescribing cenobamate in combination with other medicinal products that are known to shorten the QT.
 
 Familial Short QT syndrome is a rare genetic syndrome, which is associated with an increased risk of sudden death and ventricular arrhythmias, particularly ventricular fibrillation. Cenobamate must not be used in patients with Familial Short-QT syndrome (see section 4.3).
 
@@ -227,46 +231,47 @@ Concomitant use of cenobamate with other CNS depressants, including alcohol, bar
 
 Interactions with other anti-epileptic drug
 
-| Drug type or substrate   | Clinical recommendation                                                                                                                                                                                            | Effect on PK parameters                                                                                                                                                                                                                                                          |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Anti-epileptic drug      | Anti-epileptic drug                                                                                                                                                                                                | Anti-epileptic drug                                                                                                                                                                                                                                                              |
-| phenytoin                | No dose adjustment of cenobamate is required. Phenytoin concentrations should be monitored during titration of cenobamate, and based on individual response, the dose of phenytoin may need to be reduced.         | ↑ phenytoin plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg/day and phenytoin 300 mg/day slightly reduced cenobamate exposures (C max by -27%, AUC by -28%), and increased phenytoin exposures (C max by 67%, AUC by 84%). |
-| phenobarbital            | No dose adjustment of cenobamate is required. Concentrations of phenobarbital should be monitored during cenobamate titration, and based on individual response, the dose of phenobarbital may need to be reduced. | ↑ phenobarbital plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg/day and phenobarbital 90 mg/day did not cause clinically meaningful changes in cenobamate                                                                  |
+| Drug type or substrate   | Clinical recommendation                                                                                                        | Effect on PK parameters                                                                                                   |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Anti-epileptic drug      | Anti-epileptic drug                                                                                                            | Anti-epileptic drug                                                                                                       |
+| phenytoin                | No dose adjustment of cenobamate is required. Phenytoin concentrations should be monitored during titration of cenobamate, and | ↑ phenytoin plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg/day and |
 
 <div style=\"page-break-after: always\"></div>
 
-|               |                                                                                                                                                                                                                                                                                            | exposure but led to increased phenobarbital exposures (C max by 34% and AUC by 37%).                                                                                                                                                                                                                                                              |
+|               | based on individual response, the dose of phenytoin may need to be reduced.                                                                                                                                                                                                                | phenytoin 300 mg/day slightly reduced cenobamate exposures (C max by -27%, AUC by -28%), and increased phenytoin exposures (C max by 67%, AUC by 84%).                                                                                                                                                                                            |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| phenobarbital | No dose adjustment of cenobamate is required. Concentrations of phenobarbital should be monitored during cenobamate titration, and based on individual response, the dose of phenobarbital may need to be reduced.                                                                         | ↑ phenobarbital plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg/day and phenobarbital 90 mg/day did not cause clinically meaningful changes in cenobamate exposure but led to increased phenobarbital exposures (C max by 34% and AUC by 37%).                                              |
 | clobazam      | No dose adjustment of cenobamate is required. Due to a possible increase in exposure of the active metabolite of clobazam (N- desmethylclobazam), related to the induction of CYP3A4 (formation) and the inhibition of CYP2C19 (elimination), the dose of clobazam may need to be reduced. | ↑ clobazam active metabolite plasma concentrations Pharmacometric analyses of data from healthy subjects and patients predict that clobazam slightly increases cenobamate exposures (by 24%).                                                                                                                                                     |
 | lamotrigine   | Depending on individual response, the dose of cenobamate may need to be increased. Based on subpopulation analyses of patients taking concomitant lamotrigine, in individual cases, higher doses (200 - 400 mg/day) of cenobamate may be required for efficacy.                            | ↓ lamotrigine plasma concentrations Pharmacometric analyses of data from healthy subjects and patients showed that concomitant administration of cenobamate with lamotrigine had no effect on cenobamate exposures, but resulted in dose- dependent decreases in lamotrigine concentrations (by -21%, -35%, and -52% for cenobamate 100, 200, and |
-| carbamazepine | No clinically meaningful decreases in efficacy were observed in patients taking concomitant carbamazepine. No dose adjustments are required for both carbamazepine and cenobamate.                                                                                                         | ↓ carbamazepine plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily and carbamazepine 200 mg twice daily showed no significant change in exposure of cenobamate, but carbamazepine exposures were slightly reduced (C max reduced by 23%, AUC reduced by                             |
-| Valproic acid | No dose adjustments of cenobamate or valproic acid are required.                                                                                                                                                                                                                           | 24%). No clinically relevant effect of valproic acid In a study in healthy subjects, concomitant administration of cenobamate 150 mg once daily and valproic acid 1,000 mg once daily showed no significant changes in exposures of either medicinal product.                                                                                     |
+| carbamazepine | No clinically meaningful decreases in efficacy were observed in patients taking concomitant carbamazepine. No dose adjustments are required for both carbamazepine and cenobamate.                                                                                                         | 400 mg/day). ↓ carbamazepine plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily and carbamazepine 200 mg twice daily showed no significant change in exposure of cenobamate, but                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                             |                                                                                               | Pharmacometric analyses of data from healthy subjects and patients indicated that concomitant administration of cenobamate with valproic acid did not affect cenobamate exposures and had no clinically relevant reductions in valproic acid concentration.                                                                                                                                                 |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| lacosamide, levetiracetam and oxcarbazepine | No dose adjustments are required for cenobamate, lacosamide, levetiracetam, or oxcarbazepine. | No clinically relevant effect of lacosamide, levetiracetam and oxcarbazepine Pharmacometric analyses of data from healthy subjects and patients indicated that concomitant administration with lacosamide, levetiracetam, or oxcarbazepine did not affect the exposure of cenobamate, and cenobamate did not have a clinically relevant effect on exposures of lacosamide, levetiracetam, or oxcarbazepine. |
+|                                             |                                                                                               | carbamazepine exposures were slightly reduced (C max reduced by 23%, AUC reduced by 24%).                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Valproic acid                               | No dose adjustments of cenobamate or valproic acid are required.                              | No clinically relevant effect of valproic acid In a study in healthy subjects, concomitant administration of cenobamate 150 mg once daily and valproic acid 1,000 mg once daily showed no significant changes in exposures of either medicinal product. Pharmacometric analyses of data from healthy subjects and patients indicated that concomitant administration of cenobamate with valproic acid did not affect cenobamate exposures and had no clinically relevant reductions in valproic acid concentration. |
+| lacosamide, levetiracetam and oxcarbazepine | No dose adjustments are required for cenobamate, lacosamide, levetiracetam, or oxcarbazepine. | No clinically relevant effect of lacosamide, levetiracetam and oxcarbazepine Pharmacometric analyses of data from healthy subjects and patients indicated that concomitant administration with lacosamide, levetiracetam, or oxcarbazepine did not affect the exposure of cenobamate, and cenobamate did not have a clinically relevant effect on exposures of lacosamide, levetiracetam, or oxcarbazepine.                                                                                                         |
 
 ## Other medicinal products
 
-| Drug or Substrate Type       | Clinical Recommendation                                                                                                                                                     | Effect on PK parameters                                                                                                                                                                                                                                                                                                                                         |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oral contraceptives (CYP3A4) | Women of reproductive potential concomitantly using oral contraceptives should practice additional or alternative non-hormonal measures of birth control (see section 4.6). | ↓ oral contraceptives plasma concentrations Cenobamate showed a dose- dependent induction of CYP3A4, reducing exposures (AUC) of the CYP3A4 substrate, midazolam 2 mg by 72% with cenobamate 200 mg/day in healthy subjects. Since hormonal contraceptives may also be metabolized by CYP3A4, their efficacy may be reduced by concomitant use with cenobamate. |
-| CYP3A4 substrates            | An increase in the dose of medicines metabolized by CYP3A4 may be required when used concomitantly with cenobamate.                                                         | ↓ CYP3A4 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 100 and 200 mg once daily reduced exposures (AUC) of the CYP3A4 substrate, midazolam 2 mg by 27% and 72%, respectively.                                                                                                                      |
+| Drug or Substrate Type       | Clinical Recommendation                                                                                                                                                     | Effect on PK parameters                                                                                                                                                                                                                                                                                             |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oral contraceptives (CYP3A4) | Women of reproductive potential concomitantly using oral contraceptives should practice additional or alternative non-hormonal measures of birth control (see section 4.6). | ↓ oral contraceptives plasma concentrations Cenobamate showed a dose- dependent induction of CYP3A4, reducing exposures (AUC) of the CYP3A4 substrate, midazolam 2 mg by 72% with cenobamate 200 mg/day in healthy subjects. Since hormonal contraceptives may also be metabolized by CYP3A4, their efficacy may be |
 
 <div style=\"page-break-after: always\"></div>
 
-| CYP2B6 Substrates   | An increase in the dose of medicines metabolized by CYP2B6 may be required when used concomitantly with cenobamate.                            | ↓ CYP2B6 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily reduced exposures of the CYP2B6 substrate, bupropion 150 mg (C max reduced by 23%, AUC reduced by 39%).                            |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CYP2C19 Substrates  | A dose reduction of medicines metabolized by CYP2C19 may be required when used concomitantly with cenobamate.                                  | ↑ CYP2C19 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily increased exposures of the CYP2C19 substrate, omeprazole 20 mg (C max increase by 83%, AUC increased by 107%).                    |
-| OAT3 substrates     | Concomitant administration of cenobamate and medicinal products transported by OAT3 may result in higher exposure of these medicinal products. | ↑ OAT3 substrates plasma concentrations In vitro studies have shown that cenobamate inhibits OAT3, a transporter predominantly involved in the elimination of certain medicines (e.g. baricitinib, cefaclor, empagliflozin, penicillin G, ritobegron, and sitagliptin). |
+|                    |                                                                                                                                                | reduced by concomitant use with cenobamate.                                                                                                                                                                                                                             |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CYP3A4 substrates  | An increase in the dose of medicines metabolized by CYP3A4 may be required when used concomitantly with cenobamate.                            | ↓ CYP3A4 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 100 and 200 mg once daily reduced exposures (AUC) of the CYP3A4 substrate, midazolam 2 mg by 27% and 72%, respectively.                              |
+| CYP2B6 Substrates  | An increase in the dose of medicines metabolized by CYP2B6 may be required when used concomitantly with cenobamate.                            | ↓ CYP2B6 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily reduced exposures of the CYP2B6 substrate, bupropion 150 mg (C max reduced by 23%, AUC reduced by 39%).                            |
+| CYP2C19 Substrates | A dose reduction of medicines metabolized by CYP2C19 may be required when used concomitantly with cenobamate.                                  | ↑ CYP2C19 substrates plasma concentrations In a study in healthy subjects, concomitant administration of cenobamate 200 mg once daily increased exposures of the CYP2C19 substrate, omeprazole 20 mg (C max increase by 83%, AUC increased by 107%).                    |
+| OAT3 substrates    | Concomitant administration of cenobamate and medicinal products transported by OAT3 may result in higher exposure of these medicinal products. | ↑ OAT3 substrates plasma concentrations In vitro studies have shown that cenobamate inhibits OAT3, a transporter predominantly involved in the elimination of certain medicines (e.g. baricitinib, cefaclor, empagliflozin, penicillin G, ritobegron, and sitagliptin). |
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential and contraception in males and females
+Women of childbearing potential and contraception in males and females Cenobamate is not recommended in women of childbearing potential not using contraception. Women of reproductive potential concomitantly using oral contraceptives should practice additional or alternative non-hormonal measures of birth control during treatment with cenobamate and until 4 weeks after treatment discontinuation (see section 4.5).
 
-Cenobamate is not recommended in women of childbearing potential not using contraception. Women of reproductive potential concomitantly using oral contraceptives should practice additional or alternative non-hormonal measures of birth control during treatment with cenobamate and until 4 weeks after treatment discontinuation (see section 4.5).
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -274,13 +279,9 @@ Cenobamate is not recommended in women of childbearing potential not using contr
 
 It has been shown that in the offspring of treated women with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3% in the general population. In the treated population, an increase in malformations has been noted with polytherapy; however, the extent to which the treatment and/or the underlying condition is responsible has not been elucidated. Discontinuation of anti-epileptic treatments may result in exacerbation of the disease which could be harmful to the mother and the foetus.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Risk related to cenobamate
 
-There are no adequate data from the use of Ontozry in pregnant women.
-
-Animal studies have shown that cenobamate crosses the placenta of rats. Studies in animals have shown reproductive toxicity at levels below clinical exposure (see section 5.3). Ontozry should not be used during pregnancy unless the clinical condition of the woman requires treatment with cenobamate. Women of childbearing potential must use effective contraception during use of cenobamate and until 4 weeks after treatment discontinuation (see section 4.5).
+There are no adequate data from the use of Ontozry in pregnant women. Animal studies have shown that cenobamate crosses the placenta of rats. Studies in animals have shown reproductive toxicity at levels below clinical exposure (see section 5.3). Ontozry should not be used during pregnancy unless the clinical condition of the woman requires treatment with cenobamate. Women of childbearing potential must use effective contraception during use of cenobamate and until 4 weeks after treatment discontinuation (see section 4.5).
 
 ## Breast-feeding
 
@@ -292,7 +293,7 @@ The effects of cenobamate on human fertility are unknown. Animal data are insuff
 
 ## 4.7 Effects on ability to drive and use machines
 
-Ontozry has moderate influence on the ability to drive and use machines.
+## Ontozry has moderate influence on the ability to drive and use machines.
 
 Cenobamate may cause somnolence, dizziness, fatigue, impaired vision and other CNS-related symptoms, which may influence the ability to drive or use machines. Patients are advised not to drive a vehicle, operate complex machinery or engage in other potentially hazardous activities until it is known whether cenobamate affects their ability to perform these tasks (see section 4.5).
 
@@ -304,7 +305,11 @@ The most commonly reported adverse reactions were somnolence, dizziness, fatigue
 
 The discontinuation rates because of adverse reactions in clinical trials were 5%, 6% and 19% for patients randomised to receive cenobamate at doses of 100 mg/day, 200 mg/day and 400 mg/day respectively, compared to 3% in patients randomised to receive placebo. The 400 mg dose was more associated with adverse reactions especially when taken concomitantly with clobazam.
 
-The adverse reactions most commonly leading to discontinuation, in descending order of frequency, were: ataxia (1.6% vs 0.5% placebo), dizziness (1.6% vs 0.5% placebo), somnolence (1.4% vs 0.5% placebo), nystagmus (0.7% vs 0 % placebo), vertigo (0.7% vs 0 % placebo) and diplopia (0.5% vs 0 % placebo). These adverse reactions are dose dependent and the titration scheme should be strictly followed).
+The adverse reactions most commonly leading to discontinuation, in descending order of frequency, were: ataxia (1.6% vs 0.5% placebo), dizziness (1.6% vs 0.5% placebo), somnolence (1.4% vs 0.5% placebo), nystagmus (0.7% vs 0 % placebo), vertigo (0.7% vs 0 % placebo) and diplopia (0.5% vs 0 %
+
+<div style=\"page-break-after: always\"></div>
+
+placebo). These adverse reactions are dose dependent and the titration scheme should be strictly followed).
 
 ## Tabulated list of adverse reactions
 
@@ -312,14 +317,10 @@ Adverse reactions reported in clinical studies are listed in table 2 per system 
 
 Table 2: Tabulated list of adverse reactions
 
-| System organ class      | Frequency   | Adverse reactions from clinical trials   |
-|-------------------------|-------------|------------------------------------------|
-| Immune system disorders | Uncommon    | Hypersensitivity*                        |
-
-<div style=\"page-break-after: always\"></div>
-
-| Psychiatric disorders                 | Common      | Confusional state, Irritability                               |
+| System organ class                    | Frequency   | Adverse reactions from clinical trials                        |
 |---------------------------------------|-------------|---------------------------------------------------------------|
+| Immune system disorders               | Uncommon    | Hypersensitivity*                                             |
+| Psychiatric disorders                 | Common      | Confusional state, Irritability                               |
 | Psychiatric disorders                 | Uncommon    | Suicidal ideation                                             |
 | Nervous system disorders              | Very common | Somnolence*, Coordination and Gait abnormalities*, Headache   |
 | Nervous system disorders              | Common      | Dysarthria, Nystagmus, Aphasia, Memory impairment             |
@@ -327,17 +328,24 @@ Table 2: Tabulated list of adverse reactions
 | Gastrointestinal disorders            | Common      | Constipation, Diarrhoea, Nausea, Vomiting, Dry mouth          |
 | Skin and subcutaneous tissue disorder | Common      | Rash*                                                         |
 | Skin and subcutaneous tissue disorder | Rare        | Drug reaction with eosinophilia and systemic symptoms (DRESS) |
-| Investigations                        | Common      | Hepatic enzyme increased*                                     |
+| Hepatobiliary disorders               | Rare        | Liver injury                                                  |
+| Hepatobiliary disorders               | Common      | Hepatic enzyme increased*                                     |
 
-*Grouped terms: Somnolence: Somnolence, Fatigue, Sedation and Hypersomnia; Coordination and Gait abnormalities : Dizziness, Vertigo, Balance disorder, Ataxia, Gait disturbance and abnormal coordination; Hypersensitivity : Hypersensitivity, Drug hypersensitivity, Eyelid oedema; Rash: Rash, Rash erythematous, Rash generalised, Rash macular, Rash maculo-papular, Rash morbilliform, Rash papular, Rash pruritic; Hepatic enzyme increased : Alanine aminotransferase increased, Aspartate aminotransferase increased, Hepatic enzyme increased, Hepatic function abnormal, Transaminases increased.
+*Grouped terms: Somnolence: Somnolence, Fatigue, Sedation and Hypersomnia; Coordination and Gait abnormalities : Dizziness, Vertigo, Balance disorder, Ataxia, Gait disturbance and abnormal coordination; Hypersensitivity : Hypersensitivity, Drug hypersensitivity, Eyelid oedema; Rash: Rash, Rash erythematous, Rash generalised, Rash macular, Rash maculo-papular, Rash morbilliform, Rash papular, Rash pruritic; Hepatic enzyme increased : Alanine aminotransferase increased, Aspartate aminotransferase increased, Hepatic enzyme increased, Hepatic function abnormal, Transaminases increased, Gamma glutamyltransferase increased.
 
 ## Description of selected adverse reactions
 
-## Drug reaction with eosinophilia and systemic symptoms (DRESS)
+Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 Three cases of DRESS were reported within 2 to 4 weeks of starting cenobamate in studies with high starting doses (50 mg or 100 mg once daily) and weekly or faster titration. When cenobamate was initiated at 12.5 mg/day and titrated every two weeks, in an open-label safety study of 1,340 epilepsy patients, no cases of DRESS were reported.
 
 At the time of prescription, patients should be advised of the signs and symptoms of DRESS and monitored closely for skin reactions. Symptoms of DRESS include typically, although not exclusively, fever, rash associated with other organ system involvement, lymphadenopathy, liver function tests abnormalities and eosinophilia. It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If signs and symptoms suggestive of these reactions appear, cenobamate should be withdrawn immediately and an alternative treatment considered (as appropriate). Ontozry should always be initiated at 12.5 mg once daily and titrated not faster than once every two weeks (see sections 4.2 and 4.4.).
+
+<div style=\"page-break-after: always\"></div>
+
+## Hepatobiliary disorders
+
+Liver injury, including marked elevations of hepatic transaminases and bilirubin as well as hepatic failure, has been reported during treatment with cenobamate. Many cases occurred in the context of a polytherapy with other antiseizure medications. In most cases, dose reduction or discontinuation of cenobamate was followed by prompt normalization of serum transaminases (see section 4.4).
 
 ## Hypersensitivity
 
@@ -346,8 +354,6 @@ Four (0.9%) Cenobamate treated patients and one (0.5%) placebo patient experienc
 ## Elderly
 
 Safety data from the Pooled Double-Blind and All Phase 2/3 datasets along with PK data from a Phase 1 study showed no additional safety risks in elderly subjects &gt;65 years of age at study entry. Additional subgrouping by age for subjects who were &gt;65 years of age during study participation showed similar results for adverse reactions in these 87 subjects as compared with the 51 subjects who were &gt;65 years of age at study entry (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -369,6 +375,8 @@ Cenobamate is a small molecule with a dual mechanism of action. It is a positive
 
 ## Pharmacodynamic effects
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cardiac electrophysiology
 
 In a placebo-controlled QT study in healthy volunteers, dose-dependent shortening of the QTcF interval has been observed with c enobamate. The mean ΔΔQTc F is -10.8 [CI: -13.4, -8.2] msec for 200 mg once daily and -18.4 [CI: -21.5, -15.2] msec for 500 mg once daily (1.25 times the maximum recommended dosage). Reductions of the QTc interval below 340 msec were not observed (see section 4.4).
@@ -379,17 +387,15 @@ The efficacy of cenobamate as adjunctive therapy in focal-onset seizures was stu
 
 The study had an 8-week prospective baseline period, during which patients were required to have at least 3 or 4 partial-onset seizures per 28 days with no seizure-free period exceeding 3 to 4 weeks, followed by an 18-week treatment period including 12 weeks at fixed. The most commonly taken antiepileptic medicinal products at the time of study entry were levetiracetam, lamotrigine, carbamazepine and lacosamide. All subjects who entered the study continued to have seizures, despite a majority having had a history of treatment with 2 or more antiepileptic medicinal products. More than 80% of patients were taking two or more concomitant antiepileptic medicinal products at the time of study enrolment. The efficacy outcomes are summarised in table 3.
 
-<div style=\"page-break-after: always\"></div>
-
 The study compared doses of cenobamate 100 mg/day, 200 mg/day and 400 mg/day with placebo, on top of standard of care. Subjects continued stable treatment on one to three background antiepileptic medicinal products. Patients were started on a daily dose of 50 mg and subsequently increased by 50 mg/day every week until 200 mg/day was reached and then increased by 100 mg/day every week in subjects randomised to 400 mg/day.
 
 Table 3 shows the proportion of patients who exhibited a 50% or greater reduction in seizure frequency from baseline.
 
 Table 3: Proportion of patients exhibiting 50% or greater response in Study C017
 
-|                               | Standard of care   | Standard of care and cenobamate   | Standard of care and cenobamate   | Standard of care and cenobamate   |
+| Study                         | Standard of care   | Standard of care and cenobamate   | Standard of care and cenobamate   | Standard of care and cenobamate   |
 |-------------------------------|--------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-| Study                         | and placebo        | 100 mg/day                        | 200 mg/day                        | 400 mg/day                        |
+|                               | and placebo        | 100 mg/day                        | 200 mg/day                        | 400 mg/day                        |
 | Study C017                    | Study C017         | Study C017                        | Study C017                        | Study C017                        |
 |                               | n=102              | n=102                             | n=98                              | n=95                              |
 | 50% Responder rate 1          | 26 (25.5%)         | 41 (40.2%)                        | 55 (56.1%)                        | 61 (64.2%)                        |
@@ -399,17 +405,15 @@ Table 3: Proportion of patients exhibiting 50% or greater response in Study C017
 
 Figure 1 shows the percentage of patients by category of seizure response during the maintenance phase with increasingly stringent criteria for response.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1: Cumulative distribution of percent reduction in seizures from baseline by treatment group in the 12-week fixed-dose period in the Study
 
 <!-- image -->
 
-P-values presented for ≥ 50%, ≥75%, ≥ 90% and = 100% responders for pairwise comparisons for each cenobamate dose vs placebo from a Fisher's Exact Test.
+P-values presented for ≥ 50%, ≥ 75%, ≥ 90% and = 100% responders for pairwise comparisons for each cenobamate dose vs placebo from a Fisher's Exact Test.
 
-In the study, 4 of 102 (3.9%) patients in the cenobamate 100 mg/day group, 11 of 98 (11.2%) patients in the cenobamate 200 mg/day group, 20 of 95 (21.1%) patients in the cenobamate 400 mg/day group and 1 of 102 (1%) of patients in the placebo group obtained seizure freedom (100% reduction in seizures) during the 12-week fixed-dose phase. Similar responses were seen across subpopulations
-
-<div style=\"page-break-after: always\"></div>
-
-greater than or less than median seizure frequency, and greater than or less than median disease duration.
+In the study, 4 of 102 (3.9%) patients in the cenobamate 100 mg/day group, 11 of 98 (11.2%) patients in the cenobamate 200 mg/day group, 20 of 95 (21.1%) patients in the cenobamate 400 mg/day group and 1 of 102 (1%) of patients in the placebo group obtained seizure freedom (100% reduction in seizures) during the 12-week fixed-dose phase. Similar responses were seen across subpopulations greater than or less than median seizure frequency, and greater than or less than median disease duration.
 
 ## Long term open label study
 
@@ -426,6 +430,8 @@ The European Medicines Agency has deferred the obligation to submit the results 
 Cenobamate is well absorbed (at least 88% based on urine recovery) after oral administration, with median Tmax ranging from 1 to 4 hours after single- or multiple-dose administration under fasted condition over the range of 10 to 400 mg.
 
 Co-administration with a high-fat meal (800-1,000 kcal with 50% fat) showed no significant effect on the rate and the extent of absorption of cenobamate.
+
+<div style=\"page-break-after: always\"></div>
 
 Plasma exposures for cenobamate crushed tablets mixed in water, administered either orally or through a nasogastric tube, were comparable to whole tablets (confidence intervals for AUC and Cmax within 80-125%). The median Tmax for crushed tablets is 0.5 hours.
 
@@ -447,8 +453,6 @@ The Cmax of cenobamate increased proportionally with increasing doses following 
 
 ## Special populations
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
 Cenobamate plasma AUC was 1.4-fold to 1.5-fold higher in subjects with mild (CLcr 60 to &lt; 90 mL/min) and moderate (CLcr 30 to &lt; 60 mL/min) renal impairment following a single oral 200 mg dose of cenobamate compared to healthy controls. In subjects with severe (CLcr &lt; 30 mL/min) renal impairment, cenobamate plasma AUC did not change significantly compared to healthy controls following single oral 100 mg dose of cenobamate (see section 4.2), The effect of haemodialysis on cenobamate pharmacokinetics has not been studied.
@@ -464,6 +468,8 @@ There was no difference observed in the pharmacokinetics of cenobamate between m
 ## Ethnicity
 
 No clinically significant effect of ethnicity on the pharmacokinetics of cenobamate was noted in a population PK analysis of pooled data from clinical studies from subjects categorised as Asian, Black, Caucasian, Hispanic or other.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Body weight
 
@@ -489,8 +495,6 @@ Maximum doses in repeat dose toxicity studies were limited by the exaggerated CN
 
 Reproductive toxicity studies with once daily oral administration showed adverse effects on embryofoetal and postnatal development. No adverse effects were observed on fertility in a dedicated study in rats. However, systemic exposures at the respective NOAELs for the fertility, embryo-foetal development, pre- and postnatal development studies were below human exposure at the MRHD.
 
-<div style=\"page-break-after: always\"></div>
-
 Cenobamate did not show any teratogenic effects when orally administered twice daily to female rats and  once  daily  to  female  rabbits,  during  the  period  of  organogenesis.  However,  administration  of cenobamate to pregnant rabbits resulted in increased embryo-foetal mortality, at a dose level associated with maternal toxicity. The systemic exposure at the respective NOELs (no observed effect levels) was below human exposure at the MRHD.
 
 When cenobamate was administered to female rats throughout pregnancy and lactation, neurobehavioural impairment (increased auditory startle response) was observed in the offspring at all doses and decreased preweaning body weight gain and adverse reactions on female reproductive function (decreased numbers of corpora lutea, implantations and live foetuses) were seen in the offspring
@@ -503,19 +507,19 @@ The environmental risk assessment demonstrated that cenobamate is very persisten
 
 ## 6.1 List of excipients
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tablet and film-coated tablet content
 
 lactose monohydrate magnesium stearate (E470b) microcrystalline cellulose (E460) silica, colloidal anhydrous (E551) sodium starch glycolate
 
 ## Film-coating
 
-25 mg and 100 mg film-coated tablets indigo carmine aluminium lake (E132) iron oxide red (E172) iron oxide yellow (E172) macrogol partially hydrolysed poly(vinyl alcohol) (E1203) talc (E553b) titanium dioxide (E171)
+25 mg and 100 mg film-coated tablets indigo carmine aluminium lake (E132) iron oxide red (E172) iron oxide yellow (E172) macrogol talc (E553b) titanium dioxide (E171)
 
-50 mg film-coated tablets iron oxide yellow (E172) macrogol partially hydrolysed poly(vinyl alcohol) (E1203) talc (E553b) titanium dioxide (171)
+150 mg and 200 mg film-coated tablets iron oxide red (E172) iron oxide yellow (E172) macrogol talc (E553b) titanium dioxide (E171)
 
-150 mg and 200 mg film-coated tablets iron oxide red (E172) iron oxide yellow (E172) macrogol partially hydrolysed poly(vinyl alcohol) (E1203) talc (E553b) titanium dioxide (E171)
-
-<div style=\"page-break-after: always\"></div>
+partially hydrolysed poly(vinyl alcohol) (E1203) 50 mg film-coated tablets iron oxide yellow (E172) macrogol partially hydrolysed poly(vinyl alcohol) (E1203) talc (E553b) titanium dioxide (171) partially hydrolysed poly(vinyl alcohol) (E1203)
 
 ## 6.2 Incompatibilities
 
@@ -537,11 +541,13 @@ Ontozry Treatment Initiation pack 12.5 mg tablets and 25 mg film-coated tablets 
 
 Ontozry 50 mg film-coated tablets 50 mg - packs of 14, 28 or 84
 
-Ontozry 100 mg film-coated tablets 100 mg - packs of 14, 28 or 84
+Ontozry 100 mg film-coated tablets
 
-Ontozry 150 mg film-coated tablets
+<div style=\"page-break-after: always\"></div>
 
-150 mg - packs of 14, 28 or 84
+100 mg - packs of 14, 28 or 84
+
+Ontozry 150 mg film-coated tablets 150 mg - packs of 14, 28 or 84
 
 Ontozry 200 mg film-coated tablets 200 mg - packs of 14, 28 or 84
 
@@ -551,7 +557,9 @@ Not all pack sizes may be marketed.
 
 Cenobamate is very persistent (vP) in aquatic systems. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-The crushed tablet can also be administered via a nasogastric feeding tube (NG), in this case the tablet can be crushed to a powder and mixed with water (25 ml). Refer to section 4.2 for detailed information on administration through a nasogastric tube.
+The crushed tablet can also be administered via a nasogastric feeding tube (NG), in this case the tablet can be crushed to a powder and mixed with water (25 ml).
+
+Refer to section 4.2 for detailed information on administration through a nasogastric tube.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -559,17 +567,15 @@ Angelini Pharma S.p.A Viale Amelia 70, 00181 Rome - Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1530/001 EU/1/21/1530/002 EU/1/21/1530/003 EU/1/21/1530/004
-
-<div style=\"page-break-after: always\"></div>
-
-EU/1/21/1530/005 EU/1/21/1530/006 EU/1/21/1530/007 EU/1/21/1530/008 EU/1/21/1530/009 EU/1/21/1530/010 EU/1/21/1530/011 EU/1/21/1530/012 EU/1/21/1530/013
+```
+EU/1/21/1530/001 EU/1/21/1530/002 EU/1/21/1530/003 EU/1/21/1530/004 EU/1/21/1530/005 EU/1/21/1530/006 EU/1/21/1530/007 EU/1/21/1530/008 EU/1/21/1530/009 EU/1/21/1530/010 EU/1/21/1530/011 EU/1/21/1530/012 EU/1/21/1530/013
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26/03/2021
 
-Date of latest renewal:
+Date of latest renewal: 17/11/2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -637,7 +643,9 @@ CARTON - TREATMENT INITIATION PACK
 
 Ontozry 12.5 mg tablets
 
-Ontozry 25 mg film-coated tablets cenobamate
+Ontozry 25 mg film-coated tablets
+
+cenobamate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -722,7 +730,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ontozry 12.5 mg tablets cenobamate
+Ontozry 12.5 mg tablets
+
+cenobamate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -784,7 +794,7 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Ontozry 12.5 mg
+Ontozry 12.5 mg Ontozry 12.5 mg tablets cenobamate Angelini Pharma S.p.A (logo)
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -801,12 +811,8 @@ Ontozry 12.5 mg
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-Ontozry 12.5 mg tablets cenobamate
-
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
-
-Angelini Pharma S.p.A (logo)
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -831,7 +837,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ontozry 25 mg film-coated tablets cenobamate
+Ontozry 25 mg film-coated tablets
+
+cenobamate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1168,7 +1176,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ontozry 150 mg film-coated tablets cenobamate
+Ontozry 150 mg film-coated tablets
+
+cenobamate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1283,7 +1293,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ontozry 200 mg film-coated tablets cenobamate
+Ontozry 200 mg film-coated tablets
+
+cenobamate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1394,7 +1406,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Ontozry 12.5 mg tablets Ontozry 25 mg film-coated tablets Ontozry 50 mg film-coated tablets Ontozry 100 mg film-coated tablets Ontozry 150 mg film-coated tablets Ontozry 200 mg film-coated tablets cenobamate
+Ontozry 12.5 mg tablets Ontozry 25 mg film-coated tablets Ontozry 50 mg film-coated tablets Ontozry 100 mg film-coated tablets Ontozry 150 mg film-coated tablets Ontozry 200 mg film-coated tablets
+
+cenobamate
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1436,7 +1450,9 @@ Talk to your doctor or pharmacist before taking Ontozry or during treatment if:
 - -you have thoughts of harming or killing yourself. A few people being treated with anti-epileptic medicines such as Ontozry have had thoughts of harming or killing themselves. If you have any of these thoughts at any time, contact your doctor immediately.
 - -you have a serious skin reaction which may include high temperature and other flu-like symptoms, rash on the face, rash spreading to other parts of the body, swollen glands (enlarged lymph nodes); and blood tests showing increased levels of liver enzymes and of a type of white blood cell (eosinophilia).
 
--
+## Liver disorders
+
+· Your doctor should do blood tests to check your liver function prior to your starting treatment with Ontozry and during your treatment with Ontozry. Contact your doctor or pharmacist immediately if you develop a sudden illness and particularly if it includes one, or some of the signs and symptoms described in Section 4 Liver disorders .
 
 ## Children and adolescents
 
@@ -1463,14 +1479,15 @@ Do not take this medicine with alcohol.  Ontozry can increase the effects of alc
 
 If you are pregnant or breast-feeding, think you may be pregnant, or are planning to have a baby, ask your doctor or pharmacist for advice before you take this medicine.
 
-Only take Ontozry during pregnancy if you and your doctor decide that it is absolutely necessary. You must use effective contraception during use of cenobamate and until 4 weeks after you stop taking this medicine. Ask your doctor for advice regarding effective measures of birth control. You should stop breast-feeding while taking Ontozry.
+Only take Ontozry during pregnancy if you and your doctor decide that it is absolutely necessary. You must use effective contraception during use of cenobamate and until 4 weeks after you stop taking this medicine. Ask your doctor for advice regarding effective measures of birth control.
+
+<div style=\"page-break-after: always\"></div>
+
+You should stop breast-feeding while taking Ontozry.
 
 ## Driving and using machines
 
 - -You may feel sleepy, dizzy or tired, and your vision may be reduced while taking Ontozry.
-
-<div style=\"page-break-after: always\"></div>
-
 - -These effects are more likely at the start of the treatment or after your dose is increased.
 - -Do not drive, cycle or use any tools or machines if your reaction are slowed down and until you know how the medicine affects you.
 
@@ -1517,9 +1534,9 @@ Talk to your doctor. You may feel dizzy, tired and sleepy.
 
 ## If you forget to take Ontozry
 
-Take the forgotten dose as soon as you remember, if fewer than 12 hours have passed since you should have taken it. If more than 12 hours have passed, skip the forgotten dose and take the next dose at your regular time. Do not take a double dose to make up for a forgotten dose.
-
 <div style=\"page-break-after: always\"></div>
+
+Take the forgotten dose as soon as you remember, if fewer than 12 hours have passed since you should have taken it. If more than 12 hours have passed, skip the forgotten dose and take the next dose at your regular time. Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking Ontozry
 
@@ -1531,9 +1548,15 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Tell your doctor immediately if you have any of the following serious side effects: Rare side effects (may affect up to 1 in 1,000 people):
+if you have any of the following serious side effects:
+
+Tell your doctor immediately Rare side effects (may affect up to 1 in 1,000 people):
 
 - -a serious skin reaction which may include fever and other flu-like symptoms, a rash on the face, rash spreading to other areas of the body, and swollen glands (enlarged lymph nodes). Blood tests may show increased levels of liver enzymes and of a type of white blood cell (eosinophilia).
+
+## Liver disorders
+
+- If you develop a sudden illness particularly if it includes nausea, repeated vomiting, extreme tiredness, abdominal pain, drowsiness, weakness, loss of appetite, upper stomach pain, jaundice (yellowing of the skin or whites of the eyes), unusually dark urine, pale or clay-coloured stools, or bruising more easily than normal. These may be signs of severe liver disorders (see Section 2).
 
 You may get the following other side effects with this medicine. Tell the doctor if you have any of the following:
 
@@ -1545,7 +1568,7 @@ Very common side effects (may affect more than 1 in 10 people):
 - -having problems with coordination of movements, having problems walking or keeping your balance (ataxia, gait disturbance, abnormal coordination)
 - -headache
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
 - -reduced memory, confusion
 - -excitability
@@ -1562,6 +1585,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 - -allergic reactions
 - -thoughts of harming or killing yourself.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -1571,8 +1596,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine does not require any special storage conditions.
 
@@ -1608,15 +1631,11 @@ One 200 mg film-coated tablet contains 200 mg cenobamate.
 
 Ontozry 12.5 mg are uncoated round white to off-white tablets with AV on one side and '12' on the other side.
 
-Ontozry 25 mg are round brown film-coated tablets with AV on one side and '25' on the other side.
-
-Ontozry 50 mg are round yellow film-coated tablets with AV on one side and '50' on the other side.
-
-Ontozry 100 mg are round brown film-coated tablets with AV on one side and '100' on the other side.
-
-Ontozry 150 mg are round light orange film-coated tablets with AV on one side and '150' on the other side.
+Ontozry 25 mg are round brown film-coated tablets with AV on one side and '25' on the other side. Ontozry 50 mg are round yellow film-coated tablets with AV on one side and '50' on the other side. Ontozry 100 mg are round brown film-coated tablets with AV on one side and '100' on the other side. Ontozry 150 mg are round light orange film-coated tablets with AV on one side and '150' on the other side.
 
 Ontozry 200 mg are oval light orange film-coated tablets with AV on one side and '200' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 Ontozry Treatment Initiation pack contains 14 tablets of 12.5 mg and 14 film-coated tablets of 25 mg.
 
@@ -1630,9 +1649,7 @@ Angelini Pharma S.p.A Viale Amelia 70, 00181 Rome - Italy
 
 ## Manufacturer
 
-<div style=\"page-break-after: always\"></div>
-
-## Aziende Chimiche Riunite Angelini Francesco ACRAF SPA Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
+Aziende Chimiche Riunite Angelini Francesco ACRAF SPA Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1641,24 +1658,46 @@ For any information about this medicine, please contact the local representative
 | България Анджелини Фарма България ЕООД Te л .: +359 2 975 13 95 office@angelini.bg           | Luxembourg/Luxemburg Angelini Pharma S.p.A. Tél/Tel: 80085530 lux.intake@angelinipharma.com |
 | Česká republika Angelini Pharma Česká republika s.r.o. info@angelini.cz                      | Magyarország Angelini Pharma Magyarország Kft. office@angelini.hu                           |
 | Danmark Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                            | Malta Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                           |
-| Deutschland Angelini Pharma Deutschland GmbH                                                 | Nederland Angelini Pharma S.p.A. Tel: + 31 (0) 80 00 20 10 77                               |
-| Tel: 00800 42762727 Eesti Angelini Pharma S.p.A. Tel: + 39 06 78 0531                        | Norge Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                             |
+| Deutschland Angelini Pharma Deutschland GmbH Tel: 00800 42762727                             | Nederland Angelini Pharma S.p.A. Tel: + 31 (0) 80 00 20 10 77                               |
+| Eesti Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                            | Norge Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                             |
 | Ελλάδα Angelini Pharma Hellas Μονοπρόσωπη ABEE Tηλ: + 30 210 626 9200 info@angelinipharma.gr | Österreich Angelini Pharma Österreich GmbH office@angelini.at                               |
 | España ANGELINI PHARMA ESPAÑA, S.L. Tel: +34 932534505                                       | Polska Angelini Pharma Polska Sp. z o.o. angelini@angelini.pl                               |
 | France Angelini Pharma France Tél: +33 (0) 1 88 24 70 98 intake.frbene@angelinipharma.com    | Portugal Angelini Pharma Portugal, Unipessoal Lda farmacovigilancia@angelini.pt             |
-| Hrvatska Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                         | România Angelini Pharmaceuticals România SRL office@angelini.ro                             |
-| Ireland Angelini Pharma UK&Ireland Tel: +353 (0) 1584 4671                                   | Slovenija Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                       |
-| Ísland Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                             | Slovenská republika Angelini Pharma Slovenská republika s.r.o. office@angelini.sk           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Italia Angelini Pharma S.p.A. Tel: + 39 071 809 809                                          | Suomi/Finland Angelini Pharma Nordics nordic.medinfo@angelinipharma.com   |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Κύπρος Angelini Pharma Hellas Μονοπρόσωπη ABEE Tηλ: + 30 210 626 9200 info@angelinipharma.gr | Sverige Angelini Pharma Nordics nordic.medinfo@angelinipharma.com         |
-| Latvija Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                          |                                                                           |
+| Hrvatska Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                         | România Angelini Pharmaceuticals România SRL office@angelini.ro                   |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Ireland Angelini Pharma UK&Ireland Tel: +353 (0) 1584 4671                                   | Slovenija Angelini Pharma S.p.A. Tel: + 39 06 78 0531                             |
+| Ísland Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                             | Slovenská republika Angelini Pharma Slovenská republika s.r.o. office@angelini.sk |
+| Italia Angelini Pharma S.p.A. Tel: + 39 071 809 809                                          | Suomi/Finland Angelini Pharma Nordics nordic.medinfo@angelinipharma.com           |
+| Κύπρος Angelini Pharma Hellas Μονοπρόσωπη ABEE Tηλ: + 30 210 626 9200 info@angelinipharma.gr | Sverige Angelini Pharma Nordics nordic.medinfo@angelinipharma.com                 |
+| Latvija Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                          |                                                                                   |
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for cenobamate, the scientific conclusions of PRAC are as follows:
+
+In view of available data on cenobamate-associated liver injury from clinical trial(s), the literature and spontaneous reports including in some cases a close temporal relationship, a positive dechallenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between cenobamate and liver injury is at least a reasonable possibility. The PRAC concluded that the product information of products containing cenobamate should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for cenobamate the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing cenobamate is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

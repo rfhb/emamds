@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:47:14
+document_datetime: 2026-07-06 13:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alprolix.html
 document_name: alprolix.html
 version: success
-processing_time: 0.1147502
-conversion_datetime: 2025-12-30 21:55:33.719629
+processing_time: 0.1564815
+conversion_datetime: 2026-07-07 15:05:13.46779
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Alprolix
 
 [RSS](/en/individual-human-medicine.xml/66549)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-eftrenonacog alfa Medicine Human Authorised
+eftrenonacog alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## What is Alprolix and what is it used for?
+### What is Alprolix and what is it used for?
 
 Alprolix is a medicine used to treat and prevent bleeding in patients with haemophilia B, an inherited bleeding disorder caused by lack of a clotting protein called factor IX. It can be used in patients of all ages.
 
@@ -63,7 +63,7 @@ Because the number of patients with haemophilia B is low, the disease is conside
 
 Alprolix contains the active substance eftrenonacog alfa.
 
-## How is Alprolix used?
+### How is Alprolix used?
 
 Alprolix can only be obtained with a prescription and treatment should be under the supervision of a doctor who has experience in the treatment of haemophilia.
 
@@ -71,11 +71,11 @@ Alprolix is available as a powder and solvent that are mixed together to make a 
 
 Patients or their carers may be able to inject Alprolix themselves at home once they have been trained appropriately. For full details, see the package leaflet.
 
-## How does Alprolix work?
+### How does Alprolix work?
 
 Patients with haemophilia B lack factor IX, a protein needed for normal clotting of the blood, and as a result, they bleed readily. The active substance in Alprolix, eftrenonacog alfa, works in the body in the same way as human factor IX. It replaces the missing factor IX, thereby helping the blood to clot and giving temporary control of bleeding.
 
-## What benefits of Alprolix have been shown in studies?
+### What benefits of Alprolix have been shown in studies?
 
 Alprolix has been shown to be effective at both preventing and treating bleeding episodes in 2 main studies in patients with haemophilia B.
 
@@ -83,7 +83,7 @@ In the first study involving 123 adults and adolescents aged 12 years or above, 
 
 In the second study in 30 children aged below 12 years, Alprolix was similarly effective: 2 bleeding episodes occurred per year on average and around 75% of bleeding episodes resolved with one injection.
 
-## What are the risks associated with Alprolix?
+### What are the risks associated with Alprolix?
 
 Hypersensitivity (allergic) reactions are seen rarely with Alprolix and include: swelling, burning and stinging at the injection site, chills, flushing, itchy rash, headache, hives, low blood pressure, lethargy, nausea and vomiting, restlessness, a fast heartbeat, tightness of the chest and wheezing. In some cases these reactions can become severe.
 
@@ -91,15 +91,15 @@ Some patients taking factor IX medicines may develop inhibitors (antibodies) aga
 
 For the full list of all side effects and restrictions with Alprolix, see the package leaflet.
 
-## Why is Alprolix approved?
+### Why is Alprolix approved?
 
 Studies show that Alprolix is effective at preventing and treating bleeding episodes in patients with haemophilia B and its safety is comparable to that of other factor IX products. The Agency's Committee for Medicinal Products for Human Use (CHMP) therefore decided that Alprolix's benefits are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Alprolix?
+### What measures are being taken to ensure the safe and effective use of Alprolix?
 
 A risk management plan has been developed to ensure that Alprolix is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Alprolix, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Alprolix
+### Other information about Alprolix
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Alprolix on 12 May 2016.
 
@@ -111,275 +111,141 @@ Reference Number: EMA/171272/2016
 
 English (EN) (75.56 KB - PDF)
 
-**First published:** 25/05/2016
-
-**Last updated:** 25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/en/documents/overview/alprolix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-679)
+[Other languages (22)](#file-language-dropdown-302)
 
 български (BG) (100.57 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/bg/documents/overview/alprolix-epar-summary-public_bg.pdf)
 
 español (ES) (75.4 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/es/documents/overview/alprolix-epar-summary-public_es.pdf)
 
 čeština (CS) (101.64 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/cs/documents/overview/alprolix-epar-summary-public_cs.pdf)
 
 dansk (DA) (74.89 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/da/documents/overview/alprolix-epar-summary-public_da.pdf)
 
 Deutsch (DE) (76.57 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/de/documents/overview/alprolix-epar-summary-public_de.pdf)
 
-eesti keel (ET) (74.26 KB - PDF)
+eesti (ET) (74.26 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/et/documents/overview/alprolix-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (102.85 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/el/documents/overview/alprolix-epar-summary-public_el.pdf)
 
 français (FR) (76.29 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/fr/documents/overview/alprolix-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (96.36 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/hr/documents/overview/alprolix-epar-summary-public_hr.pdf)
 
 italiano (IT) (74.96 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/it/documents/overview/alprolix-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (97.8 KB - PDF)
+latviešu (LV) (97.8 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/lv/documents/overview/alprolix-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (99.39 KB - PDF)
+lietuvių (LT) (99.39 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/lt/documents/overview/alprolix-epar-summary-public_lt.pdf)
 
 magyar (HU) (96.29 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/hu/documents/overview/alprolix-epar-summary-public_hu.pdf)
 
 Malti (MT) (101.64 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/mt/documents/overview/alprolix-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (75.27 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/nl/documents/overview/alprolix-epar-summary-public_nl.pdf)
 
 polski (PL) (101.21 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/pl/documents/overview/alprolix-epar-summary-public_pl.pdf)
 
 português (PT) (75.97 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/pt/documents/overview/alprolix-epar-summary-public_pt.pdf)
 
 română (RO) (97.64 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/ro/documents/overview/alprolix-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (95.04 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sk/documents/overview/alprolix-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (94.42 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sl/documents/overview/alprolix-epar-summary-public_sl.pdf)
 
-Suomi (FI) (74.28 KB - PDF)
+suomi (FI) (74.28 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/fi/documents/overview/alprolix-epar-summary-public_fi.pdf)
 
 svenska (SV) (74.82 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sv/documents/overview/alprolix-epar-summary-public_sv.pdf)
 
@@ -387,9 +253,7 @@ Alprolix : EPAR - Risk-management-plan summary
 
 English (EN) (105.11 KB - PDF)
 
-**First published:** 10/04/2019
-
-**Last updated:** 04/11/2020
+**First published:** 10/04/2019 **Last updated:** 04/11/2020
 
 [View](/en/documents/rmp-summary/alprolix-epar-risk-management-plan-summary_en.pdf)
 
@@ -397,311 +261,168 @@ English (EN) (105.11 KB - PDF)
 
 Alprolix : EPAR - Product Information
 
-English (EN) (534.48 KB - PDF)
+English (EN) (725.5 KB - PDF)
 
-**First published:** 25/05/2016
-
-**Last updated:** 02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/en/documents/product-information/alprolix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-245)
 
-български (BG) (601.62 KB - PDF)
+български (BG) (723.42 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/bg/documents/product-information/alprolix-epar-product-information_bg.pdf)
 
-español (ES) (485.31 KB - PDF)
+español (ES) (606.81 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/es/documents/product-information/alprolix-epar-product-information_es.pdf)
 
-čeština (CS) (669.72 KB - PDF)
+čeština (CS) (726.4 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/cs/documents/product-information/alprolix-epar-product-information_cs.pdf)
 
-dansk (DA) (528.86 KB - PDF)
+dansk (DA) (599.06 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/da/documents/product-information/alprolix-epar-product-information_da.pdf)
 
-Deutsch (DE) (532.03 KB - PDF)
+Deutsch (DE) (602.36 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/de/documents/product-information/alprolix-epar-product-information_de.pdf)
 
-eesti keel (ET) (508.62 KB - PDF)
+eesti (ET) (581.66 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/et/documents/product-information/alprolix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (618.39 KB - PDF)
+ελληνικά (EL) (703.26 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/el/documents/product-information/alprolix-epar-product-information_el.pdf)
 
-français (FR) (600.39 KB - PDF)
+français (FR) (606.04 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-24/07/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/fr/documents/product-information/alprolix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (569.54 KB - PDF)
+hrvatski (HR) (646.52 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/hr/documents/product-information/alprolix-epar-product-information_hr.pdf)
 
-íslenska (IS) (519.44 KB - PDF)
+italiano (IT) (620.56 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
-
-[View](/is/documents/product-information/alprolix-epar-product-information_is.pdf)
-
-italiano (IT) (566.25 KB - PDF)
-
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/it/documents/product-information/alprolix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (588.5 KB - PDF)
+latviešu (LV) (667.47 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/lv/documents/product-information/alprolix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (582.62 KB - PDF)
+lietuvių (LT) (673.32 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/lt/documents/product-information/alprolix-epar-product-information_lt.pdf)
 
-magyar (HU) (695.54 KB - PDF)
+magyar (HU) (701.46 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-24/07/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/hu/documents/product-information/alprolix-epar-product-information_hu.pdf)
 
-Malti (MT) (646.49 KB - PDF)
+Malti (MT) (806 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/mt/documents/product-information/alprolix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (523.1 KB - PDF)
+Nederlands (NL) (615.19 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/nl/documents/product-information/alprolix-epar-product-information_nl.pdf)
 
-norsk (NO) (520.55 KB - PDF)
+polski (PL) (706.13 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
-
-[View](/no/documents/product-information/alprolix-epar-product-information_no.pdf)
-
-polski (PL) (610.84 KB - PDF)
-
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/pl/documents/product-information/alprolix-epar-product-information_pl.pdf)
 
-português (PT) (531.37 KB - PDF)
+português (PT) (609.13 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/pt/documents/product-information/alprolix-epar-product-information_pt.pdf)
 
-română (RO) (606.99 KB - PDF)
+română (RO) (709.1 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/ro/documents/product-information/alprolix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (617.92 KB - PDF)
+slovenčina (SK) (692.48 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/sk/documents/product-information/alprolix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (571.28 KB - PDF)
+slovenščina (SL) (673.69 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/sl/documents/product-information/alprolix-epar-product-information_sl.pdf)
 
-Suomi (FI) (521.23 KB - PDF)
+suomi (FI) (585.01 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/fi/documents/product-information/alprolix-epar-product-information_fi.pdf)
 
-svenska (SV) (532.63 KB - PDF)
+svenska (SV) (612.71 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-02/05/2025
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
 
 [View](/sv/documents/product-information/alprolix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000262414 30/04/2025
+Íslenska (IS) (588.33 KB - PDF)
+
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
+
+[View](/is/documents/product-information/alprolix-epar-product-information_is.pdf)
+
+norsk (NO) (581.91 KB - PDF)
+
+**First published:** 25/05/2016 **Last updated:** 06/07/2026
+
+[View](/no/documents/product-information/alprolix-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000338616
+
+04/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -715,305 +436,168 @@ Alprolix : EPAR - All Authorised presentations
 
 English (EN) (25.11 KB - PDF)
 
-**First published:** 25/05/2016
-
-**Last updated:** 25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/en/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-46)
+[Other languages (24)](#file-language-dropdown-761)
 
 български (BG) (69.11 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/bg/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (27.27 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/es/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (63.36 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/cs/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (28.52 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/da/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (28.45 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/de/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (26.61 KB - PDF)
+eesti (ET) (26.61 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/et/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (68.44 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/el/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (28.07 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/fr/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.71 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/hr/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (24.18 KB - PDF)
-
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
-
-[View](/is/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (26.37 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/it/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (63.11 KB - PDF)
+latviešu (LV) (63.11 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/lv/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (64.94 KB - PDF)
+lietuvių (LT) (64.94 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/lt/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (63.44 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/hu/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (65.85 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/mt/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (27.06 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/nl/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (27.59 KB - PDF)
-
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
-
-[View](/no/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (61.01 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/pl/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (30.14 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/pt/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (62.41 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/ro/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (64.41 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sk/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.15 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sl/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (28.27 KB - PDF)
+suomi (FI) (28.27 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/fi/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (28.71 KB - PDF)
 
-**First published:**
-
-25/05/2016
-
-**Last updated:**
-
-25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/sv/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (24.18 KB - PDF)
+
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
+
+[View](/is/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (27.59 KB - PDF)
+
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
+
+[View](/no/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Alprolix Active substance eftrenonacog alfa International non-proprietary name (INN) or common name eftrenonacog alfa Therapeutic area (MeSH) Hemophilia B Anatomical therapeutic chemical (ATC) code B02BD04
+- **Name of medicine**
+    - Alprolix
+- **Active substance**
+    - eftrenonacog alfa
+- **International non-proprietary name (INN) or common name**
+    - eftrenonacog alfa
+- **Therapeutic area (MeSH)**
+    - Hemophilia B
+- **Anatomical therapeutic chemical (ATC) code**
+    - B02BD04
 
 ### Pharmacotherapeutic group
 
@@ -1026,19 +610,16 @@ Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004142
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Swedish Orphan Biovitrum AB (publ)
-
-SE-112 76 Stockholm
-
-Marketing authorisation issued 12/05/2016 Revision 11
+- **EMA product number**
+    - EMEA/H/C/004142
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm  Sweden
+- **Marketing authorisation issued**
+    - 12/05/2016
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -1046,13 +627,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Alprolix : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.2 KB - PDF)
+English (EN) (160.75 KB - PDF)
 
-**First published:** 02/05/2025
+**First published:** 02/05/2025 **Last updated:** 06/07/2026
 
 [View](/en/documents/procedural-steps-after/alprolix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1060,9 +641,7 @@ Alprolix : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (153.7 KB - PDF)
 
-**First published:** 24/11/2016
-
-**Last updated:** 02/05/2025
+**First published:** 24/11/2016 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/alprolix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1078,9 +657,7 @@ English (EN) (166.94 KB - PDF)
 
 Alprolix-H-C-4142-P46-006 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/562337/2020
+Adopted Reference Number: EMA/562337/2020
 
 English (EN) (2.39 MB - PDF)
 
@@ -1090,9 +667,7 @@ English (EN) (2.39 MB - PDF)
 
 Alprolix-H-C-4142-II-0029 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/562322/2020
+Adopted Reference Number: EMA/562322/2020
 
 English (EN) (717.27 KB - PDF)
 
@@ -1102,9 +677,7 @@ English (EN) (717.27 KB - PDF)
 
 Alprolix-H-C-4142-II-0021 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/210117/2019
+Adopted Reference Number: EMA/210117/2019
 
 English (EN) (1.56 MB - PDF)
 
@@ -1118,59 +691,51 @@ Reference Number: EMA/492734/2018
 
 English (EN) (84.68 KB - PDF)
 
-**First published:** 19/07/2018
+**First published:** 19/07/2018 **Last updated:** 19/07/2018
 
-**Last updated:** 19/07/2018
+[View](/en/documents/scientific-conclusion/alprolix-h-c-psusa-00010499-201803-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[View](/en/documents/scientific-conclusion/alprolix-h-c-psusa-00010499-201803-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
-
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Alprolix : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/196953/2016
+Adopted Reference Number: EMA/CHMP/196953/2016
 
 English (EN) (4.17 MB - PDF)
 
-**First published:** 25/05/2016
-
-**Last updated:** 25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/en/documents/assessment-report/alprolix-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Alprolix
 
-Adopted
-
-Reference Number: EMA/CHMP/83216/2016
+Adopted Reference Number: EMA/CHMP/83216/2016
 
 English (EN) (67.75 KB - PDF)
 
-**First published:** 26/02/2016
-
-**Last updated:** 26/02/2016
+**First published:** 26/02/2016 **Last updated:** 26/02/2016
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-alprolix_en.pdf)
 
-#### News on Alprolix
+## News on Alprolix
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
+
+26/02/2016
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0041420000) (initial marketing authorisation)
 
-#### More information on Alprolix
+## More information on Alprolix
 
 - [EU/3/07/453 - orphan designation for treatment of haemophilia B (congenital factor IX deficiency)](/en/medicines/human/orphan-designations/eu-3-07-453)
 - [EMEA-000914-PIP01-10-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000914-pip01-10-m05)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/05/2025
+**This page was last updated on**
+
+06/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

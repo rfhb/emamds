@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-02 15:41:05
-document_pages: 55
+document_datetime: 2026-07-06 13:25:50
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alprolix-epar-product-information_en.pdf
 document_name: alprolix-epar-product-information_en.pdf
 version: success
-processing_time: 11.4768006
-conversion_datetime: 2025-12-20 07:16:03.760612
+processing_time: 10.9859433
+conversion_datetime: 2026-07-07 17:24:13.923367
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -112,16 +112,14 @@ In the case of the following haemorrhagic events, the factor IX activity should 
 
 Table 1: Guide to ALPROLIX dosing for treatment of bleeding episodes and surgery
 
-| Degree of haemorrhage / Type of surgical procedure         | Factor IX level required (%) (IU/dL)   | Frequency of doses (hours)/ Duration of therapy (days)                                                                                                                           |
-|------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage                                                |                                        |                                                                                                                                                                                  |
-| Early haemarthrosis, muscle bleeding or oral bleeding      | 20-40                                  | Repeat injection every 48 hours, until the bleeding episode as indicated by pain is resolved or healing is achieved.                                                             |
-| More extensive haemarthrosis, muscle bleeding or haematoma | 30-60                                  | Repeat injection every 24 to 48 hours until pain and acute disability are resolved.                                                                                              |
-| Life threatening haemorrhages                              | 60-100                                 | Repeat injection every 8 to 24 hours until threat is resolved.                                                                                                                   |
-| Surgery Minor surgery including tooth extraction           | 30-60                                  | Repeat injection after 24 hours, as needed until healing is achieved 1 .                                                                                                         |
-| Major surgery                                              | 80-100 (pre- and post-operative)       | Repeat injection every 8 to 24 hours as necessary until adequate wound healing, then therapy at least for another 7 days to maintain a factor IX activity of 30% to 60% (IU/dL). |
-
-1 In some patients and circumstances the dosing interval can be prolonged up to 48 hours (see section 5.2 for pharmacokinetic data).
+| Degree of haemorrhage / Type of surgical procedure    | Factor IX level required (%) (IU/dL)   | Frequency of doses (hours)/ Duration of therapy (days)                                                                                                                           |
+|-------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage                                           |                                        |                                                                                                                                                                                  |
+| Early haemarthrosis, muscle bleeding or oral bleeding | 20-40                                  | Repeat injection every 48 hours, until the bleeding episode as indicated by pain is resolved or healing is achieved.                                                             |
+| More extensive haemarthrosis, muscle                  | 30-60                                  | Repeat injection every 24 to 48 hours until pain and acute disability are resolved.                                                                                              |
+| bleeding or haematoma Life threatening haemorrhages   | 60-100                                 | Repeat injection every 8 to 24 hours until threat is resolved.                                                                                                                   |
+| Surgery Minor surgery including tooth extraction      | 30-60                                  | Repeat injection after 24 hours, as needed until healing is achieved 1 .                                                                                                         |
+| Major surgery                                         | 80-100 (pre- and post-operative)       | Repeat injection every 8 to 24 hours as necessary until adequate wound healing, then therapy at least for another 7 days to maintain a factor IX activity of 30% to 60% (IU/dL). |
 
 ## Prophylaxis
 
@@ -134,13 +132,11 @@ The highest recommended dose for prophylaxis is 100 IU/kg
 
 ## Elderly population
 
-There is limited experience in patients ≥65 years.
+There is limited experience in patient s ≥65 years.
 
 ## Paediatric population
 
-For children below the age of 12 years, higher or more frequent doses may be required, and the recommended starting dose is 50-60 IU/kg every 7 days. For adolescents of 12 years of age and above, the dose recommendations are the same as for adults. See sections 5.1 and 5.2.
-
-The highest recommended dose for prophylaxis is 100 IU/kg
+For children below the age of 12 years, higher or more frequent doses may be required, and the recommended starting dose is 50-60 IU/kg every 7 days. For adolescents of 12 years of age and above, the dose recommendations are the same as for adults. See sections 5.1 and 5.2. The highest recommended dose for prophylaxis is 100 IU/kg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -230,11 +226,9 @@ Hypersensitivity or allergic reactions (which may include angioedema, burning an
 
 Patients with haemophilia B may develop neutralising antibodies (inhibitors) to factor IX. If such inhibitors occur, the condition will manifest itself as an insufficient clinical response. In such cases, it is recommended that a specialised haemophilia centre be contacted.
 
-There is a potential risk of thromboembolic episodes following the administration of factor IX products, with a higher risk for low purity preparations. The use of low purity factor IX products has been associated with instances of myocardial infarction, disseminated intravascular coagulation,
+There is a potential risk of thromboembolic episodes following the administration of factor IX products, with a higher risk for low purity preparations. The use of low purity factor IX products has been associated with instances of myocardial infarction, disseminated intravascular coagulation, venous thrombosis and pulmonary embolism. The use of high purity factor IX is rarely associated with thromboembolic complications.
 
 <div style=\"page-break-after: always\"></div>
-
-venous thrombosis and pulmonary embolism. The use of high purity factor IX is rarely associated with thromboembolic complications.
 
 ## Tabulated list of adverse reactions
 
@@ -259,8 +253,6 @@ Table 2: Adverse reactions reported for ALPROLIX
 | Gastrointestinal disorders                           | Paraesthesia oral Breath odour                            | Common Uncommon              |
 | Renal and urinary disorders                          | Obstructive uropathy Haematuria Renal colic               | Common Uncommon Uncommon     |
 | General disorders and administration site conditions | Injection site erythema Fatigue Infusion site pain        | Common Uncommon Uncommon     |
-
-1 Frequency based on occurrence in PUPs study. Both events of factor IX inhibition and hypersensitivity occurred in a single PUP in Study IV. See Description of selected adverse reactions.
 
 ## Description of selected adverse reactions
 
@@ -296,7 +288,7 @@ The Fc region of human immunoglobulin G1 binds with the neonatal Fc receptor. Th
 
 ## Clinical efficacy and safety
 
-The safety, efficacy, and pharmacokinetics of ALPROLIX were evaluated in 2 multinational, openlabel, pivotal studies in previously treated patients (PTPs); a phase 3 study in adults and adolescents, referred to as Study I and a phase 3 paediatric study, referred to as Study II (see Paediatric population). The safety and efficacy of ALPROLIX was also evaluated in previously untreated patients (PUPs) with severe haemophilia B (Study IV), see Paediatric population.
+The safety, efficacy, and pharmacokinetics of ALPROLIX were evaluated in 2 multinational, openlabel, pivotal studies in previously treated patients (PTPs) ; a phase 3 study in adults and adolescents, referred to as Study I and a phase 3 paediatric study, referred to as Study II (see Paediatric population). The safety and efficacy of ALPROLIX was also evaluated in previously untreated patients (PUPs) with severe haemophilia B (Study IV), see Paediatric population.
 
 Study I compared the efficacy of each of 2 prophylactic treatment regimens (fixed weekly interval with dosing of 50 IU/kg, and individualised interval with 100 IU/kg starting every 10 days) to on demand treatment. The study enrolled a total of 123 previously treated male patients (12 to 71 years of age) with severe haemophilia B (≤2% endogenous FIX activity). All patients received treatment with ALPROLIX and were followed for up to 77 weeks.
 
@@ -328,7 +320,7 @@ The haemostatic response was rated as excellent or good in 100% of major surgeri
 
 ## Paediatric population
 
-Study II enrolled a total of 30 previously treated male paediatric patients with severe haemophilia B (≤2% endogenous FIX activity). Patients were less than 12 years of age (15 were &lt;6 years of age and 15 were 6 to &lt;12 years of age). All patients received treatment with ALPROLIX and were followed for up to 52 weeks.
+Study II enrolled a total of 30 previously treated male paediatric patients with severe haemophilia B (≤ 2% endogenous FIX activity). Patients were less than 12 years of age (15 were &lt;6 years of age and 15 were 6 to &lt;12 years of age). All patients received treatment with ALPROLIX and were followed for up to 52 weeks.
 
 All of the 30 patients were treated with ALPROLIX on a prophylactic dosing regimen starting with 50-60 IU/kg every 7 days, with adjustment of dose to a maximum of 100 IU/kg and dosing interval to a minimum of once weekly and a maximum of twice weekly. Out of 30 patients having completed Study II, 27 enrolled to Study III (extension study). The median time on Study II+III was 2.88 years and median number of exposure days was 166.
 
@@ -373,11 +365,7 @@ Table 3: Pharmacokinetic parameters of ALPROLIX (50 IU/kg dose)
 | V ss (mL/kg)                           | 303.4 (275.1-334.6)   |
 | Time to 1% (days) 2                    | 11.22 (10.20-12.35)   |
 
-1  Pharmacokinetic parameters are presented in Geometric Mean (95% CI)
-
-2  These pharmacokinetic parameters obtained from the compartmental analysis
-
-Abbreviations: CI = confidence interval; Cmax= maximum activity; AUC = area under the FIX activity time curve; t1/2 = terminal half-life; t½α = distribution half-life; t½β = elimination half-life; CL = clearance; Vss = volume of distribution at steady-state; MRT = mean residence time.
+Abbreviations: CI = confidence interval; C max= maximum activity ; AUC = area under the FIX activity time curve; t1/2 = terminal halflife; t ½α = distribution halflife; t ½β = elimination halflife; CL = clearance; Vss = volume of distribution at steadystate; MRT = mean residence time.
 
 The elimination half-life (82 hours) is influenced by the Fc region, which in animal models was shown to be mediated by neonatal Fc receptor cycling pathways.
 
@@ -390,8 +378,6 @@ Table 4: The Observed Mean (SD) FIX activity [IU/dL] following a single dose of 
 |             50 | 52.9 (30.6) | 34.5 (7.3) | 28.7 (6.7)  | 25.1 (5.1) | 15.1 (3.9) | 9.7 (3.0)  | 5.0 (1.6)  | 3.4 (1.1) | 3.2 (1.9)   | 2.6 (1.0) | 2.1 (0.9)   | NA          |
 |            100 | 112 (24)    | NA         | 77.1 (12.8) | NA         | 36.7 (8.0) | 21.8 (4.8) | 10.1 (2.6) | NA        | 4.81 (1.67) | NA        | 2.86 (0.98) | 2.30 (0.94) |
 
-1  See section 4.2; NA: Not available
-
 ## Paediatric population
 
 Pharmacokinetic parameters of ALPROLIX were determined for adolescents in Study I (pharmacokinetic sampling was conducted pre-dose followed by assessment at multiple time points up to 336 hours (14 days) post-dose) and for children in Study II (pharmacokinetic sampling was conducted pre-dose followed by assessment at 7 time points up to 168 hours (7 days) post-dose). Table 5 presents the pharmacokinetic parameters calculated from the paediatric data of 35 subjects less than 18 years of age.
@@ -400,20 +386,18 @@ Pharmacokinetic parameters of ALPROLIX were determined for adolescents in Study 
 
 Table 5: Comparison of PK Parameters of ALPROLIX (rFIXFc) by Age Category
 
-|                                                   | Study II             | Study II                | Study I                           |
-|---------------------------------------------------|----------------------|-------------------------|-----------------------------------|
-| PK Parameters 1                                   | <6 years (2, 4)      | 6 to <12 years (6, 10)  | 12 to <18 years (12, 17)          |
-| N = 11                                            |                      | N = 13                  | N = 11                            |
-| IR (IU/dL per IU/kg) 0.5989 (0.5152,              | 0.6752)              | 0.7170 (0.6115, 0.8407) | 0.8470 (0.6767, 1.0600)           |
-| AUC/Dose (IU*h/dL per IU/kg) 22.71 (20.32, 25.38) | (24.47,              | 28.53 33.27)            | 29.50 (25.13, 34.63)              |
-| 66.49 (55.86,                                     | 79.14)               | 70.34 (60.95, 81.17)    | t ½ (h) 82.22 (72.30, 93.50)      |
-| 83.65 (71.76, 97.51)                              | 82.46 (72.65, 93.60) |                         | MRT(h) 93.46 (81.77, 106.81)      |
-| 4.365 (3.901, 4.885)                              | (3.006,              | 3.505 4.087)            | CL (mL/h/kg) 3.390 (2.888, 3.979) |
-| 365.1 (316.2, 421.6)                              | 289.0 (236.7,        | 352.9)                  | V ss (mL/kg) 316.8 (267.4, 375.5) |
+|                                            | Study II                | Study II                | Study I                           |
+|--------------------------------------------|-------------------------|-------------------------|-----------------------------------|
+| PK Parameters 1                            | <6 years (2, 4)         | 6 to <12 years (6, 10)  | 12 to <18 years (12, 17)          |
+| N = 11                                     |                         | N = 13                  | N = 11                            |
+| IR (IU/dL per IU/kg)                       | 0.5989 (0.5152, 0.6752) | 0.7170 (0.6115, 0.8407) | 0.8470 (0.6767, 1.0600)           |
+| AUC/Dose (IU*h/dL per IU/kg) 22.71 (20.32, | 25.38)                  | 28.53 (24.47, 33.27)    | 29.50 (25.13, 34.63)              |
+| 66.49                                      | (55.86, 79.14)          | 70.34 (60.95, 81.17)    | t ½ (h) 82.22 (72.30, 93.50)      |
+| 83.65 (71.76, 97.51)                       | 82.46 (72.65,           | 93.60)                  | MRT(h) 93.46 (81.77, 106.81)      |
+| 4.365 (3.901,                              | 4.885)                  | 3.505 (3.006, 4.087)    | CL (mL/h/kg) 3.390 (2.888, 3.979) |
+| 365.1 (316.2, 421.6)                       |                         | 289.0 (236.7, 352.9)    | V ss (mL/kg) 316.8 (267.4, 375.5) |
 
-1 PK parameters derived from noncompartmental analysis are presented in Geometric Mean (95% CI)
-
-Abbreviations: CI = confidence interval; IR = incremental recovery; AUC = area under the FIX activity time curve; t1/2 = terminal half-life; MRT = mean residence time; CL = clearance; Vss = volume of distribution at steady-state
+Abbreviations: CI = confidence interval; IR = incremental recovery; AUC = area under the FIX activity time curve; t 1/2 = terminal halflife; MRT = mean residence time; CL = clearance; Vss = volume of distribution at steady-state
 
 ## 5.3 Preclinical safety data
 
@@ -599,6 +583,8 @@ Date of latest renewal: 11 February 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
+30/04/2025
+
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
@@ -616,15 +602,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance
 
-Biogen Inc. 5000 Davis Drive Research Triangle Park North Carolina 27709-4627 United States
+Biogen MA Inc. 5000 Davis Drive Morrisville, NC 27560 United States
 
-Lonza Biologics Inc. 101 International Drive Portsmouth New Hampshire 03801 United States
+Lonza Biologics Inc. 101 International Drive Portsmouth New Hampshire 03801
+
+United States
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93, 113 64 Stockholm
-
-Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93, 113 64 Stockholm Sweden
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -641,8 +627,6 @@ The requirements for submission of PSURs for this medicinal product are set out 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -667,7 +651,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALPROLIX 250 IU powder and solvent for solution for injection eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
+ALPROLIX 250 IU powder and solvent for solution for injection
+
+eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -695,7 +681,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ALPROLIX is available by scanning the QR code with a smartphone or via the website
 
-QR code to be included + http://www.alprolix-instructions.com
+[QR code to be included + http://www.alprolix-instructions.com](http://www.alprolix-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -755,8 +741,8 @@ ALPROLIX 250
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -766,13 +752,11 @@ PC SN NN
 |------------------------------------------------------------------|
 | VIAL LABEL                                                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 ALPROLIX 250 IU powder for injection eftrenonacog alfa recombinant coagulation factor IX IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -800,7 +784,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALPROLIX 500 IU powder and solvent for solution for injection eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
+ALPROLIX 500 IU powder and solvent for solution for injection
+
+eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -828,7 +814,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ALPROLIX is available by scanning the QR code with a smartphone or via the website
 
-QR code to be included + http://www.alprolix-instructions.com
+[QR code to be included + http://www.alprolix-instructions.com](http://www.alprolix-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -888,8 +874,8 @@ ALPROLIX 500
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -927,7 +913,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALPROLIX 1000 IU powder and solvent for solution for injection eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
+ALPROLIX 1000 IU powder and solvent for solution for injection
+
+eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -955,7 +943,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ALPROLIX is available by scanning the QR code with a smartphone or via the website
 
-QR code to be included + http://www.alprolix-instructions.com
+[QR code to be included + http://www.alprolix-instructions.com](http://www.alprolix-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1003,7 +991,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1015,8 +1003,8 @@ ALPROLIX 1000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1054,7 +1042,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALPROLIX 2000 IU powder and solvent for solution for injection eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
+ALPROLIX 2000 IU powder and solvent for solution for injection
+
+eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1082,7 +1072,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ALPROLIX is available by scanning the QR code with a smartphone or via the website
 
-QR code to be included + http://www.alprolix-instructions.com
+[QR code to be included + http://www.alprolix-instructions.com](http://www.alprolix-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1142,8 +1132,8 @@ ALPROLIX 2000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1181,7 +1171,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALPROLIX 3000 IU powder and solvent for solution for injection eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
+ALPROLIX 3000 IU powder and solvent for solution for injection
+
+eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1209,7 +1201,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ALPROLIX is available by scanning the QR code with a smartphone or via the website
 
-QR code to be included + http://www.alprolix-instructions.com
+[QR code to be included + http://www.alprolix-instructions.com](http://www.alprolix-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1269,8 +1261,8 @@ ALPROLIX 3000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1302,9 +1294,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                   |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -1513,7 +1505,7 @@ Discard any unused solution appropriately. Do not throw away any medicines via w
 
 ## What ALPROLIX contains
 
-Powder:
+## Powder:
 
 - The active substance is eftrenonacog alfa (recombinant coagulation factor IX, Fc fusion protein). Each vial of ALPROLIX contains nominally 250, 500, 1000, 2000 or 3000 IU eftrenonacog alfa.
 - The other ingredients are sucrose, histidine, mannitol, polysorbate 20, sodium hydroxide and hydrochloric acid. If you are on a controlled sodium diet, see section 2.
@@ -1530,15 +1522,15 @@ Each pack of ALPROLIX contains 1 powder vial, 5 mL solvent in pre-filled syringe
 
 ## Marketing Authorisation Holder
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
 
-Phone: +46 8 697 20 00
+SE-112 76 Stockholm Sweden Phone: +46 8 697 20 00
 
 ## Manufacturer
 
 Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 SE-113 64 Stockholm Sweden
 
-## This leaflet was last revised in:
+## This leaflet was last revised in: 04/2025
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 

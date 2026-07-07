@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-02 09:03:06
+document_datetime: 2026-06-29 13:16:27
 document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mirapexin-epar-product-information_en.pdf
 document_name: mirapexin-epar-product-information_en.pdf
 version: success
-processing_time: 22.9572836
-conversion_datetime: 2025-12-24 18:53:47.738016
+processing_time: 23.0645765
+conversion_datetime: 2026-07-07 17:23:11.514212
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,9 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MIRAPEXIN 0.088 mg tablets MIRAPEXIN 0.18 mg tablets MIRAPEXIN 0.35 mg tablets
-
-MIRAPEXIN 0.7 mg tablets
+MIRAPEXIN 0.088 mg tablets MIRAPEXIN 0.18 mg tablets MIRAPEXIN 0.35 mg tablets MIRAPEXIN 0.7 mg tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -151,11 +149,9 @@ Patient's response should be evaluated after 3 months treatment and the need for
 
 ## Treatment discontinuation
 
-Since the daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) MIRAPEXIN can be discontinued without tapering off. In a 26 week placebo
+Since the daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) MIRAPEXIN can be discontinued without tapering off. In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment. This effect was found to be similar across all doses.
 
 <div style=\"page-break-after: always\"></div>
-
-controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment. This effect was found to be similar across all doses.
 
 ## Renal impairment
 
@@ -239,11 +235,9 @@ DAWS has been reported with dopamine agonists, including pramipexole (see sectio
 
 Treatment of Restless Legs Syndrome with pramipexole can result in augmentation. Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
 
-The risk of augmentation may increase with higher dose. Prior to treatment, patients should be informed that augmentation may occur and should be advised to contact their physician if they
+The risk of augmentation may increase with higher dose. Prior to treatment, patients should be informed that augmentation may occur and should be advised to contact their physician if they experience symptoms of augmentation. If augmentation is suspected, dose adjustment to the lowest effective dose, or discontinuation of pramipexole should be considered (see section 4.2 and 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-experience symptoms of augmentation. If augmentation is suspected, dose adjustment to the lowest effective dose, or discontinuation of pramipexole should be considered (see section 4.2 and 4.8).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -439,11 +433,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Clinical efficacy and safety in Tourette Disorder
 
-The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study. A total of 63 patients were randomised (43 on pramipexole, 20 on placebo). The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS). No difference was observed for pramipexole as compared to placebo for either the primary endpoint or for any of the secondary efficacy endpoints including YGTSS total score, Patient Global Impression of Improvement (PGI-I), Clinical Global Impression of Improvement (CGI-I), or
+The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study. A total of 63 patients were randomised (43 on pramipexole, 20 on placebo). The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS). No difference was observed for pramipexole as compared to placebo for either the primary endpoint or for any of the secondary efficacy endpoints including YGTSS total score, Patient Global Impression of Improvement (PGI-I), Clinical Global Impression of Improvement (CGI-I), or Clinical Global Impressions of Severity of Illness (CGI-S). Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%). Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-Clinical Global Impressions of Severity of Illness (CGI-S). Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%). Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -519,13 +511,11 @@ MIRAPEXIN 0.18 mg tablets
 
 EU/1/97/051/003-004
 
-MIRAPEXIN 0.35 mg tablets
-
-EU/1/97/051/011-012
+MIRAPEXIN 0.35 mg tablets EU/1/97/051/011-012
 
 <div style=\"page-break-after: always\"></div>
 
-## MIRAPEXIN 0.7 mg tablets
+MIRAPEXIN 0.7 mg tablets
 
 EU/1/97/051/005-006
 
@@ -535,9 +525,13 @@ Date of first authorisation: 23 February 1998
 
 Date of latest renewal: 23 February 2008
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -649,11 +643,9 @@ Doses should be increased gradually from a starting dose of 0.26 mg of base (0.3
 
 If a further dose increase is necessary the daily dose should be increased by 0.52 mg of base (0.75 mg of salt) at weekly intervals up to a maximum dose of 3.15 mg of base (4.5 mg of salt) per day. However, it should be noted that the incidence of somnolence is increased at doses higher than 1.05 mg of base (1.5 mg of salt) per day (see section 4.8).
 
-Patients already taking MIRAPEXIN tablets may be switched to MIRAPEXIN prolonged-release
+Patients already taking MIRAPEXIN tablets may be switched to MIRAPEXIN prolonged-release tablets overnight, at the same daily dose. After switching to MIRAPEXIN prolonged-release tablets, the dose may be adjusted depending on the patient's therapeutic response (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-tablets overnight, at the same daily dose. After switching to MIRAPEXIN prolonged-release tablets, the dose may be adjusted depending on the patient's therapeutic response (see section 5.1).
 
 ## Maintenance treatment
 
@@ -685,11 +677,9 @@ Dose adjustment in patients with hepatic failure is probably not necessary, as a
 
 ## Paediatric population
 
-The safety and efficacy of MIRAPEXIN in children below 18 years has not been established. There is no relevant use of MIRAPEXIN prolonged-release tablets in the paediatric population for the
+The safety and efficacy of MIRAPEXIN in children below 18 years has not been established. There is no relevant use of MIRAPEXIN prolonged-release tablets in the paediatric population for the indication of Parkinson's Disease.
 
 <div style=\"page-break-after: always\"></div>
-
-indication of Parkinson's Disease.
 
 ## Method of administration
 
@@ -729,11 +719,9 @@ Patients should be regularly monitored for the development of mania and delirium
 
 ## Patients with psychotic disorders
 
-Patients with psychotic disorders should only be treated with dopamine agonists if the potential
+Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks. Co-administration of antipsychotic medicinal products with pramipexole should be avoided (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-benefits outweigh the risks. Co-administration of antipsychotic medicinal products with pramipexole should be avoided (see section 4.5).
 
 ## Ophthalmologic monitoring
 
@@ -862,11 +850,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no clinical experience with massive overdose. The expected adverse reactions would be those related to the pharmacodynamic profile of a dopamine agonist, including nausea, vomiting, hyperkinesia, hallucinations, agitation and hypotension. There is no established antidote for overdose
+There is no clinical experience with massive overdose. The expected adverse reactions would be those related to the pharmacodynamic profile of a dopamine agonist, including nausea, vomiting, hyperkinesia, hallucinations, agitation and hypotension. There is no established antidote for overdose of a dopamine agonist. If signs of central nervous system stimulation are present, a neuroleptic agent may be indicated. Management of the overdose may require general supportive measures, along with gastric lavage, intravenous fluids, administration of activated charcoal and electrocardiogram monitoring.
 
 <div style=\"page-break-after: always\"></div>
-
-of a dopamine agonist. If signs of central nervous system stimulation are present, a neuroleptic agent may be indicated. Management of the overdose may require general supportive measures, along with gastric lavage, intravenous fluids, administration of activated charcoal and electrocardiogram monitoring.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1000,13 +986,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 MIRAPEXIN 0.26 mg prolonged-release tablets EU/1/97/051/013-015
 
-MIRAPEXIN 0.52 mg prolonged-release tablets
+MIRAPEXIN 0.52 mg prolonged-release tablets EU/1/97/051/016-018
 
-EU/1/97/051/016-018
-
-MIRAPEXIN 1.05 mg prolonged-release tablets
-
-EU/1/97/051/019-021
+MIRAPEXIN 1.05 mg prolonged-release tablets EU/1/97/051/019-021
 
 MIRAPEXIN 1.57 mg prolonged-release tablets
 
@@ -1034,7 +1016,7 @@ Date of latest renewal: 23 February 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1065,20 +1047,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1144,11 +1126,11 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 EU/1/97/051/001 [30 tablets] EU/1/97/051/002 [100 tablets]
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1170,9 +1152,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1205,7 +1187,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MIRAPEXIN 0.18 mg tablets pramipexole
+MIRAPEXIN 0.18 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1255,7 +1239,7 @@ EU/1/97/051/003 [30 tablets] EU/1/97/051/004 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1277,9 +1261,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1312,7 +1296,9 @@ Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MIRAPEXIN 0.35 mg tablets pramipexole
+MIRAPEXIN 0.35 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1348,11 +1334,6 @@ Do not store above 30 °C.
 
 Store in the original package in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1367,7 +1348,7 @@ EU/1/97/051/011 [30 tablets] EU/1/97/051/012 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1383,13 +1364,15 @@ MIRAPEXIN 0.35 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1414,15 +1397,15 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 Folding box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MIRAPEXIN 0.7 mg tablets pramipexole
+MIRAPEXIN 0.7 mg tablets
+
+pramipexole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1460,9 +1443,6 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1477,7 +1457,7 @@ EU/1/97/051/005 [30 tablets] EU/1/97/051/006 [100 tablets]
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1493,13 +1473,15 @@ MIRAPEXIN 0.7 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1544,9 +1526,8 @@ Each prolonged-release tablet contains 0.375 mg pramipexole dihydrochloride mono
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
-
-100 prolonged-release tablets
+- 30 prolonged-release tablets
+- 100 prolonged-release tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1605,7 +1586,7 @@ Lot
 
 MIRAPEXIN 0.26 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1740,9 +1721,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1861,9 +1842,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1969,7 +1950,7 @@ Lot
 
 MIRAPEXIN 1.57 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1983,9 +1964,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2030,7 +2011,7 @@ Each prolonged-release tablet contains 3 mg pramipexole dihydrochloride monohydr
 
 10 prolonged-release tablets
 
-30 prolonged-release tablets
+- 30 prolonged-release tablets
 
 100 prolonged-release tablets
 
@@ -2086,7 +2067,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 MIRAPEXIN 2.1 mg prolonged-release tablets
 
@@ -2104,9 +2086,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2215,7 +2197,7 @@ MIRAPEXIN 2.62 mg prolonged-release tablets
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -2225,17 +2207,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 MIRAPEXIN 2.62 mg prolonged-release tablets pramipexole
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Boehringer Ingelheim (Logo)
 
@@ -2333,7 +2315,7 @@ Lot
 
 MIRAPEXIN 3.15 mg prolonged-release tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2347,9 +2329,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blister                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2384,7 +2366,9 @@ Lot
 
 MIRAPEXIN 0.088 mg tablets
 
-MIRAPEXIN 0.18 mg tablets MIRAPEXIN 0.35 mg tablets MIRAPEXIN 0.7 mg tablets pramipexole
+MIRAPEXIN 0.18 mg tablets MIRAPEXIN 0.35 mg tablets MIRAPEXIN 0.7 mg tablets
+
+pramipexole
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2512,11 +2496,9 @@ This will be increased every 5-7 days as directed by your doctor until your symp
 | Number of tablets     | 1 tablet MIRAPEXIN 0.18 mg three times a day OR 2 tablets MIRAPEXIN 0.088 mg three times a day | 1 tablet MIRAPEXIN 0.35 mg three times a day OR 2 tablets MIRAPEXIN 0.18 mg three times a day |
 | Total daily dose (mg) | 0.54                                                                                           | 1.1                                                                                           |
 
-The usual maintenance dose is 1.1 mg per day. However, your dose may have to be increased even further. If necessary, your doctor may increase your tablet dose up to a maximum of 3.3 mg of
+The usual maintenance dose is 1.1 mg per day. However, your dose may have to be increased even further. If necessary, your doctor may increase your tablet dose up to a maximum of 3.3 mg of pramipexole a day. A lower maintenance dose of three MIRAPEXIN 0.088 mg tablets a day is also possible.
 
 <div style=\"page-break-after: always\"></div>
-
-pramipexole a day. A lower maintenance dose of three MIRAPEXIN 0.088 mg tablets a day is also possible.
 
 |                       | Lowest maintenance dose                       | Highest maintenance dose                                                   |
 |-----------------------|-----------------------------------------------|----------------------------------------------------------------------------|
@@ -2729,11 +2711,9 @@ For the side effects marked with * a precise frequency estimation is not possibl
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store MIRAPEXIN
 
@@ -2781,11 +2761,9 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim
 
 Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
 
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2801,7 +2779,7 @@ Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Deutschland
 
@@ -2833,9 +2811,7 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -2855,13 +2831,11 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG
-
-Tel: +43 1 80 105-7870
+Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
 ## Polska
 
@@ -2883,7 +2857,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2905,7 +2879,7 @@ Tel: +371 67 240 011
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
@@ -2925,12 +2899,6 @@ Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
 
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
@@ -2947,7 +2915,9 @@ MIRAPEXIN 2.1 mg prolonged-release tablets
 
 MIRAPEXIN 2.62 mg prolonged-release tablets
 
-MIRAPEXIN 3.15 mg prolonged-release tablets pramipexole
+MIRAPEXIN 3.15 mg prolonged-release tablets
+
+pramipexole
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3027,11 +2997,9 @@ Take care if you are taking the following medicines:
 
 If you are taking levodopa, the dose of levodopa is recommended to be reduced when you start treatment with MIRAPEXIN.
 
-Take care if you are using any medicines that calm you down (have a sedative effect) or if you are
+Take care if you are using any medicines that calm you down (have a sedative effect) or if you are drinking alcohol. In these cases MIRAPEXIN may affect your ability to drive and operate machinery.
 
 <div style=\"page-break-after: always\"></div>
-
-drinking alcohol. In these cases MIRAPEXIN may affect your ability to drive and operate machinery.
 
 ## MIRAPEXIN with food, drink and alcohol
 
@@ -3248,11 +3216,9 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim
 
 Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
 
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3268,7 +3234,7 @@ Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
 ## Danmark
 
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Deutschland
 
@@ -3300,9 +3266,7 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -3322,7 +3286,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -3348,7 +3312,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -3370,7 +3334,7 @@ Tel: +371 67 240 011
 
 This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
@@ -3389,9 +3353,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

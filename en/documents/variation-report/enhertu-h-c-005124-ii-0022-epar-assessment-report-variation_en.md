@@ -1,38 +1,36 @@
 ---
-document_datetime: 2023-09-21 21:40:39
-document_pages: 139
+document_datetime: 2026-04-07 15:06:06
+document_pages: 138
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/enhertu-h-c-005124-ii-0022-epar-assessment-report-variation_en.pdf
 document_name: enhertu-h-c-005124-ii-0022-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 275.3981171
-conversion_datetime: 2025-12-22 20:32:43.251235
+processing_time: 236.8469059
+conversion_datetime: 2026-07-07 15:13:30.320686
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-15 December 2022 EMA/CHMP/14752/2023
+<!-- image -->
 
-Committee for Medicinal Products for Human Use (CHMP)
+15 December 2022 EMA/CHMP/14752/2023 Committee for Medicinal Products for Human Use (CHMP) Corr.1 1
 
-## Assessment report
+## CHMP extension of indication variation assessment report
 
-## Enhertu
+Invented name: Enhertu
 
 International non-proprietary name: trastuzumab deruxtecan
 
 Procedure No. EMEA/H/C/005124/II/0022
 
-## Note
+Marketing authorisation holder (MAH) Daiichi Sankyo Europe GmbH
 
-Variation assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
-
-<!-- image -->
+1  07 April 2026 to delete some PPD that was left.
 
 <!-- image -->
 
@@ -40,54 +38,57 @@ Variation assessment report as adopted by the CHMP with all information of a com
 
 ## Table of contents
 
-| 1. Background information on the procedure                                                                                  | ..............................................7                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 1.1. Type II variation ..................................................................................................7  |                                                                                                         |
-| 1.2. Steps taken for the assessment of the product.........................................................8                |                                                                                                         |
-| 2. Scientific discussion                                                                                                    | ................................................................................8                       |
-| 2.1. Introduction.........................................................................................................8 |                                                                                                         |
-| 2.1.1. Problem statement                                                                                                    | ............................................................................................8           |
-| 2.1.2. About the product............................................................................................13      |                                                                                                         |
-| 2.1.3. The development programme/compliance with CHMP guidance/scientific advice                                            | ......13                                                                                                |
-| 2.1.4. General comments on compliance with                                                                                  | GCP........................................................13                                           |
-| 2.2. Non-clinical aspects                                                                                                   | ............................................................................................14          |
-| 2.2.1. Ecotoxicity/environmental risk assessment                                                                            | .........................................................14                                             |
-| 2.3. Clinical aspects                                                                                                       | ..................................................................................................14    |
-| 2.3.1. Introduction....................................................................................................14   |                                                                                                         |
-| 2.3.2. Pharmacokinetics.............................................................................................16      |                                                                                                         |
-| 2.3.3. Pharmacodynamics..........................................................................................30         |                                                                                                         |
-| 2.3.4. PK/PD modelling..............................................................................................31      |                                                                                                         |
-| 2.3.5. Discussion on clinical                                                                                               | pharmacology...................................................................47                       |
-| 2.3.6. Conclusions on clinical pharmacology.................................................................48              |                                                                                                         |
-| 2.4. Clinical efficacy                                                                                                      | ..................................................................................................48    |
-| 2.4.1. Main study......................................................................................................48   |                                                                                                         |
-| 2.4.2. Discussion on clinical efficacy............................................................................96        |                                                                                                         |
-| 2.4.3. Conclusions on the clinical efficacy...................................................................              | 101                                                                                                     |
-| 2.5. Clinical safety                                                                                                        | .................................................................................................. 101  |
-| 2.5.1. Discussion on clinical safety ............................................................................           | 127                                                                                                     |
-| 2.5.2. Conclusions on clinical safety ..........................................................................            | 129                                                                                                     |
-| 2.5.3. PSUR cycle                                                                                                           | ................................................................................................... 130 |
-| 2.6. Risk management plan......................................................................................             | 130                                                                                                     |
-| 2.7. Update of the Product information ......................................................................               | 132                                                                                                     |
-| 2.7.1. User consultation...........................................................................................         | 132                                                                                                     |
-| 3. Benefit-Risk Balance............................................................................132                      |                                                                                                         |
-| 3.1. Therapeutic Context                                                                                                    | ......................................................................................... 132           |
-| 3.1.1. Disease or condition.......................................................................................          | 132                                                                                                     |
-| 3.1.2. Available therapies and unmet medical need.....................................................                      | 132                                                                                                     |
-| 3.1.3. Main clinical studies .......................................................................................        | 133                                                                                                     |
-| 3.2. Favourable effects ............................................................................................        | 133                                                                                                     |
-| 3.3. Uncertainties and limitations about favourable effects...........................................                      | 134                                                                                                     |
-| 3.4. Unfavourable effects.........................................................................................          | 134                                                                                                     |
-| 3.5. Uncertainties and limitations about unfavourable effects                                                               | ....................................... 135                                                             |
-| 3.6. Effects Table....................................................................................................      | 135                                                                                                     |
-| 3.7. Benefit-risk assessment and discussion...............................................................                  | 136                                                                                                     |
-| 3.7.1. Importance of favourable and unfavourable effects............................................                        | 136                                                                                                     |
-| 3.7.2. Balance of benefits and risks...........................................................................             | 137                                                                                                     |
-| 3.7.3. Additional considerations on the benefit-risk balance                                                                | ......................................... 137                                                           |
+| 1. Background information on the procedure                                                                              | ..............................................7                                                          |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 1.1. Type II variation ................................................................................................ | 7                                                                                                        |
+| 1.2. Steps taken for the assessment of the product .......................................................              | 8                                                                                                        |
+| 2. Scientific discussion ................................................................................8              |                                                                                                          |
+| 2.1. Introduction                                                                                                       | ...................................................................................................... 8 |
+| 2.1.1. Problem statement                                                                                                | .......................................................................................... 8             |
+| 2.1.2. About the product .........................................................................................      | 13                                                                                                       |
+| 2.1.3. The development programme/compliance with CHMP guidance/scientific advice                                        | ..... 13                                                                                                 |
+| 2.1.4. General comments on compliance with GCP ......................................................                   | 13                                                                                                       |
+| 2.2. Non-clinical aspects..........................................................................................     | 14                                                                                                       |
+| 2.2.1. Ecotoxicity/environmental risk assessment........................................................                | 14                                                                                                       |
+| 2.3. Clinical aspects ................................................................................................  | 14                                                                                                       |
+| 2.3.1. Introduction                                                                                                     | ................................................................................................. 14     |
+| 2.3.2. Pharmacokinetics                                                                                                 | .......................................................................................... 16            |
+| 2.3.3. Pharmacodynamics........................................................................................         | 30                                                                                                       |
+| 2.3.4. PK/PD modelling............................................................................................      | 31                                                                                                       |
+| 2.3.5. Discussion on clinical pharmacology .................................................................            | 47                                                                                                       |
+| 2.3.6. Conclusions on clinical pharmacology                                                                             | ............................................................... 48                                       |
+| 2.4. Clinical efficacy                                                                                                  | ................................................................................................ 48      |
+| 2.4.1. Main study                                                                                                       | ................................................................................................... 48   |
+| 2.4.2. Discussion on clinical efficacy ..........................................................................       | 96                                                                                                       |
+| 2.4.3. Conclusions on the clinical efficacy..................................................................101        |                                                                                                          |
+| 2.5. Clinical safety                                                                                                    | .................................................................................................101     |
+| 2.5.1. Discussion on clinical safety                                                                                    | ...........................................................................127                           |
+| 2.5.2. Conclusions on clinical safety                                                                                   | .........................................................................129                             |
+| 2.5.3. PSUR cycle                                                                                                       | ..................................................................................................130    |
+| 2.6. Risk management plan.....................................................................................130       |                                                                                                          |
+| 2.7. Update of the Product information                                                                                  | .....................................................................132                                 |
+| 2.7.1. User consultation..........................................................................................132   |                                                                                                          |
+| 3. Benefit-Risk Balance............................................................................132                  |                                                                                                          |
+| 3.1. Therapeutic Context                                                                                                | ........................................................................................132              |
+| 3.1.1. Disease or condition......................................................................................132    |                                                                                                          |
+| 3.1.2. Available therapies and unmet medical need                                                                       | ....................................................132                                                  |
+| 3.1.3. Main clinical studies                                                                                            | ......................................................................................133                |
+| 3.2. Favourable effects...........................................................................................133   |                                                                                                          |
+| 3.3. Uncertainties and limitations about favourable effects                                                             | ..........................................134                                                            |
+| 3.4. Unfavourable effects........................................................................................134    |                                                                                                          |
+| 3.5. Uncertainties and limitations about unfavourable effects                                                           | .......................................135                                                               |
+| 3.6. Effects Table                                                                                                      | ..................................................................................................135    |
+| 3.7. Benefit-risk assessment and discussion                                                                             | ..............................................................136                                        |
+| 3.7.1. Importance of favourable and unfavourable effects                                                                | ...........................................136                                                           |
+| 3.7.2. Balance of benefits and risks..........................................................................137       |                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-## 3.8. Conclusions .....................................................................................................  137 4. Recommendations ...............................................................................  138 5. EPAR changes  ......................................................................................  139
+3.7.3. Additional considerations on the benefit-risk balance .........................................  137
+
+3.8. Conclusions  ....................................................................................................  137
+
+4. Recommendations ...............................................................................  138
 
 <div style=\"page-break-after: always\"></div>
 
@@ -134,7 +135,39 @@ AC Adjudication Committee ADA anti-drug antibody ADC antibody-drug conjugate ADR
 
 <div style=\"page-break-after: always\"></div>
 
-OS overall survival PARP poly (ADP-ribose) polymerase PBRER  Periodic Benefit Risk Evaluation Report PD progressive disease PD-L1 programmed cell death ligand 1 PFS progression-free survival PIK3CA phosphatidylinositol-4,5-bisphosphate 3 kinase catalytic subunit alpha PK pharmacokinetic(s) PopPK  population pharmacokinetic(s) PPS Per-protocol Analysis Set PR partial response PRO Patient-reported outcome(s) PT preferred term Q3W every 3 weeks QLQ-C30 Quality-of-life C-30 QLQ-BR45/BR323 Quality-of-life BR 45/BR23 RECIST v1.1 Response Evaluation Criteria in Solid Tumors Version 1.1 SAE serious adverse event SAP statistical analysis plan SCE summary of clinical efficacy SCS summary of clinical safety SD stable disease SERM selective estrogen receptor modulator SMQ Standardised MedDRA Query SoC standard of care T-DXd  trastuzumab deruxtecan, Enhertu® TEAE treatment-emergent adverse event TNBC triple-negative breast cancer TPC treatment of physician's choice TTDD time to definitive deterioration US United States v Version vs versus
+| OS                                                                            | overall survival                                                              | overall survival                                                              | overall survival                                                              |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| PARP                                                                          | poly (ADP-ribose) polymerase                                                  | poly (ADP-ribose) polymerase                                                  | poly (ADP-ribose) polymerase                                                  |
+| PBRER                                                                         | Periodic Benefit Risk Evaluation Report                                       | Periodic Benefit Risk Evaluation Report                                       | Periodic Benefit Risk Evaluation Report                                       |
+| PD                                                                            | progressive disease                                                           | progressive disease                                                           | progressive disease                                                           |
+| PD-L1                                                                         | programmed cell death ligand 1                                                | programmed cell death ligand 1                                                | programmed cell death ligand 1                                                |
+| PFS                                                                           | progression-free survival                                                     | progression-free survival                                                     | progression-free survival                                                     |
+| PIK3CA phosphatidylinositol-4,5-bisphosphate 3 kinase catalytic subunit alpha | PIK3CA phosphatidylinositol-4,5-bisphosphate 3 kinase catalytic subunit alpha | PIK3CA phosphatidylinositol-4,5-bisphosphate 3 kinase catalytic subunit alpha | PIK3CA phosphatidylinositol-4,5-bisphosphate 3 kinase catalytic subunit alpha |
+| PK                                                                            |                                                                               |                                                                               | pharmacokinetic(s)                                                            |
+| PopPK                                                                         | population pharmacokinetic(s)                                                 | population pharmacokinetic(s)                                                 | population pharmacokinetic(s)                                                 |
+| PPS                                                                           | Per-protocol Analysis Set                                                     | Per-protocol Analysis Set                                                     | Per-protocol Analysis Set                                                     |
+| PR                                                                            | partial response                                                              | partial response                                                              | partial response                                                              |
+| PRO                                                                           | Patient-reported outcome(s)                                                   | Patient-reported outcome(s)                                                   | Patient-reported outcome(s)                                                   |
+| PT                                                                            | preferred term                                                                | preferred term                                                                | preferred term                                                                |
+| Q3W                                                                           | every 3 weeks                                                                 | every 3 weeks                                                                 | every 3 weeks                                                                 |
+| QLQ-C30                                                                       | QLQ-C30                                                                       | Quality-of-life C-30                                                          | Quality-of-life C-30                                                          |
+| QLQ-BR45/BR323                                                                | QLQ-BR45/BR323                                                                | QLQ-BR45/BR323                                                                | Quality-of-life BR 45/BR23                                                    |
+| RECIST v1.1 Response Evaluation Criteria in Solid Tumors Version 1.1          | RECIST v1.1 Response Evaluation Criteria in Solid Tumors Version 1.1          | RECIST v1.1 Response Evaluation Criteria in Solid Tumors Version 1.1          | RECIST v1.1 Response Evaluation Criteria in Solid Tumors Version 1.1          |
+| SAE                                                                           | serious adverse event                                                         | serious adverse event                                                         | serious adverse event                                                         |
+| SAP                                                                           | statistical analysis plan                                                     | statistical analysis plan                                                     | statistical analysis plan                                                     |
+| SCE                                                                           | summary of clinical efficacy                                                  | summary of clinical efficacy                                                  | summary of clinical efficacy                                                  |
+| SCS                                                                           | summary of clinical safety                                                    | summary of clinical safety                                                    | summary of clinical safety                                                    |
+| SD                                                                            |                                                                               |                                                                               |                                                                               |
+| SERM                                                                          | selective estrogen receptor modulator                                         | selective estrogen receptor modulator                                         | selective estrogen receptor modulator                                         |
+| SMQ                                                                           | Standardised MedDRA Query                                                     | Standardised MedDRA Query                                                     | Standardised MedDRA Query                                                     |
+| SoC                                                                           | standard of care                                                              | standard of care                                                              | standard of care                                                              |
+| T-DXd                                                                         | trastuzumab deruxtecan, Enhertu®                                              | trastuzumab deruxtecan, Enhertu®                                              | trastuzumab deruxtecan, Enhertu®                                              |
+| TEAE                                                                          | treatment-emergent adverse event                                              | treatment-emergent adverse event                                              | treatment-emergent adverse event                                              |
+| TNBC                                                                          | triple-negative breast cancer                                                 | triple-negative breast cancer                                                 | triple-negative breast cancer                                                 |
+| TPC                                                                           | treatment of physician's choice                                               | treatment of physician's choice                                               | treatment of physician's choice                                               |
+| TTDD                                                                          | time to definitive deterioration                                              | time to definitive deterioration                                              | time to definitive deterioration                                              |
+| US                                                                            | United States                                                                 | United States                                                                 | United States                                                                 |
+| v                                                                             | Version                                                                       | Version                                                                       | Version                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -178,28 +211,35 @@ The MAH received Scientific Advice from the CHMP on 20 September 2018 (EMEA/H/SA
 
 The Rapporteur and Co-Rapporteur appointed by the CHMP were:
 
-| Rapporteur: Aaron Sosa Mejia                  | Co-Rapporteur:   | Paula Boudewina van Hennik   |
-|-----------------------------------------------|------------------|------------------------------|
-| Timetable                                     |                  | Actual dates                 |
-| Submission date                               |                  | 31 May 2022                  |
-| Start of procedure:                           |                  | 18 June 2022                 |
-| CHMP Rapporteur Assessment Report             |                  | 5 August 2022                |
-| PRAC Rapporteur Assessment Report             |                  | 11 August 2022               |
-| PRAC members comments                         |                  | 24 August 2022               |
-| CHMP Co-Rapporteur Critique                   |                  | 23 August 2022               |
-| Updated PRAC Rapporteur Assessment Report     |                  | 25 August 2022               |
-| PRAC Outcome                                  |                  | 1 September 2022             |
-| CHMP members comments                         |                  | 5 September 2022             |
-| Updated CHMP Rapporteur(s) (Joint) Assessment | Report           | 9 September 2022             |
-| Request for supplementary information (RSI)   |                  | 15 September 2022            |
-| CHMP Rapporteur Assessment Report             |                  | 15 November 2022             |
-| PRAC Rapporteur Assessment Report             |                  | 18 November 2022             |
-| PRAC members comments                         |                  | 23 November 2022             |
-| Updated PRAC Rapporteur Assessment Report     |                  | 24 November 2022             |
-| PRAC Outcome                                  |                  | 1 December 2022              |
-| CHMP members comments                         |                  | 5 December 2022              |
-| Updated CHMP Rapporteur Assessment Report     |                  | 8 December 2022              |
-| Opinion                                       |                  | 15 December 2022             |
+Rapporteur:
+
+Aaron Sosa Mejia
+
+Co-Rapporteur:
+
+Paula Boudewina van Hennik
+
+| Timetable                                            | Actual dates      |
+|------------------------------------------------------|-------------------|
+| Submission date                                      | 31 May 2022       |
+| Start of procedure:                                  | 18 June 2022      |
+| CHMP Rapporteur Assessment Report                    | 5 August 2022     |
+| PRAC Rapporteur Assessment Report                    | 11 August 2022    |
+| PRAC members comments                                | 24 August 2022    |
+| CHMP Co-Rapporteur Critique                          | 23 August 2022    |
+| Updated PRAC Rapporteur Assessment Report            | 25 August 2022    |
+| PRAC Outcome                                         | 1 September 2022  |
+| CHMP members comments                                | 5 September 2022  |
+| Updated CHMP Rapporteur(s) (Joint) Assessment Report | 9 September 2022  |
+| Request for supplementary information (RSI)          | 15 September 2022 |
+| CHMP Rapporteur Assessment Report                    | 15 November 2022  |
+| PRAC Rapporteur Assessment Report                    | 18 November 2022  |
+| PRAC members comments                                | 23 November 2022  |
+| Updated PRAC Rapporteur Assessment Report            | 24 November 2022  |
+| PRAC Outcome                                         | 1 December 2022   |
+| CHMP members comments                                | 5 December 2022   |
+| Updated CHMP Rapporteur Assessment Report            | 8 December 2022   |
+| Opinion                                              | 15 December 2022  |
 
 ## 2. Scientific discussion
 
@@ -227,11 +267,9 @@ Current therapeutic guidelines for patients with breast cancer exhibiting HER2-l
 
 The recommended treatment in the targeted second- and subsequent-line setting for patients with hormone receptor positive (HR+) disease, previously exposed to endocrine therapy (ET), are fulvestrant in combination with a CDK4/6 inhibitor. If a CDK4/6 inhibitor was not previously used, everolimus with either an AI, tamoxifen or fulvestrant, monotherapy with fulvestrant, a non-steroidal or a steroidal AI, or a selective oestrogen receptor modulator (SERM) is recommended. For patients with PIK3CA-mutated tumours, the preferred option is fulvestrant with alpelisib.  Once metastatic hormone receptor-positive HER2-negative BC is refractory to ET, the standard of care (SoC) is sequential systemic single-agent chemotherapy. Because of the lack of clear superiority, no specific chemotherapy is recommended in clinical practice guidelines but the most commonly used regimens include anthracyclines (doxorubicin and liposomal doxorubicin), anti-metabolites (capecitabine and gemcitabine), microtubule inhibitors (vinorelbine and eribulin), and taxanes (paclitaxel). Combination therapies, although rarely used, may be useful in patients with rapid clinical progression or need for rapid symptom and/or disease control.  Other available systemic therapies include PARP inhibitors for patients with BRCA germline mutations and alpelisib for patients with PIK3CA-mutated tumors.
 
-For patients with HR-negative disease (Triple-negative disease (TNBC)), the available treatment options are as follows.  For patients with PDL1-negative disease, the treatment in the first-line setting is sequential single agent chemotherapy using the same preferred chemotherapeutic options as those for patients with hormone receptor-positive HER2-negative BC refractory to ET.  Regardless of BRCA status, for patients with TNBC previously treated with anthracyclines and taxanes in the adjuvant or
+For patients with HR-negative disease (Triple-negative disease (TNBC)), the available treatment options are as follows.  For patients with PDL1-negative disease, the treatment in the first-line setting is sequential single agent chemotherapy using the same preferred chemotherapeutic options as those for patients with hormone receptor-positive HER2-negative BC refractory to ET.  Regardless of BRCA status, for patients with TNBC previously treated with anthracyclines and taxanes in the adjuvant or neoadjuvant setting, platinum agents are the preferred option. For patients with BRCA mutations, the recommendation is to use PARP inhibitors or platinum agents and for patients with PD L1-positive TNBC, the preferred therapeutic option in the first-line setting is an immune-checkpoint inhibitor in combination with chemotherapy. For the later line setting after at least two previous regimens, with at least one of them in the metastatic setting, the antibody-drug conjugate (ADC) sacituzumab govitecan is approved (see Trodelvy SmPC/EPAR).
 
 <div style=\"page-break-after: always\"></div>
-
-neoadjuvant setting, platinum agents are the preferred option. For patients with BRCA mutations, the recommendation is to use PARP inhibitors or platinum agents and for patients with PD L1-positive TNBC, the preferred therapeutic option in the first-line setting is an immune-checkpoint inhibitor in combination with chemotherapy. For the later line setting after at least two previous regimens, with at least one of them in the metastatic setting, the antibody-drug conjugate (ADC) sacituzumab govitecan is approved (see Trodelvy SmPC/EPAR).
 
 Table 1 Treatment Options in Metastatic HER2-negative Breast Cancer Refractory to or Ineligible for Endocrine-based Therapy (modified)
 
@@ -286,11 +324,9 @@ The focus of this application is the randomized, active controlled Phase 3 Study
 
 ## 2.1.4. General comments on compliance with GCP
 
-The Applicant stated that all studies of trastuzumab deruxtecan were conducted in accordance with the ethical principles of Good Clinical Practice (GCP), according to International Council for Harmonisation (ICH) Harmonised Tripartite Guideline E6 and that all trials conformed to the Declaration of Helsinki
+The Applicant stated that all studies of trastuzumab deruxtecan were conducted in accordance with the ethical principles of Good Clinical Practice (GCP), according to International Council for Harmonisation (ICH) Harmonised Tripartite Guideline E6 and that all trials conformed to the Declaration of Helsinki and informed, written consent was obtained from all patients as per GCP requirement.
 
 <div style=\"page-break-after: always\"></div>
-
-and informed, written consent was obtained from all patients as per GCP requirement.
 
 ## 2.2. Non-clinical aspects
 
@@ -335,29 +371,27 @@ The MAH has provided a statement to the effect that clinical trials conducted ou
 
 Table 2 Tabular overview of clinical studies
 
-| Study Number Module   | Dev. Phase   | Study Objectives                                                                                                                                                                                                                                                                 |   N | Dose                                   | Sampling TimePoints                                                                                                                                                             |
-|-----------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| J101 Module 5.3.3.2   |              | Determination oftheMTDor theRP2D of trastuzumab deruxtecan, assessment of the PK profiles of trastuzumab deruxtecan, DXd, and total anti-HER2 antibody, evaluation of efficacy, and assessment of safety and tolerability in subjects with advancedsolid malignant tumors        | 292 | 0.8, 1.6, 3.2, 5.4, 6.4, and 8.0 mg/kg | Cycle 1: Predose, EO1, 2,4, and 7 hours, and 1,3,7,14 and 21a days after SOA Cycle 3: Predose, EO1, 4 hours, and 7 and 14 days after SOA. Cycles 2, 4, 6 and 8: Predose and EOI |
-| J2022                 | 2            | Comparison ofthe efficacy and safety of trastuzumab deruxtecan and TPC in HER2-overexpressing advanced gastric or GEJ adenocarcinoma subjects who have progressed on two prior regimens including fluoropyrimidine agent, platinum agent and trastuzumab(brand,                  | 231 | 6.4 mg/kg                              | Cycle 1, 3: Predose, EOI, 4 and 7 hours, and 7,14 and 21a days after SOA Cycles 2, 4, 6 and 8: Predose and EOI                                                                  |
-| J1023                 |              | Assessment of thePK of trastuzumab deruxtecan after multiple dosing, assessment ofthe effect of T-DXd on the QTc interval, and evaluation of efficacy and safety in subjects with HER2-expressing metastatic and/or unresectable BC                                              |  51 | 6.4 mg/kg                              | Cycles 1 and 3: Predose, EOI, 2, 4,and 7hours,and 1,3,7,14 and 21° days after SOA Cycles 2, 4, 6 and 8: Predose and EOI                                                         |
-| A1034                 |              | Assessment of the PK profiles of trastuzumab deruxtecan,DXd, and total anti-HER2 antibody, assessment of safety and tolerability of T-DXd, and investigation of anti-tumor activity in subjects with HER2-positive advanced and/or refractory gastric, GEJ adenocarcinoma, or BC |  12 | 6.4 mg/kg                              | Cycles 1 and 3: Predose, EOI, 2, 4, and 7hours, and 1,3,7,14, and 21a days after SOA Cycles 2, 4, 6 and 8: Predose and EOI                                                      |
-| A1045                 |              | Evaluation of the effects of ritonavir and itraconazoleonthePKoftrastuzumab deruxtecan and DXd, assessment of safety, and evaluation of efficacy in subjects with HER2-expressing advanced solid malignant tumors                                                                |  40 | 5.4 mg/kg                              | Cycles 1,4,6 and 8: Predose and EOI Cycles 2 and 3: Predose, EOI, 2, 4, and 7hours, and 1,3,7, 11, and 16 days after SOA                                                        |
+| Study Number Module   |   Dev. Phase | Study Objectives                                                                                                                                                                                                                                                                       |   N | Dose                                   | Sampling Time Points                                                                                                                                                               |
+|-----------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| J101 Module 5.3.3.2   |            1 | Determination of the MTD or the RP2D of trastuzumab deruxtecan, assessment of the PK profiles of trastuzumab deruxtecan, DXd, and total anti-HER2 antibody, evaluation of efficacy, and assessment of safety and tolerability in subjects with advanced solid malignant tumors         | 292 | 0.8, 1.6, 3.2, 5.4, 6.4, and 8.0 mg/kg | Cycle 1: Predose, EOI, 2, 4, and 7 hours, and 1, 3, 7, 14 and 21ª days after SOA Cycle 3: Predose, EOI, 4 hours, and 7 and 14 days after SOA. Cycles 2, 4, 6 and 8: Predose and BI |
+| J202²                 |            2 | Comparison of the efficacy and safety of trastuzumab deruxtecan and TPC in HER2-overexpressing advanced gastric or GEJ adenocarcinoma subjects who have progressed on two prior regimens including fluoropyrimidine agent, platinum agent and trastuzumab (brand, approved biosimilar) | 231 | 6.4 mg/kg                              | Cycle 1, 3: Predose, EOI, 4 and 7 hours, and 7, 14 and 21ª days after SOA Cycles 2, 4, 6 and 8: Predose and BI                                                                     |
+| J102³                 |            1 | Assessment of the PK of trastuzumab deruxtecan after multiple dosing, assessment of the effect of T-DXd on the QTc interval, and evaluation of efficacy and safety in subjects with HER2-expressing metastatic and/or unresectable BC                                                  |  51 | 6.4 mg/kg                              | Cycles 1 and 3: Predose, EOI, 2, 4, and 7 hours, and 1, 3, 7, 14 and 21ª days after SOA Cycles 2, 4, 6 and 8: Predose and EOI                                                      |
+| A1034                 |            1 | Assessment of the PK profiles of trastuzumab deruxtecan, DXd, and total anti-HER2 antibody, assessment of safety and tolerability of T-DXd, and investigation of anti-tumor activity in subjects with HER2-positive advanced and/or refractory gastric, GEJ                            |  12 | 6.4 mg/kg                              | Cycles 1 and 3: Predose, EOI, 2, 4, and 7 hours, and 1, 3, 7, 14, and 21ª days after SOA Cycles 2, 4, 6 and 8: Predose and EI                                                      |
+| A104⁵                 |            1 | Evaluation of the effects of ritonavir and itraconazole on the PK of trastuzumab deruxtecan and DXd, assessment of safety, and evaluation of efficacy in subjects with HER2-expressing advanced solid malignant tumors                                                                 |  40 | 5.4 mg/kg                              | Cycles 1, 4, 6 and 8: Predose and EOI Cycles 2 and 3: Predose, EOI, 2, 4, and 7 hours, and 1, 3, 7, 11, and 16 days after SOA                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Study Number Module   | Dev. Phase   | Study Objectives                                                                                                                                                                                                                                                                                                 |   N | Dose                    | Sampling Time Points                                                                                                                                                                                                                                                                                                                                        |
-|-----------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| U201 Module 5.3.5.2   |              | Determination of thePK and RP2D of trastuzumabderuxtecan,evaluationof E-R relationships for efficacy and safety, and evaluation of efficacy andsafety in HER2-positive, unresectable and/or metastatic BC subjects previously treated with T-DM1                                                                 | 253 | 5.4, 6.4, and 7.4 mg/kg | Part 1 PK: Cycle 1:Predose,EO1, 2,4,and 7hours,and1,3,7,14and 21° days after SOA Cycle 2,4,6,and 8: Predose and EOI Cycle 3: Predose, EO1, and 4 and 7hours afterSOA Dose-finding/RP2DEvaluation: Cycle 1: Predose,EO1,4 and 7 hours, and 7,14 and 21° days afler SOA Cycles 2,4,6,and 8: Predose and EOI Cycle 3: Predose, EO1, and 4 and 7 hours afterSOA |
-| U2046                 | 2            | EvaluationoftheORRoftrastuzumab deruxtecan in HER2-overexpressing .../or HER2-mutated advanced NSCLC subjects                                                                                                                                                                                                    | 181 | 6.4 mg/kg               | Cycle 1:Predose,EO1,5hours and 7,14, and 21a days after SOA Cycles 2, 3,4,and 6: Predose and EOI                                                                                                                                                                                                                                                            |
-| U2057                 |              | Investigationoftheefficacyof trastuzumabderuxtecanbasedon confirmed ORR, as assessed by an independent central imagingfacility review using RECIST v1.1, in subjects with HER2-positive unresectable or metastatic gastric or GEJ adenocarcinoma that hasprogressed on or after a trastuzumab-containing regimen |  79 | 6.4 mg/kg               | Cycle 1: Predose, EO1, 5 ±2 hours and 8, 15 and 21# days afler SOA Cycles 2. 3.4,6 and 8: Predose and EOI                                                                                                                                                                                                                                                   |
-| U3028                 |              | Comparison of the efficacy of trastuzumab deruxtecan vs T-DM1 as measured byPFS for HER2-positive, unresectable and/or metastatic BC subjects previously treated with trastuzumabandtaxane                                                                                                                       | 524 | 5.4 mg/kg               | Cycle 1: Predose,EO1, 5 hours and 21a days after SOA Cycles 2,3,4,6, and 8: Predose and EOI                                                                                                                                                                                                                                                                 |
-| U303 Module 5.3.5.1   | 3            | Comparison ofPFSbenefit ofT-DXd to physician's choice in HER2-low, HR-positive BC, based on BICR                                                                                                                                                                                                                 | 557 | 5.4 mg/kg               | Cycle 1: Predose, EO1, 5 hours and 21a days after SOA Cycles 2.3.4 and subsequent: Predose and EOI                                                                                                                                                                                                                                                          |
+| Study Number Module   |   Dev. Phase | Study Objectives                                                                                                                                                                                                                                                                                                          |   N | Dose                    | Sampling Time Points                                                                                                                                                                                                                                                                                                                                                                |
+|-----------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| U201 Module 5.3.5.2   |            2 | Determination of the PK and RP2D of trastuzumab deruxtecan, evaluation of E-R relationships for efficacy and safety, and evaluation of efficacy and safety in HER2-positive, unresectable and/or metastatic BC subjects previously treated with T-DM1                                                                     | 253 | 5.4, 6.4, and 7.4 mg/kg | Part 1 PK: Cycle 1: Predose, EOI, 2, 4, and 7 hours, and 1, 3, 7, 14 and 21ª days after SOA Cycle 2, 4, 6, and 8: Predose and EOI Cycle 3: Predose, EOI, and 4 and 7 hours after SOA Dose-finding/RP2D Evaluation: Cycle 1: Predose, EOI, 4 and 7 hours, and 7, 14 and 21ª days after SOA Cycles 2, 4, 6, and 8: Predose and EOI Cycle 3: Predose, EOI, and 4 and 7 hours after SOA |
+| U204⁶                 |            2 | Evaluation of the ORR of trastuzumab deruxtecan in HER2-overexpressing /or HER2-mutated advanced NSCLC subjects                                                                                                                                                                                                           | 181 | 6.4 mg/kg               | Cycle 1: Predose, EOI, 5 hours and 7, 14, and 21ª days after SOA Cycles 2, 3, 4, and 6: Predose and EOI                                                                                                                                                                                                                                                                             |
+| U2057                 |            2 | Investigation of the efficacy of trastuzumab deruxtecan based on confirmed ORR, as assessed by an independent central imaging facility review using RECIST v1.1, in subjects with HER2-positive unresectable or metastatic gastric or GEJ adenocarcinoma that has progressed on or after a trastuzumab-containing regimen |  79 | 6.4 mg/kg               | Cycle 1: Predose, EOI, 5 ±2 hours and 8, 15 and 21ª days after SOA Cycles 2, 3, 4, 6 and 8: Predose and EOI                                                                                                                                                                                                                                                                         |
+| U3028                 |            3 | Comparison of the efficacy of trastuzumab deruxtecan vs T-DM1 as measured by PFS for HER2-positive, unresectable and/or metastatic BC subjects previously treated with trastuzumab and taxane                                                                                                                             | 524 | 5.4 mg/kg               | Cycle 1: Predose, EOI, 5 hours and 21ª days after SOA Cycles 2, 3, 4, 6, and 8: Predose and EOI                                                                                                                                                                                                                                                                                     |
+| U303 Module 5.3.5.1   |            3 | Comparison of PFS benefit of T-DXd to physician's choice in HER2-low, HR-positive BC, based on BICR                                                                                                                                                                                                                       | 557 | 5.4 mg/kg               | Cycle 1: Predose, EOI, 5 hours and 21ª days after SOA Cycles 2, 3, 4 and subsequent: Predose and EOI                                                                                                                                                                                                                                                                                |
 
-T-DM1 = trastuzumab emtansine; T-DXd = trastuzumab deruxtecan.
+BC = breast cancer; BICR = blinded independent central review; Dev. = development; DXd = released payload (MAAA-1181a); EOI = end of infusion; E-R = exposure-response; GEJ = gastroesophageal junction; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; N = number of subjects; MTD = maximum tolerated dose; NSCLC = non-small cell lung cancer; ORR = objective response rate; PFS = progression-free survival; PK = pharmacokinetic(s); RECIST v1.1 = Response Evaluation Criteria in Solid Tumors Version 1.1; RP2D = recommended Phase 2 dose; SOA = start of administration;
 
-BC = breast cancer; BICR = blinded independent central review; Dev. = development; DXd =released payload (MAAA-118la); EOI = end ofinfusion; E-R = exposure-response; GEJ = gastroesophageal junction; HER2 = human epidermal growth factor receptor 2; HR = hormone receptor; N = number of subjects; MTD = maximum tolerated dose; NSCLC = non-small cell lung cancer; ORR = objective response rate; PFS = progression-free survival; PK = pharmacokinetic(s); RECIST v1.1 = Response Evaluation Criteria in Solid Tumors Version 1.1; RP2D = recommended Phase 2 dose; SOA = start of administration;
-
-aIfthe schedule on Day 1 of the next cycle was delayed for 3 days or more,including ifthe subject could not continue onto the next cycle, blood sample was collected 21 days after the start of drug administration (±2 days). If the next schedule was not delayed, sampling at that point was not necessary.
+If the schedule on Day 1 of the next cycle was delayed for 3 days or more, including if the subject could not continue onto the next cycle, blood sample was collected 21 days after the start of drug administration (±2 days). If the next schedule was not delayed, sampling at that point was not necessary.
 
 ## 2.3.2. Pharmacokinetics
 
@@ -388,10 +422,10 @@ Table 3 Summary of PK data
 | Co-medication inhibitor excluded        | 105 (0.5%)      | 104 (0.5%)      | 76 (1.8%)       | 75 (1.8%)       | 181 (0.7%)      | 179 (0.7%)      |
 | Other excluded                          | 201 (0.9%)      | 201 (0.9%)      | 18 (0.4%)       | 17 (0.4%)       | 219 (0.9%)      | 218 (0.9%)      |
 | Outlier excluded                        | 105 (0.5%)      | 23 (0.1%)       | 0 (0%)          | 0 (0%)          | 105 (0.4%)      | 23 (0.1%)       |
-| Post-doseBQL excluded                   | 101 (0.5%)      | 34 (0.2%)       | 11 (0.3%)       | 3 (0.1%)        | 112 (0.4%)      | 37 (0.1%)       |
+| Post-dose BQL excluded                  | 101 (0.5%)      | 34 (0.2%)       | 11 (0.3%)       | 3 (0.1%)        | 112 (0.4%)      | 37 (0.1%)       |
 | Pre-dose BQL excluded                   | 1195 (5.6%)     | 1199 (5.6%)     | 359 (8.5%)      | 354 (8.4%)      | 1554 (6.1%)     | 1553 (6.1%)     |
-| Re-analyzed PK observations (non-BQL)   | 0 (0%)          | 0 (0%)          | 0 (0%)          | 181 (4.3%)      | 0 (0%)          | 181 (0.7%)      |
-| Totalobservations                       | 21258           | 21242           | 4234            | 4202            | 25492           | 25444           |
+| Re-analyzed PK observations (non-BQL)   | 0 (0%)          | 0 (0%)          | (%0) 0          | 181 (4.3%)      | 0 (0%)          | 181 (0.7%)      |
+| Total observations                      | 21258           | 21242           | 4234            | 4202            | 25492           | 25444           |
 
 Abbreviations: BQL = below the limit of quantitation; PK = pharmacokinetic.
 
@@ -403,7 +437,7 @@ Figure 1 Structural model schematic
 
 <!-- image -->
 
-Abbreviations: CLDxd = clearance of DXd; CLr-Dxd = clearance of T-DXd; IV = intravenous; Krel = release rate constant; Q = distributional clearance for T-DXd; V1,r-Dxa = central volume of T-DXd; V2.r-Dxa = peripheral volume of T-DXd; VDxd = volume of DXd.
+Abbreviations: CLDxa = clearance of DXd; CLτ-Dxa = clearance of T-DXd; IV = intravenous; Krel = release rate constant; Q = distributional clearance for T-DXd; V1,T-Dxa = central volume of T-DXd; V2,T-Dxa = peripheral volume of T-DXd; VDxa = volume of DXd.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -411,37 +445,33 @@ A sequential modelling approach was used to re-estimate model parameters with th
 
 Table 4 Final Pop PK parameters for T-DXd
 
-| Variable                                          | Estimate      | Estimate   | Between-SubjectVariability   | Between-SubjectVariability   | Between-SubjectVariability   |
-|---------------------------------------------------|---------------|------------|------------------------------|------------------------------|------------------------------|
-|                                                   | Typical Value | RSE (%)    | Magnitude (%CV)              | RSE (%)                      | Shrinkage (%)                |
-| Clearance (CLT-Dxd, L/day)                        | 0.410         | 0.933      | 23.8                         | 2.13                         | 11.1                         |
-| Central Volume of Distribution (V1,T-Dxd, L)      | 2.68          | 0.478      | 15.1                         | 1.86                         | 8.63                         |
-| Distributional Clearance (Qr-Dxd, L/day)          | 0.198         | 1.25       | 29.0                         | 4.26                         | 40.0                         |
-| Peripheral Volume of Distribution (V2,T-Dxd, L)   | 6.64          | 3.08       | 79.7                         | 3.07                         | 24.0                         |
-| Albumin (g/L) on CLr.Dxd                          | -0.480        | 10.0       |                              |                              |                              |
-| Race-country (Japan) on CLr-Dxd                   | -0.0928       | 13.6       |                              |                              |                              |
-| Tumor Size (mm) on CLr.Dxd                        | 0.0533        | 16.1       |                              |                              |                              |
-| Body Weight (kg) on CLr-Dxd                       | 0.385         | 8.14       |                              |                              |                              |
-| GC on CLT-DXd                                     | 0.175         | 12.4       |                              |                              |                              |
-| NSCLC and Other Cancers (not BC or GC) on CLT-DXd | 0.0968        | 19.0       |                              |                              |                              |
-| Body Weight (kg) on V1,T-Dxd                      | 0.430         | 4.65       |                              |                              |                              |
-| Sex (Male) on V1,T-Dxd                            | 0.136         | 10.3       |                              |                              |                              |
-| GC on V1,T-DXd                                    | 0.0976        | 15.2       |                              |                              |                              |
-| Race-country (Japan) on V2,T-Dxd                  | -0.269        | 9.43       |                              |                              |                              |
-| Residual Variability                              |               |            |                              |                              |                              |
-| Proportional Residual ErrorStd Dev                | 0.167         | 0.216      |                              |                              |                              |
-| Additive Residual Error Std Dev (ng/mL)           | 1059          | 1.72       |                              |                              |                              |
-| Covariance of CLT-Dxd and V1,T-Dxd                | 0.0179        | 3.42       |                              |                              |                              |
+| Variable                                          | Estimate      | Estimate   | Between-Subject Variability   | Between-Subject Variability   | Between-Subject Variability   |
+|---------------------------------------------------|---------------|------------|-------------------------------|-------------------------------|-------------------------------|
+|                                                   | Typical Value | RSE (%)    | Magnitude (%CV)               | RSE (%)                       | Shrinkage (%)                 |
+| Clearance (CLr-DXd, L/day)                        | 0.410         | 0.933      | 23.8                          | 2.13                          | 11.1                          |
+| Central Volume of Distribution (V1,T-Dxd, L)      | 2.68          | 0.478      | 15.1                          | 1.86                          | 8.63                          |
+| Distributional Clearance (Qr-Dxd, L/day)          | 0.198         | 1.25       | 29.0                          | 4.26                          | 40.0                          |
+| Peripheral Volume of Distribution (V2,T-Dxd, L)   | 6.64          | 3.08       | 79.7                          | 3.07                          | 24.0                          |
+| Albumin (g/L) on CLr-DXd                          | -0.480        | 10.0       |                               |                               |                               |
+| Race-country (Japan) on CLr-DXd                   | -0.0928       | 13.6       |                               |                               |                               |
+| Tumor Size (mm) on CLr-DXd                        | 0.0533        | 16.1       |                               |                               |                               |
+| Body Weight (kg) on CLr-DXd                       | 0.385         | 8.14       |                               |                               |                               |
+| GC on CLr-DXd                                     | 0.175         | 12.4       |                               |                               |                               |
+| NSCLC and Other Cancers (not BC or GC) on CLT-DXd | 0.0968        | 19.0       |                               |                               |                               |
+| Body Weight (kg) on V1,T-DXd                      | 0.430         | 4.65       |                               |                               |                               |
+| Sex (Male) on V1,T-DXd                            | 0.136         | 10.3       |                               |                               |                               |
+| GC on V1,T-DXd                                    | 0.0976        | 15.2       |                               |                               |                               |
+| Race-country (Japan) on V2,T-DXd                  | -0.269        | 9.43       |                               |                               |                               |
+| Residual Variability                              |               |            |                               |                               |                               |
+| Proportional Residual Error Std Dev               | 0.167         | 0.216      |                               |                               | -                             |
+| Additive Residual Error Std Dev (ng/mL)           | 1059          | 1.72       |                               |                               |                               |
+| Covariance of CLr-DXd and V1,T-DXd                | 0.0179        | 3.42       |                               |                               |                               |
 
-BC = breast cancer; CLr-Dxd = elimination clearance of T-DXd; CV = coefficient of variation; ETA = random between-subject effect; GC = gastric cancer; NSCLC = non-small cell lung cancer; Qr-Dxd = distributional clearance; RSE = relative standard error; Std Dev = standard deviation; SE = standard error; sqrt = square root; T-DXd = trastuzumab deruxtecan; V1,T-Dxd = T-DXd central volume of distribution; V2,T-Dxd = T-DXd peripheral
+Note: RSE of parameter estimates were calculated as 100 × (SE/typical value); RSE of between-subject variability magnitude was calculated as 100 × (SE/variance estimate)/2. CV (%) for between-subject variability estimates were based on the estimated variances. Shrinkage (%) was calculated as 100 × (1-Std Dev[ETA]/sqrt[variance]). Overall residual unexplained variability shrinkage was estimated to be 9.08%. The correlation coefficient between CLr-Dxd and V1,T-Dxd was estimated as 0.505.
 
-volumeofdistribution
-
-Note: RSE of parameter estimates were calculated as 100× (SE/typical value); RSE of between-subject variability magnitude was calculated as 100 × (SE/variance estimate)/2. CV (%) for between-subject variability estimates were based on the estimated variances.Shrinkage(%)was calculated as 100x(1-Std Dev[ETA]/sqrt[variance]).Overall residual unexplained variability shrinkage was estimated to be 9.08%. The correlation coefficient between CLr-Dxd and V1,r-Dxa was estimated as 0.505.
+Source: Module 5.3.3.5 Population PK Analysis Report PMx019, Table 4-6
 
 -: not applicable
-
-Source: Module 5.3.3.5 Population PK Analysis Report PMx019,Table 4-6
 
 The DXd parameters and corresponding covariate effects were then re-estimated based on the whole updated dataset with parameters for T-DXd fixed. With the addition of Study U303, the covariate effects of GC and NSCLC on CL,DXd and FL-DP1 formulation, NSCLC and race-country (non-Asian) on the V,DXd changed by &gt;20% compared to the same parameters in the previous DXd PopPK model. The effects of GC and NSCLC on CL,DXd and FL-DP1 formulation on V,DXd were no longer significant following backward deletion (p&gt;0.001) and were removed. Removal of NSCLC and race-country (nonAsian) effects on V,DXd resulted in a significant increase in OFV of 26 and 93 units and therefore they were retained. Covariate correlations were identified between race-country, region, weight and BSA. Thus, race-country was not tested. Parameter estimates for the final DXd model (run034) are presented in Table 5. Residual variability was modelled with a proportional error structure and estimated to be 30% with 7.51% shrinkage.
 
@@ -449,29 +479,33 @@ The DXd parameters and corresponding covariate effects were then re-estimated ba
 
 Table 5 Parameter estimates for the final DXd model
 
-| Variable                               | Estimate      | Estimate   | Between-SubjectVariability   | Between-SubjectVariability   | Between-SubjectVariability   |
-|----------------------------------------|---------------|------------|------------------------------|------------------------------|------------------------------|
-|                                        | Typical Value | RSE (%)    | Magnitude (%CV)              | RSE (%)                      | Shrinkage (%)                |
-| DXd Clearance (CLDxa, L/h)             | 19.6          | 2.20       | 30.1                         | 3.59                         | 33.0                         |
-| DXd Volume of Distribution (Vpxd, L)   | Fixed 17*BSA  |            | 47.0                         | 2.59                         | 21.1                         |
-| Release Rate (Krel, 1/h)               | 0.0196        | 2.16       | 32.9                         | 3.55                         | 25.4                         |
-| Fraction of Krel at Cycle >1 (FPC1)    | 0.741         | 0.969      | 26.7                         | 2.70                         | 26.2                         |
-| Exponent of Cycle effect onKrel (FPC2) | -0.158        | 2.60       |                              |                              |                              |
-| Ritonavir on CLpxd                     | -0.121        | 14.2       |                              |                              |                              |
-| Itraconazole on CLDxd                  | -0.111        | 19.4       |                              |                              |                              |
-| AST (U/L) on CLDxd                     | -0.195        | 10.3       |                              |                              |                              |
-| Total Bilirubin (μumol/L) on CLDxd     | -0.147        | 14.2       |                              |                              |                              |
-| Body Weight (kg) on CLDxd              | 0.316         | 16.3       |                              |                              |                              |
-| Age (years) on Vpxd                    | 0.630         | 10.1       |                              |                              |                              |
-| FL-DP2 Formulation on Vpxd             | 0.583         | 12.1       |                              |                              |                              |
-| NSCLC on VDxd                          | -0.204        | 21.6       |                              |                              |                              |
-| Race-Country (Non-Asian) on Vpxd       | -0.244        | 8.91       |                              |                              |                              |
-| Residual UnexplainedVariability        |               |            |                              |                              |                              |
-| Proportional Residual ErrorStd Dev     | 0.304         | 0.351      |                              |                              |                              |
+| Variable                                | Estimate      | Estimate   | Between-Subject Variability   | Between-Subject Variability   | Between-Subject Variability   |
+|-----------------------------------------|---------------|------------|-------------------------------|-------------------------------|-------------------------------|
+|                                         | Typical Value | RSE (%)    | Magnitude (%CV)               | RSE (%)                       | Shrinkage (%)                 |
+| DXd Clearance (CLDxd, L/h)              | 19.6          | 2.20       | 30.1                          | 3.59                          | 33.0                          |
+| DXd Volume of Distribution (Vdxd, L)    | Fixed 17*BSA  |            | 47.0                          | 2.59                          | 21.1                          |
+| Release Rate (Krel, 1/h)                | 0.0196        | 2.16       | 32.9                          | 3.55                          | 25.4                          |
+| Fraction of Krel at Cycle >1 (FPC1)     | 0.741         | 0.969      | 26.7                          | 2.70                          | 26.2                          |
+| Exponent of Cycle effect on Krel (FPC2) | -0.158        | 2.60       |                               |                               |                               |
+| Ritonavir on CLDXd                      | -0.121        | 14.2       |                               |                               |                               |
+| Itraconazole on CLDXd                   | -0.111        | 19.4       |                               | -                             | -                             |
+| AST (U/L) on CLDxd                      | -0.195        | 10.3       |                               | -                             |                               |
+| Total Bilirubin (μmol/L) on CLDxd       | -0.147        | 14.2       | 一                            |                               |                               |
+| Body Weight (kg) on CLDxd               | 0.316         | 16.3       |                               |                               |                               |
+| Age (years) on VDxd                     | 0.630         | 10.1       |                               |                               |                               |
+| FL-DP2 Formulation on VDxd              | 0.583         | 12.1       | 一                            |                               |                               |
+| NSCLC on VDxd                           | -0.204        | 21.6       |                               |                               |                               |
+| Race-Country (Non-Asian) on VDxd        | -0.244        | 8.91       |                               |                               |                               |
+| Residual Unexplained Variability        |               |            |                               |                               |                               |
+| Proportional Residual Error Std Dev     | 0.304         | 0.351      |                               |                               |                               |
 
-AST = aspartate aminotransferase; BSA =body surface area; CLpxd = elimination clearance of DXd; CV = coefficient of variation;DXd=released payload (MAAA-1181a);ETA =random between-subjecteffect; FL-DP2 = frozen liquid drug product 2; FPC1 = fraction of Krel after Cycle 1; FPC2 = exponent of Cycle effect on Krer; Krel = release rate constant; NSCLC = non-small cell lung cancer; RSE = relative standard error; Std Dev = standard deviation; SE = standard error; sqrt = square root;Vpxd =volume of distribution. Note:RSE of parameter estimate was calculated as 100×(SE/typical value); RSE of between-subject variability magnitude was calculated as 100× (SE/variance estimate)/2. CV% for the between-subject variability estimates were based on the estimated variances.Shrinkage(%)was calculated as 100×(1-Std Dev[ETA]/sqrt[variance]). Overall residual unexplained variability shrinkage was estimated to be 7.51%. -:not applicable
+CV = coefficient of variation; DXd = released payload (MAAA-1181a); ETA = random between-subject effect; FL-DP2 = frozen liquid drug product 2; FPC1 = fraction of Krel after Cycle 1; FPC2 = exponent of Cycle effect on Krel; Krel = release rate constant; NSCLC = non-small cell lung cancer; RSE = relative standard error; Std Dev = standard deviation; SE = standard error; sqrt = square root; VDxd = volume of distribution. Note: RSE of parameter estimate was calculated as 100 × (SE/typical value); RSE of between-subject variability magnitude was calculated as 100 × (SE/variance estimate)/2. CV% for the between-subject variability estimates were based on the estimated variances. Shrinkage (%) was calculated as 100 × (1-Std Dev[ETA]/sqrt[variance]). Overall residual unexplained variability shrinkage was estimated to be 7.51%.
 
-Source:Module 5.3.3.5PopulationPKAnalysis Report PMx019,Table 4-8
+AST = aspartate aminotransferase; BSA = body surface area; CLDxd = elimination clearance of DXd;
+
+-: not applicable
+
+Source: Module 5.3.3.5 Population PK Analysis Report PMx019, Table 4-8
 
 Prediction-corrected VPCs are presented in the below figures.
 
@@ -479,13 +513,11 @@ Prediction-corrected VPCs are presented in the below figures.
 
 Figure 2 Prediction-corrected VPC for the T-DXd and DXd PopPK model (run034)
 
-All DatabyTime SinceFirst Dose
+All Data by Time Since First Dose
 
-Abbreviations: PopPK = population pharmacokinetics; pred = prediction; VPC = visual predictive check. Note: Left plot is the prediction-corrected VPC for T-DXd and the right plot is the prediction-corrected VPC for DXd. Blue dots are prediction-corrected observed concentrations; blue lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of observed concentrations; and black lines are 50th (solid), 5th (dashed), and 95th (dashed)percentiles of simulations. Gray bands are 95%prediction interval for corresponding black lines based on 5o0 simulations. Short yellow lines indicate bin intervals.
+Source: VPC-TIME-both-all-data034.pdf, VPC-TAD-both-all-data-034.pdf, 2022-02-23-ds8201-303-gof.r.
 
 <!-- image -->
-
-Source:VPC-TIME-both-all-data034.pdf,VPC-TAD-both-all-data-034.pdf, 2022-02-23-ds8201-303-gof.r.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -493,11 +525,11 @@ Figure 3 Prediction-corrected VPC for the final T-DXd PopPK model (run034), stra
 
 <!-- image -->
 
-Abbreviations: HER2 = human epidermal growth factor receptor 2; PopPK = population pharmacokinetics; predcorr = prediction-corrected; VPC =visual predictive check.
+Abbreviations: HER2 = human epidermal growth factor receptor 2; PopPK = population pharmacokinetics; predcorr = prediction-corrected; VPC = visual predictive check.
 
-Note: Blue dots are prediction-corrected observed concentrations; blue lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of observed concentrations; and black lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of simulations. Gray bands are 95% prediction interval for corresponding black lines based on 5o0 simulations. Short yellow lines indicate bin intervals.
+Note: Blue dots are prediction-corrected observed concentrations; blue lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of observed concentrations; and black lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of simulations. Gray bands are 95% prediction interval for corresponding black lines based on 500 simulations. Short yellow lines indicate bin intervals.
 
-Source:VPC-TIME-both-HER2-034.pdf VPC-TAD-both-HER2-034.pdf, 2022-02-23-ds8201-303-gofR
+Source: VPC-TIME-both-HER2-034.pdf, VPC-TAD-both-HER2-034.pdf, 2022-02-23-ds8201-303-gof.R
 
 <div style=\"page-break-after: always\"></div>
 
@@ -505,11 +537,9 @@ Figure 4 Prediction-corrected VPC for the final DXd PopPK model (run034), strati
 
 <!-- image -->
 
-Abbreviations:HER2=human epidermal growth factor receptor 2;PopPK =population pharmacokinetics; predcorr = prediction-corrected; VPC = visual predictive check.
+Abbreviations: HER2 = human epidermal growth factor receptor 2; PopPK = population pharmacokinetics; pred-
 
-Note: Blue dots are prediction-corrected observed concentrations; blue lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of observed concentrations; and black lines are 50th (solid), 5th (dashed), and 95th (dashed)percentiles of simulations. Gray bands are 95%prediction interval for corresponding black lines based on 500 simulations. Short yellow lines indicate bin intervals.
-
-Source:VPC-TIME-both-HER2-034.pdfVPC-TAD-both-HER2-034.pdf,2022-02-23-ds8201-303-gofR
+corr = prediction-corrected; VPC = visual predictive check. Note: Blue dots are prediction-corrected observed concentrations; blue lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of observed concentrations; and black lines are 50th (solid), 5th (dashed), and 95th (dashed) percentiles of simulations. Gray bands are 95% prediction interval for corresponding black lines based on 500 simulations. Short yellow lines indicate bin intervals. Source: VPC-TIME-both-HER2-034.pdf, VPC-TAD-both-HER2-034.pdf, 2022-02-23-ds8201-303-gof.R
 
 A sensitivity analysis of the final DXd PopPK model showed no impact of removing CWRES≥5 T -DXd and DXd outliers from Study U303 (run034s). A second sensitivity analysis showed no impact of including additional 211 (of which 30 were BLQ) DXd samples (run034ss), that were re-analysed after primary DCO.
 
@@ -525,9 +555,9 @@ Figure 5 Time Course of Mean (+/- SD) Serum Concentrations of T-DXd, Total Anti-
 
 <!-- image -->
 
-DXd= released dug; HER2 =human epidermal growth factor receptor2; PK =pha macokinetic; Std Dev = standarddeviation; T-DXd=tra stuzumab deruxtecan
+DXd= released dnug; HER2 =humanepidemmal growth factor receptor2; PK =phammacokinetic; Std Dev = standarddeviation; T-DXd =trastuzumab deruxtecan
 
-Data cut-off:11Jan2022
+Data cut-off: 11 Jan 2022
 
 Source: Figure 14.4.1.2
 
@@ -537,45 +567,45 @@ Exposure parameters for HER2-low subjects in Study U303 were predicted using the
 
 Table 6 Summary of T-DXd PK Parameters: Integrated Analysis of Cycle 1 PK Data in Subjects with Breast Cancer
 
-|                              | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)               | PK Parameter (Unit)          |
-|------------------------------|------------------------------|------------------------------|------------------------------|-----------------------------------|------------------------------|
-| Dose                         | Cmax (μg/mL)                 | Tmax (b)a                    | AUClast (μg*d/mL)            | AUC21d (μg*d/mL)                  | Ctrough (μg/mL)              |
-| 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive)      | 5.4 mg/kg (BC HER2-Positive) |
-| N Mean a Std Dev Min/Max     | 232 124.15 32.608            | 232 2.167 0.02/166.73        | 232 544.68 163.415           | 190 572.6 167.08 115 756.5 205.10 | 215 5.5 5.13                 |
-| 6.4mg/kg (BC HER2-Positive)  | 6.4mg/kg (BC HER2-Positive)  |                              |                              |                                   |                              |
-| N Mean a Std Dev Min/Max     | 122 165.23 50.955            | 122 2.073                    | 122 740.9                    |                                   | 116 9.2455                   |
-| N Mean a                     | 21                           | 0.02/7.05                    | 212.27                       |                                   | 20.02356                     |
-| 5.4mg/kg(BCHER2-Low)         | 5.4mg/kg(BCHER2-Low)         | 5.4mg/kg(BCHER2-Low)         | 5.4mg/kg(BCHER2-Low)         | 5.4mg/kg(BCHER2-Low)              | 5.4mg/kg(BCHER2-Low)         |
-| Std Dev Min/Max              | 133.37 17.886                | 21 2.117 1.50/7.07           | 21 581.6 175.73              | 20 555.1 122.10                   | 21 9.7 26.07                 |
-| 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)           | 6.4 mg/kg (BC HER2-Low)      |
-| N Mean a                     | 79 171.73                    | 79 2.067 1.50, 7.23          | 79                           | 79 680.9                          | 78 7.3                       |
-| Std Dev Min/Max              |                              |                              | 680.1                        |                                   |                              |
-|                              | 91.525                       |                              |                              | 147.49                            |                              |
-|                              |                              |                              | 149.38                       |                                   | 10.44                        |
+|                              | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Dose                         | Cmax (μg/mL)                 | Tmax (h) a                   | AUClast (μg*d/mL)            | AUC21d (μg*d/mL)             | Ctrough (μg/mL)              |
+| 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) |
+| N Meanª Std Dev Min/Max      | 232 124.15 32.608            | 232 2.167 0.02/166.73        | 232 544.68 163.415           | 190 572.6 167.08 115 756.5   | 215 5.5 5.13                 |
+| 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) |                              |                              |                              |                              |
+| N Meanª Std Dev Min/Max      | 122 165.23 50.955            | 122 2.073 0.02/7.05          | 122 740.9 212.27             | 205.10                       | 116 9.2455                   |
+| N                            | 21 133.37                    | 21                           | 21 581.6                     | 20                           | 20.02356                     |
+| 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      |
+| Meanª Std Dev Min/Max        | 17.886                       | 2.117 1.50/7.07              | 175.73                       | 555.1 122.10                 | 21 9.7 26.07                 |
+| Meanª                        | 79                           | 79 2.067                     | 79                           | 79 680.9                     | 78 7.3                       |
+| 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      |
+| N Std Dev Min/Max            | 171.73                       |                              | 680.1                        |                              |                              |
+|                              | 91.525                       | 1.50, 7.23                   |                              | 147.49                       |                              |
+|                              |                              |                              | 149.38                       |                              | 10.44                        |
 
-AUC21d = area under the concentration-time curve from time zero to Day 21; AUClast = area under the serum concentration-time curve from time zero to the time of the last quantifiable serum concentration; BC = breast cancer; Cmax = maximum observed serum concentration; Ctrough = trough serum concentration; HER2 = human epidermal growth factor receptor 2; max = maximum; min = minimum; N = number of subjects; PK = pharmacokinetic; Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; Tmax = time of Cmax.
+AUC21d = area under the concentration-time curve from time zero to Day 21; AUClast = area under the serum concentration-time curve from time zero to the time of the last quantifiable serum concentration; BC = breast cancer; t nn = urm Cutnm un un = un uon unn o umm = xuna) growth factor receptor 2; max = maximum; min = minimum; N = number of subjects; PK = pharmacokinetic; Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; Tmax = time of Cmax.
 
-a Mean (Std Dev) values are presented for all parameters except Tmax, for which median (range) is presented. Source: Module 5.3.5.3 Integrated PK Analysis,Table 14.2.3.1
+a Mean (Std Dev) values are presented for all parameters except Tmax, for which median (range) is presented. Source: Module 5.3.5.3 Integrated PK Analysis, Table 14.2.3.1
 
 Table 7 Summary of DXd PK Parameters: Integrated Analysis of Cycle 1 in Subjects with Breast Cancer
 
-|                                                       | PK Parameter (Unit)                                   | PK Parameter (Unit)                                   | PK Parameter (Unit)                                   | PK Parameter (Unit)                                   | PK Parameter (Unit)                                   |
-|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| Dose                                                  | Cmax (μg/mL)                                          | Tmax (h)a                                             | AUClast (μg*d/mL)                                     | AUC21d (μg*d/mL)                                      | Ctrough (μg/mL)                                       |
-| 5.4 mg/kg (BC HER2-Positive)                          | 5.4 mg/kg (BC HER2-Positive)                          | 5.4 mg/kg (BC HER2-Positive)                          | 5.4 mg/kg (BC HER2-Positive)                          | 5.4 mg/kg (BC HER2-Positive)                          | 5.4 mg/kg (BC HER2-Positive)                          |
-| N Mean a Std Dev Min/Max                              | 232 8.1871 5.72156                                    | 232 6.792 0.24/166.51                                 | 232 31.729 17.6583                                    | 109 33.334 16.5512 103                                | 226 0.26349 0.249939                                  |
-| 6.4mg/kg (BC HER2-Positive)                           | 6.4mg/kg (BC HER2-Positive)                           | 6.4mg/kg (BC HER2-Positive)                           | 6.4mg/kg (BC HER2-Positive)                           | 6.4mg/kg (BC HER2-Positive)                           | 6.4mg/kg (BC HER2-Positive)                           |
-| N Mean a Std Dev Min/Max                              | 122 10.453 9.3428                                     | 122 6.840 0.34/191.47                                 | 122 43.69 32.364                                      | 43.61 31.395                                          | 115 0.35105 0.244394                                  |
-| 5.4 mg/kg (BC HER2-Low)                               | 5.4 mg/kg (BC HER2-Low)                               | 5.4 mg/kg (BC HER2-Low)                               | 5.4 mg/kg (BC HER2-Low)                               | 5.4 mg/kg (BC HER2-Low)                               | 5.4 mg/kg (BC HER2-Low)                               |
-| Mean a Std Dev                                        | 10.689 5.2101                                         | 4.100                                                 | 41.57                                                 | 20 41.41 18.107                                       | 21                                                    |
-| N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 | N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 | N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 | N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 | N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 | N 21 21 21 0.39816 17.830 0.448617 Min/Max 2.05/23.48 |
-| N Mean a                                              | 79                                                    | 79                                                    | 79 40.82                                              | 76 40.64                                              | 78                                                    |
-| 6.4 mg/kg (BC HER2-Low)                               | 6.4 mg/kg (BC HER2-Low)                               | 6.4 mg/kg (BC HER2-Low)                               | 6.4 mg/kg (BC HER2-Low)                               | 6.4 mg/kg (BC HER2-Low)                               | 6.4 mg/kg (BC HER2-Low)                               |
-| Min/Max                                               | 13.399 4.3519                                         | 6.767 3.83/7.25                                       | 11.787                                                |                                                       | 0.32806                                               |
-|                                                       |                                                       |                                                       |                                                       | 11.938                                                |                                                       |
-| Std Dev                                               |                                                       |                                                       |                                                       |                                                       | 0.201258                                              |
+|                              | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          | PK Parameter (Unit)          |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Dose                         | Cmax (μg/mL)                 | Tmax (h)                     | AUClast (μg*d/mL)            | AUC21d (μg*d/mL)             | Ctrough (μg/mL)              |
+| 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) | 5.4 mg/kg (BC HER2-Positive) |
+| N Meanª Std Dev Min/Max      | 232 8.1871 5.72156           | 232 6.792 0.24/166.51        | 232 31.729 17.6583           | 109 33.334 16.5512 103       | 226 0.26349 0.249939         |
+| 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) | 6.4 mg/kg (BC HER2-Positive) |
+| N Meanª Std Dev Min/Max      | 122 10.453 9.3428            | 122 6.840 0.34/191.47        | 122 43.69 32.364             | 43.61 31.395                 | 115 0.35105 0.244394         |
+| 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      | 5.4 mg/kg (BC HER2-Low)      |
+| N                            | 21 10.689 5.2101             | 21 4.100                     | 21 41.57                     | 20 41.41                     | 21                           |
+| Meanª Std Dev Min/Max        |                              | 2.05/23.48                   | 17.830                       | 18.107                       | 0.39816 0.448617             |
+| 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      | 6.4 mg/kg (BC HER2-Low)      |
+|                              | 79 13.399                    | 79 6.767                     | 79 40.82                     | 76 40.64                     | 78                           |
+| N Std Dev Min/Max            |                              |                              | 11.787                       |                              | 0.32806                      |
+| Meanª                        |                              | 3.83/7.25                    |                              | 11.938                       |                              |
+|                              | 4.3519                       |                              |                              |                              | 0.201258                     |
 
-AUC21d = area under the concentration-time curve from time zero to Day 21; AUClast = area under the serum concentration-time curve from time zero to the time ofthe last quantifiable serum concentration; BC =breast cancer; Cmax = maximum observed serum concentration; Ctrough = trough serum concentration; DXd = released payload (MAAA-1181a); HER2 = human epidermal growth factor receptor 2; max = maximum; min = minimum; N = number of subjects; PK = pharmacokinetic; Std Dev = standard deviation; Tmax = time of Cmax.
+AUC21d = area under the concentration-time curve from time zero to Day 21; AUClast = area under the serum concentration-time curve from time zero to the time of the last quantifiable serum concentration; BC = breast cancer; Cmax = maximum observed serum concentration; Ctrough = trough serum concentration; DXd = released payload (MAAA-1181a); HER2 = human epidermal growth factor receptor 2; max = maximum; min = minimum; N = number of subjects; PK = pharmacokinetic; Std Dev = standard deviation; Tmax = time of Cmax.
 
 a Mean (Std Dev) values are presented for all parameters except Tmax, for which median (range) is presented. Source: Module 5.3.5.3 Integrated PK Analysis Table 14.2.3.3
 
@@ -595,25 +625,25 @@ For DXd, subjects with extreme values of body weight (90 kg; 95th percentile) ha
 
 <div style=\"page-break-after: always\"></div>
 
-| Covariate               | Percentile   | anieA     | Ratio[90%CI]         |
-|-------------------------|--------------|-----------|----------------------|
-| Body weight (kg)        | 5th 25th     | 44        | 0.841[0.822,0.861]   |
-|                         |              | 52        | 0.93[0.923,0.939]    |
-|                         | 50th         | 60        | 1.01[1.01,1.01]      |
-|                         | 75th         | 69        | 1.1 [1.08, 1.11]     |
-|                         | 95th         | 90        | 1.28[1.23,1.32]      |
-| AST(U/L)                | 5th          | 15        | 0.874[0.853.0.8921   |
-|                         | 25th         | 20        | 0.924 [0.911, 0.935] |
-|                         | 50th         | 27        | 0.96[0.976,0.963]    |
-|                         | 75th         | 41        | 1.06 [1.05,1.07]     |
-|                         | 95th         | 86        | 1.23[1.19,1.27]      |
-| Total bilirubin(umol/L) | 5th          | 3         | 0.88[0.849,0.903]    |
-|                         | 25th         | 5         | 0.938[0.921,0.951]   |
-|                         | 50th         | 8         | 0.994[0.992,0.996]   |
-|                         | 75th         | 10        | 1.04[1.03.1.05]      |
-|                         | 95th         | 17        | 1.12[1.09,1.15]      |
-| Race-country            |              | Non-Asian | 1[0.998,1]           |
-| Cancertype              |              | NSCLC     | 0.841[0.84,0.843]    |
+| Covariate                | Percentile   | Value     | Ratio [90% CI]       |
+|--------------------------|--------------|-----------|----------------------|
+| Body weight (kg)         | 5th 25th     | 44        | 0.841 [0.822, 0.861] |
+|                          |              | 52        | 0.93 [0.923, 0.939]  |
+|                          | 50th         | 60        | 1.01 [1.01, 1.01]    |
+|                          | 75th         | 69        | 1.1 [1.08, 1.11]     |
+|                          | 95th         | 90        | 1.28 [1.23, 1.32]    |
+| AST (U/L)                | 5th          | 15        | 0.874 [0.853, 0.892] |
+|                          | 25th         | 20        | 0.924 [0.911, 0.935] |
+|                          | 50th         | 27        | 0.98 [0.976, 0.983]  |
+|                          | 75th         | 41        | 1.06 [1.05, 1.07]    |
+|                          | 95th         | 86        | 1.23 [1.19, 1.27]    |
+| Total bilirubin (umol/L) | 5th          | 3         | 0.88 [0.849, 0.903]  |
+|                          | 25th         | 5         | 0.938 [0.921, 0.951] |
+|                          | 50th         | 8         | 0.994 [0.992, 0.996] |
+|                          | 75th         | 10        | 1.04 [1.03, 1.05]    |
+|                          | 95th         | 17        | 1.12 [1.09, 1.15]    |
+| Race-country             |              | Non-Asian | 1 [0.998, 1]         |
+| Cancer type              |              | NSCLC     | 0.841 [0.84, 0.843]  |
 
 Figure 7 Forest plot of covariate effects on DXd exposure
 
@@ -627,17 +657,17 @@ Figure 8 Boxplots of post hoc steady state T-DXd exposures in HER2-low BC subjec
 
 <!-- image -->
 
-Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin = minimum concentration; HER2 = human epidermal growth factor receptor 2; n = number of subjects; Q3 W = every 3 weeks; ss = steady state.
+Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin = minimum concentration; HER2 = human epidermal growth factor receptor 2; n = number of subjects; Q3W = every 3 weeks; ss = steady state.
 
 Notes: Boxes show the median and interquartile range of data. Whiskers represent the extent of data within 1.5 times the interquartile range. Points represent data outside the whiskers. Hepatic function was categorized using the NCI ODWG criteria [12].
 
-Source:ds8201-intact-boxplots.docx, 2022-03-ds8201a-303-intact.r.
+Source: ds8201-intact-boxplots.docx, 2022-03-ds8201a-303-intact.r.
 
 Figure 9 Boxplots of post hoc steady state DXd exposures in HER2-low BC subjects receiving 5.4 mg/kg Q3W by hepatic function
 
 <!-- image -->
 
-Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin =minimum concentration; HER2 =human epidermal growth factor receptor 2; n =number of subjects; Q3W = every 3 weeks; ss = steady state.
+Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin = minimum concentration; HER2 = human epidermal growth factor receptor 2; n = number of subjects; Q3W = every 3 weeks; ss = steady state.
 
 Notes: Boxes show the median and interquartile range of data. Whiskers represent the extent of data within 1.5 times the interquartile range. Points represent data outside the whiskers. Hepatic function was categorized using the NCI ODWG criteria [12].
 
@@ -651,7 +681,7 @@ Figure 10 Boxplots of post hoc steady state T-DXd exposures in HER2-low BC subje
 
 Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin = minimum concentration; CrCL = creatinine clearance; FDA = Food and Drug Administration; HER2 = human epidermal growth factor receptor 2; n = number of subjects; Q3W = every 3 weeks; ss = steady state.
 
-Notes: Boxes show the median and interquartile range of data. Whiskers represent the extent of data within 1.5 times the interquartile range. Points represent data outside the whiskers. Renal function was categorized using the 2010 FDA Guidance for Industry: Pharmacokinetics in Patients with Impaired Renal Function [13]. Normal function, mild impairment, moderate impairment, and severe impairment were defined as CrCL (using Cockcroft and Gault equation) of≥90, 60 to 89, 30 to 59, and 15 to 29 mL/min, respectively. One (1) subject with severe renal impairment is not displayed.
+Notes: Boxes show the median and interquartile range of data. Whiskers represent the extent of data within 1.5 times the interquartile range. Points represent data outside the whiskers. Renal function was categorized using the 2010 FDA Guidance for Industry: Pharmacokinetics in Patients with Impaired Renal Function [13]. Normal function, mild impairment, moderate impairment, and severe impairment were defined as CrCL (using Coes (   t               ect with severe renal impairment is not displayed.
 
 Source: ds8201-intact-boxplots.docx, 2022-03-ds8201a-303-intact.r.
 
@@ -659,7 +689,7 @@ Figure 11 Boxplots of post hoc steady state DXd exposures in HER2-low BC subject
 
 <!-- image -->
 
-Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin =minimum concentration; CrCL = creatinine clearance; CrCL = creatinine clearance; FDA =Food and Drug Administration; HER2 =human epidermal growth factor receptor 2; n = number of subjects; Q3W = every 3 weeks; ss = steady state.
+Abbreviations: AUC = area under the concentration-time curve; BC = breast cancer; Cmax = maximum concentration; Cmin = minimum concentration; CrCL = creatinine clearance; CrCL = creatinine clearance; FDA = Food and Drug Administration; HER2 = human epidermal growth factor receptor 2; n = number of subjects; Q3W = every 3 weeks; ss = steady state.
 
 Notes: Boxes show the median and interquartile range of data. Whiskers represent the extent of data within 1.5 times the interquartile range. Points represent data outside the whiskers. Renal function was categorized using the 2010 FDA Guidance for Industry: Pharmacokinetics in Patients with Impaired Renal Function [13]. Normal function, mild impairment, moderate impairment, and severe impairment were defined as CrCL (using
 
@@ -667,55 +697,52 @@ Forest plots updated with effects of body weight at the 1 st  and 2.5 th  percen
 
 <div style=\"page-break-after: always\"></div>
 
-| Covariate                | Percentile   |           | Ratio [90% CI]       |
-|--------------------------|--------------|-----------|----------------------|
-| Body weight (kg)         | 1st          | 39        | 0.787 [0.762, 0.814] |
-|                          | 2.5th        | 41        | 0.814 [0.793, 0.838] |
-|                          | 5th          |           | 0.841 [0.822, 0.861] |
-|                          | 25th         | 52        | 0.93 [0.923, 0.939]  |
-|                          | 50th         | 60        | 1.01 [1.01, 1.01]    |
-|                          | 75th         | 69        | 1.1 [1.08, 1.11]     |
-|                          | 95th         | 90        | 1.28 [1.23, 1.32]    |
-| AST (UL)                 | 5th          | 15        | 0.874 [0.853, 0.892] |
-|                          | 25th         | 20        | 0.924 [0.911, 0.935] |
-|                          | 50th         |           | 0.98 [0.976, 0.983]  |
-|                          | 75th         | 41        | 1.06 [1.05, 1.07]    |
-|                          | 95th         | 86        | 1.23 [1.19, 1.27]    |
-| Total bilirubin (umol/L) | 5th          | 3         | 0.88 [0.849, 0.903]  |
-|                          | 25th         | 5         | 0.938 [0.921, 0.951] |
-|                          | 50th         | 8         | 0.994 [0.992, 0.996] |
-|                          | 75th         | 10        | 1.04 [1.03, 1.05]    |
-|                          | 95th         | 17        | 1.12 [1.09, 1.15]    |
-| Race-country Cancer type |              | Non-Aslan | 1 [0.998, 1]         |
-|                          |              | NSCLC     | 0.841 [0.84, 0.843]  |
+| Covariate                | Percentile   | Value           | Ratio [90% CI]       |
+|--------------------------|--------------|-----------------|----------------------|
+| Body weight (kg)         | 1st          | 39              | 0.787 [0.762, 0.814] |
+|                          | 2.5th        | 41              | 0.814 [0.793, 0.838] |
+|                          | 5th          | 44              | 0.841 [0.822, 0.881] |
+|                          | 25th         | 52              | 0.93 [0.923, 0.939]  |
+|                          | 50th         | 60              | 1.01 [1.01, 1.01]    |
+|                          | 75th         | 69              | 1.1 [1.08, 1.11]     |
+|                          | 95th         | 90              | 1.28 [1.23, 1.32]    |
+| AST (UIL)                | 5th          | 15              | 0.874 [0.853, 0.892] |
+|                          | 25th         | 20              | 0.924 [0.911, 0.935] |
+|                          | 50th         | 27              | 0.98 [0.976, 0.983]  |
+|                          | 75th         | 41              | 1.06 [1.05, 1.07]    |
+|                          | 95th         | 86              | 1.23 [1.19, 1.27]    |
+| Total bilirubin (umol/L) | 5th          | 3               | 0.88 [0.849, 0.903]  |
+|                          | 25th         | 5               | 0.938 [0.921, 0.951] |
+|                          | 50th         | 8               | 0.994 [0.992, 0.996] |
+|                          | 75th         | 10              | 1.04 [1.03, 1.05]    |
+|                          | 95th         | 17              | 1.12 [1.09, 1.15]    |
+| Race-country Cancer type |              | Non-Asian NSCLC | 1 [0.998, 1]         |
+|                          |              |                 | 0.841 [0.84, 0.843]  |
 
-| Covariate                | Percontile   | Valuo     | Ratio [90% CI]       |
-|--------------------------|--------------|-----------|----------------------|
-| Body weight (kg)         | 1st          | 39        | 0.748 [0.726, 0.772] |
-|                          | 2.5th        | 41        | 0.78 [0.76, 0.802]   |
-|                          | 5th          | 44        | 0.811 [0.794, 0.83]  |
-|                          | 25th         | 52        | 0.917 [0.909, 0.925] |
-|                          | 50th         | 60        | 1.01 [1.01, 1.01]    |
-|                          | 75th         | 69        | 1.12 [1.1, 1.13]     |
-|                          | 95th         | 90        | 1.34 [1.29, 1.38]    |
-| AST (U/L)                | 5th          | 15        | 0.879 [0.859, 0.897] |
-|                          | 25th         | 20        | 0.927 [0.915, 0.939] |
-|                          | 50th         | 27        | 0.981 [0.977, 0.984] |
-|                          | 75th         | 41        | 1.06 [1.05, 1.07]    |
-|                          | 95th         | 86        | 1.22 [1.18, 1.26]    |
-| Total bllirubin (umol/L) | Sth          | 3         | 0.885 [0.855, 0.908] |
-|                          | 25th         | 5         | 0.941 [0.925, 0.953] |
-|                          | 50th         | 8         | 0.995 [0.992, 0.997] |
-|                          | 75th         | 10        | 1.03 [1.03, 1.04]    |
-|                          | 95th         | 17        | 1.11 [1.09, 1.14]    |
-| Race=country Cancer type |              | Non=Asian | 1.01 [1.01, 1.01]    |
-|                          |              | NSCLC     | 0.991 [0.988, 0.996] |
+| Covariate                | Percentile   | Value           | Ratio [90% CI]                         |
+|--------------------------|--------------|-----------------|----------------------------------------|
+| Body weight (kg)         | ist          | 39              | 0.748 [0.726, 0.772]                   |
+|                          | 2.5th        | 41              | 0.78 [0.76, 0.802]                     |
+|                          | 5th          | 44              | 0.811 [0.794, 0.83]                    |
+|                          | 25th         | 52              | 0.917 [0.909, 0.925]                   |
+|                          | 50th         | 60              | 1.01 [1.01, 1.01]                      |
+|                          | 75th         | 69              | 1.12 [1.1, 1.13]                       |
+|                          | 95th         | 90              | 1.34 [1.29, 1.38]                      |
+| AST (U/L)                | 5th          | 15              | 0.879 [0.859, 0.897]                   |
+|                          | 25th         | 20              | 0.927 [0.915, 0.939]                   |
+|                          | 50th         | 27              | 0.981 [0.977, 0.984]                   |
+|                          | 75th         | 41              | 1.06 [1.05, 1.07]                      |
+|                          | 95th         | 86              | 1.22 [1.18, 1.26]                      |
+| Total bilirubin (umol/L) | 5th          | 3               | 0.885 [0.855, 0.908]                   |
+|                          | 25th         | 5               | 0.941 [0.925, 0.953]                   |
+|                          | 50th         | 8               | 0.995 [0.992, 0.997]                   |
+|                          | 75th         | 10              | 1.03 [1.03, 1.04]                      |
+|                          | 95th         | 17              | 1.11 [1.09, 1.14]                      |
+| Race-country Cancer type |              | Non-Asian NSCLC | 1,01 [1.01, 1.01] 0.991 [0.988, 0.996] |
 
-Figure 12 Forest plots of covariate effects of body weight at the 1 st  and 2.5 th percentiles
+Figure 12 Forest plots of covariate effects of body weight at the 1 st and 2.5 th percentiles
 
 <!-- image -->
-
-Rato relie to o typical BC cubject WT=STkg, AST=30uL BI=SumolL, Aeam, non Jepan
 
 <div style=\"page-break-after: always\"></div>
 
@@ -729,7 +756,7 @@ Rato relie to o typical BC cubject WT=STkg, AST=30uL BI=SumolL, Aeam, non Jepan
 |                          | 75th         | 69        | 1.12 [1.11, 1.14]    |
 |                          | 95th         | 90        | 1.36 [1.31, 1.41]    |
 | AST (U/L)                | 5th          | 15        | 0.874 [0.853, 0.892] |
-|                          | 25th         | 20        | 0.924 [0.911,0.936]  |
+|                          | 25th         | 20        | 0.924 [0.911, 0.936] |
 |                          | 50th         | 27        | 0.98 [0.976, 0.983]  |
 |                          | 75th         | 41        | 1.06 [1.05, 1.07]    |
 |                          | 95th         | 86        | 1.23 [1.19, 1.27]    |
@@ -751,57 +778,53 @@ In Study U303, the treatment-emergent incidence of ADAs against T-DXd was 2.0% (
 
 Table 8 Immunogenicity sampling strategy for Study U303
 
-| Protocol   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   | Anti-DrugAntibodySamplingPoints   |
-|------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|            | C1D1 BI                           | C1D8                              | C2D1 BI                           | Cycle 4 and Later Cycles BI       | EOT                               | Follow-UpVisits                   |                                   |
-| U303       | X                                 |                                   | X                                 | X                                 |                                   | D40andlong-term survivalfollow-up |                                   |
+| Protocol   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   | Anti-Drug Antibody Sampling Points   |
+|------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|            | C1D1 BI                              | C1D8                                 | C2D1 BI                              | Cycle 4 and Later Cycles BI          | EOT                                  | Follow-Up Visits                     |                                      |
+| U303       | X                                    |                                      | X                                    | X                                    |                                      | D40 and long-term survival follow-up |                                      |
 
-ADA=anti-drugantibody;BI=beforeinfusion;C=Cycle;D=Day;EOT=endoftreatment.
-
-Note:ADAsamplesweretakenwithin8hoursBIonDay1inCycles1,2,and 4,and thenevery4cycles(Cycles8, 12,16, etc); from Cycle 2 onward, samples were taken on Day 1 ±2 days. If positive ADA at the 40-day (+7 days) Follow-upVisit,sampleswerecollected every3months(±1 month)up to1year afterthelast dose,oruntil the ADA became negative, or until the ADA titer became less than baseline (applicable when pre-existing ADA was observed),orstartofnewanticancertherapy,orsubjectwithdrewconsentfromthestudy(whicheveroccurredfirst). Source:Module5.3.5.1DS8201-A-U303CSR,Table6.4
+Note: ADA samples were taken within 8 hours BI on Day 1 in Cycles 1, 2, and 4, and then every 4 cycles (Cycles 8, 12, 16, etc); from Cycle 2 onward, samples were taken on Day 1 ±2 days. If positive ADA at the 40-day (+7 days) Follow-up Visit, samples were collected every 3 months (±1 month) up to 1 year after the last dose, or until the ADA became negative, or until the ADA titer became less than baseline (applicable when pre-existing ADA was observed), or start of new anticancer therapy, or subject withdrew consent from the study (whichever occurred first). Source: Module 5.3.5.1 DS8201-A-U303 CSR, Table 6.4
 
 <!-- image -->
-
-Ratiorelative to a typical BC subject:WT=59kg,AST=30U/L Bil=8umol/L,Asian,nonJapan
 
 <div style=\"page-break-after: always\"></div>
 
 Table 9 Summary of clinical immunogenicity data
 
-| Statistic                                          | Prior Clinical Studies (N =1130)   | U303 (N = 371)   | Overall (N = 1701)   |
-|----------------------------------------------------|------------------------------------|------------------|----------------------|
-| Baseline assessment                                |                                    |                  |                      |
-| Subjects with Baseline Data, n (%)                 | 1310 (98.5)                        | 352 (94.9)       | 1662 (97.7)          |
-| ADA Positive at Baseline, n (%) a                  | 70 (5.3)                           | 20 (5.7)         | 90 (5.4)             |
-| NAb Positive at Baseline, n (%) a                  | 2 (0.2)                            | 1 (0.3)          | 3 (0.2)              |
-| Post-baselineassessment                            |                                    |                  |                      |
-| Subjects with Post-Baseline Data, n (%)            | 1311 (98.6)                        | 357 (96.2)       | 1668 (98.1)          |
-| ADA Positive Post-Baseline, n (%) b                | 36 (2.7)                           | 13 (3.6)         | 49 (2.9)             |
-| NAb Positive Post-Baseline, n (%) b                | 1 (0.1)                            | 1 (0.3)          | 2 (0.1)              |
-| ADA Positive atBaseline andPost-Baseline, n (%) c  | 12 (0.9)                           | 6 (1.8)          | 18 (1.1)             |
-| NAbPositive at Baseline and Post-Baseline, n (%) c | 0                                  | 0                | 0                    |
-| Treatment-Emergent ADA Positive, n (%) b, d        | 27 (2.1)                           | 7 (2.0)          | 34 (2.0)             |
-| Treatment-Induced ADA Positive, n (%) b,e          | 24 (1.8)                           | 7 (2.0)          | 31 (1.9)             |
-| Treatment-Boosted ADA Positive, n (%) b,f          | 3 (0.2)                            | 0                | 3 (0.2)              |
-| Treatment-Emergent NAb Positive, n (%) b, g        | 1 (0.1)                            | 0                | 1 (0.1)              |
-
-ADA = anti-drug antibody; n = number of subjects; N = total number subjects; NAb = neutralizing antibody; T-DXd = trastuzumab deruxtecan.
+| Statistic                                         | Prior Clinical Studies (N = 1130)   | U303 (N = 371)   | Overall (N = 1701)   |
+|---------------------------------------------------|-------------------------------------|------------------|----------------------|
+| Baseline assessment                               |                                     |                  |                      |
+| Subjects with Baseline Data, n (%)                | 1310 (98.5)                         | 352 (94.9)       | 1662 (97.7)          |
+| ADA Positive at Baseline, n (%) a                 | 70 (5.3)                            | 20 (5.7)         | 90 (5.4)             |
+| NAb Positive at Baseline, n (%) a                 | 2 (0.2)                             | 1 (0.3)          | 3 (0.2)              |
+| Post-baseline assessment                          |                                     |                  |                      |
+| Subjects with Post-Baseline Data, n (%)           | 1311 (98.6)                         | 357 (96.2)       | 1668 (98.1)          |
+| ADA Positive Post-Baseline, n (%) b               | 36 (2.7)                            | 13 (3.6)         | 49 (2.9)             |
+| NAb Positive Post-Baseline, n (%) b               | 1 (0.1)                             | 1 (0.3)          | 2 (0.1)              |
+| ADA Positive at Baseline and Post-Baseline, n (%) | 12 (0.9)                            | 6 (1.8)          | 18 (1.1)             |
+| NAb Positive at Baseline and Post-Baseline, n (%) | 0                                   | 0                | 0                    |
+| Treatment-Emergent ADA Positive, n (%) b, d       | 27 (2.1)                            | 7 (2.0)          | 34 (2.0)             |
+| Treatment-Induced ADA Positive, n (%) b, e        | 24 (1.8)                            | 7 (2.0)          | 31 (1.9)             |
+| Treatment-Boosted ADA Positive, n (%) ) b, f      | 3 (0.2)                             | 0                | 3 (0.2)              |
+| Treatment-Emergent NAb Positive, n (%) b, g       | 1 (0.1)                             | 0                | 1 (0.1)              |
 
 Note: The \"prior clinical studies\" were the following nine studies: J101, J102, A103, A104, U201, J202, U204, U205, and U302.
 
-a Denominator for percentages is the number of subjects with baseline immunogenicity data.
+ADA = anti-drug antibody; n = number of subjects; N = total number subjects; NAb = neutralizing antibody; T-DXd = trastuzumab deruxtecan.
 
-c Denominator for percentages is the number of subjects with baseline and post-baseline immunogenicity data.
+Denominator for percentages is the number of subjects with baseline immunogenicity data.
 
-b Denominator for percentages is the number of subjects with post-baseline immunogenicity data.
+Denominator for percentages is the number of subjects with baseline and post-baseline immunogenicity data.
 
-d Treatment-emergent ADA positive: positive post-baseline after negative or missing baseline result, or titer increased after positivebaseline result.
+Denominator for percentages is the number of subjects with post-baseline immunogenicity data.
+
+d Treatment-emergent ADA positive: positive post-baseline after negative or missing baseline result, or titer increased after positive baseline result.
 
 f Treatment-boosted ADA positive: ADA titer increased following positive baseline result.
 
 e Treatment-induced ADA positive: positive post-baseline result where baseline result was negative or missing.
 
-g Treatment-emergent NAb positive: NAb-positive subjects among treatment-emergent ADA-positive subjects. Source: Module 5.3.5.3 SCP TFLs,Table 2.1.1.
+g Treatment-emergent NAb positive: NAb-positive subjects among treatment-emergent ADA-positive subjects. Source: Module 5.3.5.3 SCP TFLs, Table 2.1.1.
 
 ## 2.3.4. PK/PD modelling
 
@@ -824,9 +847,11 @@ Table 10 PFS final model parameters in all subjects
 | Exposure-Response Model   | Exposure-Response Model   | Parameter   | Estimate   | Standard Error   | RSE (%)   |
 |---------------------------|---------------------------|-------------|------------|------------------|-----------|
 | Exposure Metric           | Endpoint                  | Parameter   | Estimate   | Standard Error   | RSE (%)   |
-| None                      | PFSin all subjects        | AST         | 0.00565    | 0.00207          | 37        |
+| None                      | PFS in all subjects       | AST         | 0.00565    | 0.00207          | 37        |
 
-Abbreviations: AST = aspartate aminotransferase; PFS = progression free survival; RSE = relative standard error. Source: ee.analysis.1
+Source: ee.analysis.r
+
+Abbreviations: AST = aspartate aminotransferase; PFS = progression free survival; RSE = relative standard error.
 
 For OS , T-DXd Cmin in Cycle 1 (Cmin1) were selected for all subjects and for HR-positive subjects because it had the smallest p-value (p&lt;0.001) by log-rank test and a negative effect on the OS hazard ratio in the univariate Cox-regression analysis. T-DXd AUC1, T-DXd AUCSS, and T-DXd CminSS had also significant effect on OS for all subjects. A significant ER relationship was detected for OS in all subjects which was confirmed by model-based analysis using multivariate Cox-regression that showed significant effect of T-DXd Cmin1. Other covariates that were detected included ECOG, AST, prior chemotherapy lines in the metastatic setting and race-country. See figure 13 and Table 11.
 
@@ -846,25 +871,21 @@ Abbreviations: HR = hormone-receptor; OS = overall survival; CI = confidence int
 
 Note: Curves are Kaplan Meier curves stratified by exposure quartiles. Points are censor times. P-value is for the log-rank test.
 
-Source: ee.analysis.r
-
-10
+Source: ee.analysis.r Abbreviations: ECOG = Eastern Cooperative Oncology Group performance status; OS = overall survival; RSE relative standard error.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 11 OS final model parameters in all subjects
 
-| Exposure-ResponseModel     | Exposure-ResponseModel   | Parameter                            | Estimate   | Standard   | RSE   |
-|----------------------------|--------------------------|--------------------------------------|------------|------------|-------|
-| Exposure Metric            | Endpoint                 |                                      |            | Error      | (%)   |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | Slope                                | -0.154     | 0.0441     | 29    |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | ECOG≥1                               | 0.607      | 0.173      | 29    |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | AST (U/L)                            | 0.00976    | 0.00256    | 26    |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | Prior chemotherapylines metastatic>2 | 0.451      | 0.17       | 38    |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | Asian from Japan                     | 0.0851     | 0.235      | 276   |
-| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects       | AsiannotfromJapan                    | -0.682     | 0.227      | 33    |
-
-Abbreviations: ECOG = Eastein Cooperative Oncology Group performance status; OS = overall survival; RSE = relativestandardeiror.
+| Exposure-Response Model    | Exposure-Response Model   | Parameter                               |   Estimate | Standard   | RSE   |
+|----------------------------|---------------------------|-----------------------------------------|------------|------------|-------|
+| Exposure Metric            | Endpoint                  |                                         |            | Error      | (%)   |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | Slope                                   |     -0.154 | 0.0441     | 29    |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | ECOG ≥ 1                                |      0.607 | 0.173      | 29    |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | AST (U/L)                               |    0.00976 | 0.00256    | 26    |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | Prior chemotherapy lines metastatic ≥ 2 |      0.451 | 0.17       | 38    |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | Asian from Japan                        |     0.0851 | 0.235      | 276   |
+| T-DXd Cmin Cycle 1 (μg/mL) | OS in all subjects        | Asian not from Japan                    |     -0.682 | 0.227      | 33    |
 
 Source: ee.analysis.r
 
@@ -878,13 +899,13 @@ Figure 14 Boxplot of T-DXd CminSS grouped by ORR status
 
 <!-- image -->
 
-(B) All subjects (N=362)
+## (B) All subjects (N=362)
 
 <!-- image -->
 
-Abbreviations: Cminss = trough concentration at steady state; ORR = confirmed objective response rate by blinded independent centralreview.
+Abbreviations: Cminss = trough concentration at steady state; ORR = confirmed objective response rate by blinded independent central review.
 
-Note: Thick horizontal line represents median, box ends show the upper and lower quartiles of the data, whiskers show the range of points within 1.5 times the interquartile range, and points are data that lie outside the whiskers (circles). The p-value is for a Kruskal-Wallis test of difference between distributions. Source: ee.analysis.r
+Note: Thick horizontal line represents median, box ends show the upper and lower quartiles of the data, whiskers es  s ts t es ss pe e t os st  s s t es ts se whiskers (circles). The p-value is for a Kruskal-Wallis test of difference between distributions. Source: ee.analysis.r Abbreviations: Cminss = T-DXd trough concentration at steady-state; CI = confidence interval; N = number of
 
 <div style=\"page-break-after: always\"></div>
 
@@ -892,19 +913,17 @@ Figure 15 ORR in all subjects versus T-DXd CminSS
 
 <!-- image -->
 
-Abbreviations: Cminss = T-DXd trough concentration at steady-state; CI = confidence interval; N =number of subjects; ORR = confirmed objective response rate by blinded independent central review. stratified into exposure quartiles. Red points are ORR per exposure quartile plotted at the median exposure per quartile. Vertical red bars are 90% CIs of the confirmed ORR. Gray band represents the 5th to 95t percentile CI of a linear logistic regression fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. Horizontal boxplot below shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range.
-
-Source: ee.analysis.r
+subjects; ORR = confirmed objective response rate by blinded independent central review. Note: Yes and No refer to if subjects experienced or did not experience confirmed objective response. Subjects are stratified into exposure quartiles. Red points are ORR per exposure quartile plotted at the median exposure per quartile. Vertical red bars are 90% CIs of the confirmed ORR. Gray band represents the 5th to 95th percentile CI of a linear logistic regression fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. Horizontal boxplot below shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range. Source: ee.analysis.r
 
 Table 12 Summary of ORR final model parameters
 
-| Exposure-Response Model   | Exposure-Response Model   |           |          |       |         |
-|---------------------------|---------------------------|-----------|----------|-------|---------|
-| ExposureMetric            | Efficacy Endpoint         | Parameter | Estimate | Error | RSE (%) |
-| T-DXd Cminss              | ORR in all                | Intercept | -0.636   | 0.293 |         |
-| (μg/mL)                   | subjects                  | Slope     | 0.060    | 0.022 | 36      |
+| Exposure-Response Model   | Exposure-Response Model   |           |          |                |         |
+|---------------------------|---------------------------|-----------|----------|----------------|---------|
+| Exposure Metric           | Efficacy Endpoint         | Parameter | Estimate | Standard Error | RSE (%) |
+| T-DXd Cminss              | ORR in all                | Intercept | -0.636   | 0.293          | 1       |
+| (μg/mL)                   | subjects                  | Slope     | 0.060    | 0.022          | 36      |
 
-Abbreviations: Cminss = trough concentration at steady-state; ORR = confirmed objective response rate by independentcentralreview;RSE=relativestandarderror. Note:RSEvalue notreported for theintercept term, because not relevant for logistic regression. Source:ee.analysis.1
+Abbreviations: Cminss = trough concentration at steady-state; ORR = confirmed objective response rate by independent central review; RSE = relative standard error. Note: RSE value not reported for the intercept term, because not relevant for logistic regression. Source: ee.analysis.r
 
 There was a significant ER relationship between T-DXd CminSS and increasing ORR in all subjects. No other covariates were detected in the multivariate logistic regression analysis.
 
@@ -934,37 +953,33 @@ Figure 5-12: Probability of Grade ≥3 TEAEs versus exposure
 
 <!-- image -->
 
-Abbreviations: Cavg = average concentration; CI = confidence interval; N = number of subjects; TEAE = treatment emergent adverseevent.
+Abbreviations: Cavg = average concentration; CI = confidence interval; N = number of subjects; TEAE = treatment emergent adverse event.
 
 Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience Grade ≥3 TEAEs. Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 90% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The pvalue is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range.
 
-Source:es.analysis.r
+Source: es.analysis.r Abbreviations: AE = adverse event; Cavg= average concentration; CDK46 = cyclin-dependent kinase 4 or 6; HER2 = human epidermal growth factor receptor 2; NSCLC = non-small cell lung cancer; RSE = relative standard error; TEAE = treatment-emergent adverse event.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 13 Grade ≥ 3 TEAE final model parameters
 
-| Exposure-ResponseModel            | Exposure-ResponseModel   |                                      |          |                |         |
-|-----------------------------------|--------------------------|--------------------------------------|----------|----------------|---------|
-| Exposure Metric                   | Endpoint                 | Parameter                            | Estimate | Standard Error | RSE (%) |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Intercept                            | -1.23    | 0.209          |         |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Slope                                | 0.999    | 0.117          | 12      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Albumin (g/L)                        | -0.0668  | 0.0132         | 20      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Gastric cancer                       | -1.26    | 0.479          | 38      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | NSCLC (HER2 mutant)                  | -1.51    | 0.792          | 52      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | NSCLC (HER2 overexpressing)          | -1.92    | 0.827          | 43      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Other tumor type                     | -0.37    | 0.857          | 232     |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Prior CDK46Inhibitor                 | -0.249   | 0.182          | 73      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | CDK46 Missing                        | 0.238    | 0.141          | 59      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Gastric cancer on slope              | 0.801    | 0.299          | 37      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | NSCLC (HER2 mutant) on slope         | 1.56     | 0.621          | 40      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | NSCLC (HER2 overexpressing) on slope | 1.18     | 0.524          | 44      |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Other tumor type on slope            | 0.0806   | 0.489          | 607     |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 TEAE            | Weight (kg) on slope                 | -0.00876 | 0.00233        | 27      |
-
-Abbreviations: AE = adverse event; Cavg= average concentration; CDK46 = cyclin-dependent kinase 4 or 6; HER2 = human epidermal growth factor receptor 2; NSCLC = non-small cell lung cancer; RSE = relative standard error; TEAE = treatment-emergent adverse event.
-
-Note: RSE value not reported for the intercept term, because not relevant for logistic regression. The large RSE for or it may reflect a small sample size. Overall, tumor type is still significant as a categorical variable. Source: es.analysis.r
+| Exposure-Response Model           | Exposure-Response Model   |                                      |          |               |         |
+|-----------------------------------|---------------------------|--------------------------------------|----------|---------------|---------|
+| Exposure Metric                   | Endpoint                  | Parameter                            | Estimate | Standard I.OI | RSE (%) |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Intercept                            | -1.23    | 0.209         |         |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Slope                                | 0.999    | 0.117         | 12      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Albumin (g/L)                        | -0.0668  | 0.0132        | 20      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Gastric cancer                       | -1.26    | 0.479         | 38      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | NSCLC (HER2 mutant)                  | -1.51    | 0.792         | 52      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | NSCLC (HER2 overexpressing)          | -1.92    | 0.827         | 43      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Other tumor type                     | -0.37    | 0.857         | 232     |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Prior CDK46 Inhibitor                | -0.249   | 0.182         | 73      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | CDK46 Missing                        | 0.238    | 0.141         | 59      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Gastric cancer on slope              | 0.801    | 0.299         | 37      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | NSCLC (HER2 mutant) on slope         | 1.56     | 0.621         | 40      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | NSCLC (HER2 overexpressing) on slope | 1.18     | 0.524         | 44      |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Other tumor type on slope            | 0.0806   | 0.489         | 607     |
+| DXd Cavg to time of event (ng/mL) | Grade≥3 TEAE              | Weight (kg) on slope                 | -0.00876 | 0.00233       | 27      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -972,37 +987,35 @@ Figure 18 Probability of Grade ≥3 anemia versus exposure
 
 <!-- image -->
 
-DXd Cavg to time ofevent(ng/mL)
+DXd Cavg to time of event (ng/mL)
 
 Abbreviations: AE = adverse event; Cavg = average concentration; CI = confidence interval; N = number of subjects.
 
-Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience anemia (laboratory-based). Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 9o% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below the graph shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range. Source: es.analysis.r
+Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience anemia (laboratory-based). Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 90% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below the graph shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range. Source: es.analysis.r Note: RSE value not reported for the intercept term, because not relevant for logistic regression. The large RSE for Asian not from Japan indicates that this race-country category is not significantly different from Asian from Japan for Grade ≥3 anemia. Overall race-country category was still significant as a categorical variable. The rs  e st t t t  t t t e  nt  tt its different from BC for Grade ≥3 anemia. Overall, tumor type was still significant as a categorical variable.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 14 Grade ≥3 lab-based anemia final model parameters
 
-| Exposure-Response Model           | Exposure-Response Model   |                                        |          |                | RSE   |
-|-----------------------------------|---------------------------|----------------------------------------|----------|----------------|-------|
-| Exposure Metric                   | Safety Endpoint           | Parameter                              | Estimate | Standard Error | (%)   |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Intercept                              | -3.67    | 0.283          |       |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Slope                                  | 1.54     | 0.169          | 11    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Hemoglobin (g/L)                       | -0.0663  | 0.00650        | 10    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Weight (kg)                            | 0.0232   | 0.00837        | 36    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Prior CDK46Inhibitor                   | -1.10    | 0.350          | 32    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | CDK46 Missing                          | -0.574   | 0.206          | 36    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Gastric cancer type on slope           | 0.122    | 0.125          | 102   |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | NSCLC (HER2 mutant) on slope           | -0.0467  | 0.274          | 587   |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | NSCLC (HER2 overexpressing) on slope   | -1.15    | 0.442          | 38    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Other tumor type on slope              | -0.382   | 0.217          | 57    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Creatinine clearance (mL/min) on slope | -0.00794 | 0.0019         | 24    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Total bilirubin (μmol/L) on slope      | -0.0293  | 0.0105         | 36    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Non-Asian on slope                     | -0.754   | 0.140          | 19    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Asian not from Japan on slope          | -0.238   | 0.134          | 56    |
+| Exposure-Response Model           | Exposure-Response Model   |                                        |          |               | RSE   |
+|-----------------------------------|---------------------------|----------------------------------------|----------|---------------|-------|
+| Exposure Metric                   | Safety Endpoint           | Parameter                              | Estimate | Standard II0I | (%)   |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Intercept                              | -3.67    | 0.283         | •     |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Slope                                  | 1.54     | 0.169         | 11    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Hemoglobin (g/L)                       | -0.0663  | 0.00650       | 10    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Weight (kg)                            | 0.0232   | 0.00837       | 36    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Prior CDK46 Inhibitor                  | -1.10    | 0.350         | 32    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | CDK46 Missing                          | -0.574   | 0.206         | 36    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Gastric cancer type on slope           | 0.122    | 0.125         | 102   |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | NSCLC (HER2 mutant) on slope           | -0.0467  | 0.274         | 587   |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | NSCLC (HER2 overexpressing) on slope   | -1.15    | 0.442         | 38    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Other tumor type on slope              | -0.382   | 0.217         | 57    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Creatinine clearance (mL/min) on slope | -0.00794 | 0.0019        | 24    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Total bilirubin (μmol/L) on slope      | -0.0293  | 0.0105        | 36    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Non-Asian on slope                     | -0.754   | 0.140         | 19    |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 lab-based anemia | Asian not from Japan on slope          | -0.238   | 0.134         | 56    |
 
 Abbreviations: Cavg = average concentration; CDK46 = cyclin-dependent kinase 4 or 6; HER2 = human epidermal growth factor receptor 2; NSCLC = non-small cell lung cancer; RSE = relative standard error.
-
-Note:RSEvalue notreported for theintercept term,becausenotrelevantforlogisticregression.ThelargeRSEfor Asian not from Japan indicates that this race-country category is not significantly different from Asian from Japan for Grade ≥3 anemia. Overall race-country category was still significant as a categorical variable. The large RSE for gastric cancer and NSCLC HER2 mutant indicates that these tumor types are not significantly different from BC for Grade &gt;3 anemia. Overall, tumor type was still significant as a categorical variable.
 
 Source: es.analysis.r
 
@@ -1022,23 +1035,23 @@ Source: es.analysis.r
 
 Table 15 Grade ≥3 neutropenia final model parameters
 
-| Exposure-Response Model           | Exposure-Response Model   | Parameter                           | Estimate   | Standard   | RSE (%)   |
-|-----------------------------------|---------------------------|-------------------------------------|------------|------------|-----------|
-| Exposure Metric                   | Safety Endpoint           | Parameter                           | Estimate   | Error      | RSE (%)   |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Intercept                           | -3.36      | 0.293      |           |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Slope                               | 1.40       | 0.163      | 12        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Neutrophils (10^9/L)                | -0.785     | 0.105      | 13        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Non-Asian                           | 0.558      | 0.377      | 68        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Asian not from Japan                | 1.57       | 0.416      | 26        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Prior checkpoint inhibitor on slope | 0.460      | 0.169      | 37        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Albumin (g/L) on slope              | -0.0339    | 0.00914    | 27        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Non-Asian on slope                  | -1.02      | 0.211      | 21        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Asian not from Japan on slope       | -1.11      | 0.243      | 22        |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Neutrophils (10^9/L) on slope       | 0.228      | 0.0434     | 19        |
-
-Abbreviations: Cavg = average concentration; RSE = relative standard error.
+| Exposure-Response Model           | Exposure-Response Model   | Parameter                           | Estimate   | Standard Error   | RSE (%)   |
+|-----------------------------------|---------------------------|-------------------------------------|------------|------------------|-----------|
+| Exposure Metric                   | Safety Endpoint           | Parameter                           | Estimate   | Standard Error   | RSE (%)   |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Intercept                           | -3.36      | 0.293            |           |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Slope                               | 1.40       | 0.163            | 12        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Neutrophils (10^9/L)                | -0.785     | 0.105            | 13        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Non-Asian                           | 0.558      | 0.377            | 68        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Asian not from Japan                | 1.57       | 0.416            | 26        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Prior checkpoint inhibitor on slope | 0.460      | 0.169            | 37        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Albumin (g/L) on slope              | -0.0339    | 0.00914          | 27        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Non-Asian on slope                  | -1.02      | 0.211            | 21        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Asian not from Japan on slope       | -1.11      | 0.243            | 22        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 neutropenia      | Neutrophils (10^9/L) on slope       | 0.228      | 0.0434           | 19        |
 
 Note: RSE value not reported for the intercept term, because not relevant for logistic regression.
+
+Abbreviations: Cavg = average concentration; RSE = relative standard error.
 
 Source: es.analysis.r
 
@@ -1048,7 +1061,7 @@ Figure 20 Probability of Grade ≥3 thrombocytopenia versus exposure
 
 Abbreviations: AE = adverse event; Cavg = average concentration; CI = confidence interval; N = number of subjects.
 
-Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience thrombocytopenia (laboratory-based). Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 90% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range.
+Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience thrombocytopenia (laboratory-based). Subjects are stratified into exposure quartiles. Red points are AÈ rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 90% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range.
 
 Source: es.analysis.r
 
@@ -1056,21 +1069,17 @@ Source: es.analysis.r
 
 Table 16 Grade ≥3 thrombocytopenia final model parameters
 
-| Exposure-Response Model           | Exposure-Response Model   | Parameter                     | Estimate   | Standard   | RSE   |
-|-----------------------------------|---------------------------|-------------------------------|------------|------------|-------|
-| Exposure Metric                   | Safety Endpoint           |                               |            | Error      | (%)   |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Intercept                     | -4.26      | 0.226      |       |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Slope                         | 1.21       | 0.119      | 10    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Creatinineclearance(mL/min)   | 0.00941    | 0.0034     | 36    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Platelets (10^9/L) on slope   | -0.00331   | 0.000543   | 16    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Non-Asian on slope            | -0.788     | 0.13       | 16    |
-| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Asian not from Japan on slope | 0.0486     | 0.131      | 270   |
+| Exposure-Response Model           | Exposure-Response Model   | Parameter                     |   Estimate | Standard   | RSE (%)   |
+|-----------------------------------|---------------------------|-------------------------------|------------|------------|-----------|
+| Exposure Metric                   | Safety Endpoint           |                               |            | Error      |           |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Intercept                     |      -4.26 | 0.226      | --        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Slope                         |       1.21 | 0.119      | 10        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Creatinine clearance (mL/min) |    0.00941 | 0.0034     | 36        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Platelets (10^9/L) on slope   |   -0.00331 | 0.000543   | 16        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Non-Asian on slope            |     -0.788 | 0.13       | 16        |
+| DXd Cavg to time of event (ng/mL) | Grade ≥3 thrombocytopenia | Asian not from Japan on slope |     0.0486 | 0.131      | 270       |
 
-Abbreviations: Cavg = average concentration; RSE = relative standard error.
-
-Note: RSE value not reported for the intercept term, because not relevant for logistic regression. The large RSE for Asian not from Japan indicates this race-country category is similar to the Asian from Japan reference group.
-
-Overall,race-countrywasstillsignificantasacategoricalvariable.
+Abbreviations: Cavg = average concentration; RSE = relative standard error. Note: RSE value not reported for the intercept term, because not relevant for logistic regression. The large RSE for Asian not from Japan indicates this race-country category is similar to the Asian from Japan reference group. Overall, race-country was still significant as a categorical variable.
 
 Source: es.analysis.r
 
@@ -1078,32 +1087,32 @@ Figure 21 Probability of Grade ≥ 2 LVEF decreases (ECHO/MUGA) versus exposure
 
 <!-- image -->
 
-Abbreviations:AE=adverse event;CI=confidence interval; conc =concentration;ECHO=echocardiogrambased; LVEF = left ventricular ejection fraction; MUGA = multigated acquisition scan; N = number of subjects. Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience LVEF decrease (ECHO/MUGA). Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 9o% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below the graph shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range. Source:es.analysis.r
+Abbreviations: AE = adverse event; CI = confidence interval; conc = concentration; ECHO = echocardiogrambased; LVEF = left ventricular ejection fraction; MUGA = multigated acquisition scan; N = number of subjects. Note: Plot shows probability of AE versus exposure. Yes and No refer to if subjects experienced or did not experience LVEF decrease (ECHO/MUGA). Subjects are stratified into exposure quartiles. Red points are AE rates per exposure quartile plotted at the median exposure of the quartile. Vertical red bars are 90% CIs of the AE rate. Blue line is the linear logistic regression fit. Gray band represents the 5th to 95th percentile CI of the fit. The p-value is the significance level of the slope of the logistic regression fit using a z-test. The plot shows data for all dose groups. Horizontal boxplot below the graph shows the exposure distribution for the 5.4 mg/kg dose group; the box shows the interquartile range and whiskers show points within 1.5 times the interquartile range. Source: es.analysis.r Abbreviations: conc = concentration; ECHO = echocardiogram-based; LVEF = left ventricular ejection fraction; MUGA = multigated acquisition scan; RSE = relative standard error.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 17 Grade ≥ 2 LVEF decreases (ECHO/MUGA) final model parameters
 
-| Exposure-ResponseModel            | Exposure-ResponseModel           | Parameter         | Estimate   | Standard   | RSE   |
-|-----------------------------------|----------------------------------|-------------------|------------|------------|-------|
-| Exposure Metric                   | Safety Endpoint                  |                   |            | Error      | (%)   |
-| T-DXdpeakconc steadystate (μg/mL) | Grade>2LVEF decrease (ECHO/MUGA) | Intercept         | -2.62      | 0.353      |       |
-| T-DXdpeakconc steadystate (μg/mL) | Grade>2LVEF decrease (ECHO/MUGA) | Slope             | 0.00896    | 0.00235    | 26    |
-| T-DXdpeakconc steadystate (μg/mL) | Grade>2LVEF decrease (ECHO/MUGA) | Sex Male          | -0.799     | 0.209      | 26    |
-| T-DXdpeakconc steadystate (μg/mL) | Grade>2LVEF decrease (ECHO/MUGA) | Non-Asian         | -0.381     | 0.157      | 41    |
-| T-DXdpeakconc steadystate (μg/mL) | Grade>2LVEF decrease (ECHO/MUGA) | AsiannotfromJapan | -0.778     | 0.221      | 28    |
+| Exposure-Response Model              | Exposure-Response Model            | Parameter            |   Estimate | Standard   | RSE   |
+|--------------------------------------|------------------------------------|----------------------|------------|------------|-------|
+| Exposure Metric                      | Safety Endpoint                    |                      |            | Error      | (%)   |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥2 LVEF decrease (ECHO/MUGA) | Intercept            |      -2.62 | 0.353      |       |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥2 LVEF decrease (ECHO/MUGA) | Slope                |    0.00896 | 0.00235    | 26    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥2 LVEF decrease (ECHO/MUGA) | Sex Male             |     -0.799 | 0.209      | 26    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥2 LVEF decrease (ECHO/MUGA) | Non-Asian            |     -0.381 | 0.157      | 41    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥2 LVEF decrease (ECHO/MUGA) | Asian not from Japan |     -0.778 | 0.221      | 28    |
 
-Abbreviations: conc =concentration;ECHO=echocardiogram-based;LVEF=left ventricular ejectionfraction; MUGA=multigated acquisition scan;RSE=relativestandard error.
+Note: RSE value not reported for the intercept term, because not relevant for logistic regression.
 
-Note:RSEvaluenotreportedfor theinterceptterm,becausenotrelevantforlogisticregression. Source:es.analysis.r
+Source: es.analysis.r
 
 Figure 22 Rate of Any Grade and Grade ≥3 ILD versus exposure
 
 <!-- image -->
 
-T-DXd AUCsteady state(μg/mLxday)
+T-DXd AUC steady state (μg/mL×day)
 
-T-DXd peakconc steady state(μg/mL)
+T-DXd peak conc steady state (μg/mL)
 
 Abbreviations: AE = adverse event; AUC = area under the concentration-time curve; CI = confidence interval; conc = concentration; ILD = interstitial lung disease; N = number of subjects.
 
@@ -1122,25 +1131,25 @@ Table 18 Any Grade ILD final model parameters
 | Exposure-Response Model            | Exposure-Response Model   |                               |          |                |         |
 |------------------------------------|---------------------------|-------------------------------|----------|----------------|---------|
 | Exposure Metric                    | Safety Endpoint           | Parameter                     | Estimate | Standard Error | RSE (%) |
-| T-DXd AUC steady state (μg/mLxday) | Any Grade ILD             | Slope                         | 0.00148  | 0.000264       | 18      |
-| T-DXd AUC steady state (μg/mLxday) | Any Grade ILD             | Creatinine clearance (mL/min) | -0.00989 | 0.00241        | 24      |
-| T-DXd AUC steady state (μg/mLxday) | Any Grade ILD             | Non-Asian                     | -0.609   | 0.14           | 23      |
-| T-DXd AUC steady state (μg/mLxday) | Any Grade ILD             | Asian not from Japan          | -1.12    | 0.227          | 20      |
-| T-DXd AUC steady state (μg/mLxday) | Any Grade ILD             | Oxygen saturation (%)         | -0.0971  | 0.0398         | 41      |
+| T-DXd AUC steady state (μg/mL×day) | Any Grade ILD             | Slope                         | 0.00148  | 0.000264       | 18      |
+| T-DXd AUC steady state (μg/mL×day) | Any Grade ILD             | Creatinine clearance (mL/min) | -0.00989 | 0.00241        | 24      |
+| T-DXd AUC steady state (μg/mL×day) | Any Grade ILD             | Non-Asian                     | -0.609   | 0.14           | 23      |
+| T-DXd AUC steady state (μg/mL×day) | Any Grade ILD             | Asian not from Japan          | -1.12    | 0.227          | 20      |
+| T-DXd AUC steady state (μg/mL×day) | Any Grade ILD             | Oxygen saturation (%)         | -0.0971  | 0.0398         | 41      |
 
 Abbreviations: AUC = area under the concentration-time curve; ILD = interstitial lung disease; RSE = relative standard error.
 
 Source: es.analysis.r
 
-Table 5-47: Grade ≥3 ILD final model parameter's
+Table 5-47: Grade ≥3 ILD final model parameters
 
-| Exposure-Response Model              | Exposure-Response Model   | Parameter             | Estimate   | Standard   | RSE   |
+| Exposure-Response Model              | Exposure-Response Model   | Parameter             |   Estimate | Standard   | RSE   |
 |--------------------------------------|---------------------------|-----------------------|------------|------------|-------|
-| Exposure Metric                      | Safety Endpoint           |                       |            | Error      | (%)   |
-| T-DXd peak conc steady state (μg/mL) | Grade≥3 ILD               | Slope                 | 0.0192     | 0.00448    | 23    |
-| T-DXd peak conc steady state (μg/mL) | Grade≥3 ILD               | ECOG≥1                | 0.96       | 0.319      | 33    |
-| T-DXd peak conc steady state (μg/mL) | Grade≥3 ILD               | Oxygen saturation (%) | -0.17      | 0.051      | 30    |
-| T-DXd peak conc steady state (μg/mL) | Grade≥3 ILD               | Albumin (g/L)         | -0.079     | 0.0317     | 40    |
+| Exposure Metric                      | Safety Endpoint           |                       |            | II0I       | (%)   |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥3 ILD              | Slope                 |     0.0192 | 0.00448    | 23    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥3 ILD              | ECOG≥ 1               |       0.96 | 0.319      | 33    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥3 ILD              | Oxygen saturation (%) |      -0.17 | 0.051      | 30    |
+| T-DXd peak conc steady state (μg/mL) | Grade ≥3 ILD              | Albumin (g/L)         |     -0.079 | 0.0317     | 40    |
 
 Abbreviations: conc = concentration; ECOG = Eastern Cooperative Oncology Group Performance Status; ILD = interstitial lung disease; RSE = relative standard error.
 
@@ -1152,25 +1161,23 @@ Predicted incidence rate for all safety end-points are summarised in Table 19 an
 
 Table 19 Incidence Rate of Adverse Events in Subjects with Breast Cancer (at 5.4 mg/kg Q3W T-DXd), Predicted in the Final Model (by HER2 Status, Region, and Race-Country)
 
-|                 |              | Model-PredictedRate,% Estimate (90% CI)   | Model-PredictedRate,% Estimate (90% CI)   | Model-PredictedRate,% Estimate (90% CI)   | Model-PredictedRate,% Estimate (90% CI)   | Model-PredictedRate,% Estimate (90% CI)   |
-|-----------------|--------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-|                 | N            | Grade ≥3 TEAE                             | Grade ≥3 Anemia                           | Grade ≥3 Neutropenia                      | Grade ≥3 Thrombocyt                       | Grade ≥2 LVEFDecrease                     |
-| HER2 Status     | HER2 Status  | HER2 Status                               | HER2 Status                               | HER2 Status                               | HER2 Status                               | HER2 Status                               |
-| HER2-Positive   | 645          | 56.5 (51.8, 61.1)                         | 9.8 (7.2, 13.2)                           | 17.5 (13.9, 21.9)                         | 6.3 (4.6, 8.5)                            | 14.4 (12.0, 17.4)                         |
-| HER2-Low        | 362          | 51.5 (45.4, 57.3)                         | 7.3 (4.8, 11.3)                           | 15.7 (12.2, 19.9)                         | 6.1 (4.3, 8.4)                            | 14.5 (12.1, 17.4)                         |
-| Region          | Region       | Region                                    | Region                                    | Region                                    | Region                                    | Region                                    |
-| Asia            | 560          | 57.6 (52.6, 62.3)                         | 11.7 (8.5, 15.5)                          | 23.7 (19.4, 29.0)                         | 8.9 (6.6, 11.5)                           | 14.6 (11.9, 18.1)                         |
-| Europe          | 284          | 53.1 (47.5, 58.2)                         | 4.8 (3.0, 7.6)                            | 10.6 (8.0, 14.0)                          | 3.0 (2.0, 4.5)                            | 14.8 (12.6, 17.8)                         |
-| North America   | 234          | 54.2 (48.4, 59.6)                         | 10.7 (7.2, 15.0)                          | 12.0 (9.1, 16.0)                          | 4.6 (3.1, 6.5)                            | 14.5 (12.1, 17.4)                         |
-| ROW             | 50           | 52.4 (46.0, 58.3)                         | 5.2 (3.2, 8.4)                            | 11.8 (8.6, 16.1)                          | 3.7 (2.2, 6.1)                            | 16.5 (13.5, 20.2)                         |
-| Race-Country    | Race-Country | Race-Country                              | Race-Country                              | Race-Country                              | Race-Country                              | Race-Country                              |
-| Non-Asian       | 542          | 53.3 (47.8, 58.7)                         | 6.8 (4.6, 9.8)                            | 10.9 (8.4, 14.1)                          | 3.4 (2.2, 5.0)                            | 15.1 (12.7, 18.1)                         |
-| Asian-Japan     | 303          | 60.1 (54.9, 65.1)                         | 13.5 (10.0, 17.7)                         | 25.4 (21.3, 30.3)                         | 8.7 (6.5, 11.0)                           | 18.6 (15.8, 22.4)                         |
-| Asian Non-Japan | 283          | 55.4 (50.3, 60.3)                         | 10.7 (7.3, 14.9)                          | 22.5 (17.9, 28.4)                         | 10.0 (7.2, 13.4)                          | 9.8 (7.4, 13.1)                           |
+|                 |              | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   |
+|-----------------|--------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+|                 | N            | Grade ≥3 TEAE                               | Grade ≥3 Anemia                             | Grade ≥3 Neutropenia                        | Grade ≥3 Thrombocyt                         | Grade ≥2 LVEF Decrease                      |
+| HER2 Status     | HER2 Status  | HER2 Status                                 | HER2 Status                                 | HER2 Status                                 | HER2 Status                                 | HER2 Status                                 |
+| HER2-Positive   | 645          | 56.5 (51.8, 61.1)                           | 9.8 (7.2, 13.2)                             | 17.5 (13.9, 21.9)                           | 6.3 (4.6, 8.5)                              | 14.4 (12.0, 17.4)                           |
+| HER2-Low        | 362          | 51.5 (45.4, 57.3)                           | 7.3 (4.8, 11.3)                             | 15.7 (12.2, 19.9)                           | 6.1 (4.3, 8.4)                              | 14.5 (12.1, 17.4)                           |
+| Region          | Region       | Region                                      | Region                                      | Region                                      | Region                                      | Region                                      |
+| Asia            | 560          | 57.6 (52.6, 62.3)                           | 11.7 (8.5, 15.5)                            | 23.7 (19.4, 29.0)                           | 8.9 (6.6, 11.5)                             | 14.6 (11.9, 18.1)                           |
+| Europe          | 284          | 53.1 (47.5, 58.2)                           | 4.8 (3.0, 7.6)                              | 10.6 (8.0, 14.0)                            | 3.0 (2.0, 4.5)                              | 14.8 (12.6, 17.8)                           |
+| North America   | 234          | 54.2 (48.4, 59.6)                           | 10.7 (7.2, 15.0)                            | 12.0 (9.1, 16.0)                            | 4.6 (3.1, 6.5)                              | 14.5 (12.1, 17.4)                           |
+| ROW             | 50           | 52.4 (46.0, 58.3)                           | 5.2 (3.2, 8.4)                              | 11.8 (8.6, 16.1)                            | 3.7 (2.2, 6.1)                              | 16.5 (13.5, 20.2)                           |
+| Race-Country    | Race-Country | Race-Country                                | Race-Country                                | Race-Country                                | Race-Country                                | Race-Country                                |
+| Non-Asian       | 542          | 53.3 (47.8, 58.7)                           | 6.8 (4.6, 9.8)                              | 10.9 (8.4, 14.1)                            | 3.4 (2.2, 5.0)                              | 15.1 (12.7, 18.1)                           |
+| Asian-Japan     | 303          | 60.1 (54.9, 65.1)                           | 13.5 (10.0, 17.7)                           | 25.4 (21.3, 30.3)                           | 8.7 (6.5, 11.0)                             | 18.6 (15.8, 22.4)                           |
+| Asian Non-Japan | 283          | 55.4 (50.3, 60.3)                           | 10.7 (7.3, 14.9)                            | 22.5 (17.9, 28.4)                           | 10.0 (7.2, 13.4)                            | 9.8 (7.4, 13.1)                             |
 
-BC = breast cancer; CI = confidence interval; HER2 = human epidermal growth factor receptor 2; LVEF = left ventricular ejection fraction; N = number of subjects; T-DXd = trastuzumab deruxtecan;
-
-Thrombocyt = thrombocytopenia; ROW = rest of the world; TEAE = treatment-emergent adverse event; Q3w=every3weeks.
+Q3W = every 3 weeks.
 
 Note: Modeled safety endpoint rates use BC subjects from all dose groups in indicated group. Exposures are dose-normalized to a 5.4 mg/kg T-DXd dose.
 
@@ -1178,30 +1185,30 @@ Source: Module 5.3.3.5 Exposure-Response Analysis Report PMx020, Table 5-60, Tab
 
 Table 20 Incidence Rate of Interstitial Lung Disease in Subjects with Breast Cancer (at 5.4 mg/kg Q3W T-DXd), Predicted in the Final Model (by HER2 Status, Region, and Race-Country)
 
-|                 | N   | Model-Predicted Rate, % Estimate (90%C1)   | Model-Predicted Rate, % Estimate (90%C1)   | Model-Predicted Rate, % Estimate (90%C1)   | Model-Predicted Rate, % Estimate (90%C1)   |
-|-----------------|-----|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-|                 |     | ILDAny Grade                               | ILDAny Grade                               | ILD Grade ≥3                               | ILD Grade ≥3                               |
-|                 |     | Day 180                                    | Day 360                                    | Day 180                                    | Day 360                                    |
-| HER2Status      |     |                                            |                                            |                                            |                                            |
-| HER2-Positive   | 645 | 7.4 (6.2, 8.7)                             | 15.6 (13.5, 17.6)                          | 1.6 (1.1, 2.2)                             | 3.2 (2.3,4.1)                              |
-| HER2-Low        | 362 | 6.9 (5.8, 8.2)                             | 14.5 (12.6, 16.7)                          | 2.0 (1.4, 2.8)                             | 3.8 (2.7, 5.0)                             |
-| Region          |     |                                            |                                            |                                            |                                            |
-| Asia            | 560 | 8.4 (7.1, 9.9)                             | 17.4 (15.0, 20.0)                          | 1.4 (0.9, 1.9)                             | 2.7 (1.9, 3.7)                             |
-| Europe          | 284 | 6.9 (5.5, 8.5)                             | 14.4 (12.0, 17.0)                          | 2.0 (1.3, 3.0)                             | 3.7 (2.7, 5.1)                             |
-| North America   | 234 | 6.6 (5.4, 8.0)                             | 14.0 (11.8, 16.5)                          | 1.9 (1.3, 2.7)                             | 3.8 (2.7, 5.0)                             |
-| ROW             | 50  | 6.6 (5.2, 8.1)                             | 14.0 (11.3, 16.8)                          | 2.6 (1.6, 4.1)                             | 5.1 (3.4, 7.6)                             |
-| Race-Country    |     |                                            |                                            |                                            |                                            |
-| Non-Asian       | 542 | 6.8 (5.5, 8.4)                             | 14.5 (12.0, 16.9)                          | 2.1 (1.5, 2.9)                             | 4.0 (3.0, 5.2)                             |
-| Asian-Japan     | 303 | 12.1 (10.1, 14.2)                          | 24.8 (21.4, 28.6)                          | 1.3 (0.9, 1.9)                             | 2.6 (1.8, 3.5)                             |
-| Asian Non-Japan | 283 | 3.9 (2.5, 5.3)                             | 8.4 (5.7, 11.4)                            | 1.5 (1.0, 2.1)                             | 2.9 (2.0, 4.1)                             |
+|                 |   N | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   | Model-Predicted Rate, % Estimate (90% CI)   |
+|-----------------|-----|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+|                 |     | ILD Any Grade                               | ILD Any Grade                               | ILD Grade ≥3                                | ILD Grade ≥3                                |
+|                 |     | Day 180                                     | Day 360                                     | Day 180                                     | Day 360                                     |
+| HER2 Status     |     |                                             |                                             |                                             |                                             |
+| HER2-Positive   | 645 | 7.4 (6.2, 8.7)                              | 15.6 (13.5, 17.6)                           | 1.6 (1.1, 2.2)                              | 3.2 (2.3, 4.1)                              |
+| HER2-Low        | 362 | 6.9 (5.8, 8.2)                              | 14.5 (12.6, 16.7)                           | 2.0 (1.4, 2.8)                              | 3.8 (2.7, 5.0)                              |
+| Region          |     |                                             |                                             |                                             |                                             |
+| Asia            | 560 | 8.4 (7.1, 9.9)                              | 17.4 (15.0, 20.0)                           | 1.4 (0.9, 1.9)                              | 2.7 (1.9, 3.7)                              |
+| Europe          | 284 | 6.9 (5.5, 8.5)                              | 14.4 (12.0, 17.0)                           | 2.0 (1.3, 3.0)                              | 3.7 (2.7, 5.1)                              |
+| North America   | 234 | 6.6 (5.4, 8.0)                              | 14.0 (11.8, 16.5)                           | 1.9 (1.3, 2.7)                              | 3.8 (2.7, 5.0)                              |
+| ROW             |  50 | 6.6 (5.2, 8.1)                              | 14.0 (11.3, 16.8)                           | 2.6 (1.6, 4.1)                              | 5.1 (3.4, 7.6)                              |
+| Race-Country    |     |                                             |                                             |                                             |                                             |
+| Non-Asian       | 542 | 6.8 (5.5, 8.4)                              | 14.5 (12.0, 16.9)                           | 2.1 (1.5, 2.9)                              | 4.0 (3.0, 5.2)                              |
+| Asian-Japan     | 303 | 12.1 (10.1, 14.2)                           | 24.8 (21.4, 28.6)                           | 1.3 (0.9, 1.9)                              | 2.6 (1.8, 3.5)                              |
+| Asian Non-Japan | 283 | 3.9 (2.5, 5.3)                              | 8.4 (5.7, 11.4)                             | 1.5 (1.0, 2.1)                              | 2.9 (2.0, 4.1)                              |
 
-BC = breast cancer; CI = confidence interval; HER2 = human epidermal growth factor receptor 2; N = number of subjects; Q3 W = every 3 weeks; T-DXd = trastuzumab deruxtecan; ROW = rest of the world;
+BC = breast cancer; CI = confidence interval; HER2 = human epidermal growth factor receptor 2; N = number of subjects; Q3W = every 3 weeks; T-DXd = trastuzumab deruxtecan; ROW = rest of the world;
 
-TEAE = treatment-emergent adverse event.
-
-Note: Simulations were based on subjects in the specified population and race-country category using subject-specific exposures and covariates. Simulated number of subjects includes all BC subjects in the indicated category. The 90% CI was based on model uncertainty and covariate variability.
+Note: Simulations were based on subjects in the specified population and race-country category using subject-specific exposures and covariates. Simulated number of subjects includes all BC subjects in the indicated
 
 Source: Module 5.3.3.5 Exposure-Response Analysis Report PMx020, Tables 5-50 and 5-51
+
+category. The 90% CI was based on model uncertainty and covariate variability.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1252,7 +1259,6 @@ BICR = blinded independent central review; CDK = cyclin-dependent kinase; DoR = 
 Subjects had to satisfy all of the criteria shown below to be included in the study. For subjects randomized to the TPC arm, the investigator followed the label approved in the country of drug administration for eligibility criteria for the individual treatment options (capecitabine, eribulin, gemcitabine, paclitaxel, or nab-paclitaxel).
 
 1. Competent and able to comprehend, sign, and date an IRB- or IEC-approved ICF before performance of any study-specific procedures or tests.
-
 2. Men or women ≥18 years of age.
 3. Pathologically documented BC that:
 - a. Was unresectable or metastatic.
@@ -1261,9 +1267,8 @@ b. Had a history of low HER2 expression, defined as IHC 2+/ISH-negative or IHC 1
 
 c. Was assessed as low HER2 expression, defined as IHC 2+/ISH-negative or IHC 1+ according to ASCO-CAP 2018 HER2 testing guidelines, adapted by Daiichi Sankyo Inc. and Ventana Medical Systems, Inc., evaluated at a central laboratory.
 
-d. Was hormone receptor-positive or hormone receptor-negative. Approximately 60 subjects with hormone receptor-negative BC were to be enrolled; the remaining subjects were to be hormone receptorpositive (positive for estrogen receptor or progesterone receptor if finding of ≥1% immunoreactive tumor cell nuclei).
-
-e. If the BC was hormone receptor-positive, it was documented as refractory to ET, defined as having progressed on at least 1 endocrine therapy and determined by the investigator that the subject would no longer benefit from further treatment with ET.
+- d. Was hormone receptor-positive or hormone receptor-negative. Approximately 60 subjects with hormone receptor-negative BC were to be enrolled; the remaining subjects were to be hormone receptor-positive (positive for estrogen receptor or progesterone rece ptor if finding of ≥1% immunoreactive tumor cell nuclei).
+- e. If the BC was hormone receptor-positive, it was documented as refractory to ET, defined as having progressed on at least 1 endocrine therapy and determined by the investigator that the subject would no longer benefit from further treatment with ET.
 
 f. If the BC was hormone receptor-positive, had or had not been treated with a CDK4/6 inhibitor. No more than 240 subjects with hormone receptor-positive BC who had no prior therapy with a CDK4/6 inhibitor and at least 240 subjects with hormone receptor-positive BC who had prior therapy with a CDK4/6 inhibitor were to be enrolled.
 
@@ -1271,7 +1276,7 @@ g. Had been treated with at least 1 and no more than 2 prior lines of chemothera
 
 · If recurrence occurred within 6 months of (neo)adjuvant chemotherapy, (neo)adjuvant therapy would count as 1 line of chemotherapy.
 
-· Targeted agents (such as mammalian target of rapamycin [mTOR] inhibitors, poly adenosine diphosphate ribose polymerase [PARP] inhibitors, programmed cell death ligand [PD-L] inhibitors, programmed cell death ligand 1 [PD-L1] inhibitors, histone deacetylase inhibitors, or CDK4/6 inhibitors) and endocrine therapies on their own did not contribute to the count of prior lines of chemotherapy, although regimens with such agents in combination with chemotherapy still counted as 1 line of chemotherapy.
+- Targeted agents (such as mammalian target of rapamycin [mTOR] inhibitors, poly adenosine diphosphate ribose polymerase [PARP] inhibitors, programmed cell death ligand [PD-L] inhibitors, programmed cell death ligand 1 [PD-L1] inhibitors, histone deacetylase inhibitors, or CDK4/6 inhibitors) and endocrine therapies on their own did not contribute to the count of prior lines of chemotherapy, although regimens with such agents in combination with chemotherapy still counted as 1 line of chemotherapy.
 
 h. Was never previously HER2-positive (IHC 3+ or IHC 2+/ISH-positive) on prior pathology testing (per ASCO-CAP guidelines) or was historically HER2 IHC 0 only.
 
@@ -1287,10 +1292,9 @@ i. Was never previously treated with anti-HER2 therapy.
 
 7. Presence of at least 1 measurable lesion based on CT or MRI per modified Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST v1.1).26
 
-• Brain lesions were considered as non-target lesions only.
+· Brain lesions were considered as non-target lesions only.
 
 8. Had an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.
-
 9. Had left ventricular ejection fraction (LVEF) ≥50% within 28 days prior to randomization.
 
 10. Had adequate bone marrow function within 14 days before randomization, defined as:
@@ -1307,7 +1311,7 @@ c. Absolute neutrophil count ≥1500/mm3 (granulocyte colony -stimulating factor
 
 12. Had adequate hepatic function within 14 days before randomization, defined as:
 
-• Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ≤5 × upper limit of normal (ULN).
+· Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ≤5 × upper limit of normal (ULN).
 
 · Total bilirubin ≤1.5 × ULN if no liver metastases or &lt;3 × ULN in the presence of documented Gilbert's syndrome (unconjugated hyperbilirubinemia) or liver metastases at baseline.
 
@@ -1317,11 +1321,9 @@ c. Absolute neutrophil count ≥1500/mm3 (granulocyte colony -stimulating factor
 
 14. Male and female subjects of reproductive/childbearing potential were required to agree to use a highly effective form of contraception or avoid intercourse during and upon completion of the study and after the last dose of T-DXd for at least 7 months for females or 4.5 months for males or according to the label approved in the country of drug administration for the TPCs. Male subjects were required to agree to inform all female partners that they were participating in a clinical study that could cause birth defects.
 
-15. Male subjects were not allowed to freeze or donate sperm starting at Screening and throughout the study period, and at least 4.5 months after the final study drug administration or according to the label
+15. Male subjects were not allowed to freeze or donate sperm starting at Screening and throughout the study period, and at least 4.5 months after the final study drug administration or according to the label approved in the country of drug administration for the TPCs. Preservation of sperm was to be considered prior to enrollment in this study.
 
 <div style=\"page-break-after: always\"></div>
-
-approved in the country of drug administration for the TPCs. Preservation of sperm was to be considered prior to enrollment in this study.
 
 16. Female subjects were not allowed to donate ova, or retrieve for their own use, from the time of Screening and throughout the study drug period, and for at least 7 months after the final study drug administration or according to the label approved in the country of drug administration for the TPCs.
 
@@ -1334,16 +1336,15 @@ The investigator was instructed to follow the label approved in the country of d
 Subjects with any of the following were disqualified from entering the study:
 
 1. Ineligibility for the declared TPC comparator because of previous treatment with the same comparator in the metastatic setting or the comparator was contraindicated. Subjects were eligible to be treated with a comparator with which they had not previously been treated.
-
 2. Prior treatment with an ADC consisting of an exatecan derivative that is a topoisomerase I inhibitor, including prior participation in a study involving an ADC produced by Daiichi Sankyo Inc. and/or AstraZeneca.
 
 3. Uncontrolled or significant cardiovascular disease, including any of the following:
 
-a. History of myocardial infarction within 6 months before randomization, or troponin levels consistent with myocardial infarction (as defined according to the manufacturer) 28 days prior to randomization.
+- a. History of myocardial infarction within 6 months before randomization, or troponin levels consistent with myocardial infarction (as defined according to the manufacturer) 28 days prior to randomization.
 
 b. History of symptomatic congestive heart failure (New York Heart Association Class II to IV).
 
-c. Corrected QT interval (QTc) prolongation to &gt;470 ms (females) or &gt;450 ms (males) based on average of Screening triplicate 12-lead electrocardiograms (ECGs).
+- c. Corrected QT interval (QTc) prolongation to &gt;470 ms (females) or &gt;450 ms (males) based on average of Screening triplicate 12-lead electrocardiograms (ECGs).
 
 4. History of (noninfectious) ILD/pneumonitis that required steroids, current ILD/pneumonitis, or suspected ILD/pneumonitis that could not be ruled out by imaging at Screening.
 
@@ -1354,9 +1355,7 @@ c. Corrected QT interval (QTc) prolongation to &gt;470 ms (females) or &gt;450 m
 6. Multiple primary malignancies within 3 years, except adequately resected non-melanoma skin cancer, curatively treated in situ disease, or contralateral BC.
 
 7. History of severe hypersensitivity reactions to either the drug substances or inactive ingredients in the drug product.
-
 8. History of severe hypersensitivity reactions to other monoclonal antibodies.
-
 9. Uncontrolled infection requiring IV antibiotics, antivirals, or antifungals.
 
 <div style=\"page-break-after: always\"></div>
@@ -1393,15 +1392,13 @@ Table 21 Treatment per Physician's choice in the control arm
 
 | Comparator     | Dosing Regimen                                                                                                                           |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Capecitabine   | 1000-1250 mg/m2 PO twice daily on Days 1-14; cycled every 21 days                                                                        |
-| Eribulin       | 1.4 mga/m2 IV on Days 1 and 8; cycled every 21 days                                                                                      |
-| Gemcitabine    | Option 1: 800-1200 mg/m2 IV on Days 1 and 8; cycled every 21 days Option 2: 800-1200 mg/m2 IV on Days 1, 8, and 15; cycled every 28 days |
-| Paclitaxel     | Option 1: 175 mg/m2 IV on Day 1; cycled every 21 days Option 2: 80 mg/m2 IV on Day 1 weekly                                              |
-| Nab-paclitaxel | Option 1: 260 mg/m2 IV; cycled every 21 days Option 2: 100 mg/m2 or 125 mg/m2 IV on Days 1, 8, and 15; cycled every 28 days              |
+| Capecitabine   | 1000-1250 mg/m² PO twice daily on Days 1-14; cycled every 21 days                                                                        |
+| Eribulin       | 1.4 mga/m² IV on Days 1 and 8; cycled every 21 days                                                                                      |
+| Gemcitabine    | Option 1: 800-1200 mg/m² IV on Days 1 and 8; cycled every 21 days Option 2: 800-1200 mg/m² IV on Days 1, 8, and 15; cycled every 28 days |
+| Paclitaxel     | Option 1: 175 mg/m² IV on Day 1; cycled every 21 days Option 2: 80 mg/m² IV on Day 1 weekly                                              |
+| Nab-paclitaxel | Option 1: 260 mg/m² IV; cycled every 21 days Option 2: 100 mg/m² or 125 mg/m² IV on Days 1, 8, and 15; cycled every 28 days              |
 
-NCCN= NationalComprehensive Cancer Network; IV = intra venously; PO =orally
-
-a Refers to eribulin mesylate (1.23 mgeribulin base = 1.4 mgeribulin mesylate)
+NCCN = National Comprehensive Cancer Network; IV = intra venously; PO = ora lly
 
 In both treatment arms, the study drug was continued according until discontinuation criteria were met, which included progressive disease, unacceptable toxicity, or withdrawal of consent by subject.
 
@@ -1439,8 +1436,7 @@ Other secondary objectives were as follows:
 
 The exploratory objectives were to evaluate the following:
 
-· Clinical benefit rate (CBR; the proportion of complete response [CR], partial response [PR], and ≥6 months' stable disease [SD]), based on BICR in subjects with hormone receptor-positive BC and in the FAS
-
+- Clinical benefit rate (CBR; the proportion of complete response [CR], partial response [PR], and ≥6 months' stable disease [SD]), based on BICR in subjects with hormone receptor-positive BC and in the FAS
 - Disease control rate (DCR), based on BICR in subjects with hormone receptor positive BC and in the FAS
 - Time to response (TTR) based on BICR in subjects with hormone receptor-positive BC and in the FAS
 - PFS on the next line of therapy (PFS2)
@@ -1543,19 +1539,15 @@ The hazard ratio of PFS and its two-sided 95% CI were estimated using stratified
 
 Table 22 Censoring rules for PFS
 
-| Case Scenario                                                                                                                                           | Event/Censor (Event or' Censoring Description)                                                                      | Event or Censoring Date                                                                                         |
+| Case Scenario                                                                                                                                           | Event/Censor (Event or Censoring Description)                                                                       | Event or Censoring Date                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Nobaselineevaluabletumor assessment                                                                                                                     | Censored (no baseline tumor assessment)                                                                             | Date of randomization                                                                                           |
-| No post-baseline tumor assessment                                                                                                                       | Censored (no post- baseline assessment)                                                                             | Dateofrandomization                                                                                             |
+| No baseline evaluable tumor assessment                                                                                                                  | Censored (no baseline tumor assessment)                                                                             | Date of randomization                                                                                           |
+| No post-baseline tumor assessment                                                                                                                       | Censored (no post- baseline assessment)                                                                             | Date of randomization                                                                                           |
 | Early death (within 14 weeks of randomization) without baseline or postbaseline tumor assessment                                                        | Event (death)                                                                                                       | Date of death                                                                                                   |
 | Radiographic disease progression or death without missing two or more consecutive tumor assessments immediately preceding the event                     | Event (progression or death)                                                                                        | Date of progressive disease assessment or date of death                                                         |
 | Disease progression or death after missing ≥ 2 consecutive scheduled tumor assessments (i.e., more than 14 weeks)                                       | Censor (event after missing 2 or more consecutive tumor assessments)                                                | Date of last evaluable tumor assessment (prior to earliest of death/progression date and analysis cut-off date) |
-| At least one post-baseline response assessment, subject with no death or objective documentation of radiographic disease progression (progression-free) | Censor (lost to follow-up; withdraw consent; ongoing without event; adequate tumor assessment no longer available*) | Date of last evaluable tumor assessment (prior to analysis cut-off date, NOT coded as “inevaluable\")            |
+| At least one post-baseline response assessment, subject with no death or objective documentation of radiographic disease progression (progression-free) | Censor (lost to follow-up; withdraw consent; ongoing without event; adequate tumor assessment no longer available*) | Date of last evaluable tumor assessment (prior to analysis cut-off date, NOT coded as “inevaluable”)            |
 | Anti-cancer therapy started prior to disease progression, death or analysis cut-off date (**)                                                           | Censor (anti-cancer therapy)                                                                                        | Date of last evaluable tumor assessment prior to anti-cancer therapy (other than study drug)                    |
-
-** This censoringrule will be used forsensitivityanalysis
-
-* Censoringreason willbe lost to follow-up if dateof lost to follow-up from end oftreatment page orpost-treatment follow-up page is within 2 consecutivetumor assessments from la st adequate tumor assessment; Censoring rea son willbe withdrewconsentif date ofwithdrawofconsent fromstudyiswithin 2consecutivetumorassessments from la st adequatetumora ssessment; Censoringreason willbe ongoing without progressionif cutoff date is within 2 consecutive tumor a ssessments from la st adequate tumora ssessment; Otherwise censoringreason willbe a dequate assessmentno longer available.
 
 Source SAP v 2.0, page 57/152
 
@@ -1625,11 +1617,9 @@ Up to three analyses of OS were planned:
 
 OS was to be compared between the 2 treatment groups at either interim or final analysis, provided superiority in PFS was demonstrated for both the hormone receptor positive cohort and the FAS. A hierarchical testing procedure was adopted as described below.
 
-A group sequential design, utilizing 3-look Lan-DeMets alpha spending function with O'Brien-Fleming type stop boundary was used to construct the efficacy stopping boundaries with an overall 2-sided significance level of 0.05. The trial allowed for the early stopping of the study for a superior OS, provided the log-rank test for PFS had demonstrated statistical significance in both hormone receptor positive cohort and FAS. The same interim efficacy stopping boundaries was used for OS hypotheses testing with hormone receptor positive cohort and FAS. If the study continues to final analysis, the efficacy stopping boundaries at the final OS analysis to control the 2-sided significance level of the repeated testing at 0.05 was to derived separately for hormone receptor positive cohort and FAS based on the actual number of OS events documented at the cut-off date, and the actual information fractions and the alpha already spent at the interim analyses. This was to ensure the overall significance level at 0.05 (2-sided) across the 2 OS hypotheses testing with hormone receptor positive cohort and FAS, and the repeated testing of the OS hypotheses at the interim and the final analyses,
+A group sequential design, utilizing 3-look Lan-DeMets alpha spending function with O'Brien-Fleming type stop boundary was used to construct the efficacy stopping boundaries with an overall 2-sided significance level of 0.05. The trial allowed for the early stopping of the study for a superior OS, provided the log-rank test for PFS had demonstrated statistical significance in both hormone receptor positive cohort and FAS. The same interim efficacy stopping boundaries was used for OS hypotheses testing with hormone receptor positive cohort and FAS. If the study continues to final analysis, the efficacy stopping boundaries at the final OS analysis to control the 2-sided significance level of the repeated testing at 0.05 was to derived separately for hormone receptor positive cohort and FAS based on the actual number of OS events documented at the cut-off date, and the actual information fractions and the alpha already spent at the interim analyses. This was to ensure the overall significance level at 0.05 (2-sided) across the 2 OS hypotheses testing with hormone receptor positive cohort and FAS, and the repeated testing of the OS hypotheses at the interim and the final analyses, provided the log-rank test for PFS had demonstrated statistical significance in both hormone receptor positive cohort and FAS.
 
 <div style=\"page-break-after: always\"></div>
-
-provided the log-rank test for PFS had demonstrated statistical significance in both hormone receptor positive cohort and FAS.
 
 It was recognized that the information fractions at the interim analyses may not be as planned. The stopping boundary was to be updated based on the actual information fraction at the interim analyses.
 
@@ -1646,10 +1636,10 @@ The statistical testing for a key secondary endpoint was to be performed only wh
 
 Table 23 Changes to the SAP and to the planned analyses specified in protocol
 
-|   Protocol Version | Approval Date   | Salient Changes, if any                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                1   | Nov 11,2020     | NA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                1.1 | Oct 10,2021     | Refine the safety analyses Add summary for ORR and DoR for HR- negative cohort (exploratory objective, but no analyses were specified in SAP v1.0) Provide algorithm for TPC duration of exposure Specify algorithm for prior lines of chemotherapy and lines of endocrine therapy UpdatePROsection Adddeath dateimputationrule Refine the algorithm for time windows for ECOGandPRO Clarify HR positive cohorts and HR negative cohort ofFAS,is based onbaselineHR status Add censoring rules for PFS2 |
+|   Protocol Version | Approval Date   | Salient Changes, if any                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                1.0 | Nov 11, 2020    | NA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                1.1 | Oct 10, 2021    | Refine the safety analyses Add summary for ORR and DoR for HR- negative cohort (exploratory objective, but no analyses were specified in SAP v1.0) Provide algorithm for TPC duration of exposure Specify algorithm for prior lines of chemotherapy and lines of endocrine therapy Update PRO section Add death date imputation rule Refine the algorithm for time windows for ECOG and PRO Clarify HR positive cohorts and HR negative cohort of FAS, is based on baseline HR status Add censoring rules for PFS2 |
 
 Source SAP v2.0 page 74/152
 
@@ -1668,9 +1658,7 @@ Figure 25 Participant flow in Study U303
 
 <!-- image -->
 
-DCO = data cut-off; N= numberofsubjects; PK = phamacokinetic; T-DXd =tra stuzumab deruxtecan; TPC = treatment ofphysician's choice
-
-Data cut-off: 11 Jan 2022
+DCO = data cut-off; N = number ofsubjects; PK = phamacokinetic; T-DXd = tra stuzumab deruxtecan; TPC = treatment ofphysician's choice Data cut-off: 11 Jan 2022
 
 Source: Table 14.1.1.1.1
 
@@ -1764,11 +1752,9 @@ The primary changes made by Amendment 4 were as follows:
 
 ## Changes in Collection of Data
 
-Because of site closures and travel restrictions, 4 subjects were transferred to another existing study site or satellite site that was different from the site at which the subject originally enrolled. In such cases, the transfer was initiated by the investigator. Study activities, including drug dispensing and
+Because of site closures and travel restrictions, 4 subjects were transferred to another existing study site or satellite site that was different from the site at which the subject originally enrolled. In such cases, the transfer was initiated by the investigator. Study activities, including drug dispensing and dosing for each subject, were performed per protocol at the transfer site. Modification of study procedures as a result of the COVID-19 pandemic was not necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-dosing for each subject, were performed per protocol at the transfer site. Modification of study procedures as a result of the COVID-19 pandemic was not necessary.
 
 ## Changes in Monitoring/Oversight
 
@@ -1778,27 +1764,23 @@ Targeted source data verification was the primary task during these on-site visi
 
 Table 25 Major Protocol Deviations in the Hormone Receptor-positive Cohort and the Full Analysis Set
 
-| Deviation Category                                          | Number (%) of Subjects           | Number (%) of Subjects           | Number (%) of Subjects   | Number (%) of Subjects   |
-|-------------------------------------------------------------|----------------------------------|----------------------------------|--------------------------|--------------------------|
-| Deviation Category                                          | Hormone Receptor-positive Cohort | Hormone Receptor-positive Cohort | Full Analysis Set        | Full Analysis Set        |
-| Deviation Category                                          | T-DXd (N= 331)                   | TPC (N= 163)                     | T-DXd (N= 373)           | TPC (N =184)             |
-| Subjects with anymajor protocol deviation                   | 36 (10.9)                        | 30 (18.4)                        | 42 (11.3)                | 35 (19.0)                |
-| Relatedto COVID-19                                          | 3 (0.9)                          | 0                                | 3 (0.8)                  | 0                        |
-| Serious adverse eventreporting                              | 8 (2.4)                          | 6 (3.7)                          | 9 (2.4)                  | 7 (3.8)                  |
-| Informed consent                                            | 8 (2.4)                          | 2 (1.2)                          | 8 (2.1)                  | 2 (1.1)                  |
-| Eligibility criteria                                        | 8 (2.4)                          | 10 (6.1)                         | 11 (2.9)                 | 10 (5.4)                 |
-| Study procedures                                            | 8 (2.4)                          | 1 (0.6)                          | 8 (2.1)                  | 3 (1.6)                  |
-| Relatedto COVID-19                                          | 2 (0.6)                          | 0                                | 2 (0.5)                  | 0                        |
-| Investigationalproduct                                      | 6 (1.8)                          | 12 (7.4)                         | 7 (1.9)                  | 13 (7.1)                 |
-| Relatedto COVID-19                                          | 1 (0.3)                          | 0                                | 1 (0.3)                  | 0                        |
-| Concomitant and prohibited  medications or non-drug therapy | 4 (1.2)                          | 0                                | 4 (1.1)                  | 0                        |
-| Laboratory assessmentcriteria                               | 1 (0.3)                          | 2 (1.2)                          | 3 (0.8)                  | 3 (1.6)                  |
+| Deviation Category                                        | Number (%) of Subjects           | Number (%) of Subjects           | Number (%) of Subjects   | Number (%) of Subjects   |
+|-----------------------------------------------------------|----------------------------------|----------------------------------|--------------------------|--------------------------|
+| Deviation Category                                        | Hormone Receptor-positive Cohort | Hormone Receptor-positive Cohort | Full Analysis Set        | Full Analysis Set        |
+| Deviation Category                                        | T-DXd (N= 331)                   | TPC (N = 163)                    | T-DXd (N=373)            | TPC (N = 184)            |
+| Subjects with anymajor protocol deviation                 | 36 (10.9)                        | 30 (18.4)                        | 42 (11.3)                | 35 (19.0)                |
+| Relatedto COVID-19                                        | 3 (0.9)                          | 0                                | 3 (0.8)                  | 0                        |
+| Serious adverse eventreporting                            | 8 (2.4)                          | 6(3.7)                           | 9 (2.4)                  | 7(3.8)                   |
+| Informed consent                                          | 8 (2.4)                          | 2(1.2)                           | 8(2.1)                   | 2(1.1)                   |
+| Eligibility criteria                                      | 8(2.4)                           | 10 (6.1)                         | 11 (2.9)                 | 10 (5.4)                 |
+| Study procedures                                          | 8(2.4)                           | 1 (0.6)                          | 8(2.1)                   | 3 (1.6)                  |
+| Relatedto COVID-19                                        | 2 (0.6)                          | 0                                | 2 (0.5)                  | 0                        |
+| Investigationalproduct                                    | 6(1.8)                           | 12 (7.4)                         | 7(1.9)                   | 13 (7.1)                 |
+| Relatedto COVID-19                                        | 1 (0.3)                          | 0                                | 1 (0.3)                  | 0                        |
+| Concomitant and prohibited medications ornon-drug therapy | 4(1.2)                           | 0                                | 4(1.1)                   | 0                        |
+| Laboratory assessmentcriteria                             | 1 (0.3)                          | 2 (1.2)                          | 3 (0.8)                  | 3 (1.6)                  |
 
-COVID-19 =coronavirus disease 2019; T-DXd =tra stuzumab deruxtecan; TPC =treatment of physician's choice
-
-For each category and deviation, subjects who experiencedmultiple events in that category or deviation were counted only once.
-
-Percentages were calculatedusing the numberofsubjects in the column heading as the denominator.
+Percentages were calculatedusing the number ofsubjects in the column heading as the denominator.
 
 Data cut-off: 11 Jan 2022
 
@@ -1901,7 +1883,9 @@ Table 26 Demographic and Baseline Disease Characteristics in the Hormone Recepto
 
 CDK = cyclin-dependent kinase; CNS = central nervous system; CSR = clinical study report; ECOG PS = Eastern Cooperative Oncology Group performance status; ET = endocrine therapy; HER2 = human epidermal growth factor receptor 2;
 
-IHC = immunohistochemistry; IXRS = interactive web/voice response system; ISH = in situ hybridization; Max = maximum; Min = minimum; SAP = statistical analysis plan; Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice a   Asia = China, Japan, Republic of Korea, Taiwan; Europe + Israel = Austria, Belgium, France, Greece, Hungary, Israel, Italy, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom; North America = US, Canada. In this study, Israel was combined with Europe geographic subgroup.
+IHC = immunohistochemistry; IXRS = interactive web/voice response system; ISH = in situ hybridization; Max = maximum; Min = minimum; SAP = statistical analysis plan; Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
+
+a   Asia = China, Japan, Republic of Korea, Taiwan; Europe + Israel = Austria, Belgium, France, Greece, Hungary, Israel, Italy, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom; North America = US, Canada. In this study, Israel was combined with Europe geographic subgroup.
 
 b   Definitions for hepatic and renal function at baseline are specified in DS8201-A-U303 CSR Appendix 16.1.9.1 SAP Version 2.0 Section 7.2.1.5.
 
@@ -1913,78 +1897,77 @@ Source: DS8201-A-U303 CSR Tables 14.1.2.1.1.1, 14.1.2.1.4.1, 14.1.3.2.1, and 14.
 
 Table 27 Baseline Disease Characteristics in the Hormone Receptor-positive Cohort and the Full Analysis Set (Study U303)
 
-| Parameter                                                            | Nunber (%) of Subjects                                               | Nunber (%) of Subjects                                               | Nunber (%) of Subjects                                               | Nunber (%) of Subjects                                               |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|                                                                      | HormoneReceptor-positive Cohort                                      | HormoneReceptor-positive Cohort                                      | Full Analysis Set                                                    | Full Analysis Set                                                    |
-|                                                                      | T-DXd (N=331)                                                        | TPC (N= 163)                                                         | T-DXd (N=373)                                                        | TPC (N= 184)                                                         |
-| Stra tification factor: HER2 IHC status perIXRS                      | Stra tification factor: HER2 IHC status perIXRS                      | Stra tification factor: HER2 IHC status perIXRS                      | Stra tification factor: HER2 IHC status perIXRS                      | Stra tification factor: HER2 IHC status perIXRS                      |
-| HER2IHC1+                                                            | 193 (58.3)                                                           | 95 (58.3)                                                            | 215 (57.6)                                                           | 106 (57.6)                                                           |
-| HER2 IHC2+/ISHnegative                                               | 138 (41.7)                                                           | 68 (41.7)                                                            | 158 (42.4)                                                           | 78 (42.4)                                                            |
-| Stra tificationfactor: Numberof prior lines of chemotherapy per IXRS | Stra tificationfactor: Numberof prior lines of chemotherapy per IXRS | Stra tificationfactor: Numberof prior lines of chemotherapy per IXRS | Stra tificationfactor: Numberof prior lines of chemotherapy per IXRS | Stra tificationfactor: Numberof prior lines of chemotherapy per IXRS |
-| 1                                                                    | 197 (59.5)                                                           | 96(58.9)                                                             | 212 (56.8)                                                           | 103 (56.0)                                                           |
-| 2                                                                    | 134 (40.5)                                                           | 67 (41.1)                                                            | 161 (43.2)                                                           | 81 (44.0)                                                            |
-| Stratificationfactor:Hormonereceptor/CDK status perIXRS              | Stratificationfactor:Hormonereceptor/CDK status perIXRS              | Stratificationfactor:Hormonereceptor/CDK status perIXRS              | Stratificationfactor:Hormonereceptor/CDK status perIXRS              | Stratificationfactor:Hormonereceptor/CDK status perIXRS              |
-| Hormonereceptor-positive with prior CDK4/6                           | 233 (70.4)                                                           | 115 (70.6)                                                           | 233 (62.5)                                                           | 115 (62.5)                                                           |
-| Hormonereceptor-positive withoutprio1 CDK4/6                         | 98 (29.6)                                                            | 48 (29.4)                                                            | 98 (26.3)                                                            | 48 (26.1)                                                            |
-| Hormonereceptor-negative                                             | 0                                                                    | 0                                                                    | 42 (11.3)                                                            | 21 (11.4)                                                            |
-| Hormonereceptor - deriveda                                           | Hormonereceptor - deriveda                                           | Hormonereceptor - deriveda                                           | Hormonereceptor - deriveda                                           | Hormonereceptor - deriveda                                           |
-| Positive                                                             | 328 (99.1)                                                           | 162 (99.4)                                                           | 333 (89.3)                                                           | 166 (90.2)                                                           |
-| Negative                                                             | 3 (0.9)                                                              | 1 (0.6)                                                              | 40 (10.7)                                                            | 18 (9.8)                                                             |
-| Reportedhistory ofCNS metastases                                     | 30 (9.1)                                                             | 13 (8.0)                                                             | 37 (9.9)                                                             | 15 (8.2)                                                             |
-| Baseline CNS metastases                                              | 18 (5.4)                                                             | 7 (4.3)                                                              | 24(6.4)                                                              | 8 (4.3)                                                              |
-| Renalfunctionb                                                       | Renalfunctionb                                                       | Renalfunctionb                                                       | Renalfunctionb                                                       | Renalfunctionb                                                       |
-| Within normalrange                                                   | 185 (55.9)                                                           | 79 (48.5)                                                            | 202 (54.2)                                                           | 87 (47.3)                                                            |
-| Mild impa iment                                                      | 104 (31.4)                                                           | 61(37.4)                                                             | 123 (33.0)                                                           | 69 (37.5)                                                            |
+| Parameter                                                             | Number (%) of Subjects                                                | Number (%) of Subjects                                                | Number (%) of Subjects                                                | Number (%) of Subjects                                                |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                                                                       | Hormone Receptor-positive Cohort                                      | Hormone Receptor-positive Cohort                                      | Full Analysis Set                                                     | Full Analysis Set                                                     |
+|                                                                       | T-DXd (N = 331)                                                       | TPC (N = 163)                                                         | T-DXd (N= 373)                                                        | TPC (N = 184)                                                         |
+| Stratification factor: HER2 IHC status perIXRS                        | Stratification factor: HER2 IHC status perIXRS                        | Stratification factor: HER2 IHC status perIXRS                        | Stratification factor: HER2 IHC status perIXRS                        | Stratification factor: HER2 IHC status perIXRS                        |
+| HER2IHC1+                                                             | 193 (58.3)                                                            | 95 (58.3)                                                             | 215 (57.6)                                                            | 106 (57.6)                                                            |
+| HER2 IHC2+/ISHnegative                                                | 138 (41.7)                                                            | 68 (41.7)                                                             | 158 (42.4)                                                            | 78 (42.4)                                                             |
+| Stratification factor: Number of prior lines of chemotherapy per IXRS | Stratification factor: Number of prior lines of chemotherapy per IXRS | Stratification factor: Number of prior lines of chemotherapy per IXRS | Stratification factor: Number of prior lines of chemotherapy per IXRS | Stratification factor: Number of prior lines of chemotherapy per IXRS |
+| 1                                                                     | 197 (59.5)                                                            | 96 (58.9)                                                             | 212 (56.8)                                                            | 103 (56.0)                                                            |
+| 2                                                                     | 134(40.5)                                                             | 67(41.1)                                                              | 161 (43.2)                                                            | 81 (44.0)                                                             |
+| Stratification factor: Hormonereceptor/CDK status perIXRS             | Stratification factor: Hormonereceptor/CDK status perIXRS             | Stratification factor: Hormonereceptor/CDK status perIXRS             | Stratification factor: Hormonereceptor/CDK status perIXRS             | Stratification factor: Hormonereceptor/CDK status perIXRS             |
+| Hormonereceptor-positive with prior CDK4/6                            | 233 (70.4)                                                            | 115 (70.6)                                                            | 233 (62.5)                                                            | 115 (62.5)                                                            |
+| Hormonereceptor-positive withoutprior CDK4/6                          | 98 (29.6)                                                             | 48 (29.4)                                                             | 98 (26.3)                                                             | 48 (26.1)                                                             |
+| Hormonereceptor-negative                                              | 0                                                                     | 0                                                                     | 42 (11.3)                                                             | 21 (11.4)                                                             |
+| Hormonereceptor– derivedª                                             | Hormonereceptor– derivedª                                             | Hormonereceptor– derivedª                                             | Hormonereceptor– derivedª                                             | Hormonereceptor– derivedª                                             |
+| Positive                                                              | 328 (99.1)                                                            | 162 (99.4)                                                            | 333 (89.3)                                                            | 166(90.2)                                                             |
+| Negative                                                              | 3 (0.9)                                                               | 1 (0.6)                                                               | 40 (10.7)                                                             | 18 (9.8)                                                              |
+| Reportedhistory ofCNS metastases                                      | 30 (9.1)                                                              | 13 (8.0)                                                              | 37 (9.9)                                                              | 15 (8.2)                                                              |
+| Baseline CNS metastases                                               | 18 (5.4)                                                              | 7(4.3)                                                                | 24 (6.4)                                                              | 8(4.3)                                                                |
+| Renalfunction                                                         |                                                                       |                                                                       |                                                                       |                                                                       |
+| Within normalrange                                                    | 185 (55.9)                                                            | 79 (48.5)                                                             | 202 (54.2)                                                            | 87(47.3)                                                              |
+| Mild impairment                                                       | 104 (31.4)                                                            | 61 (37.4)                                                             | 123 (33.0)                                                            | 69 (37.5)                                                             |
 
-<!-- image -->
-
-| Parameter                            | Number(%) of Subjects            | Number(%) of Subjects            | Number(%) of Subjects   | Number(%) of Subjects   |
-|--------------------------------------|----------------------------------|----------------------------------|-------------------------|-------------------------|
-|                                      | Hormone Receptor-positive Cohort | Hormone Receptor-positive Cohort | Full Analysis Set       | Full Analysis Set       |
-|                                      | T-DXd (N=331)                    | TPC (N= 163)                     | T-DXd (N=373)           | TPC (N=184)             |
-| Moderate impairment                  | 37(11.2)                         | 18 (11.0)                        | 41 (11.0)               | 23 (12.5)               |
-| Severe impairment                    | 0                                | 0                                | 1(0.3)c                 | 0                       |
-| Missingd                             | 5 (1.5)                          | 5 (3.1)                          | 6 (1.6)                 | 5 (2.7)                 |
-| Hepatic function e                   |                                  |                                  |                         |                         |
-| Within normalrange                   | 149 (45.0)                       | 83 (50.9)                        | 170 (45.6)              | 98 (53.3)               |
-| Mild impaiment                       | 176 (53.2)                       | 78 (47.9)                        | 195 (52.3)              | 84 (45.7)               |
-| Moderate impaiment                   | 2 (0.6)                          | 0                                | 3 (0.8)                 | 0                       |
-| Missingd                             | 4(1.2)                           | 2 (1.2)                          | 5 (1.3)                 | 2 (1.1)                 |
-| Presence ofbaselinelungmetastases    | 98 (29.6)                        | 58 (35.6)                        | 120 (32.2)              | 63 (34.2)               |
-| Presence ofbaseline livermetastases  | 247 (74.6)                       | 116 (71.2)                       | 266 (71.3)              | 123 (66.8)              |
-| Presence ofbaseline visceraldiseasef | 298 (90.0)                       | 146 (89.6)                       | 332 (89.0)              | 157 (85.3)              |
-| ECOGperformancestatus                |                                  |                                  |                         |                         |
-| 0                                    | 187 (56.5)                       | 95 (58.3)                        | 200 (53.6)              | 105 (57.1)              |
-| 1                                    | 144 (43.5)                       | 68 (41.7)                        | 173 (46.4)              | 79 (42.9)               |
+| Parameter                             | Number (%) of Subjects           | Number (%) of Subjects           | Number (%) of Subjects   | Number (%) of Subjects   |
+|---------------------------------------|----------------------------------|----------------------------------|--------------------------|--------------------------|
+|                                       | Hormone Receptor-positive Cohort | Hormone Receptor-positive Cohort | Full Analysis Set        | Full Analysis Set        |
+|                                       | T-DXd (N = 331)                  | TPC (N = 163)                    | T-DXd (N=373)            | TPC (N = 184)            |
+| Moderate impairment                   | 37 (11.2)                        | 18 (11.0)                        | 41 (11.0)                | 23 (12.5)                |
+| Severe impairment                     | 0                                | 0                                | 1 (0.3)c                 | 0                        |
+| Missing                               | 5 (1.5)                          | 5(3.1)                           | 6 (1.6)                  | 5(2.7)                   |
+| Hepatic function                      |                                  |                                  |                          |                          |
+| Within normalrange                    | 149 (45.0)                       | 83 (50.9)                        | 170 (45.6)               | 98 (53.3)                |
+| Mild impa irment                      | 176 (53.2)                       | 78(47.9)                         | 195 (52.3)               | 84(45.7)                 |
+| Moderate impairment                   | 2 (0.6)                          | 0                                | 3 (0.8)                  | 0                        |
+| Missing d                             | 4(1.2)                           | 2 (1.2)                          | 5 (1.3)                  | 2(1.1)                   |
+| Presence of baseline lungmetastases   | 98 (29.6)                        | 58 (35.6)                        | 120 (32.2)               | 63 (34.2)                |
+| Presence of baseline liver metastases | 247 (74.6)                       | 116(71.2)                        | 266 (71.3)               | 123 (66.8)               |
+| Presence of baseline visceraldisease  | 298 (90.0)                       | 146 (89.6)                       | 332 (89.0)               | 157 (85.3)               |
+| ECOGperformancestatus                 |                                  |                                  |                          |                          |
+| 0                                     | 187 (56.5)                       | 95 (58.3)                        | 200 (53.6)               | 105 (57.1)               |
+| 1                                     | 144 (43.5)                       | 68 (41.7)                        | 173 (46.4)               | 79 (42.9)                |
 
 <div style=\"page-break-after: always\"></div>
 
-- AST = aspartateaminotransfeiase; CDK =cyclin-dependentkinase; CNS =centralnervous system; ECOG= Easten Coopeiative Oncology Group; EDC = electronic data capture; HER2 =human epidermal growth factorreceptor 2; IHC = immunochemistry; ISH= in situ hybridization; IXRS = intera ctive web/voiceresponse system; T-DXd =tra stuzumab deruxtecan; TBL =totalbilirubin; TPC =trea tment ofphysician's choice; ULN = upper limit of normal
+AST = aspartateaminotransferase; CDK =cyclin-dependentkinase; CNS =centralnervous system; ECOG= Eastern Cooperative Oncology Group; EDC = electronic data capture; HER2 =human epidermal growth factor receptor 2; IHC = immunochemistry; ISH= in situ hybridization; IXRS = intera ctive web/voiceresponse system; T-DXd =trastuzumab deruxtecan; TBL = totalbilirubin; TPC =treatment ofphysician's choice; ULN = upperlimit of normal
 
-Positive = estro gen receptors negativeand progesteronereceptors positive; estro genreceptors positive and progesterone receptors negative; estro genreceptors positive and progesterone receptors positive; estrogen receptorspositive andprogesteronereceptors indeterminate; estrogenreceptors indeterminate andprogesterone receptorspositive
+Percentages were calculatedusing the number ofsubjects in the column heading as the denominator. Hormonereceptor (basedon factors from EDC):
 
-Percentages were calculatedusing the number ofsubjects in the column heading as the denominator. a Hormonereceptor (basedon factors from EDC):
+Positive = estrogen receptors negativeand progesteronereceptors positive; estrogen receptors positive and progesterone receptors negative; estrogenreceptors positive and progesterone receptors positive; estrogen receptors positive and progesteronereceptors indeterminate; estrogenreceptors indeterminate andprogesterone receptorspositive
 
-Negative = estrogen receptors negativeandprogesterone receptors negative
+Negative=estrogen receptors negativeandprogesterone receptors negative
 
-Indeterminate = estro genreceptors negative and progesteronereceptors indeterminate; estrogenreceptors indeterminate andpro gesterone receptors negative; estro genreceptors indeteiminate andprogesterone-receptors indeterminate
+Indeterminate =estrogenreceptors negative and progesteronereceptors indeterminate; estrogenreceptors indeterminate andprogesterone receptors negative; estrogenreceptors indetemminate andprogesterone-receptors indeterminate
 
-Data presented here are basedon EDC. Data from IXRS could not be modified. The derived data in EDC captured the correctstatus. Further details are provided in Table 14.1.2.2.
+Data presented here are based on EDC. Data from IXRS could not be modified. The derived data in EDC captured the correctstatus. Further details are provided in Table 14.1.2.2.
 
-- b Renalfunction:
-- noimalfunction=creatinine clearance≥90 mL/min
-- mild impairment =creatinineclearance ≥60,&lt;90 mL/min
-- modeiate impaiment=creatinine clearance≥30,&lt;60 mL/min
-- severe impairment =creatinineclearance≥15,&lt;30 mL/min
-- end stage renaldisease=creatinine clearance&lt;15 mL/min
-- c A protocoldeviation was capturedforthis subject. The site mistakenly used themale paiameters to calculate the creatininecleaiance and theinvestigatoroverlooked this while reviewingeligibility criteria.
-- d Sites switched from usinga centrallaboratory to locallaboratory on 17 Apr 2019 (ie, after enrollmenthad started). Sites were instructedto obtainlocallaboratory data (includingbaseline) forallsubjects. There were somesites that collectedcentralbaseline data andthe data were notcaptured into the EDC; as aresult, the centraldata appearedas missing data for these subjects. Forall subjects denotedas \"missing\"' exceptthe 3 subjects detailed below, thebaseline data are captured in the centrallaboiatory database andthesubject's values were within normalrange. Forthe other 3 subjects,1 subjectwasrandomized andnevertreatedandthe other 2 subjects were confirmedto have met thecriteria via site query; noprotocoldeviations were capturedforthese 3 subjects.
+## Renalfunction:
+
+- normalfunction=creatinine clearance≥90 mL/min
+- mild impairment =creatinineclearance≥60, &lt;90 mL/min
+- moderate impairment=creatinine clearance≥30, &lt;60 mL/min
+- severe impairment = creatinineclearance≥15, &lt;30 mL/min
+- end sta ge renaldisease= creatinine clearance&lt;15 mL/min
+- C A protocol deviation was captured for this subject. The site mistakenly usedthemale parameters to calculate the creatinineclearance and theinvestigator overlooked this while reviewingeligibility criteria.
+- p Sites switched from using a centrallaboratory to local laboratory on 17 Apr 2019 (ie, after enrollmenthad started). Sites were instructedto obtain locallaboratory data (including baseline) forall subjects. There were somesites that collected centralbaseline data and the data were not captured into the EDC; as a result, the central data appearedas missingdata for thesesubjects. For all subjects denotedas \"missing\" except the 3 subjects detailed below, the baseline data are captured in the central laboiatory database andthesubject's values were within normalrange. Forthe other 3 subjects, 1 subjectwas randomized andnever treatedandthe other2 subjects were confirmedto have met thecriteria via site query; noprotocoldeviations were capturedfor these 3 subjects.
 - Hepatic function:
-- normalfunction= TBL ≤ULN and (AST≤ULN) without Gilbert's syndrome, TBL ≤3.0 x ULN and (AST ULN) with Gilbert's syndrome
-- mild impairment =TBL &gt;ULN,≤1.5 x ULN and any AST without Gilbert's syndrome, TBL &gt;ULN,≤3.0 x ULN and (AST &gt;ULN) with Gilbert's syndrome, TBL ≤ULN and(AST &gt;ULN)regardless ofGilbert's syndrome
-- modeiate impaiment=TBL &gt;1.5 x ULN,≤3.0 x ULN and anyAST withoutGilbert's syndrome
-- severe impaiment = TBL &gt;3.0 x ULN and any AST regardless of Gilbert's syndrome.
-- f Baseline visceraidisease was determined with any target ornon-target tumor in the lesion locations specified in Section 7.2.1.5 of the StatisticalAnalysis Plan (Appendix 16.1.9)
+- normalfunction=TBL ≤ULN and (AST≤ULN) without Gilbert's syndrome, TBL ≤3.0 × ULN and (AST ULN) with Gilbert's syndrome
+- mild impairment =TBL &gt;ULN, ≤1.5 × ULN and any AST without Gilbert's syndrome, TBL &gt;ULN, ≤3.0 × ULN and (AST &gt;ULN) with Gilbert's syndrome, TBL ≤ULN and(AST&gt;ULN)regardless of Gilbert's syndrome
+- moderate impairment=TBL &gt;1.5 × ULN, ≤3.0 × ULN and any AST without Gilbert's syndrome
+- severe impairment = TBL &gt;3.0 × ULN and any AST regardless of Gilbert's syndrome.
+- Baseline visceraldisease was determined with any target ornon-targettumor in the lesion locations specified in Section 7.2.1.5 of the Statistical Analysis Plan (Appendix 16.1.9)
 
 Data cut-off: 11 Jan 2022
 
@@ -1996,192 +1979,186 @@ In most patients, HER2 status was determined based on archival tissue (about 86%
 
 Table 28 Breast Cancer History in the Hormone Receptor-positive Cohort and the Full Analysis Set
 
-| Parameter                                                 | Number (%) of Subjects                                    | Number (%) of Subjects                                    | Number (%) of Subjects                                    | Number (%) of Subjects                                    |
-|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-|                                                           | Hormone Receptor-positive Cohort                          | Hormone Receptor-positive Cohort                          | Full Analysis Set                                         | Full Analysis Set                                         |
-|                                                           | T-DXd (N=331)                                             | TPC (N =163)                                              | T-DXd (N =373)                                            | TPC (N=184)                                               |
-| Timefrom initialhistologicaldiagnosisto studydiug(months) | Timefrom initialhistologicaldiagnosisto studydiug(months) | Timefrom initialhistologicaldiagnosisto studydiug(months) | Timefrom initialhistologicaldiagnosisto studydiug(months) | Timefrom initialhistologicaldiagnosisto studydiug(months) |
-| 1n                                                        | 329                                                       | 152                                                       | 371                                                       | 172                                                       |
-| Mean (Std Dev)                                            | 103.8 (79.62)                                             | 95.4 (81.70)                                              | 100.5 (78.36)                                             | 88.7 (79.44)                                              |
-| Median                                                    | 80.1                                                      | 71.4                                                      | 75.4                                                      | 64.0                                                      |
-| Minimum, maximum                                          | 5,445                                                     | 4,358                                                     | 5,445                                                     | 4,358                                                     |
-| Histology                                                 |                                                           |                                                           |                                                           |                                                           |
-| Adenocarcinoma                                            | 217 (65.6)                                                | 107 (65.6)                                                | 243 (65.1)                                                | 123 (66.8)                                                |
-| Inflammatory                                              | 4(1.2)                                                    | 1 (0.6)                                                   | 5 (1.3)                                                   | 1(0.5)                                                    |
-| Other                                                     | 110 (33.2)                                                | 55 (33.7)                                                 | 125 (33.5)                                                | 60 (32.6)                                                 |
-| Grade                                                     |                                                           |                                                           |                                                           |                                                           |
-| Well differentiated                                       | 20 (6.0)                                                  | 9 (5.5)                                                   | 25 (6.7)                                                  | 11 (6.0)                                                  |
-| Moderately differentiated                                 | 81 (24.5)                                                 | 48 (29.4)                                                 | 90 (24.1)                                                 | 52 (28.3)                                                 |
-| Poorly differentiated                                     | 83 (25.1)                                                 | 35 (21.5)                                                 | 99 (26.5)                                                 | 42 (22.8)                                                 |
-| Undifferentiated                                          | 1 (0.3)                                                   | 1 (0.6)                                                   | 1(0.3)                                                    | 1 (0.5)                                                   |
-| Unknown                                                   | 146 (44.1)                                                | 70 (42.9)                                                 | 158 (42.4)                                                | 78 (42.4)                                                 |
-| HER2 expression(IHC)locala                                |                                                           |                                                           |                                                           |                                                           |
-| 0                                                         | 2 (0.6)                                                   | 0                                                         | 2 (0.5)                                                   | 0                                                         |
-| 1+                                                        | 171 (51.7)                                                | 93 (57.1)                                                 | 194 (52.0)                                                | 102 (55.4)                                                |
-| 2+                                                        | 155 (46.8)                                                | 70 (42.9)                                                 | 174 (46.6)                                                | 81 (44.0)                                                 |
-| Not evaluable                                             | 1 (0.3)                                                   | 0                                                         | 1 (0.3)                                                   | 0                                                         |
-| Not examined                                              | 2 (0.6)                                                   | 0                                                         | 2 (0.5)                                                   | 1 (0.5)                                                   |
-| HER2 gene amplification (ISH) local                       | HER2 gene amplification (ISH) local                       | HER2 gene amplification (ISH) local                       | HER2 gene amplification (ISH) local                       | HER2 gene amplification (ISH) local                       |
-| Amplified (positive)                                      | 0                                                         | 0                                                         | 0                                                         | 0                                                         |
-| Equivocal                                                 | 13 (3.9)                                                  | 7 (4.3)                                                   | 16 (4.3)                                                  | 7(3.8)                                                    |
-| Non-amplified (negative)                                  | 173 (52.3)                                                | 84(51.5)                                                  | 196 (52.5)                                                | 97 (52.7)                                                 |
-| Examined but not evaluable                                | 9 (2.7)                                                   | 3 (1.8)                                                   | 9 (2.4)                                                   | 3 (1.6)                                                   |
-| Missing                                                   | 136 (41.1)                                                | 69 (42.3)                                                 | 152 (40.8)                                                | 77 (41.8)                                                 |
-| BRCA1                                                     |                                                           |                                                           |                                                           |                                                           |
-| Positive (mutated)                                        | 3 (0.9)                                                   | 2 (1.2)                                                   | 3 (0.8)                                                   | 2 (1.1)                                                   |
-| Nega tive (wild type)                                     | 93 (28.1)                                                 | 56 (34.4)                                                 | 112 (30.0)                                                | 65 (35.3)                                                 |
-| Indeteminate                                              | 3 (0.9)                                                   | 1 (0.6)                                                   | 3 (0.8)                                                   | 1 (0.5)                                                   |
-| Invalid                                                   | 0                                                         | 1 (0.6)                                                   | 0                                                         | 1 (0.5)                                                   |
-| Missing                                                   | 232 (70.1)                                                | 103 (63.2)                                                | 255 (68.4)                                                | 115 (62.5)                                                |
-| BRCA2                                                     |                                                           |                                                           |                                                           |                                                           |
-| Positive (mutated)                                        | 11 (3.3)                                                  | 8 (4.9)                                                   | 15 (4.0)                                                  | 8 (4.3)                                                   |
-| Nega tive (wild type)                                     | 87 (26.3)                                                 | 50 (30.7)                                                 | 103 (27.6)                                                | 59 (32.1)                                                 |
-| Indeteminate                                              | 3 (0.9)                                                   | 2 (1.2)                                                   | 3 (0.8)                                                   | 2 (1.1)                                                   |
-| Invalid                                                   | 0                                                         | 1 (0.6)                                                   | 0                                                         | 1 (0.5)                                                   |
-| Missing                                                   | 230 (69.5)                                                | 102 (62.6)                                                | 252 (67.6)                                                | 114 (62.0)                                                |
+| Parameter                                                      | Number (%) of Subjects                                         | Number (%) of Subjects                                         | Number (%) of Subjects                                         | Number (%) of Subjects                                         |
+|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+|                                                                | Hormone Receptor-positive Cohort                               | Hormone Receptor-positive Cohort                               | Full Analysis Set                                              | Full Analysis Set                                              |
+|                                                                | T-DXd (N = 331)                                                | TPC (N = 163)                                                  | T-DXd (N=373)                                                  | TPC (N = 184)                                                  |
+| Time from initia1histologicaldia gnosis to study drug (months) | Time from initia1histologicaldia gnosis to study drug (months) | Time from initia1histologicaldia gnosis to study drug (months) | Time from initia1histologicaldia gnosis to study drug (months) | Time from initia1histologicaldia gnosis to study drug (months) |
+| n                                                              | 329                                                            | 152                                                            | 371                                                            | 172                                                            |
+| Mean (Std Dev)                                                 | 103.8 (79.62)                                                  | 95.4(81.70)                                                    | 100.5 (78.36)                                                  | 88.7 (79.44)                                                   |
+| Median                                                         | 80.1                                                           | 71.4                                                           | 75.4                                                           | 64.0                                                           |
+| Minimum, maximum                                               | 5,445                                                          | 4,358                                                          | 5,445                                                          | 4,358                                                          |
+| Histology                                                      |                                                                |                                                                |                                                                |                                                                |
+| Adenocarcinoma                                                 | 217(65.6)                                                      | 107 (65.6)                                                     | 243 (65.1)                                                     | 123 (66.8)                                                     |
+| Inflammatory                                                   | 4(1.2)                                                         | 1 (0.6)                                                        | 5 (1.3)                                                        | 1 (0.5)                                                        |
+| Other                                                          | 110 (33.2)                                                     | 55 (33.7)                                                      | 125 (33.5)                                                     | 60 (32.6)                                                      |
+| Grade                                                          |                                                                |                                                                |                                                                |                                                                |
+| Well differentiated                                            | 20 (6.0)                                                       | 9 (5.5)                                                        | 25 (6.7)                                                       | 11 (6.0)                                                       |
+| Moderately differentiated                                      | 81 (24.5)                                                      | 48 (29.4)                                                      | 90 (24.1)                                                      | 52 (28.3)                                                      |
+| Poorly differentiated                                          | 83 (25.1)                                                      | 35 (21.5)                                                      | 99 (26.5)                                                      | 42 (22.8)                                                      |
+| Undifferentiated                                               | 1 (0.3)                                                        | 1 (0.6)                                                        | 1 (0.3)                                                        | 1 (0.5)                                                        |
+| Unknown                                                        | 146(44.1)                                                      | 70(42.9)                                                       | 158(42.4)                                                      | 78(42.4)                                                       |
+| HER2 expression (IHC) localª                                   |                                                                |                                                                |                                                                |                                                                |
+| 0                                                              | 2(0.6)                                                         | 0                                                              | 2 (0.5)                                                        | 0                                                              |
+| 1+                                                             | 171 (51.7)                                                     | 93 (57.1)                                                      | 194 (52.0)                                                     | 102 (55.4)                                                     |
+| 2+                                                             | 155(46.8)                                                      | 70 (42.9)                                                      | 174(46.6)                                                      | 81 (44.0)                                                      |
+| Not evaluable                                                  | 1 (0.3)                                                        | 0                                                              | 1 (0.3)                                                        | 0                                                              |
+| Not examined                                                   | 2 (0.6)                                                        | 0                                                              | 2 (0.5)                                                        | 1 (0.5)                                                        |
+| HER2 gene amplification (ISH) local                            | HER2 gene amplification (ISH) local                            | HER2 gene amplification (ISH) local                            | HER2 gene amplification (ISH) local                            | HER2 gene amplification (ISH) local                            |
+| Amplified (positive)                                           | 0                                                              | 0                                                              | 0                                                              | 0                                                              |
+| Equivocal                                                      | 13 (3.9)                                                       | 7(4.3)                                                         | 16(4.3)                                                        | 7(3.8)                                                         |
+| Non-amplified (negative)                                       | 173 (52.3)                                                     | 84(51.5)                                                       | 196 (52.5)                                                     | 97 (52.7)                                                      |
+| Examined but not evaluable                                     | 9(2.7)                                                         | 3(1.8)                                                         | 9(2.4)                                                         | 3(1.6)                                                         |
+| Missing                                                        | 136(41.1)                                                      | 69 (42.3)                                                      | 152(40.8)                                                      | 77(41.8)                                                       |
+| BRCA1                                                          |                                                                |                                                                |                                                                |                                                                |
+| Positive (mutated)                                             | 3(0.9)                                                         | 2(1.2)                                                         | 3 (0.8)                                                        | 2(1.1)                                                         |
+| Negative (wild type)                                           | 93 (28.1)                                                      | 56(34.4)                                                       | 112 (30.0)                                                     | 65 (35.3)                                                      |
+| Indeteminate                                                   | 3 (0.9)                                                        | 1 (0.6)                                                        | 3 (0.8)                                                        | 1 (0.5)                                                        |
+| Invalid                                                        | 0                                                              | 1 (0.6)                                                        | 0                                                              | 1 (0.5)                                                        |
+| Missing                                                        | 232(70.1)                                                      | 103 (63.2)                                                     | 255(68.4)                                                      | 115 (62.5)                                                     |
+| BRCA2                                                          |                                                                |                                                                |                                                                |                                                                |
+| Positive (mutated)                                             | 11 (3.3)                                                       | 8(4.9)                                                         | 15(4.0)                                                        | 8(4.3)                                                         |
+| Negative (wild type)                                           | 87 (26.3)                                                      | 50 (30.7)                                                      | 103 (27.6)                                                     | 59 (32.1)                                                      |
+| Indeteminate                                                   | 3(0.9)                                                         | 2(1.2)                                                         | 3 (0.8)                                                        | 2(1.1)                                                         |
+| Invalid                                                        | 0                                                              | 1 (0.6)                                                        | 0                                                              | 1 (0.5)                                                        |
+| Missing                                                        | 230 (69.5)                                                     | 102 (62.6)                                                     | 252 (67.6)                                                     | 114(62.0)                                                      |
 
-IHC =immunochemisty; ISH =in situ hybridization; Std Dev = standard deviation; T-DXd =tra stuzumab deruxtecan; TPC =treatment ofphysician's choice
+BRCA1 =brea st cancer gene 1; BRCA2=breastcancer gene 2; HER2 =human epidemmal growth factor receptor 2;
 
-BRCA1 =breast cancer gene 1; BRCA2=breastcancergene 2; HER2=humanepidemmalgrowth factorreceptor2;
+Percentages were calculatedusing the number ofsubjects in the column heading as the denominator.
 
-Percentages were calculatedusingthe numberof subjects in the column headingas the denominator.
+From most recenttissue sample
 
-Data cut-off:11 Jan 2022
+Data cut-off: 11 Jan 2022
 
-Source: Tables 14.1.3.1.1,14.1.3.1.2
-
-α From most recenttissue sample
+Source: Tables14.1.3.1.1,14.1.3.1.2
 
 <div style=\"page-break-after: always\"></div>
 
 ## Prior anticancer therapies
 
-## Table 29 Prior Lines of Breast Cancer Systemic Therapy in the Hormone Receptor positive Cohort and the Full Analysis Set
+Table 29 Prior Lines of Breast Cancer Systemic Therapy in the Hormone Receptor positive Cohort and the Full Analysis Set
 
 | Parameter                                                       | Number (%) of Subjects                                          | Number (%) of Subjects                                          | Number (%) of Subjects                                          | Number (%) of Subjects                                          |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
 |                                                                 | Hormone Receptor- positive Cohort                               | Hormone Receptor- positive Cohort                               | Full Analysis Set                                               | Full Analysis Set                                               |
-|                                                                 | T-DXd (N=331)                                                   | TPC (N =163)                                                    | T-DXd (N=373)                                                   | TPC (N =184)                                                    |
+|                                                                 | T-DXd (N = 331)                                                 | TPC (N = 163)                                                   | T-DXd (N = 373)                                                 | TPC (N = 184)                                                   |
 | Lines of prior systemic therapy in any setting                  |                                                                 |                                                                 |                                                                 |                                                                 |
-| 1                                                               | 2 (0.6)                                                         | 3 (1.8)                                                         | 5 (1.3)                                                         | 4 (2.2)                                                         |
+| 1                                                               | 2 (0.6)                                                         | 3 (1.8)                                                         | 5(1.3)                                                          | 4(2.2)                                                          |
 | 2                                                               | 37 (11.2)                                                       | 24 (14.7)                                                       | 48 (12.9)                                                       | 33 (17.9)                                                       |
-| V3                                                              | 292 (88.2)                                                      | 136 (83.4)                                                      | 320 (85.8)                                                      | 147 (79.9)                                                      |
-| 1n                                                              | 331                                                             | 163                                                             | 373                                                             | 184                                                             |
-| Mean (Std Dev)                                                  | 4.3 (1.70)                                                      | 4.4 (1.97)                                                      | 4.2 (1.71)                                                      | 4.2 (1.95)                                                      |
+| ≥3                                                              | 292 (88.2)                                                      | 136 (83.4)                                                      | 320 (85.8)                                                      | 147 (79.9)                                                      |
+| n                                                               | 331                                                             | 163                                                             | 373                                                             | 184                                                             |
+| Mean (Std Dev)                                                  | 4.3 (1.70)                                                      | 4.4(1.97)                                                       | 4.2 (1.71)                                                      | 4.2 (1.95)                                                      |
 | Median                                                          | 4.0                                                             | 4.0                                                             | 4.0                                                             | 4.0                                                             |
-| Minimum, Maximum                                                | 1, 13                                                           | 1,12                                                            | 1, 13                                                           | 1, 12                                                           |
+| Minimum, Maximum                                                | 1,13                                                            | 1,12                                                            | 1,13                                                            | 1,12                                                            |
 | Lines of prior systemic therapy in metastatic setting - derived | Lines of prior systemic therapy in metastatic setting - derived | Lines of prior systemic therapy in metastatic setting - derived | Lines of prior systemic therapy in metastatic setting - derived | Lines of prior systemic therapy in metastatic setting - derived |
 | 1                                                               | 23 (6.9)                                                        | 14 (8.6)                                                        | 39 (10.5)                                                       | 19 (10.3)                                                       |
 | 2                                                               | 85 (25.7)                                                       | 41 (25.2)                                                       | 100 (26.8)                                                      | 53 (28.8)                                                       |
-| V3                                                              | 223 (67.4)                                                      | 108 (66.3)                                                      | 234 (62.7)                                                      | 112 (60.9)                                                      |
-| 11                                                              | 331                                                             | 163                                                             | 373                                                             | 184                                                             |
+| ≥3                                                              | 223 (67.4)                                                      | 108 (66.3)                                                      | 234 (62.7)                                                      | 112 (60.9)                                                      |
+| n                                                               | 331                                                             | 163                                                             | 373                                                             | 184                                                             |
 | Mean (Std Dev)                                                  | 3.3 (1.49)                                                      | 3.3 (1.45)                                                      | 3.2 (1.52)                                                      | 3.1 (1.45)                                                      |
 | Median                                                          | 3.0                                                             | 3.0                                                             | 3.0                                                             | 3.0                                                             |
 | Minimum, Maximum                                                | 1,9                                                             | 1,8                                                             | 1,9                                                             | 1,8                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-| Lines of prior endocrine therapy 0                               | 1 (0.3)                                                          | 3 (1.8)                                                          | 26 (7.0)                                                         | 19 (10.3)                                                        |
-|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
-| 1                                                                | 65 (19.6)                                                        | 34 (20.9)                                                        | 74 (19.8)                                                        | 35 (19.0)                                                        |
-| 2                                                                | 112 (33.8)                                                       | 46 (28.2)                                                        | 117 (31.4)                                                       | 49 (26.6)                                                        |
-| 23                                                               | 153 (46.2)                                                       | 80 (49.1)                                                        | 156 (41.8)                                                       | 81(44.0)                                                         |
-| n                                                                | 331                                                              | 163                                                              | 373                                                              | 184                                                              |
-| Mean (Std Dev)                                                   | 2.6 (1.26)                                                       | 2.6 (1.37)                                                       | 2.4 (1.37)                                                       | 2.3 (1.48)                                                       |
-| Median                                                           | 2.0                                                              | 2.0                                                              | 2.0                                                              | 2.0                                                              |
-| Minimum, Maximum                                                 | 0,9                                                              | 0,8                                                              | 0, 9                                                             | 0,8                                                              |
-| Lines of prior endocrine therapy in metastatic setting - derived | Lines of prior endocrine therapy in metastatic setting - derived | Lines of prior endocrine therapy in metastatic setting - derived | Lines of prior endocrine therapy in metastatic setting - derived | Lines of prior endocrine therapy in metastatic setting - derived |
-| 0                                                                | 28 (8.5)                                                         | 17 (10.4)                                                        | 60 (16.1)                                                        | 34 (18.5)                                                        |
-| 1                                                                | 105 (31.7)                                                       | 49 (30.1)                                                        | 108 (29.0)                                                       | 51 (27.7)                                                        |
-| 2                                                                | 110 (33.2)                                                       | 53 (32.5)                                                        | 115 (30.8)                                                       | 54 (29.3)                                                        |
-| 23                                                               | 88 (26.6)                                                        | 44 (27.0)                                                        | 90 (24.1)                                                        | 45 (24.5)                                                        |
-| n                                                                | 331                                                              | 163                                                              | 373                                                              | 184                                                              |
-| Mean (Std Dev)                                                   | 1.9 (1.20)                                                       | 1.9 (1.17)                                                       | 1.8 (1.27)                                                       | 1.7 (1.23)                                                       |
-| Median                                                           | 2.0                                                              | 2.0                                                              | 2.0                                                              | 2.0                                                              |
-| Minimum, Maximum                                                 | 0,7                                                              | 0,6                                                              | 0,7                                                              | 0,6                                                              |
-| Lines of prior chemotherapy                                      | Lines of prior chemotherapy                                      | Lines of prior chemotherapy                                      | Lines of prior chemotherapy                                      | Lines of prior chemotherapy                                      |
-| 0                                                                | 0                                                                | 1(0.6) a                                                         | 0                                                                | 1 (0.5)*                                                         |
-| 1                                                                | 89 (26.9)                                                        | 49 (30.1)                                                        | 93 (24.9)                                                        | 52 (28.3)                                                        |
-| 2                                                                | 155 (46.8)                                                       | 61 (37.4)                                                        | 176 (47.2)                                                       | 71 (38.6)                                                        |
-| 23                                                               | 87 (26.3)                                                        | 52 (31.9)                                                        | 104 (27.9)                                                       | 60 (32.6)                                                        |
-| n                                                                | 331                                                              | 163                                                              | 373                                                              | 184                                                              |
-| Mean (Std Dev)                                                   | 2.0 (0.81)                                                       | 2.1 (0.93)                                                       | 2.1 (0.81)                                                       | 2.1 (0.95)                                                       |
-| Median                                                           | 2.0                                                              | 2.0                                                              | 2.0                                                              | 2.0                                                              |
-| Minimum, Maximum                                                 | 1,5                                                              | 0,5                                                              | 1,5                                                              | 0,5                                                              |
-| Lines of prior chemotherapy in metastatic setting-derived b      | Lines of prior chemotherapy in metastatic setting-derived b      | Lines of prior chemotherapy in metastatic setting-derived b      | Lines of prior chemotherapy in metastatic setting-derived b      | Lines of prior chemotherapy in metastatic setting-derived b      |
-| 0                                                                | 1 (0.3)                                                          | 1 (0.6)                                                          | 1 (0.3)                                                          | 1 (0.5)                                                          |
+| Lines of prior endocrine therapy 0                               | 1(0.3)                                                     | 3 (1.8)                                                    | 26(7.0)                                                    | 19 (10.3)                                                  |
+|------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| 1                                                                | (99) .9                                                    | 34 (20.9)                                                  | 74 (19.8)                                                  | 35(9) 0)                                                   |
+| 2                                                                | 112 (33.8)                                                 | 46 (28.2)                                                  | 117 (31.4)                                                 | 49 (26.6)                                                  |
+| ≥3                                                               | 153 (46.2)                                                 | 80 (49.1)                                                  | 156(41.8)                                                  | 81 (44.0)                                                  |
+| n                                                                | 331                                                        | 163                                                        |                                                            | 184                                                        |
+| Mean (Std Dev)                                                   | 2.6 (1.26)                                                 | 2.6 (1.37)                                                 | 373 2.4 (1.37)                                             | 2.3 (1.48)                                                 |
+| Median                                                           | 2.0                                                        | 2.0                                                        | 2.0                                                        | 2.0                                                        |
+| Minimum, Maximum                                                 | 0,9                                                        | 0,8                                                        | 0,9                                                        | 0,8                                                        |
+| Lines of prior endocrine therapy in metastatic setting - derived |                                                            |                                                            |                                                            |                                                            |
+| 0                                                                | 28 (8.5)                                                   | 17 (10.4)                                                  | 60 (16.1)                                                  | 34(18.5)                                                   |
+| 1                                                                | 105 (31.7)                                                 | 49 (30.1)                                                  | 108 (29.0)                                                 | 51 (27.7)                                                  |
+| 2                                                                | 110 (33.2)                                                 | 53 (32.5)                                                  | 115 (30.8)                                                 | 54 (29.3)                                                  |
+| ≥3                                                               | 88 (26.6)                                                  | 44(27.0)                                                   | 90 (24.1)                                                  | 45 (24.5)                                                  |
+| n                                                                | 331                                                        | 163                                                        | 373                                                        | 184                                                        |
+| Mean (Std Dev)                                                   | 1.9 (1.20)                                                 | 1.9 (1.17)                                                 | 1.8 (1.27)                                                 | 1.7 (1.23)                                                 |
+| Median                                                           | 2.0                                                        | 2.0                                                        | 2.0                                                        | 2.0                                                        |
+| Minimum, Maximum                                                 | 0,7                                                        | 0, 6                                                       | 0,7                                                        | 0,6                                                        |
+| Lines of prior chemotherapy                                      |                                                            |                                                            |                                                            |                                                            |
+| 0                                                                | 0                                                          | 1(0.6) ª                                                   | 0                                                          | 1 (0.5)                                                    |
+| 1                                                                | 89 (26.9)                                                  | 49 (30.1)                                                  | 93 (24.9)                                                  | 52 (28.3)                                                  |
+| 2                                                                | 155 (46.8)                                                 | 61 (37.4)                                                  | 176(47.2)                                                  | 71 (38.6)                                                  |
+| ≥3                                                               | 87 (26.3)                                                  | 52 (31.9)                                                  | 104 (27.9)                                                 | 60 (32.6)                                                  |
+| n                                                                | 331                                                        | 163                                                        | 373                                                        | 184                                                        |
+| Mean (Std Dev)                                                   | 2.0 (0.81)                                                 | 2.1 (0.93)                                                 | 2.1 (0.81)                                                 | 2.1 (0.95)                                                 |
+| Median                                                           | 2.0                                                        | 2.0                                                        | 2.0                                                        | 2.0                                                        |
+| Minimum, Maximum                                                 | 1,5                                                        | 0,5                                                        | 1.5                                                        | 0,5                                                        |
+| Lines of prior chemotherapy in metastatic setting-derivedb       | Lines of prior chemotherapy in metastatic setting-derivedb | Lines of prior chemotherapy in metastatic setting-derivedb | Lines of prior chemotherapy in metastatic setting-derivedb | Lines of prior chemotherapy in metastatic setting-derivedb |
+| 0                                                                | 1 (0.3)                                                    | 1(0.6)                                                     | 1(0.3)                                                     | 1 (0.5)                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| 1                                           | 203 (61.3)                                  | 93 (57.1)                                   | 221 (59.2)                                  | 100 (54.3)                                  |
-|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| 2                                           | 124 (37.5)                                  | 69 (42.3)                                   | 145 (38.9)                                  | 83 (45.1)                                   |
-| V3                                          | 3 (0.9)                                     | 0                                           | 6 (1.6)                                     | 0                                           |
-| n                                           | 331                                         | 163                                         | 373                                         | 184                                         |
-| Mean (Std Dev)                              | 1.4 (0.51)                                  | 1.4 (0.51)                                  | 1.4 (0.53)                                  | 1.4 (0.51)                                  |
-| Median                                      | 1.0                                         | 1.0                                         | 1.0                                         | 1.0                                         |
-| Minimum, Maximum                            | 0,3                                         | 0,2                                         | 0,3                                         | 0,2                                         |
-| Intent of any prior breast cancer therapy c | Intent of any prior breast cancer therapy c | Intent of any prior breast cancer therapy c | Intent of any prior breast cancer therapy c | Intent of any prior breast cancer therapy c |
-| Metastatic                                  | 330 (99.7)                                  | 162 (99.4)                                  | 371 (99.5)                                  | 182 (98.9)                                  |
-| Adjuvant                                    | 212 (64.0)                                  | 99 (60.7)                                   | 229 (61.4)                                  | 109 (59.2)                                  |
-| Neo-adjuvant                                | 61 (18.4)                                   | 38 (23.3)                                   | 75 (20.1)                                   | 45 (24.5)                                   |
-| Maintenance                                 | 23 (6.9)                                    | 10 (6.1)                                    | 24 (6.4)                                    | 11 (6.0)                                    |
-| Locally advanced                            | 11 (3.3)                                    | 4 (2.5)                                     | 13 (3.5)                                    | 5 (2.7)                                     |
-| Preventive                                  | 2 (0.6)                                     | 1 (0.6)                                     | 2 (0.5)                                     | 2 (1.1)                                     |
-| Other                                       | 2 (0.6)                                     | 2 (1.2)                                     | 2 (0.5)                                     | 2(1.1)                                      |
+| 1                                         | 203 (61.3)                                | 93 (57.1)                                 | 221 (59.2)                                | 100 (54.3)                                |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| 2                                         | 124 (37.5)                                | 69 (42.3)                                 | 145 (38.9)                                | 83 (45.1)                                 |
+| ≥3                                        | 3 (0.9)                                   | 0                                         | 6(1.6)                                    | 0                                         |
+| n                                         | 331                                       | 163                                       | 373                                       | 184                                       |
+| Mean (Std Dev)                            | 1.4 (0.51)                                | 1.4 (0.51)                                | 1.4 (0.53)                                | 1.4 (0.51)                                |
+| Median                                    | 1.0                                       | 1.0                                       | 1.0                                       | 1.0                                       |
+| Minimum, Maximum                          | 0,3                                       | 0,2                                       | 0,3                                       | 0,2                                       |
+| Intent of any prior breast cancer therapy | Intent of any prior breast cancer therapy | Intent of any prior breast cancer therapy | Intent of any prior breast cancer therapy | Intent of any prior breast cancer therapy |
+| Metastatic                                | 330 (99.7)                                | 162 (99.4)                                | 371 (99.5)                                | 182 (98.9)                                |
+| Adjuvant                                  | 212 (64.0)                                | 99 (60.7)                                 | 229 (61.4)                                | 109 (59.2)                                |
+| Neo-adjuvant                              | 61 (18.4)                                 | 38 (23.3)                                 | 75 (20.1)                                 | 45 (24.5)                                 |
+| Maintenance                               | 23 (6.9)                                  | 10 (6.1)                                  | 24 (6.4)                                  | 11 (6.0)                                  |
+| Locally advanced                          | 11 (3.3)                                  | 4(2.5)                                    | 13 (3.5)                                  | 5(2.7)                                    |
+| Preventive                                | 2(0.6)                                    | 1 (0.6)                                   | 2(0.5)                                    | 2(1.1)                                    |
+| Other                                     | 2 (0.6)                                   | 2 (1.2)                                   | 2(0.5)                                    | 2(1.1)                                    |
 
-Std Dev= standarddeviation; T-DXd =trastuzumab deruxtecan; TPC =trea tmentof physician’s choice
+Percentages were calculatedusing the number ofsubjects in the column heading as the denominator.
 
-Percentageswere calculatedusingthe numberofsubjects in the column headingasthe denominator.
+Std Dev = standard deviation; T-DXd = trastuzumab denuxtecan; TPC =treatmentof physician's choice
 
-Results are presentedin descendingorderof subjects within theT-DXd armof StudyU303 within thehormone receptor-positive cohort.
+Results are presented in descending order of subjects within theT-DXd arm of Study U303 within thehormone receptor-positive cohort.
 
-b Ifrecurenceoccured within 6 months of (neo)adjuvant chemotherapy, (neo)adjuvanttherapy was countedas 1 line of chemotherapy in the advanced diseasesetting. Subjects with O and 3 prior lines of chemotherapy representprotocoldeviations.
+If recurenceoccurred within 6 months of(neo)adjuvant chemotherapy, (neo)adjuvanttherapy was countedas 1 line of chemotherapy in the advanced diseasesetting. Subjects with 0 and 3 prior lines of chemotherapy representprotocoldeviations.
 
-a A protocol deviation was capturedforthis subject.
+a A protocoldeviation was captured for this subject.
 
 Subjects mayhave been treated with more than 1 type oftherapy.
 
 Data cut-off: 11 Jan 2022
 
-Source:Tables14.1.3.2.1,14.1.3.2.2
+Source: Tables 14.1.3.2.1,14.1.3.2.2
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 30 Most Common Prior Breast Cancer Systemic Therapy Administered in the Hormone Receptor-positive Cohort and the Full Analysis Set
-
-<!-- image -->
+Table 30 Most Common Prior Breast Cancer Systemic Therapy Administered in the Hormone Receptor-positive Cohort and the Full Analysis Set
 
 | Parameter                            | Number (%) of Subjects             | Number (%) of Subjects             | Number (%) of Subjects   | Number (%) of Subjects   |
 |--------------------------------------|------------------------------------|------------------------------------|--------------------------|--------------------------|
 |                                      | Horinone Receptor- positive Cohort | Horinone Receptor- positive Cohort | Full Analysis Set        | Full Analysis Set        |
-|                                      | T-DXd (N=331)                      | TPC (N=163)                        | T-DXd (N=373)            | TPC (N=184)              |
-| Any prior systemic cancer therapy    |                                    |                                    |                          |                          |
+|                                      | T-DXd (N =331)                     | TPC (N=163)                        | PXA-L (N=373)            | TPC (N=184)              |
+| Any prior systemic cancer therapy à  |                                    |                                    |                          |                          |
 | Targeted Therapy                     | 259 (78.2)                         | 132 (81.0)                         | 279 (74.8)               | 140 (76.1)               |
 | CDK4/6 inhibitor                     | 233 (70.4)                         | 115 (70.6)                         | 239 (64.1)               | 119 (64.7)               |
-| Palbociclib                          | 197 (59.5)                         | 100 (61.3)                         | 203 (54.4)               | 104 (56.5)               |
-| Abemaciclib                          | 29 (8.8)                           | 10 (6.1)                           | 30 (8.0)                 | 10 (5.4)                 |
-| Ribociclib                           | 16 (4.8)                           | 13 (8.0)                           | 16 (4.3)                 | 13 (7.1)                 |
-| Investigational antineoplastic drugs | 3 (0.9)                            | 2 (1.2)                            | 3 (0.8)                  | 2 (1.1)                  |
-| Ribociclib succinate                 | 1 (0.3)                            | 0                                  | 1 (0.3)                  | 0                        |
-| Immunotherapy                        | 10 (3.0)                           | 8 (4.9)                            | 20 (5.4)                 | 12 (6.5)                 |
-| Pembrolizumab                        | 3 (0.9)                            | 1(0.6)                             | 3 (0.8)                  | 2 (1.1)                  |
+| Palbociclib                          | 197 (59.5)                         | 100(61.3)                          | 203 (54.4)               | 104 (56.5)               |
+| Abemaciclib                          | 29 (8.8)                           | 10(6.1)                            | 30 (8.0)                 | 10 (5.4)                 |
+| Ribociclib                           | 16(4.8)                            | 13 (8.0)                           | 16 (4.3)                 | 13 (7.1)                 |
+| Investigational antineoplastic drugs | 3 (0.9)                            | 2(1.2)                             | 3 (0.8)                  | 2(1.1)                   |
+| Ribociclib succinate                 | 1(0.3)                             | 0                                  | 1 (0.3)                  | 0                        |
+| Immunotherapy                        | 10 (3.0)                           | 8(4.9)                             | 20 (5.4)                 | 12 (6.5)                 |
+| Pembrolizumab                        | 3 (0.9)                            | 1 (0.6)                            | 3 (0.8)                  | 2(1.1)                   |
 | Durvalumab                           | 3 (0.9)                            | 0                                  | 3 (0.8)                  | 0                        |
-| Atezolizumab                         | 2 (0.6)                            | 2 (1.2)                            | 12 (3.2)                 | 5 (2.7)                  |
-| Avelumab                             | 1(0.3)                             | 1 (0.6)                            | 1 (0.3)                  | 1 (0.5)                  |
+| Atezolizumab                         | 2(0.6)                             | 2(1.2)                             | 12 (3.2)                 | 5(2.7)                   |
+| Avelumab                             | 1 (0.3)                            | 1 (0.6)                            | 1 (0.3)                  | 1 (0.5)                  |
 | Durvalumab; tremelimumab             | 1 (0.3)                            | 0                                  | 1 (0.3)                  | 0                        |
-| Others                               | 128 (38.7)                         | 70 (42.9)                          | 140 (37.5)               | 76 (41.3)                |
-| Everolimus                           | 79 (23.9)                          | 44 (27.0)                          | 84 (22.5)                | 45 (24.5)                |
-| Bevacizumab                          | 29 (8.8)                           | 16 (9.8)                           | 31 (8.3)                 | 19 (10.3)                |
-| Alpelisib                            | 11 (3.3)                           | 8 (4.9)                            | 12 (3.2)                 | 8 (4.3)                  |
-| Talazoparib                          | 5 (1.5)                            | 3 (1.8)                            | 5 (1.3)                  | 3 (1.6)                  |
-| Olaparib                             | 3 (0.9)                            | 2(1.2)                             | 5 (1.3)                  | 3 (1.6)                  |
+| Others                               | 128 (38.7)                         | 70(42.9)                           | 140 (37.5)               | 76 (41.3)                |
+| Everolimus                           | 79 (23.9)                          | 44(27.0)                           | 84 (22.5)                | 45 (24.5)                |
+| Bevacizumab                          | 29 (8.8)                           | 16(9.8)                            | 31 (8.3)                 | 19 (10.3)                |
+| Alpelisib                            | 11 (3.3)                           | 8(4.9)                             | 12 (3.2)                 | 8(4.3)                   |
+| Talazoparib                          | 5(1.5)                             | 3(1.8)                             | 5 (1.3)                  | 3 (1.6)                  |
+| Olaparib                             | 3 (0.9)                            | 21)2)                              | (ε)s                     | 3 (1.6)                  |
 | Endocrine therapy                    | 330 (99.7)                         | 160 (98.2)                         | 347 (93.0)               | 165 (89.7)               |
-| Letrozole                            | 212 (64.0)                         | 108 (66.3)                         | 222 (59.5)               | 113 (61.4)               |
-| Fulvestrant                          | 211 (63.7)                         | 107 (65.6)                         | 217 (58.2)               | 110 (59.8)               |
-| Tamoxifen                            | 160 (48.3)                         | 81 (49.7)                          | 166 (44.5)               | 82 (44.6)                |
+| Letrozole                            | 212(64.0)                          | 108 (66.3)                         | 222 (59.5)               | 113 (61.4)               |
+| Fulvestrant                          | 211 (63.7)                         | 107(65.6)                          | 217 (58.2)               | 110 (59.8)               |
+| Taoienn                              | 160 (48.3)                         | 81 (49.7)                          | 166 (44.5)               | 82 (44.6)                |
 | Exemestane                           | 133 (40.2)                         | 64 (39.3)                          | 138 (37.0)               | 65 (35.3)                |
 | Anastrozole                          | 103 (31.1)                         | 46 (28.2)                          | 106 (28.4)               | 46 (25.0)                |
 | Chemotherapy                         | 331 (100.0)                        | 162 (99.4)                         | 373 (100.0)              | 183 (99.5)               |
@@ -2193,26 +2170,28 @@ Source:Tables14.1.3.2.1,14.1.3.2.2
 | Capecitabine                         | 177 (53.5)   | 83 (50.9)   | 191 (51.2)   | 95 (51.6)   |
 | Paclitaxel                           | 161 (48.6)   | 82 (50.3)   | 187 (50.1)   | 93 (50.5)   |
 | Docetaxel                            | 109 (32.9)   | 62 (38.0)   | 126 (33.8)   | 68 (37.0)   |
-| Epinubicin                           | 68 (20.5)    | 38 (23.3)   | 81 (21.7)    | 42 (22.8)   |
+| Epirubicin                           | 68 (20.5)    | 38 (23.3)   | 81 (21.7)    | 42 (22.8)   |
 | Supportive Therapy                   | 79 (23.9)    | 37 (22.7)   | 85 (22.8)    | 39 (21.2)   |
 | Goserelin acetate                    | 32 (9.7)     | 13 (8.0)    | 35 (9.4)     | 13 (7.1)    |
-| Leuprorelin acetate                  | 19 (5.7)     | 8 (4.9)     | 21 (5.6)     | 9 (4.9)     |
-| Goserelin                            | 18 (5.4)     | 8 (4.9)     | 18 (4.8)     | 8 (4.3)     |
-| Leuprorelin                          | 4(1.2)       | 1 (0.6)     | 4 (1.1)      | 1 (0.5)     |
-| Triptorelin                          | 4(1.2)       | 0           | 4 (1.1)      | 0           |
-| Other                                | 8 (2.4)      | 3 (1.8)     | 8 (2.1)      | 4 (2.2)     |
-| Investigational antineoplastic drugs | 6 (1.8)      | 1 (0.6)     | 6 (1.6)      | 1(0.5)      |
+| Leuprorelin acetate                  | 19 (5.7)     | 8(4.9)      | 21 (5.6)     | 9(4.9)      |
+| Goserelin                            | 18 (5.4)     | 8(4.9)      | 18 (4.8)     | 8(4.3)      |
+| Leuprorelin                          | 4(1.2)       | 1(0.6)      | 4(1.1)       | 1 (0.5)     |
+| Triptorelin                          | 4(1.2)       | 0           | 4(1.1)       | 0           |
+| Other                                | 8(2.4)       | 3(1.8)      | 8 (2.1)      | 4(2.2)      |
+| Investigational antineoplastic drugs | 6(1.8)       | 1 (0.6)     | 6(1.6)       | 1 (0.5)     |
 | Placebo                              | 1 (0.3)      | 1 (0.6)     | 1 (0.3)      | 1 (0.5)     |
 | Ipatasertib                          | 1 (0.3)      | 0           | 1 (0.3)      | 1 (0.5)     |
-| Investigational drug                 | 0            | 1(0.6)      | 0            | 1 (0.5)     |
+| Investigational drug                 | 0            | 1 (0.6)     | 0            | 1 (0.5)     |
 
-* Results were presentedin descendingorderof subjects withintheT-DXd anmof Study U303 within thehomone receptor-posifivecohort.
+Percentages were calculatedusing the number ofsubjects in the cohumn heading as thedenominator.
 
-CDK = cyclin-dependent kinase; T-DXd=trastuzmab deruxtecan; TPC =treatment ofphysician'schoice Percentages were calculatedusingthe numberofsubjects m the cohmn headingas thedenominator.
+CDK = cyclin-dependent kinase;T-DXd=trastuzumabdenuxtecan;TPC =treatment of physician's choice
+
+Results were presented in descending order of subjects within theT-DXd amm of StudyU303 within thehormone receptor-postive cohort.
 
 Data cut-off 11 Jan 2022
 
-Source: Tables 14.1.3.2.1, 14.1.3.2.2
+Source: Tables 14.1.3.2.1,14.1.3.2.2
 
 Table 31 Proportion of anthracycline pretreated subjects HR+ and FAS
 
@@ -2223,37 +2202,25 @@ Table 31 Proportion of anthracycline pretreated subjects HR+ and FAS
 | Adjuvant/neoadjuvant c        | 155 (46.8)    | 72 (44.2)   | 178 (47.7)    | 80 (43.5)   |
 | Locally advanced/metastatic d | 63 (19.0)     | 34 (20.9)   | 71 (19.0)     | 37 (20.1)   |
 
-FAS = full analysis set; HR+ = hormone receptor positive; IXRS = Interactive Web/Voice Response System; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice.
-
-a A subject may receive multiple therapies intended for different purposes.
-
-b Prior anthracyclines is defined as prior anticancer therapy of 'anthracyclines', 'doxorubicin', 'epirubicin', 'daunorubicin', or
-
-'idarubicin' in CMDECOD and CMTRT in ADCM.
-
-c  Adjuvant/neoadjuvant: subject with prior anthracycline therapy intended for adjuvant and/or neoadjuvant.
-
-d Locally advanced/metastatic: subject with prior anthracycline therapy intended for locally advanced and/or metastatic. HR+ status based on IXRS.
-
 <div style=\"page-break-after: always\"></div>
 
 ## Numbers analysed
 
 Table 32 Data sets analysed (Study U303)
 
-| Analysis Set               | Number (%) of Subjects   | Number (%) of Subjects   | Number (%) of Subjects   |
-|----------------------------|--------------------------|--------------------------|--------------------------|
-|                            | T-DXd (N=373)            | TPC (N = 184)            | Total (N=557)            |
-| Full AnalysisSet           | 373 (100.0)              | 184 (100.0)              | 557 (100.0)              |
-| Safety Analysis Set        | 371 (99.5)               | 172 (93.5)               | 543 (97.5)               |
-| Per-protocol Analysis Set  | 361 (96.8)               | 164 (89.1)               | 525 (94.3)               |
-| PharmacokineticAnalysisSet | 370 (99.2)               | 0                        | 370 (66.4)               |
+| Analysis Set                 | Number (%) of Subjects   | Number (%) of Subjects   | Number (%) of Subjects   |
+|------------------------------|--------------------------|--------------------------|--------------------------|
+|                              | T-DXd (N=373)            | TPC (N = 184)            | Total (N=557)            |
+| Full Analysis Set            | 373 (100.0)              | 184 (100.0)              | 557 (100.0)              |
+| Safety Analysis Set          | 371 (99.5)               | 172 (93.5)               | 543 (97.5)               |
+| Per-protocol Analysis Set    | 361 (96.8)               | 164 (89.1)               | 525 (94.3)               |
+| Pharmacokinetic Analysis Set | 370 (99.2)               | 0                        | 370 (66.4)               |
 
-T-DXd=trastuzumab deruxtecan; TPC=treatmentofphysician’s choice
+Data cut-off:11 Jan 2022
 
-Datacut-off:11Jan2022
+T-DXd=trastuzumab deruxtecan; TPC =treatmentof physician's choice
 
-Source:Table14.1.1.1.1
+Source: Table 14.1.1.1.1
 
 ## Outcomes and estimation
 
@@ -2290,11 +2257,7 @@ Table 33 Progression-free Survival per Blinded Independent Central Review in the
 |             | T-DXd (N = 331)                    | TPC (N = 163)                      | T-DXd (N = 373)     | TPC (N = 184)       |
 | 95% CI      | 0.4012, 0.6444                     | 0.4012, 0.6444                     | 0.4013, 0.6265      | 0.4013, 0.6265      |
 
-CDK = cyclin-dependent kinase; CI = confidence interval; CSR = clinical study report; HER2 = human epidermal growth factor receptor 2; IXRS = interactive web/voice response system; PFS = progression-free survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
-a Median PFS was from Kaplan-Meier analysis. CI for median was computed using the Brookmeyer-Crowley method.
-
-b Two-sided P -value from stratified log-rank test and stratified Cox proportional hazards model with stratification factors: HER2 status, number of prior lines of chemotherapy, and hormone receptor/CDK status as defined by the IXRS. Data cut-off: 11 Jan 2022 Source: DS8201-A-U303 CSR Tables 14.2.1.1.1 and 14.2.1.1.2
+Data cut-off: 11 Jan 2022 Source: DS8201-A-U303 CSR Tables 14.2.1.1.1 and 14.2.1.1.2
 
 Figure 26 Kaplan-Meier Plot of Progression-free Survival by Blinded Independent Central Review in Hormone Receptor-positive Cohort (Study U303)
 
@@ -2349,7 +2312,7 @@ Figure 28 Kaplan-Meier Plot of Overall Survival in Hormone Receptor-positive Coh
 
 <!-- image -->
 
-T-DXd(331)331325323319314309303293285280268260250228199190168144 1169581 70 51 40 26 1498662
+33 389338  21 3322 14 9 8 6 6 2 1 1 1 0 TPC(163) 163151 145 143139135130 124115109 104 98 96 89 80 71 56 45 37 29 25 23 16 14 7 5 3 0
 
 Data cut-off: 11 Jan 2022 Source: DS8201-A-U303 CSR Figure 14.2.2.1.1
 
@@ -2468,7 +2431,7 @@ a   Median PFS2 is from Kaplan-Meier analysis.  CI for median is computed using 
 
 <div style=\"page-break-after: always\"></div>
 
-b   Hazard ratio and 95% CI from stratified Cox proportional hazards model with stratification factors: HER2 IHC status (1+ vs. 2+/ISH-), HR/CDK status (HR+ with prior CDK4/6 vs. HR+ without CDK4/6 vs. HR-), and number of prior lines of chemotherapy (1 vs. 2) as defined by the IXRS.
+b   Hazard ratio and 95% CI from stratified Cox proportional hazards model with stratification factors: HER2 IHC status (1+ vs. 2+/ISH), HR/CDK status (HR+ with prior CDK4/6 vs. HR+ without CDK4/6 vs. HR-), and number of prior lines of chemotherapy (1 vs. 2) as defined by the IXRS.
 
 HR-: estrogen receptors negative and progesterone receptors negative based on factors reported from EDC.
 
@@ -2545,65 +2508,64 @@ Data cut-off: 11 Jan 2022 Source: DS8201-A-U303 CSR Table 14.2.5.1.2
 
 Figure 32 Forest Plot of Treatment Comparison for Progression-free Survival by Blinded Independent Central Review in Subgroups in Full Analysis Set Based on Electronic Data Capture (Study U303)
 
-<!-- image -->
-
-| Subgroup                                  | Number of Event s T-DXd   | TPC     | Medlian PFS [Months, 95% CI] T-DXd TPC   |                                 | Hazard Ratio [95% Cl]           |
-|-------------------------------------------|---------------------------|---------|------------------------------------------|---------------------------------|---------------------------------|
-| HER2 Satus                                |                           |         |                                          |                                 |                                 |
-| HER2 IHC 1+ (n=321)                       | 134/214                   | 75/107  | 10.0 [8.6, 12.3] 4.8 [3.0, 7.0]          |                                 | 0.4748 [0.3558, 0.6336]         |
-| HER2 IHC 2+/ SH Negative (n=236)          | 109/159                   | 52/77   | 9.9 [8.0, 11.5]5.1[2.9, 7.1]             | 亚                               | 0.5459 [0.3901, 0.7639]         |
-| Number of prior lines of chemot herapy in |                           |         |                                          |                                 |                                 |
-| 1 (n=321)                                 | 14 1/221                  | 68/100  | 10.1 [8.4, 12.2] 6.4 [4.3, 7.8]          |                                 | 0.5222 [0.3891, 0.7007]         |
-| >=2(n=234)                                | 101/151                   | 59/83   | 9.7 [8.1, 11.4]4.2[3.0, 5.4]             |                                 | 0.4896 [0.3527, 0.6795]         |
-| Prior CDK 4/6 - derived besed on beseline |                           |         |                                          |                                 |                                 |
-| valuefrom EDC                             |                           |         |                                          |                                 |                                 |
-| Yes(n=353)                                | 151/235                   | 77/118  | 10.0 [8.1, 11.3]5.4 [3.0, 7.0]           | 亚                               | 0.5453 [0.4123, 0.7212]         |
-| No (n=146)                                | 62/98                     | 36/48   | 11.5 [9.5, 16.4]5.4 [4.3, 8.1]           | 亚                               | 0.4211 [0.2769, 0.6404]         |
-| Age                                       |                           |         |                                          |                                 |                                 |
-| <65 (n=426)                               | 191/290                   | 93/136  | 9.8 [8.4, 11.1]4.6 [2.9, 5.9]            |                                 | 0.4740 [0.3681, 0.6102]         |
-| >=65 (n=131)                              | 52/83                     | 34/48   | 11.4 [8.3, 13.3] 6.2 [4.3, 10.8]         |                                 | 0.5683 [0.3647, 0.8854]         |
-| Age                                       |                           |         |                                          |                                 |                                 |
-| <75 (n=534)                               | 236/359                   | 121/175 | 9.9 [8.6, 11.3]4.6 [4.0, 6.2]            | e                               | 0.4797 [0.3835, 0.6001]         |
-| >=75 (n=23)                               | 7/14                      | 6/9     | 11.5 [2.9, NE] 12.6 [2.5, NE]            |                                 | 1.0737 [0.3544, 3.2525]         |
-| Race                                      |                           |         |                                          |                                 |                                 |
-| White (n=267)                             | 116/176                   | 54/91   | 9.7[8.4, 11.5]5.6 [3.1, 8.3]             |                                 | 0.6300 [0.4541, 0.8739]         |
-| Asian (n=223)                             | 97/151                    | 59/72   | 10.9 [9.0, 13.8]4.6 [2.9, 5.8]           |                                 | 0.3770 [0.2701, 0.5261]         |
-| Other (n=55)                              | 26/38                     | 12/17   | 6.3 [5.4, 11.7] 7.0 [1.4, 11.0]          |                                 | 0.7828 [0.3946, 1.5528]         |
-|                                           |                           |         |                                          | 2 Hazard Ratio (T-DXd vs TPC)   |                                 |
-| Region                                    |                           |         |                                          |                                 |                                 |
-| Asia(n=213)                               | 94/147                    | 53/66   | 10.9 [9.0, 13.8] 4.6[2.8, 6.4]           |                                 | 0.3778 [0.2672, 0.5341]         |
-| North America(n=93)                       | 46/60                     | 20/33   | 8.0 [4.2, 10.0] 4.5 [2.9, 7.2]           | H                               | 0.6207 [0.3599, 1.0704]         |
-| Europe+Isreel (n=251)                     | 103/166                   | 54/85   | 10.3 [8.5, 12.3]6.9[2.9, 8.4]            | T                               | 0.6027 [0.4321, 0.8407]         |
-| Lines of prior endocrine therapy received |                           |         |                                          |                                 |                                 |
-| in the metast atic seting-derived         |                           |         |                                          |                                 |                                 |
-| 0 (n=94)                                  | 41/60                     | 27/34   | 9.5 [5.7, 12.2]4.0[1.4, 5.1]             |                                 | 0.3990 [0.2427,0.6559]          |
-| 1 (n=159)                                 | 77/108                    | 32/51   | 8.5 [6.9, 9.9]7.8[4.2, 10.7]             | T                               | 0.7962 [0.5257, 1.2058]         |
-| 2(n=169)                                  | 64/115                    | 39/54   | 12.0[9.9, 15.1] 4.5 [2.9, 5.9]           |                                 | 0.3125 [0.2056, 0.4750]         |
-| >=3 (n=135)                               | 61/90                     | 29/45   | 10.3 [7.5, 13.3] 5.4[2.7, 11.0]          |                                 | 0.5964 [0.3795, 0.9371]         |
-| Bes Response to the Last Prior Cancer     |                           |         |                                          |                                 |                                 |
-| Syst emic Therapy                         |                           |         |                                          |                                 |                                 |
-| Part ial Response (n=70)                  | 33/48                     | 17/22   | 11.4 [7.1, 13.8]2.8[1.4, 4.8]            | 亚                               | 0.2775 [0.1511, 0.5096]         |
-| Sable Disease (n=137)                     | 47/82                     | 40/55   | 12.0 [8.4, 19.2] 8.1[4.4, 10.7]          | T⊥                              | 0.5021 [0.3253, 0.7751]         |
-| Progressive Disse (n=259)                 | 123/174                   | 57/85   | 99]99                                    | 亚                               | 0.5381 [0.3912, 0.7402]         |
-| Unknown(n=72)                             | 34/53                     | 11/19   | 10.0 [7.5, 16.6] 4.5[2.3, 8.5]           |                                 | 0.5209 [0.2579, 1.0522]         |
-| Report ed History of CNS M et ast ases    |                           |         |                                          |                                 |                                 |
-| Yes (n=52)                                | 30/37                     | 10/15   | 8.1 [5.4, 10.0]:2.0[1.2, 11.0]           |                                 | 0.5777 [0.2791, 1.1956]         |
-| (SOg=u)ON                                 | 213/336                   | 117/169 | 910.3 [9.5, 11.7] 5.3[4.2,6.]            |                                 | 0.4915 [0.3906, 0.6186]         |
-|                                           |                           |         |                                          | 2 3 Hezard Ratio (T-DXd vs TPC) | 2 3 Hezard Ratio (T-DXd vs TPC) |
+| Subgroup                                  | Number of Event s T-DXd   | TPC     | Median PFS T-DXd                 | [Mont hs, 95% CI] TPC            |                                     | Hazard Patio [95% CI]   |
+|-------------------------------------------|---------------------------|---------|----------------------------------|----------------------------------|-------------------------------------|-------------------------|
+| HER2 St at us                             |                           |         |                                  |                                  |                                     |                         |
+| HEP2 IHC 1+ (n=321)                       | 134/214                   | 75/107  | 10.0 [8.6, 12.3] 4.8 [3.0, 7.0]  |                                  | 王                                  | 0.4748 [0.3558, 0.6336] |
+| HEP2 IHC 2+/ SH Negat ive (n=236)         | 109/159                   | 52/77   | 9.9 [8.0, 11.5]                  | 5.1 [2.9, 7.1]                   | 王                                  | 0.5459 [0.3901, 0.7639] |
+| Number of prior lines of chemot herapy in |                           |         |                                  |                                  |                                     |                         |
+| 1 (n=321)                                 | 141/221                   | 68/100  | 10.1 [8.4, 12.2] 6.4 [4.3, 7.8]  |                                  |                                     | 0.5222 [0.3891, 0.7007] |
+| >=2 (n=234)                               | 101/151                   | 59/83   | 9.7 [8.1, 11.4] 4.2 [3.0, 5.4]   |                                  |                                     | 0.4896 [0.3527, 0.6795] |
+| Prior CDK4/6 - derived besed on beseline  |                           |         |                                  |                                  |                                     |                         |
+| valuefrom EDC                             |                           |         |                                  |                                  |                                     |                         |
+| Yes (n=353)                               | 151/235                   | 77/118  | 10.0 [8.1, 11.3] 5.4 [3.0, 7.0]  |                                  | 王                                  | 0.5453 [0.4123, 0.7212] |
+| No (n=146)                                | 62/98                     | 36/48   |                                  | 11.5 [9.5, 16.4] 5.4 [4.3, 8.1]  | 王                                  | 0.4211 [0.2769, 0.6404] |
+| Age                                       |                           |         |                                  |                                  |                                     |                         |
+| <65 (n=426)                               | 191/290                   | 93/136  | 9.8 [8.4, 11.1]                  | 4.6 [2.9, 5.9]                   |                                     | 0.4740 [0.3681, 0.6102] |
+| >=65 (n=131)                              | 52/83                     | 34/48   | 11.4 [8.3, 13.3] 6.2 [4.3, 10.8] |                                  |                                     | 0.5683 [0.3647, 0.8854] |
+| Age                                       |                           |         |                                  |                                  |                                     |                         |
+| <75 (n=534)                               | 236/359                   | 121/175 | 9.9 [8.6, 11.3]                  | 4.6 [4.0, 6.2]                   |                                     | 0.4797 [0.3835, 0.6001] |
+| (5= (=<                                   | 7/14                      | 6/9     | 11.5 [2.9, NE]                   | 12.6 [2.5, NE]                   |                                     | 1.0737 [0.3544, 3.2525] |
+| Race                                      |                           |         |                                  |                                  |                                     |                         |
+| White(n=267)                              | 116/176                   | 54/91   | 9.7 [8.4, 11.5]                  | 5.6 [3.1, 8.3]                   |                                     | 0.6300 [0.4541, 0.8739] |
+| Asian (n=223)                             | 97/151                    | 59/72   | 10.9 [9.0, 13.8]                 | 4.6[2.9, 5.8]                    |                                     | 0.3770 [0.2701, 0.5261] |
+| Ohrrr g)                                  | 26/38                     | 12/17   |                                  | 6.3 [5.4, 11.7] 7.0 [1.4, 11.0]  |                                     | 0.7828 [0.3946, 1.5528] |
+|                                           |                           |         |                                  |                                  | 1 2 3 4                             |                         |
+|                                           |                           |         |                                  |                                  | Hazard Ratio (T-DXd vs TPC)         |                         |
+| Regon                                     |                           |         |                                  |                                  |                                     |                         |
+| Asia(n=213)                               | 94/147                    | 53/66   | 10.9 [9.0, 13.8]                 | 4.6 [2.8, 6.4]                   |                                     | 0.3778 [0.2672, 0.5341] |
+| North America(n=93)                       | 46/60                     | 20/33   | 8.0 [4.2, 10.0]                  | 4.5 [2.9, 7.2]                   | To                                  | 0.6207 [0.3599, 1.0704] |
+| Europe+ Isræel (n=251)                    | 103/166                   | 54/85   | 10.3 [8.5, 12.3] 6.9 [2.9, 8.4]  |                                  |                                     | 0.6027 [0.4321, 0.8407] |
+| Lines of prior endocrine therapy received |                           |         |                                  |                                  |                                     |                         |
+| in the metast atic setting - derived      |                           |         |                                  |                                  |                                     |                         |
+| 0(n=94)                                   | 41/60                     | 27/34   | 9.5 [5.7, 12.2]                  | 4.0[1.4, 5.1]                    | 王                                  | 0.3990 [0.2427, 0.6559] |
+| 1 (n=159)                                 | 77/108                    | 32/51   | 8.5 [6.9, 9.9]                   | 7.8 [4.2, 10.7]                  |                                     | 0.7962 [0.5257, 1.2058] |
+| 2(n=169)                                  | 64/115                    | 39/54   | 12.0 [9.9, 15.1] 4.5 [2.9, 5.9]  |                                  |                                     | 0.3125 [0.2056, 0.4750] |
+| >=3 (n=135)                               | 61/90                     | 29/45   | 10.3 [7.5, 13.3] 5.4 [2.7, 11.0] |                                  | T                                   | 0.5964 [0.3795, 0.9371] |
+| Best Response to the Last Prior Cancer    |                           |         |                                  |                                  |                                     |                         |
+| Syst emic T herapy                        |                           |         |                                  |                                  |                                     |                         |
+| Partial Response (n=70)                   | 33/48                     | 17/22   | 11.4 [7.1, 13.8] 2.8 [1.4, 4.8]  |                                  |                                     | 0.2775 [0.1511, 0.5096] |
+| S able Disease (n=137)                    | 47/82                     | 40/55   |                                  | 12.0 [8.4, 19.2] 8.1 [4.4, 10.7] |                                     | 0.5021 [0.3253, 0.7751] |
+| Progressive Disease (n=259)               | 123/174                   | 57/85   | 8.6 [7.2, 9.9]                   | 4.6 [2.9, 6.2]                   | 王                                  | 0.5381 [0.3912, 0.7402] |
+| Unknown (n=72)                            | 34/53                     | 11/19   | 10.0 [7.5, 16.6] 4.5 [2.3, 8.5]  |                                  | T                                   | 0.5209 [0.2579, 1.0522] |
+| Report ed Hist ory of CNS M et ast ases   |                           |         |                                  |                                  |                                     |                         |
+| Yes (n=52)                                | 30/37                     | 10/15   |                                  | 8.1 [5.4, 10.0] 2.0 [1.2, 11.0]  |                                     | 0.5777 [0.2791, 1.1956] |
+| (00g=u) 0g                                | 213/336                   | 117/169 | 10.3 [9.5, 11.7] 5.3 [4.2, 6.8]  |                                  |                                     | 0.4915 [0.3906, 0.6186] |
+|                                           |                           |         |                                  |                                  | 0 1 2 ε Hazard Ratio (T-DXd vs TPC) | 4                       |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-CDK4/6=cyclin-dependent kinase 4/6;CI=confidence interval;CNS=central nervous system;ECOG PS=Eastern Cooperative Oncology Group perforrmance status; EDC = electronic data capture; HER2 =human epidermal growth factor receptor 2; IHC =immunohistochemistry; ISH =in situ hybridization; NE = not estimable;PFS=progression-free survival;T-DXd=trastuzumab deruxtecan;TPC=treatment of physician's choice
+CDK4/6 = cyclin-dependent kinase 4/6; CI = confidence interval; CNS = central nervous system; ECOG PS = Eastern Cooperative Oncology Group performance status; EDC = electronic data capture; HER2 = human epidermal growth factor receptor 2; IHC = immunohistochemistry; ISH = in situ hybridization; NE = not estimable; PFS = progression-free survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
 
 Analyses were performed only for the category of the subgroup if there were at least 10 PFS events in the treatment arms combined.
 
-Data presented in this figure are based on EDC instead of IXRS.Any data entry in IXRS could not be modified; the derived data in EDC captured the correct statusforthestratificationfactors.
+Data presented in this figure are based on EDC instead of IXRS. Any data entry in IXRS could not be modified; the derived data in EDC captured the correct status for the stratification factors.
 
 Data cut-off: 11 Jan 2022
 
-Source:DS8201-A-U303CSRFigure14.2.1.3.2
+Source: DS8201-A-U303 CSR Figure 14.2.1.3.2
 
 Table 40 Progression-free Survival by Pretreated Status of Anthracyclines Based on BICR (FAS)
 
@@ -2618,7 +2580,7 @@ BICR = Blinded Independent Central Review; CI = confidence interval; FAS = full 
 
 SAP = statistical analysis plan; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice.
 
-a   Median PFS is from Kaplan-Meier analysis.  CI for median is computed using the Brookmeyer-Crowley method.
+a Median PFS is from Kaplan-Meier analysis.  CI for median is computed using the Brookmeyer-Crowley method.
 
 b Hazard ratio is from unstratified Cox proportional hazards model with treatment as the only covariate.
 
@@ -2647,13 +2609,11 @@ Table 41 Overall Survival by Pretreated Status of Anthracyclines (FAS)
 
 CI = confidence interval; FAS = full analysis set; HR+ = hormone receptor positive; IXRS = Interactive Web/Voice Response System; NE = not estimable; OS = overall survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice.
 
-a   Median OS is from Kaplan-Meier analysis.  CI for median was computed using the Brookmeyer-Crowley method.
+a Median OS is from Kaplan-Meier analysis.  CI for median was computed using the Brookmeyer-Crowley method.
 
 b Hazard ratio is from unstratified Cox proportional hazards model with treatment as the only covariate.
 
-c
-
-Pretreated anthracyclines use is defined as prior anticancer therapy of 'anthracyclines,' 'doxorubicin,'
+c Pretreated anthracyclines use is defined as prior anticancer therapy of 'anthracyclines,' 'doxorubicin,'
 
 'epirubicin,' 'daunorubicin,' or 'idarubicin' in CMDECOD and CMTRT in ADCM.
 
@@ -2683,80 +2643,77 @@ Source: Appendix 1 Table 13.
 
 Figure 33 Forest Plot of Treatment Comparison for Overall Survival by Subgroup in the Hormone Receptor-positive Cohort Based on Electronic Data Capture
 
-| Subgaup                                                                  | Nunber of Events T-DXd   | TFC    | Medan OS 6[Months,95%Cl] T-DXd TPC   | Hazad Ratio [95% Cl]    |
-|--------------------------------------------------------------------------|--------------------------|--------|--------------------------------------|-------------------------|
-| HER2 Status                                                              |                          |        |                                      |                         |
-| HER2 IHC 1+ [n=288]                                                      | 70/192                   | 44/96  | 24.7 [20.8, NE] 17.0 [14.1, 22.4]    | 0.6310 [0.4326, 0.9204] |
-| HER2 IHC 2+A SH Negative [n=206)                                         | 56/139                   | 29.67  | 21.7 [19.0, 24.5 17.5 [15.1, NE]     | 0.6693 [0.4263, 1.0507] |
-| Nurnber of prior lines of chernother apy in metastatic setting - derived |                          |        |                                      |                         |
-| 1 (n=296)                                                                | 65/203                   | 39/93  | 24.5 [21.7, NE] 19.5 [16.7, NE]      | 0.6406 [0.4304, 0.9534] |
-| >=2 (n=196]                                                              | 61/127                   | 34.69  | 18.5 [16.9, NE] 14.5 [10.8, 20.2]    | 0.6638 [0.4354, 1.0119] |
-| Prior CDK 4/6 - derived based on baseline value from EDC                 |                          |        |                                      |                         |
-| Yes [n=348]                                                              | 99/233                   | 52/115 | 20.8 [18.5, 24.5 17.0 [14.1, 20.2]   | 0.7115 [0.5083, 0.9958] |
-| No (n=143]                                                               | 26/96                    | 20/47  | NE [NE, NE]  19.9 [15.6, NE]         | 0.5138 [0.2863, 0.9219] |
-| Age                                                                      |                          |        |                                      |                         |
-| <65 (n=380)                                                              | 101/260                  | 53/120 | 24.5 [19.8, NE] 17.5 [14.9, 22.4]    | 0.6801 [0.4874, 0.9490] |
-| >=65 [n=114]                                                             | 25/71                    | 20/43  | 23.9 [17.9, NE] 17.1 [9.2, NE]       | 0.5719 [0.3170, 1.0318] |
-| Age                                                                      |                          |        |                                      |                         |
-| <75 (n=477)                                                              | 123/320                  | 70/157 | 23.4 [20.0, NE] 17.5 [15.2, 22.4]    | 0.6563 [0.4891, 0.8806] |
-| Race                                                                     |                          |        |                                      |                         |
-| w/hite [n=234]                                                           | 65/156                   | 37/78  | 23.9 [18.5, 24.7, 15.1 [12.3, 20.0]  | 0.5975 [0.3983, 0.8962] |
-| Asian (n=197]                                                            | 45/131                   | 28.66  | NE [20.8, NE] 19.9 [16.7, NE]        | 0.7012 [0.4371, 1.1248] |
-| Other (n=53)                                                             | 15/37                    | 7/16   | 21.5 [15.0, NE] 15.2 [6.2, NE]       | 0.6768 [0.2745, 1.6688] |
+| Subgap                                                                | Number of Events T-DXd   | TPC    | Median OS [Months, 95% CI] T-DXd TPC   | HazardRatio [95% Cl]    |
+|-----------------------------------------------------------------------|--------------------------|--------|----------------------------------------|-------------------------|
+| HER2 Status                                                           |                          |        |                                        |                         |
+| HER2 IHC 1+ (n=288)                                                   | 70/192                   | 44/96  | 24.7 [20.8, NE] 17.0 [14.1, 22.4]      | 0.6310 [0.4326, 0.9204] |
+| HER2 IHC 2+A SH Negative (n=206)                                      | 56/139                   | 29/67  | 21.7 [19.0, 24.5 17.5 [15.1, NE]       | 0.6693 [0.4263, 1.0507] |
+| Number of prior lines of chemother apy in metastatic setting- derived |                          |        |                                        |                         |
+| 1 (n=296)                                                             | 65/203                   | 39/93  | 24.5 [21.7, NE] 19.5 [16.7, NE]        | 0.6406 [0.4304, 0.9534] |
+| >=2 (n=196)                                                           | 61/27                    | 34/69  | 18.5 [16.9, NE] 14.5 [10.8, 20.2]      | 0.6638 [0.4354, 1.0119] |
+| Prior CDK 4/6 - derived based on baseline valuefrom EDC               |                          |        |                                        |                         |
+| Yes (n=348)                                                           | 99/233                   | 52/115 | 20.8 [18.5, 24.5 17.0 [14.1, 20.2]     | 0.7115 [0.5083, 0.9958] |
+| No (n=143)                                                            | 26/96                    | 20/47  | NE [NE, NE] 19.9 [15.6, NE]            | 0.5138 [0.2863, 0.9219] |
+| Age                                                                   |                          |        |                                        |                         |
+| <65 (n=380)                                                           | 101/260                  | 53/120 | 24.5 [19.8, NE] 17.5 [14.9, 22.4]      | 0.6801 [0.4874, 0.9490] |
+| >=65 (n=114)                                                          | 25/71                    | 20/43  | 23.9 [17.9, NE] 17.1 [9.2, NE]         | 0.5719 [0.3170, 1.0318] |
+| Age                                                                   |                          |        |                                        |                         |
+| <75 (n=477)                                                           | 123/320                  | 70/157 | 23.4 [20.0, NE] 17.5 [15.2, 22.4]      | 0.6563 [0.4891, 0.8806] |
+| Race                                                                  |                          |        |                                        |                         |
+| White(n=234)                                                          | 65/156                   | 37/78  | 23.9 [18.5, 24.7 15.1 [12.3, 20.0]     | 0.5975 [0.3983, 0.8962] |
+| Asian (n=197)                                                         | 45/131                   | 28.66  | NE [20.8, NE] 19.9 [16.7, NE]          | 0.7012 [0.4371, 1.1248] |
+| Other (n=53)                                                          | 15/37                    | 7/16   | 21.5 [15.0, NE] 15.2 [6.2, NE]         | 0.6768 [0.2745, 1.6688] |
 
-| Subgoup                                    | Number of Events T-DXd   | TFC    | Medan OS [Months, 95% CI] T-DXd TFC   |                              | Hazad Ratio [95% Cl]    |
-|--------------------------------------------|--------------------------|--------|---------------------------------------|------------------------------|-------------------------|
-| Regjon                                     |                          |        |                                       |                              |                         |
-| Asia[n=188)                                | 45/128                   | 26.60  | NE [20.8, NE] 19.9 [16.7, NE]         |                              | 0.6854 [0.4225, 1.1119] |
-| North America [n=84]                       | 22/54                    | 16/30  | 19.8 [15.6, 24.8 14.9 [8.8, 19.4]     |                              | 0.5204 [0.2666, 1.0157] |
-| Europe + Israel [n=222)                    | 59/149                   | 31/73  | 21.7 [18.8, NE]  20.0 [12.3, NE]      |                              | 0.6789 [0.4390, 1.0498] |
-| Lines of prior endocrine ther apy received |                          |        |                                       |                              |                         |
-| in the met ast atic setting - derived      |                          |        |                                       |                              |                         |
-| 0 (n=45]                                   | 7/28                     | 8/17   | NE [17.4, NE] 14.5 [4.8, NE]          |                              | 0.4103 [0.1484, 1.1344] |
-| 1 (n=154)                                  | 41/105                   | 17/49  | 23.4 [17.2, NE]  20.2 [16.7, NE]      |                              | 1.0237 [0.5812, 1.8032] |
-| 2 [n=163]                                  | 39/110                   | 26.53  | 21.7 [20.0, NE] 16.0 [12.3, 19.5]     |                              | 0.4596 [0.2772, 0.7620] |
-| >=3 [n=132)                                | 39.88                    | 22/44  | 21.7 [18.1, NE] 16.8 [12.7, NE]       |                              | 0.6338 [0.3747, 1.0720] |
-| Best Response to the Last Prior Cancer     |                          |        |                                       |                              |                         |
-| Systemic Ther apy                          |                          |        |                                       |                              |                         |
-| Partia Response [n=61]                     | 15/41                    | 11/20  | 24.7 [18.2, NE] 15.1 [4.8, NE]        |                              | 0.4311 [0.1967, 0.9448] |
-| S able Disease [n=122]                     | 28/74                    | 25/48  | 23.9 [19.7, NE] 17.0 [13.5, 22.4]     |                              | 0.5783 [0.3362, 0.9949] |
-| Prog essive Disease [n=225]                | 65/150                   | 29/75  | 20.0 [17.2, 24.5 19.4 [12.6, NE]      |                              | 0.8816 [0.5689, 1.3661] |
-| Unknown [n=68)                             | 16/51                    | 7/17   | NE [18.5, NE] 19.5 [12.7, NE]         |                              | 0.5155 [0.2082, 1.2762] |
-| Reported History of CNS M et ast ases      |                          |        |                                       |                              |                         |
-| Yes[n=43]                                  | 15/30                    | 6/13   | 21.7 [13.6, 24.8 NE [5.7, NE]         |                              | 0.6653 [0.2473, 1.7898] |
-| No (n=451)                                 | 111/301                  | 67/150 | 23.9 [20.8, NE] 17.5 [15.2, 22.4]     |                              | 0.6396 [0.4720, 0.8665] |
-|                                            |                          |        |                                       | Hazar d Ratio (T-DXd vs TPC) |                         |
+|                                            | Number of Events T-DXd   | TFC    | Median OS [Months, 95% CI] T-DXd TPC   |    | HazardRatio [95% CI]    |
+|--------------------------------------------|--------------------------|--------|----------------------------------------|----|-------------------------|
+| Region                                     |                          |        |                                        |    |                         |
+| Asia(n=188)                                | 45/128                   | 26/60  | NE [20.8, NE] 19.9 [16.7, NE]          |    | 0.6854 [0.4225, 1.1119] |
+| North America(n=84)                        | 22/54                    | 16/30  | 19.8 [15.6, 24.8 14.9 [8.8, 19.4]      |    | 0.5204 [0.2666, 1.0157] |
+| Europe + Israel (n=222)                    | 59/149                   | 31/73  | 21.7 [18.8, NE] 20.0 [12.3, NE]        |    | 0.6789 [0.4390, 1.0498] |
+| Lines of prior endocrine ther apy received |                          |        |                                        |    |                         |
+| in the metast atic setting - derived       |                          |        |                                        |    |                         |
+| 0 (n=45)                                   | 7/28                     | 8/7    | NE [17.4, NE] 14.5 [4.8, NE]           |    | 0.4103 [0.1484, 1.1344] |
+| 1 (n=154)                                  | 41/105                   | 17/49  | 23.4 [17.2, NE] 20.2 [16.7, NE]        |    | 1.0237 [0.5812, 1.8032] |
+| 2 (n=163)                                  | 39/10                    | 26/53  | 21.7 [20.0, NE] 16.0 [12.3, 19.5]      |    | 0.4596 [0.2772, 0.7620] |
+| >=3 (n=132)                                | 39/88                    | 22/44  | 21.7 [18.1, NE] 16.8 [12.7, NE]        |  1 | 0.6338 [0.3747, 1.0720] |
+| Best Response to the Last Prior Cancer     |                          |        |                                        |    |                         |
+| Sy stemic T her apy                        |                          |        |                                        |    |                         |
+| Partial Response (n=61)                    | 15/41                    | 11/20  | 24.7 [18.2, NE] 15.1 [4.8, NE]         |    | 0.4311 [0.1967, 0.9448] |
+| Sable Disease (n=122)                      | 28/74                    | 25/48  | 23.9 [19.7, NE] 17.0 [13.5, 22.4]      |    | 0.5783 [0.3362, 0.9949] |
+| Prog essive Disease (n=225)                | 65/150                   | 29/75  | 20.0 [17.2, 24.5 19.4 [12.6, NE]       |    | 0.8816 [0.5689, 1.3661] |
+| Unknown (n=68)                             | 16/51                    | 7/17   | NE [18.5, NE] 19.5 [12.7, NE]          |    | 0.5155 [0.2082, 1.2762] |
+| Reported History of CNSMet ast ases        |                          |        |                                        |    |                         |
+| Yes (n=43)                                 | 15/30                    | 6/13   | 21.7 [13.6, 24.8 NE [5.7, NE]          |    | 0.6653 [0.2473, 1.7898] |
+| No (n=451)                                 | 111/301                  | 67/150 | 23.9 [20.8, NE] 17.5 [15.2, 22.4]      |    | 0.6396 [0.4720, 0.8665] |
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-| Subgoup                      | Number of Events T-DXd   | T PC   | Medan OS [Months, 95% CI] T-DXd TPC   | Hazard Ratio [95% CI]   |
+| droqs                        | Number of Events T-DXd   | TPC    | Medan OS [Months, 95% CI] T-DXd TPC   | HazardRatio [95% Cl]    |
 |------------------------------|--------------------------|--------|---------------------------------------|-------------------------|
 | Baseline CNS M et ast ases   |                          |        |                                       |                         |
-| Yes [n=25]                   | 11/18                    | 4/7    | 19.0 [13.4, 24.5 7.5 [0.6,NE]         | 0.6163 [0.1838, 2.0660] |
+| Yes(n=25)                    | 11/18                    | 4/7    | 19.0 [13.4, 24.5 7.5 [0.6, NE]        | 0.6163 [0.1838, 2.0660] |
 | No (n=469)                   | 115/313                  | 69/156 | 24.5 [20.8, NE] 17.5 [15.6, 22.4]     | 0.6447 [0.4781, 0.8694] |
 | Renal Function at Baseline   |                          |        |                                       |                         |
 | Normal Function (n=264)      | 68/185                   | 36/79  | 23.4 [20.0, 24.7, 16.7 [12.6, NE]     | 0.6025 [0.4017, 0.9037] |
-| Mildlmpairment (n=165]       | 38/104                   | 28.61  | NE [18.2, NE]  16.8 [12.7, NE]        | 0.5711 [0.3493, 0.9339] |
-| Moder ate Impairment [n=55]  | 17/37                    | 5/18   | 18.2 [13.3, NE] NE [17.5, NE]         | 2.2489 [0.8269, 6.1160] |
+| MildImpairment (n=165)       | 38/104                   | 28/61  | NE [18.2, NE] 16.8 [12.7, NE]         | 0.5711 [0.3493, 0.9339] |
+| ModerateImpairment (n=55)    | 17/37                    | 5/18   | 18.2 [13.3, NE] NE [17.5, NE]         | 2.2489 [0.8269, 6.1160] |
 | Hepatic Function at Baseline |                          |        |                                       |                         |
-| Normal Function (n=232]      | 44/149                   | 28/83  | 24.8 [21.7, NE] NE [19.4, NE]         | 0.7745 [0.4820, 1.2445] |
-| MildImpairment [n=254]       | 78/176                   | 43/78  | 21.7 [18.2, 24.5 13.6 [8.4, 16.8]     | 0.4944 [0.3395, 0.7200] |
-| Baseline Viscer al Disease   |                          |        |                                       |                         |
-| Yes[n=444]                   | 122/298                  | 65/146 | 21.7 [19.7. 24.7. 17.5 [15.2, 22.4]   | 0.6967 [0.5153, 0.9419] |
+| Normal Function (n=232)      | 44/149                   | 28/83  | 24.8 [21.7, NE] NE [19.4, NE]         | 0.7745 [0.4820, 1.2445] |
+| MildImpairment (n=254)       | 78/176                   | 43/78  | 21.7 [18.2, 24.5 13.6 [8.4, 16.8]     | 0.4944 [0.3395, 0.7200] |
+| Baseline Visceral Disease    |                          |        |                                       |                         |
+| Yes(n=444)                   | 122/298                  | 65/146 | 21.7 [19.7, 24.7, 17.5 [15.2, 22.4]   | 0.6967 [0.5153, 0.9419] |
 | No (n=50)                    | 4/33                     | 8/17   | NE [NE, NE] 15.7 [13.5, NE]           | 0.2159 [0.0645, 0.7224] |
-| ECOG PS                      |                          |        |                                       |                         |
-| 0 (n=282)                    | 63/187                   | 35/95  | 24.5 [21.7, NE]  20.2 [16.7, NE]      | 0.6840 [0.4523, 1.0344] |
-| 1 (n=212)                    | 63/144                   | 38.68  | 20.8 [17.2, 24.8 15.6 [12.6, 19.5]    | 0.6081 [0.4049, 0.9134] |
+| ECOGPS                       |                          |        |                                       |                         |
+| 0 (n=282)                    | 63/187                   | 35/95  | 24.5 [21.7, NE] 20.2 [16.7, NE]       | 0.6840 [0.4523, 1.0344] |
+| 1 (n=212)                    | 63/144                   | 38/68  | 20.8[17.2, 24.815.6[12.6,19.5]        | 0.6081 [0.4049, 0.9134] |
 
-CDK = cyclin-dependent kinase; CI =confidence interval; CNS = centralnervous system; ECOG PS =Ea stein Cooperative Oncology Group performance status; EDC = electronic data capture; HER2 = human epidermal growth factorreceptor 2; IXRS = intera ctiveweb/voice response system;
+CDK = cyclin-dependent kinase; CI = confidence interval; CNS = centralnervous system; ECOG PS =Eastemn Cooperative Oncology Group performance status; EDC = electronic data capture; HER2 = human epidermal growth factor receptor 2; IXRS = intera ctive web/voice response system;
 
-IHC = immunohistochemistry; ISH =in situ hybridization; NE =not estimable; OS =overa llsurvival; T-DXd =trastuzumab deruxtecan; TPC =treatment of physician's choice
+Hazardratio is from unstratifiedCoxproportional hazards modelwith treatmentas theonly covariate.
 
-HazardratioisfromunstratifiedCoxproportionalhazardsmodelwithtreatmentastheonlycovariate.
+IHC = immunohistochemistry; ISH = in situ hybridization; NE =not estimable; OS = overall survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
 
 ## Sensitivity analyses
 
@@ -2767,14 +2724,6 @@ Table 43 Sensitivity Analysis of Progression-Free Survival per Blinded Independe
 | Analysis using Per-protocol Analysis Set | Analysis using Per-protocol Analysis Set | Analysis using Per-protocol Analysis Set | Analysis using Per-protocol Analysis Set |
 | T-DXd                                    | 207 (64.5)                               | 10.1 (9.5, 11.5)                         | 0.5273 (0.4147, 0.6707)                  |
 | TPC                                      | 106 (73.1)                               | 5.6 (4.4, 7.3)                           | 0.5273 (0.4147, 0.6707)                  |
-
-CI = confidence interval; PFS = progression-free survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
-a   Median PFS is from Kaplan-Meier analysis. Confidence interval for median is computed using the Brookmeyer-Crowley method.
-
-b Based on stratified Cox proportional hazards model.
-
-Data cut-off: 11 Jan 2022
 
 Source: DS8201-A-U303 CSR Table 14.2.1.2.1.1
 
@@ -2800,7 +2749,9 @@ Table 44 Sensitivity Analyses of Progression-Free Survival per Blinded Independe
 | T-DXd                                                                          | 239 (72.2)                                                                     | 9.6 (8.3, 10.5)                                                                | 0.5012 (0.4015, 0.6257)                                                        |
 | TPC                                                                            | 126 (77.3)                                                                     | 5.3 (4.0, 6.2)                                                                 | 0.5012 (0.4015, 0.6257)                                                        |
 
-CI = confidence interval; PFS = progression-free survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice a   Median PFS is from Kaplan-Meier analysis. Confidence interval for median is computed using the Brookmeyer-Crowley method.
+CI = confidence interval; PFS = progression-free survival; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
+
+a   Median PFS is from Kaplan-Meier analysis. Confidence interval for median is computed using the Brookmeyer-Crowley method.
 
 b Based on stratified (or unstratified for impact on stratification) Cox proportional hazards model.
 
@@ -2856,92 +2807,35 @@ Table 46 Summary of Efficacy for trial U303 (DestinyBreast04)
 
 <div style=\"page-break-after: always\"></div>
 
-Hypothesis
-
-Treatments groups
-
-Endpoints and definitions
-
-Duration of main phase:
-
-Duration of Run-in phase:
-
-Treatment until progressive disease, unacceptable toxicity, or withdrawal of
-
-consent not applicable
-
-Duration of Extension phase:
-
-not applicable
-
-Superiority: Significant benefit of PFS
-
-T-DXd
-
-TPC
-
-Primary endpoint
-
-Secondary endpoint
-
-Other secondary
-
-PFS by
-
-BIRC
-
-OS
-
-PFS by INV,
-
-ORR, DoR
-
-endpoints
-
-Database lock
-
-DCO 11 January 2022
-
-## Results and Analysis
-
-| Analysis description                            | Primary Analysis                                                                                   | Primary Analysis                                                                                   | Primary Analysis                                                                                   | Primary Analysis                                                                                   |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Analysis population and time point description  | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                            | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                            | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                            | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                            |
-| Descriptive statistics and estimate variability | Treatment group                                                                                    | Treatment group                                                                                    | T-DXd (N=373) TPC (N=184)                                                                          | T-DXd (N=373) TPC (N=184)                                                                          |
-| Descriptive statistics and estimate variability | Patients with events                                                                               | Patients with events                                                                               | 243 (65.1%) 127 (69%)                                                                              | 243 (65.1%) 127 (69%)                                                                              |
-| Descriptive statistics and estimate variability | PFS by BIRC (months)                                                                               | PFS by BIRC (months)                                                                               | 9.9 5.1                                                                                            | 9.9 5.1                                                                                            |
-| Descriptive statistics and estimate variability | 95%CI 9.0;                                                                                         | 95%CI 9.0;                                                                                         | 11.3 4.2; 6.8                                                                                      | 11.3 4.2; 6.8                                                                                      |
-| Descriptive statistics and estimate variability | OS (months)                                                                                        | OS (months)                                                                                        | 23.4 16.8                                                                                          | 23.4 16.8                                                                                          |
-| Descriptive statistics and estimate variability | 95%CI 20.0;                                                                                        | 95%CI 20.0;                                                                                        | 24.8 14.5; 20.0                                                                                    | 24.8 14.5; 20.0                                                                                    |
-| Descriptive statistics and estimate variability | Confirmed ORR                                                                                      | Confirmed ORR                                                                                      | 52.3% 16.3%                                                                                        | 52.3% 16.3%                                                                                        |
-| Descriptive statistics and estimate variability | 95%CI                                                                                              | 95%CI                                                                                              | 47.1; 57.4 11.3; 22.5                                                                              | 47.1; 57.4 11.3; 22.5                                                                              |
-| Descriptive statistics and estimate variability | DoR                                                                                                | DoR                                                                                                | 10.7 6.8                                                                                           | 10.7 6.8                                                                                           |
-| Descriptive statistics and estimate variability | 95%CI                                                                                              | 95%CI                                                                                              | 8.5; 13.2 6.0; 9.9                                                                                 | 8.5; 13.2 6.0; 9.9                                                                                 |
-| Effect estimate per comparison                  | Primary endpoint                                                                                   | Comparison groups                                                                                  | Comparison groups                                                                                  | T-DXd vs TPC                                                                                       |
-| Effect estimate per comparison                  | Primary endpoint                                                                                   | Hazard ratio                                                                                       | Hazard ratio                                                                                       | 0.5014                                                                                             |
-| Effect estimate per comparison                  | Primary endpoint                                                                                   | 95%CI                                                                                              | 95%CI                                                                                              | 0.4013; 0.6265                                                                                     |
-| Effect estimate per comparison                  | Primary endpoint                                                                                   | P-value                                                                                            | P-value                                                                                            | <0.0001                                                                                            |
-| Effect estimate per comparison                  | Secondary endpoint: OS                                                                             | Comparison groups                                                                                  | Comparison groups                                                                                  | T-DXd vs TPC                                                                                       |
-| Effect estimate per comparison                  | Secondary endpoint: OS                                                                             | Hazard ratio                                                                                       | Hazard ratio                                                                                       | 0.64                                                                                               |
-| Effect estimate per comparison                  | Secondary endpoint: OS                                                                             | 95%CI                                                                                              | 95%CI                                                                                              | 0.49; 0.84                                                                                         |
-| Effect estimate per comparison                  | Secondary endpoint: OS                                                                             | P-value                                                                                            | P-value                                                                                            | 0.0010                                                                                             |
-| Notes                                           | *Results are only shown for the FAS, since this is the target population for the sought indication | *Results are only shown for the FAS, since this is the target population for the sought indication | *Results are only shown for the FAS, since this is the target population for the sought indication | *Results are only shown for the FAS, since this is the target population for the sought indication |
-
-Trastuzumab deruxtecan iv 5.4 mg/kg every 3 weeks (Q3W), number randomized:
-
-373
-
-Treatment per Physician's choice (single agent chemotherapy) options: capecitabine,
-
-eribulin, gemcitabine, paclitaxel, or nab- paclitaxel, number randomized: 184
-
-Progression-free survival by blinded independent review
-
-Overall survival
-
-Progression-free survival by investigator, confirmed overall response rate, duration of
-
-response free text
+|                                                                    | Duration of main phase: Duration of Run-in phase:                       | Duration of main phase: Duration of Run-in phase:                       | Treatment until progressive disease, unacceptable toxicity, or withdrawal of consent not applicable not applicable                                                    | Treatment until progressive disease, unacceptable toxicity, or withdrawal of consent not applicable not applicable                                                    | Treatment until progressive disease, unacceptable toxicity, or withdrawal of consent not applicable not applicable                                                    |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis                                                         | Duration of Extension phase: Superiority: Significant benefit of PFS    | Duration of Extension phase: Superiority: Significant benefit of PFS    | Duration of Extension phase: Superiority: Significant benefit of PFS                                                                                                  | Duration of Extension phase: Superiority: Significant benefit of PFS                                                                                                  | Duration of Extension phase: Superiority: Significant benefit of PFS                                                                                                  |
+| Treatments groups                                                  | T-DXd                                                                   | T-DXd                                                                   | Trastuzumab deruxtecan iv 5.4 mg/kg every 3 weeks (Q3W), number randomized:                                                                                           | Trastuzumab deruxtecan iv 5.4 mg/kg every 3 weeks (Q3W), number randomized:                                                                                           | Trastuzumab deruxtecan iv 5.4 mg/kg every 3 weeks (Q3W), number randomized:                                                                                           |
+| Treatments groups                                                  | TPC                                                                     | TPC                                                                     | 373 Treatment per Physician's choice (single agent chemotherapy) options: capecitabine, eribulin, gemcitabine, paclitaxel, or nab- paclitaxel, number randomized: 184 | 373 Treatment per Physician's choice (single agent chemotherapy) options: capecitabine, eribulin, gemcitabine, paclitaxel, or nab- paclitaxel, number randomized: 184 | 373 Treatment per Physician's choice (single agent chemotherapy) options: capecitabine, eribulin, gemcitabine, paclitaxel, or nab- paclitaxel, number randomized: 184 |
+| Endpoints and definitions                                          | Primary endpoint                                                        | PFS by BIRC                                                             | Progression-free survival by blinded independent review                                                                                                               | Progression-free survival by blinded independent review                                                                                                               | Progression-free survival by blinded independent review                                                                                                               |
+| Endpoints and definitions                                          | Secondary endpoint                                                      | OS                                                                      | Overall survival                                                                                                                                                      | Overall survival                                                                                                                                                      | Overall survival                                                                                                                                                      |
+| Endpoints and definitions                                          | Other secondary endpoints                                               | PFS by INV, ORR, DoR                                                    | Progression-free survival by investigator, confirmed overall response rate, duration of response free text                                                            | Progression-free survival by investigator, confirmed overall response rate, duration of response free text                                                            | Progression-free survival by investigator, confirmed overall response rate, duration of response free text                                                            |
+| Database lock                                                      | DCO 11 January 2022                                                     | DCO 11 January 2022                                                     | DCO 11 January 2022                                                                                                                                                   | DCO 11 January 2022                                                                                                                                                   | DCO 11 January 2022                                                                                                                                                   |
+| Results and Analysis                                               | Results and Analysis                                                    | Results and Analysis                                                    | Results and Analysis                                                                                                                                                  | Results and Analysis                                                                                                                                                  | Results and Analysis                                                                                                                                                  |
+| Analysis description                                               | Primary Analysis                                                        | Primary Analysis                                                        | Primary Analysis                                                                                                                                                      | Primary Analysis                                                                                                                                                      | Primary Analysis                                                                                                                                                      |
+| Analysis population and time point description                     | Intent to treat: Primary analysis (for the HR+ population and the FAS*) | Intent to treat: Primary analysis (for the HR+ population and the FAS*) | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                                                                                               | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                                                                                               | Intent to treat: Primary analysis (for the HR+ population and the FAS*)                                                                                               |
+| Descriptive statistics and estimate variability Treatment Patients | T-DXd (N=373) with 243 (65.1%)                                          | group events                                                            |                                                                                                                                                                       | TPC (N=184) 127 (69%)                                                                                                                                                 |                                                                                                                                                                       |
+|                                                                    | (months)                                                                | (months)                                                                | (months)                                                                                                                                                              | (months)                                                                                                                                                              | (months)                                                                                                                                                              |
+| 95%CI                                                              | 9.0; 11.3 4.2; 6.8 16.8                                                 | 9.0; 11.3 4.2; 6.8 16.8                                                 | 9.0; 11.3 4.2; 6.8 16.8                                                                                                                                               | 9.0; 11.3 4.2; 6.8 16.8                                                                                                                                               | 9.0; 11.3 4.2; 6.8 16.8                                                                                                                                               |
+| 95%CI                                                              | 20.0; 24.8 14.5; 20.0                                                   | 20.0; 24.8 14.5; 20.0                                                   | 20.0; 24.8 14.5; 20.0                                                                                                                                                 | 20.0; 24.8 14.5; 20.0                                                                                                                                                 | 20.0; 24.8 14.5; 20.0                                                                                                                                                 |
+|                                                                    | 16.3%                                                                   | 16.3%                                                                   | 16.3%                                                                                                                                                                 | 16.3%                                                                                                                                                                 | 16.3%                                                                                                                                                                 |
+| 95%CI                                                              | Confirmed ORR 52.3% 47.1; 57.4 11.3; 22.5                               | Confirmed ORR 52.3% 47.1; 57.4 11.3; 22.5                               | Confirmed ORR 52.3% 47.1; 57.4 11.3; 22.5                                                                                                                             | Confirmed ORR 52.3% 47.1; 57.4 11.3; 22.5                                                                                                                             | Confirmed ORR 52.3% 47.1; 57.4 11.3; 22.5                                                                                                                             |
+|                                                                    | 10.7 6.8                                                                | 10.7 6.8                                                                | 10.7 6.8                                                                                                                                                              | 10.7 6.8                                                                                                                                                              | 10.7 6.8                                                                                                                                                              |
+|                                                                    | DoR 95%CI 8.5; 13.2 6.0; 9.9                                            | DoR 95%CI 8.5; 13.2 6.0; 9.9                                            | DoR 95%CI 8.5; 13.2 6.0; 9.9                                                                                                                                          | DoR 95%CI 8.5; 13.2 6.0; 9.9                                                                                                                                          | DoR 95%CI 8.5; 13.2 6.0; 9.9                                                                                                                                          |
+|                                                                    |                                                                         |                                                                         |                                                                                                                                                                       | T-DXd vs TPC                                                                                                                                                          |                                                                                                                                                                       |
+| Effect estimate per                                                | Primary endpoint                                                        | Comparison                                                              | groups                                                                                                                                                                |                                                                                                                                                                       |                                                                                                                                                                       |
+| comparison                                                         |                                                                         | Hazard ratio                                                            |                                                                                                                                                                       | 0.5014                                                                                                                                                                |                                                                                                                                                                       |
+|                                                                    |                                                                         | 95%CI P-value                                                           |                                                                                                                                                                       | 0.4013; 0.6265                                                                                                                                                        |                                                                                                                                                                       |
+|                                                                    | Secondary                                                               | Comparison                                                              | groups                                                                                                                                                                | <0.0001 T-DXd vs TPC                                                                                                                                                  |                                                                                                                                                                       |
+|                                                                    | endpoint: OS                                                            | Hazard ratio                                                            |                                                                                                                                                                       | 0.64                                                                                                                                                                  |                                                                                                                                                                       |
+| Notes                                                              | *Results are the sought                                                 | 95%CI                                                                   |                                                                                                                                                                       | 0.49; 0.84                                                                                                                                                            |                                                                                                                                                                       |
+|                                                                    | only shown for the FAS, since this is the target population             | P-value                                                                 |                                                                                                                                                                       | 0.0010                                                                                                                                                                |                                                                                                                                                                       |
+|                                                                    | for indication                                                          | for indication                                                          | for indication                                                                                                                                                        | for indication                                                                                                                                                        | for indication                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2994,9 +2888,7 @@ Table 47 Demographics and Baseline Characteristics of the HER2-low Breast Cancer
 | Yes                                                                                                          | 10 (47.6)                                                                                                    | 6 (18.2)                                                                                                     | 16 (29.6)                                                                                                    |
 | No                                                                                                           | 11 (52.4)                                                                                                    | 27 (81.8)                                                                                                    | 38 (70.4)                                                                                                    |
 
-BC = breast cancer; CDK4/6 = cyclin-dependent kinase 4/6; ECOG PS = Eastern Cooperative Oncology Group performance status; HER2 =
-
-human epidermal growth factor receptor 2: IHC = immunohistochemistry; ISH = in situ hybridization; Max = maximum; Min = minimum a Therapies intended for 'locally advanced/metastatic' or intended for 'neo-adjuvant', 'adjuvant', or 'maintenance' if progressive disease within 6 months since the end of the therapy.
+BC = breast cancer; CDK4/6 = cyclin-dependent kinase 4/6; ECOG PS = Eastern Cooperative Oncology Group performance status; HER2 = human epidermal growth factor receptor 2: IHC = immunohistochemistry; ISH = in situ hybridization; Max = maximum; Min = minimum a Therapies intended for 'locally advanced/metastatic' or intended for 'neo-adjuvant', 'adjuvant', or 'maintenance' if progressive disease within 6 months since the end of the therapy.
 
 Data cut-off: 01 Aug 2019 Source: Module 5.3.5.3 SCE J101 HER2-low BC Tables 14.1.3.4.2.2 and 14.1.3.4.2.3
 
@@ -3041,16 +2933,6 @@ Table 48 Objective Response Rate in HER2-low Breast Cancer Population of Study J
 | Confirmed ORR, n (%)      | 0 (0.0)                          | 1 (20.0)                         | 1 (14.3)                       |
 | 95% CI b                  | 0.0, 84.2                        | 0.5, 71.6                        | 0.4, 57.9                      |
 
-BC = breast cancer; CI = confidence interval; CR = complete response; HER2 = human epidermal growth factor receptor 2; ICR = independent central review; IHC = immunohistochemistry; ISH = in situ hybridization; ORR = objective response rate;
-
-PR = partial response
-
-a   CR+PR
-
-b   95% exact binomial confidence interval
-
-Data cut-off: 01 Aug 2019 Source: Module 5.3.5.3 SCE J101 HER2-low BC Tables 14.2.2.2, 14.2.2.2.1, 14.2.2.2.9, 14.2.2.3, 14.2.2.3.1, and 14.2.2.3.9
-
 The median DoR (01 Aug 2019 DCO) for confirmed responses based on ICR was 10.4 months (95%CI: 8.5, NE) for the overall HER2-low population: 9.6 months (95%CI: 5.7, NE) for the 5.4 mg/kg group and 10.4 months (95%CI: 3.4, NE) for the 6.4 mg/kg group, respectively.
 
 As of 01 Aug 2019 DCO, the median duration of survival follow-up was 12.4 months (range: 1.6 to 34.8) for the overall HER2-low BC population: 11.9 months (range: 2.5 to 33.6) in the 5.4 mg/kg group and 12.9 months (range: 1.6 to 34.8) in the 6.4 mg/kg group. Median OS was 29.4 months (95%CI: 12.9, NE) for the overall HER2-low population: NE (95% CI: 11.1, NE) in the 5.4 mg/kg group and 19.7 months (95% CI: 12.5, NE) in the 6.4 mg/kg group, respectively.
@@ -3061,11 +2943,9 @@ As of 01 Aug 2019 DCO, the median duration of survival follow-up was 12.4 months
 
 The data from Study U303, PopPK analysis and ER analyses support the chosen dose of 5.4 mg/kg.
 
-The efficacy assessment of the applied extension of indication is based on the pivotal study Destiny Breast04 (Study U303), which is a phase 3, randomised, open-label two-arm study comparing trastuzumab deruxtecan (T-DXd) head-to-head with single-agent chemotherapy per Physician's choice (TPC) for the treatment of HER2-low unresectable or metastatic breast cancer. TPC included the currently recommended SOC in the proposed settings, which is single-agent chemotherapy using either capecitabine, eribulin, gemcitabine, paclitaxel or nab-paclitaxel. As pointed out by the Scientific Advice given in 2018, the use of gemcitabine monotherapy is not endorsed in the proposed setting; however, it is considered acceptable and among the standard options used in the EU for the treatment of metastatic breast cancer. The SA also pointed out that prior anthracycline therapy ought to have been given prior to inclusion to the pivotal study, and while this is not specifically mentioned in the in- or exclusion criteria, it was a requirement that included patients must have had received chemotherapy in the metastatic setting or have developed disease recurrence during or within 6 months of completing adjuvant chemotherapy, which would probably have included an anthracycline-based chemotherapy. Single-agent chemotherapy according to physician's choice was to be determined prior to randomisation which is endorsed. The MAH did not consider anthracyclines as comparator as these are commonly given in the neoadjuvant/adjuvant setting, rendering patients ineligible for further anthracycline therapy in the metastatic setting. Furthermore, the risk for cardiotoxicity with cumulating
+The efficacy assessment of the applied extension of indication is based on the pivotal study Destiny Breast04 (Study U303), which is a phase 3, randomised, open-label two-arm study comparing trastuzumab deruxtecan (T-DXd) head-to-head with single-agent chemotherapy per Physician's choice (TPC) for the treatment of HER2-low unresectable or metastatic breast cancer. TPC included the currently recommended SOC in the proposed settings, which is single-agent chemotherapy using either capecitabine, eribulin, gemcitabine, paclitaxel or nab-paclitaxel. As pointed out by the Scientific Advice given in 2018, the use of gemcitabine monotherapy is not endorsed in the proposed setting; however, it is considered acceptable and among the standard options used in the EU for the treatment of metastatic breast cancer. The SA also pointed out that prior anthracycline therapy ought to have been given prior to inclusion to the pivotal study, and while this is not specifically mentioned in the in- or exclusion criteria, it was a requirement that included patients must have had received chemotherapy in the metastatic setting or have developed disease recurrence during or within 6 months of completing adjuvant chemotherapy, which would probably have included an anthracycline-based chemotherapy. Single-agent chemotherapy according to physician's choice was to be determined prior to randomisation which is endorsed. The MAH did not consider anthracyclines as comparator as these are commonly given in the neoadjuvant/adjuvant setting, rendering patients ineligible for further anthracycline therapy in the metastatic setting. Furthermore, the risk for cardiotoxicity with cumulating dose limits long term treatment. This appears reasonable; however, as about two-thirds of patients received prior anthracycline treatment, anthracyclines might have been a suitable comparator for part of the patients. A post-hoc sensitivity analysis showed that the beneficial effect of T-DXd was observed independent of prior anthracycline use, which is reassuring. Information on prior anthracycline use has been added to section 5.1 of the SmPC.
 
 <div style=\"page-break-after: always\"></div>
-
-dose limits long term treatment. This appears reasonable; however, as about two-thirds of patients received prior anthracycline treatment, anthracyclines might have been a suitable comparator for part of the patients. A post-hoc sensitivity analysis showed that the beneficial effect of T-DXd was observed independent of prior anthracycline use, which is reassuring. Information on prior anthracycline use has been added to section 5.1 of the SmPC.
 
 This extension of indication is for treatment of patients with HER2-low unresectable or metastatic breast cancer, who have received one prior systemic therapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy, i.e. both the 1L and the 2L setting. The percentage of patients who had prior anthracycline use in the (neo)adjuvant setting was 46.3% and 19.4% in the locally advanced and/or metastatic setting. In the metastatic setting, patients had a median of 3 prior lines of systemic therapy (range: 1 to 9) with 57.6% having 1 and 40.9% having 2 prior chemotherapy regimens; 3.9% were early progressors (progression in the neo/adjuvant setting). In HR+ patients, the median number of prior lines of endocrine therapy was 2 (range: 0 to 9) and 70% had prior CDK4/6 inhibitor treatment. The newly proposed indication does not totally reflect the included study population in the pivotal trial in terms of endocrine therapy. For example, a third of the patients included have had 2 prior lines of endocrine therapy in the metastatic setting. In addition, 22.4% of subjects received subsequent endocrine therapy either as single agent or in combination after completion of T-DXd treatment (data not shown). It is also acknowledged that the treating physician may have reasons to treat with chemotherapy, e.g., when there is rapid progression and imminent organ failure (typically due to liver metastases), because a rapid response is needed and the response from endocrine therapy occurs more slowly (Gennari et al. ESMO. 2021). Moreover, there is no reason to doubt effectiveness of T-DXd in patients who did not receive any prior lines of endocrine therapy, so it is considered acceptable to extrapolate the efficacy to patients, who are not previously treated with endocrine therapy.
 
@@ -3073,11 +2953,9 @@ Low HER2 expression was defined as IHC2+/ISH- or IHC1+ (ISH- or not tested) acco
 
 All patients had to have a history of low HER2 expression; however, the concordance rate between central and local testing was only 75%.  According to the Applicant, differences in testing methodologies and/or local scoring criteria, lack of local pathologist training for determination of HER2low scores, and intrasubject tumour heterogeneity are some of the factors that would likely have contributed to the observed differences between local and central assessment of HER2 expression. Although this is acknowledged, the data indicate that there could be a risk that patients may be selected erroneously for treatment with T-DXd based on unvalidated local tests. As no information was available for patients with discordant results on timing of local test compared to central test and prior therapies, the reasons for the discordant results remain unknown. As most patients had an archival tissue sample for HER2 determination, there is no need to request for fresh tissue samples in the SmPC. In the pivotal study, there were two reasons for tumour tissue collection (HER2 and exploratory biomarker analysis) with different timings of collection. Tumour samples for HER2 testing per inclusion criterion 5 allowed archival tissue prior to last treatment whereas samples for biomarker analysis per inclusion criterion 6 were mandatory after most recent treatment.
 
-Patients were recruited from 19 countries and the median follow-up was 16.1 months in the T-DXd arm vs 13.5 months in the TPC arm at the DCO of 11 January 2022. A total of 713 patients were
+Patients were recruited from 19 countries and the median follow-up was 16.1 months in the T-DXd arm vs 13.5 months in the TPC arm at the DCO of 11 January 2022. A total of 713 patients were screened and 557 were randomised 2:1 to the two treatment arms and this is an acceptable sample size.  Most patients randomised to the TPC arm received eribulin (51%) followed by capecitabine (20%). Each of the other products made up 8-10% of the TPC arm.
 
 <div style=\"page-break-after: always\"></div>
-
-screened and 557 were randomised 2:1 to the two treatment arms and this is an acceptable sample size.  Most patients randomised to the TPC arm received eribulin (51%) followed by capecitabine (20%). Each of the other products made up 8-10% of the TPC arm.
 
 Randomisation was stratified by HER2 IHC status (1+ or 2+), number of prior chemotherapies (1 or 2), and hormone receptor/CDK status (HR+ with CDK4/6 (min 240), HR+ without CDK4/6 (max 240), HR- (about 60)). The stratification factors are endorsed as these might influence efficacy.
 
@@ -3160,75 +3038,78 @@ Table 49: Summary of Groups Included in Safety Data Presentations
 | All Tumor Types T- DXd ≥5.4 mg/kg Pool Multi-study pool of subjects with any tumor type who received T- DXd ≥5.4 mg/kg (N = 1590) | T-DXd 7.4 mg/kg     | Study U201: 21                                                                    |
 | All Tumor Types T- DXd ≥5.4 mg/kg Pool Multi-study pool of subjects with any tumor type who received T- DXd ≥5.4 mg/kg (N = 1590) | T-DXd 8.0 mg/kg     | Study J101: 6                                                                     |
 
-BC = breast cancer; HER2 = human epidermal growth factor receptor 2; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice Source:, Module 5.3.5.3 SCS SAP v1.0
+BC = breast cancer; HER2 = human epidermal growth factor receptor 2; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
+
+Source:, Module 5.3.5.3 SCS SAP v1.0
 
 <div style=\"page-break-after: always\"></div>
 
 ## Patient exposure
 
-## Table 50: Summary of Exposure in Study U303 (Safety Analysis Set)
+Table 50: Summary of Exposure in Study U303 (Safety Analysis Set)
 
-| Parameter                                       | T-DXd (N =371)                                  | Overall TPC (N =172)                            | Eribulin (N =89)                                | Capecitabine (N =36)                            | Nab- paclitaxel (N =17)                         | Gemcitabine (N =16)                             | Paclitaxel (N =14)                              | AIlBC T-DXd 5.4 mg/kg Pool (N=883)              |
+| Parameter                                       | T-DXd (N = 371)                                 | Overall TPC (N = 172)                           | Eribulin (N = 89)                               | Capecitabine (N = 36)                           | Nab- paclitaxel (N = 17)                        | Gemcitabine (N = 16)                            | Paclitaxel (N = 14)                             | All BC T-DXd 5.4 mg/kg Pool (N = 883)           |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     | Treatment duration(months)a                     |
+| Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   | Treatment duration (months) a                   |
 | Mean                                            | 9.17                                            | 4.44                                            | 4.32                                            | 5.82                                            | 3.91                                            | 2.61                                            | 4.33                                            | 11.68                                           |
 | Std Dev                                         | 6.428                                           | 3.722                                           | 3.360                                           | 5.064                                           | 3.747                                           | 1.809                                           | 2.406                                           | 7.641                                           |
 | Median                                          | 8.21                                            | 3.47                                            | 3.65                                            | 4.11                                            | 2.76                                            | 1.63                                            | 4.29                                            | 9.89                                            |
-| Minimum, Maximum                                | 0.2,33.3                                        | 0.3, 17.6                                       | 0.3, 17.5                                       | 0.3,17.6                                        | 0.7,16.8                                        | 1.1, 6.9                                        | 0.4, 9.0                                        | 0.2, 37.1                                       |
+| Minimum, Maximum                                | 0.2, 33.3                                       | 0.3, 17.6                                       | 0.3, 17.5                                       | 0.3, 17.6                                       | 0.7, 16.8                                       | 1.1, 6.9                                        | 0.4, 9.0                                        | 0.2, 37.1                                       |
 | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) | Duration of treatment as of data cut-offa n (%) |
 | ≤3 months                                       | 71 (19.1)                                       | 79 (45.9)                                       | 36 (40.4)                                       | 15 (41.7)                                       | 10 (58.8)                                       | 13 (81.3)                                       | 5 (35.7)                                        | 120 (13.6)                                      |
-| >3to≤6months                                    | 71 (19.1)                                       | 57 (33.1)                                       | 38 (42.7)                                       | 7 (19.4)                                        | 4 (23.5)                                        | 2 (12.5)                                        | 6 (42.9)                                        | 142 (16.1)                                      |
+| >3 to ≤6 months                                 | 71 (19.1)                                       | 57 (33.1)                                       | 38 (42.7)                                       | 7 (19.4)                                        | 4 (23.5)                                        | 2 (12.5)                                        | 6 (42.9)                                        | 142 (16.1)                                      |
 | >6 to ≤9 months                                 | 73 (19.7)                                       | 20 (11.6)                                       | 9 (10.1)                                        | 5 (13.9)                                        | 2 (11.8)                                        | 1 (6.3)                                         | 3 (21.4)                                        | 139 (15.7)                                      |
 | >9 to ≤12 months                                | 47 (12.7)                                       | 6 (3.5)                                         | 3 (3.4)                                         | 3 (8.3)                                         | 0                                               | 0                                               | 0                                               | 100 (11.3)                                      |
-| >12 to≤18 months                                | 66 (17.8)                                       | 10 (5.8)                                        | 3 (3.4)                                         | 6 (16.7)                                        | 1 (5.9)                                         | 0                                               | 0                                               | 163 (18.5)                                      |
+| >12 to ≤18 months                               | 66 (17.8)                                       | 10 (5.8)                                        | 3 (3.4)                                         | 6 (16.7)                                        | 1 (5.9)                                         | 0                                               | 0                                               | 163 (18.5)                                      |
 | >18 to ≤24 months                               | 33 (8.9)                                        | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 163 (18.5)                                      |
-| >24months                                       | 10 (2.7)                                        | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 56 (6.3)                                        |
+| >24 months                                      | 10 (2.7)                                        | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 0                                               | 56 (6.3)                                        |
 | Total patient-years of exposure b               | 283.5                                           | 63.6                                            | 32.1                                            | 17.5                                            | 5.5                                             | 3.5                                             | 5.1                                             | 859.6                                           |
 | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         | Cumulative dose level c                         |
-| Mean (Std Dev)                                  | 65.57 (45.261)                                  | -                                               | 14.39 (10.561)                                  | 218082.70 (191731.884)                          | 1178.87 (991.607)                               | 7256.68 (5455.184)                              | 1096.40 (658.832)                               | 82.74 (53.548)                                  |
+| Mean (Std Dev)                                  | 65.57 (45.261)                                  | --                                              | 14.39 (10.561)                                  | 218082.70 (191731.884)                          | 1178.87 (991.607)                               | 7256.68 (5455.184)                              | 1096.40 (658.832)                               | 82.74 (53.548)                                  |
 | Median                                          | 54.78                                           | --                                              | 12.85                                           | 166586.37                                       | 794.12                                          | 5696.43                                         | 942.15                                          | 72.39                                           |
 
-| Parameter                                 | T-DXd (N =371)                            | Overall TPC (N = 172)                     | Eribulin (N = 89)                         | Capecitabine (N =36)                      | Nab- paclitaxel (N = 17)                  | Gemcitabine (N =16)                       | Paclitaxel (N = 14)                       | All BC T-DXd 5.4 mg/kg Pool (N=883)       |
+| Parameter                                 | T-DXd (N = 371)                           | Overall TPC (N = 172)                     | Eribulin (N = 89)                         | Capecitabine (N = 36)                     | Nab- paclitaxel (N = 17)                  | Gemcitabine (N = 16)                      | Paclitaxel (N = 14)                       | All BC T-DXd 5.4 mg/kg Pool (N = 883)     |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
 | Minimum, Maximum                          | 5.3, 219.8                                |                                           | 1.2, 54.2                                 | 6930.4, 772970.1                          | 260, 4334.9                               | 1986.8, 25000                             | 163.2, 2369.4                             | 5.3, 239.0                                |
-| Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            | Numberofcycles                            |
+| Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          | Number of cycles                          |
 | Mean (Std Dev)                            | 12.6 (8.75)                               | 6.2 (5.00)                                | 6.2 (4.61)                                | 7.9 (6.64)                                | 5.3 (5.10)                                | 3.9 (2.55)                                | 5.9 (3.25)                                | 16.0 (10.38)                              |
 | Median                                    | 11.0                                      | 5.0                                       | 6.0                                       | 6.0                                       | 4.0                                       | 3.0                                       | 6.0                                       | 14.0                                      |
-| Minimum, Maximum                          | 1, 47                                     | 1, 25                                     | 1, 25                                     | 1, 23                                     | 1, 23                                     | 2,10                                      | 1, 13                                     | 1, 47                                     |
+| Minimum, Maximum                          | 1,47                                      | 1,25                                      | 1,25                                      | 1,23                                      | 1,23                                      | 2,10                                      | 1,13                                      | 1,47                                      |
 | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          | Dose intensity d                          |
-| Mean (Std Dev)                            | 5.13 (1.165)                              | -                                         | 2.33 (0.421)                              | 26953.47 (5656.888)                       | 232.98 (34.103)                           | 2016.24 (544.569)                         | 182.58 (46.284)                           | 5.03 (0.883)                              |
-| Median                                    | 5.24                                      |                                           | 2.34                                      | 26922.86                                  | 241.20                                    | 2140.46                                   | 180.80                                    | 5.21                                      |
-| Minimum, Maximum                          | 2.6, 22.7                                 | --                                        | 1.3, 3.3                                  | 14553.8, 35965.5                          | 152.6, 282.2                              | 1192.1, 2678.6                            | 85.8, 263.6                               | 2.5, 22.7                                 |
-| Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              | Relative dose intensity e(%)              |
-| Mean (Std Dev)                            | 99.78 (1.796)                             | 102.65 (20.083)                           | 99.22 (4.555)                             | 114.10 f (41.730)                         | 100.35 (1.096)                            | 100.16 (2.392)                            | 100.65 (2.443)                            | 97.56 (7.196)                             |
+| Mean (Std Dev)                            | 5.13 (1.165)                              | ==                                        | 2.33 (0.421)                              | 26953.47 (5656.888)                       | 232.98 (34.103)                           | 2016.24 (544.569)                         | 182.58 (46.284)                           | 5.03 (0.883)                              |
+| Median                                    | 5.24                                      | --                                        | 2.34                                      | 26922.86                                  | 241.20                                    | 2140.46                                   | 180.80                                    | 5.21                                      |
+| Minimum, Maximum                          | 2.6, 22.7                                 | ==                                        | 1.3, 3.3                                  | 14553.8, 35965.5                          | 152.6, 282.2                              | 1192.1, 2678.6                            | 85.8, 263.6                               | 2.5, 22.7                                 |
+| Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               | Relative dose intensity (%)               |
+| Mean (Std Dev)                            | 99.78 (1.796)                             | 102.65 (20.083)                           | 99.22 (4.555)                             | 114.10f (41.730)                          | 100.35 (1.096)                            | 100.16 (2.392)                            | 100.65 (2.443)                            | 97.56 (7.196)                             |
 | Median                                    | 99.97                                     | 100.00                                    | 99.92                                     | 99.71                                     | 100.05                                    | 100.18                                    | 100.23                                    | 99.81                                     |
 | Minimum, Maximum                          | 91.5, 107.9                               | 59.0, 198.5                               | 78.5, 113.0                               | 59.0, 198.5                               | 98.5, 103.4                               | 94.6, 104.4                               | 97.6, 108.1                               | 46.1, 107.9                               |
 | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) | Relative dose intensity categories, n (%) |
 | ≥90%                                      | 371 (100.0)                               | 157 (91.3)                                | 84 (94.4)                                 | 26 (72.2)                                 | 17 (100.0)                                | 16 (100.0)                                | 14 (100.0)                                | 813 (92.1)                                |
-| <90% to≥80%                               | 0                                         | 9 (5.2)                                   | 4 (4.5)                                   | 5 (13.9)                                  | 0                                         | 0                                         | 0                                         | 34 (3.9)                                  |
+| <90% to ≥80%                              | 0                                         | 9 (5.2)                                   | 4 (4.5)                                   | 5 (13.9)                                  | 0                                         | 0                                         | 0                                         | 34 (3.9)                                  |
 | <80% to ≥60%                              | 0                                         | 5 (2.9)                                   | 1 (1.1)                                   | 4 (11.1)                                  | 0                                         | 0                                         | 0                                         | 29 (3.3)                                  |
 | <60%                                      | 0                                         | 1 (0.6)                                   | 0                                         | 1 (2.8)                                   | 0                                         | 0                                         | 0                                         | 7 (0.8)                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-BC =breast cancer; CSR = clinical study report;N = total number of treated subjects; RDI =relative dose intensity; SAP =Statistical Analysis Plan;
+BC = breast cancer; CSR = clinical study report; N = total number of treated subjects; RDI = relative dose intensity; SAP = Statistical Analysis Plan;
 
-StdDev=standarddeviation;T-DXd=trastuzumabderuxtecan;TPC=treatmentofphysician'schoice
+Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
 
-PercentageswerecalculatedusingthenumberofsubjectsintheSafetyAnalysisSetasthedenominator.
+Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
-Units: T-DXd = mg/kg; capecitabine, gemcitabine, paclitaxel, nab-paclitaxel = mg/m2; eribulin = mg*/m2, where * refers to eribulin mesylate. 1.23 mg eribulin base=1.4mgeribulinmesylate
+Units: T-DXd = mg/kg; capecitabine, gemcitabine, paclitaxel, nab-paclitaxel = mg/m²; eribulin = mg*/m2, where * refers to eribulin mesylate. 1.23 mg eribulin base = 1.4 mg eribulin mesylate
 
-1month=365.25/12=30.44days
+For the exposure summary for TPC in Study U303, the study conventions specified in the CSR SAP were followed.
 
-- a Treatment duration (months) =(date of last dose - date of first dose) + a cycle length [days]/30.44
-- b Total patient-years ofexposure= sum of treatment duration (months) of all subjects/12
-- c Cumulative doselevel(units)= sum of the actual dose levels received (units given above).Due to different dosing schedules and units among theindividual TPCtreatments,cumulativedoselevelisnotpresentedfortheoverallTPCarm.
-- d Dose intensity (units/cycle length in weeks) = cumulative dose level (units given above) /(duration of treatment [days]/cycle length [days]).
-- eRelativedoseintensity(%)derivation/definitionforeachstudyfollowedthestudyconventionspecifiedinthespecificCSRSAP.
-- fFor capecitabine,the planned dose was derived based on the total daily dose on thefirst day of dosing/body surface area,and RDI was calculated as the planned dose onthefirst dosing day×the durationofexposure(days).For11 subjects,thedosereceived on thefirst dayof dosingwaslower than any subsequent doseforthat subject;therefore,theRDIfor these subjectsexceeded100%,and resulted in themeanRDI&gt;100%for thesubjects treatedwith capecitabine.
+- 1 month = 365.25/12 =30.44 days
+- a Treatment duration (months) = (date of last dose – date of first dose) + a cycle length [days]/30.44
+- bTotal patient-years of exposure = sum of treatment duration (months) of all subjects/12
+- e Cumulative dose level (units) = sum of the actual dose levels received (units given above). Due to different dosing schedules and units among the individual TPC treatments, cumulative dose level is not presented for the overall TPC arm.
+- d Dose intensity (units/cycle length in weeks) = cumulative dose level (units given above) / (duration of treatment [days]/cycle length [days]).
+- e Relative dose intensity (%) derivation/definition for each study followed the study convention specified in the specific CSR SAP.
+- f For capecitabine, the planned dose was derived based on the total daily dose on the first day of dosing/body surface area, and RDI was calculated as the planned dose on the first dosing day × the duration of exposure (days). For 11 subjects, the dose received on the first day of dosing was lower than any subsequent dose for that subject; therefore, the RDI for these subjects exceeded 100%, and resulted in the mean RDI &gt;100% for the subjects treated with capecitabine.
 
-Source:Module5.3.5.3SCSTable1.1.3;Module5.3.5.1DS8201-A-U303CSR Table 14.1.5.1.1.
+Source: Module 5.3.5.3 SCSTable 1.1.3; Module 5.3.5.1 DS8201-A-U303 CSRTable 14.1.5.1.1.
 
 ## Adverse events
 
@@ -3248,15 +3129,13 @@ Table 51: Summary of Subject Disposition (Safety Analysis Set)
 | Lost to follow-up                                   | 0                        | 1 (0.6)                  | 0                                     |
 | Other                                               | 2 (0.5) c                | 0                        | 15 (1.7)                              |
 
-BC = breast cancer; DCO = data cut-off; N = total number of treated subjects; RECIST v1.1 = Response Evaluation Criteria in Solid Tumors version 1.1; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
 a Based on RECIST v1.1
 
 b Per investigator assessment
 
-c Subject No. xxxxxxxx (dose delay of longer than 28 days); Subject No. xxxxxxxx (physician decision entered as Other in electronic data capture) (Module 5.3.5.1 DS8201-A-U303 CSR Listing 16.2.1.1). Source:  Module 5.3.5.3 SCS Table 1.1.1
+c Subject No. (dose delay of longer than 28 days); Subject No (physician decision entered as Other in electronic data capture) (Module 5.3.5.1 DS8201-A-U303 CSR Listing 16.2.1.1). Source:  Module 5.3.5.3 SCS Table 1.1.1
 
 Table 52:  Overview of Treatment-emergent Adverse Events (Safety Analysis Set)
 
@@ -3284,13 +3163,11 @@ Table 52:  Overview of Treatment-emergent Adverse Events (Safety Analysis Set)
 | Drug-related TEAEs associated with study drug interruption    | 106 (28.6)               | 62 (36.0)                | 286 (32.4)                            |
 | Drug-related TEAEs associated with an outcome of death b      | 7 (1.9)                  | 0                        | 11 (1.2)                              |
 
-BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
 a A subject was counted once at the maximum severity.
 
-- b For specific TEAEs associated with an outcome of death, refer to Table 2.10.
+b For specific TEAEs associated with an outcome of death, refer to Table 2.10.
 
 c If relationship was missing, the TEAE was considered to be related to the drug. Source:  Module 5.3.5.3 SCS Table 1.2.1.1.1
 
@@ -3332,10 +3209,6 @@ Table 53: Treatmentemergent Adverse Events Reported in ≥10% of Subjects in Eit
 | Dyspnoea                                    | 38 (10.2)                | 16 (9.3)                 | 99 (11.2)                             |
 | Peripheral sensory neuropathy               | 18 (4.9)                 | 19 (11.0)                | 55 (6.2)                              |
 | Palmar-plantar erythrodysaesthesia syndrome | 5 (1.3)                  | 24 (14.0)                | 14 (1.6)                              |
-
-BC = breast cancer; ILD = interstitial lung disease; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
-
-If a subject had multiple occurrences of the same PT/grouped term, the subject was counted once for that PT/grouped term.  If a subject had multiple PTs/grouped terms, the subject was counted in each of the different PTs/grouped terms.
 
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
@@ -3380,8 +3253,6 @@ Table 54: Drug-related Treatmentemergent Adverse Events Reported in ≥10% of Su
 | Musculoskeletal pain a                      | 34 (9.2)                 | 20 (11.6)                | 92 (10.4)                             |
 | Palmar-plantar erythrodysaesthesia syndrome | 4 (1.1)                  | 24 (14.0)                | 11 (1.2)                              |
 
-BC = breast cancer; ILD = interstitial lung disease; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
 If a subject had multiple occurrences of the same PT/grouped term, the subject was counted once for that PT/grouped term.  If a subject had multiple PTs/grouped terms, the subject was counted in each of the different PTs/grouped terms.
@@ -3392,9 +3263,7 @@ TEAEs are sorted by descending frequency in the T-DXd arm.
 
 a The PTs included in each grouped term are listed in 2.1.
 
-b Interstitial lung disease includes events that were adjudicated as ILD and related to use of T-DXd or TPC.
-
-Source:  Module 5.3.5.3 SCS Tables 1.2.1.4, 1.2.2.2, 1.2.4.1
+b Interstitial lung disease includes events that were adjudicated as ILD and related to use of T-DXd or TPC. Source:  Module 5.3.5.3 SCS Tables 1.2.1.4, 1.2.2.2, 1.2.4.1
 
 Table 55:  Treatment-emergent Adverse Events of CTCAE Grade 3 or Higher Reported in ≥5% of Subjects in Either Treatment Arm in Study U303, by Preferred Term/Grouped Term (Safety Analysis Set)
 
@@ -3410,55 +3279,41 @@ Table 55:  Treatment-emergent Adverse Events of CTCAE Grade 3 or Higher Reported
 | Transaminases increased a               | 21 (5.7)                 | 17 (9.9)                 | 37 (4.2)                              |
 | Lymphopenia a                           | 20 (5.4)                 | 6 (3.5)                  | 44 (5.0)                              |
 
-BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatmentemergent adverse event; TPC = treatment of physician's choice
-
-Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
-
-If a subject had multiple occurrences of the same PT/grouped term, the subject was counted once for that PT/grouped term.  If a subject had multiple PTs/grouped terms, the subject was counted in each of the different PTs/grouped terms.
-
-TEAEs are sorted by descending frequency in the T-DXd arm.
-
-a The PTs included in each grouped term are listed in Table 2.1.
-
-b For each PT/grouped term, a subject was counted once at the maximum severity.
-
-Source:  Module 5.3.5.3 SCS Tables 1.2.1.5, 1.2.2.1
-
 <div style=\"page-break-after: always\"></div>
 
-Table 56
+## Table 56
 
-Table 10.7: Drug-related Treatment-emergent Adverse Events of CTCAE ≥Grade 3 Reported in ≥2% of Subjects in Either Treatment Arm, by Preferred Term or Grouped Term (Safety Analysis Set)
+Table 10.7: Drug-related Treatment-emergent Adverse Events of CTCAE≥Grade 3 Reported in ≥2% of Subjects in Either Treatment Arm, by Preferred Term or Grouped Term (Safety Analysis Set)
 
 | MedDRA Preferred Term or Grouped Term a   | Number (%) of Subjects   | Number (%) of Subjects   |
 |-------------------------------------------|--------------------------|--------------------------|
-| MedDRA Preferred Term or Grouped Term a   | T-DXd (N = 371)          | TPC (N =172)             |
+| MedDRA Preferred Term or Grouped Term a   | T-DXd (N=371)            | TPC (N = 172)            |
 | Any drug-related TEAE ≥Grade 3            | 154 (41.5)               | 99 (57.6)                |
 | Neutropenia a                             | 51 (13.7)                | 70 (40.7)                |
-| Anemia a                                  | 30 (8.1)                 | 8 (4.7)                  |
-| Fatigue a                                 | 28 (7.5)                 | 8 (4.7)                  |
+| Anemia a                                  | 30 (8.1)                 | 8(4.7)                   |
+| Fatigue a                                 | 28 (7.5)                 | 8(4.7)                   |
 | Leukopenia a                              | 24 (6.5)                 | 33 (19.2)                |
-| Thrombocytopenia a                        | 19 (5.1)                 | 1 (0.6)                  |
+| Thrombocytopenia                          | 19 (5.1)                 | 1 (0.6)                  |
 | Nausea                                    | 17 (4.6)                 | 0                        |
-| Lymphopenia a                             | 16 (4.3)                 | 6 (3.5)                  |
-| Transaminases increased a                 | 12 (3.2)                 | 14 (8.1)                 |
+| Lymphopenia                               | 16 (4.3)                 | 6 (3.5)                  |
+| Transaminases increased a                 | 12 (3.2)                 | 14(8.1)                  |
 | Decreased appetite                        | 9 (2.4)                  | 2 (1.2)                  |
 | Interstitial lung disease b               | 8 (2.2)                  | 0                        |
 
 | MedDRA Preferred Term or Grouped Term a     | Number (%) of Subjects   | Number (%) of Subjects   |
 |---------------------------------------------|--------------------------|--------------------------|
-|                                             | T-DXd (N =371)           | TPC (N = 172)            |
+|                                             | T-DXd (N = 371)          | TPC (N=172)              |
 | Febrile neutropenia                         | 1 (0.3)                  | 5 (2.9)                  |
-| Palmar-plantar erythrodysaesthesia syndrome | 0                        | 7 (4.1)                  |
+| Palmar-plantar erythrodysaesthesia syndrome | 0                        | 7(4.1)                   |
 | Neuropathy peripheral                       | 0                        | 4 (2.3)                  |
 
-CTCAE = Common Terminology Criteria for Adverse Events v5.0; MedDRA = MedicalDictionary for Regulatory Activities v24.0; T-DXd =tra stuzumab deruxtecan; TEAE =treatment-emergent adverse event; TPC =trea tment of physician's choice
+Percentages were calculatedusing the number of subjects in the Sa fety Analysis Set as the denominator.
 
-Percentages were calculatedusing the numberof subjects in the Safety Analysis Set as the denominator.
+Co g o =    g  oo= oy Activities v24.0; T-DXd = tra stuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-a The preferred terms included in each of the grouped terms in this table are listed in Table 6.5. b Interstitial lung disea se includes events that were a djudicated as ILD and related to use of T-DXd or TPC.
+If the relationship was missing, the TEAE was considered to be related to the drug.
 
-If the rela tionship wa s missing, the TEAE was consideredto be relatedto the drug.
+The preferred terms included in each of the grouped terms in this table are listed in Ta ble 6.5. Interstitial lung disea se includes events that were a djudicated as ILD and related to use of T-DXd or TPC.
 
 Data cut-off: 11 Jan 2022
 
@@ -3478,8 +3333,6 @@ Table 57: Selected Preferred Terms in Adverse Events of Special Interest in Stud
 | Category   | Selected Preferred Terms for Review                                                                                             |
 |------------|---------------------------------------------------------------------------------------------------------------------------------|
 |            | Ejection fraction decreased Left ventricular dysfunction Left ventricular failure Right ventricular failure Ventricular failure |
-
-ILD = interstitial lung disease; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; PT = preferred term; SMQ = Standardised MedDRA Query
 
 ## ILD/pneumonitis
 
@@ -3503,12 +3356,6 @@ Table 58: ILD Events by Adjudicated Outcome and Adjudicated Grade in Study U303 
 | Grade 4                                                                    | 0                        | 0                        | 0                                     |
 | Grade 5                                                                    | 3 (0.8)                  | 0                        | 10 (1.1)                              |
 | ≥Grade 3                                                                   | 8 (2.2)                  | 0                        | 19 (2.2)                              |
-
-AC = Adjudication Committee; BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; ILD = interstitial lung disease; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event;
-
-TPC = treatment of physician's choice
-
-Table includes all events that were submitted to the ILD AC.
 
 If a subject had multiple ILD events, the CTCAE grade is shown for the event with the worst grade.
 
@@ -3537,16 +3384,6 @@ Table 59: Overview of Adjudicated Drug-related ILD Events (Safety Analysis Set)
 | ILD associated with study drug interruption b                          | 11 (3.0)                 | 0                        | 26 (2.9)                              |
 | ILD associated with an outcome of death c                              | 3 (0.8)                  | 0                        | 10 (1.1)                              |
 
-AC = Adjudication Committee; BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; ILD = interstitial lung disease; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
-Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
-
-a The ILD AC assigned grades to those events that were determined to be ILD.  A subject was counted once at the maximum severity.
-
-b Based on investigator assessment
-
-c Adjudicated drug-related ILD associated with death was derived based on adjudicated CTCAE Grade 5 events.
-
 Source:  Module 5.3.5.3 SCS Tables 1.2.4.1, 1.2.4.2, 1.2.4.3, 1.2.4.4, 1.2.4.5, 1.2.4.6
 
 Table 60: Outcome of Events Adjudicated as Drug-related ILD (Safety Analysis Set)
@@ -3563,16 +3400,6 @@ Table 60: Outcome of Events Adjudicated as Drug-related ILD (Safety Analysis Set
 | Death a                                                 | 2 (4.4)                  | 0                        | 8 (7.1)                               |
 | Missing/unknown                                         | 2 (4.4)                  | 0                        | 3 (2.7)                               |
 
-BC = breast cancer; ILD = interstitial lung disease; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatmentemergent adverse event; TPC = treatment of physician's choice
-
-For the 3 subjects who had more than 1 event of adjudicated drug-related ILD, the worst-grade event is included.
-
-Percentage for adjudicated drug-related ILD (first row of results) was calculated using the number of subjects in the Safety Analysis Set as the denominator.
-
-Percentage for each outcome was calculated using the number of subjects with adjudicated drug-related ILD as the denominator.
-
-a Based on investigator assessment.  One of the 3 events adjudicated as Grade 5 ILD is not included in ILD associated with an outcome of death as assessed by the investigator.  One subject who experienced an investigator-assessed Grade 3 ILD event died due to disease progression (&gt;47 days after last study drug administration); the ILD Adjudication Committee adjudicated the event as Grade 5.
-
 Source:  Module 5.3.5.3 SCS Table 1.2.5.4, Module 5.3.5.1 DS8201-A-U303 CSR Table 10.25
 
 ## LVEF decrease/Left ventricular dysfunction
@@ -3588,44 +3415,44 @@ Table 61: Summary of LVEF Values, Based on ECHO/MUGA Scan Data (Safety Analysis 
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                                                 | Number (%) of Subjects                                    | Number (%) of Subjects   | Number (%) of Subjects                |
-|-----------------------------------------------------------|-----------------------------------------------------------|--------------------------|---------------------------------------|
-| Parameter                                                 | T-DXd (N = 371)                                           | TPC (N = 172)            | All BC T-DXd 5.4 mg/kg Pool (N = 883) |
-| Subjects with LVEF measurement after worst grade          | 36                                                        | 5                        | 100                                   |
-| Recovered from worst grade to ≥90% of baseline, b n (%) c | 26 (72.2)                                                 | 3 (60.0)                 | 78 (78.0)                             |
-| Grade 3                                                   | 5 (1.5)                                                   | 0                        | 7 (0.8)                               |
-| Subjects with LVEF measurement after worst grade          | 4                                                         | 0                        | 6                                     |
-| Recovered from worst grade to ≥90% of baseline, b n (%) c | 3 (75.0)                                                  | 0                        | 5 (83.3)                              |
-| LVEF measurements at baseline                             |                                                           |                          |                                       |
-| n                                                         | 370                                                       | 171                      | 882                                   |
-| Mean (Std Dev)                                            | 64.1 (6.10)                                               | 63.8 (6.12)              | 64.2 (6.31)                           |
-| Median                                                    | 64.0                                                      | 64.0                     | 64.0                                  |
-| Minimum, Maximum                                          | 50, 83                                                    | 50, 87                   | 50, 86                                |
-| 40% to 49%                                                | 0                                                         | 0                        | 0                                     |
-| 20% to 39%                                                | 0                                                         | 0                        | 0                                     |
-| <20%                                                      | 0                                                         | 0                        | 0                                     |
-| Lowest LVEF measurement post-baseline                     |                                                           |                          |                                       |
-| n                                                         | 335                                                       | 142                      | 827                                   |
-| Mean (Std Dev)                                            | 60.4 (6.29)                                               | 62.6 (6.23)              | 60.3 (5.87)                           |
-| Median                                                    | 61.0                                                      | 63.0                     | 60.0                                  |
-| Minimum, Maximum                                          | 37, 79                                                    | 42, 79                   | 37, 79                                |
-| 40% to 49%                                                | 13 (3.5)                                                  | 2 (1.2)                  | 23 (2.6)                              |
-| 20% to 39%                                                | 2 (0.5)                                                   | 0                        | 2 (0.2)                               |
-| <20%                                                      | 0                                                         | 0                        | 0                                     |
-| Change from baseline to lowest post-baseline measurement  |                                                           |                          |                                       |
-| n                                                         | 335                                                       | 142                      | 827                                   |
-| Mean (Std Dev)                                            | -3.9 (5.70)                                               | -1.6 (5.32)              | -3.9 (5.35)                           |
-| Median                                                    | -3.0                                                      | -1.0                     | -3.0                                  |
-| Minimum, Maximum                                          | -36, 13                                                   | -17, 14                  | -36, 13                               |
-| 10% to 19% decrease in absolute value                     | 44 (11.9)                                                 | 10 (5.8)                 | 120 (13.6)                            |
-| ≥20% decrease in absolute value                           | 4 (1.1)                                                   | 0                        | 6 (0.7)                               |
-| Highest LVEF measurement post-baseline                    |                                                           |                          |                                       |
-| n                                                         | 335                                                       | 142                      | 827                                   |
-| Mean (Std Dev)                                            | 65.8 (6.93)                                               | 64.6 (5.97)              | 67.0 (6.60)                           |
-| Median                                                    | 66.0                                                      | 65.0                     | 67.0                                  |
-| Minimum, Maximum                                          | 43, 90                                                    | 46, 80                   | 43, 90                                |
-| Change from baseline to highest post-baseline measurement | Change from baseline to highest post-baseline measurement |                          |                                       |
-| n                                                         | 335                                                       | 142                      | 827                                   |
+| Parameter                                                 | Number (%) of Subjects                                    | Number (%) of Subjects                                    | Number (%) of Subjects                                    |
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Parameter                                                 | T-DXd (N = 371)                                           | TPC (N = 172)                                             | All BC T-DXd 5.4 mg/kg Pool (N = 883)                     |
+| Subjects with LVEF measurement after worst grade          | 36                                                        | 5                                                         | 100                                                       |
+| Recovered from worst grade to ≥90% of baseline, b n (%) c | 26 (72.2)                                                 | 3 (60.0)                                                  | 78 (78.0)                                                 |
+| Grade 3                                                   | 5 (1.5)                                                   | 0                                                         | 7 (0.8)                                                   |
+| Subjects with LVEF measurement after worst grade          | 4                                                         | 0                                                         | 6                                                         |
+| Recovered from worst grade to ≥90% of baseline, b n (%) c | 3 (75.0)                                                  | 0                                                         | 5 (83.3)                                                  |
+| LVEF measurements at baseline                             |                                                           |                                                           |                                                           |
+| n                                                         | 370                                                       | 171                                                       | 882                                                       |
+| Mean (Std Dev)                                            | 64.1 (6.10)                                               | 63.8 (6.12)                                               | 64.2 (6.31)                                               |
+| Median                                                    | 64.0                                                      | 64.0                                                      | 64.0                                                      |
+| Minimum, Maximum                                          | 50, 83                                                    | 50, 87                                                    | 50, 86                                                    |
+| 40% to 49%                                                | 0                                                         | 0                                                         | 0                                                         |
+| 20% to 39%                                                | 0                                                         | 0                                                         | 0                                                         |
+| <20%                                                      | 0                                                         | 0                                                         | 0                                                         |
+| Lowest LVEF measurement post-baseline                     |                                                           |                                                           |                                                           |
+| n                                                         | 335                                                       | 142                                                       | 827                                                       |
+| Mean (Std Dev)                                            | 60.4 (6.29)                                               | 62.6 (6.23)                                               | 60.3 (5.87)                                               |
+| Median                                                    | 61.0                                                      | 63.0                                                      | 60.0                                                      |
+| Minimum, Maximum                                          | 37, 79                                                    | 42, 79                                                    | 37, 79                                                    |
+| 40% to 49%                                                | 13 (3.5)                                                  | 2 (1.2)                                                   | 23 (2.6)                                                  |
+| 20% to 39%                                                | 2 (0.5)                                                   | 0                                                         | 2 (0.2)                                                   |
+| <20%                                                      | 0                                                         | 0                                                         | 0                                                         |
+| Change from baseline to lowest post-baseline measurement  |                                                           |                                                           |                                                           |
+| n                                                         | 335                                                       | 142                                                       | 827                                                       |
+| Mean (Std Dev)                                            | -3.9 (5.70)                                               | -1.6 (5.32)                                               | -3.9 (5.35)                                               |
+| Median                                                    | -3.0                                                      | -1.0                                                      | -3.0                                                      |
+| Minimum, Maximum                                          | -36, 13                                                   | -17, 14                                                   | -36, 13                                                   |
+| 10% to 19% decrease in absolute value                     | 44 (11.9)                                                 | 10 (5.8)                                                  | 120 (13.6)                                                |
+| ≥20% decrease in absolute value                           | 4 (1.1)                                                   | 0                                                         | 6 (0.7)                                                   |
+| Highest LVEF measurement post-baseline                    |                                                           |                                                           |                                                           |
+| n                                                         | 335                                                       | 142                                                       | 827                                                       |
+| Mean (Std Dev)                                            | 65.8 (6.93)                                               | 64.6 (5.97)                                               | 67.0 (6.60)                                               |
+| Median                                                    | 66.0                                                      | 65.0                                                      | 67.0                                                      |
+| Minimum, Maximum                                          | 43, 90                                                    | 46, 80                                                    | 43, 90                                                    |
+| Change from baseline to highest post-baseline measurement | Change from baseline to highest post-baseline measurement | Change from baseline to highest post-baseline measurement | Change from baseline to highest post-baseline measurement |
+| n                                                         | 335                                                       | 142                                                       | 827                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3637,16 +3464,6 @@ Table 61: Summary of LVEF Values, Based on ECHO/MUGA Scan Data (Safety Analysis 
 | Minimum, Maximum                      | -20, 21                  | -17, 14                  | -20, 22                               |
 | 10% to 19% increase in absolute value | 23 (6.2)                 | 7 (4.1)                  | 97 (11.0)                             |
 | ≥20% increase in absolute value       | 1 (0.3)                  | 0                        | 3 (0.3)                               |
-
-BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; ECHO = echocardiogram; LVEF = left ventricular ejection fraction; MUGA = multigated acquisition; N = total number of subjects treated; Std Dev = standard deviation; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
-Per CTCAE, LVEF decrease was defined as follows:  Grade 2 = resting LVEF ≥ 40% to &lt;50% or a 10% to &lt;20% decrease from baseline; Grade 3 = resting LVEF ≥20% to &lt;40% or a ≥20 % decrease from baseline; Grade 4 = resting LVEF &lt;20%.
-
-a Non-missing n was the number of subjects with both baseline and post-baseline data.  Percentages were calculated using the non-missing n as the denominator.
-
-b ≥90% baseline since worst grade was defined as the highest postbaseline LVEF after the measurement with worst grade that was ≥90% of the baseline LVEF value.
-
-c Percentages were calculated using the number of subjects having worst post-baseline LVEF at the specific grade.  If there was no LVEF measurement after the worst grade of LVEF, the subject was not included in the denominator.
 
 Source:  Module 5.3.5.3 SCS Table 1.2.6.8
 
@@ -3686,8 +3503,6 @@ Table 62:  Serious Treatment-emergent Adverse Events Reported in ≥1% of Subjec
 | Medication error                       | 0                        | 3 (1.7)                  | 0                                     |
 | Overdose                               | 0                        | 5 (2.9) d                | 0                                     |
 
-BC = breast cancer; ILD = interstitial lung disease; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; TEAE = treatment-emergent adverse event; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
 If a subject had multiple occurrences of the same serious PT/grouped term, the subject was counted once for that serious PT/grouped term.  If a subject had multiple serious PTs/grouped terms, the subject was counted once for each of the different PTs/grouped terms.
@@ -3722,15 +3537,13 @@ Table 63: Primary Cause of Any Deaths and On-treatment Deaths (Safety Analysis S
 | Other                    | 1 (0.3)                  | 1 (0.6)                  | 2 (0.2)                               |
 | Unknown                  | 1 (0.3)                  | 0                        | 2 (0.2)                               |
 
-BC = breast cancer; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
-a Adverse events with outcome of death in the T-DXd arm were pneumonitis for Subject Nos. xxxxxxxxxxxxxxxxxxxx (on-treatment death for the latter subject), respiratory failure for Subject No. xxxxxxxx (on-treatment death), general physical health deterioration for Subject No. xxxxxx, colitis ischaemic for Subject No. xxxxxxxx (on-treatment death), dyspnoea for Subject No. xxxxxxxx (on-treatment death), sepsis for Subject Nos. xxxxxxxxxxxxxxxxxxx (both were on-treatment deaths), disseminated intravascular coagulation for Subject No. xxxxxxxx(ontreatment death), and febrile neutropenia for Subject No. xxxxxxxx (on-treatment death).
+a Adverse events with outcome of death in the T-DXd arm were pneumonitis for Subject Nos. (on-treatment death for the latter subject), respiratory failure for Subject No. (on-treatment death), general physical health deterioration for Subject No.  colitis ischaemic for Subject No. (on-treatment death), dyspnoea for Subject No. (on-treatment death), sepsis for Subject Nos. (both were on-treatment deaths), disseminated intravascular coagulation for Subject No. (on-treatment death), and febrile neutropenia for Subject No. (on-treatment death).
 
-b The investigator recorded a primary cause of death as 'Other: disease worsening under study' for Subject No. xxxxxxxx, 'Other: clinical progression' for Subject No. xxxxxxxx, and 'Other: cachexia due to cancer' for Subject No. xxxxxxxx (on-treatment death).
+b The investigator recorded a primary cause of death as 'Other: disease worsening under study' for Subject No., 'Other: clinical progression' for Subject No., and 'Other: cachexia due to cancer' for Subject No. (on-treatment death).
 
-c The investigator recorded a primary cause of death as 'Other: respiratory arrest' for Subject No. xxxxxxxx, 'Other: respiratory failure due to pneumonitis, pulmonary embolus' for Subject No. xxxxxxxx, and 'Other: disease progression (liver dysfunction)' for Subject No. xxxxxxxx (on-treatment death).
+c The investigator recorded a primary cause of death as 'Other: respiratory arrest' for Subject No., 'Other: respiratory failure due to pneumonitis, pulmonary embolus' for Subject No., and 'Other: disease progression (liver dysfunction)' for Subject No. (on-treatment death).
 
 d On-treatment death was defined as any death that occurred from the date of the first dose to 28 days after the last dose of study drug for Study J101 and to 47 days after the last dose of study drug for other studies in the All BC T-DXd 5.4 mg/kg Pool.
 
@@ -3765,8 +3578,6 @@ Table 64: Treatment-emergent Adverse Events Associated with an Outcome of Death,
 | Shock haemorrhagic                                          | 0                        | 0                        | 1 (0.1)                               |
 | Sudden death                                                | 0                        | 0                        | 1 (0.1)                               |
 
-BC = breast cancer; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
-
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
 A death could be associated with multiple preferred terms.
@@ -3800,16 +3611,6 @@ Table 65:  Laboratory Abnormality Adverse Drug Reactions in Study U303 (Safety A
 | Blood potassium decreased            | 92 (25.2)                | 12 (3.3)                 | 28 (16.7)                | 2 (1.2)                  |
 | Blood bilirubin increased            | 59 (16.2)                | 10 (2.7)                 | 25 (14.8)                | 1 (0.6)                  |
 | Blood creatinine increased           | 53 (14.5)                | 4 (1.1)                  | 16 (9.5)                 | 1 (0.6)                  |
-
-CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice
-
-Percentages were calculated using the number of subjects with both baseline and post-treatment measurements as the denominator, based on
-
-CTCAE grade-derived laboratory abnormalities.
-
-Baseline was defined as the last non-missing value recorded before the first dose of study drug.
-
-Parameters are presented in descending order of incidence in the All Grades column of the T-DXd arm.
 
 Source:  Module 5.3.5.3 ADR Table 10.20
 
@@ -3880,7 +3681,7 @@ Table 66: Hepatic Function Abnormalities (Safety Analysis Set)
 | Non-missing n a                                                       | 365                                                                   | 169                                                                   | 875                                                                   |
 | ALT or AST ≥3 × ULN and TBL ≥2 × ULN and ALP <2 × ULN                 | 5 (1.4)                                                               | 2 (1.2)                                                               | 9 (1.0)                                                               |
 
-BC = breast cancer; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TPC = treatment of physician's choice; ULN = upper limit of normal Percentages were calculated using the non-missing n as the denominator.
+Percentages were calculated using the non-missing n as the denominator.
 
 Each subject was counted for only the worst case observed post-baseline.
 
@@ -3939,7 +3740,9 @@ Table 68: Treatment-emergent Adverse Events with a 10-percentage-point Differenc
 | Headache a                                  | 50 (17.3)                | 5 (6.1)                  | 8 (6.3)                  | 3 (6.5)                  |
 | Palmar-plantar erythrodysaesthesia syndrome | 5 (1.7)                  | 0                        | 13 (10.3)                | 11 (23.9)                |
 
-MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
+MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan;
+
+TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
 Percentages were calculated using the number of subjects in the category as the denominator.
 
@@ -3953,155 +3756,153 @@ Source:  Module 5.3.5.1 DS8201-A-U303 CSR Table 10.10
 
 Table 69: Overall Summary of Treatment-emergent Adverse Events by Race (Safety Analysis Set)
 
-| Parameter                                                     | White                       | White                       | White                               | Asian                       | Asian                       | Asian                                | Other                       | Other                       | Other                             |
-|---------------------------------------------------------------|-----------------------------|-----------------------------|-------------------------------------|-----------------------------|-----------------------------|--------------------------------------|-----------------------------|-----------------------------|-----------------------------------|
-| Parameter                                                     | T-DXd (N =175)              | TPC (N=85)                  | AIlBC T-DXd 5.4 mg/kg Pool (N =377) | T-DXd (N = 151)             | TPC (N = 69)                | AllBC T-DXd 5.4 mg/kg Pool (N = 404) | T-DXd (N = 45)              | TPC (N =17)                 | AIlBC T-DXd 5.4 mg/kg Pool (N=98) |
-| Durationoftreatment(months)                                   | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)         | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)          | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)       |
-| Median                                                        | 8.21                        | 3.19                        | 9.63                                | 8.41                        | 3.52                        | 10.99                                | 6.21                        | 4.34                        | 9.64                              |
-| Minimum, Maximum                                              | 0.2,28.1                    | 0.3,17.6                    | 0.2,31.7                            | 0.7,33.3                    | 0.5, 17.5                   | 0.7, 37.1                            | 0.6,22.0                    | 1.4, 10.3                   | 0.6,28.5                          |
-| Subjects with any TEAE                                        | 173 (98.9)                  | 82 (96.5)                   | 374 (99.2)                          | 151 (100.0)                 | 69 (100.0)                  | 403 (99.8)                           | 45 (100.0)                  | 17 (100.0)                  | 97 (99.0)                         |
-| TEAEs with worst CTCAE ≥Grade 3 a                             | 83 (47.4)                   | 53 (62.4)                   | 200 (53.1)                          | 90 (59.6)                   | 52 (75.4)                   | 226 (55.9)                           | 22 (48.9)                   | 11 (64.7)                   | 50 (51.0)                         |
-| Serious TEAEs                                                 | 50 (28.6)                   | 21 (24.7)                   | 107 (28.4)                          | 41 (27.2)                   | 16 (23.2)                   | 90 (22.3)                            | 12 (26.7)                   | 6 (35.3)                    | 23 (23.5)                         |
-| TEAEsassociatedwithstudy drug discontinuation                 | 30 (17.1)                   | 7 (8.2)                     | 55 (14.6)                           | 27 (17.9)                   | 4 (5.8)                     | 72 (17.8)                            | 3 (6.7)                     | 3 (17.6)                    | 16 (16.3)                         |
-| TEAEs associatedwithdose reduction                            | 33 (18.9)                   | 27 (31.8)                   | 74 (19.6)                           | 42 (27.8)                   | 35 (50.7)                   | 99 (24.5)                            | 9 (20.0)                    | 4 (23.5)                    | 20 (20.4)                         |
-| TEAEsassociatedwithstudy drug interruption                    | 62 (35.4)                   | 35 (41.2)                   | 145 (38.5)                          | 63 (41.7)                   | 30 (43.5)                   | 180 (44.6)                           | 18 (40.0)                   | 7 (41.2)                    | 41 (41.8)                         |
-| TEAEs associated with an outcome of deathb                    | 10 (5.7)                    | 4 (4.7)                     | 24 (6.4)                            | 2 (1.3)                     | 1 (1.4)                     | 6 (1.5)                              | 2 (4.4)                     | 0                           | 2 (2.0)                           |
-| Subjects with any drug-related TEAE c                         | 164 (93.7)                  | 77 (90.6)                   | 363 (96.3)                          | 150 (99.3)                  | 67 (97.1)                   | 400 (99.0)                           | 43 (95.6)                   | 17 (100.0)                  | 95 (96.9)                         |
-| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 61 (34.9)                   | 40 (47.1)                   | 155 (41.1)                          | 78 (51.7)                   | 49 (71.0)                   | 200 (49.5)                           | 15 (33.3)                   | 10 (58.8)                   | 40 (40.8)                         |
-| Drug-related serious TEAEs                                    | 22 (12.6)                   | 7 (8.2)                     | 48 (12.7)                           | 22 (14.6)                   | 10 (14.5)                   | 50 (12.4)                            | 4 (8.9)                     | 2 (11.8)                    | 13 (13.3)                         |
-| Drug-related TEAEs associated with study drug discontinuation | 27 (15.4)                   | 6 (7.1)                     | 49 (13.0)                           | 26 (17.2)                   | 4 (5.8)                     | 68 (16.8)                            | 3 (6.7)                     | 2 (11.8)                    | 16 (16.3)                         |
+| Parameter                                                     | White                          | White                          | White                                 | Asian                          | Asian                          | Asian                                 | Other                          | Other                          | Other                                |
+|---------------------------------------------------------------|--------------------------------|--------------------------------|---------------------------------------|--------------------------------|--------------------------------|---------------------------------------|--------------------------------|--------------------------------|--------------------------------------|
+| Parameter                                                     | T-DXd (N = 175)                | TPC (N = 85)                   | All BC T-DXd 5.4 mg/kg Pool (N = 377) | T-DXd (N = 151)                | TPC (N = 69)                   | All BC T-DXd 5.4 mg/kg Pool (N = 404) | T-DXd (N = 45)                 | TPC (N = 17)                   | All BC T-DXd 5.4 mg/kg Pool (N = 98) |
+| Duration of treatment (months)                                | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)        | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)        | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)       |
+| Median                                                        | 8.21                           | 3.19                           | 9.63                                  | 8.41                           | 3.52                           | 10.99                                 | 6.21                           | 4.34                           | 9.64                                 |
+| Minimum, Maximum                                              | 0.2, 28.1                      | 0.3, 17.6                      | 0.2, 31.7                             | 0.7, 33.3                      | 0.5, 17.5                      | 0.7, 37.1                             | 0.6, 22.0                      | 1.4, 10.3                      | 0.6, 28.5                            |
+| Subjects with any TEAE                                        | 173 (98.9)                     | 82 (96.5)                      | 374 (99.2)                            | 151 (100.0)                    | 69 (100.0)                     | 403 (99.8)                            | 45 (100.0)                     | 17 (100.0)                     | 97 (99.0)                            |
+| TEAEs with worst CTCAE ≥Grade 3 a                             | 83 (47.4)                      | 53 (62.4)                      | 200 (53.1)                            | 90 (59.6)                      | 52 (75.4)                      | 226 (55.9)                            | 22 (48.9)                      | 11 (64.7)                      | 50 (51.0)                            |
+| Serious TEAEs                                                 | 50 (28.6)                      | 21 (24.7)                      | 107 (28.4)                            | 41 (27.2)                      | 16 (23.2)                      | 90 (22.3)                             | 12 (26.7)                      | 6 (35.3)                       | 23 (23.5)                            |
+| TEAEs associated with study drug discontinuation              | 30 (17.1)                      | 7 (8.2)                        | 55 (14.6)                             | 27 (17.9)                      | 4 (5.8)                        | 72 (17.8)                             | 3 (6.7)                        | 3 (17.6)                       | 16 (16.3)                            |
+| TEAEs associated with dose reduction                          | 33 (18.9)                      | 27 (31.8)                      | 74 (19.6)                             | 42 (27.8)                      | 35 (50.7)                      | 99 (24.5)                             | 9 (20.0)                       | 4 (23.5)                       | 20 (20.4)                            |
+| TEAEs associated with study drug interruption                 | 62 (35.4)                      | 35 (41.2)                      | 145 (38.5)                            | 63 (41.7)                      | 30 (43.5)                      | 180 (44.6)                            | 18 (40.0)                      | 7 (41.2)                       | 41 (41.8)                            |
+| TEAEs associated with an outcome of death b                   | 10 (5.7)                       | 4 (4.7)                        | 24 (6.4)                              | 2 (1.3)                        | 1 (1.4)                        | 6 (1.5)                               | 2 (4.4)                        | 0                              | 2 (2.0)                              |
+| Subjects with any drug-related TEAE                           | 164 (93.7)                     | 77 (90.6)                      | 363 (96.3)                            | 150 (99.3)                     | 67 (97.1)                      | 400 (99.0)                            | 43 (95.6)                      | 17 (100.0)                     | 95 (96.9)                            |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 61 (34.9)                      | 40 (47.1)                      | 155 (41.1)                            | 78 (51.7)                      | 49 (71.0)                      | 200 (49.5)                            | 15 (33.3)                      | 10 (58.8)                      | 40 (40.8)                            |
+| Drug-related serious TEAEs                                    | 22 (12.6)                      | 7 (8.2)                        | 48 (12.7)                             | 22 (14.6)                      | 10 (14.5)                      | 50 (12.4)                             | 4 (8.9)                        | 2 (11.8)                       | 13 (13.3)                            |
+| Drug-related TEAEs associated with study drug discontinuation | 27 (15.4)                      | 6 (7.1)                        | 49 (13.0)                             | 26 (17.2)                      | 4 (5.8)                        | 68 (16.8)                             | 3 (6.7)                        | 2 (11.8)                       | 16 (16.3)                            |
 
-| Parameter                                                  | White           | White        | White                                | Asian          | Asian        | Asian                               | Other          | Other        | Other                               |
-|------------------------------------------------------------|-----------------|--------------|--------------------------------------|----------------|--------------|-------------------------------------|----------------|--------------|-------------------------------------|
-| Parameter                                                  | T-DXd (N = 175) | TPC (N = 85) | AllBC T-DXd 5.4 mg/kg Pool (N = 377) | T-DXd (N =151) | TPC (N = 69) | AIlBC T-DXd 5.4 mg/kg Pool (N =404) | T-DXd (N = 45) | TPC (N = 17) | AllBC T-DXd 5.4 mg/kg Pool (N = 98) |
-| Drug-related TEAEs associatedwithdose reduction            | 28 (16.0)       | 26 (30.6)    | 62 (16.4)                            | 41 (27.2)      | 34 (49.3)    | 98 (24.3)                           | 8 (17.8)       | 4 (23.5)     | 19 (19.4)                           |
-| Drug-related TEAEs associated with study drug interruption | 39 (22.3)       | 29 (34.1)    | 97 (25.7)                            | 53 (35.1)      | 27 (39.1)    | 152 (37.6)                          | 14 (31.1)      | 6 (35.3)     | 34 (34.7)                           |
-| Drug-related TEAEs associatedwith anoutcome of deathb      | 7 (4.0)         | 0            | 10 (2.7)                             | 0              | 0            | 1 (0.2)                             | 0              | 0            | 0                                   |
+| Parameter                                                  | White           | White        | White                                 | Asian           | Asian        | Asian                                 | Other          | Other        | Other                                |
+|------------------------------------------------------------|-----------------|--------------|---------------------------------------|-----------------|--------------|---------------------------------------|----------------|--------------|--------------------------------------|
+| Parameter                                                  | T-DXd (N = 175) | TPC (N = 85) | All BC T-DXd 5.4 mg/kg Pool (N = 377) | T-DXd (N = 151) | TPC (N = 69) | All BC T-DXd 5.4 mg/kg Pool (N = 404) | T-DXd (N = 45) | TPC (N = 17) | All BC T-DXd 5.4 mg/kg Pool (N = 98) |
+| Drug-related TEAEs associated with dose reduction          | 28 (16.0)       | 26 (30.6)    | 62 (16.4)                             | 41 (27.2)       | 34 (49.3)    | 98 (24.3)                             | 8 (17.8)       | 4 (23.5)     | 19 (19.4)                            |
+| Drug-related TEAEs associated with study drug interruption | 39 (22.3)       | 29 (34.1)    | 97 (25.7)                             | 53 (35.1)       | 27 (39.1)    | 152 (37.6)                            | 14 (31.1)      | 6 (35.3)     | 34 (34.7)                            |
+| Drug-related TEAEs associated with an outcome of death b   | 7 (4.0)         | 0            | 10 (2.7)                              | 0               | 0            | 1 (0.2)                               | 0              | 0            | 0                                    |
 
-Percentageswerecalculated usingthenumber ofsubjectsinthecategoryasthedenominator.
+Percentages were calculated using the number of subjects in the category as the denominator.
 
-BC =breast cancer; CTCAE=Common Terminology Criteria for Adverse Events,Version 5.0; N=total number of treated subjects;T-DXd =trastuzumab deruxtecan;TEAE=treatment-emergent adverse event;TPC=treatment of physician'schoice
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-A subject was counted once at the maximum severity.
+a A subject was counted once at the maximum severity.
 
-cIf relationshipwasmissing,theTEAEwas considered tobe related to the drug.
+If relationship was missing, the TEAE was considered to be related to the drug.
 
-bFor specific TEAEs associated with outcome of death,refer toTable 2.10.
+bFor specific TEAEs associated with outcome of death, refer toTable 2.10.
 
-Source:Module 5.3.5.3 SCS Tables 1.4.2,1.4.3
+Source: Module 5.3.5.3 SCS Tables 1.4.2, 1.4.3
 
 <div style=\"page-break-after: always\"></div>
 
 Table 70: Overall Summary of Treatment-emergent Adverse Events by ECOG Performance Status (Safety Analysis Set)
 
-| Parameter                                                     | ECOGPerformanceStatus 0   | ECOGPerformanceStatus 0   | ECOGPerformanceStatus 0             | ECOGPerformanceStatus1   | ECOGPerformanceStatus1   | ECOGPerformanceStatus1              |
-|---------------------------------------------------------------|---------------------------|---------------------------|-------------------------------------|--------------------------|--------------------------|-------------------------------------|
-| Parameter                                                     | T-DXd (N =199)            | TPC (N = 95)              | AllBC T-DXd 5.4 mg/kg Pool (N =502) | T-DXd (N = 172)          | TPC (N = 77)             | AllBC T-DXd 5.4 mg/kg Pool (N =380) |
-| Duration of treatment (months)                                |                           |                           |                                     |                          |                          |                                     |
-| Median                                                        | 8.67                      | 3.48                      | 11.35                               | 6.90                     | 3.35                     | 8.36                                |
-| Minimum, Maximum                                              | 0.4, 33.3                 | 0.3, 17.6                 | 0.4, 33.3                           | 0.2, 24.8                | 0.4, 17.4                | 0.2, 37.1                           |
-| Subjects with any TEAE                                        | 197 (99.0)                | 92 (96.8)                 | 497 (99.0)                          | 172 (100.0)              | 77 (100.0)               | 380 (100.0)                         |
-| TEAEs with worst CTCAE>Grade 3 a                              | 93 (46.7)                 | 58 (61.1)                 | 253 (50.4)                          | 102 (59.3)               | 58 (75.3)                | 225 (59.2)                          |
-| Serious TEAEs                                                 | 37 (18.6)                 | 21 (22.1)                 | 96 (19.1)                           | 66 (38.4)                | 22 (28.6)                | 125 (32.9)                          |
-| TEAEs associatedwithstudydrugdiscontinuation                  | 30 (15.1)                 | 8 (8.4)                   | 80 (15.9)                           | 30 (17.4)                | 6 (7.8)                  | 63 (16.6)                           |
-| TEAEs associatedwithdosereduction                             | 37 (18.6)                 | 39 (41.1)                 | 92 (18.3)                           | 47 (27.3)                | 27 (35.1)                | 103 (27.1)                          |
-| TEAEs associated with study drug interruption                 | 74 (37.2)                 | 39 (41.1)                 | 205 (40.8)                          | 69 (40.1)                | 33 (42.9)                | 164 (43.2)                          |
-| TEAEs associatedwith an outcome of deathb                     | 3 (1.5)                   | 1 (1.1)                   | 10 (2.0)                            | 11 (6.4)                 | 4 (5.2)                  | 21 (5.5)                            |
-| Subjects with any drug-related TEAE c                         | 194 (97.5)                | 86 (90.5)                 | 494 (98.4)                          | 163 (94.8)               | 76 (98.7)                | 367 (96.6)                          |
-| Drug-related TEAEs withworst CTCAE>Grade3a                    | 78 (39.2)                 | 50 (52.6)                 | 219 (43.6)                          | 76 (44.2)                | 49 (63.6)                | 177 (46.6)                          |
-| Drug-related serious TEAEs                                    | 20 (10.1)                 | 10 (10.5)                 | 56 (11.2)                           | 28 (16.3)                | 9 (11.7)                 | 56 (14.7)                           |
-| Drug-related TEAEs associated with study drug discontinuation | 28 (14.1)                 | 8 (8.4)                   | 76 (15.1)                           | 28 (16.3)                | 4 (5.2)                  | 57 (15.0)                           |
-| Drug-related TEAEs associatedwith dose reduction              | 36 (18.1)                 | 38 (40.0)                 | 88 (17.5)                           | 41 (23.8)                | 26 (33.8)                | 93 (24.5)                           |
-| Drug-related TEAEs associated with study drug interruption    | 61 (30.7)                 | 36 (37.9)                 | 170 (33.9)                          | 45 (26.2)                | 26 (33.8)                | 116 (30.5)                          |
-| Drug-related TEAEs associated with an outcome of death b      | 3 (1.5)                   | 0                         | 6 (1.2)                             | 4 (2.3)                  | 0                        | 5 (1.3)                             |
+| Parameter                                                     | ECOG Performance Status 0   | ECOG Performance Status 0   | ECOG Performance Status 0             | ECOG Performance Status 1   | ECOG Performance Status 1   | ECOG Performance Status 1             |
+|---------------------------------------------------------------|-----------------------------|-----------------------------|---------------------------------------|-----------------------------|-----------------------------|---------------------------------------|
+|                                                               | T-DXd (N = 199)             | TPC (N = 95)                | All BC T-DXd 5.4 mg/kg Pool (N = 502) | T-DXd (N = 172)             | TPC (N = 77)                | All BC T-DXd 5.4 mg/kg Pool (N = 380) |
+| Duration of treatment (months)                                |                             |                             |                                       |                             |                             |                                       |
+| Median                                                        | 8.67                        | 3.48                        | 11.35                                 | 6.90                        | 3.35                        | 8.36                                  |
+| Minimum, Maximum                                              | 0.4, 33.3                   | 0.3,17.6                    | 0.4, 33.3                             | 0.2,24.8                    | 0.4,17.4                    | 0.2, 37.1                             |
+| Subjects with any TEAE                                        | 197 (99.0)                  | 92 (96.8)                   | 497 (99.0)                            | 172 (100.0)                 | 77 (100.0)                  | 380 (100.0)                           |
+| TEAEs with worst CTCAE ≥Grade 3 a                             | 93 (46.7)                   | 58 (61.1)                   | 253 (50.4)                            | 102 (59.3)                  | 58 (75.3)                   | 225 (59.2)                            |
+| Serious TEAEs                                                 | 37 (18.6)                   | 21 (22.1)                   | 96 (19.1)                             | 66 (38.4)                   | 22 (28.6)                   | 125 (32.9)                            |
+| TEAEs associated with study drug discontinuation              | 30 (15.1)                   | 8 (8.4)                     | 80 (15.9)                             | 30 (17.4)                   | 6 (7.8)                     | 63 (16.6)                             |
+| TEAEs associated with dose reduction                          | 37 (18.6)                   | 39 (41.1)                   | 92 (18.3)                             | 47 (27.3)                   | 27 (35.1)                   | 103 (27.1)                            |
+| TEAEs associated with study drug interruption                 | 74 (37.2)                   | 39 (41.1)                   | 205 (40.8)                            | 69 (40.1)                   | 33 (42.9)                   | 164 (43.2)                            |
+| TEAEs associated with an outcome of death b                   | 3 (1.5)                     | 1 (1.1)                     | 10 (2.0)                              | 11 (6.4)                    | 4 (5.2)                     | 21 (5.5)                              |
+| Subjects with any drug-related TEAE                           | 194 (97.5)                  | 86 (90.5)                   | 494 (98.4)                            | 163 (94.8)                  | 76 (98.7)                   | 367 (96.6)                            |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 78 (39.2)                   | 50 (52.6)                   | 219 (43.6)                            | 76 (44.2)                   | 49 (63.6)                   | 177 (46.6)                            |
+| Drug-related serious TEAEs                                    | 20 (10.1)                   | 10 (10.5)                   | 56 (11.2)                             | 28 (16.3)                   | 9 (11.7)                    | 56 (14.7)                             |
+| Drug-related TEAEs associated with study drug discontinuation | 28 (14.1)                   | 8 (8.4)                     | 76 (15.1)                             | 28 (16.3)                   | 4 (5.2)                     | 57 (15.0)                             |
+| Drug-related TEAEs associated with dose reduction             | 36 (18.1)                   | 38 (40.0)                   | 88 (17.5)                             | 41 (23.8)                   | 26 (33.8)                   | 93 (24.5)                             |
+| Drug-related TEAEs associated with study drug interruption    | 61 (30.7)                   | 36 (37.9)                   | 170 (33.9)                            | 45 (26.2)                   | 26 (33.8)                   | 116 (30.5)                            |
+| Drug-related TEAEs associated with an outcome of death b      | 3 (1.5)                     | 0                           | 6 (1.2)                               | 4 (2.3)                     | 0                           | 5(1.3)                                |
 
-Percentageswerecalculatedusingthenumberofsubjectsinthecategoryasthedenominator.
+Percentages were calculated using the number of subjects in the category as the denominator.
 
-BC =breast cancer; CTCAE = Common Terminology Criteria for Adverse Events,Version 5.0; ECOG=Eastern Cooperative Oncology Group; N= total number of treated subjects;T-DXd=trastuzumab deruxtecan;TEAE=treatment-emergent adverse event;TPC=treatment of physician'schoice
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; ECOG = Eastern Cooperative Oncology Group; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-aA subject was counted once at themaximum severity.
+a A subject was counted once at the maximum severity.
 
-cIf relationship was missing, the TEAE was considered to be related to the drug.
+If relationship was missing, the TEAE was considered to be related to the drug. Source: Module 5.3.5.3 SCS Tables 1.4.2, 1.4.3
 
 For specific TEAEs associated with an outcome of death, refer toTable 2.10.
-
-Source: Module 5.3.5.3 SCS Tables 1.4.2,1.4.3
 
 Table 71: Overall Summary of Treatment-emergent Adverse Events by Baseline Renal Function (Safety Analysis Set)
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                                                     | Normal Renal Function       | Normal Renal Function       | Normal Renal Function                | Mild Renal Impairment       | Mild Renal Impairment       | Mild Renal Impairment               | ModerateRenalImpairment     | ModerateRenalImpairment     | ModerateRenalImpairment             |
-|---------------------------------------------------------------|-----------------------------|-----------------------------|--------------------------------------|-----------------------------|-----------------------------|-------------------------------------|-----------------------------|-----------------------------|-------------------------------------|
-| Parameter                                                     | T-DXd (N =201)              | TPC (N = 80)                | AIlBC T-DXd 5.4 mg/kg Pool (N = 456) | T-DXd (N =123)              | TPC (N = 65)                | AIlBC T-DXd 5.4 mg/kg Pool (N =319) | T-DXd (N = 41)              | TPC (N = 23)                | AllBC T-DXd 5.4 mg/kg Pool (N =101) |
-| Durationoftreatment(months)                                   | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)          | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)         | Durationoftreatment(months) | Durationoftreatment(months) | Durationoftreatment(months)         |
-| Median                                                        | 8.21                        | 3.42                        | 10.58                                | 7.59                        | 2.99                        | 9.89                                | 7.62                        | 4.63                        | 8.21                                |
-| Minimum,Maximum                                               | 0.4, 33.3                   | 0.3, 17.5                   | 0.4, 33.3                            | 0.2, 25.5                   | 0.3, 17.6                   | 0.2,37.1                            | 0.7, 22.1                   | 0.4, 17.4                   | 0.7, 28.3                           |
-| Subjects with any TEAE                                        | 200 (99.5)                  | 79 (98.8)                   | 453 (99.3)                           | 122 (99.2)                  | 63 (96.9)                   | 318 (99.7)                          | 41 (100.0)                  | 23 (100.0)                  | 100 (99.0)                          |
-| TEAEs with worst CTCAE ≥Grade 3 a                             | 101 (50.2)                  | 53 (66.3)                   | 240 (52.6)                           | 63 (51.2)                   | 45 (69.2)                   | 176 (55.2)                          | 26 (63.4)                   | 16 (69.6)                   | 57 (56.4)                           |
-| Serious TEAEs                                                 | 51 (25.4)                   | 19 (23.8)                   | 111 (24.3)                           | 36 (29.3)                   | 18 (27.7)                   | 76 (23.8)                           | 15 (36.6)                   | 6 (26.1)                    | 34 (33.7)                           |
-| TEAEs associated with study drug discontinuation              | 26 (12.9)                   | 7 (8.8)                     | 64 (14.0)                            | 20 (16.3)                   | 5 (7.7)                     | 46 (14.4)                           | 12 (29.3)                   | 1 (4.3)                     | 30 (29.7)                           |
-| TEAEsassociatedwith dose reduction                            | 41 (20.4)                   | 29 (36.3)                   | 97 (21.3)                            | 31 (25.2)                   | 23 (35.4)                   | 71 (22.3)                           | 9 (22.0)                    | 13 (56.5)                   | 24 (23.8)                           |
-| TEAEsassociatedwithstudy drug interruption                    | 71 (35.3)                   | 33 (41.3)                   | 181 (39.7)                           | 50 (40.7)                   | 25 (38.5)                   | 139 (43.6)                          | 19 (46.3)                   | 14 (60.9)                   | 45 (44.6)                           |
-| TEAEs associated with an outcome of deathb                    | 5 (2.5)                     | 2 (2.5)                     | 14 (3.1)                             | 5 (4.1)                     | 3 (4.6)                     | 12 (3.8)                            | 4 (9.8)                     | 0                           | 6 (5.9)                             |
-| Subjects with any drug-related TEAE c                         | 194 (96.5)                  | 76 (95.0)                   | 445 (97.6)                           | 118 (95.9)                  | 60 (92.3)                   | 313 (98.1)                          | 39 (95.1)                   | 22 (95.7)                   | 97 (96.0)                           |
-| Drug-related TEAEs with worst CTCAE ≥Grade 3a                 | 78 (38.8)                   | 43 (53.8)                   | 196 (43.0)                           | 52 (42.3)                   | 40 (61.5)                   | 148 (46.4)                          | 20 (48.8)                   | 14 (60.9)                   | 48 (47.5)                           |
-| Drug-related serious TEAEs                                    | 25 (12.4)                   | 9 (11.3)                    | 63 (13.8)                            | 16 (13.0)                   | 7 (10.8)                    | 31 (9.7)                            | 7 (17.1)                    | 3 (13.0)                    | 18 (17.8)                           |
-| Drug-related TEAEs associated with study drug discontinuation | 24 (11.9)                   | 6 (7.5)                     | 59 (12.9)                            | 18 (14.6)                   | 4 (6.2)                     | 43 (13.5)                           | 12 (29.3)                   | 1 (4.3)                     | 28 (27.7)                           |
+| Parameter                                                     | Normal Renal Function          | Normal Renal Function          | Normal Renal Function                 | Mild Renal Impairment          | Mild Renal Impairment          | Mild Renal Impairment                 | Moderate Renal Impairment      | Moderate Renal Impairment      | Moderate Renal Impairment             |
+|---------------------------------------------------------------|--------------------------------|--------------------------------|---------------------------------------|--------------------------------|--------------------------------|---------------------------------------|--------------------------------|--------------------------------|---------------------------------------|
+| Parameter                                                     | T-DXd (N = 201)                | TPC (N = 80)                   | All BC T-DXd 5.4 mg/kg Pool (N = 456) | T-DXd (N = 123)                | TPC (N = 65)                   | All BC T-DXd 5.4 mg/kg Pool (N = 319) | T-DXd (N = 41)                 | TPC (N = 23)                   | All BC T-DXd 5.4 mg/kg Pool (N = 101) |
+| Duration of treatment (months)                                | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)        | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)        | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)        |
+| Median                                                        | 8.21                           | 3.42                           | 10.58                                 | 7.59                           | 2.99                           | 9.89                                  | 7.62                           | 4.63                           | 8.21                                  |
+| Minimum, Maximum                                              | 0.4, 33.3                      | 0.3, 17.5                      | 0.4,33.3                              | 0.2, 25.5                      | 0.3, 17.6                      | 0.2, 37.1                             | 0.7, 22.1                      | 0.4, 17.4                      | 0.7,28.3                              |
+| Subjects with any TEAE                                        | 200 (99.5)                     | 79 (98.8)                      | 453 (99.3)                            | 122 (99.2)                     | 63 (96.9)                      | 318 (99.7)                            | 41 (100.0)                     | 23 (100.0)                     | 100 (99.0)                            |
+| TEAEs with worst CTCAE ≥Grade 3 a                             | 101 (50.2)                     | 53 (66.3)                      | 240 (52.6)                            | 63 (51.2)                      | 45 (69.2)                      | 176 (55.2)                            | 26 (63.4)                      | 16 (69.6)                      | 57 (56.4)                             |
+| Serious TEAEs                                                 | 51 (25.4)                      | 19 (23.8)                      | 111 (24.3)                            | 36 (29.3)                      | 18 (27.7)                      | 76 (23.8)                             | 15 (36.6)                      | 6 (26.1)                       | 34 (33.7)                             |
+| TEAEs associated with study drug discontinuation              | 26 (12.9)                      | 7 (8.8)                        | 64 (14.0)                             | 20 (16.3)                      | 5(7.7)                         | 46 (14.4)                             | 12 (29.3)                      | 1 (4.3)                        | 30 (29.7)                             |
+| TEAEs associated with dose reduction                          | 41 (20.4)                      | 29 (36.3)                      | 97 (21.3)                             | 31 (25.2)                      | 23 (35.4)                      | 71 (22.3)                             | 9 (22.0)                       | 13 (56.5)                      | 24 (23.8)                             |
+| TEAEs associated with study drug interruption                 | 71 (35.3)                      | 33 (41.3)                      | 181 (39.7)                            | 50 (40.7)                      | 25 (38.5)                      | 139 (43.6)                            | 19 (46.3)                      | 14 (60.9)                      | 45 (44.6)                             |
+| TEAEs associated with an outcome of death b                   | 5 (2.5)                        | 2 (2.5)                        | 14 (3.1)                              | 5 (4.1)                        | 3 (4.6)                        | 12 (3.8)                              | 4 (9.8)                        | 0                              | 6 (5.9)                               |
+| Subjects with any drug-related TEAE                           | 194 (96.5)                     | 76 (95.0)                      | 445 (97.6)                            | 118 (95.9)                     | 60 (92.3)                      | 313 (98.1)                            | 39 (95.1)                      | 22 (95.7)                      | 97 (96.0)                             |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 78 (38.8)                      | 43 (53.8)                      | 196 (43.0)                            | 52 (42.3)                      | 40 (61.5)                      | 148 (46.4)                            | 20 (48.8)                      | 14 (60.9)                      | 48 (47.5)                             |
+| Drug-related serious TEAEs                                    | 25 (12.4)                      | 9 (11.3)                       | 63 (13.8)                             | 16 (13.0)                      | 7 (10.8)                       | 31 (9.7)                              | 7 (17.1)                       | 3 (13.0)                       | 18 (17.8)                             |
+| Drug-related TEAEs associated with study drug discontinuation | 24 (11.9)                      | 6 (7.5)                        | 59 (12.9)                             | 18 (14.6)                      | 4 (6.2)                        | 43 (13.5)                             | 12 (29.3)                      | 1 (4.3)                        | 28 (27.7)                             |
 
-| Parameter                                                  | Normal Renal Function   | Normal Renal Function   | Normal Renal Function                | Mild Renal Impairment   | Mild Renal Impairment   | Mild Renal Impairment               | Moderate Renal Impairment   | Moderate Renal Impairment   | Moderate Renal Impairment           |
-|------------------------------------------------------------|-------------------------|-------------------------|--------------------------------------|-------------------------|-------------------------|-------------------------------------|-----------------------------|-----------------------------|-------------------------------------|
-| Parameter                                                  | T-DXd (N=201)           | TPC (N =80)             | AllBC T-DXd 5.4 mg/kg Pool (N = 456) | T-DXd (N =123)          | TPC (N =65)             | AIlBC T-DXd 5.4 mg/kg Pool (N =319) | T-DXd (N = 41)              | TPC (N =23)                 | AllBC T-DXd 5.4 mg/kg Pool (N =101) |
-| Drug-related TEAEs associated with dose reduction          | 39 (19.4)               | 29 (36.3)               | 93 (20.4)                            | 27 (22.0)               | 23 (35.4)               | 64 (20.1)                           | 8 (19.5)                    | 11 (47.8)                   | 21 (20.8)                           |
-| Drug-related TEAEs associated with study drug interruption | 52 (25.9)               | 29 (36.3)               | 142 (31.1)                           | 39 (31.7)               | 23 (35.4)               | 106 (33.2)                          | 12 (29.3)                   | 10 (43.5)                   | 34 (33.7)                           |
-| Drug-related TEAEs associatedwith an outcome of deathb     | 3 (1.5)                 | 0                       | 6 (1.3)                              | 2 (1.6)                 | 0                       | 2 (0.6)                             | 2 (4.9)                     | 0                           | 3 (3.0)                             |
+| Parameter                                                  | Normal Renal Function   | Normal Renal Function   | Normal Renal Function                 | Mild Renal Impairment   | Mild Renal Impairment   | Mild Renal Impairment                 | Moderate Renal Impairment   | Moderate Renal Impairment   | Moderate Renal Impairment             |
+|------------------------------------------------------------|-------------------------|-------------------------|---------------------------------------|-------------------------|-------------------------|---------------------------------------|-----------------------------|-----------------------------|---------------------------------------|
+| Parameter                                                  | T-DXd (N = 201)         | TPC (N = 80)            | All BC T-DXd 5.4 mg/kg Pool (N = 456) | T-DXd (N = 123)         | TPC (N = 65)            | All BC T-DXd 5.4 mg/kg Pool (N = 319) | T-DXd (N = 41)              | TPC (N = 23)                | All BC T-DXd 5.4 mg/kg Pool (N = 101) |
+| Drug-related TEAEs associated with dose reduction          | 39 (19.4)               | 29 (36.3)               | 93 (20.4)                             | 27 (22.0)               | 23 (35.4)               | 64 (20.1)                             | 8 (19.5)                    | 11 (47.8)                   | 21 (20.8)                             |
+| Drug-related TEAEs associated with study drug interruption | 52 (25.9)               | 29 (36.3)               | 142 (31.1)                            | 39 (31.7)               | 23 (35.4)               | 106 (33.2)                            | 12 (29.3)                   | 10 (43.5)                   | 34 (33.7)                             |
+| Drug-related TEAEs associated with an outcome of death b   | 3 (1.5)                 | 0                       | 6 (1.3)                               | 2 (1.6)                 | 0                       | 2 (0.6)                               | 2 (4.9)                     | 0                           | 3 (3.0)                               |
 
-BC =breast cancer; CTCAE =Common Terminology Criteria for Adverse Events,Version 5.0; N=total number of treated subjects; T-DXd = trastuzumab deruxtecan;TEAE=treatment-emergent adverse event;TPC=treatment of physician's choice Percentageswerecalculatedusingthenumberofsubjectsinthecategory asthedenominator.
+Percentages were calculated using the number of subjects in the category as the denominator.
 
-aA subject was counted once at the maximum severity.
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-cIf relationshipwasmissing,theTEAEwas considered tobe related to the drug.
+a A subject was counted once at the maximum severity.
 
-bFor specific TEAEs associated with an outcome of death,refer toTable 2.10.
+bFor specific TEAEs associated with an outcome of death, refer toTable 2.10.
 
-Source:Module 5.3.5.3 SCS Tables 1.4.2,1.4.3
+If relationship was missing, the TEAE was considered to be related to the drug. Source: Module 5.3.5.3 SCS Tables 1.4.2, 1.4.3
 
 Table 72: Overall Summary of Treatment-emergent Adverse Events by Baseline Hepatic Function (Safety Analysis Set)
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                                                     | Normal Hepatic Function   | Normal Hepatic Function   | Normal Hepatic Function              | Mild HepaticImpairment   | Mild HepaticImpairment   | Mild HepaticImpairment               |
-|---------------------------------------------------------------|---------------------------|---------------------------|--------------------------------------|--------------------------|--------------------------|--------------------------------------|
-|                                                               | T-DXd (N =170)            | TPC (N = 88)              | All BC T-DXd 5.4 mg/kg Pool (N =520) | T-DXd (N = 194)          | TPC (N =82)              | All BC T-DXd 5.4 mg/kg Pool (N =353) |
-| Durationoftreatment(months)                                   |                           |                           |                                      |                          |                          |                                      |
-| Median                                                        | 9.61                      | 4.11                      | 12.27                                | 6.85                     | 2.94                     | 8.21                                 |
-| Minimum,Maximum                                               | 0.4, 33.3                 | 0.3, 17.5                 | 0.4, 37.1                            | 0.2, 25.5                | 0.3, 17.6                | 0.2,29.0                             |
-| Subjects with any TEAE                                        | 168 (98.8)                | 88 (100.0)                | 515 (99.0)                           | 194 (100.0)              | 79 (96.3)                | 353 (100.0)                          |
-| TEAEswithworst CTCAE>Grade 3a                                 | 86 (50.6)                 | 58 (65.9)                 | 274 (52.7)                           | 104 (53.6)               | 57 (69.5)                | 197 (55.8)                           |
-| Serious TEAEs                                                 | 51 (30.0)                 | 17 (19.3)                 | 128 (24.6)                           | 49 (25.3)                | 26 (31.7)                | 90 (25.5)                            |
-| TEAEsassociatedwithstudydrugdiscontinuation                   | 23 (13.5)                 | 9 (10.2)                  | 82 (15.8)                            | 36 (18.6)                | 5 (6.1)                  | 59 (16.7)                            |
-| TEAEs associatedwithdosereduction                             | 40 (23.5)                 | 33 (37.5)                 | 117 (22.5)                           | 43 (22.2)                | 32 (39.0)                | 75 (21.2)                            |
-| TEAEs associated with study drug interruption                 | 69 (40.6)                 | 42 (47.7)                 | 224 (43.1)                           | 70 (36.1)                | 30 (36.6)                | 140 (39.7)                           |
-| TEAEs associated with an outcome of deathb                    | 4 (2.4)                   | 0                         | 15 (2.9)                             | 9 (4.6)                  | 5 (6.1)                  | 16 (4.5)                             |
-| Subjects with any drug-related TEAE c                         | 164 (96.5)                | 86 (97.7)                 | 508 (97.7)                           | 187 (96.4)               | 74 (90.2)                | 345 (97.7)                           |
-| Drug-related TEAEs with worst CTCAE>Grade 3 a                 | 67 (39.4)                 | 54 (61.4)                 | 227 (43.7)                           | 84 (43.3)                | 44 (53.7)                | 164 (46.5)                           |
-| Drug-related serious TEAEs                                    | 24 (14.1)                 | 9 (10.2)                  | 66 (12.7)                            | 24 (12.4)                | 10 (12.2)                | 46 (13.0)                            |
-| Drug-related TEAEs associated with study drug discontinuation | 22 (12.9)                 | 8 (9.1)                   | 76 (14.6)                            | 34 (17.5)                | 4 (4.9)                  | 56 (15.9)                            |
-| Drug-related TEAEs associated with dose reduction             | 37 (21.8)                 | 31 (35.2)                 | 108 (20.8)                           | 39 (20.1)                | 32 (39.0)                | 70 (19.8)                            |
-| Drug-related TEAEs associated with study drug interruption    | 51 (30.0)                 | 38 (43.2)                 | 170 (32.7)                           | 53 (27.3)                | 24 (29.3)                | 113 (32.0)                           |
-| Drug-relatedTEAEs associatedwith an outcomeofdeathb           | 3 (1.8)                   | 0                         | 7 (1.3)                              | 4 (2.1)                  | 0                        | 4 (1.1)                              |
-
-BC=breast cancer; CTCAE=Common Terminology Criteria for Adverse Events,Version 5.0;N=total number of treated subjects;T-DXd=trastuzumab deruxtecan;TEAE= treatment-emergent adverse event;TPC = treatment of physician's choice
+| Parameter                                                     | Normal Hepatic Function   | Normal Hepatic Function   | Normal Hepatic Function               | Mild Hepatic Impairment   | Mild Hepatic Impairment   | Mild Hepatic Impairment               |
+|---------------------------------------------------------------|---------------------------|---------------------------|---------------------------------------|---------------------------|---------------------------|---------------------------------------|
+|                                                               | T-DXd (N = 170)           | TPC (N = 88)              | All BC T-DXd 5.4 mg/kg Pool (N = 520) | T-DXd (N = 194)           | TPC (N = 82)              | All BC T-DXd 5.4 mg/kg Pool (N = 353) |
+| Duration of treatment (months)                                |                           |                           |                                       |                           |                           |                                       |
+| Median                                                        | 9.61                      | 4.11                      | 12.27                                 | 6.85                      | 2.94                      | 8.21                                  |
+| Minimum, Maximum                                              | 0.4, 33.3                 | 0.3, 17.5                 | 0.4, 37.1                             | 0.2, 25.5                 | 0.3, 17.6                 | 0.2, 29.0                             |
+| Subjects with any TEAE                                        | 168 (98.8)                | 88 (100.0)                | 515 (99.0)                            | 194 (100.0)               | 79 (96.3)                 | 353 (100.0)                           |
+| TEAEs with worst CTCAE ≥Grade 3 a                             | 86 (50.6)                 | 58 (65.9)                 | 274 (52.7)                            | 104 (53.6)                | 57 (69.5)                 | 197 (55.8)                            |
+| Serious TEAEs                                                 | 51 (30.0)                 | 17 (19.3)                 | 128 (24.6)                            | 49 (25.3)                 | 26 (31.7)                 | 90 (25.5)                             |
+| TEAEs associated with study drug discontinuation              | 23 (13.5)                 | 9 (10.2)                  | 82 (15.8)                             | 36 (18.6)                 | 5 (6.1)                   | 59 (16.7)                             |
+| TEAEs associated with dose reduction                          | 40 (23.5)                 | 33 (37.5)                 | 117 (22.5)                            | 43 (22.2)                 | 32 (39.0)                 | 75 (21.2)                             |
+| TEAEs associated with study drug interruption                 | 69 (40.6)                 | 42 (47.7)                 | 224 (43.1)                            | 70 (36.1)                 | 30 (36.6)                 | 140 (39.7)                            |
+| TEAEs associated with an outcome of death b                   | 4 (2.4)                   | 0                         | 15 (2.9)                              | 9 (4.6)                   | 5 (6.1)                   | 16 (4.5)                              |
+| Subjects with any drug-related TEAE                           | 164 (96.5)                | 86 (97.7)                 | 508 (97.7)                            | 187 (96.4)                | 74 (90.2)                 | 345 (97.7)                            |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 67 (39.4)                 | 54 (61.4)                 | 227 (43.7)                            | 84 (43.3)                 | 44 (53.7)                 | 164 (46.5)                            |
+| Drug-related serious TEAEs                                    | 24 (14.1)                 | 9 (10.2)                  | 66 (12.7)                             | 24 (12.4)                 | 10 (12.2)                 | 46 (13.0)                             |
+| Drug-related TEAEs associated with study drug discontinuation | 22 (12.9)                 | 8 (9.1)                   | 76 (14.6)                             | 34 (17.5)                 | 4 (4.9)                   | 56 (15.9)                             |
+| Drug-related TEAEs associated with dose reduction             | 37 (21.8)                 | 31 (35.2)                 | 108 (20.8)                            | 39 (20.1)                 | 32 (39.0)                 | 70 (19.8)                             |
+| Drug-related TEAEs associated with study drug interruption    | 51 (30.0)                 | 38 (43.2)                 | 170 (32.7)                            | 53 (27.3)                 | 24 (29.3)                 | 113 (32.0)                            |
+| Drug-related TEAEs associated with an outcome of death b      | 3 (1.8)                   | 0                         | 7 (1.3)                               | 4 (2.1)                   | 0                         | 4 (1.1)                               |
 
 Percentages were calculated using the number of subjects in the category as the denominator.
 
-A subject was counted once at the maximum severity.
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-c If relationship was missing, the TEAE was considered to be related to the drug.
+a A subject was counted once at the maximum severity.
 
-bFor specific TEAEs associated with an outcome of death, refer to Table 2.10.
+e If relationship was missing, the TEAE was considered to be related to the drug.
 
-Source:Module 5.3.5.3 SCS Tables 1.4.2,1.4.3
+b For specific TEAEs associated with an outcome of death, refer toTable 2.10.
+
+Source: Module 5.3.5.3 SCS Tables 1.4.2, 1.4.3
 
 ## Extrinsic factors
 
@@ -4109,89 +3910,87 @@ Table 73: Overall Summary of Treatment-emergent Adverse Events in Study U303 by 
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                                                     | Japan          | Japan        | Japan                               | Non-Japan      | Non-Japan    | Non-Japan                            |
-|---------------------------------------------------------------|----------------|--------------|-------------------------------------|----------------|--------------|--------------------------------------|
-|                                                               | T-DXd (N = 56) | TPC (N = 29) | AllBCT-DXd 5.4 mg/kg Pool (N = 148) | T-DXd (N =315) | TPC (N =143) | AllBC T-DXd 5.4 mg/kg Pool (N = 735) |
-| Duration of treatment(months)                                 |                |              |                                     |                |              |                                      |
-| Median                                                        | 6.08           | 2.76         | 9.66                                | 8.25           | 3.52         | 9.99                                 |
-| Minimum,Maximum                                               | 0.7, 33.3      | 0.5, 17.5    | 0.7, 37.1                           | 0.2, 28.1      | 0.3, 17.6    | 0.2, 31.7                            |
-| Subjectswith any TEAE                                         | 56 (100.0)     | 29 (100.0)   | 148 (100.0)                         | 313 (99.4)     | 140 (97.9)   | 730 (99.3)                           |
-| TEAEswithworst CTCAE>Grade3a                                  | 33 (58.9)      | 22 (75.9)    | 83 (56.1)                           | 162 (51.4)     | 94 (65.7)    | 396 (53.9)                           |
-| Serious TEAEs                                                 | 10 (17.9)      | 5 (17.2)     | 26 (17.6)                           | 93 (29.5)      | 38 (26.6)    | 196 (26.7)                           |
-| TEAEs associated with study drug discontinuation              | 16 (28.6)      | 2 (6.9)      | 41 (27.7)                           | 44 (14.0)      | 12 (8.4)     | 102 (13.9)                           |
-| TEAEsassociatedwithdosereduction                              | 13 (23.2)      | 13 (44.8)    | 30 (20.3)                           | 71 (22.5)      | 53 (37.1)    | 165 (22.4)                           |
-| TEAEsassociatedwithstudydruginterruption                      | 23 (41.1)      | 16 (55.2)    | 75 (50.7)                           | 120 (38.1)     | 56 (39.2)    | 294 (40.0)                           |
-| TEAEs associated with an outcome of deathb                    | 0              | 1 (3.4)      | 1 (0.7)                             | 14 (4.4)       | 4 (2.8)      | 31 (4.2)                             |
-| Subjects with any drug-related TEAE c                         | 55 (98.2)      | 29 (100.0)   | 147 (99.3)                          | 302 (95.9)     | 133 (93.0)   | 715 (97.3)                           |
-| Drug-related TEAEs with worst CTCAE >Grade 3 a                | 30 (53.6)      | 21 (72.4)    | 77 (52.0)                           | 124 (39.4)     | 78 (54.5)    | 320 (43.5)                           |
-| Drug-related serious TEAEs                                    | 6 (10.7)       | 3 (10.3)     | 16 (10.8)                           | 42 (13.3)      | 16 (11.2)    | 96 (13.1)                            |
-| Drug-related TEAEs associated with study drug discontinuation | 16 (28.6)      | 2 (6.9)      | 39 (26.4)                           | 40 (12.7)      | 10 (7.0)     | 94 (12.8)                            |
-| Drug-related TEAEs associated with dose reduction             | 12 (21.4)      | 13 (44.8)    | 29 (19.6)                           | 65 (20.6)      | 51 (35.7)    | 152 (20.7)                           |
-| Drug-related TEAEs associated with study drug interruption    | 21 (37.5)      | 15 (51.7)    | 65 (43.9)                           | 85 (27.0)      | 47 (32.9)    | 221 (30.1)                           |
-| Drug-related TEAEs associated with an outcome of death b      | 0              | 0            | 0                                   | 7 (2.2)        | 0            | 11 (1.5)                             |
+| Parameter                                                     | Japan          | Japan        | Japan                                 | Non-Japan       | Non-Japan     | Non-Japan                             |
+|---------------------------------------------------------------|----------------|--------------|---------------------------------------|-----------------|---------------|---------------------------------------|
+|                                                               | T-DXd (N = 56) | TPC (N = 29) | All BC T-DXd 5.4 mg/kg Pool (N = 148) | T-DXd (N = 315) | TPC (N = 143) | All BC T-DXd 5.4 mg/kg Pool (N = 735) |
+| Duration of treatment (months)                                |                |              |                                       |                 |               |                                       |
+| Median                                                        | 6.08           | 2.76         | 9.66                                  | 8.25            | 3.52          | 666                                   |
+| Minimum, Maximum                                              | 0.7, 33.3      | 0.5, 17.5    | 0.7, 37.1                             | 0.2, 28.1       | 0.3, 17.6     | 0.2, 31.7                             |
+| Subjects with any TEAE                                        | 56 (100.0)     | 29 (100.0)   | 148 (100.0)                           | 313 (99.4)      | 140 (97.9)    | 730 (99.3)                            |
+| TEAEs with worst CTCAE ≥Grade 3 a                             | 33 (58.9)      | 22 (75.9)    | 83 (56.1)                             | 162 (51.4)      | 94 (65.7)     | 396 (53.9)                            |
+| Serious TEAEs                                                 | 10 (17.9)      | 5 (17.2)     | 26 (17.6)                             | 93 (29.5)       | 38 (26.6)     | 196 (26.7)                            |
+| TEAEs associated with study drug discontinuation              | 16 (28.6)      | 2 (6.9)      | 41 (27.7)                             | 44 (14.0)       | 12 (8.4)      | 102 (13.9)                            |
+| TEAEs associated with dose reduction                          | 13 (23.2)      | 13 (44.8)    | 30 (20.3)                             | 71 (22.5)       | 53 (37.1)     | 165 (22.4)                            |
+| TEAEs associated with study drug interruption                 | 23 (41.1)      | 16 (55.2)    | 75 (50.7)                             | 120 (38.1)      | 56 (39.2)     | 294 (40.0)                            |
+| TEAEs associated with an outcome of death b                   | 0              | 1 (3.4)      | 1 (0.7)                               | 14 (4.4)        | 4 (2.8)       | 31 (4.2)                              |
+| Subjects with any drug-related TEAE                           | 55 (98.2)      | 29 (100.0)   | 147 (99.3)                            | 302 (95.9)      | 133 (93.0)    | 715 (97.3)                            |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 a                | 30 (53.6)      | 21 (72.4)    | 77 (52.0)                             | 124 (39.4)      | 78 (54.5)     | 320 (43.5)                            |
+| Drug-related serious TEAEs                                    | 6 (10.7)       | 3 (10.3)     | 16 (10.8)                             | 42 (13.3)       | 16 (11.2)     | 96 (13.1)                             |
+| Drug-related TEAEs associated with study drug discontinuation | 16 (28.6)      | 2 (6.9)      | 39 (26.4)                             | 40 (12.7)       | 10 (7.0)      | 94 (12.8)                             |
+| Drug-related TEAEs associated with dose reduction             | 12 (21.4)      | 13 (44.8)    | 29 (19.6)                             | 65 (20.6)       | 51 (35.7)     | 152 (20.7)                            |
+| Drug-related TEAEs associated with study drug interruption    | 21 (37.5)      | 15 (51.7)    | 65 (43.9)                             | 85 (27.0)       | 47 (32.9)     | 221 (30.1)                            |
+| Drug-related TEAEs associated with an outcome of death b      | 0              | 0            | 0                                     | 7 (2.2)         | 0             | 11 (1.5)                              |
 
-BC =breast cancer; CTCAE= Common Terminology Criteria for Adverse Events,Version 5.0; N= total number of treated subjects; T-DXd = trastuzumab
+Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
-deruxtecan;TEAE=treatment-emergentadverseevent;TPC=treatmentofphysician’schoice
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-Percentageswere calculated using thenumberof subjectsin theSafetyAnalysisSet as thedenominator.
+a A subject was counted once at the maximum severity.
 
-aA subject was counted once at themaximum severity.
+eIf relationship was missing, the TEAE was considered to be related to the drug.
 
-cIf relationship was missing, the TEAE was considered to be related to the drug.
+bFor specific TEAEs associated with an outcome of death, refer toTable 2.10.
 
-bFor specificTEAEs associatedwithanoutcomeof death,refertoTable2.10
-
-Source:Module 5.3.5.3 SCS Tables 1.4.2,1.4.3
+Source: Module 5.3.5.3 SCS Tables 1.4.2, 1.4.3
 
 Table 74: Overall Summary of Treatment-emergent Adverse Events by Geographic Region (Safety Analysis Set)
 
 <div style=\"page-break-after: always\"></div>
 
-| Parameter                                                  | Asia a                        | Asia a                        | Asia a                             | North Americab                | North Americab                | North Americab                     | Europe c                      | Europe c                      | Europe c                           | Rest of Worldd                | Rest of Worldd                | Rest of Worldd                      |
-|------------------------------------------------------------|-------------------------------|-------------------------------|------------------------------------|-------------------------------|-------------------------------|------------------------------------|-------------------------------|-------------------------------|------------------------------------|-------------------------------|-------------------------------|-------------------------------------|
-| Parameter                                                  | PXI-L (N = 147)               | TPC (N =63)                   | AIlBC T-DXd 5.4 mg/kg Pool (N=383) | T-DXd (N=58)                  | TPC (N =28)                   | AlBC T-DXd 5.4 mg/kg Pool (N =173) | PXI-L (N =154)                | TPC (N =73)                   | AllBC T-DXd 5.4 mg/kg Pool (N=274) | T-DXd (N =12)                 | TPC (N=8)                     | AllBC T-DXd 5.4 mg/kg Pool (N = 53) |
-| Duration of treatment(months)                              | Duration of treatment(months) | Duration of treatment(months) | Duration of treatment(months)      | Duration of treatment(months) | Duration of treatment(months) | Duration of treatment(months)      | Duration of treatment(months) | Duration of treatment(months) | Duration of treatment(months)      | Duration of treatment(months) | Duration of treatment(months) | Duration of treatment(months)       |
-| Median                                                     | 8.41                          | 3.52                          | 11.01                              | 6.96                          | 2.81                          | 8.57                               | 7.79                          | 3.35                          | 9.46                               | 8.44                          | 3.75                          | 14.45                               |
-| Minimum,Maximum                                            | 0.7, 33.3                     | 0.5, 17.5                     | 0.7, 37.1                          | 0.7, 24.3                     | 0.4, 9.8                      | 0.7, 31.7                          | 0.2, 28.1                     | 0.3, 17.6                     | 0.2, 28.5                          | 0.7,20.9                      | 1.8,17.4                      | 0.7, 28.5                           |
-| Subjects with any TEAE                                     | 147 (100.0)                   | 63 (100.0)                    | 382 (99.7)                         | 58 (100.0)                    | 27 (96.4)                     | 172 (99.4)                         | 152(98.7)                     | 71(97.3)                      | 271 (98.9)                         | 12 (100.0)                    | 8 (100.0)                     | 53 (100.0)                          |
-| TEAEs with worst CTCAE ≥Grade 3 e                          | 87 (59.2)                     | 48 (76.2)                     | 217 (56.7)                         | 29 (50.0)                     | 20 (71.4)                     | 94 (54.3)                          | 73 (47.4)                     | 43(58.9)                      | 141 (51.5)                         | 6 (50.0)                      | 5 (62.5)                      | 27 (50.9)                           |
-| SeriousTEAEs                                               | 38 (25.9)                     | 15 (23.8)                     | 83 (21.7)                          | 24 (41.4)                     | 6 (21.4)                      | 49 (28.3)                          | 36 (23.4)                     | 20(27.4)                      | 74 (27.0)                          | 5 (41.7)                      | 2 (25.0)                      | 16 (30.2)                           |
-| TEAEs associated with study drug discontinuation           | 26 (17.7)                     | 4 (6.3)                       | 71 (18.5)                          | 8 (13.8)                      | 2 (7.1)                       | 22 (12.7)                          | 23 (14.9)                     | 8 (11.0)                      | 40 (14.6)                          | 3 (25.0)                      | 0                             | 10 (18.9)                           |
-| TEAEs associated with dose reduction                       | 42 (28.6)                     | 30 (47.6)                     | 96 (25.1)                          | 7 (12.1)                      | 12 (42.9)                     | 33 (19.1)                          | 32 (20.8)                     | 21 (28.8)                     | 56 (20.4)                          | 3 (25.0)                      | 3 (37.5)                      | 10 (18.9)                           |
-| TEAEs associated with study drug interruption              | 60 (40.8)                     | 28 (44.4)                     | 172 (44.9)                         | 23 (39.7)                     | 13 (46.4)                     | 65 (37.6)                          | 53 (34.4)                     | 27 (37.0)                     | 109 (39.8)                         | 7 (58.3)                      | 4 (50.0)                      | 23 (43.4)                           |
-| TEAEs associated with an outcome of deathf                 | 2 (1.4)                       | 1 (1.6)                       | 5 (1.3)                            | 3 (5.2)                       | 0                             | 9 (5.2)                            | 8 (5.2)                       | 4 (5.5)                       | 15 (5.5)                           | 1 (8.3)                       | 0                             | 3 (5.7)                             |
-| Subjects with any drug- related TEAE                       | 146 (99.3)                    | 63 (100.0)                    | 379 (99.0)                         | 57 (98.3)                     | 25 (89.3)                     | 170 (98.3)                         | 144 (93.5)                    | 66 (90.4)                     | 263 (96.0)                         | 10 (83.3)                     | 8 (100.0)                     | 50 (94.3)                           |
-| Drug-related TEAEs with worst CTCAE ≥Grade3 e              | 77 (52.4)                     | 46 (73.0)                     | 193 (50.4)                         | 18 (31.0)                     | 14 (50.0)                     | 73 (42.2)                          | 55 (35.7)                     | 34 (46.6)                     | 112 (40.9)                         | 4 (33.3)                      | 5 (62.5)                      | 19 (35.8)                           |
-| Drug-related serious TEAEs                                 | 21 (14.3)                     | 10 (15.9)                     | 47 (12.3)                          | 9 (15.5)                      | 0                             | 22 (12.7)                          | 17 (11.0)                     | 7 (9.6)                       | 39 (14.2)                          | 1 (8.3)                       | 2 (25.0)                      | 4 (7.5)                             |
-| Drug-related TEAEs associatedwithstudy drugdiscontinuation | 25 (17.0)                     | 4 (6.3)                       | 67 (17.5)                          | 6 (10.3)                      | 1 (3.6)                       | 18 (10.4)                          | 22 (14.3)                     | 7 (9.6)                       | 38 (13.9)                          | 3 (25.0)                      | 0                             | 10 (18.9)                           |
+| Parameter                                                     | Asia a                         | Asia a                         | Asia a                              | North America b                | North America b                | North America b                      | Europe                         | Europe                         | Europe                              | Rest of World d                | Rest of World d                | Rest of World d                    |
+|---------------------------------------------------------------|--------------------------------|--------------------------------|-------------------------------------|--------------------------------|--------------------------------|--------------------------------------|--------------------------------|--------------------------------|-------------------------------------|--------------------------------|--------------------------------|------------------------------------|
+| Parameter                                                     | T-DXd (N = 147)                | TPC (N = 63)                   | All BC T-DXd 5.4 mg/kg Pool (N=383) | T-DXd (N =58)                  | TPC (N=28)                     | All BC T-DXd 5.4 mg/kg Pool (N =173) | T-DXd (N = 154)                | TPC (N=73)                     | All BC T-DXd 5.4 mg/kg Pool (N=274) | T-DXd (N = 12)                 | TPC (N=8)                      | All BC T-DXd 5.4 mg/kg Pool (N=53) |
+| Duration of treatment (months)                                | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)      | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)       | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)      | Duration of treatment (months) | Duration of treatment (months) | Duration of treatment (months)     |
+| Median                                                        | 8.41                           | 3.52                           | 11.01                               | 6.96                           | 2.81                           | 8.57                                 | 7.79                           | 3.35                           | 9.46                                | 8.44                           | 3.75                           | 14.45                              |
+| Minimum, Maximum                                              | 0.7, 33.3                      | 0.5, 17.5                      | 0.7, 37.1                           | 0.7,24.3                       | 0.4,9.8                        | 0.7, 31.7                            | 0.2, 28.1                      | 0.3, 17.6                      | 0.2, 28.5                           | 0.7,20.9                       | 1.8,17.4                       | 0.7,28.5                           |
+| Subjects with any TEAE                                        | 147 (100.0)                    | 63 (100.0)                     | 382 (99.7)                          | 58 (100.0)                     | 27 (96.4)                      | 172 (99.4)                           | 152(98.7)                      | 71(97.3)                       | 271 (98.9)                          | 12 (100.0)                     | 8 (100.0)                      | 53 (100.0)                         |
+| TEAEs with worst CTCAE ≥Grade 3 e                             | 87 (59.2)                      | 48 (76.2)                      | 217 (56.7)                          | 29 (50.0)                      | 20 (71.4)                      | 94 (54.3)                            | 73 (47.4)                      | 43(58.9)                       | 141 (51.5)                          | 6 (50.0)                       | 5 (62.5)                       | 27 (50.9)                          |
+| Serious TEAEs                                                 | 38 (25.9)                      | 15 (23.8)                      | 83 (21.7)                           | 24 (41.4)                      | 6(21.4)                        | 49 (28.3)                            | 36 (23.4)                      | 20(27.4)                       | 74 (27.0)                           | 5 (41.7)                       | 2 (25.0)                       | 16 (30.2)                          |
+| TEAEs associated with study drug discontinuation              | 26 (17.7)                      | 4 (6.3)                        | 71 (18.5)                           | 8 (13.8)                       | 2 (7.1)                        | 22 (12.7)                            | 23 (14.9)                      | 8 (11.0)                       | 40 (14.6)                           | 3 (25.0)                       | 0                              | 10 (18.9)                          |
+| TEAEs associated with dose reduction                          | 42 (28.6)                      | 30 (47.6)                      | 96 (25.1)                           | 7 (12.1)                       | 12 (42.9)                      | 33 (19.1)                            | 32 (20.8)                      | 21 (28.8)                      | 56 (20.4)                           | 3 (25.0)                       | 3 (37.5)                       | 10 (18.9)                          |
+| TEAEs associated with study drug interruption                 | 60 (40.8)                      | 28 (44.4)                      | 172 (44.9)                          | 23 (39.7)                      | 13 (46.4)                      | 65 (37.6)                            | 53 (34.4)                      | 27 (37.0)                      | 109 (39.8)                          | 7 (58.3)                       | 4 (50.0)                       | 23 (43.4)                          |
+| TEAEs associated with an outcome of death                     | 2 (1.4)                        | 1 (1.6)                        | 5 (1.3)                             | 3 (5.2)                        | 0                              | 9 (5.2)                              | 8 (5.2)                        | 4 (5.5)                        | 15 (5.5)                            | 1 (8.3)                        | 0                              | 3 (5.7)                            |
+| Subjects with any drug- related TEAE &                        | 146 (99.3)                     | 63 (100.0)                     | 379 (99.0)                          | 57 (98.3)                      | 25 (89.3)                      | 170 (98.3)                           | 144 (93.5)                     | 66 (90.4)                      | 263 (96.0)                          | 10 (83.3)                      | 8 (100.0)                      | 50 (94.3)                          |
+| Drug-related TEAEs with worst CTCAE ≥Grade 3 e                | 77 (52.4)                      | 46 (73.0)                      | 193 (50.4)                          | 18 (31.0)                      | 14 (50.0)                      | 73 (42.2)                            | 55 (35.7)                      | 34 (46.6)                      | 112 (40.9)                          | 4 (33.3)                       | 5 (62.5)                       | 19 (35.8)                          |
+| Drug-related serious TEAEs                                    | 21 (14.3)                      | 10 (15.9)                      | 47 (12.3)                           | 9 (15.5)                       | 0                              | 22 (12.7)                            | 17 (11.0)                      | 7 (9.6)                        | 39)42)                              | 1 (8.3)                        | 2 (25.0)                       | 4 (7.5)                            |
+| Drug-related TEAEs associated with study drug discontinuation | 25 (17.0)                      | 4 (6.3)                        | 67 (17.5)                           | 6 (10.3)                       | 1 (3.6)                        | 18 (10.4)                            | 22 (14.3)                      | 7 (9.6)                        | 38 (13.9)                           | 3 (25.0)                       | 0                              | 10 (18.9)                          |
 
-| Parameter                                                  | Asia a          | Asia a      | Asia a                             | North Americab   | North Americab   | North Americab                      | Europec        | Europec     | Europec                             | Rest of Worldd   | Rest of Worldd   | Rest of Worldd                    |
-|------------------------------------------------------------|-----------------|-------------|------------------------------------|------------------|------------------|-------------------------------------|----------------|-------------|-------------------------------------|------------------|------------------|-----------------------------------|
-| Parameter                                                  | T-DXd (N = 147) | TPC (N =63) | AllBC T-DXd 5.4 mg/kg Pool (N=383) | T-DXd (N =58)    | TPC (N =28)      | AllBC T-DXd 5.4 mg/kg Pool (N =173) | T-DXd (N =154) | TPC (N =73) | AllBC T-DXd 5.4 mg/kg Pool (N =274) | T-DXd (N =12)    | TPC (N=8)        | AIlBC T-DXd 5.4 mg/kg Pool (N=53) |
-| Drug-related TEAEs associated with dose reduction          | 41 (27.9)       | 30 (47.6)   | 95 (24.8)                          | 6 (10.3)         | 11 (39.3)        | 27 (15.6)                           | 27 (17.5)      | 20 (27.4)   | 49 (17.9)                           | 3 (25.0)         | 3 (37.5)         | 10 (18.9)                         |
-| Drug-related TEAEs associated with study drug interruption | 51 (34.7)       | 25 (39.7)   | 147 (38.4)                         | 13 (22.4)        | 10 (35.7)        | 44 (25.4)                           | 38 (24.7)      | 23 (31.5)   | 80 (29.2)                           | 4 (33.3)         | 4 (50.0)         | 15 (28.3)                         |
-| Drug-related TEAEs associated with an outcome of death f   | 0               | 0           | 0                                  | 2 (3.4)          | 0                | 4 (2.3)                             | 4 (2.6)        | 0           | 6 (2.2)                             | 1 (8.3)          | 0                | 1 (1.9)                           |
+| Parameter                                                  | Asia a         | Asia a       | Asia a                              | North Americab   | North Americab   | North Americab                      | Europe          | Europe     | Europe                              | Rest of Worldd   | Rest of Worldd   | Rest of Worldd                     |
+|------------------------------------------------------------|----------------|--------------|-------------------------------------|------------------|------------------|-------------------------------------|-----------------|------------|-------------------------------------|------------------|------------------|------------------------------------|
+| Parameter                                                  | T-DXd (N =147) | TPC (N = 63) | All BC T-DXd 5.4 mg/kg Pool (N=383) | T-DXd (N =58)    | TPC (N =28)      | All BC T-DXd 5.4 mg/kg Pool (N=173) | T-DXd (N = 154) | TPC (N=73) | All BC PXA-I 5.4 mg/kg Pool (N=274) | T-DXd (N = 12)   | TPC (N=8)        | All BC T-DXd 5.4 mg/kg Pool (N=53) |
+| Drug-related TEAEs associated with dose reduction          | 41 (27.9)      | 30 (47.6)    | 95 (24.8)                           | 6 (10.3)         | 11 (39.3)        | 27 (15.6)                           | 27 (17.5)       | 20 (27.4)  | 49 (17.9)                           | 3 (25.0)         | 3 (37.5)         | 10 (18.9)                          |
+| Drug-related TEAEs associated with study drug interruption | 51 (34.7)      | 25 (39.7)    | 147 (38.4)                          | 13 (22.4)        | 10 (35.7)        | 44 (25.4)                           | 38 (24.7)       | 23 (31.5)  | 80 (29.2)                           | 4 (33.3)         | 4 (50.0)         | 15 (28.3)                          |
+| Drug-related TEAEs associated with an outcome of death f   | 0              | 0            | 0                                   | 2 (3.4)          | 0                | 4 (2.3)                             | 4 (2.6)         | 0          | 6(2.2)                              | 1 (8.3)          | 0                | 1 (1.9)                            |
 
-Percentageswerecalculated using thenumberofsubjectsin theSafetyAnalysisSet asthedenominator.
+Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
-BC=breast cancer;CTCAE=Common Terminology Criteria forAdverse Events,Version 5.0;N= total number oftreated subjects;T-DXd= trastuzumab deruxtecan;TEAE=treatment-emergent adverseevent;TPC=treatment ofphysician'schoice
+BC = breast cancer; CTCAE = Common Terminology Criteria for Adverse Events, Version 5.0; N = total number of treated subjects; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
-Asia included thefollowing countries:Japan,China,Republic ofKorea,Taiwan,and Hong Kong
+Asia included the following countries: Japan, China, Republic of Korea, Taiwan, and Hong Kong
 
-For Study U303,Europe included the following countries:AustriaBelgium,France,Greece,Hungary,Italy,Portugal,Russia,Spain,Sweden,Switzerland,and United Kingdom;for the All BC T-DXd 5.4 mg/kgPool,Europe also included Netherlands.
+For Study U303, Europe included the following countries: Austria, Belgium, France, Greece, Hungary, Italy, Portugal, Russia, Spain, Sweden, Switzerland, and United Kingdom; for the All BC T-DXd 5.4 mg/kg Pool, Europe also included Netherlands.
 
-bNorth America included the following countries:United States (n =55 T-DXd and 27 TPC) and Canada(n =3 T-DXd and1 TPC)
+North America included the following countries: United States (n = 55 T-DXd and 27 TPC) and Canada (n = 3 T-DXd and 1 TPC)
 
-dFor Study U303,Rest of World included only Israel;for the All BCT-DXd5.4mg/kgPool,Rest of World includedAustralia,Brazil, andIsrael
+d For Study U303, Rest of World included only Israel; for the All BC T-DXd 5.4 mg/kg Pool1, Rest of World included Australia, Brazil, and Israel
 
 fFor specific TEAEs associated with an outcome of death, refer toTable 2.10.
 
-A subject was counted once at the maximum severity.
+e A subject was counted once at the maximum severity.
 
-Ifrelationship was missing.the TEAE was considered to be related to the drug.
+εIf relationship was missing, the TEAE was considered to be related to the drug.
 
-Source:Module5.3.5.3SCS Tab1es 1.4.2,1.4.3
+Source: Module 5.3.5.3 SCSTables 1.4.2, 1.4.3
 
 ## Safety related to drug-drug interactions and other interactions
 
@@ -4213,8 +4012,6 @@ Table 75: Treatment-emergent Adverse Events Associated with Study Drug Discontin
 | Dyspnoea                                                         | 2 (0.5)                  | 0                        | 3 (0.3)                               |
 | Pleural effusion                                                 | 2 (0.5)                  | 0                        | 3 (0.3)                               |
 | Peripheral sensory neuropathy                                    | 0                        | 4 (2.3)                  | 0                                     |
-
-AESI = adverse event of special interest; BC = breast cancer; ILD = interstitial lung disease; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatmentemergent adverse event; TPC = treatment of physician's choice
 
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
@@ -4256,8 +4053,6 @@ Table 76: Treatment-emergent Adverse Events Associated with Dose Reduction Repor
 | Overdose                                    | 0                        | 2 (1.2)                  | 0                                     |
 | Palmar-plantar erythrodysaesthesia syndrome | 0                        | 9 (5.2)                  | 0                                     |
 | Peripheral sensory neuropathy               | 0                        | 4 (2.3)                  | 1 (0.1)                               |
-
-BC = breast cancer; MedDRA = Medical Dictionary for Regulatory Activities, Version 24.0; N = total number of treated subjects; PT = preferred term; T-DXd = trastuzumab deruxtecan; TEAE = treatment-emergent adverse event; TPC = treatment of physician's choice
 
 Percentages were calculated using the number of subjects in the Safety Analysis Set as the denominator.
 
@@ -4337,17 +4132,15 @@ Thrombocytopenia and epistaxis were reported at a much higher incidence for T-DX
 
 Treatment-related AEs with T-DXd vs TPC were also nausea (73% vs 23.8%), fatigue (47.7% vs 42.4%), vomiting (34% vs 9.9%), anaemia (33.2% vs 22.7%) and neutropenia (33.2% vs 51.2%) of almost the same incidences as for the AEs. Gastrointestinal toxicity was markedly increased with TDXd vs TPC, and besides vomiting, AEs of decreased appetite (28.6% vs 16.3%), constipation (21.3% vs 12.8%) and decreased weight (12.4% vs 4.7%) were clinically significantly more commonly observed.
 
-Interstitial lung disease (ILD) was very commonly observed with T-DXd versus TPC (12.1% vs 0.6%), and this high risk of ILD/pneumonitis with T-DXd is important information for the prescriber
+Interstitial lung disease (ILD) was very commonly observed with T-DXd versus TPC (12.1% vs 0.6%), and this high risk of ILD/pneumonitis with T-DXd is important information for the prescriber and should be considered if the patients had prior clinical lung problems (see SmPC section 4.2 and 4.4). It should be noted that patients with a history of (non-infectious) ILD/pneumonitis that required steroids, current ILD/pneumonitis, or suspected ILD/pneumonitis that could not be ruled out by imaging at screening were excluded from the pivotal Study U303, and this is adequately reflected in section 5.1 of the SmPC.
 
 <div style=\"page-break-after: always\"></div>
-
-and should be considered if the patients had prior clinical lung problems (see SmPC section 4.2 and 4.4). It should be noted that patients with a history of (non-infectious) ILD/pneumonitis that required steroids, current ILD/pneumonitis, or suspected ILD/pneumonitis that could not be ruled out by imaging at screening were excluded from the pivotal Study U303, and this is adequately reflected in section 5.1 of the SmPC.
 
 Grade ≥ 3 AEs in the T-DXd arm vs the TPC arm were: neutropenia (14% and 41.3%), anaemia (10.2% and 5.2%) and fatigue (8.6% vs 4.7%). Hence, more high-grade neutropenia was observed with TPC while anaemia was more frequent with T-DXd. The incidences of the treatment-related grade ≥ 3 adverse events were much in line with this. No major bleedings were seen within 14 days of any grade thrombocytopaenia among the patients from the T-DXd arm of Study U303 and the 'All BC TDXd 5.4 mg/kg Pool' (see SmPC section 4.8).
 
 Adverse events of special interest include ILD/pneumonitis and Left ventricular dysfunction, which are important identified risks of treatment with trastuzumab deruxtecan (see RMP section). ILD was as expected commonly observed in both the pivotal study U303 (12.4%) and in the BC pool (13.3%), and these events were most often of grade 2 (6.7% vs 7.6%). The majority of these events were assessed to be treatment-related (12.1% vs 12.7%) and often led to discontinuations (8.4% vs 8.8%). Approximately half (55.6%) of the patients had recovered/resolved events of ILD, while 22.2% had not recovered/not resolved events. 2 patients (4.4%) died of ILD in study U303. This is not totally in line with what was reported for the BC pool, where deaths due to treatment-related ILD were even more frequent (7.1%), which is probably more in line with the true incidence. Lower frequencies of high-grade ILD compared to earlier studies are likely related to enhanced awareness and risk minimisation measures. However, it remains an important safety issue and the occurrence of drugrelated fatal cases stresses the importance of continuous monitoring of this AESI.
 
-Left ventricular dysfunction was observed as grade 2 decreased LVEF in 13.5% and 16.1%, or as grade 3 decrease of LVEF (0.4% and 0.2%), and the incidences were similar in the T-DXd arm and the BC pool, respectively. In the BC pool, 14.5% of the patients had a 10%-19% decrease in absolute value of LVEF, and only one patient had ≥20% increase in absolute value. It is noted that pat ients in the All BC T-DXd 5.4 mg/kg Pool the majority of discontinuations due to LV dysfunction were from Study U303 (3 out of 4). Also, the Grade 3 LVEF decreases in the All BC T-DXd 5.4 mg/kg Pool were mainly caused by patients from Study 303 (5 out of 7). In 12 of the 17 patients experiencing an event of LV dysfunction in the T-DXd arm of Study U303, there was a concurrent or underlying cardiovascular condition and/or other medical condition associated with increased cardiovascular risk. All 17 patients had previous exposure to at least one potentially cardiotoxic agents and 13 of the 17 patients (76%) had previous lines of treatment with anthracyclines. Two events were Grade 3 and no Grade 4 or 5 events were reported. Regarding prior treatment with anthracyclines, in the All BC T-DXd 5.4 mg/kg Pool 20 out of 34 patients (59%) with an event of LV dysfunction had prior anthracycline exposure. Prior treatment with anthracyclines could play a role in the development of LV dysfunction events, although the causality is likely multifactorial including comorbidity, prior and concurrent comedication, and T-DXd treatment. LVEF decrease is already an important identified risk for T-DXd and there were no new safety signals. No further additional measures are required at this point.
+Left ventricular dysfunction was observed as grade 2 decreased LVEF in 13.5% and 16.1%, or as grade 3 decrease of LVEF (0.4% and 0.2%), and the incidences were similar in the T-DXd arm and the BC pool, respectively. In the BC pool, 14.5% of the patients had a 10%-19% decrease in absolute value of LVEF, and only one patient had ≥20% increase in absolute value. It is noted that patients in the All BC T-DXd 5.4 mg/kg Pool the majority of discontinuations due to LV dysfunction were from Study U303 (3 out of 4). Also, the Grade 3 LVEF decreases in the All BC T-DXd 5.4 mg/kg Pool were mainly caused by patients from Study 303 (5 out of 7). In 12 of the 17 patients experiencing an event of LV dysfunction in the T-DXd arm of Study U303, there was a concurrent or underlying cardiovascular condition and/or other medical condition associated with increased cardiovascular risk. All 17 patients had previous exposure to at least one potentially cardiotoxic agents and 13 of the 17 patients (76%) had previous lines of treatment with anthracyclines. Two events were Grade 3 and no Grade 4 or 5 events were reported. Regarding prior treatment with anthracyclines, in the All BC T-DXd 5.4 mg/kg Pool 20 out of 34 patients (59%) with an event of LV dysfunction had prior anthracycline exposure. Prior treatment with anthracyclines could play a role in the development of LV dysfunction events, although the causality is likely multifactorial including comorbidity, prior and concurrent comedication, and T-DXd treatment. LVEF decrease is already an important identified risk for T-DXd and there were no new safety signals. No further additional measures are required at this point.
 
 Serious adverse events (SAEs) were observed in 25.1% of the patients in the BC pool, which is similar to the incidences observed in the T-DXd arm (27.8%) and the TPC arm (25%). The most commonly observed SAEs in the BC pool and the T-DXd arm were interstitial lung disease (ILD) in 4.19% vs 4.3% of the patients, respectively, and pneumonia (1.9% in both arms). The pattern was different for the TPC arm, where the most common SAEs were overdose (2.9%, febrile neutropenia and neutropenia (2.3% each), which is in line with the known toxicities of single-agent chemotherapy.
 
@@ -4359,7 +4152,7 @@ Hence, treatment with T-DXd carries more severe toxicity. The narratives for the
 
 The overall discontinuation rate due to AEs in the BC pool was 16.2%, which is double as many compared to the TPC arm (8.2%), but in line with the rate for the T-DXd arm (16.2%). Most often, patients discontinued treatment due to ILD/pneumonitis in both the BC pool (8.8%) and the T-DXd arm (8.4%), which is in line with the known safety profile of trastuzumab deruxtecan and the incidence of ILD in other studies using the dosing of 5.4 mg/kg Q3W. Other reasons were left ventricular dysfunction, bilirubin increased, dyspnoea, and pleural effusion. In the TPC arm, the most common AE leading to discontinuations was peripheral neuropathy (2.3%). Overall, the rate of discontinuations is considered acceptable for the proposed extension of indication and targeted patient population.
 
-Laboratory findings were in line with the reported AEs and may also reflect that liver metastases are very common in the targeted patient population. Increasing toxicity of T-DXd was observed with increasing age regarding grade ≥3 AEs and serious adv erse events (SAEs) both in the pivotal study and the BC pool. However, the increased toxicity with age is considered acceptable. The higher incidence of Grade 3-4 adverse reactions observed in patients aged 65 years or older was already reflected in section 4.8 of the SmPC.
+Laboratory findings were in line with the reported AEs and may also reflect that liver metastases are very common in the targeted patient population. Increasing toxicity of T-DXd was observed with increasing age regarding grade ≥3 AEs and serious adverse events (SAEs) both in the pivotal study and the BC pool. However, the increased toxicity with age is considered acceptable. The higher incidence of Grade 3-4 adverse reactions observed in patients aged 65 years or older was already reflected in section 4.8 of the SmPC.
 
 It is noted that significantly more patients had an ADR of ≥grade 3 in the Asian population both for the T-DXd arms (51.7% vs 34.9%) and the BC pool. This may be explained by the known ethnic differences in drug toxicity, which is documented in the scientific literature where higher haematologic toxicity have been described for Asian vs. Non-Asian cancer patients. This was already reflected in section 4.8 of the SmPC.
 
@@ -4367,11 +4160,9 @@ Hence, the overall toxicity observed with T-DXd 5.4 mg/kg is, in general, consid
 
 ## 2.5.2. Conclusions on clinical safety
 
-Based on safety data from ~880 patients with breast cancer who have had relevant exposure to the approved dose of trastuzumab deruxtecan (5.4 mg/kg Q3W) no clinically significant changes of the
+Based on safety data from ~880 patients with breast cancer who have had relevant exposure to the approved dose of trastuzumab deruxtecan (5.4 mg/kg Q3W) no clinically significant changes of the known  safety  profile  nor  any  new  safety  findings  were  detected.  The  safety  profile  of  T-DXd  was compared  head-to-head  with  treatment  per  Physicians'  choice  of  single-agent  chemotherapy  in  the metastatic treatment setting, and the toxicities observed with TPC are considered clinically significantly different from those observed with T-DXd. Although tolerability of T-DXd appears lower compared to single-agent chemotherapy, it remains mostly manageable. ILD/pneumonitis is still the greatest risk in the treatment with trastuzumab deruxtecan and the occurrence of drug-related fatal cases stresses the importance of continuous monitoring of this AESI, as reflected in the SmPC and the RMP.
 
 <div style=\"page-break-after: always\"></div>
-
-known  safety  profile  nor  any  new  safety  findings  were  detected.  The  safety  profile  of  T-DXd  was compared  head-to-head  with  treatment  per  Physicians'  choice  of  single-agent  chemotherapy  in  the metastatic treatment setting, and the toxicities observed with TPC are considered clinically significantly different from those observed with T-DXd. Although tolerability of T-DXd appears lower compared to single-agent chemotherapy, it remains mostly manageable. ILD/pneumonitis is still the greatest risk in the treatment with trastuzumab deruxtecan and the occurrence of drug-related fatal cases stresses the importance of continuous monitoring of this AESI, as reflected in the SmPC and the RMP.
 
 ## 2.5.3. PSUR cycle
 
@@ -4454,11 +4245,9 @@ Treatment of adult patients with unresectable or metastatic HER2-low breast canc
 
 Metastatic breast cancer remains an incurable disease. Although treatment has improved disease outcomes over the years, the disease will invariably progress. The aim of therapy is to prolong progression-free survival (PFS) and overall survival (OS).
 
-Treatment outcomes with currently approved therapies in patients with metastatic HER2 negative breast cancer who progressed on at least 1 line of chemotherapy illustrate the high unmet medical need for new treatment options. No targeted therapy is specifically approved for patients with HER2low breast cancer (BC). The most recently approved single agents for patients with metastatic hormone receptor-positive HER2-low/negative BC, are abemaciclib and eribulin. Abemaciclib has since been approved in earlier lines of therapy and is rarely used in the proposed setting where the cornerstone of treatment remains conventional chemotherapy (Gennari et al. ESMO. 2021). For
+Treatment outcomes with currently approved therapies in patients with metastatic HER2 negative breast cancer who progressed on at least 1 line of chemotherapy illustrate the high unmet medical need for new treatment options. No targeted therapy is specifically approved for patients with HER2low breast cancer (BC). The most recently approved single agents for patients with metastatic hormone receptor-positive HER2-low/negative BC, are abemaciclib and eribulin. Abemaciclib has since been approved in earlier lines of therapy and is rarely used in the proposed setting where the cornerstone of treatment remains conventional chemotherapy (Gennari et al. ESMO. 2021). For patients with TNBC who have received at least 2 previous regimens, with at least one of them in the metastatic setting, the antibody-drug conjugate (ADC) sacituzumab govitecan is also approved.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with TNBC who have received at least 2 previous regimens, with at least one of them in the metastatic setting, the antibody-drug conjugate (ADC) sacituzumab govitecan is also approved.
 
 Despite available therapies,   the high unmet medical need for new therapeutic options that would provide a clinically meaningful delay in time to progression and improved survival remains.
 
@@ -4504,11 +4293,9 @@ Treatment-related AEs with T-DXd vs TPC were also nausea (73% vs 23.8%), fatigue
 
 Grade ≥ 3 AEs in the T-DXd arm vs the TPC arm were neutropenia (14% and 41.3%), anaemia (10.2% and 5.2%) and fatigue (8.6% vs 4.7%) which were consistent with. treatment related grade ≥ 3 adverse events reported.
 
-Adverse events of special interest include ILD/pneumonitis and left ventricular dysfunction. ILD was commonly observed in both the pivotal study U303 (12.4%) and in the BC pool (13.3%), most often of grade 2 (6.7% vs 7.6%). Approximately half (55.6%) of the patients had recovered/resolved at DCO, while 22.2% had not recovered/not resolved events. 2 patients (4.4%) died of ILD. In the BC pool, deaths due to treatment-related ILD were even more frequent (7.1%). LVEF dysfunction was observed of grade 2 in 13.5% and 16.1%, or grade 3 decrease of LVEF (0.4% and 0.2%) and the incidences
+Adverse events of special interest include ILD/pneumonitis and left ventricular dysfunction. ILD was commonly observed in both the pivotal study U303 (12.4%) and in the BC pool (13.3%), most often of grade 2 (6.7% vs 7.6%). Approximately half (55.6%) of the patients had recovered/resolved at DCO, while 22.2% had not recovered/not resolved events. 2 patients (4.4%) died of ILD. In the BC pool, deaths due to treatment-related ILD were even more frequent (7.1%). LVEF dysfunction was observed of grade 2 in 13.5% and 16.1%, or grade 3 decrease of LVEF (0.4% and 0.2%) and the incidences were similar in the T-DXd arm and the BC pool, respectively. All events except one with T-DXd were resolved at DCO.
 
 <div style=\"page-break-after: always\"></div>
-
-were similar in the T-DXd arm and the BC pool, respectively. All events except one with T-DXd were resolved at DCO.
 
 Serious adverse events (SAEs) were observed in 25.1% of the patients in the BC pool, which is similar to the SAEs observed in the T-DXd arm (27.8%) and the TPC arm (25%). The most common SAE observed were interstitial lung disease (ILD) and pneumonia. In the TPC arm, the most common SAEs were overdose, febrile neutropenia and neutropenia, which is in line with the known toxicities of singleagent chemotherapy.
 
@@ -4558,11 +4345,9 @@ The efficacy of trastuzumab deruxtecan (T-DXd) compared to single-agent chemothe
 
 OS was also clinically significantly improved for both the HR+ and the FAS populations (HR 0.64) and although data are only partly mature, a detriment in OS at a later time point is considered unlikely. The MAH is recommended to provide final efficacy data from the pivotal U303 study post-authorisation.
 
-PFS and OS results support a beneficial effect of T-DXd in the hormone-receptor negative cohort as well, although some uncertainty exists on the true effect size in the HR- cohort due to the small sample size. However, given the magnitude of the effect size (increase of 3.7 months in median PFS and 6 months in median OS) it is reasonable to exclude a detrimental effect compared to TPC. Further,
+PFS and OS results support a beneficial effect of T-DXd in the hormone-receptor negative cohort as well, although some uncertainty exists on the true effect size in the HR- cohort due to the small sample size. However, given the magnitude of the effect size (increase of 3.7 months in median PFS and 6 months in median OS) it is reasonable to exclude a detrimental effect compared to TPC. Further, although the prognosis is worse in the HR- cohort, it is unlikely that T-DXd would act differently in the HR- cohort compared to the HR+ cohort given the mechanism of action. Furthermore, post hoc sensitivity analyses showed a beneficial effect. The Applicant plans additional observational studies which most likely will provide additional data in the HR- subgroup.
 
 <div style=\"page-break-after: always\"></div>
-
-although the prognosis is worse in the HR- cohort, it is unlikely that T-DXd would act differently in the HR- cohort compared to the HR+ cohort given the mechanism of action. Furthermore, post hoc sensitivity analyses showed a beneficial effect. The Applicant plans additional observational studies which most likely will provide additional data in the HR- subgroup.
 
 Overall, treatment options in HR- population are limited in this patient population. T-DXd could offer an alternative to existing therapies with a different safety profile.
 
@@ -4615,17 +4400,3 @@ In addition, an updated RMP should be submitted:
 At the request of the European Medicines Agency;
 
 Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
-
-## 5. EPAR changes
-
-The EPAR will be updated following Commission Decision for this variation. In particular the EPAR module 8 \" steps after the authorisation \" will be updated as follows:
-
-## Scope
-
-Please refer to the Recommendations section above.
-
-## Summary
-
-Please refer to Scientific Discussion 'Enhertu-005124-II-22'

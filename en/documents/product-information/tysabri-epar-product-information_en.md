@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-26 16:31:33
+document_datetime: 2026-07-06 12:23:55
 document_pages: 86
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tysabri-epar-product-information_en.pdf
 document_name: tysabri-epar-product-information_en.pdf
 version: success
-processing_time: 32.6837863
-conversion_datetime: 2026-06-01 17:08:35.700641
+processing_time: 17.8881155
+conversion_datetime: 2026-07-07 15:16:49.23542
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.110.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -346,9 +346,9 @@ Adverse reactions arising from clinical studies, post-authorisation safety studi
 
 ## Table 1. Adverse reactions
 
-| MedDRA                                               | Frequency of adverse reactions          | Frequency of adverse reactions                                | Frequency of adverse reactions                                       | Frequency of adverse reactions         | Frequency of adverse reactions                                                                 |
+| MedDRA System Organ                                  | Frequency of adverse reactions          | Frequency of adverse reactions                                | Frequency of adverse reactions                                       | Frequency of adverse reactions         | Frequency of adverse reactions                                                                 |
 |------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------|
-| System Organ Class                                   | Very Common                             | Common                                                        | Uncommon                                                             | Rare                                   | Not known                                                                                      |
+| Class                                                | Very Common                             | Common                                                        | Uncommon                                                             | Rare                                   | Not known                                                                                      |
 | Infections and infestations                          | Nasopharyngitis Urinary tract infection | Herpes infection                                              | Progressive multifocal leukoencephalopathy                           | Herpes ophthalmic                      | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
 | Blood and lymphatic system disorders                 |                                         | Anaemia                                                       | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |                                                                                                |
 | Immune system disorders                              |                                         | Hypersensitivity                                              | Anaphylactic reaction Immune reconstitution inflammatory syndrome    |                                        |                                                                                                |
@@ -714,9 +714,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ·
 
-%
-
 21
+
+%
 
 )
 
@@ -1097,7 +1097,7 @@ Adverse reactions arising from clinical studies, post-authorisation safety studi
 
 Hypersensitivity  reactions  usually  occurred  within  one  hour  after  completion  of  the  subcutaneous injections. The number of patients analysed in the DELIVER and REFINE studies was low (see section 5.1).
 
-In 2-year controlled clinical trials in MS patients receiving natalizumab intravenously, hypersensitivity reactions occurred in up to 4% of patients. Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving this medicinal product. Hypersensitivity reactions usually occurred during the infusion  or  within  the  1-hour  period after the completion  of the infusion (see section  4.4).  In  post -marketing experience, there have been reports of hypersensitivity reactions which have occurred with one  or  more  of  the  following  associated  symptoms:  hypotension,  hypertension,  chest  pain,  chest discomfort, dyspnoea, angioedema, in addition to more usual symptoms such as rash and urticaria.
+In 2-year controlled clinical trials in MS patients receiving natalizumab intravenously, hypersensitivity reactions occurred in up to 4% of patients. Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving this medicinal product. Hypersensitivity reactions usually occurred during the infusion  or  within  the  1-hour  period  after  the  completion  of  the  infusion (see  section  4.4).  In  post -marketing experience, there have been reports of hypersensitivity reactions which have occurred with one  or  more  of  the  following  associated  symptoms:  hypotension,  hypertension,  chest  pain,  chest discomfort, dyspnoea, angioedema, in addition to more usual symptoms such as rash and urticaria.
 
 ## Immunogenicity
 
@@ -1218,8 +1218,6 @@ Study features and results are presented in the Table 2.
 | Mean number of T1-hypointense lesions                          | 4.6                                                                                        | 1.1 (p<0.001)                                                                              |
 | Mean number of Gd-enhancing lesions                            | 1.2                                                                                        | 0.1 (p<0.001)                                                                              |
 
-1  Progression of disability was defined as at least a 1.0 point increase on the EDSS from a baseline EDSS &gt;= 1.0 sustained for 12 or 24 weeks or at least a 1.5 point increase on the EDSS from a baseline EDSS = 0 sustained for 12 or 24 weeks.
-
 In the sub-group of patients indicated for treatment of rapidly evolving RRMS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the natalizumab-treated group (n = 148) and 1.455 in the placebo group (n = 61) (p &lt; 0.001). Hazard ratio for disability progression was 0.36 (95% CI: 0.17, 0.76) p = 0.008. These results were obtained from a post hoc analysis and should be interpreted cautiously. No information on the severity of the relapses before inclusion of patients in the study is available.
 
 ## Tysabri Observational Program (TOP, IMA-06-02)
@@ -1328,7 +1326,9 @@ Each PFS consists of a pre-filled syringe made of glass (Type 1A) with a rubber 
 
 Pack sizes:
 
-Pack containing two 150 mg pre-filled syringes, for one dose. Multipack containing six 150 mg pre-filled syringes (3 packs of 2), for three doses.
+Pack containing two 150 mg pre-filled syringes, for one dose.
+
+Multipack containing six 150 mg pre-filled syringes (3 packs of 2), for three doses.
 
 Not all pack sizes may be marketed.
 
@@ -1348,7 +1348,7 @@ EU/1/06/346/002 EU/1/06/346/003
 
 Date of first authorisation: 27
 
-th  June 2006
+th June 2006
 
 Date of latest renewal: 18
 
@@ -1375,9 +1375,9 @@ Name and address of the manufacturers of the biological active substance
 
 Biogen MA Inc. 5000 Davis Drive Morrisville North Carolina 27560 USA
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK3400 Hillerød
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK3400 Hillerød Denmark
 
-Denmark
+Biogen International GmbH Attisholzstrasse 11 4542 Luterbach Switzerland
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1402,9 +1402,10 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
+
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## · Additional risk minimisation measures
 
@@ -1429,10 +1430,10 @@ These educational materials shall contain the following key elements:
 
 - Background information on the increased risk of atypical/opportunistic infections, in particular PML, which may occur with Tysabri therapy, including a brief description of the epidemiology, aetiology, and pathology pertaining to the development of PML in Tysabri-treated patients.
 - Information relating to the identification of risk factors for Tysabri-associated PML, including details of the PML risk estimates algorithm summarising PML risk by risk factor (anti-John Cunningham virus [JCV] antibody status, prior IS use, and duration of treatment [by year of treatment]), and stratification of this risk by index value when applicable.
-- Information on extending the dosing interval for PML risk mitigation , including a reminder of the approved dosing schedule. The decrease in PML risk is based on data from the IV route of administration. No clinical data are available on either the safety or efficacy of dosing every 6 weeks with the SC route of administration.
 
 <div style=\"page-break-after: always\"></div>
 
+- Information on extending the dosing interval for PML risk mitigation , including a reminder of the approved dosing schedule. The decrease in PML risk is based on data from the IV route of administration. No clinical data are available on either the safety or efficacy of dosing every 6 weeks with the SC route of administration.
 - Inclusion of monitoring guidance for MRI and anti-JCV antibody based on PML risk, including recommended timing and interpretation of results.
 - Information regarding the diagnosis of PML , including principles, clinical assessment (including MRI and laboratory testing), and differentiation between PML and MS.
 - Management recommendations in the event of cases of suspected PML, including considerations on the effectiveness of PLEX treatment and the management of associated IRIS.
@@ -1450,12 +1451,11 @@ These educational materials shall contain the following key elements:
 - Guidance based on patient/caregiver checklist responses for escalation to the supervising specialised physician, whose responsibility it remains to determine next steps regarding the appropriateness and timing of Tysabri administration, if signs, symptoms, or new risk factors for PML are suspected.
 - A statement that the checklist is not intended to be a substitute for consultation with the patient's treating specialised physician.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patient Card:
 
 - Reminder to patients to show the card to any doctor and/or caregiver involved with their treatment, and to keep the card with them for 6 months after the last dose of Tysabri treatment.
-
-<div style=\"page-break-after: always\"></div>
-
 - Reminder to patients to read the package leaflet carefully before starting Tysabri, and not to start Tysabri if there is a serious problem with their immune system.
 - Reminder to patients not to take any other long-term medicines for MS while receiving Tysabri.
 - A description of PML, potential symptoms and management of PML.
@@ -1530,8 +1530,6 @@ Read the package leaflet before use.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze. Keep the vial in the outer carton in order to protect from light.
@@ -1553,7 +1551,9 @@ EU/1/06/346/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1570,9 +1570,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -1618,7 +1618,7 @@ sodium phosphate, monobasic, monohydrate; sodium phosphate, dibasic, heptahydrat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 2 pre-filled syringes
 
@@ -1889,7 +1889,7 @@ Tysabri 150 mg
 
 Use two 150 mg syringes Full dose = 300 mg
 
-## Text to be contained on peel-off portion:
+Text to be contained on peel-off portion:
 
 2 x Tysabri 150 mg SC
 
@@ -1899,16 +1899,16 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL   |
-|-------------------------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL   |
+|---------------------------------------------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Tysabri 150 mg injection natalizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1920,8 +1920,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -2129,7 +2129,6 @@ These symptoms may be caused by an infection of the brain ( encephalitis or PML 
 
 - Itchy rash ( hives )
 - Swelling of your face, lips or tongue
-- ·
 - Difficulty breathing
 - Chest pain or discomfort
 - Increase or decrease in your blood pressure (your doctor or nurse will notice this if they are monitoring your blood pressure)
@@ -2262,9 +2261,7 @@ Biogen (Denmark) A/S Tlf.: + 45 77 41 57 57
 
 ## Deutschland
 
-Biogen GmbH
-
-Tel: +49 (0) 89 99 6170
+Biogen GmbH Tel: +49 (0) 89 99 6170
 
 ## Eesti
 
@@ -2280,9 +2277,7 @@ Biogen Spain SL Tel: +34 91 310 7110
 
 ## France
 
-Biogen France SAS
-
-Tél: +33 (0)1 41 37 95 95
+Biogen France SAS Tél: +33 (0)1 41 37 95 95
 
 ## Hrvatska
 
@@ -2354,9 +2349,7 @@ Biogen Slovakia s.r.o. Tel.: + 421 2 323 340 08
 
 ## Suomi/Finland
 
-Biogen Finland Oy
-
-Puh/Tel: +358 207 401 200
+Biogen Finland Oy Puh/Tel: +358 207 401 200
 
 ## Sverige
 
@@ -2396,9 +2389,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## Tysabri 150 mg solution for injection in pre-filled syringe
-
-## natalizumab
+## Tysabri 150 mg solution for injection in pre-filled syringe natalizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2820,7 +2811,9 @@ Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
 
 ## Slovenija
 
-Biogen Pharma d.o.o. Tel: +386 1 511 02 90
+Biogen Pharma d.o.o.
+
+Tel: +386 1 511 02 90
 
 ## Slovenská republika
 
@@ -2974,6 +2967,8 @@ Note: The appearance of the medicine may change after it is removed from the ref
 
 <!-- image -->
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 ## 6 Clean the 1 st Injection Site.
@@ -3061,6 +3056,10 @@ Do not touch, fan or blow on the clean area.
 - a. Repeat steps 7-11 to inject the SECOND syringe to get your full dose.
 
 Administer injections one after the other without significant delay. The second injection should be administered no later than 30 minutes after the first injection.
+
+<!-- image -->
+
+## USE 2 SYRINGES FOR YOUR FULL DOSE
 
 <!-- image -->
 

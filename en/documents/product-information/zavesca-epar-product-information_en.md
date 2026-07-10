@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-29 15:46:04
-document_pages: 27
+document_datetime: 2026-07-09 15:11:55
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zavesca-epar-product-information_en.pdf
 document_name: zavesca-epar-product-information_en.pdf
 version: success
-processing_time: 5.3890867
-conversion_datetime: 2025-12-20 12:38:10.269229
+processing_time: 4.972604
+conversion_datetime: 2026-07-10 22:51:17.703951
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,9 +100,9 @@ There is no experience with the use of Zavesca in patients over the age of 70.
 
 ## Renal impairment
 
-Pharmacokinetic data indicate increased systemic exposure to miglustat in patients with renal impairment. In patients with an adjusted creatinine clearance of 50-70 mL/min/1.73 m 2 , administration should commence at a dose of 100 mg twice daily in patients with type 1 Gaucher disease and at a dose of 200 mg twice daily (adjusted for body surface area in patients below the age of 12) in patients with Niemann-Pick type C disease.
+Pharmacokinetic data indicate increased systemic exposure to miglustat in patients with renal impairment. In patients with an adjusted creatinine clearance of 50 -70 mL/min/1.73 m 2 , administration should commence at a dose of 100 mg twice daily in patients with type 1 Gaucher disease and at a dose of 200 mg twice daily (adjusted for body surface area in patients below the age of 12) in patients with Niemann-Pick type C disease.
 
-In patients with an adjusted creatinine clearance of 30-50 mL/min/1.73 m 2 , administration should commence at a dose of 100 mg once daily in patients with type 1 Gaucher disease and at a dose of 100 mg twice daily (adjusted for body surface area in patients below the age of 12) in patients with Niemann-Pick type C disease. Use in patients with severe renal impairment (creatinine clearance &lt; 30 mL/min/1.73 m 2 ) is not recommended (see sections 4.4 and 5.2).
+In patients with an adjusted creatinine clearance of 30 -50 mL/min/1.73 m 2 , administration should commence at a dose of 100 mg once daily in patients with type 1 Gaucher disease and at a dose of 100 mg twice daily (adjusted for body surface area in patients below the age of 12) in patients with Niemann-Pick type C disease. Use in patients with severe renal impairment (creatinine clearance &lt; 30 mL/min/1.73 m 2 ) is not recommended (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
@@ -128,7 +128,7 @@ Approximately 37% of patients in clinical trials in type 1 Gaucher disease, and 
 
 Gastrointestinal events, mainly diarrhoea, have been observed in more than 80% of patients, either at the outset of treatment or intermittently during treatment (see section 4.8). The mechanism is most likely inhibition of intestinal disaccharidases such as sucrase-isomaltase in the gastrointestinal tract leading to reduced absorption of dietary disaccharides. In clinical practice, miglustat-induced gastrointestinal events have been observed to respond to individualised diet modification (for example reduction of sucrose, lactose and other carbohydrate intake), to taking Zavesca between meals, and/or to anti-diarrhoeal medicinal products such as loperamide. In some patients, temporary dose reduction may be necessary. Patients with chronic diarrhoea or other persistent gastrointestinal events that do not respond to these interventions should be investigated according to clinical practice. Zavesca has not been evaluated in patients with a history of significant gastrointestinal disease, including inflammatory bowel disease.
 
-Cases of Crohn's disease have been reported post-marketing in Niemann-Pick type C disease patients treated with Zavesca. Gastrointestinal disturbances are common adverse events of Zavesca. Therefore, in patients with chronic diarrhoea and/or abdominal pain that do not respond to interventions or in the event of clinical worsening, the possibility of Crohn's disease should be considered.
+Cases of Crohn's disease have been reported post -marketing in Niemann-Pick type C disease patients treated with Zavesca. Gastrointestinal disturbances are common adverse events of Zavesca. Therefore, in patients with chronic diarrhoea and/or abdominal pain that do not respond to interventions or in the event of clinical worsening, the possibility of Crohn's disease should be considered.
 
 ## Effects on spermatogenesis
 
@@ -202,7 +202,9 @@ In 11 clinical trials in different indications 247 patients were treated with Za
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical trials and spontaneous reporting, occurring in &gt;1% of patients, are listed in the table below by system organ class and frequency (very common:  1/10, common:  1/100 to &lt; 1/10, uncommon:  1/1,000 to &lt; 1/100, rare:  1/10,000 to &lt; 1/1,000, very rare: &lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions from clinical trials and spontaneous reporting, occurring in &gt;1% of patients, are listed in the table below by system organ class and frequency (very common:  1/10, common:  1/100 to &lt; 1/10, uncommon:  1/1,000 to &lt; 1/100, rare:  1/10,000 to &lt; 1/1,000, very rare:
+
+- &lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Blood and lymphatic system disorders   | Blood and lymphatic system disorders                                                     |
 |----------------------------------------|------------------------------------------------------------------------------------------|
@@ -258,17 +260,15 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, ATC C
 
 Gaucher disease is an inherited metabolic disorder caused by a failure to degrade glucosylceramide resulting in lysosomal storage of this material and widespread pathology. Miglustat is an inhibitor of glucosylceramide synthase, the enzyme responsible for the first step in the synthesis of most glycolipids. In vitro , glucosylceramide synthase is inhibited by miglustat with an IC50 of 20-37 µM. In addition, inhibitory action on a non-lysosomal glycosylceramidase has been demonstrated experimentally in vitro. The inhibitory action on glucosylceramide synthase forms the rationale for substrate reduction therapy in Gaucher disease.
 
-The pivotal trial of Zavesca was conducted in patients unable or unwilling to receive ERT. Reasons for not receiving ERT included the burden of intravenous infusions and difficulties in venous access. Twenty-eight patients with mild to moderate type 1 Gaucher disease were enrolled in this 12-month
+The pivotal trial of Zavesca was conducted in patients unable or unwilling to receive ERT. Reasons for not receiving ERT included the burden of intravenous infusions and difficulties in venous access. Twenty-eight patients with mild to moderate type 1 Gaucher disease were enrolled in this 12-month non-comparative study, and 22 patients completed the study. At 12 months, there was a mean reduction in liver organ volume of 12.1% and a mean reduction in spleen volume of 19.0%. A mean increase in haemoglobin concentration of 0.26 g/dL and a mean platelet count increase of 8.29  10 9 /L were observed. Eighteen patients then continued to receive Zavesca under an optional extended treatment protocol. Clinical benefit has been assessed at 24 and 36 months in 13 patients. After 3 years of continuous Zavesca treatment, mean reductions in liver and spleen organ volume were 17.5% and 29.6%, respectively. There was a mean increase of 22.2  10 9 /L in platelet count, and a mean increase of 0.95 g/dL in haemoglobin concentration.
 
 <div style=\"page-break-after: always\"></div>
-
-non-comparative study, and 22 patients completed the study. At 12 months, there was a mean reduction in liver organ volume of 12.1% and a mean reduction in spleen volume of 19.0%. A mean increase in haemoglobin concentration of 0.26 g/dL and a mean platelet count increase of 8.29  10 9 /L were observed. Eighteen patients then continued to receive Zavesca under an optional extended treatment protocol. Clinical benefit has been assessed at 24 and 36 months in 13 patients. After 3 years of continuous Zavesca treatment, mean reductions in liver and spleen organ volume were 17.5% and 29.6%, respectively. There was a mean increase of 22.2  10 9 /L in platelet count, and a mean increase of 0.95 g/dL in haemoglobin concentration.
 
 A second open, controlled study randomised 36 patients who had received a minimum of 2 years of treatment with ERT, into three treatment groups: continuation with imiglucerase, imiglucerase in combination with Zavesca, or switch to Zavesca. This study was conducted over a 6-month randomised comparison period followed by 18 months extension where all patients received Zavesca monotherapy. In the first 6 months in patients who were switched to Zavesca, liver and spleen organ volumes and haemoglobin levels were unchanged. In some patients there were reductions in platelet count and increases in chitotriosidase activity indicating that Zavesca monotherapy may not maintain the same control of disease activity in all patients. 29 patients continued in the extension period. When compared to the measurements at 6 months, disease control was unchanged after 18 and 24 months of Zavesca monotherapy (20 and 6 patients, respectively). No patient showed rapid deterioration of type 1 Gaucher disease following the switch to Zavesca monotherapy.
 
 A total daily dose of 300 mg Zavesca administered in three divided doses was used in the above two studies. An additional monotherapy study was performed in 18 patients at a total daily dose of 150 mg, and results indicate reduced efficacy compared to a total daily dose of 300 mg.
 
-An open-label, non-comparative, 2-year study enrolled 42 patients with type 1 Gaucher disease, who had received a minimum of 3 years of ERT and who fulfilled criteria of stable disease for at least 2 years. The patients were switched to monotherapy with miglustat 100 mg t.i.d. Liver volume (primary efficacy variable) was unchanged from baseline to the end of treatment. Six patients had miglustat treatment prematurely discontinued for potential disease worsening, as defined in the study. Thirteen patients discontinued treatment due to an adverse event. Small mean reductions in haemoglobin [0.95 g/dL (95% CI: -1.38, -0.53)] and platelet count [-44.1 × 10 9 /L (95% CI: -57.6, -30.7)] were observed between baseline and end of study. Twenty-one patients completed 24 months of miglustat treatment. Of these, 18 patients at baseline were within established therapeutic goals for liver and spleen volume, haemoglobin levels, and platelet counts, and 16 patients remained within all these therapeutic goals at Month 24.
+An open-label, non-comparative, 2-year study enrolled 42 patients with type 1 Gaucher disease, who had received a minimum of 3 years of ERT and who fulfilled criteria of stable disease for at least 2 years. The patients were switched to monotherapy with miglustat 100 mg t.i.d. Liver volume (primary efficacy variable) was unchanged from baseline to the end of treatment. Six patients had miglustat treatment prematurely discontinued for potential disease worsening, as defined in the study. Thirteen patients discontinued treatment due to an adverse event. Small mean reductions in haemoglobin [ -0.95 g/dL (95% CI: -1.38, -0.53)] and platelet count [-44.1 × 10 9 /L (95% CI: -57.6, -30.7)] were observed between baseline and end of study. Twenty-one patients completed 24 months of miglustat treatment. Of these, 18 patients at baseline were within established therapeutic goals for liver and spleen volume, haemoglobin levels, and platelet counts, and 16 patients remained within all these therapeutic goals at Month 24.
 
 Bone manifestations of type 1 Gaucher disease were evaluated in 3 open-label clinical studies in patients treated with miglustat 100 mg t.i.d. for up to 2 years (n = 72). In a pooled analysis of uncontrolled data, bone mineral density Z-scores at the lumbar spine and femoral neck increased by more than 0.1 units from baseline in 27 (57%) and 28 (65%) of the patients with longitudinal bone density measurements. There were no events of bone crisis, avascular necrosis or fracture during the treatment period.
 
@@ -276,11 +276,9 @@ Bone manifestations of type 1 Gaucher disease were evaluated in 3 open-label cli
 
 Niemann-Pick type C disease is a very rare, invariably progressive and eventually fatal neurodegenerative disorder characterised by impaired intracellular lipid trafficking. The neurological manifestations are considered secondary to the abnormal accumulation of glycosphingolipids in neuronal and glial cells.
 
-Data to support safety and efficacy of Zavesca in Niemann-Pick type C disease come from a prospective open-label clinical trial and a retrospective survey. The clinical trial included 29 adult and juvenile patients in a 12-month controlled period, followed by extension therapy for an average total duration of 3.9 years and up to 5.6 years. In addition 12 paediatric patients were enrolled in an uncontrolled substudy for an overall average duration of 3.1 years and up to 4.4 years. Among the 41 patients enrolled in the trial 14 patients were treated with Zavesca for more than 3 years. The survey
+Data to support safety and efficacy of Zavesca in Niemann-Pick type C disease come from a prospective open-label clinical trial and a retrospective survey. The clinical trial included 29 adult and juvenile patients in a 12-month controlled period, followed by extension therapy for an average total duration of 3.9 years and up to 5.6 years. In addition 12 paediatric patients were enrolled in an uncontrolled substudy for an overall average duration of 3.1 years and up to 4.4 years. Among the 41 patients enrolled in the trial 14 patients were treated with Zavesca for more than 3 years. The survey included a case series of 66 patients treated with Zavesca outside of the clinical trial for a mean duration of 1.5 years. Both data sets included paediatric, adolescent and adult patients with an age range of 1 year to 43 years. The usual dose of Zavesca in adult patients was 200 mg t.i.d., and was adjusted according to body surface area in paediatric patients.
 
 <div style=\"page-break-after: always\"></div>
-
-included a case series of 66 patients treated with Zavesca outside of the clinical trial for a mean duration of 1.5 years. Both data sets included paediatric, adolescent and adult patients with an age range of 1 year to 43 years. The usual dose of Zavesca in adult patients was 200 mg t.i.d., and was adjusted according to body surface area in paediatric patients.
 
 Overall the data show that treatment with Zavesca can reduce the progression of clinically relevant neurological symptoms in patients with Niemann-Pick type C disease.
 
@@ -292,17 +290,17 @@ Pharmacokinetic parameters of miglustat were assessed in healthy subjects, in a 
 
 The kinetics of miglustat appear to be dose linear and time independent. In healthy subjects miglustat is rapidly absorbed. Maximum plasma concentrations are reached about 2 hours after dose. Absolute bioavailability has not been determined. Concomitant administration of food decreases the rate of absorption (Cmax was decreased by 36% and tmax delayed 2 hours), but has no statistically significant effect on the extent of absorption of miglustat (AUC decreased by 14%).
 
-The apparent volume of distribution of miglustat is 83 L. Miglustat does not bind to plasma proteins. Miglustat is mainly eliminated by renal excretion, with urinary recovery of unchanged drug accounting for 70-80% of the dose. Apparent oral clearance (CL/F) is 230 ± 39 mL/min. The average half-life is 6-7 hours.
+The apparent volume of distribution of miglustat is 83 L. Miglustat does not bind to plasma proteins. Miglustat is mainly eliminated by renal excretion, with urinary recovery of unchanged drug accounting for 70-80% of the dose. Apparent oral clearance (CL/F) is 230 ± 39 mL/min. The average half-life is 6 -7 hours.
 
-Following administration of a single dose of 100 mg  14 C-miglustat to healthy volunteers, 83% of the radioactivity was recovered in urine and 12% in faeces. Several metabolites were identified in urine and faeces. The most abundant metabolite in urine was miglustat glucuronide accounting for 5% of the dose. The terminal half-life of radioactivity in plasma was 150 h suggesting the presence of one or more metabolites with very long half-life. The metabolite accounting for this has not been identified, but may accumulate and reach concentrations exceeding those of miglustat at steady state.
+Following administration of a single dose of 100 mg 14 C-miglustat to healthy volunteers, 83% of the radioactivity was recovered in urine and 12% in faeces. Several metabolites were identified in urine and faeces. The most abundant metabolite in urine was miglustat glucuronide accounting for 5% of the dose. The terminal half-life of radioactivity in plasma was 150 h suggesting the presence of one or more metabolites with very long half-life. The metabolite accounting for this has not been identified, but may accumulate and reach concentrations exceeding those of miglustat at steady state.
 
 The pharmacokinetics of miglustat is similar in adult type 1 Gaucher disease patients and Niemann-Pick type C disease patients when compared to healthy subjects.
 
 ## Paediatric population
 
-Pharmacokinetic data were obtained in paediatric patients with type 3 Gaucher disease aged 3 to 15 years, and patients with Niemann-Pick type C disease aged 5-16 years. Dosing in children at 200 mg t.i.d. adjusted for body surface area resulted in C max and AUC  values which were approximately two-fold those attained after 100 mg t.i.d. in type 1 Gaucher disease patients, consistent with the dose-linear pharmacokinetics of miglustat. At steady state, the concentration of miglustat in cerebrospinal fluid of six type 3 Gaucher disease patients was 31.4-67.2% of that in plasma.
+Pharmacokinetic data were obtained in paediatric patients with type 3 Gaucher disease aged 3 to 15 years, and patients with Niemann-Pick type C disease aged 5 -16 years. Dosing in children at 200 mg t.i.d. adjusted for body surface area resulted in Cmax and AUC  values which were approximately two-fold those attained after 100 mg t.i.d. in type 1 Gaucher disease patients, consistent with the dose-linear pharmacokinetics of miglustat. At steady state, the concentration of miglustat in cerebrospinal fluid of six type 3 Gaucher disease patients was 31.4 -67.2% of that in plasma.
 
-Limited data in patients with Fabry disease and impaired renal function showed that CL/F decreases with decreasing renal function. While the numbers of subjects with mild and moderate renal impairment were very small, the data suggest an approximate decrease in CL/F of 40% and 60% respectively, in mild and moderate renal impairment (see section 4.2). Data in severe renal impairment are limited to two patients with creatinine clearance in the range 18 - 29 mL/min and cannot be extrapolated below this range. These data suggest a decrease in CL/F by at least 70% in patients with severe renal impairment.
+Limited data in patients with Fabry disease and impaired renal function showed that CL/F decreases with decreasing renal function. While the numbers of subjects with mild and moderate renal impairment were very small, the data suggest an approximate decrease in CL/F of 40% and 60% respectively, in mild and moderate renal impairment (see section 4.2). Data in severe renal impairment are limited to two patients with creatinine clearance in the range 18 -29 mL/min and cannot be extrapolated below this range. These data suggest a decrease in CL/F by at least 70% in patients with severe renal impairment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -366,7 +364,9 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Advanz Pharma Limited Unit 17 Northwood House Northwood Crescent Northwood Dublin 9 D09 V504
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -378,9 +378,9 @@ Date of first authorisation: 20 November 2002
 
 Date of latest renewal: 08 December 2012
 
-## 10. DATE OF REVISION OF THE TEXT
-
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -407,20 +407,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -436,7 +436,7 @@ An updated RMP should be submitted:
 
 OUTER CARTON
 
-## 1. NAMEOF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Zavesca 100 mg capsules
 
@@ -472,13 +472,13 @@ EXP
 
 Do not store above 30  C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
-
-Belgium
+Advanz Pharma Limited Unit 17 Northwood House Northwood Crescent Northwood Dublin 9 D09 V504 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -488,11 +488,11 @@ EU/1/02/238/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Zavesca
 
@@ -508,21 +508,21 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+Zavesca 100 mg capsules
 
-Zavesca 100 mg capsules miglustat
+miglustat
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Janssen-Cilag Int
+Advanz Pharma Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -541,9 +541,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Zavesca 100 mg capsules
 
@@ -569,13 +569,13 @@ Lot
 
 Zavesca contains the active substance miglustat which belongs to a group of medicines that affect metabolism. It is used to treat two conditions:
 
-##  Zavesca is used to treat mild to moderate type 1 Gaucher disease in adults.
+## · Zavesca is used to treat mild to moderate type 1 Gaucher disease in adults.
 
 In type 1 Gaucher disease, a substance called glucosylceramide is not removed from your body. It starts to build up in certain cells of the body's immune system. This can result in liver and spleen enlargement, changes in the blood, and bone disease.
 
 The usual treatment for type 1 Gaucher disease is enzyme replacement therapy. Zavesca is only used when a patient is considered unsuitable for treatment with enzyme replacement therapy.
 
-##  Zavesca is also used to treat progressive neurological symptoms in Niemann-Pick type C disease in adults and in children.
+## · Zavesca is also used to treat progressive neurological symptoms in Niemann-Pick type C disease in adults and in children.
 
 If you have Niemann-Pick type C disease, fats such as glycosphingolipids build up in the cells of your brain. This can result in disturbances in neurological functions such as slow eye movements, balance, swallowing, and memory, and in seizures.
 
@@ -634,7 +634,7 @@ Zavesca may make you feel dizzy. Do not drive or use any tools or machines if yo
 
 ## Zavesca contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,8 +642,8 @@ This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to s
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
--  For type 1 Gaucher disease: For adults, the usual dose is one capsule (100 mg) three times a day (morning, afternoon and evening). This means a daily maximum of three capsules (300 mg).
--  For Niemann-Pick type C disease: For adults and adolescents (over 12 years old), the usual dose is two capsules (200 mg) three times a day (morning, afternoon and evening). This means a daily maximum of six capsules (600 mg).
+- For type 1 Gaucher disease: For adults, the usual dose is one capsule (100 mg) three times a day (morning, afternoon and evening). This means a daily maximum of three capsules (300 mg).
+- For Niemann-Pick type C disease: For adults and adolescents (over 12 years old), the usual dose is two capsules (200 mg) three times a day (morning, afternoon and evening). This means a daily maximum of six capsules (600 mg).
 
 For children less than 12 years old , your doctor will adjust the dose for Niemann-Pick type C disease.
 
@@ -681,11 +681,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Most serious side effects:
 
-Some patients have had tingling or numbness in the hands and feet (seen commonly). They could be signs of peripheral neuropathy, due to side effects of Zavesca or they could be due to existing
+Some patients have had tingling or numbness in the hands and feet (seen commonly). They could be signs of peripheral neuropathy, due to side effects of Zavesca or they could be due to existing conditions. Your doctor will perform some tests before and during treatment with Zavesca to assess this (see section 2).
 
 <div style=\"page-break-after: always\"></div>
-
-conditions. Your doctor will perform some tests before and during treatment with Zavesca to assess this (see section 2).
 
 If you do get any of these effects, please seek medical advice from your doctor as soon as possible .
 
@@ -713,7 +711,7 @@ If you get any side effects, talk to your doctor or pharmacist . This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-Do not take this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not take this medicine after the expiry date which is stated on the carton after 'EXP' . The expiry date refers to the last day of that month.
 
 Do not store above 30  C.
 
@@ -731,9 +729,7 @@ The active substance is miglustat 100 mg.
 
 Sodium starch glycollate, Povidone (K30), Magnesium stearate.
 
-Gelatin,
-
-Titanium dioxide (E171).
+Gelatin, Titanium dioxide (E171).
 
 Black iron oxide (E172), Shellac.
 
@@ -745,168 +741,12 @@ Box of 4 blister strips, each blister strip containing 21 capsules providing a t
 
 ## Marketing Authorisation Holder:
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Advanz Pharma Limited Unit 17 Northwood House Northwood Crescent Northwood Dublin 9 D09 V504 Ireland
 
 ## Manufacturer:
 
 Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
-
-## België/Belgique/Belgien
-
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-## България
-
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Česká republika
-
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
-
-## Danmark
-
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
-
-## Deutschland
-
-Janssen-Cilag GmbH
-
-Tel: 0800 086 9247 / +49 2137 955 6955
-
-jancil@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV
-
-Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-## Nederland
-
-Janssen-Cilag B.V. Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
-
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency website:
-
-## Norge
-
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
-
-## Polska
-
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
-
-## Portugal
-
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
-
-## România
-
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
-
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
-## Suomi/Finland
-
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC Tel: +44 1 494 567 444 medinfo@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
-https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-26 12:18:07
+document_datetime: 2026-07-09 12:59:07
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evkeeza-epar-product-information_en.pdf
 document_name: evkeeza-epar-product-information_en.pdf
 version: success
-processing_time: 7.1029005
-conversion_datetime: 2026-03-01 20:06:18.48745
+processing_time: 5.9813257
+conversion_datetime: 2026-07-10 22:57:56.029805
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,7 +96,7 @@ Evkeeza can be administered without regard to lipoprotein apheresis.
 - Evinacumab should be administered over 60 minutes by intravenous infusion through an intravenous line containing a sterile, in-line or add-on 0.2-micron to 5-micron filter. Evinacumab should not be administered as an intravenous push or bolus.
 - Other medicinal products should not be mixed with evinacumab or administered concomitantly via the same infusion line.
 
-The rate of infusion may be slowed, interrupted, or discontinued if the patient develops any signs of adverse reactions, including infusion-reactions (see sections 4.4 and 4.8).
+The rate of infusion may be slowed, interrupted, or discontinued if the patient develops any signs of adverse reactions, including infusion- reactions (see sections 4.4 and 4.8).
 
 Instructions on dilution of the medicinal product before administration are listed in section 6.6.
 
@@ -202,11 +202,9 @@ Data are available for 5 patients aged ≥1 to 5 years old treated with evinacum
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -240,24 +238,28 @@ The primary efficacy endpoint was percent change in LDL-C from baseline to week 
 
 Table 2: Effect of evinacumab on lipid parameters in patients with HoFH in study ELIPSE-HoFH
 
-|                                  | Baseline (mean), mmol/l (N = 65)   | LS mean percent change or change from baseline at week 24   | LS mean percent change or change from baseline at week 24   | Difference from placebo   | P-value    |
+|                                  |   Baseline (mean), mmol/l (N = 65) | LS mean percent change or change from baseline at week 24   | LS mean percent change or change from baseline at week 24   | Difference from placebo   | P-value    |
 |----------------------------------|------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|---------------------------|------------|
 |                                  |                                    | evinacumab (N = 43)                                         | placebo (N = 22)                                            | (95% CI)                  |            |
-| LDL-C (percent change)           | 6.6                                | -47.1%                                                      | +1.9%                                                       | -49% (-65.0 to -33.1)     | < 0.0001   |
-| LDL-C (absolute change) (mmol/l) | 6.6                                | -3.5                                                        | -0.1                                                        | -3.4 (-4.5 to -2.3)       | < 0.0001   |
-| ApoB (g/l)                       | 1.7                                | -41.4%                                                      | -4.5%                                                       | -36.9% (-48.6 to -25.2)   | < 0.0001   |
-| Non-HDL-C                        | 7.2                                | -49.7%                                                      | +2.0%                                                       | -51.7% (-64.8 to -38.5)   | < 0.0001   |
-| TC                               | 8.3                                | -47.4%                                                      | +1.0%                                                       | -48.4% (-58.7 to -38.1)   | < 0.0001   |
-| TG                               | 1.4                                | -55.0%                                                      | -4.6%                                                       | -50.4% (-65.6 to -35.2)   | < 0.0001 a |
-| HDL-C b                          | 1.2                                | -29.6%                                                      | +0.8%                                                       | -                         | -          |
+| LDL-C (percent change)           |                                6.6 | -47.1%                                                      | +1.9%                                                       | -49% (-65.0 to -33.1)     | < 0.0001   |
+| LDL-C (absolute change) (mmol/l) |                                6.6 | -3.5                                                        | -0.1                                                        | -3.4 (-4.5 to -2.3)       | < 0.0001   |
+| ApoB (g/l)                       |                                1.7 | -41.4%                                                      | -4.5%                                                       | -36.9% (-48.6 to -25.2)   | < 0.0001   |
+| Non-HDL-C                        |                                7.2 | -49.7%                                                      | +2.0%                                                       | -51.7% (-64.8 to -38.5)   | < 0.0001   |
+| TC                               |                                8.3 | -47.4%                                                      | +1.0%                                                       | -48.4% (-58.7 to -38.1)   | < 0.0001   |
+| TG                               |                                1.4 | -55.0%                                                      | -4.6%                                                       | -50.4% (-65.6 to -35.2)   | < 0.0001 a |
+| HDL-C b                          |                                1.2 | -29.6%                                                      | +0.8%                                                       | -                         | -          |
 
-a nominal p-value since TG is not a key secondary endpoint b Mean percent change at week 24 results are presented based on the actual treatment received in safety population (evinacumab, n=44; placebo, n=20); there is no formal statistical testing in safety population
+a nominal p-value since TG is not a key secondary endpoint
+
+b Mean percent change at week 24 results are presented based on the actual treatment received in safety population (evinacumab, n=44; placebo, n=20); there is no formal statistical testing in safety population
 
 After the double-blind treatment period, 64 of the 65 randomised patients who entered the open-label treatment period received evinacumab. The mean percent change in LDL-C from baseline to week 48 ranged from -42.7% to -55.8%. Figure 1 shows the LDL-C mean percent change from baseline for the double-blind and observed mean percent change for the open-label treatment periods across patients who were on evinacumab or placebo during the double-blind treatment period.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1: Calculated LDL-C LS mean percent change from baseline over time through week 24, and observed mean percent change from week 28 through week 48 in study ELIPSE-HoFH
+
+307
 
 At week 24, the observed reduction in LDL-C with evinacumab was similar across predefined subgroups, including age, gender, null/null or negative/negative variants, concomitant treatment with lipoprotein apheresis, and concomitant background lipid-lowering medicinal products (statins, ezetimibe, PCSK9 inhibitor antibodies, and lomitapide). The effect of evinacumab on cardiovascular morbidity and mortality has not been determined.
 
@@ -291,7 +293,7 @@ Overall, for patients in Part A and Part B, the mean LDL-C at baseline was 7.8 m
 
 The mean age at baseline was 9.0 years (range ≥ 5 to &lt; 12); 40% males and 60% females; 70% White, 5% Black, 10% Asian, 5% American Indian or Alaska Native, and 10% Other. Mean body weight was 37.9 kg, and body mass index (BMI) was 18.8 kg/m 2 .
 
-In Part B, the primary efficacy endpoint was percent change in calculated LDL-C from baseline to week 24. At week 24, the mean percent change in calculated LDLC from baseline was -48.3% (95% confidence interval: -68.8% to -27.8%). For efficacy results, see Table 3.
+In Part B, the primary efficacy endpoint was percent change in calculated LDL-C from baseline to week 24. At week 24, the mean percent change in calculated LDLC from baseline was -48.3% (95% confidence interval: -68.8% to -27.8%). For efficacy results, se e Table 3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -336,7 +338,7 @@ After the last steady-state dose of 15 mg/kg administered intravenously every 4 
 
 ## Linearity/non-linearity
 
-Due to nonlinear clearance, a slightly greater than dose proportional increase was observed, with a 4.3- fold increase in area under the concentration-time curve at steady-state (AUCtau.ss) for a 3-fold increase in dose from 5 mg/kg to 15 mg/kgadministered intravenously every 4 weeks.
+Due to nonlinear clearance, a slightly greater than dose proportional increase was observed, with a 4.3- fold increase in area under the concentration-time curve at steady-state (AUCtau.ss) for a 3-fold increase in dose from 5 mg/kg to 15 mg/kg administered intravenously every 4 weeks.
 
 ## Pharmacokinetic/pharmacodynamic relationship(s)
 
@@ -455,7 +457,9 @@ EU/1/21/1551/001 EU/1/21/1551/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 17 June 2021 Date of latest renewal:
+Date of first authorisation: 17 June 2021
+
+Date of latest renewal: 23 February 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -489,7 +493,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicine's web-portal.
 
@@ -510,9 +514,9 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Non-interventional post-authorisation safety study (PASS): In order to evaluate the long term safety outcomes in patients with Homozygous Familial Hypercholesterolemia (HoFH) who are treated with evinacumab as well as the frequency and outcomes of pregnancy in female patients with HoFH treated with evinacumab and to evaluate the atherosclerosis process over time in patients with HoFH who are treated with evinacumab and undergo cardiac imaging, the MAHshould conduct and submit the results of a study based on data from a registry in patients with HoFH. | Annual study reports will be submitted with the annual reassessment. |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Due date                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Non-interventional post-authorisation safety study (PASS): In order to evaluate the long term safety outcomes in patients with Homozygous Familial Hypercholesterolemia (HoFH) who are treated with evinacumab as well as the frequency and outcomes of pregnancy in female patients with HoFH treated with evinacumab and to evaluate the atherosclerosis process over time in patients with HoFH who are treated with evinacumab and undergo cardiac imaging, the MAH should conduct and submit the results of a study based on data from a registry in patients with HoFH. | Annual study reports will be submitted with the annual reassessment. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -530,7 +534,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Evkeeza 150 mg/ml concentrate for solution for infusion evinacumab
+Evkeeza 150 mg/ml concentrate for solution for infusion
+
+evinacumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -594,8 +600,7 @@ EU/1/21/1551/001 EU/1/21/1551/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -614,17 +619,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Evkeeza 150 mg/ml sterile concentrate evinacumab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -636,8 +641,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 345 mg/2.3 ml
 
@@ -791,7 +796,7 @@ Tell your doctor or nurse immediately if you get any of the following symptoms o
 
 Tell your doctor or nurse if you notice any of the following side effects:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - symptoms of the common cold, such as runny nose, sore throat, and coughing (nasopharyngitis).
 
@@ -840,9 +845,7 @@ Do not store any unused portion of the infusion solution for reuse. Any unused p
 
 ## What Evkeeza contains
 
-- The active substance is evinacumab.
-
-Each 1 ml of concentrate for solution for infusion contains 150 mg of evinacumab.
+- The active substance is evinacumab. Each 1 ml of concentrate for solution for infusion contains 150 mg of evinacumab.
 
 Each vial contains either 345 mg of evinacumab in 2.3 ml of concentrate or 1 200 mg of evinacumab in 8 ml of concentrate.
 
@@ -868,25 +871,33 @@ Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## BE, BG, CZ, DK, DE, EE, ES, HR, IE, IS, IT, CY, LI, LV, LT, LU, HU, MT, NL, NO, AT, PL, PT, RO, SI, SK, FI, SE
+## BE, BG, CZ, DK, DE, EE, HR, IE, IS, IT, CY, LI, LV, LT, LU, HU, MT, NL, NO, AT, PL, PT, RO, SI, SK, FI, SE
 
 Ultragenyx Germany GmbH, DE
 
-Tel/Tél/Teл./Tlf/Puh/Sími
+Tel/Tél/Teл./Tlf/Puh/Sími: + 49 30 20179810
 
 ## EL
 
-Medison Pharma Greece Single Member Societe Anonyme, EL Τηλ : +30 210 0100 188
+Medison Pharma Greece Single Member Societe Anonyme, EL
 
-: + 49 30 20179810
+Τηλ
+
+: +30 210 0100 188
 
 <div style=\"page-break-after: always\"></div>
 
+## ES
+
+Ultragenyx Iberia, S.L., ES Tel: +34 900 838 238
+
 ## FR
 
-Ultragenyx France SAS, FR Tél: + 33 1 85 65 37 61 ou 0800 91 79 24 (numéro vert)
+Ultragenyx France SAS, FR
 
-## This leaflet was last revised in .
+Tél: + 33 1 85 65 37 61 ou 0800 91 79 24 (numéro vert)
+
+## This leaflet was last revised in {month YYYY}.
 
 This medicine has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this leaflet will be updated as necessary.
 
@@ -920,11 +931,11 @@ Evkeeza is supplied as a single use vial only. During preparation and reconstitu
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## After dilution
 
 Once prepared, administer the diluted solution immediately. If the diluted solution is not administered immediately, it may be stored temporarily either:
-
-<div style=\"page-break-after: always\"></div>
 
 - under refrigeration at 2 ºC to 8 ºC for no more than 24 hours from the time of infusion preparation to the end of the infusion
 

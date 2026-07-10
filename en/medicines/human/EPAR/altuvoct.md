@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-06 17:05:00
+document_datetime: 2026-07-08 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/altuvoct.html
 document_name: altuvoct.html
 version: success
-processing_time: 0.1427098
-conversion_datetime: 2026-07-07 15:04:58.134167
+processing_time: 0.132083
+conversion_datetime: 2026-07-10 22:39:48.733026
 docling_version:
   docling-serve: 1.26.0
   docling-jobkit: 2.0.0
-  docling: 2.110.0
+  docling: 2.111.0
   docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.6.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -116,7 +116,7 @@ English (EN) (113.94 KB - PDF)
 
 [View](/en/documents/overview/altuvoct-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-931)
+[Other languages (22)](#file-language-dropdown-360)
 
 български (BG) (137.76 KB - PDF)
 
@@ -268,7 +268,7 @@ English (EN) (585.52 KB - PDF)
 
 [View](/en/documents/product-information/altuvoct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-648)
 
 български (BG) (787.12 KB - PDF)
 
@@ -441,7 +441,7 @@ English (EN) (24.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/altuvoct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-745)
 
 български (BG) (56.86 KB - PDF)
 
@@ -625,7 +625,7 @@ Altuvoct can be used for all age groups.
 - **Marketing authorisation issued**
     - 17/06/2024
 - **Revision**
-    - 3
+    - 4
 
 ## Assessment history
 
@@ -650,6 +650,16 @@ English (EN) (145.21 KB - PDF)
 **First published:** 11/12/2024 **Last updated:** 19/12/2025
 
 [View](/en/documents/procedural-steps-after/altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Altuvoct-PSUSA-00011062-202508 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3313862
+
+English (EN) (194.67 KB - PDF)
+
+**First published:** 08/07/2026
+
+[View](/en/documents/scientific-conclusion/altuvoct-psusa-00011062-202508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Altuvoct-PSUSA-00011062-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -705,6 +715,6 @@ English (EN) (121.13 KB - PDF)
 
 **This page was last updated on**
 
-06/07/2026
+08/07/2026
 
 ## Share this page

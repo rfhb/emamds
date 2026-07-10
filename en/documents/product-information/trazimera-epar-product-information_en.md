@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-03 10:11:24
-document_pages: 54
+document_datetime: 2026-07-08 15:39:06
+document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trazimera-epar-product-information_en.pdf
 document_name: trazimera-epar-product-information_en.pdf
 version: success
-processing_time: 20.6320756
-conversion_datetime: 2026-02-04 15:09:32.504612
+processing_time: 21.6931848
+conversion_datetime: 2026-07-10 22:53:07.805791
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,6 +38,8 @@ One vial contains 420 mg of trastuzumab, a humanised IgG1 monoclonal antibody pr
 
 The reconstituted Trazimera solution contains 21 mg/mL of trastuzumab.
 
+Excipient with known effect Each 150 mg vial contains 0.6 mg of polysorbate 20. Each 420 mg vial contains 1.7 mg of polysorbate 20.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -58,10 +60,10 @@ Trazimera is indicated for the treatment of adult patients with HER2-positive me
 
 - -as monotherapy for the treatment of those patients who have received at least two chemotherapy regimens for their metastatic disease. Prior chemotherapy must have included at least an anthracycline and a taxane unless patients are unsuitable for these treatments. Hormone receptor positive patients must also have failed hormonal therapy, unless patients are unsuitable for these treatments.
 - -in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
-- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
 
 <div style=\"page-break-after: always\"></div>
 
+- -in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
 - -in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive MBC, not previously treated with trastuzumab.
 
 ## Early breast cancer
@@ -89,6 +91,8 @@ Trazimera intravenous formulation is not intended for subcutaneous administratio
 
 In order to prevent medication errors it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Trazimera (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Metastatic breast cancer
@@ -96,8 +100,6 @@ In order to prevent medication errors it is important to check the vial labels t
 ## Three-weekly schedule
 
 The recommended initial loading dose is 8 mg/kg body weight. The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Weekly schedule
 
@@ -139,13 +141,11 @@ No reductions in the dose of trastuzumab were made during clinical trials. Patie
 
 If left ventricular ejection fraction (LVEF) percentage drops ≥10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of Trazimera should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
 
-## Missed doses
-
-If the patient has missed a dose of Trazimera by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. The patient should not wait until the next planned cycle. Subsequent maintenance doses
-
 <div style=\"page-break-after: always\"></div>
 
-should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+## Missed doses
+
+If the patient has missed a dose of Trazimera by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible. The patient should not wait until the next planned cycle. Subsequent maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
 If the patient has missed a dose of Trazimera by more than one week, a re-loading dose of Trazimera should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible. Subsequent Trazimera maintenance doses (weekly regimen:2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
 
@@ -176,11 +176,11 @@ For instructions on reconstitution of Trazimera intravenous formulation before a
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see section 5.1).
 
 Currently no data from clinical trials are available on re-treatment of patients with previous exposure to trastuzumab in the adjuvant setting.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Cardiac dysfunction
 
@@ -192,11 +192,13 @@ All candidates for treatment with Trazimera, but especially those with prior ant
 
 Trastuzumab may persist in the circulation for up to 7 months after stopping treatment based on population pharmacokinetic analysis of all available data (see section 5.2). Patients who receive anthracyclines after stopping trastuzumab may possibly be at increased risk of cardiac dysfunction. If possible, physicians should avoid anthracycline-based therapy for up to 7 months after stopping trastuzumab . If anthracyclines are used, the patient's cardiac function should be monitored carefully.
 
-Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening. In all patients cardiac function should be monitored during treatment (e.g. every 12 weeks). Monitoring may help to identify patients who develop cardiac dysfunction. Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6 - 8 weeks). If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of trastuzumab therapy has been seen.
+Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening. In all patients cardiac function should be monitored during treatment (e.g. every 12 weeks). Monitoring may help to identify patients who develop cardiac dysfunction. Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6 -8 weeks). If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of trastuzumab therapy has been seen.
 
 The safety of continuation or resumption of trastuzumab in patients who experience cardiac dysfunction has not been prospectively studied. If LVEF percentage drops ≥10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks. If LVEF has not improved, or declined further, or symptomatic CHF has developed, discontinuation of trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks. All such patients should be referred for assessment by a cardiologist and followed up.
 
 If symptomatic cardiac failure develops during Trazimera therapy, it should be treated with standard medicinal products for CHF. Most patients who developed CHF or asymptomatic cardiac dysfunction in pivotal trials improved with standard CHF treatment consisting of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) and a beta-blocker. The majority of patients with cardiac symptoms and evidence of a clinical benefit of trastuzumab treatment continued on therapy without additional clinical cardiac events.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Metastatic breast cancer
 
@@ -204,11 +206,9 @@ Trazimera and anthracyclines should not be given concurrently in combination in 
 
 Patients with MBC who have previously received anthracyclines are also at risk of cardiac dysfunction with Trazimera treatment, although the risk is lower than with concurrent use of Trazimera and anthracyclines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Early breast cancer
 
-For patients with EBC, cardiac assessments, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration of Trazimera. In patients who receive anthracycline-containing chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration of Trazimera, or longer if a continuous decrease of LVEF is observed.
+For patients with EBC, cardiac assessments, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration of Trazimera. In patients who receive anthracyclinecontaining chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration of Trazimera, or longer if a continuous decrease of LVEF is observed.
 
 Patients with history of myocardial infarction (MI), angina pectoris requiring medical treatment, history of or existing CHF (NYHA Class II-IV), LVEF of &lt; 55%, other cardiomyopathy, cardiac arrhythmia requiring medical treatment, clinically significant cardiac valvular disease, poorly controlled hypertension (hypertension controlled by standard medical treatment eligible), and hemodynamic effective pericardial effusion were excluded from adjuvant and neoadjuvant EBC pivotal trials with trastuzumab and therefore treatment cannot be recommended in such patients.
 
@@ -226,13 +226,13 @@ In patients with EBC eligible for neoadjuvant-adjuvant treatment, Trazimera shou
 
 If patients have been treated concurrently with a full course of low-dose anthracyclines and Trazimera in the neoadjuvant setting, no additional cytotoxic chemotherapy should be given after surgery. In other situations, the decision on the need for additional cytotoxic chemotherapy is determined based on individual factors.
 
+<div style=\"page-break-after: always\"></div>
+
 Experience of concurrent administration of trastuzumab with low dose anthracycline regimens is currently limited to two trials (MO16432 and BO22227).
 
 In the pivotal trial MO16432, trastuzumab was administered concurrently with neoadjuvant chemotherapy containing three cycles of doxorubicin (cumulative dose 180 mg/m 2 ).
 
 The incidence of symptomatic cardiac dysfunction was 1.7% in the trastuzumab arm.
-
-<div style=\"page-break-after: always\"></div>
 
 In the pivotal trial BO22227, trastuzumab was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m 2 ); at a median follow-up exceeding 70 months, the incidence of cardiac failure/congestive cardiac failure was 0.3% in the trastuzumab intravenous arm.
 
@@ -248,17 +248,19 @@ Initial improvement followed by clinical deterioration and delayed reactions wit
 
 Severe pulmonary events have been reported with the use of trastuzumab in the post-marketing setting (see section 4.8). These events have occasionally been fatal. In addition, cases of interstitial lung disease including lung infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported. Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy. These events may occur as part of an infusion-related reaction or with a delayed onset. Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events. Therefore, these patients should not be treated with trastuzumab (see section 4.3). Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
 
+## Excipient with known effect
+
+Trazimera contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.09 mg/mL (after reconstitution with 7.2 mL sterile water for injection). Trazimera contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.09 mg/mL (after reconstitution with 20 mL sterile water for injection). Polysorbates may cause allergic reactions.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal drug interaction studies have been performed. Clinically significant interactions between trastuzumab and the concomitant medicinal products used in clinical trials have not been observed.
 
 ## Effect of trastuzumab on the pharmacokinetics of other antineoplastic agents
 
-Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6α hydroxyl-paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab
-
-<div style=\"page-break-after: always\"></div>
-
-(8 mg/kg or 4 mg/kg intravenous loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w intravenous dose, respectively). However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite, (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite was unclear.
+Pharmacokinetic data from studies BO15935 and M77004 in women with HER2-positive MBC suggested that exposure to paclitaxel and doxorubicin (and their major metabolites 6α hydroxyl-paclitaxel, POH, and doxorubicinol, DOL) was not altered in the presence of trastuzumab (8 mg/kg or 4 mg/kg intravenous loading dose followed by 6 mg/kg q3w or 2 mg/kg q1w intravenous dose, respectively). However, trastuzumab may elevate the overall exposure of one doxorubicin metabolite, (7-deoxy-13 dihydro-doxorubicinone, D7D). The bioactivity of D7D and the clinical impact of the elevation of this metabolite was unclear.
 
 Data from study JP16003, a single-arm study of trastuzumab (4 mg/kg intravenous loading dose and 2 mg/kg intravenous dose weekly) and docetaxel (60 mg/m 2 intravenous dose) in Japanese women with HER2-positive MBC, suggested that concomitant administration of trastuzumab had no effect on the single-dose pharmacokinetics of docetaxel. Study JP19959 was a substudy of BO18255 (ToGA) performed in male and female Japanese patients with advanced gastric cancer to study the pharmacokinetics of capecitabine and cisplatin when used with or without trastuzumab. The results of this substudy suggested that the exposure to the bioactive metabolites (e.g. 5-FU) of capecitabine was not affected by concurrent use of cisplatin or by concurrent use of cisplatin plus trastuzumab. However, capecitabine itself showed higher concentrations and a longer half-life when combined with trastuzumab. The data also suggested that the pharmacokinetics of cisplatin were not affected by concurrent use of capecitabine or by concurrent use of capecitabine plus trastuzumab.
 
@@ -272,6 +274,8 @@ Comparison of PK results from two Phase II studies (BO15935 and M77004) and one 
 
 Pharmacokinetic data from study H4613g/GO01305 suggested that carboplatin had no impact on the PK of trastuzumab.
 
+<div style=\"page-break-after: always\"></div>
+
 The administration of concomitant anastrozole did not appear to influence the pharmacokinetics of trastuzumab.
 
 ## 4.6 Fertility, pregnancy and lactation
@@ -282,11 +286,7 @@ Women of childbearing potential should be advised to use effective contraception
 
 ## Pregnancy
 
-Reproduction studies have been conducted in Cynomolgus monkeys at doses up to 25 times that of the weekly human maintenance dose of 2 mg/kg trastuzumab intravenous formulation and have
-
-<div style=\"page-break-after: always\"></div>
-
-revealed no evidence of impaired fertility or harm to the foetus. Placental transfer of trastuzumab during the early (days 20 -50 of gestation) and late (days 120 -150 of gestation) foetal development period was observed. It is not known whether trastuzumab can affect reproductive capacity. As animal reproduction studies are not always predictive of human response, trastuzumab should be avoided during pregnancy unless the potential benefit for the mother outweighs the potential risk to the foetus.
+Reproduction studies have been conducted in Cynomolgus monkeys at doses up to 25 times that of the weekly human maintenance dose of 2 mg/kg trastuzumab intravenous formulation and have revealed no evidence of impaired fertility or harm to the foetus. Placental transfer of trastuzumab during the early (days 20 -50 of gestation) and late (days 120 -150 of gestation) foetal development period was observed. It is not known whether trastuzumab can affect reproductive capacity. As animal reproduction studies are not always predictive of human response, trastuzumab should be avoided during pregnancy unless the potential benefit for the mother outweighs the potential risk to the foetus.
 
 In the post-marketing setting, cases of foetal renal growth and/or function impairment in association with oligohydramnios, some associated with fatal pulmonary hypoplasia of the foetus, have been reported in pregnant women receiving trastuzumab. Women who become pregnant should be advised of the possibility of harm to the foetus. If a pregnant woman is treated with trastuzumab, or if a patient becomes pregnant while receiving trastuzumab or within 7 months following the last dose of trastuzumab, close monitoring by a multidisciplinary team is desirable.
 
@@ -308,6 +308,8 @@ Trazimera has minor influence on the ability to drive or use machines (see secti
 
 Amongst the most serious and/or common adverse reactions reported in trastuzumab usage (intravenous and subcutaneous formulations) to date are cardiac dysfunction, infusion-related reactions, haematotoxicity (in particular neutropenia), infections and pulmonary adverse reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 In this section, the following categories of frequency have been used: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -316,172 +318,175 @@ Presented in Table 1 are adverse reactions that have been reported in associatio
 
 All the terms included are based on the highest percentage seen in pivotal clinical trials. In addition, terms reported in the post-marketing setting are included in Table 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1 Undesirable effects reported with intravenous trastuzumab monotherapy or in combination with chemotherapy in pivotal clinical trials (N=8386) and in post-marketing
 
-| System organ class                                                   | Adverse reaction                  | Frequency   |
-|----------------------------------------------------------------------|-----------------------------------|-------------|
-| Infections and infestations                                          | Infection                         | Very common |
-| Infections and infestations                                          | Nasopharyngitis                   | Very common |
-| Infections and infestations                                          | Neutropenic sepsis                | Common      |
-| Infections and infestations                                          | Cystitis                          | Common      |
-| Infections and infestations                                          | Influenza                         | Common      |
-| Infections and infestations                                          | Sinusitis                         | Common      |
-| Infections and infestations                                          | Skin infection                    | Common      |
-| Infections and infestations                                          | Rhinitis                          | Common      |
-| Infections and infestations                                          | Upper respiratory tract infection | Common      |
-| Infections and infestations                                          | Urinary tract infection           | Common      |
-| Infections and infestations                                          | Pharyngitis                       | Common      |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Malignant neoplasm progression    | Not known   |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Neoplasm progression              | Not known   |
-| Blood and lymphatic system disorders                                 | Febrile neutropenia               | Very common |
-| Blood and lymphatic system disorders                                 | Anaemia                           | Very common |
-| Blood and lymphatic system disorders                                 | Neutropenia                       | Very common |
-| Blood and lymphatic system disorders                                 | White blood cell count            | Very common |
-| Blood and lymphatic system disorders                                 | Thrombocytopenia                  | Very common |
-| Blood and lymphatic system disorders                                 | Hypoprothrombinaemia              | Not known   |
-| Blood and lymphatic system disorders                                 | Immune thrombocytopenia           | Not known   |
-| Immune system disorders                                              | Hypersensitivity                  | Common      |
-| Immune system disorders                                              | + Anaphylactic reaction           | Rare        |
-| Immune system disorders                                              | + Anaphylactic shock              | Rare        |
-| Metabolism and nutrition disorders                                   | Weight decreased/Weight loss      | Very common |
-| Metabolism and nutrition disorders                                   | Anorexia                          | Very common |
-| Metabolism and nutrition disorders                                   | Tumour lysis syndrome             | Not known   |
-| Metabolism and nutrition disorders                                   | Hyperkalaemia                     | Not known   |
-| Psychiatric disorders                                                | Insomnia                          | Very common |
-| Psychiatric disorders                                                | Anxiety                           | Common      |
-| Psychiatric disorders                                                | Depression                        | Common      |
-| Nervous system disorders                                             | 1 Tremor                          | Very common |
-| Nervous system disorders                                             | Dizziness                         | Very common |
-| Nervous system disorders                                             | Headache                          | Very common |
-| Nervous system disorders                                             | Paraesthesia                      | Very common |
-| Nervous system disorders                                             | Dysgeusia                         | Very common |
-| Nervous system disorders                                             | Peripheral neuropathy             | Common      |
-| Nervous system disorders                                             | Hypertonia                        | Common      |
-| Nervous system disorders                                             | Somnolence                        | Common      |
-| Eye disorders                                                        | Conjunctivitis                    | Very common |
-| Eye disorders                                                        | Lacrimation increased             | Very common |
-| Eye disorders                                                        | Dry eye                           | Common      |
-| Eye disorders                                                        | Papilloedema                      | Not known   |
-| Eye disorders                                                        | Retinal haemorrhage               | Not known   |
-| Ear and labyrinth disorders                                          | Deafness                          | Uncommon    |
-| Cardiac disorders                                                    | 1 Blood pressure decreased        | Very common |
-| Cardiac disorders                                                    | 1 Blood pressure increased        | Very common |
-| Cardiac disorders                                                    | 1 Heart beat irregular            | Very common |
-| Cardiac disorders                                                    | 1 Cardiac flutter                 | Very common |
-| Cardiac disorders                                                    | Ejection fraction decreased *     | Very common |
-| Cardiac disorders                                                    | + Cardiac failure (congestive)    | Common      |
+| System organ class                                                   | Adverse reaction                            | Frequency   |
+|----------------------------------------------------------------------|---------------------------------------------|-------------|
+| Infections and infestations                                          | Infection                                   | Very common |
+| Infections and infestations                                          | Nasopharyngitis                             | Very common |
+| Infections and infestations                                          | Neutropenic sepsis                          | Common      |
+| Infections and infestations                                          | Cystitis                                    | Common      |
+| Infections and infestations                                          | Influenza                                   | Common      |
+| Infections and infestations                                          | Sinusitis                                   | Common      |
+| Infections and infestations                                          | Skin infection                              | Common      |
+| Infections and infestations                                          | Rhinitis                                    | Common      |
+| Infections and infestations                                          | Upper respiratory tract infection           | Common      |
+| Infections and infestations                                          | Urinary tract infection                     | Common      |
+| Infections and infestations                                          | Pharyngitis                                 | Common      |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Malignant neoplasm progression              | Not known   |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Neoplasm progression                        | Not known   |
+| Blood and lymphatic system disorders                                 | Febrile neutropenia                         | Very common |
+| Blood and lymphatic system disorders                                 | Anaemia                                     | Very common |
+| Blood and lymphatic system disorders                                 | Neutropenia                                 | Very common |
+| Blood and lymphatic system disorders                                 | White blood cell count decreased/leukopenia | Very common |
+| Blood and lymphatic system disorders                                 | Thrombocytopenia                            | Very common |
+| Blood and lymphatic system disorders                                 | Hypoprothrombinaemia                        | Not known   |
+| Blood and lymphatic system disorders                                 | Immune thrombocytopenia                     | Not known   |
+| Immune system disorders                                              | Hypersensitivity                            | Common      |
+| Immune system disorders                                              | + Anaphylactic reaction                     | Rare        |
+| Immune system disorders                                              | + Anaphylactic shock                        | Rare        |
+| Metabolism and nutrition disorders                                   | Weight decreased/Weight loss                | Very common |
+| Metabolism and nutrition disorders                                   | Anorexia                                    | Very common |
+| Metabolism and nutrition disorders                                   | Tumour lysis syndrome                       | Not known   |
+| Metabolism and nutrition disorders                                   | Hyperkalaemia                               | Not known   |
+| Psychiatric disorders                                                | Insomnia                                    | Very common |
+| Psychiatric disorders                                                | Anxiety                                     | Common      |
+| Psychiatric disorders                                                | Depression                                  | Common      |
+| Nervous system disorders                                             | 1 Tremor                                    | Very common |
+| Nervous system disorders                                             | Dizziness                                   | Very common |
+| Nervous system disorders                                             | Headache                                    | Very common |
+| Nervous system disorders                                             | Paraesthesia                                | Very common |
+| Nervous system disorders                                             | Dysgeusia                                   | Very common |
+| Nervous system disorders                                             | Peripheral neuropathy                       | Common      |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Adverse reaction                            | Frequency   |
-|-------------------------------------------------|---------------------------------------------|-------------|
-|                                                 | +1 Supraventricular tachyarrhythmia         | Common      |
-|                                                 | Cardiomyopathy                              | Common      |
-|                                                 | 1 Palpitation                               | Common      |
-|                                                 | Pericardial effusion                        | Uncommon    |
-|                                                 | Cardiogenic shock                           | Not known   |
-|                                                 | Gallop rhythm present                       | Not known   |
-| Vascular disorders                              | Hot flush                                   | Very common |
-|                                                 | +1 Hypotension                              | Common      |
-|                                                 | Vasodilatation                              | Common      |
-| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                                  | Very common |
-|                                                 | Cough                                       | Very common |
-|                                                 | Epistaxis                                   | Very common |
-|                                                 | Rhinorrhoea                                 | Very common |
-|                                                 | + Pneumonia                                 | Common      |
-|                                                 | Asthma                                      | Common      |
-|                                                 | Lung disorder                               | Common      |
-|                                                 | + Pleural effusion                          | Common      |
-|                                                 | +1 Wheezing                                 | Uncommon    |
-|                                                 | Pneumonitis                                 | Uncommon    |
-|                                                 | + Pulmonary fibrosis                        | Not known   |
-|                                                 | + Respiratory distress                      | Not known   |
-|                                                 | + Respiratory failure                       | Not known   |
-|                                                 | + Lung infiltration                         | Not known   |
-|                                                 | + Acute pulmonary oedema                    | Not known   |
-|                                                 | + Acute respiratory distress syndrome       | Not known   |
-|                                                 | + Bronchospasm                              | Not known   |
-|                                                 | + Hypoxia                                   | Not known   |
-|                                                 | + Oxygen saturation decreased               | Not known   |
-|                                                 | Laryngeal oedema                            | Not known   |
-|                                                 | Orthopnoea                                  | Not known   |
-|                                                 | Pulmonary oedema                            | Not known   |
-|                                                 | Interstitial lung disease                   | Not known   |
-| Gastrointestinal disorders                      | Diarrhoea                                   | Very common |
-|                                                 | Vomiting                                    | Very common |
-|                                                 | Nausea                                      | Very common |
-|                                                 | 1 Lip swelling                              | Very common |
-|                                                 | Abdominal pain                              | Very common |
-|                                                 | Dyspepsia                                   | Very common |
-|                                                 | Constipation                                | Very common |
-|                                                 | Stomatitis                                  | Very common |
-|                                                 | Haemorrhoids                                | Common      |
-|                                                 | Dry mouth                                   | Common      |
-| Hepatobiliary disorders                         | Hepatocellular injury                       | Common      |
-|                                                 | Hepatitis                                   | Common      |
-|                                                 | Liver tenderness                            | Common      |
-|                                                 | Jaundice                                    | Rare        |
-| Skin and subcutaneous                           | Erythema                                    | Very common |
-| tissue disorders                                | Rash                                        | Very common |
-|                                                 | 1 Swelling face                             | Very common |
-|                                                 | Alopecia                                    | Very common |
-|                                                 | Nail disorder                               | Very common |
-|                                                 | Palmar-plantar erythrodysaesthesia syndrome | Very common |
-|                                                 | Acne                                        | Common      |
-|                                                 | Dry skin                                    | Common      |
+| System organ class                              | Adverse reaction                      | Frequency   |
+|-------------------------------------------------|---------------------------------------|-------------|
+| System organ class                              | Hypertonia                            | Common      |
+| System organ class                              | Somnolence                            | Common      |
+| Eye disorders                                   | Conjunctivitis                        | Very common |
+| Eye disorders                                   | Lacrimation increased                 | Very common |
+| Eye disorders                                   | Dry eye                               | Common      |
+| Eye disorders                                   | Papilloedema                          | Not known   |
+| Eye disorders                                   | Retinal haemorrhage                   | Not known   |
+| Ear and labyrinth disorders                     | Deafness                              | Uncommon    |
+| Cardiac disorders                               | 1 Blood pressure decreased            | Very common |
+| Cardiac disorders                               | 1 Blood pressure increased            | Very common |
+| Cardiac disorders                               | 1 Heart beat irregular                | Very common |
+| Cardiac disorders                               | 1 Cardiac flutter                     | Very common |
+| Cardiac disorders                               | Ejection fraction decreased *         | Very common |
+| Cardiac disorders                               | + Cardiac failure (congestive)        | Common      |
+| Cardiac disorders                               | +1 Supraventricular tachyarrhythmia   | Common      |
+| Cardiac disorders                               | Cardiomyopathy                        | Common      |
+| Cardiac disorders                               | 1 Palpitation                         | Common      |
+| Cardiac disorders                               | Pericardial effusion                  | Uncommon    |
+| Cardiac disorders                               | Cardiogenic shock                     | Not known   |
+| Cardiac disorders                               | Gallop rhythm present                 | Not known   |
+| Vascular disorders                              | Hot flush                             | Very common |
+| Vascular disorders                              | +1 Hypotension                        | Common      |
+| Vascular disorders                              | Vasodilatation                        | Common      |
+| Respiratory, thoracic and mediastinal disorders | + Dyspnoea                            | Very common |
+|                                                 | Cough                                 | Very common |
+|                                                 | Epistaxis                             | Very common |
+|                                                 | Rhinorrhoea                           | Very common |
+|                                                 | + Pneumonia                           | Common      |
+|                                                 | Asthma                                | Common      |
+|                                                 | Lung disorder                         | Common      |
+|                                                 | + Pleural effusion                    | Common      |
+|                                                 | +1 Wheezing                           | Uncommon    |
+|                                                 | Pneumonitis                           | Uncommon    |
+|                                                 | + Pulmonary fibrosis                  | Not known   |
+|                                                 | + Respiratory distress                | Not known   |
+|                                                 | + Respiratory failure                 | Not known   |
+|                                                 | + Lung infiltration                   | Not known   |
+|                                                 | + Acute pulmonary oedema              | Not known   |
+|                                                 | + Acute respiratory distress syndrome | Not known   |
+|                                                 | + Bronchospasm                        | Not known   |
+|                                                 | + Hypoxia                             | Not known   |
+|                                                 | + Oxygen saturation decreased         | Not known   |
+|                                                 | Laryngeal oedema                      | Not known   |
+|                                                 | Orthopnoea                            | Not known   |
+|                                                 | Pulmonary oedema                      | Not known   |
+|                                                 | Interstitial lung disease             | Not known   |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction              | Frequency   |
-|------------------------------------------------------|-------------------------------|-------------|
-|                                                      | Ecchymosis                    | Common      |
-|                                                      | Hyperhydrosis                 | Common      |
-|                                                      | Maculopapular rash            | Common      |
-|                                                      | Pruritus                      | Common      |
-|                                                      | Onychoclasis                  | Common      |
-|                                                      | Dermatitis                    | Common      |
-|                                                      | Urticaria                     | Uncommon    |
-|                                                      | Angioedema                    | Not known   |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                    | Very common |
-|                                                      | 1 Muscle tightness            | Very common |
-|                                                      | Myalgia                       | Very common |
-|                                                      | Arthritis                     | Common      |
-|                                                      | Back pain                     | Common      |
-|                                                      | Bone pain                     | Common      |
-|                                                      | Muscle spasms                 | Common      |
-|                                                      | Neck Pain                     | Common      |
-|                                                      | Pain in extremity             | Common      |
-| Renal and urinary disorders                          | Renal disorder                | Common      |
-|                                                      | Glomerulonephritis membranous | Not known   |
-|                                                      | Glomerulonephropathy          | Not known   |
-|                                                      | Renal failure                 | Not known   |
-| Pregnancy, puerperium and perinatal conditions       | Oligohydramnios               | Not known   |
-|                                                      | Renal hypoplasia              | Not known   |
-|                                                      | Pulmonary hypoplasia          | Not known   |
-| Reproductive system and breast disorders             | Breast inflammation/mastitis  | Common      |
-| General disorders and administration site conditions | Asthenia                      | Very common |
-| General disorders and administration site conditions | Chest pain                    | Very common |
-|                                                      | Chills                        | Very common |
-|                                                      | Fatigue                       | Very common |
-|                                                      | Influenza-like symptoms       | Very common |
-|                                                      | Infusion related reaction     | Very common |
-|                                                      | Pain                          | Very common |
-|                                                      | Pyrexia                       | Very common |
-|                                                      | Mucosal inflammation          | Very common |
-|                                                      | Peripheral oedema             | Very common |
-|                                                      | Malaise                       | Common      |
-|                                                      | Oedema                        | Common      |
-| Injury, poisoning and procedural complications       | Contusion                     | Common      |
+| System organ class                              | Adverse reaction                            | Frequency           |
+|-------------------------------------------------|---------------------------------------------|---------------------|
+| Gastrointestinal disorders                      | Diarrhoea                                   | Very common         |
+| Gastrointestinal disorders                      | Vomiting                                    | Very common         |
+| Gastrointestinal disorders                      | Nausea                                      | Very common         |
+| Gastrointestinal disorders                      | 1 Lip swelling                              | Very common         |
+| Gastrointestinal disorders                      | Abdominal pain                              | Very common         |
+| Gastrointestinal disorders                      | Dyspepsia                                   | Very common         |
+| Gastrointestinal disorders                      | Constipation                                | Very common         |
+| Gastrointestinal disorders                      | Stomatitis                                  | Very common         |
+| Gastrointestinal disorders                      | Haemorrhoids                                | Common              |
+| Gastrointestinal disorders                      | Dry mouth                                   | Common              |
+| Hepatobiliary disorders                         | Hepatocellular injury                       | Common              |
+| Hepatobiliary disorders                         | Hepatitis                                   | Common              |
+| Hepatobiliary disorders                         | Liver tenderness                            | Common              |
+| Hepatobiliary disorders                         | Jaundice                                    | Rare                |
+| Skin and subcutaneous tissue disorders          | Erythema                                    | Very common         |
+| Skin and subcutaneous tissue disorders          | Rash                                        | Very common         |
+| Skin and subcutaneous tissue disorders          | 1 Swelling face                             | Very common         |
+| Skin and subcutaneous tissue disorders          | Alopecia                                    | Very common         |
+| Skin and subcutaneous tissue disorders          | Nail disorder                               | Very common         |
+| Skin and subcutaneous tissue disorders          | Palmar-plantar erythrodysaesthesia syndrome | Very common         |
+| Skin and subcutaneous tissue disorders          | Acne                                        | Common              |
+| Skin and subcutaneous tissue disorders          | Dry skin                                    | Common              |
+| Skin and subcutaneous tissue disorders          | Ecchymosis Hyperhydrosis                    | Common Common       |
+| Skin and subcutaneous tissue disorders          | Maculopapular rash                          | Common              |
+| Skin and subcutaneous tissue disorders          | Pruritus                                    | Common              |
+| Skin and subcutaneous tissue disorders          | Onychoclasis                                | Common              |
+| Skin and subcutaneous tissue disorders          | Dermatitis                                  | Common              |
+| Skin and subcutaneous tissue disorders          | Urticaria                                   | Uncommon            |
+| Musculoskeletal and connective tissue disorders | Arthralgia                                  | Very common         |
+| Musculoskeletal and connective tissue disorders | 1 Muscle tightness                          | Very common         |
+| Musculoskeletal and connective tissue disorders | Myalgia                                     | Very common         |
+| Musculoskeletal and connective tissue disorders | Arthritis                                   | Common              |
+| Musculoskeletal and connective tissue disorders | Back pain                                   | Common              |
+| Musculoskeletal and connective tissue disorders | Bone pain                                   | Common              |
+| Musculoskeletal and connective tissue disorders | Muscle spasms                               | Common              |
+| Musculoskeletal and connective tissue disorders | Neck Pain                                   | Common              |
+| Musculoskeletal and connective tissue disorders | Pain in extremity                           | Common              |
+| Renal and urinary disorders                     | Renal disorder                              | Common              |
+| Renal and urinary disorders                     | Glomerulonephritis membranous               | Not known           |
+| Renal and urinary disorders                     | Glomerulonephropathy                        | Not known           |
+| Pregnancy, puerperium and perinatal conditions  | Renal failure Oligohydramnios               | Not known Not known |
+| Pregnancy, puerperium and perinatal conditions  | Renal hypoplasia                            | Not known           |
+| Pregnancy, puerperium and perinatal conditions  | Pulmonary hypoplasia                        | Not known           |
+| Reproductive system and breast disorders        | Breast inflammation/mastitis                | Common              |
+| General disorders and administration site       | Asthenia                                    | Very common         |
+| General disorders and administration site       | Chest pain                                  | Very common         |
+| conditions                                      | Chills                                      | Very common         |
+| General disorders and administration site       | Fatigue                                     | Very common         |
+| General disorders and administration site       | Influenza-like symptoms                     | Very common         |
+|                                                 | Infusion related reaction                   | Very common         |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class                             | Adverse reaction     | Frequency   |
+|------------------------------------------------|----------------------|-------------|
+|                                                | Pain                 | Very common |
+|                                                | Pyrexia              | Very common |
+|                                                | Mucosal inflammation | Very common |
+|                                                | Peripheral oedema    | Very common |
+|                                                | Malaise              | Common      |
+|                                                | Oedema               | Common      |
+| Injury, poisoning and procedural complications | Contusion            | Common      |
+
++ Denotes adverse reactions that have been reported in association with a fatal outcome.
+- 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions. Specific percentages for these are not available.
+
+*  Observed with combination therapy following anthracyclines and combined with taxanes
 
 ## Description of selected adverse reactions
 
 ## Cardiac dysfunction
 
 Congestive heart failure (NYHA Class II-IV) is a common adverse reaction associated with the use of trastuzumab and has been associated with a fatal outcome (see section 4.4). Signs and symptoms of cardiac dysfunction such as dyspnoea, orthopnoea, increased cough, pulmonary oedema, S3 gallop, or reduced ventricular ejection fraction, have been observed in patients treated with trastuzumab (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 In 3 pivotal clinical trials of adjuvant trastuzumab given in combination with chemotherapy, the incidence of grade 3/4 cardiac dysfunction (specifically symptomatic Congestive Heart Failure) was similar in patients who were administered chemotherapy alone (i.e. did not receive trastuzumab) and in patients who were administered trastuzumab sequentially after a taxane (0.3-0.4%). The rate was highest in patients who were administered trastuzumab concurrently with a taxane (2.0%). In the neoadjuvant setting, the experience of concurrent administration of trastuzumab and low dose anthracycline regimen is limited (see section 4.4).
 
@@ -495,6 +500,8 @@ In the pivotal metastatic trials of intravenous trastuzumab, the incidence of ca
 
 It is estimated that approximately 40% of patients who are treated with trastuzumab will experience some form of infusion-related reaction. However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions. Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4). The rate of infusion-related reactions of all grades varied between studies depending on the indication, the data collection methodology, and whether trastuzumab was given concurrently with chemotherapy or as monotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 Severe anaphylactic reactions requiring immediate additional intervention can occur usually during either the first or second infusion of trastuzumab (see section 4.4) and have been associated with a fatal outcome.
 
 Anaphylactoid reactions have been observed in isolated cases.
@@ -506,8 +513,6 @@ Febrile neutropenia, leukopenia, anaemia, thrombocytopenia and neutropenia occur
 ## Pulmonary events
 
 Severe pulmonary adverse reactions occur in association with the use of trastuzumab and have been associated with a fatal outcome. These include, but are not limited to, pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 Details of risk minimisation measures that are consistent with the EU Risk Management Plan are presented in (section 4.4) Warnings and Precautions.
 
@@ -527,6 +532,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in human clinical trials. Single doses of trastuzumab alone greater than 10 mg/kg have not been administered in the clinical trials; a maintenance dose of 10 mg/kg q3w following a loading dose of 8 mg/kg has been studied in a clinical trial with metastatic gastric cancer patients. Doses up to this level were well tolerated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -539,15 +546,11 @@ Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the huma
 
 ## Mechanism of action
 
-Trastuzumab binds with high affinity and specificity to sub-domain IV, a juxta-membrane region of HER2's extracellular domain. Binding of trastuzumab to HER2 inhibits ligand -independent HER2 signalling and prevents the proteolytic cleavage of its extracellular domain, an activation mechanism of HER2. As a result, trastuzumab has been shown, in both in vitro assays and in animals, to inhibit
-
-<div style=\"page-break-after: always\"></div>
-
-the proliferation of human tumour cells that overexpress HER2. Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC). In vitro , trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
+Trastuzumab binds with high affinity and specificity to sub-domain IV, a juxta-membrane region of HER2's extracellular domain. Binding of trastuzumab to HER2 inhibits ligand -independent HER2 signalling and prevents the proteolytic cleavage of its extracellular domain, an activation mechanism of HER2. As a result, trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2. Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC). In vitro , trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
 
 ## Detection of HER2 overexpression or HER2 gene amplification
 
-Detection of HER2 overexpression or HER2 gene amplification in breast cancer
+## Detection of HER2 overexpression or HER2 gene amplification in breast cancer
 
 Trastuzumab should only be used in patients whose tumours have HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay. HER2 overexpression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks (see section 4.4). HER2 gene amplification should be detected using fluorescence in situ hybridisation (FISH) or chromogenic in situ hybridisation (CISH) of fixed tumour blocks. Patients are eligible for Trazimera treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
 
@@ -562,7 +565,11 @@ Table 2 Recommended scoring system to evaluate the IHC staining patterns in brea
 | 0       | No staining is observed or membrane staining is observed in <10% of the tumour cells                                                        | Negative                         |
 | 1+      | A faint/barely perceptible membrane staining is detected in >10% of the tumour cells. The cells are only stained in part of their membrane. | Negative                         |
 | 2+      | A weak to moderate complete membrane staining is detected in >10% of the tumour cells.                                                      | Equivocal                        |
-| 3+      | Strong complete membrane staining is detected in >10% of the tumour cells.                                                                  | Positive                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| 3+   | Strong complete membrane staining is detected in >10% of the tumour cells.   | Positive   |
+|------|------------------------------------------------------------------------------|------------|
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
@@ -574,11 +581,7 @@ For any other method that may be used for the assessment of HER2 protein or gene
 
 ## Detection of HER2 overexpression or HER2 gene amplification in gastric cancer
 
-Only an accurate and validated assay should be used to detect HER2 overexpression or HER2 gene amplification. IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, either a silver-enhanced in situ hybridization (SISH) or a FISH technique must be applied. SISH technology is however, recommended to allow for the parallel evaluation of tumour histology and morphology. To ensure validation of testing procedures and the generation of accurate and reproducible results, HER2 testing must be performed in a laboratory
-
-<div style=\"page-break-after: always\"></div>
-
-staffed by trained personnel. Full instructions on assay performance and results interpretation should be taken from the product information leaflet provided with the HER2 testing assays used.
+Only an accurate and validated assay should be used to detect HER2 overexpression or HER2 gene amplification. IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, either a silver-enhanced in situ hybridization (SISH) or a FISH technique must be applied. SISH technology is however, recommended to allow for the parallel evaluation of tumour histology and morphology. To ensure validation of testing procedures and the generation of accurate and reproducible results, HER2 testing must be performed in a laboratory staffed by trained personnel. Full instructions on assay performance and results interpretation should be taken from the product information leaflet provided with the HER2 testing assays used.
 
 In the ToGA (BO18255) study, patients whose tumours were either IHC3+ or FISH positive were defined as HER2-positive and thus included in the study. Based on the clinical study results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
 
@@ -590,12 +593,17 @@ The recommended scoring system to evaluate the IHC staining patterns is as state
 
 Table 3 Recommended scoring system to evaluate the IHC staining patterns in gastric cancer
 
-| Score   | Surgical specimen - staining pattern                                                                                        | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
-|---------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                              | No reactivity or membranous reactivity in any tumour cell                                                                                             | Negative                         |
-| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint ⁄ barely perceptible membranous reactivity irrespective of percentage of tumour cells stained                        | Negative                         |
-| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells                             | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
-| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells                                       | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
+| Score   | Surgical specimen - staining pattern                                                                                        | Biopsy specimen - staining pattern                                                                                             | HER2 overexpression assessment   |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 0       | No reactivity or membranous reactivity in <10% of tumour cells                                                              | No reactivity or membranous reactivity in any tumour cell                                                                      | Negative                         |
+| 1+      | Faint ⁄ barely perceptible membranous reactivity in ≥10% of tumour cells; cells are reactive only in part of their membrane | Tumour cell cluster with a faint ⁄ barely perceptible membranous reactivity irrespective of percentage of tumour cells stained | Negative                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Score   | Surgical specimen - staining pattern                                                            | Biopsy specimen - staining pattern                                                                                                                    | HER2 overexpression assessment   |
+|---------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 2+      | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal                        |
+| 3+      | Strong complete, basolateral or lateral membranous reactivity in ≥10% of tumour cells           | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained           | Positive                         |
 
 In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
 
@@ -605,11 +613,7 @@ In general, SISH or FISH is considered positive if the ratio of the HER2 gene co
 
 Trastuzumab has been used in clinical studies as monotherapy for patients with MBC who have tumours that overexpress HER2 and who have failed one or more chemotherapy regimens for their metastatic disease (trastuzumab alone).
 
-Trastuzumab has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease. Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m 2  infused over 3 hours) with or without trastuzumab. In the pivotal study of docetaxel (100 mg/m 2  infused over 1 hour) with or without trastuzumab, 60% of the patients had received prior
-
-<div style=\"page-break-after: always\"></div>
-
-anthracycline-based adjuvant chemotherapy. Patients were treated with trastuzumab until progression of disease.
+Trastuzumab has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease. Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m 2  infused over 3 hours) with or without trastuzumab. In the pivotal study of docetaxel (100 mg/m 2  infused over 1 hour) with or without trastuzumab, 60% of the patients had received prior anthracycline-based adjuvant chemotherapy. Patients were treated with trastuzumab until progression of disease.
 
 The efficacy of trastuzumab in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied. However, trastuzumab plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
 
@@ -621,6 +625,8 @@ The main test method used to determine HER2 positivity in the pivotal study of d
 
 The efficacy results from the monotherapy and combination therapy studies are summarised in Table 4:
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4 Efficacy results from the monotherapy and combination therapy studies
 
 | Parameter                                     | Monotherapy         | Combination therapy                | Combination therapy   | Combination therapy               | Combination therapy   |
@@ -631,17 +637,15 @@ Table 4 Efficacy results from the monotherapy and combination therapy studies
 | Median TTP (months) (95% CI)                  | 3.2 (2.6-3.5)       | 7.1 (6.2-12.0)                     | 3.0 (2.0-4.4)         | 11.7 (9.2-13.5)                   | 6.1 (5.4-7.2)         |
 | Median Survival (months) (95% CI)             | 16.4 (12.3-ne)      | 24.8 (18.6-33.7)                   | 17.9 (11.2-23.8)      | 31.2 (27.3-40.8)                  | 22.74 (19.1-30.8)     |
 
+TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
+
 1. Study H0649g: IHC3+ patient subset
 2. Study H0648g: IHC3+ patient subset
 3. Study M77001: Full analysis set (intent-to-treat), 24 months results
 
 ## Combination treatment with trastuzumab and anastrozole
 
-Trastuzumab has been studied in combination with anastrozole for first line treatment of MBC in HER2 overexpressing, hormone-receptor (i.e. oestrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients. Progression free survival was doubled in the trastuzumab plus anastrozole arm compared to anastrozole (4.8 months versus 2.4 months). For the other parameters the improvements seen for the combination were for overall response (16.5% versus
-
-<div style=\"page-break-after: always\"></div>
-
-6.7%); clinical benefit rate (42.7% versus 27.9%); time to progression (4.8 months versus 2.4 months). For time to response and duration of response no difference could be recorded between the arms. The median overall survival was extended by 4.6 months for patients in the combination arm. The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a trastuzumab containing regimen after progression of disease.
+Trastuzumab has been studied in combination with anastrozole for first line treatment of MBC in HER2 overexpressing, hormone-receptor (i.e. oestrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients. Progression free survival was doubled in the trastuzumab plus anastrozole arm compared to anastrozole (4.8 months versus 2.4 months). For the other parameters the improvements seen for the combination were for overall response (16.5% versus 6.7%); clinical benefit rate (42.7% versus 27.9%); time to progression (4.8 months versus 2.4 months). For time to response and duration of response no difference could be recorded between the arms. The median overall survival was extended by 4.6 months for patients in the combination arm. The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a trastuzumab containing regimen after progression of disease.
 
 ## Three -weekly dosing in metastatic breast cancer
 
@@ -655,14 +659,16 @@ Table 5 Efficacy results from the non-comparative monotherapy and combination th
 | Response rate (95% CI)                       | 24% (15-35)         | 27% (14-43)        | 59% (41-76)                        | 73% (63-81)                        |
 | Median duration of response (months) (range) | 10.1 (2.8-35.6)     | 7.9 (2.1-18.8)     | 10.5 (1.8-21)                      | 13.4 (2.1-55.1)                    |
 | Median TTP (months) (95% CI)                 | 3.4 (2.8-4.1)       | 7.7 (4.2-8.3)      | 12.2 (6.2-ne)                      | 13.6 (11-16)                       |
-| Median Survival (months) (95% CI)            | ne                  | ne                 | ne                                 | 47.3 (32-ne)                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Median Survival (months) (95% CI)   | ne   | ne   | ne   | 47.3 (32-ne)   |
+|-------------------------------------|------|------|------|----------------|
 
 TTP = time to progression; \"ne\" indicates that it could not be estimated or it was not yet reached.
 
 1. Study WO16229: loading dose 8 mg/kg, followed by 6 mg/kg 3 weekly schedule
-
 2. Study MO16982: loading dose 6 mg/kg weekly x 3; followed by 6 mg/kg 3-weekly schedule
-
 3. Study BO15935
 4. Study MO16419
 
@@ -676,9 +682,6 @@ Early breast cancer is defined as non-metastatic primary invasive carcinoma of t
 
 - -Study BO16348 was designed to compare one and two years of three-weekly trastuzumab treatment versus observation in patients with HER2-positive EBC following surgery, established chemotherapy and radiotherapy (if applicable). In addition, comparison of two years of trastuzumab treatment versus one year of trastuzumab treatment was performed. Patients assigned to receive trastuzumab were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for either one or two years.
 - -The NSABP B-31 and NCCTG N9831 studies that comprise the joint analysis were designed to investigate the clinical utility of combining trastuzumab treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding trastuzumab sequentially to AC→P chemotherapy in patients with HER2 -positive EBC following surgery.
-
-<div style=\"page-break-after: always\"></div>
-
 - -The BCIRG 006 study was designed to investigate combining trastuzumab treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2-positive EBC following surgery.
 
 Early breast cancer in the HERA study was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
@@ -688,6 +691,8 @@ In the joint analysis of the NSABP B-31 and NCCTG N9831 studies, EBC was limited
 In the BCIRG 006 study HER2-positive EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, oestrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age &lt;35 years.
 
 The efficacy results from the BO16348 study following 12 months* and 8 years** median follow-up are summarized in Table 6:
+
+<div style=\"page-break-after: always\"></div>
 
 Table 6 Efficacy results from study BO16348
 
@@ -715,7 +720,9 @@ Table 6 Efficacy results from study BO16348
 | P-value versus Observation      | 0.24                          | 0.24                          | 0.0005                       | 0.0005                       |
 | Hazard ratio versus Observation | 0.75                          | 0.75                          | 0.76                         | 0.76                         |
 
-<div style=\"page-break-after: always\"></div>
+*Co-primary endpoint of DFS of 1 year versus observation met the pre-defined statistical boundary
+
+**Final analysis (including crossover of 52% of patients from the observation arm to trastuzumab)
 
 ***There is a discrepancy in the overall sample size due to a small number of patients who were randomized after the cut-off date for the 12-month median follow-up analysis
 
@@ -724,6 +731,8 @@ The efficacy results from the interim efficacy analysis crossed the protocol pre
 A final analysis was performed after a median follow-up of 8 years, which showed that 1 year trastuzumab treatment is associated with a 24% risk reduction compared to observation only (HR=0.76, 95% CI 0.67, 0.86). This translates into an absolute benefit in terms of an 8 year disease free survival rate of 6.4 percentage points in favour of 1 year trastuzumab treatment.
 
 In this final analysis, extending trastuzumab treatment for a duration of two years did not show additional benefit over treatment for 1 year [DFS HR in the intent to treat (ITT) population of 2 years versus 1 year=0.99 (95% CI: 0.87, 1.13), p-value=0.90 and OS HR=0.98 (0.83, 1.15); p-value=0.78]. The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1% versus 4.6% in the 1-year treatment arm). More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4%) compared with the 1-year treatment arm (16.3%).
+
+<div style=\"page-break-after: always\"></div>
 
 In the NSABP B-31 and NCCTG N9831 studies trastuzumab was administered in combination with paclitaxel, following AC chemotherapy.
 
@@ -734,11 +743,11 @@ Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
 Paclitaxel, in combination with trastuzumab, was administered as follows:
 
-- -intravenous paclitaxel - 80 mg/m 2 as a continuous intravenous infusion, given every week for 12 weeks.
+- -intravenous paclitaxel -80 mg/m 2 as a continuous intravenous infusion, given every week for 12 weeks.
 
 or
 
-- -intravenous paclitaxel - 175 mg/m 2 as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
+- -intravenous paclitaxel -175 mg/m 2  as a continuous intravenous infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
 
 The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 studies at the time of the definitive analysis of DFS * are summarized in Table 7. The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
 
@@ -753,17 +762,13 @@ Table 7 Summary of efficacy results from the joint analysis of the NSABP B-31 an
 | Death (OS event):           |                 |                  |                                         |
 | No. patients with event     | 92 (5.5)        | 62 (3.7)         | 0.67 (0.48, 0.92) p=0.014 **            |
 
-<div style=\"page-break-after: always\"></div>
-
-- A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
-* At median duration of follow up of 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm
-- ** p value for OS did not cross the prespecified statistical boundary for comparison of AC→PH vs. AC→P
-
 For the primary endpoint, DFS, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2% versus 75.4%) in favour of the AC→PH ( trastuzumab) arm.
 
 At the time of a safety update after a median of 3.5-3.8 years follow up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS. Despite the cross-over to trastuzumab in the control arm, the addition of trastuzumab to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence. The addition of trastuzumab to paclitaxel chemotherapy also resulted in a 37% decrease in the risk of death.
 
-The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median followup 8.3 years in the AC→PH group). Treatment with AC→PH resulted in a statistically significant improvement in OS compared with AC→P (stratified HR=0.64; 95% CI [0.55, 0.74]; log -rank p-value &lt; 0.0001). At 8 years, the survival rate was estimated to be 86.9% in the AC→PH arm and 79.4% in the AC→P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
+The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC→PH group). Treatment with AC→PH resulted in a statistically significant improvement in OS compared with AC→P (stratified HR=0.64; 95% CI [0.55, 0.74]; log-rank p-value &lt; 0.0001). At 8 years, the survival rate was estimated to be 86.9% in the AC→PH arm and 79.4% in the AC→P arm, an absolute benefit of 7.4% (95% CI 4.9%, 10.0%).
+
+<div style=\"page-break-after: always\"></div>
 
 The final OS results from the joint analysis of studies NSABP B-31 and NCCTG N9831 are summarized in Table 8 below:
 
@@ -775,23 +780,21 @@ Table 8 Final overall survival analysis from the joint analysis of studies NSABP
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
-DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR=0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8% patients in the AC→P arm who crossed over to receive trastuzumab. At 8 years, the diseasefree survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8% compared with the AC→P arm.
+DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR=0.61; 95% CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8% patients in the AC→P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2% (95% CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8% compared with the A C→P arm.
 
 In the BCIRG 006 study trastuzumab was administered either in combination with docetaxel, following AC chemotherapy (AC→DH) or in combination with docetaxel and carboplatin (DCarbH).
 
-Docetaxel was administered as follows:
+## Docetaxel was administered as follows:
 
-- -intravenous docetaxel - 100 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day 1 of each subsequent cycle)
+- -intravenous docetaxel -100 mg/m 2  as an intravenous infusion over 1 hour, given every 3 weeks for 4 cycles (day 2 of first docetaxel cycle, then day 1 of each subsequent cycle)
 
 or
 
-- -intravenous docetaxel - 75 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 6 cycles (day 2 of cycle 1, then day 1 of each subsequent cycle)
+- -intravenous docetaxel -75 mg/m 2 as an intravenous infusion over 1 hour, given every 3 weeks for 6 cycles (day 2 of cycle 1, then day 1 of each subsequent cycle)
 
 ## which was followed by:
 
 - -carboplatin - at target AUC=6 mg/mL/min administered by intravenous infusion over 30-60 minutes repeated every 3 weeks for a total of six cycles
-
-<div style=\"page-break-after: always\"></div>
 
 Trastuzumab was administered weekly with chemotherapy and 3 weekly thereafter for a total of 52 weeks.
 
@@ -803,7 +806,12 @@ Table 9 Overview of efficacy a nalyses BCIRG 006 AC→D versus AC→DH
 |-----------------------------------------------|-----------------|------------------|-----------------------------------------|
 | Disease-free survival No. patients with event |             195 |              134 | 0.61 (0.49, 0.77) p<0.0001              |
 | Distant recurrence No. patients with event    |             144 |               95 | 0.59 (0.46, 0.77) p<0.0001              |
-| Death (OS event) No. patients with event      |              80 |               49 | 0.58 (0.40, 0.83) p=0.0024              |
+
+<div style=\"page-break-after: always\"></div>
+
+| Parameter                                |   AC→D (n=1073) |   AC→DH (n=1074) | Hazard ratio vs AC→D (95% CI) p-value   |
+|------------------------------------------|-----------------|------------------|-----------------------------------------|
+| Death (OS event) No. patients with event |              80 |               49 | 0.58 (0.40, 0.83) p=0.0024              |
 
 Table 10 Overview of efficacy a nalyses BCIRG 006 AC→D versus DCarbH
 
@@ -883,23 +891,23 @@ Chemotherapy was administered as follows:
 
 or
 
-- -intravenous 5-fluorouracil - 800 mg/m 2 /day as a continuous intravenous infusion over 5 days, given every 3 weeks for 6 cycles (days 1 to 5 of each cycle)
+- -intravenous 5-fluorouracil -800 mg/m 2 /day as a continuous intravenous infusion over 5 days, given every 3 weeks for 6 cycles (days 1 to 5 of each cycle)
 
 Either of which was administered with:
 
-- -cisplatin - 80 mg/m 2 every 3 weeks for 6 cycles on day 1 of each cycle.
+- -cisplatin -80 mg/m 2 every 3 weeks for 6 cycles on day 1 of each cycle.
 
 The efficacy results from study BO18225 are summarized in Table 13:
 
 Table 13 Efficacy results from BO18225
 
-| Parameter                                  | FP N=290   | FP+H N=294   | HR(95% CI)          | p-value   |
-|--------------------------------------------|------------|--------------|---------------------|-----------|
-| Overall survival, Median months            | 11.1       | 13.8         | 0.74 (0.60-0.91)    | 0.0046    |
-| Progression-free survival, Median months   | 5.5        | 6.7          | 0.71 (0.59-0.85)    | 0.0002    |
-| Time to disease progression, Median months | 5.6        | 7.1          | 0.70 (0.58-0.85)    | 0.0003    |
-| Overall response rate,%                    | 34.5%      | 47.3%        | 1.70 a (1.22, 2.38) | 0.0017    |
-| Duration of response, Median months        | 4.8        | 6.9          | 0.54 (0.40-0.73)    | < 0.0001  |
+| Parameter                                  | FP N=290   | FP + H N=294   | HR (95% CI)         | p-value   |
+|--------------------------------------------|------------|----------------|---------------------|-----------|
+| Overall survival, Median months            | 11.1       | 13.8           | 0.74 (0.60-0.91)    | 0.0046    |
+| Progression-free survival, Median months   | 5.5        | 6.7            | 0.71 (0.59-0.85)    | 0.0002    |
+| Time to disease progression, Median months | 5.6        | 7.1            | 0.70 (0.58-0.85)    | 0.0003    |
+| Overall response rate, %                   | 34.5%      | 47.3%          | 1.70 a (1.22, 2.38) | 0.0017    |
+| Duration of response, Median months        | 4.8        | 6.9            | 0.54 (0.40-0.73)    | < 0.0001  |
 
 FP + H: Fluoropyrimidine/cisplatin + trastuzumab
 
@@ -1112,7 +1120,7 @@ Date of latest renewal: 20 March 2023
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-31
+32
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1187,7 +1195,7 @@ One vial contains 150 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-L-histidine hydrochloride monohydrate, L-histidine, E 432, sucrose.
+L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, sucrose.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1221,7 +1229,7 @@ Discard by:
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1265,7 +1273,7 @@ Trazimera 150 mg powder for concentrate trastuzumab For intravenous use only
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -1275,8 +1283,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1292,7 +1299,7 @@ One vial contains 420 mg trastuzumab. After reconstitution 1 mL concentrate cont
 
 ## 3. LIST OF EXCIPIENTS
 
-L-histidine hydrochloride monohydrate, L-histidine, E 432, sucrose.
+L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20, sucrose.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1417,8 +1424,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1491,15 +1498,13 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 It may take up to 7 months for Trazimera to be removed from the body. Therefore you should tell your doctor, pharmacist or nurse that you have had Trazimera if you start any new medicine in the 7 months after stopping treatment.
 
-## Pregnancy
+## Pregnancy and breast-feeding
 
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
 - You should use effective contraception during treatment with Trazimera and for at least 7 months after treatment has ended.
 - Your doctor will advise you of the risks and benefits of taking Trazimera during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving Trazimera. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
 
 <div style=\"page-break-after: always\"></div>
-
-## Breast-feeding
 
 Do not breast-feed your baby during Trazimera therapy and for 7 months after the last dose of Trazimera, as Trazimera may pass to your baby through your breast milk.
 
@@ -1508,6 +1513,12 @@ Ask your doctor or pharmacist for advice before taking any medicine.
 ## Driving and using machines
 
 Trazimera may affect your ability to drive a car or operate machines. If during treatment you experience symptoms, such as dizziness, sleepiness, chills or fever, you should not drive or use machines until these symptoms disappear.
+
+## Trazimera contains polysorbate
+
+Trazimera contains 0.6 mg of polysorbate 20 in each 150 mg vial, which is equivalent to 0.09 mg/mL (after reconstitution with 7.2 mL sterile water for injection). Trazimera contains 1.7 mg of polysorbate 20 in each 420 mg vial, which is equivalent to 0.09 mg/mL (after reconstitution with 20 mL sterile water for injection).
+
+Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Trazimera is given
 
@@ -1529,15 +1540,13 @@ It may take up to 7 months for Trazimera to be removed from your body. Therefore
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, Trazimera can cause side effects, although not everybody gets them. Some of these side effects may be serious and may lead to hospitalisation.
 
-During a Trazimera infusion, chills, fever and other flu like symptoms may occur. These are very common (may affect more than 1 in 10 people). Other infusion-related symptoms are: feeling sick (nausea), vomiting, pain, increased muscle tension and shaking, headache, dizziness, breathing difficulties, high or low blood pressure, heart rhythm disturbances (palpitations, heart fluttering or
-
-<div style=\"page-break-after: always\"></div>
-
-irregular heart beat), swelling of the face and lips, rash and feeling tired. Some of these symptoms can be serious and some patients have died (see section 2 under 'Warnings and precautions').
+During a Trazimera infusion, chills, fever and other flu like symptoms may occur. These are very common (may affect more than 1 in 10 people). Other infusion-related symptoms are: feeling sick (nausea), vomiting, pain, increased muscle tension and shaking, headache, dizziness, breathing difficulties, high or low blood pressure, heart rhythm disturbances (palpitations, heart fluttering or irregular heart beat), swelling of the face and lips, rash and feeling tired. Some of these symptoms can be serious and s ome patients have died (see section 2 under 'Warnings and precautions').
 
 These effects mainly occur with the first intravenous infusion ('drip' into your vein) and during the first few hours after the start of the infusion. They are usually temporary. You will be observed by a healthcare professional during the infusion and for at least six hours after the start of the first infusion and for two hours after the start of other infusions. If you develop a reaction, they will slow down or stop the infusion and may give you treatment to counteract the side effects. The infusion may be continued after the symptoms improve.
 
@@ -1566,6 +1575,9 @@ Very common (may affect more than 1 in 10 people):
 - chest pain
 - abdominal pain
 - joint pain
+
+<div style=\"page-break-after: always\"></div>
+
 - low counts of red blood cells and white blood cells (which help fight infection) sometimes with fever
 - muscle pain
 - conjunctivitis
@@ -1575,9 +1587,6 @@ Very common (may affect more than 1 in 10 people):
 - hair loss
 - tremor
 - hot flush
-
-<div style=\"page-break-after: always\"></div>
-
 - dizziness
 - nail disorders
 - weight loss
@@ -1597,77 +1606,48 @@ Very common (may affect more than 1 in 10 people):
 
 ## Common (may affect up to 1 in 10 people):
 
-- •
-
 - allergic reactions
-
-- dry eyes
-
 - throat infections
-
-- sweating
-
-- bladder and skin infections •
-
-feeling weak and unwell
-
-- inflammation of the breast •
-
-anxiety
-
+- bladder and skin infections
+- inflammation of the breast
 - inflammation of the liver
-
-- depression
-
-- kidney disorders •
-
-asthma
-
-- increased muscle tone or tension •
-
-infection of lungs
-
-- (hypertonia) •
-
-lung disorders
-
-- pain in the arms and/or legs •
-
-back pain
-
+- kidney disorders
+- increased muscle tone or tension (hypertonia)
+- pain in the arms and/or legs
 - itchy rash
-
-- neck pain
-
 - sleepiness (somnolence)
-
-- •
-
-bone pain
-
 - haemorrhoids
-
-- acne
-
 - itchiness
-
+- dry mouth and skin
+- dry eyes
+- sweating
+- feeling weak and unwell
+- anxiety
+- depression
+- asthma
+- infection of lungs
+- lung disorders
+- back pain
+- neck pain
+- bone pain
+- acne
 - leg cramps
 
-- dry mouth and skin
+<div style=\"page-break-after: always\"></div>
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - deafness
 - bumpy rash
 - wheezing
 - inflammation or scarring of the lungs
 
-## Rare (may affect up to 1 in 1 000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - jaundice
 - anaphylactic reactions
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
 - abnormal or impaired blood clotting
 - high potassium levels
@@ -1677,9 +1657,6 @@ bone pain
 - respiratory distress
 - respiratory failure
 - acute accumulation of fluid in the lungs
-
-<div style=\"page-break-after: always\"></div>
-
 - acute narrowing of the airways
 - abnormally low oxygen levels in the blood
 - difficulty in breathing when lying flat
@@ -1708,6 +1685,8 @@ Store in a refrigerator (2°C -8°C).
 
 Store in the original package in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 Unopened vials of Trazimera may be stored up to 30°C for a single period of up to 3 months. Upon removal from refrigerated storage, Trazimera must not be returned to refrigerated storage. Discard at the end of this 3-month period or by the expiry date on the vial, whichever occurs first. Record the 'discard by' date in the date field provided on the carton.
 
 Infusion solutions should be used immediately after dilution. Do not use Trazimera if you notice any particulate matter or discoloration prior to administration.
@@ -1727,9 +1706,7 @@ The active substance is trastuzumab. One vial contains either:
 
 The resulting solution contains approximately 21 mg/mL trastuzumab.
 
-- -The other ingredient(s) are L-histidine hydrochloride monohydrate, L-histidine, sucrose, polysorbate 20 (E 432).
-
-<div style=\"page-break-after: always\"></div>
+- -The other ingredient(s) are L-histidine hydrochloride monohydrate, L-histidine, sucrose, polysorbate 20 (E 432) (see section 2 'Trazimera contains polysorbate' ).
 
 ## What Trazimera looks like and contents of the pack
 
@@ -1745,17 +1722,29 @@ Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien Luxembourg/Luxemburg
+België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
 
-Pfizer NV/SA
+## Kύπρος
 
-Tél/Tel: +32 (0)2 554 62 11
+Pfizer Ελλάς
+
+A.E. (Cyprus Branch) : +357 22817690
+
+T 
 
 ## Česká republika
 
 Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: +36 1 488 37 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -1787,57 +1776,7 @@ Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς A.E.
-
-Τηλ: +30 210 6785800
-
-## Kύπρος
-
-Pfizer Ελλάς
-
-A.E. (Cyprus Branch)
-
-T 
-
-: +357 22817690
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: +36 1 488 37 00
-
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: + 356 2134 4610
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
-
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
-
-## Polska
-
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
-
-<div style=\"page-break-after: always\"></div>
+Pfizer Ελλάς A.E. Τηλ: +30 210 6785800
 
 ## España
 
@@ -1883,6 +1822,66 @@ Pfizer Luxembourg SARL filiāle Latvijā
 
 Tel: + 371 670 35 775
 
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: + 356 2134 4610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L Tel: +40 (0) 21 207 28 00
+
+## Slovenija
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
+
+## Slovenská republika
+
+Pfizer Luxembourg SARL, organizačná zložka Tel: +421 2 3355 5500
+
+## Suomi/Finland
+
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
+
+## Sverige
+
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
+
+<div style=\"page-break-after: always\"></div>
+
 ## Lietuva
 
 Pfizer Luxembourg SARL filialas Lietuvoje
@@ -1896,42 +1895,6 @@ Tel: +370 5 251 4000
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
-
-## România
-
-Pfizer Romania S.R.L
-
-Tel: +40 (0) 21 207 28 00
-
-## Slovenija
-
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana
-
-Tel: +386 (0)1 52 11 400
-
-## Slovenská republika
-
-Pfizer Luxembourg SARL, organizačná zložka
-
-Tel: +421 2 3355 5500
-
-## Suomi/Finland
-
-Pfizer Oy
-
-Puh/Tel: +358 (0)9 430 040
-
-## Sverige
-
-Pfizer AB
-
-Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 

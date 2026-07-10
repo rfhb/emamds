@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 12:08:00
+document_datetime: 2026-07-08 10:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ritonavir-viatris.html
 document_name: ritonavir-viatris.html
 version: success
-processing_time: 0.1292843
-conversion_datetime: 2026-05-10 12:51:36.343333
+processing_time: 0.1182828
+conversion_datetime: 2026-07-10 22:37:00.145037
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Ritonavir Viatris (previously Ritonavir Mylan)
 
@@ -38,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Ritonavir Viatris (previously Ritonavir Mylan)](#news-on)
-- [More information on Ritonavir Mylan](#more-information-on-ritonavir-mylan-1509)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -47,201 +45,65 @@ Page contents
 
 ## Overview
 
-This is a summary of the European public assessment report (EPAR) for Ritonavir Mylan. It explains how the Agency assessed the medicine to recommend its authorisation in the EU and its conditions of use. It is not intended to provide practical advice on how to use Ritonavir Mylan.
+Ritonavir Viatris is used in combination with other medicines to treat patients over two years of age who are infected with human immunodeficiency virus type 1 (HIV-1), a virus that causes acquired immune deficiency syndrome (AIDS).
 
-For practical information about using Ritonavir Mylan, patients should read the package leaflet or contact their doctor or pharmacist.
+Ritonavir Viatris contains the active substance ritonavir.
+
+Ritonavir Viatris is a 'generic medicine'. This means that it contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Ritonavir Viatris is Norvir.
 
 Expand section
 
 Collapse section
 
-## What is Ritonavir Mylan and what is it used for?
+### How is Ritonavir Viatris used?
 
-Ritonavir Mylan is used in combination with other medicines to treat patients over two years of age who are infected with human immunodeficiency virus type 1 (HIV-1), a virus that causes acquired immune deficiency syndrome (AIDS).
+Ritonavir Viatris can only be obtained with a prescription and treatment should be given by a doctor who has experience in the treatment of HIV infection. It is available as tablets and should be taken with food.
 
-Ritonavir Mylan contains the active substance ritonavir and is a 'generic medicine'. This means that Ritonavir Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the European Union (EU) called Norvir.
+Ritonavir Viatris can be used as a 'pharmacokinetic enhancer' (booster) to increase the blood levels of other antiviral medicines that belong to the same group (known as protease inhibitors); it can also be used in larger doses for a direct antiviral effect on HIV.
 
-## How is Ritonavir Mylan used?
+For more information about using Ritonavir Viatris, see the package leaflet or contact your doctor or pharmacist.
 
-Ritonavir Mylan can only be obtained with a prescription and treatment with Ritonavir Mylan should be given by a doctor who has experience in the treatment of HIV infection. It is available as tablets (100 mg) and should be taken with food.
-
-Ritonavir Mylan can be used as a 'pharmacokinetic enhancer' (booster) to increase the blood levels of other antiviral medicines that belong to the same group as Ritonavir Mylan (protease inhibitors) including amprenavir, atazanavir, darunavir, fosamprenavir, lopinavir, saquinavir, and tipranavir. The usual dose of Ritonavir Mylan for adults is 100 or 200 mg, once or twice a day. The dose depends on which other protease inhibitor is being taken. For more information, see the package leaflet provided with the other medicine.
-
-Ritonavir Mylan can also be used in larger doses for a direct antiviral effect on HIV. The recommended dose for adults (aged 18 years or over) is 600 mg twice a day. For younger patients, the recommended dose depends on the patient's height and weight. Treatment should start with a low dose that is gradually increased over the first 14 days of treatment.
-
-## How does Ritonavir Mylan work?
+### How does Ritonavir Viatris work?
 
 As a 'booster', the active substance ritonavir slows the breakdown of other protease inhibitor antivirals. This increases the levels of these protease inhibitors in the blood and enhances their antiviral effect.
 
-At higher antiviral doses, ritonavir is a 'protease inhibitor'. This means that it blocks a viral enzyme called protease, which is involved in the multiplication of HIV. When the enzyme is blocked, the virus can no longer multiply normally, slowing down its spread. Ritonavir Mylan, taken in combination with other antiviral medicines, reduces the amount of HIV in the blood and keeps it at a low level. Ritonavir Mylan does not cure HIV infection or AIDS, but it may hold off damage to the immune system and the development of infections and diseases associated with AIDS.
+At higher antiviral doses, it blocks a viral enzyme called protease, which is involved in the replication of HIV. When the enzyme is blocked, the virus can no longer replicate normally, slowing down the spread of infection. Ritonavir Viatris, taken in combination with other antiviral medicines, reduces the amount of HIV in the blood and keeps it at a low level. Ritonavir Viatris does not cure HIV infection or AIDS, but it may hold off damage to the immune system and the development of infections and diseases associated with AIDS.
 
-## How has Ritonavir Mylan been studied?
+### How has Ritonavir Viatris been studied?
 
-Studies on the benefits and risks of the active substance in the approved uses have already been carried out with the reference medicine, Norvir, and do not need to be repeated for Ritonavir Mylan.
+Studies on the benefits and risks of the active substance in the approved uses have already been carried out with the reference medicine, Norvir, and do not need to be repeated for Ritonavir Viatris.
 
-As for every medicine, the company provided studies on the quality of Ritonavir Mylan. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
+As for every medicine, the company provided studies on the quality of Ritonavir Viatris. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Ritonavir Mylan?
+### What are the benefits and risks of Ritonavir Viatris?
 
-Because Ritonavir Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
+Because Ritonavir Viatris is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Ritonavir Mylan approved?
+### Why is Ritonavir Viatris authorised in the EU?
 
-The European Medicines Agency concluded that, in accordance with EU requirements, Ritonavir Mylan has been shown to have comparable quality and to be bioequivalent to Norvir. Therefore, the Agency's view was that, as for Norvir, the benefit outweighs the identified risk. The Agency recommended that Ritonavir Mylan be approved for use in the EU.
+The European Medicines Agency concluded that, in accordance with EU requirements, Ritonavir Viatris has been shown to have comparable quality and to be bioequivalent to Norvir. Therefore, the Agency's view was that, as for Norvir, the benefit outweighs the identified risk. The Agency recommended that Ritonavir Viatris be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ritonavir Mylan?
+### What measures are being taken to ensure the safe and effective use of Ritonavir Viatris?
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ritonavir Mylan have been included in the summary of product characteristics and the package leaflet.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ritonavir Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Norvir also apply to Ritonavir Viatris where appropriate.
 
-## Other information about Ritonavir Mylan
+As for all medicines, data on the use of Ritonavir Viatris are continuously monitored. Suspected side effects reported with Ritonavir Viatris are carefully evaluated and any necessary action taken to protect patients.
 
-The European Commission granted a marketing authorisation valid throughout the European Union for Ritonavir Mylan on 10 November 2017.
+### Other information about Ritonavir Viatris
 
-For more information about treatment with Ritonavir Mylan, read the package leaflet (also part of the EPAR) or contact your doctor or pharmacist.
+Ritonavir Viatris received a marketing authorisation valid throughout the EU on 10 November 2017.
 
-Ritonavir Mylan : EPAR - Summary for the public
+The name of the medicine was changed to Ritonavir Viatris on 17 July 2024.
+
+Ritonavir Viatris : EPAR - Medicine overview
 
 Reference Number: EMA/621228/2017
 
-English (EN) (92.32 KB - PDF)
+English (EN) (140.11 KB - PDF)
 
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
 
-[View](/en/documents/overview/ritonavir-mylan-epar-summary-public_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-88)
-
-български (BG) (119.93 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/bg/documents/overview/ritonavir-mylan-epar-summary-public_bg.pdf)
-
-español (ES) (92.65 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/es/documents/overview/ritonavir-mylan-epar-summary-public_es.pdf)
-
-čeština (CS) (117.32 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/cs/documents/overview/ritonavir-mylan-epar-summary-public_cs.pdf)
-
-dansk (DA) (92.28 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/da/documents/overview/ritonavir-mylan-epar-summary-public_da.pdf)
-
-Deutsch (DE) (94.16 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/de/documents/overview/ritonavir-mylan-epar-summary-public_de.pdf)
-
-eesti keel (ET) (91.44 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/et/documents/overview/ritonavir-mylan-epar-summary-public_et.pdf)
-
-ελληνικά (EL) (120.66 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/el/documents/overview/ritonavir-mylan-epar-summary-public_el.pdf)
-
-français (FR) (93.78 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/fr/documents/overview/ritonavir-mylan-epar-summary-public_fr.pdf)
-
-hrvatski (HR) (111.99 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/hr/documents/overview/ritonavir-mylan-epar-summary-public_hr.pdf)
-
-italiano (IT) (91.84 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/it/documents/overview/ritonavir-mylan-epar-summary-public_it.pdf)
-
-latviešu valoda (LV) (112.86 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/lv/documents/overview/ritonavir-mylan-epar-summary-public_lv.pdf)
-
-lietuvių kalba (LT) (115.44 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/lt/documents/overview/ritonavir-mylan-epar-summary-public_lt.pdf)
-
-magyar (HU) (113.97 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/hu/documents/overview/ritonavir-mylan-epar-summary-public_hu.pdf)
-
-Malti (MT) (118.39 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/mt/documents/overview/ritonavir-mylan-epar-summary-public_mt.pdf)
-
-Nederlands (NL) (93.13 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/nl/documents/overview/ritonavir-mylan-epar-summary-public_nl.pdf)
-
-polski (PL) (118.85 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/pl/documents/overview/ritonavir-mylan-epar-summary-public_pl.pdf)
-
-português (PT) (93.03 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/pt/documents/overview/ritonavir-mylan-epar-summary-public_pt.pdf)
-
-română (RO) (115.01 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/ro/documents/overview/ritonavir-mylan-epar-summary-public_ro.pdf)
-
-slovenčina (SK) (117.26 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/sk/documents/overview/ritonavir-mylan-epar-summary-public_sk.pdf)
-
-slovenščina (SL) (112.87 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/sl/documents/overview/ritonavir-mylan-epar-summary-public_sl.pdf)
-
-Suomi (FI) (92.17 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/fi/documents/overview/ritonavir-mylan-epar-summary-public_fi.pdf)
-
-svenska (SV) (92.31 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 20/11/2017
-
-[View](/sv/documents/overview/ritonavir-mylan-epar-summary-public_sv.pdf)
+[View](/en/documents/overview/ritonavir-viatris-epar-medicine-overview_en.pdf)
 
 Ritonavir Mylan : EPAR - Risk Management Plan
 
@@ -261,7 +123,7 @@ English (EN) (453.09 KB - PDF)
 
 [View](/en/documents/product-information/ritonavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-53)
 
 български (BG) (639.11 KB - PDF)
 
@@ -293,7 +155,7 @@ Deutsch (DE) (461.08 KB - PDF)
 
 [View](/de/documents/product-information/ritonavir-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (445.33 KB - PDF)
+eesti (ET) (445.33 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 08/05/2026
 
@@ -317,25 +179,19 @@ hrvatski (HR) (465.41 KB - PDF)
 
 [View](/hr/documents/product-information/ritonavir-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (421.36 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/ritonavir-viatris-epar-product-information_is.pdf)
-
 italiano (IT) (458.23 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/ritonavir-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (561.12 KB - PDF)
+latviešu (LV) (561.12 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/ritonavir-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (547.05 KB - PDF)
+lietuvių (LT) (547.05 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 08/05/2026
 
@@ -358,12 +214,6 @@ Nederlands (NL) (456.85 KB - PDF)
 **First published:** 20/11/2017 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/ritonavir-viatris-epar-product-information_nl.pdf)
-
-norsk (NO) (433.79 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/ritonavir-viatris-epar-product-information_no.pdf)
 
 polski (PL) (531.33 KB - PDF)
 
@@ -395,7 +245,7 @@ slovenščina (SL) (499.29 KB - PDF)
 
 [View](/sl/documents/product-information/ritonavir-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (420.74 KB - PDF)
+suomi (FI) (420.74 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 08/05/2026
 
@@ -407,6 +257,18 @@ svenska (SV) (439.79 KB - PDF)
 
 [View](/sv/documents/product-information/ritonavir-viatris-epar-product-information_sv.pdf)
 
+Íslenska (IS) (421.36 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/05/2026
+
+[View](/is/documents/product-information/ritonavir-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (433.79 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/05/2026
+
+[View](/no/documents/product-information/ritonavir-viatris-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000325156
 
 05/05/2026
@@ -415,7 +277,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,7 +296,7 @@ English (EN) (11.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-170)
 
 български (BG) (56.16 KB - PDF)
 
@@ -459,7 +322,7 @@ Deutsch (DE) (11.37 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (12 KB - PDF)
+eesti (ET) (12 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
@@ -483,25 +346,19 @@ hrvatski (HR) (50.42 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (20.76 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 10/09/2024
-
-[View](/is/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (11.6 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/it/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (51.73 KB - PDF)
+latviešu (LV) (51.73 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/lv/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (52.41 KB - PDF)
+lietuvių (LT) (52.41 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
@@ -524,12 +381,6 @@ Nederlands (NL) (11.63 KB - PDF)
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/nl/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (37.7 KB - PDF)
-
-**First published:** 20/11/2017 **Last updated:** 10/09/2024
-
-[View](/no/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.45 KB - PDF)
 
@@ -555,7 +406,7 @@ slovenčina (SK) (59.92 KB - PDF)
 
 [View](/sk/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_sk.pdf)
 
-Suomi (FI) (11.7 KB - PDF)
+suomi (FI) (11.7 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 10/09/2024
 
@@ -567,27 +418,30 @@ svenska (SV) (37.98 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (20.76 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
+
+[View](/is/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (37.7 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
+
+[View](/no/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ritonavir Viatris (previously Ritonavir Mylan)
-
-Active substance
-
-ritonavir
-
-International non-proprietary name (INN) or common name
-
-ritonavir
-
-Therapeutic area (MeSH)
-
-HIV Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AE03
+- **Name of medicine**
+    - Ritonavir Viatris (previously Ritonavir Mylan)
+- **Active substance**
+    - ritonavir
+- **International non-proprietary name (INN) or common name**
+    - ritonavir
+- **Therapeutic area (MeSH)**
+    - HIV Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AE03
 
 ### Pharmacotherapeutic group
 
@@ -599,31 +453,18 @@ Ritonavir is indicated in combination with other antiretroviral agents for the t
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004549
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-14/09/2017
-
-Marketing authorisation issued
-
-09/11/2017
-
-Revision
-
-20
+- **EMA product number**
+    - EMEA/H/C/004549
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+- **Opinion adopted**
+    - 14/09/2017
+- **Marketing authorisation issued**
+    - 09/11/2017
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -631,7 +472,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ritonavir Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -649,7 +490,7 @@ English (EN) (129.57 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/ritonavir-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ritonavir Mylan : EPAR - Public assessment report
 
@@ -677,159 +518,8 @@ English (EN) (68.18 KB - PDF)
 
 15/09/2017
 
-## More information on Ritonavir Mylan
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-111)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/05/2026
+08/07/2026
 
 ## Share this page

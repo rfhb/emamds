@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:59:02
+document_datetime: 2026-07-09 13:20:48
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cervarix-epar-product-information_en.pdf
 document_name: cervarix-epar-product-information_en.pdf
 version: success
-processing_time: 14.7825624
-conversion_datetime: 2025-12-26 18:29:28.010292
+processing_time: 15.1379532
+conversion_datetime: 2026-07-10 22:59:00.905738
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,9 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Cervarix suspension for injection in pre-filled syringe Cervarix suspension for injection in a vial
-
-Cervarix suspension for injection in multidose container
+Cervarix suspension for injection in pre-filled syringe Cervarix suspension for injection in a vial Cervarix suspension for injection in multidose container
 
 Human Papillomavirus vaccine [Types 16, 18] (Recombinant, adjuvanted, adsorbed)
 
@@ -38,7 +36,7 @@ Human Papillomavirus vaccine [Types 16, 18] (Recombinant, adjuvanted, adsorbed)
 |---------------------------------------------------------------------------------------------------|-------------------------------|
 | 1 Human Papillomavirus = HPV                                                                      |                               |
 | 2 adjuvanted by AS04 containing:                                                                  |                               |
-| 3- O -desacyl-4'- monophosphoryl lipid A (MPL) 3                                                  | 50 micrograms                 |
+| 3- O -desacyl- 4' - monophosphoryl lipid A (MPL) 3                                                | 50 micrograms                 |
 | 3 adsorbed on aluminium hydroxide, hydrated (Al(OH) 3 )                                           | 0.5 milligrams Al 3+ in total |
 
 For the full list of excipients, see section 6.1.
@@ -108,7 +106,7 @@ As with any vaccine, a protective immune response may not be elicited in all vac
 
 Cervarix will only protect against diseases that are caused by HPV types 16 and 18 and to some extent against diseases caused by certain other oncogenic related HPV types (see section 5.1). Therefore, appropriate precautions against sexually transmitted diseases should continue to be used.
 
-The vaccine is for prophylactic use only and has no effect on active HPV infections or established clinical disease. The vaccine has not been shown to have a therapeutic effect. The vaccine is therefore not indicated for treatment of cervical cancer or cervical intraepithelial neoplasia (CIN).  It is also not intended to prevent progression of other established HPV-related lesions or existing HPV infections with vaccine or non-vaccine types (see section 5.1 'Efficacy against HPV-16/18 in women with evidence of HPV-16 or HPV-18 infection at study entry.').
+The vaccine is for prophylactic use only and has no effect on active HPV infections or established clinical disease. The vaccine has not been shown to have a therapeutic effect. The vaccine is therefore not indicated for treatment of cervical cancer or cervical intraepithelial neoplasia (CIN).  It is also not intended to prevent progression of other established HPV-related lesions or existing HPV infections with vaccine or nonvaccine types (see section 5.1 'Efficacy against HPV-16/18 in women with evidence of HPV-16 or HPV18 infection at study entry.') .
 
 Vaccination is not a substitute for routine cervical screening. Since no vaccine is 100% effective and Cervarix will not provide protection against every HPV type, or against existing HPV infections, routine cervical screening remains critically important and should follow local recommendations.
 
@@ -118,7 +116,7 @@ Except for asymptomatic human immunodeficiency virus (HIV) infected subjects for
 
 There are no safety, immunogenicity or efficacy data to support interchangeability of Cervarix with other HPV vaccines.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Traceability
 
@@ -136,7 +134,7 @@ Cervarix may also be administered concomitantly with meningococcal serogroups A,
 
 <div style=\"page-break-after: always\"></div>
 
-Administration of Cervarix at the same time as Twinrix has shown no clinically relevant interference in the antibody response to the HPV and hepatitis A antigens. Anti-HBs geometric mean antibody concentrations were significantly lower on co-administration, but the clinical relevance of this observation is not known since the seroprotection rates remain unaffected. The proportion of subjects reaching antiHBs ≥ 10mIU/ml was 98.3% for concomitant vaccination and 100% for Twinrix given alone. Similar results were observed when Cervarix was given concomitantly with Engerix B with 97.9% of subjects reaching anti-HBs ≥ 10mIU/ml compared to 100% for Engerix B given alone.
+Administration of Cervarix at the same time as Twinrix has shown no clinically relevant interference in the antibody response to the HPV and hepatitis A antigens. Anti-HBs geometric mean antibody concentrations were significantly lower on co-administration, but the clinical relevance of this observation is not known since the seroprotection rates remain unaffected. The proportion of subjects reaching antiHBs ≥ 10mIU/ml was 98.3% for concomitant vaccination and 100% for Twinrix given alone. Similar results were observed when Cervarix was given concomitantly with Engerix B with 97.9% of subjects reaching anti-HBs  10mIU/ml compared to 100% for Engerix B given alone.
 
 If Cervarix is to be given at the same time as another injectable vaccine, the vaccines should always be administered at different injection sites.
 
@@ -188,7 +186,7 @@ The most common adverse reaction observed after vaccine administration was injec
 
 Adverse reactions considered as being at least possibly related to vaccination have been categorised by frequency.
 
-Frequencies are reported as: Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt;1/10) Uncommon ( ≥ 1/1,000 to &lt;1/100)
+Frequencies are reported as: Very common (  1/10) Common (  1/100 to &lt;1/10) Uncommon (  1/1,000 to &lt;1/100)
 
 | System Organ Class                                   | Frequency   | Adverse reactions                                                                                              |
 |------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------|
@@ -201,7 +199,7 @@ Frequencies are reported as: Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt;1
 | Musculoskeletal and connective tissue disorders      | Very common | Myalgia                                                                                                        |
 | Musculoskeletal and connective tissue disorders      | Common      | Arthralgia                                                                                                     |
 | General disorders and administration site conditions | Very common | Injection site reactions including pain, redness, swelling, fatigue                                            |
-| General disorders and administration site conditions | Common      | Fever ( ≥ 38°C)                                                                                                |
+| General disorders and administration site conditions | Common      | Fever (  38°C)                                                                                                |
 | General disorders and administration site conditions | Uncommon    | Other injection site reactions such as induration, local paraesthesia                                          |
 | Post-marketing experience                            |             |                                                                                                                |
 | Blood and lymphatic system disorders                 | Not known*  | Lymphadenopathy                                                                                                |
@@ -236,7 +234,7 @@ Other oncogenic HPV types can also cause ano-genital cancers (approximately 30%)
 
 (12.1%) and adenocarcinoma (8.5%).
 
-The term 'premalignant ano-genital lesions' in section 4.1 corresponds to high-grade Cervical Intraepithelial Neoplasia (CIN2/3), high-grade vulvar intraepithelial neoplasia (VIN2/3), high-grade vaginal intraepithelial neoplasia (VaIN2/3) and high-grade anal intraepithelial neoplasia (AIN 2/3).
+The term 'premalignant ano-genital lesions' in section 4.1 corresponds to high -grade Cervical Intraepithelial Neoplasia (CIN2/3), high-grade vulvar intraepithelial neoplasia (VIN2/3), high-grade vaginal intraepithelial neoplasia (VaIN2/3) and high-grade anal intraepithelial neoplasia (AIN 2/3).
 
 ## Clinical studies
 
@@ -280,7 +278,7 @@ Table 1: Vaccine efficacy against high grade cervical lesions associated with HP
 
 | HPV-16/18 endpoint                                                | ATP cohort (1) End of study analysis (3)                          | ATP cohort (1) End of study analysis (3)                          | ATP cohort (1) End of study analysis (3)                          |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-|                                                                   | Cervarix (N = 7,338)                                              | Control (N = 7,305)                                               | %Efficacy (95% CI)                                                |
+|                                                                   | Cervarix (N = 7,338)                                              | Control (N = 7,305)                                               | % Efficacy (95% CI)                                               |
 |                                                                   | n (2)                                                             | n                                                                 |                                                                   |
 | CIN2+                                                             | 5                                                                 | 97                                                                | 94.9% (87.7;98.4)                                                 |
 | CIN3+                                                             | 2                                                                 | 24                                                                | 91.7% (66.6;99.1)                                                 |
@@ -288,8 +286,9 @@ Table 1: Vaccine efficacy against high grade cervical lesions associated with HP
 
 <div style=\"page-break-after: always\"></div>
 
-| (1) ATP: includes women who received 3 doses of vaccine, were DNA negative and seronegative at month 0 and DNA negative at month 6 to the relevant HPV type (HPV-16 or HPV-18)   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (1) ATP: includes women who received 3 doses of vaccine, were DNA negative and seronegative at month 0 and DNA negative at month 6 to the relevant HPV type (HPV-16 or HPV-18)                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (2) including 4 cases of CIN2+ and 2 cases of CIN3+ in which another oncogenic HPV type was identified in the lesion, concomitantly with HPV-16 or HPV-18. These cases are excluded in the HPV type assignment analysis (see under Table). (3) mean follow-up of 40 months post dose 3 |
 
 At the event-triggered analysis the efficacy was 92.9% (96.1% CI: 79.9;98.3) against CIN2+ and 80% (96.1% CI: 0.3;98.1) against CIN3+. In addition, statistically significant vaccine efficacy against CIN2+ associated with HPV-16 and HPV-18 individually was demonstrated.
 
@@ -305,9 +304,10 @@ Vaccine efficacy against virological endpoints (6-month and 12-month persistent 
 
 Table 2: Vaccine efficacy against virological endpoints associated with HPV-16/18 (ATP cohort)
 
-| HPV-16/18 endpoint                                                                                                                                                                                                                               | ATP cohort (1) (2)                                                                                                                                                                                                                               | ATP cohort (1) (2)                                                                                                                                                                                                                               | ATP cohort (1) (2)                                                                                                                                                                                                                               |
+| HPV-16/18 endpoint                                                                                                                                                                                                                               | ATP cohort (1)                                                                                                                                                                                                                                   | ATP cohort (1)                                                                                                                                                                                                                                   | ATP cohort (1)                                                                                                                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                  | End of study analysis Cervarix (N = 7,338)                                                                                                                                                                                                       | Control (N = 7,305)                                                                                                                                                                                                                              | %Efficacy (95% CI)                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                  | End of study analysis (2)                                                                                                                                                                                                                        | End of study analysis (2)                                                                                                                                                                                                                        | End of study analysis (2)                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                  | Cervarix (N = 7,338)                                                                                                                                                                                                                             | Control (N = 7,305)                                                                                                                                                                                                                              | % Efficacy (95% CI)                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                  | n/N                                                                                                                                                                                                                                              | n/N                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                  |
 | 6-month persistent infection                                                                                                                                                                                                                     | 35/7,182                                                                                                                                                                                                                                         | 588/7,137                                                                                                                                                                                                                                        | 94.3% (92.0;96.1)                                                                                                                                                                                                                                |
 | 12-month persistent infection                                                                                                                                                                                                                    | 26/7,082                                                                                                                                                                                                                                         | 354/7,038                                                                                                                                                                                                                                        | 92.9% (89.4;95.4)                                                                                                                                                                                                                                |
@@ -335,7 +335,7 @@ Table 3: Vaccine efficacy against high grade cervical lesions associated with HP
 
 | HPV- 16/18 endpoint   | TVC (1) of study analysis (2)   | End                 | TVC (1) of study analysis (2)   |
 |-----------------------|---------------------------------|---------------------|---------------------------------|
-|                       | Cervarix (N = 8,694)            | Control (N = 8,708) | %Efficacy (95% CI)              |
+|                       | Cervarix (N = 8,694)            | Control (N = 8,708) | % Efficacy (95% CI)             |
 |                       | n                               | n                   |                                 |
 | CIN2+                 | 90                              | 228                 | 60.7% (49.6;69.5)               |
 | CIN3+                 | 51                              | 94                  | 45.7% (22.9;62.2)               |
@@ -344,18 +344,16 @@ Vaccine efficacy against virological endpoints (6-month and 12-month persistent 
 
 Table 4: Vaccine efficacy against virological endpoints associated with HPV-16/18 (TVC)
 
-| HPV-16/18 endpoint            | TVC (1)   | End of study   | analysis (2)       |
-|-------------------------------|-----------|----------------|--------------------|
-|                               | Cervarix  | Control        | %Efficacy (95% CI) |
-|                               | n/N       | n/N            |                    |
-| 6-month persistent infection  | 504/8,863 | 1,227/8,870    | 60.9% (56.6;64.8)  |
-| 12-month persistent infection | 335/8,648 | 767/8,671      | 57.5% (51.7;62.8)  |
+| HPV-16/18 endpoint            | TVC (1)   | End of study   | analysis (2)        |
+|-------------------------------|-----------|----------------|---------------------|
+|                               | Cervarix  | Control        | % Efficacy (95% CI) |
+|                               | n/N       | n/N            |                     |
+| 6-month persistent infection  | 504/8,863 | 1,227/8,870    | 60.9% (56.6;64.8)   |
+| 12-month persistent infection | 335/8,648 | 767/8,671      | 57.5% (51.7;62.8)   |
 
-Overall impact of the vaccine on cervical HPV disease burden
+Overall impact of the vaccine on cervical HPV disease burden In study HPV-008, the incidence of high grade cervical lesions was compared between the placebo and vaccine group irrespective of the HPV DNA type in the lesion. In the TVC and TVC-naïve cohorts, the vaccine's efficacy was demonstrated against high -grade cervical lesions at end of study (Table 5).
 
 <div style=\"page-break-after: always\"></div>
-
-In study HPV-008, the incidence of high grade cervical lesions was compared between the placebo and vaccine group irrespective of the HPV DNA type in the lesion. In the TVC and TVC-naïve cohorts, the vaccine's efficacy was demonstrated against high-grade cervical lesions at end of study (Table 5).
 
 The TVC-naïve is a subset of the TVC that includes women with normal cytology, and who were HPV DNA negative for 14 oncogenic HPV types and seronegative for HPV-16 and HPV-18 at baseline.
 
@@ -363,8 +361,8 @@ Table 5: Vaccine efficacy against high-grade cervical lesions irrespective of th
 
 |               | End of study analysis (3)   | End of study analysis (3)   | End of study analysis (3)   | End of study analysis (3)   | End of study analysis (3)   |
 |---------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|               | Cervarix                    | Cervarix                    | Control                     | Control                     | %Efficacy (95% CI)          |
-|               | N                           | Cases                       | N                           | Cases                       | %Efficacy (95% CI)          |
+|               | Cervarix                    | Cervarix                    | Control                     | Control                     | % Efficacy (95% CI)         |
+|               | N                           | Cases                       | N                           | Cases                       | % Efficacy (95% CI)         |
 | CIN2+         |                             |                             |                             |                             |                             |
 | TVC-naïve (1) | 5,466                       | 61                          | 5,452                       | 172                         | 64.9% (52.7;74.2)           |
 | TVC (2)       | 8,694                       | 287                         | 8,708                       | 428                         | 33.1% (22.2;42.6)           |
@@ -397,7 +395,7 @@ Table 6: Vaccine efficacy for non-vaccine oncogenic HPV types
 |                                   | ATP (1)                           | ATP (1)                           | ATP (1)                           | ATP (1)                           | ATP (1)                           | ATP (1)                           |
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 | HPV type                          | 6-month persistent infection      | 6-month persistent infection      | 6-month persistent infection      | CIN2+                             | CIN2+                             | CIN2+                             |
-|                                   | Cervarix                          | Control                           | %Efficacy (95% CI)                | Cervari x                         | Control                           | %Efficacy (95% CI)                |
+|                                   | Cervarix                          | Control                           | % Efficacy (95% CI)               | Cervari x                         | Control                           | % Efficacy (95% CI)               |
 |                                   | n                                 | n                                 |                                   | n                                 | n                                 |                                   |
 | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) | HPV-16 related types (A9 species) |
 | HPV-31                            | 58                                | 247                               | 76.8% (69.0;82.9)                 | 5                                 | 40                                | 87.5% (68.3;96.1)                 |
@@ -417,7 +415,7 @@ Table 6: Vaccine efficacy for non-vaccine oncogenic HPV types
 
 n= number of cases
 
-(1) ATP: includes women who received 3 doses of vaccine, were DNA negative at month 0 and at month 6 to the relevant HPV type.
+(1)   ATP: includes women who received 3 doses of vaccine, were DNA negative at month 0 and at month 6 to the relevant HPV type.
 
 The limits of the confidence interval around the vaccine efficacy were calculated. When the value zero is included, i.e. when the lower limit of the CI is &lt;0, the efficacy is not considered statistically significant.
 
@@ -427,11 +425,9 @@ The efficacy against CIN3 was only demonstrated for HPV-31 and there was no evid
 
 The efficacy of Cervarix was assessed in a double-blind, randomised Phase III clinical trial (HPV-015) that included a total of 5,778 women aged 26-72 years (median: 37.0 years). The study was conducted in North America, Latin America, Asia Pacific and Europe. Final analysis was performed at study conclusion, 7 years after 1 st vaccination.
 
-The primary endpoint was a combination of a virological and a histopathological endpoint: HPV16/18 related 6-month persistent infection and/or CIN1+. The primary analyses of efficacy were performed on the ATP cohort for efficacy and the TVC which included a subset of up to 15% of women with a history of HPV-associated infection or disease (defined as two or more abnormal
+The primary endpoint was a combination of a virological and a histopathological endpoint: HPV16/18 related 6-month persistent infection and/or CIN1+. The primary analyses of efficacy were performed on the ATP cohort for efficacy and the TVC which included a subset of up to 15% of women with a history of HPV-associated infection or disease (defined as two or more abnormal smears in sequence, abnormal colposcopy, or biopsy or treatment of the cervix after abnormal smear or colposcopy findings). Inclusion of this subset allowed assessment of prophylactic efficacy in a population that is thought to reflect a real-world setting, as adult women are the age group generally targeted for cervical screening.
 
 <div style=\"page-break-after: always\"></div>
-
-smears in sequence, abnormal colposcopy, or biopsy or treatment of the cervix after abnormal smear or colposcopy findings). Inclusion of this subset allowed assessment of prophylactic efficacy in a population that is thought to reflect a real-world setting, as adult women are the age group generally targeted for cervical screening.
 
 Vaccine efficacy at study conclusion is summarised in the following table.
 
@@ -441,7 +437,7 @@ Table 7 - Vaccine efficacy at study conclusion in study HPV-015
 
 | Endpoint                                         | ATP (1)                   | ATP (1)                   | ATP (1)                   | TVC (2)                   | TVC (2)                   | TVC (2)                   |
 |--------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Endpoint                                         | Cervari x                 | Control                   | %Efficacy                 | Cervarix                  | Control                   | %Efficacy (96.2% CI)      |
+| Endpoint                                         | Cervari x                 | Control                   | % Efficacy                | Cervarix                  | Control                   | % Efficacy (96.2% CI)     |
 | Endpoint                                         | n/N                       | n/N                       | (96.2% CI)                | n/N                       | n/N                       |                           |
 | HPV-16/18                                        | HPV-16/18                 | HPV-16/18                 | HPV-16/18                 | HPV-16/18                 | HPV-16/18                 | HPV-16/18                 |
 | 6M PI and/or CIN1+                               | 7/1,852                   | 71/1,81 8                 | 90.5% (78.6; 96.5)        | 93/2,768                  | 209/2,778                 | 56.8% (43.8; 67.0)        |
@@ -455,7 +451,9 @@ Table 7 - Vaccine efficacy at study conclusion in study HPV-015
 | HPV-31 ASC-US+                                   | 5/2,117                   | 23/2,12 7                 | 78.4% (39.1; 94.1)        | 34/2,727                  | 55/2,732                  | 38.7% (2.0; 62.3)         |
 | HPV-45 ASC-US+                                   | 5/2,150                   | 23/2,12 5                 | 78.7% (40.1; 94.1)        | 13/2,727                  | 38/2,732                  | 66.1% (32.7; 84.1)        |
 
-N = number of subjects in each group n = number of subjects reporting at least one event in each group
+N = number of subjects in each group
+
+n = number of subjects reporting at least one event in each group
 
 6M PI = 6-month persistent infection
 
@@ -465,8 +463,9 @@ ASC-US= Atypical Cells of Undetermined Significance (abnormal cytology)
 
 - (1) 3 doses of vaccine, DNA negative and seronegative at month 0 (unless specified) and DNA negative at month 6 for the relevant HPV type (HPV-16 and/or HPV-18)
 
-(2) at least one dose of vaccine, irrespective of HPV DNA and serostatus (unless specified) at month
+(2)
 
+- at least one dose of vaccine, irrespective of HPV DNA and serostatus (unless specified) at month
 0. Includes 15% of subjects with previous history of HPV disease/infection
 
 Efficacy against ≥ASC -US (abnormal cytology) associated with oncogenic non-vaccine types was 37.2% (96.2% CI [21.3; 50.1]) (ATP).
@@ -534,11 +533,9 @@ Two clinical studies assessed safety and immunogenicity of Cervarix:
 
 At study entry, HIV infected subjects in both studies had to: be asymptomatic regardless of their prior clinical stage; have undetectable viral load (i.e., viral load &lt; 400 copies/ml) for at least six months if on antiretroviral therapy (ART) (HPV-020) or highly active antiretroviral therapy (HAART) for at least one year (HPV-019); not be diagnosed with active tuberculosis (TB) or on TB therapy;  in HPV019 only - have a CD4 cell count &gt; 350 cells/mm 3 .
 
-In both studies, seroconversion at month 7 in HIV infected subjects receiving Cervarix was 100% for both antigens in the ATP cohort. In HPV-019, seropositivity at month 24 after Cervarix vaccination
+In both studies, seroconversion at month 7 in HIV infected subjects receiving Cervarix was 100% for both antigens in the ATP cohort. In HPV-019, seropositivity at month 24 after Cervarix vaccination was 100% for HPV-16 antibodies and &gt;96% for HPV-18 antibodies with a Geometric Mean Concentration (GMC) level more than 12 times higher than the response to natural HPV infection. In both studies, the antibody GMCs in HIV infected subjects appeared lower than in the HIV negative subjects (non-overlapping 95% confidence interval). In HPV-019, superiority of immune responses (neutralizing antibodies GMT ratios) to both HPV-16 and HPV-18 antigens was demonstrated with Cervarix compared to quadrivalent HPV vaccine, at month 7 in HIV infected subjects. The clinical relevance of these observations is unknown. No clinical efficacy data exist about protection against persistent infection or precancerous lesions among HIV infected women.
 
 <div style=\"page-break-after: always\"></div>
-
-was 100% for HPV-16 antibodies and &gt;96% for HPV-18 antibodies with a Geometric Mean Concentration (GMC) level more than 12 times higher than the response to natural HPV infection. In both studies, the antibody GMCs in HIV infected subjects appeared lower than in the HIV negative subjects (non-overlapping 95% confidence interval). In HPV-019, superiority of immune responses (neutralizing antibodies GMT ratios) to both HPV-16 and HPV-18 antigens was demonstrated with Cervarix compared to quadrivalent HPV vaccine, at month 7 in HIV infected subjects. The clinical relevance of these observations is unknown. No clinical efficacy data exist about protection against persistent infection or precancerous lesions among HIV infected women.
 
 The observed reactogenicity and safety profile of Cervarix in HIV infected women was in line with the known safety profile in healthy subjects (see section 4.8).
 
@@ -574,15 +571,15 @@ However, stability has been demonstrated when stored outside the refrigerator fo
 
 ## Multidose vial
 
-After first opening, immediate use is recommended. If not used immediately, the vaccine should be stored in a refrigerator (2°C - 8°C). If not used within 6 hours it should be discarded.
-
-## 6.4 Special precautions for storage
+After first opening, immediate use is recommended. If not used immediately, the vaccine should be stored in a refrigerator (2°C -8°C). If not used within 6 hours it should be discarded.
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2 ° C - 8 ° C).
+## 6.4 Special precautions for storage
 
-## Do not freeze.
+Store in a refrigerator (2  C -8  C).
+
+Do not freeze.
 
 Store in the original package in order to protect from light.
 
@@ -618,11 +615,9 @@ The content of the syringe should be inspected visually both before and after sh
 
 The vaccine should be well shaken before use.
 
-Instructions for the pre-filled syringe
+Instructions for the pre-filled syringe Hold the syringe by the barrel, not by the plunger.
 
 <!-- image -->
-
-Hold the syringe by the barrel, not by the plunger.
 
 Unscrew the syringe cap by twisting it anticlockwise.
 
@@ -760,7 +755,7 @@ HPV type 18 L1 protein 1,2
 
 1 adjuvanted by AS04 containing:
 
-3O -desacyl-4'- monophosphoryl lipid A (MPL) 2
+3O -desacyl4' - monophosphoryl lipid A (MPL) 2
 
 2 adsorbed on aluminium hydroxide, hydrated (Al(OH)3)
 
@@ -848,7 +843,7 @@ LOT:
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -860,8 +855,8 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -889,7 +884,7 @@ HPV type 18 L1 protein 1,2
 
 1 adjuvanted by AS04 containing:
 
-3- O -desacyl-4'- monophosphoryl lipid A (MPL) 2
+3- O -desacyl- 4' - monophosphoryl lipid A (MPL) 2
 
 50 micrograms
 
@@ -963,11 +958,11 @@ B-1330 Rixensart, Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/419/010 - pack of 1
+EU/1/07/419/010 -pack of 1
 
-EU/1/07/419/011 - pack of 10
+EU/1/07/419/011 -pack of 10
 
-EU/1/07/419/012 - pack of 100
+EU/1/07/419/012 -pack of 100
 
 ## 13. BATCH NUMBER
 
@@ -981,16 +976,16 @@ LOT:
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+| PC SN |                                           |
+| NN    |                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1012,7 +1007,7 @@ HPV type 18 L1 protein 1,2
 
 1 adjuvanted by AS04 containing:
 
-3O -desacyl-4'- monophosphoryl lipid A (MPL) 2
+3O -desacyl4' - monophosphoryl lipid A (MPL) 2
 
 2 adsorbed on aluminium hydroxide, hydrated (Al(OH)3)
 
@@ -1098,17 +1093,17 @@ B-1330 Rixensart, Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/419/008 - pack of 1 without needle
+EU/1/07/419/008 -pack of 1 without needle
 
-EU/1/07/419/009 - pack of 10 without needle
+EU/1/07/419/009 -pack of 10 without needle
 
-EU/1/07/419/004 - pack of 1 with 1 needle
+EU/1/07/419/004 -pack of 1 with 1 needle
 
-EU/1/07/419/006 - pack of 10 with 10 needles
+EU/1/07/419/006 -pack of 10 with 10 needles
 
-EU/1/07/419/005 - pack of 1 with 2 needles
+EU/1/07/419/005 -pack of 1 with 2 needles
 
-EU/1/07/419/007 - pack of 10 with 20 needles
+EU/1/07/419/007 -pack of 10 with 20 needles
 
 ## 13. BATCH NUMBER
 
@@ -1126,31 +1121,30 @@ LOT:
 | Justification for not including Braille accepted   |
 |----------------------------------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 2D barcode carrying the unique identifier included.   |
 |-------------------------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS MONODOSEVIAL LABEL   |
-|-------------------------------------------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MONODOSE VIAL LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Cervarix Suspension for injection
 
 I.M.
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1162,8 +1156,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (0.5 ml)
 
@@ -1172,18 +1166,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS MULTIDOSE VIAL LABEL   |
-|---------------------------------------------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIDOSE VIAL LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Cervarix Suspension for injection
 
 I.M.
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1195,8 +1188,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 doses (1 ml)
 
@@ -1328,7 +1321,7 @@ Cervarix is not likely to affect your ability to drive or use machines. However,
 
 ## Cervarix contains sodium chloride.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1354,11 +1347,7 @@ First injection: at chosen date Second injection: given between 5 and 13 months 
 
 You will receive 3 injections:
 
-First injection: at chosen date
-
-Second injection: 1 month after first injection
-
-Third injection: 6 months after first injection
+First injection: at chosen date Second injection: 1 month after first injection Third injection: 6 months after first injection
 
 If necessary, the vaccination schedule can be more flexible. Please speak to your doctor for more information.
 
@@ -1380,7 +1369,7 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 
 Side effects that occurred during clinical trials with Cervarix were as follows:
 
-- ♦ Very common (side effects which may occur in more than 1 per 10 doses of vaccine):
+-  Very common (side effects which may occur in more than 1 per 10 doses of vaccine):
 - pain or discomfort at the injection site
 - redness or swelling at the injection site
 - headache
@@ -1389,12 +1378,12 @@ Side effects that occurred during clinical trials with Cervarix were as follows:
 
 <div style=\"page-break-after: always\"></div>
 
-- ♦ Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine):
+-  Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine):
 - gastrointestinal symptoms including nausea, vomiting, diarrhoea and abdominal pain
 - itching, red skin rash, hives (urticaria)
 - joint pain
-- fever ( ≥ 38°C)
-- ♦ Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine):
+- fever (  38°C)
+-  Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine):
 - upper respiratory tract infection (infection of the nose, throat or trachea)
 - dizziness
 - other injection site reactions such as hard lump, tingling or numbness.
@@ -1403,9 +1392,13 @@ Side effects that have been reported during marketed use of Cervarix include:
 
 - allergic reactions. These can be recognised by:
 
-itchy rash of the hands and feet, swelling of the eyes and face,
+itchy rash of the hands and feet,
 
-difficulty in breathing or swallowing, sudden drop in blood pressure and loss of consciousness.
+swelling of the eyes and face,
+
+difficulty in breathing or swallowing,
+
+sudden drop in blood pressure and loss of consciousness.
 
 These reactions will usually occur before leaving the doctor's surgery.  However, if your child gets any of these symptoms you should contact a doctor urgently.
 
@@ -1422,7 +1415,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C -8  C).
 
 Do not freeze.
 
@@ -1448,11 +1441,7 @@ Human Papillomavirus 1  type 18 L1 protein 2,3,4
 
 1 Human Papillomavirus = HPV
 
-2
-
-adjuvanted by AS04 containing: -desacyl-4'- monophosphoryl lipid A (MPL) 3
-
-3- O
+2 adjuvanted by AS04 containing: 3- O -desacyl- 4' - monophosphoryl lipid A (MPL) 3
 
 50 micrograms
 
@@ -1492,11 +1481,15 @@ Tel: +370 80000334
 
 ## България
 
-GlaxoSmithKline Biologicals SA Тел. +359 80018205
+GlaxoSmithKline Biologicals SA
+
+Тел.
+
++359 80018205
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals SA./NV
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
 
 Tél/Tel: + 32 10 85 52 00
 
@@ -1504,7 +1497,7 @@ Tél/Tel: + 32 10 85 52 00
 
 GlaxoSmithKline s.r.o.
 
-Tel: + 420 2 22 00 11 11
+Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
@@ -1516,7 +1509,7 @@ Tel.: +36 80088309
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
@@ -1526,7 +1519,7 @@ Tel: +356 80065004
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Nederland
 
@@ -1576,7 +1569,7 @@ Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1607,6 +1600,8 @@ Tel: +371 80205045
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 -------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
 
 ## Norge
 
@@ -1652,23 +1647,13 @@ Tel.: +421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 10 30 30 30
+GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Biologicals SA Tel: +44(0)800 221441 customercontactuk@gsk.com
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com Cervarix should be administered as soon as possible after being removed from the refrigerator. However, stability has been demonstrated when stored outside the refrigerator for up to 3 days at temperatures between 8°C and 25°C or for up to 1 day at temperatures between 25°C and 37°C. If not used at the end of this period the vaccine should be discarded.
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
-
-Cervarix should be administered as soon as possible after being removed from the refrigerator. However, stability has been demonstrated when stored outside the refrigerator for up to 3 days at temperatures between 8°C and 25°C or for up to 1 day at temperatures between 25°C and 37°C. If not used at the end of this period the vaccine should be discarded.
 
 A fine white deposit with a clear colourless supernatant may be observed upon storage of the vial. This does not constitute a sign of deterioration.
 
@@ -1770,11 +1755,11 @@ Cervarix is not likely to affect your ability to drive or use machines. However,
 
 ## Cervarix contains sodium chloride.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
-
-## 3. How Cervarix is given
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
+
+## 3. How Cervarix is given
 
 ## How the vaccine is given
 
@@ -1818,21 +1803,21 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 
 Side effects that occurred during clinical trials with Cervarix were as follows:
 
-- ♦ Very common (side effects which may occur in more than 1 per 10 doses of vaccine):
+-  Very common (side effects which may occur in more than 1 per 10 doses of vaccine):
 - pain or discomfort at the injection site
 - redness or swelling at the injection site
 - headache
 - aching muscles, muscle tenderness or weakness (not caused by exercise)
-- tiredness
-- ♦ Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine):
 
 <div style=\"page-break-after: always\"></div>
 
+- tiredness
+-  Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine):
 - gastrointestinal symptoms including nausea, vomiting, diarrhoea and abdominal pain
 - itching, red skin rash, hives (urticaria)
 - joint pain
-- fever ( ≥ 38°C)
-- ♦ Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine):
+- fever (  38°C)
+-  Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine):
 - upper respiratory tract infection (infection of the nose, throat or trachea)
 - dizziness
 - other injection site reactions such as hard lump, tingling or numbness.
@@ -1843,8 +1828,9 @@ Side effects that have been reported during marketed use of Cervarix include:
 
 itchy rash of the hands and feet,
 
-- swelling of the eyes and face,
-- difficulty in breathing or swallowing,
+swelling of the eyes and face,
+
+difficulty in breathing or swallowing,
 
 sudden drop in blood pressure and loss of consciousness.
 
@@ -1863,15 +1849,17 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C -8  C).
 
-Do not freeze.
+## Do not freeze.
 
 Store in the original package in order to protect from light.
 
-After first opening, immediate use is recommended. If not used immediately, the vaccine should be stored in a refrigerator (2 ° C - 8 ° C). If not used within 6 hours it should be discarded.
+After first opening, immediate use is recommended. If not used immediately, the vaccine should be stored in a refrigerator (2  C -8  C). If not used within 6 hours it should be discarded.
 
 Do not throw away any medicines  via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1887,15 +1875,11 @@ Human Papillomavirus 1  type 18 L1 protein 2,3,4
 
 20 micrograms
 
-<div style=\"page-break-after: always\"></div>
-
 1 Human Papillomavirus = HPV
 
-2
+2 adjuvanted by AS04 containing:
 
-adjuvanted by AS04 containing: -desacyl-4'- monophosphoryl lipid A (MPL) 3
-
-3- O
+3- O -desacyl- 4' - monophosphoryl lipid A (MPL) 3
 
 50 micrograms
 
@@ -1925,11 +1909,11 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-## Lietuva
-
 GlaxoSmithKline Pharmaceuticals SA./NV
 
 Tél/Tel: + 32 10 85 52 00
+
+Lietuva
 
 GlaxoSmithKline Biologicals SA
 
@@ -1943,9 +1927,9 @@ GlaxoSmithKline Biologicals SA
 
 +359 80018205
 
-## Luxembourg/Luxemburg
+Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals SA./NV
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
 
 Tél/Tel: + 32 10 85 52 00
 
@@ -1953,95 +1937,57 @@ Tél/Tel: + 32 10 85 52 00
 
 GlaxoSmithKline s.r.o.
 
-Tel: + 420 2 22 00 11 11
+Tel: + 420 222 001 111
 
 cz.info@gsk.com
 
-## Magyarország
+Magyarország
 
 GlaxoSmithKline Biologicals SA
 
 Tel.: +36 80088309
 
+<div style=\"page-break-after: always\"></div>
+
 ## Danmark
 
-GlaxoSmithKline Pharma A/S
-
-Tlf: + 45 36 35 91 00
-
-dk-info@gsk.com
-
-## Malta
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +356 80065004
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
-
-## Nederland
-
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
-
-<div style=\"page-break-after: always\"></div>
+GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +372 8002640
+GlaxoSmithKline Biologicals SA Tel: +372 8002640
 
 ## Ελλάδα
 
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E
-
-T ηλ
-
-: + 30 210 68 82 100
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E T ηλ : + 30 210 68 82 100
 
 ## España
 
-GlaxoSmithKline, S.A.
-
-Tel: + 34 900 202 700
-
-es-ci@gsk.com
+GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
 
 ## France
 
-Laboratoire GlaxoSmithKline
-
-Tél: + 33 (0) 1 39 17 84 44
-
-diam@gsk.com
+Laboratoire GlaxoSmithKline Tél: + 33 (0) 1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Biologicals SA
-
-Tel.: +385 800787089
+GlaxoSmithKline Biologicals SA Tel.: +385 800787089
 
 ## Ireland
 
-GlaxoSmithKline (Ireland) Ltd
-
-Tel: + 353 (0)1 495 5000
+GlaxoSmithKline (Ireland) Ltd Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
-GlaxoSmithKline S.p.A.
-
-Tel+ 39 (0)45 7741 111
+GlaxoSmithKline S.p.A. Tel+ 39 (0)45 7741 111
 
 ## Κύπρος
 
@@ -2049,31 +1995,23 @@ GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
 
 ## Latvija
 
-GlaxoSmithKline Biologicals SA
+GlaxoSmithKline Biologicals SA Tel: +371 80205045
 
-Tel: +371 80205045
+## Malta
 
-## This leaflet was last revised in
+GlaxoSmithKline Biologicals SA Tel: +356 80065004
 
-## Other sources of information
+## Nederland
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
--------------------------------------------------------------------------------------------------------------------------
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Österreich
 
-GlaxoSmithKline Pharma GmbH
-
-Tel: + 43 (0)1 97075 0
-
-at.info@gsk.com
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
@@ -2083,57 +2021,39 @@ Tel.: + 48 (22) 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos,
-
-Lda.
-
-Tel: + 351 21 412 95 00
-
-FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +40 800672524
+GlaxoSmithKline Biologicals SA Tel: +40 800672524
 
 ## Slovenija
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +386 80688869
+GlaxoSmithKline Biologicals SA Tel: +386 80688869
 
 ## Slovenská republika
 
-GlaxoSmithKline Biologicals SA
-
-Tel.: +421 800500589
+GlaxoSmithKline Biologicals SA Tel.: +421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 10 30 30 30
+GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +44(0)800 221441
-
-customercontactuk@gsk.com
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
-The following information is intended for healthcare professionals only:
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
 
 Cervarix should be administered as soon as possible after being removed from the refrigerator. However, stability has been demonstrated when stored outside the refrigerator for up to 3 days at temperatures between 8°C and 25°C or for up to 1 day at temperatures between 25°C and 37°C. If not used at the end of this period the vaccine should be discarded.
 
@@ -2240,7 +2160,7 @@ Cervarix is not likely to affect your ability to drive or use machines. However,
 
 ## Cervarix contains sodium chloride.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2288,16 +2208,16 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 
 Side effects that occurred during clinical trials with Cervarix were as follows:
 
-- ♦ Very common (side effects which may occur in more than 1 per 10 doses of vaccine): pain or discomfort at the injection site, redness or swelling at the injection site, headache, aching muscles, muscle tenderness or weakness (not caused by exercise), tiredness.
-- ♦ Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine): gastrointestinal symptoms including nausea, vomiting, diarrhoea and abdominal pain, itching, red skin rash, hives (urticaria), joint pain, fever ( ≥ 38°C).
+-  Very common (side effects which may occur in more than 1 per 10 doses of vaccine): pain or discomfort at the injection site, redness or swelling at the injection site, headache, aching muscles, muscle tenderness or weakness (not caused by exercise), tiredness.
+-  Common (side effects which may occur in less than 1 per 10 but more than 1 per 100 doses of vaccine): gastrointestinal symptoms including nausea, vomiting, diarrhoea and abdominal pain, itching, red skin rash, hives (urticaria), joint pain, fever (  38°C).
 
 <div style=\"page-break-after: always\"></div>
 
-- ♦ Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine): upper respiratory tract infection (infection of the nose, throat or trachea), dizziness, other injection site reactions such as hard lump, tingling or numbness.
+-  Uncommon (side effects which may occur in less than 1 per 100 but more than 1 per 1,000 doses of vaccine): upper respiratory tract infection (infection of the nose, throat or trachea), dizziness, other injection site reactions such as hard lump, tingling or numbness.
 
 Side effects that have been reported during marketed use of Cervarix include:
 
-- •
+- ·
 - allergic reactions. These can be recognised by: itchy rash of the hands and feet, swelling of the eyes and face, difficulty in breathing or swallowing, sudden drop in blood pressure and loss of consciousness. These reactions will usually occur before leaving the doctor's surgery.  However, if your child gets
 
 any of these symptoms you should contact a doctor urgently.
@@ -2315,7 +2235,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2  C -8  C). Do not freeze. Store in the original package in order to protect from light.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -2323,14 +2243,27 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Cervarix contains
 
-- -The active substances are:
+- The active substances are:
 
-| Human Papillomavirus 1 type 16 L1 protein 2,3,4 Human Papillomavirus 1 type 18 L1 protein 2,3,4   | 20 micrograms 20 micrograms   |
-|---------------------------------------------------------------------------------------------------|-------------------------------|
-| 1 Human Papillomavirus = HPV                                                                      |                               |
-| 2 adjuvanted by AS04 containing:                                                                  |                               |
-| 3- O -desacyl-4'- monophosphoryl lipid A (MPL) 3                                                  | 50 micrograms                 |
-| 3 adsorbed on aluminium hydroxide, hydrated (Al(OH) 3 )                                           | 0.5 milligrams Al 3+ in total |
+Human Papillomavirus 1  type 16 L1 protein 2,3,4
+
+20 micrograms
+
+Human Papillomavirus 1  type 18 L1 protein 2,3,4
+
+20 micrograms
+
+1 Human Papillomavirus = HPV
+
+2 adjuvanted by AS04 containing:
+
+3- O -desacyl- 4' - monophosphoryl lipid A (MPL) 3
+
+50 micrograms
+
+3 adsorbed on aluminium hydroxide, hydrated (Al(OH)3)
+
+0.5 milligrams Al 3+ in total
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2358,47 +2291,31 @@ For any information about this medicine, please contact the local representative
 
 GlaxoSmithKline Pharmaceuticals SA./NV Tél/Tel: + 32 10 85 52 00
 
-## Lietuva
-
-GlaxoSmithKline Biologicals SA Tel: +370 80000334
-
 ## България
 
-GlaxoSmithKline Biologicals SA Тел. +359 80018205
+GlaxoSmithKline Biologicals SA
 
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals SA./NV Tél/Tel: + 32 10 85 52 00
+Тел. +359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
+GlaxoSmithKline s.r.o.
 
-## Magyarország
+Tel: + 420 222 001 111
 
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
+cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S
 
-## Malta
+Tlf.: + 45 36 35 91 00
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +356 80065004
+dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
-
-## Nederland
-
-GlaxoSmithKline BV
-
-Tel: +31 (0)33 2081100
+GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -2406,15 +2323,41 @@ GlaxoSmithKline Biologicals SA
 
 Tel: +372 8002640
 
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E
+
+## Lietuva
+
+GlaxoSmithKline Biologicals SA Tel: +370 80000334
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 10 85 52 00
+
+## Magyarország
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +36 80088309
+
+## Malta
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
+
+## Nederland
+
+GlaxoSmithKline BV
+
+Tel: +31 (0)33 2081100
+
 ## Norge
 
 GlaxoSmithKline AS
 
 Tlf: + 47 22 70 20 00
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E
 
 ## Österreich
 
@@ -2456,7 +2399,7 @@ Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2488,7 +2431,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 -------------------------------------------------------------------------------------------------------------------------
 
-The following information is intended for healthcare professionals only:
+## The following information is intended for healthcare professionals only:
 
 Cervarix should be administered as soon as possible after being removed from the refrigerator. However, stability has been demonstrated when stored outside the refrigerator for up to 3 days at temperatures between 8°C and 25°C or for up to 1 day at temperatures between 25°C and 37°C. If not used at the end of this period the vaccine should be discarded.
 
@@ -2538,15 +2481,9 @@ Puh/Tel: + 358 10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Biologicals SA Tel: +44(0)800 221441 customercontactuk@gsk.com
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com A fine white deposit with a clear colourless supernatant may be observed upon storage of the syringe. This does not constitute a sign of deterioration.
 
 <div style=\"page-break-after: always\"></div>
-
-A fine white deposit with a clear colourless supernatant may be observed upon storage of the syringe. This does not constitute a sign of deterioration.
 
 The content of the syringe should be inspected visually both before and after shaking for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, discard the vaccine.
 
@@ -2556,6 +2493,16 @@ Instructions for the pre-filled syringe
 
 <!-- image -->
 
+<!-- image -->
+
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+Hold the syringe by the barrel, not by the plunger.
+
+Unscrew the syringe cap by twisting it anticlockwise.
+
+To attach the needle, connect the hub to the Luer Lock Adaptor and rotate a quarter turn clockwise until you feel it lock.
+
+Do not pull the syringe plunger out of the barrel. If it happens, do not administer the vaccine.

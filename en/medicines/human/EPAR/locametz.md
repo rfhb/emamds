@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:17:50
+document_datetime: 2026-07-09 12:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/locametz.html
 document_name: locametz.html
 version: success
-processing_time: 0.1072338
-conversion_datetime: 2025-12-31 04:12:28.071939
+processing_time: 0.1286182
+conversion_datetime: 2026-07-10 22:38:16.757984
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Locametz
 
 [RSS](/en/individual-human-medicine.xml/67633)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-gozetotide Medicine Human Authorised
+gozetotide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -61,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Locametz used?
+### How is Locametz used?
 
 The medicine can only be given in a designated nuclear medicine facility by trained healthcare professionals with technical expertise in using and handling nuclear medicine imaging agents.
 
@@ -69,25 +69,25 @@ Locametz is never given to a patient on its own. Before it is given it must be r
 
 For more information about using Locametz, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Locametz work?
+### How does Locametz work?
 
 The active substance of Locametz, gozetotide, binds to PSMA, which is found in large numbers on the surface of most prostate cancer cells. When Locametz is radiolabelled with gallium (68Ga) and given to a patient, it binds to PSMA and is taken up by the cells and gives off radiation, which can be detected with a PET scan. This allows the doctors to see where in the body the cancer cells are.
 
-## What benefits of Locametz have been shown in studies?
+### What benefits of Locametz have been shown in studies?
 
 Several published studies have supported the usefulness of gozetotide that has been radiolabelled with gallium (68Ga) as a sensitive and accurate diagnostic medicine to detect if prostate cancer has returned or spread or if cancer cells contain PSMA.
 
-## What are the risks associated with Locametz?
+### What are the risks associated with Locametz?
 
 The most common side effects with gallium (68Ga)-radiolabelled Locametz are tiredness (which may affect up to 1 in 10 people), nausea (feeling sick), constipation and vomiting (which may affect up to 1 in 100 people).
 
 For the full list of side effects and restrictions with Locametz, see the package leaflet.
 
-## Why is Locametz authorised in the EU?
+### Why is Locametz authorised in the EU?
 
 The European Medicines Agency considered that the use of gallium (68Ga)-radiolabelled Locametz was well documented in the scientific literature, with data suggesting that gallium (68Ga)-radiolabelled Locametz may offer improvements over existing methods for detecting prostate cancer that has not yet been treated or has returned, or for screening patients who may benefit from PSMA-targeted treatment. Locametz's side effects were usually mild and its safety profile was considered acceptable. The Agency therefore decided that Locametz's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Locametz?
+### What measures are being taken to ensure the safe and effective use of Locametz?
 
 The company that markets Locametz will provide medical practitioners who are expected to use gallium (68Ga)-radiolabelled Locametz with educational materials to support interpretation of PET scans.
 
@@ -95,7 +95,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Locametz are continuously monitored. Suspected side effects reported with Locametz are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Locametz
+### Other information about Locametz
 
 Locametz received a marketing authorisation valid throughout the EU on 09 December 2022.
 
@@ -107,181 +107,137 @@ English (EN) (142.86 KB - PDF)
 
 [View](/en/documents/overview/locametz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-8)
+[Other languages (22)](#file-language-dropdown-379)
 
 български (BG) (166.84 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/bg/documents/overview/locametz-epar-medicine-overview_bg.pdf)
 
 español (ES) (142.81 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/es/documents/overview/locametz-epar-medicine-overview_es.pdf)
 
 čeština (CS) (162.01 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/cs/documents/overview/locametz-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (141.2 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/da/documents/overview/locametz-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (145.83 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/de/documents/overview/locametz-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (130.37 KB - PDF)
+eesti (ET) (130.37 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/et/documents/overview/locametz-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (167.2 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/el/documents/overview/locametz-epar-medicine-overview_el.pdf)
 
 français (FR) (143.49 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fr/documents/overview/locametz-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (163.79 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hr/documents/overview/locametz-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (141.23 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/it/documents/overview/locametz-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (178 KB - PDF)
+latviešu (LV) (178 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lv/documents/overview/locametz-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (162.53 KB - PDF)
+lietuvių (LT) (162.53 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lt/documents/overview/locametz-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (163.57 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hu/documents/overview/locametz-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (172.53 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/mt/documents/overview/locametz-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (142.8 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/nl/documents/overview/locametz-epar-medicine-overview_nl.pdf)
 
 polski (PL) (167.2 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pl/documents/overview/locametz-epar-medicine-overview_pl.pdf)
 
 português (PT) (143.46 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pt/documents/overview/locametz-epar-medicine-overview_pt.pdf)
 
 română (RO) (158.18 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/ro/documents/overview/locametz-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (163.12 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sk/documents/overview/locametz-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (160.87 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sl/documents/overview/locametz-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (139.88 KB - PDF)
+suomi (FI) (139.88 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fi/documents/overview/locametz-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (140.44 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sv/documents/overview/locametz-epar-medicine-overview_sv.pdf)
 
@@ -289,9 +245,7 @@ Locametz: EPAR - Risk management plan
 
 English (EN) (428.04 KB - PDF)
 
-**First published:** 21/12/2022
-
-**Last updated:** 15/09/2025
+**First published:** 21/12/2022 **Last updated:** 15/09/2025
 
 [View](/en/documents/rmp/locametz-epar-risk-management-plan_en.pdf)
 
@@ -299,311 +253,168 @@ English (EN) (428.04 KB - PDF)
 
 Locametz: EPAR - Product information
 
-English (EN) (360.74 KB - PDF)
+English (EN) (386.48 KB - PDF)
 
-**First published:** 21/12/2022
-
-**Last updated:** 16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/en/documents/product-information/locametz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-713)
+[Other languages (24)](#file-language-dropdown-428)
 
-български (BG) (446.93 KB - PDF)
+български (BG) (420.29 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/bg/documents/product-information/locametz-epar-product-information_bg.pdf)
 
-español (ES) (331.67 KB - PDF)
+español (ES) (356.42 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/es/documents/product-information/locametz-epar-product-information_es.pdf)
 
-čeština (CS) (422.06 KB - PDF)
+čeština (CS) (392.86 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/cs/documents/product-information/locametz-epar-product-information_cs.pdf)
 
-dansk (DA) (379.02 KB - PDF)
+dansk (DA) (395.07 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/da/documents/product-information/locametz-epar-product-information_da.pdf)
 
-Deutsch (DE) (364.8 KB - PDF)
+Deutsch (DE) (371.49 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/de/documents/product-information/locametz-epar-product-information_de.pdf)
 
-eesti keel (ET) (329.71 KB - PDF)
+eesti (ET) (355.07 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/et/documents/product-information/locametz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (484.96 KB - PDF)
+ελληνικά (EL) (440.16 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/el/documents/product-information/locametz-epar-product-information_el.pdf)
 
-français (FR) (406.95 KB - PDF)
+français (FR) (393.11 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/fr/documents/product-information/locametz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (417.62 KB - PDF)
+hrvatski (HR) (386.95 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/hr/documents/product-information/locametz-epar-product-information_hr.pdf)
 
-íslenska (IS) (366.25 KB - PDF)
+italiano (IT) (369.98 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
-
-[View](/is/documents/product-information/locametz-epar-product-information_is.pdf)
-
-italiano (IT) (354.27 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/it/documents/product-information/locametz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (397.42 KB - PDF)
+latviešu (LV) (386.42 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/lv/documents/product-information/locametz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (409.31 KB - PDF)
+lietuvių (LT) (387.56 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/lt/documents/product-information/locametz-epar-product-information_lt.pdf)
 
-magyar (HU) (444.07 KB - PDF)
+magyar (HU) (411.1 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/hu/documents/product-information/locametz-epar-product-information_hu.pdf)
 
-Malti (MT) (438.2 KB - PDF)
+Malti (MT) (405.66 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/mt/documents/product-information/locametz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (370.35 KB - PDF)
+Nederlands (NL) (387.75 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/nl/documents/product-information/locametz-epar-product-information_nl.pdf)
 
-norsk (NO) (363.06 KB - PDF)
+polski (PL) (387.86 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
-
-[View](/no/documents/product-information/locametz-epar-product-information_no.pdf)
-
-polski (PL) (413.72 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/pl/documents/product-information/locametz-epar-product-information_pl.pdf)
 
-português (PT) (393.35 KB - PDF)
+português (PT) (402.9 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/pt/documents/product-information/locametz-epar-product-information_pt.pdf)
 
-română (RO) (432.67 KB - PDF)
+română (RO) (398.36 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/ro/documents/product-information/locametz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (425.89 KB - PDF)
+slovenčina (SK) (395.13 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/sk/documents/product-information/locametz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (418.04 KB - PDF)
+slovenščina (SL) (388.87 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/sl/documents/product-information/locametz-epar-product-information_sl.pdf)
 
-Suomi (FI) (355.56 KB - PDF)
+suomi (FI) (369.03 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/fi/documents/product-information/locametz-epar-product-information_fi.pdf)
 
-svenska (SV) (342.82 KB - PDF)
+svenska (SV) (364.52 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-16/04/2025
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
 
 [View](/sv/documents/product-information/locametz-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000261049 31/03/2025
+Íslenska (IS) (379.41 KB - PDF)
+
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
+
+[View](/is/documents/product-information/locametz-epar-product-information_is.pdf)
+
+norsk (NO) (376.43 KB - PDF)
+
+**First published:** 21/12/2022 **Last updated:** 09/07/2026
+
+[View](/no/documents/product-information/locametz-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000359157
+
+08/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -621,203 +432,164 @@ English (EN) (39.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-509)
 
 български (BG) (47.86 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/bg/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (40.23 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/es/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (44.88 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/cs/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (42.06 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/da/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (42.33 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/de/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.03 KB - PDF)
+eesti (ET) (39.03 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/et/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.86 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/el/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (41.33 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fr/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (42.4 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hr/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (42.9 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-[View](/is/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (39.48 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/it/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (43.31 KB - PDF)
+latviešu (LV) (43.31 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lv/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (43.97 KB - PDF)
+lietuvių (LT) (43.97 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lt/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (41.86 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hu/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (44.33 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/mt/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (39.28 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/nl/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (44.62 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-[View](/no/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (44.51 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pl/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.23 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pt/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (42.81 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/ro/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (45.34 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sk/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (40.21 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sl/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (38.17 KB - PDF)
+suomi (FI) (38.17 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fi/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.23 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sv/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (42.9 KB - PDF)
+
+**First published:** 21/12/2022
+
+[View](/is/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (44.62 KB - PDF)
+
+**First published:** 21/12/2022
+
+[View](/no/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Locametz Active substance gozetotide International non-proprietary name (INN) or common name gozetotide Therapeutic area (MeSH) Radionuclide Imaging Anatomical therapeutic chemical (ATC) code V09I
+- **Name of medicine**
+    - Locametz
+- **Active substance**
+    - gozetotide
+- **International non-proprietary name (INN) or common name**
+    - gozetotide
+- **Therapeutic area (MeSH)**
+    - Radionuclide Imaging
+- **Anatomical therapeutic chemical (ATC) code**
+    - V09I
 
 ### Pharmacotherapeutic group
 
@@ -833,13 +605,16 @@ This medicinal product is for diagnostic use only. Locametz, after radiolabellin
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005488 Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted 13/10/2022 Marketing authorisation issued 09/12/2022 Revision 7
+- **EMA product number**
+    - EMEA/H/C/005488
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 13/10/2022
+- **Marketing authorisation issued**
+    - 09/12/2022
+- **Revision**
+    - 8
 
 ## Assessment history
 
@@ -847,15 +622,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Locametz: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.94 KB - PDF)
+English (EN) (151.74 KB - PDF)
 
-**First published:** 13/02/2025
-
-**Last updated:** 31/03/2025
+**First published:** 13/02/2025 **Last updated:** 09/07/2026
 
 [View](/en/documents/procedural-steps-after/locametz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -863,33 +636,25 @@ Locametz: EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (106.49 KB - PDF)
 
-**First published:** 02/02/2023
-
-**Last updated:** 13/02/2025
+**First published:** 02/02/2023 **Last updated:** 13/02/2025
 
 [View](/en/documents/procedural-steps-after/locametz-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Locametz: EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/871509/2022
+Adopted Reference Number: EMA/871509/2022
 
 English (EN) (1.77 MB - PDF)
 
-**First published:** 21/12/2022
-
-**Last updated:** 22/05/2025
+**First published:** 21/12/2022 **Last updated:** 22/05/2025
 
 [View](/en/documents/assessment-report/locametz-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Locametz
 
-Adopted
-
-Reference Number: EMA/CHMP/742076/2022
+Adopted Reference Number: EMA/CHMP/742076/2022
 
 English (EN) (150.53 KB - PDF)
 
@@ -897,12 +662,14 @@ English (EN) (150.53 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-locametz_en.pdf)
 
-#### News on Locametz
+## News on Locametz
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022) 14/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022)
 
-**This page was last updated on** 15/09/2025
+14/10/2022
+
+**This page was last updated on**
+
+09/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

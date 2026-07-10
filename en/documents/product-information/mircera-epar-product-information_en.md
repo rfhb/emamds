@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-15 14:19:50
+document_datetime: 2026-07-09 12:54:38
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mircera-epar-product-information_en.pdf
 document_name: mircera-epar-product-information_en.pdf
 version: success
-processing_time: 12.9377863
-conversion_datetime: 2025-12-27 23:39:06.010241
+processing_time: 13.0514808
+conversion_datetime: 2026-07-10 22:56:31.971462
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,16 +24,16 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| MIRCERA 30 micrograms/0.3 ml solution for injection in pre-filled syringe                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MIRCERA 50 micrograms/0.3 ml solution for injection in pre-filled syringe                                                                             |
-| MIRCERA 75 micrograms/0.3 ml solution for injection in pre-filled syringe                                                                             |
-| MIRCERA 100 micrograms/0.3 ml solution for injection in pre-filled syringe MIRCERA 120 micrograms/0.3 ml solution for injection in pre-filled syringe |
-| syringe                                                                                                                                               |
-| MIRCERA 150 micrograms/0.3 ml solution for injection in pre-filled                                                                                    |
-| MIRCERA 200 micrograms/0.3 ml solution for injection in pre-filled syringe                                                                            |
-| MIRCERA 250 micrograms/0.3 ml solution for injection in pre-filled syringe                                                                            |
-| MIRCERA 360 micrograms/0.6 ml solution for injection in pre-filled syringe                                                                            |
+| MIRCERA 30 micrograms/0.3 ml solution for injection in pre-filled syringe   |
+|-----------------------------------------------------------------------------|
+| MIRCERA 50 micrograms/0.3 ml solution for injection in pre-filled syringe   |
+| MIRCERA 75 micrograms/0.3 ml solution for injection in pre-filled syringe   |
+| MIRCERA 120 micrograms/0.3 ml solution for injection in pre-filled syringe  |
+| 150 micrograms/0.3 ml solution for injection in pre-filled syringe          |
+| MIRCERA                                                                     |
+| MIRCERA 200 micrograms/0.3 ml solution for injection in pre-filled syringe  |
+| MIRCERA 250 micrograms/0.3 ml solution for injection in pre-filled syringe  |
+| MIRCERA 360 micrograms/0.6 ml solution for injection in pre-filled syringe  |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -227,8 +227,6 @@ Failure to respond to treatment should prompt for a search for causative factors
 
 <div style=\"page-break-after: always\"></div>
 
-Physicians may request the Marketing Authorisation Holder to test or re-test serum samples in a reference laboratory for cases of suspected or confirmed AEAB-mediated PRCA or unexplained loss of effect under treatment (e.g. observed clinically by severe anaemia and low reticulocyte count).
-
 Pure Red Cell Aplasia caused by anti-erythropoietin antibodies has been reported in association with all ESAs, including methoxy polyethylene glycol-epoetin beta. These antibodies have been shown to cross-react with all ESAs, and patients suspected or confirmed to have antibodies to erythropoietin should not be switched to methoxy polyethylene glycol-epoetin beta (see section 4.8).
 
 PRCA in patients with Hepatitis C: A paradoxical decrease in haemoglobin and development of severe anaemia associated with low reticulocyte counts should prompt to discontinue treatment with epoetin and perform anti-erythropoietin antibody testing. Cases have been reported in patients with hepatitis C treated with interferon and ribavirin, when epoetins are used concomitantly. Epoetins are not approved in the management of anaemia associated with hepatitis C.
@@ -247,9 +245,9 @@ Misuse of methoxy polyethylene glycol-epoetin beta by healthy people may lead to
 
 Traceability: In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 This medicinal product contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially 'sodium free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -281,7 +279,7 @@ The safety data base from clinical trials comprised 3,042 CKD adult patients, in
 
 ## (b) Tabulated list of adverse reactions
 
-Adverse reactions in Table 3 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions in Table 3 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -351,11 +349,9 @@ Data from correction studies with patients treated once every two weeks and once
 
 Four randomized controlled studies were performed in dialysis patients currently treated with darbepoetin alfa or epoetin at the time of enrollment. Patients were randomized to stay on their treatment at the time of enrollment or to be switched to methoxy polyethylene glycol-epoetin beta in order to maintain stable haemoglobin levels. At the evaluation period (week 29-36), the mean and median level of haemoglobin in patients treated with methoxy polyethylene glycol-epoetin beta was virtually identical to their baseline haemoglobin level.
 
-In a randomised, double-blind, placebo-controlled study of 4,038 CRF patients not on dialysis with type 2 diabetes and haemoglobin levels ≤ 11 g/dl, patients received either treatment with darbepoetin alfa to target haemoglobin levels of 13 g/dl or placebo (see section 4.4). The study did not meet either primary objective of demonstrating a reduction in risk for all-cause mortality, cardiovascular
+In a randomised, double-blind, placebo-controlled study of 4,038 CRF patients not on dialysis with type 2 diabetes and haemoglobin levels ≤ 11 g/dl, patients received either treatment with darbepoetin alfa to target haemoglobin levels of 13 g/dl or placebo (see section 4.4). The study did not meet either primary objective of demonstrating a reduction in risk for all-cause mortality, cardiovascular morbidity, or end stage renal disease (ESRD). Analysis of the individual components of the composite endpoints showed the following HR (95% CI): death 1.05 (0.92, 1.21), stroke 1.92 (1.38, 2.68), congestive heart failure (CHF) 0.89 (0.74, 1.08), myocardial infarction (MI) 0.96 (0.75, 1.23), hospitalisation for myocardial ischaemia 0.84 (0.55, 1.27), ESRD 1.02 (0.87, 1.18).
 
 <div style=\"page-break-after: always\"></div>
-
-morbidity, or end stage renal disease (ESRD). Analysis of the individual components of the composite endpoints showed the following HR (95% CI): death 1.05 (0.92, 1.21), stroke 1.92 (1.38, 2.68), congestive heart failure (CHF) 0.89 (0.74, 1.08), myocardial infarction (MI) 0.96 (0.75, 1.23), hospitalisation for myocardial ischaemia 0.84 (0.55, 1.27), ESRD 1.02 (0.87, 1.18).
 
 Pooled post-hoc analyses of clinical studies of ESAs have been performed in chronic renal failure patients (on dialysis, not on dialysis, in diabetic and non-diabetic patients). A tendency towards increased risk estimates for all-cause mortality, cardiovascular and cerebrovascular events associated with higher cumulative ESA doses independent of the diabetes or dialysis status was observed (see section 4.2 and section 4.4).
 
@@ -371,13 +367,11 @@ Methoxy polyethylene glycol-epoetin beta is not approved for treatment of patien
 
 Two studies have been conducted in paediatric patients. One study with intravenous administration (IV) and one study with subcutaneous administration (SC) of methoxy polyethylene glycol-epoetin beta.
 
-The study using IV administration was a phase II, dose-finding, open-label, single-arm, multicenter, multiple dose study (NH19707) conducted in 64 paediatric patients (aged 5 to 17 years old) with CKD on hemodialysis, to evaluate two conversion factors (group 1 and group 2) in order to switch from maintenance treatment with IV epoetin alfa/beta or darbepoetin alfa to methoxy polyethylene glycolepoetin beta, administed IV once every 4 weeks for 20 weeks. Efficacy was assessed based on the change in haemoglobin concentration (g/dl) between the baseline and evaluation period.  The adjusted mean change in haemoglobin from baseline to the evaluation period in group 1 was -0.74 g/dl [95% CI: -1.32 to -0.16] and in group 2 it was -0.09 g/dl [95% CI: -0.45 to 0.26]. 58% and  75% of patients maintained haemoglobin values within ±1 g/dl of baseline and 75% and 81% maintained haemoglobin values within 10-12 g/dl in group 1 and group 2 respectively. Subgroup analyses by age groups (5-11 years and 12-17 years) were consistent with the observations in the overall population. Patients who
+The study using IV administration was a phase II, dose-finding, open-label, single-arm, multicenter, multiple dose study (NH19707) conducted in 64 paediatric patients (aged 5 to 17 years old) with CKD on hemodialysis, to evaluate two conversion factors (group 1 and group 2) in order to switch from maintenance treatment with IV epoetin alfa/beta or darbepoetin alfa to methoxy polyethylene glycolepoetin beta, administered IV once every 4 weeks for 20 weeks. Efficacy was assessed based on the change in haemoglobin concentration (g/dl) between the baseline and evaluation period.  The adjusted mean change in haemoglobin from baseline to the evaluation period in group 1 was -0.74 g/dl [95% CI: -1.32 to -0.16] and in group 2 it was -0.09 g/dl [95% CI: -0.45 to 0.26]. 58% and 75% of patients maintained haemoglobin values within ±1 g/dl of baseline and 75% and 81% maintained haemoglobin values within 10-12 g/dl in group 1 and group 2 respectively. Subgroup analyses by age groups (5-11 years and 12-17 years) were consistent with the observations in the overall population. Patients who completed the 20 weeks of core treatment, who adequately maintained haemoglobin levels were eligible to enter an optional 52-week safety extension period with the same dosing frequency.
 
 <div style=\"page-break-after: always\"></div>
 
-completed the 20 weeks of core treatment, who adequately maintained haemoglobin levels were eligible to enter an optional 52-week safety extension period with the same dosing frequency.
-
-The study using SC administration was a second phase II, dose-finding, open-label, single-arm, multicenter study (NH19708) conducted in 40 paediatric patients (aged 3 months to 17 years old) with CKD on dialysis, or not yet on dialysis, to evaluate the conversion factor used in group 2 in the IV study, in order to switch from maintenance treatment with SC epoetin alfa/ beta or darboepoetin alfa to methoxy polyethylene glycol-epoetin beta, administered SC once every 4 weeks for 20 weeks. Similarly, in this study, the primary efficacy endpoint was the change in haemoglobin concentration (g/dl) between the baseline and evaluation period. The mean change in haemoglobin concentration during the evaluation period was 0.48 g/dl [95% CI: 0.15 to 0.82], which was within the equivalence bounds of -1 to +1g/dl. The results of the mean change in haemoglobin concentration by age group (&lt;5 years, 511 years, ≥12 years) were consistent with the results of the primary endpoint during the evaluation period. Patients who completed the 20 weeks of core treatment, who adequately maintained haemoglobin levels, were eligible to enter an optional 24-week safety extension period with the same dosing frequency.
+The study using SC administration was a second phase II, dose-finding, open-label, single-arm, multicenter study (NH19708) conducted in 40 paediatric patients (aged 3 months to 17 years old) with CKD on dialysis, or not yet on dialysis, to evaluate the conversion factor used in group 2 in the IV study, in order to switch from maintenance treatment with SC epoetin alfa/ beta or darboepoetin alfa to methoxy polyethylene glycol-epoetin beta, administered SC once every 4 weeks for 20 weeks. Similarly, in this study, the primary efficacy endpoint was the change in haemoglobin concentration (g/dl) between the baseline and evaluation period. The mean change in haemoglobin concentration during the evaluation period was 0.48 g/dl [95% CI: 0.15 to 0.82], which was within the equivalence bounds of -1 to +1g/dl. The results of the mean change in haemoglobin concentration by age group (&lt;5 years, 5-11 years, ≥ 12 years) were consistent with the results of the primary endpoint during the evaluation period. Patients who completed the 20 weeks of core treatment, who adequately maintained haemoglobin levels, were eligible to enter an optional 24-week safety extension period with the same dosing frequency.
 
 In both the studies, the mean haemoglobin values remained within 10 to 12 g/dl throughout the entire evaluation period and safety extension period for the majority of patients. The safety profile observed in paediatric patients from both studies was consistent with that found in adults (see section 4.8).
 
@@ -431,7 +425,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 Do not freeze.
 
@@ -465,9 +459,7 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/400/008 EU/1/07/400/009 EU/1/07/400/010 EU/1/07/400/011 EU/1/07/400/012 EU/1/07/400/013 EU/1/07/400/017 EU/1/07/400/020 EU/1/07/400/021
-
-EU/1/07/400/022
+EU/1/07/400/008 EU/1/07/400/009 EU/1/07/400/010 EU/1/07/400/011 EU/1/07/400/012 EU/1/07/400/013 EU/1/07/400/017 EU/1/07/400/020 EU/1/07/400/021 EU/1/07/400/022
 
 <div style=\"page-break-after: always\"></div>
 
@@ -526,8 +518,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -561,13 +553,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle Each pack contains 3 pre-filled syringes of 0.3 ml and 3 needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -581,7 +575,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
@@ -673,13 +667,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle Each pack contains 3 pre-filled syringes of 0.3 ml and 3 needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -693,7 +689,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
@@ -737,8 +733,6 @@ PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 PRE-FILLED SYRINGES LABEL 75 micrograms
@@ -767,6 +761,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 100 microgram pre-filled syringe
@@ -785,13 +781,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -805,11 +803,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -829,7 +829,7 @@ Lot
 
 Medicinal product subject to medical prescription
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -843,11 +843,7 @@ mircera 100 mcg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -877,6 +873,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 150 microgram pre-filled syringe
@@ -895,13 +893,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -915,11 +915,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -941,7 +943,7 @@ Medicinal product subject to medical prescription
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 mircera 150 mcg
 
@@ -953,11 +955,7 @@ mircera 150 mcg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -987,6 +985,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 200 micrograms pre-filled syringe
@@ -1005,13 +1005,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT  AND REACH OF CHILDREN
 
@@ -1025,11 +1027,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1062,8 +1066,6 @@ mircera 200 mcg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1115,13 +1117,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1135,11 +1139,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1161,7 +1167,7 @@ Medicinal product subject to medical prescription
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 mircera 250 mcg
 
@@ -1173,11 +1179,7 @@ mircera 250 mcg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1207,6 +1209,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 30 micrograms pre-filled syringe
@@ -1225,13 +1229,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle Each pack contains 3 pre-filled syringes of 0.3 ml and 3 needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1245,7 +1251,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
@@ -1285,13 +1291,9 @@ mircera 30 mcg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1321,6 +1323,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 120 micrograms pre-filled syringe
@@ -1339,13 +1343,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.3 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1359,11 +1365,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1383,7 +1391,7 @@ Lot
 
 Medicinal product subject to medical prescription
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1397,11 +1405,7 @@ mircera 120 mcg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1431,6 +1435,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON 360 micrograms pre-filled syringe
@@ -1449,13 +1455,15 @@ Sodium dihydrogen phosphate monohydrate, sodium sulphate, mannitol (E421), methi
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Each pack contains a pre-filled syringe of 0.6 ml and a needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For subcutaneous or intravenous use Read the package leaflet before use Do not shake
+For subcutaneous or intravenous use Read the package leaflet before use
+
+Do not shake
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1469,11 +1477,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator
+## Store in a refrigerator
 
 Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1493,7 +1503,7 @@ Lot
 
 Medicinal product subject to medical prescription
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1507,11 +1517,7 @@ mircera 360 mcg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1541,6 +1547,8 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
@@ -1565,7 +1573,9 @@ Lot
 
 250 micrograms/0.3 ml solution for injection in pre-filled syringe
 
-360 micrograms/0.6 ml solution for injection in pre-filled syringe methoxy polyethylene glycol-epoetin beta
+360 micrograms/0.6 ml solution for injection in pre-filled syringe
+
+methoxy polyethylene glycol-epoetin beta
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1632,7 +1642,9 @@ MIRCERA can be used for the treatment of children and adolescents, 3 months of a
 
 Take special care with other products that stimulate red blood cell production: MIRCERA is one of a group of products that stimulate the production of red blood cells like the human protein erythropoietin does. Your healthcare professional will always record the exact product you are using.
 
-Serious skin reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in association with epoetin treatment. SJS/TEN can appear initially as reddish target-like spots or circular patches often with central blisters on the trunk. Also, ulcers of mouth, throat, nose, genitals and eyes (red and swollen eyes) can occur.
+Serious skin reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in association with epoetin treatment.
+
+SJS/TEN can appear initially as reddish target-like spots or circular patches often with central blisters on the trunk. Also, ulcers of mouth, throat, nose, genitals and eyes (red and swollen eyes) can occur.
 
 These serious skin rashes are often preceded by fever and/or flu-like symptoms. The rashes may progress to widespread peeling of the skin and life-threatening complications.
 
@@ -1648,7 +1660,13 @@ Food and drink do not affect MIRCERA.
 
 ## Pregnancy, breast-feeding and fertility
 
-Ask your doctor or pharmacist for advice before taking any medicine. MIRCERA has not been studied in pregnant or breast-feeding women. Tell your doctor if you are pregnant, think you are pregnant or intend to become pregnant. Your doctor will consider what is the best treatment for you during pregnancy. Tell your doctor if you are breast-feeding or intend to breast-feed. Your doctor will advise if you should stop or continue breast-feeding and stop or continue your treatment. MIRCERA has not shown evidence of impaired fertility in animals. The potential risk for humans is unknown.
+Tell your doctor if you are pregnant, think you are pregnant or intend to become pregnant. Your doctor will consider what is the best treatment for you during pregnancy.
+
+Tell your doctor if you are breast-feeding or intend to breast-feed. Your doctor will advise if you
+
+Ask your doctor or pharmacist for advice before taking any medicine. MIRCERA has not been studied in pregnant or breast-feeding women. should stop or continue breast-feeding and stop or continue your treatment.
+
+MIRCERA has not shown evidence of impaired fertility in animals. The potential risk for humans is unknown.
 
 ## Driving and using machines
 
@@ -1749,11 +1767,11 @@ Do not use this medicine after the expiry date which is stated on the outer cart
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2  C - 8  C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-You may remove your MIRCERA pre-filled syringe from the refrigerator and store it at a room temperature not above 30 ° C for a single period of one month. During this period when you have stored MIRCERA at a room temperature not above 30 ° C you may not put MIRCERA back in the refrigerator before use. Once you have removed your medicine from the refrigerator you must use it within this period of one month.
+You may remove your MIRCERA pre-filled syringe from the refrigerator and store it at a room temperature not above 30  C for a single period of one month. During this period when you have stored MIRCERA at a room temperature not above 30  C you may not put MIRCERA back in the refrigerator before use. Once you have removed your medicine from the refrigerator you must use it within this period of one month.
 
 Only solutions which are clear, colourless to slightly yellowish and free of visible particles must be injected.
 
@@ -1781,35 +1799,27 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
-## België/Belgique/Belgien
-
-N.V. Roche S.A.
-
-Tél/Tel: +32 (0) 2 525 82 11
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
 Рош България ЕООД
 
-Тел: +359 2 474 5444
+Тел : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
-Roche s. r. o.
-
-Tel: +420 - 2 20382111
+Roche s. r. o. Tel: +420 - 2 20382111
 
 ## Danmark
 
-Roche Pharmaceuticals A/S
-
-Tlf: +45 - 36 39 99 99
+Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99 99
 
 ## Deutschland
 
@@ -1823,9 +1833,13 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
+## Ελλάδα , K ύπρος
+
+Roche (Hellas) A.E.
+
 ## Ελλάδα
 
-Roche (Hellas) A.E. Τηλ : +30 210 61 66 100
+Τηλ : +30 210 61 66 100
 
 ## España
 
@@ -1841,43 +1855,31 @@ Tél: +33 (0) 1 47 61 40 00
 
 ## Hrvatska
 
-Roche d.o.o.
+Roche d.o.o. Tel: +385 1 4722 333
 
-Tel: +385 1 4722 333
+## Ireland/Malta
 
-## Ireland
-
-Roche Products (Ireland) Ltd.
-
-Tel: +353 (0) 1 469 0700
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda Tel: +353 (0) 1 469 0700
 
 ## Ísland
 
-Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
+Roche Pharmaceuticals A/S
 
-## Italia
+c/o Icepharma hf Sími: +354 540 8000
 
-Roche S.p.A.
+## Latvija
 
-Tel: +39 - 039 2471
+Roche Latvija SIA Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
-
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
+Roche (Magyarország) Kft.
 
-## Malta
-
-(See Ireland)
+Tel: +36 - 1 279 4500
 
 ## Nederland
 
@@ -1885,7 +1887,9 @@ Roche Nederland B.V. Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS Tlf: +47 - 22 78 90 00
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -1893,21 +1897,25 @@ Roche Austria GmbH Tel: +43 (0) 1 27739
 
 ## Polska
 
-Roche Polska Sp.z o.o. Tel: +48 - 22 345 18 88
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
 
 ## România
 
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
+Roche România S.R.L. Tel: +40 21 206 47 01
 
 ## Slovenija
 
-Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
@@ -1919,39 +1927,27 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-## K ύπρος
-
-Roche (Hellas) A.E.
-
-Τηλ: +30 210 61 66 100
-
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
+Italia Roche S.p.A.
 
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
+Tel: +39 - 039 2471
 
 ## This leaflet was last revised in
 
+## Other sources of information
+
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
 
-Sverige
-
-Roche AB Tel: +46 (0) 8 726 1200
+Sverige Roche AB Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
 ## MIRCERA pre-filled syringe Instructions For Use
 
-The following instructions explain how to use the MIRCERA pre-filled syringe to give yourself or another individual an injection.
+The following instructions explain how to use the MIRCERA pre-filled syringe to give yourself or another individual an injection. It is important to read and follow these instructions carefully so that you are able to use the pre-filled syringe correctly and safely. Do not attempt to administer an injection until you are sure that you understand how to use the pre-filled syringe, if in doubt contact a healthcare professional.  Children and adolescents less than 18 years should not self-inject MIRCERA, the administration should be performed by a healthcare professional or trained adult caregiver. Always follow all directions in these Instructions For Use as they may differ from your experience.  These instructions will help prevent incorrect treatments or risks such as needle stick injury or an early activation of the needle safety device, or problems related
 
-It is important to read and follow these instructions carefully so that you are able to use the prefilled syringe correctly and safely.
-
-Do not attempt to administer an injection until you are sure that you understand how to use the pre-filled syringe, if in doubt contact a healthcare professional.  Children and adolescents less than 18 years should not self-inject MIRCERA, the administration should be performed by a healthcare professional or trained adult caregiver.
-
-Always follow all directions in these Instructions For Use as they may differ from your experience.  These instructions will help prevent incorrect treatments or risks such as needle stick injury or an early activation of the needle safety device, or problems related to the attachment of the needle.
+to the attachment of the needle.
 
 ## IMPORTANT INFORMATION
 
@@ -1974,13 +1970,15 @@ Always follow all directions in these Instructions For Use as they may differ fr
 
 Keep the pre-filled syringe, the needle and the puncture-resistant/ sharps container out of the reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Store the syringe and the needle in its original box until ready to use.
 
-Always store the syringe and the needle in a refrigerator at a temperature of 2 - 8°C (35.6 46.4°F).
+Always store the syringe and the needle in a refrigerator at a temperature of 2 - 8°C (35.6
+
+- 46.4°F).
 
 Do not allow the medicine to freeze, and protect the medicine and the needle from light. Keep the syringe and the needle dry.
+
+<div style=\"page-break-after: always\"></div>
 
 ## MATERIALS INCLUDED IN THE PACK (Figure A):
 
@@ -1993,19 +1991,29 @@ Figure A
 
 MATERIALS N
 
+## MATERIALS NOT INCLUDED IN THE PACK (Figure B):
+
+57
+
+Puncture-resistant container or sharps container for safe disposal of needle and used syringe Assemble all of the supplies you will need for an injection on a clean, well-lit flat surface such as a table.
+
 <div style=\"page-break-after: always\"></div>
 
-## MATERIALS NOT INCLUDED IN THE PACK (Figure B):
+Figure B
 
 <!-- image -->
 
-Assemble all of the supplies you will need for an injection on a clean, well-lit flat surface such as a table.
+<!-- image -->
 
 ## HOW TO GIVE THE INJECTION
 
-## Step 1: Allow the syringe to adjust to room temperature
+Step 1: Allow the syringe to adjust to room temperature
 
 Figure C
+
+<!-- image -->
+
+Figure D
 
 <!-- image -->
 
@@ -2014,31 +2022,21 @@ Carefully remove the box containing the MIRCERA prefilled syringe from the refri
 - Not allowing the medicine to come to room temperature could result in an uncomfortable injection, and it may be difficult to depress the plunger.
 - Do not warm up the syringe in any other way.
 
-<div style=\"page-break-after: always\"></div>
-
-Figure D
+Open the box and Remove the plastic tray with the MIRCERA pre-filled syringe without peeling back the protective film (Figure D).
 
 <!-- image -->
 
-## Step 2: Clean your hands
+<div style=\"page-break-after: always\"></div>
+
+Step 2: Clean your hands
 
 Figure E
 
 <!-- image -->
 
-Open the box and Remove the plastic tray with the MIRCERA pre-filled syringe without peeling back the protective film (Figure D).
-
-Disinfect your hands well with soap and warm water or hands sanitizer (Figure E).
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 3: Unpack and visually inspect the pre-filled syringe
+Step 3: Unpack and visually inspect the pre-filled syringe
 
 Figure F
-
-<!-- image -->
-
-Figure G
 
 <!-- image -->
 
@@ -2046,9 +2044,17 @@ Peel back the protective film from the plastic tray and remove the packed needle
 
 Only handle the syringe by the body, because any contact with the activation guards could cause premature release of the safety device.
 
-Examine the syringe for damage and check the expiration date on the syringe and box. This is important to ensure that the syringe and medicine are safe to use (Figure G).
+Disinfect your hands well with soap and warm water or hands sanitizer (Figure E).
 
-## Do not use the syringe if:
+<div style=\"page-break-after: always\"></div>
+
+Figure G
+
+<!-- image -->
+
+Step 4. Attach the needle to the syringe Examine the syringe for damage and check the expiration date on the syringe and box. This is important to ensure that the syringe and medicine are safe to use (Figure G).
+
+Do not use the syringe if:
 
 - You have accidentally dropped the syringe.
 - Any part of the syringe appears to be damaged.
@@ -2058,15 +2064,19 @@ Examine the syringe for damage and check the expiration date on the syringe and 
 
 <div style=\"page-break-after: always\"></div>
 
-## Step 4. Attach the needle to the syringe
+<!-- image -->
 
 Figure H
-
-<!-- image -->
 
 Figure I
 
 <!-- image -->
+
+Figure J
+
+<!-- image -->
+
+Step 5. Remove the needle shield and prepare for injection
 
 Grasp the syringe in the middle of the body, hold the rubber tip cap firmly, and remove the rubber tip cap from the syringe (bend and pull) (Figure H).
 
@@ -2075,9 +2085,7 @@ Grasp the syringe in the middle of the body, hold the rubber tip cap firmly, and
 - Do not push the plunger.
 - Do not pull on the plunger.
 
-Grasp the packaged needle firmly in both hands and examine the packaged needle for damage. Break the seal of the needle, using a twisting motion, and remove the needle cap (Figure I).
-
-Immediately throw away the needle cap in the sharps / punctureresistant container or sharps container.
+Grasp the packaged needle firmly in both hands and examine the packaged needle for damage. Break the seal of the needle, using a twisting motion, and remove the needle cap (Figure I). Immediately throw away the needle cap in the sharps / puncture-resistant container or sharps container.
 
 Do not remove the needle shield that protects the needle.
 
@@ -2086,13 +2094,11 @@ Do not use the needle if:
 - You have accidentally dropped the needle.
 - Any part of the needle appears to be damaged.
 
+Attach the needle to the syringe by pushing it firmly straight onto the syringe and by twisting or turning it slightly (Figure J).
+
 <div style=\"page-break-after: always\"></div>
 
-Figure J
-
 <!-- image -->
-
-## Step 5. Remove the needle shield and prepare for injection
 
 Figure K
 
@@ -2108,15 +2114,13 @@ Hold the syringe firmly with one hand in the middle of the body and pull the nee
 - You may see a drop of liquid at the end of the needle. This is normal.
 - Never reattach the needle shield after removal.
 
-To remove air bubbles from the prefilled syringe, hold the syringe with the needle pointing up. Tap the syringe gently to bring any bubbles to the top (Figure L and M).
+To remove air bubbles from the pre-filled syringe, hold the syringe with the needle pointing up. Tap the syringe gently to bring any bubbles to the top (Figure L and M).
 
-Attach the needle to the syringe by pushing it firmly straight onto the syringe and by twisting or turning it slightly (Figure J).
+Push the plunger up slowly to remove all air, as shown to you by a healthcare professional. (Figure M).
 
 <div style=\"page-break-after: always\"></div>
 
-Figure M
-
-<!-- image -->
+## Figure M
 
 ## Step 6. Perform the injection
 
@@ -2130,24 +2134,13 @@ Figure N
 
 <!-- image -->
 
-Choose one of the recommended injection sites as shown. You may inject MIRCERA into the upper arm, thigh or abdomen, but not in the area around the navel (belly button) (Figure N). The back of the upper arm is not a recommended site for self-injection. Use this injection site only if you inject someone else.
-
-When selecting an injection site:
-
-- You should use a different injection site each time you administer an injection, at least three centimeters from the area you used for the previous injection.
-
-Push the plunger up slowly to remove all air, as shown to you by a healthcare professional. (Figure M).
-
-<div style=\"page-break-after: always\"></div>
-
 Figure O
 
 <!-- image -->
 
-Figure P
+Choose one of the recommended injection sites as shown. You may inject MIRCERA into the upper arm, thigh or abdomen, but not in the area around the navel (belly button) (Figure N). The back of the upper arm is not a recommended site for selfinjection.  Use this injection site only if you inject someone else. When selecting an injection site:
 
-<!-- image -->
-
+- You should use a different injection site each time you administer an injection, at least three centimeters from the area you used for the previous injection.
 - Do not inject into areas that could be irritated by a belt or waistband.
 - Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact.
 
@@ -2157,21 +2150,35 @@ Clean the chosen injection site area using an alcohol pad to reduce the risk of 
 - Be sure not to touch the cleaned area prior to the injection and do not fan or blow on the clean area.
 - Immediately throw away the alcohol pad.
 
-Adopt a comfortable posture before performing an injection of MIRCERA.
-
-To be sure the needle can be inserted correctly under the skin, use your free hand to pinch a fold of loose skin at the clean injection site. Pinching the skin is important to ensure that you inject under the skin (into fatty tissue) but not any deeper (into muscle). Injection into muscle could result in an uncomfortable injection (Figure P).
-
-Carefully fully insert the needle into the skin at an angle of 90° in a quick, 'dart-like' motion. Then keep the syringe in position and let go of the pinch of skin.
-
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+Figure P
 
 Figure Q
 
 <!-- image -->
 
 Figure R
+
+<!-- image -->
+
+Adopt a comfortable posture before performing an injection of MIRCERA.
+
+To be sure the needle can be inserted correctly under the skin, use your free hand to pinch a fold of loose skin at the clean injection site. Pinching the skin is important to ensure that you inject under the skin (into fatty tissue) but not any deeper (into muscle). Injection into muscle could result in an uncomfortable injection (Figure P).
+
+Carefully fully insert the needle into the skin at an angle of 90° in a quick, 'dart-like' motion. Then keep the syringe in position and let go of the pinch of skin.
+
+Do not move the needle while it is inserted in the skin.
+
+Once the needle is fully inserted into the skin, slowly push the plunger with your thumb while holding the syringe with the forefinger and the middle finger against the finger grips until all the medicine is injected.  The plunger rod should be fully pushed down (depressed) and you should hear a click indicating the activation of the needle guard (Figure Q).
+
+Do not release the plunger before the end of injection or before the plunger is completely depressed.
+
+Take the needle out of the skin WITHOUT releasing the plunger (Figure R).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure S
 
@@ -2180,20 +2187,6 @@ Figure S
 Figure T
 
 <!-- image -->
-
-Do not move the needle while it is inserted in the skin.
-
-Once the needle is fully inserted into the skin, slowly push the plunger with your thumb while holding the syringe with the forefinger and the middle finger against the finger grips until all the medicine is injected. The plunger rod should be fully pushed down (depressed) and you should hear a click indicating the activation of the needle guard (Figure Q).
-
-Do not release the plunger before the end of injection or before the plunger is completely depressed.
-
-Take the needle out of the skin WITHOUT releasing the plunger (Figure R).
-
-Release the plunger, allowing the needle guard to protect the needle (Figure S).
-
-Now, the tear-off label can be removed, if necessary (Figure T).
-
-<div style=\"page-break-after: always\"></div>
 
 ## After the injection:
 
@@ -2218,17 +2211,31 @@ After preparation of the syringe as described in steps 1 to 5:
 
 Clean the venous port of the hemodialysis tubing with an alcohol swab as instructed by the provider or manufacturer.  Immediately throw away the alcohol swab after use.
 
+Release the plunger, allowing the needle guard to protect the needle (Figure S).
+
+Now, the tear-off label can be removed, if necessary (Figure T).
+
+<div style=\"page-break-after: always\"></div>
+
 Figure U
 
 <!-- image -->
 
+Figure V
+
+<!-- image -->
+
+Step 7: Dispose of the used syringe with the needle
+
+- Do not try to replace the needle shield on the needle.
+- Do not reuse or resterilise the syringe and/or the needle.
+- Do not throw away the used syringe with the needle via household waste.
+- Throw away used syringes in a sharps/ puncture-resistant container and/or according to health institutions policies.
+- Dispose of the full sharps/ puncture-resistant container.
+
 Insert the needle of the pre-filled syringe into the cleaned venous port (Figure U).
 
 Do not touch the injection site of the venous port
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 Push the plunger with the thumb while holding the syringe with the forefinger and the middle finger against the finger grips until all the medicine is injected (Figure V).
 
@@ -2237,13 +2244,3 @@ Remove the pre-filled syringe from the venous port WITHOUT releasing the plunger
 Once removed release the plunger, allowing the needle guard to protect the needle.
 
 Now, the tear-off label can be removed, if necessary (See Figure T).
-
-Figure V
-
-## Step 7: Dispose of the used syringe with the needle
-
-- Do not try to replace the needle shield on the needle.
-- Do not reuse or resterilise the syringe and/or the needle.
-- Do not throw away the used syringe with the needle via household waste.
-- Throw away used syringes in a sharps/ puncture-resistant container and/or according to health institutions policies.
-- Dispose of the full sharps/ puncture-resistant container.

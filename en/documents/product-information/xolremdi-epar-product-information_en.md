@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-12 11:38:14
-document_pages: 37
+document_datetime: 2026-07-07 08:52:24
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xolremdi-epar-product-information_en.pdf
 document_name: xolremdi-epar-product-information_en.pdf
 version: success
-processing_time: 8.6193194
-conversion_datetime: 2026-05-13 12:50:36.09403
+processing_time: 8.6730006
+conversion_datetime: 2026-07-10 22:51:40.840132
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -103,7 +103,7 @@ Xolremdi should not be used in children &lt; 2 years of age because exposure to 
 
 ## Method of administration
 
-## Xolremdi is for oral use.
+Xolremdi is for oral use.
 
 The capsule should be taken on an empty stomach after an overnight fast, and at least 30 minutes before food (see section 5.2).
 
@@ -177,9 +177,9 @@ a All interactions studies conducted in healthy subjects.
 
 b  Concomitant use with Xolremdi 400 mg
 
-c Concomitant use of a single oral dose of a transporter cocktail containing 0.25 mg of digoxin with Xolremdi dosed to steady state (400 mg/day).
+c  Concomitant use of a single oral dose of a transporter cocktail containing 0.25 mg of digoxin with Xolremdi dosed to steady state (400 mg/day).
 
-d Concomitant use of a single oral dose of a transporter cocktail containing 10 mg of metformin with Xolremdi dosed to steady state (400 mg/day)
+d  Concomitant use of a single oral dose of a transporter cocktail containing 10 mg of metformin with Xolremdi dosed to steady state (400 mg/day)
 
 Table 2: Effect of other medicinal products on Xolremdi (examples include, but are not limited to)
 
@@ -194,7 +194,7 @@ Table 2: Effect of other medicinal products on Xolremdi (examples include, but a
 
 a All interactions studies conducted in healthy subjects.
 
-b Concomitant use of Xolremdi 200 mg with 200 mg itraconazole.
+b  Concomitant use of Xolremdi 200 mg with 200 mg itraconazole.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -304,13 +304,13 @@ Pharmacotherapeutic group: Immunostimulants, Other immunostimulants, ATC code: L
 
 ## Mechanism of action
 
-Mavorixafor is a CXC Chemokine Receptor 4 (CXCR4) antagonist that blocks the binding of the CXCR4 ligand, stromal-derived factor1α (SDF -1α)/CXC Chemokine Ligand 12 (CXCL12). SDF-1/CXCR4 plays a role in trafficking and homing of leukocytes to and from the bone marrow compartment. Gain of function mutations in the CXCR4 receptor gene that occur in patients with WHIM syndrome lead to increased responsiveness to CXCL12 and retention of leukocytes in the bone marrow. Mavorixafor inhibits the response to CXCL12 in both wild-type and mutated CXCR4 variants associated with WHIM syndrome. Treatment with mavorixafor results in increased mobilisation of neutrophils and lymphocytes and monocytes from the bone marrow into peripheral circulation.
+Mavorixafor is a CXC Chemokine Receptor 4 (CXCR4) antagonist that blocks the binding of the CXCR4 ligand, stromal-derived factor-1α (SDF-1α)/CXC Chemokine Ligand 12 (CXCL12). SDF-1/CXCR4 plays a role in trafficking and homing of leukocytes to and from the bone marrow compartment. Gain of function mutations in the CXCR4 receptor gene that occur in patients with WHIM syndrome lead to increased responsiveness to CXCL12 and retention of leukocytes in the bone marrow. Mavorixafor inhibits the response to CXCL12 in both wild-type and mutated CXCR4 variants associated with WHIM syndrome. Treatment with mavorixafor results in increased mobilisation of neutrophils and lymphocytes and monocytes from the bone marrow into peripheral circulation.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
-Absolute neutrophil count (ANC) and absolute lymphocyte count (ALC) peaked at 4 hours after Xolremdi dosing and returned towards baseline within 24 h after dosing. Over mavorixafor doses of 50 mg (0.125 times the maximum recommended dose) to 400 mg once daily, higher mavorixafor exposure at steady state was associated with longer mean time (hours) above ANC threshold (TATANC) of 500 cells/μL and longer mean time (hours) above ALC threshold (TATALC) of 1 000 cells/μL over a 24-hour period.
+Absolute neutrophil count (ANC) and absolute lymphocyte count (ALC) peaked at 4 hours after Xolremdi dosing and returned towards baseline within 24 h after dosing. Over mavorixafor doses of 50 mg (0.125 times the maximum recommended dose) to 400 mg once daily, higher mavorixafor exposure at steady state was associated with longer mean time (hours) above ANC threshold (TATANC) of 500 cells/μL and longer mean time (hours) above ALC threshold (TAT ALC ) of 1 000 cells/μL over a 24-hour period.
 
 ## Cardiac electrophysiology
 
@@ -357,20 +357,20 @@ Abbreviations: SD = standard deviation; Ig = immunoglobulin.
 
 Note: Percentages are calculated based on the number of patients within each characteristic as denominator.
 
-The primary efficacy endpoint was improvement in ANC as measured by the mean time (hours) above ANC threshold (TATANC) of 500 cells/μL which was assessed over a 24-hour period 4 times throughout the study (every 3 months for 12 months). Over the 52-week period, TATANC was statistically significantly greater in patients treated with mavorixafor compared with placebo. See Table 6 and Figure 1.
+The primary efficacy endpoint was improvement in ANC as measured by the mean time (hours) above ANC threshold (TATANC ) of 500 cells/μL which was assessed over a 24-hour period 4 times throughout the study (every 3 months for 12 months). Over the 52-week period, TATANC was statistically significantly greater in patients treated with mavorixafor compared with placebo. See Table 6 and Figure 1.
 
 Table 6: Mean time (hours) above ANC threshold (TATANC) in study 1
 
-|                     |                           | Xolremdi (n = 14)   | Placebo (n = 17)   |
-|---------------------|---------------------------|---------------------|--------------------|
-| TAT ANC (hours)     |                           |                     |                    |
-| Baseline            | Mean (SD)                 | 0.0 (0.0)           | 3.6 (5.7)          |
-| OverallMMRM results | LS mean (SE)              | 15.0 (1.89)         | 2.8 (1.52)         |
-| OverallMMRM results | LS mean 95% CI            | (11.2, 18.9)        | (0.0, 5.9)         |
-| OverallMMRM results | Difference from placebo:  |                     |                    |
-| OverallMMRM results | LS mean difference (SE)   | 12.30 (2.5)         | -                  |
-| OverallMMRM results | LS mean difference 95% CI | (7.2, 17.4)         | -                  |
-| OverallMMRM results | P-value 1                 | < 0.0001            | -                  |
+|                      |                           | Xolremdi (n = 14)   | Placebo (n = 17)   |
+|----------------------|---------------------------|---------------------|--------------------|
+| TAT ANC (hours)      |                           |                     |                    |
+| Baseline             | Mean (SD)                 | 0.0 (0.0)           | 3.6 (5.7)          |
+| Overall MMRM results | LS mean (SE)              | 15.0 (1.89)         | 2.8 (1.52)         |
+| Overall MMRM results | LS mean 95% CI            | (11.2, 18.9)        | (0.0, 5.9)         |
+| Overall MMRM results | Difference from placebo:  |                     |                    |
+| Overall MMRM results | LS mean difference (SE)   | 12.30 (2.5)         | -                  |
+| Overall MMRM results | LS mean difference 95% CI | (7.2, 17.4)         | -                  |
+| Overall MMRM results | P-value 1                 | < 0.0001            | -                  |
 
 Abbreviations: ANC = absolute neutrophil count; CI = confidence interval; LS = least squares; MMRM = mixed-model repeated measures; SD = standard deviation; SE = standard error; TAT = time above threshold of 500 cells/μL.
 
@@ -386,24 +386,24 @@ Abbreviations: ANC = absolute neutrophil count; CI = confidence interval; LS = l
 
 *At week 52, 3 of 17 placebo patients were given mavorixafor in advance of their TAT measurement as they entered the open-label period of the study; one mavorixafor patient did not take mavorixafor. All data were included in the ITT analysis.
 
-The key secondary efficacy endpoint was improvement in ALC as measured by the mean time (hours) above ALC threshold (TATALC) of 1 000 cells/μL over a 24-hour period. Over the 52-week period, TATALC was statistically significantly greater in patients treated with mavorixafor compared with placebo. See Table 7.
+The key secondary efficacy endpoint was improvement in ALC as measured by the mean time (hours) above ALC threshold (TATALC ) of 1 000 cells/μL over a 24-hour period. Over the 52-week period, TATALC was statistically significantly greater in patients treated with mavorixafor compared with placebo. See Table 7.
 
 Table 7: Mean time (hours) above ALC threshold (TATALC) in study 1
 
-|                     |                           | Xolremdi (n = 14)   | Placebo (n = 17)   |
-|---------------------|---------------------------|---------------------|--------------------|
-| TAT ALC (hours)     |                           |                     |                    |
-| Baseline            | Mean (SD)                 | 2.2 (5.07)          | 2.8 (5.86)         |
-| OverallMMRM results | LS mean (SE)              | 15.8 (1.39)         | 4.6 (1.15)         |
-| OverallMMRM results | LS mean 95% CI            | (13.0, 18.7)        | (2.2, 6.9)         |
-| OverallMMRM results | Difference from placebo:  |                     |                    |
-| OverallMMRM results | LS mean difference (SE)   | 11.3 (1.80)         | -                  |
-| OverallMMRM results | LS mean difference 95% CI | (7.5, 15.0)         | -                  |
-| OverallMMRM results | P-value 1                 | < 0.0001            | -                  |
+|                      |                           | Xolremdi (n = 14)   | Placebo (n = 17)   |
+|----------------------|---------------------------|---------------------|--------------------|
+| TAT ALC (hours)      |                           |                     |                    |
+| Baseline             | Mean (SD)                 | 2.2 (5.07)          | 2.8 (5.86)         |
+| Overall MMRM results | LS mean (SE)              | 15.8 (1.39)         | 4.6 (1.15)         |
+| Overall MMRM results | LS mean 95% CI            | (13.0, 18.7)        | (2.2, 6.9)         |
+| Overall MMRM results | Difference from placebo:  |                     |                    |
+| Overall MMRM results | LS mean difference (SE)   | 11.3 (1.80)         | -                  |
+| Overall MMRM results | LS mean difference 95% CI | (7.5, 15.0)         | -                  |
+| Overall MMRM results | P-value 1                 | < 0.0001            | -                  |
 
 Abbreviations: ALC = absolute lymphocyte count; CI = confidence interval; LS = least squares; MMRM = mixed-model repeated measures; SD = standard deviation; SE = standard error; TAT = time above threshold of 1 000 cells/μL.
 
-[1] The results are based on an MMRM analysis with time above threshold as a dependent variable; treatment, visit (weeks 13, 26, 39 and 52), treatment × visit, Ig use (randomisation strata), and baseline time above threshold as covariates; and patient as the repeated random effect.
+[1]  The results are based on an MMRM analysis with time above threshold as a dependent variable; treatment, visit (weeks 13, 26, 39 and 52), treatment × visit, Ig use (randomisation strata), and baseline time above threshold as covariates; and patient as the repeated random effect.
 
 The efficacy of mavorixafor was further assessed on total infection score and total wart change score. Across the 52-week treatment period, the severity-weighted total infection score was numerically lower in mavorixafor-treated patients [LS mean (SE) 7.41 (2.805)] compared with placebo-treated patients [LS mean (SE) 12.27 (2.443)] with a mean difference of -4.85 [95% CI (-12.57, 2.86)]. Similarly, the annualised infection rate was numerically lower in mavorixafor-treated patients [LS mean (SE) 1.7 (0.5)] compared with placebo-treated patients [LS mean (SE) 4.2 (0.7)] with a rate ratio of 0.417 [95% CI (0.220, 0.789)]. There was no difference in total wart change scores between the mavorixafor and placebo treatment arms over the 52-week period.
 
@@ -431,7 +431,7 @@ Mavorixafor median (range) time to Cmax (tmax) is 2.8 hours (1.9 to 4 hours) at 
 
 ## Effect of food
 
-High fat meal : Mavorixafor Cmax decreased by 66% and AUC decreased by 55% following single-dose administration of Xolremdi 400 mg with a high-fat meal ( 1 000 calories, 50% fat) to healthy subjects.
+High fat meal : Mavorixafor Cmax decreased by 66% and AUC decreased by 55% following single-dose administration of Xolremdi 400 mg with a high-fat meal (1 000 calories, 50% fat) to healthy subjects.
 
 Low fat meal : Mavorixafor Cmax decreased by 55% and AUC decreased by 51% following single-dose administration of Xolremdi 400 mg with a low-fat meal (500 calories, 25% fat) to healthy subjects. In addition, a 14% higher mavorixafor Cmax and 18% lower AUC was observed following single-dose administration of Xolremdi 400 mg with a low-fat meal to healthy subjects after an overnight fast compared to fasting for an additional 4 hours after the Xolremdi dose (see section 4.2).
 
@@ -457,7 +457,7 @@ Mavorixafor demonstrates nonlinear pharmacokinetics with greater than dose-propo
 
 ## Pharmacokinetic/pharmacodynamic relationship(s)
 
-In study 2, mean ANC levels for doses 50 to 200 mg generally remained below the clinical benefit threshold of 500 cells/μL during the 24 -hour dosing interval. For 300 mg and 400 mg, mean ANC levels rose above the threshold by approximately 1 hour post-dose and remained above or at the threshold over the entire dosing interval. A mavorixafor dose of 300/400 mg QD was required to achieve AUCANC ≥ 600/μL and AUCALC ≥ 1 000/μL.
+In study 2, mean ANC levels for doses 50 to 200 mg generally remained below the clinical benefit threshold of 500 cells/μL during the 24-hour dosing interval. For 300 mg and 400 mg, mean ANC levels rose above the threshold by approximately 1 hour post-dose and remained above or at the threshold over the entire dosing interval. A mavorixafor dose of 300/400 mg QD was required to achieve AUCANC ≥ 600/μL and AUC ALC ≥ 1 000/μL.
 
 ## Drug interaction studies
 
@@ -555,7 +555,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-X4 Pharmaceuticals (Austria) GmbH Hohenstaufengasse 9/DG 1010 Vienna Austria
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -567,7 +567,7 @@ EU/1/26/2017/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 27 April 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -597,7 +597,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -605,16 +605,16 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
 Prior to the launch of Xolremdi in each Member State, the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
 
@@ -622,19 +622,19 @@ The educational programme is aimed at reducing the potential risk of embryo-foet
 
 The MAH shall ensure that in each member state where Xolremdi is marketed, all healthcare professionals who are expected to prescribe Xolremdi have access to/are provided with the following educational package:
 
-- Physician educational materials
+-  Physician educational materials
 
 <div style=\"page-break-after: always\"></div>
 
 The MAH shall ensure that in each Member State where Xolremdi is marketed, all patients/carers who are expected to use Xolremdi are provided with the following educational package:
 
-- Patient card
+-  Patient card
 
 ## Physician educational material:
 
-- Summary of Product Characteristics
-- Guide for healthcare professionals
-- Guide for Healthcare Professionals
+-  Summary of Product Characteristics
+-  Guide for healthcare professionals
+-  Guide for Healthcare Professionals
 - o Xolremdi may cause embryo-foetal harm when administered to a pregnant woman.
 - o Xolremdi is contraindicated in pregnant women.
 - o The pregnancy status of female patients of childbearing potential who are engaging in activities of reproductive potential should be verified prior to starting Xolremdi.
@@ -646,9 +646,9 @@ The MAH shall ensure that in each Member State where Xolremdi is marketed, all p
 
 ## The patient information pack :
 
-- Package leaflet
-- Patient card
-- Patient card :
+-  Package leaflet
+-  Patient card
+-  Patient card :
 - o Warning not to take Xolremdi if pregnant. Xolremdi poses a potential risk to your unborn child.
 - o Instruction to use highly effective contraception methods (e.g. double-barrier contraception) for women of childbearing potential during treatment with Xolremdi and for three weeks after the last dose.
 - o Instruction for male patients to use effective contraception when having sexual intercourse with a female partner of childbearing potential during treatment with Xolremdi and for three weeks after the last dose.
@@ -661,10 +661,10 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Due date                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Non-interventional post-authorisation safety study (PASS): In order to investigate the long-term safety and efficacy of mavorixafor in the treatment of WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes in patients 12 years of age and older, theMAH shall conduct and submit the results of a non-interventional study based on a registry in patients collecting both safety and efficacy endpoints. | Annually (within annual reassessment) |
-| In order to ensure adequate monitoring of safety and efficacy of mavorixafor in patients 12 years of age and older for the treatment of WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes, theMAH shall provide yearly updates on any new information concerning the safety and efficacy of mavorixafor.                                                                                                  | Annually (within annual reassessment) |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Non-interventional post-authorisation safety study (PASS): In order to investigate the long-term safety and efficacy of mavorixafor in the treatment of WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes in patients 12 years of age and older, the MAH shall conduct and submit the results of a non-interventional study based on a registry in patients collecting both safety and efficacy endpoints. | Annually (within annual reassessment) |
+| In order to ensure adequate monitoring of safety and efficacy of mavorixafor in patients 12 years of age and older for the treatment of WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of mavorixafor.                                                                                                  | Annually (within annual reassessment) |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -734,7 +734,13 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-X4 Pharmaceuticals (Austria) GmbH Hohenstaufengasse 9/DG 1010 Vienna, Austria
+Norgine B.V.
+
+Antonio Vivaldistraat 150
+
+1083 HP Amsterdam
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -750,7 +756,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -788,7 +794,7 @@ Each hard capsule contains 100 mg of mavorixafor.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsule
+## Hard capsule
 
 - 60 hard capsules
 - 90 hard capsules
@@ -820,30 +826,39 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-X4 Pharmaceuticals (Austria) GmbH
+Norgine B.V.
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/26/2017/001 60 hard capsules EU/1/26/2017/002 90 hard capsules
 
 EU/1/26/2017/003 120 hard capsules
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -855,10 +870,10 @@ Patient card for Xolremdi (mavorixafor)
 
 This card has important information about Xolremdi.
 
-- Do not take Xolremdi if you are pregnant or think you might be pregnant, as it could harm your unborn baby.
-- If you can become pregnant, you must use a highly effective contraception (e.g. double barrier) while taking Xolremdi and for three weeks after your last dose.
-- If you are a male patient and your partner can become pregnant, you must use a condom while taking Xolremdi and for three weeks after your last dose.
-- If you or your partner think there may be a pregnancy, contact your doctor immediately.
+-  Do not take Xolremdi if you are pregnant or think you might be pregnant, as it could harm your unborn baby.
+-  If you can become pregnant, you must use a highly effective contraception (e.g. double barrier) while taking Xolremdi and for three weeks after your last dose.
+-  If you are a male patient and your partner can become pregnant, you must use a condom while taking Xolremdi and for three weeks after your last dose.
+-  If you or your partner think there may be a pregnancy, contact your doctor immediately.
 
 Please also read the package leaflet carefully as it contains important information. If you have any questions about Xolremdi, talk to your doctor.
 
@@ -893,8 +908,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to take Xolremdi
 4. Possible side effects
 5. How to store Xolremdi
-6. 6.
-7. Contents of the pack and other information
+6. Contents of the pack and other information
 
 ## 1. What Xolremdi is and what it is used for
 
@@ -1108,7 +1122,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is mavorixafor. Each hard capsule contains 100 mg of mavorixafor.
 - -The other ingredients are:
 
-Capsule content: silica, colloidal anhydrous (E551), croscarmellose sodium (E468), calcium hydrogen phosphate dihydrate (E3431 (ii)), cellulose, microcrystalline (E460(i)), sodium lauril sulfate, and sodium stearyl fumarate. See section 2 'Xolremdi contains sodium'. Capsule shell: indigotine (E132), gelatine (E441) and titanium dioxide (E171). Printing ink: ammonia solution, concentrated (E527), black iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol (E1520) and shellac glaze in ethanol (E904).
+Capsule content: silica, colloidal anhydrous (E551), croscarmellose sodium (E468), calcium sulfate, and sodium stearyl fumarate. See section 2 'Xolremdi contains sodium'.
+
+hydrogen phosphate dihydrate (E3431 (ii)), cellulose, microcrystalline (E460(i)), sodium lauril Capsule shell: indigotine (E132), gelatine (E441) and titanium dioxide (E171). Printing ink: ammonia solution, concentrated (E527), black iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol (E1520) and shellac glaze in ethanol (E904).
 
 ## What Xolremdi looks like and contents of the pack
 
@@ -1122,9 +1138,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-X4 Pharmaceuticals (Austria) GmbH Hohenstaufengasse 9/DG 1010 Vienna
-
-Austria
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 
 ## Manufacturer
 
@@ -1137,17 +1151,3 @@ This medicine has been authorised under 'exceptional circumstances'. This means 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE GRANTING OF THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Marketing authorisation under exceptional circumstances
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the marketing authorisation under exceptional circumstances as further explained in the European Public Assessment Report.

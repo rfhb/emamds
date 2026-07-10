@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-03 10:15:00
+document_datetime: 2026-07-08 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trazimera.html
 document_name: trazimera.html
 version: success
-processing_time: 0.1319493
-conversion_datetime: 2026-02-04 15:12:15.819953
+processing_time: 0.1467533
+conversion_datetime: 2026-07-10 22:35:58.893417
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Trazimera
 
 [RSS](/en/individual-human-medicine.xml/65473)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab Medicine Human Authorised
+trastuzumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -62,7 +64,7 @@ Expand section
 
 Collapse section
 
-## How is Trazimera used?
+### How is Trazimera used?
 
 Trazimera can only be obtained with a prescription and treatment should be started by a doctor who has experience in the use of cancer medicines.
 
@@ -72,11 +74,11 @@ The infusion may cause allergic reactions, so the patient should be monitored du
 
 For more information about using Trazimera, see the package leaflet or contact a doctor or pharmacist.
 
-## How does Trazimera work?
+### How does Trazimera work?
 
 The active substance in Trazimera, trastuzumab, is a monoclonal antibody (a type of protein) designed to recognise and attach to the HER2 protein. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the tumour cells. Trastuzumab also stops HER2 from producing signals that cause the tumour cells to grow.
 
-## What benefits of Trazimera have been shown in studies?
+### What benefits of Trazimera have been shown in studies?
 
 Laboratory studies comparing Trazimera with Herceptin have shown that the active substance in Trazimera is highly similar to that in Herceptin in terms of structure, purity and biological activity. Studies have also shown that giving Trazimera produces similar levels of the active substance in the body to giving Herceptin.
 
@@ -84,7 +86,7 @@ In addition, a main study involving 707 patients with metastatic breast cancer t
 
 Because Trazimera is a biosimilar medicine, the studies on effectiveness and safety of trastuzumab carried out with Herceptin do not all need to be repeated for Trazimera.
 
-## What are the risks associated with Trazimera?
+### What are the risks associated with Trazimera?
 
 The most common or serious side effects with Trazimera are heart problems, reactions related to the Trazimera infusion, reduced levels of blood cells (especially white blood cells), infections and lung problems.
 
@@ -94,17 +96,17 @@ Trazimera must not be used in people who are hypersensitive (allergic) to trastu
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is Trazimera authorised in the EU?
+### Why is Trazimera authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Trazimera has been shown overall to have a comparable quality, safety and effectiveness to Herceptin. Therefore, the Agency's view was that, as for Herceptin, the benefit of Trazimera outweighs the identified risk and it can be authorised.
 
-## What measures are being taken to ensure the safe and effective use of Trazimera?
+### What measures are being taken to ensure the safe and effective use of Trazimera?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Trazimera have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Trazimera are continuously monitored. Side effects reported with Trazimera are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Trazimera
+### Other information about Trazimera
 
 Trazimera received a marketing authorisation valid throughout the EU on 26.07.2018.
 
@@ -114,275 +116,141 @@ Reference Number: EMA/426663/2018
 
 English (EN) (81.97 KB - PDF)
 
-**First published:** 16/08/2018
-
-**Last updated:** 16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/en/documents/overview/trazimera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-862)
+[Other languages (22)](#file-language-dropdown-5)
 
 български (BG) (114.59 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/bg/documents/overview/trazimera-epar-medicine-overview_bg.pdf)
 
 español (ES) (81.64 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/es/documents/overview/trazimera-epar-medicine-overview_es.pdf)
 
 čeština (CS) (107.32 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/cs/documents/overview/trazimera-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (81.05 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/da/documents/overview/trazimera-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (83.3 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/de/documents/overview/trazimera-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (80.34 KB - PDF)
+eesti (ET) (80.34 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/et/documents/overview/trazimera-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (116.1 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/el/documents/overview/trazimera-epar-medicine-overview_el.pdf)
 
 français (FR) (82.91 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/fr/documents/overview/trazimera-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (101.8 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/hr/documents/overview/trazimera-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (81.05 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/it/documents/overview/trazimera-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (103.58 KB - PDF)
+latviešu (LV) (103.58 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/lv/documents/overview/trazimera-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (104.83 KB - PDF)
+lietuvių (LT) (104.83 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/lt/documents/overview/trazimera-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (100.66 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/hu/documents/overview/trazimera-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (107.17 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/mt/documents/overview/trazimera-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (81.47 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/nl/documents/overview/trazimera-epar-medicine-overview_nl.pdf)
 
 polski (PL) (106.07 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/pl/documents/overview/trazimera-epar-medicine-overview_pl.pdf)
 
 português (PT) (81.75 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/pt/documents/overview/trazimera-epar-medicine-overview_pt.pdf)
 
 română (RO) (103.88 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/ro/documents/overview/trazimera-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (105.19 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/sk/documents/overview/trazimera-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (99.85 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/sl/documents/overview/trazimera-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (80.95 KB - PDF)
+suomi (FI) (80.95 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/fi/documents/overview/trazimera-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (81.11 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/sv/documents/overview/trazimera-epar-medicine-overview_sv.pdf)
 
@@ -390,9 +258,7 @@ Trazimera : EPAR - Risk-management-plan summary
 
 English (EN) (59.82 KB - PDF)
 
-**First published:** 16/08/2018
-
-**Last updated:** 16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/en/documents/rmp-summary/trazimera-epar-risk-management-plan-summary_en.pdf)
 
@@ -400,311 +266,168 @@ English (EN) (59.82 KB - PDF)
 
 Trazimera : EPAR - Product Information
 
-English (EN) (610.81 KB - PDF)
+English (EN) (595.07 KB - PDF)
 
-**First published:** 16/08/2018
-
-**Last updated:** 03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/en/documents/product-information/trazimera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-916)
+[Other languages (24)](#file-language-dropdown-397)
 
-български (BG) (384.32 KB - PDF)
+български (BG) (611.14 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/bg/documents/product-information/trazimera-epar-product-information_bg.pdf)
 
-español (ES) (341.16 KB - PDF)
+español (ES) (483.59 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/es/documents/product-information/trazimera-epar-product-information_es.pdf)
 
-čeština (CS) (371.04 KB - PDF)
+čeština (CS) (561.37 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/cs/documents/product-information/trazimera-epar-product-information_cs.pdf)
 
-dansk (DA) (358.09 KB - PDF)
+dansk (DA) (505.48 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/da/documents/product-information/trazimera-epar-product-information_da.pdf)
 
-Deutsch (DE) (372.39 KB - PDF)
+Deutsch (DE) (475.59 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/de/documents/product-information/trazimera-epar-product-information_de.pdf)
 
-eesti keel (ET) (347.77 KB - PDF)
+eesti (ET) (471.6 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/et/documents/product-information/trazimera-epar-product-information_et.pdf)
 
-ελληνικά (EL) (403.05 KB - PDF)
+ελληνικά (EL) (635.11 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/el/documents/product-information/trazimera-epar-product-information_el.pdf)
 
-français (FR) (379.75 KB - PDF)
+français (FR) (574.96 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/fr/documents/product-information/trazimera-epar-product-information_fr.pdf)
 
-hrvatski (HR) (351.08 KB - PDF)
+hrvatski (HR) (579.49 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/hr/documents/product-information/trazimera-epar-product-information_hr.pdf)
 
-íslenska (IS) (393.96 KB - PDF)
+italiano (IT) (568.83 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
-
-[View](/is/documents/product-information/trazimera-epar-product-information_is.pdf)
-
-italiano (IT) (367.37 KB - PDF)
-
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/it/documents/product-information/trazimera-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (360.18 KB - PDF)
+latviešu (LV) (574.6 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/lv/documents/product-information/trazimera-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (369.86 KB - PDF)
+lietuvių (LT) (622.9 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/lt/documents/product-information/trazimera-epar-product-information_lt.pdf)
 
-magyar (HU) (355.8 KB - PDF)
+magyar (HU) (552.94 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/hu/documents/product-information/trazimera-epar-product-information_hu.pdf)
 
-Malti (MT) (430.01 KB - PDF)
+Malti (MT) (653.87 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/mt/documents/product-information/trazimera-epar-product-information_mt.pdf)
 
-Nederlands (NL) (344.09 KB - PDF)
+Nederlands (NL) (459.64 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/nl/documents/product-information/trazimera-epar-product-information_nl.pdf)
 
-norsk (NO) (362.1 KB - PDF)
+polski (PL) (580.47 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
-
-[View](/no/documents/product-information/trazimera-epar-product-information_no.pdf)
-
-polski (PL) (365.82 KB - PDF)
-
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/pl/documents/product-information/trazimera-epar-product-information_pl.pdf)
 
-português (PT) (374.33 KB - PDF)
+português (PT) (530 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/pt/documents/product-information/trazimera-epar-product-information_pt.pdf)
 
-română (RO) (360.48 KB - PDF)
+română (RO) (608.01 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/ro/documents/product-information/trazimera-epar-product-information_ro.pdf)
 
-slovenčina (SK) (378.17 KB - PDF)
+slovenčina (SK) (594.08 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/sk/documents/product-information/trazimera-epar-product-information_sk.pdf)
 
-slovenščina (SL) (347.29 KB - PDF)
+slovenščina (SL) (571.63 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/sl/documents/product-information/trazimera-epar-product-information_sl.pdf)
 
-Suomi (FI) (370.98 KB - PDF)
+suomi (FI) (486.96 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/fi/documents/product-information/trazimera-epar-product-information_fi.pdf)
 
-svenska (SV) (377.37 KB - PDF)
+svenska (SV) (528.76 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-03/02/2026
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
 
 [View](/sv/documents/product-information/trazimera-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/N/0000326120 02/02/2026
+Íslenska (IS) (531.91 KB - PDF)
+
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
+
+[View](/is/documents/product-information/trazimera-epar-product-information_is.pdf)
+
+norsk (NO) (503.06 KB - PDF)
+
+**First published:** 16/08/2018 **Last updated:** 08/07/2026
+
+[View](/no/documents/product-information/trazimera-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355566
+
+08/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -718,310 +441,169 @@ Trazimera : EPAR - All Authorised presentations
 
 English (EN) (29.77 KB - PDF)
 
-**First published:** 16/08/2018
-
-**Last updated:** 08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/en/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (36.44 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/bg/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (34.04 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/es/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (35.12 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/cs/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.25 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/da/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (36.25 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/de/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (33.59 KB - PDF)
+eesti (ET) (33.59 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/et/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (35.91 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/el/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (33.84 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/fr/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.57 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/hr/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (35.14 KB - PDF)
-
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
-
-[View](/is/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (33.67 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/it/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35 KB - PDF)
+latviešu (LV) (35 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/lv/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (34.81 KB - PDF)
+lietuvių (LT) (34.81 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/lt/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (34.46 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/hu/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (35.81 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/mt/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (32.15 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/nl/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (35.3 KB - PDF)
-
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
-
-[View](/no/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (36.04 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/pl/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (34.89 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/pt/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (34.51 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/ro/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (35.33 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/sk/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (33.82 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/sl/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (33.33 KB - PDF)
+suomi (FI) (33.33 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/fi/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (34.16 KB - PDF)
 
-**First published:**
-
-16/08/2018
-
-**Last updated:**
-
-08/05/2019
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
 
 [View](/sv/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (35.14 KB - PDF)
+
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
+
+[View](/is/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (35.3 KB - PDF)
+
+**First published:** 16/08/2018 **Last updated:** 08/05/2019
+
+[View](/no/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Trazimera Active substance trastuzumab International non-proprietary name (INN) or common name trastuzumab Therapeutic area (MeSH)
-
-- Stomach Neoplasms
-- Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code L01FD01
+- **Name of medicine**
+    - Trazimera
+- **Active substance**
+    - trastuzumab
+- **International non-proprietary name (INN) or common name**
+    - trastuzumab
+- **Therapeutic area (MeSH)**
+        - Stomach Neoplasms
+        - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -1059,23 +641,20 @@ Trazimera should only be used in patients with metastatic gastric cancer (MGC) w
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004463
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted 31/05/2018 Marketing authorisation issued 26/07/2018 Revision 16
+- **EMA product number**
+    - EMEA/H/C/004463
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 31/05/2018
+- **Marketing authorisation issued**
+    - 26/07/2018
+- **Revision**
+    - 17
 
 ## Assessment history
 
@@ -1083,15 +662,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Trazimera : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.94 KB - PDF)
+English (EN) (141.48 KB - PDF)
 
-**First published:** 03/02/2025
-
-**Last updated:** 03/02/2026
+**First published:** 03/02/2025 **Last updated:** 08/07/2026
 
 [View](/en/documents/procedural-steps-after/trazimera-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1099,74 +676,64 @@ Trazimera : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (166.25 KB - PDF)
 
-**First published:** 18/09/2018
-
-**Last updated:** 05/01/2026
+**First published:** 18/09/2018 **Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/trazimera-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trazimera-H-C-PSUSA-00003010-201809 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/429226/2019
+Adopted Reference Number: EMA/429226/2019
 
 English (EN) (94.19 KB - PDF)
 
 **First published:** 07/10/2019
 
-[View](/en/documents/scientific-conclusion/trazimera-h-c-psusa-00003010-201809-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/trazimera-h-c-psusa-00003010-201809-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Trazimera : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/414095/2018
+Adopted Reference Number: EMA/414095/2018
 
 English (EN) (1.65 MB - PDF)
 
-**First published:** 16/08/2018
-
-**Last updated:** 16/08/2018
+**First published:** 16/08/2018 **Last updated:** 16/08/2018
 
 [View](/en/documents/assessment-report/trazimera-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Trazimera
 
-Adopted
-
-Reference Number: EMA/CHMP/284157/2018
+Adopted Reference Number: EMA/CHMP/284157/2018
 
 English (EN) (144.76 KB - PDF)
 
-**First published:** 01/06/2018
-
-**Last updated:** 01/06/2018
+**First published:** 01/06/2018 **Last updated:** 01/06/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trazimera_en.pdf)
 
-#### News on Trazimera
+## News on Trazimera
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018) 01/06/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018)
 
-#### Related content
+01/06/2018
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### More information on Trazimera
+## More information on Trazimera
 
 - [Non-interventional, real-world study of patients with early stage, human epidermal growth factor receptor 2 (HER2) positive breast cancer (BC) receiving Trazimera (VESTA) - post-authorisation study](https://catalogues.ema.europa.eu/study/32830)
 
-#### Topics
+## Topics
 
 - [Biologicals](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A44)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/02/2026
+**This page was last updated on**
+
+08/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

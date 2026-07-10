@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-21 13:34:00
+document_datetime: 2026-07-09 13:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyrukynd.html
 document_name: pyrukynd.html
 version: success
-processing_time: 0.1168258
-conversion_datetime: 2026-05-22 22:34:43.915956
+processing_time: 0.2959285
+conversion_datetime: 2026-07-10 22:37:15.562181
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Pyrukynd
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Pyrukynd used?
+### How is Pyrukynd used?
 
 Pyrukynd can only be obtained with a prescription. It is available as tablets to be taken by mouth. The recommended starting dose is one 5 mg tablet taken twice a day. The dose can be increased every four weeks, based on the patient's haemoglobin (the protein in red blood cells that carries oxygen around the body) levels and their need for a transfusion in the previous 8 weeks. The maximum recommended dose of Pyrukynd is 50 mg twice a day.
 
@@ -64,37 +64,37 @@ If treatment needs to be interrupted or stopped completely, the dose of Pyrukynd
 
 For more information about using Pyrukynd, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Pyrukynd work?
+### How does Pyrukynd work?
 
 Patients with PKD have a defective form of pyruvate kinase, a protein in red blood cells which converts glucose into energy. As a result, their red blood cells cannot make enough energy to hold their shape, causing them to break down before the body has time to replace them. This excessive breakdown of red blood cells is known as haemolytic anaemia.
 
 The active substance in Pyrukynd, mitapivat, attaches to and activates pyruvate kinase, causing it to work more effectively and thereby preventing the red blood cells of these patients from being broken down too fast.
 
-## What benefits of Pyrukynd have been shown in studies?
+### What benefits of Pyrukynd have been shown in studies?
 
 The benefits of Pyrukynd were evaluated in two main studies. In the first study, involving 80 patients with PKD who were not regularly receiving blood transfusions, Pyrukynd was compared with placebo (dummy treatment). In this study, 40% of patients treated with Pyrukynd had an increase of their haemoglobin levels of 1.5 g/dL, which was maintained at 2 or more check-ups carried out after 16, 20 and 24 weeks of treatment, compared with none of the patients treated with placebo.
 
 In the second study, involving 27 patients who were regularly receiving blood transfusions, Pyrukynd was not compared with placebo or any other medicines. In this study, the volume of red blood cells received in transfusions was reduced by more than a third in 37% of patients.
 
-## What are the risks associated with Pyrukynd?
+### What are the risks associated with Pyrukynd?
 
 The most common side effects with Pyrukynd (which may affect more than 1 in 10 people) are insomnia (difficulty sleeping), nausea (feeling sick) and decreased levels of the hormone oestrone seen in blood tests in male patients.
 
 For the full list of side effects and restrictions of Pyrukynd, see the package leaflet.
 
-## Why is Pyrukynd authorised in the EU?
+### Why is Pyrukynd authorised in the EU?
 
 There are limited treatment options for patients with PKD as management of the disease is restricted to supportive treatments to improve the symptoms and complications associated with haemolytic anaemia. Although there were some limitations associated with the main studies, Pyrukynd has been shown to provide clinically meaningful benefits to some patients with PKD, by increasing haemoglobin levels and reducing the need for transfusions. It was therefore considered that Pyrukynd addressed an unmet medical need in these patients.
 
 Furthermore, the side effects of Pyrukynd are considered manageable. The European Medicines Agency therefore decided that Pyrukynd's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Pyrukynd?
+### What measures are being taken to ensure the safe and effective use of Pyrukynd?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Pyrukynd have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Pyrukynd are continuously monitored. Suspected side effects reported with Pyrukynd are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Pyrukynd
+### Other information about Pyrukynd
 
 Pyrukynd received a marketing authorisation valid throughout the EU on 9 November 2022.
 
@@ -108,7 +108,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/overview/pyrukynd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-870)
 
 български (BG) (146.51 KB - PDF)
 
@@ -140,7 +140,7 @@ Deutsch (DE) (124.28 KB - PDF)
 
 [View](/de/documents/overview/pyrukynd-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (109.94 KB - PDF)
+eesti (ET) (109.94 KB - PDF)
 
 **First published:** 05/12/2022
 
@@ -170,13 +170,13 @@ italiano (IT) (120.32 KB - PDF)
 
 [View](/it/documents/overview/pyrukynd-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (159.4 KB - PDF)
+latviešu (LV) (159.4 KB - PDF)
 
 **First published:** 05/12/2022
 
 [View](/lv/documents/overview/pyrukynd-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (143.42 KB - PDF)
+lietuvių (LT) (143.42 KB - PDF)
 
 **First published:** 05/12/2022
 
@@ -230,7 +230,7 @@ slovenščina (SL) (141.22 KB - PDF)
 
 [View](/sl/documents/overview/pyrukynd-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (118.72 KB - PDF)
+suomi (FI) (118.72 KB - PDF)
 
 **First published:** 05/12/2022
 
@@ -244,9 +244,9 @@ svenska (SV) (120.35 KB - PDF)
 
 Pyrukynd : EPAR - Risk Management Plan
 
-English (EN) (1.54 MB - PDF)
+English (EN) (8.63 MB - PDF)
 
-**First published:** 05/12/2022 **Last updated:** 21/05/2026
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/en/documents/rmp/pyrukynd-epar-risk-management-plan_en.pdf)
 
@@ -254,173 +254,174 @@ English (EN) (1.54 MB - PDF)
 
 Pyrukynd : EPAR - Product Information
 
-English (EN) (827.36 KB - PDF)
+English (EN) (1.16 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/en/documents/product-information/pyrukynd-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-931)
+[Other languages (25)](#file-language-dropdown-264)
 
-български (BG) (919.19 KB - PDF)
+български (BG) (1.42 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/bg/documents/product-information/pyrukynd-epar-product-information_bg.pdf)
 
-español (ES) (792.43 KB - PDF)
+español (ES) (1.32 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/es/documents/product-information/pyrukynd-epar-product-information_es.pdf)
 
-čeština (CS) (850.23 KB - PDF)
+čeština (CS) (1.3 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/cs/documents/product-information/pyrukynd-epar-product-information_cs.pdf)
 
-dansk (DA) (809.01 KB - PDF)
+dansk (DA) (1.32 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/da/documents/product-information/pyrukynd-epar-product-information_da.pdf)
 
-Deutsch (DE) (456.23 KB - PDF)
+Deutsch (DE) (1.28 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/de/documents/product-information/pyrukynd-epar-product-information_de.pdf)
 
-eesti keel (ET) (802.53 KB - PDF)
+eesti (ET) (845.07 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/et/documents/product-information/pyrukynd-epar-product-information_et.pdf)
 
-ελληνικά (EL) (912.82 KB - PDF)
+ελληνικά (EL) (1.44 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/el/documents/product-information/pyrukynd-epar-product-information_el.pdf)
 
-français (FR) (808.77 KB - PDF)
+français (FR) (1.31 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/fr/documents/product-information/pyrukynd-epar-product-information_fr.pdf)
 
-hrvatski (HR) (887.09 KB - PDF)
+Gaeilge (GA) (890.14 KB - PDF)
 
-**First published:** 05/12/2022
-
-[View](/hr/documents/product-information/pyrukynd-epar-product-information_hr.pdf)
-
-íslenska (IS) (811.25 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/is/documents/product-information/pyrukynd-epar-product-information_is.pdf)
-
-Gaeilge (GA) (806.5 KB - PDF)
-
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/ga/documents/product-information/pyrukynd-epar-product-information_ga.pdf)
 
-italiano (IT) (795.85 KB - PDF)
+hrvatski (HR) (1.04 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/hr/documents/product-information/pyrukynd-epar-product-information_hr.pdf)
+
+italiano (IT) (851.95 KB - PDF)
+
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/it/documents/product-information/pyrukynd-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (855.7 KB - PDF)
+latviešu (LV) (1023.02 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/lv/documents/product-information/pyrukynd-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (840.8 KB - PDF)
+lietuvių (LT) (948.77 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/lt/documents/product-information/pyrukynd-epar-product-information_lt.pdf)
 
-magyar (HU) (902.63 KB - PDF)
+magyar (HU) (1 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/hu/documents/product-information/pyrukynd-epar-product-information_hu.pdf)
 
-Malti (MT) (914.02 KB - PDF)
+Malti (MT) (977.07 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/mt/documents/product-information/pyrukynd-epar-product-information_mt.pdf)
 
-Nederlands (NL) (817.63 KB - PDF)
+Nederlands (NL) (897.19 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/nl/documents/product-information/pyrukynd-epar-product-information_nl.pdf)
 
-norsk (NO) (778.33 KB - PDF)
+polski (PL) (1.43 MB - PDF)
 
-**First published:** 05/12/2022
-
-[View](/no/documents/product-information/pyrukynd-epar-product-information_no.pdf)
-
-polski (PL) (884.61 KB - PDF)
-
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/pl/documents/product-information/pyrukynd-epar-product-information_pl.pdf)
 
-português (PT) (816.52 KB - PDF)
+português (PT) (970.36 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/pt/documents/product-information/pyrukynd-epar-product-information_pt.pdf)
 
-română (RO) (887.19 KB - PDF)
+română (RO) (941.57 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/ro/documents/product-information/pyrukynd-epar-product-information_ro.pdf)
 
-slovenčina (SK) (882.63 KB - PDF)
+slovenčina (SK) (1.04 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sk/documents/product-information/pyrukynd-epar-product-information_sk.pdf)
 
-slovenščina (SL) (877.56 KB - PDF)
+slovenščina (SL) (1.01 MB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sl/documents/product-information/pyrukynd-epar-product-information_sl.pdf)
 
-Suomi (FI) (445.51 KB - PDF)
+suomi (FI) (791.89 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/fi/documents/product-information/pyrukynd-epar-product-information_fi.pdf)
 
-svenska (SV) (801.51 KB - PDF)
+svenska (SV) (893.09 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sv/documents/product-information/pyrukynd-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000344092
+Íslenska (IS) (778.64 KB - PDF)
 
-20/05/2026
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/is/documents/product-information/pyrukynd-epar-product-information_is.pdf)
+
+norsk (NO) (871.15 KB - PDF)
+
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/no/documents/product-information/pyrukynd-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** X/0010/G
+
+21/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,186 +433,177 @@ Product information documents contain:
 
 Pyrukynd : EPAR - All authorised presentations
 
-English (EN) (39.57 KB - PDF)
+English (EN) (15.77 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/en/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-609)
+[Other languages (25)](#file-language-dropdown-701)
 
-български (BG) (50.17 KB - PDF)
+български (BG) (45.66 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/bg/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (40.86 KB - PDF)
+español (ES) (46.52 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/es/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (45.67 KB - PDF)
+čeština (CS) (76.85 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/cs/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (41.82 KB - PDF)
+dansk (DA) (16.08 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/da/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (42.37 KB - PDF)
+Deutsch (DE) (15.94 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/de/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.96 KB - PDF)
+eesti (ET) (16.71 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/et/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (46.92 KB - PDF)
+ελληνικά (EL) (44.46 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/el/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (42.75 KB - PDF)
+français (FR) (20.22 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/fr/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (43.55 KB - PDF)
+Gaeilge (GA) (16.26 KB - PDF)
 
-**First published:** 05/12/2022
-
-[View](/hr/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (42.49 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/is/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_is.pdf)
-
-Gaeilge (GA) (40.85 KB - PDF)
-
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/ga/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_ga.pdf)
 
-italiano (IT) (17.41 KB - PDF)
+hrvatski (HR) (41.42 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/hr/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_hr.pdf)
+
+italiano (IT) (17.07 KB - PDF)
+
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/it/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (44.59 KB - PDF)
+latviešu (LV) (44.05 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/lv/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (44.87 KB - PDF)
+lietuvių (LT) (37.87 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/lt/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (45.83 KB - PDF)
+magyar (HU) (38.36 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/hu/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (45.72 KB - PDF)
+Malti (MT) (35.75 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/mt/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (41.6 KB - PDF)
+Nederlands (NL) (16.31 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/nl/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (41.18 KB - PDF)
+polski (PL) (49.04 KB - PDF)
 
-**First published:** 05/12/2022
-
-[View](/no/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (43.93 KB - PDF)
-
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/pl/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (41.78 KB - PDF)
+português (PT) (21.32 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/pt/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (44.93 KB - PDF)
+română (RO) (84.5 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/ro/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (46.15 KB - PDF)
+slovenčina (SK) (44.58 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sk/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (43 KB - PDF)
+slovenščina (SL) (37.43 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sl/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (39.71 KB - PDF)
+suomi (FI) (16.56 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/fi/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (41.65 KB - PDF)
+svenska (SV) (15.4 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
 
 [View](/sv/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (15.61 KB - PDF)
+
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/is/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (15.75 KB - PDF)
+
+**First published:** 05/12/2022 **Last updated:** 09/07/2026
+
+[View](/no/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Pyrukynd
-
-Active substance
-
-mitapivat sulfate
-
-International non-proprietary name (INN) or common name
-
-mitapivat
-
-Therapeutic area (MeSH)
-
-- Genetic Diseases, Inborn
-- Anemia, Hemolytic
-
-Anatomical therapeutic chemical (ATC) code
-
-B06AX04
+- **Name of medicine**
+    - Pyrukynd
+- **Active substance**
+    - mitapivat sulfate
+- **International non-proprietary name (INN) or common name**
+    - mitapivat
+- **Therapeutic area (MeSH)**
+        - Genetic Diseases, Inborn
+        - Anemia, Hemolytic
+- **Anatomical therapeutic chemical (ATC) code**
+    - B06AX04
 
 ### Pharmacotherapeutic group
 
@@ -623,35 +615,20 @@ Pyrukynd is indicated for the treatment of pyruvate kinase deficiency (PK defici
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005540
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Agios Netherlands B.V.
-
-Zuidplein 36
-
-Opinion adopted
-
-15/09/2022
-
-Marketing authorisation issued
-
-09/11/2022
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/005540
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Agios Netherlands B.V. Zuidplein 36  1077XV Amsterdam  Netherlands
+- **Opinion adopted**
+    - 15/09/2022
+- **Marketing authorisation issued**
+    - 09/11/2022
+- **Revision**
+    - 3
 
 ## Assessment history
 
@@ -659,7 +636,15 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
+
+Pyrukynd : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (148.45 KB - PDF)
+
+**First published:** 09/07/2026
+
+[View](/en/documents/procedural-steps-after/pyrukynd-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Pyrukynd : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -669,7 +654,27 @@ English (EN) (142.5 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/pyrukynd-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+Pyrukynd : Orphan maintenance assessment report - post authorisation
+
+Adopted Reference Number: EMADOC-1700519818-3062788
+
+English (EN) (772.25 KB - PDF)
+
+**First published:** 09/07/2026
+
+[View](/en/documents/orphan-maintenance-report-post/pyrukynd-orphan-maintenance-assessment-report-post-authorisation_en.pdf)
+
+Pyrukynd-H-C-005540-X-0010-G : EPAR - Assessment report
+
+Adopted Reference Number: EMA/352964/2025
+
+English (EN) (4.94 MB - PDF)
+
+**First published:** 09/07/2026
+
+[View](/en/documents/variation-report/pyrukynd-h-c-005540-x-0010-g-epar-assessment-report_en.pdf)
+
+### Initial marketing authorisation documents
 
 Pyrukynd : Orphan maintenance assessment report (initial authorisation)
 
@@ -720,6 +725,6 @@ English (EN) (127.72 KB - PDF)
 
 **This page was last updated on**
 
-21/05/2026
+09/07/2026
 
 ## Share this page

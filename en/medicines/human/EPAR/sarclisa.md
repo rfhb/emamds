@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-09 16:25:00
+document_datetime: 2026-07-07 17:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sarclisa.html
 document_name: sarclisa.html
 version: success
-processing_time: 0.1813047
-conversion_datetime: 2026-06-13 19:40:29.35163
+processing_time: 0.158666
+conversion_datetime: 2026-07-10 22:36:44.956479
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Sarclisa
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Sarclisa](#news-on)
 - [More information on Sarclisa](#more-information-on-sarclisa-907)
 - [More information on Sarclisa](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -132,7 +131,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/sarclisa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-320)
+[Other languages (22)](#file-language-dropdown-349)
 
 български (BG) (180.11 KB - PDF)
 
@@ -278,167 +277,168 @@ English (EN) (1.52 MB - PDF)
 
 Sarclisa : EPAR - Product information
 
-English (EN) (1.19 MB - PDF)
+English (EN) (1.01 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/en/documents/product-information/sarclisa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-489)
+[Other languages (24)](#file-language-dropdown-577)
 
-български (BG) (1.78 MB - PDF)
+български (BG) (1.5 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/bg/documents/product-information/sarclisa-epar-product-information_bg.pdf)
 
-español (ES) (1.38 MB - PDF)
+español (ES) (1.04 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/es/documents/product-information/sarclisa-epar-product-information_es.pdf)
 
-čeština (CS) (3.18 MB - PDF)
+čeština (CS) (3.16 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/cs/documents/product-information/sarclisa-epar-product-information_cs.pdf)
 
-dansk (DA) (1.39 MB - PDF)
+dansk (DA) (1.11 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/da/documents/product-information/sarclisa-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.63 MB - PDF)
+Deutsch (DE) (1.5 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/de/documents/product-information/sarclisa-epar-product-information_de.pdf)
 
-eesti (ET) (1.38 MB - PDF)
+eesti (ET) (1.05 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/et/documents/product-information/sarclisa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.89 MB - PDF)
+ελληνικά (EL) (1.7 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/el/documents/product-information/sarclisa-epar-product-information_el.pdf)
 
-français (FR) (1.15 MB - PDF)
+français (FR) (1.12 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/fr/documents/product-information/sarclisa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.42 MB - PDF)
+hrvatski (HR) (1.25 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/hr/documents/product-information/sarclisa-epar-product-information_hr.pdf)
 
-italiano (IT) (1.36 MB - PDF)
+italiano (IT) (851.93 KB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/it/documents/product-information/sarclisa-epar-product-information_it.pdf)
 
-latviešu (LV) (1.73 MB - PDF)
+latviešu (LV) (1.37 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/lv/documents/product-information/sarclisa-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.58 MB - PDF)
+lietuvių (LT) (1.23 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/lt/documents/product-information/sarclisa-epar-product-information_lt.pdf)
 
-magyar (HU) (1.47 MB - PDF)
+magyar (HU) (1.16 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/hu/documents/product-information/sarclisa-epar-product-information_hu.pdf)
 
-Malti (MT) (2.04 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/mt/documents/product-information/sarclisa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.38 MB - PDF)
+Nederlands (NL) (1.26 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/nl/documents/product-information/sarclisa-epar-product-information_nl.pdf)
 
-polski (PL) (1.44 MB - PDF)
+polski (PL) (1.15 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/pl/documents/product-information/sarclisa-epar-product-information_pl.pdf)
 
-português (PT) (1.58 MB - PDF)
+português (PT) (1.3 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/pt/documents/product-information/sarclisa-epar-product-information_pt.pdf)
 
-română (RO) (1.34 MB - PDF)
+română (RO) (1.3 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/ro/documents/product-information/sarclisa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.42 MB - PDF)
+slovenčina (SK) (1.32 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/sk/documents/product-information/sarclisa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.77 MB - PDF)
+slovenščina (SL) (1.61 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/sl/documents/product-information/sarclisa-epar-product-information_sl.pdf)
 
-suomi (FI) (1.65 MB - PDF)
+suomi (FI) (1.52 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/fi/documents/product-information/sarclisa-epar-product-information_fi.pdf)
 
-svenska (SV) (1.64 MB - PDF)
+svenska (SV) (1.5 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/sv/documents/product-information/sarclisa-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.66 MB - PDF)
+Íslenska (IS) (1.19 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/is/documents/product-information/sarclisa-epar-product-information_is.pdf)
 
-norsk (NO) (1.79 MB - PDF)
+norsk (NO) (1.25 MB - PDF)
 
-**First published:** 12/06/2020 **Last updated:** 09/06/2026
+**First published:** 12/06/2020 **Last updated:** 07/07/2026
 
 [View](/no/documents/product-information/sarclisa-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** X/0000281242
+**Latest procedure affecting product information:** VR/0000355488
 
-04/06/2026
+07/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -456,7 +456,7 @@ English (EN) (86.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sarclisa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-893)
+[Other languages (24)](#file-language-dropdown-653)
 
 български (BG) (84.61 KB - PDF)
 
@@ -604,25 +604,16 @@ norsk (NO) (80.35 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Sarclisa
-
-Active substance
-
-Isatuximab
-
-International non-proprietary name (INN) or common name
-
-isatuximab
-
-Therapeutic area (MeSH)
-
-Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XC38
+- **Name of medicine**
+    - Sarclisa
+- **Active substance**
+    - Isatuximab
+- **International non-proprietary name (INN) or common name**
+    - isatuximab
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XC38
 
 ### Pharmacotherapeutic group
 
@@ -639,27 +630,16 @@ Sarclisa is indicated:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004977
-
-Marketing authorisation holder
-
-Sanofi Winthrop Industrie
-
-82 Avenue Raspail 94250 Gentilly FRANCE
-
-Opinion adopted
-
-26/03/2020
-
-Marketing authorisation issued
-
-30/05/2020
-
-Revision
-
-14
+- **EMA product number**
+    - EMEA/H/C/004977
+- **Marketing authorisation holder**
+    - Sanofi Winthrop Industrie 82 Avenue Raspail  94250 Gentilly  FRANCE
+- **Opinion adopted**
+    - 26/03/2020
+- **Marketing authorisation issued**
+    - 30/05/2020
+- **Revision**
+    - 15
 
 ## Assessment history
 
@@ -679,9 +659,9 @@ English (EN) (222.85 KB - PDF)
 
 Sarclisa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.95 KB - PDF)
+English (EN) (137.88 KB - PDF)
 
-**First published:** 09/06/2026
+**First published:** 09/06/2026 **Last updated:** 07/07/2026
 
 [View](/en/documents/variation-report/sarclisa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -763,7 +743,7 @@ English (EN) (128.53 KB - PDF)
 
 **First published:** 18/01/2023
 
-[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202203-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202203-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Sarclisa-H-C-PSUSA-00010851-202103 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -773,7 +753,7 @@ English (EN) (147.49 KB - PDF)
 
 **First published:** 28/07/2022 **Last updated:** 03/10/2022
 
-[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202103-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf-0)
+[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202103-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf-0)
 
 Sarclisa-H-C-PSUSA-00010851-202103 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -783,7 +763,7 @@ English (EN) (109.64 KB - PDF)
 
 **First published:** 04/02/2022
 
-[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202103-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/sarclisa-h-c-psusa-00010851-202103-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Sarclisa-H-C-004977-II-0003 : EPAR - Assessment report - Variation
 
@@ -864,12 +844,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 - [EMEA-002205-PIP01-17-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002205-pip01-17-m04)
 - [EMEA-002205-PIP02-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002205-pip02-23)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-09/06/2026
+07/07/2026
 
 ## Share this page

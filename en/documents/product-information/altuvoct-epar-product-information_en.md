@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 08:21:54
-document_pages: 58
+document_datetime: 2026-07-06 12:28:08
+document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/altuvoct-epar-product-information_en.pdf
 document_name: altuvoct-epar-product-information_en.pdf
 version: success
-processing_time: 15.3854395
-conversion_datetime: 2026-01-03 13:11:07.437397
+processing_time: 13.836282
+conversion_datetime: 2026-07-10 22:59:28.484487
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -242,7 +242,7 @@ Development of neutralising antibodies (inhibitors) may occur in patients with h
 
 Table 2 presented below is according to the MedDRA system organ classification (SOC and Preferred Term Level). Frequencies of adverse reactions are based on Phase 3 clinical studies in 277 previously treated patients (PTPs) with severe haemophilia A, of which 161 (58.2%) were adults (18 years of age and older), 37 (13.4%) were adolescents (12 to &lt; 18 years of age), and 79 (28.5%) were children under the age of 12 years.
 
-Adverse drug reactions (ADRs) (summarized in Table 2) were reported in 111 (40.1%) of the 277 subjects treated in clinical studies with routine prophylaxis or on-demand therapy or reported in post-marketing setting with the frequency of not known.
+Adverse drug reactions (ADRs) (summarized in Table 2) were reported in 111 (40.1%) of the 277 subjects treated in clinical studies with routine prophylaxis or on-demand therapy or reported in postmarketing setting.
 
 Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
@@ -250,23 +250,34 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 2: Adverse reactions reported for ALTUVOCT
 
-| MedDRA system organ class                            | Adverse reactions                          | Frequency category   |
-|------------------------------------------------------|--------------------------------------------|----------------------|
-| Immune system disorders                              | Hypersensitivity, anaphylactic reactions 1 | Not known            |
-| Nervous system disorders                             | Headache 2                                 | Very common          |
-| Gastrointestinal disorders                           | Vomiting                                   | Common               |
-| Skin and subcutaneous tissue disorders               | Eczema                                     | Common               |
-| Skin and subcutaneous tissue disorders               | Rash 3                                     | Common               |
-| Skin and subcutaneous tissue disorders               | Urticaria 4                                | Common               |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                 | Very common          |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity                          | Common               |
-| Musculoskeletal and connective tissue disorders      | Back pain                                  | Common               |
-| General disorders and administration site conditions | Pyrexia                                    | Common               |
-| General disorders and administration site conditions | Injection site reaction 5                  | Uncommon             |
+| MedDRA system organ class                            | Adverse reactions                          | Frequency category                     |
+|------------------------------------------------------|--------------------------------------------|----------------------------------------|
+| Blood and lymphatic system disorders                 | Factor VIII inhibition 1                   | Very common (PUPs) 2 Uncommon (PTPs) 3 |
+| Immune system disorders                              | Hypersensitivity, anaphylactic reactions 1 | Not known                              |
+| Nervous system disorders                             | Headache 4                                 | Very common                            |
+| Gastrointestinal disorders                           | Vomiting                                   | Common                                 |
+| Skin and subcutaneous tissue disorders               | Eczema                                     | Common                                 |
+| Skin and subcutaneous tissue disorders               | Rash 5                                     | Common                                 |
+| Skin and subcutaneous tissue disorders               | Urticaria 6                                | Common                                 |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                                 | Very common                            |
+| Musculoskeletal and connective tissue disorders      | Pain in extremity                          | Common                                 |
+| Musculoskeletal and connective tissue disorders      | Back pain                                  | Common                                 |
+| General disorders and administration site conditions | Pyrexia                                    | Common                                 |
+| General disorders and administration site conditions | Injection site reaction 7                  | Uncommon                               |
 
 <div style=\"page-break-after: always\"></div>
 
-5 Injection site reaction, including injection site haematoma and injection site dermatitis.
+2 PUPs = Previously-Untreated Patients. Frequency is based on studies with other Factor VIII products which included PUPs with severe haemophilia A.
+
+3 PTPs = Previously-Treated Patients. Frequency is based on studies with all Factor VIII products which included PTPs with severe haemophilia A.
+
+4 Headache, including migraine.
+
+5 Rash, including rash maculo papular.
+
+6 Urticaria, including urticaria papular.
+
+7 Injection site reaction, including injection site haematoma and injection site dermatitis.
 
 ## Paediatric population
 
@@ -296,9 +307,9 @@ ALTUVOCT (efanesoctocog alfa) or recombinant coagulation Factor VIII Fc-Von Will
 
 Efanesoctocog alfa is a FVIII protein that is designed not to bind endogenous VWF in order to overcome the half-life limit imposed by FVIII-VWF interactions. The D'D3 domain of VWF is the region that interacts with FVIII. Appending the D'D3 domain of VWF to a rFVIII-Fc fusion protein provides protection and stability to FVIII and prevents FVIII interaction with endogenous VWF, thus overcoming the limitation on FVIII half-life imposed by VWF clearance.
 
-The Fc region of human immunoglobulin G1 (IgG1) binds to the neonatal Fc receptor (FcRn). FcRn is part of a naturally occurring pathway that delays lysosomal degradation of immunoglobulins by recycling them back into circulation and thus prolonging the plasma half-life of the fusion protein. Efanesoctocog alfa contains 2 XTEN polypeptides, which further increase its pharmacokinetics (PK). The natural FVIII B domain (except 5 amino acids) is replaced with the first XTEN polypeptide, inserted in between FVIII N745 and E1649 amino acid residues; and the second XTEN is inserted in between the D'D3 domain and Fc.
-
 <div style=\"page-break-after: always\"></div>
+
+The Fc region of human immunoglobulin G1 (IgG1) binds to the neonatal Fc receptor (FcRn). FcRn is part of a naturally occurring pathway that delays lysosomal degradation of immunoglobulins by recycling them back into circulation and thus prolonging the plasma half-life of the fusion protein. Efanesoctocog alfa contains 2 XTEN polypeptides, which further increase its pharmacokinetics (PK). The natural FVIII B domain (except 5 amino acids) is replaced with the first XTEN polypeptide, inserted in between FVIII N745 and E1649 amino acid residues; and the second XTEN is inserted in between the D'D3 domain and Fc.
 
 ## Clinical efficacy and safety
 
@@ -312,41 +323,43 @@ The completed adult and adolescent study (XTEND-1) enrolled a total of 159 PTPs 
 
 The efficacy of weekly 50 IU/kg ALTUVOCT as routine prophylaxis was evaluated as estimated by the mean annualized bleeding rate (ABR) (Table 3) and by comparing the ABR during on-study prophylaxis vs. the ABR during pre-study factor VIII prophylaxis (Table 4). A total of 133 adults and adolescents, who had been receiving factor VIII prophylaxis prior to study enrolment, were assigned to receive ALTUVOCT for routine prophylaxis at a dose of 50 IU/kg once weekly (QW) for 52 weeks (Arm A). An additional 26 subjects, who were on pre-study episodic (on-demand) treatment with factor VIII, received episodic (on-demand) treatment with ALTUVOCT at doses of 50 IU/kg for 26 weeks, followed by routine prophylaxis at a dose of 50 IU/kg once weekly for 26 weeks (Arm B). Overall, 115 subjects received at least a total number of 50 exposure days in Arm A and 17 subjects completed at least 25 exposure days of routine prophylaxis in Arm B.
 
-Table 3: Summary of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis, ALTUVOCT on-demand treatment, and after switch to ALTUVOCT prophylaxis in subjects ≥ 12 years of age
-
-| Endpoint 1                  | Arm A Prophylaxis 2   | Arm B On demand 3    | Arm B Prophylaxis 3   |
-|-----------------------------|-----------------------|----------------------|-----------------------|
-| Bleeds                      |                       |                      |                       |
-| Mean ABR (95% CI) 4         | 0.71 (0.52; 0.97)     | 21.41 (18.81; 24.37) | 0.70 (0.33; 1.49)     |
-| Median ABR (IQR)            | 0.00 (0.00; 1.04)     | 21.13 (15.12; 27.13) | 0.00 (0.00; 0.00)     |
-| Subjects with zero bleeds,% | 64.7                  | 0                    | 76.9                  |
-| Spontaneous bleeds          |                       |                      |                       |
-| Mean ABR (95% CI) 4         | 0.27 (0.18; 0.41)     | 15.83 (12.27; 20.43) | 0.44 (0.16; 1.20)     |
-| Median ABR (IQR)            | 0.00 (0.00; 0.00)     | 16.69 (8.64; 23.76)  | 0.00 (0.00; 0.00)     |
-| Subjects with zero bleeds,% | 80.5                  | 3.8                  | 84.6                  |
-| Joint bleeds                |                       |                      |                       |
-| Mean ABR (95% CI) 4         | 0.51 (0.36; 0.72)     | 17.48 (14.88; 20.54) | 0.62 (0.25; 1.52)     |
-| Median ABR (IQR)            | 0.00 (0.00; 1.02)     | 18.42 (10.80; 23.90) | 0.00 (0.00; 0.00)     |
-| Subjects with zero bleeds,% | 72.2                  | 0                    | 80.8                  |
-
 <div style=\"page-break-after: always\"></div>
 
-ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range, 25th percentile to 75th percentile.
+Table 3: Summary of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis, ALTUVOCT on-demand treatment, and after switch to ALTUVOCT prophylaxis in subjects ≥ 12 years of age
+
+| Endpoint 1                   | Arm A Prophylaxis 2   | Arm B On demand 3    | Arm B Prophylaxis 3   |
+|------------------------------|-----------------------|----------------------|-----------------------|
+| Bleeds                       |                       |                      |                       |
+| Mean ABR (95% CI) 4          | 0.71 (0.52; 0.97)     | 21.41 (18.81; 24.37) | 0.70 (0.33; 1.49)     |
+| Median ABR (IQR)             | 0.00 (0.00; 1.04)     | 21.13 (15.12; 27.13) | 0.00 (0.00; 0.00)     |
+| Subjects with zero bleeds, % | 64.7                  | 0                    | 76.9                  |
+| Spontaneous bleeds           |                       |                      |                       |
+| Mean ABR (95% CI) 4          | 0.27 (0.18; 0.41)     | 15.83 (12.27; 20.43) | 0.44 (0.16; 1.20)     |
+| Median ABR (IQR)             | 0.00 (0.00; 0.00)     | 16.69 (8.64; 23.76)  | 0.00 (0.00; 0.00)     |
+| Subjects with zero bleeds, % | 80.5                  | 3.8                  | 84.6                  |
+| Joint bleeds                 |                       |                      |                       |
+| Mean ABR (95% CI) 4          | 0.51 (0.36; 0.72)     | 17.48 (14.88; 20.54) | 0.62 (0.25; 1.52)     |
+| Median ABR (IQR)             | 0.00 (0.00; 1.02)     | 18.42 (10.80; 23.90) | 0.00 (0.00; 0.00)     |
+| Subjects with zero bleeds, % | 72.2                  | 0                    | 80.8                  |
 
 An intra-subject comparison of ABRs during on-study and pre-study prophylaxis demonstrated a statistically significant reduction of 77% in ABR during routine prophylaxis with ALTUVOCT compared to pre-study factor VIII prophylaxis (see Table 4).
 
 Table 4: Intra-Subject comparison of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis versus pre-study factor VIII prophylaxis in subjects ≥ 12 years of age
 
-| Endpoint                               | On-study prophylaxis with ALTUVOCT 50 IU/kgQW (N = 78)   | Pre-study standard of care factor VIII prophylaxis 2 (N = 78)   |
-|----------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
-| Median Observation Period (weeks)(IQR) | 50.09 (49.07; 51.18)                                     | 50.15 (43.86; 52.10)                                            |
-| Bleeds                                 |                                                          |                                                                 |
-| Mean ABR (95% CI) 1                    | 0.69 (0.43; 1.11)                                        | 2.96 (2.00; 4.37)                                               |
-| Reduction in ABR, %(95% CI) p-value    | 77 (58; 87) <0.0001                                      | 77 (58; 87) <0.0001                                             |
-| Subjects with zero bleeds,%            | 64.1                                                     | 42.3                                                            |
-| Median ABR (IQR)                       | 0.00 (0.00; 1.04)                                        | 1.06 (0.00; 3.74)                                               |
+| Endpoint                               | On-study prophylaxis with ALTUVOCT 50 IU/kg QW (N = 78)   | Pre-study standard of care factor VIII prophylaxis 2 (N = 78)   |
+|----------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
+| Median Observation Period (weeks)(IQR) | 50.09 (49.07; 51.18)                                      | 50.15 (43.86; 52.10)                                            |
+| Bleeds                                 |                                                           |                                                                 |
+| Mean ABR (95% CI) 1                    | 0.69 (0.43; 1.11)                                         | 2.96 (2.00; 4.37)                                               |
+| Reduction in ABR, % (95% CI) p-value   | 77 (58; 87) <0.0001                                       | 77 (58; 87) <0.0001                                             |
+| Subjects with zero bleeds, %           | 64.1                                                      | 42.3                                                            |
+| Median ABR (IQR)                       | 0.00 (0.00; 1.04)                                         | 1.06 (0.00; 3.74)                                               |
+
+ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range, 25th percentile to 75th percentile.
 
 An intra-subject comparison (N = 26) of ABR during the first 26 weeks of on-demand ALTUVOCT treatment versus ABR in the following 26 weeks on weekly ALTUVOCT prophylaxis (Arm B) showed a clinically important bleeding reduction of 97% for the weekly prophylactic regimen and an increase of subjects with zero bleeds from 0 to 76.9%.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Efficacy in control of bleeding
 
@@ -354,17 +367,14 @@ In the adult and adolescent study (XTEND-1), a total of 362 bleeding episodes we
 
 Table 5: Summary of efficacy in control of bleeding in subjects ≥ 12 years of age
 
-| Number of bleeding episodes                                 |                                     | (N = 362)                   |
-|-------------------------------------------------------------|-------------------------------------|-----------------------------|
-| Number of injections to treat bleeding episode, N (%)       | 1 injection 2 injections injections | 350 (96.7) 11 (3.0) 1 (0.3) |
-| Median total dose to treat a bleeding episode (IU/kg) (IQR) |                                     | 50.93 (50.00; 51.85)        |
-| Number of evaluable injections                              | > 2                                 |                             |
-| a                                                           |                                     | (N = 332)                   |
-| Response to treatment of                                    | Excellent or good                   | 315 (94.9)                  |
-| bleeding episode, N (%)                                     | Moderate                            | 14 (4.2)                    |
-|                                                             | No response                         | 3 (0.9)                     |
-
-<div style=\"page-break-after: always\"></div>
+| Number of bleeding episodes                                 | Number of bleeding episodes             | (N = 362)                   |
+|-------------------------------------------------------------|-----------------------------------------|-----------------------------|
+| Number of injections to treat bleeding episode, N (%)       | 1 injection 2 injections > 2 injections | 350 (96.7) 11 (3.0) 1 (0.3) |
+| Median total dose to treat a bleeding episode (IU/kg) (IQR) |                                         | 50.93 (50.00; 51.85)        |
+| Number of evaluable injections                              | Number of evaluable injections          | (N = 332)                   |
+| Response to treatment of a                                  | Excellent or good                       | 315 (94.9)                  |
+| bleeding episode, N (%)                                     | Moderate                                | 14 (4.2)                    |
+|                                                             | No response                             | 3 (0.9)                     |
 
 ## Perioperative management of bleeding
 
@@ -380,6 +390,8 @@ Immunogenicity was evaluated during clinical studies with ALTUVOCT in previously
 
 During Phase 3 clinical studies (median treatment duration 96.3 weeks), 4/276 (1.4%) of evaluable patients developed transient treatment-emergent anti-drug antibodies (ADA). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 ## Routine prophylaxis
@@ -392,13 +404,13 @@ A sensitivity analysis (N = 73), excluding one subject who did not receive the w
 
 The efficacy in control of bleeding in children &lt; 12 years of age was assessed in the paediatric study, excluding one subject who did not receive the weekly prophylaxis treatment as specified in the protocol for an extended period. A total of 43 bleeding episodes were treated with ALTUVOCT. Bleeding was resolved with a single 50 IU/kg injection of ALTUVOCT in 95.3% of bleeding episodes. The median (Q1; Q3) total dose to treat a bleeding episode was 52.6 IU/kg (50.0; 55.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetics (PK) of ALTUVOCT were evaluated in the Phase 3 studies XTEND-1 and XTEND-Kids, enrolling 159 adults and adolescents, and 74 children &lt; 12 years old, respectively, receiving weekly intravenous injections of 50 IU/kg. Among children &lt; 12 years old, 37 subjects had ALTUVOCT single dose PK profiles available.
 
 Efanesoctocog alfa has demonstrated a half-life that is about 4-fold longer compared to standard halflife factor VIII products and about 2.5- to 3-fold longer compared to extended half-life factor VIII products. PK parameters following a single dose of ALTUVOCT are presented in Table 6. The PK parameters were based on plasma factor VIII activity measured by the aPTT-based one-stage clotting assay. After a single dose of 50 IU/kg, ALTUVOCT exhibited high sustained factor VIII activity with prolonged half-life across age cohorts. There was a trend of increasing AUC, and decreasing clearance, with increasing age in the paediatric cohorts. The PK profile at steady state (week 26) was comparable with the PK profile obtained after the first dose.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 6: Pharmacokinetic parameters following a single dose of ALTUVOCT by age (one-stage clotting assay using Actin-FSL)
 
@@ -407,22 +419,16 @@ Table 6: Pharmacokinetic parameters following a single dose of ALTUVOCT by age (
 |                                       | 1 to < 6 years     | 6 to < 12 years    | 12 to < 18 years             | Adults                       |
 |                                       | N = 18             | N = 18             | N = 25                       | N = 134                      |
 | AUC 0-tau , IU*h/dL                   | 6 800 (1 120) b    | 7 190 (1 450)      | 8 350 (1 550)                | 9 850 (2 010) a              |
-| t ½z ,h                               | 38.0 (3.72)        | 42.4 (3.70)        | 44.6 (4.99)                  | 48.2 (9.31)                  |
+| t ½z , h                              | 38.0 (3.72)        | 42.4 (3.70)        | 44.6 (4.99)                  | 48.2 (9.31)                  |
 | CL, mL/h/kg                           | 0.742 (0.121)      | 0.681 (0.139)      | 0.582 (0.115)                | 0.493 (0.121) a              |
-| V ss ,mL/kg                           | 36.6 (5.59)        | 38.1 (6.80)        | 34.9 (7.38)                  | 31.0 (7.32) a                |
+| V ss , mL/kg                          | 36.6 (5.59)        | 38.1 (6.80)        | 34.9 (7.38)                  | 31.0 (7.32) a                |
 | MRT, h                                | 49.6 (5.45)        | 56.3 (5.10)        | 60.0 (5.54)                  | 63.9 (10.2) a                |
 | C max , IU/dL                         | 143 (57.8)         | 113 (22.7)         | 118 (24.9)                   | 133 (33.8)                   |
 | Incremental Recovery, IU/dL per IU/kg | 2.81 (1.1)         | 2.24 (0.437)       | 2.34 (0.490)                 | 2.64 (0.665)                 |
 
-a Calculation based on 128 profiles.
-
-b N = 17
-
 AUC0-tau = area under the activity-time curve over the dosing interval, CL = clearance, MRT = mean residence time, SD = standard deviation, t½z = terminal half-life, Vss = volume of distribution at steady state, Cmax = maximum activity
 
 In XTEND-1, ALTUVOCT at steady state maintained normal to near normal (&gt; 40 IU/dL) factor VIII activity for a mean (SD) of 4.1 (0.7) days with once weekly prophylaxis in adults. The factor VIII activity over 10 IU/dL was maintained in 83.5% of adults and adolescent subjects throughout the study. In children &lt; 12 years, weekly ALTUVOCT at steady state maintained normal to near normal (&gt; 40 IU/dL) factor VIII activity for 2 to 3 days and &gt; 10 IU/dL factor VIII activity for approximately 7 days (see Table 7).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 7: Pharmacokinetic parameters at steady state of ALTUVOCT by age (one-stage clotting assay using Actin-FSL)
 
@@ -437,7 +443,7 @@ Table 7: Pharmacokinetic parameters at steady state of ALTUVOCT by age (one-stag
 | Time to 10 IU/dL, h                   | 150 (18.2) b         | 173 (17.1) b         | 179 (20.2) c                   | 201 (35.7) c                   |
 | Trough, IU/dL                         | 10.9 (19.7) (N = 36) | 16.5 (23.7)          | 9.23 (4.77) (N = 22)           | 18.0 (16.6) (N = 123)          |
 
-Peak = 15 min post dose at steady state, Trough = predose factor VIII activity value at steady state, SD = standard deviation
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -447,11 +453,11 @@ Non-clinical data reveal no special hazard for humans based on repeated dose tox
 
 ## 6.1 List of excipients
 
-Powder
+## Powder
 
 Sucrose Calcium chloride dihydrate (E 509) Histidine Arginine hydrochloride Polysorbate 80 (E 433)
 
-Solvent
+## Solvent
 
 Water for injections
 
@@ -460,8 +466,6 @@ Water for injections
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
 Only the provided adapter and infusion set should be used because treatment failure can occur as a consequence of coagulation factor VIII adsorption to the internal surface of some injection equipment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -477,13 +481,11 @@ The medicinal product should be used immediately after reconstitution. If not us
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -501,9 +503,7 @@ ALTUVOCT is to be administered intravenously after reconstitution of the powder 
 
 Always use an aseptic technique.
 
-<div style=\"page-break-after: always\"></div>
-
-## Additional information on reconstitution
+Additional information on reconstitution
 
 ALTUVOCT is administered by intravenous injection after dissolving the powder for injection with the solvent supplied in the pre-filled syringe. ALTUVOCT pack contains:
 
@@ -517,7 +517,9 @@ To draw up the solution from multiple vials into a single syringe you may use a 
 
 ALTUVOCT should not be mixed with other solutions for injection or infusion.
 
-## Wash your hands before opening the pack.
+Wash your hands before opening the pack.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reconstitution
 
@@ -536,14 +538,6 @@ Wipe the top of the vial with an alcohol swab. After cleaning, ensure nothing to
 Peel off the protective paper lid from the vial adapter package (D).
 
 Do not touch the vial adapter, or remove it from its package.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## d. Attach vial adapter
 
@@ -571,15 +565,7 @@ Do not touch the inside of cap or the syringe tip.
 
 Lift the package away from the vial adapter and dispose.
 
-## b. Attach syringe to vial adapter
-
-Hold the vial adapter at the lower end. Place the syringe tip onto the top of the vial adapter. Turn the syringe clockwise to securely attach.
-
-## 4. Dissolve the powder and solvent
-
-## a. Add solvent to vial
-
-Slowly press the plunger rod to inject all the solvent into the vial.
+<!-- image -->
 
 <!-- image -->
 
@@ -594,6 +580,16 @@ Slowly press the plunger rod to inject all the solvent into the vial.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## b. Attach syringe to vial adapter
+
+Hold the vial adapter at the lower end. Place the syringe tip onto the top of the vial adapter. Turn the syringe clockwise to securely attach.
+
+## 4. Dissolve the powder and solvent
+
+## a. Add solvent to vial
+
+Slowly press the plunger rod to inject all the solvent into the vial.
 
 ## b. Dissolve powder
 
@@ -621,6 +617,18 @@ Remove the 3 mL syringes from each vial (see step 6b), leaving the solution in e
 
 For each vial, attach the large syringe (G) to the vial adapter (see step 3b) and perform step 6, to combine the solution from each vial into the large syringe. In case you only need part of an entire vial, use the scale on the syringe to see how much solution you withdraw.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Draw solution into syringe
 
 ## a. Draw back solution
@@ -635,15 +643,7 @@ Detach the syringe from the vial by holding the vial adapter. Turn the syringe a
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
 It is recommended to use ALTUVOCT immediately after reconstitution (see section 6.3).
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Administration
 
@@ -657,7 +657,7 @@ Remove the tubing cap.
 
 <!-- image -->
 
-Do not touch the exposed end of the tubing set.
+- Do not touch the exposed end of the tubing set. Δ
 
 ## b. Attach syringe
 
@@ -673,7 +673,17 @@ Remove air by pointing the syringe up and gently pressing the plunger rod. Do no
 
 <!-- image -->
 
-## Injecting air into the vein can be dangerous. A
+- Injecting air into the vein can be dangerous. Δ
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. Inject solution
 
@@ -690,16 +700,6 @@ You may use a plaster to hold the plastic wings of the needle in place at the in
 ## b. Inject solution
 
 The prepared solution should be injected intravenously over 1 to 10 minutes, based on the patient's comfort level.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. Dispose safely
 
@@ -723,19 +723,19 @@ Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1824/001 EU/1/24/1824/002 EU/1/24/1824/003 EU/1/24/1824/004 EU/1/24/1824/005 EU/1/24/1824/006
-
-EU/1/24/1824/007
+EU/1/24/1824/001 EU/1/24/1824/002 EU/1/24/1824/003 EU/1/24/1824/004 EU/1/24/1824/005 EU/1/24/1824/006 EU/1/24/1824/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 17 June 2024
 
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -752,11 +752,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Biogen MA Inc. 5000 Davis Drive Research Triangle Park NC 27709 USA
+Biogen MA Inc. 5000 Davis Drive, Morrisville NC 27560 USA
 
-## Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm
+
+Sweden
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -799,7 +801,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 250 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 250 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -891,11 +895,7 @@ NN
 
 ALTUVOCT 250 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa
-
-(recombinant human coagulation factor VIII)
-
-IV
+efanesoctocog alfa (recombinant human coagulation factor VIII) IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -921,7 +921,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 500 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 500 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1043,7 +1045,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 750 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 750 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1165,7 +1169,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 1 000 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 1 000 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1283,7 +1289,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 2 000 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 2 000 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1405,7 +1413,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 3 000 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 3 000 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1523,7 +1533,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 4 000 IU powder and solvent for solution for injection efanesoctocog alfa
+ALTUVOCT 4 000 IU powder and solvent for solution for injection
+
+efanesoctocog alfa
 
 (recombinant human coagulation factor VIII)
 
@@ -1615,11 +1627,7 @@ NN
 
 ALTUVOCT 4 000 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa
-
-(recombinant human coagulation factor VIII)
-
-IV
+efanesoctocog alfa (recombinant human coagulation factor VIII) IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1639,22 +1647,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Solvent for ALTUVOCT
 
 Water for injections
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -1663,8 +1666,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 mL
 
@@ -1899,7 +1902,9 @@ Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
 
 ## Manufacturer
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm
+
+Sweden
 
 ## This leaflet was last revised in
 
@@ -1951,15 +1956,11 @@ Your pharmacist may have provided a separate large syringe (G) to draw up the so
 
 <!-- image -->
 
+<!-- image -->
+
 F. Alcohol swabs
 
-G.
-
-Large Syringe
-
-L
-
-GC
+G. Large Syringe
 
 ## Reconstitution
 
@@ -2001,15 +2002,13 @@ Insert the plunger rod (C) into the 3 mL syringe (B). Turn the plunger rod clock
 
 <!-- image -->
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 ## b. Remove syringe cap
 
 Snap off the top part of white 3 mL syringe cap at the perforations and set aside.
 
-## Do not touch the inside of cap or the syringe tip. A
+## Do not touch the inside of cap or the syringe tip.
 
 ## 3. Attach syringe to vial
 
@@ -2044,6 +2043,8 @@ Do not use the solution if cloudy or contains visible particles.
 If your dose requires multiple vials, follow the steps below (5a and 5b) otherwise skip to step 6.
 
 <!-- image -->
+
+7
 
 <!-- image -->
 
@@ -2085,7 +2086,7 @@ Open infusion set (E) packaging (do not use if damaged).
 
 Remove the tubing cap.
 
-## Do not touch the exposed end of the tubing set. A
+## Do not touch the exposed end of the tubing set.
 
 ## b. Attach syringe
 
@@ -2113,7 +2114,7 @@ If needed apply a tourniquet. Wipe injection site with an alcohol swab (F).
 
 Remove air by pointing the syringe up and gently pressing the plunger rod. Do not push the solution through the needle.
 
-## Injecting air into the vein can be dangerous. A
+## Injecting air into the vein can be dangerous.
 
 ## 8. Inject solution
 
@@ -2143,11 +2144,13 @@ Safely dispose of the used needle, any unused solution, the syringe and the empt
 
 <!-- image -->
 
-- Do not reuse equipment.
+Do not reuse equipment.
 
 <!-- image -->
 
 <!-- image -->
+
+2
 
 <!-- image -->
 
@@ -2163,7 +2166,7 @@ Safely dispose of the used needle, any unused solution, the syringe and the empt
 
 Taking into account the PRAC Assessment Report on the PSUR(s) for efanesoctocog alfa, the scientific conclusions of PRAC are as follows:
 
-In view of available data on hypersensitivity reactions from spontaneous reports, including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between efanesoctocog alfa and hypersensitivity reactions including anaphylaxis is at least a reasonable possibility. The PRAC concluded that the product information of products containing efanesoctocog alfa should be amended accordingly.
+In view of available data on risk from the literature, spontaneous reports including in some cases a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between efanesoctocog alfa and Factor VIII inhibition is at least a reasonable possibility. Accordingly, the PRAC concludes that the product information of products containing efanesoctocog alfa should be amended.
 
 Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
 

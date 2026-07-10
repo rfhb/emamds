@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-28 11:34:51
+document_datetime: 2026-07-07 09:11:26
 document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/telmisartan-actavis-epar-product-information_en.pdf
 document_name: telmisartan-actavis-epar-product-information_en.pdf
 version: success
-processing_time: 17.6156172
-conversion_datetime: 2025-12-27 15:35:36.527339
+processing_time: 17.1994115
+conversion_datetime: 2026-07-10 22:54:02.696681
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -77,11 +77,9 @@ Reduction of cardiovascular morbidity in adults with:
 
 ## Treatment of essential hypertension
 
-The usually effective dose is 40 mg once daily. Some patients may already benefit at a daily dose of 20 mg. In cases where the target blood pressure is not achieved, the dose of telmisartan can be
+The usually effective dose is 40 mg once daily. Some patients may already benefit at a daily dose of 20 mg. In cases where the target blood pressure is not achieved, the dose of telmisartan can be increased to a maximum of 80 mg once daily. Alternatively, telmisartan may be used in combination with thiazidetype diuretics such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with telmisartan. When considering raising the dose, it must be borne in mind that the maximum antihypertensive effect is generally attained four to eight weeks after the start of treatment (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-increased to a maximum of 80 mg once daily. Alternatively, telmisartan may be used in combination with thiazidetype diuretics such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with telmisartan. When considering raising the dose, it must be borne in mind that the maximum antihypertensive effect is generally attained four to eight weeks after the start of treatment (see section 5.1).
 
 ## Cardiovascular prevention
 
@@ -126,11 +124,9 @@ The concomitant use of Telmisartan Actavis with aliskiren-containing products is
 
 ## Pregnancy
 
-Angiotensin II receptor antagonists should not be initiated during pregnancy. Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with angiotensin II receptor antagonists should
+Angiotensin II receptor antagonists should not be initiated during pregnancy. Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with angiotensin II receptor antagonists should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 <div style=\"page-break-after: always\"></div>
-
-be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 ## Hepatic impairment
 
@@ -208,11 +204,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed. When initiating, adjusting, and discontinuing telmisartan, monitor digoxin levels in order to maintain levels within the therapeutic range.
 
-As with other medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4). The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti-
+As with other medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4). The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti- inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
 
 <div style=\"page-break-after: always\"></div>
-
-inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
 
 The occurrence of hyperkalaemia depends on associated risk factors. The risk is increased in case of the above-mentioned treatment combinations. The risk is particularly high in combination with potassium sparing-diuretics and when combined with salt substitutes containing potassium. A combination with ACE inhibitors or NSAIDs, for example, presents a lesser risk provided that precautions for use are strictly followed.
 
@@ -346,7 +340,7 @@ Nervous system disorders
 
 Uncommon:
 
-Syncope Somnolence
+Syncope, dizziness Somnolence
 
 Rare:
 
@@ -500,11 +494,9 @@ In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensi
 
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours. The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
 
-The antihypertensive effect persists constantly over 24 hours after dosing and includes the last 4 hours before the next dose as shown by ambulatory blood pressure measurements. This is confirmed by
+The antihypertensive effect persists constantly over 24 hours after dosing and includes the last 4 hours before the next dose as shown by ambulatory blood pressure measurements. This is confirmed by trough to peak ratios consistently above 80% seen after doses of 40 and 80 mg of telmisartan in placebo controlled clinical studies.
 
 <div style=\"page-break-after: always\"></div>
-
-trough to peak ratios consistently above 80% seen after doses of 40 and 80 mg of telmisartan in placebo controlled clinical studies.
 
 There is an apparent trend to a dose relationship to a time to recovery of baseline systolic blood pressure (SBP). In this respect data concerning diastolic blood pressure (DBP) are inconsistent.
 
@@ -792,8 +784,8 @@ Store in the original package in order to protect from light.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
 |-------|-----------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Actavis Group PTC ehf. 220 Hafnarfjörður Iceland
 
@@ -823,8 +815,8 @@ Telmisartan Actavis 20 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -987,11 +979,11 @@ Keep the container tightly closed in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF   |
-|----------|-------------------------------------------------------------------------------------------------------------------------|
+| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF   |
+|----------|--------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Actavis logo
 
@@ -1017,8 +1009,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1113,8 +1105,8 @@ Telmisartan Actavis 40 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1282,8 +1274,8 @@ Keep the container tightly closed in order to protect from light.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
 |-------|-----------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Actavis logo
 
@@ -1309,8 +1301,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1373,8 +1365,8 @@ Store in the original package in order to protect from light.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
 |-------|-----------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Actavis Group PTC ehf. 220 Hafnarfjörður Iceland
 
@@ -1404,8 +1396,8 @@ Telmisartan Actavis 80 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1570,11 +1562,11 @@ Keep the container tightly closed in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF   |
+|----------|--------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Actavis logo
 
@@ -1600,8 +1592,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1779,7 +1771,7 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), dizziness, feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1931,17 +1923,11 @@ Tlf: +47 66775590
 
 ## Ελλάδα
 
-## Österreich
-
 TEVA HELLAS A.E.
 
 Τηλ
 
 : +30 2118805000
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
 
 ## España
 
@@ -1949,23 +1935,11 @@ Teva Pharma, S.L.U.
 
 Tel: +34 913873280
 
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
-
 ## France
 
 Teva Santé
 
 Tél: +33 155917800
-
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
 
 ## Hrvatska
 
@@ -1973,23 +1947,11 @@ Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
 
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
-
 ## Ireland
 
 Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
-
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
 
 ## Ísland
 
@@ -1997,23 +1959,11 @@ Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
 
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
-
 ## Italia
 
 Teva Italia S.r.l.
 
 Tel: +39 028917981
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
 
 ## Κύπρος
 
@@ -2025,12 +1975,6 @@ TEVA HELLAS A.E.
 
 30 2118805000
 
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
 ## Latvija
 
 UAB Teva Baltics filiāle Latvijā
@@ -2040,6 +1984,54 @@ Tel: +371 67323666
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2213,11 +2205,9 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps,
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), dizziness, feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 <div style=\"page-break-after: always\"></div>
-
-muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
@@ -2650,11 +2640,9 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps,
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), dizziness, feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough abdominal pain, diarrhoea, discomfort in the abdomen, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 <div style=\"page-break-after: always\"></div>
-
-muscle pain (myalgia), kidney impairment including acute kidney failure, pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 

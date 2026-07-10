@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 14:05:07
+document_datetime: 2026-07-07 12:25:26
 document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abevmy-epar-product-information_en.pdf
 document_name: abevmy-epar-product-information_en.pdf
 version: success
-processing_time: 26.3839975
-conversion_datetime: 2026-02-01 20:18:12.756028
+processing_time: 27.9635672
+conversion_datetime: 2026-07-10 23:00:58.307475
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,13 @@ Each mL of concentrate contains 25 mg of bevacizumab*. Each 4 mL vial contains 1
 
 ## Excipient(s) with known effect
 
+## Sodium
+
 Each 4 mL vial contains 4.196 mg of sodium. Each 16 mL vial contains 16.784 mg of sodium.
+
+## Polysorbate 20
+
+Each 4 ml vial contains 1.6 mg of polysorbate 20. Each 16 ml vial contains 6.4 mg of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -72,7 +78,7 @@ Abevmy, in combination with paclitaxel and cisplatin or, alternatively, paclitax
 
 ## 4.2 Posology and method of administration
 
-## Do not shake the vial.
+Do not shake the vial.
 
 Abevmy must be administered under the supervision of a physician experienced in the use of antineoplastic medicinal products.
 
@@ -96,9 +102,9 @@ It is recommended that treatment be continued until progression of the underlyin
 
 Abevmy is administered in addition to platinum-based chemotherapy for up to 6 cycles of treatment followed by Abevmy as a single agent until disease progression.
 
-The recommended dose of Abevmy is 7.5 mg/kg or 15 mg/kg bw given once every 3 weeks as an intravenous infusion.
-
 <div style=\"page-break-after: always\"></div>
+
+The recommended dose of Abevmy is 7.5 mg/kg or 15 mg/kg bw given once every 3 weeks as an intravenous infusion.
 
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg bw and 15 mg/kg bw doses (see section 5.1).
 
@@ -136,9 +142,9 @@ Abevmy is administered in combination with either carboplatin and gemcitabine fo
 
 Abevmy is administered in combination with one of the following agents - paclitaxel, topotecan (given weekly) or pegylated liposomal doxorubicin. The recommended dose of Abevmy is 10 mg/kg bw given once every 2 weeks as an intravenous infusion. When Abevmy is administered in combination with topotecan (given on days 1-5, every 3 weeks), the recommended dose of Abevmy is 15 mg/kg bw given once every 3 weeks as an intravenous infusion. It is recommended that treatment be continued until disease progression or unacceptable toxicity (see section 5.1, study MO22224).
 
-## Cervical cancer
-
 <div style=\"page-break-after: always\"></div>
+
+## Cervical cancer
 
 Abevmy is administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin or paclitaxel and topotecan.
 
@@ -186,11 +192,11 @@ For instructions on dilution of the medicinal product before administration, see
 
 ## 4.4 Special warnings and precautions for use
 
+<div style=\"page-break-after: always\"></div>
+
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal (GI) perforations and fistulae (see section 4.8)
 
@@ -214,17 +220,13 @@ Necrotising fasciitis, including fatal cases, has rarely been reported in patien
 
 An increased incidence of hypertension was observed in bevacizumab-treated patients. Clinical safety data suggest that the incidence of hypertension is likely to be dose-dependent. Pre-existing hypertension should be adequately controlled before starting bevacizumab treatment. There is no information on the effect of bevacizumab in patients with uncontrolled hypertension at the time of initiating therapy. Monitoring of blood pressure is generally recommended during therapy.
 
-In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient. The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen.
-
-Bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
-
-## Posterior reversible encephalopathy syndrome (PRES) (see section 4.8)
-
-There have been rare reports of bevacizumab-treated patients developing signs and symptoms that are consistent with PRES, a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. A diagnosis of PRES requires confirmation by
+In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient. The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen. Bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
 
 <div style=\"page-break-after: always\"></div>
 
-brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of bevacizumab. The safety of reinitiating bevacizumab therapy in patients previously experiencing PRES is not known.
+## Posterior reversible encephalopathy syndrome (PRES) (see section 4.8)
+
+There have been rare reports of bevacizumab-treated patients developing signs and symptoms that are consistent with PRES, a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of bevacizumab. The safety of reinitiating bevacizumab therapy in patients previously experiencing PRES is not known.
 
 ## Proteinuria (see section 4.8)
 
@@ -250,15 +252,13 @@ Patients treated with bevacizumab have an increased risk of haemorrhage, especia
 
 Patients with untreated CNS metastases were routinely excluded from clinical trials with bevacizumab, based on imaging procedures or signs and symptoms. Therefore, the risk of CNS haemorrhage in such patients has not been prospectively evaluated in randomised clinical trials (see section 4.8). Patients should be monitored for signs and symptoms of CNS bleeding, and bevacizumab treatment discontinued in cases of intracranial bleeding.
 
+<div style=\"page-break-after: always\"></div>
+
 There is no information on the safety profile of bevacizumab in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting bevacizumab treatment, as such patients were excluded from clinical trials. Therefore, caution should be exercised before initiating therapy in these patients. However, patients who developed venous thrombosis while receiving therapy did not appear to have an increased rate of Grade 3 or above bleeding when treated with a full dose of warfarin and bevacizumab concomitantly (NCI-CTCAE v.3).
 
 ## Pulmonary haemorrhage/haemoptysis
 
-Patients with non-small cell lung cancer treated with bevacizumab may be at risk of serious, and in
-
-<div style=\"page-break-after: always\"></div>
-
-some cases fatal, pulmonary haemorrhage/haemoptysis. Patients with recent pulmonary haemorrhage/ haemoptysis (&gt; 2.5 mL of red blood) should not be treated with bevacizumab.
+Patients with non-small cell lung cancer treated with bevacizumab may be at risk of serious, and in some cases fatal, pulmonary haemorrhage/haemoptysis. Patients with recent pulmonary haemorrhage/ haemoptysis (&gt; 2.5 mL of red blood) should not be treated with bevacizumab.
 
 ## Aneurysms and artery dissections
 
@@ -276,7 +276,11 @@ In patients in AVF3694g who received treatment with anthracyclines and who had n
 
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus bevacizumab in comparison to chemotherapy alone. This has mainly been seen in combination with platinum- or taxane-based therapies in the treatment of NSCLC, mBC, and in combination with paclitaxel and topotecan in persistent, recurrent, or metastatic cervical cancer.
 
-Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.8) Patients may be at risk of developing infusion/hypersensitivity reactions (including anaphylactic shock). Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanised monoclonal antibody. If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered. A systematic premedication is not warranted.
+## Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.8)
+
+Patients may be at risk of developing infusion/hypersensitivity reactions (including anaphylactic shock). Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanised monoclonal antibody. If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered. A systematic premedication is not warranted.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Osteonecrosis of the jaw (ONJ) (see section 4.8)
 
@@ -286,15 +290,11 @@ Invasive dental procedures are also an identified risk factor. A dental examinat
 
 ## Intravitreal use
 
-bevacizumab is not formulated for intravitreal use.
+Bevacizumab is not formulated for intravitreal use.
 
 ## Eye disorders
 
-Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of bevacizumab compounded from vials approved for intravenous
-
-<div style=\"page-break-after: always\"></div>
-
-administration in cancer patients. These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage. Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
+Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of bevacizumab compounded from vials approved for intravenous administration in cancer patients. These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage. Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
 
 ## Systemic effects following intravitreal use
 
@@ -304,17 +304,25 @@ A reduction of circulating VEGF concentration has been demonstrated following in
 
 Bevacizumab may impair female fertility (see sections 4.6 and 4.8). Therefore fertility preservation strategies should be discussed with women of child-bearing potential prior to starting treatment with bevacizumab.
 
-## Abevmy contains sodium.
+## Excipients.
+
+## Sodium
 
 This medicinal product contains 4.196 mg of sodium in each 4 mL vial, equivalent to 0.21% of the WHO recommended maximum daily intake of 2 g of sodium for an adult.
 
 This medicinal product contains 16.784 mg of sodium in each 16 mL vial, equivalent to 0.84% of the WHO recommended maximum daily intake of 2 g of sodium for an adult.
+
+## Polysorbate 20
+
+This medicine contains 1.6 mg of polysorbate 20 in each 100 mg/4 ml vial and 6.4 mg in each 400 mg/16 ml vial which is equivalent to 0.4 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effect of antineoplastic agents on bevacizumab pharmacokinetics
 
 No clinically relevant interaction of co-administered chemotherapy on bevacizumab pharmacokinetics was observed based on the results of population pharmacokinetic analyses. There were neither statistically significant nor clinically relevant differences in bevacizumab clearance in patients receiving bevacizumab monotherapy compared to patients receiving bevacizumab in combination with interferon alfa-2a, erlotinib or chemotherapies (IFL, 5-FU/LV, carboplatin / paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
 
@@ -326,15 +334,17 @@ In two clinical trials of metastatic renal cell carcinoma, microangiopathic haem
 
 MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia. In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients. All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, PRES in section 4.4).
 
-Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8) Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinumor taxane-based therapies in the treatment of NSCLC and mBC.
+## Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8)
+
+Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinumor taxane-based therapies in the treatment of NSCLC and mBC.
 
 ## Radiotherapy
 
-<div style=\"page-break-after: always\"></div>
-
 The safety and efficacy of concomitant administration of radiotherapy and bevacizumab has not been established.
 
-EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
+## EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
+
+No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -345,6 +355,8 @@ Women of childbearing potential have to use effective contraception during (and 
 ## Pregnancy
 
 There are no clinical trial data on the use of bevacizumab in pregnant women. Studies in animals have shown reproductive toxicity including malformations (see section 5.3). IgGs are known to cross the placenta, and bevacizumab is anticipated to inhibit angiogenesis in the foetus, and thus is suspected to cause serious birth defects when administered during pregnancy. In the post-marketing setting, cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.8). Bevacizumab is contraindicated in pregnancy (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -366,8 +378,6 @@ The overall safety profile of bevacizumab is based on data from over 5,700 patie
 
 The most serious adverse reactions were:
 
-<div style=\"page-break-after: always\"></div>
-
 - Gastrointestinal perforations (see section 4.4).
 - Haemorrhage, including pulmonary haemorrhage/haemoptysis, which is more common in nonsmall cell lung cancer patients (see section 4.4).
 - Arterial thromboembolism (see section 4.4).
@@ -381,6 +391,8 @@ Analyses of the clinical safety data suggest that the occurrence of hypertension
 The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency category, adverse reactions are presented in the order of decreasing seriousness.
 
 Tables 1 and 2 list adverse reactions associated with the use of bevacizumab in combination with different chemotherapy regimens in multiple indications, by MedDRA system organ class.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with bevacizumab through:
 
@@ -403,25 +415,24 @@ Some of the adverse reactions are reactions commonly seen with chemotherapy; how
 
 Table 1: Adverse reactions by frequency
 
-| System organ class                              | Very common                                                                               | Common                                                                                                                                                      | Rare                                                | Very rare                     | Not known                                                                                                              |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     |                                                                                           | Sepsis, Abscess b,d , Cellulitis, Infection, Urinary tract infection                                                                                        | Necrotising fasciitis a                             |                               |                                                                                                                        |
-| Blood and lymphatic system disorders            | Febrile neutropenia, Leucopenia, Neutropenia b , Thrombocytopenia                         | Anaemia, Lymphopenia                                                                                                                                        |                                                     |                               |                                                                                                                        |
-| Immunesystem disorders                          |                                                                                           | Hypersensitivity, infusion reactions a,b,d                                                                                                                  | Anaphylactic shock                                  |                               |                                                                                                                        |
-| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemi a Hyponatraemia                                                  | Dehydration                                                                                                                                                 |                                                     |                               |                                                                                                                        |
-| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                               | Posterior reversible encephalopath y syndrome a,b,d | Hypertensive encephalopathy a |                                                                                                                        |
-| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                             |                                                     |                               |                                                                                                                        |
-| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                 |                                                     |                               |                                                                                                                        |
-| Vascular disorders                              | Hypertension b,d , Thromboembolis m(venous) b,d                                           | Thromboembolis m(arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                     |                                                     |                               | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a Aneurysms and artery dissections |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                           |                                                     |                               | Pulmonary hypertension a , Nasal septum perforation a                                                                  |
-| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforationb,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto- vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |                                                     |                               | Gastrointestinal ulcera                                                                                                |
-| Hepatobiliary                                   |                                                                                           |                                                                                                                                                             |                                                     |                               | Gallbladder                                                                                                            |
+| System organ class                              | Very common                                                                               | Common                                                                                                                                                      | Rare                                                | Very rare                       | Not known                                                                                                              |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     |                                                                                           | Sepsis, Abscess b,d , Cellulitis, Infection, Urinary tract infection                                                                                        | Necrotising fasciitis a                             |                                 |                                                                                                                        |
+| Blood and lymphatic system disorders            | Febrile neutropenia, Leucopenia, Neutropenia b , Thrombocytopenia                         | Anaemia, Lymphopenia                                                                                                                                        |                                                     |                                 |                                                                                                                        |
+| Immune system disorders                         |                                                                                           | Hypersensitivity, infusion reactions a,b,d                                                                                                                  | Anaphylactic shock                                  |                                 |                                                                                                                        |
+| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemi a Hyponatraemia                                                  | Dehydration                                                                                                                                                 |                                                     |                                 |                                                                                                                        |
+| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                               | Posterior reversible encephalopath y syndrome a,b,d | Hypertensiv e encephalopa thy a |                                                                                                                        |
+| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                             |                                                     |                                 |                                                                                                                        |
+| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                 |                                                     |                                 |                                                                                                                        |
+| Vascular disorders                              | Hypertension b,d , Thromboembolis m (venous) b,d                                          | Thromboembolis m (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                    |                                                     |                                 | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a Aneurysms and artery dissections |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                           |                                                     |                                 | Pulmonary hypertension a , Nasal septum perforation a                                                                  |
+| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforationb,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto- vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |                                                     |                                 | Gastrointestinal ulcera                                                                                                |
+| Hepatobiliary disorders                         |                                                                                           |                                                                                                                                                             |                                                     |                                 | Gallbladder perforation a,b                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Very common                                                                            | Common                                        | Rare   | Very rare   | Not known                                                     |
 |------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------|--------|-------------|---------------------------------------------------------------|
-| disorders                                            |                                                                                        |                                               |        |             | perforation a,b                                               |
 | Skin and subcutaneous tissue disorders               | Wound healing complicationsb, d , Exfoliative dermatitis, Dry skin, Skin discoloration | Palmar-plantar erythrodysaesthe- sia syndrome |        |             |                                                               |
 | Musculoskeleta l and connective tissue disorders     | Arthralgia Myalgia                                                                     | Fistulab,d, Muscular weakness, Back pain      |        |             | Osteonecrosis of the jawa,b, Non-mandibular osteonecrosis a,f |
 | Renal and urinary disorders                          | Proteinuriab, d                                                                        |                                               |        |             |                                                               |
@@ -434,9 +445,7 @@ When events were noted as both all grade and grade 3-5 adverse drug reactions in
 
 a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
-b Terms represent a group of events that describe a medical concept rather than a single condition or may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial
-
-MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms thromboembolic reactions).
+b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 
 c Based on a substudy from NSABP C-08 with 295 patients
 
@@ -454,7 +463,7 @@ Table 2: Severe adverse reactions by frequency
 |-------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------|
 | Infections and infestations                     |                                                                   | Sepsis, Cellulitis, Abscess a,b , Infection, Urinary tract infection                                                                   |                    | Necrotising fasciitis c                                                                                                 |
 | Blood and lymphatic system disorders            | Febrile neutropenia, Leucopenia, Neutropenia a , Thrombocytopenia | Anaemia, Lymphopenia                                                                                                                   |                    |                                                                                                                         |
-| Immunesystem disorders                          |                                                                   | Hypersensitivity, Infusion reactions a,b,c                                                                                             | Anaphylactic shock |                                                                                                                         |
+| Immune system disorders                         |                                                                   | Hypersensitivity, Infusion reactions a,b,c                                                                                             | Anaphylactic shock |                                                                                                                         |
 | Metabolism and nutrition disorders              |                                                                   | Dehydration, Hyponatraemia                                                                                                             |                    |                                                                                                                         |
 | Nervous system disorders                        | Peripheral sensory neuropathy a                                   | Cerebrovascular accident, Syncope, Somnolence, Headache                                                                                |                    | Posterior reversible encephalopathy syndrome a,b,c , Hypertensive encephalopathy c                                      |
 | Cardiac disorders                               |                                                                   | Congestive heart failure a,b , Supraventricular tachycardia                                                                            |                    |                                                                                                                         |
@@ -462,13 +471,12 @@ Table 2: Severe adverse reactions by frequency
 | Respiratory, thoracic and mediastinal disorders |                                                                   | Pulmonary haemorrhage/ haemoptysis a,b , Pulmonary embolism, Epistaxis, Dyspnoea, Hypoxia                                              |                    | Pulmonary hypertension c , Nasal septum perforation c                                                                   |
 | Gastrointestinal disorders                      | Diarrhoea, Nausea, Vomiting, Abdominal pain                       | Intestinal perforation, Ileus, Intestinal obstruction, Recto- vaginal fistulae c,d , Gastrointestinal disorder, Stomatitis, Proctalgia |                    | Gastrointestinal perforation a,b , Gastrointestinal ulcer c , Rectal haemorrhage                                        |
 | Hepatobiliary disorders                         |                                                                   |                                                                                                                                        |                    | Gallbladder perforation b,c                                                                                             |
-| Skin and subcutaneous tissue disorders          |                                                                   | Wound healing complications a,b , Palmar-plantar erythrodysaesthesia                                                                   |                    |                                                                                                                         |
+| Skin and subcutaneous tissue disorders          |                                                                   | Wound healing complications a,b , Palmar-plantar erythrodysaesthesia syndrome                                                          |                    |                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Very common       | Common                                                          | Rare   | Not known                    |
 |------------------------------------------------------|-------------------|-----------------------------------------------------------------|--------|------------------------------|
-|                                                      |                   | syndrome                                                        |        |                              |
 | Musculoskeletal and connective tissue disorders      |                   | Fistula a,b , Myalgia, Arthralgia, Muscular weakness, Back Pain |        | Osteonecrosis of the jaw b,c |
 | Renal and urinary disorders                          |                   | Proteinuria a,b                                                 |        |                              |
 | Reproductive system and breast disorders             |                   | Pelvic pain                                                     |        | Ovarian failure a,b          |
@@ -477,9 +485,8 @@ Table 2: Severe adverse reactions by frequency
 
 Table 2 provides the frequency of severe adverse reactions. Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions. Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe. These clinically significant adverse reactions were reported in clinical trials but the grade 3-5 reactions did not meet the threshold of at least a 2% difference compared to the control arm. Table 2 also includes clinically significant adverse reactions that were observed only in the postmarketing setting, therefore, the frequency and NCI-CTCAE grade is not known.These clinically significant reactions have therefore been included in Table 2 within the column entitled 'Frequency Not Known.'
 
-a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
-
-b For additional information refer below within section \"Further information on selected serious adverse reactions\"
+- a Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+- b For additional information refer below within section \"Further information on selected serious adverse reactions\"
 
 c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
@@ -493,11 +500,9 @@ Bevacizumab has been associated with serious cases of gastrointestinal perforati
 
 Gastrointestinal perforations have been reported in clinical trials with an incidence of less than 1% in patients with non-squamous non-small cell lung cancer, up to 1.3% in patients with metastatic breast cancer, up to 2.0% in patients with metastatic renal cell cancer or in patients with ovarian cancer, and up to 2.7% (including gastrointestinal fistula and abscess) in patients with metastatic colorectal cancer. From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), GI perforations (all grade) were reported in 3.2% of patients, all of whom had a history of prior pelvic radiation.
 
-The occurrence of those events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome. In some cases underlying intra-abdominal inflammation was present, either from
+The occurrence of those events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome. In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
 <div style=\"page-break-after: always\"></div>
-
-gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all bevacizumab treated patients.
 
@@ -529,9 +534,9 @@ In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healin
 
 In clinical trials of ovarian cancer, Grade 3-5 wound healing complications were observed in up to 1.8% of patients in the bevacizumab arm versus 0.1% in the control arm (NCI-CTCAE v.3).
 
-## Hypertension (see section 4.4)
-
 <div style=\"page-break-after: always\"></div>
+
+## Hypertension (see section 4.4)
 
 In clinical trials, with the exception of study JO25567, the overall incidence of hypertension (all grades) ranged up to 42.1% in the bevacizumab containing arms compared with up to 14% in the control arms. The overall incidence of NCI-CTC Grade 3 and 4 hypertension in patients receiving bevacizumab ranged from 0.4% to 17.9%. Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with bevacizumab and chemotherapy compared to up to 0.2% of patients treated with the same chemotherapy alone.
 
@@ -559,13 +564,11 @@ Proteinuria ranged in severity from clinically asymptomatic, transient, trace pr
 
 ## Haemorrhage (see section 4.4)
 
-In  clinical trials across all indications the overall incidence of NCI-CTCAE v.3 Grade 3-5 bleeding reactions ranged from 0.4% to 6.9% in bevacizumab treated patients, compared with up to 4.5% of patients in the chemotherapy control group.
-
-From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 bleeding reactions have been reported in up to 8.3% of patients treated with
+In  clinical trials  across  all  indications the overall  incidence  of  NCI-CTCAE v.3 Grade 3-5 bleeding reactions ranged from 0.4% to 6.9% in bevacizumab treated patients, compared with up to 4.5% of patients in the chemotherapy control group.
 
 <div style=\"page-break-after: always\"></div>
 
-bevacizumab in combination with paclitaxel and topotecan compared with up to 4.6% of patients treated with paclitaxel and topotecan.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 bleeding reactions have been reported in up to 8.3% of patients treated with bevacizumab in combination with paclitaxel and topotecan compared with up to 4.6% of patients treated with paclitaxel and topotecan.
 
 The haemorrhagic reactions that have been observed in clinical trials were predominantly tumourassociated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
 
@@ -587,15 +590,13 @@ There have also been less common reactions of minor mucocutaneous haemorrhage in
 
 ## Thromboembolism (see section 4.4)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Arterial thromboembolism
 
 An increased incidence of arterial thromboembolic reactions was observed in patients treated with bevacizumab across indications, including cerebrovascular accidents, myocardial infarction, transient ischaemic attacks, and other arterial thromboembolic reactions.
 
-In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the
-
-<div style=\"page-break-after: always\"></div>
-
-bevacizumab containing arms compared with up to 2.1% in the chemotherapy control arms. Fatal outcome was reported in 0.8% of patients receiving bevacizumab compared to 0.5% in patients receiving chemotherapy alone. Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.7% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.5% of patients treated with chemotherapy alone. Myocardial infarction was reported in up to 1.4% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.7% of patients treated with chemotherapy alone.
+In clinical trials, the overall incidence of arterial thromboembolic reactions ranged up to 3.8% in the bevacizumab containing arms compared with up to 2.1% in the chemotherapy control arms. Fatal outcome was reported in 0.8% of patients receiving bevacizumab compared to 0.5% in patients receiving chemotherapy alone. Cerebrovascular accidents (including transient ischaemic attacks) were reported in up to 2.7% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.5% of patients treated with chemotherapy alone. Myocardial infarction was reported in up to 1.4% of patients treated with bevacizumab in combination with chemotherapy compared to up to 0.7% of patients treated with chemotherapy alone.
 
 In one clinical trial evaluating bevacizumab in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included. In this trial arterial thromboembolic reactions were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -607,7 +608,7 @@ In clinical trials across indications, the overall incidence of venous thromboem
 
 Grade 3-5 (NCI-CTCAE v.3) venous thromboembolic reactions have been reported in up to 7.8% of patients treated with chemotherapy plus bevacizumab compared with up to 4.9% in patients treated with chemotherapy alone (across indications, excluding persistent, recurrent, or metastatic cervical cancer).
 
-From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 venous thromboembolic events have been reported in up to 15.6% of patients treated with bevacizumab in combination with paclitaxel and cisplatin compared with up to 7.0% of patients treated with paclitaxel and cisplatin.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG-0240), grade 3-5 venous thromboembolic events have been reported in up to 15.6% of patients treated with bevacizumab in combination with paclitaxel and cisplatin compared with up to 7.0% of patients treated with paclitaxel and cisplatin.
 
 Patients who have experienced a venous thromboembolic reaction may be at higher risk for a recurrence if they receive bevacizumab in combination with chemotherapy versus chemotherapy alone.
 
@@ -617,15 +618,13 @@ In clinical trials with bevacizumab, congestive heart failure (CHF) was observed
 
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
-In  most clinical  trials  of  bevacizumab, patients  with pre-existing CHF  of  NYHA (New York Heart Association) II-IV  were excluded, therefore, no information is available on the risk of CHF in this population.
-
-Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for
-
 <div style=\"page-break-after: always\"></div>
 
-the development of CHF.
+In  most  clinical  trials  of  bevacizumab,  patients  with  pre-existing CHF  of  NYHA  (New  York  Heart Association)  II-IV  were  excluded,  therefore,  no  information is  available  on  the  risk  of  CHF in  this population.
 
-An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large Bcell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m 2 . This phase III clinical trial compared rituximab / cyclophosphamide /doxorubicin /vincristine /prednisone (R-CHOP) plus bevacizumab to R-CHOP without bevacizumab. While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm. These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m 2  when combined with bevacizumab.
+Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
+
+An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large Bcell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m 2 . This phase III clinical trial compared rituximab / cyclophosphamide /doxorubicin /vincristine /prednisone (R-CHOP) plus bevacizumab to R-CHOP without bevacizumab. While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm. These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m 2 when combined with bevacizumab.
 
 ## Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.4 and Postmarketing experience below)
 
@@ -647,15 +646,13 @@ Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory a
 
 Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of bevacizumab. The observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with bevacizumab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other special populations
 
 ## Elderly
 
-In randomised clinical trials, age &gt; 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs). Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCICTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with bevacizumab (see sections 4.4 and 4.8 under Thromboembolism ). In one clinical trial, the incidence of hypertension of grade ≥ 3 was two fold higher in patients aged &gt; 65 years than in the
-
-<div style=\"page-break-after: always\"></div>
-
-younger age group (&lt;65 years). In a study of platinum -resistant recurrent ovarian cancer patients, alopecia, mucosal inflammation, peripheral sensory neuropathy, proteinuria and hypertension were also reported and occurred at a rate at least 5% higher in the CT + BV arm for bevacizumab-treated patients ≥ 65 years of age compared with bevacizumab -treated patients aged &lt; 65 years.
+In randomised clinical trials, age &gt; 65 years was associated with an increased risk of developing arterial thromboembolic reactions, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs). Other reactions with a higher frequency seen in patients over 65 were Grade 3-4 leucopenia and thrombocytopenia (NCICTCAE v.3); and all Grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with bevacizumab (see sections 4.4 and 4.8 under Thromboembolism ). In one clinical trial, the incidence of hypertension of grade ≥ 3 was two fold higher in patients aged &gt; 65 years than in the younger age group (&lt;65 years). In a study of platinum -resistant recurrent ovarian cancer patients, alopecia, mucosal inflammation, peripheral sensory neuropathy, proteinuria and hypertension were also reported and occurred at a rate at least 5% higher in the CT + BV arm for bevacizumab-treated patients ≥ 65 years of age compared with bevacizumab -treated patients aged &lt; 65 years.
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, congestive heart failure, and haemorrhage was observed in elderly patients (&gt; 65 years) receiving bevacizumab as compared to those aged ≤ 65 years treated with bevacizumab.
 
@@ -671,25 +668,21 @@ Bevacizumab is not approved for use in patients under the age of 18 years. In pu
 
 ## Post-marketing experience
 
-Table 3: Adverse reactions reported in post-marketing setting
-
-| MedDRAsystemorgan class (SOC)                   | Reactions (frequency*)                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and Infestations                     | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4)                                                                                                                                                                                                                                  |
-| Immune system disorders                         | Hypersensitivity reactions and infusion reactions (common); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) Anaphylactic shock (rare) (see also section 4.4) |
-| Nervous system disorders                        | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Posterior Reversible Encephalopathy Syndrome (PRES) (rare) (see also section 4.4)                                                                                                                                                                                                          |
-| Vascular disorders                              | Renal thrombotic microangiopathy with or without concomitant sunitinib use, and hyaline occlusive glomerular microangiopathy which may be clinically manifested as proteinuria (not known). For further information on proteinuria see section 4.4 and Proteinuria in section 4.8                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common)                                                                                                                                                                                                                                                                                                |
-| Gastrointestinal disorders                      | Gastrointestinal ulcer (not known)                                                                                                                                                                                                                                                                                                                                                        |
-| Hepatobiliary disorders                         | Gall bladder perforation (not known)                                                                                                                                                                                                                                                                                                                                                      |
-
 <div style=\"page-break-after: always\"></div>
 
-| MedDRAsystemorgan class (SOC)                   | Reactions (frequency*)                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders | Cases of Osteonecrosis of the Jaw (ONJ) have been reported in patients treated with bevacizumab, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to intravenous bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) |
-| Musculoskeletal and connective tissue disorders | Cases of non-mandibular osteonecrosis have been observed in bevacizumab treated paediatric patients (see section 4.8, Paediatric population).                                                                                                                                                                                     |
-| Congenital, familial, and genetic disorder      | Cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.6)                                                                                                                                                             |
+Table 3: Adverse reactions reported in post-marketing setting
+
+| MedDRA system organ class (SOC)                 | Reactions (frequency*)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and Infestations                     | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4)                                                                                                                                                                                                                                                                                                                        |
+| Immune system disorders                         | Hypersensitivity reactions and infusion reactions (common); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) Anaphylactic shock (rare) (see also section 4.4)                                                                                       |
+| Nervous system disorders                        | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Posterior Reversible Encephalopathy Syndrome (PRES) (rare) (see also section 4.4)                                                                                                                                                                                                                                                                                                |
+| Vascular disorders                              | Renal thrombotic microangiopathy with or without concomitant sunitinib use, and hyaline occlusive glomerular microangiopathy which may be clinically manifested as proteinuria (not known). For further information on proteinuria see section 4.4 and Proteinuria in section 4.8                                                                                                                                                                                               |
+| Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common)                                                                                                                                                                                                                                                                                                                                                                                      |
+| Gastrointestinal disorders                      | Gastrointestinal ulcer (not known)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Hepatobiliary disorders                         | Gall bladder perforation (not known)                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Musculoskeletal and connective tissue disorders | Cases of Osteonecrosis of the Jaw (ONJ) have been reported in patients treated with bevacizumab, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to intravenous bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) Cases of non-mandibular osteonecrosis have been observed in bevacizumab treated paediatric patients (see section 4.8, Paediatric population). |
+| Congenital, familial, and genetic disorder      | Cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.6)                                                                                                                                                                                                                                                                                                           |
 
 ## Reporting of suspected adverse reactions
 
@@ -703,9 +696,11 @@ The highest dose tested in humans (20 mg/kg bw, intravenous every 2 weeks) was a
 
 ## 5.1 Pharmacodynamic properties
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacotherapeutic group: antineoplastic and immunomodulating agents, antineoplastic agents, other antineoplastic agents, monoclonal antibodies, ATC code: L01FG01
 
-Abevmy is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Abevmy is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -719,11 +714,7 @@ Administration of bevacizumab or its parental murine antibody to xenotransplant 
 
 ## Metastatic carcinoma of the colon or rectum (mCRC)
 
-The safety and efficacy of the recommended dose (5 mg/kg bw every two weeks) in metastatic carcinoma of the colon or rectum were studied in three randomised, active-controlled clinical trials in combination with fluoropyrimidine-based first-line chemotherapy. Bevacizumab was combined with
-
-<div style=\"page-break-after: always\"></div>
-
-two chemotherapy regimens:
+The safety and efficacy of the recommended dose (5 mg/kg bw every two weeks) in metastatic carcinoma of the colon or rectum were studied in three randomised, active-controlled clinical trials in combination with fluoropyrimidine-based first-line chemotherapy. Bevacizumab was combined with two chemotherapy regimens:
 
 - AVF2107g: A weekly schedule of irinotecan/bolus 5-fluorouracil/folinic acid (IFL) for a total of 4 weeks of each 6 week-cycle (Saltz regimen).
 - AVF0780g: In combination with bolus 5-fluorouracil/folinic acid (5-FU/FA) for a total of 6 weeks of each 8 week-cycle (Roswell Park regimen).
@@ -735,6 +726,8 @@ Three additional studies with bevacizumab have been conducted in mCRC patients: 
 - E3200: Bevacizumab 10 mg/kg bw every 2 weeks in combination with leucovorin and 5fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX4) in bevacizumab-naïve patients.
 - ML18147: Bevacizumab 5.0 mg/kg bw every 2 weeks or bevacizumab 7.5 mg/kg bw every 3 weeks in combination with fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin in patients with disease progression following first-line treatment with bevacizumab. Use of irinotecan- or oxaliplatin-containing regimen was switched depending on first-line usage of either oxaliplatin or irinotecan.
 
+<div style=\"page-break-after: always\"></div>
+
 ## AVF2107g
 
 This was a phase III randomised, double-blind, active-controlled clinical trial evaluating bevacizumab in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum. Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + bevacizumab (5 mg/kg every 2 weeks, Arm 2). A third group of 110 patients received bolus 5-FU/FA + bevacizumab (Arm 3). Enrolment in Arm 3 was discontinued, as pre-specified, once safety of bevacizumab with the IFL regimen was established and considered acceptable. All treatments were continued until disease progression. The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2. 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
@@ -743,13 +736,11 @@ The primary efficacy variable of the trial was overall survival (OS). The additi
 
 The efficacy results of bevacizumab in combination with IFL-chemotherapy are displayed in Table 4.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4: Efficacy results for trial AVF2107g
 
 |                           | AVF2107g                  | AVF2107g                  |
 |---------------------------|---------------------------|---------------------------|
-|                           | Arm 1 IFL+placebo         | Arm 2IFL + bevacizumab a  |
+|                           | Arm 1 IFL + placebo       | Arm 2 IFL + bevacizumab a |
 | Number of patients        | 411                       | 402                       |
 | Overall survival          |                           |                           |
 | Median time (months)      | 15.6                      | 20.3                      |
@@ -768,36 +759,34 @@ Among the 110 patients randomised to Arm 3 (5-FU/FA + bevacizumab) prior to disc
 
 This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of bevacizumab in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment. One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + bevacizumab (5 mg/kg every 2 weeks) arm. All treatments were continued until disease progression. The addition of bevacizumab 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer PFS, and a trend in longer survival as compared to 5- FU/FA chemotherapy alone.
 
-## AVF0780g
+<div style=\"page-break-after: always\"></div>
 
 This was a phase II randomised, active-controlled, open-labelled clinical trial investigating bevacizumab in combination with 5-FU/FA as first-line treatment of metastatic colorectal cancer. The median age was 64 years. 19% of the patients had received prior chemotherapy and 14% prior radiotherapy. Seventy-one patients were randomised to receive bolus 5-FU/FA or 5-FU/FA + bevacizumab (5 mg/kg every 2 weeks). A third group of 33 patients received bolus 5-FU/FA + bevacizumab (10 mg/kg every 2 weeks). Patients were treated until disease progression. The primary endpoints of the trial were objective response rate and PFS. The addition of bevacizumab 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer PFS, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 5). These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating bevacizumab in combination with 5-FU/FA-chemotherapy are summarised in Table 5.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5: Efficacy results for trials AVF0780g and AVF2192g
 
-|                                    | AVF0780g                           | AVF0780g                | AVF0780g                | AVF2192g                | AVF2192g                |
-|------------------------------------|------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-|                                    | 5-FU/FA                            | 5-FU/FA + bevacizumab a | 5-FU/FA + bevacizumab b | 5-FU/FA + placebo       | 5-FU/FA + bevacizumab   |
-| Number of patients                 | 36                                 | 35                      | 33                      | 105                     | 104                     |
-| Overall survival                   |                                    |                         |                         |                         |                         |
-| Median time (months)               | 13.6                               | 17.7                    | 15.2                    | 12.9                    | 16.6                    |
-| 95% CI                             |                                    |                         |                         | 10.35 16.95             | 13.63 -19.32            |
-| Hazard ratio                       | -                                  | 0.52                    | 1.01                    |                         | 0.79                    |
-| p-value                            |                                    | 0.073                   | 0.978                   |                         | 0.16                    |
-| Progression-free survival          |                                    |                         |                         |                         |                         |
-| Median time (months)               | 5.2                                | 9.0                     | 7.2                     | 5.5                     | 9.2                     |
-| Hazard ratio                       |                                    | 0.44                    | 0.69                    |                         | 0.5                     |
-| p-value                            | -                                  | 0.0049                  | 0.217                   |                         | 0.0002                  |
-| Overall response rate              |                                    |                         |                         |                         |                         |
-| Rate (percent)                     | 16.7                               | 40.0                    | 24.2                    | 15.2                    | 26                      |
-| 95% CI                             | 7.0 - 33.5                         | 24.4 - 57.8             | 11.7 - 42.6             | 9.2 - 23.918.1 - 35.6   | 9.2 - 23.918.1 - 35.6   |
-| p-value                            |                                    | 0.029                   | 0.43                    |                         | 0.055                   |
-| Duration of response               |                                    |                         |                         |                         |                         |
-| Median time (months)               | NR                                 | 9.3                     | 5.0                     | 6.8                     | 9.2                     |
-| 25-75 percentile (months) 5.5 - NR | 25-75 percentile (months) 5.5 - NR | 6.1 - NR                | 3.8 - 7.8               | 5.59 - 9.175.88 - 13.01 | 5.59 - 9.175.88 - 13.01 |
+|                           | AVF0780g   | AVF0780g                | AVF0780g                | AVF2192g                 | AVF2192g                 |
+|---------------------------|------------|-------------------------|-------------------------|--------------------------|--------------------------|
+|                           | 5-FU/FA    | 5-FU/FA + bevacizumab a | 5-FU/FA + bevacizumab b | 5-FU/FA + placebo        | 5-FU/FA + bevacizumab    |
+| Number of patients        | 36         | 35                      | 33                      | 105                      | 104                      |
+| Overall survival          |            |                         |                         |                          |                          |
+| Median time (months)      | 13.6       | 17.7                    | 15.2                    | 12.9                     | 16.6                     |
+| 95% CI                    |            |                         |                         | 10.35 16.95              | 13.63 - 19.32            |
+| Hazard ratio              | -          | 0.52                    | 1.01                    |                          | 0.79                     |
+| p-value                   |            | 0.073                   | 0.978                   |                          | 0.16                     |
+| Progression-free survival |            |                         |                         |                          |                          |
+| Median time (months)      | 5.2        | 9.0                     | 7.2                     | 5.5                      | 9.2                      |
+| Hazard ratio              |            | 0.44                    | 0.69                    |                          | 0.5                      |
+| p-value                   | -          | 0.0049                  | 0.217                   |                          | 0.0002                   |
+| Overall response rate     |            |                         |                         |                          |                          |
+| Rate (percent)            | 16.7       | 40.0                    | 24.2                    | 15.2                     | 26                       |
+| 95% CI                    | 7.0 - 33.5 | 24.4 - 57.8             | 11.7 - 42.6             | 9.2 - 23.9 18.1 - 35.6   | 9.2 - 23.9 18.1 - 35.6   |
+| p-value                   |            | 0.029                   | 0.43                    |                          | 0.055                    |
+| Duration of response      |            |                         |                         |                          |                          |
+| Median time (months)      | NR         | 9.3                     | 5.0                     | 6.8                      | 9.2                      |
+| 25-75 percentile (months) | 5.5 - NR   | 6.1 - NR                | 3.8 - 7.8               | 5.59 - 9.17 5.88 - 13.01 | 5.59 - 9.17 5.88 - 13.01 |
 
 a 5 mg/kg every 2 weeks.
 
@@ -817,11 +806,11 @@ Table 6: Treatment regimens in trial NO16966 (mCRC)
 
 |                                                                          | Treatment                                                                | Starting dose                                                            | Schedule                                                                 |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| FOLFOX-4or FOLFOX-4 + bevacizumab                                        | Oxaliplatin                                                              | 85 mg/m 2 intravenous 2                                                  | hOxaliplatin on day 1                                                    |
+| FOLFOX-4 or FOLFOX-4 + bevacizumab                                       | Oxaliplatin                                                              | 85 mg/m 2 intravenous 2 h                                                | Oxaliplatin on day 1                                                     |
 |                                                                          | Leucovorin                                                               | 200 mg/m 2 intravenous 2 h                                               | Leucovorin on day 1 and 2                                                |
 |                                                                          | 5-Fluorouracil                                                           | 400 mg/m 2 intravenous bolus, 600 mg/m 2 intravenous 22 h                | 5-fluorouracil intravenous bolus/infusion, each on days 1 and 2          |
 |                                                                          | Placebo or bevacizumab                                                   | 5 mg/kg intravenous 30- 90 min                                           | Day 1, prior to FOLFOX-4, every 2 weeks                                  |
-| XELOXor XELOX + bevacizumab                                              | Oxaliplatin                                                              | 130 mg/m 2 intravenous 2 h                                               | Oxaliplatin on day 1                                                     |
+| XELOX or XELOX + bevacizumab                                             | Oxaliplatin                                                              | 130 mg/m 2 intravenous 2 h                                               | Oxaliplatin on day 1                                                     |
 |                                                                          | Capecitabine                                                             | 1000 mg/m 2 oral bid                                                     | Capecitabine oral bid for 2 weeks (followed by 1 week off treatment)     |
 |                                                                          | Placebo or bevacizumab                                                   | 7.5 mg/kg intravenous 30-90 min                                          | Day 1, prior to XELOX, q 3 weeks                                         |
 | 5-Fluorouracil: intravenous bolus injection immediately after leucovorin | 5-Fluorouracil: intravenous bolus injection immediately after leucovorin | 5-Fluorouracil: intravenous bolus injection immediately after leucovorin | 5-Fluorouracil: intravenous bolus injection immediately after leucovorin |
@@ -835,21 +824,19 @@ Secondary PFS analyses, based on 'on-treatment'-based response assessments, conf
 
 Table 7: Key efficacy results for the superiority analysis (ITT population, trial NO16966)
 
-| Endpoint (months)                            | FOLFOX-4 or XELOX +placebo (n=701)   | FOLFOX-4 or XELOX +bevacizumab (n=699)   | P-value   |
-|----------------------------------------------|--------------------------------------|------------------------------------------|-----------|
-| Primary endpoint                             |                                      |                                          |           |
-| Median PFS**                                 | 8.0                                  | 9.4                                      | 0.0023    |
-| Hazard ratio (97.5% CI) a                    | 0.83 (0.72-0.95)                     |                                          |           |
-| Secondary endpoints                          |                                      |                                          |           |
-| Median PFS (on treatment)**                  | 7.9                                  | 10.4                                     | < 0.0001  |
-| Hazard ratio (97.5% CI)                      | 0.63 (0.52-0.75)                     |                                          |           |
-| Overall response rate (invest. assessment)** | 49.2%                                | 46.5%                                    |           |
-| Median overall survival*                     | 19.9                                 | 21.2                                     | 0.0769    |
-| Hazard ratio (97.5% CI)                      | 0.89 (0.76-1.03)                     |                                          |           |
+| Endpoint (months)                            | FOLFOX-4 or XELOX + placebo (n=701)   | FOLFOX-4 or XELOX + bevacizumab (n=699)   | P-value   |
+|----------------------------------------------|---------------------------------------|-------------------------------------------|-----------|
+| Primary endpoint                             |                                       |                                           |           |
+| Median PFS**                                 | 8.0                                   | 9.4                                       | 0.0023    |
+| Hazard ratio (97.5% CI) a                    | 0.83 (0.72-0.95)                      |                                           |           |
+| Secondary endpoints                          |                                       |                                           |           |
+| Median PFS (on treatment)**                  | 7.9                                   | 10.4                                      | < 0.0001  |
+| Hazard ratio (97.5% CI)                      | 0.63 (0.52-0.75)                      |                                           |           |
+| Overall response rate (invest. assessment)** | 49.2%                                 | 46.5%                                     |           |
+| Median overall survival*                     | 19.9                                  | 21.2                                      | 0.0769    |
+| Hazard ratio (97.5% CI)                      | 0.89 (0.76-1.03)                      |                                           |           |
 
 <div style=\"page-break-after: always\"></div>
-
-* OS analysis at clinical cut-off 31 January 2007
 
 ** Primary analysis at clinical cut-off 31 January 2006
 
@@ -888,9 +875,11 @@ No significant difference was observed in the duration of OS between patients wh
 
 This was a Phase III randomised, controlled, open-label trial investigating bevacizumab 5.0 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks in combination with fluoropyrimidine-based chemotherapy versus fluoropyrimidine-based chemotherapy alone in patients with mCRC who have progressed on a first-line bevacizumab-containing regimen.
 
+Patients with histologically confirmed mCRC and disease progression were randomised 1:1 within  3
+
 <div style=\"page-break-after: always\"></div>
 
-Patients with histologically confirmed mCRC and disease progression were randomised 1:1 within  3 months after discontinuation of bevacizumab first-line therapy to receive fluoropyrimidine/oxaliplatinor fluoropyrimidine/irinotecan-based chemotherapy (chemotherapy switched depending on first-line chemotherapy) with or without bevacizumab. Treatment was given until progressive disease or unacceptable toxicity. The primary outcome measure was OS defined as the time from randomisation until death from any cause.
+months after discontinuation of bevacizumab first-line therapy to receive fluoropyrimidine/oxaliplatinor fluoropyrimidine/irinotecan-based chemotherapy (chemotherapy switched depending on first-line chemotherapy) with or without bevacizumab. Treatment was given until progressive disease or unacceptable toxicity. The primary outcome measure was OS defined as the time from randomisation until death from any cause.
 
 A total of 820 patients were randomised. The addition of bevacizumab to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival in patients with mCRC who have progressed on a first-line bevacizumab-containing regimen (ITT = 819) (see Table 9).
 
@@ -911,9 +900,11 @@ Table 9: Efficacy results for study ML18147 (ITT population)
 | Rate                                   | 3.9%                                                                            | 5.4%                                                                                          |
 |                                        | (p-value = 0.3113)                                                              | (p-value = 0.3113)                                                                            |
 
+a 5.0 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks
+
 Statistically significant improvements in PFS were also observed. Objective response rate was low in both treatment arms and the difference was not significant.
 
-Study E3200 used a 5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-naïve patients, while study ML18147 used a 2.5 mg/kg/week equivalent dose of bevacizumab in bevacizumabpretreated patients. A cross-trial comparison of the efficacy and safety data is limited by differences between these studies, most notably in patient populations, previous bevacizumab  exposure and chemotherapy regimens. Both the 5 mg/kg/week and 2.5 mg/kg/week equivalent doses  of bevacizumab provided a statistically significant benefit with regards to OS (HR 0.751 in study E3200; HR 0.81 in study ML18147) and PFS (HR 0.518 in study E3200; HR 0.68 in study ML18147). In terms of safety, there was a higher overall incidence of Grade 3-5 AEs in study E3200 relative to study ML18147.
+Study E3200 used a 5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-naïve patients, while study ML18147 used a 2.5 mg/kg/week equivalent dose of bevacizumab in bevacizumab-pretreated patients. A cross-trial comparison of the efficacy and safety data is limited by differences between these studies, most notably in patient populations, previous bevacizumab exposure and chemotherapy regimens. Both the 5 mg/kg/week and 2.5 mg/kg/week equivalent doses of bevacizumab provided a statistically significant benefit with regards to OS (HR 0.751 in study E3200; HR 0.81 in study ML18147) and PFS (HR 0.518 in study E3200; HR 0.68 in study ML18147). In terms of safety, there was a higher overall incidence of Grade 3-5 AEs in study E3200 relative to study ML18147.
 
 ## Metastatic breast cancer (mBC)
 
@@ -923,10 +914,10 @@ Summarised below are PFS results for the individual chemotherapy agents included
 
 - Study E2100 (paclitaxel)
 - Median PFS increase 5.6 months, HR 0.421 (p &lt; 0.0001, 95% CI 0.343; 0.516)
+- Study AVF3694g (capecitabine)
 
 <div style=\"page-break-after: always\"></div>
 
-- Study AVF3694g (capecitabine)
 - Median PFS increase 2.9 months, HR 0.69 (p = 0.0002, 95% CI 0.56; 0.84) Further details of each study and the results are provided below.
 
 ## ECOG E2100
@@ -942,12 +933,12 @@ Table 10: Trial E2100 efficacy results
 |                                                       | Investigator assessment*                              | Investigator assessment*                              | IRF assessment                                        | IRF assessment                                        |
 |                                                       | Paclitaxel (n=354)                                    | Paclitaxel/ bevacizumab (n=368)                       | Paclitaxel (n=354)                                    | Paclitaxel/ bevacizumab (n=368)                       |
 | Median PFS (months)                                   | 5.8                                                   | 11.4                                                  | 5.8                                                   | 11.3                                                  |
-| HR(95%CI)                                             | 0.421 (0.343; 0.516)                                  | 0.421 (0.343; 0.516)                                  | 0.483 (0.385; 0.607)                                  | 0.483 (0.385; 0.607)                                  |
+| HR (95% CI)                                           | 0.421 (0.343; 0.516)                                  | 0.421 (0.343; 0.516)                                  | 0.483 (0.385; 0.607)                                  | 0.483 (0.385; 0.607)                                  |
 | p-value                                               | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              |
 | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) | Response rates (for patients with measurable disease) |
 |                                                       | Investigator assessment                               | Investigator assessment                               | IRF assessment                                        | IRF assessment                                        |
 |                                                       | Paclitaxel (n=273)                                    | Paclitaxel/ bevacizumab (n=252)                       | Paclitaxel (n=243)                                    | Paclitaxel/ bevacizumab (n=229)                       |
-| %pts with objective response                          | 23.4                                                  | 48.0                                                  | 22.2                                                  | 49.8                                                  |
+| % pts with objective response                         | 23.4                                                  | 48.0                                                  | 22.2                                                  | 49.8                                                  |
 | p-value                                               | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              | < 0.0001                                              |
 
 * primary analysis
@@ -956,16 +947,14 @@ Table 10: Trial E2100 efficacy results
 |--------------------|----------------------|---------------------------------|
 |                    | Paclitaxel (n=354)   | Paclitaxel/ bevacizumab (n=368) |
 | Median OS (months) | 24.8                 | 26.5                            |
-| HR(95%CI)          | 0.869 (0.722; 1.046) | 0.869 (0.722; 1.046)            |
+| HR (95% CI)        | 0.869 (0.722; 1.046) | 0.869 (0.722; 1.046)            |
 | p-value            | 0.1374               | 0.1374                          |
 
 The clinical benefit of bevacizumab as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and oestrogen receptor (ER) status).
 
+AVF3694g Study AVF3694g was a Phase III, multicentre, randomised, placebo-controlled trial designed to evaluate the efficacy and safety of bevacizumab in combination with chemotherapy compared to chemotherapy plus placebo as first-line treatment for patients with HER2-negative metastatic or locally recurrent breast cancer.
+
 <div style=\"page-break-after: always\"></div>
-
-## AVF3694g
-
-Study AVF3694g was a Phase III, multicentre, randomised, placebo-controlled trial designed to evaluate the efficacy and safety of bevacizumab in combination with chemotherapy compared to chemotherapy plus placebo as first-line treatment for patients with HER2-negative metastatic or locally recurrent breast cancer.
 
 Chemotherapy was chosen at the investigator's discretion prior to randomisation in a 2:1 ratio to receive either chemotherapy plus bevacizumab or chemotherapy plus placebo. The choices of chemotherapy included capecitabine, taxane (protein-bound paclitaxel, docetaxel), and anthracyclinebased agents (doxorubicin/ cyclophosphamide, epirubicin/ cyclophosphamide, 5-fluorouracil/ doxorubicin/ cyclophosphamide, 5-fluorouracil/epirubicin/cyclophosphamide) given every three weeks (q3w). Bevacizumab or placebo was administered at a dose of 15 mg/kg q3w.
 
@@ -980,13 +969,13 @@ Table 11: Efficacy results for study AVF3694g: capecitabine a  and bevacizumab/p
 | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            | Progression-free survival b                            |
 |--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 |                                                        | Investigator Assessment                                | Investigator Assessment                                | IRC Assessment                                         | IRC Assessment                                         |
-|                                                        | Cap+pl (n=206)                                         | Cap + bevacizumab (n=409)                              | Cap+pl (n=206)                                         | Cap + bevacizumab (n=409)                              |
+|                                                        | Cap + pl (n=206)                                       | Cap + bevacizumab (n=409)                              | Cap + pl (n=206)                                       | Cap + bevacizumab (n=409)                              |
 | Median PFS (months)                                    | 5.7                                                    | 8.6                                                    | 6.2                                                    | 9.8                                                    |
 | Hazard ratio vs placebo arm (95% CI)                   | 0.69 (0.56; 0.84)                                      | 0.69 (0.56; 0.84)                                      | 0.68 (0.54; 0.86)                                      | 0.68 (0.54; 0.86)                                      |
 | p-value                                                | 0.0002                                                 | 0.0002                                                 | 0.0011                                                 | 0.0011                                                 |
 | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b | Response rate (for patients with measurable disease) b |
 |                                                        | Cap + pl (n=161)                                       | Cap + pl (n=161)                                       | Cap + bevacizumab (n=325)                              | Cap + bevacizumab (n=325)                              |
-| %pts with objective response                           | 23.6                                                   | 23.6                                                   | 35.4                                                   | 35.4                                                   |
+| % pts with objective response                          | 23.6                                                   | 23.6                                                   | 35.4                                                   | 35.4                                                   |
 | p-value                                                | 0.0097                                                 | 0.0097                                                 | 0.0097                                                 | 0.0097                                                 |
 | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     | Overall survival b                                     |
 | HR (95% CI)                                            | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      |
@@ -994,9 +983,7 @@ Table 11: Efficacy results for study AVF3694g: capecitabine a  and bevacizumab/p
 
 <div style=\"page-break-after: always\"></div>
 
-last tumour assessment prior to starting NPT.
-
-An unstratified analysis of PFS (investigator assessed) was performed that did not censor for non-protocol therapy prior to disease progression. The results of these analyses were very similar to the primary PFS results.
+An unstratified analysis of PFS (investigator assessed) was performed that did not censor for nonprotocol therapy prior to disease progression. The results of these analyses were very similar to the primary PFS results.
 
 ## Non-small cell lung cancer (NSCLC)
 
@@ -1032,11 +1019,9 @@ In an exploratory analysis, the extent of bevacizumab benefit on OS was less pro
 
 ## BO17704
 
-Trial BO17704 was a randomised, double-blind phase III trial of bevacizumab in addition to cisplatin
+Trial BO17704 was a randomised, double-blind phase III trial of bevacizumab in addition to cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy. The primary endpoint was PFS, secondary endpoints for the trial included the duration of OS.
 
 <div style=\"page-break-after: always\"></div>
-
-and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy. The primary endpoint was PFS, secondary endpoints for the trial included the duration of OS.
 
 Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m 2 intravenous infusion on day 1 and gemcitabine 1250 mg/m 2 intravenous infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with bevacizumab at a dose of 7.5 or 15 mg/kg intravenous infusion day 1 of every 3-week cycle. In the bevacizumab-containing arms, patients could receive bevacizumab as a single-agent every 3 weeks until disease progression or unacceptable toxicity. Trial results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7. A high proportion of patients (approximately 62%) went on to receive a variety of nonprotocol specified anti-cancer therapies, which may have impacted the analysis of OS.
 
@@ -1044,21 +1029,21 @@ The efficacy results are presented in Table 13.
 
 Table 13: Efficacy results for trial BO17704
 
-|                    | Cisplatin/gemcitabine + placebo   | Cisplatin/gemcitabine + bevacizumab 7.5 mg/kg q 3 weeks   | Cisplatin/gemcitabine + bevacizumab 15 mg/kg q3 weeks   |
-|--------------------|-----------------------------------|-----------------------------------------------------------|---------------------------------------------------------|
-| Number of patients | 347                               | 345                                                       | 351                                                     |
-| Progression-free   |                                   |                                                           |                                                         |
-| Median (months)    | 6.1                               | 6.7                                                       | 6.5                                                     |
-|                    |                                   | (p=0.0026)                                                | (p=0.0301)                                              |
-| Hazard ratio       |                                   | 0.75                                                      | 0.82                                                    |
-|                    |                                   | [0.62; 0.91]                                              | [0.68; 0.98]                                            |
-| Best overall       | 20.1%                             | 34.1%                                                     | 30.4% (p=0.0023)                                        |
-| response rate a    |                                   | (p < 0.0001)                                              |                                                         |
-| Overall survival   |                                   |                                                           |                                                         |
-| Median (months)    | 13.1                              | 13.6                                                      | 13.4                                                    |
-|                    |                                   | (p=0.4203)                                                | (p=0.7613)                                              |
-| Hazard ratio       |                                   | 0.93                                                      | 1.03                                                    |
-|                    |                                   | [0.78; 1.11]                                              | [0.86, 1.23]                                            |
+|                    | Cisplatin/gemcitabine + placebo   | Cisplatin/gemcitabine + bevacizumab 7.5 mg/kg q 3 weeks   | Cisplatin/gemcitabine + bevacizumab 15 mg/kg q 3 weeks   |
+|--------------------|-----------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
+| Number of patients | 347                               | 345                                                       | 351                                                      |
+| Progression-free   |                                   |                                                           |                                                          |
+| Median (months)    | 6.1                               | 6.7                                                       | 6.5                                                      |
+|                    |                                   | (p=0.0026)                                                | (p=0.0301)                                               |
+| Hazard ratio       |                                   | 0.75                                                      | 0.82                                                     |
+|                    |                                   | [0.62; 0.91]                                              | [0.68; 0.98]                                             |
+| Best overall       | 20.1%                             | 34.1%                                                     | 30.4% (p=0.0023)                                         |
+| response rate a    |                                   | (p < 0.0001)                                              |                                                          |
+| Overall survival   |                                   |                                                           |                                                          |
+| Median (months)    | 13.1                              | 13.6                                                      | 13.4                                                     |
+|                    |                                   | (p=0.4203)                                                | (p=0.7613)                                               |
+| Hazard ratio       |                                   | 0.93                                                      | 1.03                                                     |
+|                    |                                   | [0.78; 1.11]                                              | [0.86, 1.23]                                             |
 
 a patients with measurable disease at baseline
 
@@ -1072,20 +1057,20 @@ The primary endpoint was PFS based on independent review assessment. Secondary e
 
 EGFR mutation status was determined for each patient prior to patient screening and 154 patients were randomised to receive either erlotinib + bevacizumab (erlotinib 150 mg oral daily + bevacizumab [15 mg/kg intravenous every 3 weeks]) or erlotinib monotherapy (150 mg oral daily) until disease progression (PD) or unacceptable toxicity. In the absence of PD, discontinuation of one component of study treatment in the erlotinib + bevacizumab arm did not lead to discontinuation of the other component of study treatment as specified in the study protocol.
 
-<div style=\"page-break-after: always\"></div>
-
 The efficacy results of the study are presented in Table 14.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 14: Efficacy results for study JO25567
 
-|                                               | ErlotinibN = 77 #        | Erlotinib + bevacizumabN = 75 #   |
-|-----------------------------------------------|--------------------------|-----------------------------------|
-| PFS ^ (months) Median HR (95% CI) p-value     | 9.7                      | 16.0                              |
-| PFS ^ (months) Median HR (95% CI) p-value     | 0.54 (0.36; 0.79) 0.0015 | 0.54 (0.36; 0.79) 0.0015          |
-| Overall response rate                         | 63.6% (49)               | 69.3% (52)                        |
-| Rate (n) p-value                              | 0.4951                   | 0.4951                            |
-| Overall survival* (months) Median HR (95% CI) | 47.4                     | 47.0                              |
-| p-value                                       | 0.81 (0.53; 1.23) 0.3267 | 0.81 (0.53; 1.23) 0.3267          |
+|                                           | Erlotinib N = 77 #       | Erlotinib + bevacizumab N = 75 #   |
+|-------------------------------------------|--------------------------|------------------------------------|
+| PFS ^ (months) Median HR (95% CI) p-value | 9.7                      | 16.0                               |
+|                                           | 0.54 (0.36; 0.79) 0.0015 | 0.54 (0.36; 0.79) 0.0015           |
+| Overall response rate                     | 63.6% (49)               | 69.3% (52)                         |
+| Rate (n) p-value                          | 0.4951                   | 0.4951                             |
+| Overall survival* (months) Median         | 47.4                     | 47.0                               |
+| HR (95% CI) p-value                       | 0.81 (0.53; 1.23) 0.3267 | 0.81 (0.53; 1.23) 0.3267           |
 
 CI, confidence interval; HR, Hazard ratio from unstratified Cox regression analysis; NR, not reached.
 
@@ -1127,11 +1112,9 @@ This was a randomised, double-blind, phase II clinical trial investigating bevac
 
 ## AVF0890
 
-This was a randomised phase II trial conducted to compare the efficacy and safety of bevacizumab versus placebo. A total of 116 patients were randomised to receive bevacizumab 3 mg/kg every 2 weeks (n=39), 10 mg/kg every 2 weeks; (n=37), or placebo (n=40). An interim analysis showed there was a significant prolongation of the time to progression of disease in the 10 mg/kg group as compared with the placebo group (hazard ratio, 2.55; p &lt; 0.001). There was a small difference, of
+This was a randomised phase II trial conducted to compare the efficacy and safety of bevacizumab versus placebo. A total of 116 patients were randomised to receive bevacizumab 3 mg/kg every 2 weeks (n=39), 10 mg/kg every 2 weeks; (n=37), or placebo (n=40). An interim analysis showed there was a significant prolongation of the time to progression of disease in the 10 mg/kg group as compared with the placebo group (hazard ratio, 2.55; p &lt; 0.001 ). There was a small difference, of borderline significance, between the time to progression of disease in the 3 mg/kg group and that in the placebo group (hazard ratio, 1.26; p=0.053). Four patients had objective (partial) response, and all of these had received the 10 mg/kg dose bevacizumab; the ORR for the 10 mg/kg dose was 10%.
 
 <div style=\"page-break-after: always\"></div>
-
-borderline significance, between the time to progression of disease in the 3 mg/kg group and that in the placebo group (hazard ratio, 1.26; p=0.053). Four patients had objective (partial) response, and all of these had received the 10 mg/kg dose bevacizumab; the ORR for the 10 mg/kg dose was 10%.
 
 ## Epithelial ovarian, fallopian tube and primary peritoneal cancer
 
@@ -1157,11 +1140,9 @@ The primary endpoint was PFS based on investigator's assessment of disease progr
 
 The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 15 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab alone (CPB15+), had a clinically meaningful and statistically significant improvement in PFS.
 
-In patients who only received bevacizumab in combination with chemotherapy and did not continue to
+In patients who only received bevacizumab in combination with chemotherapy and did not continue to receive bevacizumab alone (CPB15), no clinically meaningful benefit in PFS was observed.
 
 <div style=\"page-break-after: always\"></div>
-
-receive bevacizumab alone (CPB15), no clinically meaningful benefit in PFS was observed.
 
 The results of this study are summarised in Table 16.
 
@@ -1169,11 +1150,11 @@ Table 16: Efficacy results from study GOG-0218
 
 | Progression-free survival 1                              | Progression-free survival 1   | Progression-free survival 1                   | Progression-free survival 1                      |
 |----------------------------------------------------------|-------------------------------|-----------------------------------------------|--------------------------------------------------|
-| Median PFS (months) Hazard ratio (95% CI) 2 p-value 3, 4 | CPP (n =625) 10.6             | CPB15 (n = 625) 11.6 0.89 (0.78, 1.02) 0.0437 | CPB15+ (n = 623) 14.7 0.70 (0.61, 0.81) < 0.0001 |
+| Median PFS (months) Hazard ratio (95% CI) 2 p-value 3, 4 | CPP (n = 625) 10.6            | CPB15 (n = 625) 11.6 0.89 (0.78, 1.02) 0.0437 | CPB15+ (n = 623) 14.7 0.70 (0.61, 0.81) < 0.0001 |
 | Objective response rate 5                                |                               |                                               |                                                  |
 |                                                          | CPP                           | CPB15                                         | CPB15 +                                          |
 |                                                          | (n = 396)                     | (n = 393)                                     | (n = 403)                                        |
-| %pts with objective response                             | 63.4                          | 66.2                                          | 66.0                                             |
+| % pts with objective response                            | 63.4                          | 66.2                                          | 66.0                                             |
 | p-value                                                  |                               | 0.2341                                        | 0.2041                                           |
 | Overall survival 6                                       |                               |                                               |                                                  |
 |                                                          | CPP                           | CPB15                                         | CPB15 +                                          |
@@ -1185,8 +1166,8 @@ Table 16: Efficacy results from study GOG-0218
 Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009. The results of these prespecified analyses are as follows:
 
 - The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
-- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
-- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank pvalue &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
+- The primary analysis of investigator-assessed PFS (censoring for CA-125 progressions and NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.52-0.75, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 12.0 months in the CPP arm and 18.2 months in the CPB15+ arm.
+- The analysis of PFS as determined by the independent review committee (censoring for NPT) shows a stratified hazard ratio of 0.62 (95% CI: 0.50-0.77, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 13.1 in the CPP arm and 19.1 months in the CPB15+ arm.
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 17. These results demonstrate robustness of the analysis of PFS as shown in Table 16.
 
@@ -1196,11 +1177,19 @@ Table 17: PFS 1 results by disease stage and debulking status from study GOG-021
 
 | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n =219) 12.4                                                  | CPB15 (n = 204) 14.3 0.81 (0.62, 1.05)                             | CPB15+ (n = 216) 17.5 0.66 (0.50, 0.86)                            |
+| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n = 219) 12.4                                                 | CPB15 (n = 204) 14.3 0.81 (0.62, 1.05)                             | CPB15+ (n = 216) 17.5 0.66 (0.50, 0.86)                            |
 | Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 | Randomised patients with stage III suboptimally debulked disease 3 |
-| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n =253) 10.1                                                  | CPB15 (n = 256) 10.9 0.93 (0.77, 1.14)                             | CPB15+ (n = 242) 13.9 0.78 (0.63, 0.96)                            |
+| Median PFS (months) Hazard ratio (95% CI) 4                        | CPP (n = 253) 10.1                                                 | CPB15 (n = 256) 10.9 0.93 (0.77, 1.14)                             | CPB15+ (n = 242) 13.9 0.78 (0.63, 0.96)                            |
 | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          | Randomised patients with stage IV disease                          |
-| Median PFS (months) Hazard Ratio (95% CI) 4                        | CPP (n =153) 9.5                                                   | CPB15 (n = 165) 10.4 0.90 (0.70, 1.16)                             | CPB15+ (n =165) 12.8 0.64 (0.49, 0.82)                             |
+| Median PFS (months) Hazard Ratio (95% CI) 4                        | CPP (n = 153) 9.5                                                  | CPB15 (n = 165) 10.4 0.90 (0.70, 1.16)                             | CPB15+ (n =165) 12.8 0.64 (0.49, 0.82)                             |
+
+Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February 2010
+
+2 With gross residual disease.
+
+3 3.7% of the overall randomised patient population had Stage IIIB disease.
+
+4 Relative to the control arm.
 
 ## BO17707 (ICON7)
 
@@ -1217,9 +1206,9 @@ The majority of patients included in the study were White (96%), the median age 
 
 The primary endpoint was PFS as assessed by the investigator using RECIST.
 
-<div style=\"page-break-after: always\"></div>
-
 The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (carboplatin and paclitaxel) alone in the front-line setting, patients who received bevacizumab at a dose of 7.5 mg/kg q3w in combination with chemotherapy and continued to receive bevacizumab for up to 18 cycles had a statistically significant improvement in PFS.
+
+<div style=\"page-break-after: always\"></div>
 
 The results of this study are summarised in Table 18.
 
@@ -1240,7 +1229,7 @@ The primary analysis of investigator-assessed PFS with a data cut-off date of 28
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 19. These results demonstrate robustness of the primary analysis of PFS as shown in Table 18.
 
-Table 19: PFS 1  results by disease stage and debulking status from study BO17707 (ICON7)
+Table 19: PFS 1 results by disease stage and debulking status from study BO17707 (ICON7)
 
 | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       | Randomised patients stage III optimally debulked disease 2,3       |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -1257,8 +1246,6 @@ Table 19: PFS 1  results by disease stage and debulking status from study BO1770
 | Hazard ratio (95% CI) 4                                            |                                                                    | 0.74 (0.55, 1.01)                                                  |
 
 <div style=\"page-break-after: always\"></div>
-
-## 4 Relative to the control arm.
 
 ## Recurrent ovarian cancer
 
@@ -1287,42 +1274,42 @@ The results of this study are summarised in Table 20.
 
 Table 20: Efficacy results from study AVF4095g
 
-| Progression-free survival    | Progression-free survival   | Progression-free survival   | Progression-free survival   | Progression-free survival   |
-|------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-|                              | Investigator Assessment     | Investigator Assessment     | IRC Assessment              | IRC Assessment              |
-|                              | Placebo+ C/G (n=242)        | Bevacizumab+ C/G (n=242)    | Placebo+ C/G (n=242)        | Bevacizumab+ C/G (n=242)    |
-| Not censored for NPT         | Not censored for NPT        | Not censored for NPT        | Not censored for NPT        | Not censored for NPT        |
-| Median PFS (months)          | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
-| Hazard ratio (95% CI)        | 0.524 (0.425, 0.645)        | 0.524 (0.425, 0.645)        | 0.480 (0.377, 0.613)        | 0.480 (0.377, 0.613)        |
-| p -value                     | <0.0001                     | <0.0001                     | <0.0001                     | <0.0001                     |
-| Censored for NPT             | Censored for NPT            | Censored for NPT            | Censored for NPT            | Censored for NPT            |
-| Median PFS (months)          | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
-| Hazard ratio (95% CI)        | 0.484 (0.388, 0.605)        | 0.484 (0.388, 0.605)        | 0.451 (0.351, 0.580)        | 0.451 (0.351, 0.580)        |
-| p -value                     | < 0.0001                    | < 0.0001                    | <0.0001                     | <0.0001                     |
-| Objective response rate      | Objective response rate     | Objective response rate     | Objective response rate     | Objective response rate     |
-|                              | Investigator Assessment     | Investigator Assessment     | IRC Assessment              | IRC Assessment              |
-|                              | Placebo+ C/G (n = 242)      | Bevacizumab+ C/G (n = 242)  | Placebo+ C/G (n = 242)      | Bevacizumab+ C/G (n = 242)  |
-| %pts with objective response | 57.4%                       | 78.5%                       | 53.7%                       | 74.8%                       |
-| p -value                     | < 0.0001                    | < 0.0001                    | < 0.0001                    | < 0.0001                    |
-| Overall survival             | Overall survival            | Overall survival            | Overall survival            | Overall survival            |
-|                              | Placebo+ C/G (n = 242)      | Placebo+ C/G (n = 242)      | Bevacizumab+C/G (n = 242)   | Bevacizumab+C/G (n = 242)   |
-| Median OS (months)           | 32.9                        | 32.9                        | 33.6                        | 33.6                        |
-| Hazard ratio (95% CI)        | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        |
-| p-value                      | 0.6479                      | 0.6479                      | 0.6479                      | 0.6479                      |
+| Progression-free survival     | Progression-free survival   | Progression-free survival   | Progression-free survival   | Progression-free survival   |
+|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|                               | Investigator Assessment     | Investigator Assessment     | IRC Assessment              | IRC Assessment              |
+|                               | Placebo+ C/G (n=242)        | Bevacizumab + C/G (n=242)   | Placebo+ C/G (n=242)        | Bevacizumab + C/G (n=242)   |
+| Not censored for NPT          | Not censored for NPT        | Not censored for NPT        | Not censored for NPT        | Not censored for NPT        |
+| Median PFS (months)           | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
+| Hazard ratio (95% CI)         | 0.524 (0.425, 0.645)        | 0.524 (0.425, 0.645)        | 0.480 (0.377, 0.613)        | 0.480 (0.377, 0.613)        |
+| p -value                      | <0.0001                     | <0.0001                     | <0.0001                     | <0.0001                     |
+| Censored for NPT              | Censored for NPT            | Censored for NPT            | Censored for NPT            | Censored for NPT            |
+| Median PFS (months)           | 8.4                         | 12.4                        | 8.6                         | 12.3                        |
+| Hazard ratio (95% CI)         | 0.484 (0.388, 0.605)        | 0.484 (0.388, 0.605)        | 0.451 (0.351, 0.580)        | 0.451 (0.351, 0.580)        |
+| p -value                      | < 0.0001                    | < 0.0001                    | <0.0001                     | <0.0001                     |
+| Objective response rate       | Objective response rate     | Objective response rate     | Objective response rate     | Objective response rate     |
+|                               | Investigator Assessment     | Investigator Assessment     | IRC Assessment              | IRC Assessment              |
+|                               | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) |
+| % pts with objective response | 57.4%                       | 78.5%                       | 53.7%                       | 74.8%                       |
+| p -value                      | < 0.0001                    | < 0.0001                    | < 0.0001                    | < 0.0001                    |
+| Overall survival              | Overall survival            | Overall survival            | Overall survival            | Overall survival            |
+|                               | Placebo+ C/G (n = 242)      | Placebo+ C/G (n = 242)      | Bevacizumab + C/G (n = 242) | Bevacizumab + C/G (n = 242) |
+| Median OS (months)            | 32.9                        | 32.9                        | 33.6                        | 33.6                        |
+| Hazard ratio (95% CI)         | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        | 0.952 (0.771, 1.176)        |
+| p-value                       | 0.6479                      | 0.6479                      | 0.6479                      | 0.6479                      |
 
 PFS subgroup analyses depending on recurrence since last platinum therapy are summarised in Table 21.
 
 Table 21: Progression-free survival by time from last platinum therapy to recurrence
 
-| Investigator Assessment                       | Investigator Assessment   | Investigator Assessment   |
-|-----------------------------------------------|---------------------------|---------------------------|
-| Time from last platinum therapy to recurrence | Placebo+C/G (n = 242)     | Bevacizumab+C/G (n = 242) |
-| 6 - 12 months (n=202)                         | 6 - 12 months (n=202)     | 6 - 12 months (n=202)     |
-| Median                                        | 8.0                       | 11.9                      |
-| Hazard ratio (95% CI)                         | 0.41 (0.29 - 0.58)        |                           |
-| > 12 months (n=282)                           | > 12 months (n=282)       | > 12 months (n=282)       |
-| Median                                        | 9.7                       | 12.4                      |
-| Hazard ratio (95% CI)                         | 0.55 (0.41 - 0.73)        |                           |
+| Investigator Assessment                       | Investigator Assessment   | Investigator Assessment     |
+|-----------------------------------------------|---------------------------|-----------------------------|
+| Time from last platinum therapy to recurrence | Placebo + C/G (n = 242)   | Bevacizumab + C/G (n = 242) |
+| 6 - 12 months (n=202)                         | 6 - 12 months (n=202)     | 6 - 12 months (n=202)       |
+| Median                                        | 8.0                       | 11.9                        |
+| Hazard ratio (95% CI)                         | 0.41 (0.29 - 0.58)        |                             |
+| > 12 months (n=282)                           | > 12 months (n=282)       | > 12 months (n=282)         |
+| Median                                        | 9.7                       | 12.4                        |
+| Hazard ratio (95% CI)                         | 0.55 (0.41 - 0.73)        |                             |
 
 ## GOG-0213
 
@@ -1331,10 +1318,11 @@ GOG-0213, a phase III randomized controlled open label trial, studied the safety
 A total of 673 patients were randomized in equal proportions to the following two treatment arms:
 
 - CP arm: Carboplatin (AUC5) and paclitaxel (175 mg/m2 intravenous) every 3 weeks for 6 and up to 8 cycles.
+- CPB arm: Carboplatin (AUC5) and paclitaxel (175 mg/m2 intravenous) and concurrent
 
 <div style=\"page-break-after: always\"></div>
 
-- CPB arm: Carboplatin (AUC5) and paclitaxel (175 mg/m2 intravenous) and concurrent bevacizumab (15 mg/kg) every 3 weeks for 6 and up to 8 cycles, followed by bevacizumab (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity.
+bevacizumab (15 mg/kg) every 3 weeks for 6 and up to 8 cycles, followed by bevacizumab (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity.
 
 Most patients in both the CP arm (80.4%) and the CPB arm (78.9%) were White. The median age was 60.0 years in the CP arm and 59.0 years in the CPB arm. The majority of patients (CP: 64.6%; CPB: 68.8%) were in the age category &lt; 65 years. At baseline, most patients in both treatment arms had a GOG PS of 0 (CP: 82.4%: CPB; 80.7%) or 1 (CP: 16.7%: CPB; 18.1%). A GOG PS of 2 at baseline was reported in 0.9% of patients in the CP arm and in 1.2% of patients in the CPB arm.
 
@@ -1344,17 +1332,19 @@ Table 22: Efficacy results 1,2  from study GOG-0213
 
 | Primary Endpoint                            | Primary Endpoint         | Primary Endpoint         |
 |---------------------------------------------|--------------------------|--------------------------|
-| Overall survival (OS)                       | CP(n=336)                | CPB (n=337)              |
+| Overall survival (OS)                       | CP (n=336)               | CPB (n=337)              |
 | Median OS (months)                          | 37.3                     | 42.6                     |
 | Hazard ratio (95% CI) (eCRF) a              | 0.823 (CI: 0.680, 0.996) | 0.823 (CI: 0.680, 0.996) |
 | p-Value                                     | 0.0447                   | 0.0447                   |
 | Hazard ratio (95% CI) (registration form) b | 0.838 (CI: 0.693, 1.014) | 0.838 (CI: 0.693, 1.014) |
 | p-Value                                     | 0.0683                   | 0.0683                   |
-| Secondary endpoint                          | Secondary endpoint       | Secondary endpoint       |
-| Progression-free survival (PFS)             | CP(n=336)                | CPB (n=337)              |
+| Secondary endpoint                          |                          |                          |
+| Progression-free survival (PFS)             | CP (n=336)               | CPB (n=337)              |
 | Median PFS (months)                         | 10.2                     | 13.8                     |
 | Hazard ratio (95% CI)                       | 0.613 (CI: 0.521, 0.721) | 0.613 (CI: 0.521, 0.721) |
 | p-value                                     | <0.0001                  | <0.0001                  |
+
+1 Final Analysis. 2 Tumour assessments and response evaluations were determined by the investigators using the GOG RECIST criteria (Revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45:228Y247).
 
 a Hazard ratio was estimated from Cox proportional hazards models stratified by the duration of platinum free-interval prior to enrolling onto this study per eCRF (electronic case report form) and secondary surgical debulking status Yes/No (Yes=randomized to undergo cytoreduction or randomized to not undergo cytoreduction; No= not a candidate or did not consent to cytoreduction). b stratified by the duration of treatment free-interval prior to enrolling onto this study per the registration form, and secondary surgical debulking status Yes/No.
 
@@ -1368,10 +1358,12 @@ A total of 361 patients were enrolled into this study and administered either ch
 
 - CT Arm (chemotherapy alone):
 - Paclitaxel 80 mg/m2 as a 1-hour IV infusion on Days 1, 8, 15, and 22 every 4 weeks.
+- Topotecan 4 mg/m2 as a 30-minute IV infusion on Days 1, 8, and 15 every 4 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
-- Topotecan 4 mg/m2 as a 30-minute IV infusion on Days 1, 8, and 15 every 4 weeks. Alternatively, a 1.25 mg/m2 dose could be administered over 30 minutes on Days 1-5 every 3 weeks.
+Alternatively, a 1.25 mg/m2 dose could be administered over 30 minutes on Days 1-5 every 3 weeks.
+
 - PLD 40 mg/m2 as a 1 mg/min IV infusion on Day 1 only every 4 weeks. After Cycle 1, the drug could be delivered as a 1-hour infusion.
 - CT+BV Arm (chemotherapy plus bevacizumab):
 - The chosen chemotherapy was combined with bevacizumab 10 mg/kg IV every 2 weeks (or bevacizumab 15 mg/kg every 3 weeks if used in combination with topotecan 1.25 mg/m2 on Days 1-5 every 3 weeks).
@@ -1385,26 +1377,24 @@ Table 23: Efficacy results from study MO22224
 | Primary endpoint                     | Primary endpoint     | Primary endpoint     |
 |--------------------------------------|----------------------|----------------------|
 | Progression-free survival*           |                      |                      |
-|                                      | CT(n=182)            | CT+BV (n=179)        |
+|                                      | CT (n=182)           | CT+BV (n=179)        |
 | Median (months)                      | 3.4                  | 6.7                  |
 | Hazard ratio (95% CI)                | 0.379 (0.296, 0.485) | 0.379 (0.296, 0.485) |
 | p-value                              | <0.0001              | <0.0001              |
 | Secondary endpoints                  | Secondary endpoints  | Secondary endpoints  |
 | Objective response rate**            |                      |                      |
-|                                      | CT(n=144)            | CT+BV (n=142)        |
-| %patients with objective response    | 18 (12.5%)           | 40 (28.2%)           |
+|                                      | CT (n=144)           | CT+BV (n=142)        |
+| % patients with objective response   | 18 (12.5%)           | 40 (28.2%)           |
 | p -value                             | 0.0007               | 0.0007               |
 | Overall survival (final analysis)*** |                      |                      |
-|                                      | CT(n=182)            | CT+BV (n=179)        |
+|                                      | CT (n=182)           | CT+BV (n=179)        |
 | Median OS (months)                   | 13.3                 | 16.6                 |
 | Hazard ratio (95% CI)                | 0.870 (0.678, 1.116) | 0.870 (0.678, 1.116) |
 | p-value                              | 0.2711               | 0.2711               |
 
-The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m 2 topotecan on Days 1-5 every 3 weeks) in combination with
+The trial met its primary objective of PFS improvement. Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m 2 topotecan on Days 1-5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS. The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 24.
 
 <div style=\"page-break-after: always\"></div>
-
-chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS. The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 24.
 
 Table 24: Exploratory PFS and OS analyses by chemotherapy cohort
 
@@ -1445,9 +1435,11 @@ A total of 452 patients were randomised to receive either:
 
 Eligible patients had persistent, recurrent or metastatic squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix which was not amenable to curative treatment with surgery and/or radiation therapy and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor-targeted agents.
 
+The median age was 46.0 years (range: 20-83) in the chemo alone group and 48.0 years (range:
+
 <div style=\"page-break-after: always\"></div>
 
-The median age was 46.0 years (range: 20-83) in the chemo alone group and 48.0 years (range: 22-85) in the chemo+bevacizumab group; with 9.3% of patients in the chemo alone group and 7.5% of patients in the chemo+bevacizumab group over the age of 65 years.
+22-85) in the chemo+bevacizumab group; with 9.3% of patients in the chemo alone group and 7.5% of patients in the chemo+bevacizumab group over the age of 65 years.
 
 Of the 452 patients randomized at baseline, the majority of patients were white (80.0% in the chemo alone group and 75.3% in the chemo+bevacizumab group), had squamous cell carcinoma (67.1% in the chemo alone group and 69.6% in the chemo+bevacizumab group), had persistent/recurrent disease (83.6% in the chemo alone group and 82.8% in the chemo+bevacizumab group), had 1-2 metastatic sites (72.0% in the chemo alone group and 76.2% in the chemo+bevacizumab group), had lymph node involvement (50.2% in the chemo alone group and 56.4% in the chemo+bevacizumab group), and had a platinum free interval ≥ 6 months (72.5% in the chemo alone group and 64.4% in the chemo+bevacizumab group).
 
@@ -1503,11 +1495,9 @@ Anti-tumour activity was not observed in two earlier studies among a total of 30
 
 In a randomized phase II study (BO25041) a total of 121 patients aged ≥ 3 years to &lt;18 years with newly diagnosed supratentorial or infratentorial cerebellar or peduncular high-grade glioma (HGG) were treated with post-operative radiation therapy (RT) and adjuvant temozolomide (T) with and without bevacizumab: 10 mg/kg every 2 weeks intravenous.
 
-The study did not meet its primary endpoint of demonstrating a significant improvement of EFS (Central Radiology Review Committee (CRRC)-assessed) when bevacizumab was added to the RT/T arm compared with RT/T alone (HR = 1.44; 95% CI: 0.90, 2.30). These results were consistent with those from various sensitivity analyses and in clinically relevant subgroups. The results for all
+The study did not meet its primary endpoint of demonstrating a significant improvement of EFS (Central Radiology Review Committee (CRRC)-assessed) when bevacizumab was added to the RT/T arm compared with RT/T alone (HR = 1.44; 95% CI: 0.90, 2.30). These results were consistent with those from various sensitivity analyses and in clinically relevant subgroups. The results for all secondary endpoints (investigator assessed EFS, and ORR and OS) were consistent in showing no improvement associated with the addition of bevacizumab to the RT/T arm compared with the RT/T arm alone.
 
 <div style=\"page-break-after: always\"></div>
-
-secondary endpoints (investigator assessed EFS, and ORR and OS) were consistent in showing no improvement associated with the addition of bevacizumab to the RT/T arm compared with the RT/T arm alone.
 
 Addition of bevacizumab to RT/T did not demonstrate clinical benefit in study BO25041 in 60 evaluable children patients with newly diagnosed supratentorial or infratentorial cerebellar or peduncular high-grade glioma (HGG) (see section 4.2 for information on paediatric use).
 
@@ -1531,13 +1521,11 @@ The typical value for central volume (Vc) was 2.73 L and 3.28 L for female and m
 
 Assessment of bevacizumab metabolism in rabbits following a single intravenous dose of 125 Ibevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF. The metabolism and elimination of bevacizumab is similar to endogenous IgG i.e. primarily via proteolytic catabolism throughout the body, including endothelial cells, and does not rely primarily on elimination through the kidneys and liver. Binding of the IgG to the FcRn receptor results in protection from cellular metabolism and the long terminal half-life.
 
-## Elimination
-
-The value for clearance is, on average, equal to 0.188 and 0.220 L/day for female and male patients,
-
 <div style=\"page-break-after: always\"></div>
 
-respectively. After correcting for body weight, male patients had a higher bevacizumab clearance (+ 17%) than females. According to the two-compartmental model, the elimination half-life is 18 days for a typical female patient and 20 days for a typical male patient.
+## Elimination
+
+The value for clearance is, on average, equal to 0.188 and 0.220 L/day for female and male patients, respectively. After correcting for body weight, male patients had a higher bevacizumab clearance (+ 17%) than females. According to the two-compartmental model, the elimination half-life is 18 days for a typical female patient and 20 days for a typical male patient.
 
 Low albumin and high tumour burden are generally indicative of disease severity. Bevacizumab clearance was approximately 30% faster in patients with low levels of serum albumin and 7% faster in subjects with higher tumour burden when compared with a typical patient with median values of albumin and tumour burden.
 
@@ -1557,7 +1545,7 @@ No trials have been conducted to investigate the pharmacokinetics of bevacizumab
 
 The pharmacokinetics of bevacizumab were evaluated in 152 children, adolescents and young adults (7 months to 21 years, 5.9 to 125 kg) across 4 clinical studies using a population pharmacokinetic model. The pharmacokinetic results show that the clearance and volume of distribution of bevacizumab were comparable between paediatric and young adult patients when normalised by body weight, with exposure trending lower as body weight decreased. Age was not associated with the pharmacokinetics of bevacizumab when body weight was taken into account.
 
-The pharmacokinetics of bevacizumab was well characterized by the paediatric population PK model for 70 patients in Study BO20924 ((1.4 to 17.6 years; 11.6 to 77.5 kg) and 59 patients in Study BO25041 (1 to 17 years; 11.2 to 82.3 kg). In Study BO20924, bevacizumab exposure was generally lower compared to a typical adult patient at the same dose. In Study BO25041, bevacizumab exposure was similar compared to a typical adult at the same dose. In both studies, bevacizumb exposure trended lower as body weight decreased.
+The pharmacokinetics of bevacizumab was well characterized by the paediatric population PK model for 70 patients in Study BO20924 ((1.4 to 17.6 years; 11.6 to 77.5 kg) and 59 patients in Study BO25041 (1 to 17 years; 11.2 to 82.3 kg). In Study BO20924, bev acizumab exposure was generally lower compared to a typical adult patient at the same dose. In Study BO25041, bevacizumab exposure was similar compared to a typical adult at the same dose. In both studies, bevacizumb exposure trended lower as body weight decreased.
 
 ## 5.3 Preclinical safety data
 
@@ -1567,11 +1555,9 @@ Studies to evaluate the mutagenic and carcinogenic potential of bevacizumab have
 
 No specific studies in animals have been conducted to evaluate the effect on fertility. An adverse effect on female fertility can however be expected as repeat dose toxicity studies in animals have shown inhibition of the maturation of ovarian follicles and a decrease/absence of corpora lutea and associated decrease in ovarian and uterus weight as well as a decrease in the number of menstrual cycles.
 
-Bevacizumab has been shown to be embryotoxic and teratogenic when administered to rabbits. Observed effects included decreases in maternal and foetal body weights, an increased number of foetal resorptions and an increased incidence of specific gross and skeletal foetal malformations. Adverse foetal outcomes were observed at all tested doses, of which the lowest dose resulted in
-
 <div style=\"page-break-after: always\"></div>
 
-average serum concentrations approximately 3 times larger than in humans receiving 5 mg/kg every 2 weeks. Information on foetal malformations observed in the post marketing setting are provided in section 4.6 Fertility, Pregnancy and Lactation and 4.8 Undesirable Effects.
+Bevacizumab has been shown to be embryotoxic and teratogenic when administered to rabbits. Observed effects included decreases in maternal and foetal body weights, an increased number of foetal resorptions and an increased incidence of specific gross and skeletal foetal malformations. Adverse foetal outcomes were observed at all tested doses, of which the lowest dose resulted in average serum concentrations approximately 3 times larger than in humans receiving 5 mg/kg every 2 weeks. Information on foetal malformations observed in the post marketing setting are provided in section 4.6 Fertility, Pregnancy and Lactation and 4.8 Undesirable Effects.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1603,6 +1589,8 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 16 mL concentrate in a vial (Type I clear glass) plugged with 20 mm flurotec coated, chlorobutyl stopper and sealed with aluminium seal with a plastic flip-off cap, containing 400 mg of bevacizumab. Vials are packed in cartons containing 1, 2 or 3 vials.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
@@ -1610,8 +1598,6 @@ Not all pack sizes may be marketed.
 Do not shake the vial.
 
 Abevmy should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared solution. A sterile needle and syringe should be used to prepare Abevmy.
-
-<div style=\"page-break-after: always\"></div>
 
 The necessary amount of bevacizumab should be withdrawn and diluted to the required administration volume with sodium chloride 9 mg/mL (0.9%) solution for injection. The concentration of the final bevacizumab solution should be kept within the range of 1.4 mg/mL to 16.5 mg/mL. In the majority of the occasions the necessary amount of Abevmy can be diluted with 0.9 % sodium chloride solution for injection to a total volume of 100 mL.
 
@@ -1625,7 +1611,7 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13R20R
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1633,20 +1619,21 @@ EU/1/20/1515/001 EU/1/20/1515/002 EU/1/20/1515/003 EU/1/20/1515/004 EU/1/20/1515
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 21 April 2021 Date of last renewal:
+Date of first authorisation: 21 April 2021 Date of last renewal: 08 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA): https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA): http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND
+
+## MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE
+
+## D. AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1659,8 +1646,6 @@ Biocon Biologics Limited Block No. B1, B2, B3, Q13 of Q1 and W20 &amp; Unit S18,
 Name and address of the manufacturers responsible for batch release
 
 Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1715,7 +1700,9 @@ Sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432), wa
 
 ## Concentrate for solution for infusion
 
-1 vial of 4 mL 5 vials of 4 mL
+1 vial of 4 mL
+
+5 vials of 4 mL
 
 100 mg/4 mL
 
@@ -1733,131 +1720,33 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Biosimilar Collaborations Ireland Limited
-
-Unit 35/36 Grange Parade,
-
-Baldoyle Industrial Estate,
-
-Dublin 13 DUBLIN
-
-Ireland
-
-D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13R20R
 
 EU/1/20/1515/001 - 1 vial
 
 EU/1/20/1515/002 - 5 vials
 
-## 13. BATCH NUMBER
-
 Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 2D barcode carrying the unique identifier included.
+
+PC
+
+SN
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
-
-## PC SN NN
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-2. METHOD OF ADMINISTRATION
-
-3. EXPIRY DATE
-
-4. BATCH NUMBER
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-6. OTHER
-
-Abevmy 25 mg/mL sterile concentrate bevacizumab
-
-For IV use after dilution
-
-EXP
-
-Lot
-
-100 mg/4 mL
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Abevmy 25 mg/mL concentrate for solution for infusion bevacizumab
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 400 mg bevacizumab.
-
-## 3. LIST OF EXCIPIENTS
-
-Sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432), water for injections.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Concentrate for solution for infusion
-
-- 1 vial of 16 mL
-- 2 vials of 16 mL
-- 3 vials of 16 mL 400 mg/16 mL
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-For intravenous use after dilution. Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-Store in a refrigerator. Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1869,9 +1758,94 @@ Keep the vial in the outer carton in order to protect from light.
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+NN
+
+Abevmy 25 mg/mL sterile concentrate bevacizumab For IV use after dilution
+
+EXP
+
+Lot
+
+100 mg/4 mL
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+4. BATCH NUMBER
+
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| 6.   | OTHER   |
+|------|---------|
+
+Abevmy 25 mg/mL concentrate for solution for infusion bevacizumab
+
+Each vial contains 400 mg bevacizumab.
+
+Sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432), water for injections.
+
+Concentrate for solution for infusion
+
+- 1 vial of 16 mL
+
+- 2 vials of 16 mL
+
+- 3 vials of 16 mL
+
+400 mg/16 mL
+
+For intravenous use after dilution. Read the package leaflet before use.
+
+Keep out of the sight and reach of children.
+
+EXP
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+Store in a refrigerator. Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Biosimilar Collaborations Ireland Limited
 
@@ -1879,11 +1853,13 @@ Unit 35/36 Grange Parade,
 
 Baldoyle Industrial Estate,
 
-Dublin 13 DUBLIN
+Dublin 13
 
-Ireland
+DUBLIN
 
-D13 R20R
+Ireland D13R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1515/003 - 1 vial
 
@@ -1891,15 +1867,27 @@ EU/1/20/1515/004 - 2 vials
 
 EU/1/20/1515/005 - 3 vials
 
+## 13. BATCH NUMBER
+
 Lot
 
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
 Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1907,28 +1895,27 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Abevmy 25 mg/mL sterile concentrate bevacizumab For IV use after dilution
 
-2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 400 mg/16 mL
 
@@ -1937,13 +1924,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
-## Abevmy 25 mg/mL concentrate for solution for infusion bevacizumab
+## Abevmy 25 mg/mL concentrate for solution for infusion
+
+## bevacizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1978,9 +1967,9 @@ Abevmy is also used for treatment of adult patients with advanced kidney cancer.
 
 Abevmy is also used for the treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. When used for patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer, it will be administered in combination with carboplatin and paclitaxel.
 
-<div style=\"page-break-after: always\"></div>
-
 When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back at least 6 months after the last time they were treated with a chemotherapy regimen containing a platinum agent, Abevmy will be administered in combination with carboplatin and gemcitabine or with carboplatin and paclitaxel.
+
+<div style=\"page-break-after: always\"></div>
 
 When used for those adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer whose disease has come back before 6 months after the last time they were treated with a chemotherapy regimen containing a platinum agent, Abevmy will be administered in combination with paclitaxel, or topotecan, or pegylated liposomal doxorubicin.
 
@@ -2008,13 +1997,13 @@ Talk to your doctor, pharmacist or nurse before you are given Abevmy:
 - The risk of developing blood clots in your arteries (a type of blood vessel) can increase if you are over 65 years old, if you have diabetes, or if you have had previous blood clots in your arteries. Please talk to your doctor since blood clots can lead to heart attack and stroke.
 - Abevmy can also increase the risk of developing blood clots in your veins (a type of blood vessel).
 - This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines to thin the blood for any reason.
-- It is possible that Abevmy may cause bleeding in and around your brain. Please discuss this
+- It is possible that Abevmy may cause bleeding in and around your brain. Please discuss this with your doctor if you have metastatic cancer affecting your brain.
+- It is possible that Abevmy can increase the risk of bleeding in your lungs, including coughing or
 
 <div style=\"page-break-after: always\"></div>
 
-with your doctor if you have metastatic cancer affecting your brain.
+spitting blood. Please discuss with your doctor if you noticed this previously.
 
-- It is possible that Abevmy can increase the risk of bleeding in your lungs, including coughing or spitting blood. Please discuss with your doctor if you noticed this previously.
 - Abevmy can increase the risk of developing a weak heart. It is important that your doctor knows if you have ever received anthracyclines (for example doxorubicin, a specific type of chemotherapy used to treat some cancers) or had radiotherapy to your chest, or if you have heart disease.
 - This medicine may cause infections and a decreased number of your neutrophils (a type of blood cell important for your protection against bacteria).
 - It is possible that Abevmy can cause hypersensitivity (including anaphylactic shock) and/or infusion reactions (reactions related to your injection of the medicine). Please let your doctor, pharmacist or nurse know if you have previously experienced problems after injections, such as dizziness/feeling of fainting, breathlessness, swelling or skin rash.
@@ -2050,19 +2039,21 @@ Tell your doctor straightaway if you are pregnant, become pregnant during treatm
 
 You must not breast-feed your baby during treatment with Abevmy and for at least 6 months after the last dose of Abevmy, as this medicine may interfere with the growth and development of your baby.
 
-<div style=\"page-break-after: always\"></div>
-
 Abevmy may impair female fertility. Please consult your doctor for more information. Ask your doctor, pharmacist or nurse for advice before taking any medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
 Abevmy has not been shown to reduce your ability to drive or to use any tools or machines. However, sleepiness and fainting have been reported with Abevmy use. If you experience symptoms that affect your vision or concentration, or your ability to react, do not drive and use machines until symptoms disappear.
 
-## Abevmy contains sodium.
+## Abevmy contains sodium and polysorbate 20
 
 This medicine contains 4.196 mg sodium (main component of cooking/table salt) in each 4 mL vial. This is equivalent to 0.21% of the recommended maximum daily dietary intake of sodium for an adult.
 
 This medicine contains 16.784 mg sodium (main component of cooking/table salt) in each 16 mL vial. This is equivalent to 0.84% of the recommended maximum daily dietary intake of sodium for an adult.
+
+This medicine contains 1.6 mg of polysorbate 20 in each 100 mg/4 ml vial and 6.4 mg in each 400 mg/16 ml vial which is equivalent to 0.4 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Abevmy is given
 
@@ -2093,13 +2084,11 @@ Abevmy is a concentrate for solution for infusion. Depending on the dose prescri
 - a blood clot in the blood vessels of your lungs,
 - any severe bleeding.
 
-## If too much Abevmy is given
-
-- you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist
-
 <div style=\"page-break-after: always\"></div>
 
-or nurse immediately.
+## If too much Abevmy is given
+
+- you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist or nurse immediately.
 
 ## If a dose of Abevmy is missed
 
@@ -2148,10 +2137,10 @@ Severe side effects, which may be very common (may affect more than 1 in 10 peop
 - stomach and intestinal disorder,
 - muscle and joint pain, muscular weakness,
 - dry mouth in combination with thirst and/or reduced or darkened urine,
-- inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
 
 <div style=\"page-break-after: always\"></div>
 
+- inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
 - sores in the mouth and the tube from the mouth to the stomach, which may be painful and cause difficulty swallowing,
 - pain, including headache, back pain and pain in the pelvis and anal regions,
 - localised pus collection,
@@ -2189,11 +2178,10 @@ Severe side effects of Not known frequency (frequency cannot be estimated from t
 
 Very common (may affect more than 1 in 10 people) side effects, which were not severe, include:
 
-- constipation,
-- loss of appetite,
-
 <div style=\"page-break-after: always\"></div>
 
+- constipation,
+- loss of appetite,
 - fever,
 - problems with the eyes (including increased production of tears),
 - changes in speech,
@@ -2217,15 +2205,13 @@ Patients older than 65 years have an increased risk of experiencing the followin
 - fatigue,
 - high blood pressure.
 
-Abevmy may also cause changes in laboratory tests carried out by your doctor. These include a decreased number of white cells in the blood, in particular neutrophils (one type of white blood cell which helps protect against infections) in the blood; presence of protein in the urine; decreased blood potassium, sodium or phosphorous (a mineral); increased blood sugar; increased blood alkaline phosphatase (an enzyme); increased serum creatinine (a protein measured by a blood test to see how well your kidneys are working); decreased haemoglobin (found in red blood cells, which carry oxygen), which may be severe.
+Abevmy may also cause changes in laboratory tests carried out by your doctor. These include a decreased number of white cells in the blood, in particular neutrophils (one type of white blood cell which helps protect against infections) in the blood; presence of protein in the urine; decreased blood potassium, sodium or phosphorous (a mineral); increased blood sugar; increased blood alkaline phosphatase (an enzyme); increased serum creatinine (a protein measured by a blood test to see how well your kidneys are working); decreased haemoglobin (fo und in red blood cells, which carry oxygen), which may be severe.
 
 Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs and symptoms of bone damage in the jaw (osteonecrosis). Tell your doctor and dentist immediately if you experience any of them.
 
 Pre-menopausal women (women who have a menstrual cycle) may notice that their periods become irregular or are missed and may experience impaired fertility. If you are considering having children you should discuss this with your doctor before your treatment starts.
 
-Abevmy has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way.
-
-When Abevmy is injected directly into the eye (unapproved use), the following side effects may occur:
+Abevmy has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way. When Abevmy is injected directly into the eye (unapproved use), the following side effects may occur:
 
 - Infection or inflammation of the eye globe,
 - Redness of the eye, small particles or spots in your vision (floaters), eye pain,
@@ -2237,11 +2223,11 @@ When Abevmy is injected directly into the eye (unapproved use), the following si
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Abevmy
 
 Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after the abbreviation EXP. The expiry date refers to the last day of that month.
 
@@ -2259,8 +2245,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is bevacizumab. Each mL of concentrate contains 25 mg of bevacizumab, corresponding to 1.4 to 16.5 mg/mL when diluted as recommended.
 - Each 4 mL vial contains 100 mg of bevacizumab, corresponding to 1.4 mg/mL when diluted as recommended.
-- Each 16 mL vial contains 400 mg of bevacizumab, corresponding to 16.5 mg/mL when diluted as recommended.
-- The other ingredients are sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432) and water for injections. See section 2 'Abevmy contains sodium'.
+
+Each 16 mL vial contains 400 mg of bevacizumab, corresponding to 16.5 mg/mL when diluted as recommended.
+
+- The other ingredients are sodium phosphate (E339), α, α - trehalose dihydrate, polysorbate 20 (E432) and water for injections. See section 2 'Abevmy contains sodium and polysorbate 20'.
 
 ## What Abevmy looks like and contents of the pack
 
@@ -2274,17 +2262,9 @@ Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Ind
 
 ## Manufacturers
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
-Block B, The Crescent Building, Santry Demesne
-
-Dublin
-
-D09 C6X8
-
-Ireland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2294,7 +2274,7 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited Тел : 0080008250910
 
 ## Česká republika
 
@@ -2314,7 +2294,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -2342,7 +2322,7 @@ Biocon Biologics Spain S.L . Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
+Biosimilar Collaborations Ireland Limited
 
 ## Lietuva
 
@@ -2350,7 +2330,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -2362,7 +2342,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
@@ -2394,24 +2374,26 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Suomi/Finland
 
-## Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
+Biocon Biologics Finland OY Puh/Tel: 99980008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY Tel: 0080008250910
+Biocon Biologics Finland OY
+
+Τηλ
+
+: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu

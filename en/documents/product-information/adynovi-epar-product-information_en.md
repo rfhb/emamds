@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-10-31 11:13:39
-document_pages: 144
+document_datetime: 2026-07-09 13:58:45
+document_pages: 146
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adynovi-epar-product-information_en.pdf
 document_name: adynovi-epar-product-information_en.pdf
 version: success
-processing_time: 33.9031628
-conversion_datetime: 2025-12-17 09:12:03.881712
+processing_time: 33.8949776
+conversion_datetime: 2026-07-10 23:00:16.230288
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection
-
-ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection
+ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection
 
 ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection
 
@@ -56,13 +54,13 @@ Each vial contains nominally 2 000 IU human coagulation factor VIII (rDNA), ruri
 
 Each vial contains nominally 3 000 IU human coagulation factor VIII (rDNA), rurioctocog alfa pegol, corresponding to a concentration of 600 IU/ml after reconstitution with 5 ml solvent.
 
-The potency (International Units) is determined using the chromogenic assay. The specific activity of ADYNOVI is approximately 3 800-6 000 IU/mg protein.
+The potency (International Units) is determined using the European Pharmacopoeia chromogenic assay. The specific activity of ADYNOVI is approximately 3 800-6 000 IU/mg protein.
 
-Rurioctocog alfa pegol (PEGylated human coagulation factor VIII (rDNA)) is a protein that has 2 332 amino acids with a molecular weight of approximately 280 kDa, conjugated with a 20 kDa polyethylene glycol (PEG). It is produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
+Rurioctocog alfa pegol [PEGylated human coagulation factor VIII (rDNA)] is a protein that has 2 332 amino acids with a molecular weight of approximately 280 kDa, conjugated with a 20 kDa polyethylene glycol (PEG). It is produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
 
-## Excipient(s) with known effect
+## Excipients with known effect
 
-Each powder vial contains 0.45 mmol (10 mg) sodium, see section 4.4.
+Each powder vial contains 0.45 mmol (10 mg) sodium and 0.5 mg of polysorbate 80 (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
@@ -84,10 +82,6 @@ Treatment and prophylaxis of bleeding in patients 12 years and above with haemop
 
 Treatment should be under the supervision of a physician experienced in the treatment of haemophilia.
 
-## Previously untreated patients
-
-The safety and efficacy of ADYNOVI in previously untreated patients have not yet been established. No data are available.
-
 ## Treatment monitoring
 
 During the course of treatment, appropriate determination of factor VIII levels is advised to guide the dose to be administered and the frequency of repeated infusions. Individual patients may vary in their response to factor VIII, demonstrating different half-lives and recoveries. Dose based on bodyweight may require adjustment in underweight or overweight patients. In the case of major surgical interventions in particular, precise monitoring of the substitution therapy by means of coagulation analysis (plasma factor VIII activity) is indispensable.
@@ -108,30 +102,30 @@ The calculation of the required dose of factor VIII is based on the empirical fi
 
 Required international units (IU) = body weight (kg) x desired factor VIII rise (%) x 0.5
 
-<div style=\"page-break-after: always\"></div>
-
 The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.
 
 In the case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period.
 
-The following Table 1 can be used to guide dosing in bleeding episodes and surgery:
+<div style=\"page-break-after: always\"></div>
+
+The following Table 1 can be used to guide dosing in bleeding episodes and surgery.
 
 Table 1: Guide for dosing in bleeding episodes and surgery
 
-| Degree of haemorrhage/type of surgical procedure                   | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
-|--------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
-| More extensive haemarthrosis, muscle bleeding or haematoma         | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
-| Life threatening haemorrhages.                                     | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
-| Surgery Minor Including tooth extraction. Major                    | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
+| Degree of haemorrhage/type of surgical procedure                                                                | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or haematoma. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. Repeat injections every 8 to 24 hours |
+| haemarthrosis,                                                                                                  | 30 - 60                                   | hours                                                                                                                                                                                                                                                                                     |
+| Life threatening haemorrhages.                                                                                  | 60 - 100                                  | until threat is resolved.                                                                                                                                                                                                                                                                 |
+| Surgery Minor Including tooth extraction. Major                                                                 | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).                                                 |
 
 ## Prophylaxis
 
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency (see sections 5.1, 5.2).
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency (see sections 5.1 and 5.2).
 
 ## Paediatric population
 
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. Currently available data in patients below 12 years are described in sections 4.8, 5.1 and 5.2. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency (see sections 5.1, 5.2).
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. Currently available data in patients below 12 years are described in sections 4.8, 5.1 and 5.2. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency (see sections 5.1 and 5.2).
 
 ## Method of administration
 
@@ -139,9 +133,9 @@ On demand treatment dosing in paediatric patients (12 to 18 years of age) is the
 
 The rate of administration should be determined to ensure the comfort of the patient up to a maximum of 10 ml/min.
 
-<div style=\"page-break-after: always\"></div>
-
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -163,29 +157,31 @@ In case of shock, standard medical treatment for shock should be implemented.
 
 ## Inhibitors
 
-The formation of neutralising antibodies (inhibitors) to factor VIII is a known complication in the management of individuals with haemophilia A. These inhibitors are usually IgG immunoglobulins directed against the factor VIII pro-coagulant activity, which are quantified in Bethesda Units (BU) per ml of plasma using the modified assay. The risk of developing inhibitors is correlated to the severity of the disease as well as the exposure to factor VIII, this risk being highest within the first 50 exposure days but continues throughout life although the risk is uncommon.
+The formation of neutralising antibodies (inhibitors) to factor VIII is a known complication in the management of individuals with haemophilia A. These inhibitors are usually IgG immunoglobulins directed against the factor VIII pro-coagulant activity, which are quantified in Bethesda Units (BU) per ml of plasma using the modified assay. The risk of developing inhibitors is correlated to the severity of the disease as well as the exposure to factor VIII, this risk being highest within the first 50 exposure days (EDs) but continues throughout life although the risk is uncommon.
 
 The clinical relevance of inhibitor development will depend on the titre of the inhibitor, with low titre posing less of a risk of insufficient clinical response than high titre inhibitors.
 
 In general, all patients treated with coagulation factor VIII products should be carefully monitored for the development of inhibitors by appropriate clinical observations and laboratory tests. If the expected factor VIII activity plasma levels are not attained, or if bleeding is not controlled with an appropriate dose, testing for factor VIII inhibitor presence should be performed. In patients with high levels of inhibitor, factor VIII therapy may not be effective and other therapeutic options should be considered. Management of such patients should be directed by physicians with experience in the care of haemophilia and factor VIII inhibitors.
 
-## Immune tolerance induction (ITI)
-
-No clinical data for use of ADYNOVI in ITI are available.
-
 ## Cardiovascular events
 
 In patients with existing cardiovascular risk factors, substitution therapy with factor VIII may increase the cardiovascular risk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Catheter-related complications in treatment
 
 If a central venous access device (CVAD) is required, risk of CVAD-related complications including local infections, bacteraemia and catheter site thrombosis should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipient related considerations
 
-This medicinal product contains up to 12.42 mg sodium per vial, equivalent to 0.62% of the WHO recommended maximum daily intake of 2 g sodium for an adult. Depending on the body weight and posology, the patient could receive more than one vial. This should be taken into consideration by patients on a controlled sodium diet.
+## Sodium
+
+This medicinal product contains 10 mg sodium per vial, equivalent to 0.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult. Depending on the body weight and posology, the patient could receive more than one vial. This should be taken into consideration by patients on a controlled sodium diet.
+
+## Polysorbate 80
+
+This medicinal product contains 0.5 mg of polysorbate 80 per vial, equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions.
 
 It is strongly recommended that every time that ADYNOVI is administered to a patient, the name and batch number of the product are recorded in order to maintain a link between the patient and the batch of the medicinal product.
 
@@ -215,56 +211,57 @@ Development of neutralising antibodies (inhibitors) may occur in patients with h
 
 ## Tabulated list of adverse reactions
 
-The safety of ADYNOVI was evaluated in 365 previously treated patients with severe haemophilia A (factor VIII less than 1% of normal), who received at least one dose of ADYNOVI in 6 completed multi-centre, prospective, open label clinical trials and 1 ongoing clinical trial.
+The safety of ADYNOVI was evaluated in 478 unique patients with severe haemophilia A (factor VIII less than 1% of normal), of which 360 were previously-treated patients (PTPs) and 118 were previously-untreated patients (PUPs), who received at least one dose of ADYNOVI in 7 completed multi-centre, prospective, open label clinical trials.
 
 <div style=\"page-break-after: always\"></div>
 
 The table presented below is according to the MedDRA system organ classification (System Organ Class and Preferred Term Level).
 
-Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Frequencies have been evaluated according to the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2: Adverse reactions reported for ADYNOVI
 
-| MedDRA Standard System Organ Class             | Adverse reactions          | Frequency        |
-|------------------------------------------------|----------------------------|------------------|
-| Blood and lymphatic system disorders           | Factor VIII inhibition     | Uncommon (PTPs)* |
-| Immune system disorders                        | Hypersensitivity           | Uncommon         |
-| Immune system disorders                        | Anaphylactic reaction**    | Not known        |
-| Nervous system disorders                       | Headache                   | Very common      |
-| Nervous system disorders                       | Dizziness                  | Common           |
-| Eye disorders                                  | Ocular hyperaemia          | Uncommon         |
-| Vascular disorders                             | Flushing                   | Uncommon         |
-| Gastrointestinal disorders                     | Diarrhoea                  | Common           |
-| Gastrointestinal disorders                     | Nausea                     | Common           |
-| Skin and subcutaneous tissue disorders         | Rash                       | Common           |
-| Skin and subcutaneous tissue disorders         | Rash pruritic              | Uncommon         |
-| Skin and subcutaneous tissue disorders         | Urticaria                  | Common           |
-| Investigations                                 | Eosinophil count increased | Uncommon         |
-| Injury, poisoning and procedural complications | Infusion related reaction  | Uncommon         |
-
-* Frequency is based on studies with all FVIII products which included patients with severe haemophilia A. PTPs = previously-treated patients.
-
-Frequencies presented were calculated using all adverse events, related and unrelated.
-
-** Adverse reaction identified in post-marketing surveillance.
+| MedDRA Standard system organ class              | Adverse reactions          | Frequency                              |
+|-------------------------------------------------|----------------------------|----------------------------------------|
+| Blood and lymphatic system disorders            | Factor VIII inhibition     | Uncommon (PTPs) 1 Very common (PUPs) 1 |
+| Immune system disorders                         | Hypersensitivity           | Uncommon                               |
+| Immune system disorders                         | Anaphylactic reaction 2    | Not known                              |
+| Nervous system disorders                        | Headache                   | Common                                 |
+| Nervous system disorders                        | Dizziness                  | Common                                 |
+| Eye disorders                                   | Ocular hyperaemia          | Uncommon                               |
+| Vascular disorders                              | Flushing                   | Uncommon                               |
+| Gastrointestinal disorders                      | Diarrhoea                  | Common                                 |
+| Gastrointestinal disorders                      | Vomiting                   | Common                                 |
+| Gastrointestinal disorders                      | Nausea                     | Common                                 |
+| Respiratory, thoracic and mediastinal disorders | Cough                      | Very common                            |
+| Skin and subcutaneous tissue disorders          | Rash                       | Common                                 |
+| Skin and subcutaneous tissue disorders          | Rash pruritic              | Uncommon                               |
+| Skin and subcutaneous tissue disorders          | Urticaria                  | Common                                 |
+| Skin and subcutaneous tissue disorders          | Eyelid rash                | Uncommon                               |
+| Investigations                                  | Eosinophil count increased | Uncommon                               |
+| Injury, poisoning and procedural complications  | Infusion related reaction  | Uncommon                               |
 
 ## Description of selected adverse reactions
 
 ## Hypersensitivity
 
-The observed event of hypersensitivity was a mild transient non-serious rash, occurring in one 2-year-old patient who had developed a previous rash while on ADYNOVI.
-
-## Paediatric population
-
-Frequency, type and severity of adverse reactions in children are expected to be the same as in adults. The safety of ADYNOVI was evaluated in 38 subjects &lt; 6 years and 34 subjects 6 to &lt; 12 years of age having accumulated a total of 2 880 exposure days (EDs) and 2 975 EDs respectively. The mean (SD) age was 3.3 (1.55) and 8.1 (1.92) years respectively.
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Two events of hypersensitivity were observed. One event was a mild transient non-serious rash, occurring in a 2-year-old patient who had developed a previous rash while on ADYNOVI. The second event was a moderate transient, non-serious event of erythema, tachycardia, and coughing that occurred in a 9.6-month-old patient.
 
 <div style=\"page-break-after: always\"></div>
 
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V
+## Immunogenicity
+
+None of the subjects who participated in one or more of 6 completed clinical trials in PTPs developed persistent neutralizing (inhibitory) antibodies against factor VIII of ≥ 0.6 BU/ml (based on the Nijmegen modification of the Bethesda assay). One patient developed a transient factor VIII inhibitor at the lowest limit of positivity (0.6 BU) during personalized prophylaxis targeting a factor VIII level of 8-12%.
+
+## Paediatric population
+
+The use of ADYNOVI in children below 12 years is not indicated (see section 4.2 for information on paediatric use).
+
+Frequency, type and severity of adverse reactions in children are expected to be the same as in adults. The safety of ADYNOVI was evaluated in 38 subjects &lt; 6 years and 34 PTPs 6 to &lt; 12 years of age having accumulated a total of 2 880 EDs and 2 975 EDs respectively. The mean (SD) age was 3.3 (1.55) and 8.1 (1.92) years respectively.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -280,118 +277,124 @@ The factor VIII/von Willebrand factor complex consists of two molecules (factor 
 
 Rurioctocog alfa pegol, is a pegylated recombinant human factor VIII with an extended half-life. Rurioctocog alfa pegol is a covalent conjugate of octocog alfa consisting of 2 332 amino acids with polyethylene glycol (PEG) reagent (MW 20 kDa). The therapeutic activity of rurioctocog alfa pegol is derived from octocog alfa, which is produced by recombinant DNA technology from a Chinese hamster ovary cell line. Octocog alfa is then covalently conjugated with the PEG reagent. The PEG moiety is conjugated to octocog alfa to increase the plasma half-life.
 
-## Clinical efficacy and safety
-
-The safety, efficacy, and pharmacokinetics of ADYNOVI were evaluated in a pivotal multi-centre, open-label, prospective clinical trial that compared the efficacy of a twice weekly prophylactic treatment regimen to on-demand treatment and determined haemostatic efficacy in the treatment of bleeding episodes. A total of 137 male PTPs (12 to 65 years of age) with severe haemophilia A received at least one infusion with ADYNOVI. Twenty-five of the 137 subjects were adolescents (12 to less than 18 years of age).
-
-## Immunogenicity
-
-None of the subjects who participated in one or more of 6 completed clinical trials in previously treated patients (PTPs) developed persistent neutralizing (inhibitory) antibodies against FVIII of ≥ 0.6 BU/mL (based on the Nijmegen modification of the Bethesda assay). One patient developed a transient FVIII inhibitor at the lowest limit of positivity (0.6 BU) during personalized prophylaxis targeting a FVIII level of 8-12%.
-
-From an ongoing study in previously untreated patients &lt; 6 years with severe hemophilia A, preliminary reports on 9 cases of FVIII inhibitor development associated with treatment with ADYNOVI were received.
-
-## Prophylactic treatment
-
-Subjects received either prophylactic treatment (n = 120) with ADYNOVI at a dose of 40-50 IU per kg twice weekly or on-demand treatment (n = 17) with ADYNOVI at a dose of 10-60 IU per kg
-
 <div style=\"page-break-after: always\"></div>
 
-for a 6-month period. The median dosing interval was 3.6 days and the mean dose (SD) was 48.7 (4.4) IU/kg. One hundred eighteen of 120 (98%) prophylaxis subjects remained on the starting recommended regimen without dose adjustment, and 2 subjects increased their dose to 60 IU/kg during prophylaxis due to bleeding in target joints.
+## Clinical efficacy and safety
 
-In the per-protocol population, i.e. dosed according to the protocol specific dosing requirements, a total of 101 subjects received a twice a week regimen in the prophylaxis arm, and 17 subjects were treated episodically in the on-demand arm. The median annualised bleed rate (ABR) in the on-demand treatment arm was 41.5 compared to 1.9 while on a twice a week prophylaxis regimen. The median joint ABR (Q1 ; Q3) in the on-demand arm was 38.1 (24.5 ; 44.6) compared to 0.0 (0.0 ; 2.0) while on prophylaxis, and the median spontaneous ABR was 21.6 (11.2 ; 33.2) on the on-demand arm compared to 0.0 (0.0 ; 2.2) while on prophylaxis. Results for the full-analysis population were similar to those for the per-protocol population. Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
+The safety, efficacy, and pharmacokinetics of ADYNOVI were evaluated in a pivotal multi-centre, open-label, prospective clinical trial that compared the efficacy of a twice-weekly prophylactic treatment regimen to on-demand treatment and determined haemostatic efficacy in the treatment of bleeding episodes. A total of 137 male PTPs (12 to 65 years of age) with severe haemophilia A received at least one infusion with ADYNOVI. Twenty-five of the 137 subjects were adolescents (12 to less than 18 years of age).
+
+## Prophylactic treatment in adults and adolescents
+
+In the pivotal study, subjects received either prophylactic treatment (n = 120) with ADYNOVI at a dose of 40-50 IU per kg twice-weekly or on-demand treatment (n = 17) with ADYNOVI at a dose of 10-60 IU per kg for a 6-month period. The median dosing interval was 3.6 days and the mean dose (SD) was 48.7 (4.4) IU/kg. One hundred eighteen of 120 (98%) prophylaxis subjects remained on the starting recommended regimen without dose adjustment, and 2 subjects increased their dose to 60 IU/kg during prophylaxis due to bleeding in target joints.
+
+In the per-protocol population, i.e. dosed according to the protocol specific dosing requirements, a total of 101 subjects received a twice a week regimen in the prophylaxis arm, and 17 subjects were treated episodically in the on-demand arm. The median annualised bleed rate (ABR) in the on-demand treatment arm was 41.5 compared to 1.9 while on a twice a week prophylaxis regimen. The median joint ABR (Q1; Q3) in the on-demand arm was 38.1 (24.5; 44.6) compared to 0.0 (0.0; 2.0) while on prophylaxis, and the median spontaneous ABR was 21.6 (11.2; 33.2) on the on-demand arm compared to 0.0 (0.0; 2.2) while on prophylaxis. Results for the full-analysis population were similar to those for the per-protocol population. Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
 
 Forty out of 101 subjects (40%) experienced no bleeding episodes, 58 out of 101 subjects (57%) experienced no joint bleeding episodes, and 58 out of 101 subjects (57%) experienced no spontaneous bleeding episodes in the prophylaxis arm. All subjects in the on-demand arm experienced a bleeding episode, including a joint or spontaneous bleeding episode.
 
-## Treatment of bleeding episodes
+## Treatment of bleeding episodes in adults and adolescents
 
-A total of 518 bleeding episodes were treated with ADYNOVI in the per-protocol population. Of these, 361 bleeding episodes (n=17 subjects) occurred in the on-demand arm and 157 (n=61 subjects) occurred in the prophylaxis arm. The median dose per infusion to treat all bleeding episodes in the per-protocol population was 32.0 (Interquartile Range (IQR): 21.5) IU per kg. Overall, 95.9% of bleeding episodes were controlled with 1 to 2 infusions and 85.5% were controlled with only 1 infusion. Of the 518 bleeding episodes, 96.1% were rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in their response to treatment with ADYNOVI.
+In the pivotal study, a total of 518 bleeding episodes were treated with ADYNOVI in the per-protocol population. Of these, 361 bleeding episodes (n = 17 subjects) occurred in the on-demand arm and 157 (n = 61 subjects) occurred in the prophylaxis arm. The median dose per infusion to treat all bleeding episodes in the per-protocol population was 32.0 (Interquartile Range (IQR): 21.5) IU per kg. Overall, 95.9% of bleeding episodes were controlled with 1 to 2 infusions and 85.5% were controlled with only 1 infusion. Of the 518 bleeding episodes, 96.1% were rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in their response to treatment with ADYNOVI.
 
-## Paediatric population &lt; 12 years of age
+## Perioperative management (surgical prophylaxis) in adults and adolescents
+
+In the surgery study, a total of 21 major surgical procedures and 5 additional minor surgeries were performed and assessed in 21 unique subjects. For major surgeries, the preoperative loading dose ranged from 36 IU/kg to 109 IU/kg (median: 63 IU/kg); and postoperative total dose ranged from 186 IU/kg to 1 320 IU/kg (median: 490 IU/kg). The median total dose for major surgeries was 553 IU/kg (range: 248-1 394 IU/kg) and the median total dose of minor surgeries was 106 IU/kg (range: 76-132 IU/kg).
+
+Perioperative haemostatic efficacy was rated as excellent (blood loss less than or equal to that expected for the same type of procedure performed in a non-haemophilic patient, and required blood components for transfusions less than or similar to that expected in non-haemophilic population) for all 26 (21 major, 5 minor) procedures. The median (IQR) observed intraoperative blood loss (n = 14) was 10.0 (20.0) ml compared to the predicted average blood loss (n = 14) of 150.0 (140.0) ml for major orthopaedic surgeries.
+
+<div style=\"page-break-after: always\"></div>
+
+## Long-term prophylaxis treatment in adults, adolescents, and paediatric patients
+
+In the long-term safety and efficacy study, ADYNOVI prophylaxis and treatment of bleeding episodes was evaluated in 216 paediatric and adult PTPs with severe haemophilia A who had either previously participated in other ADYNOVI studies or were naïve to ADYNOVI. In the treated population, subjects received a fixed-dose twice-weekly regimen of 40 to 50 IU/kg if aged ≥ 12 years or of 40 to 60 IU/kg if aged &lt; 12 years. The dose was adjusted up to 80 IU/kg twice-weekly if required to maintain factor VIII trough levels of &gt; 1%. Subjects that opted for a personalized (pharmacokinetically-tailored) prophylactic regimen received doses up to 80 IU/kg per infusion that targeted factor VIII trough levels of ≥ 3% at least twice-weekly. ABR per prophylactic regimen, bleeding site and aetiology are presented in Table 3.
+
+Table 3: Annualized bleed rate (ABR) by prophylactic regimen (ITT population)
+
+| Bleeding site aetiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Twice-weekly (N = 186)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Every 5 days (N = 56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Every 7 days (N = 15)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | PK-tailored a (N = 25)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Overall                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2.2 (1.85; 2.69)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.1 (1.54; 2.86)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.7 (1.44; 5.20)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.6 (1.70; 4.08)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Joint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1.2 (0.96; 1.58)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.1 (0.81; 1.55)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.0 (0.90; 4.62)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.4 (0.91; 2.17)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Spontaneous                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 1.2 (0.92; 1.56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.3 (0.87; 2.01)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.8 (0.78; 4.06)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.0 (0.54; 1.71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis |
+
+Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
+
+Long-term haemostatic efficacy was evaluated in 910 bleeding episodes treated with ADYNOVI and was rated excellent or good in 88.5% of bleeding episodes. Across age categories and for both the fixed-dose and the PK-tailored dose regimen, &gt; 85% of bleed treatments were rated excellent or good. The majority of bleeding episodes were treated with one (74.0%) or two (15.4%) infusions.
+
+## Personalized prophylaxis PROPEL clinical trial in adults and adolescents
+
+The safety and efficacy of ADYNOVI was evaluated in a prospective, randomized, open-label multi-centre study in 121 (115 randomized) adolescents (12-18 years old) and adult PTPs with severe haemophilia A for a 12-month treatment period. The study compared 2 PK-guided prophylactic dosing regimens of ADYNOVI that targeted factor VIII trough levels of 1-3% dosed twice-weekly (N = 57) or 8-12% dosed every other day (N = 58), by assessing the proportions of subjects achieving a total ABR of 0 in the second 6-month study period.
+
+The average prophylactic doses administered in the 1-3% and 8-12 % trough arms were 3 866.1 IU/kg per year [mean (SD) infusions/week = 2.3 (0.58)] and 7 532.8 IU/kg per year [(mean (SD) infusions/week = 3.6 (1.18)], respectively. After dose adjustment during the first 6-month period of prophylaxis, median trough levels in the second 6-month period (based on the one-stage clotting assay and calculated to the end of the planned infusion interval) ranged from 2.10 IU/dl to 3.00 IU/dl in the 1-3% trough level arm and from 10.70 IU/dl to 11.70 IU/dl in the 8-12 % trough level arm, demonstrating that dosing in the 2 prophylaxis regimens was generally adequate to achieve and maintain the desired factor VIII trough levels.
+
+<div style=\"page-break-after: always\"></div>
+
+The primary endpoint of the study, proportion of subjects who had a total ABR of 0 during the second 6-month period, was not reached in the ITT patient population (p = 0.0545) but was reached in the perprotocol population (p = 0.0154). The proportions of randomized subjects with total ABRs, spontaneous ABRs and spontaneous annualized joint bleeding rates (AJBRs) of 0 during the second 6-month study period in the per protocol population are presented in Table 4.
+
+Table 4: Annualized bleed rate (ABR) of 0, second 6-month study period
+
+|                                                                                                                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval) ITT population                                                                                                                                                                                                                                    | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval) ITT population                                                                                                                                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                   | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                        | 8-12% Trough level (N = 58)                                                                                                                                                                                                                                                                                                                       |
+| Total ABR of 0                                                                                                                                                                                                                                                                                                                                    | 0.421 (0.292; 0.549)                                                                                                                                                                                                                                                                                                                              | 0.621 (0.491; 0.750)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                              | 0.596 (0.469; 0.724)                                                                                                                                                                                                                                                                                                                              | 0.760 (0.645; 0.875)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                             | 0.649 (0.525; 0.773)                                                                                                                                                                                                                                                                                                                              | 0.850 (0.753; 0.947)                                                                                                                                                                                                                                                                                                                              |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                   | Per protocol population                                                                                                                                                                                                                                                                                                                           | Per protocol population                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                   | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                        | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                       |
+| Total ABR of 0                                                                                                                                                                                                                                                                                                                                    | 0.404 (0.270; 0.549)                                                                                                                                                                                                                                                                                                                              | 0.674 (0.515; 0.809)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                              | 0.596 (0.451; 0.730)                                                                                                                                                                                                                                                                                                                              | 0.814 (0.666; 0.916)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                             | 0.654 (0.509; 0.780)                                                                                                                                                                                                                                                                                                                              | 0.907 (0.779; 0.974)                                                                                                                                                                                                                                                                                                                              |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in |
+
+Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
+
+Total ABRs, spontaneous ABRs and spontaneous AJBRs during the second 6-month study period are presented in Table 5.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 5: Annualized bleed rate (ABR) second 6-month study period
+
+|                                                                                                                                                                                                                                                                                                                                                          | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                          | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                               | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                               | 8-12% Trough level (N = 53)                                                                                                                                                                                                                                                                                                                              | 8-12% Trough level (N = 53)                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                          | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                |
+| Total ABR                                                                                                                                                                                                                                                                                                                                                | 2.0                                                                                                                                                                                                                                                                                                                                                      | 3.6 (7.5)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.6 (3.4)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.5 (6.6)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.7 (1.7)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                         | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.0 (6.4)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.5 (1.7)                                                                                                                                                                                                                                                                                                                                                |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                          | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                                                          | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                               | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                               | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                              | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                          | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                |
+| Total ABR                                                                                                                                                                                                                                                                                                                                                | 2.0                                                                                                                                                                                                                                                                                                                                                      | 2.4 (3.2)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.1 (4.2)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.6 (2.6)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.8 (2.4)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                         | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.0 (1.8)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.7 (2.2)                                                                                                                                                                                                                                                                                                                                                |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
+
+A total of 242 bleeding episodes in 66 subjects were treated with ADYNOVI; 155 bleeds in 40 subjects in the 1-3% trough level arm and 87 bleeds in 26 subjects in the 8-12% trough level arm. The majority of bleeds (86.0%, 208/242) were treated with 1 or 2 infusions; and bleed treatment at resolution of the bleeding episode was rated excellent or good in 84.7% (205/242) of bleeds.
+
+## Paediatric population
+
+## Paediatric study in previously-treated patients (PTPs) &lt; 12 years of age
 
 A total of 66 PTPs with severe haemophilia A were dosed (32 subjects aged &lt; 6 years and 34 subjects aged 6 to &lt; 12 years) in the paediatric study. The prophylactic regimen was 40 to 60 IU/kg of ADYNOVI twice a week. The mean dose (SD) was 54.3 (6.3) IU/kg and the median frequency of infusions per week was 1.87. The median overall ABR was 2.0 (IQR: 3.9) for the 65 subjects in the per-protocol population and the median ABRs for spontaneous and joint bleeding episodes were both 0 (IQR: 1.9). Twenty four out of 65 subjects (37%) experienced no bleeding episodes, 47 out of 65 subjects (72%) experienced no joint bleeding episodes, and 43 out of 65 subjects (66%) experienced no spontaneous bleeding episodes on prophylaxis.
 
 Of the 70 bleeding episodes observed during the paediatric study, 82.9% were controlled with 1 infusion and 91.4% were controlled with 1 or 2 infusions. Control of bleeding was rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in 63 out of 70 (90.0%) bleeding episodes.
 
-## Perioperative management (surgical prophylaxis)
+## Paediatric study in previously-untreated patients (PUPs) &lt; 6 years of age
 
-A total of 21 major surgical procedures and 5 additional minor surgeries were performed and assessed in 21 unique subjects in the surgery study. For major surgeries, the preoperative loading dose ranged from 36 IU/kg to 109 IU/kg (median: 63 IU/kg); and postoperative total dose ranged from 186 IU/kg to 1 320 IU/kg (median: 490 IU/kg). The median total dose for major surgeries was 553 IU/kg (range: 248-1 394 IU/kg) and the median total dose of minor surgeries was 106 IU/kg (range: 76132 IU/kg).
+The use of ADYNOVI in children below 12 years is not indicated (see section 4.2 for information on paediatric use).
+
+The safety and efficacy of ADYNOVI was evaluated in a total of 120 dosed paediatric PUPs with severe haemophilia A. The prophylactic regimen was 20 to 50 IU/kg of ADYNOVI at least once-weekly, or as needed ≥ twice weekly, with a mean (SD) dose of 45.5 (7.83) IU/kg per infusion.
+
+The mean point estimate (95% CI) based on negative binomial GLM model for total ABR was 1.70 (1.20; 2.42); 0.96 (0.70; 1.31) and 2.32 (1.67; 3.22) for once weekly prophylaxis, ≥ twice weekly prophylaxis and on-demand treatment, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-Perioperative haemostatic efficacy was rated as excellent (blood loss less than or equal to that expected for the same type of procedure performed in a non-haemophilic patient, and required blood components for transfusions less than or similar to that expected in non-haemophilic population) for all 26 (21 major, 5 minor) procedures. The median (IQR) observed intraoperative blood loss (n = 14) was 10.0 (20.0) ml compared to the predicted average blood loss (n = 14) of 150.0 (140.0) ml for major orthopaedic surgeries.
-
-The European Medicines Agency has deferred the obligation to submit results of studies with ADYNOVI in one or more subsets of the paediatric population in the treatment of congenital factor VIII deficiency. See 4.2 for information on paediatric use.
-
-Long-term prophylaxis treatment in paediatric and adult subjects
-
-The long-term safety and efficacy of ADYNOVI in prophylaxis and treatment of bleeding episodes was evaluated in 216 paediatric and adult PTPs with severe haemophilia A who had either previously participated in other ADYNOVI studies or were naïve to ADYNOVI. In the treated population, subjects received a fixed-dose twice-weekly regimen of 40 to 50 IU/kg if aged ≥ 12 years or of 40 to 60 IU/kg if aged &lt; 12 years. The dose was adjusted up to 80 IU/kg twice weekly if required to maintain FVIII trough levels of &gt; 1%. Subjects that opted for a personalized (pharmacokineticallytailored) prophylactic regimen received doses up to 80 IU/kg per infusion that targeted FVIII trough levels of ≥ 3% at least twice weekly. ABR per prophylactic regimen, bleeding site and etiology are presented in Table 3.
-
-Table 3: Annualized bleed rate (ABR) by prophylactic regimen (ITT population)
-
-| Bleeding Site Etiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Twice-Weekly (N=186)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Every 5 Days (N=56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Every 7 Days (N=15)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | PK- tailored a (N=25)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Overall                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2.2 [1.85 - 2.69]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2.1 [1.54 - 2.86]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2.7 [1.44 -5.20]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2.6 [1.70 - 4.08]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Joint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 1.2 [0.96 - 1.58]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1.1 [0.81 - 1.55]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2.0 [0.90 - 4.62]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1.4 [0.91 - 2.17]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Spontaneous                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1.2 [0.92 - 1.56]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1.3 [0.87 - 2.01]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1.8 [0.78- 4.06]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1.0 [0.54 - 1.71]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis |
 
 Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
 
-Long-term haemostatic efficacy was evaluated in 910 bleeding episodes treated with ADYNOVI and was rated excellent or good in 88.5% of bleeding episodes. Across age categories and for both the fixed-dose and the PK-tailored dose regimen, &gt;85% of bleed treatments were rated excellent or good. The majority of bleeding episodes were treated with one (74.0%) or two (15.4%) infusions.
-
-Personalized prophylaxis PROPEL clinical trial in adolescents and adult subjects
-
-The safety and efficacy of ADYNOVI was evaluated in a prospective, randomized, open-label multi-centre study in 121 (115 randomized) adolescents (12-18 years old) and adult PTPs with severe haemophilia A for a 12-month treatment period. The study compared 2 PK-guided prophylactic dosing regimens of ADYNOVI that targeted Factor VIII trough levels of 1-3% dosed twice weekly (N=57) or 8-12% dosed every other day (N=58), by assessing the proportions of subjects achieving a total ABR of 0 in the second 6-month study period.
-
-<div style=\"page-break-after: always\"></div>
-
-The average prophylactic doses administered in the 1-3% and 8-12 % trough arms were 3 866.1 IU/kg per year [mean (SD) infusions/week = 2.3 (0.58)] and 7 532.8 IU/kg per year [(mean (SD) infusions/week = 3.6 (1.18)], respectively. After dose adjustment during the first 6-month period of prophylaxis, median trough levels in the second 6-month period (based on the one-stage clotting assay and calculated to the end of the planned infusion interval) ranged from 2.10 IU/dL to 3.00 IU/dL in the 1-3% trough level arm and from 10.70 IU/dL to 11.70 IU/dL in the 8-12 % trough level arm, demonstrating that dosing in the 2 prophylaxis regimens was generally adequate to achieve and maintain the desired FVIII trough levels.
-
-The primary endpoint of the study, proportion of subjects who had a total ABR of 0 during the second 6-month period, was not reached in the ITT patient population (p= 0.0545) but was reached in the perprotocol population (p = 0.0154). The proportions of randomized subjects with total ABRs, spontaneous ABRs and spontaneous annualized joint bleeding rates (AJBRs) of 0 during the second 6month study period in the Per Protocol population are presented in Table 4.
-
-Table 4: Annualized bleed rate (ABR) of 0, second 6-month study period
-
-|                                                                                                                                                                                                                                                                                                                                                           | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                           | ITT Population 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                   | 8-12% Trough Level (N=58)                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR of 0                                                                                                                                                                                                                                                                                                                                            | 0.421 [0.292; 0.549]                                                                                                                                                                                                                                                                                                                                      | 0.621[0.491; 0.750]                                                                                                                                                                                                                                                                                                                                       |
-| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                                      | 0.596 [0.469; 0.724]                                                                                                                                                                                                                                                                                                                                      | 0.760 [0.645; 0.875]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                                     | 0.649 [0.525; 0.773]                                                                                                                                                                                                                                                                                                                                      | 0.850 [0.753; 0.947]                                                                                                                                                                                                                                                                                                                                      |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                           | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                           | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR of 0                                                                                                                                                                                                                                                                                                                                            | 0.404 [0.270; 0.549]                                                                                                                                                                                                                                                                                                                                      | 0.674 [0.515; 0.809]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                                      | 0.596 [0.451; 0.730]                                                                                                                                                                                                                                                                                                                                      | 0.814 [0.666; 0.916]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                                     | 0.654 [0.509; 0.780]                                                                                                                                                                                                                                                                                                                                      | 0.907 [0.779; 0.974]                                                                                                                                                                                                                                                                                                                                      |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
-
-Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
-
-<div style=\"page-break-after: always\"></div>
-
-Total ABRs, spontaneous ABRs and spontaneous AJBRs during the second 6-month study period are presented in Table 5.
-
-Table 5: Annualized bleed rate (ABR) second 6-month study period
-
-|                                                                                                                                                                                                                                                                                                                                                           | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                                  | 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=53)                                                                                                                                                                                                                                                                                                                                 | 8-12% Trough Level (N=53)                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                           | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR                                                                                                                                                                                                                                                                                                                                                 | 2.0                                                                                                                                                                                                                                                                                                                                                       | 3.6 (7.5)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.6 (3.4)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                           | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.5 (6.6)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.7 (1.7)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.0 (6.4)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.5 (1.7)                                                                                                                                                                                                                                                                                                                                                 |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                           | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                           | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR                                                                                                                                                                                                                                                                                                                                                 | 2.0                                                                                                                                                                                                                                                                                                                                                       | 2.4 (3.2)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.1 (4.2)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                           | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.6 (2.6)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.8 (2.4)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.0 (1.8)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.7 (2.2)                                                                                                                                                                                                                                                                                                                                                 |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
-
-A total of 242 bleeding episodes in 66 subjects were treated with ADYNOVI; 155 bleeds in 40 subjects in the 1-3% trough level arm and 87 bleeds in 26 subjects in the 8-12% trough level arm. The majority of bleeds (86.0%, 208/242) were treated with 1 or 2 infusions; and bleed treatment at resolution of the bleeding episode was rated excellent or good in 84.7% (205/242) of bleeds.
+A total of 775 bleeding episodes were treated during the paediatric PUP trial, 614 (79.2%) were controlled with 1 infusion and 87 (11.2%) were controlled with 2 infusions. Control of bleeding was rated excellent or good in 492 of 517 (95.1%) bleeding episodes rated for efficacy.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -401,34 +404,34 @@ ADYNOVI has an extended half-life of 1.4 to 1.5-fold compared to recombinant hum
 
 ## Paediatric pharmacokinetics
 
-Pharmacokinetic parameters calculated from 39 subjects less than 18 years of age (intent-to-treat analysis) are available for 14 children (2 to less than 6 years), 17 older children (6 to less than 12 years) and 8 adolescent subjects (12 to &lt; 18 years of age). The half-life extension in the paediatric population was 1.3 to 1.5 fold using both the one stage clotting and chromogenic assays. The mean clearance (based on body weight) of ADYNOVI was higher and the mean half-life was lower in children less than 12 years of age than adults.
-
-A higher dose may be required in children less than 12 years of age, see section 4.2.
+Pharmacokinetic parameters calculated from 39 subjects less than 18 years of age (intent-to-treat analysis) are available for 14 children (2 to less than 6 years), 17 older children (6 to less than 12 years) and 8 adolescent subjects (12 to &lt; 18 years of age). The half-life extension in the paediatric population was 1.3 to 1.5 fold using both the one stage clotting and chromogenic assays. The mean clearance (based on body weight) of ADYNOVI was higher and the mean half-life was lower in children less than 12 years of age than adults. A higher dose may be required in children less than 12 years of age, see section 4.2.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 6: Pharmacokinetic parameters using the chromogenic assay (Arithmetic mean ± SD)
 
-| PK parameters                          | ADYNOVI Adults (18 years and older) N = 18 Dose: 45 ± 5 IU/kg   | ADYNOVI Adolescents (12-<18 years) N = 8 Dose: 45 ± 5 IU/kg   | ADYNOVI Paediatric patients (6-<12 years) N = 17 Dose: 50 ± 10 IU/kg   | ADYNOVI Paediatric patients (< 6 years) N = 14 Dose: 50 ± 10 IU/kg   |
-|----------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Design                                 | Individual PK with full sampling a                              | Individual PK with full sampling a                            | Population PK with sparse sampling b                                   | Population PK with sparse sampling b                                 |
-| Terminal half--life [h]                | 15.01 ± 3.89                                                    | 13.80 ± 4.01                                                  | 11.93 ± 2.58                                                           | 12.99 ± 8.75                                                         |
-| MRT [h]                                | 19.70 ± 5.05                                                    | 17.73 ± 5.44                                                  | 17.24 ± 3.73                                                           | 18.74 ± 12.60                                                        |
-| CL [mL/(kg·h)] d                       | 2.16 ± 0.75                                                     | 2.58 ± 0.84                                                   | 2.80 ± 0.67                                                            | 3.49 ± 1.21                                                          |
-| Incremental recovery [(IU/dL)/(IU/kg)] | 2.87 ± 0.61                                                     | 2.34 ± 0.62                                                   | na c (2.19± 0.40)                                                      | na c (1.90 ± 0.27)                                                   |
-| AUC 0-Inf [IU·h/dL]                    | 2 589 ± 848                                                     | 1 900 ± 841                                                   | 2 259 ± 514                                                            | 2 190 ± 1 593                                                        |
-| Vss [dL/kg]                            | 0.40 ± 0.09                                                     | 0.54 ± 0.22                                                   | 0.46 ± 0.04                                                            | 0.54 ± 0.03                                                          |
-| C max [IU/dL]                          | 145 ± 29                                                        | 117 ± 28                                                      | na c (130 ± 24)                                                        | na c (117 ± 16)                                                      |
+| PK parameters                          | ADYNOVI Adults (18 years and older) N = 18 Dose: 45 ± 5 IU/kg   | ADYNOVI Adolescents (12 - < 18 years) N = 8 Dose: 45 ± 5 IU/kg   | ADYNOVI Paediatric patients (6 - < 12 years) N = 17 Dose: 50 ± 10 IU/kg   | ADYNOVI Paediatric patients (< 6 years) N = 14 Dose: 50 ± 10 IU/kg   |
+|----------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Design                                 | Individual PK with full sampling a                              | Individual PK with full sampling a                               | Population PK with sparse sampling b                                      | Population PK with sparse sampling b                                 |
+| Terminal half--life (h)                | 15.01 ± 3.89                                                    | 13.80 ± 4.01                                                     | 11.93 ± 2.58                                                              | 12.99 ± 8.75                                                         |
+| MRT (h)                                | 19.70 ± 5.05                                                    | 17.73 ± 5.44                                                     | 17.24 ± 3.73                                                              | 18.74 ± 12.60                                                        |
+| CL [ml/(kg·h)] d                       | 2.16 ± 0.75                                                     | 2.58 ± 0.84                                                      | 2.80 ± 0.67                                                               | 3.49 ± 1.21                                                          |
+| Incremental recovery [(IU/dl)/(IU/kg)] | 2.87 ± 0.61                                                     | 2.34 ± 0.62                                                      | na c (2.19 ± 0.40)                                                        | na c (1.90 ± 0.27)                                                   |
+| AUC 0-Inf (IU·h/dl)                    | 2 589 ± 848                                                     | 1 900 ± 841                                                      | 2 259 ± 514                                                               | 2 190 ± 1 593                                                        |
+| V ss (dl/kg)                           | 0.40 ± 0.09                                                     | 0.54 ± 0.22                                                      | 0.46 ± 0.04                                                               | 0.54 ± 0.03                                                          |
+| C max (IU/dl)                          | 145 ± 29                                                        | 117 ± 28                                                         | na c (130 ± 24)                                                           | na c (117 ± 16)                                                      |
 
-Abbreviations: Cmax: maximum observed activity; AUC: area under the curve; MRT: mean residence time; CL: clearance; Vss: body weight adjusted volume of distribution at steady-state,
+Abbreviations: Cmax = maximum observed activity, AUC = area under the curve, MRT = mean residence time, CL = clearance, Vss = body weight adjusted volume of distribution at steady-state
 
 a  Individual PK with 12 post-infusion samples.
 
 b  Population PK model with 3 post-infusion samples based on randomized drawing schedule.
 
-c  NA, Not applicable, as Incremental Recovery and Cmax in children were determined by individual PK. Results for Incremental Recovery and Cmax determined by individual PK in parenthesis.
+c  NA, Not applicable, as incremental recovery and Cmax in children were determined by individual PK. Results for incremental recovery and Cmax determined by individual PK in parenthesis.
 
 d The clearance value of 12.18 ml/(kg·h) for subject 122001 in age group 12 to &lt; 18 years was not included in the analysis of clearance.
+
+Incremental recovery was further evaluated in 99 PUPs &lt; 6 years of age, which remained relatively stable over time of treatment with mean (SD) IR values of 1.670 (0.594) (IU/dl)/(IU/kg) (n = 99), 1.617 (0.640) (IU/dl)/(IU/kg) (n = 47), 1.805 (0.593) (IU/dl)/(IU/kg) (n = 87), and 1.873 (0.440) (IU/dl)/(IU/kg) (n = 89), at baseline, visit 3 (ED 15 ± 1), visit 6 (ED 40 ± 3), and trial completion/termination (ED 100 to 110), respectively.
 
 ## 5.3 Preclinical safety data
 
@@ -436,17 +439,15 @@ In the repeat dose toxicity study in Cynomolgus monkey, two animals showed vacuo
 
 Nonclinical data are limited to 1 month exposure and no studies in juvenile animals were conducted with ADYNOVI. Thus, it was not possible to conclude on the potential risks of PEG accumulation in various tissues/organs relevant for chronic use of ADYNOVI in the paediatric population. No studies on genotoxicity, carcinogenicity or reproductive toxicity have been performed with ADYNOVI.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 ## Powder
 
-Mannitol (E421) Trehalose dihydrate Histidine Glutathione Sodium chloride Calcium chloride dihydrate (E509)
-
-<div style=\"page-break-after: always\"></div>
-
-Tris(hydroxymethyl)aminomethane Polysorbate 80 (E433)
+Mannitol (E421) Trehalose dihydrate Histidine Glutathione Sodium chloride Calcium chloride dihydrate (E509) Tris(hydroxymethyl)aminomethane Polysorbate 80 (E433)
 
 ## Solvent
 
@@ -458,7 +459,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 2 years.
 
@@ -470,13 +471,15 @@ Chemical and physical in-use stability has been demonstrated for 3 hours at a te
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2° C - 8° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 ADYNOVI with BAXJECT II Hi-Flow device: Keep the vial in the outer carton in order to protect from light.
 
 ADYNOVI in BAXJECT III system: Keep the sealed blister in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -489,15 +492,13 @@ The medicinal product is provided in one of the following configurations:
 - -ADYNOVI with BAXJECT II Hi-Flow device: Each pack contains a powder vial, a solvent vial and a device for reconstitution (BAXJECT II Hi-Flow).
 - -ADYNOVI in BAXJECT III system: Each pack contains a ready to use BAXJECT III system in a sealed blister, with the powder vial and the solvent vial preassembled for reconstitution.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
 The reconstituted medicinal product should be inspected visually for particulate matter and discolouration prior to administration. The solution should be clear or slightly opalescent. Do not use solutions that are cloudy or have deposits.
 
 After reconstitution, the solution has a pH of 6.7 to 7.3. The osmolality is ≥ 380 mOsmol/kg.
 
-## Preparation and reconstitution using the BAXJECT II Hi-Flow device
+Preparation and reconstitution using the BAXJECT II Hi-Flow device
 
 For reconstitution use only the solvent vial and the reconstitution device provided in the pack.
 
@@ -511,9 +512,21 @@ For reconstitution use only the solvent vial and the reconstitution device provi
 8. Turn the system over so that the solvent vial is on top. Quickly insert the purple plastic spike fully into the powder vial stopper by pushing straight down (Figure D). The vacuum will draw the solvent into the powder vial.
 9. Swirl gently until the powder is completely dissolved. Do not refrigerate after reconstitution.
 
+Figure A
+
+<!-- image -->
+
+Figure B
+
+<!-- image -->
+
+Figure C
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Figure D
 
 ## Administration
 
@@ -527,7 +540,9 @@ For reconstitution use only the solvent vial and the reconstitution device provi
 1. Remove the blue cap from the BAXJECT II Hi-Flow device (Figure E). Do not draw air into the syringe. Connect the syringe to the BAXJECT II Hi-Flow. Use of a Luer-lock syringe is recommended.
 2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure F).
 3. Disconnect the syringe; attach a suitable needle and inject intravenously. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
-4. A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of ADYNOVI with the solvent.
+
+A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of ADYNOVI with the solvent.
+
 4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
 
 It is strongly recommended that every time ADYNOVI is administered, the name and batch number of the product are recorded. Peel-off labels are provided on the powder vial.
@@ -542,6 +557,14 @@ Do not use if the lid is not completely sealed on the blister
 4. Place the powder vial on a flat surface with the solvent vial on top (Figure 1). The solvent vial has a blue stripe. Do not remove the blue cap until instructed in a later step.
 5. With one hand holding the powder vial in the BAXJECT III system, press down firmly on the solvent vial with the other hand until the system is fully collapsed and the solvent flows down into the powder vial (Figure 2). Do not tilt the system until the transfer is complete.
 6. Verify that the solvent transfer is complete. Swirl gently until all material is dissolved (Figure 3). Be sure that the powder is completely dissolved, otherwise not all reconstituted solution will pass through the device filter. The product dissolves rapidly (usually in less than 1 minute). After reconstitution the solution should be clear, colourless and free from particles.
+
+Figure E
+
+1
+
+2
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -589,11 +612,9 @@ Figure 3
 
 Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria medinfoEMEA@takeda.com
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/17/1247/003 EU/1/17/1247/004 EU/1/17/1247/007 EU/1/17/1247/008 EU/1/17/1247/011 EU/1/17/1247/012 EU/1/17/1247/013 EU/1/17/1247/014 EU/1/17/1247/015
-
-EU/1/17/1247/016
+EU/1/17/1247/003 EU/1/17/1247/004 EU/1/17/1247/007 EU/1/17/1247/008 EU/1/17/1247/011 EU/1/17/1247/012 EU/1/17/1247/013 EU/1/17/1247/014 EU/1/17/1247/015 EU/1/17/1247/016
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -603,13 +624,11 @@ Date of latest renewal: 09 November 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -629,13 +648,13 @@ Each vial contains nominally 500 IU human coagulation factor VIII (rDNA), rurioc
 
 Each vial contains nominally 1 000 IU human coagulation factor VIII (rDNA), rurioctocog alfa pegol, corresponding to a concentration of 500 IU/ml after reconstitution with 2 ml solvent.
 
-The potency (International Units) is determined using the chromogenic assay. The specific activity of ADYNOVI is approximately 3 800-6 000 IU/mg protein.
+The potency (International Units) is determined using the European Pharmacopoeia chromogenic assay. The specific activity of ADYNOVI is approximately 3 800-6 000 IU/mg protein.
 
-Rurioctocog alfa pegol (PEGylated human coagulation factor VIII (rDNA)) is a protein that has 2 332 amino acids with a molecular weight of approximately 280 kDa, conjugated with a 20 kDa polyethylene glycol (PEG). It is produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
+Rurioctocog alfa pegol [PEGylated human coagulation factor VIII (rDNA)] is a protein that has 2 332 amino acids with a molecular weight of approximately 280 kDa, conjugated with a 20 kDa polyethylene glycol (PEG). It is produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
 
-## Excipient(s) with known effect
+## Excipients with known effect
 
-Each powder vial contains 0.45 mmol (10 mg) sodium, see section 4.4.
+Each powder vial contains 0.45 mmol (10 mg) sodium and 0.5 mg of polysorbate 80 (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
@@ -659,11 +678,7 @@ Treatment and prophylaxis of bleeding in patients 12 years and above with haemop
 
 Treatment should be under the supervision of a physician experienced in the treatment of haemophilia.
 
-## Previously untreated patients
-
-The safety and efficacy of ADYNOVI in previously untreated patients have not yet been established. No data are available.
-
-## Treatment monitoring:
+## Treatment monitoring
 
 During the course of treatment, appropriate determination of factor VIII levels is advised to guide the dose to be administered and the frequency of repeated infusions. Individual patients may vary in their response to factor VIII, demonstrating different half-lives and recoveries. Dose based on bodyweight may require adjustment in underweight or overweight patients. In the case of major surgical interventions in particular, precise monitoring of the substitution therapy by means of coagulation analysis (plasma factor VIII activity) is indispensable.
 
@@ -687,26 +702,28 @@ The amount to be administered and the frequency of administration should always 
 
 In the case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period.
 
-The following Table 1 can be used to guide dosing in bleeding episodes and surgery:
-
-<div style=\"page-break-after: always\"></div>
+The following Table 1 can be used to guide dosing in bleeding episodes and surgery.
 
 Table 1: Guide for dosing in bleeding episodes and surgery
 
-| Degree of haemorrhage/type of surgical procedure                   | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                     |
-|--------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved.                                                                                             |
-| More extensive haemarthrosis, muscle bleeding or haematoma         | 30 - 60                                   | Repeat injections every 12 to 24 hours for 3 - 4 days or more until pain and acute disability are resolved.                                                                                                                               |
-| Life threatening haemorrhages.                                     | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                           |
-| Surgery Minor Including tooth extraction. Major                    | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl). |
+| Degree of haemorrhage/type of surgical procedure                   | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                         |
+|--------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. |
+
+<div style=\"page-break-after: always\"></div>
+
+| Degree of haemorrhage/type of surgical procedure                                           | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                     |
+|--------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| More extensive haemarthrosis, muscle bleeding or haematoma. Life threatening haemorrhages. | 30 - 60 60 - 100                          | Repeat injections every 12 to 24 hours for 3 - 4 days or more until pain and acute disability are resolved. Repeat injections every 8 to 24 hours until threat is resolved.                                                               |
+| Surgery Minor Including tooth extraction. Major                                            | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl). |
 
 ## Prophylaxis
 
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency (see sections 5.1, 5.2).
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency (see sections 5.1 and 5.2).
 
 ## Paediatric population
 
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. Currently available data in patients below 12 years are described in sections 4.8, 5.1 and 5.2. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency (see sections 5.1, 5.2).
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. Currently available data in patients below 12 years are described in sections 4.8, 5.1 and 5.2. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency (see sections 5.1 and 5.2).
 
 ## Method of administration
 
@@ -722,13 +739,13 @@ Hypersensitivity to the active substance, to the parent molecule octocog alfa or
 
 Known allergic reaction to mouse or hamster protein.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity
 
@@ -738,15 +755,11 @@ In case of shock, standard medical treatment for shock should be implemented.
 
 ## Inhibitors
 
-The formation of neutralising antibodies (inhibitors) to factor VIII is a known complication in the management of individuals with haemophilia A. These inhibitors are usually IgG immunoglobulins directed against the factor VIII pro-coagulant activity, which are quantified in Bethesda Units (BU) per ml of plasma using the modified assay. The risk of developing inhibitors is correlated to the severity of the disease as well as the exposure to factor VIII, this risk being highest within the first 50 exposure days but continues throughout life although the risk is uncommon.
+The formation of neutralising antibodies (inhibitors) to factor VIII is a known complication in the management of individuals with haemophilia A. These inhibitors are usually IgG immunoglobulins directed against the factor VIII pro-coagulant activity, which are quantified in Bethesda Units (BU) per ml of plasma using the modified assay. The risk of developing inhibitors is correlated to the severity of the disease as well as the exposure to factor VIII, this risk being highest within the first 50 exposure days (EDs) but continues throughout life although the risk is uncommon.
 
 The clinical relevance of inhibitor development will depend on the titre of the inhibitor, with low titre posing less of a risk of insufficient clinical response than high titre inhibitors.
 
 In general, all patients treated with coagulation factor VIII products should be carefully monitored for the development of inhibitors by appropriate clinical observations and laboratory tests. If the expected factor VIII activity plasma levels are not attained, or if bleeding is not controlled with an appropriate dose, testing for factor VIII inhibitor presence should be performed. In patients with high levels of inhibitor, factor VIII therapy may not be effective and other therapeutic options should be considered. Management of such patients should be directed by physicians with experience in the care of haemophilia and factor VIII inhibitors.
-
-## Immune tolerance induction (ITI)
-
-No clinical data for use of ADYNOVI in ITI are available.
 
 ## Cardiovascular events
 
@@ -758,13 +771,17 @@ If a central venous access device (CVAD) is required, risk of CVAD-related compl
 
 ## Excipient related considerations
 
-This medicinal product contains up to 12.42 mg sodium per vial, equivalent to 0.62% of the WHO recommended maximum daily intake of 2 g sodium for an adult. Depending on the body weight and
+## Sodium
 
-<div style=\"page-break-after: always\"></div>
+This medicinal product contains 10 mg sodium per vial, equivalent to 0.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult. Depending on the body weight and posology, the patient could receive more than one vial. This should be taken into consideration by patients on a controlled sodium diet.
 
-posology, the patient could receive more than one vial. This should be taken into consideration by patients on a controlled sodium diet.
+## Polysorbate 80
+
+This medicinal product contains 0.5 mg of polysorbate 80 per vial, equivalent to 0.25 mg/ml. Polysorbates may cause allergic reactions.
 
 It is strongly recommended that every time that ADYNOVI is administered to a patient, the name and batch number of the product are recorded in order to maintain a link between the patient and the batch of the medicinal product.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -792,58 +809,61 @@ Development of neutralising antibodies (inhibitors) may occur in patients with h
 
 ## Tabulated list of adverse reactions
 
-The safety of ADYNOVI was evaluated in 365 previously treated patients with severe haemophilia A (factor VIII less than 1% of normal), who received at least one dose of ADYNOVI in 6 completed multi-centre, prospective, open label clinical trials and 1 ongoing clinical trial.
+The safety of ADYNOVI was evaluated in 478 unique patients with severe haemophilia A (factor VIII less than 1% of normal), of which 360 were previously-treated patients (PTPs) and 118 were previously-untreated patients (PUPs), who received at least one dose of ADYNOVI in 7 completed multi-centre, prospective, open label clinical trials.
 
 The table presented below is according to the MedDRA system organ classification (System Organ Class and Preferred Term Level).
 
-Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Frequencies have been evaluated according to the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Adverse reactions reported for ADYNOVI
 
-| MedDRA Standard System Organ Class             | Adverse reactions          | Frequency        |
-|------------------------------------------------|----------------------------|------------------|
-| Blood and lymphatic system disorders           | Factor VIII inhibition     | Uncommon (PTPs)* |
-| Immune system disorders                        | Hypersensitivity           | Uncommon         |
-| Immune system disorders                        | Anaphylactic reaction**    | Not known        |
-| Nervous system disorders                       | Headache                   | Very common      |
-| Nervous system disorders                       | Dizziness                  | Common           |
-| Eye disorders                                  | Ocular hyperaemia          | Uncommon         |
-| Vascular disorders                             | Flushing                   | Uncommon         |
-| Gastrointestinal disorders                     | Diarrhoea                  | Common           |
-| Gastrointestinal disorders                     | Nausea                     | Common           |
-| Skin and subcutaneous tissue disorders         | Rash                       | Common           |
-| Skin and subcutaneous tissue disorders         | Rash pruritic              | Uncommon         |
-| Skin and subcutaneous tissue disorders         | Urticaria                  | Common           |
-| Investigations                                 | Eosinophil count increased | Uncommon         |
-| Injury, poisoning and procedural complications | Infusion related reaction  | Uncommon         |
-
-* Frequency is based on studies with all FVIII products which included patients with severe haemophilia A. PTPs = previously-treated patients.
-
-Frequencies presented were calculated using all adverse events, related and unrelated.
-
-** Adverse reaction identified in post-marketing surveillance.
+| MedDRA Standard system organ class              | Adverse reactions          | Frequency                              |
+|-------------------------------------------------|----------------------------|----------------------------------------|
+| Blood and lymphatic system disorders            | Factor VIII inhibition     | Uncommon (PTPs) 1 Very common (PUPs) 1 |
+| Immune system disorders                         | Hypersensitivity           | Uncommon                               |
+| Immune system disorders                         | Anaphylactic reaction 2    | Not known                              |
+| Nervous system disorders                        | Headache                   | Common                                 |
+| Nervous system disorders                        | Dizziness                  | Common                                 |
+| Eye disorders                                   | Ocular hyperaemia          | Uncommon                               |
+| Vascular disorders                              | Flushing                   | Uncommon                               |
+| Gastrointestinal disorders                      | Diarrhoea                  | Common                                 |
+| Gastrointestinal disorders                      | Vomiting                   | Common                                 |
+| Gastrointestinal disorders                      | Nausea                     | Common                                 |
+| Respiratory, thoracic and mediastinal disorders | Cough                      | Very common                            |
+| Skin and subcutaneous tissue disorders          | Rash                       | Common                                 |
+| Skin and subcutaneous tissue disorders          | Rash pruritic              | Uncommon                               |
+| Skin and subcutaneous tissue disorders          | Urticaria                  | Common                                 |
+| Skin and subcutaneous tissue disorders          | Eyelid rash                | Uncommon                               |
+| Investigations                                  | Eosinophil count increased | Uncommon                               |
+| Injury, poisoning and procedural complications  | Infusion related reaction  | Uncommon                               |
 
 ## Description of selected adverse reactions
 
 ## Hypersensitivity
 
-The observed event of hypersensitivity was a mild transient non-serious rash, occurring in one 2-year-old patient who had developed a previous rash while on ADYNOVI.
+Two events of hypersensitivity were observed. One event was a mild transient non-serious rash, occurring in a 2-year-old patient who had developed a previous rash while on ADYNOVI. The second event was a moderate transient, non-serious event of erythema, tachycardia, and coughing that occurred in a 9.6-month-old patient.
+
+## Immunogenicity
+
+None of the subjects who participated in one or more of 6 completed clinical trials in PTPs developed persistent neutralizing (inhibitory) antibodies against factor VIII of ≥ 0.6 BU/ml (based on the Nijmegen modification of the Bethesda assay). One patient developed a transient factor VIII inhibitor at the lowest limit of positivity (0.6 BU) during personalized prophylaxis targeting a factor VIII level of 8-12%.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
-Frequency, type and severity of adverse reactions in children are expected to be the same as in adults. The safety of ADYNOVI was evaluated in 38 subjects &lt; 6 years and 34 subjects 6 to &lt; 12 years of age having accumulated a total of 2 880 exposure days (EDs) and 2 975 EDs respectively. The mean (SD) age was 3.3 (1.55) and 8.1 (1.92) years respectively.
+The use of ADYNOVI in children below 12 years is not indicated (see section 4.2 for information on paediatric use).
+
+Frequency, type and severity of adverse reactions in children are expected to be the same as in adults. The safety of ADYNOVI was evaluated in 38 subjects &lt; 6 years and 34 PTPs 6 to &lt; 12 years of age having accumulated a total of 2 880 EDs and 2 975 EDs respectively. The mean (SD) age was 3.3 (1.55) and 8.1 (1.92) years respectively.
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
 No symptoms of overdose with recombinant coagulation factor VIII have been reported.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -857,90 +877,74 @@ Rurioctocog alfa pegol, is a pegylated recombinant human factor VIII with an ext
 
 ## Clinical efficacy and safety
 
-The safety, efficacy, and pharmacokinetics of ADYNOVI were evaluated in a pivotal multi-centre, open-label, prospective clinical trial that compared the efficacy of a twice weekly prophylactic treatment regimen to on-demand treatment and determined haemostatic efficacy in the treatment of bleeding episodes. A total of 137 male PTPs (12 to 65 years of age) with severe haemophilia A received at least one infusion with ADYNOVI. Twenty-five of the 137 subjects were adolescents (12 to less than 18 years of age).
-
-## Immunogenicity
-
-None of the subjects who participated in one or more of 6 completed clinical trials in previously treated patients (PTPs) developed persistent neutralizing (inhibitory) antibodies against FVIII of ≥ 0.6 BU/mL (based on the Nijmegen modification of the Bethesda assay). One patient developed a transient FVIII inhibitor at the lowest limit of positivity (0.6 BU) during personalized prophylaxis targeting a FVIII level of 8-12%.
-
-From an ongoing study in previously untreated patients &lt; 6 years with severe hemophilia A, preliminary reports on 9 cases of FVIII inhibitor development associated with treatment with ADYNOVI were received.
-
-## Prophylactic treatment
-
-Subjects received either prophylactic treatment (n = 120) with ADYNOVI at a dose of 40-50 IU per kg twice weekly or on-demand treatment (n = 17) with ADYNOVI at a dose of 10-60 IU per kg for a 6-month period. The median dosing interval was 3.6 days and the mean dose (SD) was 48.7 (4.4) IU/kg. One hundred eighteen of 120 (98%) prophylaxis subjects remained on the starting recommended regimen without dose adjustment, and 2 subjects increased their dose to 60 IU/kg during prophylaxis due to bleeding in target joints.
-
-In the per-protocol population, i.e. dosed according to the protocol specific dosing requirements, a total of 101 subjects received a twice a week regimen in the prophylaxis arm, and 17 subjects were treated episodically in the on-demand arm. The median annualised bleed rate (ABR) in the on-demand
+The safety, efficacy, and pharmacokinetics of ADYNOVI were evaluated in a pivotal multi-centre, open-label, prospective clinical trial that compared the efficacy of a twice-weekly prophylactic treatment regimen to on-demand treatment and determined haemostatic efficacy in the treatment of bleeding episodes. A total of 137 male PTPs (12 to 65 years of age) with severe haemophilia A received at least one infusion with ADYNOVI. Twenty-five of the 137 subjects were adolescents (12 to less than 18 years of age).
 
 <div style=\"page-break-after: always\"></div>
 
-treatment arm was 41.5 compared to 1.9 while on a twice a week prophylaxis regimen. The median joint ABR (Q1 ; Q3) in the on-demand arm was 38.1 (24.5 ; 44.6) compared to 0.0 (0.0 ; 2.0) while on prophylaxis, and the median spontaneous ABR was 21.6 (11.2 ; 33.2) on the on-demand arm compared to 0.0 (0.0 ; 2.2) while on prophylaxis. Results for the full-analysis population were similar to those for the per-protocol population. Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
+## Prophylactic treatment in adults and adolescents
+
+In the pivotal study, subjects received either prophylactic treatment (n = 120) with ADYNOVI at a dose of 40-50 IU per kg twice-weekly or on-demand treatment (n = 17) with ADYNOVI at a dose of 10-60 IU per kg for a 6-month period. The median dosing interval was 3.6 days and the mean dose (SD) was 48.7 (4.4) IU/kg. One hundred eighteen of 120 (98%) prophylaxis subjects remained on the starting recommended regimen without dose adjustment, and 2 subjects increased their dose to 60 IU/kg during prophylaxis due to bleeding in target joints.
+
+In the per-protocol population, i.e. dosed according to the protocol specific dosing requirements, a total of 101 subjects received a twice a week regimen in the prophylaxis arm, and 17 subjects were treated episodically in the on-demand arm. The median annualised bleed rate (ABR) in the on-demand treatment arm was 41.5 compared to 1.9 while on a twice a week prophylaxis regimen. The median joint ABR (Q1; Q3) in the on-demand arm was 38.1 (24.5; 44.6) compared to 0.0 (0.0; 2.0) while on prophylaxis, and the median spontaneous ABR was 21.6 (11.2; 33.2) on the on-demand arm compared to 0.0 (0.0; 2.2) while on prophylaxis. Results for the full-analysis population were similar to those for the per-protocol population. Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
 
 Forty out of 101 subjects (40%) experienced no bleeding episodes, 58 out of 101 subjects (57%) experienced no joint bleeding episodes, and 58 out of 101 subjects (57%) experienced no spontaneous bleeding episodes in the prophylaxis arm. All subjects in the on-demand arm experienced a bleeding episode, including a joint or spontaneous bleeding episode.
 
-## Treatment of bleeding episodes
+## Treatment of bleeding episodes in adults and adolescents
 
-A total of 518 bleeding episodes were treated with ADYNOVI in the per-protocol population. Of these, 361 bleeding episodes (n=17 subjects) occurred in the on-demand arm and 157 (n=61 subjects) occurred in the prophylaxis arm. The median dose per infusion to treat all bleeding episodes in the per-protocol population was 32.0 (Interquartile Range (IQR): 21.5) IU per kg. Overall, 95.9% of bleeding episodes were controlled with 1 to 2 infusions and 85.5% were controlled with only 1 infusion. Of the 518 bleeding episodes, 96.1% were rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in their response to treatment with ADYNOVI.
+In the pivotal study, a total of 518 bleeding episodes were treated with ADYNOVI in the per-protocol population. Of these, 361 bleeding episodes (n = 17 subjects) occurred in the on-demand arm and 157 (n = 61 subjects) occurred in the prophylaxis arm. The median dose per infusion to treat all bleeding episodes in the per-protocol population was 32.0 (Interquartile Range (IQR): 21.5) IU per kg. Overall, 95.9% of bleeding episodes were controlled with 1 to 2 infusions and 85.5% were controlled with only 1 infusion. Of the 518 bleeding episodes, 96.1% were rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in their response to treatment with ADYNOVI.
 
-## Paediatric population &lt; 12 years of age
+## Perioperative management (surgical prophylaxis) in adults and adolescents
 
-A total of 66 PTPs with severe haemophilia A were dosed (32 subjects aged &lt; 6 years and 34 subjects aged 6 to &lt; 12 years) in the paediatric study. The prophylactic regimen was 40 to 60 IU/kg of ADYNOVI twice a week. The mean dose (SD) was 54.3 (6.3) IU/kg and the median frequency of infusions per week was 1.87. The median overall ABR was 2.0 (IQR: 3.9) for the 65 subjects in the per-protocol population and the median ABRs for spontaneous and joint bleeding episodes were both 0 (IQR: 1.9). Twenty four out of 65 subjects (37%) experienced no bleeding episodes, 47 out of 65 subjects (72%) experienced no joint bleeding episodes, and 43 out of 65 subjects (66%) experienced no spontaneous bleeding episodes on prophylaxis.
-
-Of the 70 bleeding episodes observed during the paediatric study, 82.9% were controlled with 1 infusion and 91.4% were controlled with 1 or 2 infusions. Control of bleeding was rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in 63 out of 70 (90.0%) bleeding episodes.
-
-## Perioperative management (surgical prophylaxis)
-
-A total of 21 major surgical procedures and 5 additional minor surgeries were performed and assessed in 21 unique subjects in the surgery study. For major surgeries, the preoperative loading dose ranged from 36 IU/kg to 109 IU/kg (median: 63 IU/kg); and postoperative total dose ranged from 186 IU/kg to 1 320 IU/kg (median: 490 IU/kg). The median total dose for major surgeries was 553 IU/kg (range: 248-1 394 IU/kg) and the median total dose of minor surgeries was 106 IU/kg (range: 76132 IU/kg).
+In the surgery study, a total of 21 major surgical procedures and 5 additional minor surgeries were performed and assessed in 21 unique subjects. For major surgeries, the preoperative loading dose ranged from 36 IU/kg to 109 IU/kg (median: 63 IU/kg); and postoperative total dose ranged from 186 IU/kg to 1 320 IU/kg (median: 490 IU/kg). The median total dose for major surgeries was 553 IU/kg (range: 248-1 394 IU/kg) and the median total dose of minor surgeries was 106 IU/kg (range: 76-132 IU/kg).
 
 Perioperative haemostatic efficacy was rated as excellent (blood loss less than or equal to that expected for the same type of procedure performed in a non-haemophilic patient, and required blood components for transfusions less than or similar to that expected in non-haemophilic population) for all 26 (21 major, 5 minor) procedures. The median (IQR) observed intraoperative blood loss (n = 14) was 10.0 (20.0) ml compared to the predicted average blood loss (n = 14) of 150.0 (140.0) ml for major orthopaedic surgeries.
 
+## Long-term prophylaxis treatment in adults, adolescents, and paediatric patients
+
+In the long-term safety and efficacy study, ADYNOVI prophylaxis and treatment of bleeding episodes was evaluated in 216 paediatric and adult PTPs with severe haemophilia A who had either previously participated in other ADYNOVI studies or were naïve to ADYNOVI. In the treated population, subjects received a fixed-dose twice-weekly regimen of 40 to 50 IU/kg if aged ≥ 12 years or of 40 to 60 IU/kg if aged &lt; 12 years. The dose was adjusted up to 80 IU/kg twice-weekly if required to maintain factor VIII trough levels of &gt; 1%. Subjects that opted for a personalized (pharmacokinetically-tailored) prophylactic regimen received doses up to 80 IU/kg per infusion that targeted factor VIII trough levels of ≥ 3% at least twice-weekly. ABR per prophylactic regimen, bleeding site and aetiology are presented in Table 3.
+
 <div style=\"page-break-after: always\"></div>
-
-The European Medicines Agency has deferred the obligation to submit results of studies with ADYNOVI in one or more subsets of the paediatric population in the treatment of congenital factor VIII deficiency. See 4.2 for information on paediatric use.
-
-## Long-term prophylaxis treatment in paediatric and adult subjects
-
-The long-term safety and efficacy of ADYNOVI in prophylaxis and treatment of bleeding episodes was evaluated in 216 paediatric and adult PTPs with severe haemophilia A who had either previously participated in other ADYNOVI studies or were naïve to ADYNOVI. In the treated population, subjects received a fixed-dose twice-weekly regimen of 40 to 50 IU/kg if aged ≥ 12 years or of 40 to 60 IU/kg if aged &lt; 12 years. The dose was adjusted up to 80 IU/kg twice weekly if required to maintain FVIII trough levels of &gt; 1%. Subjects that opted for a personalized (pharmacokineticallytailored) prophylactic regimen received doses up to 80 IU/kg per infusion that targeted FVIII trough levels of ≥ 3% at least twice weekly. ABR per prophylactic regimen, bleeding site and etiology are presented in Table 3.
 
 Table 3: Annualized bleed rate (ABR) by prophylactic regimen (ITT population)
 
-| Bleeding Site Etiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Twice-Weekly (N=186)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Every 5 Days (N=56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Every 7 Days (N=15)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | PK- tailored a (N=25)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Overall                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2.2 [1.85 - 2.69]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2.1 [1.54 - 2.86]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2.7 [1.44 -5.20]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2.6 [1.70 - 4.08]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Joint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1.2 [0.96 - 1.58]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1.1 [0.81 - 1.55]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2.0 [0.90 - 4.62]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1.4 [0.91 - 2.17]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Spontaneous                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 1.2 [0.92 - 1.56]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1.3 [0.87 - 2.01]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1.8 [0.78- 4.06]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 1.0 [0.54 - 1.71]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis a | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis a | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis a | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis a | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For Twice Weekly and PK-tailored dosing no subjects < 12 years were included in Every5&7 Days dosing. ITT = intent to treat; N = Number of subjects included in the analysis a |
+| Bleeding site aetiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Twice-weekly (N = 186)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Every 5 days (N = 56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Every 7 days (N = 15)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | PK-tailored a (N = 25)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Mean (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Overall                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2.2 (1.85; 2.69)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.1 (1.54; 2.86)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.7 (1.44; 5.20)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.6 (1.70; 4.08)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Joint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1.2 (0.96; 1.58)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.1 (0.81; 1.55)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2.0 (0.90; 4.62)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.4 (0.91; 2.17)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Spontaneous                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 1.2 (0.92; 1.56)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.3 (0.87; 2.01)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.8 (0.78; 4.06)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1.0 (0.54; 1.71)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis | Point estimates and 95% confidence intervals obtained from a generalized linear model fitting a negative binomial distribution with logarithmic link function. Subjects receiving doses in multiple regimens are included in summaries for multiple regimens. Includes all subjects in the study (adults and paediatric subjects < 18 years. For twice-weekly and PK-tailored dosing no subjects < 12 years were included in every 5 & 7 days dosing. ITT = intent to treat, N = number of subjects included in the analysis |
 
 Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
 
-Long-term haemostatic efficacy was evaluated in 910 bleeding episodes treated with ADYNOVI and was rated excellent or good in 88.5% of bleeding episodes. Across age categories and for both the fixed-dose and the PK-tailored dose regimen, &gt;85% of bleed treatments were rated excellent or good. The majority of bleeding episodes were treated with one (74.0%) or two (15.4%) infusions.
+Long-term haemostatic efficacy was evaluated in 910 bleeding episodes treated with ADYNOVI and was rated excellent or good in 88.5% of bleeding episodes. Across age categories and for both the fixed-dose and the PK-tailored dose regimen, &gt; 85% of bleed treatments were rated excellent or good. The majority of bleeding episodes were treated with one (74.0%) or two (15.4%) infusions.
 
-## Personalized prophylaxis PROPEL clinical trial in adolescents and adult subjects
+## Personalized prophylaxis PROPEL clinical trial in adults and adolescents
 
-The safety and efficacy of ADYNOVI was evaluated in a prospective, randomized, open-label multi-centre study in 121 (115 randomized) adolescents (12-18 years old) and adult PTPs with severe haemophilia A for a 12-month treatment period. The study compared 2 PK-guided prophylactic dosing regimens of ADYNOVI that targeted Factor VIII trough levels of 1-3% dosed twice weekly (N=57) or 8-12% dosed every other day (N=58), by assessing the proportions of subjects achieving a total ABR of 0 in the second 6-month study period.
+The safety and efficacy of ADYNOVI was evaluated in a prospective, randomized, open-label multi-centre study in 121 (115 randomized) adolescents (12-18 years old) and adult PTPs with severe haemophilia A for a 12-month treatment period. The study compared 2 PK-guided prophylactic dosing regimens of ADYNOVI that targeted factor VIII trough levels of 1-3% dosed twice-weekly (N = 57) or 8-12% dosed every other day (N = 58), by assessing the proportions of subjects achieving a total ABR of 0 in the second 6-month study period.
 
-The average prophylactic doses administered in the 1-3% and 8-12 % trough arms were 3 866.1 IU/kg per year [mean (SD) infusions/week = 2.3 (0.58)] and 7 532.8 IU/kg per year [(mean (SD) infusions/week = 3.6 (1.18)], respectively. After dose adjustment during the first 6-month period of prophylaxis, median trough levels in the second 6-month period (based on the one-stage clotting assay and calculated to the end of the planned infusion interval) ranged from 2.10 IU/dL to 3.00 IU/dL in the 1-3% trough level arm and from 10.70 IU/dL to 11.70 IU/dL in the 8-12 % trough level arm, demonstrating that dosing in the 2 prophylaxis regimens was generally adequate to achieve and maintain the desired FVIII trough levels.
+The average prophylactic doses administered in the 1-3% and 8-12 % trough arms were 3 866.1 IU/kg per year [mean (SD) infusions/week = 2.3 (0.58)] and 7 532.8 IU/kg per year [(mean (SD) infusions/week = 3.6 (1.18)], respectively. After dose adjustment during the first 6-month period of prophylaxis, median trough levels in the second 6-month period (based on the one-stage clotting assay and calculated to the end of the planned infusion interval) ranged from 2.10 IU/dl to 3.00 IU/dl in the 1-3% trough level arm and from 10.70 IU/dl to 11.70 IU/dl in the 8-12 % trough level arm, demonstrating that dosing in the 2 prophylaxis regimens was generally adequate to achieve and maintain the desired factor VIII trough levels.
+
+The primary endpoint of the study, proportion of subjects who had a total ABR of 0 during the second 6-month period, was not reached in the ITT patient population (p = 0.0545) but was reached in the perprotocol population (p = 0.0154). The proportions of randomized subjects with total ABRs, spontaneous ABRs and spontaneous annualized joint bleeding rates (AJBRs) of 0 during the second 6-month study period in the per protocol population are presented in Table 4.
 
 <div style=\"page-break-after: always\"></div>
 
-The primary endpoint of the study, proportion of subjects who had a total ABR of 0 during the second 6-month period, was not reached in the ITT patient population (p= 0.0545) but was reached in the perprotocol population (p = 0.0154). The proportions of randomized subjects with total ABRs, spontaneous ABRs and spontaneous annualized joint bleeding rates (AJBRs) of 0 during the second 6month study period are presented in Table 4.
-
 Table 4: Annualized bleed rate (ABR) of 0, second 6-month study period
 
-|                                                                                                                                                                                                                                                                                                                                                           | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval] ITT Population                                                                                                                                                                                                                                             | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval] ITT Population                                                                                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=58)                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR of 0                                                                                                                                                                                                                                                                                                                                            | 0.421 [0.292; 0.549]                                                                                                                                                                                                                                                                                                                                      | 0.621[0.491; 0.750]                                                                                                                                                                                                                                                                                                                                       |
-| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                                      | 0.596 [0.469; 0.724]                                                                                                                                                                                                                                                                                                                                      | 0.760 [0.645; 0.875]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                                     | 0.649 [0.525; 0.773]                                                                                                                                                                                                                                                                                                                                      | 0.850 [0.753; 0.947]                                                                                                                                                                                                                                                                                                                                      |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                           | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            | Proportion of Subjects Without Bleedings in 6 Months [Point Estimate- 95% Confidence Interval]                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                           | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR of 0                                                                                                                                                                                                                                                                                                                                            | 0.404 [0.270; 0.549]                                                                                                                                                                                                                                                                                                                                      | 0.674 [0.515; 0.809]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                                      | 0.596 [0.451; 0.730]                                                                                                                                                                                                                                                                                                                                      | 0.814 [0.666; 0.916]                                                                                                                                                                                                                                                                                                                                      |
-| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                                     | 0.654 [0.509; 0.780]                                                                                                                                                                                                                                                                                                                                      | 0.907 [0.779; 0.974]                                                                                                                                                                                                                                                                                                                                      |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
+|                                                                                                                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval) ITT population                                                                                                                                                                                                                                    | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval) ITT population                                                                                                                                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                   | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                        | 8-12% Trough level (N = 58)                                                                                                                                                                                                                                                                                                                       |
+| Total ABR of 0                                                                                                                                                                                                                                                                                                                                    | 0.421 (0.292; 0.549)                                                                                                                                                                                                                                                                                                                              | 0.621 (0.491; 0.750)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                              | 0.596 (0.469; 0.724)                                                                                                                                                                                                                                                                                                                              | 0.760 (0.645; 0.875)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                             | 0.649 (0.525; 0.773)                                                                                                                                                                                                                                                                                                                              | 0.850 (0.753; 0.947)                                                                                                                                                                                                                                                                                                                              |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                   | Proportion of subjects without bleedings in 6 months (Point estimate - 95% confidence interval)                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                   | Per protocol population                                                                                                                                                                                                                                                                                                                           | Per protocol population                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                   | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                        | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                       |
+| Total ABR of 0                                                                                                                                                                                                                                                                                                                                    | 0.404 (0.270; 0.549)                                                                                                                                                                                                                                                                                                                              | 0.674 (0.515; 0.809)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous ABR of 0                                                                                                                                                                                                                                                                                                                              | 0.596 (0.451; 0.730)                                                                                                                                                                                                                                                                                                                              | 0.814 (0.666; 0.916)                                                                                                                                                                                                                                                                                                                              |
+| Spontaneous AJBR of 0                                                                                                                                                                                                                                                                                                                             | 0.654 (0.509; 0.780)                                                                                                                                                                                                                                                                                                                              | 0.907 (0.779; 0.974)                                                                                                                                                                                                                                                                                                                              |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in |
 
 Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
 
@@ -948,27 +952,45 @@ Total ABRs, spontaneous ABRs and spontaneous AJBRs during the second 6-month stu
 
 Table 5: Annualized bleed rate (ABR) second 6-month study period
 
-|                                                                                                                                                                                                                                                                                                                                                           | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          | (ITT Population)                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                                  | 1-3% Trough Level (N=57)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=53)                                                                                                                                                                                                                                                                                                                                 | 8-12% Trough Level (N=53)                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                           | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR                                                                                                                                                                                                                                                                                                                                                 | 2.0                                                                                                                                                                                                                                                                                                                                                       | 3.6 (7.5)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.6 (3.4)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                           | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.5 (6.6)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.7 (1.7)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.0 (6.4)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.5 (1.7)                                                                                                                                                                                                                                                                                                                                                 |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                           | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   | Per Protocol Population                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                           | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 1-3% Trough Level (N=52)                                                                                                                                                                                                                                                                                                                                  | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 | 8-12% Trough Level (N=43)                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                           | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 | Median                                                                                                                                                                                                                                                                                                                                                    | Mean (SD)                                                                                                                                                                                                                                                                                                                                                 |
-| Total ABR                                                                                                                                                                                                                                                                                                                                                 | 2.0                                                                                                                                                                                                                                                                                                                                                       | 2.4 (3.2)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 2.1 (4.2)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                           | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.6 (2.6)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.8 (2.4)                                                                                                                                                                                                                                                                                                                                                 |
-| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                       | 1.0 (1.8)                                                                                                                                                                                                                                                                                                                                                 | 0.0                                                                                                                                                                                                                                                                                                                                                       | 0.7 (2.2)                                                                                                                                                                                                                                                                                                                                                 |
-| ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate. AJBR = Annualized joint bleeding rate. Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
-
-A total of 242 bleeding episodes in 66 subjects were treated with ADYNOVI; 155 bleeds in 40 subjects in the 1-3% trough level arm and 87 bleeds in 26 subjects in the 8-12% trough level arm.
+|                                                                                                                                                                                                                                                                                                                                                          | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         | (ITT population)                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                          | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                               | 1-3% Trough level (N = 57)                                                                                                                                                                                                                                                                                                                               | 8-12% Trough level (N = 53)                                                                                                                                                                                                                                                                                                                              | 8-12% Trough level (N = 53)                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                          | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                |
+| Total ABR                                                                                                                                                                                                                                                                                                                                                | 2.0                                                                                                                                                                                                                                                                                                                                                      | 3.6 (7.5)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.6 (3.4)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.5 (6.6)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.7 (1.7)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                         | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.0 (6.4)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.5 (1.7)                                                                                                                                                                                                                                                                                                                                                |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Annualized bleeding rate determined by dividing the number of bleeds by observation period in years.                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                          | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  | Per protocol population                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                                                          | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                               | 1-3% Trough level (N = 52)                                                                                                                                                                                                                                                                                                                               | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                              | 8-12% Trough level (N = 43)                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                          | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                | Median                                                                                                                                                                                                                                                                                                                                                   | Mean (SD)                                                                                                                                                                                                                                                                                                                                                |
+| Total ABR                                                                                                                                                                                                                                                                                                                                                | 2.0                                                                                                                                                                                                                                                                                                                                                      | 2.4 (3.2)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 2.1 (4.2)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous ABR                                                                                                                                                                                                                                                                                                                                          | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.6 (2.6)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.8 (2.4)                                                                                                                                                                                                                                                                                                                                                |
+| Spontaneous AJBR                                                                                                                                                                                                                                                                                                                                         | 0.0                                                                                                                                                                                                                                                                                                                                                      | 1.0 (1.8)                                                                                                                                                                                                                                                                                                                                                | 0.0                                                                                                                                                                                                                                                                                                                                                      | 0.7 (2.2)                                                                                                                                                                                                                                                                                                                                                |
+| ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. | ABR = Annualized bleeding rate, AJBR = Annualized joint bleeding rate Per-protocol population = all subjects who completed the second 6 months of prophylactic treatment and had no major deviations from the protocol affecting the study results. Annualized bleeding rate determined by dividing the number of bleeds by observation period in years. |
 
 <div style=\"page-break-after: always\"></div>
 
-The majority of bleeds (86.0%, 208/242) were treated with 1 or 2 infusions; and bleed treatment at resolution of the bleeding episode was rated excellent or good in 84.7% (205/242) of bleeds.
+A total of 242 bleeding episodes in 66 subjects were treated with ADYNOVI; 155 bleeds in 40 subjects in the 1-3% trough level arm and 87 bleeds in 26 subjects in the 8-12% trough level arm. The majority of bleeds (86.0%, 208/242) were treated with 1 or 2 infusions; and bleed treatment at resolution of the bleeding episode was rated excellent or good in 84.7% (205/242) of bleeds.
+
+## Paediatric population
+
+## Paediatric study in previously-treated patients (PTPs) &lt; 12 years of age
+
+A total of 66 PTPs with severe haemophilia A were dosed (32 subjects aged &lt; 6 years and 34 subjects aged 6 to &lt; 12 years) in the paediatric study. The prophylactic regimen was 40 to 60 IU/kg of ADYNOVI twice a week. The mean dose (SD) was 54.3 (6.3) IU/kg and the median frequency of infusions per week was 1.87. The median overall ABR was 2.0 (IQR: 3.9) for the 65 subjects in the per-protocol population and the median ABRs for spontaneous and joint bleeding episodes were both 0 (IQR: 1.9). Twenty four out of 65 subjects (37%) experienced no bleeding episodes, 47 out of 65 subjects (72%) experienced no joint bleeding episodes, and 43 out of 65 subjects (66%) experienced no spontaneous bleeding episodes on prophylaxis.
+
+Of the 70 bleeding episodes observed during the paediatric study, 82.9% were controlled with 1 infusion and 91.4% were controlled with 1 or 2 infusions. Control of bleeding was rated excellent (full relief of pain and cessation of objective signs of bleeding after a single infusion) or good (definite pain relief and/or improvement in signs of bleeding after a single infusion) in 63 out of 70 (90.0%) bleeding episodes.
+
+## Paediatric study in previously-untreated patients (PUPs) &lt; 6 years of age
+
+The use of ADYNOVI in children below 12 years is not indicated (see section 4.2 for information on paediatric use).
+
+The safety and efficacy of ADYNOVI was evaluated in a total of 120 dosed paediatric PUPs with severe haemophilia A. The prophylactic regimen was 20 to 50 IU/kg of ADYNOVI at least once-weekly, or as needed ≥ twice weekly, with a mean (SD) dose of 45.5 (7.83) IU/kg per infusion.
+
+The mean point estimate (95% CI) based on negative binomial GLM model for total ABR was 1.70 (1.20; 2.42); 0.96 (0.70; 1.31) and 2.32 (1.67; 3.22) for once weekly prophylaxis, ≥ twice weekly prophylaxis and on-demand treatment, respectively.
+
+Of note, ABR is not comparable between different factor concentrates and between different clinical trials.
+
+A total of 775 bleeding episodes were treated during the paediatric PUP trial, 614 (79.2%) were controlled with 1 infusion and 87 (11.2%) were controlled with 2 infusions. Control of bleeding was rated excellent or good in 492 of 517 (95.1%) bleeding episodes rated for efficacy.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -976,42 +998,42 @@ The pharmacokinetics (PK) of ADYNOVI were evaluated in a crossover study with oc
 
 ADYNOVI has an extended half-life of 1.4 to 1.5-fold compared to recombinant human coagulation factor VIII (octocog alfa) in the adolescent and adult population, as determined based on one stage clotting and chromogenic assays, respectively. An increase in AUC and a decrease in clearance as compared to the parent molecule, octocog alfa, were also observed. Incremental recovery was comparable with both products. The change in PK parameters was similar in both the adult and adolescent populations and between one-stage clotting and chromogenic substrate assays.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric pharmacokinetics
 
-Pharmacokinetic parameters calculated from 39 subjects less than 18 years of age (intent-to-treat analysis) are available for 14 children (2 to less than 6 years), 17 older children (6 to less than 12 years) and 8 adolescent subjects (12 to &lt; 18 years of age). The half-life extension in the paediatric population was 1.3 to 1.5 fold using both the one stage clotting and chromogenic assays. The mean clearance (based on body weight) of ADYNOVI was higher and the mean half-life was lower in children less than 12 years of age than adults.
-
-A higher dose may be required in children less than 12 years of age, see section 4.2.
+Pharmacokinetic parameters calculated from 39 subjects less than 18 years of age (intent-to-treat analysis) are available for 14 children (2 to less than 6 years), 17 older children (6 to less than 12 years) and 8 adolescent subjects (12 to &lt; 18 years of age). The half-life extension in the paediatric population was 1.3 to 1.5 fold using both the one stage clotting and chromogenic assays. The mean clearance (based on body weight) of ADYNOVI was higher and the mean half-life was lower in children less than 12 years of age than adults. A higher dose may be required in children less than 12 years of age, see section 4.2.
 
 Table 6: Pharmacokinetic parameters using the chromogenic assay (Arithmetic mean ± SD)
 
-| PK parameters                          | ADYNOVI Adults (18 years and older) N = 18 Dose: 45 ± 5 IU/kg   | ADYNOVI Adolescents (12-<18 years) N = 8 Dose: 45 ± 5 IU/kg   | ADYNOVI Paediatric patients (6-<12 years) N = 17 Dose: 50 ± 10 IU/kg   | ADYNOVI Paediatric patients (< 6 years) N = 14 Dose: 50 ± 10 IU/kg   |
-|----------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Design                                 | Individual PK with full sampling a                              | Individual PK with full sampling a                            | Population PK with sparse sampling b                                   | Population PK with sparse sampling b                                 |
-| Terminal half--life [h]                | 15.01 ± 3.89                                                    | 13.80 ± 4.01                                                  | 11.93 ± 2.58                                                           | 12.99 ± 8.75                                                         |
-| MRT [h]                                | 19.70 ± 5.05                                                    | 17.73 ± 5.44                                                  | 17.24 ± 3.73                                                           | 18.74 ± 12.60                                                        |
-| CL [mL/(kg·h)] d                       | 2.16 ± 0.75                                                     | 2.58 ± 0.84                                                   | 2.80 ± 0.67                                                            | 3.49 ± 1.21                                                          |
-| Incremental recovery [(IU/dL)/(IU/kg)] | 2.87 ± 0.61                                                     | 2.34 ± 0.62                                                   | na c (2.19± 0.40)                                                      | na c (1.90 ± 0.27)                                                   |
-| AUC 0-Inf [IU·h/dL]                    | 2 589 ± 848                                                     | 1 900 ± 841                                                   | 2 259 ± 514                                                            | 2 190 ± 1 593                                                        |
-| Vss [dL/kg]                            | 0.40 ± 0.09                                                     | 0.54 ± 0.22                                                   | 0.46 ± 0.04                                                            | 0.54 ± 0.03                                                          |
-| C max [IU/dL]                          | 145 ± 29                                                        | 117 ± 28                                                      | na c (130 ± 24)                                                        | na c (117 ± 16)                                                      |
+| PK parameters                          | ADYNOVI Adults (18 years and older) N = 18 Dose: 45 ± 5 IU/kg   | ADYNOVI Adolescents (12 - < 18 years) N = 8 Dose: 45 ± 5 IU/kg   | ADYNOVI Paediatric patients (6 - < 12 years) N = 17 Dose: 50 ± 10 IU/kg   | ADYNOVI Paediatric patients (< 6 years) N = 14 Dose: 50 ± 10 IU/kg   |
+|----------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Design                                 | Individual PK with full sampling a                              | Individual PK with full sampling a                               | Population PK with sparse sampling b                                      | Population PK with sparse sampling b                                 |
+| Terminal half--life (h)                | 15.01 ± 3.89                                                    | 13.80 ± 4.01                                                     | 11.93 ± 2.58                                                              | 12.99 ± 8.75                                                         |
+| MRT (h)                                | 19.70 ± 5.05                                                    | 17.73 ± 5.44                                                     | 17.24 ± 3.73                                                              | 18.74 ± 12.60                                                        |
+| CL [ml/(kg·h)] d                       | 2.16 ± 0.75                                                     | 2.58 ± 0.84                                                      | 2.80 ± 0.67                                                               | 3.49 ± 1.21                                                          |
+| Incremental recovery [(IU/dl)/(IU/kg)] | 2.87 ± 0.61                                                     | 2.34 ± 0.62                                                      | na c (2.19 ± 0.40)                                                        | na c (1.90 ± 0.27)                                                   |
+| AUC 0-Inf (IU·h/dl)                    | 2 589 ± 848                                                     | 1 900 ± 841                                                      | 2 259 ± 514                                                               | 2 190 ± 1 593                                                        |
+| V ss (dl/kg)                           | 0.40 ± 0.09                                                     | 0.54 ± 0.22                                                      | 0.46 ± 0.04                                                               | 0.54 ± 0.03                                                          |
+| C max (IU/dl)                          | 145 ± 29                                                        | 117 ± 28                                                         | na c (130 ± 24)                                                           | na c (117 ± 16)                                                      |
 
-Abbreviations: Cmax: maximum observed activity; AUC: area under the curve; MRT: mean residence time; CL: clearance; Vss: body weight adjusted volume of distribution at steady-state,
-
-a  Individual PK with 12 post-infusion samples.
+Abbreviations: Cmax = maximum observed activity, AUC = area under the curve, MRT = mean residence time, CL = clearance, Vss = body weight adjusted volume of distribution at steady-state a  Individual PK with 12 post-infusion samples.
 
 b  Population PK model with 3 post-infusion samples based on randomized drawing schedule.
 
-c  NA, Not applicable, as Incremental Recovery and Cmax in children were determined by individual PK. Results for Incremental Recovery and Cmax determined by individual PK in parenthesis.
-
-<div style=\"page-break-after: always\"></div>
+c  NA, Not applicable, as incremental recovery and Cmax in children were determined by individual PK. Results for incremental recovery and Cmax determined by individual PK in parenthesis.
 
 d The clearance value of 12.18 ml/(kg·h) for subject 122001 in age group 12 to &lt; 18 years was not included in the analysis of clearance.
+
+Incremental recovery was further evaluated in 99 PUPs &lt; 6 years of age, which remained relatively stable over time of treatment with mean (SD) IR values of 1.670 (0.594) (IU/dl)/(IU/kg) (n = 99), 1.617 (0.640) (IU/dl)/(IU/kg) (n = 47), 1.805 (0.593) (IU/dl)/(IU/kg) (n = 87), and 1.873 (0.440) (IU/dl)/(IU/kg) (n = 89), at baseline, visit 3 (ED 15 ± 1), visit 6 (ED 40 ± 3), and trial completion/termination (ED 100 to 110), respectively.
 
 ## 5.3 Preclinical safety data
 
 In the repeat dose toxicity study in Cynomolgus monkey, two animals showed vacuolation in the kidney in the mid dose group (350 IU/kg). The vacuolations did not recover after 2 weeks. The human relevance of kidney vacuolation observed in the preclinical study is unknown.
 
-Nonclinical data are limited to 1 month exposure and no studies in juvenile animals were conducted with ADYNOVI. Thus, it was not possible to conclude on the potential risks of PEG accumulation in various tissues/organs relevant for chronic use of ADYNOVI in the paediatric population No studies on genotoxicity, carcinogenicity or reproductive toxicity have been performed with ADYNOVI.
+Nonclinical data are limited to 1 month exposure and no studies in juvenile animals were conducted with ADYNOVI. Thus, it was not possible to conclude on the potential risks of PEG accumulation in various tissues/organs relevant for chronic use of ADYNOVI in the paediatric population. No studies on genotoxicity, carcinogenicity or reproductive toxicity have been performed with ADYNOVI.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1031,25 +1053,25 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 2 years.
 
-Before opening the medicinal product may be stored at room temperature (up to 30° C) for a period of up to 3 months. The end of the 3-month storage at room temperature should be recorded on the product carton. This date should never exceed the one initially mentioned on the outer carton. At the end of this period the product shall not be put back in the refrigerator, but shall be used or discarded.
+Before opening the medicinal product may be stored at room temperature (up to 30 °C) for a period of up to 3 months. The end of the 3-month storage at room temperature should be recorded on the product carton. This date should never exceed the one initially mentioned on the outer carton. At the end of this period the product shall not be put back in the refrigerator, but shall be used or discarded.
 
 ## After reconstitution
 
-Chemical and physical in-use stability has been demonstrated for 3 hours at a temperature not above 30° C. From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user. Do not refrigerate.
-
-<div style=\"page-break-after: always\"></div>
+Chemical and physical in-use stability has been demonstrated for 3 hours at a temperature not above 30 °C. From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user. Do not refrigerate.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2° C - 8° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 ADYNOVI with BAXJECT II Hi-Flow device: Keep the vial in the outer carton in order to protect from light.
 
 ADYNOVI in BAXJECT III system: Keep the sealed blister in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -1084,6 +1106,18 @@ For reconstitution use only the solvent vial and the reconstitution device provi
 8. Turn the system over so that the solvent vial is on top. Quickly insert the purple plastic spike fully into the powder vial stopper by pushing straight down (Figure D). The vacuum will draw the solvent into the powder vial.
 9. Swirl gently until the powder is completely dissolved. Do not refrigerate after reconstitution.
 
+Figure A
+
+<!-- image -->
+
+Figure B
+
+<!-- image -->
+
+Figure C
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -1113,17 +1147,18 @@ Do not use if the lid is not completely sealed on the blister
 
 1. If the product is still stored in a refrigerator, take the sealed blister (contains powder and solvent vials preassembled with the system for reconstitution) from the refrigerator and let it reach room temperature (between 15 °C and 25 °C).
 2. Wash your hands thoroughly using soap and warm water.
-
-<div style=\"page-break-after: always\"></div>
-
 3. Open the ADYNOVI blister by peeling away the lid. Remove the BAXJECT III system from the blister.
 4. Place the powder vial on a flat surface with the solvent vial on top (Figure 1). The solvent vial has a blue stripe. Do not remove the blue cap until instructed in a later step.
 5. With one hand holding the powder vial in the BAXJECT III system, press down firmly on the solvent vial with the other hand until the system is fully collapsed and the solvent flows down into the powder vial (Figure 2). Do not tilt the system until the transfer is complete.
 6. Verify that the solvent transfer is complete. Swirl gently until all material is dissolved (Figure 3). Be sure that the powder is completely dissolved, otherwise not all reconstituted solution will pass through the device filter. The product dissolves rapidly (usually in less than 1 minute). After reconstitution the solution should be clear, colourless and free from particles.
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 Figure 1
+
+<!-- image -->
+
+Figure 4
 
 <!-- image -->
 
@@ -1141,6 +1176,14 @@ Figure 1
 3. Disconnect the syringe; attach a suitable needle and inject intravenously. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
 4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
 
+It is strongly recommended that every time ADYNOVI is administered, the name and batch number of the product are recorded. Peel-off labels are provided on the blister.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna medinfoEMEA@takeda.com
+
 Figure 2
 
 <!-- image -->
@@ -1155,15 +1198,7 @@ Figure 3
 
 <div style=\"page-break-after: always\"></div>
 
-It is strongly recommended that every time ADYNOVI is administered, the name and batch number of the product are recorded. Peel-off labels are provided on the blister.
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria medinfoEMEA@takeda.com
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/17/1247/001
 
@@ -1185,30 +1220,30 @@ Date of latest renewal: 09 November 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
-34
+36
 
 <div style=\"page-break-after: always\"></div>
 
-## C. AUTHORISATION
-
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
+Name and address of the manufacturer of the biological active substance
 
-Baxalta US Inc 1700 Rancho Conejo Boulevard Thousand Oaks California CA-91320 UNITED STATES
+Baxalta US Inc 1700 Rancho Conejo Boulevard Thousand Oaks California CA-91320 USA
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
-Baxalta Belgium Manufacturing SA Boulevard Rene Branquart 80 B-7860 Lessines BELGIUM
+Baxalta Belgium Manufacturing SA Boulevard Rene Branquart 80 B-7860 Lessines Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1237,9 +1272,9 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                | Due date   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Post-authorisation safety study (PASS): In order to investigate the potential effects of PEG accumulation in the choroid plexus of the brain and other tissues/organs, the MAHshould conduct and submit the results of a post- authorisation safety study according to an agreed protocol. | Q3/Q4 2030 |
+| Description                                                                                                                                                                                                                                                                                 | Due date   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Post-authorisation safety study (PASS): In order to investigate the potential effects of PEG accumulation in the choroid plexus of the brain and other tissues/organs, the MAH should conduct and submit the results of a post- authorisation safety study according to an agreed protocol. | Q3/Q4 2030 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1259,15 +1294,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 250 IU rurioctocog alfa pegol, 50 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1275,7 +1316,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 5 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1315,7 +1356,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/003
 
@@ -1337,9 +1378,7 @@ ADYNOVI 250
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1349,7 +1388,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 250 IU / 5 ml powder for solution for injection
 
@@ -1381,15 +1420,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 500 IU rurioctocog alfa pegol, 100 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1397,7 +1442,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 5 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1437,7 +1482,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/007
 
@@ -1459,9 +1504,7 @@ ADYNOVI 500
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1471,7 +1514,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 500 IU / 5 ml powder for solution for injection
 
@@ -1503,15 +1546,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 1 000 IU rurioctocog alfa pegol, 200 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1519,7 +1568,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 5 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1559,7 +1608,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/011
 
@@ -1581,9 +1630,7 @@ ADYNOVI 1000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1593,7 +1640,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 1 000 IU / 5 ml powder for solution for injection
 
@@ -1627,15 +1674,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 2 000 IU rurioctocog alfa pegol, 400 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1643,7 +1696,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 5 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1683,7 +1736,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/013
 
@@ -1705,9 +1758,7 @@ ADYNOVI 2000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1717,7 +1768,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 2 000 IU / 5 ml powder for solution for injection
 
@@ -1751,15 +1802,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 3 000 IU rurioctocog alfa pegol, 600 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1767,7 +1824,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 5 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1807,7 +1864,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/015
 
@@ -1829,19 +1886,15 @@ ADYNOVI 3000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 3 000 IU / 5 ml powder for solution for injection
 
@@ -1869,19 +1922,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE SOLVENT (BAXJECT II HI - FLOWDEVICE)          |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE SOLVENT (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Solvent for ADYNOVI Water for injections IV
+Solvent for ADYNOVI
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Water for injections IV
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
 
 EXP
 
@@ -1890,8 +1941,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 ml
 
@@ -1906,15 +1957,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 250 IU rurioctocog alfa pegol, 50 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1922,7 +1979,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 5 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -1962,7 +2019,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/004
 
@@ -1984,13 +2041,11 @@ ADYNOVI 250
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2000,7 +2055,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 250 IU / 5 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2056,16 +2113,18 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
 ADYNOVI 250
 
-2. METHOD OF ADMINISTRATION
+2.
+
+METHOD OF ADMINISTRATION
 
 3.
 
@@ -2073,15 +2132,13 @@ EXP
 
 ## 4. BATCH NUMBER
 
-Lot
+Lot EXPIRY DATE
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
-
-EXPIRY DATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2091,15 +2148,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 500 IU rurioctocog alfa pegol, 100 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2107,7 +2170,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 5 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -2147,7 +2210,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/008
 
@@ -2169,9 +2232,7 @@ ADYNOVI 500
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2185,7 +2246,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 500 IU / 5 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2241,32 +2304,35 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-ADYNOVI 500
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+ADYNOVI 500
+
+## 2. METHOD OF ADMINISTRATION
+
+3.
+
+EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2276,15 +2342,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 1 000 IU rurioctocog alfa pegol, 200 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2292,7 +2364,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 5 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -2332,9 +2404,9 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
-## EU/1/17/1247/012
+EU/1/17/1247/012
 
 ## 13. BATCH NUMBER
 
@@ -2354,13 +2426,11 @@ ADYNOVI 1000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2370,7 +2440,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 1 000 IU / 5 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2426,27 +2498,30 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ADYNOVI 1 000
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2459,15 +2534,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 2 000 IU rurioctocog alfa pegol, 400 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2475,7 +2556,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 5 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -2515,7 +2596,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/014
 
@@ -2537,9 +2618,7 @@ ADYNOVI 2000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2553,7 +2632,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 2 000 IU / 5 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2609,34 +2690,33 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
 ADYNOVI 2 000
 
-2.
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-METHOD OF ADMINISTRATION
-
-3.
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
-
-EXPIRY DATE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2646,15 +2726,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 3 000 IU rurioctocog alfa pegol, 600 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2662,7 +2748,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 5 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -2702,7 +2788,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/016
 
@@ -2724,9 +2810,7 @@ ADYNOVI 3000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2736,11 +2820,13 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## BLISTER LABEL (BAXJECT III SYSTEM)
+BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 3 000 IU / 5 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2766,7 +2852,9 @@ Powder and solvent vials preassembled in BAXJECT III system.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS ASSEMBLY LABEL (BAXJECT III SYSTEM)
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+ASSEMBLY LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2796,59 +2884,56 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ADYNOVI 3 000
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3.
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
-Lot
+Lot EXPIRY DATE
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE SOLVENT (BAXJECT III SYSTEM)                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE SOLVENT (BAXJECT III SYSTEM)                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Solvent for ADYNOVI Water for injections IV
+Solvent for ADYNOVI
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Water for injections IV
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2861,15 +2946,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 250 IU rurioctocog alfa pegol, 125 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2877,7 +2968,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 2 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -2917,7 +3008,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/001
 
@@ -2939,9 +3030,7 @@ ADYNOVI 250
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2951,7 +3040,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 250 IU / 2 ml powder for solution for injection
 
@@ -2985,15 +3074,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 500 IU rurioctocog alfa pegol, 250 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3001,7 +3096,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 2 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -3041,9 +3136,9 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
-## EU/1/17/1247/005
+EU/1/17/1247/005
 
 ## 13. BATCH NUMBER
 
@@ -3063,9 +3158,7 @@ ADYNOVI 500
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3075,7 +3168,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 500 IU / 2 ml powder for solution for injection
 
@@ -3109,15 +3202,21 @@ OUTER CARTON (BAXJECT II HI -FLOW DEVICE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 1 000 IU rurioctocog alfa pegol, 500 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3125,7 +3224,7 @@ Powder and solvent for solution for injection
 
 1 powder vial, 1 vial with 2 ml solvent, 1 BAXJECT II Hi-Flow device.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -3165,7 +3264,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/009
 
@@ -3187,9 +3286,7 @@ ADYNOVI 1000
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3199,7 +3296,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 1 000 IU / 2 ml powder for solution for injection
 
@@ -3227,29 +3324,25 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE SOLVENT (BAXJECT II HI - FLOWDEVICE)          |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE SOLVENT (BAXJECT II HI -FLOW DEVICE)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Solvent for ADYNOVI Water for injections IV
+Solvent for ADYNOVI
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Water for injections IV
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 2 ml
 
@@ -3264,15 +3357,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 250 IU rurioctocog alfa pegol, 125 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3280,7 +3379,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 2 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -3320,7 +3419,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/002
 
@@ -3342,9 +3441,7 @@ ADYNOVI 250
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3358,7 +3455,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3414,32 +3513,35 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-ADYNOVI 250
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+ADYNOVI 250
+
+## 2. METHOD OF ADMINISTRATION
+
+3.
+
+EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3449,15 +3551,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 500 IU rurioctocog alfa pegol, 250 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3465,7 +3573,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 2 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -3505,7 +3613,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/006
 
@@ -3543,7 +3651,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3599,11 +3709,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL FOR THE POWDER(BAXJECT III SYSTEM)                    |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 500
 
@@ -3632,15 +3740,21 @@ OUTER CARTON (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 1 vial: 1 000 IU rurioctocog alfa pegol, 500 IU/ml after reconstitution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane, polysorbate 80
+Excipients: mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane, polysorbate 80 (E433).
+
+Solvent: water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3648,7 +3762,7 @@ Powder and solvent for solution for injection
 
 1 powder vial and 1 vial with 2 ml solvent preassembled in BAXJECT III system.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use after reconstitution.
 
@@ -3688,7 +3802,7 @@ A-1221 Vienna
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/17/1247/010
 
@@ -3726,7 +3840,9 @@ BLISTER LABEL (BAXJECT III SYSTEM)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol
+ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3784,7 +3900,7 @@ Lot
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE POWDER (BAXJECT III SYSTEM)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 ADYNOVI 1 000
 
@@ -3806,9 +3922,11 @@ Lot
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL FOR THE SOLVENT (BAXJECT III SYSTEM)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Solvent for ADYNOVI Water for injections IV
+Solvent for ADYNOVI
+
+Water for injections IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -3820,12 +3938,9 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 6. OTHER
-
-| 6.   | OTHER   |
-|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3880,7 +3995,7 @@ If you are unsure about this, ask your doctor.
 
 ## Warnings and precautions
 
-It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is on the packaging after {abbreviation used for batch number} ) and keep this information in a safe place.
+It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is stated on the packaging after Lot) and keep this information in a safe place.
 
 ## Talk to your doctor before using ADYNOVI.
 
@@ -3892,7 +4007,7 @@ If you suffer from cardiac disease, please inform your doctor, as there is an in
 
 ## Patients developing factor VIII inhibitors
 
-The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all Factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
+The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
 
 ## Catheter-related complications
 
@@ -3916,9 +4031,13 @@ ADYNOVI has no or negligible influence on the ability to drive or use machines.
 
 ## ADYNOVI contains sodium
 
-ADYNOVI contains up to 12.42 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.62% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
+ADYNOVI contains 10 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.5% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
 
 <div style=\"page-break-after: always\"></div>
+
+## ADYNOVI contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each vial which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use ADYNOVI
 
@@ -3960,11 +4079,11 @@ Do not stop using ADYNOVI without consulting your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 If severe, sudden allergic reactions (anaphylactic) occur, the injection must be stopped immediately . You must contact your doctor immediately if you have any of the following early symptoms of allergic reactions:
 
@@ -3976,13 +4095,19 @@ If severe, sudden allergic reactions (anaphylactic) occur, the injection must be
 
 Severe symptoms, including difficulty in breathing and (nearly) fainting, require prompt emergency treatment.
 
-For patients who have received previous treatment with Factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies may form uncommonly (may affect up to 1 in 100 patients). For previouslyuntreated patients, factor VIII inhibitor antibodies may form very commonly (may affect more than 1 in 10 patients) (see section 2). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
 Very common side effects (may affect more than 1 in 10 people)
 
-Headache
+Cough
+
+Factor VIII inhibitors (for previously-untreated patients)
 
 Common side effects (may affect up to 1 in 10 people)
+
+Headache
+
+Vomiting
 
 Nausea
 
@@ -3998,13 +4123,15 @@ Uncommon side effects (may affect up to 1 in 100 people)
 
 Flushing, allergic reaction (hypersensitivity)
 
-Factor VIII inhibitors (for patients who have received previous treatment with Factor VIII (more than 150 days of treatment))
+Factor VIII inhibitors [for patients who have received previous treatment with factor VIII (more than 150 days of treatment)]
 
 Increase in some type of white blood cells
 
 Infusion reaction
 
 Redness of the eye
+
+Rash on the eyelid
 
 Adverse drug reaction of the skin
 
@@ -4013,6 +4140,8 @@ Side effects with unknown frequency (frequency cannot be estimated from the avai
 ## Additional side effects in children
 
 Frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -4023,8 +4152,6 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
@@ -4042,7 +4169,7 @@ Do not throw away any medicines via waste water or household waste. Ask your pha
 
 - -The active substance is rurioctocog alfa pegol (pegylated human coagulation factor VIII produced by recombinant DNA technology). Each powder vial contains nominally 250, 500, 1 000, 2 000 or 3 000 IU rurioctocog alfa pegol.
 - -The solvent vial contains 5 ml of water for injections.
-- -The other ingredients are mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane and polysorbate 80. See section 2 'ADYNOVI contains sodium'.
+- -The other ingredients are mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane and polysorbate 80 (E433). See section 2 'ADYNOVI contains sodium' and 'ADYNOVI contains polysorbate 80'.
 
 ## What ADYNOVI looks like and contents of the pack
 
@@ -4050,21 +4177,17 @@ ADYNOVI is provided as a powder and solvent for solution for injection (powder f
 
 Each pack contains one powder vial, one solvent vial and a device for reconstitution (BAXJECT II Hi-Flow).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
-Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna
-
-## Manufacturer
+Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria Manufacturer
 
 Baxalta Belgium Manufacturing SA Boulevard René Branquart 80 B-7860 Lessines Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
-## België/Belgique/Belgien
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -4076,7 +4199,7 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
@@ -4084,7 +4207,7 @@ Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
@@ -4092,19 +4215,7 @@ Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
-
-## France
-
-Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -4120,9 +4231,7 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800
-
-medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -4138,35 +4247,57 @@ Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. z o.o. Tel.: +48223062447
+Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
-medinfoEMEA@takeda.com
+<div style=\"page-break-after: always\"></div>
+
+## France
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda.
+Takeda France SAS
 
-Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+Tél: + 33 1 40 67 33 00
+
+medinfoEMEA@takeda.com
+
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+
+## Hrvatska
+
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
 
 ## România
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
+## Ireland
+
+Takeda Products Ireland Ltd Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
 Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ísland
 
-## Slovenská republika
-
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
+
+## Slovenská republika
 
 Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
@@ -4180,27 +4311,19 @@ medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
-Takeda Oy
-
-Puh/Tel:
-
-0800 774 051
-
-medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
 Proton Medical (Cyprus) Ltd
 
-Τηλ: +357 22866000 admin@protoncy.com
+Τηλ: +357 22866000
+
+admin@protoncy.com
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
@@ -4210,17 +4333,9 @@ Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
-
 ## This leaflet was last revised in .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Instructions for preparation and administration
 
@@ -4232,6 +4347,9 @@ It is strongly recommended that every time ADYNOVI is administered, the name and
 
 -  Do not use after the expiry date stated on the labels and carton.
 -  Do not use if the BAXJECT II Hi-Flow device, its sterile barrier system or its packaging is damaged or shows any sign of deterioration.
+
+<div style=\"page-break-after: always\"></div>
+
 1. Use antiseptic technique (clean and low-germ conditions) and a flat work surface during the reconstitution procedure.
 2. Allow the vials of powder and solvent to reach room temperature (between 15 °C and 25 °C) before use.
 3. Remove plastic caps from the powder and solvent vials.
@@ -4239,9 +4357,6 @@ It is strongly recommended that every time ADYNOVI is administered, the name and
 5. Open the BAXJECT II Hi-Flow device package by peeling away the lid, without touching the inside (Figure A). Do not remove the device from the package.
 6. Turn the package over. Press straight down to fully insert the clear plastic spike through the solvent vial stopper (Figure B).
 7. Grip the BAXJECT II Hi-Flow package at its edge and pull the package off the device (Figure C). Do not remove the blue cap from the BAXJECT II Hi-Flow device. Do not touch the exposed purple plastic spike.
-
-<div style=\"page-break-after: always\"></div>
-
 8. Turn the system over so that the solvent vial is on top. Quickly insert the purple plastic spike fully into the powder vial stopper by pushing straight down (Figure D). The vacuum will draw the solvent into the powder vial.
 9. Swirl gently until the powder is completely dissolved. Do not refrigerate after reconstitution.
 
@@ -4252,11 +4367,12 @@ It is strongly recommended that every time ADYNOVI is administered, the name and
 ## Important note:
 
 -  Inspect the prepared solution for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles).
-
-Do not use ADYNOVI if the solution is not fully clear or not completely dissolved.
-
+- Do not use ADYNOVI if the solution is not fully clear or not completely dissolved.
 1. Remove the blue cap from the BAXJECT II Hi-Flow device (Figure E). Do not draw air into the syringe. Connect the syringe to the BAXJECT II Hi-Flow device. Use of a Luer-lock syringe is recommended.
 2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure F).
+
+<div style=\"page-break-after: always\"></div>
+
 3. Disconnect the syringe; attach a suitable needle and inject intravenously. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
 
 A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of ADYNOVI with the solvent.
@@ -4266,8 +4382,6 @@ A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of AD
 
 -------------------------------------------------------------------------------------------------------------------------
 
-<div style=\"page-break-after: always\"></div>
-
 The following information is intended for healthcare professionals only:
 
 ## On demand treatment
@@ -4276,20 +4390,20 @@ In case of the following haemorrhagic events, factor VIII activity should not fa
 
 Table 1: Guide for dosing in bleeding episodes and surgery
 
-| Degree of haemorrhage/type of surgical procedure                                                     | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
-|------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
-| haemarthrosis, haematoma                                                                             | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
-| Life threatening haemorrhages.                                                                       | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
-| Surgery Minor Including tooth extraction. Major                                                      | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
+| Degree of haemorrhage/type of surgical procedure                                                                | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or haematoma. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 hours for 3 - 4 days or more until pain and acute disability are resolved. Repeat injections every 8 to 24 hours |
+| haemarthrosis,                                                                                                  | 30 - 60                                   |                                                                                                                                                                                                                                                                                                 |
+| Life threatening haemorrhages.                                                                                  | 60 - 100                                  | until threat is resolved.                                                                                                                                                                                                                                                                       |
+| Surgery Minor Including tooth extraction. Major                                                                 | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).                                                       |
 
 ## Prophylaxis
 
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
 
 ## Paediatric population
 
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4340,7 +4454,7 @@ If you are unsure about this, ask your doctor.
 
 ## Warnings and precautions
 
-It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is on the packaging after {abbreviation used for batch number} ) and keep this information in a safe place.
+It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is stated on the packaging after Lot) and keep this information in a safe place.
 
 ## Talk to your doctor before using ADYNOVI.
 
@@ -4352,7 +4466,7 @@ If you suffer from cardiac disease, please inform your doctor, as there is an in
 
 ## Patients developing factor VIII inhibitors
 
-The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all Factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
+The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
 
 ## Catheter-related complications
 
@@ -4376,9 +4490,13 @@ ADYNOVI has no or negligible influence on the ability to drive or use machines.
 
 ## ADYNOVI contains sodium
 
-ADYNOVI contains up to 12.42 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.62% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
+ADYNOVI contains 10 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.5% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
 
 <div style=\"page-break-after: always\"></div>
+
+## ADYNOVI contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each vial which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use ADYNOVI
 
@@ -4420,11 +4538,11 @@ Do not stop using ADYNOVI without consulting your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 If severe, sudden allergic reactions (anaphylactic) occur, the injection must be stopped immediately . You must contact your doctor immediately if you have any of the following early symptoms of allergic reactions:
 
@@ -4436,13 +4554,19 @@ If severe, sudden allergic reactions (anaphylactic) occur, the injection must be
 
 Severe symptoms, including difficulty in breathing and (nearly) fainting, require prompt emergency treatment.
 
-For patients who have received previous treatment with Factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies  may form uncommonly (may affect up to 1 in 100 patients). For previouslyuntreated patients, factor VIII inhibitor antibodies may form very commonly (may affect more than 1 in 10 patients) (see section 2). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
 Very common side effects (may affect more than 1 in 10 people)
 
-Headache
+Cough
+
+Factor VIII inhibitors (for previously-untreated patients)
 
 Common side effects (may affect up to 1 in 10 people)
+
+Headache
+
+Vomiting
 
 Nausea
 
@@ -4458,13 +4582,15 @@ Uncommon side effects (may affect up to 1 in 100 people)
 
 Flushing, allergic reaction (hypersensitivity)
 
-Factor VIII inhibitors (for patients who have received previous treatment with Factor VIII (more than 150 days of treatment))
+Factor VIII inhibitors [for patients who have received previous treatment with factor VIII (more than 150 days of treatment)]
 
 Increase in some type of white blood cells
 
 Infusion reaction
 
 Redness of the eye
+
+Rash on the eyelid
 
 Adverse drug reaction of the skin
 
@@ -4473,6 +4599,8 @@ Side effects with unknown frequency (frequency cannot be estimated from the avai
 ## Additional side effects in children
 
 Frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -4483,8 +4611,6 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the blister in the outer carton in order to protect from light.
 
@@ -4502,7 +4628,7 @@ Do not throw away any medicines via waste water or household waste. Ask your pha
 
 - -The active substance is rurioctocog alfa pegol (pegylated human coagulation factor VIII produced by recombinant DNA technology). Each powder vial contains nominally 250, 500, 1 000, 2 000 or 3 000 IU rurioctocog alfa pegol.
 - -The solvent vial contains 5 ml of water for injections.
-- -The other ingredients are mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane and polysorbate 80. See section 2 'ADYNOVI contains sodium'.
+- -The other ingredients are mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane and polysorbate 80 (E433). See section 2 'ADYNOVI contains sodium' and 'ADYNOVI contains polysorbate 80'.
 
 ## What ADYNOVI looks like and contents of the pack
 
@@ -4510,15 +4636,15 @@ ADYNOVI is provided as a powder and solvent for solution for injection (powder f
 
 ## Marketing Authorisation Holder
 
-Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna
+Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
 Baxalta Belgium Manufacturing SA Boulevard René Branquart 80 B-7860 Lessines Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -4534,17 +4660,15 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
@@ -4552,19 +4676,11 @@ Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
 Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -4580,9 +4696,7 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800
-
-medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -4590,7 +4704,9 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Norge
 
-Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
+Takeda AS Tlf: +47 800 800 30
+
+medinfoEMEA@takeda.com
 
 ## Österreich
 
@@ -4604,11 +4720,19 @@ medinfoEMEA@takeda.com
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda.
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
-Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
 
 ## România
+
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
 
 Takeda Pharmaceuticals SRL
 
@@ -4616,29 +4740,41 @@ Tel: +40 21 335 03 91
 
 medinfoEMEA@takeda.com
 
+## Ireland
+
+Takeda Products Ireland Ltd
+
+Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
+
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o.
 
-<div style=\"page-break-after: always\"></div>
+Tel: + 386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
 
 ## Ísland
 
-## Slovenská republika
-
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
 
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
 
 ## Italia
 
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
+Takeda Italia S.p.A. Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
@@ -4646,25 +4782,17 @@ medinfoEMEA@takeda.com
 
 Takeda Oy
 
-Puh/Tel:
-
-0800 774 051
+Puh/Tel: 0800 774 051
 
 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-Proton Medical (Cyprus) Ltd
-
-Τηλ: +357 22866000 admin@protoncy.com
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
@@ -4674,17 +4802,9 @@ Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
-
 ## This leaflet was last revised in .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Instructions for preparation and administration
 
@@ -4700,13 +4820,12 @@ It is strongly recommended that every time ADYNOVI is administered, the name and
 1. If the product is still stored in a refrigerator, take the sealed blister (contains powder and solvent vials preassembled with the system for reconstitution) from the refrigerator and let it reach room temperature (between 15 °C and 25 °C).
 2. Wash your hands thoroughly using soap and warm water.
 3. Open the ADYNOVI blister by peeling away the lid. Remove the BAXJECT III system from the blister.
-4. Place the powder vial on a flat surface with the solvent vial on top (Figure 1). The solvent vial has a blue stripe. Do not remove the blue cap until instructed in a later step.
-5. With one hand holding the powder vial in the BAXJECT III system, press down firmly on the solvent vial with the other hand until the system is fully collapsed and the solvent flows down into the powder vial (Figure 2). Do not tilt the system until the transfer is complete.
-6. Verify that the solvent transfer is complete. Swirl gently until all material is dissolved (Figure 3). Be sure that the powder is completely dissolved, otherwise not all reconstituted solution will pass through the device filter. The product dissolves rapidly (usually in less
 
 <div style=\"page-break-after: always\"></div>
 
-than 1 minute). After reconstitution the solution should be clear, colourless and free from foreign particles.
+4. Place the powder vial on a flat surface with the solvent vial on top (Figure 1). The solvent vial has a blue stripe. Do not remove the blue cap until instructed in a later step.
+5. With one hand holding the powder vial in the BAXJECT III system, press down firmly on the solvent vial with the other hand until the system is fully collapsed and the solvent flows down into the powder vial (Figure 2). Do not tilt the system until the transfer is complete.
+6. Verify that the solvent transfer is complete. Swirl gently until all material is dissolved (Figure 3). Be sure that the powder is completely dissolved, otherwise not all reconstituted solution will pass through the device filter. The product dissolves rapidly (usually in less than 1 minute). After reconstitution the solution should be clear, colourless and free from foreign particles.
 
 Figure 1
 
@@ -4725,16 +4844,13 @@ Antiseptic technique (clean and low-germ conditions) is required during administ
 -  Inspect the prepared solution for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles). Do not use if the solution is not fully clear or not completely dissolved.
 1. Remove the blue cap from BAXJECT III (Figure 4). Do not draw air into the syringe . Connect the syringe to BAXJECT III. Use of a Luer-lock syringe is recommended.
 2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure 5).
-3. Disconnect the syringe; attach a butterfly needle to the syringe and inject the reconstituted solution into a vein. The solution should be administered slowly, at a rate as determined by the patient's comfort level, not to exceed 10 ml per minute. (See section 4 'Possible side effects').
-4. Discard any unused solution appropriately.
+3. Disconnect the syringe; attach a suitable needle to the syringe and inject the reconstituted solution into a vein. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
+4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
+5. Discard any unused solution appropriately.
 
--------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------- The following information is intended for healthcare professionals only:
 
-The following information is intended for healthcare professionals only:
-
-## On demand treatment
-
-In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
+Figure 2
 
 <!-- image -->
 
@@ -4742,32 +4858,40 @@ Figure 5
 
 <!-- image -->
 
+Figure 3
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+## On demand treatment
+
+In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
+
 Table 1: Guide for dosing in bleeding episodes and surgery
 
-| Degree of haemorrhage/type of surgical procedure                                                                    | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive haemarthrosis, muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
-| haematoma                                                                                                           | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
-| Life threatening haemorrhages.                                                                                      | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
-| Surgery Minor Including tooth extraction. Major                                                                     | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
+| Degree of haemorrhage/type of surgical procedure                                                     | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
+| haemarthrosis, haematoma.                                                                            | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
+| Life threatening haemorrhages.                                                                       | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
+| Surgery Minor Including tooth extraction. Major                                                      | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
 
 ## Prophylaxis
 
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
 
 ## Paediatric population
 
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
-ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -4802,13 +4926,13 @@ ADYNOVI is used for the treatment and prevention of bleeding in patients from 12
 
 If you are unsure about this, ask your doctor.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
-It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is on the packaging after {abbreviation used for batch number} ) and keep this information in a safe place.
+It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is stated on the packaging after Lot) and keep this information in a safe place.
 
-## Talk to your doctor before using ADYNOVI.
+<div style=\"page-break-after: always\"></div>
+
+Talk to your doctor before using ADYNOVI.
 
 There is a rare risk that you may experience an anaphylactic reaction (a severe, sudden allergic reaction) to ADYNOVI. You should be aware of the early signs of allergic reactions such as rash, hives, wheals, generalised itching, swelling of lips and tongue, difficulty in breathing, wheezing, tightness in the chest, general feeling of being unwell, and dizziness. These could be early symptoms of anaphylactic shock; additional symptoms may include extreme dizziness, loss of consciousness, and extreme difficulty in breathing.
 
@@ -4818,7 +4942,7 @@ If you suffer from cardiac disease, please inform your doctor, as there is an in
 
 ## Patients developing factor VIII inhibitors
 
-The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all Factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
+The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
 
 ## Catheter-related complications
 
@@ -4842,7 +4966,11 @@ ADYNOVI has no or negligible influence on the ability to drive or use machines.
 
 ## ADYNOVI contains sodium
 
-ADYNOVI contains up to 12.42 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.62% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
+ADYNOVI contains 10 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.5% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
+
+## ADYNOVI contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each vial which is equivalent to 0.25 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4902,13 +5030,19 @@ If severe, sudden allergic reactions (anaphylactic) occur, the injection must be
 
 Severe symptoms, including difficulty in breathing and (nearly) fainting, require prompt emergency treatment.
 
-For patients who have received previous treatment with Factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies may form uncommonly (may affect up to 1 in 100 patients). For previously-untreated patients, factor VIII inhibitor antibodies may form very commonly (may affect more than 1 in 10 patients) (see section 2). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
 Very common side effects (may affect more than 1 in 10 people)
 
-Headache
+Cough
+
+Factor VIII inhibitors (for previously-untreated patients)
 
 Common side effects (may affect up to 1 in 10 people)
+
+Headache
+
+Vomiting
 
 Nausea
 
@@ -4920,17 +5054,19 @@ Dizziness
 
 Hives
 
-## Uncommon side effects (may affect up to 1 in 100 people)
+Uncommon side effects (may affect up to 1 in 100 people)
 
 Flushing, allergic reaction (hypersensitivity)
 
-Factor VIII inhibitors (for patients who have received previous treatment with Factor VIII (more than 150 days of treatment))
+Factor VIII inhibitors [for patients who have received previous treatment with factor VIII (more than 150 days of treatment)]
 
 Increase in some type of white blood cells
 
 Infusion reaction
 
 Redness of the eye
+
+Rash on the eyelid
 
 Adverse drug reaction of the skin
 
@@ -4944,13 +5080,13 @@ Frequency, type and severity of adverse reactions in children are expected to be
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store ADYNOVI
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
@@ -4968,7 +5104,7 @@ Do not throw away any medicines via waste water or household waste. Ask your pha
 
 - -The active substance is rurioctocog alfa pegol (pegylated human coagulation factor VIII produced by recombinant DNA technology). Each powder vial contains nominally 250, 500, or 1 000 IU rurioctocog alfa pegol.
 - -The solvent vial contains 2 ml of water for injections.
-- -The other ingredients are mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane and polysorbate 80. See section 2 'ADYNOVI contains sodium'.
+- -The other ingredients are mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane and polysorbate 80 (E433). See section 2 'ADYNOVI contains sodium' and 'ADYNOVI contains polysorbate 80'.
 
 ## What ADYNOVI looks like and contents of the pack
 
@@ -4978,7 +5114,9 @@ Each pack contains one powder vial, one solvent vial and a device for reconstitu
 
 ## Marketing Authorisation Holder
 
-Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna
+Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -4986,11 +5124,7 @@ Baxalta Belgium Manufacturing SA Boulevard René Branquart 80 B-7860 Lessines Be
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
-## België/Belgique/Belgien
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -5002,7 +5136,7 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
@@ -5010,7 +5144,7 @@ Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
@@ -5018,19 +5152,11 @@ Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
 Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -5038,7 +5164,9 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## Magyarország
 
@@ -5046,459 +5174,7 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800 medinfoEMEA@takeda.com
-
-## Nederland
-
-Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
-
-## Norge
-
-Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
-
-## Österreich
-
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
-
-## Polska
-
-Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
-
-## Portugal
-
-Takeda Farmacêuticos Portugal, Lda.
-
-Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
-
-## România
-
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
-
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-## Slovenská republika
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-medinfoEMEA@takeda.com
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
-
-## Italia
-
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
-
-medinfoEMEA@takeda.com
-
-## Suomi/Finland
-
-Takeda Oy
-
-Puh/Tel:
-
-0800 774 051
-
-medinfoEMEA@takeda.com
-
-## Κύπρος
-
-Proton Medical (Cyprus) Ltd
-
-Τηλ: +357 22866000 admin@protoncy.com
-
-## Sverige
-
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
-
-## Latvija
-
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-## Instructions for preparation and administration
-
-Use only the solvent and the reconstitution device for preparation of the solution that are provided with each package of ADYNOVI. The powder must not be mixed with other medicinal products or solvents or used with other reconstitution devices.
-
-It is strongly recommended that every time ADYNOVI is administered, the name and batch number of the product are recorded. Peel-off labels are provided on the powder vial.
-
-## Instructions for reconstitution
-
--  Do not use after the expiry date stated on the labels and carton.
--  Do not use if the BAXJECT II Hi-Flow device, its sterile barrier system or its packaging is damaged or shows any sign of deterioration.
-1. Use antiseptic technique (clean and low-germ conditions) and a flat work surface during the reconstitution procedure.
-2. Allow the vials of powder and solvent to reach room temperature (between 15 °C and 25 °C) before use.
-3. Remove plastic caps from the powder and solvent vials.
-4. Clean rubber stoppers with an alcohol wipe and allow to dry prior to use.
-5. Open the BAXJECT II Hi-Flow device package by peeling away the lid, without touching the inside (Figure A). Do not remove the device from the package.
-6. Turn the package over. Press straight down to fully insert the clear plastic spike through the solvent vial stopper (Figure B).
-7. Grip the BAXJECT II Hi-Flow package at its edge and pull the package off the device (Figure C). Do not remove the blue cap from the BAXJECT II Hi-Flow device. Do not touch the exposed purple plastic spike.
-
-<div style=\"page-break-after: always\"></div>
-
-8. Turn the system over so that the solvent vial is on top. Quickly insert the purple plastic spike fully into the powder vial stopper by pushing straight down (Figure D). The vacuum will draw the solvent into the powder vial.
-9. Swirl gently until the powder is completely dissolved. Do not refrigerate after reconstitution.
-
-<!-- image -->
-
-## Instructions for injection
-
-## Important note:
-
--  Inspect the prepared solution for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles).
-
-Do not use ADYNOVI if the solution is not fully clear or not completely dissolved.
-
-1. Remove the blue cap from the BAXJECT II Hi-Flow device (Figure E). Do not draw air into the syringe. Connect the syringe to the BAXJECT II Hi-Flow device. Use of a Luer-lock syringe is recommended.
-2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure F).
-3. Disconnect the syringe; attach a suitable needle and inject intravenously. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
-
-A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of ADYNOVI with the solvent.
-
-4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
-5. Discard any unused solution appropriately.
-
--------------------------------------------------------------------------------------------------------------------------
-
-<div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
-
-## On demand treatment
-
-In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
-
-Table 1: Guide for dosing in bleeding episodes and surgery
-
-| Degree of haemorrhage/type of surgical procedure                                                     | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
-|------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
-| haemarthrosis, haematoma                                                                             | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
-| Life threatening haemorrhages.                                                                       | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
-| Surgery Minor Including tooth extraction. Major                                                      | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
-
-## Prophylaxis
-
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
-
-## Paediatric population
-
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user
-
-ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
-## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What ADYNOVI is and what it is used for
-2. What you need to know before you use ADYNOVI
-3. How to use ADYNOVI
-4. Possible side effects
-5. How to store ADYNOVI
-6. Contents of the pack and other information
-
-## 1. What ADYNOVI is and what it is used for
-
-ADYNOVI contains the active substance rurioctocog alfa pegol, pegylated human coagulation factor VIII. The human coagulation factor VIII has been modified to prolong its duration of action. Factor VIII is necessary for the blood to form clots and stop bleedings. In patients with haemophilia A (inborn lack of factor VIII), it is missing or not working properly.
-
-ADYNOVI is used for the treatment and prevention of bleeding in patients from 12 years of age with haemophilia A (an inherited bleeding disorder caused by lack of factor VIII).
-
-## 2. What you need to know before you use ADYNOVI
-
-## Do not use ADYNOVI
-
-- -if you are allergic to rurioctocog alfa pegol, octocog alfa or any of the other ingredients of this medicine (listed in section 6)
-- -if you are allergic to mouse or hamster proteins
-
-If you are unsure about this, ask your doctor.
-
-<div style=\"page-break-after: always\"></div>
-
-## Warnings and precautions
-
-It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is on the packaging after {abbreviation used for batch number} ) and keep this information in a safe place.
-
-## Talk to your doctor before using ADYNOVI.
-
-There is a rare risk that you may experience an anaphylactic reaction (a severe, sudden allergic reaction) to ADYNOVI. You should be aware of the early signs of allergic reactions such as rash, hives, wheals, generalised itching, swelling of lips and tongue, difficulty in breathing, wheezing, tightness in the chest, general feeling of being unwell, and dizziness. These could be early symptoms of anaphylactic shock; additional symptoms may include extreme dizziness, loss of consciousness, and extreme difficulty in breathing.
-
-If any of these symptoms occur, stop the injection immediately and contact your doctor. Severe symptoms, including difficulty in breathing and (near) fainting, require prompt emergency treatment.
-
-If you suffer from cardiac disease, please inform your doctor, as there is an increased risk of blood clotting (coagulation) complications.
-
-## Patients developing factor VIII inhibitors
-
-The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all Factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
-
-## Catheter-related complications
-
-If you require a central venous access device (CVAD), risk of CVAD-related complications including local infections, presence of bacteria in the blood and catheter site thrombosis should be considered.
-
-## Children and adolescents
-
-ADYNOVI can be used only in adolescents and adults (12 years and above). The listed warnings and precautions also apply to adolescents.
-
-## Other medicines and ADYNOVI
-
-Tell your doctor if you are using, have recently used or might use any other medicines.
-
-## Pregnancy and breast-feeding
-
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Haemophilia A occurs only rarely in women. Therefore no experience regarding the use of ADYNOVI during pregnancy and breast-feeding is available.
-
-## Driving and using machines
-
-ADYNOVI has no or negligible influence on the ability to drive or use machines.
-
-## ADYNOVI contains sodium
-
-ADYNOVI contains up to 12.42 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.62% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
-
-<div style=\"page-break-after: always\"></div>
-
-## 3. How to use ADYNOVI
-
-Treatment with ADYNOVI will be started and supervised by a doctor who is experienced in the care of patients with haemophilia A.
-
-Your doctor will calculate your dose of ADYNOVI depending on your condition and body weight, and on whether it is used for prevention or treatment of bleeding. The frequency of administration will depend on how well ADYNOVI is working for you. Usually, the replacement therapy with ADYNOVI is a life-long treatment.
-
-Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
-
-## Prevention of bleeding
-
-The usual dose of ADYNOVI is 40 to 50 IU per kg body weight, administered 2 times per week.
-
-## Treatment of bleeding
-
-The dose of ADYNOVI is calculated depending on your body weight and the factor VIII levels to be achieved. The target factor VIII levels will depend on the severity and location of the bleeding. If you think that the effect of ADYNOVI is insufficient, talk to your doctor.
-
-Your doctor will perform appropriate laboratory tests to make sure that you have adequate factor VIII levels. This is particularly important if you are having major surgery.
-
-## Use in children and adolescents
-
-ADYNOVI can be used only in adolescents and adults (12 years and above). The dose in adolescents is also calculated to body weight and is the same dose as for adults.
-
-## How ADYNOVI is given
-
-ADYNOVI is usually injected into a vein (intravenously) by your doctor or nurse. You or someone else might also administer ADYNOVI as an injection, but only after receiving adequate training. Detailed instructions for self-administration are given at the end of this package leaflet.
-
-## If you use more ADYNOVI than you should
-
-Always use ADYNOVI exactly as your doctor has told you. You should check with your doctor if you are not sure. If you inject more ADYNOVI than recommended, tell your doctor as soon as possible.
-
-## If you forget to use ADYNOVI
-
-Do not inject a double dose to make up for a forgotten dose. Proceed with the next injection as scheduled and continue as advised by your doctor.
-
-## If you stop using ADYNOVI
-
-Do not stop using ADYNOVI without consulting your doctor.
-
-If you have any further questions on the use of this medicine, ask your doctor.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
-
-If severe, sudden allergic reactions (anaphylactic) occur, the injection must be stopped immediately . You must contact your doctor immediately if you have any of the following early symptoms of allergic reactions:
-
-- -rash, hives, wheals, generalised itching,
-- -swelling of lips and tongue,
-- -difficulty in breathing, wheezing, tightness in the chest,
-- -general feeling of being unwell,
-- -dizziness and loss of consciousness.
-
-Severe symptoms, including difficulty in breathing and (nearly) fainting, require prompt emergency treatment.
-
-For patients who have received previous treatment with Factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
-
-Very common side effects (may affect more than 1 in 10 people)
-
-Headache
-
-Common side effects (may affect up to 1 in 10 people)
-
-Nausea
-
-Diarrhoea
-
-Rash
-
-Dizziness
-
-Hives
-
-## Uncommon side effects (may affect up to 1 in 100 people)
-
-Flushing, allergic reaction (hypersensitivity)
-
-Factor VIII inhibitors (for patients who have received previous treatment with Factor VIII (more than 150 days of treatment))
-
-Increase in some type of white blood cells
-
-Infusion reaction
-
-Redness of the eye
-
-Adverse drug reaction of the skin
-
-Side effects with unknown frequency (frequency cannot be estimated from the available data) Potentially life-threatening reactions (anaphylaxis)
-
-## Additional side effects in children
-
-Frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store ADYNOVI
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
-
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the blister in the outer carton in order to protect from light.
-
-During the shelf life the powder vial may be kept at room temperature (up to 30 °C) for a single period not exceeding 3 months. In this case, this medicine expires at the end of this 3-month period or the expiry date printed on the product vial, whichever is earlier. Please record the end of the 3-month storage at room temperature on the outer carton. The product may not be returned to refrigerated storage after storage at room temperature. Do not refrigerate the solution after preparation.
-
-Use the product within 3 hours once the powder is completely dissolved.
-
-The product is for single use only. Discard any unused solution appropriately.
-
-Do not throw away any medicines via waste water or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What ADYNOVI contains
-
-- -The active substance is rurioctocog alfa pegol (pegylated human coagulation factor VIII produced by recombinant DNA technology). Each powder vial contains nominally 250, 500, or 1 000 IU rurioctocog alfa pegol.
-- -The solvent vial contains 2 ml of water for injections.
-- -The other ingredients are mannitol, trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate, tris(hydroxymethyl)aminomethane and polysorbate 80. See section 2 'ADYNOVI contains sodium'.
-
-## What ADYNOVI looks like and contents of the pack
-
-ADYNOVI is provided as a powder and solvent for solution for injection (powder for solution for injection). The powder is a white to off-white crumbly powder. The solvent is a clear, colourless solution. After reconstitution, the solution is clear, colourless and free from foreign particles.
-
-## Marketing Authorisation Holder
-
-Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna
-
-## Manufacturer
-
-Baxalta Belgium Manufacturing SA Boulevard René Branquart 80 B-7860 Lessines Belgium
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-<div style=\"page-break-after: always\"></div>
-
-## België/Belgique/Belgien
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
-
-## България
-
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
-
-## Česká republika
-
-Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
-
-## Danmark
-
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
-
-## Deutschland
-
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
-
-## Eesti
-
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
-
-## Ελλάδα
-
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
-
-## España
-
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
-
-## France
-
-Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
-
-## Lietuva
-
-Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
-
-## Luxembourg/Luxemburg
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
-
-## Magyarország
-
-Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
-
-## Malta
-
-Τakeda HELLAS S.A. Tel: +30 210 6387800
-
-medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -5522,27 +5198,514 @@ medinfoEMEA@takeda.com
 
 Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
 ## România
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
+
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
+## Ireland
+
+Takeda Products Ireland Ltd
+
+Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
 Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ísland
 
-## Slovenská republika
-
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
 
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
+
+## Italia
+
+Takeda Italia S.p.A. Tel: +39 06 502601
+
+medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy
+
+Puh/Tel: 0800 774 051
+
+medinfoEMEA@takeda.com
+
+## Κύπρος
+
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
+
+## Sverige
+
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+
+## Latvija
+
+Takeda Latvia SIA
+
+Tel: +371 67840082
+
+medinfoEMEA@takeda.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Instructions for preparation and administration
+
+Use only the solvent and the reconstitution device for preparation of the solution that are provided with each package of ADYNOVI. The powder must not be mixed with other medicinal products or solvents or used with other reconstitution devices.
+
+It is strongly recommended that every time ADYNOVI is administered, the name and batch number of the product are recorded. Peel-off labels are provided on the powder vial.
+
+## Instructions for reconstitution
+
+-  Do not use after the expiry date stated on the labels and carton.
+-  Do not use if the BAXJECT II Hi-Flow device, its sterile barrier system or its packaging is damaged or shows any sign of deterioration.
+1. Use antiseptic technique (clean and low-germ conditions) and a flat work surface during the reconstitution procedure.
+2. Allow the vials of powder and solvent to reach room temperature (between 15 °C and 25 °C) before use.
+
+<div style=\"page-break-after: always\"></div>
+
+3. Remove plastic caps from the powder and solvent vials.
+4. Clean rubber stoppers with an alcohol wipe and allow to dry prior to use.
+5. Open the BAXJECT II Hi-Flow device package by peeling away the lid, without touching the inside (Figure A). Do not remove the device from the package.
+6. Turn the package over. Press straight down to fully insert the clear plastic spike through the solvent vial stopper (Figure B).
+7. Grip the BAXJECT II Hi-Flow package at its edge and pull the package off the device (Figure C). Do not remove the blue cap from the BAXJECT II Hi-Flow device. Do not touch the exposed purple plastic spike.
+8. Turn the system over so that the solvent vial is on top. Quickly insert the purple plastic spike fully into the powder vial stopper by pushing straight down (Figure D). The vacuum will draw the solvent into the powder vial.
+9. Swirl gently until the powder is completely dissolved. Do not refrigerate after reconstitution.
+
+<!-- image -->
+
+## Instructions for injection
+
+## Important note:
+
+-  Inspect the prepared solution for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles).
+
+Do not use ADYNOVI if the solution is not fully clear or not completely dissolved.
+
+1. Remove the blue cap from the BAXJECT II Hi-Flow device (Figure E). Do not draw air into the syringe. Connect the syringe to the BAXJECT II Hi-Flow device. Use of a Luer-lock syringe is recommended.
+2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure F).
+3. Disconnect the syringe; attach a suitable needle and inject intravenously. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
+
+A separate BAXJECT II Hi-Flow device is required to reconstitute each vial of ADYNOVI with the solvent.
+
+4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. Discard any unused solution appropriately.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+The following information is intended for healthcare professionals only:
+
+## On demand treatment
+
+In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
+
+Table 1: Guide for dosing in bleeding episodes and surgery
+
+| Degree of haemorrhage/type of surgical procedure                                                                | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or haematoma. | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
+| haemarthrosis,                                                                                                  | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
+| Life threatening haemorrhages.                                                                                  | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
+| Surgery Minor Including tooth extraction. Major                                                                 | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
+
+## Prophylaxis
+
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
+
+## Paediatric population
+
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+ADYNOVI 250 IU / 2 ml powder and solvent for solution for injection ADYNOVI 500 IU / 2 ml powder and solvent for solution for injection ADYNOVI 1 000 IU / 2 ml powder and solvent for solution for injection
+
+rurioctocog alfa pegol (pegylated recombinant human coagulation factor VIII)
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What ADYNOVI is and what it is used for
+2. What you need to know before you use ADYNOVI
+3. How to use ADYNOVI
+4. Possible side effects
+5. How to store ADYNOVI
+6. Contents of the pack and other information
+
+## 1. What ADYNOVI is and what it is used for
+
+ADYNOVI contains the active substance rurioctocog alfa pegol, pegylated human coagulation factor VIII. The human coagulation factor VIII has been modified to prolong its duration of action. Factor VIII is necessary for the blood to form clots and stop bleedings. In patients with haemophilia A (inborn lack of factor VIII), it is missing or not working properly.
+
+ADYNOVI is used for the treatment and prevention of bleeding in patients from 12 years of age with haemophilia A (an inherited bleeding disorder caused by lack of factor VIII).
+
+## 2. What you need to know before you use ADYNOVI
+
+## Do not use ADYNOVI
+
+- -if you are allergic to rurioctocog alfa pegol, octocog alfa or any of the other ingredients of this medicine (listed in section 6)
+- -if you are allergic to mouse or hamster proteins
+
+If you are unsure about this, ask your doctor.
+
+## Warnings and precautions
+
+It is important to keep a record of the batch number of your ADYNOVI. So, every time you get a new package of ADYNOVI, note down the date and the batch number (which is stated on the packaging after Lot) and keep this information in a safe place.
+
+<div style=\"page-break-after: always\"></div>
+
+Talk to your doctor before using ADYNOVI.
+
+There is a rare risk that you may experience an anaphylactic reaction (a severe, sudden allergic reaction) to ADYNOVI. You should be aware of the early signs of allergic reactions such as rash, hives, wheals, generalised itching, swelling of lips and tongue, difficulty in breathing, wheezing, tightness in the chest, general feeling of being unwell, and dizziness. These could be early symptoms of anaphylactic shock; additional symptoms may include extreme dizziness, loss of consciousness, and extreme difficulty in breathing.
+
+If any of these symptoms occur, stop the injection immediately and contact your doctor. Severe symptoms, including difficulty in breathing and (near) fainting, require prompt emergency treatment.
+
+If you suffer from cardiac disease, please inform your doctor, as there is an increased risk of blood clotting (coagulation) complications.
+
+## Patients developing factor VIII inhibitors
+
+The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly and you or your child will be monitored carefully for the development of these inhibitors. If you or your child´s bleeding is not being controlled with ADYNOVI, tell your doctor immediately.
+
+## Catheter-related complications
+
+If you require a central venous access device (CVAD), risk of CVAD-related complications including local infections, presence of bacteria in the blood and catheter site thrombosis should be considered.
+
+## Children and adolescents
+
+ADYNOVI can be used only in adolescents and adults (12 years and above). The listed warnings and precautions also apply to adolescents.
+
+## Other medicines and ADYNOVI
+
+Tell your doctor if you are using, have recently used or might use any other medicines.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Haemophilia A occurs only rarely in women. Therefore no experience regarding the use of ADYNOVI during pregnancy and breast-feeding is available.
+
+## Driving and using machines
+
+ADYNOVI has no or negligible influence on the ability to drive or use machines.
+
+## ADYNOVI contains sodium
+
+ADYNOVI contains 10 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.5% of the recommended maximum daily dietary intake of sodium for an adult. Depending on your body weight and your dose of ADYNOVI, you could receive multiple vials. This should be taken into consideration if you are on a low salt diet.
+
+## ADYNOVI contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each vial which is equivalent to 0.25 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. How to use ADYNOVI
+
+Treatment with ADYNOVI will be started and supervised by a doctor who is experienced in the care of patients with haemophilia A.
+
+Your doctor will calculate your dose of ADYNOVI depending on your condition and body weight, and on whether it is used for prevention or treatment of bleeding. The frequency of administration will depend on how well ADYNOVI is working for you. Usually, the replacement therapy with ADYNOVI is a life-long treatment.
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
+
+## Prevention of bleeding
+
+The usual dose of ADYNOVI is 40 to 50 IU per kg body weight, administered 2 times per week.
+
+## Treatment of bleeding
+
+The dose of ADYNOVI is calculated depending on your body weight and the factor VIII levels to be achieved. The target factor VIII levels will depend on the severity and location of the bleeding. If you think that the effect of ADYNOVI is insufficient, talk to your doctor. Your doctor will perform appropriate laboratory tests to make sure that you have adequate factor VIII
+
+levels. This is particularly important if you are having major surgery.
+
+## Use in children and adolescents
+
+ADYNOVI can be used only in adolescents and adults (12 years and above). The dose in adolescents is also calculated to body weight and is the same dose as for adults.
+
+## How ADYNOVI is given
+
+ADYNOVI is usually injected into a vein (intravenously) by your doctor or nurse. You or someone else might also administer ADYNOVI as an injection, but only after receiving adequate training. Detailed instructions for self-administration are given at the end of this package leaflet.
+
+## If you use more ADYNOVI than you should
+
+Always use ADYNOVI exactly as your doctor has told you. You should check with your doctor if you are not sure. If you inject more ADYNOVI than recommended, tell your doctor as soon as possible.
+
+## If you forget to use ADYNOVI
+
+Do not inject a double dose to make up for a forgotten dose. Proceed with the next injection as scheduled and continue as advised by your doctor.
+
+## If you stop using ADYNOVI
+
+Do not stop using ADYNOVI without consulting your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
+
+If severe, sudden allergic reactions (anaphylactic) occur, the injection must be stopped immediately . You must contact your doctor immediately if you have any of the following early symptoms of allergic reactions:
+
+- -rash, hives, wheals, generalised itching,
+- -swelling of lips and tongue,
+- -difficulty in breathing, wheezing, tightness in the chest,
+- -general feeling of being unwell,
+- -dizziness and loss of consciousness.
+
+Severe symptoms, including difficulty in breathing and (nearly) fainting, require prompt emergency treatment.
+
+For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies may form uncommonly (may affect up to 1 in 100 patients). For previously-untreated patients, factor VIII inhibitor antibodies may form very commonly (may affect more than 1 in 10 patients) (see section 2). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+
+Very common side effects (may affect more than 1 in 10 people)
+
+Cough
+
+Factor VIII inhibitors (for previously-untreated patients)
+
+Common side effects (may affect up to 1 in 10 people)
+
+Headache
+
+Vomiting
+
+Nausea
+
+Diarrhoea
+
+Rash
+
+Dizziness
+
+Hives
+
+Uncommon side effects (may affect up to 1 in 100 people)
+
+Flushing, allergic reaction (hypersensitivity)
+
+Factor VIII inhibitors [for patients who have received previous treatment with factor VIII (more than 150 days of treatment)]
+
+Increase in some type of white blood cells
+
+Infusion reaction
+
+Redness of the eye
+
+Rash on the eyelid
+
+Adverse drug reaction of the skin
+
+Side effects with unknown frequency (frequency cannot be estimated from the available data) Potentially life-threatening reactions (anaphylaxis)
+
+## Additional side effects in children
+
+Frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. How to store ADYNOVI
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the blister in the outer carton in order to protect from light.
+
+During the shelf life the powder vial may be kept at room temperature (up to 30 °C) for a single period not exceeding 3 months. In this case, this medicine expires at the end of this 3-month period or the expiry date printed on the product vial, whichever is earlier. Please record the end of the 3-month storage at room temperature on the outer carton. The product may not be returned to refrigerated storage after storage at room temperature. Do not refrigerate the solution after preparation.
+
+Use the product within 3 hours once the powder is completely dissolved.
+
+The product is for single use only. Discard any unused solution appropriately.
+
+Do not throw away any medicines via waste water or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What ADYNOVI contains
+
+- -The active substance is rurioctocog alfa pegol (pegylated human coagulation factor VIII produced by recombinant DNA technology). Each powder vial contains nominally 250, 500, or 1 000 IU rurioctocog alfa pegol.
+- -The solvent vial contains 2 ml of water for injections.
+- -The other ingredients are mannitol (E421), trehalose dihydrate, histidine, glutathione, sodium chloride, calcium chloride dihydrate (E509), tris(hydroxymethyl)aminomethane and polysorbate 80 (E433). See section 2 'ADYNOVI contains sodium' and 'ADYNOVI contains polysorbate 80'.
+
+## What ADYNOVI looks like and contents of the pack
+
+ADYNOVI is provided as a powder and solvent for solution for injection (powder for solution for injection). The powder is a white to off-white crumbly powder. The solvent is a clear, colourless solution. After reconstitution, the solution is clear, colourless and free from foreign particles.
+
+## Marketing Authorisation Holder
+
+Baxalta Innovations GmbH Industriestrasse 67 A-1221 Vienna Austria
+
+<div style=\"page-break-after: always\"></div>
+
+## Manufacturer
+
+Baxalta Belgium Manufacturing SA Boulevard René Branquart 80 B-7860 Lessines Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+
+## България
+
+Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+
+## Česká republika
+
+Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
+
+## Danmark
+
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
+
+## Deutschland
+
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
+
+## Eesti
+
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
+
+## Ελλάδα
+
+Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800
+
+medinfoEMEA@takeda.com
+
+## España
+
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+
+## France
+
+Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
+
+## Lietuva
+
+Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
+
+## Luxembourg/Luxemburg
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+
+## Magyarország
+
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+
+## Malta
+
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
+
+## Nederland
+
+Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
+
+## Norge
+
+Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
+
+## Österreich
+
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+
+## Polska
+
+Takeda Pharma Sp. z o.o. Tel.: +48223062447
+
+medinfoEMEA@takeda.com
+
+## Portugal
+
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+
+## Hrvatska
+
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
+## Ireland
+
+Takeda Products Ireland Ltd
+
+Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o.
+
+Tel: + 386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
+medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -5556,9 +5719,7 @@ medinfoEMEA@takeda.com
 
 Takeda Oy
 
-Puh/Tel:
-
-0800 774 051
+Puh/Tel: 0800 774 051
 
 medinfoEMEA@takeda.com
 
@@ -5566,15 +5727,13 @@ medinfoEMEA@takeda.com
 
 Proton Medical (Cyprus) Ltd
 
-Τηλ: +357 22866000 admin@protoncy.com
+Τηλ: +357 22866000
+
+admin@protoncy.com
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
@@ -5584,17 +5743,11 @@ Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
-
-medinfoEMEA@takeda.com
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Instructions for preparation and administration
 
@@ -5609,18 +5762,17 @@ It is strongly recommended that every time ADYNOVI is administered, the name and
 -  Do not refrigerate the solution after preparation.
 1. If the product is still stored in a refrigerator, take the sealed blister (contains powder and solvent vials preassembled with the system for reconstitution) from the refrigerator and let it reach room temperature (between 15 °C and 25 °C).
 2. Wash your hands thoroughly using soap and warm water.
+
+<div style=\"page-break-after: always\"></div>
+
 3. Open the ADYNOVI blister by peeling away the lid. Remove the BAXJECT III system from the blister.
 4. Place the powder vial on a flat surface with the solvent vial on top (Figure 1). The solvent vial has a blue stripe. Do not remove the blue cap until instructed in a later step.
 5. With one hand holding the powder vial in the BAXJECT III system, press down firmly on the solvent vial with the other hand until the system is fully collapsed and the solvent flows down into the powder vial (Figure 2). Do not tilt the system until the transfer is complete.
 6. Verify that the solvent transfer is complete. Swirl gently until all material is dissolved (Figure 3). Be sure that the powder is completely dissolved, otherwise not all reconstituted solution will pass through the device filter. The product dissolves rapidly (usually in less than 1 minute). After reconstitution the solution should be clear, colourless and free from foreign particles.
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 1
-
 <!-- image -->
 
-Figure 4
+Figure 1
 
 <!-- image -->
 
@@ -5633,16 +5785,11 @@ Antiseptic technique (clean and low-germ conditions) is required during administ
 -  Inspect the prepared solution for particulate matter and discolouration prior to administration (the solution should be clear, colourless and free from particles). Do not use if the solution is not fully clear or not completely dissolved.
 1. Remove the blue cap from BAXJECT III (Figure 4). Do not draw air into the syringe . Connect the syringe to BAXJECT III. Use of a Luer-lock syringe is recommended.
 2. Turn the system upside down (powder vial now on top). Draw the reconstituted solution into the syringe by pulling the plunger back slowly (Figure 5).
-3. Disconnect the syringe; attach a butterfly needle to the syringe and inject the reconstituted solution into a vein. The solution should be administered slowly, at a rate as determined by the patient's comfort level, not to exceed 10 ml per minute. (See section 4 'Possible side effects').
-4. Discard any unused solution appropriately.
+3. Disconnect the syringe; attach a suitable needle to the syringe and inject the reconstituted solution into a vein. If a patient is to receive more than one vial of ADYNOVI, the contents of multiple vials may be drawn into the same syringe.
+4. Administer over a period of up to 5 minutes (maximum infusion rate 10 ml per min).
+5. Discard any unused solution appropriately.
 
--------------------------------------------------------------------------------------------------------------------------
-
-The following information is intended for healthcare professionals only:
-
-## On demand treatment
-
-In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
+------------------------------------------------------------------------------------------------------------------------- The following information is intended for healthcare professionals only:
 
 Figure 2
 
@@ -5658,19 +5805,23 @@ Figure 3
 
 <div style=\"page-break-after: always\"></div>
 
+## On demand treatment
+
+In case of the following haemorrhagic events, factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery.
+
 Table 1: Guide for dosing in bleeding episodes and surgery
 
-| Degree of haemorrhage/type of surgical procedure                                                                    | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive haemarthrosis, muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
-| haematoma                                                                                                           | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
-| Life threatening haemorrhages.                                                                                      | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
-| Surgery Minor Including tooth extraction. Major                                                                     | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
+| Degree of haemorrhage/type of surgical procedure                                                     | Factor VIII level required (% or IU/dl)   | Frequency of doses (hours)/duration of therapy (days)                                                                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Haemorrhage Early haemarthrosis, muscle bleeding or oral bleeding. More extensive muscle bleeding or | 20 - 40                                   | Repeat injections every 12 to 24 hours. At least 1 day, until the bleeding episode, as indicated by pain, is resolved or healing is achieved. Repeat injections every 12 to 24 for 3 - 4 days or more until pain and acute disability are resolved. |
+| haemarthrosis, haematoma.                                                                            | 30 - 60                                   | hours                                                                                                                                                                                                                                               |
+| Life threatening haemorrhages.                                                                       | 60 - 100                                  | Repeat injections every 8 to 24 hours until threat is resolved.                                                                                                                                                                                     |
+| Surgery Minor Including tooth extraction. Major                                                      | 30 - 60 80 - 100 (pre- and postoperative) | Every 24 hours at least 1 day, until healing is achieved. Repeat injections every 8 to 24 hours until adequate wound healing, then continue therapy for at least another 7 days to maintain a factor VIII activity of 30% to 60% (IU/dl).           |
 
 ## Prophylaxis
 
-For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+For long term prophylaxis, the recommended dose is 40 to 50 IU of ADYNOVI per kg bodyweight twice-weekly in 3 to 4 day intervals. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.
 
 ## Paediatric population
 
-On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt;18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved FVIII levels and individual bleeding tendency.
+On demand treatment dosing in paediatric patients (12 to 18 years of age) is the same as for adult patients. Prophylactic treatment for patients from 12 to &lt; 18 years is the same as for adult patients. The long-term safety of ADYNOVI in children below 12 years has not yet been established. Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency.

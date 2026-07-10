@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-25 13:49:19
+document_datetime: 2026-07-07 12:32:33
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/onpattro-epar-product-information_en.pdf
 document_name: onpattro-epar-product-information_en.pdf
 version: success
-processing_time: 6.2993235
-conversion_datetime: 2025-12-28 04:23:51.31488
+processing_time: 6.2880158
+conversion_datetime: 2026-07-10 22:56:04.619426
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -170,11 +170,9 @@ Treatment with Onpattro reduces serum levels of vitamin A. Both too high or too 
 
 ## Pregnancy
 
-There are no data on the use of Onpattro in pregnant women. Animal studies are insufficient with respect to reproductive toxicity (see section 5.3). Due to the potential teratogenic risk arising from unbalanced vitamin A levels, Onpattro should not be used during pregnancy, unless the clinical condition of the woman requires treatment. As a precautionary measure, vitamin A and thyroid
+There are no data on the use of Onpattro in pregnant women. Animal studies are insufficient with respect to reproductive toxicity (see section 5.3). Due to the potential teratogenic risk arising from unbalanced vitamin A levels, Onpattro should not be used during pregnancy, unless the clinical condition of the woman requires treatment. As a precautionary measure, vitamin A and thyroid stimulating hormone (TSH) levels should be obtained early in pregnancy (see section 5.3). Close monitoring of the foetus should be carried out in the event of an unplanned pregnancy, especially during the first trimester (see section 4.4). Women of childbearing potential have to use effective contraception during treatment with Onpattro.
 
 <div style=\"page-break-after: always\"></div>
-
-stimulating hormone (TSH) levels should be obtained early in pregnancy (see section 5.3). Close monitoring of the foetus should be carried out in the event of an unplanned pregnancy, especially during the first trimester (see section 4.4). Women of childbearing potential have to use effective contraception during treatment with Onpattro.
 
 ## Breast-feeding
 
@@ -324,11 +322,9 @@ In patients with pre-defined cardiac involvement, centrally-assessed echocardiog
 
 ## Global open-label extension study
 
-Of 218 patients who completed one of the two parent studies with patisiran (18-month placebo-controlled study [Study 004] or 2-year open-label study [Study 003]), 211 patients (25 prior patisiran from Study 003, 49 prior placebo and 137 prior patisiran from Study 004) enrolled in a global
+Of 218 patients who completed one of the two parent studies with patisiran (18-month placebo-controlled study [Study 004] or 2-year open-label study [Study 003]), 211 patients (25 prior patisiran from Study 003, 49 prior placebo and 137 prior patisiran from Study 004) enrolled in a global open-label extension study (Study 006). All patients in Study 006 received 300 micrograms per kg of patisiran via IV infusion once every 3 weeks. At Study 006 baseline, for the prior (Study 004) patisiran and placebo groups, 42.3% and 28.6% had stage 1 disease, 51.8% and 55.1% had stage 2 disease and 5.8% and 16.3% had stage 3 disease, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-open-label extension study (Study 006). All patients in Study 006 received 300 micrograms per kg of patisiran via IV infusion once every 3 weeks. At Study 006 baseline, for the prior (Study 004) patisiran and placebo groups, 42.3% and 28.6% had stage 1 disease, 51.8% and 55.1% had stage 2 disease and 5.8% and 16.3% had stage 3 disease, respectively.
 
 After initiation of patisiran in Study 006, clinical benefit was observed in patients who previously received placebo as demonstrated by stable measures of disease manifestations. Although these patients achieved stabilisation of their disease, measures of disease manifestations remained worse compared to the prior patisiran group, supporting the early initiation of patisiran treatment after the onset of symptoms. Continued treatment with patisiran through Year 3, across a range of disease stages, resulted in continued benefit.
 
@@ -448,7 +444,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 Unopened vials
 
-3 years.
+4 years.
 
 ## After dilution
 
@@ -678,8 +674,8 @@ Onpattro
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -687,13 +683,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Onpattro 2 mg/mL sterile concentrate patisiran IV use after dilution
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Do not shake or vortex.
 
@@ -707,8 +703,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg/5 mL
 
@@ -1051,11 +1047,7 @@ medinfo@genesispharmagroup.com
 
 ## Ísland
 
-Alnylam Netherlands B.V.
-
-Sími: +31 20 369 7861
-
-medinfo@alnylam.com
+Alnylam Netherlands B.V. Sími: +31 20 369 7861 medinfo@alnylam.com
 
 ## Slovenská republika
 
@@ -1073,11 +1065,7 @@ Puh/Tel: 0800 417 452 (+358 942 727 020)
 
 ## Κύπρος
 
-Genesis Pharma (Cyprus) Ltd
-
-Τηλ: +357 22765715
-
-medinfo@genesispharmagroup.com
+Genesis Pharma (Cyprus) Ltd Τηλ: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Sverige
 
@@ -1088,6 +1076,8 @@ Alnylam Sweden AB Tel: 020109162 (+46 842002641) medinfo@alnylam.com
 Medison Pharma Latvia SIA Tel: +371 67 717 847 medinfo.latvia@medisonpharma.com
 
 ## This leaflet was last revised in
+
+## 03/2025
 
 ## Other sources of information
 
@@ -1139,9 +1129,9 @@ Onpattro is for intravenous use.
 - Onpattro must be diluted prior to intravenous infusion.
 - A dedicated line with an infusion set containing a 1.2 micron PES in-line infusion filter must be used. The infusion sets must be free of di(2-ethylhexyl)phthalate (DEHP).
 - The diluted solution of Onpattro should be infused intravenously over approximately 80 minutes at an initial infusion rate of approximately 1 mL/min for the first 15 minutes, followed by an increase to approximately 3 mL/min for the remainder of the infusion. The duration of infusion may be extended in the event of an IRR.
-- Onpattro must be administered through a secure and free-flowing venous access line. The infusion site should be monitored for possible infiltration during administration. Suspected extravasation should be managed according to local standard practice for non-vesicants.
 
 <div style=\"page-break-after: always\"></div>
 
+- Onpattro must be administered through a secure and free-flowing venous access line. The infusion site should be monitored for possible infiltration during administration. Suspected extravasation should be managed according to local standard practice for non-vesicants.
 - The patient should be observed during the infusion and, if clinically indicated, following the infusion.
 - After completion of the infusion, the intravenous administration set should be flushed with sodium chloride 9 mg/mL (0.9%) solution to ensure that all medicinal product has been administered.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-12 12:22:00
+document_datetime: 2026-07-07 12:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xolremdi.html
 document_name: xolremdi.html
 version: success
-processing_time: 0.1126435
-conversion_datetime: 2026-05-13 13:09:25.677294
+processing_time: 0.1334762
+conversion_datetime: 2026-07-10 22:35:12.562919
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Xolremdi
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Xolremdi used?
+### How is Xolremdi used?
 
 The medicine can only be obtained with a prescription. Treatment should only be started by specialist doctors with experience in the diagnosis or treatment of immune deficiencies (when the immune system does not function properly).
 
@@ -66,13 +66,13 @@ Xolremdi is available as capsules to be taken by mouth once a day on an empty st
 
 For more information about using Xolremdi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xolremdi work?
+### How does Xolremdi work?
 
 In people with WHIM syndrome, mutations (changes) in the gene for the CXCR4 receptor make it more responsive to CXCL12 (a signal molecule); this increased responsiveness causes mature neutrophils and lymphocytes to remain trapped inside the bone marrow, preventing them from entering the blood to fight infections.
 
 The active substance in Xolremdi, mavorixafor, attaches to and blocks the CXCR4 receptor, preventing its interaction with CXCL12. In this way, mavorixafor helps the release of mature neutrophils and lymphocytes from the bone marrow into the bloodstream, thereby increasing their availability to support the immune system.
 
-## What benefits of Xolremdi have been shown in studies?
+### What benefits of Xolremdi have been shown in studies?
 
 Xolremdi was shown to be effective at increasing the number of circulating mature neutrophils and lymphocytes in people with WHIM syndrome.
 
@@ -82,7 +82,7 @@ In people taking Xolremdi, neutrophil count stayed above 500 cells/microliter on
 
 Studies carried out with Xolremdi are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions with Xolremdi?
+### What are the side effects and restrictions with Xolremdi?
 
 For the full list of side effects and restrictions with Xolremdi, see the package leaflet.
 
@@ -90,7 +90,7 @@ The most common side effects with Xolremdi (which may affect more than 1 in 10 p
 
 Xolremdi must not be used during pregnancy. Because Xolremdi inhibits the CYP2D6 enzyme, it must not be used together with medicines that depend on CYP2D6 (such as dextromethorphan, codeine and tramadol) for their elimination from the body.
 
-## Why is Xolremdi authorised in the EU?
+### Why is Xolremdi authorised in the EU?
 
 Xolremdi was shown to be effective at increasing the number of circulating mature neutrophils and lymphocytes in people with WHIM syndrome, which is expected to reduce the risk of infections. Concerning safety, available data suggest that side effects are generally manageable.
 
@@ -98,7 +98,7 @@ The European Medicines Agency therefore decided that Xolremdi's benefits are gre
 
 Xolremdi has been authorised under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Xolremdi due to the rarity of the disease. The company must provide further data on Xolremdi. It must submit the results of a registry-based study on the long-term safety and effectiveness of Xolremdi, and provide yearly updates on any new information concerning the safety and effectiveness of the medicine. Every year, the Agency will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Xolremdi?
+### What measures are being taken to ensure the safe and effective use of Xolremdi?
 
 The company that markets Xolremdi will provide educational materials to doctors expected to prescribe Xolremdi to inform them about the risk of harm to an unborn baby if the medicine is taken during pregnancy. There is also a risk of harm for babies born to men treated with Xolremdi.
 
@@ -108,7 +108,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Xolremdi are continuously monitored. Suspected side effects reported with Xolremdi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xolremdi
+### Other information about Xolremdi
 
 Xolremdi received a marketing authorisation under exceptional circumstances valid throughout the EU on 27 April 2026.
 
@@ -122,7 +122,7 @@ English (EN) (125.92 KB - PDF)
 
 [View](/en/documents/overview/xolremdi-epar-medicine-overview_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-852)
 
 български (BG) (139.51 KB - PDF)
 
@@ -154,7 +154,7 @@ Deutsch (DE) (117.74 KB - PDF)
 
 [View](/de/documents/overview/xolremdi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (682.66 KB - PDF)
+eesti (ET) (682.66 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -172,23 +172,11 @@ français (FR) (638.48 KB - PDF)
 
 [View](/fr/documents/overview/xolremdi-epar-medicine-overview_fr.pdf)
 
-Gaeilge (IE) (596.67 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/ie/documents/overview/xolremdi-epar-medicine-overview_ie.pdf)
-
 hrvatski (HR) (681.55 KB - PDF)
 
 **First published:** 12/05/2026
 
 [View](/hr/documents/overview/xolremdi-epar-medicine-overview_hr.pdf)
-
-íslenska (IS) (568.02 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/is/documents/overview/xolremdi-epar-medicine-overview_is.pdf)
 
 italiano (IT) (663.15 KB - PDF)
 
@@ -196,13 +184,13 @@ italiano (IT) (663.15 KB - PDF)
 
 [View](/it/documents/overview/xolremdi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (719.67 KB - PDF)
+latviešu (LV) (719.67 KB - PDF)
 
 **First published:** 12/05/2026
 
 [View](/lv/documents/overview/xolremdi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (672.38 KB - PDF)
+lietuvių (LT) (672.38 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -225,12 +213,6 @@ Nederlands (NL) (627.99 KB - PDF)
 **First published:** 12/05/2026
 
 [View](/nl/documents/overview/xolremdi-epar-medicine-overview_nl.pdf)
-
-norsk (NO) (608.83 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/no/documents/overview/xolremdi-epar-medicine-overview_no.pdf)
 
 polski (PL) (680.59 KB - PDF)
 
@@ -262,7 +244,7 @@ slovenščina (SL) (680.92 KB - PDF)
 
 [View](/sl/documents/overview/xolremdi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (608.03 KB - PDF)
+suomi (FI) (608.03 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -273,6 +255,18 @@ svenska (SV) (688.82 KB - PDF)
 **First published:** 12/05/2026
 
 [View](/sv/documents/overview/xolremdi-epar-medicine-overview_sv.pdf)
+
+Íslenska (IS) (568.02 KB - PDF)
+
+**First published:** 12/05/2026
+
+[View](/is/documents/overview/xolremdi-epar-medicine-overview_is.pdf)
+
+norsk (NO) (608.83 KB - PDF)
+
+**First published:** 12/05/2026
+
+[View](/no/documents/overview/xolremdi-epar-medicine-overview_no.pdf)
 
 Xolremdi : EPAR - Risk management plan
 
@@ -286,169 +280,168 @@ English (EN) (558.59 KB - PDF)
 
 Xolremdi : EPAR - Product information
 
-English (EN) (601.66 KB - PDF)
+English (EN) (321.03 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/en/documents/product-information/xolremdi-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-989)
+[Other languages (24)](#file-language-dropdown-404)
 
-български (BG) (738.53 KB - PDF)
+български (BG) (756.33 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/bg/documents/product-information/xolremdi-epar-product-information_bg.pdf)
 
-español (ES) (616.92 KB - PDF)
+español (ES) (330.92 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/es/documents/product-information/xolremdi-epar-product-information_es.pdf)
 
-čeština (CS) (691.05 KB - PDF)
+čeština (CS) (671.79 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/cs/documents/product-information/xolremdi-epar-product-information_cs.pdf)
 
-dansk (DA) (586.83 KB - PDF)
+dansk (DA) (344.42 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/da/documents/product-information/xolremdi-epar-product-information_da.pdf)
 
-Deutsch (DE) (640.94 KB - PDF)
+Deutsch (DE) (348.44 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/de/documents/product-information/xolremdi-epar-product-information_de.pdf)
 
-eesti keel (ET) (682.66 KB - PDF)
+eesti (ET) (456.79 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/et/documents/product-information/xolremdi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (775.09 KB - PDF)
+ελληνικά (EL) (761.92 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/el/documents/product-information/xolremdi-epar-product-information_el.pdf)
 
-français (FR) (638.48 KB - PDF)
+français (FR) (357.28 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/fr/documents/product-information/xolremdi-epar-product-information_fr.pdf)
 
-Gaeilge (IE) (596.67 KB - PDF)
+hrvatski (HR) (586.54 KB - PDF)
 
-**First published:** 12/05/2026
-
-[View](/ie/documents/product-information/xolremdi-epar-product-information_ie.pdf)
-
-hrvatski (HR) (681.55 KB - PDF)
-
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/hr/documents/product-information/xolremdi-epar-product-information_hr.pdf)
 
-íslenska (IS) (568.02 KB - PDF)
+italiano (IT) (403.3 KB - PDF)
 
-**First published:** 12/05/2026
-
-[View](/is/documents/product-information/xolremdi-epar-product-information_is.pdf)
-
-italiano (IT) (663.15 KB - PDF)
-
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/it/documents/product-information/xolremdi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (719.67 KB - PDF)
+latviešu (LV) (711.96 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/lv/documents/product-information/xolremdi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (672.38 KB - PDF)
+lietuvių (LT) (676.2 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/lt/documents/product-information/xolremdi-epar-product-information_lt.pdf)
 
-magyar (HU) (722.19 KB - PDF)
+magyar (HU) (571.55 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/hu/documents/product-information/xolremdi-epar-product-information_hu.pdf)
 
-Malti (MT) (720.96 KB - PDF)
+Malti (MT) (656.05 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/mt/documents/product-information/xolremdi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (627.99 KB - PDF)
+Nederlands (NL) (335.24 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/nl/documents/product-information/xolremdi-epar-product-information_nl.pdf)
 
-norsk (NO) (608.83 KB - PDF)
+polski (PL) (636.69 KB - PDF)
 
-**First published:** 12/05/2026
-
-[View](/no/documents/product-information/xolremdi-epar-product-information_no.pdf)
-
-polski (PL) (680.59 KB - PDF)
-
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/pl/documents/product-information/xolremdi-epar-product-information_pl.pdf)
 
-português (PT) (608.74 KB - PDF)
+português (PT) (330.05 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/pt/documents/product-information/xolremdi-epar-product-information_pt.pdf)
 
-română (RO) (662.42 KB - PDF)
+română (RO) (669.98 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/ro/documents/product-information/xolremdi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (715.63 KB - PDF)
+slovenčina (SK) (644.83 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/sk/documents/product-information/xolremdi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (680.92 KB - PDF)
+slovenščina (SL) (607.42 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/sl/documents/product-information/xolremdi-epar-product-information_sl.pdf)
 
-Suomi (FI) (608.03 KB - PDF)
+suomi (FI) (326.17 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/fi/documents/product-information/xolremdi-epar-product-information_fi.pdf)
 
-svenska (SV) (688.82 KB - PDF)
+svenska (SV) (414.65 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
 
 [View](/sv/documents/product-information/xolremdi-epar-product-information_sv.pdf)
+
+Íslenska (IS) (334.33 KB - PDF)
+
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
+
+[View](/is/documents/product-information/xolremdi-epar-product-information_is.pdf)
+
+norsk (NO) (318.04 KB - PDF)
+
+**First published:** 12/05/2026 **Last updated:** 07/07/2026
+
+[View](/no/documents/product-information/xolremdi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** T/0000347462
+
+03/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -466,7 +459,7 @@ English (EN) (66.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-902)
 
 български (BG) (82.58 KB - PDF)
 
@@ -498,7 +491,7 @@ Deutsch (DE) (66.69 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (66.01 KB - PDF)
+eesti (ET) (66.01 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -516,23 +509,11 @@ français (FR) (76.35 KB - PDF)
 
 [View](/fr/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_fr.pdf)
 
-Gaeilge (IE) (64.35 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/ie/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_ie.pdf)
-
 hrvatski (HR) (92.97 KB - PDF)
 
 **First published:** 12/05/2026
 
 [View](/hr/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (88.44 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/is/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (65.15 KB - PDF)
 
@@ -540,13 +521,13 @@ italiano (IT) (65.15 KB - PDF)
 
 [View](/it/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (94.5 KB - PDF)
+latviešu (LV) (94.5 KB - PDF)
 
 **First published:** 12/05/2026
 
 [View](/lv/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (95.84 KB - PDF)
+lietuvių (LT) (95.84 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -569,12 +550,6 @@ Nederlands (NL) (77.44 KB - PDF)
 **First published:** 12/05/2026
 
 [View](/nl/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (76.21 KB - PDF)
-
-**First published:** 12/05/2026
-
-[View](/no/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (107.23 KB - PDF)
 
@@ -606,7 +581,7 @@ slovenščina (SL) (73.8 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (64.71 KB - PDF)
+suomi (FI) (64.71 KB - PDF)
 
 **First published:** 12/05/2026
 
@@ -618,27 +593,30 @@ svenska (SV) (77.1 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (88.44 KB - PDF)
+
+**First published:** 12/05/2026
+
+[View](/is/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (76.21 KB - PDF)
+
+**First published:** 12/05/2026
+
+[View](/no/documents/all-authorised-presentations/xolremdi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xolremdi
-
-Active substance
-
-mavorixafor
-
-International non-proprietary name (INN) or common name
-
-mavorixafor
-
-Therapeutic area (MeSH)
-
-Primary Immunodeficiency Diseases
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AX24
+- **Name of medicine**
+    - Xolremdi
+- **Active substance**
+    - mavorixafor
+- **International non-proprietary name (INN) or common name**
+    - mavorixafor
+- **Therapeutic area (MeSH)**
+    - Primary Immunodeficiency Diseases
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AX24
 
 ### Pharmacotherapeutic group
 
@@ -650,43 +628,42 @@ Xolremdi is indicated in patients 12 years of age and older for the treatment of
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006496
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Exceptional circumstances
-
-This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-X4 Pharmaceuticals GmbH
-
-Helmut-Qualtinger-Gasse 2 Landstrasse 1030 Vienna Austria
-
-Opinion adopted
-
-26/02/2026
-
-Opinion status
-
-Positive
-
-Marketing authorisation issued
-
-27/04/2026
+- **EMA product number**
+    - EMEA/H/C/006496
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Norgine B.V. Antonio Vivaldistraat 150  1083 HP Amsterdam  Netherlands
+- **Opinion adopted**
+    - 26/02/2026
+- **Opinion status**
+    - Positive
+- **Marketing authorisation issued**
+    - 27/04/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Xolremdi : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (120.29 KB - PDF)
+
+**First published:** 07/07/2026
+
+[View](/en/documents/procedural-steps-after/xolremdi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Xolremdi : Orphan maintenance assessment report (initial authorisastion)
 
@@ -730,6 +707,6 @@ English (EN) (163.47 KB - PDF)
 
 **This page was last updated on**
 
-12/05/2026
+07/07/2026
 
 ## Share this page

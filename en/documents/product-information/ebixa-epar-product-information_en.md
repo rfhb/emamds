@@ -1,24 +1,22 @@
 ---
-document_datetime: 2023-09-21 20:50:20
+document_datetime: 2026-07-08 15:43:15
 document_pages: 88
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ebixa-epar-product-information_en.pdf
 document_name: ebixa-epar-product-information_en.pdf
 version: success
-processing_time: 20.7521037
-conversion_datetime: 2025-12-28 13:26:31.910484
+processing_time: 20.0457802
+conversion_datetime: 2026-07-10 22:58:31.555655
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -60,7 +58,7 @@ Treatment should be initiated and supervised by a physician experienced in the d
 
 Therapy should only be started if a caregiver is available who will regularly monitor the intake of the medicinal product by the patient. Diagnosis should be made according to current guidelines. The tolerance and dosing of memantine should be reassessed on a regular basis, preferably within three months after start of treatment. Thereafter, the clinical benefit of memantine and the patient's tolerance of treatment should be reassessed on a regular basis according to current clinical guidelines. Maintenance treatment can be continued for as long as a therapeutic benefit is favourable and the patient tolerates treatment with memantine. Discontinuation of memantine should be considered when evidence of a therapeutic effect is no longer present or if the patient does not tolerate treatment.
 
-Adults:
+## Adults:
 
 ## Dose titration
 
@@ -172,22 +170,33 @@ In clinical trials in mild to severe dementia, involving 1,784 patients treated 
 
 The following Adverse Reactions listed in the Table below have been accumulated in clinical studies with Ebixa and since its introduction in the market.
 
-Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estim ated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| SYSTEM ORGAN CLASS                                   | FREQUENCY                        | ADVERSE REACTION                                   |
-|------------------------------------------------------|----------------------------------|----------------------------------------------------|
-| Infections and infestations                          | Uncommon                         | Fungal infections                                  |
-| Immune system disorders                              | Common                           | Drug hypersensitivity                              |
-| Psychiatric disorders                                | Common                           | Somnolence                                         |
-| Nervous system disorders                             | Common Common Uncommon Very rare | Dizziness Balance disorders Gait abnormal Seizures |
-| Cardiac disorders Vascular disorders                 | Uncommon Common Uncommon         | Cardiac failure Hypertension Venous                |
-| Respiratory, thoracic and mediastinal disorders      |                                  | thrombosis/thromboembolism                         |
-|                                                      | Common                           | Dyspnoea                                           |
-| Gastrointestinal disorders Hepatobiliary disorders   | Common Uncommon Not known        | Constipation Vomiting Pancreatitis 2               |
-|                                                      | Common Not known                 | Elevated liver function test Hepatitis             |
-| General disorders and administration site conditions | Common                           | Headache                                           |
+| SYSTEM ORGAN CLASS                                   | FREQUENCY   | ADVERSE REACTION                  |
+|------------------------------------------------------|-------------|-----------------------------------|
+| Infections and infestations                          | Uncommon    | Fungal infections                 |
+| Immune system disorders                              | Common      | Drug hypersensitivity             |
+| Psychiatric disorders                                | Common      | Somnolence                        |
+|                                                      | Uncommon    | Confusion                         |
+|                                                      | Uncommon    | Hallucinations 1                  |
+|                                                      | Not known   | Psychotic reactions 2             |
+| Nervous system disorders                             | Common      | Dizziness                         |
+|                                                      | Common      | Balance disorders                 |
+|                                                      | Uncommon    | Gait abnormal                     |
+|                                                      | Very rare   | Seizures                          |
+| Cardiac disorders                                    | Uncommon    | Cardiac failure                   |
+| Vascular disorders                                   | Common      | Hypertension                      |
+|                                                      | Uncommon    | Venous thrombosis/thromboembolism |
+| Respiratory, thoracic and mediastinal disorders      | Common      | Dyspnoea                          |
+| Gastrointestinal disorders                           | Common      | Constipation                      |
+|                                                      | Uncommon    | Vomiting                          |
+|                                                      | Not known   | Pancreatitis 2                    |
+| Hepatobiliary disorders                              | Common      | Elevated liver function test      |
+|                                                      | Not known   | Hepatitis                         |
+| General disorders and administration site conditions | Common      | Headache                          |
+|                                                      | Uncommon    | Fatigue                           |
 
 Alzheimer's disease has been associated with depression, suicidal ideation and suicide. In postmarketing experience these reactions have been reported in patients treated with Ebixa.
 
@@ -235,7 +244,7 @@ A pivotal monotherapy study of memantine in the treatment of mild to moderate Al
 
 Alzheimer's disease assessment scale (ADAS-cog) (p=0.003) and CIBIC-plus (p=0.004) at week 24 (last observation carried forward (LOCF)). In another monotherapy study in mild to moderate Alzheimer's disease a total of 470 patients (MMSE total scores at baseline of 11-23) were randomised. In the prospectively defined primary analysis statistical significance was not reached at the primary efficacy endpoint at week 24.
 
-A meta-analysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p  0.0001).
+A metaanalysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p &lt; 0.0001).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -269,11 +278,9 @@ At a dose of memantine of 20 mg per day the CSF levels match the ki-value (ki = 
 
 ## 5.3 Preclinical safety data
 
-In short term studies in rats, memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum
+In short term studies in rats, memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum concentrations. Ataxia and other preclinical signs have preceded the vacuolisation and necrosis. As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-concentrations. Ataxia and other preclinical signs have preceded the vacuolisation and necrosis. As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 
 Ocular changes were inconsistently observed in repeat dose toxicity studies in rodents and dogs, but not in monkeys. Specific ophthalmoscopic examinations in clinical studies with memantine did not disclose any ocular changes.
 
@@ -307,11 +314,11 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Blister: PVDC/PE/PVC/Al-blister or PP/Al-blister
+Blister: PVDC/PE/PVC/Al-blister or PP/Al-blister Ebixa 10 mg film-coated tablets:
 
 <div style=\"page-break-after: always\"></div>
 
-Ebixa 10 mg film-coated tablets: Pack sizes of 14, 28, 30, 42, 50, 56, 70, 84, 98, 100,112 film-coated tablets.
+Pack sizes of 14, 28, 30, 42, 50, 56, 70, 84, 98, 100,112 film-coated tablets.
 
 Multipack containing 980 (10 packs of 98) and 1000 (20 packs of 50) film-coated tablets.
 
@@ -331,7 +338,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -511,22 +520,33 @@ In clinical trials in mild to severe dementia, involving 1,784 patients treated 
 
 The following Adverse Reactions listed in the Table below have been accumulated in clinical studies with Ebixa and since its introduction in the market.
 
-Adverse reactions are ranked according to system organ class, using the following convention: very common (≥ 1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions are ranked according to system organ class, using the following convention: very common (≥ 1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be esti mated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| SYSTEM ORGAN CLASS                                   | FREQUENCY                        | ADVERSE REACTION                                   |
-|------------------------------------------------------|----------------------------------|----------------------------------------------------|
-| Infections and infestations                          | Uncommon                         | Fungal infections                                  |
-| Immune system disorders                              | Common                           | Drug hypersensitivity                              |
-| Psychiatric disorders                                | Common                           | Somnolence                                         |
-| Nervous system disorders                             | Common Common Uncommon Very rare | Dizziness Balance disorders Gait abnormal Seizures |
-| Cardiac disorders Vascular disorders                 | Uncommon Common Uncommon         | Cardiac failure Hypertension Venous                |
-| Respiratory, thoracic and mediastinal disorders      |                                  | thrombosis/thromboembolism                         |
-|                                                      | Common                           | Dyspnoea                                           |
-| Gastrointestinal disorders Hepatobiliary disorders   | Common Uncommon Not known        | Constipation Vomiting Pancreatitis 2               |
-|                                                      | Common Not known                 | Elevated liver function test Hepatitis             |
-| General disorders and administration site conditions | Common                           | Headache                                           |
+| SYSTEM ORGAN CLASS                                   | FREQUENCY   | ADVERSE REACTION                  |
+|------------------------------------------------------|-------------|-----------------------------------|
+| Infections and infestations                          | Uncommon    | Fungal infections                 |
+| Immune system disorders                              | Common      | Drug hypersensitivity             |
+| Psychiatric disorders                                | Common      | Somnolence                        |
+|                                                      | Uncommon    | Confusion                         |
+|                                                      | Uncommon    | Hallucinations 1                  |
+|                                                      | Not known   | Psychotic reactions 2             |
+| Nervous system disorders                             | Common      | Dizziness                         |
+|                                                      | Common      | Balance disorders                 |
+|                                                      | Uncommon    | Gait abnormal                     |
+|                                                      | Very rare   | Seizures                          |
+| Cardiac disorders                                    | Uncommon    | Cardiac failure                   |
+| Vascular disorders                                   | Common      | Hypertension                      |
+|                                                      | Uncommon    | Venous thrombosis/thromboembolism |
+| Respiratory, thoracic and mediastinal disorders      | Common      | Dyspnoea                          |
+| Gastrointestinal disorders                           | Common      | Constipation                      |
+|                                                      | Uncommon    | Vomiting                          |
+|                                                      | Not known   | Pancreatitis 2                    |
+| Hepatobiliary disorders                              | Common      | Elevated liver function test      |
+|                                                      | Not known   | Hepatitis                         |
+| General disorders and administration site conditions | Common      | Headache                          |
+|                                                      | Uncommon    | Fatigue                           |
 
 Alzheimer's disease has been associated with depression, suicidal ideation and suicide. In postmarketing experience these reactions have been reported in patients treated with Ebixa.
 
@@ -568,13 +588,11 @@ Memantine is a voltage-dependent, moderate-affinity uncompetitive NMDA-receptor 
 
 A pivotal monotherapy study in a population of patients suffering from moderate to severe Alzheimer's disease (mini mental state examination (MMSE) total scores at baseline of 3 - 14) included a total of 252 outpatients. The study showed beneficial effects of memantine treatment in comparison to placebo at 6 months (observed cases analysis for the clinician's interview based impression of change (CIBIC-plus): p=0.025; Alzheimer's disease cooperative study - activities of the daily living (ADCS-ADLsev): p=0.003; severe impairment battery (SIB): p=0.002).
 
-A pivotal monotherapy study of memantine in the treatment of mild to moderate Alzheimer's disease (MMSE total scores at baseline of 10 to 22) included 403 patients. Memantine-treated patients showed
+A pivotal monotherapy study of memantine in the treatment of mild to moderate Alzheimer's disease (MMSE total scores at baseline of 10 to 22) included 403 patients. Memantine-treated patients showed a statistically significantly better effect than placebo-treated patients on the primary endpoints: Alzheimer's disease assessment scale (ADAS-cog) (p=0.003) and CIBIC-plus (p=0.004) at week 24 (last observation carried forward (LOCF)). In another monotherapy study in mild to moderate Alzheimer's disease a total of 470 patients (MMSE total scores at baseline of 11-23) were randomised. In the prospectively defined primary analysis statistical significance was not reached at the primary efficacy endpoint at week 24.
 
 <div style=\"page-break-after: always\"></div>
 
-a statistically significantly better effect than placebo-treated patients on the primary endpoints: Alzheimer's disease assessment scale (ADAS-cog) (p=0.003) and CIBIC-plus (p=0.004) at week 24 (last observation carried forward (LOCF)). In another monotherapy study in mild to moderate Alzheimer's disease a total of 470 patients (MMSE total scores at baseline of 11-23) were randomised. In the prospectively defined primary analysis statistical significance was not reached at the primary efficacy endpoint at week 24.
-
-A meta-analysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p  0.0001).
+A metaanalysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p &lt; 0.0001).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -654,8 +672,6 @@ No special requirements.
 
 Prior to first use the dosing pump has to be screwed on the bottle. For removing the screw cap from the bottle the cap must be turned anticlockwise and unscrewed completely (fig.1).
 
-1.
-
 <!-- image -->
 
 Mounting the dosing pump on the bottle:
@@ -682,7 +698,7 @@ When used for the first time, the dosing pump does not dispense the correct amou
 
 The solution thus dispensed is discarded. The next time the dosing pump head is pushed downwards completely (equivalent to one pump actuation), it dispenses the correct dose (1 pump actuation is equivalent to 0.5 ml oral solution, and contains 5 mg of the active substance memantine hydrochloride; fig. 6).
 
-## 6
+## 6.
 
 <!-- image -->
 
@@ -874,22 +890,33 @@ In clinical trials in mild to severe dementia, involving 1,784 patients treated 
 
 The following Adverse Reactions listed in the Table below have been accumulated in clinical studies with Ebixa and since its introduction in the market.
 
-Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estim ated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| SYSTEM ORGAN CLASS                                   | FREQUENCY                        | ADVERSE REACTION                                   |
-|------------------------------------------------------|----------------------------------|----------------------------------------------------|
-| Infections and infestations                          | Uncommon                         | Fungal infections                                  |
-| Immune system disorders                              | Common                           | Drug hypersensitivity                              |
-| Psychiatric disorders                                | Common                           | Somnolence                                         |
-| Nervous system disorders                             | Common Common Uncommon Very rare | Dizziness Balance disorders Gait abnormal Seizures |
-| Cardiac disorders Vascular disorders                 | Uncommon Common Uncommon         | Cardiac failure Hypertension Venous                |
-| Respiratory, thoracic and mediastinal disorders      | Common                           | thrombosis/thromboembolism                         |
-|                                                      |                                  | Dyspnoea                                           |
-| Gastrointestinal disorders Hepatobiliary disorders   | Common Uncommon Not known        | Constipation Vomiting Pancreatitis 2               |
-|                                                      | Common Not known                 | Elevated liver function test Hepatitis             |
-| General disorders and administration site conditions | Common                           | Headache                                           |
+| SYSTEM ORGAN CLASS                                   | FREQUENCY   | ADVERSE REACTION                  |
+|------------------------------------------------------|-------------|-----------------------------------|
+| Infections and infestations                          | Uncommon    | Fungal infections                 |
+| Immune system disorders                              | Common      | Drug hypersensitivity             |
+| Psychiatric disorders                                | Common      | Somnolence                        |
+|                                                      | Uncommon    | Confusion                         |
+|                                                      | Uncommon    | Hallucinations 1                  |
+|                                                      | Not known   | Psychotic reactions 2             |
+| Nervous system disorders                             | Common      | Dizziness                         |
+|                                                      | Common      | Balance disorders                 |
+|                                                      | Uncommon    | Gait abnormal                     |
+|                                                      | Very rare   | Seizures                          |
+| Cardiac disorders                                    | Uncommon    | Cardiac failure                   |
+| Vascular disorders                                   | Common      | Hypertension                      |
+|                                                      | Uncommon    | Venous thrombosis/thromboembolism |
+| Respiratory, thoracic and mediastinal disorders      | Common      | Dyspnoea                          |
+| Gastrointestinal disorders                           | Common      | Constipation                      |
+|                                                      | Uncommon    | Vomiting                          |
+|                                                      | Not known   | Pancreatitis 2                    |
+| Hepatobiliary disorders                              | Common      | Elevated liver function test      |
+|                                                      | Not known   | Hepatitis                         |
+| General disorders and administration site conditions | Common      | Headache                          |
+|                                                      | Uncommon    | Fatigue                           |
 
 Alzheimer's disease has been associated with depression, suicidal ideation and suicide. In postmarketing experience these reactions have been reported in patients treated with Ebixa.
 
@@ -937,7 +964,7 @@ A pivotal monotherapy study of memantine in the treatment of mild to moderate Al
 
 Alzheimer's disease assessment scale (ADAS-cog) (p=0.003) and CIBIC-plus (p=0.004) at week 24 last observation carried forward (LOCF). In another monotherapy study in mild to moderate Alzheimer's disease a total of 470 patients (MMSE total scores at baseline of 11-23) were randomised. In the prospectively defined primary analysis statistical significance was not reached at the primary efficacy endpoint at week 24.
 
-A meta-analysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p  0.0001).
+A metaanalysis of patients with moderate to severe Alzheimer's disease (MMSE total scores &lt; 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains. When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p &lt; 0.0001).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -971,11 +998,9 @@ At a dose of memantine of 20 mg per day the CSF levels match the ki-value (ki = 
 
 ## 5.3 Preclinical safety data
 
-In short term studies in rats, memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum
+In short term studies in rats, memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum concentrations. Ataxia and other preclinical signs have preceded the vacuolisation and necrosis. As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-concentrations. Ataxia and other preclinical signs have preceded the vacuolisation and necrosis. As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 
 Ocular changes were inconsistently observed in repeat dose toxicity studies in rodents and dogs, but not in monkeys. Specific ophthalmoscopic examinations in clinical studies with memantine did not disclose any ocular changes.
 
@@ -1019,7 +1044,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1085,13 +1112,11 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+## A. LABELLING
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON FOR BLISTER PACK
 
 <div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## CARTON FOR BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1127,9 +1152,7 @@ Each film-coated tablet contains 10 mg memantine hydrochloride equivalent to 8.3
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH  OF CHILDREN
 
@@ -1137,47 +1160,52 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP {MM.YYYY}
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S
-
-Ottiliavej 9
-
-2500 Valby
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
 Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-- EU/1/02/219/016 14 film-coated tablets
+EU/1/02/219/016 14 film-coated tablets
 
 EU/1/02/219/007 28 film-coated tablets
 
-- EU/1/02/219/001 30 film-coated tablets
-- EU/1/02/219/017 42 film-coated tablets
-- EU/1/02/219/010 49 x 1 film-coated tablets
-- EU/1/02/219/002 50 film-coated tablets
+EU/1/02/219/001 30 film-coated tablets
+
+EU/1/02/219/017 42 film-coated tablets
+
+EU/1/02/219/010 49 x 1 film-coated tablets
+
+EU/1/02/219/002 50 film-coated tablets
 
 EU/1/02/219/008 56 film-coated tablets
 
-- EU/1/02/219/014 56 x 1 film-coated tablets
+EU/1/02/219/014 56 x 1 film-coated tablets
+
 - EU/1/02/219/018 70 film-coated tablets
 - EU/1/02/219/019 84 film-coated tablets
-- EU/1/02/219/020 98 film-coated tablets
-- EU/1/02/219/015 98 x 1 film-coated tablets
-- EU/1/02/219/003 100 film-coated tablets
+
+EU/1/02/219/020 98 film-coated tablets
+
+EU/1/02/219/015 98 x 1 film-coated tablets
+
+EU/1/02/219/003 100 film-coated tablets
+
 - EU/1/02/219/011 100 x 1 film-coated tablets
-- EU/1/02/219/009 112 film-coated tablets
+
+EU/1/02/219/009 112 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1185,29 +1213,28 @@ Lot {number}
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Ebixa 10 mg tablets
 
-<div style=\"page-break-after: always\"></div>
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
-37
-
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON AS INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON AS INTERMEDIATE PACK / COMPONENT OF A MULTIPACK (WITHOUT
+
+## BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1281,7 +1308,9 @@ Ebixa 10 mg tablets
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
@@ -1315,7 +1344,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1357,8 +1386,6 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTER
 
 ## BLISTER FOR TABLETS
@@ -1379,8 +1406,9 @@ EXP {MM.YYYY}
 
 Lot {number}
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1438,11 +1466,11 @@ When opened, use within 3 months.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
@@ -1472,8 +1500,8 @@ Ebixa 5 mg/pump actuation oral solution
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1531,11 +1559,11 @@ When opened, use within 3 months.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
 
@@ -1552,8 +1580,8 @@ Lot {number}
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15. INSTRUCTIONS ON USE   |
-|---------------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1565,8 +1593,8 @@ Ebixa 5 mg/pump actuation oral solution
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1620,13 +1648,15 @@ When opened, use within 3 months.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -1654,8 +1684,8 @@ Ebixa 5 mg/pump actuation oral solution
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1716,23 +1746,17 @@ Ebixa 5 mg Memantine hydrochloride Week 1, Day 1 2 3 4 5 6 7
 
 Ebixa 10 mg Memantine hydrochloride Week 2, Day 8 9 10 11 12 13 14
 
-7 Film-coated tablets Ebixa 10 mg
+7 Film-coated tablets Ebixa 10 mg Memantine hydrochloride Week 3, Day 15 16 17 18 19 20 21 7 Film-coated tablets Ebixa 15 mg Ebixa 20 mg Memantine hydrochloride Week 4, Day 22 23 24 25 26 27 28 7 Film-coated tablets Ebixa 20 mg For continuation of your treatment please consult your doctor
 
 <div style=\"page-break-after: always\"></div>
-
-Memantine hydrochloride Week 3, Day 15 16 17 18 19 20 21 7 Film-coated tablets Ebixa 15 mg
-
-Ebixa 20 mg Memantine hydrochloride Week 4, Day 22 23 24 25 26 27 28 7 Film-coated tablets Ebixa 20 mg
-
-For continuation of your treatment please consult your doctor
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP {MM.YYYY}
 
@@ -1751,7 +1775,9 @@ Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/02/219/022 7 x 5 mg + 7 x 10 mg + 7 x 15 mg 7 x 20 mg film-coated tablets EU/1/02/219/036 7 x 5 mg + 7 x 10 mg + 7 x 15 mg 7 x 20 mg film-coated tablets
+EU/1/02/219/022 7 x 5 mg + 7 x 10 mg + 7 x 15 mg 7 x 20 mg film-coated tablets
+
+EU/1/02/219/036 7 x 5 mg + 7 x 10 mg + 7 x 15 mg 7 x 20 mg film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1764,8 +1790,8 @@ Lot {number}
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Ebixa 5 mg, 10 mg, 15 mg, 20 mg tablets
 
@@ -1774,8 +1800,8 @@ Ebixa 5 mg, 10 mg, 15 mg, 20 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1801,7 +1827,7 @@ Each film-coated tablet contains 20 mg memantine hydrochloride equivalent to 16.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 - 14 film-coated tablets
 - 28 film-coated tablets
@@ -1915,8 +1941,8 @@ Ebixa 20 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1942,7 +1968,7 @@ Each film-coated tablet contains 20 mg memantine hydrochloride equivalent to 16.
 
 Film-coated tablets
 
-42 film-coated tablets
+- 42 film-coated tablets
 
 Component of a multipack, can't be sold separately
 
@@ -1958,8 +1984,7 @@ Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP {MM.YYYY}
@@ -1994,15 +2019,15 @@ Ebixa 20 mg tablets
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN:
-
-NN:
+PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER WRAPPER LABEL ON MULTIPACKS  WRAPPED IN FOIL (INCLUDING BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER WRAPPER LABEL ON MULTIPACKS  WRAPPED IN FOIL (INCLUDING BLUE
+
+## BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2014,7 +2039,7 @@ Memantine hydrochloride
 
 Each film-coated tablet contains 20 mg memantine hydrochloride equivalent to 16.62 mg memantine.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2044,15 +2069,19 @@ EXP {MM.YYYY}
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
+
+Denmark
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/02/219/035 840 (20 packs of 42) film-coated tablets EU/1/02/219/049 840 (20 packs of 42) film-coated tablets
+EU/1/02/219/035 840 (20 packs of 42) film-coated tablets
+
+EU/1/02/219/049 840 (20 packs of 42) film-coated tablets
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -2075,24 +2104,24 @@ Ebixa 20 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR TABLETS                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR TABLETS                                   |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Ebixa 20 mg film-coated tablets Memantine hydrochloride
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 H. Lundbeck A/S
 
@@ -2329,11 +2358,17 @@ Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S, Danija Tel: + 45 36301311
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Te л
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -2343,13 +2378,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +420 225 275 600
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft. Tel: +36 1 4369980
+Swixx Biopharma Kft.
+
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -2359,7 +2396,9 @@ Tlf: +45 4371 4270
 
 ## Malta
 
-H. Lundbeck A/S, Denmark Tel: + 45 36301311
+H. Lundbeck A/S, Denmark
+
+Tel: + 45 36301311
 
 ## Deutschland
 
@@ -2375,9 +2414,9 @@ Tel: +31 20 697 1901
 
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
+Tel: +372 640 1030
 
 ## Norge
 
@@ -2385,13 +2424,15 @@ H. Lundbeck AS
 
 Tlf: +47 91 300 800
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
-
-Τηλ: +30 210 610 5036
-
 ## Österreich
+
+Swixx Biopharma Μ.Α.Ε
+
+Τηλ: +30 214 444 9670
 
 Lundbeck Austria GmbH
 
@@ -2405,9 +2446,9 @@ Tel: +34 93 494 9620
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
+Swixx Biopharma Sp. z o.o.
 
-Tel.: + 48 22 626 93 00
+Tel.: +48 22 4600 720
 
 ## France
 
@@ -2417,13 +2458,21 @@ Tél: + 33 1 79 41 29 00
 
 ## Portugal
 
-Lundbeck Portugal Lda Tel: +351 21 00 45 900
+Produtos Farmacêuticos - Unipessoal Lda.
+
+Tel: +351 21 00 45 900
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: + 385 1 6448263
+Tel: +385 1 2078 500
+
+## România
+
+Swixx Biopharma S.R.L
+
+Tel: +40 37 1530 850
 
 ## Ireland
 
@@ -2431,15 +2480,11 @@ Lundbeck (Ireland) Limited
 
 Tel: +353 1  468 9800
 
-## România
-
-Lundbeck Romania SRL
-
-Tel: +40 21319 88 26
-
 ## Slovenija
 
-Lundbeck Pharma d.o.o. Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 2355 100
 
 ## Ísland
 
@@ -2449,7 +2494,9 @@ Tel: +354 535 7000
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o. Tel: +421 2 5341 42 18
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 20833 600
 
 ## Italia
 
@@ -2465,9 +2512,9 @@ Puh/Tel: +358 2 276 5000
 
 ## Κύπρος
 
-Lundbeck Hellas  A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
+Τηλ: +30 214 444 9670
 
 ## Sverige
 
@@ -2477,17 +2524,9 @@ Tel: +46 4069 98200
 
 ## Latvija
 
-H. Lundbeck A/S, Dānija
+Swixx Biopharma SIA
 
-Tel: + 45 36301311
-
-## United Kingdom (Northern Ireland)
-
-Lundbeck (Ireland) Limited
-
-Tel:  +353 1 468 9800
-
-<div style=\"page-break-after: always\"></div>
+Tel: +371 6 616 47 50
 
 ## This leaflet was last approved in MM/YYYY
 
@@ -2533,14 +2572,14 @@ Ebixa is used for the treatment of patients with moderate to severe Alzheimer's 
 
 ## Warning and precautions
 
-<div style=\"page-break-after: always\"></div>
-
 Talk to your doctor or pharmacist before taking Ebixa:
 
 - -if you have a history of epileptic seizures
 - -if you have recently experienced a myocardial infarction (heart attack), or if you are suffering from congestive heart failure or from an uncontrolled hypertension (high blood pressure).
 
 In these situations the treatment should be carefully supervised, and the clinical benefit of Ebixa reassessed by your doctor on a regular basis.
+
+<div style=\"page-break-after: always\"></div>
 
 If you suffer from renal impairment (kidney problems), your doctor should closely monitor your kidney function and if necessary adapt the memantine doses accordingly.
 
@@ -2581,8 +2620,6 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 ## Pregnancy
 
-<div style=\"page-break-after: always\"></div>
-
 The use of memantine in pregnant women is not recommended.
 
 ## Breast-feeding
@@ -2590,6 +2627,8 @@ The use of memantine in pregnant women is not recommended.
 Women taking Ebixa should not breast-feed.
 
 ## Driving and using machines
+
+<div style=\"page-break-after: always\"></div>
 
 Your doctor will tell you whether your illness allows you to drive and to use machines safely. Also, Ebixa may change your reactivity, making driving or operating machinery inappropriate.
 
@@ -2621,8 +2660,6 @@ If you have impaired kidney function, your doctor will decide upon a dose that s
 
 ## Administration
 
-<div style=\"page-break-after: always\"></div>
-
 Ebixa should be administered orally once a day. To benefit from your medicine you should take it regularly every day at the same time of the day. The solution should be taken with a little water. The solution can be taken with or without food.
 
 For detailed instructions on the preparation and handling of the product see end of this leaflet.
@@ -2630,6 +2667,8 @@ For detailed instructions on the preparation and handling of the product see end
 ## Duration of treatment
 
 Continue to take Ebixa as long as it is of benefit to you. Your doctor should assess your treatment on a regular basis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you take more Ebixa than you should
 
@@ -2671,8 +2710,6 @@ Alzheimer's disease has been associated with depression, suicidal ideation and s
 
 If you get any side effects, talk to your doctor or pharmacis. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Ebixa
 
 Keep this medicine out of the sight and reach of children.
@@ -2680,6 +2717,8 @@ Keep this medicine out of the sight and reach of children.
 Do not use this medicine after the expiry date which is stated on the carton and the bottle label after EXP. The expiry date refers to the last day of that month.
 
 Do not store above 30ºC.
+
+<div style=\"page-break-after: always\"></div>
 
 Once opened, the contents of the bottle should be used within 3 months.
 
@@ -2708,139 +2747,191 @@ H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-Belgique/België/Belgien
+## Belgique/België/Belgien
 
 Lundbeck S.A./N.V.
 
 Tél/Tel: +32 2 535 7979
 
-Lietuva H. Lundbeck A/S, Danija Tel: + 45 36301311
+## Lietuva
 
-България
+Swixx Biopharma UAB
 
-Lundbeck Export A/S Representative Office
+Tel: +370 5 236 91 40
 
-Tel: +359 2 962 4696
+## България
 
-Luxembourg/Luxemburg
+Swixx Biopharma EOOD
+
+Te л
+
+.: +359 (0)2 4942 480
+
+## Luxembourg/Luxemburg
 
 Lundbeck S.A.
 
 Tél: +32 2 535 7979
 
-<div style=\"page-break-after: always\"></div>
-
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o.
+
+Tel: +420 242 434 222
+
+## Magyarország
+
+Swixx Biopharma Kft.
+
+Tel.: +36 1 9206 570
 
 ## Danmark
 
-Lundbeck Pharma A/S Tlf: +45 4371 4270
+Lundbeck Pharma A/S
+
+Tlf: +45 4371 4270
+
+## Malta
+
+H. Lundbeck A/S, Denmark
+
+Tel: + 45 36301311
 
 ## Deutschland
 
-Lundbeck GmbH Tel: +49 40 23649 0
+Lundbeck GmbH
+
+Tel: +49 40 23649 0
+
+## Nederland
+
+Lundbeck B.V.
+
+Tel: +31 20 697 1901
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
-Lundbeck Eesti AS Tel: + 372 605 9350
+Swixx Biopharma OÜ
+
+Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A. Τηλ: +30 210 610 5036
+Swixx Biopharma Μ.Α.Ε
+
+Τηλ: +30 214 444 9670
 
 ## España
 
-Lundbeck España S.A. Tel: +34 93 494 9620
+Lundbeck España S.A.
+
+Tel: +34 93 494 9620
 
 ## France
 
-Lundbeck SAS Tél: + 33 1 79 41 29 00
+Lundbeck SAS
+
+Tél: + 33 1 79 41 29 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o. Tel.: + 385 1 6448263
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
 
 ## Ireland
 
-Lundbeck (Ireland) Limited Tel: +353  1 468 9800
+Lundbeck (Ireland) Limited
+
+Tel: +353 1  468 9800
 
 ## Ísland
 
-Vistor hf. Tel: +354 535 7000
+Vistor hf.
+
+Tel: +354 535 7000
 
 ## Italia
 
-Lundbeck Italia S.p.A. Tel: +39 02 677 4171
+Lundbeck Italia S.p.A.
+
+Tel: +39 02 677 4171
 
 ## Κύπρος
 
-Lundbeck Hellas  A.E Τηλ.: +357 22490305
+Swixx Biopharma Μ.Α.Ε
+
+Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S, Dānija Tel: + 45 36301311
+Swixx Biopharma SIA
+
+Tel: +371 6 616 47 50
 
 ## This leaflet was last approved in MM/YYYY
 
 ## Other sources of information
 
-## Magyarország
-
-Lundbeck Hungaria Kft. Tel: +36 1 4369980
-
-## Malta
-
-H. Lundbeck A/S, Denmark Tel: + 45 36301311
-
-## Nederland
-
-Lundbeck B.V. Tel: +31 20 697 1901
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 ## Norge
 
-H. Lundbeck AS Tlf: +47 91 300 800
+H. Lundbeck AS
+
+Tlf: +47 91 300 800
 
 ## Österreich
 
-Lundbeck Austria GmbH Tel: +43 1 253 621 6033
+Lundbeck Austria GmbH
+
+Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o. Tel.: + 48 22 626 93 00
+Swixx Biopharma Sp. z o.o.
+
+Tel.: +48 22 4600 720
 
 ## Portugal
 
-Lundbeck Portugal Lda Tel: +351 21 00 45 900
+Produtos Farmacêuticos - Unipessoal Lda.
+
+Tel: +351 21 00 45 900
 
 ## România
 
-Lundbeck Romania SRL Tel: +40 21319 88 26
+Swixx Biopharma S.R.L
+
+Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o. Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o. Tel: +421 2 5341 42 18
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
-Oy H. Lundbeck Ab Puh/Tel: +358 2 276 5000
+Oy H. Lundbeck Ab
+
+Puh/Tel: +358 2 276 5000
 
 ## Sverige
 
-H. Lundbeck AB Tel: +46 4069 98200
+H. Lundbeck AB
 
-## United Kingdom (Northern Ireland)
-
-Lundbeck (Ireland) Limited Tel:  +353 1 468 9800
+Tel: +46 4069 98200
 
 <div style=\"page-break-after: always\"></div>
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 ## Instruction for proper use of the pump
 
@@ -2850,15 +2941,11 @@ Take the screw cap off the bottle:
 
 The cap must be turned anticlockwise, unscrewed completely and removed (fig. 1).
 
-1.
-
 <!-- image -->
 
 Mounting the dosing pump on the bottle:
 
 Take the dosing pump out of the plastic bag (fig. 2) and place it on top of the bottle. Slide the plastic dip tube carefully into the bottle. Hold the dosing pump onto the neck of the bottle and screw it clockwise until it fits firmly (fig. 3). The dosing pump is only screwed on once when starting the use, and should never be unscrewed.
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -2871,27 +2958,27 @@ The dosing pump head has two positions and is easy to turn:
 
 The dosing pump head should not be pushed down while in the locked position. The solution may only be dispensed in the unlocked position. To unlock, turn the pump head in the direction of the arrow until it cannot be turned any further (about one eighth of a turn, fig. 4). The dosing pump is then ready for use.
 
-## 4.
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Preparing the dosing pump:
+## Preparing the dosing pump:
 
 When used for the first time, the dosing pump does not dispense the correct amount of oral solution. Therefore, the pump must be prepared (primed) by pushing the dosing pump head down completely five times in succession (fig. 5).
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
 The solution thus dispensed is discarded. The next time the dosing pump head is pushed downwards completely (equivalent to one pump actuation), it dispenses the correct dose (fig. 6).
 
+## 6.
+
 <!-- image -->
 
-Correct use of the dosing pump:
+## Correct use of the dosing pump:
 
 Place the bottle on a flat, horizontal surface, for example a table top, and only use it in an upright position. Hold a glass with a little water or a spoon below the nozzle. Push down the dosing pump head in a firm but calm and steady manner - not too slowly (fig. 7, fig. 8).
 
-## 7.
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -3132,17 +3219,21 @@ Belgique/België/Belgien
 
 Lundbeck S.A./N.V. Tél/Tel: +32 2 535 7979
 
-Lietuva H. Lundbeck A/S, Danija Tel: + 45 36301311
+Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD Te л .: +359 (0)2 4942 480
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o. Tel: +420 242 434 222
 
 ## Danmark
 
@@ -3154,11 +3245,11 @@ Lundbeck GmbH Tel: +49 40 23649 0
 
 ## Eesti
 
-Lundbeck Eesti AS Tel: + 372 605 9350
+Swixx Biopharma OÜ Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A. Τηλ: +30 210 610 5036
+Swixx Biopharma Μ.Α.Ε Τηλ : +30 214 444 9670
 
 ## España
 
@@ -3166,17 +3257,15 @@ Lundbeck España S.A. Tel: +34 93 494 9620
 
 ## France
 
-Lundbeck SAS
-
-Tél: + 33 1 79 41 29 00
+Lundbeck SAS Tél: + 33 1 79 41 29 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o. Tel.: + 385 1 6448263
+Swixx Biopharma d.o.o. Tel: +385 1 2078 500
 
 ## Ireland
 
-Lundbeck (Ireland) Limited Tel: +353  1 468 9800
+Lundbeck (Ireland) Limited Tel: +353 1  468 9800
 
 ## Ísland
 
@@ -3188,11 +3277,13 @@ Lundbeck Italia S.p.A. Tel: +39 02 677 4171
 
 ## Κύπρος
 
-Lundbeck Hellas  A.E Τηλ.: +357 22490305
+Swixx Biopharma Μ.Α.Ε Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S, Dānija Tel: + 45 36301311
+Swixx Biopharma SIA
+
+Tel: +371 6 616 47 50
 
 ## Luxembourg/Luxemburg
 
@@ -3202,7 +3293,7 @@ Tél: +32 2 535 7979
 
 ## Magyarország
 
-Lundbeck Hungaria Kft. Tel: +36 1 4369980
+Swixx Biopharma Kft. Tel.: +36 1 9206 570
 
 ## Malta
 
@@ -3222,23 +3313,23 @@ Lundbeck Austria GmbH Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o. Tel.: + 48 22 626 93 00
+Swixx Biopharma Sp. z o.o. Tel.: +48 22 4600 720
 
 ## Portugal
 
-Lundbeck Portugal Lda Tel: +351 21 00 45 900
+Produtos Farmacêuticos - Unipessoal Lda. Tel: +351 21 00 45 900
 
 ## România
 
-Lundbeck Romania SRL Tel: +40 21319 88 26
+Swixx Biopharma S.R.L Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o. Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o. Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o. Tel: +421 2 5341 42 18
+Swixx Biopharma s.r.o. Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
@@ -3249,10 +3340,6 @@ Oy H. Lundbeck Ab Puh/Tel: +358 2 276 5000
 H. Lundbeck AB
 
 Tel: +46 4069 98200
-
-## United Kingdom (Northern Ireland)
-
-Lundbeck (Ireland) Limited Tel:  +353 1 468 9800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3266,7 +3353,9 @@ Detailed information on this medicine is available on the the European Medicines
 
 <div style=\"page-break-after: always\"></div>
 
-## Ebixa 20 mg film-coated tablets Memantine hydrochloride
+## Ebixa 20 mg film-coated tablets
+
+## Memantine hydrochloride
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3305,9 +3394,9 @@ Talk to your doctor or pharmacist before taking Ebixa:
 - -if you have a history of epileptic seizures
 - -if you have recently experienced a myocardial infarction (heart attack), or if you are suffering from congestive heart failure or from an uncontrolled hypertension (high blood pressure).
 
-<div style=\"page-break-after: always\"></div>
-
 In these situations the treatment should be carefully supervised, and the clinical benefit of Ebixa reassessed by your doctor on a regular basis.
+
+<div style=\"page-break-after: always\"></div>
 
 If you suffer from renal impairment (kidney problems), your doctor should closely monitor your kidney function and if necessary adapt the memantine doses accordingly.
 
@@ -3354,11 +3443,13 @@ The use of memantine in pregnant women is not recommended.
 
 Women taking Ebixa should not breast-feed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Driving and using machines
 
-Your doctor will tell you whether your illness allows you to drive and to use machines safely. Also, Ebixa may change your reactivity, making driving or operating machinery inappropriate.
+Your doctor will tell you whether your illness allows you to drive and to use machines safely.
+
+<div style=\"page-break-after: always\"></div>
+
+Also, Ebixa may change your reactivity, making driving or operating machinery inappropriate.
 
 ## Ebixa contains Sodium
 
@@ -3398,11 +3489,11 @@ Continue to take Ebixa as long as it is of benefit to you. Your doctor should as
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 In general, the observed side effects are mild to moderate.
 
@@ -3445,11 +3536,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is memantine hydrochloride. Each film-coated tablet contains 20 mg memantine hydrochloride equivalent to 16.62 mg memantine.
 - -The other ingredients are microcrystalline cellulose, croscarmellose sodium, colloidal anhydrous silica, magnesium stearate, all in the tablet core; and hypromellose, macrogol 400, titanium dioxide (E 171), iron oxide yellow and red (E 172), all in the tablet coating.
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Ebixa looks like and contents of the pack
 
 Ebixa film-coated tablets are presented as pale red to grey-red, oval-oblong film-coated tablets with imprint '20' on one side and imprint 'MEM' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 Ebixa film-coated tablets are available in blister packs of 14 tablets, 28 tablets, 42 tablets, 49 x 1 tablets, 56 tablets, 56 x 1 tablets, 70 tablets, 84 tablets, 98 tablets, 98 x 1 tablets, 100 x 1 tablets, 112 tablets or 840 (20 x 42) tablets. The pack sizes 49 x 1, 56 x 1, 98 x 1 and 100 x 1 film-coated tablets are presented in unit dose blister.
 
@@ -3469,13 +3560,17 @@ Tél/Tel: +32 2 535 7979
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Te л
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +420 225 275 600
+Tel: +420 242 434 222
 
 ## Danmark
 
@@ -3491,15 +3586,15 @@ Tel: +49 40 23649 0
 
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
+Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30 210 610 5036
+Τηλ: +30 214 444 9670
 
 ## España
 
@@ -3513,9 +3608,17 @@ Lundbeck SAS
 
 Tél: + 33 1 79 41 29 00
 
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
 ## Lietuva
 
-H. Lundbeck A/S, Danija Tel: + 45 36301311
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
@@ -3525,9 +3628,9 @@ Tél: +32 2 535 7979
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
+Swixx Biopharma Kft.
 
-Tel: +36 1 4369980
+Tel.: +36 1 9206 570
 
 ## Malta
 
@@ -3555,39 +3658,33 @@ Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
+Swixx Biopharma Sp. z o.o.
 
-Tel.: + 48 22 626 93 00
+Tel.: +48 22 4600 720
 
 ## Portugal
 
-Lundbeck Portugal Lda
+Produtos Farmacêuticos - Unipessoal Lda.
 
 Tel: +351 21 00 45 900
 
-## Hrvatska
+## România
 
-Lundbeck Croatia d.o.o.
+Swixx Biopharma S.R.L
 
-Tel.: + 385 1 6448263
+Tel: +40 37 1530 850
 
 ## Ireland
 
 Lundbeck (Ireland) Limited
 
-Tel: +353 1 468 9800
-
-## România
-
-Lundbeck Romania SRL
-
-Tel: +40 21319 88 26
+Tel: +353 1  468 9800
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: +386 2 229 4500
+Tel: +386 1 2355 100
 
 ## Ísland
 
@@ -3597,9 +3694,9 @@ Tel: +354 535 7000
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
+Tel: +421 2 20833 600
 
 ## Italia
 
@@ -3615,9 +3712,9 @@ Puh/Tel: +358 2 276 5000
 
 ## Κύπρος
 
-Lundbeck Hellas  A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.: +357 22490305
+Τηλ: +30 214 444 9670
 
 ## Sverige
 
@@ -3625,19 +3722,13 @@ H. Lundbeck AB
 
 Tel: +46 4069 98200
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
-H. Lundbeck A/S, Dānija
+Swixx Biopharma SIA
 
-Tel: + 45 36301311
-
-## United Kingdom (Northern Ireland)
-
-Lundbeck (Ireland) Limited
-
-Tel:  +353 1 468 9800
-
-<div style=\"page-break-after: always\"></div>
+Tel: +371 6 616 47 50
 
 ## This leaflet was last approved in MM/YYYY
 

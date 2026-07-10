@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-18 14:23:37
-document_pages: 43
+document_datetime: 2026-07-08 14:20:13
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tolura-epar-product-information_en.pdf
 document_name: tolura-epar-product-information_en.pdf
 version: success
-processing_time: 8.5415503
-conversion_datetime: 2025-12-21 23:07:10.731146
+processing_time: 8.4571648
+conversion_datetime: 2026-07-10 22:53:31.116604
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -264,11 +264,9 @@ Reduction of the antihypertensive effect.
 
 ## Pregnancy
 
-The use of angiotensin II receptor blockers is not recommended during the first trimester of pregnancy (see section 4.4). The use of angiotensin II receptor blockers is contraindicated during the second and
+The use of angiotensin II receptor blockers is not recommended during the first trimester of pregnancy (see section 4.4). The use of angiotensin II receptor blockers is contraindicated during the second and third trimesters of pregnancy (see sections 4.3 and 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-third trimesters of pregnancy (see sections 4.3 and 4.4).
 
 There are no adequate data from the use of Tolura in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
@@ -362,7 +360,7 @@ Uncommon:
 
 Rare:
 
-Syncope
+Syncope, dizziness
 
 Somnolence
 
@@ -552,11 +550,9 @@ Cough and angioedema were less frequently reported in patients treated with telm
 
 Combining telmisartan with ramipril did not add further benefit over ramipril or telmisartan alone. CV mortality and all cause mortality were numerically higher with the combination. In addition, there was a significantly higher incidence of hyperkalaemia, renal failure, hypotension and syncope in the combination arm. Therefore the use of a combination of telmisartan and ramipril is not recommended in this population.
 
-In the 'Prevention Regimen For Effectively avoiding Second Strokes' (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0,70 % vs. 0,49 %  RR 1,43 (95 % confidence interval 1,00 2,06)  the incidence of fatal sepsis cases was increased for patients taking telmisartan (0,33 %) vs. patients taking placebo (0,16 %)  RR 2,07 (95 % confidence interval 1,14 - 3,76)  . The observed
+In the 'Prevention Regimen For Effectively avoiding Second Strokes' (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0,70 % vs. 0,49 %  RR 1,43 (95 % confidence interval 1,00 2,06)  the incidence of fatal sepsis cases was increased for patients taking telmisartan (0,33 %) vs. patients taking placebo (0,16 %)  RR 2,07 (95 % confidence interval 1,14 - 3,76)  . The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 
 <div style=\"page-break-after: always\"></div>
-
-increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 
 Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
 
@@ -743,7 +739,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+-  Risk management plan (RMP)
 
 Not applicable.
 
@@ -871,17 +867,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| BLISTER/OPA/Al/PVC Al                      |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER/OPA/Al/PVC Al                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Tolura 40 mg tablets telmisartan
+Tolura 40 mg tablets
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+telmisartan
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 KRKA
 
@@ -1016,17 +1014,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| BLISTER/OPA/Al/PVC Al                      |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER/OPA/Al/PVC Al                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Tolura 80 mg tablets telmisartan
+Tolura 80 mg tablets
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+telmisartan
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 KRKA
 
@@ -1190,11 +1190,9 @@ Always take Tolura exactly as your doctor has told you. Check with your doctor o
 
 The recommended dose of Tolura is one tablet a day. Try to take the tablet at the same time each day. You can take Tolura with or without food. The tablets should be swallowed whole with some water or other non-alcoholic drink. It is important that you take Tolura every day until your doctor tells you otherwise. If you have the impression that the effect of Tolura is too strong or too weak, talk to your doctor or pharmacist.
 
-For treatment of high blood pressure, the usual dose of Tolura for most patients is one 40 mg tablet once a day to control blood pressure over the 24 hour period. However, sometimes your doctor may recommend a lower dose of 20 mg or a higher dose of 80 mg. Tolura tablets cannot be divided, therefore they are not suitable for patients who require a dose of 20 mg of telmisartan. For these patients, an equivalent product with the same active ingredient is available. Tolura may also be used in combination with diuretics ('water tablets') such as hydrochlorothiazide which has been shown to have
+For treatment of high blood pressure, the usual dose of Tolura for most patients is one 40 mg tablet once a day to control blood pressure over the 24 hour period. However, sometimes your doctor may recommend a lower dose of 20 mg or a higher dose of 80 mg. Tolura tablets cannot be divided, therefore they are not suitable for patients who require a dose of 20 mg of telmisartan. For these patients, an equivalent product with the same active ingredient is available. Tolura may also be used in combination with diuretics ('water tablets') such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with Tolura.
 
 <div style=\"page-break-after: always\"></div>
-
-an additive blood pressure lowering effect with Tolura.
 
 For reduction of cardiovascular events, the usual dose of Tolura is one 80 mg tablet once a day. At the beginning of the preventive therapy with Tolura 80 mg, blood pressure should be frequently monitored.
 
@@ -1228,15 +1226,13 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), dizziness, fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
-Sepsis* (often called \"blood poisoning\", is a severe infection with whole-body inflammatory response which can lead to death), increase in certain white blood cells (eosinophilia), low platelet count (thrombocytopenia), severe allergic reaction (anaphylactic reaction), allergic reaction (e.g. rash, itching, difficulty breathing, wheezing, swelling of the face or low blood pressure), low blood sugar levels (in diabetic patients), feeling anxious, somnolence, impaired vision, fast heart beat (tachycardia), dry mouth, discomfort in the belly, taste disturbance (dysgeusia), abnormal liver function (Japanese patients are more likely to experience this side effect), rapid swelling of the skin and mucosa which can also lead to death (angioedema including fatal outcome), eczema (a skin
+Sepsis* (often called \"blood poisoning\", is a severe infection with whole-body inflammatory response which can lead to death), increase in certain white blood cells (eosinophilia), low platelet count (thrombocytopenia), severe allergic reaction (anaphylactic reaction), allergic reaction (e.g. rash, itching, difficulty breathing, wheezing, swelling of the face or low blood pressure), low blood sugar levels (in diabetic patients), feeling anxious, somnolence, impaired vision, fast heart beat (tachycardia), dry mouth, discomfort in the belly, taste disturbance (dysgeusia), abnormal liver function (Japanese patients are more likely to experience this side effect), rapid swelling of the skin and mucosa which can also lead to death (angioedema including fatal outcome), eczema (a skin disorder), redness of skin, hives (urticaria), severe drug rash, joint pain (arthralgia), pain in extremity, tendon pain, flu-like-illness, decreased haemoglobin (a blood protein), increased levels of uric acid, increased hepatic enzymes or creatine phosphokinase in the blood, low levels of sodium.
 
 <div style=\"page-break-after: always\"></div>
-
-disorder), redness of skin, hives (urticaria), severe drug rash, joint pain (arthralgia), pain in extremity, tendon pain, flu-like-illness, decreased haemoglobin (a blood protein), increased levels of uric acid, increased hepatic enzymes or creatine phosphokinase in the blood, low levels of sodium.
 
 Very rare side effects (may affect up to 1 in 10,000 people): Progressive scarring of lung tissue (interstitial lung disease)**.
 
@@ -1326,11 +1322,7 @@ Tel:
 
 ## Eesti
 
-KRKA, d.d., Novo mesto Eesti filiaal
-
-Tel:
-
-+ 372 (0) 6 671 658
+KRKA, d.d., Novo mesto Eesti filiaal Tel: + 372 (0) 6 671 658
 
 ## Ελλάδα
 
@@ -1448,7 +1440,9 @@ Puh/Tel: + 358 20 754 5330
 
 Τηλ:
 
-+ 357 24 651 882
++
+
+357 24 651 882
 
 Latvija KRKA Latvija SIA Tel: + 371 6 733 86 10
 
@@ -1587,11 +1581,9 @@ Always take Tolura exactly as your doctor has told you. Check with your doctor o
 
 The recommended dose of Tolura is one tablet a day. Try to take the tablet at the same time each day. You can take Tolura with or without food. The tablets should be swallowed whole with some water or other non-alcoholic drink. It is important that you take Tolura every day until your doctor tells you otherwise. If you have the impression that the effect of Tolura is too strong or too weak, talk to your doctor or pharmacist.
 
-For treatment of high blood pressure, the usual dose of Tolura for most patients is one 40 mg tablet once a day to control blood pressure over the 24 hour period. However, sometimes your doctor may recommend a lower dose of 20 mg or a higher dose of 80 mg. Tolura tablets cannot be divided, therefore they are not suitable for patients who require a dose of 20 mg of telmisartan. For these patients, an equivalent product with the same active ingredient is available. Tolura may also be used in
+For treatment of high blood pressure, the usual dose of Tolura for most patients is one 40 mg tablet once a day to control blood pressure over the 24 hour period. However, sometimes your doctor may recommend a lower dose of 20 mg or a higher dose of 80 mg. Tolura tablets cannot be divided, therefore they are not suitable for patients who require a dose of 20 mg of telmisartan. For these patients, an equivalent product with the same active ingredient is available. Tolura may also be used in combination with diuretics ('water tablets') such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with Tolura.
 
 <div style=\"page-break-after: always\"></div>
-
-combination with diuretics ('water tablets') such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with Tolura.
 
 For reduction of cardiovascular events, the usual dose of Tolura is one 80 mg tablet once a day. At the beginning of the preventive therapy with Tolura 80 mg, blood pressure should be frequently monitored.
 
@@ -1625,15 +1617,13 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), dizziness, fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
-Sepsis* (often called \"blood poisoning\", is a severe infection with whole-body inflammatory response which can lead to death), increase in certain white blood cells (eosinophilia), low platelet count (thrombocytopenia), severe allergic reaction (anaphylactic reaction), allergic reaction (e.g. rash, itching, difficulty breathing, wheezing, swelling of the face or low blood pressure), low blood sugar levels (in diabetic patients), feeling anxious, somnolence, impaired vision, fast heart beat (tachycardia), dry mouth, discomfort in the belly, taste disturbance (dysgeusia), abnormal liver function (Japanese patients are more likely to experience this side effect), rapid swelling of the skin
+Sepsis* (often called \"blood poisoning\", is a severe infection with whole-body inflammatory response which can lead to death), increase in certain white blood cells (eosinophilia), low platelet count (thrombocytopenia), severe allergic reaction (anaphylactic reaction), allergic reaction (e.g. rash, itching, difficulty breathing, wheezing, swelling of the face or low blood pressure), low blood sugar levels (in diabetic patients), feeling anxious, somnolence, impaired vision, fast heart beat (tachycardia), dry mouth, discomfort in the belly, taste disturbance (dysgeusia), abnormal liver function (Japanese patients are more likely to experience this side effect), rapid swelling of the skin and mucosa which can also lead to death (angioedema including fatal outcome), eczema (a skin disorder), redness of skin, hives (urticaria), severe drug rash, joint pain (arthralgia), pain in extremity, tendon pain, flu-like-illness, decreased haemoglobin (a blood protein), increased levels of uric acid, increased hepatic enzymes or creatine phosphokinase in the blood, low levels of sodium.
 
 <div style=\"page-break-after: always\"></div>
-
-and mucosa which can also lead to death (angioedema including fatal outcome), eczema (a skin disorder), redness of skin, hives (urticaria), severe drug rash, joint pain (arthralgia), pain in extremity, tendon pain, flu-like-illness, decreased haemoglobin (a blood protein), increased levels of uric acid, increased hepatic enzymes or creatine phosphokinase in the blood, low levels of sodium.
 
 ## Very rare side effects (may affect up to 1 in 10,000 people):
 
@@ -1876,3 +1866,27 @@ KRKA Sverige AB
 Tel:
 
 + 46 (0)8 643 67 66 (SE)
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for hydrochlorothiazide / telmisartan, telmisartan, the scientific conclusions of the PRAC are as follows:
+
+## Dizziness
+
+In view of available data on dizziness from clinical trial, literature, spontaneous reports, including 27 cases with a close temporal relationship, 12 cases with a positive de-challenge, 2 cases with a positive rechallenge and in view of a plausible mechanism of action and class effect, the PRAC Rapporteur considers a causal relationship between telmisartan and dizziness is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing telmisartan should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for hydrochlorothiazide / telmisartan, telmisartan the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing hydrochlorothiazide / telmisartan, telmisartan is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

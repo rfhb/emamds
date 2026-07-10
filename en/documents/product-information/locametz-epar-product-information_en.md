@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-16 16:14:13
+document_datetime: 2026-07-09 12:31:01
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/locametz-epar-product-information_en.pdf
 document_name: locametz-epar-product-information_en.pdf
 version: success
-processing_time: 6.5266203
-conversion_datetime: 2025-12-17 22:19:07.924088
+processing_time: 6.1133002
+conversion_datetime: 2026-07-10 22:57:15.003912
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -122,7 +122,7 @@ Experience of use of gallium ( 68 Ga) gozetotide PET for selection of patients f
 
 ## Radiation risk
 
-Gallium ( 68 Ga) gozetotide contributes to the patient's overall long-term cumulative radiation exposure, which is associated with an increased risk of cancer. Safe handling, reconstitution and radiolabelling procedures should be ensured to protect patients and healthcare professionals from unintentional radiation exposure (see sections 6.6 and 12).
+Gallium ( 68 Ga) gozetotide contributes to the patient's overall long -term cumulative radiation exposure, which is associated with an increased risk of cancer. Safe handling, reconstitution and radiolabelling procedures should be ensured to protect patients and healthcare professionals from unintentional radiation exposure (see sections 6.6 and 12).
 
 ## Interpretation of gallium ( 68 Ga) gozetotide images
 
@@ -243,11 +243,11 @@ Table 2 Efficacy results in primary staging in patients with biopsy-proven prost
 | NPV                    | 68% (56, 78)           |
 | 1 Evaluable population | 1 Evaluable population |
 
-Inter-reader agreement was κ = 0.67 for the 2 independent blinded readers. Of the 67 LNM analysed, 26 were detected by gallium ( 68 Ga) gozetotide PET/CT, resulting in 38.8% node-based sensitivity. Median diameter of the metastatic deposit in these detected LNM was 7 mm (range: 0.3-35). The PET reading missed 41 LNM with a median metastatic deposit of 3.0 mm (range: 0.5 to 35.0).
+Interreader agreement was κ = 0.67 for the 2 independent blinded readers. Of the 67 LNM analysed, 26 were detected by gallium ( 68 Ga) gozetotide PET/CT, resulting in 38.8% node-based sensitivity. Median diameter of the metastatic deposit in these detected LNM was 7 mm (range: 0.3-35). The PET reading missed 41 LNM with a median metastatic deposit of 3.0 mm (range: 0.5 to 35.0).
 
-In Fendler et al, 2019, 635 adult male patients with histopathology-proven and biochemical recurrence (BCR) prostate cancer after prostatectomy (N=262), radiation therapy (N=169) or both (N=204) underwent gallium ( 68 Ga) gozetotide PET/CT or PET/MRI imaging. BCR was defined by serum PSA of ≥0.2 ng/mL more than 6 weeks after prostatectomy or by an increase in serum PSA of at least 2 ng/mL above nadir after definitive radiotherapy. Patients had median PSA level of 2.1 ng/mL above nadir after radiation therapy (range: 0.1-1 154 ng/mL). A composite reference standard, including histopathology, serial serum PSA levels and imaging (CT, MRI, and/or bone scan) findings was available for 223 of 635 (35.1%) patients, while histopathology reference standard alone was available for 93 (14.6%) patients. PET/CT scans were read by 3 independent readers blinded to clinical information other than the type of primary therapy and most recent serum PSA level.
+In Fendler et al, 2019, 635 adult male patients with histopathology-proven and biochemical recurrence (BCR) prostate cancer after prostatectomy (N=262), radiation therapy (N=169) or both (N=204) underwent gallium ( 68 Ga) gozetotide PET/CT or PET/MRI imaging. BCR was defined by serum PSA of ≥ 0.2 ng/mL more than 6 weeks after prostatectomy or by an increase in serum PSA of at least 2 ng/mL above nadir after definitive radiotherapy. Patients had median PSA level of 2.1 ng/mL above nadir after radiation therapy (range: 0.1-1 154 ng/mL). A composite reference standard, including histopathology, serial serum PSA levels and imaging (CT, MRI, and/or bone scan) findings was available for 223 of 635 (35.1%) patients, while histopathology reference standard alone was available for 93 (14.6%) patients. PET/CT scans were read by 3 independent readers blinded to clinical information other than the type of primary therapy and most recent serum PSA level.
 
-Detection of PSMA-positive lesions occurred in 475 of 635 (75%) patients receiving gallium ( 68 Ga) gozetotide and the detection rate was significantly increased with PSA levels. The detection rate of gallium ( 68 Ga) gozetotide PET positive lesion increased with increasing serum PSA levels (see section 4.4). Sensitivity and positive predictive value (PPV) of gallium ( 68 Ga) gozetotide PET/CT imaging are summarised in Table 3. Inter-reader Fleiss κ for gallium ( 68 Ga) gozetotide PET/CT imaging ranged from 0.65 (95% CI: 0.61, 0.70) to 0.78 (95% CI: 0.73, 0.82) across the assessed regions (prostate bed, pelvic nodes, extrapelvic soft tissues and bones).
+Detection of PSMA-positive lesions occurred in 475 of 635 (75%) patients receiving gallium ( 68 Ga) gozetotide and the detection rate was significantly increased with PSA levels. The detection rate of gallium ( 68 Ga) gozetotide PET positive lesion increased with increasing serum PSA levels (see section 4.4). Sensitivity and positive predictive value (PPV) of gallium ( 68 Ga) gozetotide PET/CT imaging are summarised in Table 3. Interreader Fleiss κ for gallium ( 68 Ga) gozetotide PET/CT imaging ranged from 0.65 (95% CI: 0.61, 0.70) to 0.78 (95% CI: 0.73, 0.82) across the assessed regions (prostate bed, pelvic nodes, extrapelvic soft tissues and bones).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -259,7 +259,6 @@ Table 3 Efficacy results in patients with histopathology-proven and BCR prostate
 | Sensitivity per-region (95% CI)  | NA                                     | 90% (82, 95)                               |
 | PPV per-patient (95% CI)         | 92% (88, 95)                           | 84% (75, 90)                               |
 | PPV per-region (95% CI)          | 92% (88, 95)                           | 84% (76, 91)                               |
-| 1 Evaluable population           | 1 Evaluable population                 | 1 Evaluable population                     |
 
 Gallium ( 68 Ga) gozetotide PET/CT imaging was used to identify adult patients with progressive, PSMA-positive mCRPC cancer for the randomised, multicentre, open-label, phase III study VISION, which tested efficacy of Pluvicto plus best standard of care or best standard of care alone. A total of 1 003 male patients, who had been treated with at least one androgen receptor (AR) pathway inhibitor and 1 or 2 prior taxane-based chemotherapy regimens, were selected based on the PSMA expression of their prostate cancer lesions. Patients underwent a gallium ( 68 Ga) gozetotide PET/CT scan to evaluate PSMA expression in lesions defined by central read criteria. Improved overall survival and radiographic progression-free survival were reported in the PSMA-targeted therapy arm.
 
@@ -331,11 +330,11 @@ Gentisic acid Sodium acetate trihydrate Sodium chloride
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in sections 6.6 and 12.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 Unopened vial: 1 year.
-
-<div style=\"page-break-after: always\"></div>
 
 After reconstitution and radiolabelling, chemical and physical in-use stability have been demonstrated for 6 hours at 30°C (see section 6.4). Store upright.
 
@@ -375,9 +374,9 @@ Gallium ( 68 Ga) gozetotide solution for injection is a sterile, clear, colourle
 
 Appropriate aseptic precautions should be taken when withdrawing and administering gallium ( 68 Ga) gozetotide solution for injection.
 
-Administration procedures should be carried out in a way to minimise risk of contamination of the medicinal product and irradiation of the operators. Effective radiation shielding is mandatory.
-
 <div style=\"page-break-after: always\"></div>
+
+Administration procedures should be carried out in a way to minimise risk of contamination of the medicinal product and irradiation of the operators. Effective radiation shielding is mandatory.
 
 If at any time in the preparation of this medicinal product the integrity of the vial is compromised it should not be used.
 
@@ -447,14 +446,6 @@ Table 4 Estimated median radiation absorbed doses of   gallium ( 68 Ga) gozetoti
 | Urinary bladder wall*       | 0.057                                     | 0.0280 - 0.0840                           |
 | Effective dose (mSv/MBq)* 2 | 0.022                                     | 0.0204 - 0.0242                           |
 
-* as reported by Sandgren et al, 2019; all other organ estimates were estimated based on the time-integrated activity coefficients of the source organs published in the paper
-
-** reported in Sandgren as a single value labelled 'Colon'
-
-1  doses were calculated using the software IDAC-Dose 2.1.
-
-2  derived according to ICRP Publication 103
-
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
 ## Method of preparation
@@ -479,9 +470,10 @@ Follow the generator-specific reconstitution and radiolabelling procedures as sh
 
 Table 5 Reconstitution and radiolabelling with Eckert &amp; Ziegler GalliaPharm and IRE ELiT Galli Ad generators
 
-| If Eckert &Ziegler GalliaPharm generator is used                                                                                                                                                                                                               | If IRE ELiT Galli Ad generator is used                                                                                                                                                                                                                                                                                                                               |
+| If Eckert & Ziegler GalliaPharm generator is used                                                                                                                                                                                                              | If IRE ELiT Galli Ad generator is used                                                                                                                                                                                                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Connect the male luer of the outlet line of the generator to a sterile elution needle (size 21G-23G). • Connect the Locametz vial directly to the outlet line of the generator by pushing the elution needle through the rubber septum.                      | • Connect the male luer of the outlet line of the generator to a sterile elution needle (size 21G-23G). • Connect the Locametz vial directly to the outlet line of the generator by pushing the elution needle through the rubber septum.                                                                                                                            |
+| • Connect the male luer of the outlet line of the generator to a sterile elution needle (size 21G-23G). • Connect the Locametz vial directly to the outlet line of the generator by pushing the elution                                                        | • Connect the male luer of the outlet line of the generator to a sterile elution needle (size 21G-23G). • Connect the Locametz vial directly to the outlet line of the generator by pushing the elution                                                                                                                                                              |
+| needle through the rubber septum.                                                                                                                                                                                                                              | needle through the rubber septum.                                                                                                                                                                                                                                                                                                                                    |
 | Perform the elution manually or by means of a pump according to the generator instructions for use.                                                                                                                                                            | Connect the Locametz vial through the vent needle with 0.2 micron sterile air venting filter to a vacuum vial (25 mL minimum volume) by means of a sterile needle (size 21G-23G) or to a pump to start the elution.                                                                                                                                                  |
 | Reconstitute the lyophilised powder with 5 mL of eluate.                                                                                                                                                                                                       | Reconstitute the lyophilised powder with 1.1 mL of eluate.                                                                                                                                                                                                                                                                                                           |
 | At the end of the elution, disconnect the Locametz vial from the generator by removing the elution needle and the vent needle with the 0.2 micron sterile air venting filter from the rubber septum. Then, invert the Locametz vial once and place it upright. | At the end of the elution, first withdraw the sterile needle from the vacuum vial or disconnect the vacuum pump in order to establish atmospheric pressure into the Locametz vial, then disconnect the vial from the generator by removing both the elution needle and the vent needle with the 0.2 micron sterile air venting filter needle from the rubber septum. |
@@ -712,8 +704,6 @@ Lot
 
 ## 6. OTHER
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SHIELD LABEL TO BE APPLIED AFTER RADIOLABELLING
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
@@ -743,6 +733,8 @@ Total volume: \\_\\_\\_\\_\\_\\_\\_\\_mL
 Calibration time: \\_\\_\\_\\_\\_\\_\\_\\_ Time/Date
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 Store upright below 30°C.
 
@@ -895,11 +887,11 @@ This radiopharmaceutical product will deliver low amounts of ionising radiation 
 
 If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How Locametz is stored
 
 You will not have to store this medicine. This medicine is stored under the responsibility of the specialist in appropriate premises. Storage of radiopharmaceutical products will be in accordance with national regulations on radioactive materials.
-
-<div style=\"page-break-after: always\"></div>
 
 The following information is intended for the specialist only:
 
@@ -911,7 +903,7 @@ The following information is intended for the specialist only:
 
 ## What Locametz contains
 
-- -The active substance is gozetotide. One vial contains 25 micrograms of gozetotide. The other ingredients are: gentisic acid, sodium acetate trihydrate and sodium chloride (see 'Locametz contains sodium' in section 2).
+- -The active substance is gozetotide. One vial contains 25 micrograms of gozetotide. The other ingredients are: gentisic acid, sodium acetate trihydrate and sodium chloride (s ee 'Locametz contains sodium' in section 2).
 
 ## What Locametz looks like and contents of the pack
 
@@ -931,9 +923,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Advanced Accelerator Applications (Italy) S.R.L. Via Crescentino snc 13040 Saluggia (VC) Italy
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Advanced Accelerator Applications (Italy) S.R.L. Via Crescentino snc 13040 Saluggia (VC) Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -943,15 +933,23 @@ Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+SIA Novartis Baltics Lietuvos filialas
+
+Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел:
+
++359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -965,13 +963,17 @@ Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
 Novartis Sverige AB
 
 Tel: +46 8 732 32 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -979,15 +981,31 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Sverige AB
+
+Tlf: +46 8 732 32 00
 
 ## Ελλάδα
 
 ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
 
-Τηλ: +30 22920 63900
+Τηλ
+
+: +30 22920 63900
 
 ή
 
@@ -995,89 +1013,87 @@ Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
 ## España
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## France
-
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited Tel: +353 1 260 12 55
-
-## Ísland
-
-Novartis Sverige AB Sími: +46 8 732 32 00
-
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Κύπρος
-
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ Τηλ: +30 22920 63900 ή Novartis Pharma Services Inc. Τηλ: +357 22 690 690
-
-## Latvija
-
-SIA Novartis Baltics
-
-Tel: +371 67 887 070
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Sverige AB Tlf: +46 8 732 32 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
 ## Slovenija
 
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Ísland
+
+Novartis Sverige AB
+
+Sími: +46 8 732 32 00
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
 
-## Suomi/Finland
-
-Novartis Sverige AB Puh/Tel: +46 8 732 32 00
-
-## Sverige
-
-Novartis Sverige AB Tel: +46 8 732 32 00
+Tel: +421 2 5542 5439
 
 <div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+## Κύπρος
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
+
+Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
@@ -1092,3 +1108,15 @@ The following information is intended for healthcare professionals only:
 The complete SmPC of Locametz is provided as a separate document in the product package, with the objective to provide healthcare professionals with other additional scientific and practical information about the administration and use of this radiopharmaceutical.
 
 Please refer to the SmPC.
+
+## Suomi/Finland
+
+Novartis Sverige AB
+
+Puh/Tel: +46 8 732 32 00
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

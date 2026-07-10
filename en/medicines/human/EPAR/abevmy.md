@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-28 16:10:00
+document_datetime: 2026-07-07 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abevmy.html
 document_name: abevmy.html
 version: success
-processing_time: 0.1187693
-conversion_datetime: 2026-02-01 20:41:12.67111
+processing_time: 0.3208384
+conversion_datetime: 2026-07-10 22:40:20.222272
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Abevmy
 
 [RSS](/en/individual-human-medicine.xml/67438)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-bevacizumab Medicine Human Authorised
+bevacizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Abevmy](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83729)
 - [More information on Abevmy](#related-medicines)
 
 - Application under evaluation
@@ -55,7 +58,7 @@ Abevmy is a cancer medicine that is used to treat adults with the following canc
 
 Abevmy is used in combination with other cancer medicines, depending on the nature of any previous treatments or the presence of mutations (genetic changes) in the cancer that affect how well particular medicines work.
 
-Abevmy is a 'biosimilar medicine'. This means that Abevmy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Abevmy is Avastin. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Abevmy is a 'biosimilar medicine'. This means that Abevmy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Abevmy is Avastin.
 
 Abevmy contains the active substance bevacizumab.
 
@@ -63,7 +66,7 @@ Expand section
 
 Collapse section
 
-## How is Abevmy used?
+### How is Abevmy used?
 
 Abevmy can only be obtained with a prescription and treatment should be supervised by a doctor who has experience in the use of cancer medicines.
 
@@ -71,11 +74,11 @@ Abevmy is given by infusion (drip) into a vein. The first infusion of Abevmy sho
 
 For more information about using Abevmy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Abevmy work?
+### How does Abevmy work?
 
 The active substance in Abevmy, bevacizumab, is a monoclonal antibody (a type of protein) that has been designed to attach to vascular endothelial growth factor (VEGF), a protein that circulates in the blood and makes new blood vessels grow. By attaching to VEGF, Abevmy stops its effect. As a result, the cancer cannot develop its own blood supply and cancer cells are starved of oxygen and nutrients, helping to slow down the growth of tumours.
 
-## What benefits of Abevmy have been shown in studies?
+### What benefits of Abevmy have been shown in studies?
 
 Laboratory studies comparing Abevmy with Avastin have shown that the active substance in Abevmy is highly similar to that in Avastin in terms of structure, purity and biological activity. Studies have also shown that giving Abevmy produces similar levels of the active substance in the body to giving Avastin.
 
@@ -83,7 +86,7 @@ In addition, a study involving 671 patients with advanced non-small cell lung ca
 
 Because Abevmy is a biosimilar medicine, the studies on effectiveness and safety of bevacizumab carried out with Avastin do not all need to be repeated for Abevmy.
 
-## What are the risks associated with Abevmy?
+### What are the risks associated with Abevmy?
 
 The safety of Abevmy has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Avastin.
 
@@ -91,19 +94,19 @@ The most common side effects with bevacizumab (which may affect more than 1 in 1
 
 Abevmy must not be used in people who are hypersensitive (allergic) to bevacizumab or any of the other ingredients, to Chinese hamster ovary cell products or other recombinant (genetically engineered) antibodies. It must not be given to pregnant women.
 
-## Why is Abevmy authorised in the EU?
+### Why is Abevmy authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Abevmy has a highly similar structure, purity and biological activity to Avastin and is distributed in the body in the same way. In addition, studies in non-small cell lung cancer have shown that the safety and effectiveness of Abevmy is equivalent to that of Avastin in this indication.
 
 All these data were considered sufficient to conclude that Abevmy will behave in the same way as Avastin in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Avastin, the benefits of Abevmy outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Abevmy?
+### What measures are being taken to ensure the safe and effective use of Abevmy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Abevmy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Abevmy are continuously monitored. Side effects reported with Abevmy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Abevmy
+### Other information about Abevmy
 
 Abevmy received a marketing authorisation valid throughout the EU on 21 April 2021.
 
@@ -115,181 +118,137 @@ English (EN) (144.37 KB - PDF)
 
 [View](/en/documents/overview/abevmy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-560)
+[Other languages (22)](#file-language-dropdown-990)
 
 български (BG) (168.73 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/bg/documents/overview/abevmy-epar-medicine-overview_bg.pdf)
 
 español (ES) (144.24 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/es/documents/overview/abevmy-epar-medicine-overview_es.pdf)
 
 čeština (CS) (166.8 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/cs/documents/overview/abevmy-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (142.7 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/da/documents/overview/abevmy-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (147.14 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/de/documents/overview/abevmy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (132.07 KB - PDF)
+eesti (ET) (132.07 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/et/documents/overview/abevmy-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (169.55 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/el/documents/overview/abevmy-epar-medicine-overview_el.pdf)
 
 français (FR) (145.44 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/fr/documents/overview/abevmy-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (165.14 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/hr/documents/overview/abevmy-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (143.18 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/it/documents/overview/abevmy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (174.07 KB - PDF)
+latviešu (LV) (174.07 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/lv/documents/overview/abevmy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (167.09 KB - PDF)
+lietuvių (LT) (167.09 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/lt/documents/overview/abevmy-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (163.24 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/hu/documents/overview/abevmy-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (169.46 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/mt/documents/overview/abevmy-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (144.12 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/nl/documents/overview/abevmy-epar-medicine-overview_nl.pdf)
 
 polski (PL) (168.95 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/pl/documents/overview/abevmy-epar-medicine-overview_pl.pdf)
 
 português (PT) (144.85 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/pt/documents/overview/abevmy-epar-medicine-overview_pt.pdf)
 
 română (RO) (166.93 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/ro/documents/overview/abevmy-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (166.41 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sk/documents/overview/abevmy-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (162.35 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sl/documents/overview/abevmy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (141.73 KB - PDF)
+suomi (FI) (141.73 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/fi/documents/overview/abevmy-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (142.34 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sv/documents/overview/abevmy-epar-medicine-overview_sv.pdf)
 
@@ -305,311 +264,168 @@ English (EN) (98.06 KB - PDF)
 
 Abevmy : EPAR - Product Information
 
-English (EN) (845.16 KB - PDF)
+English (EN) (830.07 KB - PDF)
 
-**First published:** 27/08/2021
-
-**Last updated:** 28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/en/documents/product-information/abevmy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-748)
 
-български (BG) (999.89 KB - PDF)
+български (BG) (994.53 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/bg/documents/product-information/abevmy-epar-product-information_bg.pdf)
 
-español (ES) (890.75 KB - PDF)
+español (ES) (850.9 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/es/documents/product-information/abevmy-epar-product-information_es.pdf)
 
-čeština (CS) (975.84 KB - PDF)
+čeština (CS) (965.25 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/cs/documents/product-information/abevmy-epar-product-information_cs.pdf)
 
-dansk (DA) (869.94 KB - PDF)
+dansk (DA) (840.1 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/da/documents/product-information/abevmy-epar-product-information_da.pdf)
 
-Deutsch (DE) (909.7 KB - PDF)
+Deutsch (DE) (876.38 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/de/documents/product-information/abevmy-epar-product-information_de.pdf)
 
-eesti keel (ET) (892.94 KB - PDF)
+eesti (ET) (867.48 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/et/documents/product-information/abevmy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1020.5 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/el/documents/product-information/abevmy-epar-product-information_el.pdf)
 
-français (FR) (919.08 KB - PDF)
+français (FR) (880.35 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/fr/documents/product-information/abevmy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (960.26 KB - PDF)
+hrvatski (HR) (943.28 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/hr/documents/product-information/abevmy-epar-product-information_hr.pdf)
 
-íslenska (IS) (914.13 KB - PDF)
+italiano (IT) (879.58 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
-
-[View](/is/documents/product-information/abevmy-epar-product-information_is.pdf)
-
-italiano (IT) (918.59 KB - PDF)
-
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/it/documents/product-information/abevmy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1014.87 KB - PDF)
+latviešu (LV) (1.02 MB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/lv/documents/product-information/abevmy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.06 MB - PDF)
+lietuvių (LT) (1.1 MB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/lt/documents/product-information/abevmy-epar-product-information_lt.pdf)
 
-magyar (HU) (1.03 MB - PDF)
+magyar (HU) (1.05 MB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/hu/documents/product-information/abevmy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (1001.56 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/mt/documents/product-information/abevmy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (874.79 KB - PDF)
+Nederlands (NL) (804.56 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/nl/documents/product-information/abevmy-epar-product-information_nl.pdf)
 
-norsk (NO) (882.94 KB - PDF)
+polski (PL) (988.57 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
-
-[View](/no/documents/product-information/abevmy-epar-product-information_no.pdf)
-
-polski (PL) (998.8 KB - PDF)
-
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/pl/documents/product-information/abevmy-epar-product-information_pl.pdf)
 
-português (PT) (998.53 KB - PDF)
+português (PT) (1.01 MB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/pt/documents/product-information/abevmy-epar-product-information_pt.pdf)
 
-română (RO) (1 MB - PDF)
+română (RO) (974.85 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/ro/documents/product-information/abevmy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (978.26 KB - PDF)
+slovenčina (SK) (971.79 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/sk/documents/product-information/abevmy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (988.48 KB - PDF)
+slovenščina (SL) (974.76 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/sl/documents/product-information/abevmy-epar-product-information_sl.pdf)
 
-Suomi (FI) (856.84 KB - PDF)
+suomi (FI) (830.75 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/fi/documents/product-information/abevmy-epar-product-information_fi.pdf)
 
-svenska (SV) (840.22 KB - PDF)
+svenska (SV) (814.12 KB - PDF)
 
-**First published:**
-
-27/08/2021
-
-**Last updated:**
-
-28/01/2026
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
 
 [View](/sv/documents/product-information/abevmy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000287528 08/01/2026
+Íslenska (IS) (896.82 KB - PDF)
+
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
+
+[View](/is/documents/product-information/abevmy-epar-product-information_is.pdf)
+
+norsk (NO) (929.42 KB - PDF)
+
+**First published:** 27/08/2021 **Last updated:** 07/07/2026
+
+[View](/no/documents/product-information/abevmy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000357653
+
+07/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -627,214 +443,171 @@ English (EN) (10.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-60)
+[Other languages (24)](#file-language-dropdown-518)
 
 български (BG) (56.81 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/bg/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (43.23 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/es/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (53.49 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/cs/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (17.72 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/da/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (16.92 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/de/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (16.02 KB - PDF)
+eesti (ET) (16.02 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/et/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.97 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/el/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (31.11 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/fr/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (49.92 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/hr/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (11.5 KB - PDF)
-
-**First published:**
-
-27/08/2021
-
-[View](/is/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.32 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/it/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (51.4 KB - PDF)
+latviešu (LV) (51.4 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/lv/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (52.37 KB - PDF)
+lietuvių (LT) (52.37 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/lt/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (32.32 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/hu/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (53.89 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/mt/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (10.99 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/nl/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (18.17 KB - PDF)
-
-**First published:**
-
-27/08/2021
-
-[View](/no/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (53.72 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/pl/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.07 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/pt/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (26.53 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/ro/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26.33 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sk/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (11.15 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sl/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.16 KB - PDF)
+suomi (FI) (17.16 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/fi/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (11.69 KB - PDF)
 
-**First published:**
-
-27/08/2021
+**First published:** 27/08/2021
 
 [View](/sv/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (11.5 KB - PDF)
+
+**First published:** 27/08/2021
+
+[View](/is/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (18.17 KB - PDF)
+
+**First published:** 27/08/2021
+
+[View](/no/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Abevmy Active substance bevacizumab International non-proprietary name (INN) or common name bevacizumab Therapeutic area (MeSH)
-
-- Colorectal Neoplasms
-- Breast Neoplasms
-- Ovarian Neoplasms
-- Fallopian Tube Neoplasms
-- Peritoneal Neoplasms
-- Carcinoma, Non-Small-Cell Lung
-- Carcinoma, Renal Cell
-- Uterine Cervical Neoplasms
-
-Anatomical therapeutic chemical (ATC) code L01FG01
+- **Name of medicine**
+    - Abevmy
+- **Active substance**
+    - bevacizumab
+- **International non-proprietary name (INN) or common name**
+    - bevacizumab
+- **Therapeutic area (MeSH)**
+        - Colorectal Neoplasms
+        - Breast Neoplasms
+        - Ovarian Neoplasms
+        - Fallopian Tube Neoplasms
+        - Peritoneal Neoplasms
+        - Carcinoma, Non-Small-Cell Lung
+        - Carcinoma, Renal Cell
+        - Uterine Cervical Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FG01
 
 ### Pharmacotherapeutic group
 
@@ -864,19 +637,18 @@ Abevmy, in combination with paclitaxel and cisplatin or, alternatively, paclitax
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005327
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Biosimilar Collaborations Ireland Limited
-
-Unit 35/36
-
-Opinion adopted 25/02/2021 Marketing authorisation issued 21/04/2021 Revision 12
+- **EMA product number**
+    - EMEA/H/C/005327
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade  Baldoyle Industrial Estate  Dublin 13, D13 R20R  Ireland
+- **Opinion adopted**
+    - 25/02/2021
+- **Marketing authorisation issued**
+    - 21/04/2021
+- **Revision**
+    - 14
 
 ## Assessment history
 
@@ -884,15 +656,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Abevmy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (135.3 KB - PDF)
+English (EN) (162.56 KB - PDF)
 
-**First published:** 09/09/2025
-
-**Last updated:** 28/01/2026
+**First published:** 09/09/2025 **Last updated:** 07/07/2026
 
 [View](/en/documents/procedural-steps-after/abevmy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -900,9 +670,7 @@ Abevmy : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (133.54 KB - PDF)
 
-**First published:** 14/12/2021
-
-**Last updated:** 09/09/2025
+**First published:** 14/12/2021 **Last updated:** 09/09/2025
 
 [View](/en/documents/procedural-steps-after/abevmy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -924,15 +692,13 @@ English (EN) (125.12 KB - PDF)
 
 **First published:** 15/12/2022
 
-[View](/en/documents/scientific-conclusion/abevmy-h-c-psusa-00000403-202202-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/abevmy-h-c-psusa-00000403-202202-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Abevmy : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/176217/2021
+Adopted Reference Number: EMA/176217/2021
 
 English (EN) (4.63 MB - PDF)
 
@@ -942,9 +708,7 @@ English (EN) (4.63 MB - PDF)
 
 CHMP summary of positive opinion for Abevmy
 
-Adopted
-
-Reference Number: EMA/CHMP/87659/2021
+Adopted Reference Number: EMA/CHMP/87659/2021
 
 English (EN) (104.14 KB - PDF)
 
@@ -952,16 +716,176 @@ English (EN) (104.14 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-abevmy_en.pdf)
 
-#### News on Abevmy
+## News on Abevmy
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021)
 
-#### More information on Abevmy
+26/02/2021
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Sprycel : EPAR - Product information - tracked changes
+
+English (EN) (270.77 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_en.docx-0)
+
+[Other languages (24)](#file-language-dropdown-552)
+
+български (BG) (288.67 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_bg.docx-0)
+
+español (ES) (281.21 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/es/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_es.docx-0)
+
+čeština (CS) (273.58 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_cs.docx-0)
+
+dansk (DA) (272.24 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/da/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_da.docx-0)
+
+Deutsch (DE) (270.75 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/de/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_de.docx-0)
+
+eesti (ET) (257.84 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/et/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_et.docx-0)
+
+ελληνικά (EL) (298.11 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/el/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_el.docx-0)
+
+français (FR) (270.92 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_fr.docx-0)
+
+hrvatski (HR) (260.13 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_hr.docx-0)
+
+italiano (IT) (276.5 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/it/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_it.docx-0)
+
+latviešu (LV) (302.16 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_lv.docx-0)
+
+lietuvių (LT) (320.13 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_lt.docx-0)
+
+magyar (HU) (316.02 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_hu.docx-0)
+
+Malti (MT) (269.4 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_mt.docx-0)
+
+Nederlands (NL) (250.76 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_nl.docx-0)
+
+polski (PL) (266.12 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_pl.docx-0)
+
+português (PT) (330.03 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_pt.docx-0)
+
+română (RO) (263.55 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_ro.docx-0)
+
+slovenčina (SK) (273.28 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sk.docx-0)
+
+slovenščina (SL) (263.55 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sl.docx-0)
+
+suomi (FI) (250.57 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_fi.docx-0)
+
+svenska (SV) (252.36 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sv.docx-0)
+
+Íslenska (IS) (292.3 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/is/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_is.docx-0)
+
+norsk (NO) (299.39 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/no/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_no.docx-0)
+
+## More information on Abevmy
 
 - [Real-life data study of the French cohort of patients with Rendu Osler disease treatment with bevacizumab:the CoBevaRO study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000548)
 
-**This page was last updated on** 28/01/2026
+**This page was last updated on**
+
+07/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

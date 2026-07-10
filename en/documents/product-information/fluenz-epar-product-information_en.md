@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 11:52:50
-document_pages: 27
+document_datetime: 2026-07-07 15:40:37
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fluenz-epar-product-information_en.pdf
 document_name: fluenz-epar-product-information_en.pdf
 version: success
-processing_time: 6.5160987
-conversion_datetime: 2025-12-28 19:43:49.975705
+processing_time: 6.4601824
+conversion_datetime: 2026-07-10 22:57:36.345307
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -112,6 +112,10 @@ Administration of Fluenz should be postponed in individuals suffering from sever
 
 Vaccination should also be postponed in individuals with nasal blockage, due to the potential for reduced vaccine uptake and the absence of efficacy data in this population. The presence of mild symptoms of a common cold without nasal blockage should not result in the deferral of vaccination.
 
+## Syncope
+
+Syncope (fainting) has been observed following intranasal administration of Fluenz (see section 4.8). Procedures should be in place to prevent injury from fainting and manage syncopal reactions.
+
 ## Immunocompromised individuals
 
 Vaccine recipients should be informed that Fluenz is an attenuated live virus vaccine and has the potential for transmission to immunocompromised contacts. Vaccine recipients should attempt to avoid, whenever possible, close association with severely immunocompromised individuals (e.g. bone marrow transplant recipients requiring isolation) for 1-2 weeks following vaccination. Peak incidence of vaccine virus recovery occurred 2-3 days post-vaccination in clinical studies. In circumstances where contact with severely immunocompromised individuals is unavoidable, the potential risk of transmission of the influenza vaccine virus should be weighed against the risk of acquiring and transmitting wild-type influenza virus. The effectiveness of Fluenz preventing influenza disease in immunocompromised individuals has not been evaluated (see section 4.8).
@@ -130,9 +134,9 @@ Fluenz can be administered concomitantly with the live attenuated vaccines: meas
 
 The co-administration of Fluenz with inactivated vaccines has not been studied.
 
-The concurrent use of Fluenz with antiviral agents that are active against influenza A and/or B viruses has not been evaluated. However, based upon the potential for influenza antiviral agents to reduce the effectiveness of Fluenz, it is recommended not to administer the vaccine until 48 hours after the cessation of influenza antiviral therapy. Administration of influenza antiviral agents within two weeks of vaccination may affect the response of the vaccine.
-
 <div style=\"page-break-after: always\"></div>
+
+The concurrent use of Fluenz with antiviral agents that are active against influenza A and/or B viruses has not been evaluated. However, based upon the potential for influenza antiviral agents to reduce the effectiveness of Fluenz, it is recommended not to administer the vaccine until 48 hours after the cessation of influenza antiviral therapy. Administration of influenza antiviral agents within two weeks of vaccination may affect the response of the vaccine.
 
 If influenza antiviral agents and Fluenz are administered concomitantly, revaccination should be considered based on clinical judgement.
 
@@ -168,11 +172,11 @@ In clinical studies, the safety profile of Fluenz and influenza vaccine (live at
 
 The most common adverse reaction observed in clinical studies was nasal congestion/rhinorrhoea.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Adverse reaction frequencies are organised by MedDRA System Organ Class (SOC). Within each SOC, adverse reactions are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurance of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1 Adverse reactions
 
@@ -182,6 +186,7 @@ Table 1 Adverse reactions
 | Immune system disorders                              | Anaphylactic reactions                                                       | Very rare   |
 | Metabolism and nutrition disorders                   | Decreased appetite                                                           | Very common |
 | Nervous system disorders                             | Headache                                                                     | Common      |
+| Nervous system disorders                             | Syncope                                                                      | Not known a |
 | Nervous system disorders                             | Guillain-Barré syndrome                                                      | Not known a |
 | Respiratory, thoracic and mediastinal disorders      | Nasal congestion/rhinorrhoea                                                 | Very common |
 | Respiratory, thoracic and mediastinal disorders      | Epistaxis                                                                    | Uncommon    |
@@ -190,8 +195,6 @@ Table 1 Adverse reactions
 | General disorders and administration site conditions | Malaise                                                                      | Very common |
 | General disorders and administration site conditions | Pyrexia                                                                      | Common      |
 | Congenital, familial, and genetic disorders          | Exacerbation of symptoms of Leigh syndrome (mitochondrial encephalomyopathy) | Not known a |
-
-a  Post-marketing experience
 
 ## Paediatric population
 
@@ -203,9 +206,9 @@ In a study (D153-P515) of children 6 to 17 years of age with asthma (Fluenz: n=1
 
 In a study of children and adolescents 9 to 17 years of age with moderate to severe asthma (Fluenz: n=24, placebo: n=24), the primary safety criterion, change in percent predicted forced expiratory volume in 1 second (FEV1) measured before and after vaccination, did not differ between treatment arms.
 
-Although safety in children and adolescents with mild to moderate asthma has been established, data in children with other pulmonary diseases or with chronic cardiovascular, metabolic or renal diseases, or other underlying chronic medical conditions are limited. In a study of adults 60 years of age and older (n=3 242), a high percentage of individuals had underlying chronic medical conditions (87%), including cardiac disorders (15%), respiratory, thoracic and mediastinal disorders (13%), and diabetes mellitus (9.6%). The safety profile of Fluenz in these individuals was comparable to the safety profile observed in individuals without these conditions.
-
 <div style=\"page-break-after: always\"></div>
+
+Although safety in children and adolescents with mild to moderate asthma has been established, data in children with other pulmonary diseases or with chronic cardiovascular, metabolic or renal diseases, or other underlying chronic medical conditions are limited. In a study of adults 60 years of age and older (n=3 242), a high percentage of individuals had underlying chronic medical conditions (87%), including cardiac disorders (15%), respiratory, thoracic and mediastinal disorders (13%), and diabetes mellitus (9.6%). The safety profile of Fluenz in these individuals was comparable to the safety profile observed in individuals without these conditions.
 
 ## Immunocompromised individuals
 
@@ -241,12 +244,12 @@ Table 2 Fluenz efficacy after 2 doses against culture-confirmed influenza illnes
 
 | Study number a   | Region                               | Age range b   | Number of study participants   | Influenza season   | Efficacy (95% CI) matched strains   | Efficacy (95% CI) all strains regardless of match   |
 |------------------|--------------------------------------|---------------|--------------------------------|--------------------|-------------------------------------|-----------------------------------------------------|
-| D153-P502        | Europe                               | 6 to 35M      | 1 616                          | 2000-2001          | 85.4% (74.3, 92.2)                  | 85.9% (76.3, 92.0)                                  |
-| D153-P504        | Africa, Latin America                | 6 to 35M      | 1 886                          | 2001               | 73.5% (63.6, 81.0) c                | 72.0% (61.9, 79.8) c                                |
-| D153-P513        | Asia/ Oceania                        | 6 to 35M      | 1 041                          | 2002               | 62.2% (43.6, 75.2)                  | 48.6% (28.8, 63.3)                                  |
-| D153-P522        | Europe, Asia/ Oceania, Latin America | 11 to 23M     | 1 150                          | 2002-2003          | 78.4% (50.9, 91.3)                  | 63.8% (36.2, 79.8)                                  |
-| D153-P501        | Asia/ Oceania                        | 12 to 35M     | 2 764                          | 2000-2001          | 72.9% (62.8, 80.5)                  | 70.1% (60.9, 77.3)                                  |
-| AV006            | USA                                  | 15 to 71M     | 1 259 c                        | 1996-1997          | 93.4% (87.5, 96.5)                  | N/A                                                 |
+| D153-P502        | Europe                               | 6 to 35 M     | 1 616                          | 2000-2001          | 85.4% (74.3, 92.2)                  | 85.9% (76.3, 92.0)                                  |
+| D153-P504        | Africa, Latin America                | 6 to 35 M     | 1 886                          | 2001               | 73.5% (63.6, 81.0) c                | 72.0% (61.9, 79.8) c                                |
+| D153-P513        | Asia/ Oceania                        | 6 to 35 M     | 1 041                          | 2002               | 62.2% (43.6, 75.2)                  | 48.6% (28.8, 63.3)                                  |
+| D153-P522        | Europe, Asia/ Oceania, Latin America | 11 to 23 M    | 1 150                          | 2002-2003          | 78.4% (50.9, 91.3)                  | 63.8% (36.2, 79.8)                                  |
+| D153-P501        | Asia/ Oceania                        | 12 to 35 M    | 2 764                          | 2000-2001          | 72.9% (62.8, 80.5)                  | 70.1% (60.9, 77.3)                                  |
+| AV006            | USA                                  | 15 to 71 M    | 1 259 c                        | 1996-1997          | 93.4% (87.5, 96.5)                  | N/A                                                 |
 
 In clinical studies AV006 and D153-P504, the efficacy of a single dose of Fluenz was evaluated in previously unvaccinated children aged 15-71 months (n=288) and aged 6-35 months (n=1 877). The efficacy against culture-confirmed influenza caused by any matched strain was 88.8% (95% CI: 64.5, 96.5) and 57.7% (95% CI: 44.7, 67.9), respectively.
 
@@ -260,8 +263,8 @@ Table 3 Fluenz relative efficacy against culture-confirmed influenza illness in 
 
 | Study number a   | Region                    | Age range b   | Number of study participants   | Influenza season   | Improved efficacy (95% CI) matched strains   | Improved efficacy (95% CI) all strains regardless of match   |
 |------------------|---------------------------|---------------|--------------------------------|--------------------|----------------------------------------------|--------------------------------------------------------------|
-| MI-CP111         | USA, Europe, Asia/Oceania | 6 to 59M      | 7 852 c                        | 2004-2005          | 44.5% (22.4, 60.6)                           | 54.9% (45.4, 62.9) d                                         |
-| D153-P514        | Europe                    | 6 to 71M      | 2 085 e                        | 2002-2003          | 52.7% (21.6, 72.2)                           | 52.4% (24.6, 70.5) f                                         |
+| MI-CP111         | USA, Europe, Asia/Oceania | 6 to 59 M     | 7 852 c                        | 2004-2005          | 44.5% (22.4, 60.6)                           | 54.9% (45.4, 62.9) d                                         |
+| D153-P514        | Europe                    | 6 to 71 M     | 2 085 e                        | 2002-2003          | 52.7% (21.6, 72.2)                           | 52.4% (24.6, 70.5) f                                         |
 | D153-P515        | Europe                    | 6 to 17 Y     | 2 211 g                        | 2002-2003          | 34.7% (3.9, 56.0)                            | 31.9% (1.1, 53.5)                                            |
 
 ## 5.2 Pharmacokinetic properties
@@ -538,8 +541,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -631,6 +634,7 @@ Your doctor or nurse will make sure that appropriate medical treatment and super
 
 - if you have severe asthma or are currently wheezing.
 - if you have a severe acute illness associated with fever or infection, or if you have nasal blockage. Your doctor may decide to delay your vaccination until your fever or nasal blockage is gone.
+- if you have ever fainted after a previous vaccination. Fainting can occur after this vaccine is given as a nasal spray.
 - if you are in close contact with someone with a severely weakened immune system (for example, a bone marrow transplant patient needing isolation).
 - if you have any birth defects that affect the bones and tissues of the skull and face, which have not undergone surgical correction.
 
@@ -707,6 +711,10 @@ Uncommon (may affect up to 1 in 100 people)
 - nose bleed
 - allergic reactions
 
+Not known (frequency cannot be estimated from the available data)
+
+- fainting (syncope)
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -719,9 +727,9 @@ Do not use this vaccine after the expiry date which is stated on the applicator 
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-Keep the nasal applicator in the outer carton in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
+
+Keep the nasal applicator in the outer carton in order to protect from light.
 
 Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 12 hours at a temperature not above 25°C. If the vaccine has not been used after this 12 hour period, it should be discarded.
 
@@ -735,11 +743,28 @@ The active substances are:
 
 Reassortant influenza virus* (live attenuated) of the following three strains**:
 
-| A/Victoria/4897/2022 (H1N1)pdm09-like strain (A/Norway/31694/2022, MEDI 369815)   | 10 7.0±0.5 FFU***   |
-|-----------------------------------------------------------------------------------|---------------------|
-| A/Croatia/10136RV/2023 (H3N2)-like strain (A/Perth/722/2024, MEDI 392611)         | 10 7.0±0.5 FFU***   |
-| B/Austria/1359417/2021-like strain (B/Austria/1359417/2021, MEDI 355292)          | 10 7.0±0.5 FFU***   |
+A/Victoria/4897/2022 (H1N1)pdm09-like strain
 
+(A/Norway/31694/2022, MEDI 369815)
+
+10 7.0±0.5  FFU***
+
+A/Croatia/10136RV/2023 (H3N2)-like strain
+
+(A/Perth/722/2024, MEDI 392611)
+
+10 7.0±0.5  FFU***
+
+B/Austria/1359417/2021-like strain
+
+(B/Austria/1359417/2021, MEDI 355292)
+
+10 7.0±0.5  FFU***
+
+..................................................................................................................per 0.2 ml dose
+
+* Propagated in fertilised hens' eggs from healthy chicken flocks.
+- ** Produced in VERO cells by reverse genetic technology. This product contains genetically modified organisms (GMOs).
 - *** Fluorescent Focus Units.
 
 This vaccine complies with the WHO (World Health Organisation) recommendations (Northern Hemisphere) and EU decision for the 2025/2026 season.
@@ -756,11 +781,11 @@ The suspension is colourless to pale yellow, clear to slightly cloudy. Small whi
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 AstraZeneca Nijmegen B.V., Lagelandseweg 78 Nijmegen, 6545CG Netherlands
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -814,11 +839,9 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
 
-## Italia
-
-AstraZeneca S.p.A. Tel: +39 02 00704500
+Sími: +354 535 7000
 
 ## Lietuva
 
@@ -866,19 +889,21 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+AstraZeneca AB, o.z.
 
-## Suomi/Finland
-
-AstraZeneca Oy Puh/Tel: +358 10 23 010
+Tel: +421 2 5737 7777
 
 <div style=\"page-break-after: always\"></div>
 
+## Italia
+
+AstraZeneca S.p.A.
+
+Tel: +39 02 00704500
+
 ## Κύπρος
 
-Αλέκτωρ Φαρμακευτική Λτδ
-
-Τηλ: +357 22490305
+Αλέκτωρ Φαρμακευτική Λτδ Τηλ: +357 22490305
 
 ## Latvija
 
@@ -910,6 +935,12 @@ The following information is intended for healthcare professionals only:
 <!-- image -->
 
 <!-- image -->
+
+## Suomi/Finland
+
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
 
 ## Sverige
 
@@ -944,3 +975,25 @@ Position the applicator With the patient in an upright position, place the tip j
 <!-- image -->
 
 Spray in other nostril Place the tip just inside the other nostril and with a single motion, depress plunger as rapidly as possible to deliver remaining vaccine.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for influenza vaccine (live, nasal), the scientific conclusions of PRAC are as follows:
+
+In view of available data on risk of syncope from the literature and spontaneous reports, including in some cases a close temporal relationship with no alternative explanations, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between influenza vaccine (live, nasal) and syncope is at least a reasonable possibility. The PRAC concluded that the product information of products containing influenza vaccine (live, nasal) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for influenza vaccine (live, nasal) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing influenza vaccine (live, nasal) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

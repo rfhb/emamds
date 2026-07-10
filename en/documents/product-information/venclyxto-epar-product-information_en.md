@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 14:32:58
-document_pages: 79
+document_datetime: 2026-07-08 12:27:06
+document_pages: 88
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/venclyxto-epar-product-information_en.pdf
 document_name: venclyxto-epar-product-information_en.pdf
 version: success
-processing_time: 28.2112172
-conversion_datetime: 2025-12-23 23:37:27.792632
+processing_time: 37.7035181
+conversion_datetime: 2026-07-10 22:52:32.282454
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,11 +28,17 @@ Venclyxto 10 mg film-coated tablets Venclyxto 50 mg film-coated tablets Venclyxt
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Venclyxto 10 mg film-coated tablets Each film-coated tablet contains 10 mg of venetoclax.
+Venclyxto 10 mg film-coated tablets
 
-Venclyxto 50 mg film-coated tablets Each film-coated tablet contains 50 mg of venetoclax.
+Each film-coated tablet contains 10 mg of venetoclax.
 
-Venclyxto 100 mg film-coated tablets Each film-coated tablet contains 100 mg of venetoclax.
+Venclyxto 50 mg film-coated tablets
+
+Each film-coated tablet contains 50 mg of venetoclax.
+
+Venclyxto 100 mg film-coated tablets
+
+Each film-coated tablet contains 100 mg of venetoclax.
 
 For the full list of excipients, see section 6.1.
 
@@ -56,7 +62,11 @@ Pale yellow, oblong biconvex shaped tablet 17.2 mm long, 9.5 mm wide debossed wi
 
 ## 4.1 Therapeutic indications
 
-Venclyxto in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).
+Venclyxto is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL):
+
+- in combination with acalabrutinib with or without obinutuzumab
+- in combination with obinutuzumab (see section 5.1)
+- in combination with ibrutinib
 
 Venclyxto in combination with rituximab is indicated for the treatment of adult patients with CLL who have received at least one prior therapy.
 
@@ -65,15 +75,15 @@ Venclyxto monotherapy is indicated for the treatment of CLL:
 - in the presence of 17p deletion or TP53 mutation in adult patients who are unsuitable for or have failed a B-cell receptor pathway inhibitor, or
 - in the absence of 17p deletion or TP53 mutation in adult patients who have failed both chemoimmunotherapy and a B-cell receptor pathway inhibitor.
 
-Venclyxto in combination with a hypomethylating agent is indicated for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for intensive chemotherapy.
-
 <div style=\"page-break-after: always\"></div>
+
+Venclyxto in combination with a hypomethylating agent is indicated for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for intensive chemotherapy.
 
 ## 4.2 Posology and method of administration
 
 Treatment with venetoclax should be initiated and supervised by a physician experienced in the use of anticancer medicinal products. Patients treated with venetoclax may develop tumour lysis syndrome (TLS). Information described in this section, including risk assessment, prophylactic measures, dose-titration schedule, laboratory monitoring, and drug interactions should be followed to prevent and reduce the risk of TLS.
 
-## Posology
+Posology
 
 Chronic lymphocytic leukaemia
 
@@ -93,15 +103,33 @@ Table 1: Dose increase schedule in patients with CLL
 
 The 5-week dose-titration schedule is designed to gradually reduce tumour burden (debulk) and decrease the risk of TLS.
 
+Venetoclax in combination with acalabrutinib with or without obinutuzumab
+
+Treatment with venetoclax in combination with acalabrutinib with or without obinutuzumab should continue until disease progression, unacceptable toxicity or completion of 14 cycles (each cycle is 28 days).
+
+Administer acalabrutinib 100 mg orally on Cycle 1 Day 1 approximately every 12 hours for a total of 14 cycles of treatment. Each cycle is 28 days.
+
+Start the 5-week venetoclax dose-titration schedule (Table 1) on Cycle 3 Day 1. After completing the dose-titration schedule, the recommended dose of venetoclax is 400 mg once daily until the last day of Cycle 14.
+
+If venetoclax is given in combination with acalabrutinib and obinutuzumab, administer obinutuzumab 100 mg on Cycle 2 Day 1, followed by 900 mg, which may be administered on Day 1 or Day 2. Administer 1000 mg on Days 8 and 15 of Cycle 2 and on Day 1 of Cycles 3 to 7. Obinutuzumab is administered for a total of 6 cycles.
+
 Venetoclax in combination with obinutuzumab
 
 Venetoclax is given for a total of 12 cycles, each cycle consisting of 28 days: 6 cycles in combination with obinutuzumab, followed by 6 cycles of venetoclax as a single agent.
+
+<div style=\"page-break-after: always\"></div>
 
 Administer obinutuzumab 100 mg on Cycle 1 Day 1, followed by 900 mg which may be administered on Day 1 or Day 2. Administer 1000 mg on Days 8 and 15 of Cycle 1 and on Day 1 of each subsequent 28-day cycle, for a total of 6 cycles.
 
 Start the 5-week venetoclax dose-titration schedule (see Table 1) on Cycle 1 Day 22 and continue through Cycle 2 Day 28.
 
 After completing the dose-titration schedule, the recommended dose of venetoclax is 400 mg once daily from Cycle 3 Day 1 of obinutuzumab to the last day of Cycle 12.
+
+Venetoclax in combination with ibrutinib
+
+Start ibrutinib (420 mg once daily) as a single agent for 3 cycles (1 cycle is 28 days), followed by 12 cycles of venetoclax in combination with ibrutinib. Beginning on Cycle 4 Day 1, administer venetoclax according to the dose-titration schedule (see Table 1). After completing the dose-titration schedule, patients should continue venetoclax 400 mg once daily in combination with ibrutinib 420 mg orally once daily to the last day of Cycle 15.
+
+Refer to the ibrutinib Summary of Product Characteristics for additional information.
 
 Post-titration dose for venetoclax in combination with rituximab
 
@@ -112,8 +140,6 @@ Administer rituximab after the patient has completed the dose-titration schedule
 Venetoclax is taken for 24 months from Cycle 1 Day 1 of rituximab (see section 5.1).
 
 Post-titration dose for venetoclax monotherapy
-
-<div style=\"page-break-after: always\"></div>
 
 The recommended dose of venetoclax is 400 mg once daily. Treatment is continued until disease progression or no longer tolerated by the patient.
 
@@ -135,6 +161,8 @@ Decitabine should be administered at 20 mg/m 2 of BSA intravenously on Days 1-5 
 
 Venetoclax dosing may be interrupted as needed for management of hematologic toxicities and blood count recovery (see Table 6).
 
+<div style=\"page-break-after: always\"></div>
+
 Venetoclax, in combination with a hypomethylating agent, should be continued until disease progression or unacceptable toxicity is observed.
 
 ## Prevention of tumour lysis syndrome (TLS)
@@ -151,18 +179,29 @@ Prior to initiating venetoclax, tumour burden assessment, including radiographic
 
 Table 3 below describes the recommended TLS prophylaxis and monitoring during venetoclax treatment based on tumour burden determination from clinical study data (see section 4.4). In addition, all patient comorbidities should be considered for risk-appropriate prophylaxis and monitoring, either outpatient or in hospital.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3: Recommended TLS prophylaxis based on tumour burden in patients with CLL
 
-| Tumour burden   | Tumour burden                                      | Prophylaxis                                                 | Prophylaxis                                                         | Blood chemistry monitoring c,d                                                                                                                                                                                                                                  |
-|-----------------|----------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                 |                                                    | Hydration a                                                 | Anti- hyperuricaemics b                                             | Setting and frequency of assessments                                                                                                                                                                                                                            |
-| Low             | All LN <5 cm AND ALC <25 x10 9 /L                  | Oral (1.5-2 L)                                              | Allopurinol                                                         | Outpatient • For first dose of 20 mg and 50 mg: Pre-dose, 6 to 8 hours, 24 hours • For subsequent dose increases: Pre-dose                                                                                                                                      |
-| Medium          | Any LN 5 cm to <10 cm OR ALC ≥25 x10 9 /L          | Oral (1.5-2 L) and consider additional intravenous          | Allopurinol                                                         | Outpatient • For first dose of 20 mg and 50 mg: Pre-dose, 6 to 8 hours, 24 hours • For subsequent dose increases: Pre-dose • For first dose of 20 mg and 50 mg: Consider hospitalisation for patients with CrCl <80ml/min; see below for monitoring in hospital |
-| High            | Any LN ≥10 cm OR ALC ≥25 x10 9 /L AND any LN ≥5 cm | Oral (1.5-2 L) and intravenous (150-200 ml/hr as tolerated) | Allopurinol; consider rasburicase if baseline uric acid is elevated | In hospital • For first dose of 20 mg and 50 mg: Pre-dose, 4, 8, 12 and 24 hours Outpatient • For subsequent dose increases: Pre-dose, 6 to 8 hours, 24 hours                                                                                                   |
+| Tumour burden   | Tumour burden                             | Prophylaxis                                        | Prophylaxis             | Blood chemistry monitoring c,d                                                                                             |
+|-----------------|-------------------------------------------|----------------------------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|                 |                                           | Hydration a                                        | Anti- hyperuricaemics b | Setting and frequency of assessments                                                                                       |
+| Low             | All LN <5 cm AND ALC <25 x10 9 /L         | Oral (1.5-2 L)                                     | Allopurinol             | Outpatient • For first dose of 20 mg and 50 mg: Pre-dose, 6 to 8 hours, 24 hours • For subsequent dose increases: Pre-dose |
+| Medium          | Any LN 5 cm to <10 cm OR ALC ≥25 x10 9 /L | Oral (1.5-2 L) and consider additional intravenous | Allopurinol             | Outpatient • For first dose of 20 mg and 50 mg: Pre-dose, 6 to 8 hours, 24 hours • For subsequent dose increases: Pre-dose |
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
+
+|      |                                                    |                                                             |                                                                     | • For first dose of 20 mg and 50 mg: Consider hospitalisation for patients with CrCl <80ml/min; see below for monitoring in hospital                          |
+|------|----------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| High | Any LN ≥10 cm OR ALC ≥25 x10 9 /L AND any LN ≥5 cm | Oral (1.5-2 L) and intravenous (150-200 ml/hr as tolerated) | Allopurinol; consider rasburicase if baseline uric acid is elevated | In hospital • For first dose of 20 mg and 50 mg: Pre-dose, 4, 8, 12 and 24 hours Outpatient • For subsequent dose increases: Pre-dose, 6 to 8 hours, 24 hours |
+
+ALC = absolute lymphocyte count; CrCl = creatinine clearance; LN = lymph node.
+
+a Instruct patients to drink water daily starting 2 days before and throughout the dose-titration phase, specifically prior to and on the days of dosing at initiation and each subsequent dose increase. Administer intravenous hydration for any patient who cannot tolerate oral hydration.
+
+b Start allopurinol or xanthine oxidase inhibitor 2 to 3 days prior to initiation of venetoclax.
+
+c Evaluate blood chemistries (potassium, uric acid, phosphorus, calcium, and creatinine); review in real time.
+
+d At subsequent dose increases, monitor blood chemistries at 6 to 8 hours and at 24 hours for patients who continue to be at risk of TLS.
 
 ## Dose modifications for tumour lysis syndrome and other toxicities
 
@@ -170,30 +209,21 @@ Table 3: Recommended TLS prophylaxis based on tumour burden in patients with CLL
 
 Dosing interruption and/or dose reduction for toxicities may be required. See Table 4 and Table 5 for recommended dose modifications for toxicities related to venetoclax.
 
-<div style=\"page-break-after: always\"></div>
+Refer to the prescribing information of each of the medicinal products used in combination with venetoclax for additional information for management of toxicities.
 
-Table 4: Recommended venetoclax dose modifications for toxicities a in CLL
+Table 4: Recommended venetoclax dose modifications for toxicities a  in CLL
 
-| Event                                                                                                | Occurrence                      | Action                                                                                                                                                                                                                                                                                                       |
-|------------------------------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tumour lysis syndrome                                                                                | Tumour lysis syndrome           | Tumour lysis syndrome                                                                                                                                                                                                                                                                                        |
-| Blood chemistry changes or symptoms suggestive of TLS                                                | Any                             | Withhold the next day's dose. If resolved within 24 to 48 hours of last dose, resume at the same dose.                                                                                                                                                                                                       |
-| Blood chemistry changes or symptoms suggestive of TLS                                                | Any                             | For any blood chemistry changes requiring more than 48 hours to resolve, resume at a reduced dose (see Table 5).                                                                                                                                                                                             |
-| Blood chemistry changes or symptoms suggestive of TLS                                                | Any                             | For any events of clinical TLS, b resume at a reduced dose following resolution (see Table 5).                                                                                                                                                                                                               |
-| Non-haematologic toxicities                                                                          | Non-haematologic toxicities     | Non-haematologic toxicities                                                                                                                                                                                                                                                                                  |
-| Grade 3 or 4 non- haematologic toxicities                                                            | 1 st occurrence                 | Interrupt venetoclax. Once the toxicity has resolved to Grade 1 or baseline level, venetoclax therapy may be resumed at the same dose. No dose modification is required.                                                                                                                                     |
-| Grade 3 or 4 non- haematologic toxicities                                                            | 2 nd and subsequent occurrences | Interrupt venetoclax. Follow dose reduction guidelines in Table 5 when resuming treatment with venetoclax after resolution. Alarger dose reduction may occur at the discretion of the physician.                                                                                                             |
-| Haematologic toxicities                                                                              | Haematologic toxicities         | Haematologic toxicities                                                                                                                                                                                                                                                                                      |
-| Grade 3 neutropenia with infection or fever; or Grade 4 haematologic toxicities (except lymphopenia) | 1 st occurrence                 | Interrupt venetoclax. To reduce the infection risks associated with neutropenia, granulocyte-colony stimulating factor (G-CSF) may be administered with venetoclax if clinically indicated. Once the toxicity has resolved to Grade 1 or baseline level, venetoclax therapy may be resumed at the same dose. |
-| Grade 3 neutropenia with infection or fever; or Grade 4 haematologic toxicities (except lymphopenia) | 2 nd and subsequent occurrences | Interrupt venetoclax. Consider using G-CSF as clinically indicated. Follow dose reduction guidelines in Table 5 when resuming treatment with venetoclax after resolution. Alarger dose reduction may occur at the discretion of the physician.                                                               |
-
-Consider discontinuing venetoclax for patients who require dose reductions to less than 100 mg for more than 2 weeks.
-
-a Adverse reactions were graded using NCI CTCAE version 4.0.
-
-b Clinical TLS was defined as laboratory TLS with clinical consequences such as acute renal failure, cardiac arrhythmias, or seizures and/or sudden death (see section 4.8).
+| Event                                                 | Occurrence                  | Action                                                                                                           |
+|-------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------|
+| Tumour lysis syndrome                                 | Tumour lysis syndrome       | Tumour lysis syndrome                                                                                            |
+| Blood chemistry changes or symptoms suggestive of TLS | Any                         | Withhold the next day's dose. If resolved within 24 to 48 hours of last dose, resume at the same dose.           |
+| Blood chemistry changes or symptoms suggestive of TLS | Any                         | For any blood chemistry changes requiring more than 48 hours to resolve, resume at a reduced dose (see Table 5). |
+| Blood chemistry changes or symptoms suggestive of TLS | Any                         | For any events of clinical TLS, b resume at a reduced dose following resolution (see Table 5).                   |
+| Non-haematologic toxicities                           | Non-haematologic toxicities | Non-haematologic toxicities                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 Table 5: Dose modification for TLS and other toxicities for patients with CLL
 
@@ -206,15 +236,15 @@ Table 5: Dose modification for TLS and other toxicities for patients with CLL
 |                          50 |                     20 |
 |                          20 |                     10 |
 
-a The modified dose should be continued for 1 week before increasing the dose.
-
 For patients who have had a dosing interruption lasting more than 1 week during the first 5 weeks of dose-titration or more than 2 weeks after completing the dose-titration phase, TLS risk should be reassessed to determine if restarting at a reduced dose is necessary (e.g., all or some levels of the dose-titration; see Table 5).
 
-Acute myeloid leukaemia
+<div style=\"page-break-after: always\"></div>
+
+## Acute myeloid leukaemia
 
 The venetoclax daily dose-titration is 3 days with azacitidine or decitabine (see Table 2).
 
-Prophylaxis measures listed below should be followed:
+## Prophylaxis measures listed below should be followed:
 
 All patients should have white blood cell count &lt;25 × 10 9 /l prior to initiation of venetoclax and cytoreduction prior to treatment may be required.
 
@@ -228,8 +258,6 @@ For patients with risk factors for TLS (e.g., circulating blasts, high burden of
 
 Monitor blood counts frequently through resolution of cytopenias. Dose modification and interruptions for cytopenias are dependent on remission status. Dose modifications of venetoclax for adverse reactions are provided in Table 6.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 6: Recommended dose modifications for adverse reactions in AML
 
 | Adverse Reaction                                                                                                                                   | Occurrence                                                                              | Dosage Modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -238,9 +266,14 @@ Table 6: Recommended dose modifications for adverse reactions in AML
 | Grade 4 neutropenia (ANC < 500/microlitre) with or without fever or infection; or grade 4 thrombocytopenia (platelet count <25 × 10 3 /microlitre) | Occurrence prior to achieving remission a                                               | In most instances, do not interrupt venetoclax in combination with azacitidine or decitabine due to cytopenias prior to achieving remission.                                                                                                                                                                                                                                                                                                                                              |
 | Grade 4 neutropenia (ANC < 500/microlitre) with or without fever or infection; or grade 4 thrombocytopenia (platelet count <25 × 10 3 /microlitre) | First occurrence after achieving remission and lasting at least 7 days                  | Delay subsequent cycle of venetoclax in combination with azacitidine or decitabine and monitor blood counts. Administer granulocyte-colony stimulating factor (G- CSF) if clinically indicated for neutropenia. Upon resolution to grade 1 or 2, resume venetoclax at the same dose in combination with azacitidine or decitabine.                                                                                                                                                        |
 | Grade 4 neutropenia (ANC < 500/microlitre) with or without fever or infection; or grade 4 thrombocytopenia (platelet count <25 × 10 3 /microlitre) | Subsequent occurrences in cycles after achieving remission and lasting 7 days or longer | Delay subsequent cycle of venetoclax in combination with azacitidine or decitabine and monitor blood counts. Administer G-CSF if clinically indicated for neutropenia. Upon resolution to grade 1 or 2, resume venetoclax at the same dose in combination with azacitidine or decitabine, and reduce venetoclax duration by 7 days during each of the subsequent cycles, such as 21 days instead of 28 days. Refer to the azacitidine prescribing information for additional information. |
-| Non-Hematologic Adverse Reactions                                                                                                                  | Non-Hematologic Adverse Reactions                                                       | Non-Hematologic Adverse Reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Grade 3 or 4 non- hematologic toxicities                                                                                                           | Any occurrence                                                                          | Interrupt venetoclax if not resolved with supportive care. Upon resolution to grade 1 or baseline level, resume venetoclax at the same dose.                                                                                                                                                                                                                                                                                                                                              |
-| a Consider bone marrow evaluation.                                                                                                                 | a Consider bone marrow evaluation.                                                      | a Consider bone marrow evaluation.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse Reaction                         | Occurrence                         | Dosage Modification                                                                                                                          |
+|------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Non-Hematologic Adverse Reactions        | Non-Hematologic Adverse Reactions  | Non-Hematologic Adverse Reactions                                                                                                            |
+| Grade 3 or 4 non- hematologic toxicities | Any occurrence                     | Interrupt venetoclax if not resolved with supportive care. Upon resolution to grade 1 or baseline level, resume venetoclax at the same dose. |
+| a Consider bone marrow evaluation.       | a Consider bone marrow evaluation. | a Consider bone marrow evaluation.                                                                                                           |
 
 ## Dose modifications for use with CYP3A inhibitors
 
@@ -250,16 +283,15 @@ In patients with CLL, concomitant use of venetoclax with strong CYP3A inhibitors
 
 In all patients, if a CYP3A inhibitor must be used, follow the recommendations for managing drugdrug interactions summarized in Table 7. Patients should be monitored more closely for signs of toxicities and the dose may need to be further adjusted. The venetoclax dose that was used prior to initiating the CYP3A inhibitor should be resumed 2 to 3 days after discontinuation of the inhibitor (see sections 4.3, 4.4 and 4.5).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 7: Management of potential venetoclax interactions with CYP3A inhibitors
 
-| Inhibitor                                                                                                                                                                                                                                       | Phase                                                                                                                                                                                                                                           | CLL                                                                                                                                                                                                                                             | AML                                                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Strong CYP3A inhibitor                                                                                                                                                                                                                          | Initiation and dose- titration phase                                                                                                                                                                                                            | Contraindicated                                                                                                                                                                                                                                 | 10 mg 20 mg 50 mg 100 mg or less                                                                                                                                                                                                                |
-| Strong CYP3A inhibitor                                                                                                                                                                                                                          | Steady daily dose (After dose-titration phase)                                                                                                                                                                                                  | Day 4 - Reduce the venetoclax dose to 100 mg or less (or by at least 75% if already modified for other reasons)                                                                                                                                 | Day 4 - Reduce the venetoclax dose to 100 mg or less (or by at least 75% if already modified for other reasons)                                                                                                                                 |
-| Moderate CYP3A inhibitor a                                                                                                                                                                                                                      | All                                                                                                                                                                                                                                             | Reduce the venetoclax                                                                                                                                                                                                                           | at least                                                                                                                                                                                                                                        |
-| a In patients with CLL, avoid concomitant use of venetoclax with moderate CYP3A inhibitors at initiation and during the dose-titration phase. Consider alternative medicinal products or reduce the venetoclax dose as described in this table. | a In patients with CLL, avoid concomitant use of venetoclax with moderate CYP3A inhibitors at initiation and during the dose-titration phase. Consider alternative medicinal products or reduce the venetoclax dose as described in this table. | a In patients with CLL, avoid concomitant use of venetoclax with moderate CYP3A inhibitors at initiation and during the dose-titration phase. Consider alternative medicinal products or reduce the venetoclax dose as described in this table. | a In patients with CLL, avoid concomitant use of venetoclax with moderate CYP3A inhibitors at initiation and during the dose-titration phase. Consider alternative medicinal products or reduce the venetoclax dose as described in this table. |
+| Inhibitor                  | Phase                                          | CLL                                                                                                     | AML                                                                                                     |
+|----------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Strong CYP3A inhibitor     | Initiation and dose- titration phase           | Contraindicated                                                                                         | Day 1 - 10 mg Day 2 - 20 mg Day 3 - 50 mg Day 4 - 100 mg or less                                        |
+| Strong CYP3A inhibitor     | Steady daily dose (After dose-titration phase) | Reduce the venetoclax dose to 100 mg or less (or by at least 75% if already modified for other reasons) | Reduce the venetoclax dose to 100 mg or less (or by at least 75% if already modified for other reasons) |
+| Moderate CYP3A inhibitor a | All                                            | Reduce the venetoclax dose by at least 50%                                                              | Reduce the venetoclax dose by at least 50%                                                              |
+
+a In patients with CLL, avoid concomitant use of venetoclax with moderate CYP3A inhibitors at initiation and during the dose-titration phase. Consider alternative medicinal products or reduce the venetoclax dose as described in this table.
 
 ## Missed dose
 
@@ -273,6 +305,8 @@ Elderly
 
 No specific dose adjustment is required for elderly patients (aged ≥65 years) (see section 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Patients with reduced renal function (CrCl &lt;80 ml/min) may require more intensive prophylaxis and monitoring to reduce the risk of TLS at initiation and during the dose-titration phase (see 'Prevention of tumour lysis syndrome (TLS)' above). Venetoclax should be administered to patients with severe renal impairment (CrCl ≥15 ml/min and &lt;30 ml/min) or end-stage renal disease (ESRD) requiring dialysis (CrCL &lt;15 ml/min) only if the benefit outweighs the risk and patients should be monitored closely for signs of toxicity due to increased risk of TLS (see section 4.4).
@@ -281,11 +315,9 @@ No dose adjustment is needed for patients with mild, moderate, severe renal impa
 
 ## Hepatic impairment
 
-No dose adjustment is recommended in patients with mild or moderate hepatic impairment. Patients with moderate hepatic impairment should be monitored more closely for signs of toxicity at initiation and during the dose-titration phase (see section 4.8).
+No dose adjustment is recommended in patients with mild or moderate, hepatic impairment. Patients with moderate hepatic impairment should be monitored more closely for signs of toxicity at initiation and during the dose-titration phase (see section 4.8).
 
 A dose reduction of at least 50% throughout treatment is recommended for patients with severe hepatic impairment (see section 5.2). These patients should be monitored more closely for signs of toxicity (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -313,21 +345,19 @@ In all patients, concomitant use of preparations containing St. John's wort (see
 
 Tumour lysis syndrome, including fatal events and renal failure requiring dialysis, has occurred in patients treated with venetoclax (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 Venetoclax can cause rapid reduction in tumour, and thus poses a risk for TLS at initiation and during the dose-titration phase. Changes in electrolytes consistent with TLS that require prompt management can occur as early as 6 to 8 hours following the first dose of venetoclax and at each dose increase. During post-marketing surveillance, TLS, including fatal events, has been reported after a single 20 mg dose of venetoclax. Information described in section 4.2, including risk assessment, prophylactic measures, dose-titration and modification schedule, laboratory monitoring, and drug interactions should be followed to prevent and reduce the risk of TLS.
 
 The risk of TLS is a continuum based on multiple factors, including comorbidities (particularly reduced renal function), tumour burden, and splenomegaly in CLL.
 
 All patients should be assessed for risk and should receive appropriate prophylaxis for TLS, including hydration and anti-hyperuricaemics. Blood chemistries should be monitored, and abnormalities managed promptly. More intensive measures (intravenous hydration, frequent monitoring, hospitalisation) should be employed as overall risk increases. Dosing should be interrupted if needed; when restarting venetoclax, dose modification guidance should be followed (see Table 4 and Table 5). The instructions for 'Prevention of tumour lysis syndrome (TLS)' should be followed (see section 4.2).
 
-Concomitant use of this medicinal product with strong or moderate CYP3A inhibitors increases venetoclax exposure and may increase the risk for TLS at initiation and during the dose-titration phase
-
-<div style=\"page-break-after: always\"></div>
-
-(see sections 4.2 and 4.3). Also, inhibitors of P-gp or BCRP may increase venetoclax exposure (see section 4.5).
+Concomitant use of this medicinal product with strong or moderate CYP3A inhibitors increases venetoclax exposure and may increase the risk for TLS at initiation and during the dose-titration phase (see sections 4.2 and 4.3). Also, inhibitors of P-gp or BCRP may increase venetoclax exposure (see section 4.5).
 
 ## Neutropenia and infections
 
-In patients with CLL, grade 3 or 4 neutropenia has been reported in patients treated with venetoclax in combination studies with rituximab or obinutuzumab and in monotherapy studies (see section 4.8).
+In patients with CLL, grade 3 or 4 neutropenia has been reported in patients treated with venetoclax in combination studies and in monotherapy studies (see section 4.8).
 
 In patients with AML, grade 3 or 4 neutropenia are common before starting treatment. The neutrophil counts can worsen with venetoclax in combination with a hypomethylating agent. Neutropenia can recur with subsequent cycles of therapy.
 
@@ -343,6 +373,8 @@ The safety and efficacy of immunisation with live attenuated vaccines during or 
 
 Co-administration of CYP3A4 inducers may lead to decreased venetoclax exposure and consequently a risk for lack of efficacy. Concomitant use of venetoclax with strong or moderate CYP3A4 inducers should be avoided (see sections 4.3 and 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Women of childbearing potential
 
 Women of childbearing potential must use a highly effective method of contraception while taking venetoclax (see section 4.6).
@@ -355,15 +387,11 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 Venetoclax is predominantly metabolised by CYP3A.
 
-## Agents that may alter venetoclax plasma concentrations
+Agents that may alter venetoclax plasma concentrations
 
 ## CYP3A inhibitors
 
-Co-administration of 400 mg once daily ketoconazole, a strong CYP3A, P-gp and BCRP inhibitor, for 7 days in 11 patients increased venetoclax Cmax to 2.3-fold and AUC to 6.4-fold. Co-administration of 50 mg once daily ritonavir, a strong CYP3A and P-gp inhibitor, for 14 days in 6 healthy subjects increased venetoclax Cmax to 2.4-fold and AUC by 7.9-fold. Compared with venetoclax 400 mg administered alone, co-administration of 300 mg posaconazole, a strong CYP3A and P-gp inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients increased venetoclax Cmax to 1.6-fold and
-
-<div style=\"page-break-after: always\"></div>
-
-1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively. Co-administration of venetoclax with other strong CYP3A4 inhibitors is predicted to increase venetoclax AUC by on average 5.8- to 7.8-fold.
+Co-administration of 400 mg once daily ketoconazole, a strong CYP3A, P-gp and BCRP inhibitor, for 7 days in 11 patients increased venetoclax Cmax to 2.3-fold and AUC to 6.4-fold. Co-administration of 50 mg once daily ritonavir, a strong CYP3A and P-gp inhibitor, for 14 days in 6 healthy subjects increased venetoclax Cmax to 2.4-fold and AUC by 7.9-fold. Compared with venetoclax 400 mg administered alone, co-administration of 300 mg posaconazole, a strong CYP3A and P-gp inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients increased venetoclax Cmax to 1.6-fold and 1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively. Co-administration of venetoclax with other strong CYP3A4 inhibitors is predicted to increase venetoclax AUC by on average 5.8- to 7.8-fold.
 
 For patients requiring concomitant use of venetoclax with strong CYP3A inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, clarithromycin, ritonavir) or moderate CYP3A inhibitors (e.g., ciprofloxacin, diltiazem, erythromycin, fluconazole, verapamil), venetoclax dosing should be administered according to Table 7. Patients should be monitored more closely for signs of toxicities and the dose may need to be further adjusted. The venetoclax dose that was used prior to initiating the CYP3A inhibitor should be resumed 2 to 3 days after discontinuation of the inhibitor (see section 4.2).
 
@@ -373,9 +401,15 @@ Grapefruit products, Seville oranges, and starfruit (carambola) should be avoide
 
 Venetoclax is a substrate for P-gp and BCRP. Co-administration of a 600 mg single dose of rifampicin, a P-gp inhibitor, in 11 healthy subjects increased venetoclax Cmax by 106% and AUC by 78%. Concomitant use of venetoclax with P-gp and BCRP inhibitors at initiation and during the dose-titration phase should be avoided; if a P-gp and BCRP inhibitor must be used, patients should be monitored closely for signs of toxicities (see section 4.4).
 
+## Ibrutinib
+
+In studies of ibrutinib (420 mg) in combination with venetoclax (400 mg) in CLL patients, an increase in venetoclax exposure (approximately 1.8-fold based on AUC) was observed compared with monotherapy data for venetoclax.
+
 ## CYP3A inducers
 
 Co-administration of 600 mg once daily rifampicin, a strong CYP3A inducer, for 13 days in 10 healthy subjects decreased venetoclax Cmax by 42% and AUC by 71%. Concomitant use of venetoclax with strong CYP3A inducers (e.g., carbamazepine, phenytoin, rifampicin) or moderate CYP3A inducers (e.g., bosentan, efavirenz, etravirine, modafinil, nafcillin) should be avoided. Alternative treatments with less CYP3A induction should be considered. Preparations containing St. John's wort are contraindicated during treatment with venetoclax, as efficacy may be reduced (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Azithromycin
 
@@ -389,13 +423,11 @@ Based on population pharmacokinetic analysis, gastric acid reducing agents (e.g.
 
 Co-administration of bile acid sequestrants with venetoclax is not recommended as this may reduce the absorption of venetoclax. If a bile acid sequestrant is to be co-administered with venetoclax, the SmPC for the bile acid sequestrant should be followed to reduce the risk for an interaction, and venetoclax should be administered at least 4-6 hours after the sequestrant.
 
-## Agents that may have their plasma concentrations altered by venetoclax
+Agents that may have their plasma concentrations altered by venetoclax
 
 ## Warfarin
 
 In a drug-drug interaction study in three healthy volunteers, administration of a single dose of 400 mg venetoclax with 5 mg warfarin resulted in an 18% to 28% increase in Cmax and AUC of R-warfarin and S-warfarin. Because venetoclax was not dosed to steady state, it is recommended that the international normalized ratio (INR) be monitored closely in patients receiving warfarin.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Substrates of P-gp, BCRP, and OATP1B1
 
@@ -410,6 +442,8 @@ If a statin (OATP substrate) is used concomitantly with venetoclax, close monito
 ## Women of childbearing potential/Contraception in females
 
 Women should avoid becoming pregnant while taking Venclyxto and for at least 30 days after ending treatment. Therefore, women of childbearing potential must use highly effective contraceptive measures while taking venetoclax and for 30 days after stopping treatment. It is currently unknown whether venetoclax may reduce the effectiveness of hormonal contraceptives, and therefore women using hormonal contraceptives should add a barrier method.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -433,19 +467,21 @@ No human data on the effect of venetoclax on fertility are available. Based on t
 
 Venclyxto has no or negligible influence on the ability to drive and use machines. Fatigue and dizziness have been reported in some patients taking venetoclax and should be considered when assessing a patient's ability to drive or operate machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of safety profile
 
 ## Chronic lymphocytic leukaemia
 
-The overall safety profile of Venclyxto is based on data from 758 patients with CLL treated in clinical studies with venetoclax in combination with obinutuzumab or rituximab or as monotherapy. The safety analysis included patients from two phase 3 studies (CLL14 and MURANO), two phase 2 studies (M13-982 and M14-032), and one phase 1 study (M12-175). CLL14 was a randomised, controlled study in which 212 patients with previously untreated CLL and comorbidities received venetoclax in combination with obinutuzumab. MURANO was a randomised, controlled study in which 194 patients with previously treated CLL received venetoclax in combination with rituximab. In the phase 2 and phase 1 studies, 352 patients with previously treated CLL, which included 212 patients with 17p deletion and 146 patients who had failed a B-cell receptor pathway inhibitor were treated with venetoclax monotherapy (see section 5.1).
+The overall safety profile of Venclyxto is based on data from 1187 patients with CLL treated in clinical studies with venetoclax in combination with obinutuzumab, ibrutinib, or rituximab, or as monotherapy. The safety analysis included patients from three phase 3 studies (CLL14, GLOW, and MURANO), three phase 2 studies (CAPTIVATE, M13-982, and M14-032), and one phase 1 study (M12-175). CLL14 was a randomised, controlled study in which 212 patients with previously untreated CLL and comorbidities received venetoclax in combination with obinutuzumab. GLOW was an open-label randomised study in which 106 patients with previously untreated CLL received venetoclax in combination with ibrutinib. MURANO was a randomised, controlled study in which 194 patients with previously treated CLL received venetoclax in combination with rituximab. CAPTIVATE was a multicentre, 2-cohort study in which 323 patients with previously untreated CLL received venetoclax in combination with ibrutinib. In the M13-982, M14-032 and M12-175 studies, 352 patients with previously treated CLL, which included 212 patients with 17p deletion and 146 patients who had failed a B-cell receptor pathway inhibitor were treated with venetoclax monotherapy (see section 5.1).
 
-The most commonly occurring adverse reactions (≥20%) of any grade in patients receiving venetoclax in the combination studies with obinutuzumab or rituximab were neutropenia, diarrhoea, and upper respiratory tract infection. In the monotherapy studies, the most common adverse reactions were neutropenia/neutrophil count decreased, diarrhoea, nausea, anaemia, fatigue, and upper respiratory tract infection.
+The most commonly occurring adverse reactions (≥20%) of any grade in patients receiving venetoclax in the combination studies with obinutuzumab, ibrutinib, or rituximab were diarrhoea, neutropenia, nausea, upper respiratory tract infection, fatigue and vomiting. In the monotherapy studies, the most common adverse reactions were neutropenia/neutrophil count decreased, diarrhoea, nausea, anaemia, fatigue, and upper respiratory tract infection.
 
-The most frequently reported serious adverse reactions (≥2%) in patients receiving venetoclax in combination with obinutuzumab or rituximab were pneumonia, sepsis, febrile neutropenia, and TLS. In the monotherapy studies, the most frequently reported serious adverse reactions (≥2%) were pneumonia and febrile neutropenia.
+<div style=\"page-break-after: always\"></div>
+
+The most frequently reported serious adverse reactions (≥2%) in patients receiving venetoclax in combination with obinutuzumab, ibrutinib, or rituximab were pneumonia, febrile neutropenia, sepsis, neutropenia, anaemia, diarrhoea and TLS. In the monotherapy studies, the most frequently reported serious adverse reactions (≥2%) were pneumonia and febrile neutropenia.
+
+The safety of venetoclax in combination with acalabrutinib with or without obinutuzumab was assessed in AMPLIFY, a randomised, controlled study of 575 patients with previously untreated CLL without del (17p) or TP53 mutation. Of the 291 patients treated with venetoclax in combination with acalabrutinib, the most commonly occurring reactions (≥20%) of any grade were infections, neutropenia, headache, bruising, diarrhoea and musculoskeletal pain. The most commonly reported Grade ≥3 adverse reaction (≥5%) was neutropenia. Of the 284 patients treated with venetoclax in combination with acalabrutinib and obinutuzumab, the most commonly occurring adverse reactions of any grade (≥20%) were infections, neutropenia, headache, bruising, diarrhoea, nausea and musculoskeletal pain. The most commonly reported Grade ≥3 adverse reactions (≥5%) were neutropenia and thrombocytopenia.
 
 ## Acute myeloid leukaemia
 
@@ -459,92 +495,101 @@ The 30-day mortality rate in the VIALE-A study was 7.4% (21/283) with venetoclax
 
 The 30-day mortality rate in the M14-358 study with venetoclax in combination with decitabine was 6.5% (2/31).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 Adverse reactions are listed below by MedDRA body system organ class and by frequency. Frequencies are defined as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 ## Chronic lymphocytic leukaemia
 
-The frequencies of adverse reactions reported with Venclyxto, in combination with obinutuzumab, rituximab, or as monotherapy in patients with CLL are summarised in Table 8.
-
-Table 8: Adverse drug reactions reported in patients with CLL treated with venetoclax
-
-| System organ class                                   | Frequency   | All grades a                                   | Grade ≥3 a                                                                          |
-|------------------------------------------------------|-------------|------------------------------------------------|-------------------------------------------------------------------------------------|
-| Infections and infestations                          | Very common | Pneumonia Upper respiratory tract infection    |                                                                                     |
-| Infections and infestations                          | Common      | Sepsis Urinary tract infection                 | Sepsis Pneumonia Urinary tract infection Upper respiratory tract infection          |
-| Blood and lymphatic system disorders                 | Very common | Neutropenia Anaemia Lymphopenia                | Neutropenia Anaemia                                                                 |
-| Blood and lymphatic system disorders                 | Common      | Febrile neutropenia                            | Febrile neutropenia Lymphopenia                                                     |
-| Metabolism and nutrition disorders                   | Very common | Hyperkalaemia Hyperphosphataemia Hypocalcaemia |                                                                                     |
-| Metabolism and nutrition disorders                   | Common      | Tumour lysis syndrome Hyperuricaemia           | Tumour lysis syndrome Hyperkalaemia Hyperphosphataemia Hypocalcaemia Hyperuricaemia |
-| Gastrointestinal disorders                           | Very common | Diarrhoea Vomiting Nausea Constipation         |                                                                                     |
-| Gastrointestinal disorders                           | Common      |                                                | Diarrhoea Vomiting Nausea                                                           |
-| Gastrointestinal disorders                           | Uncommon    |                                                | Constipation                                                                        |
-| General disorders and administration site conditions | Very common | Fatigue                                        |                                                                                     |
-| General disorders and administration site conditions | Common      |                                                | Fatigue                                                                             |
-| Investigations                                       | Common      | Blood creatinine increased                     |                                                                                     |
-| Investigations                                       | Uncommon    |                                                | Blood creatinine increased                                                          |
+The frequencies of adverse reactions reported with Venclyxto, in combination with obinutuzumab, ibrutinib, or rituximab, or as monotherapy in patients with CLL are summarised in Table 8.
 
 <div style=\"page-break-after: always\"></div>
 
-a Only the highest frequency observed in the studies is reported (based on studies CLL14, MURANO, M13982, M14-032, and M12-175).
+Table 8: Adverse drug reactions reported in patients with CLL treated with venetoclax
+
+| System organ class                                                                              | Frequency                                                                                       | All grades a                                                                                    | Grade ≥3 a                                                                                      |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Infections and infestations                                                                     | Very common                                                                                     | Pneumonia Upper respiratory tract infection Urinary tract infection                             |                                                                                                 |
+| Infections and infestations                                                                     | Common                                                                                          | Sepsis                                                                                          | Sepsis Pneumonia Urinary tract infection Upper respiratory tract infection                      |
+| Blood and lymphatic system disorders                                                            | Very common                                                                                     | Neutropenia Anaemia Lymphopenia                                                                 | Neutropenia Anaemia                                                                             |
+| Blood and lymphatic system disorders                                                            | Common                                                                                          | Febrile neutropenia                                                                             | Febrile neutropenia Lymphopenia                                                                 |
+| Metabolism and nutrition disorders                                                              | Very common                                                                                     | Hyperkalaemia Hyperphosphataemia Hypocalcaemia                                                  |                                                                                                 |
+| Metabolism and nutrition disorders                                                              | Common                                                                                          | Tumour lysis syndrome Hyperuricaemia                                                            | Tumour lysis syndrome Hyperkalaemia Hyperphosphataemia Hypocalcaemia Hyperuricaemia             |
+| Gastrointestinal disorders                                                                      | Very common                                                                                     | Diarrhoea Vomiting Nausea Constipation                                                          | Diarrhoea                                                                                       |
+| Gastrointestinal disorders                                                                      | Common                                                                                          |                                                                                                 | Vomiting Nausea                                                                                 |
+| Gastrointestinal disorders                                                                      | Uncommon                                                                                        |                                                                                                 | Constipation                                                                                    |
+| General disorders and administration site conditions                                            | Very common                                                                                     | Fatigue                                                                                         |                                                                                                 |
+| General disorders and administration site conditions                                            | Common                                                                                          |                                                                                                 | Fatigue                                                                                         |
+| Investigations                                                                                  | Common                                                                                          | Blood creatinine increased                                                                      |                                                                                                 |
+| Investigations                                                                                  | Uncommon                                                                                        |                                                                                                 | Blood creatinine increased                                                                      |
+| a Only the highest frequency observed in the studies is reported (based on studies CLL14, GLOW, | a Only the highest frequency observed in the studies is reported (based on studies CLL14, GLOW, | a Only the highest frequency observed in the studies is reported (based on studies CLL14, GLOW, | a Only the highest frequency observed in the studies is reported (based on studies CLL14, GLOW, |
+
+## AMPLIFY
+
+When venetoclax is administered in combination with acalabrutinib with or without obinutuzumab, refer to the acalabrutinib SmPC for a description of adverse reactions prior to initiation of treatment.
 
 ## Acute myeloid leukaemia
 
 The frequencies of adverse reactions reported with Venclyxto in combination with a hypomethylating agent in patients with AML are summarised in Table 9.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 9: Adverse drug reactions reported in patients with AML treated with venetoclax
 
-| System organ class                              | Frequency   | All grades a                                                   | Grade ≥3 a                                                     |
-|-------------------------------------------------|-------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| Infections and infestations                     | Very common | Pneumonia b Sepsis b Urinary tract infection                   | Pneumonia b Sepsis b                                           |
-| Infections and infestations                     | Common      |                                                                | Urinary tract infection                                        |
-| Blood and lymphatic system disorders            | Very common | Neutropenia b Febrile neutropenia Anaemia b Thrombocytopenia b | Neutropenia b Febrile neutropenia Anaemia b Thrombocytopenia b |
-| Metabolism and nutrition disorders              | Very common | Hypokalaemia Decreased appetite                                | Hypokalaemia                                                   |
-| Metabolism and nutrition disorders              | Common      | Tumour lysis syndrome                                          | Decreased appetite                                             |
-| Metabolism and nutrition disorders              | Uncommon    |                                                                | Tumour lysis syndrome                                          |
-| Nervous System Disorders                        | Very common | Dizziness/syncope b Headache                                   |                                                                |
-| Nervous System Disorders                        | Common      |                                                                | Dizziness/syncope b                                            |
-| Nervous System Disorders                        | Uncommon    |                                                                | Headache                                                       |
-| Vascular Disorders                              | Very common | Hypotension Haemorrhage b                                      | Haemorrhage b                                                  |
-| Vascular Disorders                              | Common      |                                                                | Hypotension                                                    |
-| Respiratory, thoracic, and mediastinal disorder | Very common | Dyspnoea                                                       |                                                                |
-| Respiratory, thoracic, and mediastinal disorder | Common      |                                                                | Dyspnoea                                                       |
-| Gastrointestinal disorders                      | Very common | Nausea Diarrhoea Vomiting Stomatitis Abdominal pain            |                                                                |
-| Gastrointestinal disorders                      | Common      |                                                                | Nausea Diarrhoea Vomiting                                      |
-| Gastrointestinal disorders                      | Uncommon    |                                                                | Stomatitis                                                     |
-| Hepatobiliary Disorders                         | Common      | Cholecystitis/cholelithiasis b                                 | Cholecystitis/cholelithiasis b                                 |
-| Musculoskeletal disorders and                   | Very common | Arthralgia                                                     |                                                                |
+| System organ class                                        | Frequency   | All grades a                                                   | Grade ≥3 a                                                     |
+|-----------------------------------------------------------|-------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Infections and infestations                               | Very common | Pneumonia b Sepsis b Urinary tract infection                   | Pneumonia b Sepsis b                                           |
+| Infections and infestations                               | Common      |                                                                | Urinary tract infection                                        |
+| Blood and lymphatic system disorders                      | Very common | Neutropenia b Febrile neutropenia Anaemia b Thrombocytopenia b | Neutropenia b Febrile neutropenia Anaemia b Thrombocytopenia b |
+| Metabolism and nutrition disorders                        | Very common | Hypokalaemia Decreased appetite                                | Hypokalaemia                                                   |
+| Metabolism and nutrition disorders                        | Common      | Tumour lysis syndrome                                          | Decreased appetite                                             |
+| Metabolism and nutrition disorders                        | Uncommon    |                                                                | Tumour lysis syndrome                                          |
+| Nervous System Disorders                                  | Very common | Dizziness/syncope b Headache                                   |                                                                |
+| Nervous System Disorders                                  | Common      |                                                                | Dizziness/syncope b                                            |
+| Nervous System Disorders                                  | Uncommon    |                                                                | Headache                                                       |
+| Vascular Disorders                                        | Very common | Hypotension Haemorrhage b                                      | Haemorrhage b                                                  |
+| Vascular Disorders                                        | Common      |                                                                | Hypotension                                                    |
+| Respiratory, thoracic, and mediastinal disorder           | Very common | Dyspnoea                                                       |                                                                |
+| Respiratory, thoracic, and mediastinal disorder           | Common      |                                                                | Dyspnoea                                                       |
+| Gastrointestinal disorders                                | Very common | Nausea Diarrhoea Vomiting Stomatitis Abdominal pain            |                                                                |
+| Gastrointestinal disorders                                | Common      |                                                                | Nausea Diarrhoea Vomiting                                      |
+| Gastrointestinal disorders                                | Uncommon    |                                                                | Stomatitis                                                     |
+| Hepatobiliary Disorders                                   | Common      | Cholecystitis/cholelithiasis b                                 | Cholecystitis/cholelithiasis b                                 |
+| Musculoskeletal disorders and connective tissue disorders | Very common | Arthralgia                                                     |                                                                |
+| Musculoskeletal disorders and connective tissue disorders | Uncommon    |                                                                | Arthralgia                                                     |
+| General disorders and administration site conditions      | Very common | Fatigue Asthenia                                               |                                                                |
+| General disorders and administration site conditions      | Common      |                                                                | Fatigue Asthenia                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| connective tissue disorders                                                                                                                          | Uncommon                                                                                                                                             |                                                                                                                                                      | Arthralgia                                                                                                                                           |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| General disorders and administration site conditions                                                                                                 | Very common                                                                                                                                          | Fatigue Asthenia                                                                                                                                     |                                                                                                                                                      |
-| General disorders and administration site conditions                                                                                                 | Common                                                                                                                                               |                                                                                                                                                      | Fatigue Asthenia                                                                                                                                     |
 | Investigations                                                                                                                                       | Very common                                                                                                                                          | Weight decreased Blood bilirubin increased                                                                                                           |                                                                                                                                                      |
-| Investigations                                                                                                                                       | Common                                                                                                                                               |                                                                                                                                                      | Weight decreased Blood bilirubin increased                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                      | Common                                                                                                                                               |                                                                                                                                                      | Weight decreased Blood bilirubin increased                                                                                                           |
 | a Only the highest frequency observed in the studies is reported (based on studies VIALE-A and M14-358). b Includes multiple adverse reaction terms. | a Only the highest frequency observed in the studies is reported (based on studies VIALE-A and M14-358). b Includes multiple adverse reaction terms. | a Only the highest frequency observed in the studies is reported (based on studies VIALE-A and M14-358). b Includes multiple adverse reaction terms. | a Only the highest frequency observed in the studies is reported (based on studies VIALE-A and M14-358). b Includes multiple adverse reaction terms. |
 
 ## Discontinuation and dose reductions due to adverse reactions
 
 ## Chronic lymphocytic leukaemia
 
-Discontinuations due to adverse reactions occurred in 16% of patients treated with venetoclax in combination with obinutuzumab or rituximab in the CLL14 and MURANO studies, respectively. In the monotherapy studies with venetoclax, 11% of patients discontinued due to adverse reactions.
+Discontinuations due to adverse reactions in the AMPLIFY study occurred in 8% of patients treated with venetoclax in combination with acalabrutinib, and in 20% of patients treated with venetoclax in combination with acalabrutinib and obinutuzumab.
 
-Dosage reductions due to adverse reactions occurred in 21% of patients treated with the combination of venetoclax and obinutuzumab in the CLL14 study, in 15% of patients treated with the combination of venetoclax and rituximab in the MURANO study and in 14% of patients treated with venetoclax in the monotherapy studies.
+Discontinuations due to adverse reactions occurred in 16% of patients treated with venetoclax in combination with obinutuzumab or rituximab in the CLL14 and MURANO studies, and in 21% and 7% of patients treated with venetoclax in combination with ibrutinib in the GLOW and CAPTIVATE studies, respectively. In the monotherapy studies with venetoclax, 11% of patients discontinued due to adverse reactions.
 
-Dose interruptions due to adverse reactions occurred in 74% of patients treated with the combination of venetoclax and obinutuzumab in the CLL14 study and in 71% of patients treated with the combination of venetoclax and rituximab in the MURANO study; the most common adverse reaction that led to dose interruption of venetoclax was neutropenia (41% and 43% in the CLL14 and MURANO studies, respectively). In the monotherapy studies with venetoclax, dose interruptions due to adverse reactions occurred in 40% of patients; the most common adverse reaction leading to dose interruption was neutropenia (5%).
+Dosage reductions due to adverse reactions in the AMPLIFY study occurred in 14% of patients treated with venetoclax in combination with acalabrutinib, and in 21% of patients treated with venetoclax in combination with acalabrutinib and obinutuzumab.
+
+Dosage reductions due to adverse reactions occurred in 21% of patients treated with venetoclax in combination with obinutuzumab in the CLL14 study, in 26% and 20% of patients treated with venetoclax in combination with ibrutinib in the GLOW and CAPTIVATE studies, respectively, in 15% of patients treated with venetoclax in combination with rituximab in the MURANO study, and in 14% of patients treated with venetoclax in the monotherapy studies.
+
+Dose interruptions due to adverse reactions in the AMPLIFY study occurred in 50% of patients treated with venetoclax in combination with acalabrutinib, and in 65% of patients treated with venetoclax in combination with acalabrutinib and obinutuzumab. The most common adverse reaction that led to dose interruption of venetoclax in the AMPLIFY study was neutropenia (33% and 26% with or without obinutuzumab, respectively).
+
+Dose interruptions due to adverse reactions occurred in 74% of patients treated with the combination of venetoclax and obinutuzumab in the CLL14 study, in 67% of patients treated with the combination of venetoclax and ibrutinib in the GLOW study, and in 71% of patients treated with the combination of venetoclax and rituximab in the MURANO study; the most common adverse reaction that led to dose interruption of venetoclax was neutropenia (41%, 19%, and 43% in the CLL14, GLOW, and MURANO studies, respectively). In the monotherapy studies with venetoclax, dose interruptions due to adverse reactions occurred in 40% of patients; the most common adverse reaction leading to dose interruption was neutropenia (5%).
 
 ## Acute myeloid leukaemia
 
 In the VIALE-A study, discontinuations of venetoclax due to adverse reactions occurred in 24% of patients treated with the combination of venetoclax and azacitidine. Venetoclax dosage reductions due to adverse reactions occurred in 2% of patients. Venetoclax dose interruptions due to adverse reactions occurred in 72% of patients. Among patients who achieved bone marrow clearance of leukaemia, 53% underwent dose interruptions for ANC &lt;500/microlitre. The most common adverse reaction that led to dose interruption (&gt;10%) of venetoclax were febrile neutropenia, neutropenia, pneumonia, and thrombocytopenia.
 
-In the M14-358 study, discontinuations due to adverse reactions occurred in 26% of patients treated with the combination of venetoclax and decitabine. Dosage reductions due to adverse reactions occurred in 6% of patients. Dose interruptions due to adverse reactions occurred in 65% of patients; the most common adverse reactions that led to dose interruption (≥5%) of venetoclax were febrile neutropenia, neutropenia/neutrophil count decreased, pneumonia, platelet count decreased, and white blood cell count decreased.
-
 <div style=\"page-break-after: always\"></div>
+
+In the M14-358 study, discontinuations due to adverse reactions occurred in 26% of patients treated with the combination of venetoclax and decitabine. Dosage reductions due to adverse reactions occurred in 6% of patients. Dose interruptions due to adverse reactions occurred in 65% of patients; the most common adverse reactions that led to dose interruption (≥5%) of venetoclax were febrile neutropenia, neutropenia/neutrophil count decreased, pneumonia, platelet count decreased, and white blood cell count decreased.
 
 ## Description of selected adverse reactions
 
@@ -564,6 +609,14 @@ In the open-label, randomised phase 3 study (MURANO), the incidence of TLS was 3
 
 In the open-label, randomised phase 3 study (CLL14), the incidence of TLS was 1.4% (3/212) in patients treated with venetoclax + obinutuzumab. All three events of TLS resolved and did not lead to withdrawal from the study. Obinutuzumab administration was delayed in two cases in response to the TLS events.
 
+In the open-label, randomised phase 3 study (AMPLIFY), the incidence of TLS was 0.3% (1/291) in patients treated with venetoclax + acalabrutinib, and 0.4% (1/284) in patients treated with venetoclax + acalabrutinib + obinutuzumab. Obinutuzumab administration was delayed in response to the TLS event. Both cases were laboratory TLS that resolved and did not lead to withdrawal from the study.
+
+No adverse event of TLS was observed in the randomised phase 3 GLOW study.
+
+<div style=\"page-break-after: always\"></div>
+
+The incidence of laboratory TLS was 0.3% (1/323) in the single-arm phase 2 CAPTIVATE study, reported in one patient in the MRD-guided cohort.
+
 During post-marketing surveillance, TLS, including fatal events, has been reported after a single 20 mg dose of venetoclax (see sections 4.2 and 4.4).
 
 ## Acute myeloid leukaemia
@@ -572,15 +625,23 @@ In the randomised, phase 3 study (VIALE-A) with venetoclax in combination with a
 
 In M14-358 study, no events of laboratory or clinical TLS were reported with venetoclax in combination with decitabine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Neutropenia and infections
 
 Neutropenia is an identified risk with Venclyxto treatment.
 
 ## Chronic lymphocytic leukaemia
 
+In the AMPLIFY study, neutropenia/neutrophil count decreased/febrile neutropenia (all grades) was reported in 37% of patients in the venetoclax + acalabrutinib arm. Dose interruption occurred in 26% of patients and 0.7% of patients discontinued venetoclax due to neutropenia/neutrophil count decreased/febrile neutropenia. Grade ≥3 neutropenia/neutrophil count decreased/febrile neutropenia was reported in 32% of patients. Grade ≥3 infections were reported in 12% and serious infections in 12% of patients. Fatal infections occurred in 3.1% of patients (most frequently reported COVID-19 or COVID-19 pneumonia).
+
+In the AMPLIFY study, neutropenia/neutrophil count decreased/febrile neutropenia (all grades) was reported in 50% of patients in the venetoclax + acalabrutinib + obinutuzumab arm. Dose interruption occurred in 33% of patients and 1% of patients discontinued venetoclax due to neutropenia/neutrophil count decreased/febrile neutropenia. Grade ≥3 neutropenia/neutrophil count decreased/febrile neutropenia was reported in 46% of patients. Grade ≥3 infections were reported in 24% and serious infections in 24% of patients. Fatal infections occurred in 6% of patients (most frequently reported COVID-19 or COVID-19 pneumonia).
+
 In the CLL14 study, neutropenia (all grades) was reported in 58% of patients in the venetoclax + obinutuzumab arm; 41% of patients treated with venetoclax + obinutuzumab experienced dose interruption and 2% of patients discontinued venetoclax due to neutropenia. Grade 3 neutropenia was reported in 25% of patients and grade 4 neutropenia in 28% of patients. The median duration of grade 3 or 4 neutropenia was 22 days (range: 2 to 363 days). Febrile neutropenia was reported in 6% of patients, grade ≥3 infections in 19%, and serious infections in 19% of patients. Deaths due to infection occurred in 1.9% of patients while on treatment and 1.9% of patients following treatment discontinuation.
+
+In the venetoclax + ibrutinib arm in the GLOW study, all-grade neutropenia/neutrophil count decreased was reported in 42% of patients, including grade 3 or 4 events in 35% of patients. Nineteen percent experienced dose interruption and 8% had dose reduction of venetoclax due to neutropenia/neutrophil count decreased. In the venetoclax + ibrutinib arm versus the obinutuzumab + chlorambucil arm, respectively, the following were reported: febrile neutropenia 2% versus 3%, grade ≥3 infections 17% versus 11%, and serious infections 12% versus 9%.
+
+In the CAPTIVATE study, all-grade neutropenia/neutrophil count decreased was reported in 47% of patients in the venetoclax + ibrutinib arm, including grade 3 or 4 events in 37% of patients. Fourteen percent experienced dose interruption, 4% had dose reduction and 1 patient (0.3%) discontinued venetoclax due to neutropenia/neutrophil count decreased. Febrile neutropenia was reported in 1%, grade ≥3 infections in 8%, and serious infections in 8% of patients.
+
+<div style=\"page-break-after: always\"></div>
 
 In the MURANO study, neutropenia (all grades) was reported in 61% of patients in the venetoclax + rituximab arm. Forty-three percent of patients treated with venetoclax + rituximab experienced dose interruption and 3% of patients discontinued venetoclax due to neutropenia. Grade 3 neutropenia was reported in 32% of patients and grade 4 neutropenia in 26% of patients. The median duration of grade 3 or 4 neutropenia was 8 days (range: 1 to 712 days). With venetoclax + rituximab treatment, febrile neutropenia was reported in 4% of patients, grade ≥3 infections in 18%, and serious infections in 21% of patients.
 
@@ -602,8 +663,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no specific antidote for venetoclax. Patients who experience overdose should be closely monitored and appropriate supportive treatment provided. During dose-titration phase, treatment should be interrupted, and patients should be monitored carefully for signs and symptoms of TLS (fever, chills, nausea, vomiting, confusion, shortness of breath, seizures, irregular heartbeat, dark or cloudy urine, unusual tiredness, muscle or joint pain, abdominal pain, and distension) along with other toxicities (see section 4.2). Dialysis does not result in removal of venetoclax.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -613,6 +672,8 @@ Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, A
 ## Mechanism of action
 
 Venetoclax is a potent, selective inhibitor of B-cell lymphoma (BCL)-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumour cell survival and has been associated with resistance to chemotherapeutics. Venetoclax binds directly to the BH3-binding groove of BCL-2, displacing BH3 motif-containing pro-apoptotic proteins like BIM, to initiate mitochondrial outer membrane permeabilization (MOMP), caspase activation, and programmed cell death. In non-clinical studies, venetoclax has demonstrated cytotoxic activity in tumour cells that overexpress BCL-2.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -624,19 +685,91 @@ The effect of multiple doses of venetoclax up to 1200 mg once daily on the QTc i
 
 ## Chronic lymphocytic leukaemia
 
+Venetoclax in combination with acalabrutinib with or without obinutuzumab for the treatment of patients with previously untreated CLL - study ACE-CL-311 (AMPLIFY)
+
+A randomised (1:1:1), multi-centre, open-label Phase 3 study of 867 patients evaluated the safety and efficacy of venetoclax + acalabrutinib versus venetoclax + acalabrutinib + obinutuzumab versus Investigator's choice of chemoimmunotherapy, either FCR (fludarabine plus cyclophosphamide plus rituximab) or BR (bendamustine plus rituximab) in patients with previously untreated CLL. AMPLIFY included patients previously untreated for CLL without del(17p) or TP53 mutation that were 18 years of age and older. The trial allowed patients to receive antithrombotic agents except warfarin and other vitamin K antagonists.
+
+Patients were randomised in a 1:1:1 ratio into 3 arms to receive:
+
+- Venetoclax + acalabrutinib: Acalabrutinib 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1, patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Each cycle was 28 days.
+- Venetoclax + acalabrutinib + obinutuzumab: Acalabrutinib 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1, patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Obinutuzumab 1 000 mg was administered on Day 1 or Day 1 and 2 (100 mg on Day 1 and 900 mg on Day 1 or 2), 8 and 15 of Cycle 2 followed by 1 000 mg on Day 1 of Cycles 3-7. Each cycle was 28 days.
+- Investigator's choice of chemoimmunotherapy (FCR/BR):
+- o Fludarabine plus cyclophosphamyde plus rituximab (FCR): Fludarabine (25 mg/m 2 ) and cyclophosphamide (250 mg/m 2 ) were administered on Days 1-3 up to a maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2  on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+- o Bendamustine plus rituximab (BR): Bendamustine 90 mg/m 2  was administered on Days 1 and 2 up to maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2  on Day 1 Cycle 1 and 500 mg/m 2 on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+
+Patients were stratified by age (&gt;65 years or ≤65 years), IGHV mutational status (mutated versus unmutated), Rai stage (high risk [≥3] versus non-high risk) and geographic region (North America versus Western Europe versus other). Table 10 summarises the baseline demographics and disease characteristics of the study population.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10: Baseline patient characteristics in (AMPLIFY) patients with previously untreated CLL
+
+| Characteristic                                       | Venetoclax + acalabrutinib N=291   | Venetoclax + acalabrutinib + obinutuzumab N=286   | FCR/BR N=290   |
+|------------------------------------------------------|------------------------------------|---------------------------------------------------|----------------|
+| Age, years; median (range)                           | 61 (31-84)                         | 61 (29-81)                                        | 61 (26-86)     |
+| Male; %                                              | 61.2                               | 69.2                                              | 63.1           |
+| Caucasian; %                                         | 91.1                               | 86.7                                              | 86.9           |
+| ECOG performance status 0-1; %                       | 90.0                               | 95.1                                              | 90.3           |
+| Median time from diagnosis to randomisation (months) | 28.5                               | 26.1                                              | 29.6           |
+| Bulky disease with nodes ≥ 5 cm; %                   | 38.8                               | 35.0                                              | 42.8           |
+| Cytogenetics/FISH Category; %                        |                                    |                                                   |                |
+| 11q deletion                                         | 17.5                               | 19.6                                              | 15.9           |
+| Complex karyotype (≥ 3 abnormalities)                | 15.5                               | 16.1                                              | 14.5           |
+| Unmutated IGHV; %                                    | 57.4                               | 59.1                                              | 59.3           |
+| Rai stage; %                                         |                                    |                                                   |                |
+| 0                                                    | 1.0                                | 0.3                                               | 1.4            |
+| I                                                    | 16.2                               | 21.3                                              | 21.4           |
+| II                                                   | 35.7                               | 37.8                                              | 33.4           |
+| III                                                  | 23.7                               | 17.8                                              | 20.3           |
+| IV                                                   | 23.4                               | 22.7                                              | 23.4           |
+
+The primary endpoint was IRC-assessed PFS for venetoclax + acalabrutinib versus Investigator's choice of chemoimmunotherapy (FCR/BR) arm as assessed by IWCLL 2018 criteria. Additional efficacy endpoints were IRC-assessed PFS of venetoclax + acalabrutinib + obinutuzumab versus Investigator's choice (FCR/BR) arm and OS in both venetoclax + acalabrutinib arm vs. Investigator's choice (FCR/BR) arm and venetoclax + acalabrutinib + obinutuzumab vs. Investigator's choice (FCR/BR) arm.
+
+Efficacy results are presented in Table 11. The Kaplan-Meier curve for IRC-PFS is shown in Figure 1.
+
+Table 11: Efficacy results in (AMPLIFY) patients with previously untreated CLL
+
+|                             | Venetoclax + acalabrutinib N=291   | Venetoclax + acalabrutinib + obinutuzumab N=286   | FCR/BR a N=290   |
+|-----------------------------|------------------------------------|---------------------------------------------------|------------------|
+| Progression-free survival * |                                    |                                                   |                  |
+| Number of events (%)        | 89 (30.6)                          | 56 (19.6)                                         | 95 (32.8)        |
+| PD, n (%)                   | 77 (26.5)                          | 23 (8.0)                                          | 66 (22.8)        |
+| Death events (%)            | 12 (4.1)                           | 33 (11.5)                                         | 29 (10.0)        |
+| Median (95% CI), months     | NE (51.1, NE)                      | NE (NE, NE)                                       | 47.6 (43.3, NE)  |
+| HR † (95% CI)               | 0.65 (0.49, 0.87)                  | 0.42 (0.30, 0.59)                                 | -                |
+| P-value                     | 0.0038                             | ˂0.0001                                           | -                |
+| Overall survival b          |                                    |                                                   |                  |
+| Death events (%)            | 23 (7.9)                           | 37 (12.9)                                         | 44 (15.2)        |
+| HR † (95% CI)               | 0.42 (0.25, 0.70) c                | 0.75 (0.48, 1.16)                                 | -                |
+
+CI= confidence interval; NE= not evaluable; PD = Progressive disease.
+
+* Per IRC assessment.
+
+† Based on stratified Cox-Proportional-Hazards model.
+
+a Per Investigator's choice 143 patients were planned to receive FCR and 147 patients were planned to receive BR.
+
+b OS data at additional 6 months follow-up from PFS interim analysis.
+
+c The p-value is not significant after adjusting for multiplicity.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan-Meier curve of IRC-assessed progression-free survival (intent-to-treat population) in AMPLIFY
+
+<!-- image -->
+
 Venetoclax in combination with obinutuzumab for the treatment of patients with previously untreated CLL - study BO25323 (CLL14)
 
 A randomised (1:1), multicentre, open-label phase 3 study evaluated the efficacy and safety of venetoclax + obinutuzumab versus obinutuzumab + chlorambucil in patients with previously untreated CLL and comorbidities (total Cumulative Illness Rating Scale [CIRS] score &gt;6 or creatinine clearance [CrCl] &lt;70 ml/min). Patients in the study were assessed for risk of TLS and received prophylaxis accordingly prior to obinutuzumab administration. All patients received obinutuzumab at 100 mg on Cycle 1 Day 1, followed by 900 mg which could have been administered on Day 1 or Day 2, then 1000 mg doses on Days 8 and 15 of Cycle 1, and on Day 1 of each subsequent cycle, for a total of 6 cycles. On Day 22 of Cycle 1, patients in the venetoclax + obinutuzumab arm began the 5-week venetoclax dose-titration schedule, continuing through Cycle 2 Day 28. Upon completion of the dosetitration schedule, patients continued venetoclax 400 mg once daily from Cycle 3 Day 1 until the last day of Cycle 12. Each cycle was 28 days. Patients randomised to the obinutuzumab + chlorambucil arm received 0.5 mg/kg oral chlorambucil on Day 1 and Day 15 of Cycles 1-12. Patients continued to be followed for disease progression and overall survival (OS) after completing therapy.
 
 Baseline demographic and disease characteristics were similar between the study arms. The median age was 72 years (range: 41 to 89 years), 89% were white, and 67% were male; 36% and 43% were Binet stage B and C, respectively. The median CIRS score was 8.0 (range: 0 to 28) and 58% of patients had CrCl &lt;70 ml/min. A 17p deletion was detected in 8% of patients, TP53 mutations in 10%, 11q deletion in 19%, and unmutated IgVH in 57%. The median follow-up at the time of the primary analysis was 28 months (range: 0 to 36 months).
 
-At baseline, the median lymphocyte count was 55 x 10 9 cells/l in both study arms. On Cycle 1 Day 15, the median count had decreased to 1.03 x 10 9 cells/l (range: 0.2 to 43.4 x 10 9 cells/l) in the
-
-<div style=\"page-break-after: always\"></div>
-
-obinutuzumab + chlorambucil arm and 1.27 x 10 9 cells/l (range: 0.2 to 83.7 x 10 9 cells/l) in the venetoclax + obinutuzumab arm.
+At baseline, the median lymphocyte count was 55 x 10 9 cells/l in both study arms. On Cycle 1 Day 15, the median count had decreased to 1.03 x 10 9 cells/l (range: 0.2 to 43.4 x 10 9 cells/l) in the obinutuzumab + chlorambucil arm and 1.27 x 10 9  cells/l (range: 0.2 to 83.7 x 10 9 cells/l) in the venetoclax + obinutuzumab arm.
 
 Progression-free survival (PFS) was assessed by investigators using the International Workshop for Chronic Lymphocytic Leukemia (IWCLL) updated National Cancer Institute-sponsored Working Group (NCI-WG) guidelines (2008).
+
+<div style=\"page-break-after: always\"></div>
 
 At the time of the primary analysis (data cut-off date 17 August 2018), 14% (30/216) of patients in the venetoclax + obinutuzumab arm had a PFS event of disease progression or death compared with 36% (77/216) in the obinutuzumab + chlorambucil arm, as assessed by investigators (hazard ratio [HR]: 0.35 [95% confidence interval [CI]: 0.23, 0.53]; p&lt;0.0001, stratified log-rank test). Median PFS was not reached in either study arm.
 
@@ -648,42 +781,180 @@ Minimal residual disease (MRD) at the end of treatment was evaluated using allel
 
 ## 65-month follow-up
 
-Efficacy was assessed after a median follow-up of 65 months (data cut-off date 8 November 2021). Efficacy results for the CLL14 65-month follow-up are presented in Table 10. The Kaplan-Meier curve of investigator-assessed PFS is shown in Figure 1.
+Efficacy was assessed after a median follow-up of 65 months (data cut-off date 8 November 2021). Efficacy results for the CLL14 65-month follow-up are presented in Table 12. The Kaplan-Meier curve of investigator-assessed PFS is shown in Figure 2.
 
-Table 10: Investigator-assessed efficacy results in CLL14 (65-month follow-up)
+Table 12: Investigator-assessed efficacy results in CLL14 (65-month follow-up)
 
-| Endpoint                                                      | Venetoclax + obinutuzumab N = 216                             | Obinutuzumab + chlorambucil N = 216                           |
-|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
-| Progression-free survival                                     |                                                               |                                                               |
-| Number of events (%)                                          | 80 (37)                                                       | 150 (69)                                                      |
-| Median, months (95% CI)                                       | NR (64.8, NE)                                                 | 36.4 (34.1, 41.0)                                             |
-| Hazard ratio, stratified (95% CI)                             | 0.35 (0.26, 0.46)                                             | 0.35 (0.26, 0.46)                                             |
-| Overall survival                                              |                                                               |                                                               |
-| Number of events (%)                                          | 40 (19)                                                       | 57 (26)                                                       |
-| Hazard ratio, stratified (95% CI)                             | 0.72 (0.48, 1.09)                                             | 0.72 (0.48, 1.09)                                             |
-| CI= confidence interval; NE = not evaluable; NR = not reached | CI= confidence interval; NE = not evaluable; NR = not reached | CI= confidence interval; NE = not evaluable; NR = not reached |
+| Endpoint                          | Venetoclax + obinutuzumab N = 216   | Obinutuzumab + chlorambucil N = 216   |
+|-----------------------------------|-------------------------------------|---------------------------------------|
+| Progression-free survival         |                                     |                                       |
+| Number of events (%)              | 80 (37)                             | 150 (69)                              |
+| Median, months (95% CI)           | NR (64.8, NE)                       | 36.4 (34.1, 41.0)                     |
+| Hazard ratio, stratified (95% CI) | 0.35 (0.26, 0.46)                   | 0.35 (0.26, 0.46)                     |
+| Overall survival                  |                                     |                                       |
+| Number of events (%)              | 40 (19)                             | 57 (26)                               |
+| Hazard ratio, stratified (95% CI) | 0.72 (0.48, 1.09)                   | 0.72 (0.48, 1.09)                     |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Kaplan-Meier curve of investigator-assessed progression-free survival (intent-to-treat population) in CLL14 with 65-month follow-up
+Figure 2: Kaplan-Meier curve of investigator-assessed progression-free survival (intent-to-treat population) in CLL14 with 65-month follow-up
 
 <!-- image -->
 
 The PFS benefit with venetoclax + obinutuzumab versus obinutuzumab + chlorambucil treatment was observed across all subgroups of patients evaluated, including high-risk patients with deletion 17p and/or TP53 mutation and/or unmutated IgVH .
 
+Venetoclax in combination with ibrutinib for the treatment of patients with previously untreated CLL study CLL3011 (GLOW)
+
+GLOW was a randomised, open-label, phase 3 study of venetoclax in combination with ibrutinib versus chlorambucil in combination with obinutuzumab conducted in patients with previously untreated active CLL who were 65 years or older, and adult patients &lt;65 years of age with a CIRS score &gt;6 or CrCL ≥30 to &lt;70 mL/min. Patients with 17p deletion or known TP53 mutations were excluded. Patients (n = 211) were randomised 1:1 to receive either venetoclax in combination with ibrutinib or chlorambucil in combination with obinutuzumab.
+
+Patients in the venetoclax plus ibrutinib arm received single agent ibrutinib for 3 cycles followed by venetoclax in combination with ibrutinib for 12 cycles (including 5-week venetoclax dose-titration). Each cycle was 28 days. Ibrutinib was administered at a dose of 420 mg daily. Venetoclax was administered according to the 5-week dose-titration, then at the recommended daily dose of 400 mg (see section 4.2).
+
+Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles. Obinutuzumab was administered at a dose of 1000 mg on Days 1 (or 100 mg on Day 1 and 900 mg on Day 2), 8 and 15 in Cycle 1. In Cycles 2 to 6, 1000 mg obinutuzumab was given on Day 1. Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6. Patients with confirmed progression by IWCLL criteria after completion of either fixed-duration regimen could be treated with single-agent ibrutinib.
+
+The median age was 71 years (range: 47 to 93 years), 58% were male, and 96% were white. All patients had a baseline ECOG performance status of 0 (35%), 1 (53%), or 2 (12%). At baseline, 18% of patients presented with 11q deletion and 52% with unmutated IGHV.At baseline assessment for risk of tumour lysis syndrome, 25% of patients had high tumour burden. After 3 cycles of single-agent ibrutinib lead-in therapy, 2% of patients had high tumour burden. High tumour burden was defined as any lymph node ≥ 10 cm; or any lymph node ≥ 5 cm and absolute lymphocyte count ≥25×10 9 /L.
+
+<div style=\"page-break-after: always\"></div>
+
+With a median follow-up time on study of 28 months, efficacy results for GLOW, assessed by IRC according to IWCLL 2008 criteria, are shown in Table 13, the Kaplan-Meier curve for PFS is shown in Figure 3, and rates of MRD negativity are shown in Table 14.
+
+Table 13: Efficacy Results in Study CLL3011 (GLOW) in patients with previously untreated CLL
+
+| Endpoint a                   | Venetoclax + ibrutinib N = 106   | Chlorambucil + obinutuzumab N = 105   |
+|------------------------------|----------------------------------|---------------------------------------|
+| Progression-free survival    |                                  |                                       |
+| Number of events (%)         | 22 (21)                          | 67 (64)                               |
+| Median, months (95% CI)      | NE (31.2, NE)                    | 21 (16.6, 24.7)                       |
+| HR (95% CI)                  | 0.22 (0.13, 0.36)                | 0.22 (0.13, 0.36)                     |
+| p-value b                    | <0.0001                          | <0.0001                               |
+| Complete response rate (%) c | 39                               | 11                                    |
+| 95% CI                       | (29.4, 48.0)                     | (5.3, 17.5)                           |
+| p-value d                    | <0.0001                          | <0.0001                               |
+| Overall response rate (%) e  | 87                               | 85                                    |
+| 95% CI                       | (80.3, 93.2)                     | (77.9, 91.6)                          |
+
+CI = confidence interval; CR = complete response; HR = hazard ratio; IRC = Independent Review Committee; NE = not evaluable; nPR = nodular partial response; PR = partial response. a Based on IRC assessment.
+
+b Stratified log-rank test.
+
+c Includes 3 patients in the venetoclax plus ibrutinib arm with a complete response with incomplete marrow recovery (CRi).
+
+d Cochran-Mantel-Haenszel chi-square test.
+
+e Overall response = CR+CRi+nPR+PR.
+
+Figure 3: Kaplan-Meier curve of progression-free survival (ITT population) in patients with previously untreated CLL in study CLL3011 (GLOW)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+The PFS treatment effect of venetoclax plus ibrutinib versus chlorambucil plus obinutuzumab was consistent across predefined subgroups, including the high-risk population (TP53 mutation, 11q deletion, or unmutated IGHV), with a PFS HR of 0.23 (95% CI [0.13, 0.41]).
+
+With a median follow-up of 28 months, overall survival data were not mature with a total of 23 deaths: 11 (10%) in the venetoclax plus ibrutinib arm and 12 (11%) in the chlorambucil plus obinutuzumab arm.
+
+Table 14: Minimal residual disease negativity rates in patients with previously untreated CLL in study CLL3011 (GLOW)
+
+|                                                               | NGS Assay a                                                   | NGS Assay a                                                   | Flow Cytometry b                                              | Flow Cytometry b                                              |
+|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+|                                                               | Venetoclax + ibrutinib N=106                                  | Chlorambucil + obinutuzumab N=105                             | Venetoclax + ibrutinib N=106                                  | Chlorambucil + obinutuzumab N=105                             |
+| MRD negativity rate                                           |                                                               |                                                               |                                                               |                                                               |
+| Bone marrow, n (%)                                            | 59 (56)                                                       | 22 (21)                                                       | 72 (68)                                                       | 24 (23)                                                       |
+| 95% CI                                                        | (46.2, 65.1)                                                  | (13.2, 28.7)                                                  | (59.0, 76.8)                                                  | (14.8, 30.9)                                                  |
+| p-value                                                       | <0.0001                                                       | <0.0001                                                       |                                                               |                                                               |
+| Peripheral Blood, n (%)                                       | 63 (59)                                                       | 42 (40)                                                       | 85 (80)                                                       | 49 (47)                                                       |
+| 95 % CI                                                       | (50.1, 68.8)                                                  | (30.6, 49.4)                                                  | (72.6, 87.8)                                                  | (37.1, 56.2)                                                  |
+| MRD negativity rate at 3 months after completion of treatment | MRD negativity rate at 3 months after completion of treatment | MRD negativity rate at 3 months after completion of treatment | MRD negativity rate at 3 months after completion of treatment | MRD negativity rate at 3 months after completion of treatment |
+| Bone marrow, n (%)                                            | 55 (51.9)                                                     | 18 (17.1)                                                     | 60 (56.6)                                                     | 17 (16.2)                                                     |
+| 95% CI                                                        | (42.4, 61.4)                                                  | (9.9, 24.4)                                                   | (47.2, 66.0)                                                  | (9.1, 23.3)                                                   |
+| Peripheral Blood, n (%)                                       | 58 (54.7)                                                     | 41 (39.0)                                                     | 65 (61.3)                                                     | 43 (41.0)                                                     |
+| 95% CI                                                        | (45.2, 64.2)                                                  | (29.7, 48.4)                                                  | (52.0, 70.6)                                                  | (31.5, 50.4)                                                  |
+
+CI = confidence interval; NGS = next-generation sequencing.
+
+p-values are from Cochran-Mantel-Haenszel chi-square test. Except the p-value for MRD negativity rate in bone marrow by NGS, which is the primary MRD analysis and the first key secondary endpoint of GLOW, all other p-values are nominal.
+
+a Based on threshold of 10 -4 using a next-generation sequencing assay (clonoSEQ).
+
+b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The cutoff for a negative status was &lt;1 CLL cell per 10 4 leukocytes.
+
+Twelve months after the completion of treatment, MRD negativity rates in peripheral blood were 49% (52/106) by NGS assay and 55% (58/106) by flow cytometry in patients treated with venetoclax plus ibrutinib and, at the corresponding time point, was 12% (13/105) by NGS assay and 16% (17/105) by flow cytometry in patients treated with chlorambucil plus obinutuzumab.
+
+TLS was reported in 6 patients treated with chlorambucil plus obinutuzumab and no TLS was reported in venetoclax in combination with ibrutinib.
+
+## 64-month follow-up
+
+Efficacy was assessed with a median follow-up time on study of 64.0 months for GLOW (data cut-off date 24 February 2024). The PFS hazard ratio by investigator was 0.27 [95% CI (0.18, 0.39) , nominal p&lt;0.0001, not type 1 error controlled]. The median PFS was 65 months [95% CI (58.7, NE)] in the venetoclax plus ibrutinib arm and 23 months [95% CI (16.9, 31.2)] in the chlorambucil plus obinutuzumab arm.
+
+With a median follow-up time on study of 64 months, 20 (19%) death events were observed in the venetoclax plus ibrutinib arm versus 40 (38%) death events in the chlorambucil plus obinutuzumab arm. Hazard ratio for OS was 0.462 (95% CI: 0.269, 0.791, nominal p=0.0039, not type 1 error controlled).
+
+The Kaplan-Meier curve for OS is shown in Figure 4.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 4: Kaplan-Meier curve of overall survival (ITT population) in patients with previously untreated CLL in study CLL3011 (GLOW) (64-month follow-up)
+
+<!-- image -->
+
+Venetoclax in combination with ibrutinib for the treatment of patients with previously untreated CLL study PCYC-1142-CA (CAPTIVATE)
+
+CAPTIVATE was a phase 2, multicentre, 2-cohort study assessing both MRD-guided discontinuation and fixed-duration (FD) therapy with venetoclax in combination with ibrutinib, conducted in adult patients who were 70 years or younger with previously untreated active CLL. The study enrolled 323 patients; of these, 159 patients were enrolled to FD therapy consisting of 3 cycles of single agent ibrutinib followed by venetoclax in combination with ibrutinib for 12 cycles (including 5-week dosetitration). Each cycle was 28 days. Ibrutinib was administered at a dose of 420 mg daily. Venetoclax was administered according to the 5-week dose-titration, then at the recommended daily dose of 400 mg (see section 4.2).
+
+Patients with confirmed progression by IWCLL criteria after completion of the FD regimen could be retreated with single-agent ibrutinib.
+
+In the FD cohort the median age was 60 years (range: 33 to 71 years), 67% were male, and 92% were white. All patients had a baseline ECOG performance status of 0 (69%) or 1 (31%). At baseline, 13% of patients presented with 17p deletion, 18% with 11q deletion, 17% with 17p deletion or TP53 mutation, 56% with unmutated IGHV and 19% with complex karyotype. At baseline assessment for risk of tumour lysis syndrome, 21% of patients had high tumour burden. After 3 cycles of single-agent ibrutinib lead-in therapy, 1% of patients had high tumour burden. High tumour burden was defined as any lymph node ≥ 10 cm, or any lymph node ≥ 5 cm and absolute lymphocyte count ≥25×10 9 /L.
+
+With a median follow-up time on study of 28 months, efficacy results for CAPTIVATE were assessed by IRC according to IWCLL 2008 criteria are shown in Table 15, and rates of MRD negativity are shown in Table 16.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 15: Efficacy results in study PCYC-1142-CA (CAPTIVATE); fixed-duration cohort a  in patients with previously untreated CLL
+
+| Endpoint a                              | Venetoclax + ibrutinib   | Venetoclax + ibrutinib   |
+|-----------------------------------------|--------------------------|--------------------------|
+|                                         | Without Del 17p (N=136)  | All (N=159)              |
+| Overall response rate, n (%) b          | 130 (96)                 | 153 (96)                 |
+| 95% CI (%)                              | (92.1, 99.0)             | (93.3, 99.2)             |
+| Complete response rate, n (%) c         | 83 (61.0)                | 95 (59.7)                |
+| 95% CI (%)                              | (52.8, 69.2)             | (52.1, 67.4)             |
+| Median duration of CR, months (range) d | NE (0.03+, 24.9+)        | NE (0.03+, 24.9+)        |
+
+Table 16. Minimal residual disease negativity rates in patients with previously untreated CLL in study PCYC-1142-CA (CAPTIVATE); fixed-duration cohort
+
+| Endpoint                                                      | Venetoclax + ibrutinib                                        | Venetoclax + ibrutinib   |
+|---------------------------------------------------------------|---------------------------------------------------------------|--------------------------|
+|                                                               | Without Del 17p (N = 136)                                     | All (N = 159)            |
+| MRD negativity rate                                           |                                                               |                          |
+| Bone marrow, n (%)                                            | 84 (62)                                                       | 95 (60)                  |
+| 95% CI                                                        | (53.6, 69.9)                                                  | (52.1, 67.4)             |
+| Peripheral Blood, n (%)                                       | 104 (77)                                                      | 122 (77)                 |
+| 95% CI                                                        | (69.3, 83.6)                                                  | (70.2, 83.3)             |
+| MRD negativity rate at 3 months after completion of treatment | MRD negativity rate at 3 months after completion of treatment |                          |
+| Bone marrow, n (%)                                            | 74 (54.4)                                                     | 83 (52.2)                |
+| 95% CI                                                        | (46.0, 62.8)                                                  | (44.4, 60.0)             |
+| Peripheral Blood, n (%)                                       | 78 (57.4)                                                     | 90 (56.6)                |
+| 95% CI                                                        | (49.0, 65.7)                                                  | (48.9, 64.3)             |
+
+CI = confidence interval.
+
+MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The cutoff for a negative status was &lt;1 CLL cell per 10 4 leukocytes.
+
+In the fixed-duration cohort, no TLS was reported in patients treated with venetoclax in combination with ibrutinib.
+
+## CLL with del 17p/TP53 in study PCYC-1142-CA (CAPTIVATE)
+
+In patients with del 17p/TP53 mutation (n = 27) the overall response rate based on IRC assessment was 96.3%; complete response rate was 55.6% and the median duration of complete response was not reached (range: 4.3 to 22.6 months). The MRD negativity rate in patients with del 17p/TP53 mutation 3 months after completion of treatment in bone marrow and peripheral blood was 40.7% and 59.3%, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
 Venetoclax in combination with rituximab for the treatment of patients with CLL who have received at least one prior therapy - study GO28667 (MURANO)
 
-A randomised (1:1), multicentre, open-label phase 3 study evaluated the efficacy and safety of venetoclax + rituximab versus bendamustine + rituximab in patients with previously treated CLL. Patients in the venetoclax + rituximab arm completed the Venclyxto 5-week dose-titration schedule and then received 400 mg once daily for 24 months from Cycle 1 Day 1 of rituximab in the absence of disease progression or unacceptable toxicity. Rituximab was initiated after the 5-week dose-titration schedule at 375 mg/m 2 for Cycle 1 and 500 mg/m 2 for Cycles 2-6. Each cycle was 28 days. Patients randomised to bendamustine + rituximab received bendamustine at 70 mg/m 2 on Days 1 and 2 for 6 cycles and rituximab as described above.
+A randomised (1:1), multicentre, open-label phase 3 study evaluated the efficacy and safety of venetoclax + rituximab versus bendamustine + rituximab in patients with previously treated CLL. Patients in the venetoclax + rituximab arm completed the Venclyxto 5-week dose-titration schedule and then received 400 mg once daily for 24 months from Cycle 1 Day 1 of rituximab in the absence of disease progression or unacceptable toxicity. Rituximab was initiated after the 5-week dose-titration schedule at 375 mg/m 2 for Cycle 1 and 500 mg/m 2 for Cycles 2-6. Each cycle was 28 days. Patients randomised to bendamustine + rituximab received bendamustine at 70 mg/m 2  on Days 1 and 2 for 6 cycles and rituximab as described above.
 
 Median age was 65 years (range: 22 to 85); 74% were male, and 97% were white. Median time since diagnosis was 6.7 years (range: 0.3 to 29.5). Median prior lines of therapy was 1 (range: 1 to 5); and included alkylating agents (94%), anti-CD20 antibodies (77%), B-cell receptor pathway inhibitors (2%) and prior purine analogues (81%, including 55% fludarabine + cyclophosphamide + rituximab (FCR)). At baseline, 47% of patients had one or more nodes ≥5 cm, and 68% had ALC ≥25 x 10 9 /l. A 17p deletion was detected in 27% of patients, TP53 mutations in 26%, 11q deletion in 37%, and unmutated IgVH gene in 68%. Median follow-up time for primary analysis was 23.8 months (range: 0.0 to 37.4 months).
 
 Progression-free survival was assessed by investigators using the IWCLL updated NCI-WG guidelines (2008).
 
-At the time of the primary analysis (data cut-off date 8 May 2017), 16% (32/194) of patients in the venetoclax + rituximab arm had experienced a PFS event, compared with 58% (114/195) in the bendamustine + rituximab arm (HR: 0.17 [95% CI: 0.11, 0.25]; p&lt;0.0001, stratified log-rank test). The PFS events included 21 disease progression and 11 death events in the venetoclax + rituximab arm, and 98 disease progression and 16 death events in the bendamustine + rituximab arm. Median PFS
-
-<div style=\"page-break-after: always\"></div>
-
-was not reached in the venetoclax + rituximab arm and was 17.0 months (95% CI: 15.5, 21.6) in the bendamustine + rituximab arm.
+At the time of the primary analysis (data cut-off date 8 May 2017), 16% (32/194) of patients in the venetoclax + rituximab arm had experienced a PFS event, compared with 58% (114/195) in the bendamustine + rituximab arm (HR: 0.17 [95% CI: 0.11, 0.25]; p&lt;0.0001, stratified log-rank test). The PFS events included 21 disease progression and 11 death events in the venetoclax + rituximab arm, and 98 disease progression and 16 death events in the bendamustine + rituximab arm. Median PFS was not reached in the venetoclax + rituximab arm and was 17.0 months (95% CI: 15.5, 21.6) in the bendamustine + rituximab arm.
 
 The 12- and 24-month PFS estimates were 93% (95% CI: 89.1, 96.4) and 85% (95% CI: 79.1, 90.6) in the venetoclax + rituximab arm and 73% (95% CI: 65.9, 79.1) and 36% (95% CI: 28.5, 44.0) in the bendamustine + rituximab arm, respectively.
 
@@ -693,42 +964,46 @@ Investigator-assessed ORR for patients treated with venetoclax + rituximab was 9
 
 MRD at the end of combination treatment was evaluated using ASO-PCR and/or flow cytometry. MRD negativity was defined as less than one CLL cell per 10 4 leukocytes. MRD negativity rates in peripheral blood were 62% (95% CI: 55.2, 69.2) in the venetoclax + rituximab arm compared to 13% (95% CI: 8.9, 18.9) in the bendamustine + rituximab arm. Of those with MRD assay results available in peripheral blood, 72% (121/167) in the venetoclax + rituximab arm and 20% (26/128) in the bendamustine + rituximab arm were found to be MRD negative. MRD negativity rates in the bone marrow were 16% (95% CI: 10.7, 21.3) in the venetoclax + rituximab arm and 1% (95% CI: 0.1, 3.7) in the bendamustine + rituximab arm. Of those with MRD assay results available in bone marrow, 77% (30/39) in the venetoclax + rituximab arm and 7% (2/30) in the bendamustine + rituximab arm were found to be MRD negative.
 
+<div style=\"page-break-after: always\"></div>
+
 Median OS had not been reached in either treatment arm. Death occurred in 8% (15/194) of patients treated with venetoclax + rituximab and 14% (27/195) of patients treated with bendamustine + rituximab (hazard ratio: 0.48 [95% CI: 0.25, 0.90]).
 
 By the data cut-off date, 12% (23/194) of patients in the venetoclax + rituximab arm and 43% (83/195) of patients in the bendamustine + rituximab arm had started a new anti-leukaemic treatment or died (stratified hazard ratio: 0.19; [95% CI: 0.12, 0.31]). The median time to new anti-leukaemic treatment or death was not reached in the venetoclax + rituximab arm and was 26.4 months in the bendamustine + rituximab arm.
 
 ## 59-month follow-up
 
-Efficacy was assessed after a median follow -up of 59 months (data cut-off date 8 May 2020). Efficacy results for the MURANO 59-month follow-up are presented in Table 11.
+Efficacy was assessed after a median follow -up of 59 months (data cut-off date 8 May 2020). Efficacy results for the MURANO 59-month follow-up are presented in Table 17.
 
-<div style=\"page-break-after: always\"></div>
+Table 17: Investigator-assessed efficacy results in MURANO (59-month follow-up)
 
-Table 11: Investigator-assessed efficacy results in MURANO (59-month follow-up)
-
-| Endpoint                                               | Venetoclax + rituximab N = 194   | Bendamustine + rituximab N = 195   |
-|--------------------------------------------------------|----------------------------------|------------------------------------|
-| Progression-free survival                              |                                  |                                    |
-| Number of events (%) a                                 | 101 (52)                         | 167 (86)                           |
-| Median, months (95% CI)                                | 54 (48.4, 57.0)                  | 17 (15.5, 21.7)                    |
-| Hazard ratio, stratified (95% CI)                      | 0.19 (0.15, 0.26)                | 0.19 (0.15, 0.26)                  |
-| Overall survival                                       |                                  |                                    |
-| Number of events (%)                                   | 32 (16)                          | 64 (33)                            |
-| Hazard ratio (95% CI)                                  | 0.40 (0.26, 0.62)                | 0.40 (0.26, 0.62)                  |
-| 60-month estimate, %(95% CI)                           | 82 (76.4, 87.8)                  | 62 (54.8, 69.6)                    |
-| Time to next anti-leukaemic treatment                  |                                  |                                    |
-| Number of events (%) b                                 | 89 (46)                          | 149 (76)                           |
-| Median, months (95% CI)                                | 58 (55.1, NE)                    | 24 (20.7, 29.5)                    |
-| Hazard ratio, stratified (95% CI)                      | 0.26 (0.20, 0.35)                | 0.26 (0.20, 0.35)                  |
-| MRD negativity c                                       |                                  |                                    |
-| Peripheral blood at end of treatment, n (%) d          | 83 (64)                          | NA f                               |
-| 3-year PFS estimate from end of treatment, %(95% CI) e | 61 (47.3, 75.2)                  | NA f                               |
-| 3-year OS estimate from end of treatment, %(95% CI) e  | 95 (90.0, 100.0)                 | NA f                               |
+| Endpoint                                                | Venetoclax + rituximab N = 194   | Bendamustine + rituximab N = 195   |
+|---------------------------------------------------------|----------------------------------|------------------------------------|
+| Progression-free survival                               |                                  |                                    |
+| Number of events (%) a                                  | 101 (52)                         | 167 (86)                           |
+| Median, months (95% CI)                                 | 54 (48.4, 57.0)                  | 17 (15.5, 21.7)                    |
+| Hazard ratio, stratified (95% CI)                       | 0.19 (0.15, 0.26)                | 0.19 (0.15, 0.26)                  |
+| Overall survival                                        |                                  |                                    |
+| Number of events (%)                                    | 32 (16)                          | 64 (33)                            |
+| Hazard ratio (95% CI)                                   | 0.40 (0.26, 0.62)                | 0.40 (0.26, 0.62)                  |
+| 60-month estimate, % (95% CI)                           | 82 (76.4, 87.8)                  | 62 (54.8, 69.6)                    |
+| Time to next anti-leukaemic treatment                   |                                  |                                    |
+| Number of events (%) b                                  | 89 (46)                          | 149 (76)                           |
+| Median, months (95% CI)                                 | 58 (55.1, NE)                    | 24 (20.7, 29.5)                    |
+| Hazard ratio, stratified (95% CI)                       | 0.26 (0.20, 0.35)                | 0.26 (0.20, 0.35)                  |
+| MRD negativity c                                        |                                  |                                    |
+| Peripheral blood at end of treatment, n (%) d           | 83 (64)                          | NA f                               |
+| 3-year PFS estimate from end of treatment, % (95% CI) e | 61 (47.3, 75.2)                  | NA f                               |
+| 3-year OS estimate from end of treatment, % (95% CI) e  | 95 (90.0, 100.0)                 | NA f                               |
 
 CI= confidence interval; MRD = minimal residual disease; NE = not evaluable; OS= overall survival; PFS = progression-free survival; NA = not applicable.
 
 a 87 and 14 events in the venetoclax + rituximab arm were due to disease progression and death, compared to 148 and 19 events in the bendamustine + rituximab arm, respectively.
 
-b 68 and 21 events in the venetoclax + rituximab arm were due to patients starting a new anti-leukaemic treatment and death, compared to 123 and 26 events in the bendamustine + rituximab arm, respectively. c Minimal residual disease was evaluated using allele-specific oligonucleotide polymerase chain reaction (ASO-PCR) and/or flow cytometry. The cut-off for a negative status was one CLL cell per 10 4 leukocytes.
+b 68 and 21 events in the venetoclax + rituximab arm were due to patients starting a new anti-leukaemic treatment and death, compared to 123 and 26 events in the bendamustine + rituximab arm, respectively.
+
+c Minimal residual disease was evaluated using allele-specific oligonucleotide polymerase chain reaction
+
+(ASO-PCR) and/or flow cytometry. The cut-off for a negative status was one CLL cell per 10 4 leukocytes.
 
 d In patients who completed venetoclax treatment without progression (130 patients).
 
@@ -736,49 +1011,62 @@ e In patients who completed venetoclax treatment without progression and were MR
 
 f No equivalent to end of treatment visit in bendamustine + rituximab arm.
 
-In total, 130 patients in the venetoclax + rituximab arm completed 2 years of venetoclax treatment without progression. For these patients, the 3-year PFS estimate post-treatment was 51% (95 % CI: 40.2, 61.9).
-
-The Kaplan-Meier curve of investigator-assessed PFS is shown in Figure 2.
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Kaplan-Meier curve of investigator-assessed progression-free survival (intent-to-treat population) in MURANO (data cut-off date 8 May 2020) with 59-month follow-up
+In total, 130 patients in the venetoclax + rituximab arm completed 2 years of venetoclax treatment without progression. For these patients, the 3-year PFS estimate post-treatment was 51% (95 % CI: 40.2, 61.9).
+
+The Kaplan-Meier curve of investigator-assessed PFS is shown in Figure 5.
+
+Figure 5: Kaplan-Meier curve of investigator-assessed progression-free survival (intent-to-treat population) in MURANO (data cut-off date 8 May 2020) with 59-month follow-up
 
 <!-- image -->
 
-## Results of subgroup analyses
+Results of subgroup analyses
 
-The observed PFS benefit of venetoclax + rituximab compared with bendamustine + rituximab was consistently observed across all subgroups of patients evaluated, including high-risk patients with deletion 17p/ TP53 mutation and/or unmutated IgVH (Figure 3).
-
-Figure 3: Forest plot of investigator-assessed progression-free survival in subgroups from MURANO (data cut-off date 8 May 2020) with 59-month follow-up
-
-100
-
-|                                                           |                      | Bendamustine+ Rituximab (N=195)   | Bendamustine+ Rituximab (N=195)   | Venetoclax+ Rituximab (N=194)   | Venetoclax+ Rituximab (N=194)   |              |               |                              |                                |
-|-----------------------------------------------------------|----------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|--------------|---------------|------------------------------|--------------------------------|
-| Su rou s                                                  | Total n              | n                                 | Median (Months)                   | n                               | Median (Months)                 | Hazard Ratio | 95% Wald CI   | Venetoclax+ Rituximab better | Bendamustine+ Rituximab better |
-| AJIPatients                                               | 389                  | 195                               | 17.0                              | 194                             | 53.6                            | 0.21         | (0.16. 0.27)  |                              |                                |
-| Chromosome 17p Deletion(central) Normal Abnormal          | 250 92               | 123 46                            | 21.6 14.6                         | 127 46                          | 55.1 47.9                       | 0.19 0.27    | ig:1 g:8:g    |                              |                                |
-| p53 Mutationand/or17p Deletion(central) Unmutated Mutated | 201 147              | 95 75                             | 22.9 14.2                         | 106 72                          | 56.6 45.3                       | 0.18 0.26    | ig:13: SA     |                              |                                |
-| Age Group 65 (yr) < 65 >= 65                              | 186 203              | 89 106                            | 15.4 21.7                         | 97 97                           | 49.0 57.0                       | 0.20 0.20    | il3:1:: 0.29) |                              |                                |
-| Age Group 75 (yr) < 75 >= 75                              | 336 53               | 171 24                            | 16.4 20.0                         | 165 29                          | 53.5 64.5                       | 0.21 0.24    | ig:1:SR       |                              |                                |
-| Number ofPrior Regimens 1 > 1                             | 228 161              | 117 78                            | 16.4 18.6                         | 111 83                          | 54.0 53.1                       | 0.18 0.25    | ig:13: 8:0    |                              |                                |
-| BulkyDisease (Lymph Nodes withtheLargestDiameter) < 5 cm  | 197 172              | 97 88                             | 16.6 15.8                         | 100 84                          | 53.8 48.4                       | 0.21         | 0.30)         |                              |                                |
-| >= 5 cm BaselineIgVH MutationStatus                       | 104 246              | 51 123                            | 24.2                              | 53                              | NE                              | 0.19         | all:          |                              |                                |
-| Mutated Unmutated Refractory vs.Relapse toMost Recent     | Prior Therapy 59 330 | 29                                | 15.7                              | 123                             | 52.2                            | 0.14 0.19    | igE:SA        |                              |                                |
-| Refractory Relapse                                        |                      | 166                               | 13.6 18.6                         | 30 164                          | 31.9 53.8                       | 0.34 0.19    | ig:1 7 4:8:M  |                              |                                |
-
-17p deletion status was determined based on central laboratory test results.
+The observed PFS benefit of venetoclax + rituximab compared with bendamustine + rituximab was consistently observed across all subgroups of patients evaluated, including high-risk patients with deletion 17p/ TP53 mutation and/or unmutated IgVH (Figure 6).
 
 <div style=\"page-break-after: always\"></div>
 
-Unstratified hazard ratio is displayed on the X-axis with logarithmic scale. NE=not evaluable.
+Figure 6: Forest plot of investigator-assessed progression-free survival in subgroups from MURANO (data cut-off date 8 May 2020) with 59-month follow-up
 
-Final overall survival analysis (86-month follow-up)
+|                                                       |                                                       | Bendamustine+ Rituximab (N=195)                     | Bendamustine+ Rituximab (N=195)                     | Venetoclax+ Rituximab (N=194)                       | Venetoclax+ Rituximab (N=194)                       |                                                     |                                                     | Venetoclax+                                         |
+|-------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| Subgroups                                             | Total n                                               | n                                                   | Median (Months)                                     | n                                                   | Median (Months)                                     | Hazard Ratio                                        | 9 ld Cl                                             | Rituximab better                                    |
+| All Patients                                          | 389                                                   | 195                                                 | 17.0                                                | 194                                                 | 53.6                                                | 0.21                                                | (0.16, 0.27)                                        |                                                     |
+| Chromosome 17p Deletion (central)                     |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| Normal                                                | 250                                                   | 123                                                 | 21.6                                                | 127                                                 | 55.1                                                | 0.19                                                | (0.13,0.27)                                         |                                                     |
+| Abnormal                                              | 92                                                    | 46                                                  | 14.6                                                | 46                                                  | 47.9                                                | 0.27                                                | (0.16, 0.45)                                        | HH                                                  |
+| p53 Mutation and/or 17p Deletion (central)            |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| Unmutated                                             | 201                                                   | 95                                                  | 22.9                                                | 106                                                 | 56.6                                                | 0.18                                                | (0.12, 0.26)                                        |                                                     |
+| Mutated                                               | 147                                                   | 75                                                  | 14.2                                                | 72                                                  | 45.3                                                | 0.26                                                | (0.17, 0.38)                                        |                                                     |
+| Age Group 65 (yr)                                     |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| <65                                                   | 186                                                   | 89                                                  | 15.4                                                | 97                                                  | 49.0                                                | 0.20                                                | (0.14,0.29)                                         |                                                     |
+| >=65                                                  | 203                                                   | 106                                                 | 21.7                                                | 97                                                  | 57.0                                                | 0.20                                                | (0.14, 0.30)                                        |                                                     |
+| Age Group 75 (yr)                                     |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| <75                                                   | 336                                                   | 171                                                 | 16.4                                                | 165                                                 | 53.5                                                | 0.21                                                | (0.16,0.28)                                         |                                                     |
+| >=75                                                  | 53                                                    | 24                                                  | 20.0                                                | 29                                                  | 64.5                                                | 0.24                                                | (0.12, 0.51)                                        |                                                     |
+| Number of Prior Regimens                              |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| 1                                                     | 228                                                   | 117                                                 | 16.4                                                | 111                                                 | 54.0                                                | 0.18                                                | (0.13, 0.26)                                        |                                                     |
+| >1                                                    | 161                                                   | 78                                                  | 18.6                                                | 83                                                  | 53.1                                                | 0.25                                                | (0.17, 0.38)                                        |                                                     |
+| Bulky Disease (Lymph Nodes with the Largest Diameter) | Bulky Disease (Lymph Nodes with the Largest Diameter) |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| <5cm                                                  | 197                                                   | 97                                                  | 16.6                                                | 100                                                 | 53.8                                                | 0.21                                                | (0.14,0.30)                                         |                                                     |
+| >= 5 cm                                               | 172                                                   | 88                                                  | 15.8                                                | 84                                                  | 48.4                                                | 0.19                                                | (0.13, 0.29)                                        | HH                                                  |
+| Baseline IgVH Mutation Status                         |                                                       |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |                                                     |
+| Mutated                                               | 104                                                   | 51                                                  | 24.2                                                | 53                                                  | NE                                                  | 0.14                                                | (0.07, 0.26)                                        | 王                                                  |
+| Unmutated                                             | 246                                                   | 123                                                 | 15.7                                                | 123                                                 | 52.2                                                | 0.19                                                | (0.13, 0.26)                                        |                                                     |
+| Refractory vs. Relapse to Most Recent Prior Therapy   | Refractory vs. Relapse to Most Recent Prior Therapy   | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy | Refractory vs. Relapse to Most Recent Prior Therapy |
+| Refractory                                            | 59                                                    | 29                                                  | 13.6                                                | 30                                                  | 31.9                                                | 0.34                                                | (0.17, 0.66)                                        |                                                     |
+| Relapse                                               | 330                                                   | 166                                                 | 18.6                                                | 164                                                 | 53.8                                                | 0.19                                                | (0.14, 0.25)                                        |                                                     |
 
-At the time of the final OS analysis (data cut-off date 03 August 2022), a total of 144 randomised patients had died; 60/194 patients (31%) in the venetoclax + rituximab arm and 84/195 patients (43%) in the bendamustine + rituximab arm.  The median OS was not reached in the venetoclax + rituximab arm and was 88 months in the bendamustine + rituximab arm. The estimated risk of death was decreased by 47% for patients treated with venetoclax + rituximab (stratified HR = 0.53; 95% CI: 0.37, 0.74). The final OS analysis was not type I error controlled. The Kaplan-Meier curve of overall survival is shown in Figure 4.
+17p deletion status was determined based on central laboratory test results. Unstratified hazard ratio is displayed on the X-axis with logarithmic scale. NE=not evaluable.
 
-Figure 4: Kaplan-Meier curve of overall survival (intent-to-treat population) in MURANO (data cutoff date 03 August 2022) with 86-month follow-up
+## Final overall survival analysis (86-month follow-up)
+
+At the time of the final OS analysis (data cut-off date 03 August 2022), a total of 144 randomised patients had died; 60/194 patients (31%) in the venetoclax + rituximab arm and 84/195 patients (43%) in the bendamustine + rituximab arm. The median OS was not reached in the venetoclax + rituximab arm and was 88 months in the bendamustine + rituximab arm. The estimated risk of death was decreased by 47% for patients treated with venetoclax + rituximab (stratified HR = 0.53; 95% CI: 0.37, 0.74). The final OS analysis was not type I error controlled. The Kaplan-Meier curve of overall survival is shown in Figure 7.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 7: Kaplan-Meier curve of overall survival (intent-to-treat population) in MURANO (data cutoff date 03 August 2022) with 86-month follow-up
 
 <!-- image -->
 
@@ -786,23 +1074,23 @@ Venetoclax as monotherapy for the treatment of patients with CLL harbouring 17p 
 
 The safety and efficacy of venetoclax in 107 patients with previously treated CLL with 17p deletion were evaluated in a single-arm, open-label, multicentre study (M13-982). Patients followed a 4- to 5-week dose-titration schedule starting at 20 mg and increasing to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Patients continued to receive venetoclax 400 mg once daily until disease progression or unacceptable toxicity was observed. The median age was 67 years (range: 37 to 85 years); 65% were male, and 97% were white. The median time since diagnosis was 6.8 years (range: 0.1 to 32 years; N=106). The median number of prior anti-CLL treatments was 2 (range: 1 to 10 treatments); 49.5% with a prior nucleoside analogue, 38% with prior rituximab, and 94% with a prior alkylator (including 33% with prior bendamustine). At baseline, 53% of patients had one or more nodes ≥5 cm, and 51% had ALC ≥25 x 10 9 /l. Of the patients, 37% (34/91) were fludarabine refractory, 81% (30/37) harboured the unmutated IgVH gene, and 72% (60/83) had TP53 mutation. The median time on treatment at the time of evaluation was 12 months (range: 0 to 22 months).
 
-The primary efficacy endpoint was ORR as assessed by an IRC using the IWCLL updated NCI-WG guidelines (2008). Efficacy results are shown in Table 12. Efficacy data are presented for 107 patients with data cut-off date 30 April 2015. An additional 51 patients were enrolled in a safety expansion cohort. Investigator-assessed efficacy results are presented for 158 patients with a later data cut-off date 10 June 2016. The median time on treatment for 158 patients was 17 months (range: 0 to 34 months).
+The primary efficacy endpoint was ORR as assessed by an IRC using the IWCLL updated NCI-WG guidelines (2008). Efficacy results are shown in Table 18. Efficacy data are presented for 107 patients with data cut-off date 30 April 2015. An additional 51 patients were enrolled in a safety expansion cohort. Investigator-assessed efficacy results are presented for 158 patients with a later data cut-off date 10 June 2016. The median time on treatment for 158 patients was 17 months (range: 0 to 34 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 12: Efficacy results in patients with previously treated CLL with 17p deletion (study M13-982)
+Table 18: Efficacy results in patients with previously treated CLL with 17p deletion (study M13-982)
 
-| Endpoint                                           | IRC assessment (N = 107) a   | Investigator assessment (N = 158) b   |
-|----------------------------------------------------|------------------------------|---------------------------------------|
-| Data cutoff date                                   | 30 April 2015                | 10 June 2016                          |
-| ORR,% (95% CI)                                     | 79 (70.5, 86.6)              | 77 (69.9, 83.5)                       |
-| CR + CRi,%                                         | 7                            | 18                                    |
-| nPR,%                                              | 3                            | 6                                     |
-| PR,%                                               | 69                           | 53                                    |
-| DOR, months, median (95% CI)                       | NR                           | 27.5 (26.5, NR)                       |
-| PFS, %(95% CI) 12-month estimate 24-month estimate | 72 (61.8, 79.8) NA           | 77 (69.1, 82.6) 52 (43, 61)           |
-| PFS, months, median (95% CI)                       | NR                           | 27.2 (21.9, NR)                       |
-| TTR, months, median (range)                        | 0.8 (0.1-8.1)                | 1.0 (0.5-4.4)                         |
+| Endpoint                                            | IRC assessment (N = 107) a   | Investigator assessment (N = 158) b   |
+|-----------------------------------------------------|------------------------------|---------------------------------------|
+| Data cutoff date                                    | 30 April 2015                | 10 June 2016                          |
+| ORR, % (95% CI)                                     | 79 (70.5, 86.6)              | 77 (69.9, 83.5)                       |
+| CR + CRi, %                                         | 7                            | 18                                    |
+| nPR, %                                              | 3                            | 6                                     |
+| PR, %                                               | 69                           | 53                                    |
+| DOR, months, median (95% CI)                        | NR                           | 27.5 (26.5, NR)                       |
+| PFS, % (95% CI) 12-month estimate 24-month estimate | 72 (61.8, 79.8) NA           | 77 (69.1, 82.6) 52 (43, 61)           |
+| PFS, months, median (95% CI)                        | NR                           | 27.2 (21.9, NR)                       |
+| TTR, months, median (range)                         | 0.8 (0.1-8.1)                | 1.0 (0.5-4.4)                         |
 
 a One patient did not harbour the 17p deletion.
 
@@ -822,19 +1110,19 @@ The primary efficacy endpoint was ORR according to IWCLL updated NCI-WG guidelin
 
 <div style=\"page-break-after: always\"></div>
 
-Table 13: Efficacy results as assessed by investigator in patients who have failed a B-cell receptor pathway inhibitor (study M14-032)
+Table 19: Efficacy results as assessed by investigator in patients who have failed a B-cell receptor pathway inhibitor (study M14-032)
 
-| Endpoint                                                                                                                                                                                                                                                                                    | ArmA (ibrutinib failures) (N = 91)                                                                                                                                                                                                                                                          | ArmB (idelalisib failures) (N = 36)                                                                                                                                                                                                                                                         | Total (N = 127)                                                                                                                                                                                                                                                                             |
+| Endpoint                                                                                                                                                                                                                                                                                    | Arm A (ibrutinib failures) (N = 91)                                                                                                                                                                                                                                                         | Arm B (idelalisib failures) (N = 36)                                                                                                                                                                                                                                                        | Total (N = 127)                                                                                                                                                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ORR,% (95% CI)                                                                                                                                                                                                                                                                              | 65 (54.1, 74.6)                                                                                                                                                                                                                                                                             | 67 (49.0, 81.4)                                                                                                                                                                                                                                                                             | 65 (56.4, 73.6)                                                                                                                                                                                                                                                                             |
-| CR + CRi,%                                                                                                                                                                                                                                                                                  | 10                                                                                                                                                                                                                                                                                          | 11                                                                                                                                                                                                                                                                                          | 10                                                                                                                                                                                                                                                                                          |
-| nPR,%                                                                                                                                                                                                                                                                                       | 3                                                                                                                                                                                                                                                                                           | 0                                                                                                                                                                                                                                                                                           | 2                                                                                                                                                                                                                                                                                           |
-| PR,%                                                                                                                                                                                                                                                                                        | 52                                                                                                                                                                                                                                                                                          | 56                                                                                                                                                                                                                                                                                          | 53                                                                                                                                                                                                                                                                                          |
-| PFS, %(95% CI) 12-month estimate 24-month estimate                                                                                                                                                                                                                                          | 75 (64.7, 83.2) 51 (36.3, 63.9)                                                                                                                                                                                                                                                             | 80 (63.1, 90.1) 61 (39.6, 77.4)                                                                                                                                                                                                                                                             | 77 (68.1, 83.4) 54 (41.8, 64.6)                                                                                                                                                                                                                                                             |
+| ORR, % (95% CI)                                                                                                                                                                                                                                                                             | 65 (54.1, 74.6)                                                                                                                                                                                                                                                                             | 67 (49.0, 81.4)                                                                                                                                                                                                                                                                             | 65 (56.4, 73.6)                                                                                                                                                                                                                                                                             |
+| CR + CRi, %                                                                                                                                                                                                                                                                                 | 10                                                                                                                                                                                                                                                                                          | 11                                                                                                                                                                                                                                                                                          | 10                                                                                                                                                                                                                                                                                          |
+| nPR, %                                                                                                                                                                                                                                                                                      | 3                                                                                                                                                                                                                                                                                           | 0                                                                                                                                                                                                                                                                                           | 2                                                                                                                                                                                                                                                                                           |
+| PR, %                                                                                                                                                                                                                                                                                       | 52                                                                                                                                                                                                                                                                                          | 56                                                                                                                                                                                                                                                                                          | 53                                                                                                                                                                                                                                                                                          |
+| PFS, % (95% CI) 12-month estimate 24-month estimate                                                                                                                                                                                                                                         | 75 (64.7, 83.2) 51 (36.3, 63.9)                                                                                                                                                                                                                                                             | 80 (63.1, 90.1) 61 (39.6, 77.4)                                                                                                                                                                                                                                                             | 77 (68.1, 83.4) 54 (41.8, 64.6)                                                                                                                                                                                                                                                             |
 | PFS, months, median (95% CI)                                                                                                                                                                                                                                                                | 25 (19.2, NR)                                                                                                                                                                                                                                                                               | NR (16.4, NR)                                                                                                                                                                                                                                                                               | 25 (19.6, NR)                                                                                                                                                                                                                                                                               |
-| OS, %(95% CI) 12-month estimate                                                                                                                                                                                                                                                             | 91 (82.8, 95.4)                                                                                                                                                                                                                                                                             | 94.2 (78.6, 98.5)                                                                                                                                                                                                                                                                           | 92 (85.6, 95.6)                                                                                                                                                                                                                                                                             |
+| OS, % (95% CI) 12-month estimate                                                                                                                                                                                                                                                            | 91 (82.8, 95.4)                                                                                                                                                                                                                                                                             | 94.2 (78.6, 98.5)                                                                                                                                                                                                                                                                           | 92 (85.6, 95.6)                                                                                                                                                                                                                                                                             |
 | TTR, months, median (range)                                                                                                                                                                                                                                                                 | 2.5 (1.6-14.9)                                                                                                                                                                                                                                                                              | 2.5 (1.6-8.1)                                                                                                                                                                                                                                                                               | 2.5 (1.6-14.9)                                                                                                                                                                                                                                                                              |
-| 17p deletion and/or TP53 mutation status ORR, %(95% CI)                                                                                                                                                                                                                                     | 17p deletion and/or TP53 mutation status ORR, %(95% CI)                                                                                                                                                                                                                                     | 17p deletion and/or TP53 mutation status ORR, %(95% CI)                                                                                                                                                                                                                                     | 17p deletion and/or TP53 mutation status ORR, %(95% CI)                                                                                                                                                                                                                                     |
+| 17p deletion and/or TP53 mutation status ORR, % (95% CI)                                                                                                                                                                                                                                    | 17p deletion and/or TP53 mutation status ORR, % (95% CI)                                                                                                                                                                                                                                    | 17p deletion and/or TP53 mutation status ORR, % (95% CI)                                                                                                                                                                                                                                    | 17p deletion and/or TP53 mutation status ORR, % (95% CI)                                                                                                                                                                                                                                    |
 | Yes                                                                                                                                                                                                                                                                                         | (n=28) 61 (45.4, 74.9)                                                                                                                                                                                                                                                                      | (n=7) 58 (27.7, 84.8)                                                                                                                                                                                                                                                                       | (n=35) 60 (46.6, 73.0)                                                                                                                                                                                                                                                                      |
 | No                                                                                                                                                                                                                                                                                          | (n=31) 69 (53.4, 81.8)                                                                                                                                                                                                                                                                      | (n=17) 71 (48.9, 87.4)                                                                                                                                                                                                                                                                      | (n=48) 70 (57.3, 80.1)                                                                                                                                                                                                                                                                      |
 | CI = confidence interval; CR = complete remission; CRi = complete remission with incomplete marrow recovery; nPR = nodular PR; NR = not reached, ORR = overall response rate; OS = overall survival; PFS = progression-free survival, PR = partial remission, TTR = time to first response. | CI = confidence interval; CR = complete remission; CRi = complete remission with incomplete marrow recovery; nPR = nodular PR; NR = not reached, ORR = overall response rate; OS = overall survival; PFS = progression-free survival, PR = partial remission, TTR = time to first response. | CI = confidence interval; CR = complete remission; CRi = complete remission with incomplete marrow recovery; nPR = nodular PR; NR = not reached, ORR = overall response rate; OS = overall survival; PFS = progression-free survival, PR = partial remission, TTR = time to first response. | CI = confidence interval; CR = complete remission; CRi = complete remission with incomplete marrow recovery; nPR = nodular PR; NR = not reached, ORR = overall response rate; OS = overall survival; PFS = progression-free survival, PR = partial remission, TTR = time to first response. |
@@ -849,9 +1137,9 @@ Twenty-five percent (32/127) of patients were MRD negative in the peripheral blo
 
 Venetoclax was studied in adult patients who were ≥ 75 years of age, or who had comorbidities that precluded the use of intensive induction chemotherapy based on at least one of the following criteria: baseline Eastern Cooperative Oncology Group (ECOG) performance status of 2-3, severe cardiac or pulmonary comorbidity, moderate hepatic impairment, creatinine clearance (CrCl) &lt; 45 ml/min, or other comorbidity.
 
-Venetoclax in combination with azacitidine for the treatment of patients with newly diagnosed AML study M15-656 (VIALE-A)
-
 <div style=\"page-break-after: always\"></div>
+
+Venetoclax in combination with azacitidine for the treatment of patients with newly diagnosed AML study M15-656 (VIALE-A)
 
 VIALE-A was a randomised (2:1), double-blind, placebo-controlled phase 3 study that evaluated the efficacy and safety of venetoclax in combination with azacitidine in patients with newly diagnosed AML who were ineligible for intensive chemotherapy.
 
@@ -861,78 +1149,75 @@ A total of 431 patients were randomised: 286 to the venetoclax + azacitidine arm
 
 The primary efficacy endpoints of the study were overall survival (OS), measured from the date of randomisation to death from any cause and composite CR rate (complete remission + complete remission with incomplete blood count recovery [CR+CRi]). The overall median follow-up at the time of analysis was 20.5 months (range: &lt;0.1 to 30.7 months).
 
-Venetoclax + azacitidine demonstrated a 34% reduction in the risk of death compared with placebo + azacitidine (p &lt;0.001). Results are shown in Table 14.
-
-Table 14: Efficacy results in VIALE-A
-
-| Endpoint                                                                        | Venetoclax + azacitidine   | Placebo + azacitidine    |
-|---------------------------------------------------------------------------------|----------------------------|--------------------------|
-| Overall survival a                                                              | (N=286)                    | (N=145)                  |
-| Number of events n (%) Median survival, months (95% CI) Hazard ratio b (95% CI) | 161 (56) 14.7 (11.9, 18.7) | 109 (75) 9.6 (7.4, 12.7) |
-| p-value b                                                                       | 0.66 (0.52, 0.85) <0.001   | 0.66 (0.52, 0.85) <0.001 |
-| CR+CRi rate c                                                                   | (N=147)                    | (N=79)                   |
-| n (%) (95% CI) d                                                                | 96 (65) (57, 73)           | 20 (25) (16, 36)         |
-| p-value                                                                         | <0.001                     | <0.001                   |
+Venetoclax + azacitidine demonstrated a 34% reduction in the risk of death compared with placebo + azacitidine (p &lt;0.001). Results are shown in Table 20.
 
 <div style=\"page-break-after: always\"></div>
 
-CI = confidence interval; CR = (complete remission) was defined as absolute neutrophil count &gt;1,000/microlitre, platelets &gt;100,000/microlitre, red blood cell transfusion independence, and bone marrow with &lt;5% blasts. Absence of circulating blasts and blasts with Auer rods; absence of extramedullary disease; CRi = complete remission with incomplete blood count recovery. a
+Table 20: Efficacy results in VIALE-A
 
-Kaplan-Meier estimate at the second interim analysis (data cut-off date 4 January 2020).
+| Endpoint                                                                                  | Venetoclax + azacitidine          | Placebo + azacitidine    |
+|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------|
+| Overall survival a                                                                        | (N=286)                           | (N=145)                  |
+| Number of events n (%) Median survival, months (95% CI) Hazard ratio b (95% CI) p-value b | 161 (56) 14.7 (11.9, 18.7) <0.001 | 109 (75) 9.6 (7.4, 12.7) |
+|                                                                                           | 0.66 (0.52, 0.85)                 | 0.66 (0.52, 0.85)        |
+| CR+CRi rate c                                                                             | (N=147)                           | (N=79)                   |
+| n (%) (95% CI) p-value d                                                                  | 96 (65) (57, 73)                  | 20 (25) (16, 36)         |
+|                                                                                           | <0.001                            | <0.001                   |
+
+CI = confidence interval; CR = (complete remission) was defined as absolute neutrophil count &gt;1,000/microlitre, platelets &gt;100,000/microlitre, red blood cell transfusion independence, and bone marrow with &lt;5% blasts. Absence of circulating blasts and blasts with Auer rods; absence of extramedullary disease; CRi = complete remission with incomplete blood count recovery.
+
+a Kaplan-Meier estimate at the second interim analysis (data cut-off date 4 January 2020).
 
 - b Hazard ratio estimate (venetoclax +azacitidine vs. placebo + azacitidine) is based on Coxproportional hazards model stratified by cytogenetics (intermediate risk, poor risk) and age (18to &lt;75, ≥75) as assigned at randomisation; p-value based on log-rank test stratified by the same factors.
-- c The CR+CRi rate is from a planned interim analysis of first 226 patients randomised with 6 months of follow-up at the first interim analysis (data cut-off date 1 October 2018).
+
+c The CR+CRi rate is from a planned interim analysis of first 226 patients randomised with 6 months of follow-up at the first interim analysis (data cut-off date 1 October 2018).
+
 - d P-value is from Cochran-Mantel-Haenszel test stratified by age (18 to &lt;75, ≥75) and cytogenetic risk (intermediate risk, poor risk) as assigned at randomisation.
 
-Figure 5: Kaplan-Meier curve for overall survival in VIALE-A
+Figure 8: Kaplan-Meier curve for overall survival in VIALE-A
 
 <!-- image -->
 
-Key secondary efficacy endpoints are presented in Table 15.
-
-Table 15: Additional efficacy endpoints in VIALE-A
-
-| Endpoint              | Venetoclax + azacitidine N=286   | Placebo + azacitidine N=145   |
-|-----------------------|----------------------------------|-------------------------------|
-| CR rate               |                                  |                               |
-| n (%)                 | 105 (37)                         | 26 (18)                       |
-| (95% CI)              | (31, 43)                         | (12, 25)                      |
-| p-value a             | <0.001                           | <0.001                        |
-| Median DOR b , months | 17.5                             | 13.3                          |
-| (95% CI)              | (15.3, -)                        | (8.5, 17.6)                   |
-| CR+CRi rate           |                                  |                               |
-| n (%)                 | 190 (66)                         | 41(28)                        |
-| (95% CI)              | (61, 72)                         | (21, 36)                      |
-| Median DOR b , months | 17.5                             | 13.4                          |
-| (95% CI)              | (13.6, -)                        | (5.8, 15.5)                   |
+Key secondary efficacy endpoints are presented in Table 21.
 
 <div style=\"page-break-after: always\"></div>
 
-| CR+CRi rate by initiation of                   |                   |                   |
-|------------------------------------------------|-------------------|-------------------|
-| Cycle 2, n (%)                                 | 124 (43)          | 11 (8)            |
-| (95% CI)                                       | (38, 49)          | (4, 13)           |
-| p-value a                                      | <0.001            | <0.001            |
-| Transfusion independence rate, platelets       |                   |                   |
-| n (%)                                          | 196 (69)          | 72 (50)           |
-| (95% CI)                                       | (63, 74)          | (41, 58)          |
-| p-value a                                      | <0.001            | <0.001            |
-| Transfusion independence rate, red blood cells |                   |                   |
-| n (%)                                          | 171 (60)          | 51 (35)           |
-| (95% CI)                                       | (54, 66)          | (27, 44)          |
-| p-value a                                      | <0.001            | <0.001            |
-| CR+CRi MRDresponse rate d                      |                   |                   |
-| n (% )                                         | 67 (23)           | 11 (8)            |
-| (95% CI)                                       | (19, 29)          | (4, 13)           |
-| p-value a                                      | <0.001            | <0.001            |
-| Event-free survival                            |                   |                   |
-| Number of events, n (%)                        | 191 (67)          | 122 (84)          |
-| Median EFS e , months                          | 9.8               | 7.0               |
-| (95% CI)                                       | (8.4, 11.8)       | (5.6, 9.5)        |
-| Hazard ratio (95% CI) c                        | 0.63 (0.50, 0.80) | 0.63 (0.50, 0.80) |
-| p-value c                                      | <0.001            | <0.001            |
+Table 21: Additional efficacy endpoints in VIALE-A
 
--
+| Endpoint                                       | Venetoclax + azacitidine N=286   | Placebo + azacitidine N=145   |
+|------------------------------------------------|----------------------------------|-------------------------------|
+| CR rate                                        |                                  |                               |
+| n (%)                                          | 105 (37)                         | 26 (18)                       |
+| (95% CI)                                       | (31, 43) (12, 25) <0.001         | (31, 43) (12, 25) <0.001      |
+| Median DOR b , months                          | 17.5                             | 13.3                          |
+| (95% CI)                                       | (15.3, -)                        | (8.5, 17.6)                   |
+| CR+CRi rate                                    |                                  |                               |
+| n (%)                                          | 190 (66)                         | 41(28)                        |
+| (95% CI)                                       | (61, 72)                         | (21, 36)                      |
+| Median DOR b , months                          | 17.5                             | 13.4                          |
+| (95% CI)                                       | (13.6, -)                        | (5.8, 15.5)                   |
+| CR+CRi rate by initiation of                   |                                  |                               |
+| Cycle 2, n (%)                                 | 124 (43)                         | 11 (8)                        |
+| (95% CI)                                       | (38, 49)                         | (4, 13)                       |
+| p-value a                                      | <0.001                           | <0.001                        |
+| Transfusion independence rate, platelets       |                                  |                               |
+| n (%)                                          | 196 (69)                         | 72 (50)                       |
+| (95% CI)                                       | (63, 74)                         | (41, 58)                      |
+| p-value a                                      | <0.001                           | <0.001                        |
+| Transfusion independence rate, red blood cells |                                  |                               |
+| n (%)                                          | 171 (60)                         | 51 (35)                       |
+| (95% CI)                                       | (54, 66)                         | (27, 44)                      |
+| p-value a                                      | <0.001                           | <0.001                        |
+| CR+CRi MRD response rate d                     |                                  |                               |
+| n (% )                                         | 67 (23)                          | 11 (8)                        |
+| (95% CI)                                       | (19, 29)                         | (4, 13)                       |
+| p-value a                                      | <0.001                           | <0.001                        |
+| Event-free survival                            |                                  |                               |
+| Number of events, n (%)                        | 191 (67)                         | 122 (84)                      |
+| Median EFS e , months                          | 9.8                              | 7.0                           |
+| (95% CI)                                       | (8.4, 11.8)                      | (5.6, 9.5)                    |
+| Hazard ratio (95% CI) c                        | 0.63 (0.50, 0.80)                | 0.63 (0.50, 0.80)             |
+| p-value c                                      | <0.001                           | <0.001                        |
 
 CI = confidence interval; CR = complete remission; CRi = complete remission with incomplete blood count recovery; DOR = duration of response; EFS = event-free survival; MRD = minimal/measurable residual disease; n = number of responses or number of events; - = not reached.
 
@@ -942,19 +1227,17 @@ Transfusion independence was defined as a period of at least consecutive 56 days
 
 a P-value is from Cochran-Mantel-Haenszel test stratified by age (18 to &lt;75, ≥75) and cytogenetic risk (intermediate risk, poor risk) as assigned at randomisation.
 
+<div style=\"page-break-after: always\"></div>
+
 b DOR (duration of response) was defined as time from first response of CR for DOR of CR, from first response of CR or CRi for DOR of CR+CRi, to the first date of confirmed morphologic relapse, confirmed progressive disease or death due to disease progression, whichever occurred earlier. Median DOR is from Kaplan-Meier estimate.
 
 c Hazard ratio estimate (venetoclax + azacitidine vs. placebo + azacitidine) is based on Coxproportional hazards model stratified by age (18 to &lt;75, ≥75) and cytogenetics (intermediate risk, poor risk) as assigned at randomisation; p-value based on log-rank test stratified by the same factors.
 
-d CR+CRi MRD response rate is defined as the % of patients achieving a CR or CRi and demonstrated an MRD response of &lt;10 -3 blasts in bone marrow as determined by a standardized, central multicolour flow cytometry assay.
+d CR+CRi MRD response rate is defined as the % of patients achieving a CR or CRi and demonstrated an MRD response of &lt;10 -3  blasts in bone marrow as determined by a standardized, central multicolour flow cytometry assay.
 
-e
-
-Kaplan-Meier estimate.
+e Kaplan-Meier estimate.
 
 Of patients with the FLT3 mutation, the CR+CRi rates were 72% (21/29; [95% CI: 53, 87]) and 36% (8/22; [95% CI: 17, 59]) in the venetoclax + azacitidine and placebo + azacitidine arms, respectively (p=0.021).
-
-<div style=\"page-break-after: always\"></div>
 
 Of patients with IDH1/IDH2 mutations, the CR+CRi rates were 75% (46/61; [95% CI: 63, 86]) and 11% (3/28; [95% CI: 2, 28]) in the venetoclax + azacitidine and placebo + azacitidine arms, respectively (p&lt;0.001).
 
@@ -964,38 +1247,38 @@ The median time to first response of CR or CRi was 1.3 months (range: 0.6 to 9.9
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 6: Forest plot of overall survival by subgroups from VIALE-A
+Figure 9 Forest plot of overall survival by subgroups from VIALE-A
 
-|                                | Rambo +Ilan*         | Rambo +Ilan*       | Yowled= +472/anne   | Yowled= +472/anne   |
-|--------------------------------|----------------------|--------------------|---------------------|---------------------|
-| AISubjects                     | nN (%) 109/145 (752) | Median (Ikals) 9.0 | (%) 1811286(503)    | MS= 14.7            |
-| Age (Years)                    |                      |                    |                     |                     |
-| 18 -< 65                       | 3/ 5(600)            | 13.2               | 7110( 70.0)         | 152                 |
-| 65 -<75                        | 33/53(623)           | 15.2               | 59/102(57.8)        | 152                 |
-| 75                             | 73187 (83A)          | 85                 | 95/174(54.6)        | 14.1                |
-| Bastin ECOG                    |                      |                    |                     |                     |
-| Crack < 2                      | 05181(802)           | 10.6               | 89/157(56.7)        | 102                 |
-| Grack 2                        | 44/64(68S)           | 8.6                | 72/129(552)         | 13.3                |
-| Type ofMt                      |                      |                    |                     |                     |
-| De Woo                         | 80/110(72.7)         | 9.6                | 128214(56.1)        | 14.1                |
-| Seconlwy                       | 29135( 829)          | 10.6               | 41/72(83.9)         | 16.4                |
-| Therapyableed                  | 8/9(380)             | 11.3               | 15126(57.7)         | 16 4                |
-| Cyr:immixRisk                  |                      |                    |                     |                     |
-| rternioat                      | 62/891297)           | 12.4               | 84/182(462)         | 20.8                |
-| Poor                           | 47/56(83.9)          | 0.0                | 77/104(74.0)        | 7.6                 |
-| MolecularMarker by Central Lab |                      |                    |                     |                     |
-| FLT3                           | 19/22(86.4)          | 8.6                | 19129(265)          | 12.7                |
-| 0-(1.2                         | 24/28(85.7)          | 62                 | 29/61(47.5)         |                     |
-| 7PS3                           | 13/14(924)           | 54                 | 34138(895)          | 58                  |
-| 14\"141                         | 14/17(82.4)          | 130                | 1827(59.3)          | 15.0                |
-| Mt withMyelotlysplasia         |                      |                    |                     |                     |
-| RalaindChanges INAL4ARCI       |                      |                    |                     |                     |
-| Yes                            | 3.,49(ne)            | 11.3               | 56/92 (cam          | 12.7                |
-| No                             | 71/93(740)           | 8.5                | 1051194(54.1)       | 10.4                |
-| Bone Maras BbstGaunt           |                      |                    |                     |                     |
-| < 30%                          | 28/41(68.3)          | 12.4               | 45,85(54.1)         | 148                 |
-| 30 -c50%                       | 26133( 78.8)         | 9.3                | (50.0)              | 188                 |
-| 50%                            | 55171 (77.5)         | 8.4                | 70140 (50.4)        | 12.4                |
+|                                 | Placebo + Azacitidine   | Placebo + Azacitidine   | Venetoclax + Azacitidine   | Venetoclax + Azacitidine   |
+|---------------------------------|-------------------------|-------------------------|----------------------------|----------------------------|
+| All Subjects                    | nN (%) 109/145 (75.2)   | Median (Months) 9.6     | nN (%) 161/286 (56.3)      | Median (Months) 14.7       |
+| Age (Years)                     |                         |                         |                            |                            |
+| 18 - < 65                       | 3/ 5 (60.0)             | 13.2                    | 71 10 (70.0)               | 15.2                       |
+| 65 - < 75                       | 33/53 (62.3)            | 15.2                    | 59/102 (57.8)              | 15.2                       |
+| ≥75                             | 73/ 87 (83.9)           | 8.5                     | 95/174 (54.6)              | 14.1                       |
+| Baseline ECOG                   |                         |                         |                            |                            |
+| Grade < 2                       | 65/81 (80.2)            | 10.6                    | 89/157 (56.7)              | 16.2                       |
+| Grade ≥ 2                       | 44/64 (68.8)            | 8.6                     | 72/129 (55.8)              | 13.3                       |
+| Type of AML                     |                         |                         |                            |                            |
+| De Novo                         | 80/110 (72.7)           | 9.6                     | 120/214 (56.1)             | 14.1                       |
+| Secondary                       | 29/35 (82.9)            | 10.6                    | 41/72 (56.9)               | 16.4                       |
+| Therapy-Related                 | 8/ 9 (88.9)             | 11.3                    | 15/26 (57.7)               | 16.4                       |
+| Cytogenetic Risk                |                         |                         |                            |                            |
+| Intermediate                    | 62/ 89 (69.7)           | 12.4                    | 84/182 (46.2)              | 20.8                       |
+| Poor                            | 47/56 (83.9)            | 6.0                     | 77/104 (74.0)              | 7.6                        |
+| Molecular Marker by Central Lab |                         |                         |                            |                            |
+| FLT3                            | 19/22 (86.4)            | 8.6                     | 19/29 (65.5)               | 12.7                       |
+| DH12                            | 24/28 (85.7)            | 6.2                     | 29/61 (47.5)               |                            |
+| TP53                            | 13/ 14 (92.9)           | 5.4                     | 34/38 (89.5)               | 5.8                        |
+| NPM1                            | 14/ 17 (82.4)           | 13.0                    | 16/27 (59.3)               | 15.0                       |
+| AML with Myelodysplasia         |                         |                         |                            |                            |
+| Related Changes (AML-MRC)       |                         |                         |                            |                            |
+| Yes                             | 38/ 49 (77.6)           | 11.3                    | 56/92 (60.9)               | 12.7                       |
+| No                              | 71/96 (74.0)            | 8.5                     | 105/194 (54.1)             | 16.4                       |
+| Bone Marrow Blast Count         |                         |                         |                            |                            |
+| <30%                            | 28/41 (68.3)            | 12.4                    | 46/85 (54.1)               | 14.8                       |
+| 30 -< 50%                       | 26/33 (78.8)            | 9.3                     | 36/61 (59.0)               | 16.8                       |
+| ≥50%                            | 55/71 (77.5)            | 8.4                     | 79/140 (58.4)              | 12.4                       |
 
 <!-- image -->
 
@@ -1033,7 +1316,7 @@ There were no clinically meaningful differences in safety or efficacy observed b
 
 ## Paediatric population
 
-The safety, efficacy, and pharmacokinetics of venetoclax were evaluated in a two-part, multi-centre, open-label, phase 1 study (M13-833) of venetoclax as monotherapy or in combination with chemotherapy in 140 paediatric and young adult patients with relapsed or refractory malignancies. Patients received venetoclax, alone or in combination with chemotherapy, at an age- or weightadjusted dose to match an adult equivalent target dose of 400 mg or 800 mg daily or intermittently (days 1-10) for 21-day cycles.
+The safety, efficacy, and pharmacokinetics of venetoclax were evaluated in a two-part, multi-centre, open-label, phase 1 study (M13-833) of venetoclax as monotherapy or in combination with chemotherapy in 140 paediatric and young adult patients with relapsed or refractory malignancies. Patients received venetoclax, alone or in combination with chemotherapy, at an age- or weightadjusted dose to match an adult equivalent target daily dose of 400 mg or 800 mg continuously or intermittently (days 1-10) for 21-day cycles.
 
 Part 1 enrolled 22 patients in a dose determination cohort (AML (n=10), acute lymphoblastic leukaemia [ALL] (n=5), neuroblastoma (n=3), and solid tumours (n=4)) and 18 patients in a dose escalation/de-escalation cohort (neuroblastoma (n=7) and solid tumours (n=11)).
 
@@ -1059,7 +1342,7 @@ Administration with a low-fat meal increased venetoclax exposure by approximatel
 
 ## Distribution
 
-Venetoclax is highly bound to human plasma protein with unbound fraction in plasma &lt;0.01 across a concentration range of 1-30 micromolar  (0.87-26 mcg/ml). The mean blood-to-plasma ratio was 0.57. The population estimate for apparent volume of distribution (Vdss/F) of venetoclax ranged from 256-321 L in patients.
+Venetoclax is highly bound to human plasma protein with unbound fraction in plasma &lt;0.01 across a concentration range of 1-30 micromolar (0.87-26 mcg/ml). The mean blood-to-plasma ratio was 0.57. The population estimate for apparent volume of distribution (Vdss/F) of venetoclax ranged from 256-321 L in patients.
 
 ## Biotransformation
 
@@ -1077,19 +1360,17 @@ Venetoclax is a P-gp and BCRP substrate as well as a P-gp and BCRP inhibitor and
 
 ## Elimination
 
-The population estimate for the terminal phase elimination half-life of venetoclax was approximately 26 hours. Venetoclax shows minimal accumulation with accumulation ratio of 1.30-1.44. After a single oral administration of 200 mg radiolabeled [ 14 C]-venetoclax to healthy subjects, &gt;99.9% of the dose was recovered in faeces and &lt;0.1% of the dose was excreted in urine within 9 days. Unchanged
+The population estimate for the terminal phase elimination half-life of venetoclax was approximately 26 hours. Venetoclax shows minimal accumulation with accumulation ratio of 1.30-1.44. After a single oral administration of 200 mg radiolabeled [ 14 C]-venetoclax to healthy subjects, &gt;99.9% of the dose was recovered in faeces and &lt;0.1% of the dose was excreted in urine within 9 days. Unchanged venetoclax accounted for 20.8% of the administered radioactive dose excreted in faeces. The pharmacokinetics of venetoclax do not change over time.
 
 <div style=\"page-break-after: always\"></div>
-
-venetoclax accounted for 20.8% of the administered radioactive dose excreted in faeces. The pharmacokinetics of venetoclax do not change over time.
 
 ## Special populations
 
 ## Paediatric population
 
-Based on pharmacokinetic analysis in paediatric patients with relapsed/refractory malignancies, the use of weight-based dosing for patients 2 years and above would yield venetoclax plasma exposures that are comparable across different paediatric weight subgroups and comparable to those observed in adult patients receiving venetoclax 400 mg as shown in Table 16.
+Based on pharmacokinetic analysis in paediatric patients with relapsed/refractory malignancies, the use of weight-based dosing for patients 2 years and above would yield venetoclax plasma exposures that are comparable across different paediatric weight subgroups and comparable to those observed in adult patients receiving venetoclax 400 mg as shown in Table 22.
 
-Table 16: Venetoclax exposures for paediatric weight groups in patients 2 years and above at 400 mg adult-equivalent dose
+Table 22: Venetoclax exposures for paediatric weight groups in patients 2 years and above at 400 mg adult-equivalent dose
 
 | Paediatric Subgroup (n)   | 10 - ≤ 20 kg (5)   | 20 - ≤ 30 kg (4)   | 30 - ≤ 45 kg (6)   | ≥ 45 kg (13)   | Adults      |
 |---------------------------|--------------------|--------------------|--------------------|----------------|-------------|
@@ -1099,7 +1380,7 @@ Table 16: Venetoclax exposures for paediatric weight groups in patients 2 years 
 
 ## Renal impairment
 
-Based on a population pharmacokinetic analysis that included 321 subjects with mild renal impairment (CrCl ≥60 and &lt;90 ml/min), 219 subjects with moderate renal impairment (CrCl ≥30 and &lt;60 ml/min), 5 subjects with severe renal impairment (CrCl ≥15 and &lt;30 ml/min) and 224 subjects with normal renal function (CrCl ≥90 ml/min), venetoclax exposures in subjects with mild, moderate or severe renal impairment are similar to those with normal renal function. The pharmacokinetics of venetoclax have been studied in 6 patients with ESRD requiring dialysis. Following a single dose of 100 mg venetoclax, unbound venetoclax Cmax and AUC in subjects with ESRD on a non-dialysis day were comparable to subjects with normal renal function. The unbound venetoclax AUC and Cmax on a dialysis day were approximately 1.8 to 1.9-fold of the exposures on a non-dialysis day, however, the range of individual total and unbound venetoclax exposures on a dialysis day was generally comparable to the corresponding range in subjects with normal renal function. Additionally, during dialysis, plasma venetoclax concentrations were comparable between arterial and venous samples indicating that dialysis has no impact on the clearance of venetoclax (see section 4.2).
+Based on a population pharmacokinetic analysis that included 321 subjects with mild renal impairment (CrCl ≥60 and &lt;90 ml/min), 219 subjects with moderate renal impairment (CrCl ≥30 and &lt;60 ml/min), 5 subjects with severe renal impairment (CrCl ≥15 and &lt;30 ml/min) and 224 subjects with normal renal function (CrCl ≥90 ml/min), venetoclax exposures in subjects with mild, moderate or severe renal impairment are similar to those with normal renal function. The pharmacokinetics of venetoclax have been studied in 6 patients with ESRD requiring dialysis. Following a single dose of 100 mg venetoclax, unbound venetoclax Cmax and AUC in subjects with ESRD on a non-dialysis day were comparable to subjects with normal renal function. The unbound venetoclax Cmax and AUC on a dialysis day were approximately 1.8 to 1.9-fold of the exposures on a non-dialysis day, however, the range of individual total and unbound venetoclax exposures on a dialysis day was generally comparable to the corresponding range in subjects with normal renal function. Additionally, during dialysis, plasma venetoclax concentrations were comparable between arterial and venous samples indicating that dialysis has no impact on the clearance of venetoclax (see section 4.2).
 
 ## Hepatic impairment
 
@@ -1133,8 +1414,6 @@ No effects on fertility were observed in fertility and early embryonic developme
 
 In embryo-foetal development studies in mice, venetoclax was associated with increased postimplantation loss and decreased foetal body weight at exposures of 1.1 times the human AUC exposure at a dose of 400 mg. The major human metabolite M27 was associated with postimplantation loss and resorptions at exposures approximately 9-times the human M27-AUC exposure at a 400 mg dose of venetoclax. In rabbits, venetoclax produced maternal toxicity, but no foetal toxicity at exposures of 0.1 times the human AUC exposure at a 400 mg dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1143,7 +1422,11 @@ In embryo-foetal development studies in mice, venetoclax was associated with inc
 
 ## Tablet core
 
-Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433) Sodium stearyl fumarate Anhydrous calcium hydrogen phosphate (E341 (ii))
+Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433)
+
+<div style=\"page-break-after: always\"></div>
+
+Sodium stearyl fumarate Anhydrous calcium hydrogen phosphate (E341 (ii))
 
 ## Film-coating
 
@@ -1153,7 +1436,9 @@ Iron oxide yellow (E172) Polyvinyl alcohol (E1203) Titanium dioxide (E171) Macro
 
 ## Tablet core
 
-Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433) Sodium stearyl fumarate Anhydrous calcium hydrogen phosphate (E341 (ii))
+Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433) Sodium stearyl fumarate
+
+Anhydrous calcium hydrogen phosphate (E341 (ii))
 
 ## Film-coating
 
@@ -1163,35 +1448,29 @@ Iron oxide yellow (E172) Iron oxide red (E172) Iron oxide black (E172) Polyvinyl
 
 ## Tablet core
 
-Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433) Sodium stearyl fumarate Anhydrous calcium hydrogen phosphate (E341 (ii))
+Copovidone (K 28) Colloidal anhydrous silica (E551) Polysorbate 80 (E433) Sodium stearyl fumarate
+
+Anhydrous calcium hydrogen phosphate (E341 (ii))
 
 ## Film-coating
 
-Iron oxide yellow (E172) Polyvinyl alcohol (E1203) Titanium dioxide (E171)
-
-Macrogol 3350 (E1521)
-
-Talc (E553b)
-
-<div style=\"page-break-after: always\"></div>
+Iron oxide yellow (E172) Polyvinyl alcohol (E1203) Titanium dioxide (E171) Macrogol 3350 (E1521) Talc (E553b)
 
 ## 6.2 Incompatibilities
 
-Not applicable.
+## Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
-## Venclyxto 10 mg film-coated tablets
+Venclyxto 10 mg film-coated tablets 2 years.
+
+## Venclyxto 50 mg film-coated tablets
 
 2 years.
 
-Venclyxto 50 mg film-coated tablets
-
-2 years.
-
-Venclyxto 100 mg film-coated tablets
-
-3 years.
+Venclyxto 100 mg film-coated tablets 3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -1234,10 +1513,8 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/16/1138/001 (10 mg, 10 tablets) EU/1/16/1138/002 (10 mg, 14 tablets) EU/1/16/1138/003 (50 mg, 5 tablets) EU/1/16/1138/004 (50 mg, 7 tablets) EU/1/16/1138/005 (100 mg 7 tablets) EU/1/16/1138/006 (100 mg, 14 tablets) EU/1/16/1138/007 (100 mg, 112 (4 x 28) tablets)
+EU/1/16/1138/001 (10 mg, 10 tablets) EU/1/16/1138/002 (10 mg, 14 tablets) EU/1/16/1138/003 (50 mg, 5 tablets) EU/1/16/1138/004 (50 mg, 7 tablets) EU/1/16/1138/005 (100 mg 7 tablets) EU/1/16/1138/006 (100 mg, 14 tablets) EU/1/16/1138/007 (100 mg, 112 (4 x 28) tablets) EU/1/16/1138/008 (100 mg, 360 tablets)
 ```
-
-EU/1/16/1138/008 (100 mg, 360 tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1269,6 +1546,8 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 And
 
 AbbVie S.r.l. 148, Pontina Km 52 snc 04011 Campoverde di Aprilia (LT) Italy
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1311,9 +1590,7 @@ The MAH shall ensure that in each Member State where Venclyxto is marketed, all 
 
 - The Summary of Product Characteristics
 - Patient card
-
-## · Patient card :
-
+- Patient card :
 - Contact details of the venetoclax prescriber and patient
 - Instruction to patients on how to minimise TLS risk
 - List of TLS symptoms to prompt patient actions including to seek immediate medical attention in case of their occurrence
@@ -1391,20 +1668,18 @@ EU/1/16/1138/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 venclyxto 10 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
 
@@ -1482,9 +1757,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1501,8 +1776,8 @@ AbbVie (as logo)
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1655,9 +1930,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1674,15 +1949,13 @@ AbbVie (as logo)
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-55
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1758,9 +2031,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1777,8 +2050,8 @@ AbbVie (as logo)
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1911,7 +2184,7 @@ EU/1/16/1138/007
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1925,7 +2198,9 @@ venclyxto 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1989,7 +2264,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 venclyxto 100 mg
 
@@ -2071,7 +2346,9 @@ venclyxto 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2119,33 +2396,33 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 AbbVie (as logo)
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSON USE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC
 
@@ -2153,11 +2430,13 @@ PC
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
 
-Venclyxto 10 mg film-coated tablets Venclyxto 50 mg film-coated tablets Venclyxto 100 mg film-coated tablets venetoclax
+## Package leaflet: Information for the patient
+
+Venclyxto 10 mg film-coated tablets Venclyxto 50 mg film-coated tablets Venclyxto 100 mg film-coated tablets
+
+venetoclax
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2191,6 +2470,8 @@ Venclyxto is used to treat adults with:
 CLL is a type of cancer affecting white blood cells called lymphocytes and the lymph nodes. In CLL, the lymphocytes multiply too quickly and live for too long, so that there are too many of them in the blood.
 
 AML is a type of cancer affecting white blood cells called myeloid cells. In AML, myeloid blood cells multiply and grow very quickly in bone marrow and blood, so that there are too many of them and not enough red blood cells in the blood.
+
+This medicine may be given in combination with other anti-cancer medicines. It is important that you also read the package leaflets for these other medicines. If you have any questions about these medicines, ask your doctor.
 
 ## How Venclyxto works
 
@@ -2324,9 +2605,9 @@ You will begin treatment with Venclyxto at a low-dose for 1 week. Your doctor wi
 - the dose will be increased to 100 mg (one 100 mg tablet) once a day for 7 days.
 - the dose will be increased to 200 mg (two 100 mg tablets) once a day for 7 days.
 - the dose will be increased to 400 mg (four 100 mg tablets) once a day for 7 days.
-- When you are receiving Venclyxto therapy alone, you will stay on the 400 mg daily dose, which is the standard dose, for as long as necessary.
+- When you are receiving Venclyxto therapy in combination with acalabrutinib, obinutuzumab or ibrutinib, you will receive the 400 mg daily dose, which is the standard dose, for approximately 10 months.
 - When you are receiving Venclyxto therapy in combination with rituximab, you will receive the 400 mg daily dose for 24 months.
-- When you are receiving Venclyxto therapy in combination with obinutuzumab, you will receive the 400 mg daily dose for approximately 10 months.
+- When you are receiving Venclyxto therapy alone, you will stay on the 400 mg daily dose for as long as necessary.
 
 Your dose may need to be adjusted for side effects. Your doctor will advise what your dose should be.
 
@@ -2420,6 +2701,7 @@ Very common (may affect more than 1 in 10 people)
 
 - pneumonia
 - upper respiratory tract infection - signs include runny nose, sore throat or cough
+- urinary tract infection
 - diarrhoea
 - feeling or being sick (nausea or vomiting)
 - constipation
@@ -2438,7 +2720,6 @@ Blood tests may also show
 ## Common (may affect up to 1 in 10 people)
 
 - severe infection in the blood (sepsis)
-- urinary tract infection
 - low number of white blood cells with fever (febrile neutropenia)
 
 Blood tests may also show:
@@ -2474,7 +2755,7 @@ Blood tests may also show
 - higher level of total bilirubin
 - low level of potassium in the blood
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - gall stones or gall bladder infection
 
@@ -2486,7 +2767,7 @@ If you get any side effects, talk to your doctor, pharmacist, or nurse. This inc
 
 Keep this medicine out of the sight and reach of children.
 
--Do not use this medicine after the expiry date which is stated on the blister label and carton after EXP.
+Do not use this medicine after the expiry date which is stated on the blister label and carton after EXP.
 
 This medicine does not require any special storage conditions.
 
@@ -2547,7 +2828,7 @@ Not all pack sizes may be marketed.
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-p. AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC 04011 Campoverde di Aprilia (Latina) Italy
+AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC 04011 Campoverde di Aprilia (Latina) Italy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2623,7 +2904,9 @@ Tel: +353 (0)1 4287900
 
 ## Ísland
 
-Vistor hf.
+Vistor
+
+Tel: +354 535 7000
 
 ## Lietuva
 
@@ -2649,7 +2932,7 @@ Tel: +36 1 455 8600
 
 V.J.Salomone Pharma Limited
 
-Tel: +356 22983201
+Tel: +356 21220174
 
 ## Nederland
 
@@ -2689,17 +2972,15 @@ Tel: +40 21 529 30 35
 
 ## Slovenija
 
-AbbVie Biofarmacevtska družba d.o.o.
-
-Tel: +386 (1)32 08 060
+AbbVie Biofarmacevtska družba d.o.o. Tel: +386 (1)32 08 060
 
 ## Slovenská republika
 
 AbbVie s.r.o.
 
-Tel: +354 535 7000
-
 Tel: +421 2 5050 0777
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -2707,23 +2988,11 @@ AbbVie S.r.l.
 
 Tel: +39 06 928921
 
-Suomi/Finland
-
-AbbVie Oy
-
-Puh/Tel:  +358 (0)10 2411 200
-
 ## Κύπρος
 
 Lifepharma (Z.A.M.) Ltd
 
 Τηλ: +357 22 34 74 40
-
-Sverige AbbVie AB
-
-Tel:  +46 (0)8 684 44 600
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2740,3 +3009,15 @@ Detailed information on this medicine is available on the European Medicines Age
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
 To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
+
+## Suomi/Finland
+
+AbbVie Oy
+
+Puh/Tel:  +358 (0)10 2411 200
+
+## Sverige
+
+AbbVie AB
+
+Tel:  +46 (0)8 684 44 600

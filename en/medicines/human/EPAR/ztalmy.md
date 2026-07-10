@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-01 15:10:00
+document_datetime: 2026-07-09 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ztalmy.html
 document_name: ztalmy.html
 version: success
-processing_time: 0.1096027
-conversion_datetime: 2026-07-04 12:57:58.187788
+processing_time: 0.117656
+conversion_datetime: 2026-07-10 22:34:34.749342
 docling_version:
   docling-serve: 1.26.0
   docling-jobkit: 2.0.0
-  docling: 2.109.0
+  docling: 2.111.0
   docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -108,7 +108,7 @@ English (EN) (103.91 KB - PDF)
 
 [View](/en/documents/overview/ztalmy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-859)
+[Other languages (22)](#file-language-dropdown-468)
 
 български (BG) (142.15 KB - PDF)
 
@@ -244,9 +244,9 @@ svenska (SV) (117.42 KB - PDF)
 
 Ztalmy : EPAR - Risk management plan
 
-English (EN) (1.36 MB - PDF)
+English (EN) (996.83 KB - PDF)
 
-**First published:** 31/07/2023 **Last updated:** 27/02/2026
+**First published:** 31/07/2023 **Last updated:** 09/07/2026
 
 [View](/en/documents/rmp-summary/ztalmy-epar-risk-management-plan_en.pdf)
 
@@ -260,7 +260,7 @@ English (EN) (1.06 MB - PDF)
 
 [View](/en/documents/product-information/ztalmy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (1.14 MB - PDF)
 
@@ -433,7 +433,7 @@ English (EN) (44.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ztalmy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-853)
+[Other languages (24)](#file-language-dropdown-915)
 
 български (BG) (67.15 KB - PDF)
 
@@ -616,7 +616,7 @@ Ztalmy is indicated for the adjunctive treatment of epileptic seizures associate
 - **Marketing authorisation issued**
     - 26/07/2023
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -628,9 +628,9 @@ Collapse section
 
 Ztalmy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (189.17 KB - PDF)
+English (EN) (145.29 KB - PDF)
 
-**First published:** 02/06/2025 **Last updated:** 01/07/2026
+**First published:** 02/06/2025 **Last updated:** 09/07/2026
 
 [View](/en/documents/procedural-steps-after/ztalmy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -688,6 +688,6 @@ English (EN) (128.64 KB - PDF)
 
 **This page was last updated on**
 
-01/07/2026
+09/07/2026
 
 ## Share this page

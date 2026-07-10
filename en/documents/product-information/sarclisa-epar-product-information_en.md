@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-09 14:52:13
-document_pages: 107
+document_datetime: 2026-07-07 16:37:42
+document_pages: 106
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sarclisa-epar-product-information_en.pdf
 document_name: sarclisa-epar-product-information_en.pdf
 version: success
-processing_time: 52.3698075
-conversion_datetime: 2026-06-13 20:15:30.729326
+processing_time: 44.1925788
+conversion_datetime: 2026-07-10 22:55:02.434508
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -318,59 +318,59 @@ Table 5: Adverse reactions reported in patients with multiple myeloma treated wi
 | System organ class Preferred term                                     | Adverse reaction                  | Frequency   | Incidence (N = 244)   | Incidence (N = 244)   |
 |-----------------------------------------------------------------------|-----------------------------------|-------------|-----------------------|-----------------------|
 |                                                                       |                                   |             | Any Grade             | Grade ≥ 3             |
-| Infections and infestations                                           | Pneumonia a b                     | Very common | 34.8%                 | 27.9%                 |
-| Infections and infestations                                           | Upper respiratory tract infection | Very common | 40.2%                 | 3.3%                  |
-| Infections and infestations                                           | Bronchitis                        | Very common | 20.9%                 | 3.7%                  |
-| Infections and infestations                                           | Herpes zoster                     | Common      | 2.5%                  | 0.4%                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Skin cancer                       | Common      | 4.9%                  | 1.6%                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Solid tumour (non-skin cancer)    | Common      | 2.9%                  | 1.6%                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Haematology malignancy            | Uncommon    | 0.4%                  | 0.4%                  |
-| Blood and lymphatic system disorders                                  | Neutropenia                       | Very common | 52.5%                 | 51.6%                 |
-| Blood and lymphatic system disorders                                  | Thrombocytopenia                  | Very common | 12.7%                 | 11.9%                 |
-| Blood and lymphatic system disorders                                  | Febrile neutropenia               | Common      | 7.4%                  | 7.4%                  |
+| Infections and infestations                                           | Pneumonia a b                     | Very common | 34.8 %                | 27.9 %                |
+| Infections and infestations                                           | Upper respiratory tract infection | Very common | 40.2 %                | 3.3 %                 |
+| Infections and infestations                                           | Bronchitis                        | Very common | 20.9 %                | 3.7 %                 |
+| Infections and infestations                                           | Herpes zoster                     | Common      | 2.5 %                 | 0.4 %                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Skin cancer                       | Common      | 4.9 %                 | 1.6 %                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Solid tumour (non-skin cancer)    | Common      | 2.9 %                 | 1.6 %                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) c | Haematology malignancy            | Uncommon    | 0.4 %                 | 0.4 %                 |
+| Blood and lymphatic system disorders                                  | Neutropenia                       | Very common | 52.5 %                | 51.6 %                |
+| Blood and lymphatic system disorders                                  | Thrombocytopenia                  | Very common | 12.7 %                | 11.9 %                |
+| Blood and lymphatic system disorders                                  | Febrile neutropenia               | Common      | 7.4 %                 | 7.4 %                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Anaemia                 | Common      | 6.1%   | 4.5%   |
-|-------------------------------------------------|-------------------------|-------------|--------|--------|
-|                                                 | Lymphopenia             | Not known   | _      | _      |
-| Immune system disorders                         | Anaphylactic reaction d | Uncommon    | 0.3%   | 0.3%   |
-| Metabolism and nutrition disorders              | Decreased appetite      | Very common | 11.5%  | 1.2%   |
-| Cardiac disorders                               | Atrial fibrillation     | Common      | 5.7%   | 2.5%   |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea                | Very common | 25.8%  | 5.7%   |
-| Gastrointestinal disorders                      | Diarrhoea               | Very common | 34.0%  | 2.5%   |
-| Gastrointestinal disorders                      | Nausea                  | Very common | 22.1%  | 0%     |
-| Gastrointestinal disorders                      | Vomiting                | Very common | 14.8%  | 0.8%   |
-| Investigations                                  | Weight decreased        | Common      | 4.9%   | 0%     |
-| Injury, poisoning and procedural complications  | Infusion reaction b     | Very common | 39.3%  | 2.0%   |
+|                                                 | Anaemia                 | Common      | 6.1 %   | 4.5 %   |
+|-------------------------------------------------|-------------------------|-------------|---------|---------|
+|                                                 | Lymphopenia             | Not known   | _       | _       |
+| Immune system disorders                         | Anaphylactic reaction d | Uncommon    | 0.3 %   | 0.3 %   |
+| Metabolism and nutrition disorders              | Decreased appetite      | Very common | 11.5 %  | 1.2 %   |
+| Cardiac disorders                               | Atrial fibrillation     | Common      | 5.7 %   | 2.5 %   |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea                | Very common | 25.8 %  | 5.7 %   |
+| Gastrointestinal disorders                      | Diarrhoea               | Very common | 34.0 %  | 2.5 %   |
+| Gastrointestinal disorders                      | Nausea                  | Very common | 22.1 %  | 0 %     |
+| Gastrointestinal disorders                      | Vomiting                | Very common | 14.8 %  | 0.8 %   |
+| Investigations                                  | Weight decreased        | Common      | 4.9 %   | 0 %     |
+| Injury, poisoning and procedural complications  | Infusion reaction b     | Very common | 39.3 %  | 2.0 %   |
 
 Table 6 a : Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with carfilzomib and dexamethasone
 
 | System organ class Preferred term                                     | Adverse reaction                  | Frequency   | Incidence (N = 177)   | Incidence (N = 177)   |
 |-----------------------------------------------------------------------|-----------------------------------|-------------|-----------------------|-----------------------|
 |                                                                       |                                   |             | Any Grade             | Grade ≥ 3             |
-| Infections and infestations                                           | Pneumonia b c                     | Very common | 28.8%                 | 20.9%                 |
-| Infections and infestations                                           | Upper respiratory tract infection | Very common | 36.2%                 | 3.4%                  |
-| Infections and infestations                                           | Bronchitis                        | Very common | 22.6%                 | 2.3%                  |
-| Infections and infestations                                           | Herpes zoster                     | Common      | 2.3%                  | 0.6%                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) d | Skin cancers                      | Common      | 7.3%                  | 1.7%                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) d | Solid tumours (non-skin cancers)  | Common      | 4.0%                  | 3.4%                  |
-| Blood and lymphatic system disorders                                  | Anaemia                           | Common      | 5.1%                  | 4.5%                  |
-| Blood and lymphatic system disorders                                  | Neutropenia                       | Common      | 4.5%                  | 4.0%                  |
+| Infections and infestations                                           | Pneumonia b c                     | Very common | 28.8 %                | 20.9 %                |
+| Infections and infestations                                           | Upper respiratory tract infection | Very common | 36.2 %                | 3.4 %                 |
+| Infections and infestations                                           | Bronchitis                        | Very common | 22.6 %                | 2.3 %                 |
+| Infections and infestations                                           | Herpes zoster                     | Common      | 2.3 %                 | 0.6 %                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) d | Skin cancers                      | Common      | 7.3 %                 | 1.7 %                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) d | Solid tumours (non-skin cancers)  | Common      | 4.0 %                 | 3.4 %                 |
+| Blood and lymphatic system disorders                                  | Anaemia                           | Common      | 5.1 %                 | 4.5 %                 |
+| Blood and lymphatic system disorders                                  | Neutropenia                       | Common      | 4.5 %                 | 4.0 %                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Thrombocytopenia        | Common      | 2.8%   | 2.3%   |
-|------------------------------------------------------|-------------------------|-------------|--------|--------|
-|                                                      | Lymphopenia             | Not known   | _      | _      |
-| Immune system disorders                              | Anaphylactic reaction e | Uncommon    | 0.3%   | 0.3%   |
-| Vascular disorders                                   | Hypertension            | Very common | 36.7%  | 20.3%  |
-| Respiratory, thoracic and mediastinal                | Dyspnoea                | Very common | 27.7%  | 5.1%   |
-| disorders                                            | Cough                   | Very common | 19.8%  | 0%     |
-| Gastrointestinal disorders                           | Diarrhoea               | Very common | 36.2%  | 2.8%   |
-| Gastrointestinal disorders                           | Vomiting                | Very common | 15.3%  | 1.1%   |
-| General disorders and administration site conditions | Fatigue                 | Very common | 28.2%  | 3.4%   |
-| Injury, poisoning and procedural complications       | Infusion reaction c     | Very common | 45.8%  | 0.6%   |
+|                                                      | Thrombocytopenia        | Common      | 2.8 %   | 2.3 %   |
+|------------------------------------------------------|-------------------------|-------------|---------|---------|
+|                                                      | Lymphopenia             | Not known   | _       | _       |
+| Immune system disorders                              | Anaphylactic reaction e | Uncommon    | 0.3 %   | 0.3 %   |
+| Vascular disorders                                   | Hypertension            | Very common | 36.7 %  | 20.3 %  |
+| Respiratory, thoracic and mediastinal                | Dyspnoea                | Very common | 27.7 %  | 5.1 %   |
+| disorders                                            | Cough                   | Very common | 19.8 %  | 0 %     |
+| Gastrointestinal disorders                           | Diarrhoea               | Very common | 36.2 %  | 2.8 %   |
+| Gastrointestinal disorders                           | Vomiting                | Very common | 15.3 %  | 1.1 %   |
+| General disorders and administration site conditions | Fatigue                 | Very common | 28.2 %  | 3.4 %   |
+| Injury, poisoning and procedural complications       | Infusion reaction c     | Very common | 45.8 %  | 0.6 %   |
 
 Table 7: Adverse reactions reported in patients with newly diagnosed multiple myeloma, transplant ineligible, treated with isatuximab in combination with bortezomib, lenalidomide, and dexamethasone
 
@@ -590,22 +590,22 @@ Efficacy results are presented in Table 13 and Kaplan-Meier curves for PFS and O
 
 <div style=\"page-break-after: always\"></div>
 
-| Endpoint                                                            | Isatuximab + pomalidomide + dexamethasone N = 154   | Pomalidomide + dexamethasone N = 153   |
-|---------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------|
-| Progression-Free Survival a b                                       |                                                     |                                        |
-| Median (months) [95 %CI]                                            | 11.53 [8.936-13.897]                                | 6.47 [4.468-8.279]                     |
-| Hazard ratio c [95 %CI]                                             | 0.596 [0.436-0.814]                                 | 0.596 [0.436-0.814]                    |
-| p-value (stratified log-rank test) c                                | 0.0010                                              | 0.0010                                 |
-| Overall Response Rate d Responders (sCR+CR+VGPR+PR) n(%) [95 %CI] e | 93 (60.4) [0.5220-0.6817]                           | 54 (35.3) [0.2775-0.4342]              |
-| Odds ratio vs comparator [95% exact CI]                             | 2.795 [1.715-4.562]                                 | 2.795 [1.715-4.562]                    |
-| p-value (stratified Cochran- Mantel-Haenszel) c                     | < 0.0001                                            | < 0.0001                               |
-| Stringent Complete Response (sCR) + Complete Response (CR) n(%)     | 7 (4.5)                                             | 3 (2.0)                                |
-| Very Good Partial Response (VGPR) n(%)                              | 42 (27.3)                                           | 10 (6.5)                               |
-| Partial Response (PR) n(%)                                          | 44 (28.6)                                           | 41 (26.8)                              |
-| VGPRor better n(%) [95 %CI] e                                       | 49 (31.8) [0.2455-0.3980]                           | 13 (8.5) [0.0460-0.1409]               |
-| Odds ratio vs comparator [95% exact CI]                             | 5.026 [2.514-10.586]                                | 5.026 [2.514-10.586]                   |
-| p-value (stratified Cochran-Mantel Haenszel) c                      | < 0.0001                                            | < 0.0001                               |
-| Duration of Response f * Median in months [95 %CI] g                | 13.27 [10.612-NR]                                   | 11.07 [8.542-NR]                       |
+| Endpoint                                                             | Isatuximab + pomalidomide + dexamethasone N = 154   | Pomalidomide + dexamethasone N = 153   |
+|----------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------|
+| Progression-Free Survival a b                                        |                                                     |                                        |
+| Median (months) [95 % CI]                                            | 11.53 [8.936-13.897]                                | 6.47 [4.468-8.279]                     |
+| Hazard ratio c [95 % CI]                                             | 0.596 [0.436-0.814]                                 | 0.596 [0.436-0.814]                    |
+| p-value (stratified log-rank test) c                                 | 0.0010                                              | 0.0010                                 |
+| Overall Response Rate d Responders (sCR+CR+VGPR+PR) n(%) [95 % CI] e | 93 (60.4) [0.5220-0.6817]                           | 54 (35.3) [0.2775-0.4342]              |
+| Odds ratio vs comparator [95 % exact CI]                             | 2.795 [1.715-4.562]                                 | 2.795 [1.715-4.562]                    |
+| p-value (stratified Cochran- Mantel-Haenszel) c                      | < 0.0001                                            | < 0.0001                               |
+| Stringent Complete Response (sCR) + Complete Response (CR) n(%)      | 7 (4.5)                                             | 3 (2.0)                                |
+| Very Good Partial Response (VGPR) n(%)                               | 42 (27.3)                                           | 10 (6.5)                               |
+| Partial Response (PR) n(%)                                           | 44 (28.6)                                           | 41 (26.8)                              |
+| VGPR or better n(%) [95 % CI] e                                      | 49 (31.8) [0.2455-0.3980]                           | 13 (8.5) [0.0460-0.1409]               |
+| Odds ratio vs comparator [95 % exact CI]                             | 5.026 [2.514-10.586]                                | 5.026 [2.514-10.586]                   |
+| p-value (stratified Cochran-Mantel Haenszel) c                       | < 0.0001                                            | < 0.0001                               |
+| Duration of Response f * Median in months [95 % CI] g                | 13.27 [10.612-NR]                                   | 11.07 [8.542-NR]                       |
 
 a  PFS results were assessed by an Independent Response Committee based on central laboratory data for Mprotein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
 
@@ -659,27 +659,27 @@ Efficacy results are presented in Table 14 and Kaplan-Meier curves for PFS and O
 
 Table 14: Efficacy of isatuximab in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
-| Endpoint                                                                                                       | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
-| Progression-Free Survival a Median (months) [95 %CI] Hazard ratio b [99 %CI] b                                 | NR [NR -NR]                                        | 19.15 [15.77-NR]                      |
-| p-value (Stratified Log-Rank test)                                                                             | 0.531 [0.318-0.889] 0.0013                         | 0.531 [0.318-0.889] 0.0013            |
-| Overall Response Rate c Responders (sCR+CR+VGPR+PR) [95 %CI] d p-value (stratified Cochran-Mantel- Haenszel) b | 86.6% [0.8071-0.9122]                              | 82.9% [0.7509-0.8911]                 |
-|                                                                                                                | 0.3859                                             | 0.3859                                |
-| Complete Response (CR)                                                                                         | 39.7%                                              | 27.6%                                 |
-| Very Good Partial Response (VGPR)                                                                              | 33.0%                                              | 28.5%                                 |
-| Partial Response (PR)                                                                                          | 14.0%                                              | 26.8%                                 |
-| VGPRor better (sCR+CR+VGPR) [95 %CI] d p-value (stratified Cochran- b e                                        | 72.6% [0.6547-0.7901]                              | 56.1% [0.4687 -0.6503]                |
-| Mantel-Haenszel)                                                                                               | 0.0021                                             | 0.0021                                |
-| CR f [95 %CI] d                                                                                                | 39.7% [0.3244-0.4723]                              | 27.6% [0.1996 to 0.3643]              |
+| Endpoint                                                                                                        | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
+| Progression-Free Survival a Median (months) [95 % CI] Hazard ratio b [99 % CI] b                                | NR [NR -NR]                                        | 19.15 [15.77-NR]                      |
+| p-value (Stratified Log-Rank test)                                                                              | 0.531 [0.318-0.889] 0.0013                         | 0.531 [0.318-0.889] 0.0013            |
+| Overall Response Rate c Responders (sCR+CR+VGPR+PR) [95 % CI] d p-value (stratified Cochran-Mantel- Haenszel) b | 86.6 % [0.8071-0.9122]                             | 82.9 % [0.7509-0.8911]                |
+|                                                                                                                 | 0.3859                                             | 0.3859                                |
+| Complete Response (CR)                                                                                          | 39.7 %                                             | 27.6 %                                |
+| Very Good Partial Response (VGPR)                                                                               | 33.0 %                                             | 28.5 %                                |
+| Partial Response (PR)                                                                                           | 14.0 %                                             | 26.8 %                                |
+| VGPR or better (sCR+CR+VGPR) [95 % CI] d p-value (stratified Cochran- b e                                       | 72.6 % [0.6547-0.7901]                             | 56.1 % [0.4687 -0.6503]               |
+| Mantel-Haenszel)                                                                                                | 0.0021                                             | 0.0021                                |
+| CR f [95 % CI] d                                                                                                | 39.7 % [0.3244-0.4723]                             | 27.6 % [0.1996 to 0.3643]             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Endpoint                                                            | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
-|---------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
-| Minimal Residual Disease negative rate g [95 %CI] d                 | 29.6% [0.2303-0.3688]                              | 13.0% [0.0762-0.2026]                 |
-| p-value (stratified Cochran- Mantel-Haenszel) b e                   | 0.0008                                             | 0.0008                                |
-| Duration of Response h * (PR or better) Median in months [95 %CI] i | NR [NR-NR]                                         | NR [14.752-NR]                        |
-| Hazard ratio b [95 %CI]                                             | 0.425 [0.269-0.672]                                | 0.425 [0.269-0.672]                   |
+| Endpoint                                                             | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
+|----------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
+| Minimal Residual Disease negative rate g [95 % CI] d                 | 29.6 % [0.2303-0.3688]                             | 13.0 % [0.0762-0.2026]                |
+| p-value (stratified Cochran- Mantel-Haenszel) b e                    | 0.0008                                             | 0.0008                                |
+| Duration of Response h * (PR or better) Median in months [95 % CI] i | NR [NR-NR]                                         | NR [14.752-NR]                        |
+| Hazard ratio b [95 % CI]                                             | 0.425 [0.269-0.672]                                | 0.425 [0.269-0.672]                   |
 
 a  PFS results were assessed by an Independent Response Committee based on central laboratory data for Mprotein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
 
@@ -1664,22 +1664,22 @@ Efficacy results are presented in Table 12 and Kaplan-Meier curves for PFS and O
 
 Table 12: Efficacy of isatuximab in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
-| Endpoint                                                            | Isatuximab + pomalidomide + dexamethasone N = 154   | Pomalidomide + dexamethasone N = 153   |
-|---------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------|
-| Progression-Free Survival a b                                       |                                                     |                                        |
-| Median (months) [95 %CI]                                            | 11.53 [8.936-13.897]                                | 6.47 [4.468-8.279]                     |
-| Hazard ratio c [95 %CI]                                             | 0.596 [0.436-0.814]                                 | 0.596 [0.436-0.814]                    |
-| p-value (stratified log-rank test) c                                | 0.0010                                              | 0.0010                                 |
-| Overall Response Rate d Responders (sCR+CR+VGPR+PR) n(%) [95 %CI] e | 93 (60.4) [0.5220-0.6817]                           | 54 (35.3) [0.2775-0.4342]              |
-| Odds ratio vs comparator [95% exact CI]                             | 2.795 [1.715-4.562]                                 | 2.795 [1.715-4.562]                    |
-| p-value (stratified Cochran- Mantel-Haenszel) c                     | < 0.0001                                            | < 0.0001                               |
-| Stringent Complete Response (sCR) + Complete Response (CR) n(%)     | 7 (4.5)                                             | 3 (2.0)                                |
-| Very Good Partial Response (VGPR) n(%)                              | 42 (27.3)                                           | 10 (6.5)                               |
-| Partial Response (PR) n(%)                                          | 44 (28.6)                                           | 41 (26.8)                              |
-| VGPRor better n(%) [95 %CI] e                                       | 49 (31.8) [0.2455-0.3980]                           | 13 (8.5) [0.0460-0.1409]               |
-| Odds ratio vs comparator [95% exact CI]                             | 5.026 [2.514-10.586]                                | 5.026 [2.514-10.586]                   |
-| p-value (stratified Cochran-Mantel Haenszel) c                      | < 0.0001                                            | < 0.0001                               |
-| Duration of Response f * Median in months [95 %CI] g                | 13.27 [10.612-NR]                                   | 11.07 [8.542-NR]                       |
+| Endpoint                                                             | Isatuximab + pomalidomide + dexamethasone N = 154   | Pomalidomide + dexamethasone N = 153   |
+|----------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------|
+| Progression-Free Survival a b                                        |                                                     |                                        |
+| Median (months) [95 % CI]                                            | 11.53 [8.936-13.897]                                | 6.47 [4.468-8.279]                     |
+| Hazard ratio c [95 % CI]                                             | 0.596 [0.436-0.814]                                 | 0.596 [0.436-0.814]                    |
+| p-value (stratified log-rank test) c                                 | 0.0010                                              | 0.0010                                 |
+| Overall Response Rate d Responders (sCR+CR+VGPR+PR) n(%) [95 % CI] e | 93 (60.4) [0.5220-0.6817]                           | 54 (35.3) [0.2775-0.4342]              |
+| Odds ratio vs comparator [95 % exact CI]                             | 2.795 [1.715-4.562]                                 | 2.795 [1.715-4.562]                    |
+| p-value (stratified Cochran- Mantel-Haenszel) c                      | < 0.0001                                            | < 0.0001                               |
+| Stringent Complete Response (sCR) + Complete Response (CR) n(%)      | 7 (4.5)                                             | 3 (2.0)                                |
+| Very Good Partial Response (VGPR) n(%)                               | 42 (27.3)                                           | 10 (6.5)                               |
+| Partial Response (PR) n(%)                                           | 44 (28.6)                                           | 41 (26.8)                              |
+| VGPR or better n(%) [95 % CI] e                                      | 49 (31.8) [0.2455-0.3980]                           | 13 (8.5) [0.0460-0.1409]               |
+| Odds ratio vs comparator [95 % exact CI]                             | 5.026 [2.514-10.586]                                | 5.026 [2.514-10.586]                   |
+| p-value (stratified Cochran-Mantel Haenszel) c                       | < 0.0001                                            | < 0.0001                               |
+| Duration of Response f * Median in months [95 % CI] g                | 13.27 [10.612-NR]                                   | 11.07 [8.542-NR]                       |
 
 a  PFS results were assessed by an Independent Response Committee based on central laboratory data for Mprotein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
 
@@ -1737,27 +1737,27 @@ Efficacy results are presented in Table 13 and Kaplan-Meier curves for PFS and O
 
 Table 13: Efficacy of isatuximab in combination with carfilzomib and dexamethasone versus carfilzomib and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
-| Endpoint                                                                                                       | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
-| Progression-Free Survival a Median (months) [95 %CI] Hazard ratio b [99 %CI] b                                 | NR [NR -NR]                                        | 19.15 [15.77-NR]                      |
-| p-value (Stratified Log-Rank test)                                                                             | 0.531 [0.318-0.889] 0.0013                         | 0.531 [0.318-0.889] 0.0013            |
-| Overall Response Rate c Responders (sCR+CR+VGPR+PR) [95 %CI] d p-value (stratified Cochran-Mantel- Haenszel) b | 86.6% [0.8071-0.9122]                              | 82.9% [0.7509-0.8911]                 |
-|                                                                                                                | 0.3859                                             | 0.3859                                |
-| Complete Response (CR)                                                                                         | 39.7%                                              | 27.6%                                 |
-| Very Good Partial Response (VGPR)                                                                              | 33.0%                                              | 28.5%                                 |
-| Partial Response (PR)                                                                                          | 14.0%                                              | 26.8%                                 |
-| VGPRor better (sCR+CR+VGPR) [95 %CI] d p-value (stratified Cochran- b e                                        | 72.6% [0.6547-0.7901]                              | 56.1% [0.4687 -0.6503]                |
-| Mantel-Haenszel)                                                                                               | 0.0021                                             | 0.0021                                |
-| CR f [95 %CI] d                                                                                                | 39.7% [0.3244-0.4723]                              | 27.6% [0.1996 to 0.3643]              |
+| Endpoint                                                                                                        | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
+| Progression-Free Survival a Median (months) [95 % CI] Hazard ratio b [99 % CI] b                                | NR [NR -NR]                                        | 19.15 [15.77-NR]                      |
+| p-value (Stratified Log-Rank test)                                                                              | 0.531 [0.318-0.889] 0.0013                         | 0.531 [0.318-0.889] 0.0013            |
+| Overall Response Rate c Responders (sCR+CR+VGPR+PR) [95 % CI] d p-value (stratified Cochran-Mantel- Haenszel) b | 86.6 % [0.8071-0.9122]                             | 82.9 % [0.7509-0.8911]                |
+|                                                                                                                 | 0.3859                                             | 0.3859                                |
+| Complete Response (CR)                                                                                          | 39.7 %                                             | 27.6 %                                |
+| Very Good Partial Response (VGPR)                                                                               | 33.0 %                                             | 28.5 %                                |
+| Partial Response (PR)                                                                                           | 14.0 %                                             | 26.8 %                                |
+| VGPR or better (sCR+CR+VGPR) [95 % CI] d p-value (stratified Cochran- b e                                       | 72.6 % [0.6547-0.7901]                             | 56.1 % [0.4687 -0.6503]               |
+| Mantel-Haenszel)                                                                                                | 0.0021                                             | 0.0021                                |
+| CR f [95 % CI] d                                                                                                | 39.7 % [0.3244-0.4723]                             | 27.6 % [0.1996 to 0.3643]             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Endpoint                                                            | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
-|---------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
-| Minimal Residual Disease negative rate g [95 %CI] d                 | 29.6% [0.2303-0.3688]                              | 13.0% [0.0762-0.2026]                 |
-| p-value (stratified Cochran- Mantel-Haenszel) b e                   | 0.0008                                             | 0.0008                                |
-| Duration of Response h * (PR or better) Median in months [95 %CI] i | NR [NR-NR]                                         | NR [14.752-NR]                        |
-| Hazard ratio b [95 %CI]                                             | 0.425 [0.269-0.672]                                | 0.425 [0.269-0.672]                   |
+| Endpoint                                                             | Isatuximab + carfilzomib + dexamethasone N = 179   | Carfilzomib + dexamethasone N = 123   |
+|----------------------------------------------------------------------|----------------------------------------------------|---------------------------------------|
+| Minimal Residual Disease negative rate g [95 % CI] d                 | 29.6 % [0.2303-0.3688]                             | 13.0 % [0.0762-0.2026]                |
+| p-value (stratified Cochran- Mantel-Haenszel) b e                    | 0.0008                                             | 0.0008                                |
+| Duration of Response h * (PR or better) Median in months [95 % CI] i | NR [NR-NR]                                         | NR [14.752-NR]                        |
+| Hazard ratio b [95 % CI]                                             | 0.425 [0.269-0.672]                                | 0.425 [0.269-0.672]                   |
 
 a  PFS results were assessed by an Independent Response Committee based on central laboratory data for Mprotein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
 
@@ -2066,7 +2066,7 @@ CirCLIQ On-Body Delivery System (OBDS) is packaged separately from Sarclisa 1 40
 
 Sarclisa should be administered by a healthcare professional.
 
-- To prevent medication errors, check Sarclisa subcutaneous vial label to ensure it is the correct medication for subcutaneous use (vial with green cap). Do not administer Sarclisa 1 400 mg solution for subcutaneous injection intravenously.
+· To prevent medication errors, check Sarclisa subcutaneous vial label to ensure it is the correct medication for subcutaneous use (vial with green cap). Do not administer Sarclisa 1 400 mg solution for subcutaneous injection intravenously.
 
 Sarclisa subcutaneous is ready to use.
 
@@ -2084,7 +2084,7 @@ OR
 
 - 20 mL syringe and infusion set for manual administration
 
-## Preparation with CirCLIQ On-Body Delivery System
+Preparation with CirCLIQ On-Body Delivery System
 
 - Refer to the Instructions for Use for CirCLIQ OBDS provided with the device for full preparation and administration information.
 - Once the vial is punctured, the injection with CirCLIQ OBDS On-Body Injector should be performed as soon as possible. CirCLIQ On-Body Injector should be used at temperature 18°C to 28°C and ambient light. If the injection is not completed within 4 hours, discard the vial and the On-Body Delivery System.
@@ -2093,12 +2093,12 @@ OR
 
 1. Before you begin, collect your supplies:
 - The syringe must be a 20 mL polypropylene syringe with Luer-fitting connector.
-- The transfer needle must be made of 18G stainless steel with Luer-fitting connector.
+- The transfer needle must be made of 18G stainless steel, with 5-micron filter and Luer-fitting connector.
 - The subcutaneous infusion set must have 23G stainless steel needle and tubing up to 30 cm length made of polyethylene, or polyvinyl chloride, with a Luer-fitting connector.
 
-Suitability of above materials for injection of Sarclisa subcutaneous was demonstrated in compatibility testing and clinical studies.
-
 <div style=\"page-break-after: always\"></div>
+
+Suitability of above materials for injection of Sarclisa subcutaneous was demonstrated in compatibility testing and clinical studies.
 
 2. Check the expiration date
 3. Remove green vial cap and wipe vial rubber stopper with an alcohol wipe and allow to air dry.
@@ -2123,7 +2123,7 @@ Note: To avoid needle clogging, attach the subcutaneous infusion set to the syri
 
 ## Administration with CirCLIQ On-Body Delivery System
 
-- Refer to the Instructions for Use for CirCLIQ OBDS provided with the device for full preparation and administration information.
+· Refer to the Instructions for Use for CirCLIQ OBDS provided with the device for full preparation and administration information.
 
 ## Administration with syringe and infusion set for manual administration
 
@@ -2371,12 +2371,13 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+PC
 
-PC SN NN
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2388,7 +2389,8 @@ SARCLISA 20 mg/mL concentrate for solution for infusion isatuximab Intravenous u
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2402,7 +2404,8 @@ Lot
 
 500 mg/25 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2496,16 +2499,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 SARCLISA 1 400 mg solution for injection isatuximab subcutaneous use only
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2517,8 +2520,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 400 mg/10 mL
 
@@ -3162,7 +3165,9 @@ The treatment cycles last 42 days (6 weeks) from cycle 1 to 4 and lasts 28 days 
 - From cycle 2 to 4: Sarclisa is given every 2 weeks - on days 1, 15, and 29,
 - From cycle 5 to 17: Sarclisa is given every 2 weeks - on days 1 and 15,
 - From cycle 18 and onwards: Sarclisa is given every 4 weeks - on day 1.
-- -For patients who can receive their own stem cells (autologous bone marrow transplant): The treatment cycles last 42 days (6 weeks) from cycle 1 to 3.
+
+-For patients who can receive their own stem cells (autologous bone marrow transplant): The treatment cycles last 42 days (6 weeks) from cycle 1 to 3.
+
 - In cycle 1: Sarclisa is given on days 1, 8, 15, 22, and 29,
 - From cycle 2 to 3: Sarclisa is given every 2 weeks - on days 1, 15, and 29.
 
@@ -3534,7 +3539,7 @@ OR
 
 1. Before you begin, collect your supplies:
 - The syringe must be a 20 mL polypropylene syringe with Luer-fitting connector.
-- The transfer needle must be made of 18G stainless steel with Luer-fitting connector.
+- The transfer needle must be made of 18G stainless steel, with 5-micron filter and Luer-fitting connector.
 - The subcutaneous infusion set must have 23G stainless steel needle and tubing up to 30 cm length made of polyethylene, or polyvinyl chloride, with a Luer-fitting connector.
 
 Suitability of above materials for injection of Sarclisa subcutaneous was demonstrated in compatibility testing and clinical studies.
@@ -3542,9 +3547,10 @@ Suitability of above materials for injection of Sarclisa subcutaneous was demons
 2. Check the expiration date.
 3. Remove green vial cap and wipe vial rubber stopper with an alcohol wipe and allow to air dry.
 4. Attach the transfer needle and fill the syringe.
-- Using the transfer needle, withdraw the full content of the Sarclisa 1 400 mg solution for injection vial into a 20 mL compatible syringe. Note: if the syringe containing Sarclisa 1 400 mg solution for injection is not used immediately:
-5. o replace the transfer needle with a syringe closing cap. Label the syringe appropriately to include the drug name and route of administration per institutional standards.
-6. o store it for up to 4 hours at room temperature (15°C to 25°C) and ambient light, including the administration time. Discard after 4 hours, if not used.
+- Using the transfer needle, withdraw the full content of the Sarclisa 1 400 mg solution for injection vial into a 20 mL compatible syringe.
+5. Note: if the syringe containing Sarclisa 1 400 mg solution for injection is not used immediately:
+6. o replace the transfer needle with a syringe closing cap. Label the syringe appropriately to include the drug name and route of administration per institutional standards.
+7. o store it for up to 4 hours at room temperature (15°C to 25°C) and ambient light, including the administration time. Discard after 4 hours, if not used.
 5. Attach the subcutaneous infusion set to the syringe and set the dose.
 - Prime the syringe and subcutaneous infusion set and set the dose to 10 mL Note: To avoid needle clogging, attach the subcutaneous infusion set to the syringe immediately prior to injection.
 

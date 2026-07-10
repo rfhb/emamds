@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-06-28 13:53:40
+document_datetime: 2026-07-08 14:54:24
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mepsevii-epar-product-information_en.pdf
 document_name: mepsevii-epar-product-information_en.pdf
 version: success
-processing_time: 6.4533758
-conversion_datetime: 2025-12-28 09:39:38.024244
+processing_time: 6.3710858
+conversion_datetime: 2026-07-10 22:56:53.555282
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -256,7 +256,7 @@ Treatment with vestronidase alfa resulted in a rapid and sustained, significant 
 
 ## Growth
 
-At baseline, all 8 patients had impaired growth. The mean (SD) standing height z-score improved from baseline by +0.196 (0.30) at week 48. A non-significant trend toward increased growth velocity was observed after vestronidase alfa treatment, from a mean (SD) z-score of -2.59 (1.49) at baseline to --0.392 (2.10) post-baseline (p=0.27).
+At baseline, all 8 patients had impaired growth. The mean (SD) standing height z-score improved from baseline by +0.196 (0.30) at week 48. A non-significant trend toward increased growth velocity was observed after vestronidase alfa treatment, from a mean (SD) z-score of -2.59 (1.49) at baseline to -0.392 (2.10) post-baseline (p=0.27).
 
 ## Hepatomegaly
 
@@ -290,11 +290,9 @@ No excretion studies have been conducted in humans. Vestronidase alfa is not exp
 
 ## 5.3 Preclinical safety data
 
-Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single-dose toxicity in rats, repeated dose toxicity in MPS VII mice and juvenile
+Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single-dose toxicity in rats, repeated dose toxicity in MPS VII mice and juvenile monkeys, fertility and embryo-foetal development in rats or rabbits, and pre- and postnatal development in rats.
 
 <div style=\"page-break-after: always\"></div>
-
-monkeys, fertility and embryo-foetal development in rats or rabbits, and pre- and postnatal development in rats.
 
 Genotoxicity studies and carcinogenicity studies have not been performed with vestronidase alfa. Based on mechanism of action, rhGUS is not expected to be tumorigenic.
 
@@ -320,11 +318,7 @@ From a microbiological safety point of view, the diluted product should be used 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -336,11 +330,9 @@ Pack size: 1 vial containing 5 mL of concentrate for solution for infusion.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Each vial of Mepsevii is intended for single use only. Mepsevii must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique according to the steps described below. The diluted solution for infusion should be administered to patients using a low-protein binding
+Each vial of Mepsevii is intended for single use only. Mepsevii must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique according to the steps described below. The diluted solution for infusion should be administered to patients using a low-protein binding infusion bag and set (a non di (2-ethylhexyl) phthalate [DEHP] bag could be used) and the application of an infusion set equipped with an in-line, low-protein binding 0.2 μm filter is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-infusion bag and set (a non di (2-ethylhexyl) phthalate [DEHP] bag could be used) and the application of an infusion set equipped with an in-line, low-protein binding 0.2 μm filter is recommended.
 
 1. Determine the number of vials to be diluted based on the patient's actual weight and the recommended dose of 4 mg/kg, using the following calculations (a-b):
 - a. Total dose (mg) = Patient's weight (kg) x 4 mg/kg (recommended dose)
@@ -359,33 +351,33 @@ Table 2. Recommended infusion rate schedule by patient weight for administration
 
 | Patient weight range (kg)   | Total Mepsevii dose range (mg)   |   Total Mepsevii volume (rounded) (mL) |   Total number of Mepsevii vials |   Total infusion volume (infused over 4 hours) (mL) |   Infusion rate for 1 st hour (2.5%) (mL/h) |   Infusion rate for subsequent 3 hours (97.5%/3) (mL/h) |
 |-----------------------------|----------------------------------|----------------------------------------|----------------------------------|-----------------------------------------------------|---------------------------------------------|---------------------------------------------------------|
-| 3.5-5.9                     | 14-23.6                          |                                     10 |                                2 |                                                  20 |                                        0.5  |                                                    6.5  |
+| 3.5-5.9                     | 14-23.6                          |                                     10 |                                2 |                                                  20 |                                         0.5 |                                                     6.5 |
 | 6-8.4                       | 24-33.6                          |                                     15 |                                3 |                                                  30 |                                        0.75 |                                                    9.75 |
-| 8.5-10.9                    | 34-43.6                          |                                     20 |                                4 |                                                  40 |                                        1    |                                                   13    |
+| 8.5-10.9                    | 34-43.6                          |                                     20 |                                4 |                                                  40 |                                           1 |                                                      13 |
 | 11-13.4                     | 44-53.6                          |                                     25 |                                5 |                                                  50 |                                        1.25 |                                                   16.25 |
-| 13.5-15.9                   | 54-63.6                          |                                     30 |                                6 |                                                  60 |                                        1.5  |                                                   19.5  |
+| 13.5-15.9                   | 54-63.6                          |                                     30 |                                6 |                                                  60 |                                         1.5 |                                                    19.5 |
 | 16-18.4                     | 64-73.6                          |                                     35 |                                7 |                                                  70 |                                        1.75 |                                                   22.75 |
-| 18.5-20.9                   | 74-83.6                          |                                     40 |                                8 |                                                  80 |                                        2    |                                                   26    |
+| 18.5-20.9                   | 74-83.6                          |                                     40 |                                8 |                                                  80 |                                           2 |                                                      26 |
 | 21-23.4                     | 84-93.6                          |                                     45 |                                9 |                                                  90 |                                        2.25 |                                                   29.25 |
-| 23.5-25.9                   | 94-103.6                         |                                     50 |                               10 |                                                 100 |                                        2.5  |                                                   32.5  |
+| 23.5-25.9                   | 94-103.6                         |                                     50 |                               10 |                                                 100 |                                         2.5 |                                                    32.5 |
 | 26-28.4                     | 104-113.6                        |                                     55 |                               11 |                                                 110 |                                        2.75 |                                                   35.75 |
-| 28.5-30.9                   | 114-123.6                        |                                     60 |                               12 |                                                 120 |                                        3    |                                                   39    |
+| 28.5-30.9                   | 114-123.6                        |                                     60 |                               12 |                                                 120 |                                           3 |                                                      39 |
 | 31-33.4                     | 124-133.6                        |                                     65 |                               13 |                                                 130 |                                        3.25 |                                                   42.25 |
-| 33.5-35.9                   | 134-143.6                        |                                     70 |                               14 |                                                 140 |                                        3.5  |                                                   45.5  |
+| 33.5-35.9                   | 134-143.6                        |                                     70 |                               14 |                                                 140 |                                         3.5 |                                                    45.5 |
 | 36-38.4                     | 144-153.6                        |                                     75 |                               15 |                                                 150 |                                        3.75 |                                                   48.75 |
-| 38.5-40.9                   | 154-163.6                        |                                     80 |                               16 |                                                 160 |                                        4    |                                                   52    |
+| 38.5-40.9                   | 154-163.6                        |                                     80 |                               16 |                                                 160 |                                           4 |                                                      52 |
 | 41-43.4                     | 164-173.6                        |                                     85 |                               17 |                                                 170 |                                        4.25 |                                                   55.25 |
-| 43.5-45.9                   | 174-183.6                        |                                     90 |                               18 |                                                 180 |                                        4.5  |                                                   58.5  |
+| 43.5-45.9                   | 174-183.6                        |                                     90 |                               18 |                                                 180 |                                         4.5 |                                                    58.5 |
 | 46-48.4                     | 184-193.6                        |                                     95 |                               19 |                                                 190 |                                        4.75 |                                                   61.75 |
-| 48.5-50.9                   | 194-203.6                        |                                    100 |                               20 |                                                 200 |                                        5    |                                                   65    |
+| 48.5-50.9                   | 194-203.6                        |                                    100 |                               20 |                                                 200 |                                           5 |                                                      65 |
 | 51-53.4                     | 204-213.6                        |                                    105 |                               21 |                                                 210 |                                        5.25 |                                                   68.25 |
-| 53.5-55.9                   | 214-223.6                        |                                    110 |                               22 |                                                 220 |                                        5.5  |                                                   71.5  |
+| 53.5-55.9                   | 214-223.6                        |                                    110 |                               22 |                                                 220 |                                         5.5 |                                                    71.5 |
 | 56-58.4                     | 224-233.6                        |                                    115 |                               23 |                                                 230 |                                        5.75 |                                                   74.75 |
-| 58.5-60.9                   | 234-243.6                        |                                    120 |                               24 |                                                 240 |                                        6    |                                                   78    |
+| 58.5-60.9                   | 234-243.6                        |                                    120 |                               24 |                                                 240 |                                           6 |                                                      78 |
 | 61-63.4                     | 244-253.6                        |                                    125 |                               25 |                                                 250 |                                        6.25 |                                                   81.25 |
-| 63.5-65.9                   | 254-263.6                        |                                    130 |                               26 |                                                 260 |                                        6.5  |                                                   84.5  |
+| 63.5-65.9                   | 254-263.6                        |                                    130 |                               26 |                                                 260 |                                         6.5 |                                                    84.5 |
 | 66-68.4                     | 264-273.6                        |                                    135 |                               27 |                                                 270 |                                        6.75 |                                                   87.75 |
-| 68.5-70.9                   | 274-283.6                        |                                    140 |                               28 |                                                 280 |                                        7    |                                                   91    |
+| 68.5-70.9                   | 274-283.6                        |                                    140 |                               28 |                                                 280 |                                           7 |                                                      91 |
 
 ## Disposal
 
@@ -401,13 +393,17 @@ EU/1/18/1301/001
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 23 August 2018
 
 Date of latest renewal: 28 July 2023
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -451,6 +447,8 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorization holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
@@ -458,13 +456,11 @@ An updated RMP should be submitted:
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
-<div style=\"page-break-after: always\"></div>
-
 This being a marketing authorisation under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                       | Due date                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| In order to obtain long-term data on effectiveness and safety of treatment with Mepsevii and to characterise the entire mucopolysaccharidosis VII, including variability of clinical manifestation, progression and natural history, the MAHis requested to submit the results of a study based on adequate source of data deriving from a disease monitoring program of patients with mucopolysaccharidosis VII. | Reports to be submitted as part of the annual re- assessment |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                        | Due date                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| In order to obtain long-term data on effectiveness and safety of treatment with Mepsevii and to characterise the entire mucopolysaccharidosis VII, including variability of clinical manifestation, progression and natural history, the MAH is requested to submit the results of a study based on adequate source of data deriving from a disease monitoring program of patients with mucopolysaccharidosis VII. | Reports to be submitted as part of the annual re-assessment |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -580,8 +576,8 @@ NN
 
 Mepsevii 2 mg/mL sterile concentrate vestronidase alfa IV use after dilution
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For single use only.
 
@@ -594,8 +590,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg/5 mL
 
@@ -802,13 +798,19 @@ The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## BE, BG, CZ, DK, DE, EE, IE, EL, ES, HR, IT, CY, LV, LT, LU, HU, MT, NL, AT, PL, PT, RO, SI, SK, FI, SE, UK(NI)
+## BE, BG, CZ, DK, DE, EE, IE, EL, HR, IT, CY, LV, LT, LU, HU, MT, NL, AT, PL, PT, RO, SI, SK, FI, SE
 
 Ultragenyx Germany GmbH, DE
 
 Tel/Tél /Teл./Tlf/Τηλ/Puh/Sími : + 49 30 20179810
 
+## ES
+
+Ultragenyx Iberia, S.L., ES
+
 <div style=\"page-break-after: always\"></div>
+
+## Tel: +34 900 838 238
 
 ## FR
 
@@ -816,7 +818,7 @@ Ultragenyx France SAS, FR
 
 Tél: + 33 1 85 65 37 61 ou 0800 91 79 24 (numéro vert)
 
-## This leaflet was last revised in {Month YYYY}
+## This leaflet was last revised in {Month YYYY}.
 
 This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease, it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
 

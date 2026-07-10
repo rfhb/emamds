@@ -1,0 +1,65 @@
+---
+document_datetime: 2026-07-08 14:25:13
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/altuvoct-psusa-00011062-202508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
+document_name: altuvoct-psusa-00011062-202508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 0.790891
+conversion_datetime: 2026-07-10 22:50:42.96638
+docling_version:
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.111.0
+  docling-core: 2.86.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+26 March 2026 EMADOC-1700519818-3313862 Committee for Medicinal Products for Human Use (CHMP)
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+Active substance(s): efanesoctocog alfa Procedure No. PSUSA/00011062/202508 Period covered by the PSUR: 23 February 2025 to 22 August 2025
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Official address
+
+Domenico Scarlattilaan 6
+
+Address for visits and deliveries
+
+●
+
+1083 HS Amsterdam
+
+●
+
+The Netherlands
+
+Refer to www.ema.europa.eu/how-to-find-us
+
+Send us a question Telephone Go to www.ema.europa.eu/contact
+
++31 (0)88 781 6000        An agency of the European Union
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for efanesoctocog alfa, the scientific conclusions of PRAC are as follows:
+
+In view of available data on risk from the literature, spontaneous reports including in some cases a close temporal  relationship,  and  in  view  of  a  plausible  mechanism  of  action,  the  PRAC  considers  a  causal relationship  between  efanesoctocog  alfa  and  Factor  VIII  inhibition  is  at  least  a  reasonable  possibility. Accordingly, the PRAC concludes that the product information of products containing efanesoctocog alfa should be amended.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for efanesoctocog alfa the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing efanesoctocog alfa is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

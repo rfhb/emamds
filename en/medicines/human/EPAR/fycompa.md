@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-26 14:08:00
+document_datetime: 2026-07-10 13:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fycompa.html
 document_name: fycompa.html
 version: success
-processing_time: 0.1461236
-conversion_datetime: 2026-06-01 16:58:45.006948
+processing_time: 0.1965235
+conversion_datetime: 2026-07-13 12:35:21.854926
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Fycompa
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Fycompa](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-87477)
 - [More information on Fycompa](#related-medicines)
 - [Topics](#topics)
 
@@ -58,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Fycompa used?
+### How is Fycompa used?
 
 Fycompa is taken by mouth once a day at bedtime. Fycompa tablets can be taken with or without food and should not be chewed, crushed or split. Fycompa oral suspension can be taken with or without food and should always be taken in the same way (i.e. always with food or always without food).
 
@@ -66,11 +67,11 @@ For patients above 12 years of age, the recommended dose at the start of treatme
 
 Fycompa can only be obtained with a prescription. For more information about using Fycompa, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Fycompa work?
+### How does Fycompa work?
 
 The active substance in Fycompa, perampanel, is an anti-epileptic medicine. Epilepsy is caused by excessive electrical activity in the brain. Although the precise mechanism by which Fycompa works is not fully understood, it is thought to block the action of the neurotransmitter glutamate. Neurotransmitters are naturally-occurring chemicals in the nervous system that allow nerve cells to communicate with each other. Glutamate is the main stimulatory neurotransmitter in nerve cells that can trigger and maintain seizures. Therefore, by blocking glutamate's actions, Fycompa is thought to stop epileptic seizures from occurring.
 
-## What benefits of Fycompa have been shown in studies?
+### What benefits of Fycompa have been shown in studies?
 
 Three main studies involving a total of 1,491 patients aged 12 years and older showed that Fycompa was more effective than placebo (a dummy treatment) in reducing the frequency of partial seizures. In the first study, the percentage of patients who experienced a decrease in seizure frequency of at least 50% was 37.6% for patients taking 8 mg Fycompa and 36.1% for patients taking 12 mg Fycompa, compared with 26.4% of patients taking placebo. In the second study, 33.3% and 33.9% of patients taking 8 mg and 12 mg Fycompa respectively showed a decrease in seizure frequency of at least 50%, compared with 14.7% of patients taking placebo. The third study showed a significant decrease in seizure frequency only in patients taking 4 mg and 8 mg Fycompa but not in patients taking a dose of 2 mg.
 
@@ -78,21 +79,21 @@ A fourth study in 164 patients with generalised epilepsy of unknown cause also s
 
 Additional data indicate that Fycompa is as effective in younger children as in those above 12 years of age.
 
-## What are the risks associated with Fycompa?
+### What are the risks associated with Fycompa?
 
 The most common side effects with Fycompa (seen in more than 1 patient in 10) are dizziness and somnolence (sleepiness). For the full list of all side effects and restrictions with Fycompa, see the package leaflet.
 
-## Why is Fycompa authorised in the EU?
+### Why is Fycompa authorised in the EU?
 
 Studies showed that Fycompa, taken together with other anti-epileptic medicines, showed a consistent reduction in the frequency of epileptic fits and its side effects are manageable. The European Medicines Agency decided that Fycompa's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Fycompa?
+### What measures are being taken to ensure the safe and effective use of Fycompa?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Fycompa have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Fycompa are continuously monitored. Side effects reported with Fycompa are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Fycompa
+### Other information about Fycompa
 
 Fycompa received a marketing authorisation valid throughout the EU on 23 July 2012.
 
@@ -106,7 +107,7 @@ English (EN) (134.75 KB - PDF)
 
 [View](/en/documents/overview/fycompa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-594)
+[Other languages (22)](#file-language-dropdown-956)
 
 български (BG) (159.72 KB - PDF)
 
@@ -138,7 +139,7 @@ Deutsch (DE) (139.94 KB - PDF)
 
 [View](/de/documents/overview/fycompa-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (134.32 KB - PDF)
+eesti (ET) (134.32 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 13/01/2021
 
@@ -168,13 +169,13 @@ italiano (IT) (136.16 KB - PDF)
 
 [View](/it/documents/overview/fycompa-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (178.33 KB - PDF)
+latviešu (LV) (178.33 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 13/01/2021
 
 [View](/lv/documents/overview/fycompa-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (158.81 KB - PDF)
+lietuvių (LT) (158.81 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 13/01/2021
 
@@ -228,7 +229,7 @@ slovenščina (SL) (158.77 KB - PDF)
 
 [View](/sl/documents/overview/fycompa-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (135.12 KB - PDF)
+suomi (FI) (135.12 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 13/01/2021
 
@@ -258,7 +259,7 @@ English (EN) (735.19 KB - PDF)
 
 [View](/en/documents/product-information/fycompa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (900.56 KB - PDF)
 
@@ -290,7 +291,7 @@ Deutsch (DE) (806.94 KB - PDF)
 
 [View](/de/documents/product-information/fycompa-epar-product-information_de.pdf)
 
-eesti keel (ET) (813.45 KB - PDF)
+eesti (ET) (813.45 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
@@ -314,25 +315,19 @@ hrvatski (HR) (874.19 KB - PDF)
 
 [View](/hr/documents/product-information/fycompa-epar-product-information_hr.pdf)
 
-íslenska (IS) (482.66 KB - PDF)
-
-**First published:** 07/08/2012 **Last updated:** 26/05/2026
-
-[View](/is/documents/product-information/fycompa-epar-product-information_is.pdf)
-
 italiano (IT) (765.61 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/it/documents/product-information/fycompa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (617.24 KB - PDF)
+latviešu (LV) (617.24 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/lv/documents/product-information/fycompa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (818.32 KB - PDF)
+lietuvių (LT) (818.32 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
@@ -355,12 +350,6 @@ Nederlands (NL) (719.74 KB - PDF)
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/nl/documents/product-information/fycompa-epar-product-information_nl.pdf)
-
-norsk (NO) (512.96 KB - PDF)
-
-**First published:** 07/08/2012 **Last updated:** 26/05/2026
-
-[View](/no/documents/product-information/fycompa-epar-product-information_no.pdf)
 
 polski (PL) (892.74 KB - PDF)
 
@@ -392,7 +381,7 @@ slovenščina (SL) (836 KB - PDF)
 
 [View](/sl/documents/product-information/fycompa-epar-product-information_sl.pdf)
 
-Suomi (FI) (663.41 KB - PDF)
+suomi (FI) (663.41 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 26/05/2026
 
@@ -404,6 +393,18 @@ svenska (SV) (480.76 KB - PDF)
 
 [View](/sv/documents/product-information/fycompa-epar-product-information_sv.pdf)
 
+Íslenska (IS) (482.66 KB - PDF)
+
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
+
+[View](/is/documents/product-information/fycompa-epar-product-information_is.pdf)
+
+norsk (NO) (512.96 KB - PDF)
+
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
+
+[View](/no/documents/product-information/fycompa-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** PSUR/0000311160
 
 21/05/2026
@@ -412,7 +413,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -430,7 +432,7 @@ English (EN) (27.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-651)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (49.79 KB - PDF)
 
@@ -462,7 +464,7 @@ Deutsch (DE) (29.12 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (36.37 KB - PDF)
+eesti (ET) (36.37 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
@@ -486,25 +488,19 @@ hrvatski (HR) (38.96 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (30.19 KB - PDF)
-
-**First published:** 07/08/2012 **Last updated:** 29/09/2016
-
-[View](/is/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (32.82 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
 [View](/it/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.58 KB - PDF)
+latviešu (LV) (55.58 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
 [View](/lv/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (53.54 KB - PDF)
+lietuvių (LT) (53.54 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
@@ -527,12 +523,6 @@ Nederlands (NL) (51.58 KB - PDF)
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
 [View](/nl/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (33.39 KB - PDF)
-
-**First published:** 07/08/2012 **Last updated:** 29/09/2016
-
-[View](/no/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (43.13 KB - PDF)
 
@@ -564,7 +554,7 @@ slovenščina (SL) (41.31 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.91 KB - PDF)
+suomi (FI) (30.91 KB - PDF)
 
 **First published:** 07/08/2012 **Last updated:** 29/09/2016
 
@@ -576,27 +566,30 @@ svenska (SV) (28.69 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (30.19 KB - PDF)
+
+**First published:** 07/08/2012 **Last updated:** 29/09/2016
+
+[View](/is/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (33.39 KB - PDF)
+
+**First published:** 07/08/2012 **Last updated:** 29/09/2016
+
+[View](/no/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Fycompa
-
-Active substance
-
-perampanel
-
-International non-proprietary name (INN) or common name
-
-perampanel
-
-Therapeutic area (MeSH)
-
-Epilepsies, Partial
-
-Anatomical therapeutic chemical (ATC) code
-
-N03AX22
+- **Name of medicine**
+    - Fycompa
+- **Active substance**
+    - perampanel
+- **International non-proprietary name (INN) or common name**
+    - perampanel
+- **Therapeutic area (MeSH)**
+    - Epilepsies, Partial
+- **Anatomical therapeutic chemical (ATC) code**
+    - N03AX22
 
 ### Pharmacotherapeutic group
 
@@ -611,27 +604,16 @@ Fycompa is indicated for the adjunctive treatment of primary generalised tonic-c
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002434
-
-Marketing authorisation holder
-
-Eisai GmbH
-
-Edmund-Rumpler-Straße 3
-
-Opinion adopted
-
-24/05/2012
-
-Marketing authorisation issued
-
-23/07/2012
-
-Revision
-
-36
+- **EMA product number**
+    - EMEA/H/C/002434
+- **Marketing authorisation holder**
+    - Eisai GmbH Edmund-Rumpler-Straße 3  60549 Frankfurt am Main  Germany
+- **Opinion adopted**
+    - 24/05/2012
+- **Marketing authorisation issued**
+    - 23/07/2012
+- **Revision**
+    - 36
 
 ## Assessment history
 
@@ -639,7 +621,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Fycompa : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -705,7 +687,7 @@ English (EN) (144.98 KB - PDF)
 
 **First published:** 10/05/2023
 
-[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202207-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202207-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Fycompa-H-C-002434-P46-025 : EPAR - Assessment Report
 
@@ -735,7 +717,7 @@ English (EN) (139.79 KB - PDF)
 
 **First published:** 05/07/2022
 
-[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202107-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202107-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Fycompa-H-C-002434-P46-020: EPAR - Assessment report
 
@@ -765,7 +747,7 @@ English (EN) (98.27 KB - PDF)
 
 **First published:** 07/05/2021
 
-[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202007-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-202007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Fycompa-H-C-2434-II-0047 : EPAR - Assessment Report - Variation
 
@@ -795,7 +777,7 @@ English (EN) (124.9 KB - PDF)
 
 **First published:** 27/05/2020
 
-[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-201907-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/fycompa-h-c-psusa-00009255-201907-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Fycompa-H-C-002434-P46-0017 : EPAR - Assessment Report
 
@@ -865,9 +847,9 @@ English (EN) (52.85 KB - PDF)
 
 **First published:** 11/12/2013 **Last updated:** 11/12/2013
 
-[View](/en/documents/scientific-conclusion/fycompa-h-c-2434-psuv-0009-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/fycompa-h-c-2434-psuv-0009-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Fycompa : EPAR - Public assessment report
 
@@ -899,6 +881,164 @@ English (EN) (71.89 KB - PDF)
 
 22/05/2015
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Fycompa : EPAR - Product information - tracked changes
+
+English (EN) (210 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/en/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-548)
+
+български (BG) (288.23 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (250.24 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/es/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (243.19 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (229.04 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/da/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (294.97 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/de/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (236.5 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/et/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (321.31 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/el/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (278.61 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (282.22 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (200.12 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/it/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (326.63 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (217.21 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (286.6 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (265.8 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (210.86 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (259.02 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (244 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (286.42 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (225.58 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (219.76 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (270.97 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (253.27 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (252.73 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/is/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (248.15 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/no/documents/product-information-tracked-changes/fycompa-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Fycompa
 
 - [EMEA-000467-PIP01-08-M15 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000467-pip01-08-m15)
@@ -912,6 +1052,6 @@ English (EN) (71.89 KB - PDF)
 
 **This page was last updated on**
 
-26/05/2026
+10/07/2026
 
 ## Share this page

@@ -1,106 +1,32 @@
 ---
-document_datetime: 2026-02-12 15:45:00
+document_datetime: 2026-07-10 09:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa.html
 document_name: infanrix-hexa.html
 version: success
-processing_time: 0.1253731
-conversion_datetime: 2026-02-13 18:32:34.894049
+processing_time: 0.4070862
+conversion_datetime: 2026-07-13 12:35:06.062836
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Infanrix Hexa
-
 # Infanrix Hexa
 
 [RSS](/en/individual-human-medicine.xml/65960)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed) Medicine Human Authorised
+diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed)
+
+Medicine Human Authorised
 
 Page contents
 
@@ -135,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Infanrix hexa used?
+### How is Infanrix hexa used?
 
 Infanrix hexa is given by deep injection into a muscle. The vaccination schedule for Infanrix hexa is a course of 2 or 3 doses, given at least 1 month apart, according to official recommendations, usually in the first 6 months of life. Subsequent injections should be given in different areas.
 
@@ -143,7 +69,7 @@ A booster dose of Infanrix hexa or a similar vaccine should be given at least 6 
 
 The vaccine can only be obtained with a prescription. For more information about using Infanrix hexa, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Infanrix hexa work?
+### How does Infanrix hexa work?
 
 Infanrix hexa is a vaccine that protects against a range of infections. Vaccines work by 'teaching' the immune system (the body's natural defences) to defend the body against the infections.
 
@@ -151,7 +77,7 @@ When a child is given the vaccine, the immune system recognises the parts of the
 
 The vaccine is 'adsorbed'. This means that the active substances are fixed onto aluminium compounds, to stimulate a better response.
 
-## What benefits of Infanrix hexa have been shown in studies?
+### What benefits of Infanrix hexa have been shown in studies?
 
 Infanrix hexa has been studied in nine studies, involving a total of almost 5,000 children aged between 6 weeks and 2 years. Over 3,000 of the children received a course of vaccination with Infanrix hexa. The effects of Infanrix hexa were compared with those of separate vaccines containing the same active substances. The main measure of effectiveness was the production of protective antibodies.
 
@@ -159,7 +85,7 @@ Results of the studies taken together showed that a course of injections with In
 
 An additional five studies looked at the effects of a booster vaccination with Infanrix hexa. These studies showed that booster vaccinations with Infanrix hexa were as effective as giving separate vaccines containing the same active substances 1 month after the booster vaccination.
 
-## What is the risk associated with Infanrix hexa?
+### What is the risk associated with Infanrix hexa?
 
 For the full list of side effects and restrictions with Infanrix hexa, see the package leaflet.
 
@@ -167,17 +93,17 @@ The most common side effects with Infanrix hexa (seen in more than 1 in 10 doses
 
 Infanrix hexa must not be used in infants who are hypersensitive (allergic) to any of the active substances, to any of the other ingredients of the vaccine, or to neomycin and polymyxin (antibiotics) and formaldehyde. It must not be used in infants who have had an allergic reaction to a vaccine containing diphtheria, tetanus, pertussis, hepatitis B, polio or Hib. Infanrix hexa must not be used in infants who have had encephalopathy (brain disease) of unknown cause within 7 days of receiving a pertussis vaccine. Infanrix hexa should be postponed in infants with a severe sudden fever.
 
-## Why is Infanrix hexa approved?
+### Why is Infanrix hexa approved?
 
 Infanrix hexa has been shown to trigger the production of protective levels of antibodies against diphtheria, tetanus, pertussis, hepatitis B virus, polioviruses, and Hib. The side effects of Infanrix hexa are similar to those of other vaccines used to prevent these conditions and are considered acceptable. The European Medicines Agency therefore decided that Infanrix hexa's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Infanrix hexa?
+### What measures are being taken to ensure the safe and effective use of Infanrix hexa?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Infanrix hexa have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Infanrix hexa are continuously monitored. Suspected side effects reported with Infanrix hexa are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Infanrix hexa:
+### Other information about Infanrix hexa:
 
 Infanrix hexa received a marketing authorisation valid throughout the EU on 23 October 2000.
 
@@ -187,275 +113,141 @@ Reference Number: EMA/336137/2024
 
 English (EN) (163 KB - PDF)
 
-**First published:** 23/12/2008
-
-**Last updated:** 04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/en/documents/overview/infanrix-hexa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-33)
+[Other languages (22)](#file-language-dropdown-12)
 
 български (BG) (177.65 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/bg/documents/overview/infanrix-hexa-epar-medicine-overview_bg.pdf)
 
 español (ES) (143.42 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/es/documents/overview/infanrix-hexa-epar-medicine-overview_es.pdf)
 
 čeština (CS) (179.61 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/cs/documents/overview/infanrix-hexa-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.04 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/da/documents/overview/infanrix-hexa-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.53 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/de/documents/overview/infanrix-hexa-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.92 KB - PDF)
+eesti (ET) (143.92 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/et/documents/overview/infanrix-hexa-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (174.43 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/el/documents/overview/infanrix-hexa-epar-medicine-overview_el.pdf)
 
 français (FR) (147.21 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/fr/documents/overview/infanrix-hexa-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (174.45 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/hr/documents/overview/infanrix-hexa-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.31 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/it/documents/overview/infanrix-hexa-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (185.43 KB - PDF)
+latviešu (LV) (185.43 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/lv/documents/overview/infanrix-hexa-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (178.64 KB - PDF)
+lietuvių (LT) (178.64 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/lt/documents/overview/infanrix-hexa-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (168.11 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/hu/documents/overview/infanrix-hexa-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (195.12 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/mt/documents/overview/infanrix-hexa-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.02 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/nl/documents/overview/infanrix-hexa-epar-medicine-overview_nl.pdf)
 
 polski (PL) (181.63 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/pl/documents/overview/infanrix-hexa-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.68 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/pt/documents/overview/infanrix-hexa-epar-medicine-overview_pt.pdf)
 
 română (RO) (173.48 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/ro/documents/overview/infanrix-hexa-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.06 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/sk/documents/overview/infanrix-hexa-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (176.48 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/sl/documents/overview/infanrix-hexa-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (143.17 KB - PDF)
+suomi (FI) (143.17 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/fi/documents/overview/infanrix-hexa-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (142.85 KB - PDF)
 
-**First published:**
-
-23/12/2008
-
-**Last updated:**
-
-04/09/2024
+**First published:** 23/12/2008 **Last updated:** 04/09/2024
 
 [View](/sv/documents/overview/infanrix-hexa-epar-medicine-overview_sv.pdf)
 
@@ -465,309 +257,166 @@ Infanrix Hexa : EPAR - Product Information
 
 English (EN) (537.71 KB - PDF)
 
-**First published:** 26/11/2008
-
-**Last updated:** 12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/en/documents/product-information/infanrix-hexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-976)
 
 български (BG) (639.63 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/bg/documents/product-information/infanrix-hexa-epar-product-information_bg.pdf)
 
 español (ES) (500.1 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/es/documents/product-information/infanrix-hexa-epar-product-information_es.pdf)
 
 čeština (CS) (591.45 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/cs/documents/product-information/infanrix-hexa-epar-product-information_cs.pdf)
 
 dansk (DA) (518.99 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/da/documents/product-information/infanrix-hexa-epar-product-information_da.pdf)
 
 Deutsch (DE) (530.94 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/de/documents/product-information/infanrix-hexa-epar-product-information_de.pdf)
 
-eesti keel (ET) (571.95 KB - PDF)
+eesti (ET) (571.95 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/et/documents/product-information/infanrix-hexa-epar-product-information_et.pdf)
 
 ελληνικά (EL) (676.85 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/el/documents/product-information/infanrix-hexa-epar-product-information_el.pdf)
 
 français (FR) (618.64 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/fr/documents/product-information/infanrix-hexa-epar-product-information_fr.pdf)
 
 hrvatski (HR) (562.45 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/hr/documents/product-information/infanrix-hexa-epar-product-information_hr.pdf)
 
-íslenska (IS) (515.55 KB - PDF)
-
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
-
-[View](/is/documents/product-information/infanrix-hexa-epar-product-information_is.pdf)
-
 italiano (IT) (551.18 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/it/documents/product-information/infanrix-hexa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (587.45 KB - PDF)
+latviešu (LV) (587.45 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/lv/documents/product-information/infanrix-hexa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (535.99 KB - PDF)
+lietuvių (LT) (535.99 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/lt/documents/product-information/infanrix-hexa-epar-product-information_lt.pdf)
 
 magyar (HU) (665.66 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/hu/documents/product-information/infanrix-hexa-epar-product-information_hu.pdf)
 
 Malti (MT) (694.28 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/mt/documents/product-information/infanrix-hexa-epar-product-information_mt.pdf)
 
 Nederlands (NL) (481.63 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/nl/documents/product-information/infanrix-hexa-epar-product-information_nl.pdf)
 
-norsk (NO) (504.08 KB - PDF)
-
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
-
-[View](/no/documents/product-information/infanrix-hexa-epar-product-information_no.pdf)
-
 polski (PL) (631.59 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/pl/documents/product-information/infanrix-hexa-epar-product-information_pl.pdf)
 
 português (PT) (558.93 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/pt/documents/product-information/infanrix-hexa-epar-product-information_pt.pdf)
 
 română (RO) (601.45 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/ro/documents/product-information/infanrix-hexa-epar-product-information_ro.pdf)
 
 slovenčina (SK) (561.6 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/sk/documents/product-information/infanrix-hexa-epar-product-information_sk.pdf)
 
 slovenščina (SL) (564.76 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/sl/documents/product-information/infanrix-hexa-epar-product-information_sl.pdf)
 
-Suomi (FI) (524.41 KB - PDF)
+suomi (FI) (524.41 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/fi/documents/product-information/infanrix-hexa-epar-product-information_fi.pdf)
 
 svenska (SV) (503.25 KB - PDF)
 
-**First published:**
-
-26/11/2008
-
-**Last updated:**
-
-12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/sv/documents/product-information/infanrix-hexa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323859 12/02/2026
+Íslenska (IS) (515.55 KB - PDF)
+
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
+
+[View](/is/documents/product-information/infanrix-hexa-epar-product-information_is.pdf)
+
+norsk (NO) (504.08 KB - PDF)
+
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
+
+[View](/no/documents/product-information/infanrix-hexa-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000323859
+
+12/02/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -781,324 +430,179 @@ Infanrix Hexa : EPAR - All Authorised presentations
 
 English (EN) (23.45 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/en/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-665)
 
 български (BG) (50.57 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/bg/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (26.47 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/es/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (38.23 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/cs/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.23 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/da/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (19.76 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/de/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (51.46 KB - PDF)
+eesti (ET) (51.46 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/et/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.6 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/el/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (24.21 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/fr/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (36.97 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/hr/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (39.35 KB - PDF)
-
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
-
-[View](/is/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (26.46 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/it/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.62 KB - PDF)
+latviešu (LV) (42.62 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/lv/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (40.96 KB - PDF)
+lietuvių (LT) (40.96 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/lt/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (35.08 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/hu/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (40.1 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/mt/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (24.21 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/nl/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (26.8 KB - PDF)
-
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
-
-[View](/no/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (48.6 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/pl/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.06 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/pt/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (57.34 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/ro/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (40.66 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/sk/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (38.17 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/sl/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (25.16 KB - PDF)
+suomi (FI) (25.16 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/fi/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (49.39 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-15/01/2020
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
 
 [View](/sv/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (39.35 KB - PDF)
+
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
+
+[View](/is/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (26.8 KB - PDF)
+
+**First published:** 21/10/2005 **Last updated:** 15/01/2020
+
+[View](/no/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Infanrix Hexa Active substance
-
-- Diphtheria toxoid
-- tetanus toxoid
-- Bordetella pertussis antigens (pertussis toxoid, filamentous haemagglutinin, pertactin)
-- hepatitis B surface antigen
-- poliovirus (inactivated) (type-1 (Mahoney strain), type-2 (MEF-1 strain), type-3 (Saukett strain))
-- Haemophilus influenzae type b polysaccharide
-
-International non-proprietary name (INN) or common name diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed) Therapeutic area (MeSH)
-
-- Hepatitis B
-- Tetanus
-- Immunization
-- Meningitis, Haemophilus
-- Whooping Cough
-- Poliomyelitis
-- Diphtheria
-
-Anatomical therapeutic chemical (ATC) code J07CA09
+- **Name of medicine**
+    - Infanrix Hexa
+- **Active substance**
+        - Diphtheria toxoid
+        - tetanus toxoid
+        - Bordetella pertussis antigens (pertussis toxoid, filamentous haemagglutinin, pertactin)
+        - hepatitis B surface antigen
+        - poliovirus (inactivated) (type-1 (Mahoney strain), type-2 (MEF-1 strain), type-3 (Saukett strain))
+        - Haemophilus influenzae type b polysaccharide
+- **International non-proprietary name (INN) or common name**
+    - diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed)
+- **Therapeutic area (MeSH)**
+        - Hepatitis B
+        - Tetanus
+        - Immunization
+        - Meningitis, Haemophilus
+        - Whooping Cough
+        - Poliomyelitis
+        - Diphtheria
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07CA09
 
 ### Pharmacotherapeutic group
 
@@ -1112,13 +616,16 @@ The use of Infanrix hexa should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000296 Marketing authorisation holder
-
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut, 89
-
-Opinion adopted 29/06/2000 Marketing authorisation issued 23/10/2000 Revision 49
+- **EMA product number**
+    - EMEA/H/C/000296
+- **Marketing authorisation holder**
+    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  B-1330 Rixensart  Belgium
+- **Opinion adopted**
+    - 29/06/2000
+- **Marketing authorisation issued**
+    - 23/10/2000
+- **Revision**
+    - 50
 
 ## Assessment history
 
@@ -1126,7 +633,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Infanrix Hexa : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -1140,17 +647,23 @@ Infanrix Hexa : EPAR - Procedural steps taken and scientific information after a
 
 English (EN) (704.53 KB - PDF)
 
-**First published:** 26/11/2008
-
-**Last updated:** 12/02/2026
+**First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/en/documents/procedural-steps-after/infanrix-hexa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Infanrix Hexa PAM-0000340642 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3067648
+
+English (EN) (756.82 KB - PDF)
+
+**First published:** 10/07/2026
+
+[View](/en/documents/variation-report/infanrix-hexa-pam-0000340642-epar-assessment-report_en.pdf)
+
 CHMP post-authorisation summary of positive opinion for Infanrix Hexa (II-340-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/291491/2024
+Adopted Reference Number: EMA/CHMP/291491/2024
 
 English (EN) (142.08 KB - PDF)
 
@@ -1160,23 +673,17 @@ English (EN) (142.08 KB - PDF)
 
 Infanrix hexa-H-C-296-P46-135 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/361395/2023
+Adopted Reference Number: EMA/361395/2023
 
 English (EN) (1.37 MB - PDF)
 
-**First published:** 21/09/2023
-
-**Last updated:** 21/09/2023
+**First published:** 21/09/2023 **Last updated:** 21/09/2023
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-135-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-131 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/496745/2020
+Adopted Reference Number: EMA/496745/2020
 
 English (EN) (2.69 MB - PDF)
 
@@ -1186,9 +693,7 @@ English (EN) (2.69 MB - PDF)
 
 Infanrix Hexa-H-C-296-P46-132 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/496744/2020
+Adopted Reference Number: EMA/496744/2020
 
 English (EN) (1.88 MB - PDF)
 
@@ -1198,9 +703,7 @@ English (EN) (1.88 MB - PDF)
 
 Infanrix Hexa-H-C-296-II-275 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/496743/2020
+Adopted Reference Number: EMA/496743/2020
 
 English (EN) (3.12 MB - PDF)
 
@@ -1210,9 +713,7 @@ English (EN) (3.12 MB - PDF)
 
 Infanrix Hexa-H-C-296-P46-130 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/765993/2018
+Adopted Reference Number: EMA/765993/2018
 
 English (EN) (373.66 KB - PDF)
 
@@ -1222,43 +723,31 @@ English (EN) (373.66 KB - PDF)
 
 Infanrix Hexa-H-C-296-P46-128 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/216598/2018
+Adopted Reference Number: EMA/216598/2018
 
 English (EN) (273.92 KB - PDF)
 
-**First published:** 11/04/2018
-
-**Last updated:** 11/04/2018
+**First published:** 11/04/2018 **Last updated:** 11/04/2018
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-128-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-126 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/288302/2017
+Adopted Reference Number: EMA/288302/2017
 
 English (EN) (894.34 KB - PDF)
 
-**First published:** 01/06/2017
-
-**Last updated:** 01/06/2017
+**First published:** 01/06/2017 **Last updated:** 01/06/2017
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-126-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-121 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/793306/2016
+Adopted Reference Number: EMA/793306/2016
 
 English (EN) (625.9 KB - PDF)
 
-**First published:** 06/02/2017
-
-**Last updated:** 06/02/2017
+**First published:** 06/02/2017 **Last updated:** 06/02/2017
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-121-epar-assessment-report_en.pdf)
 
@@ -1268,9 +757,7 @@ Adopted
 
 English (EN) (183.23 KB - PDF)
 
-**First published:** 08/12/2016
-
-**Last updated:** 08/12/2016
+**First published:** 08/12/2016 **Last updated:** 08/12/2016
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-123-epar-assessment-report_en.pdf)
 
@@ -1280,51 +767,37 @@ Adopted
 
 English (EN) (561.43 KB - PDF)
 
-**First published:** 30/11/2016
-
-**Last updated:** 30/11/2016
+**First published:** 30/11/2016 **Last updated:** 30/11/2016
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-124-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-120 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/719044/2016
+Adopted Reference Number: EMA/719044/2016
 
 English (EN) (716.04 KB - PDF)
 
-**First published:** 14/11/2016
-
-**Last updated:** 14/11/2016
+**First published:** 14/11/2016 **Last updated:** 14/11/2016
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-120-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0119 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/549010/2016
+Adopted Reference Number: EMA/549010/2016
 
 English (EN) (858.78 KB - PDF)
 
-**First published:** 12/08/2016
-
-**Last updated:** 12/08/2016
+**First published:** 12/08/2016 **Last updated:** 12/08/2016
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0119-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-117 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/303961/2016
+Adopted Reference Number: EMA/303961/2016
 
 English (EN) (537.02 KB - PDF)
 
-**First published:** 28/04/2016
-
-**Last updated:** 28/04/2016
+**First published:** 28/04/2016 **Last updated:** 28/04/2016
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-117-epar-assessment-report_en.pdf)
 
@@ -1332,149 +805,107 @@ Infanrix Hexa-H-C-PSUSA-00001122-201410 : EPAR - Scientific conclusions and grou
 
 English (EN) (75.58 KB - PDF)
 
-**First published:** 09/09/2015
+**First published:** 09/09/2015 **Last updated:** 09/09/2015
 
-**Last updated:** 09/09/2015
-
-[View](/en/documents/scientific-conclusion/infanrix-hexa-h-c-psusa-00001122-201410-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/infanrix-hexa-h-c-psusa-00001122-201410-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0113: EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/783377/2014
+Adopted Reference Number: EMA/CHMP/783377/2014
 
 English (EN) (124.17 KB - PDF)
 
-**First published:** 12/01/2015
-
-**Last updated:** 12/01/2015
+**First published:** 12/01/2015 **Last updated:** 12/01/2015
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0113-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P45-0089/P46-0099 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/409330/2014
+Adopted Reference Number: EMA/409330/2014
 
 English (EN) (92.97 KB - PDF)
 
-**First published:** 04/11/2014
+**First published:** 04/11/2014 **Last updated:** 04/11/2014
 
-**Last updated:** 04/11/2014
-
-[View](/en/documents/variation-report/infanrix-hexa-h-c-296-p45-0089p46-0099-epar-assessment-report_en.pdf)
+[View](/en/documents/variation-report/infanrix-hexa-h-c-296-p45-0089-p46-0099-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-106.2 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/355024/2014
+Adopted Reference Number: EMA/355024/2014
 
 English (EN) (99.83 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 11/08/2014
+**First published:** 11/08/2014 **Last updated:** 11/08/2014
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-1062-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-106.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/359928/2014
+Adopted Reference Number: EMA/359928/2014
 
 English (EN) (97.41 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 11/08/2014
+**First published:** 11/08/2014 **Last updated:** 11/08/2014
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-1061-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0110 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/355025/2014
+Adopted Reference Number: EMA/355025/2014
 
 English (EN) (77.17 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 11/08/2014
+**First published:** 11/08/2014 **Last updated:** 11/08/2014
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0110-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0106 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/359929/2014
+Adopted Reference Number: EMA/359929/2014
 
 English (EN) (620.02 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 11/08/2014
+**First published:** 11/08/2014 **Last updated:** 11/08/2014
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0106-epar-assessment-report_en.pdf-0)
 
 Infanrix Hexa-H-C-296-P46-099.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/355023/2014
+Adopted Reference Number: EMA/355023/2014
 
 English (EN) (565.78 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 11/08/2014
+**First published:** 11/08/2014 **Last updated:** 11/08/2014
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0991-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0106 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/149931/2013
+Adopted Reference Number: EMA/149931/2013
 
 English (EN) (513.39 KB - PDF)
 
-**First published:** 26/06/2013
-
-**Last updated:** 26/06/2013
+**First published:** 26/06/2013 **Last updated:** 26/06/2013
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0106-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0105 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/149930/2013
+Adopted Reference Number: EMA/149930/2013
 
 English (EN) (200.34 KB - PDF)
 
-**First published:** 26/06/2013
-
-**Last updated:** 26/06/2013
+**First published:** 26/06/2013 **Last updated:** 26/06/2013
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0105-epar-assessment-report_en.pdf)
 
 Infanrix Hexa-H-C-296-P46-0104 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/149929/2013
+Adopted Reference Number: EMA/149929/2013
 
 English (EN) (564.03 KB - PDF)
 
-**First published:** 26/06/2013
-
-**Last updated:** 26/06/2013
+**First published:** 26/06/2013 **Last updated:** 26/06/2013
 
 [View](/en/documents/variation-report/infanrix-hexa-h-c-296-p46-0104-epar-assessment-report_en.pdf)
 
@@ -1482,21 +913,17 @@ Infanrix Hexa : EPAR - Steps taken after authorisation when a cutoff date has be
 
 English (EN) (93.28 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/steps-after-cutoff/infanrix-hexa-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Infanrix Hexa : EPAR - Scientific Discussion
 
 English (EN) (207.97 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/scientific-discussion/infanrix-hexa-epar-scientific-discussion_en.pdf)
 
@@ -1504,27 +931,27 @@ Infanrix Hexa : EPAR - Procedural steps taken before authorisation
 
 English (EN) (97.89 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/procedural-steps/infanrix-hexa-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Infanrix Hexa
+## News on Infanrix Hexa
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-#### More information on Infanrix Hexa
+28/06/2024
+
+## More information on Infanrix Hexa
 
 - [Infanrix Hexa - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/infanrix-hexa)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 12/02/2026
+**This page was last updated on**
+
+10/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

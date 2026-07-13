@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 17:48:11
+document_datetime: 2026-07-09 14:08:48
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ryzneuta-epar-product-information_en.pdf
 document_name: ryzneuta-epar-product-information_en.pdf
 version: success
-processing_time: 8.8406979
-conversion_datetime: 2026-04-05 12:26:02.929734
+processing_time: 9.6075248
+conversion_datetime: 2026-07-13 12:45:21.139042
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -132,15 +132,13 @@ Sickle cell crises have been associated with the use of G-CSF in patients with s
 
 ## Leukocytosis
 
-White blood cell (WBC) counts of 100 × 10 9 /L or greater have been observed in patients receiving G-CSF. No adverse events directly attributable to this degree of leukocytosis have been reported. Such elevation in white blood cells is transient, being typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of this medicinal product. Consistent with the clinical effects and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy. If leukocyte counts exceed 50 × 10 9 /L after the expected nadir, this medicinal product should be discontinued immediately.
+White blood cell (WBC) counts of 100 ×  10 9 /L or greater have been observed in patients receiving G-CSF. No adverse events directly attributable to this degree of leukocytosis have been reported. Such elevation in white blood cells is transient, being typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of this medicinal product. Consistent with the clinical effects and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy. If leukocyte counts exceed 50 ×  10 9 /L after the expected nadir, this medicinal product should be discontinued immediately.
 
 ## Hypersensitivity
 
-Hypersensitivity, including serious allergic reactions, occurring on initial or subsequent treatment have been reported in patients treated with G-CSF. Efbemalenograstim alfa should be permanently discontinued in patients with clinically significant hypersensitivity. Efbemalenograstim alfa should not be administered to patients with a history of hypersensitivity to efbemalenograstim alfa. Caution should be exercised if using efbemalenograstim alfa in patients with a history of serious allergic reactions to other G-CSF products as the risk of cross-reactivity cannot be excluded. In such circumstances, efbemalenograstim alfa should be administered at the discretion of the physician with
+Hypersensitivity, including serious allergic reactions, occurring on initial or subsequent treatment have been reported in patients treated with G-CSF. Efbemalenograstim alfa should be permanently discontinued in patients with clinically significant hypersensitivity. Efbemalenograstim alfa should not be administered to patients with a history of hypersensitivity to efbemalenograstim alfa. Caution should be exercised if using efbemalenograstim alfa in patients with a history of serious allergic reactions to other G-CSF products as the risk of cross-reactivity cannot be excluded. In such circumstances, efbemalenograstim alfa should be administered at the discretion of the physician with the appropriate assessment of risks and benefits. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 <div style=\"page-break-after: always\"></div>
-
-the appropriate assessment of risks and benefits. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 ## Stevens-Johnson syndrome
 
@@ -170,7 +168,7 @@ This medicinal product contains 50 mg sorbitol in each pre-filled syringe. The a
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium -free'.
 
 ## Rubber - latex
 
@@ -222,7 +220,7 @@ Uncommon pulmonary adverse reactions such as pulmonary oedema occurred on treatm
 
 Isolated cases of sickle cell crises have been associated with the use of G-CSF in patients with sickle cell trait or sickle cell disease (see section 4.4).
 
-Capillary leak syndrome, which can be life-threatening if treatment is delayed, has been reported in cancer patients undergoing chemotherapy following administration of G-CSFs; see section 4.4 and section 'Description of selected adverse reactions' below.
+Capillary leak syndrome, which can be life-threatening if treatment is delayed, has been reported in cancer patients undergoing chemotherapy following administration of G-CSFs; see section 4.4 and section 'Description of selected adverse reactions' below .
 
 ## Tabulated list of adverse reactions
 
@@ -264,7 +262,7 @@ Nausea, vomiting, diarrhoea, asthenia, fatigue, pyrexia, vertigo and headaches w
 
 One case of serious urticaria was reported after efbemalenograstim alfa treatment.
 
-White blood cell count increased was commonly reported after efbemalenograstim alfa treatment. Leukocytosis (white blood cell counts ˃ 100 × 10 9 /L) have been reported following the administration of G-CSF; (see section 4.4).
+White blood cell count increased was commonly reported after efbemalenograstim alfa treatment. Leukocytosis (white blood cell counts ˃ 100 ×  10 9 /L) have been reported following the administration of G-CSF; (see section 4.4).
 
 Increases in alanine aminotransferase (ALT), aspartate aminotransferase (AST) have been commonly observed in patients after receiving efbemalenograstim alfa following cytotoxic chemotherapy. These elevations are transient and return to baseline.
 
@@ -310,7 +308,7 @@ Neutrophils produced in response to G-CSF show normal or enhanced function as de
 
 ## Clinical efficacy and safety
 
-In a randomised, placebo-controlled, double-blind study in patients with breast cancer, the effect of efbemalenograstim alfa on the duration of neutropenia and the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 30-40% (docetaxel 75 mg/m 2 and doxorubicin 60 mg/m 2 every 3 weeks for 4 cycles). One hundred twenty-two patients were randomised 2:1 to receive either a single 20 mg dose of efbemalenograstim alfa or placebo approximately 24 hours (day 2) after chemotherapy in cycle 1; all subjects received efbemalenograstim alfa in cycles 2 - 4. The primary endpoint of mean duration of grade 4 neutropenia in cycle 1 was lower for patients randomised to receive efbemalenograstim alfa compared with placebo (1.3 days versus 3.9 days, p &lt; 0.001), as was the incidence of febrile neutropenia (5% versus 26%, p &lt; 0.001). Consistent with the reduction in febrile neutropenia, the incidence of IV anti-infective use in cycle 1 was also lower in the efbemalenograstim alfa group compared with placebo (4% versus 18%).
+In a randomised, placebo-controlled, double-blind study in patients with breast cancer, the effect of efbemalenograstim alfa on the duration of neutropenia and the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 30-40% (docetaxel 75 mg/m 2 and doxorubicin 60 mg/m 2 every 3 weeks for 4 cycles). One hundred twenty-two patients were randomised 2:1 to receive either a single 20 mg dose of efbemalenograstim alfa or placebo approximately 24 hours (day 2) after chemotherapy in cycle 1; all subjects received efbemalenograstim alfa in cycles 2 -4. The primary endpoint of mean duration of grade 4 neutropenia in cycle 1 was lower for patients randomised to receive efbemalenograstim alfa compared with placebo (1.3 days versus 3.9 days, p &lt; 0.001), as was the incidence of febrile neutropenia (5% versus 26%, p &lt; 0.001). Consistent with the reduction in febrile neutropenia, the incidence of IV anti-infective use in cycle 1 was also lower in the efbemalenograstim alfa group compared with placebo (4% versus 18%).
 
 Two additional randomised, active-controlled studies compared efbemalenograstim alfa, given as a once-per-cycle 20 mg dose, to either once-per-cycle pegfilgrastim (n=393) or daily filgrastim (n=239) for reducing the duration of neutropenia and the incidence of febrile neutropenia in patients with breast cancer receiving myelosuppressive chemotherapy.  In the pegfilgrastim comparison, patients with metastatic or non-metastatic breast cancer received a docetaxel and cyclophosphamide regimen. In this study, the mean duration of grade 4 neutropenia in cycle 1 for both the efbemalenograstim alfa and pegfilgrastim groups was 0.2 days (difference 0.0 days, 95% CI -0.1, 0.1). Over the entire study, the rate of febrile neutropenia was 3.0% of efbemalenograstim alfa-treated patients compared with 0.5% of pegfilgrastim-treated patients (difference 2.5%, 95% CI -7.3%, 12.4%). In the comparison to filgrastim (median of 8 daily doses), patients with non-metastatic breast cancer received an epirubicin and cyclophosphamide regimen. In this study, the mean duration of grade 4 neutropenia in cycle 1 for the efbemalenograstim alfa group was 0.3 days and in the filgrastim group was 0.2 days (median difference 0.0 days, 95% CI -0.0, 0.0). Over the entire study, the rate of febrile neutropenia was 0.8% of efbemalenograstim alfa-treated patients compared with 1.7% of filgrastim-treated patients (difference -0.8%, 95% CI -4%, 2%).
 
@@ -382,9 +380,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 ° C -8 ° C).
 
-Ryzneuta may be exposed to room temperature (not above 30 °C) for a maximum single period of up to 48 hours. Ryzneuta left at room temperature for more than 48 hours should be discarded.
+Ryzneuta may be exposed to room temperature (not above 30 ° C) for a maximum single period of up to 48 hours. Ryzneuta left at room temperature for more than 48 hours should be discarded.
 
 Do not freeze. Accidental exposure to freezing temperatures for a single period of less than 24 hours does not adversely affect the stability of Ryzneuta.
 
@@ -447,9 +445,13 @@ Evive Biopharmaceutical Beijing, Ltd Suite 202, Building 3, No. 99 Kechuang 14th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Catalent Germany Schorndorf GmbH. Steinbeisstrasse 1-2,
+Catalent Germany Schorndorf GmbH.
 
-D-73614 Schorndorf, Germany
+Steinbeisstrasse 1-2, D-73614 Schorndorf, Germany
+
+Eurofins PHAST GmbH Kardinal-Wendel-Strasse 16, Homburg, Saarland, 66424, Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -492,7 +494,9 @@ CARTON LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ryzneuta 20 mg solution for injection efbemalenograstim alfa
+Ryzneuta 20 mg solution for injection
+
+efbemalenograstim alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -534,56 +538,61 @@ Keep the pre-filled syringe in the outer carton in order to protect from light. 
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
+|-------|-----------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Evive Biotechnology Ireland LTD
 
-20 Kildare Street Dublin 2 D02 T3V7 Ireland
+20 Kildare Street Dublin 2 D02 T3V7
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Ireland
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/24/1793/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Ryzneuta
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER (TRAY) PACK FOR PREFILLED SYRINGE           |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER (TRAY) PACK FOR PREFILLED SYRINGE             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Ryzneuta 20 mg solution for injection efbemalenograstim alfa
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Evive Biotechnology Ireland LTD
 
@@ -595,24 +604,22 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Ryzneuta 20 mg injection efbemalenograstim alfa SC
 
 | 5.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABEL                                                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Ryzneuta 20 mg injection efbemalenograstim alfa SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use
 
@@ -626,8 +633,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -668,12 +675,12 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## What Ryzneuta is and what it is used for
 
-Ryzneuta contains the active substance efbemalenograstim alfa. Efbemalenograstim alfa is a protein that is produced in cells in a laboratory. It belongs to a group of proteins called 'cytokines' and is very similar to a natural protein made by your own body called granulocyte colony-stimulating factor, which is involved in the production of white blood cells in the bone marrow. White blood cells help your body fight infection, but chemotherapy can cause a decrease in the amount of white blood cells in your body. If the number of white blood cells is too low, your body is not able to fight off bacteria, and this may increase risk of infections.
+Ryzneuta contains the active substance efbemalenograstim alfa. Efbemalenograstim alfa is a protein that is produced in cells in a laboratory. It belongs to a group of proteins called ' cytokines ' and is very similar to a natural protein made by your own body called granulocyte colony-stimulating factor, which is involved in the production of white blood cells in the bone marrow. White blood cells help your body fight infection, but chemotherapy can cause a decrease in the amount of white blood cells in your body. If the number of white blood cells is too low, your body is not able to fight off bacteria, and this may increase risk of infections.
 
-Ryzneuta is used in adult patients who are receiving cancer medicines known as 'chemotherapy'. Ryzneuta is given to:
+Ryzneuta is used in adult patients who are receiving cancer medicines known as ' chemotherapy '. Ryzneuta is given to:
 
-- -reduce the duration of 'neutropenia' (low white blood cell count);
-- -reduce the chance of having 'febrile neutropenia' (low white blood cell count with a fever). Neutropenia, and febrile neutropenia can be caused by the use of medicines that destroy rapidly growing cells, such as chemotherapy.
+- -reduce the duration of 'neutropenia' ( low white blood cell count);
+- -reduce the chance of having ' febrile neutropenia ' ( low white blood cell count with a fever). Neutropenia, and febrile neutropenia can be caused by the use of medicines that destroy rapidly growing cells, such as chemotherapy.
 
 ## How Ryzneuta works
 
@@ -702,17 +709,17 @@ If any of the above apply to you (or if you are not sure), talk to your doctor, 
 
 During treatment with Ryzneuta, look out for the following signs and symptoms:
 
-- -low blood pressure such as weakness and lightheadedness, difficulty breathing, swelling of the face, red and flushed skin, skin rash and itchy areas of skin - may be signs of an allergic reaction
-- -cough, fever and difficulty breathing - may be signs of acute respiratory distress syndrome (ARDS)
-- -swelling or puffiness, passing water less often, difficulty breathing, stomach swelling and feeling full, and generally feeling tired - may be signs of capillary leak syndrome (a condition where fluid leaks from the small blood vessels).
+- -low blood pressure such as weakness and lightheadedness, difficulty breathing, swelling of the face, red and flushed skin, skin rash and itchy areas of skin -may be signs of an allergic reaction
+- -cough, fever and difficulty breathing -may be signs of acute respiratory distress syndrome (ARDS)
+- -swelling or puffiness, passing water less often, difficulty breathing, stomach swelling and feeling full, and generally feeling tired -may be signs of capillary leak syndrome (a condition where fluid leaks from the small blood vessels).
 - -upper left abdominal pain or pain at the tip of your shoulder - may be signs of problems with your spleen (splenomegaly, splenic rupture)
-- -fever, stomach pain, general feeling of discomfort, back pain - may be signs of an inflamed aorta.
+- -fever, stomach pain, general feeling of discomfort, back pain -may be signs of an inflamed aorta.
 
 Tell your doctor straight away if you notice any of the signs above. You may need urgent medical treatment.
 
 ## Blood and urine checks
 
-Your doctor will check your blood and urine regularly - because medicines like Ryzneuta can harm the tiny filters (glomeruli) inside your kidneys.
+Your doctor will check your blood and urine regularly -because medicines like Ryzneuta can harm the tiny filters (glomeruli) inside your kidneys.
 
 ## Risk of blood cancer
 
@@ -756,7 +763,7 @@ Ryzneuta has no, or very little effect on the ability to drive or use tools or m
 
 This medicine contains 50 mg sorbitol in each 20 mg dose.
 
-This medicine contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 20 mg dose, that is to say essentially 'sodium -free'.
 
 The needle cap of the pre-filled syringe contains dry natural rubber (latex), which may cause allergic reactions.
 
@@ -868,11 +875,15 @@ Common side effects (may affect up to 1 in 10 people)
 
 high level of neutrophil (a type of white blood cells)
 
-low level of neutrophil low level of white blood cell
+low level of neutrophil
+
+low level of white blood cell
 
 low level of hemoglobin(anaemia)
 
-low level of blood platelet high level of blood sugar
+low level of blood platelet
+
+high level of blood sugar
 
 high level of creatinine (measure of kidney function)
 
@@ -884,7 +895,7 @@ high level of gamma-glutamyltransferase (liver enzyme)
 - -sickle cell crises in patients with sickle cell anaemia
 - -inflammation of aorta (the large blood vessel which transports blood from the heart to the body)
 - -Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms.
-- -Sweet's syndrome (acute febrile neutrophilic dermatosis), manifested as plum-coloured, raised, painful lesions on the limbs and sometimes the face and neck with fever. But other factors may play a role.
+- -Sweet's syndrome (acute febrile neutrophilic dermatosis), manifested as plum -coloured, raised, painful lesions on the limbs and sometimes the face and neck with fever. But other factors may play a role.
 - -damage to the tiny filters inside your kidneys.
 
 ## Reporting of side effects
@@ -897,11 +908,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the syringe label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 ° C -8 ° C).
 
 <div style=\"page-break-after: always\"></div>
 
-You may take Ryzneuta out of the refrigerator and keep it at room temperature (not above 30 °C) for no longer than 2 days. Once Ryzneuta has been removed from the refrigerator and has reached room temperature (not above 30 °C), it must either be used within 2 days or disposed of. Do not freeze. Ryzneuta may be used if it is accidentally frozen for a single period of less than 24 hours.
+You may take Ryzneuta out of the refrigerator and keep it at room temperature (not above 30 ° C) for no longer than 2 days. Once Ryzneuta has been removed from the refrigerator and has reached room temperature (not above 30 ° C), it must either be used within 2 days or disposed of.
+
+Do not freeze. Ryzneuta may be used if it is accidentally frozen for a single period of less than 24 hours.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
@@ -916,7 +929,7 @@ Ask your pharmacist how to throw away medicines you no longer use. These measure
 ## What Ryzneuta contains
 
 - -The active substance is efbemalenograstim alfa. Each pre-filled syringe contains 20 mg of efbemalenograstim alfa in 1 mL of solution.
-- -The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20, edetic acid (EDTA) and water for injections. See section 2. 'Ryzneuta contains sorbitol (E420), sodium and latex.'
+- -The other ingredients are sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), polysorbate 20, edetic acid (EDTA) and water for injections. See section 2. ' Ryzneuta contains sorbitol (E420), sodium and latex. '
 
 ## What Ryzneuta looks like and contents of the pack
 
@@ -932,17 +945,13 @@ Evive Biotechnology Ireland LTD 20 Kildare Street Dublin 2 D02 T3V7, Ireland
 
 Catalent Germany Schorndorf GmbH Steinbeisstrasse 1-2, D-73614 Schorndorf, Germany
 
+Eurofins PHAST GmbH Kardinal-Wendel-Strasse 16, Homburg, Saarland, 66424, Germany
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-Deutschland APOGEPHA Arzneimittel GmbH
+Deutschland APOGEPHA Arzneimittel GmbH Kyffhä userstr. 27 D-01309 Dresden
 
-Kyffhäuserstr. 27 D-01309 Dresden
-
-Telefon: +49 351 3363-3
-
-Telefax: +49 351 3363-440
-
-E-Mail: info@apogepha.de
+## E-Mail: info@apogepha.de
 
 <div style=\"page-break-after: always\"></div>
 
@@ -962,17 +971,15 @@ E-Mail: office@astropharma.at
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------- Instructions for injecting with the Ryzneuta pre-filled syringe
 
 <div style=\"page-break-after: always\"></div>
-
-Instructions for injecting with the Ryzneuta pre-filled syringe
 
 ## RYZNEUTA - Instructions for use
 
 ## Instructions for Use Ryzneuta 20 mg solution for injection in pre-filled syringe efbemalenograstim alfa Injection for subcutaneous use
 
-This leaflet contains information on how to inject Ryzneuta - please read the entire instructions before you start using Ryzneuta.
+This leaflet contains information on how to inject Ryzneuta -please read the entire instructions before you start using Ryzneuta.
 
 It is important that you do not try to give yourself the injection unless you have received training from your doctor, nurse, or pharmacist. If you have questions about how to inject, please ask your doctor, nurse, pharmacist for assistance.
 
@@ -1018,8 +1025,9 @@ It is important that you do not try to give yourself the injection unless you ha
 
 ## Preparing Ryzneuta for injection
 
-- 1
-- Remove Ryzneuta carton from the fridge.
+1
+
+Remove Ryzneuta carton from the fridge.
 
 Remove the syringe tray from the carton and place it on a clean, flat work surface.
 
@@ -1078,6 +1086,8 @@ If you want to use the same injection area (such as thigh or arm), make sure it 
 
 <!-- image -->
 
+GN
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -1108,12 +1118,10 @@ Slowly release the thumb from the plunger rod until the safety device is fully a
 - The needle will automatically pullback from the skin and into the barrel.
 - The device will lock into position and shield the needle.
 - × Do not attempt to push the plunger rod to expose the needle.
+- 11 Once the needle has been removed, inspect the syringe barrel.
+- If it looks like the medicine is still in the syringe barrel, this means a full dose has not be administered.
 
 <!-- image -->
-
-Once the needle has been removed, inspect the syringe barrel.
-
-- If it looks like the medicine is still in the syringe barrel, this means a full dose has not be administered.
 
 Examine the injection site.
 
@@ -1125,7 +1133,11 @@ Only use each syringe for one injection. If you have any problems, please ask yo
 
 ## Disposing of Ryzneuta
 
-- 12 Put the used prefilled syringe in a sharps disposal container right away after use.
+- 12
+
+13
+
+Put the used prefilled syringe in a sharps disposal container right away after use.
 
 Keep used syringes out of the sight and reach of children.
 
@@ -1134,7 +1146,3 @@ Keep used syringes out of the sight and reach of children.
 <!-- image -->
 
 The used syringe should be disposed of in accordance with local requirements. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment
-
-11
-
-13

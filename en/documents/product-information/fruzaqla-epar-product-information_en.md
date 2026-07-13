@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-27 16:04:19
+document_datetime: 2026-07-08 12:01:45
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fruzaqla-epar-product-information_en.pdf
 document_name: fruzaqla-epar-product-information_en.pdf
 version: success
-processing_time: 9.5636725
-conversion_datetime: 2025-12-28 01:21:46.835268
+processing_time: 9.074454
+conversion_datetime: 2026-07-13 12:48:26.527944
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -200,11 +200,9 @@ If Grade ≥ 2 skin reactions are detected, dose interruptions, adjustments, or 
 
 ## Posterior reversible encephalopathy syndrome (PRES)
 
-PRES has been reported in 1 patient (0.1%) treated with fruquintinib in clinical studies (see also section 4.8). PRES is a rare neurologic disorder that can present with headache, seizure, lethargy, confusion, altered mental function, blindness, and other visual or neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, discontinuation of
+PRES has been reported in 1 patient (0.1%) treated with fruquintinib in clinical studies (see also section 4.8). PRES is a rare neurologic disorder that can present with headache, seizure, lethargy, confusion, altered mental function, blindness, and other visual or neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). In patients developing PRES, discontinuation of fruquintinib, along with control of hypertension and supportive medical management of other symptoms, are recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-fruquintinib, along with control of hypertension and supportive medical management of other symptoms, are recommended.
 
 ## Impaired wound healing
 
@@ -332,35 +330,15 @@ Table 3: Adverse reactions reported in patients with mCRC treated with fruquinti
 | General disorders and administrative site conditions | Common      | Mucosal inflammation                     |
 | General disorders and administrative site conditions | Uncommon    | Impaired wound healing* , 22             |
 
-- 14 Pancreatic enzymes increased includes amylase increased, hyperamylasaemia, hyperlipasaemia, lipase increased
-
-15 Oral pain includes gingival pain, oral pain, toothache
-
-16 Pancreatitis includes pancreatitis, pancreatitis acute
-
-17 Total bilirubin increased includes bilirubin conjugated increased, blood bilirubin increased, blood bilirubin unconjugated increased, hyperbilirubinaemia, jaundice, jaundice cholestatic
-
-18 Cholecystitis includes cholecystitis, cholecystitis acute, cholecystitis infective
-
-19 Rash includes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic
-
-20 Musculoskeletal discomfort includes bone pain, muscle spasms, musculoskeletal chest pain, musculoskeletal pain, neck pain, pain in extremity
-
-21 Proteinuria includes albuminuria, protein urine present, proteinuria
-
-22 Impaired wound healing includes impaired healing, wound dehiscence
-
 ## Description of selected adverse reactions
 
 Data for the following selected adverse reactions are based on patients who received at least 1 dose (5 mg) of fruquintinib (5 mg once daily 3 weeks on/1 week off) across three randomised placebo-controlled studies (2012-013-00CH1; 2013-013-00CH1/FRESCO; 2019-013GLOB1/FRESCO-2). The management guidelines for these adverse reactions are described in section 4.4.
 
 ## Hypertension
 
-Hypertension was reported in 47.4% of patients in the fruquintinib arm. Approximately half of these events occurred during the first 2 weeks after initiating treatment with fruquintinib. Grade ≥ 3 hypertension events were reported in 18.4% of patients in the fruquintinib arm. Median time to onset in fruquintinib-treated patients was 15 days (range: 1 day to 7.6 months). Three patients (0.4%) treated
+Hypertension was reported in 47.4% of patients in the fruquintinib arm. Approximately half of these events occurred during the first 2 weeks after initiating treatment with fruquintinib. Grade ≥ 3 hypertension events were reported in 18.4% of patients in the fruquintinib arm. Median time to onset in fruquintinib-treated patients was 15 days (range: 1 day to 7.6 months). Three patients (0.4%) treated with fruquintinib experienced hypertensive crisis. The majority of the events recovered or resolved following dose interruption or reduction, which occurred in 3.1% and 3.7% of patients, respectively. In 0.5% of patients, hypertension led to permanent treatment discontinuation.
 
 <div style=\"page-break-after: always\"></div>
-
-with fruquintinib experienced hypertensive crisis. The majority of the events recovered or resolved following dose interruption or reduction, which occurred in 3.1% and 3.7% of patients, respectively. In 0.5% of patients, hypertension led to permanent treatment discontinuation.
 
 ## Haemorrhagic events
 
@@ -422,11 +400,9 @@ No prolongation of heart rate-corrected QT (QTc) interval (&gt; 10 milliseconds)
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of fruquintinib plus best supportive care (BSC) was evaluated in a randomised, placebo-controlled, double-blind, phase III study (FRESCO-2) in patients with mCRC previously
+The efficacy and safety of fruquintinib plus best supportive care (BSC) was evaluated in a randomised, placebo-controlled, double-blind, phase III study (FRESCO-2) in patients with mCRC previously treated with but not limited to oxaliplatin or irinotecan-based chemotherapies. The clinical efficacy of fruquintinib in the FRESCO-2 study is described below.
 
 <div style=\"page-break-after: always\"></div>
-
-treated with but not limited to oxaliplatin or irinotecan-based chemotherapies. The clinical efficacy of fruquintinib in the FRESCO-2 study is described below.
 
 ## FRESCO-2 Study
 
@@ -517,11 +493,9 @@ Based on the population pharmacokinetic analyses, mild to moderate renal impairm
 
 ## Hepatic impairment
 
-No clinically meaningful differences in the pharmacokinetics of fruquintinib were observed between patients with normal hepatic function and patients with mild (total bilirubin ≤ ULN with AST greater than ULN or total bilirubin &gt; 1 to 1.5 times ULN with any AST) hepatic impairment based on
+No clinically meaningful differences in the pharmacokinetics of fruquintinib were observed between patients with normal hepatic function and patients with mild (total bilirubin ≤ ULN with AST greater than ULN or total bilirubin &gt; 1 to 1.5 times ULN with any AST) hepatic impairment based on population pharmacokinetic analyses. Based on a dedicated hepatic impairment pharmacokinetic study, following administration of a single 2 mg oral dose of fruquintinib, no clinically meaningful differences in the dose-normalised AUC of fruquintinib were observed in subjects with moderate (Child Pugh B) hepatic impairment compared to subjects with normal hepatic function.
 
 <div style=\"page-break-after: always\"></div>
-
-population pharmacokinetic analyses. Based on a dedicated hepatic impairment pharmacokinetic study, following administration of a single 2 mg oral dose of fruquintinib, no clinically meaningful differences in the dose-normalised AUC of fruquintinib were observed in subjects with moderate (Child Pugh B) hepatic impairment compared to subjects with normal hepatic function.
 
 ## Age, body weight, gender or race
 
@@ -585,7 +559,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -607,7 +581,9 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 
 <div style=\"page-break-after: always\"></div>
 
-Ireland medinfoEMEA@takeda.com
+Ireland
+
+medinfoEMEA@takeda.com
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -796,11 +772,11 @@ Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch Dublin 2 Ireland
 
@@ -826,8 +802,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -837,7 +813,9 @@ CARTON 5 MG HARD CAPSULES
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-FRUZAQLA 5 mg hard capsules fruquintinib
+FRUZAQLA 5 mg hard capsules
+
+fruquintinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -963,11 +941,11 @@ Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch Dublin 2 Ireland
 
@@ -993,8 +971,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1293,13 +1271,15 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com Luxembourg/Luxemburg
 
 <div style=\"page-break-after: always\"></div>
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com Česká republika Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com Danmark Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com Deutschland Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com Eesti Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com Ελλάδα Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com España Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com France Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com Hrvatska Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com Takeda Products Ireland Ltd
+Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com Česká republika Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com Danmark Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com Deutschland Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com Eesti Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com Ελλάδα Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com España Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com France Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com Hrvatska Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com Ireland Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
-Ireland Tel: 1800 937 970
+Ísland Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
-medinfoEMEA@takeda.com Ísland Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com Italia Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com Κύπρος A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy Latvija Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
+Italia Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+Κύπρος A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy Latvija Takeda Latvia SIA Tel: +371 67840082
+
+medinfoEMEA@takeda.com Takeda Belgium NV Tél/Tel: +32 2 464 06 11
 
 medinfoEMEA@takeda.com Magyarország Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com Malta Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com Nederland Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com Norge Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com Österreich Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com Polska Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com Portugal Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com România Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com Slovenija Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com Slovenská republika Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com Suomi/Finland Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com Sverige Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com United Kingdom (Northern Ireland)
 

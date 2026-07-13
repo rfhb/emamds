@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-09 11:29:13
+document_datetime: 2026-07-10 13:49:06
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neofordex-epar-product-information_en.pdf
 document_name: neofordex-epar-product-information_en.pdf
 version: success
-processing_time: 9.9247244
-conversion_datetime: 2026-06-10 13:48:38.339039
+processing_time: 6.1753616
+conversion_datetime: 2026-07-13 12:47:36.955338
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -494,20 +494,22 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -618,15 +620,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -983,11 +985,17 @@ Each carton contains 10 x 1 tablets in OPA/Aluminium /PVC-Aluminium perforated u
 
 <div style=\"page-break-after: always\"></div>
 
-## Marketing Authorisation Holder and Manufacturer
+## Marketing Authorisation Holder
 
-THERAVIA 16 Rue Montrosier France
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
-92200 Neuilly-sur-Seine
+## Manufacturer
+
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+
+or
+
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -999,61 +1007,19 @@ Tél/Tel : +32 (0)2 808 2973
 
 question@theravia.com
 
-## Lietuva
-
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
-
 ## България
 
 THERAVIA
 
-Teл.: +33 (0)1 72 69 01 86
-
-question@theravia.com
-
-## Luxembourg/Luxemburg
-
-THERAVIA
-
-Tél/Tel: +352 278 62 329
-
-question@theravia.com
+Teл.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Česká republika
 
-THERAVIA
-
-Tel.: +33 (0)1 72 69 01 86
-
-question@theravia.com
-
-## Magyarország
-
-THERAVIA
-
-Tel.: +33 (0)1 72 69 01 86
-
-question@theravia.com
+THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Danmark
 
-Norgine Danmark A/S
-
-Tlf.: +4570715000
-
-medinfo@norgine.com
-
-## Malta
-
-THERAVIA
-
-Tel : 01 72 69 01 86
-
-question@theravia.com
+Norgine Danmark A/S Tlf.: +4570715000 medinfo@norgine.com
 
 ## Deutschland
 
@@ -1063,35 +1029,43 @@ Tel : 0800 10 90 001
 
 question@theravia.com
 
-## Nederland
-
-THERAVIA
-
-Tel : +31 (0)20 208 2161
-
-question@theravia.com
-
 ## Eesti
 
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
-
-## Norge
-
-Norgine Danmark A/S
-
-Tlf: +4570715000
-
-medinfo@norgine.com
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
 ## Ελλάδα
 
 RAFARM AEBE
 
 Τηλ: + 302 106776550
+
+## Lietuva
+
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+
+## Luxembourg/Luxemburg
+
+THERAVIA
+
+Tél/Tel: +352 278 62 329 question@theravia.com
+
+## Magyarország
+
+THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
+
+## Malta
+
+THERAVIA Tel : 01 72 69 01 86
+
+question@theravia.com
+
+## Nederland
+
+THERAVIA Tel : +31 (0)20 208 2161 question@theravia.com
+
+## Norge
+
+Norgine Danmark A/S Tlf: +4570715000 medinfo@norgine.com
 
 ## Österreich
 
@@ -1101,6 +1075,8 @@ Tel : 01 72 69 01 86
 
 question@theravia.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
 THERAVIA
@@ -1109,23 +1085,21 @@ Tel: + 34 914 146 613
 
 question@theravia.com
 
-## Polska
-
-THERAVIA
-
-Tel.: +33 (0)1 72 69 01 86
-
-question@theravia.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## France
 
-Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
+Norgine SAS
+
+Tél: +33 (0)1 41 39 93 90
+
+medinfo@norgine.com
 
 ## Hrvatska
 
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Ireland
 
@@ -1155,13 +1129,25 @@ RAFARM AEBE
 
 ## Latvija
 
-Immedica Pharma AB Tel: +46 (0)8 533 39 500 info@immedica.com
+Immedica Pharma AB
+
+Tel: +46 (0)8 533 39 500
+
+info@immedica.com
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Polska
+
+THERAVIA
+
+Tel.: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Portugal
 
@@ -1173,7 +1159,11 @@ question@theravia.com
 
 ## România
 
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Slovenija
 
@@ -1185,10 +1175,12 @@ THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Suomi/Finland
 
-Norgine Danmark A/S Puh/Tel: +4570715000 medinfo@norgine.com
+Norgine Danmark A/S
+
+Puh/Tel: +4570715000
+
+medinfo@norgine.com
 
 ## Sverige
 
-Norgine Danmark A/S Tel: +4570715000
-
-medinfo@norgine.com
+Norgine Danmark A/S Tel: +4570715000 medinfo@norgine.com

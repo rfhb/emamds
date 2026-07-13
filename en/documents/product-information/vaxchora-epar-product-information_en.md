@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-24 10:31:37
+document_datetime: 2026-07-10 11:46:14
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaxchora-epar-product-information_en.pdf
 document_name: vaxchora-epar-product-information_en.pdf
 version: success
-processing_time: 6.3059113
-conversion_datetime: 2025-12-19 02:21:42.416304
+processing_time: 5.8403573
+conversion_datetime: 2026-07-13 12:44:57.356349
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxchora effervescent powder and powder for oral suspension Cholera vaccine (recombinant, live, oral)
+Vaxchora powder and effervescent powder for oral suspension Cholera vaccine (recombinant, live, oral)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -42,7 +42,7 @@ For the full list of excipients see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Effervescent powder and powder for oral suspension.
+Powder and effervescent powder for oral suspension.
 
 White-to-off-white buffer powder and white-to-beige active ingredient powder.
 
@@ -68,11 +68,9 @@ Consumption of less than a half dose may result in decreased protection. If less
 
 No data are available on revaccination interval.
 
-Paediatric population
+Paediatric population The safety and efficacy of Vaxchora in children less than 2 years has not been established. No data are available.
 
 <div style=\"page-break-after: always\"></div>
-
-The safety and efficacy of Vaxchora in children less than 2 years has not been established. No data are available.
 
 ## Method of administration
 
@@ -234,10 +232,10 @@ In individuals with blood group O only, the protective efficacy against moderate
 
 Table 1: Protective Efficacy in the Prevention of Moderate to Severe Diarrhoea Following Challenge with Vibrio cholerae O1 El Tor Inaba at 10 Days and 3 Months Post-Vaccination (Intent-to-Treat Population)
 
-| Parameter                                             | Vaxchora 10 Day Challenge N=35   | Vaxchora 3 Month Challenge N=33   | Combined Placebo 10 Day or 3 Month Challenge N=66   |
-|-------------------------------------------------------|----------------------------------|-----------------------------------|-----------------------------------------------------|
-| Number of Subjects with Moderate or Severe            | 2 (5.7%)                         | 4 (12.1%)                         | 39 (59.1%)                                          |
-| Diarrhoea (Attack Rate) Protective Efficacy% [95% CI] | 90.3% [62.7%, 100.0%]            | 79.5% [49.9%, 100.0%]             | -                                                   |
+| Parameter                                              | Vaxchora 10 Day Challenge N=35   | Vaxchora 3 Month Challenge N=33   | Combined Placebo 10 Day or 3 Month Challenge N=66   |
+|--------------------------------------------------------|----------------------------------|-----------------------------------|-----------------------------------------------------|
+| Number of Subjects with Moderate or Severe             | 2 (5.7%)                         | 4 (12.1%)                         | 39 (59.1%)                                          |
+| Diarrhoea (Attack Rate) Protective Efficacy % [95% CI] | 90.3% [62.7%, 100.0%]            | 79.5% [49.9%, 100.0%]             | -                                                   |
 
 N=number of subjects with analyzable samples
 
@@ -307,14 +305,6 @@ Table 4: Vibriocidal Antibody Seroconversion Against Classical Inaba Vibrio chol
 | (age in years)                       | N b                   | Seroconversion a % [98.3% CI] | N b                  | Seroconversion a % [95% CI c ] | % d [96.7% CI]                                                                              |
 | Paediatric Trial (Study 5) (2 - <18) | 399                   | 98.5% [96.2%, 99.4%]          | 67                   | 1.5% [0.3%, 8.0%]              | 5.0% [2.8%, 6.4%] c                                                                         |
 
-a Seroconversion is defined as the percentages of subjects who had at least a 4-fold rise in vibriocidal antibody titer at 10 days post-vaccination compared to baseline.
-
-b  N=number of subjects with analyzable samples at Day 1 and Day 11.
-
-c CI=confidence interval.
-
-d Non-inferiority  criteria:  lower  bound  of  the  two-sided  98.3%  confidence  interval  on  the  difference  in seroconversion rates compared with adults ages 18 to &lt;46 years had to be greater than -10 percentage points and  the  lower  bound  of  the  two-sided  98.3%  confidence  interval  on  the  proportion  of  vaccinees  who seroconverted 10 days after vaccination had to be equal to or exceed 70%.
-
 Table 5: Vibriocidal Antibody Seroconversion Against Classical Inaba Vibrio cholerae Vaccine Strain 10 through 729 Days Post-Vaccination in Children age 12 to &lt;18 Years [Immunogenicity Evaluable Population in the Long-Term Follow-up Substudy]
 
 |   Paediatric Trial (12 - < 18 years) Day Post-Vaccination |   Vaxchora N b | Vaxchora Seroconversion a % [95% CI c ]   |
@@ -326,12 +316,6 @@ Table 5: Vibriocidal Antibody Seroconversion Against Classical Inaba Vibrio chol
 |                                                       364 |             70 | [72.7%, 90.1%] 68.6%                      |
 |                                                       546 |             67 | [57.0%, 78.2%] 73.1% [61.5%, 82.3%]       |
 |                                                       729 |             62 | 64.5% [52.1%, 75.3%]                      |
-
-a Seroconversion  is  defined  as  the  percentages  of  subjects  who  had  at  least  a  4-fold  rise  in vibriocidal antibody titer post-vaccination compared to baseline.
-
-b  N=number of subjects with analyzable samples in the immunogenicity evaluable population of the long term follow-up sub-study.
-
-c CI=confidence interval.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Vaxchora in one or more subsets of the paediatric population in the prevention of cholera (see section 4.2 for information on paediatric use).
 
@@ -393,9 +377,9 @@ Pack size: 1 set of 2 sachets. One dose consists of 2 sachets (1 active ingredie
 
 This medicinal product contains genetically modified organisms. Unused medicinal product or waste material must be disposed of in compliance with the local biosafety guidelines.
 
-To prepare the vaccine for administration the active and buffer component sachets are removed from the refrigerator no more than 12 hours at 25°C prior to reconstitution.
+To prepare the vaccine for administration the active and buffer component sachets are removed from
 
-It is important to mix the sachets in the order described. First, the contents of the buffer sachet 1 (a white-to-off-white powder) are mixed with 100 mL of cold or room temperature (≤25°C) noncarbonated or carbonated bottled water in a cup. For children age 2 to &lt;6 years ONLY, half (50 mL) of the buffer solution should then be discarded before proceeding to the next step. Second, the contents of the active component sachet 2 (a white-to-beige powder) are then added and the mixture is stirred for at least 30 seconds. The reconstituted vaccine forms a slightly cloudy suspension that may contain some white particulates. Sucrose (up to 4 g/ 1 teaspoon) or stevia sweetener (no more than 1 gram / ¼ teaspoon) may then be stirred into the suspension if desired. DO NOT add other sweeteners as this may reduce the effectiveness of the vaccine. The dose should be administered within 15 minutes of reconstitution. Some residue may remain in the cup. The cup should be washed with soap and hot water.
+the refrigerator no more than 12 hours at 25°C prior to reconstitution. It is important to mix the sachets in the order described. First, the contents of the buffer sachet 1 (a white-to-off-white powder) are mixed with 100 mL of cold or room temperature (≤25°C) noncarbonated or carbonated bottled water in a cup. For children age 2 to &lt;6 years ONLY, half (50 mL) of the buffer solution should then be discarded before proceeding to the next step. Second, the contents of the active component sachet 2 (a white-to-beige powder) are then added and the mixture is stirred for at least 30 seconds. The reconstituted vaccine forms a slightly cloudy suspension that may contain some white particulates. Sucrose (up to 4 g/ 1 teaspoon) or stevia sweetener (no more than 1 gram / ¼ teaspoon) may then be stirred into the suspension if desired. DO NOT add other sweeteners as this may reduce the effectiveness of the vaccine. The dose should be administered within 15 minutes of reconstitution. Some residue may remain in the cup. The cup should be washed with soap and hot water.
 
 Note: if the sachets are reconstituted in the incorrect order, the vaccine must be discarded.
 
@@ -522,7 +506,7 @@ Single carton box
 
 Vaxchora
 
-Effervescent powder and powder for oral suspension
+Powder and effervescent powder for oral suspension
 
 Cholera vaccine (recombinant, live, oral)
 
@@ -536,7 +520,7 @@ Contains sucrose, lactose, and sodium. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Effervescent powder and powder for oral suspension
+Powder and effervescent powder for oral suspension
 
 1 sachet powder for oral suspension
 
@@ -678,11 +662,11 @@ Bavarian Nordic A/S
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Vaxchora effervescent powder and powder for oral suspension cholera vaccine (recombinant, live, oral)
+## Package leaflet: Information for the user
+
+## Vaxchora powder and effervescent powder for oral suspension cholera vaccine (recombinant, live, oral)
 
 ## Read all of this leaflet carefully before you take this vaccine because it contains important information for you.
 
@@ -974,7 +958,7 @@ This medicine contains genetically-modified organisms. Local biosafety guideline
 
 ## What Vaxchora looks like and contents of the pack
 
-One dose of Vaxchora effervescent powder and powder for oral suspension is provided in a carton containing two sachets. One sachet contains white-to-off-white buffer sodium hydrogen carbonate effervescent powder. The other sachet contains white-to-beige active ingredient vaccine powder for oral suspension.
+One dose of Vaxchora powder and effervescent powder for oral suspension is provided in a carton containing two sachets. One sachet contains white-to-off-white buffer sodium hydrogen carbonate effervescent powder. The other sachet contains white-to-beige active ingredient vaccine powder for oral suspension.
 
 ## Marketing Authorisation Holder
 

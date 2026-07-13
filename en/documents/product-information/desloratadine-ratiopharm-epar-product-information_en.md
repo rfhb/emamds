@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:08:28
+document_datetime: 2026-07-10 10:44:22
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/desloratadine-ratiopharm-epar-product-information_en.pdf
 document_name: desloratadine-ratiopharm-epar-product-information_en.pdf
 version: success
-processing_time: 5.1807132
-conversion_datetime: 2025-12-19 04:01:46.075676
+processing_time: 4.8560051
+conversion_datetime: 2026-07-13 12:49:42.706599
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -127,7 +127,7 @@ In a clinical pharmacology trial desloratadine tablets taken concomitantly with 
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foetal/neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
 
 ## Breast-feeding
 
@@ -154,15 +154,15 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | System Organ Class                 | Frequency           | Adverse reactions seen with desloratadine                                     |
 |------------------------------------|---------------------|-------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders | Not known           | Increased appetite                                                            |
-| Psychiatric disorders              | Very rare Not known | Hallucinations Abnormal behaviour, aggression, depressed mood                 |
+| Psychiatric disorders              | Very rare Not known | Hallucinations Abnormal behaviour*, aggression*, depressed mood               |
 | Nervous system disorders           | Common Very rare    | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
 | Eye disorders                      | Not known           | Eye dryness                                                                   |
-| Cardiac disorders                  | Very rare Not known | Tachycardia, palpitations QT prolongation                                     |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Frequency                  | Adverse reactions seen with desloratadine                                                                             |
 |------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation*                                                                            |
 | Gastrointestinal disorders                           | Common Very rare           | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                      |
 | Hepatobiliary disorders                              | Very rare Not known        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                  |
 | Skin and subcutaneous tissue disorders               | Not known                  | Photosensitivity                                                                                                      |
@@ -174,7 +174,7 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
 A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95% Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95% CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
@@ -194,9 +194,9 @@ Desloratadine is not eliminated by haemodialysis; it is not known if it is elimi
 
 ## Symptoms
 
-Based on a multiple dose clinical trial, in which up to 45 mg of desloratadine was administered (nine times the clinical dose), no clinically relevant effects were observed.
-
 <div style=\"page-break-after: always\"></div>
+
+Based on a multiple dose clinical trial, in which up to 45 mg of desloratadine was administered (nine times the clinical dose), no clinically relevant effects were observed.
 
 ## Paediatric population
 
@@ -294,9 +294,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30 °C.
-
-Store in the original package in order to protect from moisture.
+Do not store above 30 °C. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -332,7 +330,7 @@ Date of latest renewal: 8 August 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -463,8 +461,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product not subject to medical prescription
-
 ## 15. INSTRUCTIONS ON USE
 
 For adults
@@ -483,16 +479,19 @@ Take one tablet per day.
 
 Desloratadine ratiopharm 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-&lt;Not applicable.&gt;
-
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 &lt;Not applicable.&gt;
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+&lt;Not applicable.&gt;
+
+17
 
 <div style=\"page-break-after: always\"></div>
 
@@ -561,7 +560,7 @@ Desloratadine ratiopharm contains desloratadine which is an antihistamine.
 
 ## How Desloratadine ratiopharm works
 
-Desloratadine ratiopharm is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Desloratadine ratiopharm is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Desloratadine ratiopharm should be used
 
@@ -662,36 +661,48 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Other side effects that may occur:
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - fatigue
 - dry mouth
 - headache
 
-## Very rare (may affect up to 1 in 10,000 people)
+Very rare (may affect up to 1 in 10,000 people)
 
+- severe allergic reactions
 - rash
-- pounding or irregular heartbeat, fast heartbeat
-- stomach ache, feeling sick (nausea), vomiting, upset stomach, diarrhoea
-- dizziness, drowsiness, inability to sleep, seizures, restlessness with increased body movement
+- pounding or irregular heartbeat
+- fast heartbeat
+- stomach ache
+- feeling sick (nausea)
+- vomiting
+- upset stomach
+- diarrhoea
+- dizziness
+- drowsiness
+- inability to sleep
+- seizures
+- restlessness with increased body movement
 - muscle pain
 - hallucinations
-- liver inflammation, abnormal liver function tests
+- liver inflammation
+- abnormal liver function tests
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
+
+<div style=\"page-break-after: always\"></div>
 
 - unusual weakness
 - yellowing of the skin and/or eyes
 - increased sensitivity of the skin to the sun, even in case of hazy sun, and to UV light, for instance to UV lights of a solarium
 - slow heartbeat, changes in the way the heart beats
-- abnormal behaviour, aggression
+- abnormal behaviour
+- aggression
 - weight increased, increased appetite
 - depressed mood
 - dry eyes
 
 ## Reporting of side effects
-
-<div style=\"page-break-after: always\"></div>
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.  By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -701,7 +712,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
-## Do not store above 30°C.
+Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
@@ -724,9 +735,7 @@ Film-coating: polyvinyl alcohol (part. hydrolysed), titanium dioxide (E171), mac
 
 Round, biconvex, blue film-coated tablets.
 
-Desloratadine ratiopharm 5 mg film-coated tablets are supplied in PVC/PVdC/aluminium blister packs of 7, 10, 14, 15, 20 and 30 film-coated tablets.
-
-Not all pack sizes may be marketed.
+Desloratadine ratiopharm 5 mg film-coated tablets are supplied in PVC/PVdC/aluminium blister packs of 7, 10, 14, 15, 20 and 30 film-coated tablets. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -734,17 +743,23 @@ ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
 ## Manufacturer
 
-Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany or
-
-Teva Pharmaceutical Works Private Limited Company Pallagi út 13 4042 Debrecen Hungary
-
 <div style=\"page-break-after: always\"></div>
+
+Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany
 
 or
 
-Pharmachemie B.V. Swensweg 5 2031 GA Haarlem The Netherlands or
+Teva Pharmaceutical Works Private Limited Company Pallagi út 13 4042 Debrecen Hungary
 
-Teva Czech Industries s.r.o. Ostravaská 29, c.p. 305 74770 Opava-Komárov Czech Republic or
+or
+
+Pharmachemie B.V. Swensweg 5 2031 GA Haarlem The Netherlands
+
+or
+
+Teva Czech Industries s.r.o. Ostravaská 29, c.p. 305 74770 Opava-Komárov Czech Republic
+
+or
 
 Teva Operations Poland Sp. z o.o. ul. Mogilska 80 31-546 Kraków Poland
 
@@ -752,25 +767,15 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
-
-UAB Teva Baltics
-
-Tel: +370 52660203
 
 ## България
 
 Тева Фарма ЕАД
 
-Тел: +359 24899585
+Тел
 
-## Luxembourg/Luxemburg
-
-ratiopharm GmbH
-
-Allemagne/Deutschland Tél/Tel: +49 73140202
+.: +359 24899585
 
 ## Česká republika
 
@@ -778,29 +783,33 @@ Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
 
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel: +36 12886400
-
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
-
-## Malta
-
-Teva Pharmaceuticals Ireland L-Irlanda
-
-Tel: +44 2075407117
+Tlf.: +45 44985511
 
 ## Deutschland
 
-ratiopharm GmbH
+ratiopharm GmbH Tel: +49 73140202
 
-Tel: +49 73140202
+## Lietuva
+
+UAB Teva Baltics Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+ratiopharm GmbH Allemagne/Deutschland Tél/Tel: +49 73140202
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α.Ε. ilGreċja Tel: +30 2118805000
 
 ## Nederland
 
@@ -820,17 +829,13 @@ Teva Norway AS
 
 Tlf: +47 66775590
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
+TEVA HELLAS Α.Ε .
+
+Τηλ: +30 2118805000
+
 ## Österreich
-
-Specifar Α . Β . Ε . Ε .
-
-Τηλ: +30
-
-2118805000
 
 ratiopharm Arzneimittel Vertriebs-GmbH
 
@@ -840,13 +845,13 @@ Tel: +43 1970070
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
+Tel.: +48 223459300
 
 ## France
 
@@ -912,7 +917,7 @@ Puh/Tel: +358 201805900
 
 ## Κύπρος
 
-Specifar Α.Β . Ε . Ε .
+TEVA HELLAS Α . Ε .
 
 Ελλάδα
 
@@ -932,14 +937,8 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland
-
-Ireland
-
-Tel: +44 2075407117
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

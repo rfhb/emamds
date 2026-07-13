@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:59:23
+document_datetime: 2026-07-10 15:19:43
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fendrix-epar-product-information_en.pdf
 document_name: fendrix-epar-product-information_en.pdf
 version: success
-processing_time: 5.0952048
-conversion_datetime: 2025-12-28 08:30:05.285702
+processing_time: 4.9775991
+conversion_datetime: 2026-07-13 12:48:45.721126
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ Hepatitis B surface antigen 1, 2, 3
 
 1 adjuvanted by AS04C containing:
 
-- 3- O -desacyl-4'- monophosphoryl lipid A (MPL)  2
+- 3- O -desacyl- 4' - monophosphoryl lipid A (MPL)  2
 
 50 micrograms
 
@@ -112,15 +112,13 @@ Since intramuscular administration into the gluteal muscle could lead to a subop
 
 Fendrix should under no circumstances be administered intradermally or intravenously.
 
-Patients with chronic liver disease or with HIV infection or hepatitis C carriers should not be precluded from vaccination against hepatitis B . The vaccine could be advised since HBV infection can
+Patients with chronic liver disease or with HIV infection or hepatitis C carriers should not be precluded from vaccination against hepatitis B . The vaccine could be advised since HBV infection can be severe in these patients: the Hepatitis B vaccination should thus be considered on a case-by-case basis by the physician.
 
 <div style=\"page-break-after: always\"></div>
 
-be severe in these patients: the Hepatitis B vaccination should thus be considered on a case-by-case basis by the physician.
-
 Syncope (fainting) can occur following, or even before, any vaccination especially in adolescents as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Traceability
 
@@ -158,7 +156,7 @@ Some of the undesirable effects mentioned under section 4.8 may affect the abili
 
 <div style=\"page-break-after: always\"></div>
 
-Clinical trials involving the administration of 2,476 doses of Fendrix to 82 pre-haemodialysis and haemodialysis patients and to 713 healthy subjects ≥ 15 years of age allowed to document the reactogenicity of the vaccine.
+Clinical trials involving the administration of 2,476 doses of Fendrix to 82 pre-haemodialysis and haemodialysis patients and to 713 healthy subjects  15 years of age allowed to document the reactogenicity of the vaccine.
 
 ## Pre-haemodialysis and haemodialysis patients
 
@@ -314,7 +312,7 @@ Pharmacotherapeutic group: Vaccines, hepatitis vaccines, ATC code J07BC01.
 
 <div style=\"page-break-after: always\"></div>
 
-Fendrix induces specific humoral antibodies against HBsAg (anti-HBs antibodies).  An anti-HBs antibody titre ≥ 10 mIU/ml correlates with protection to HBV infection.
+Fendrix induces specific humoral antibodies against HBsAg (anti-HBs antibodies).  An anti-HBs antibody titre  10 mIU/ml correlates with protection to HBV infection.
 
 It can be expected that hepatitis D will also be prevented by immunisation with Fendrix as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection.
 
@@ -322,21 +320,21 @@ It can be expected that hepatitis D will also be prevented by immunisation with 
 
 ## In pre-haemodialysis and haemodialysis patients:
 
-In a comparative clinical study in 165 pre-haemodialysis and haemodialysis patients (15 years and above), protective levels of specific humoral antibodies (anti-HBs titres ≥ 10 mIU/ml) were observed in 74.4% of Fendrix recipients (N = 82) one month after the third dose (i.e at month 3), as compared to 52.4% of patients in the control group who received a double dose of a commercially available hepatitis B vaccine (N = 83) for this population.
+In a comparative clinical study in 165 pre-haemodialysis and haemodialysis patients (15 years and above), protective levels of specific humoral antibodies (anti-HBs titres  10 mIU/ml) were observed in 74.4% of Fendrix recipients (N = 82) one month after the third dose (i.e at month 3), as compared to 52.4% of patients in the control group who received a double dose of a commercially available hepatitis B vaccine (N = 83) for this population.
 
-At month 3, Geometric Mean Titres (GMT) were 223.0 mIU/ml and 50.1 mIU/ml in the Fendrix and control groups respectively, with 41.0% and 15.9% of subjects with anti-HBs antibody titres ≥ 100 mIU/ml respectively.
+At month 3, Geometric Mean Titres (GMT) were 223.0 mIU/ml and 50.1 mIU/ml in the Fendrix and control groups respectively, with 41.0% and 15.9% of subjects with anti-HBs antibody titres  100 mIU/ml respectively.
 
-After completion of a four dose primary course (i.e at month 7), 90.9% of Fendrix recipients were seroprotected ( ≥ 10 mIU/ml) against hepatitis B, in comparison with 84.4% in a control group who received the commercially available hepatitis B vaccine.
+After completion of a four dose primary course (i.e at month 7), 90.9% of Fendrix recipients were seroprotected (  10 mIU/ml) against hepatitis B, in comparison with 84.4% in a control group who received the commercially available hepatitis B vaccine.
 
-At month 7, GMTs were 3559.2 mIU/ml and 933.0 mIU/ml in the Fendrix and control groups who received the commercially available hepatitis B vaccine respectively, with 83.1% and 67.5% of subjects with anti-HBs antibody titres ≥ 100 mIU/ml respectively.
+At month 7, GMTs were 3559.2 mIU/ml and 933.0 mIU/ml in the Fendrix and control groups who received the commercially available hepatitis B vaccine respectively, with 83.1% and 67.5% of subjects with anti-HBs antibody titres  100 mIU/ml respectively.
 
 ## Antibody persistence
 
 In pre-haemodialysis and haemodialysis patients:
 
-Anti-HBs antibodies have been shown to persist for at least 36 months following a 0, 1, 2, 6 month primary course of Fendrix in pre-haemodialysis and haemodialysis patients. At month 36, 80.4% of these patients retained protective antibody levels (anti-HBs titres ≥ 10mIU/ml), as compared to 51.3% of patients who received a commercially available hepatitis B vaccine.
+Anti-HBs antibodies have been shown to persist for at least 36 months following a 0, 1, 2, 6 month primary course of Fendrix in pre-haemodialysis and haemodialysis patients. At month 36, 80.4% of these patients retained protective antibody levels (anti-HBs titres  10mIU/ml), as compared to 51.3% of patients who received a commercially available hepatitis B vaccine.
 
-At month 36, GMTs were 154.1 mIU/ml and 111.9 mIU/ml in the Fendrix and control groups respectively, with 58.7% and 38.5% of subjects with anti-HBs antibody titres ≥ 100 mIU/ml respectively.
+At month 36, GMTs were 154.1 mIU/ml and 111.9 mIU/ml in the Fendrix and control groups respectively, with 58.7% and 38.5% of subjects with anti-HBs antibody titres  100 mIU/ml respectively.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -350,11 +348,9 @@ Non-clinical data reveal no special hazard for humans based on conventional anim
 
 ## 6.1 List of excipients
 
-Sodium chloride Water for injections
+Sodium chloride Water for injections For adjuvants, see section 2.
 
 <div style=\"page-break-after: always\"></div>
-
-For adjuvants, see section 2.
 
 ## 6.2 Incompatibilities
 
@@ -366,7 +362,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Do not freeze.
 
@@ -390,11 +386,9 @@ Before administration, the vaccine should be well shaken to obtain a slightly op
 
 The vaccine should be visually inspected both before and after re-suspension for any foreign particulate matter and/or change in physical appearance. The vaccine must not be used if any change in the appearance of the vaccine has taken place.
 
-Instructions for the pre-filled syringe
+Instructions for the pre-filled syringe Hold the syringe by the barrel, not by the plunger. Unscrew the syringe cap by twisting it anticlockwise.
 
 <!-- image -->
-
-Hold the syringe by the barrel, not by the plunger. Unscrew the syringe cap by twisting it anticlockwise.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -445,11 +439,11 @@ Do not pull the syringe plunger out of the barrel. If it happens, do not adminis
 
 Name and address of the manufacturer of the biological active substance
 
-GlaxoSmithKline Biologicals S.A. 89, rue de l'Institut - 1330 Rixensart Belgium
+GlaxoSmithKline Biologicals S.A. 89, rue de l'Institut 1330 Rixensart Belgium
 
 Name and address of the manufacturer responsible for batch release
 
-GlaxoSmithKline Biologicals S.A. 89, rue de l'Institut - 1330 Rixensart Belgium
+GlaxoSmithKline Biologicals S.A. 89, rue de l'Institut 1330 Rixensart Belgium
 
 ## B CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -507,7 +501,7 @@ Hepatitis B surface antigen 1, 2, 3
 
 1 adjuvanted by AS04C containing:
 
-- 3- O -desacyl-4'- monophosphoryl lipid A (MPL)  2
+- 3- O -desacyl- 4' - monophosphoryl lipid A (MPL)  2
 
 50 micrograms
 
@@ -604,8 +598,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -613,19 +607,17 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PREFILLED SYRINGE                                                |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PREFILLED SYRINGE                                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Fendrix suspension for injection
+Fendrix suspension for injection IM
 
-IM
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -637,8 +629,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (0.5 ml)
 
@@ -649,9 +641,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Fendrix suspension for injection
 
@@ -679,8 +671,8 @@ Fendrix is a vaccine which prevents hepatitis B.
 
 It is used for patients with kidney problems:
 
-- patients having 'haemo-dialysis'- where a 'dialysis' machine removes waste products from the blood
-- patients who are going to have 'haemo-dialysis' in the future.
+- patients having 'haemo -dialysis' -where a 'dialysis' machine removes waste products from the blood
+- patients who are going to have 'haemo -dialysis' in the future.
 
 Fendrix is for adults and young people aged 15 years and above.
 
@@ -702,7 +694,7 @@ Hepatitis B is caused by a virus which makes the liver swollen.
 ## How Fendrix works
 
 - Fendrix helps your body to produce its own protection against the virus (antibodies). These antibodies will protect you against the disease.
-- Fendrix contains two things called 'MPL' (a non-toxic purified fat derivative from bacteria) and 'aluminium phosphate'. These make the vaccine work quicker, better and last for longer.
+- Fendrix contains two things called 'MPL' (a non -toxic purified fat derivative from bacteria) and 'aluminium phosphate'. These make the vaccine work quicker, better and last for longer.
 - As with all vaccines, a course of Fendrix cannot fully protect all people that are vaccinated.
 
 <div style=\"page-break-after: always\"></div>
@@ -736,7 +728,7 @@ If any of the above apply to you (or you are not sure), talk to your doctor or p
 Tell your doctor if you are taking, have recently taken, might take any other medicines or have recently received any other vaccine.
 
 - You should have a gap of at least 2 to 3 weeks between having Fendrix and any other vaccine.
-- Fendrix may need to be given at the same time as an injection of hepatitis B 'immuno-globulins'. Your doctor will make sure that the vaccines are injected into different parts of the body.
+- Fendrix may need to be given at the same time as an injection of hepatitis B 'immuno -globulins'. Your doctor will make sure that the vaccines are injected into different parts of the body.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -748,7 +740,7 @@ You may feel tired or get a headache after receiving Fendrix. If this happens, t
 
 ## Fendrix contains sodium
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -773,13 +765,17 @@ The doctor or nurse will give Fendrix as an injection into your muscle. This is 
 
 - -
 
-- Second injection - 1 month after the first injection.
+- Second injection
+
+- 1 month after the first injection.
 
 - -
 
 - Third injection
 
 - 2 months after the first injection.
+
+- -
 
 - Fourth injection - 6 months after the first injection.
 
@@ -806,11 +802,9 @@ Rare (these may occur with up to 1 in 1,000 doses of the vaccine): allergy, hot 
 
 Additionally, the following side effects have also been reported with other hepatitis B vaccines:
 
-Very rare (these may occur with up to 1 in 10,000 doses of the vaccine): fits, fainting, problems with the nerves of your eye (optic neuritis), multiple sclerosis, loss of feeling or problems moving some parts of your body, severe headache with a stiff neck, numbness or weakness of the arms and legs (neuropathy), inflammation of nerves (neuritis), weakness and paralysis in the extremities and often
+Very rare (these may occur with up to 1 in 10,000 doses of the vaccine): fits, fainting, problems with the nerves of your eye (optic neuritis), multiple sclerosis, loss of feeling or problems moving some parts of your body, severe headache with a stiff neck, numbness or weakness of the arms and legs (neuropathy), inflammation of nerves (neuritis), weakness and paralysis in the extremities and often progressing to the chest and face (Guillain-Barré syndrome), swelling or infection of the brain (encephalitis, encephalopathy).
 
 <div style=\"page-break-after: always\"></div>
-
-progressing to the chest and face (Guillain-Barré syndrome), swelling or infection of the brain (encephalitis, encephalopathy).
 
 Allergic reactions, including anaphylactoid reactions, may also occur very rarely (with up to 1 in 10,000 doses of the vaccine). These may be local or widespread rashes that may be itchy or blistering, swelling of the eyes and face, difficulty in breathing or swallowing, a sudden drop in blood pressure and loss of consciousness. Such reactions may occur before leaving the doctor's surgery. However, you should seek immediate treatment in any event.
 
@@ -835,7 +829,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Hepatitis B surface antigen 1, 2, 3
 
-1 adjuvanted by AS04C containing: - 3O -desacyl-4'- monophosphoryl lipid A (MPL)  2
+1 adjuvanted by AS04C containing:
+
+- 3O -desacyl4' - monophosphoryl lipid A (MPL)  2
 
 2 adsorbed on aluminium phosphate (0.5 milligrams Al 3+ in total)
 
@@ -851,37 +847,87 @@ Fendrix is available in 1-dose pre-filled syringe with or without separate needl
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder and Manufacturer:
-
 20 micrograms
 
 50 micrograms
 
 <div style=\"page-break-after: always\"></div>
 
-GlaxoSmithKline Biologicals s.a. Rue de l'Institut 89 B-1330 Rixensart Belgium
+## Marketing Authorisation Holder and Manufacturer:
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation holder.
 
+## Lietuva
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +370 80000334
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 85 52 00
+
+## Magyarország
+
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
+
+## Malta
+
+GlaxoSmithKline Biologicals SA Tel: +356 80065004
+
+## Nederland
+
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+
+## Norge
+
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
+
+## Österreich
+
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
+
+## Polska
+
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (22) 576 9000
+
+## Portugal
+
+Smith Kline &amp; French Portuguesa - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+
+## România
+
+GlaxoSmithKline Biologicals SA
+
+GlaxoSmithKline Biologicals s.a. Rue de l'Institut 89 B-1330 Rixensart Belgium
+
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 ## България
 
-GlaxoSmithKline Biologicals SA Тел. +359 80018205
+GlaxoSmithKline Biologicals SA
+
+Тел.
+
+: +359 80018205
 
 ## Česká repu blika
 
-GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: +49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -901,63 +947,19 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0) 1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Biologicals SA Tel.: +385 800787089
-
-## Lietuva
-
-GlaxoSmithKline Biologicals SA Tel. +370 80000334
-
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
-
-## Magyarország
-
-GlaxoSmithKline Biologicals SA Tel.: +36 80088309
-
-## Malta
-
 GlaxoSmithKline Biologicals SA
 
-Tel: +356 80065004
-
-## Nederland
-
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
-
-## Norge
-
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
-
-## Österreich
-
-GlaxoSmithKline Pharma GmbH. Tel: + 43 (0)1 97075 0 at.info@gsk.com
-
-## Polska
-
-GSK Services Sp. z o.o. Tel.: + 48 (22) 576 9000
-
-## Portugal
-
-Smith Kline &amp; French Portuguesa - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
-
-## România
-
-GlaxoSmithKline Biologicals SA
+## Tel: +385 800787089
 
 Tel: +40 800672524
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ireland
-
-## Slovenija
 
 GlaxoSmithKline (Ireland) Ltd
 
 Tel: + 353 (0)1 495 5000
+
+## Slovenija
 
 GlaxoSmithKline Biologicals SA
 
@@ -965,7 +967,7 @@ Tel: +386 80688869
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1009,19 +1011,15 @@ GlaxoSmithKline Biologicals SA
 
 Tel: +371 80205045
 
-## United Kingdom (Northern Ireland )
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +44(0)800 221441
-
-customercontactuk@gsk.com
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -1043,9 +1041,9 @@ Fendrix should not be given to subjects suffering from acute severe febrile illn
 
 Fendrix should be injected intramuscularly in the deltoid region.
 
-Since intramuscular administration into the gluteal muscle could lead to a suboptimal response to the vaccine, this route should be avoided.
-
 <div style=\"page-break-after: always\"></div>
+
+Since intramuscular administration into the gluteal muscle could lead to a suboptimal response to the vaccine, this route should be avoided.
 
 ## Fendrix should under no circumstances be administered intradermally or intravenously.
 
@@ -1053,13 +1051,13 @@ As pre-haemodialysis and haemodialysis patients are particularly exposed to HBV 
 
 Appropriate medical treatment should always be readily available in case of rare anaphylactic reactions following the administration of the vaccine.
 
-Instructions for the pre-filled syringe
-
-Disposal
+## Instructions for the pre-filled syringe
 
 <!-- image -->
 
 <!-- image -->
+
+## Disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 

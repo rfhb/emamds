@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-05 15:41:00
+document_datetime: 2026-07-07 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ixchiq.html
 document_name: ixchiq.html
 version: success
-processing_time: 0.1294407
-conversion_datetime: 2026-06-07 11:53:20.772624
+processing_time: 0.1718374
+conversion_datetime: 2026-07-13 12:34:50.130048
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Ixchiq
-
 # Ixchiq
 
 [RSS](/en/individual-human-medicine.xml/243391)
@@ -202,7 +126,7 @@ English (EN) (119.78 KB - PDF)
 
 [View](/en/documents/overview/ixchiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-678)
+[Other languages (22)](#file-language-dropdown-131)
 
 български (BG) (141.04 KB - PDF)
 
@@ -354,7 +278,7 @@ English (EN) (436.6 KB - PDF)
 
 [View](/en/documents/product-information/ixchiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-481)
+[Other languages (24)](#file-language-dropdown-217)
 
 български (BG) (459.1 KB - PDF)
 
@@ -508,7 +432,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -526,7 +451,7 @@ English (EN) (47.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-600)
 
 български (BG) (63.07 KB - PDF)
 
@@ -674,25 +599,16 @@ norsk (NO) (55.83 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Ixchiq
-
-Active substance
-
-Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated
-
-International non-proprietary name (INN) or common name
-
-Chikungunya vaccine (live)
-
-Therapeutic area (MeSH)
-
-Chikungunya virus
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BP01
+- **Name of medicine**
+    - Ixchiq
+- **Active substance**
+    - Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated
+- **International non-proprietary name (INN) or common name**
+    - Chikungunya vaccine (live)
+- **Therapeutic area (MeSH)**
+    - Chikungunya virus
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BP01
 
 ### Pharmacotherapeutic group
 
@@ -704,35 +620,20 @@ Ixchiq is indicated for active immunisation for the prevention of disease caused
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005797
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-PRIME: priority medicine
-
-This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-
-Marketing authorisation holder
-
-Valneva Austria GmbH
-
-Campus Vienna Biocenter 3 Landstrasse A-1030 Vienna Austria
-
-Opinion adopted
-
-30/05/2024
-
-Marketing authorisation issued
-
-28/06/2024
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005797
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **PRIME: priority medicine**
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
+- **Marketing authorisation holder**
+    - Valneva Austria GmbH Campus Vienna Biocenter 3  Landstrasse  A-1030 Vienna  Austria
+- **Opinion adopted**
+    - 30/05/2024
+- **Marketing authorisation issued**
+    - 28/06/2024
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -758,6 +659,16 @@ English (EN) (155.3 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/ixchiq-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
+Ixchiq-PAM-0000338015 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3307640
+
+English (EN) (272.95 KB - PDF)
+
+**First published:** 07/07/2026
+
+[View](/en/documents/variation-report/ixchiq-pam-0000338015-epar-assessment-report_en.pdf)
+
 Ixchiq-H-C-005797-REF-0000269473 : EPAR - Assessment report - Variation
 
 Adopted Reference Number: EMADOC-1700519818-2369308
@@ -776,7 +687,7 @@ English (EN) (219.69 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-951)
+[Other languages (24)](#file-language-dropdown-743)
 
 български (BG) (154.15 KB - PDF)
 
@@ -976,6 +887,14 @@ English (EN) (137.49 KB - PDF)
 
 ## News on Ixchiq
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
+
+26/06/2026
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
+
+26/06/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
 25/07/2025
@@ -1011,9 +930,11 @@ English (EN) (137.49 KB - PDF)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq-0)
 - [Ixchiq - referral](/en/node/281932)
+- [Ixchiq - opinion on variation to marketing authorisation](/en/medicines/human/variation/ixchiq)
+- [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq-1)
 
 **This page was last updated on**
 
-05/06/2026
+07/07/2026
 
 ## Share this page

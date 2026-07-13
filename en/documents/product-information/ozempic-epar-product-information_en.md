@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 12:27:41
-document_pages: 120
+document_datetime: 2026-07-10 11:01:55
+document_pages: 142
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ozempic-epar-product-information_en.pdf
 document_name: ozempic-epar-product-information_en.pdf
 version: success
-processing_time: 36.519365
-conversion_datetime: 2026-04-25 16:22:14.505671
+processing_time: 57.6126561
+conversion_datetime: 2026-07-13 12:46:33.08673
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,9 +24,11 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ozempic 0.25 mg solution for injection in pre-filled pen Ozempic 0.5 mg solution for injection in pre-filled pen Ozempic 1 mg solution for injection in pre-filled pen Ozempic 2 mg solution for injection in pre-filled pen
+Ozempic 0.25 mg solution for injection in pre-filled pen Ozempic 0.5 mg solution for injection in pre-filled pen Ozempic 1 mg solution for injection in pre-filled pen Ozempic 2 mg solution for injection in pre-filled pen Ozempic 0.25 mg solution for injection in pre-filled syringe Ozempic 0.5 mg solution for injection in pre-filled syringe Ozempic 1 mg solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+## Pre-filled pen
 
 ## Ozempic 0.25 mg solution for injection
 
@@ -50,6 +52,22 @@ One ml of solution contains 2.68 mg of semaglutide*. One pre-filled pen contains
 
 One ml of solution contains 2.68 mg of semaglutide*. One pre-filled pen contains 8 mg semaglutide* in 3 ml solution. Each dose contains 2 mg of semaglutide in 0.74 ml solution.
 
+## Pre-filled syringe
+
+## Ozempic 0.25 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.25 mg semaglutide* in 0.5 ml solution. One ml of solution contains 0.5 mg of semaglutide*.
+
+## Ozempic 0.5 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 0.5 mg semaglutide* in 0.5 ml solution. One ml of solution contains 1 mg of semaglutide*.
+
+<div style=\"page-break-after: always\"></div>
+
+## Ozempic 1 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 1 mg semaglutide* in 0.5 ml solution. One ml of solution contains 2 mg of semaglutide*.
+
 *Human glucagon-like peptide-1 (GLP-1) analogue produced in Saccharomyces cerevisiae cells by recombinant DNA technology .
 
 For the full list of excipients, see section 6.1.
@@ -59,8 +77,6 @@ For the full list of excipients, see section 6.1.
 Solution for injection (injection).
 
 Clear and colourless or almost colourless, isotonic solution; pH=7.4.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -85,6 +101,8 @@ When Ozempic is added to existing metformin and/or thiazolidinedione therapy or 
 
 When Ozempic is added to existing therapy of sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Ozempic. Blood glucose self-monitoring is necessary to adjust the dose of sulfonylurea and insulin, particularly when Ozempic is started and insulin is reduced. A stepwise approach to insulin reduction is recommended.
 
 ## Missed dose
@@ -101,8 +119,6 @@ The day of weekly administration can be changed if necessary, as long as the tim
 
 No dose adjustment is required based on age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
 No dose adjustment is required for patients with mild, moderate or severe renal impairment. Experience with the use of semaglutide in patients with end-stage kidney disease is limited.
@@ -117,7 +133,7 @@ The safety and efficacy of semaglutide in children and adolescents below 18 year
 
 ## Method of administration
 
-Subcutaneous use.
+## Subcutaneous use.
 
 Ozempic is to be injected subcutaneously in the abdomen, in the thigh or in the upper arm. The injection site can be changed without dose adjustment. Ozempic should not be administered intravenously or intramuscularly.
 
@@ -135,6 +151,8 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## General
 
 Semaglutide should not be used for the treatment of diabetic ketoacidosis. Semaglutide is not a substitute for insulin. Diabetic ketoacidosis has been reported in insulin-dependent patients whom had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
@@ -144,8 +162,6 @@ There is no experience in patients with congestive heart failure NYHA class IV a
 ## Aspiration in association with general anaesthesia or deep sedation
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal effects and dehydration
 
@@ -169,6 +185,8 @@ There is no experience with semaglutide 2 mg in patients with type 2 diabetes wi
 
 Data from epidemiological studies indicates an increased risk for non-arteritic anterior ischaemic optic neuropathy (NAION) during treatment with semaglutide. There is no identified time interval for when NAION may develop following treatment start. A sudden loss of vision should lead to ophthalmological examination and treatment with semaglutide should be discontinued if NAION is confirmed (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with gastroparesis
 
 Semaglutide treated patients with gastroparesis may experience more serious or severe gastrointestinal adverse events. Semaglutide should be used with caution in these patients, and semaglutide is not recommended if gastroparesis is severe (see section 4.8).
@@ -176,8 +194,6 @@ Semaglutide treated patients with gastroparesis may experience more serious or s
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -203,6 +219,8 @@ Semaglutide did not change the overall exposure or Cmax of digoxin following a s
 
 Semaglutide did not change the overall exposure or Cmax of metformin following dosing of 500 mg twice daily over 3.5 days.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warfarin and other coumarin derivatives
 
 Semaglutide did not change the overall exposure or Cmax of R- and S-warfarin following a single dose of warfarin (25 mg), and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner. However, cases of decreased INR have been reported during concomitant use of acenocoumarol and semaglutide. Upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.
@@ -212,8 +230,6 @@ Semaglutide did not change the overall exposure or Cmax of R- and S-warfarin fol
 ## Women of childbearing potential
 
 Women of childbearing potential are recommended to use contraception when treated with semaglutide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -241,29 +257,29 @@ In 8 phase 3a trials 4 792 patients were exposed to semaglutide up to 1 mg. The 
 
 Table 1 lists adverse reactions identified in all phase 3 trials (including the long-term cardiovascular outcomes trial) and post-marketing reports in patients with type 2 diabetes mellitus (further described in section 5.1). The frequencies of the adverse reactions (except diabetic retinopathy complications, see footnote in Table 1) are based on a pool of the phase 3a trials excluding the cardiovascular outcomes trial (see text below the table for additional details).
 
-The reactions are listed below by system organ class and absolute frequency. Frequencies are defined as: very common: (≥1/10); common: (≥1/100 to &lt;1/10); uncommon : (≥1/1 000 to &lt;1/100); rare: (≥1/10 000 to &lt;1/1 000); very rare: (&lt;1/10 000) and not known: (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 <div style=\"page-break-after: always\"></div>
+
+The reactions are listed below by system organ class and absolute frequency. Frequencies are defined as: very common: (≥1/10); common: (≥1/100 to &lt;1/10); uncommon : (≥1/1 000 to &lt;1/100); rare: (≥1/10 000 to &lt;1/1 000); very rare: (&lt;1/10 000) and not known: (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Frequency of adverse reactions of semaglutide
 
-| MedDRA system organ class              | Very common                                            | Common                                                                                                                                   | Uncommon                                    | Rare                    | Very Rare                                                  | Not known                |
-|----------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------|------------------------------------------------------------|--------------------------|
-| Immune system disorders                |                                                        |                                                                                                                                          | Hypersensiti vity c                         | Anaph ylactic reactio n |                                                            |                          |
-| Metabolism and nutrition disorders     | Hypoglycaemia a when used with insulin or sulfonylurea | Hypoglyca emia a when used with other oral antidiabeti cs (OAD) Decreased appetite                                                       |                                             |                         |                                                            |                          |
-| Nervous system disorders               |                                                        | Dizziness Headache                                                                                                                       | Dysgeusia                                   |                         |                                                            | Dysaesthes ia d          |
-| Eye disorders                          |                                                        | Diabetic retinopathy complicati ons b                                                                                                    |                                             |                         | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                          |
-| Cardiac disorders                      |                                                        |                                                                                                                                          | Increased heart rate                        |                         |                                                            |                          |
-| Gastrointesti- nal disorders           | Nausea Diarrhoea                                       | Vomiting Abdominal pain Abdominal distension Constipatio n Dyspepsia Gastritis Gastro- oesophage al reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |                         |                                                            | Intestinal obstruction d |
-| Hepatobiliary disorders                |                                                        | Cholelithia sis                                                                                                                          |                                             |                         |                                                            |                          |
-| Skin and subcutaneous tissue disorders |                                                        |                                                                                                                                          |                                             |                         |                                                            | Angioedem a d            |
+| MedDRA system organ class          | Very common                                            | Common                                                                                                                                   | Uncommon                                    | Rare                    | Very Rare                                                  | Not known                |
+|------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------|------------------------------------------------------------|--------------------------|
+| Immune system disorders            |                                                        |                                                                                                                                          | Hypersensiti vity c                         | Anaph ylactic reactio n |                                                            |                          |
+| Metabolism and nutrition disorders | Hypoglycaemia a when used with insulin or sulfonylurea | Hypoglyca emia a when used with other oral antidiabeti cs (OAD) Decreased appetite                                                       |                                             |                         |                                                            |                          |
+| Nervous system disorders           |                                                        | Dizziness Headache                                                                                                                       | Dysgeusia                                   |                         |                                                            | Dysaesthes ia d          |
+| Eye disorders                      |                                                        | Diabetic retinopathy complicati ons b                                                                                                    |                                             |                         | Non- arteritic anterior ischaemic optic neuropathy (NAION) |                          |
+| Cardiac disorders                  |                                                        |                                                                                                                                          | Increased heart rate                        |                         |                                                            |                          |
+| Gastrointesti- nal disorders       | Nausea Diarrhoea                                       | Vomiting Abdominal pain Abdominal distension Constipatio n Dyspepsia Gastritis Gastro- oesophage al reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |                         |                                                            | Intestinal obstruction d |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                              | Very common   | Common                                              | Uncommon                 | Rare   | Very Rare   | Not known   |
-|--------------------------------------------------------|---------------|-----------------------------------------------------|--------------------------|--------|-------------|-------------|
-| General disorders and administra- tion site conditions |               | Fatigue                                             | Injection site reactions |        |             |             |
-| Investigations                                         |               | Increased lipase Increased amylase Weight decreased |                          |        |             |             |
+| MedDRA system organ class                              | Very common   | Common                                              | Uncommon                 | Rare   | Very Rare   | Not known     |
+|--------------------------------------------------------|---------------|-----------------------------------------------------|--------------------------|--------|-------------|---------------|
+| Hepatobiliary disorders                                |               | Cholelithia sis                                     |                          |        |             |               |
+| Skin and subcutaneous tissue disorders                 |               |                                                     |                          |        |             | Angioedem a d |
+| General disorders and administra- tion site conditions |               | Fatigue                                             | Injection site reactions |        |             |               |
+| Investigations                                         |               | Increased lipase Increased amylase Weight decreased |                          |        |             |               |
 
 ## 2-year cardiovascular outcomes and safety trial
 
@@ -283,11 +299,9 @@ In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, the
 
 Nausea occurred in 17% and 19.9% of patients when treated with semaglutide 0.5 mg and 1 mg, respectively, diarrhoea in 12.2% and 13.3% and vomiting in 6.4% and 8.4%. Most events were mild to moderate in severity and of short duration. The events led to treatment discontinuation in 3.9% and 5% of patients. The events were most frequently reported during the first months on treatment. Patients with low body weight may experience more gastrointestinal side effects when treated with semaglutide.
 
-In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, nausea occurred in similar proportions of patients when treated with semaglutide 1 mg and 2 mg, respectively. Diarrhoea
-
 <div style=\"page-break-after: always\"></div>
 
-and vomiting occurred in higher proportions of patients when treated with semaglutide 2 mg compared to semaglutide 1 mg. The gastrointestinal adverse reactions led to treatment discontinuation in similar proportions in the semaglutide 1 mg and 2 mg treatment groups.
+In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, nausea occurred in similar proportions of patients when treated with semaglutide 1 mg and 2 mg, respectively. Diarrhoea and vomiting occurred in higher proportions of patients when treated with semaglutide 2 mg compared to semaglutide 1 mg. The gastrointestinal adverse reactions led to treatment discontinuation in similar proportions in the semaglutide 1 mg and 2 mg treatment groups.
 
 In concomitant use with an SGLT2 inhibitor in SUSTAIN 9, constipation and gastro-oesophageal reflux disease occurred in 6.7% and 4% respectively of patients treated with semaglutide 1 mg compared to no events for placebo-treated patients. The prevalence of these events did not decrease over time.
 
@@ -315,15 +329,15 @@ Injection site reactions (e.g. injection site rash, erythema) have been reported
 
 ## Immunogenicity
 
-Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with semaglutide. The proportion of patients tested positive for anti-semaglutide antibodies at any time point postbaseline was low (13%) and no patients had anti-semaglutide neutralising antibodies or anti-semaglutide antibodies with endogenous GLP-1 neutralising effect at end-of-trial.
-
-## Heart rate increase
-
-Increased heart rate has been observed with GLP-1 receptor agonists. In the phase 3a trials, mean increases of 1 to 6 beats per minute (bpm) from a baseline of 72 to 76 bpm were observed in subjects treated with Ozempic. In a long-term trial in subjects with cardiovascular risk factors, 16% of
+Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with semaglutide. The proportion of patients tested positive for anti-semaglutide antibodies at any time point postbaseline was low (13%)
 
 <div style=\"page-break-after: always\"></div>
 
-Ozempic-treated subjects had an increase in heart rate of &gt;10 bpm compared to 11% of subjects on placebo after 2 years of treatment.
+and no patients had anti-semaglutide neutralising antibodies or anti-semaglutide antibodies with endogenous GLP-1 neutralising effect at end-of-trial.
+
+## Heart rate increase
+
+Increased heart rate has been observed with GLP-1 receptor agonists. In the phase 3a trials, mean increases of 1 to 6 beats per minute (bpm) from a baseline of 72 to 76 bpm were observed in subjects treated with Ozempic. In a long-term trial in subjects with cardiovascular risk factors, 16% of Ozempic-treated subjects had an increase in heart rate of &gt;10 bpm compared to 11% of subjects on placebo after 2 years of treatment.
 
 ## Reporting of suspected adverse reactions
 
@@ -351,11 +365,11 @@ Semaglutide reduces blood glucose in a glucose dependent manner by stimulating i
 
 Semaglutide reduces body weight and body fat mass through lowered energy intake, involving an overall reduced appetite. In addition, semaglutide reduces the preference for high fat foods.
 
+<div style=\"page-break-after: always\"></div>
+
 GLP-1 receptors are also expressed in the heart, vasculature, immune system and kidneys. The mechanism of action of semaglutide is likely multifactorial. Indirect effects are indicated by the beneficial effect of semaglutide on plasma lipids, lowered systolic blood pressure and reduced inflammation in clinical studies but direct effects are likely also involved. In animal studies, semaglutide attenuates the development of atherosclerosis by preventing aortic plaque progression and reducing inflammation in the plaque.
 
 Clinical data showed that semaglutide lowered albuminuria in patients with kidney disease.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -387,6 +401,8 @@ Semaglutide caused a minor delay of early postprandial gastric emptying, thereby
 
 Semaglutide compared to placebo lowered the energy intake of 3 consecutive ad libitum meals by 18-35%. This was supported by a semaglutide-induced suppression of appetite in the fasting state as well as postprandially, improved control of eating, less food cravings and a relative lower preference for high fat food.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fasting and postprandial lipids
 
 Semaglutide compared to placebo lowered fasting triglyceride and very low density lipoproteins (VLDL) cholesterol concentrations by 12% and 21%, respectively. The postprandial triglyceride and VLDL cholesterol response to a high fat meal was reduced by &gt;40%.
@@ -394,8 +410,6 @@ Semaglutide compared to placebo lowered fasting triglyceride and very low densit
 ## Cardiac electrophysiology (QTc)
 
 The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial. Semaglutide did not prolong QTc intervals at dose levels up to 1.5 mg at steady state.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -425,28 +439,27 @@ Detailed information is provided below.
 
 In a 30-week double-blind placebo-controlled trial, 388 patients inadequately controlled with diet and exercise, were randomised to semaglutide 0.5 mg or semaglutide 1 mg once weekly or placebo.
 
-Table 2 SUSTAIN 1: Results at week 30
-
-|                                      |   Semaglutide 0.5 mg |   Semaglutide 1 mg |   Placebo |
-|--------------------------------------|----------------------|--------------------|-----------|
-| Intent-to-Treat (ITT) Population (N) |                  128 |                130 |       129 |
-| HbA 1c (%)                           |                      |                    |           |
-| Baseline (mean)                      |                  8.1 |                8.1 |       8.0 |
-| Change from baseline at week 30      |                 -1.5 |               -1.6 |         0 |
-
 <div style=\"page-break-after: always\"></div>
 
-|                                   | Semaglutide 0.5 mg   | Semaglutide 1 mg    | Placebo   |
-|-----------------------------------|----------------------|---------------------|-----------|
-| Difference from placebo [95% CI]  | -1.4 [-1.7, -1.1] a  | -1.5 [-1.8, -1.2] a | -         |
-| Patients (%) achieving HbA 1c <7% | 74                   | 72                  | 25        |
-| FPG (mmol/L)                      |                      |                     |           |
-| Baseline (mean)                   | 9.7                  | 9.9                 | 9.7       |
-| Change from baseline at week 30   | -2.5                 | -2.3                | -0.6      |
-| Body weight (kg)                  |                      |                     |           |
-| Baseline (mean)                   | 89.8                 | 96.9                | 89.1      |
-| Change from baseline at week 30   | -3.7                 | -4.5                | -1.0      |
-| Difference from placebo[95% CI]   | -2.7 [-3.9, -1.6] a  | -3.6 [-4.7, -2.4] a | -         |
+Table 2 SUSTAIN 1: Results at week 30
+
+|                                      | Semaglutide 0.5 mg   | Semaglutide 1 mg    | Placebo   |
+|--------------------------------------|----------------------|---------------------|-----------|
+| Intent-to-Treat (ITT) Population (N) | 128                  | 130                 | 129       |
+| HbA 1c (%)                           |                      |                     |           |
+| Baseline (mean)                      | 8.1                  | 8.1                 | 8.0       |
+| Change from baseline at week 30      | -1.5                 | -1.6                | 0         |
+| Difference from placebo [95% CI]     | -1.4 [-1.7, -1.1] a  | -1.5 [-1.8, -1.2] a | -         |
+| Patients (%) achieving HbA 1c <7%    | 74                   | 72                  | 25        |
+| FPG (mmol/L)                         |                      |                     |           |
+| Baseline (mean)                      | 9.7                  | 9.9                 | 9.7       |
+| Change from baseline at week 30      | -2.5                 | -2.3                | -0.6      |
+| Body weight (kg)                     |                      |                     |           |
+| Baseline (mean)                      | 89.8                 | 96.9                | 89.1      |
+| Change from baseline at week 30      | -3.7                 | -4.5                | -1.0      |
+| Difference from placebo [95% CI]     | -2.7 [-3.9, -1.6] a  | -3.6 [-4.7, -2.4] a | -         |
+
+a p &lt;0.0001 (2-sided) for superiority
 
 ## SUSTAIN 2 - Semaglutide vs. sitagliptin both in combination with 1-2 oral antidiabetic medicinal products (metformin and/or thiazolidinediones)
 
@@ -468,73 +481,15 @@ Table 3 SUSTAIN 2: Results at week 56
 | Body weight (kg)                     |                      |                     |                      |
 | Baseline (mean)                      | 89.9                 | 89.2                | 89.3                 |
 | Change from baseline at week 56      | -4.3                 | -6.1                | -1.9                 |
-| Difference from sitagliptin[95% CI]  | -2.3 [-3.1, -1.6] a  | -4.2 [-4.9, -3.5] a | -                    |
+| Difference from sitagliptin [95% CI] | -2.3 [-3.1, -1.6] a  | -4.2 [-4.9, -3.5] a | -                    |
+
+a p &lt;0.0001 (2 -sided) for superiority
 
 <div style=\"page-break-after: always\"></div>
 
-8.2
-
-8.0
-
-7.8
-
-7.6
-
-7.4
-
-7.2
-
-7.0
-
-6.8
-
-6.6
-
-6.4
-
-6.2
-
-6.0
-
-4
-
--0.5
-
-0.0
-
--0.2
-
-- -0.4
-
--0.6
-
--0.8
-
--1.0
-
-90.0
-
-89.0-
-
-OD 88.0-
-
-·
-
-,87.0
+Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
 
 <!-- image -->
-
-Change from baseline
-
-0.0
-
--1.0g
-
--2.0
-
-- 3.0 ₴
-
-Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
 
 ## SUSTAIN 7 - Semaglutide vs. dulaglutide both in combination with metformin
 
@@ -562,65 +517,13 @@ Table 4 SUSTAIN 7: Results at week 40
 | Change from baseline at week 40      | -4.6                  | -6.5                  | -2.3                  | -3.0                 |
 | Difference from dulaglutide [95% CI] | -2.3 b [-3.0, -1.5] a | -3.6 c [-4.3, -2.8] a | -                     | -                    |
 
--1.9
-
 <div style=\"page-break-after: always\"></div>
-
-HbAlc (%)
-
-8.4
-
-8.2
-
-8.0-
-
-7.8
-
-7.6
-
-7.4
-
-7.2-
-
-7.0
-
-6.8-
-
-6.6-
-
-6.4-
-
-6.2-
-
-4
-
-8
-
-0.0
-
--0.2
-
-- -0.4
-
--0.6
-
--0.8
-
-3.0
-
-0.0
-
--1.0
-
--2.0
-
--3.0
-
-<!-- image -->
 
 Change from baseline
 
 Figure 2 Mean change in HbA1c (%) and body weight (kg) from baseline to week 40
+
+<!-- image -->
 
 SUSTAIN 3 - Semaglutide vs. exenatide ER both in combination with metformin or metformin with sulfonylurea
 
@@ -644,7 +547,7 @@ Table 5 SUSTAIN 3: Results at week 56
 | Change from baseline at week 56      | -5.6                | -1.9                |
 | Difference from exenatide [95% CI]   | -3.8 [-4.6, -3.0] a | -                   |
 
-## SUSTAIN 4 - Semaglutide vs. insulin glargine both in combination with 1-2 oral antidiabetic medicinal products (metformin or metformin and sulfonylurea)
+SUSTAIN 4 - Semaglutide vs. insulin glargine both in combination with 1-2 oral antidiabetic medicinal products (metformin or metformin and sulfonylurea)
 
 In a 30-week open-label comparator trial 1 089 patients were randomised to semaglutide 0.5 mg once weekly, semaglutide 1 mg once weekly, or insulin glargine once-daily on a background of metformin (48%) or metformin and sulfonylurea (51%).
 
@@ -658,20 +561,6 @@ Table 6 SUSTAIN 4: Results at week 30
 | Change from baseline at week 30           | -1.2                 | -1.6                | -0.8               |
 | Difference from insulin glargine [95% CI] | -0.4 [-0.5, - 0.2] a | -0.8 [-1.0, -0.7] a | -                  |
 | Patients (%) achieving HbA 1c <7%         | 57                   | 73                  | 38                 |
-
-96.0
-
-95.0
-
-94.0
-
-weight (k
-
-93.0-
-
-92.0-
-
-Mung
 
 <div style=\"page-break-after: always\"></div>
 
@@ -707,7 +596,7 @@ Table 7 SUSTAIN 5: Results at week 30
 | Body weight (kg)                     |                      |                     |           |
 | Baseline (mean)                      | 92.7                 | 92.5                | 89.9      |
 | Change from baseline at week 30      | -3.7                 | -6.4                | -1.4      |
-| Difference from placebo[95% CI]      | -2.3 [-3.3, -1.3] a  | -5.1 [-6.1, -4.0] a | -         |
+| Difference from placebo [95% CI]     | -2.3 [-3.3, -1.3] a  | -5.1 [-6.1, -4.0] a | -         |
 
 a p &lt;0.0001 (2 -sided) for superiority
 
@@ -792,58 +681,6 @@ The total number of primary component MACE endpoints was 254, including 108 (6.6
 
 <div style=\"page-break-after: always\"></div>
 
-10
-
-FAS
-
-8
-
-Components of MACE
-
-Cardiovascular death
-
-Patients with event (%)
-
-4
-
-2-
-
-All cause death
-
-Semaglutide
-
-Placebo
-
-1648
-
-1649 1635
-
-T
-
-Hazard Ratio Semaglutide Placebo
-
-(95% CI)
-
-N (%)
-
-N (%)
-
-1648
-
-(0.-0.,5)
-
-(100)
-
-108
-
-1649
-
-(100)
-
-146
-
-(8.9)
-
 Figure 3 Kaplan-Meier plot of time to first occurrence of the composite outcome: cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
 
 <!-- image -->
@@ -855,8 +692,6 @@ Figure 4 Forest plot: analyses of time to first occurrence of the composite outc
 There were 158 events of new or worsening nephropathy. The hazard ratio [95% CI] for time to nephropathy (new onset of persistent macroalbuminuria, persistent doubling of serum creatinine, need for continuous renal replacement therapy and death due to renal disease) was 0.64 [0.46; 0.88] driven by new onset of persistent macroalbuminuria.
 
 In a 52-week double blind trial (STRIDE, NCT04560998), 792 patients with T2D and PAD with intermittent claudication Fontaine stage IIa were randomised to either semaglutide 1 mg once weekly or placebo on top of standard of care. The primary endpoint was change in maximum walking distance on a constant load treadmill test from baseline to week 52. The confirmatory secondary endpoints were change in Vascular Quality of Life Questionnaire-6 (VascuQoL-6) score from baseline to week
-
-(6.6)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -889,27 +724,7 @@ In a double-blind kidney outcomes trial (FLOW), 3 533 patients with type 2 diabe
 
 <div style=\"page-break-after: always\"></div>
 
-Patients with event (%)
-
-30-
-
-25-
-
-20-
-
-15-
-
-10-
-
-5
-
-Semaglutide
-
-Placebo
-
 The mean age of the population was 66.6 years and 69.7% were male. The mean baseline BMI was 32.0 kg/m 2 . The mean duration of diabetes at baseline was 17.4 years and mean baseline HbA1c was 7.8% (61.5 mmol/mol). The mean baseline eGFR was 47 ml/min/1.73 m 2  and the median UACR was 568 mg/g. At baseline, about 95% of the patients were treated with renin-angiotensin-aldosterone system inhibitors and 16% with SGLT2 inhibitors.
-
-95% CI [0.66 - 0.88]
 
 Semaglutide was superior to placebo, in addition to standard-of-care, in preventing the primary composite outcome of persistent ≥50% reduction in eGFR, onset of persistent eGFR &lt;15 ml/min/1.73 m 2 , initiation of chronic kidney replacement therapy, kidney death or cardiovascular death with a hazard ratio of 0.76 [0.66; 0.88]95% CI, corresponding to a relative risk reduction in kidney disease progression of 24% (see Figure 5). The individual components of the primary composite contributed to the treatment effect but there were few kidney deaths (see Figure 6). Semaglutide showed superiority over placebo, in addition to standard-of-care, in reducing the yearly rate of change in eGFR with an estimated treatment difference of 1.16 (ml/min/1.73m 2 /year) [0.86; 1.47]95% CI. Treatment with semaglutide improved overall survival with a significant reduction in allcause mortality (see Figure 6).
 
@@ -919,43 +734,9 @@ Figure 5 Cumulative incidence function of time to first occurrence of the primar
 
 <div style=\"page-break-after: always\"></div>
 
-Primary endpoint
-
-Persistent &gt;=50% reduction in eGFR
-
-Renal death
-
-CV death
-
-MACE
-
-Non-fatal MI
-
-Non-fatal stroke
-
-CV death
-
-All-cause death
-
-HR [95% CI]
-
-0.76 [0.66; 0.88]
-
-0.73 [0.59; 0.89]
-
-0.80 [0.61; 1.06]
-
 Number of events/
 
 analysed subjects
-
-(Sema 1.0 mg; Placebo)
-
-331/1767; 410/1766
-
-165/1766; 213/1766
-
-92/1767; 110/1766
 
 Figure 6 Forest plot: analyses of time to first occurrence of the primary composite outcome and its components, first occurrence of MACE and its components and all cause death (FLOW)
 
@@ -981,15 +762,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-Compared to native GLP-1, semaglutide has a prolonged half-life of around 1 week making it suitable for once weekly subcutaneous administration. The principal mechanism of protraction is albumin
-
-Number of events/
-
-analysed subjects
+Compared to native GLP-1, semaglutide has a prolonged half-life of around 1 week making it suitable for once weekly subcutaneous administration. The principal mechanism of protraction is albumin binding, which results in decreased renal clearance and protection from metabolic degradation. Furthermore, semaglutide is stabilised against degradation by the DPP-4 enzyme.
 
 <div style=\"page-break-after: always\"></div>
-
-binding, which results in decreased renal clearance and protection from metabolic degradation. Furthermore, semaglutide is stabilised against degradation by the DPP-4 enzyme.
 
 ## Absorption
 
@@ -1023,11 +798,9 @@ Body weight has an effect on the exposure of semaglutide. Higher body weight res
 
 ## Renal impairment
 
-Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown with a single dose of 0.5 mg semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with subjects with normal renal
+Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown with a single dose of 0.5 mg semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with subjects with normal renal function. This was also shown for subjects with type 2 diabetes and with renal impairment based on data from phase 3a studies, although the experience in patients with end-stage renal disease was limited.
 
 <div style=\"page-break-after: always\"></div>
-
-function. This was also shown for subjects with type 2 diabetes and with renal impairment based on data from phase 3a studies, although the experience in patients with end-stage renal disease was limited.
 
 ## Hepatic impairment
 
@@ -1063,7 +836,13 @@ In juvenile rats, semaglutide caused delayed sexual maturation in both males and
 
 ## 6.1 List of excipients
 
+## Pre-filled pen
+
 Disodium phosphate dihydrate Propylene glycol Phenol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
+
+Pre-filled syringe
+
+Disodium phosphate, dihydrate Sodium chloride Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1071,39 +850,59 @@ In the absence of compatibility studies this medicinal product must not be mixed
 
 ## 6.3 Shelf life
 
+Pre-filled pen
+
 Before first use
 
-Ozempic 0.25 mg, 0.5 mg, 1 mg and 2 mg 3 years
+3 years
 
 After first opening
 
 In-use shelf life
 
-Ozempic 0.25 mg, 0.5 mg, 1 mg and 2 mg (4 dose pens) 6 weeks
+Ozempic 0.25 mg, 0.5 mg, 1 mg and 2 mg (4 dose pens)
 
-Ozempic 0.5 mg and 1 mg (8 dose pens) 8 weeks
+6 weeks
+
+Ozempic 0.5 mg and 1 mg (8 dose pens)
+
+8 weeks
 
 Store below 30 °C or in a refrigerator (2 °C-8 °C). Do not freeze Ozempic. Keep the pen cap on when the pen is not in use in order to protect it from light.
+
+Pre-filled syringe 2 years Ozempic may be stored unrefrigerated for up to 28 days at a temperature not above 30 °C. Discard the syringe if it has been out of the refrigerator for more than 28 days.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C-8 °C). Keep away from the cooling element. Do not freeze Ozempic.
 
+## Pre-filled pen
+
 Keep the pen cap on in order to protect from light.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
+## Pre-filled syringe
+
+Store the syringe in the original carton in order to protect from light.
+
 ## 6.5 Nature and contents of container
 
-1.5 ml or 3 ml glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene)
+## Pre-filled pen
 
-<div style=\"page-break-after: always\"></div>
+1.5 ml or 3 ml glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
-inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
+## Pre-filled syringe
+
+1 ml glass syringe (type I glass) with attached stainless steel needle, rigid needle shield (type II/polyisoprene) and a rubber plunger (type I/chlorobutyl). The pre-filled syringe is assembled with a polypropylene plunger rod and a polypropylene finger grip.
 
 ## Pack sizes
 
-## Ozempic 0.25 mg solution for injection
+## Pre-filled pen
+
+Ozempic 0.25 mg solution for injection
 
 Each pre-filled pen contains 1.5 ml of solution, delivering 4 doses of 0.25 mg. 1 pre-filled pen and 4 disposable NovoFine Plus needles
 
@@ -1115,6 +914,8 @@ Each pre-filled pen contains 1.5 ml of solution, delivering 4 doses of 0.25 mg. 
 
 3 ml: Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 0.5 mg. 1 pre-filled pen and 8 disposable NovoFine Plus needles
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ozempic 1 mg solution for injection
 
 Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 1 mg. 1 pre-filled pen and 4 disposable NovoFine Plus needles 3 pre-filled pens and 12 disposable NovoFine Plus needles
@@ -1125,19 +926,37 @@ Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 1 mg. 1 pre
 
 Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 2 mg. 1 pre-filled pen and 4 disposable NovoFine Plus needles 3 pre-filled pens and 12 disposable NovoFine Plus needles
 
+Pre-filled syringe
+
+Ozempic 0.25 mg solution for injection Each pre-filled syringe contains 0.5 ml of solution, delivering 1 dose of 0.25 mg. 4 pre-filled syringes
+
+Ozempic 0.5 mg solution for injection Each pre-filled syringe contains 0.5 ml of solution, delivering 1 dose of 0.5 mg. 4 pre-filled syringes
+
+## Ozempic 1 mg solution for injection
+
+Each pre-filled syringe contains 0.5 ml of solution, delivering 1 dose of 1 mg. 4 pre-filled syringes
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
+Ozempic should not be used if it does not appear clear and colourless or almost colourless.
+
+Ozempic should not be used if it has been frozen.
+
+Any unused medicinal product and other waste material should be disposed of in accordance with local requirements.
+
+## Pre-filled pen
+
 The patient should be advised to discard the injection needle after each injection and store the pen without an injection needle attached. This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
 
-## The pen is for use by one person only.
-
-Ozempic should not be used if it does not appear clear and colourless or almost colourless. Ozempic should not be used if it has been frozen.
+The pen is for use by one person only.
 
 Ozempic can be administered with 30G, 31G, and 32G disposable needles up to a length of 8 mm.
 
-Any unused medicinal product and other waste material should be disposed of in accordance with local requirements.
+## Pre-filled syringe
+
+The syringe is for single-dose only.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1147,9 +966,7 @@ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/17/1251/002 EU/1/17/1251/003 EU/1/17/1251/004 EU/1/17/1251/005 EU/1/17/1251/006 EU/1/17/1251/010 EU/1/17/1251/011 EU/1/17/1251/012 EU/1/17/1251/013 EU/1/17/1251/014
-
-EU/1/17/1251/015
+EU/1/17/1251/002 EU/1/17/1251/003 EU/1/17/1251/004 EU/1/17/1251/005 EU/1/17/1251/006 EU/1/17/1251/010 EU/1/17/1251/011 EU/1/17/1251/012 EU/1/17/1251/013 EU/1/17/1251/014 EU/1/17/1251/015 EU/1/17/1251/016 EU/1/17/1251/017 EU/1/17/1251/018
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1259,9 +1076,9 @@ Open here
 
 Lift here
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 <div style=\"page-break-after: always\"></div>
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1323,26 +1140,24 @@ Ozempic 0.25 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
-36
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 0.25 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -1356,10 +1171,12 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-1.5 ml (4 doses)
+1.5 ml
+
+(4 doses)
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1458,8 +1275,8 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1471,24 +1288,24 @@ Ozempic 0.5 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 0.5 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -1502,8 +1319,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.5 ml (4 doses)
 
@@ -1606,8 +1423,8 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1619,24 +1436,24 @@ Ozempic 0.5 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 0.5 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -1650,8 +1467,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (4 doses)
 
@@ -1763,24 +1580,24 @@ Ozempic 0.5 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 0.5 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -1794,8 +1611,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (8 doses)
 
@@ -1896,8 +1713,8 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1909,24 +1726,24 @@ Ozempic 1 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 1 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -1940,8 +1757,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (4 doses)
 
@@ -2053,24 +1870,24 @@ Ozempic 1 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 1 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -2084,8 +1901,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (8 doses)
 
@@ -2114,9 +1931,7 @@ disodium phosphate dihydrate, propylene glycol, phenol, hydrochloric acid/sodium
 
 solution for injection
 
-1 x 3 ml pen and 4 disposable needles (4 doses)
-
-3 x 3 ml pens and 12 disposable needles (12 doses)
+1 x 3 ml pen and 4 disposable needles (4 doses) 3 x 3 ml pens and 12 disposable needles (12 doses)
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -2188,8 +2003,8 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -2201,24 +2016,24 @@ Ozempic 2 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ozempic 2 mg injection semaglutide subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 once weekly
 
@@ -2232,10 +2047,397 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml (4 doses)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozempic 0.25 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 0.25 mg semaglutide in 0.5 ml (0.5 mg/ml)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1251/016
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Ozempic 0.25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Ozempic 0.25 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 ml
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozempic 0.5 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 0.5 mg semaglutide in 0.5 ml (1 mg/ml)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1251/017
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Ozempic 0.5 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Ozempic 0.5 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 ml
+
+(1 dose)
+
+| 6.   | OTHER   |
+|------|---------|
+
+Novo Nordisk A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (Pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozempic 1 mg solution for injection in pre-filled syringe semaglutide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 1 mg semaglutide in 0.5 ml (2 mg/ml)
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+4 pre-filled syringes (1 syringe delivers 1 dose)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+subcutaneous use once weekly
+
+Read the package leaflet before use
+
+For single use only
+
+Open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze
+
+Keep the pre-filled syringe in the outer carton in order to protect from light
+
+Discard pre-filled syringe after use
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1251/018
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Ozempic 1 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Ozempic 1 mg injection semaglutide SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
+|------|----------------------------------------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 ml
+
+(1 dose)
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2525,7 +2727,9 @@ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
 ## Manufacturer
 
-Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd
+
+Denmark
 
 Novo Nordisk Production SAS 45, Avenue d'Orléans 28000 Chartres France
 
@@ -2536,12 +2740,6 @@ Novo Nordisk Production SAS 45, Avenue d'Orléans 28000 Chartres France
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-Ozempic pre-filled pen and needle (example)
-
-Outer needle cap
-
-Inner
 
 ## Instructions for use
 
@@ -2561,8 +2759,6 @@ If you are blind or have poor eyesight and cannot read the dose counter on the p
 
 Your pen is a pre-filled dial-a-dose pen. It contains 2 mg of semaglutide, and you can only select doses of 0.25 mg. One unused pen contains four doses of 0.25 mg. After having injected the four doses, there will still be solution left in the pen. The pen should be disposed of.
 
-Flow
-
 Use the table inside the lid of the carton to keep track of how many injections you have taken and when you took the injections.
 
 Your pen is designed to be used with 30G, 31G, and 32G disposable needles up to a length of 8 mm. NovoFine Plus needles are included in the pack.
@@ -2578,21 +2774,9 @@ Pay special attention to these notes, as they are important for safe use of the 
 
 <!-- image -->
 
-DZEMPiC
-
-- Pen cap
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-B
-
-your ection
-
-1(\"\"=)
-
-lines up
 
 <!-- image -->
 
@@ -2623,21 +2807,11 @@ lines up
 
 <div style=\"page-break-after: always\"></div>
 
-click.
+- ·
 
-Disp
+Press and hold in the dose button A drop of solution should appear at the needle tip.
 
-B
-
-025-
-
-·ter camg
-
--0--
-
-- Hold the pen with the needle pointing up.
-
-Press and hold in the dose button until the dose counter returns to '0'. The '0' must line up with the dose pointer. A drop of solution should appear at the needle tip.
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
@@ -2682,15 +2856,12 @@ Only doses of 0.25 mg must be selected with the dose selector. 0.25 mg must line
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-B
-
-- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. Count slowly:
+- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
-- Remove the needle from your skin. You can then release the dose button. If blood appears at the injection site, press lightly.
+- Remove the needle from your skin. You can then
+- release the dose button. If blood appears at the injection site, press lightly.
 
 <!-- image -->
 
@@ -2733,19 +2904,15 @@ Always dispose of the needle after each injection to ensure convenient injection
 
 When the pen is to be disposed of, do it without a needle on as instructed by your doctor, nurse, pharmacist or local authorities.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-- Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
+## Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
 ## Always remove the needle from your pen immediately after each injection.
 
 This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
 
 ## Further important information
+
+<!-- image -->
 
 - Always keep your pen and needles out of the sight and reach of others, especially children.
 - Never share your pen or your needles with other people.
@@ -2946,7 +3113,7 @@ Rare (may affect up to 1 in 1 000 people)
 
 -         A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight').
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
@@ -3019,7 +3186,7 @@ Ozempic 0.5 mg (4 dose pen)
 
 - You can keep the pen for 6 weeks when stored at a temperature below 30 °C or in a refrigerator (2 °C-8 °C) away from the cooling element. Do not freeze Ozempic and do not use it if it has been frozen.
 
-## Ozempic 0.5 mg (8 dose pen)
+Ozempic 0.5 mg (8 dose pen)
 
 - You can keep the pen for 8 weeks when stored at a temperature below 30 °C or in a refrigerator (2 °C-8 °C) away from the cooling element. Do not freeze Ozempic and do not use it if it has been frozen.
 - When you are not using the pen, keep the pen cap on in order to protect from light.
@@ -3081,19 +3248,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-V
-
-Ozempic pre-filled pen and needle (example)
-
-Outer needle cap
-
 ## Instructions for use
 
-- Pen cap
-
 ## Ozempic 0.5 mg solution for injection in pre-filled pen delivering 4 doses semaglutide
-
-Inner
 
 ## Instructions on how to use Ozempic 0.5 mg solution for injection in pre-filled pen
 
@@ -3107,11 +3264,11 @@ Your pen is a pre-filled dial-a-dose pen. It contains 2 mg of semaglutide, and y
 
 Use the table inside the lid of the carton to keep track of how many injections you have taken and when you took the injections.
 
-Flow
-
 Your pen is designed to be used with 30G, 31G, and 32G disposable needles up to a length of 8 mm. NovoFine Plus needles are included in the pack.
 
 Please note: Your pen may differ in size from the pen shown in the picture. These instructions apply to all Ozempic 0.5 mg pens.
+
+<!-- image -->
 
 ## Important information
 
@@ -3124,20 +3281,10 @@ Pay special attention to these notes, as they are important for safe use of the 
 
 <!-- image -->
 
-DZEMPiC
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-your ection
-
-1(\"=)
-
-lines up
-
-C
-
 <!-- image -->
 
 <!-- image -->
@@ -3154,34 +3301,24 @@ C
 
 <!-- image -->
 
-| •                                   | Check that the solution in your pen is clear and colourless. Look through the pen window. If the solution looks cloudy or coloured, do not use the pen.                                                                                                                                                                                                                    | B                                                                                                                             |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| • •                                 | Take a new needle. Check the paper tab and the outer needle cap for damages that could affect sterility. If any damage is seen use a new needle. Tear off the paper tab.                                                                                                                                                                                                   | C                                                                                                                             |
-| • •                                 | Make sure to attach the needle correctly. Push the needle straight onto the pen. Turn until it is on tight.                                                                                                                                                                                                                                                                | D                                                                                                                             |
-| •                                   | The needle is covered by two caps. You must remove both caps. If you forget to remove both caps, you will not inject any solution. Pull off the outer needle cap and keep it for later. You will need it after the injection, to safely remove the needle from the pen.                                                                                                    | E                                                                                                                             |
-| • A but first Do not                | Pull off the inner needle cap and throw it away. If you try to put it back on, you may accidentally stick yourself with the needle. drop of solution may appear at the needle tip. This is normal, you must still check the flow, if you use a new pen for the time. See step 2 'Check the flow with each new pen'. attach a new needle to your pen until you are ready to | F                                                                                                                             |
-|                                     | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                              | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
-|                                     | Never use a bent or damaged needle.                                                                                                                                                                                                                                                                                                                                        | Never use a bent or damaged needle.                                                                                           |
-| 2. Check the flow with each new pen | 2. Check the flow with each new pen                                                                                                                                                                                                                                                                                                                                        | 2. Check the flow with each new pen                                                                                           |
-| • •                                 | If your pen is already in use, go to step 3 'Select your dose'. Only check the flow before your first injection with each new pen. Turn the dose selector to the flow check symbol ( ) right past '0'. Make sure the flow check symbol lines up with the pointer.                                                                                                          | A Flow check symbol selected                                                                                                  |
+| •                                   | Check that the solution in your pen is clear and colourless. Look through the pen window. If the solution looks cloudy or coloured, do not use the pen.                                                                                                                                                                                                                        | B                                                                                                                             |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| • •                                 | Take a new needle. Check the paper tab and the outer needle cap for damages that could affect sterility. If any damage is seen use a new needle. Tear off the paper tab.                                                                                                                                                                                                       | C                                                                                                                             |
+| • •                                 | Make sure to attach the needle correctly. Push the needle straight onto the pen. Turn until it is on tight.                                                                                                                                                                                                                                                                    | D                                                                                                                             |
+| •                                   | The needle is covered by two caps. You must remove both caps. If you forget to remove both caps, you will not inject any solution. Pull off the outer needle cap and keep it for later. You will need it after the injection, to safely remove the needle from the pen.                                                                                                        | E                                                                                                                             |
+| • A but first Do                    | Pull off the inner needle cap and throw it away. If you try to put it back on, you may accidentally stick yourself with the needle. drop of solution may appear at the needle tip. This is normal, you must still check the flow, if you use a new pen for the time. See step 2 'Check the flow with each new pen'. not attach a new needle to your pen until you are ready to | F                                                                                                                             |
+|                                     | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                                  | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
+|                                     | Never use a bent or damaged needle.                                                                                                                                                                                                                                                                                                                                            | Never use a bent or damaged needle.                                                                                           |
+| 2. Check the flow with each new pen | 2. Check the flow with each new pen                                                                                                                                                                                                                                                                                                                                            | 2. Check the flow with each new pen                                                                                           |
+| • •                                 | If your pen is already in use, go to step 3 'Select your dose'. Only check the flow before your first injection with each new pen. Turn the dose selector to the flow check symbol ( ) right past '0'. Make sure the flow check symbol lines up with the pointer.                                                                                                              | A Flow check symbol selected                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-clicki
-
-V
-
-Disp
-
-0-
-
-05-cmgl
-
-- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer. 0.5 mg left
-
-05--ng a haan calantad
+- ·
 
 Press and hold in the dose button A drop of solution should appear at the needle tip.
+
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
@@ -3222,10 +3359,9 @@ Only doses of 0.5 mg must be selected with the dose selector . 0.5 mg must line 
 ## How much solution is left
 
 - To see how much solution is left, use the dose counter:
+- Turn the dose selector until the dose counter stops. there is not
 
-Turn the dose selector until the dose counter stops. If it shows 0.5, at least 0.5 mg is left in your pen.
-
-If the dose counter stops before 0.5 mg, there is not enough solution left for a full dose of 0.5 mg.
+If it shows 0.5, at least 0.5 mg is left in your pen. If the dose counter stops before 0.5 mg, enough solution left for a full dose of 0.5 mg.
 
 <!-- image -->
 
@@ -3239,21 +3375,9 @@ If there is not enough solution left in your pen for a full dose, do not use it.
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-A
-
-B
-
--0-
-
-C
-
-D
-
 - Insert the needle into your skin as your doctor or nurse has shown you.
 - Make sure you can see the dose counter. Do not cover it with your fingers. This could interrupt the injection.
-- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. Count slowly:
+- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
@@ -3304,9 +3428,9 @@ When the pen is empty, throw it away without a needle on as instructed by your d
 
 <!-- image -->
 
-<!-- image -->
+- Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
-- Never try to put the inner needle cap back on the needle. You may stick yourself with the needle. Always remove the needle from your pen immediately after each injection.
+## Always remove the needle from your pen immediately after each injection.
 
 This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
 
@@ -3331,17 +3455,9 @@ Treat your pen with care. Rough handling or misuse may cause inaccurate dosing. 
 
 <div style=\"page-break-after: always\"></div>
 
-ion in pre-filled pen
-
-Ozempic pre-filled pen and needle (example)
-
-Outer needle cap
-
 ## Instructions for use
 
-Pen cap
-
-## Ozempic 0.5 mg solution for injection in pre-filled pen delivering 8 doses semaglutide Inner
+## Ozempic 0.5 mg solution for injection in pre-filled pen delivering 8 doses semaglutide
 
 ## Instructions on how to use Ozempic 0.5 mg solution for injection in pre-filled pen
 
@@ -3359,11 +3475,11 @@ Use the table inside the lid of the carton to keep track of how many injections 
 
 Your pen is designed to be used with 30G, 31G, and 32G disposable needles up to a length of 8 mm. NovoFine Plus needles are included in the pack.
 
-check symbol
+<!-- image -->
 
 ## Important information
 
-<!-- image -->
+A
 
 Pay special attention to these notes, as they are important for safe use of the pen.
 
@@ -3371,21 +3487,7 @@ Pay special attention to these notes, as they are important for safe use of the 
 
 <!-- image -->
 
-DZEMPiC
-
 <div style=\"page-break-after: always\"></div>
-
-take y your
-
-A
-
-ection
-
-A
-
-1(\"=)
-
-lines up
 
 <!-- image -->
 
@@ -3419,31 +3521,17 @@ lines up
 
 <div style=\"page-break-after: always\"></div>
 
-clicks
-
-Dispo
-
-A
-
-A
-
-·0-
-
-05\\_mg)
-
-- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer. 0.5 mg left
-
-, hoon aolantod ted
+- ·
 
 Press and hold in the dose button A drop of solution should appear at the needle tip.
+
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
 A small drop may remain at the needle tip, but it will not be injected.
 
-repeat step 2 'Check the flow with each new pen' up to 6 times. If there is still no drop,
-
-If no drop appears, change the needle and repeat step 2 'Check the flow with each new pen' once more.
+If no drop appears, repeat step 2 'Check the flow with each new pen' up to 6 times. If there is still no drop, change the needle and repeat step 2 'Check the flow with each new pen' once more.
 
 Dispose of the pen and use a new one if a drop of solution still does not appear.
 
@@ -3480,10 +3568,13 @@ Only doses of 0.5 mg must be selected with the dose selector. 0.5 mg must line u
 
 ## How much solution is left
 
-- ·
-- To see how much solution is left, use the dose counter: Turn the dose selector until the dose counter stops. If it shows 0.5, at least 0.5 mg is left in your pen. If the dose counter stops before 0.5 mg, there is not enough solution left for a full dose of 0.5 mg.
+- To see how much solution is left, use the dose counter: Turn the dose selector until the dose counter stops. there is not
 
 <!-- image -->
+
+A
+
+If it shows 0.5, at least 0.5 mg is left in your pen. If the dose counter stops before 0.5 mg, enough solution left for a full dose of 0.5 mg.
 
 <!-- image -->
 
@@ -3491,17 +3582,11 @@ If there is not enough solution left in your pen for a full dose, do not use it.
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-V
-
-D
-
 ## 4. Inject your dose
 
 - Insert the needle into your skin as your doctor or nurse has shown you.
 - Make sure you can see the dose counter. Do not cover it with your fingers. This could interrupt the injection.
-- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. 1-2-3-4-5-6
+- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
@@ -3754,10 +3839,9 @@ Common (may affect up to 1 in 10 people)
 ## Uncommon (may affect up to 1 in 100 people)
 
 - Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
-
-Rare (may affect up to 1 in 1 000 people)
-
 - Severe allergic reactions (anaphylactic reactions, angioedema). You must get immediate medical help and inform your doctor straight away if you get symptoms such as breathing problems, swelling of face, lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
+
+## Rare (may affect up to 1 in 1 000 people)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3765,7 +3849,7 @@ Rare (may affect up to 1 in 1 000 people)
 
 -         A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight'.
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
@@ -3838,7 +3922,7 @@ Ozempic 1 mg (4 dose pen)
 
 - You can keep the pen for 6 weeks when stored at a temperature below 30 °C or in a refrigerator (2 °C-8 °C) away from the cooling element. Do not freeze Ozempic and do not use it if it has been frozen.
 
-## Ozempic 1 mg (8 dose pen)
+Ozempic 1 mg (8 dose pen)
 
 - You can keep the pen for 8 weeks when stored at a temperature below 30 °C or in a refrigerator (2 °C-8 °C) away from the cooling element. Do not freeze Ozempic and do not use it if it has been frozen.
 - When you are not using the pen, keep the pen cap on in order to protect from light.
@@ -3856,18 +3940,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - One ml solution for injection contains 1.34 mg semaglutide. One pre-filled pen contains 4 mg semaglutide in 3 ml solution. Each dose contains 1 mg of semaglutide in 0.74 ml.
 - Ozempic 8 dose pen
 - One ml solution for injection contains 2.68 mg semaglutide. One pre-filled pen contains 8 mg semaglutide in 3 ml solution. Each dose contains 1 mg of semaglutide in 0.37 ml.
+- The other ingredients are: disodium phosphate dihydrate, propylene glycol, phenol, water for injections, sodium hydroxide/hydrochloric acid (for pH adjustment). See also section 2, 'Sodium content'.
 
 <div style=\"page-break-after: always\"></div>
 
-- The other ingredients are: disodium phosphate dihydrate, propylene glycol, phenol, water for injections, sodium hydroxide/hydrochloric acid (for pH adjustment). See also section 2, 'Sodium content'.
-
 ## What Ozempic looks like and contents of the pack
 
-Ozempic is a clear and colourless or almost colourless solution for injection in a pre-filled pen.
+Ozempic is a clear and colourless or almost colourless solution for injection in a pre-filled pen. Each pre-filled pen contains 3 ml solution, delivering 4 doses of 1 mg. Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 1 mg.
 
-Each pre-filled pen contains 3 ml solution, delivering 4 doses of 1 mg. Each pre-filled pen contains 3 ml of solution, delivering 8 doses of 1 mg.
+Ozempic 1 mg solution for injection is available in the following pack sizes:
 
-Ozempic 1 mg solution for injection is available in the following pack sizes: 1 pen and 4 disposable NovoFine Plus needles. 1 pen and 8 disposable NovoFine Plus needles. 3 pens and 12 disposable NovoFine Plus needles.
+1 pen and 4 disposable NovoFine Plus needles.
+
+1 pen and 8 disposable NovoFine Plus needles.
+
+3 pens and 12 disposable NovoFine Plus needles.
 
 Not all pack sizes may be marketed.
 
@@ -3889,59 +3976,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-n in pre-filled pen
-
-Ozempic pre-filled pen and needle (example
-
-Outer needle cap
-
-Pen cap
+## Instructions for use
 
 ## Ozempic 1 mg solution for injection in pre-filled pen delivering 4 doses semaglutide
 
-## Instructions on how to use Ozempic 1 mg solution for injection in pre-filled pen
-
-Please read these instructions carefully before using your Ozempic pre-filled pen.
-
-Talk to your doctor, nurse or pharmacist about how to inject Ozempic correctly.
-
-Start by checking your pen to make sure that it contains Ozempic 1 mg, then look at the illustrations below to get to know the different parts of your pen and needle.
-
-If you are blind or have poor eyesight and cannot read the dose counter on the pen, do not use this pen without help. Get help from a person with good eyesight who knows how to use the Ozempic pre-filled pen.
-
-Your pen is a pre-filled dial-a-dose pen. It contains 4 mg of semaglutide, and you can only select doses of 1 mg. One unused pen contains four doses of 1 mg.
-
-Use the table inside the lid of the carton to keep track of how many injections you have taken and when you took the injections.
-
-Your pen is designed to be used with 30G, 31G, and 32G disposable needles up to a length of 8 mm. NovoFine Plus needles are included in the pack.
-
-Dose selector
-
-Dose button
-
-Flow check
-
-symbol
-
-- Important information
-
-Pay special attention to these notes, as they are important for safe use of the pen.
-
-1. Prepare your pen with a new needle
-
 <!-- image -->
 
-OZEMPiC
-
-## Instructions for use
-
 <div style=\"page-break-after: always\"></div>
-
-(..)I
-
-Hang
-
-·0-
 
 <!-- image -->
 
@@ -3968,35 +4009,19 @@ Hang
 | • •                                 | Make sure to attach the needle correctly. Push the needle straight onto the pen. Turn until it is on tight.                                                                                                                                                                                                                                                                    | D                                                                                                                             |
 | •                                   | The needle is covered by two caps. You must remove both caps. If you forget to remove both caps, you will not inject any solution. Pull off the outer needle cap and keep it for later. You will need it after the injection, to safely remove the needle from the pen.                                                                                                        | E                                                                                                                             |
 | • A but first                       | Pull off the inner needle cap and throw it away. If you try to put it back on, you may accidentally stick yourself with the needle. drop of solution may appear at the needle tip. This is normal, you must still check the flow, if you use a new pen for the time. See step 2 'Check the flow with each new pen'. not attach a new needle to your pen until you are ready to | F                                                                                                                             |
-| Do take your injection.             | Do take your injection.                                                                                                                                                                                                                                                                                                                                                        | Do take your injection.                                                                                                       |
-|                                     | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                                  | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
+| Do your injection.                  | Do your injection.                                                                                                                                                                                                                                                                                                                                                             | Do your injection.                                                                                                            |
+| take                                | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                                  | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
 |                                     | Never use a bent or damaged needle.                                                                                                                                                                                                                                                                                                                                            | Never use a bent or damaged needle.                                                                                           |
 | 2. Check the flow with each new pen | 2. Check the flow with each new pen                                                                                                                                                                                                                                                                                                                                            | 2. Check the flow with each new pen                                                                                           |
 | • •                                 | If your pen is already in use, go to step 3 'Select your dose'. Only check the flow before your first injection with each new pen. Turn the dose selector to the flow check symbol ( ) right past '0'. Make sure the flow check symbol lines up with the pointer.                                                                                                              | A Flow check symbol selected                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-ICKS.
-
-Disp
-
-B
-
-V
-
--0-
-
-1-
-
-- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer. selected stopped: 1 mg left
-
-1 mg
-
-1cg)
-
-dan galantad ter
+- ·
 
 Press and hold in the dose button A drop of solution should appear at the needle tip.
+
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
@@ -4033,37 +4058,28 @@ The dose selector clicks differently when turned forwards, backwards or past 1 m
 
 ## How much solution is left
 
-- To see how much solution is left, use the dose counter: Turn the dose selector until the dose counter stops. If it shows 1, at least 1 mg is left in your pen. If the dose counter stops before 1 mg, there is not enough solution left for a full dose of 1 mg.
-- If there is not enough solution left in your pen for a full dose, do not use it. Use a new Ozempic pen.
+- To see how much solution is left, use the dose counter:
+
+Turn the dose selector until the dose counter stops. If it shows 1, at least 1 mg is left in your pen. If the dose counter stops before 1 mg, there is not enough solution left for a full dose of 1 mg.
 
 <!-- image -->
+
+- If there is not enough solution left in your pen for a full dose, do not use it. Use a new Ozempic pen.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-A
-
-B
-
-D
-
 ## 4. Inject your dose
 
 - Insert the needle into your skin as your doctor or nurse has shown you.
 - Make sure you can see the dose counter. Do not cover it with your fingers. This could interrupt the injection.
-
--0-
-
-C Count slowly:
-
-- Press and hold down the dose button. Watch as  the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. 1-2-3-4-5-6
+- Press and hold down the dose button. Watch as  the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
-- Remove the needle from your skin. You can then release the dose button. If blood appears at the injection site, press lightly.
+- Remove the needle from your skin. You can then release the dose button.
+- If blood appears at the injection site, press lightly.
 
 <!-- image -->
 
@@ -4086,7 +4102,7 @@ You may see a drop of solution at the needle tip after injecting. This is normal
 
 Change the needle as described in step 5 'After your injection' and repeat all steps starting with step 1 'Prepare your pen with a new needle'. Make sure you select the full dose you need.
 
-Never touch the dose counter when you inject. This can interrupt the injection.
+## Never touch the dose counter when you inject. This can interrupt the injection.
 
 ## 5. After your injection
 
@@ -4112,7 +4128,7 @@ When the pen is empty, throw it away without a needle on as instructed by your d
 
 - Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
-Always remove the needle from your pen immediately after each injection.
+## Always remove the needle from your pen immediately after each injection.
 
 This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
 
@@ -4137,32 +4153,14 @@ Treat your pen with care. Rough handling or misuse may cause inaccurate dosing. 
 
 <div style=\"page-break-after: always\"></div>
 
-n in pre-filled pen
-
-Ozempic pre-filled pen and needle (example)
-
-Outer needle cap
-
 ## Instructions for use
 
-· Pen cap
-
-## Ozempic 1 mg solution for injection in pre-filled pen delivering 8 doses semaglutide Inner
+## Ozempic 1 mg solution for injection in pre-filled pen delivering 8 doses semaglutide
 
 <!-- image -->
-
-OZEMPiC
 
 <div style=\"page-break-after: always\"></div>
 
-take
-
-1(\"=)
-
-8 ng
-
--0-
-
 <!-- image -->
 
 <!-- image -->
@@ -4179,36 +4177,25 @@ take
 
 <!-- image -->
 
-<!-- image -->
-
-| • •                                                                     | Check the name and coloured label of your pen, to make sure that it contains Ozempic1 mg. This is especially important if you take more than one type of injectable medicine. Using the wrong medicine could be harmful to your health. Pull off the pen cap.                                                                                                                                       | A                                                                                                                             |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| •                                                                       | Check that the solution in your pen is clear and colourless. Look through the pen window. If the solution looks cloudy or coloured, do not use the pen.                                                                                                                                                                                                                                             | B                                                                                                                             |
-| • •                                                                     | Take a new needle. Check the paper tab and the outer needle cap for damages that could affect sterility. If any damage is seen use a new needle. Tear off the paper tab.                                                                                                                                                                                                                            | C                                                                                                                             |
-| • •                                                                     | Make sure to attach the needle correctly. Push the needle straight onto the pen. Turn until it is on tight.                                                                                                                                                                                                                                                                                         | D                                                                                                                             |
-| •                                                                       | The needle is covered by two caps. You must remove both caps. If you forget to remove both caps, you will not inject any solution. Pull off the outer needle cap and keep it for later. You will need it after the injection, to safely remove the needle from the pen.                                                                                                                             | E                                                                                                                             |
-| • A but first Do                                                        | Pull off the inner needle cap and throw it away. If you try to put it back on, you may accidentally stick yourself with the needle. drop of solution may appear at the needle tip. This is normal, you must still check the flow, if you use a new pen for the time. See step 2 'Check the flow with each new pen'. not attach a new needle to your pen until you are ready to take your injection. | F                                                                                                                             |
-|                                                                         | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                                                       | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
-| Never use a bent or damaged needle. 2. Check the flow with each new pen | Never use a bent or damaged needle. 2. Check the flow with each new pen                                                                                                                                                                                                                                                                                                                             | Never use a bent or damaged needle. 2. Check the flow with each new pen                                                       |
-| • •                                                                     | If your pen is already in use, go to step 3 'Select your dose'. Only check the flow before your first injection with each new pen. Turn the dose selector to the flow check symbol ( ) right past '0'. Make sure the flow check symbol lines up with the pointer.                                                                                                                                   | A Flow check symbol selected                                                                                                  |
+| • •                                 | Check the name and coloured label of your pen, to make sure that it contains Ozempic 1 mg. This is especially important if you take more than one type of injectable medicine. Using the wrong medicine could be harmful to your health. Pull off the pen cap.                                                                                                                 | A                                                                                                                             |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| •                                   | Check that the solution in your pen is clear and colourless. Look through the pen window. If the solution looks cloudy or coloured, do not use the pen.                                                                                                                                                                                                                        | B                                                                                                                             |
+| • •                                 | Take a new needle. Check the paper tab and the outer needle cap for damages that could affect sterility. If any damage is seen use a new needle. Tear off the paper tab.                                                                                                                                                                                                       | C                                                                                                                             |
+| • •                                 | Make sure to attach the needle correctly. Push the needle straight onto the pen. Turn until it is on tight.                                                                                                                                                                                                                                                                    | D                                                                                                                             |
+| •                                   | The needle is covered by two caps. You must remove both caps. If you forget to remove both caps, you will not inject any solution. Pull off the outer needle cap and keep it for later. You will need it after the injection, to safely remove the needle from the pen.                                                                                                        | E                                                                                                                             |
+| • A but first Do                    | Pull off the inner needle cap and throw it away. If you try to put it back on, you may accidentally stick yourself with the needle. drop of solution may appear at the needle tip. This is normal, you must still check the flow, if you use a new pen for the time. See step 2 'Check the flow with each new pen'. not attach a new needle to your pen until you are ready to | F                                                                                                                             |
+|                                     | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing.                                                                                                                                                                                                                                                  | Always use a new needle for each injection. This may prevent blocked needles, contamination, infection and inaccurate dosing. |
+|                                     | Never use a bent or damaged needle.                                                                                                                                                                                                                                                                                                                                            | Never use a bent or damaged needle.                                                                                           |
+| 2. Check the flow with each new pen | 2. Check the flow with each new pen                                                                                                                                                                                                                                                                                                                                            | 2. Check the flow with each new pen                                                                                           |
+| • •                                 | If your pen is already in use, go to step 3 'Select your dose'. Only check the flow before your first injection with each new pen. Turn the dose selector to the flow check symbol ( ) right past '0'. Make sure the flow check symbol lines up with the pointer.                                                                                                              | A Flow check symbol selected                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-click:
-
-Disp
-
-B
-
--0-
-
-1-
-
-- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer. 1 mg lett
-
-pen celested ted
+- ·
 
 Press and hold in the dose button A drop of solution should appear at the needle tip.
+
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
@@ -4218,7 +4205,9 @@ If no drop appears, repeat step 2 'Check the flow with each new pen' up to 6 tim
 
 Dispose of the pen and use a new one if a drop of solution still does not appear.
 
-- Always make sure that a drop appears at the needle tip before you use a new pen for the first time. This makes sure that the solution flows.
+<!-- image -->
+
+Always make sure that a drop appears at the needle tip before you use a new pen for the first time. This makes sure that the solution flows.
 
 If no drop appears, you will not inject any medicine even though the dose counter may move. This may indicate a blocked or damaged needle.
 
@@ -4226,8 +4215,9 @@ If you do not check the flow before your first injection with each new pen, you 
 
 ## 3. Select your dose
 
-- ·
-- Turn the dose selector to select 1 mg. Keep turning until the dose counter stops and shows 1 mg.
+- Turn the dose selector to select 1 mg.
+
+Keep turning until the dose counter stops and shows 1 mg.
 
 <!-- image -->
 
@@ -4236,8 +4226,6 @@ Only the dose counter and dose pointer will show that 1 mg has been selected.
 You can only select 1 mg per dose. When your pen contains less than 1 mg, the dose counter stops before 1 is shown.
 
 The dose selector clicks differently when turned forwards, backwards or past 1 mg. Do not count the pen clicks.
-
-<!-- image -->
 
 ## Always use the dose counter and the dose pointer to see that 1 mg has been selected before injecting this medicine.
 
@@ -4249,13 +4237,13 @@ Only doses of 1 mg must be selected with the dose selector. 1 mg must line up pr
 
 - To see how much solution is left, use the dose counter:
 
-Turn the dose selector until the dose counter stops. If it shows 1, at least 1 mg is left in your pen.
+Turn the dose selector until the If it shows 1, at least 1 mg is left in your pen.
 
-there is not
-
-If the dose counter stops before 1 mg, enough solution left for a full dose of 1 mg.
+- If the dose counter stops before 1 mg, enough solution left for a full dose of 1 mg.
 
 <!-- image -->
+
+dose counter stops. there is not
 
 <!-- image -->
 
@@ -4267,20 +4255,9 @@ If there is not enough solution left in your pen for a full dose, do not use it.
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-A
-
-B
-
 - Insert the needle into your skin as your doctor or nurse has shown you.
 - Make sure you can see the dose counter. Do not cover it with your fingers. This could interrupt the injection.
-
--0-
-
-C Count slowly:
-
-- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. 1-2-3-4-5-6
+- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
@@ -4315,10 +4292,6 @@ Always dispose of the needle after each injection to ensure convenient injection
 
 - Lead the needle tip into the outer needle cap on a flat surface without touching the needle or the outer needle cap.
 
-D
-
-1
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -4335,7 +4308,7 @@ When the pen is empty, throw it away without a needle on as instructed by your d
 
 <!-- image -->
 
-- Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
+## Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
 ## Always remove the needle from your pen immediately after each injection.
 
@@ -4594,13 +4567,11 @@ Low blood sugar is more likely to happen if you also take a sulfonylurea or insu
 
 - Change in skin sensation.
 
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
-
 <div style=\"page-break-after: always\"></div>
 
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ozempic
 
@@ -4652,16 +4623,6 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-Ozempic pre-filled pen and needle (example)
-
-Outer
-
-OZEMPiC
-
-(LE
-
-- Pen cap
-
 ## Instructions for use
 
 ## Ozempic 2 mg solution for injection in pre-filled pen semaglutide
@@ -4670,14 +4631,6 @@ OZEMPiC
 
 <div style=\"page-break-after: always\"></div>
 
-take
-
-(..)I
-
-V
-
-· ~1
-
 <!-- image -->
 
 <!-- image -->
@@ -4694,7 +4647,7 @@ V
 
 <!-- image -->
 
-| • •                                                                                                                                                                                                                                                                         | Check the name and coloured label of your pen, to make sure that it contains Ozempic2 mg. This is especially important if you take more than one type of injectable medicine. Using the wrong medicine could be harmful to your health. Pull off the pen cap.                                                                                                                  | A                                                                                                                             |
+| • •                                                                                                                                                                                                                                                                         | Check the name and coloured label of your pen, to make sure that it contains Ozempic 2 mg. This is especially important if you take more than one type of injectable medicine. Using the wrong medicine could be harmful to your health. Pull off the pen cap.                                                                                                                 | A                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | •                                                                                                                                                                                                                                                                           | Check that the solution in your pen is clear and colourless. Look through the pen window. If the solution looks cloudy or coloured, do not use the pen.                                                                                                                                                                                                                        | B                                                                                                                             |
 | • •                                                                                                                                                                                                                                                                         | Take a new needle. Check the paper tab and the outer needle cap for damages that could affect sterility. If any damage is seen use a new needle. Tear off the paper tab.                                                                                                                                                                                                       | C                                                                                                                             |
@@ -4708,17 +4661,11 @@ V
 
 <div style=\"page-break-after: always\"></div>
 
-click
-
-Disp
-
-- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer. 2 mg 2 mg left
-
-pon celested tar
-
-<!-- image -->
+- ·
 
 Press and hold in the dose button A drop of solution should appear at the needle tip.
+
+- Hold the pen with the needle pointing up. until the dose counter returns to '0'. The '0' must line up with the dose pointer.
 
 <!-- image -->
 
@@ -4749,6 +4696,8 @@ You can only select 2 mg per dose. When your pen contains less than 2 mg, the do
 
 The dose selector clicks differently when turned forwards, backwards or past 2 mg. Do not count the pen clicks.
 
+<!-- image -->
+
 - Always use the dose counter and the dose pointer to see that 2 mg has been selected before injecting this medicine.
 
 Do not count the pen clicks.
@@ -4771,20 +4720,11 @@ Turn the dose selector until the dose counter stops. If it shows 2, at least 2 m
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
-D
-
 ## 4. Inject your dose
 
 - Insert the needle into your skin as your doctor or nurse has shown you.
 - Make sure you can see the dose counter. Do not cover it with your fingers. This could interrupt the injection.
-
--0-
-
-C Count slowly:
-
-- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click. 1-2-3-4-5-6
+- Press and hold down the dose button. Watch as the dose counter returns to '0'. The '0' must line up with the dose pointer. You may then hear or feel a click.
 - Continue pressing the dose button while keeping the needle in your skin.
 - Count slowly to 6, while keeping the dose button pressed.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
@@ -4835,6 +4775,8 @@ When the pen is empty, throw it away without a needle on as instructed by your d
 
 <!-- image -->
 
+<!-- image -->
+
 - Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
 ## Always remove the needle from your pen immediately after each injection.
@@ -4859,3 +4801,449 @@ Treat your pen with care. Rough handling or misuse may cause inaccurate dosing. 
 - Do not drop your pen or knock it against hard surfaces. If you drop it or suspect a problem, attach a new needle and check the flow before you inject.
 - Do not try to refill your pen. Once empty, it must be disposed of.
 - Do not try to repair your pen or pull it apart.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## Ozempic 0.25 mg solution for injection in pre-filled syringe Ozempic 0.5 mg solution for injection in pre-filled syringe Ozempic 1 mg solution for injection in pre-filled syringe
+
+semaglutide
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Ozempic is and what it is used for
+2. What you need to know before you use Ozempic
+3. How to use Ozempic
+4. Possible side effects
+5. How to store Ozempic
+6. Contents of the pack and other information
+
+## 1. What Ozempic is and what it is used for
+
+Ozempic contains the active substance semaglutide. It helps your body reduce your blood sugar level only when blood sugar is too high and can help prevent heart disease in patients with type 2 diabetes mellitus (T2DM). It also helps to slow down deterioration of kidney function in patients with T2DM by a mechanism beyond blood glucose lowering.
+
+Ozempic is used to treat adults (aged 18 years and older) with T2DM when diet and exercise is not enough:
+
+- on its own - when you cannot use metformin (another diabetes medicine) or
+- with other medicines for diabetes - when they are not enough to control your blood sugar levels. These may be medicines you take by mouth or inject such as insulin.
+
+It is important that you continue with your diet and exercise plan as told by your doctor, pharmacist or nurse.
+
+## 2. What you need to know before you use Ozempic
+
+## Do not use Ozempic
+
+- if you are allergic to semaglutide or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before using this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+This medicine is not the same as insulin and you should not use it if:
+
+- you develop diabetic ketoacidosis - a complication of diabetes with high blood sugar, breathing difficulty, confusion, excessive thirst, a sweet smell to the breath or a sweet or metallic taste in the mouth.
+
+Ozempic is not an insulin and should therefore not be used as a substitute for insulin. If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Ozempic.
+
+## Stomach and gut problems and dehydration
+
+During treatment with this medicine, you may feel sick (nausea) or be sick (vomiting), or have diarrhoea. These side effects can cause dehydration (loss of fluids). It is important that you drink plenty of fluids to prevent dehydration. This is especially important if you have kidney problems. Talk to your doctor if you have any questions or concerns.
+
+## Severe and on-going stomach pain which could be due to acute pancreatitis
+
+If you have severe and on-going pain in the stomach area - see a doctor straight away as this could be a sign of acute pancreatitis (inflamed pancreas). Please see section 4 for the warning signs of inflamed pancreas.
+
+## Low blood sugar (hypoglycaemia)
+
+Combining a sulfonylurea or an insulin with this medicine might increase the risk of getting low blood sugar levels (hypoglycaemia). Please see section 4 for the warning signs of low blood sugar levels. Your doctor may ask you to test your blood sugar levels. This will help your doctor decide if the dose of the sulfonylurea or insulin needs to be changed to reduce the risk of low blood sugar.
+
+## Diabetic eye disease (retinopathy)
+
+If you have diabetic eye disease and are using insulin, this medicine may lead to a worsening of your vision, and this may require treatment. Tell your doctor if you have diabetic eye disease or if you experience eye problems during treatment with this medicine. In case you have potentially unstable diabetic eye disease, it is not recommended that you use Ozempic 2 mg.
+
+## Sudden changes to your eyesight
+
+If you notice a sudden loss of vision or rapidly worsening eyesight during treatment with this medicine, immediately contact your doctor for advice. This may be caused by a very rare side effect called non- arteritic anterior ischaemic optic neuropathy (NAION) (See section 4: Serious side effects). Your doctor may refer you for an eye examination and you may have to stop treatment with this medicine.
+
+## Patients with delayed stomach emptying (gastroparesis)
+
+If you have slow (delayed) stomach emptying (called gastroparesis), use of Ozempic may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Ozempic.
+
+## Children and adolescents
+
+This medicine is not recommended in children and adolescents aged under 18 years as the safety and efficacy in this age group have not yet been established.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other medicines and Ozempic
+
+Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines, including herbal medicines or other medicines you bought without a prescription.
+
+In particular, tell your doctor, pharmacist or nurse if you are using medicines containing any of the following:
+
+- Warfarin or other similar medicines taken by mouth to reduce blood clotting (oral anticoagulants). You may need frequent blood tests to check how quickly your blood clots.
+- If you are using insulin, your doctor will tell you how to reduce the dose of insulin and will recommend you to monitor your blood sugar more frequently, in order to avoid hyperglycaemia (high blood sugar) and diabetic ketoacidosis (a complication of diabetes that occurs when the body is unable to break down glucose because there is not enough insulin).
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you might be pregnant, or are planning to have a baby, ask your doctor for advice before taking this medicine.
+
+This medicine should not be used during pregnancy, as it is not known if it affects an unborn baby. Therefore, use of contraception is recommended while using this medicine. If you wish to become pregnant, discuss how to change your treatment with your doctor as you should stop using this medicine at least 2 months in advance. If you become pregnant while using this medicine, talk to your doctor right away, as your treatment will need to be changed.
+
+Do not use this medicine if you are breast-feeding, as it is unknown if it passes into breast milk.
+
+## Driving and using machines
+
+Ozempic is unlikely to affect your ability to drive and use machines. If you use this medicine in combination with a sulfonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Do not drive or use machines if you get any signs of low blood sugar. See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar and section 4 for the warning signs of low blood sugar. Talk to your doctor for further information.
+
+## Sodium content
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+
+## 3. How to use Ozempic
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
+
+## How much to use
+
+- The starting dose is 0.25 mg once a week for four weeks.
+- After four weeks your doctor will increase your dose to 0.5 mg once a week.
+- Your doctor may increase your dose to 1 mg once a week if your blood sugar is not controlled well enough with a dose of 0.5 mg once a week.
+- Your doctor may increase your dose to 2 mg once a week if your blood sugar is not controlled well enough with a dose of 1 mg once a week.
+
+Do not change your dose unless your doctor has told you to.
+
+<div style=\"page-break-after: always\"></div>
+
+## How Ozempic is given
+
+Ozempic is given as an injection under the skin (subcutaneous injection). Do not inject it into a vein or muscle.
+
+- The best places to give the injection are the thighs, stomach area (abdomen) at least 5 centimetres from the belly button, or the back of your upper arm (with help from someone else).
+- Before you use the syringe for the first time, your doctor or nurse will show you how to use it.
+
+Detailed instructions for use are on the other side of this package leaflet.
+
+## When to use Ozempic
+
+- You should use this medicine once a week on the same day each week if possible.
+- You can give yourself the injection at any time of the day - regardless of meals.
+
+To help you remember to inject this medicine once a week only, it is recommended to note the chosen weekday (e.g. Wednesday) on the carton and to write the date on the carton every time you have injected it.
+
+If necessary you can change the day of your weekly injection of this medicine as long as it has been at least 3 days since your last injection of it. After selecting a new dosing day, continue with once a week dosing.
+
+## If you use more Ozempic than you should
+
+If you use more Ozempic than you should, talk to your doctor straight away. You may get side effects such as feeling sick (nausea).
+
+## If you forget to use Ozempic
+
+If you forgot to inject a dose and:
+
+- it is 5 days or less since you should have used Ozempic, use it as soon as you remember. Then inject your next dose as usual on your scheduled day.
+- it is more than 5 days since you should have used Ozempic, skip the missed dose. Then inject your next dose as usual on your scheduled day.
+
+Do not use a double dose to make up for a forgotten dose.
+
+## If you stop using Ozempic
+
+Do not stop using this medicine without talking to your doctor. If you stop using it, your blood sugar levels may increase.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Common (may affect up to 1 in 10 people)
+
+- Complications of diabetic eye disease (retinopathy) - you should tell your doctor if you get eye problems, such as changes in vision, during treatment with this medicine.
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
+
+<div style=\"page-break-after: always\"></div>
+
+Rare (may affect up to 1 in 1 000 people)
+
+- Severe allergic reactions (anaphylactic reactions, angioedema). You must get immediate medical help and inform your doctor straight away if you get symptoms such as breathing problems, swelling of face, lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
+
+## Very Rare (may affect up to 1 in 10 000 people)
+
+- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight'.
+
+Not known (frequency cannot be estimated from the available data)
+
+- Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
+
+## Other side effects
+
+Very common (may affect more than 1 in 10 people)
+
+- Feeling sick (nausea) - this usually goes away over time
+- Diarrhoea - this usually goes away over time
+- Low blood sugar (hypoglycaemia) when this medicine is used with medicines that contain a sulfonylurea or insulin.
+
+## Common (may affect up to 1 in 10 people)
+
+- Being sick (vomiting)
+- Low blood sugar (hypoglycaemia) when this medicine is used with oral diabetes medicine other than sulfonylurea or insulin.
+
+The warning signs of low blood sugar may come on suddenly. They can include: cold sweat, cool pale skin, headache, fast heartbeat, feeling sick (nausea) or very hungry, changes in vision, feeling sleepy or weak, feeling nervous, anxious or confused, difficulty concentrating or shaking.
+
+Your doctor will tell you how to treat low blood sugar and what to do if you notice these warning signs.
+
+Low blood sugar is more likely to happen if you also take a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
+
+- Indigestion
+- Inflamed stomach ('gastritis') - the signs include stomach ache, feeling sick (nausea) or being sick (vomiting)
+- Reflux or heartburn - also called 'gastro-oesophageal reflux disease' (GERD)
+- Stomach pain
+- Bloating of the stomach
+- Constipation
+- Burping
+- Gall stones
+- Dizziness
+- Tiredness
+- Weight loss
+- Less appetite
+- Gas (flatulence)
+- Increase of pancreatic enzymes (such as lipase and amylase)
+- Headache.
+
+<div style=\"page-break-after: always\"></div>
+
+Uncommon (may affect up to 1 in 100 people)
+
+- Change in the way food or drink tastes
+- Fast pulse
+- Injection site reactions - such as bruising, pain, irritation, itching and rash
+- Allergic reactions like rash, itching or hives
+- A delay in the emptying of the stomach.
+
+Not known (frequency cannot be estimated from the available data)
+
+- Change in skin sensation.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Ozempic
+
+Keep this medicine out of the sight and reach of children. Always keep small parts out of sight and reach of others, especially children.
+
+Do not use this medicine after the expiry date which is stated on the syringe label and carton after 'EXP'. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2 °C-8 °C). Do not freeze. Keep away from the cooling element. Always store the syringe in the original carton in order to protect from light.
+
+Ozempic may be stored unrefrigerated for up to 28 days at a temperature not above 30 °C. Discard the syringe if it has been exposed to light or temperatures above 30 °C, has been out of the refrigerator for more than 28 days, or has been frozen.
+
+Do not use this medicine if you notice that the solution is not clear and colourless or almost colourless.
+
+## After use :
+
+The syringe is for single use and contains one dose only. Dispose the used syringe immediately after use in a puncture-resistant container with a tight-fitting lid.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Ozempic contains
+
+- The active substance is semaglutide.
+- Ozempic 0.25 mg solution for injection
+
+Each pre-filled syringe contains 0.25 mg semaglutide in 0.5 ml (0.5 mg/ml).
+
+- Ozempic 0.5 mg solution for injection
+
+Each pre-filled syringe contains 0.5 mg semaglutide in 0.5 ml (1 mg/ml).
+
+- Ozempic 1 mg solution for injection Each pre-filled syringe contains 1 mg semaglutide in 0.5 ml (2 mg/ml).
+
+<div style=\"page-break-after: always\"></div>
+
+- The other ingredients are disodium phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide (for pH adjustment), water for injections. See also section 2 'Sodium content' for information on sodium.
+
+## What Ozempic looks like and contents of the pack
+
+Ozempic is a clear and colourless or almost colourless solution for injection in a pre-filled disposable syringe.
+
+Each syringe contains one dose only.
+
+Pack size of 4 pre-filled syringes.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## Instructions for use
+
+## Before you begin using your pre-filled syringe always read these instructions carefully.
+
+The pack contains four pre-filled syringes. This leaflet instructs how to perform an injection under the skin (subcutaneous).
+
+The syringe might be different from any other device you have used before.
+
+Before you use your syringe for the first time, talk to your doctor about how to inject your syringe correctly.
+
+## Get to know your syringe
+
+You should check the label on the carton and syringe to ensure it contains the correct medicine. Please make sure you have the correct dose prescribed by your doctor.
+
+Please note: The syringe might be different from the one shown in this leaflet.
+
+<!-- image -->
+
+<!-- image -->
+
+## Important information about your syringe
+
+- The syringe contains one complete dose. It is for one-time use only.
+- Do not use the syringe if the carton is damaged or if the tamper-proof is broken.
+- The syringe can be used straight from the refrigerator.
+- Keep this medicine out of the sight and reach of children.
+- Always keep small parts out of sight and reach of others, especially children.
+
+<div style=\"page-break-after: always\"></div>
+
+People who have poor eyesight should not use the syringe without help from a person who knows how to use the syringe.
+
+## Frequently asked questions
+
+## Do I inject the full volume of the syringe?
+
+Yes, the syringe is for one-time (single) use and contains one complete dose.
+
+## What if the syringe is damaged?
+
+If a syringe has been dropped, damaged or broken, do not use. Take a new one.
+
+## What if the needle is bent?
+
+If the needle is bent, dropped or damaged do not use the syringe. Take a new one.
+
+## Turn this leaflet for further information
+
+You will need information regarding the medicine inside the syringe.
+
+See this information in section 5 on the other side of this leaflet, which includes:
+
+- Storage
+- Expiry date
+- Disposal
+- What the medicine looks like
+
+For any questions contact your doctor.
+
+## Prepare your syringe
+
+## 1. Take out one syringe
+
+<!-- image -->
+
+- Open the carton.
+- Gently take out one syringe by holding the glass barrel.
+- Check the syringe label. Confirm you have the dose prescribed by your doctor.
+
+Do not hold or touch the syringe by the plunger rod or needle cap.
+
+Keep the needle cap on, until you are ready to inject.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. Inspect your syringe
+
+<!-- image -->
+
+- Look through the glass barrel. Only use the syringe if the medicine appears as described in section 5 on the other side of this leaflet.
+
+The expiry date can be found on the back side of the syringe label.
+
+It is normal to see air bubbles. Do not try to remove bubbles.
+
+Do not use the syringe if it appears to have been used, dropped, damaged or broken.
+
+## 3. Choose your injection site
+
+<!-- image -->
+
+- Stomach area or thighs
+- Back of upper arm (only with help from someone else)
+
+Inject under the skin of your:
+
+- Stomach area (abdomen) at least 5 cm from the belly button.
+- Thighs.
+- ⸰ Back of upper arm (only with help from someone else).
+
+Your doctor will help you choose the injection site that is best for you.
+
+Avoid using the exact same spot as the last time you injected.
+
+<div style=\"page-break-after: always\"></div>
+
+## Inject your dose
+
+## 4. Pull off the needle cap
+
+<!-- image -->
+
+- Pull the needle cap straight off and dispose of it.
+
+You might see drops of medicine from the needle tip. This is normal and does not affect your dose. Continue with your injection right away.
+
+Do not put the needle cap back on the syringe, to avoid needle stick injuries.
+
+## 5. Insert into your skinfold
+
+<!-- image -->
+
+- Gently make a skinfold and fully insert the syringe needle at a 45-degree angle.
+
+You will reach under the skin and not the muscle.
+
+## 6. Inject your dose
+
+<!-- image -->
+
+- With a slow and constant pressure, push the plunger rod all the way in until the plunger stops.
+
+When the plunger is at the bottom and the syringe is empty your dose is complete.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. Remove your syringe
+
+<!-- image -->
+
+- Remove the needle at a 45-degree angle.
+
+If blood appears at the injection site, press lightly on the area to stop the bleeding, without rubbing.
+
+## Dispose of your syringe
+
+Be careful when handling used needles. Dispose of your syringe right away. Find disposal information in section 5 on the other side of this leaflet.

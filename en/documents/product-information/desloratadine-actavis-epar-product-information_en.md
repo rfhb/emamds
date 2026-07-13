@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 22:02:23
-document_pages: 30
+document_datetime: 2026-07-10 10:53:12
+document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/desloratadine-actavis-epar-product-information_en.pdf
 document_name: desloratadine-actavis-epar-product-information_en.pdf
 version: success
-processing_time: 5.9124233
-conversion_datetime: 2025-12-22 12:41:04.382475
+processing_time: 5.9990329
+conversion_datetime: 2026-07-13 12:50:02.205953
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -95,7 +95,7 @@ In a clinical pharmacology trial, desloratadine tablets taken concomitantly with
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
 
 ## Breast-feeding
 
@@ -115,23 +115,19 @@ Desloratadine has no or negligible influence on the ability to drive and use mac
 
 In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with desloratadine were reported in 3% of patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2%), dry mouth (0.8%) and headache (0.6%).
 
-<div style=\"page-break-after: always\"></div>
-
-## Paediatric population
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
 ## Tabulated list of adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
 | System Organ Class                                   | Frequency                  | Adverse reactions seen with desloratadine                                                                              |
 |------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                  | Increased appetite                                                                                                     |
-| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour, aggression, depressed mood                                                          |
+| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour*, aggression*, depressed mood                                                        |
 | Nervous system disorders                             | Common Very rare           | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                          |
 | Eye disorders                                        | Not known                  | Eye dryness                                                                                                            |
-| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation                                                                              |
+| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation*                                                                             |
 | Gastrointestinal disorders                           | Common Very rare           | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                       |
 | Hepatobiliary disorders                              | Very rare Not known        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                   |
 | Skin and subcutaneous tissue disorders               | Not known                  | Photosensitivity                                                                                                       |
@@ -141,13 +137,15 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and  bradycardia.
 
 A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95% Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95% CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -187,11 +185,9 @@ In a multiple dose clinical trial, in which up to 20 mg of desloratadine was adm
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
 
-Desloratadine does not readily penetrate the central nervous system. In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo. Desloratadine given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials. In a single dose study performed in adults, desloratadine 5 mg did not affect standard
+Desloratadine does not readily penetrate the central nervous system. In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo. Desloratadine given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials. In a single dose study performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
 
 <div style=\"page-break-after: always\"></div>
-
-measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
 
 In clinical pharmacology trials, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness. No significant differences were found in the psychomotor test results between desloratadine and placebo groups, whether administered alone or with alcohol.
 
@@ -205,7 +201,7 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Desloratadine was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
 In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, desloratadine was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as nonresponsive to antihistamines was excluded. An improvement in pruritus of more than 50% was observed in 55% of patients treated with desloratadine compared with 19% of patients treated with placebo. Treatment with desloratadine also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
@@ -217,9 +213,9 @@ Desloratadine plasma concentrations can be detected within 30 minutes of adminis
 
 In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4% of the subjects achieved a higher concentration of desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
+
+<div style=\"page-break-after: always\"></div>
 
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins. There is no evidence of clinically relevant medicine accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
@@ -249,11 +245,11 @@ Tablet core: Microcrystalline cellulose Starch, pregelatinised Mannitol Talc Mag
 
 Tablet coating: Hypromellose 6cP Titanium dioxide (E171) Macrogol 6000 Indigo carmine aluminum lake (E132)
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -271,9 +267,7 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-```
 OPA/Aluminium/PVC-Aluminium blisters.
-```
 
 Pack sizes: 7, 10, 14, 20, 21, 30, 50, 90 and 100 tablets.
 
@@ -287,7 +281,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Actavis Group PTC ehf. Dalshraun 1 220 Hafnarfjörður Iceland
+Actavis Group PTC ehf.
+
+Dalshraun 1 220 Hafnarfjörður Iceland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -295,17 +291,17 @@ Actavis Group PTC ehf. Dalshraun 1 220 Hafnarfjörður Iceland
 EU/1/11/745/001 EU/1/11/745/002 EU/1/11/745/003 EU/1/11/745/004 EU/1/11/745/005 EU/1/11/745/006 EU/1/11/745/007 EU/1/11/745/008 EU/1/11/745/009 EU/1/11/745/010 EU/1/11/745/011
 ```
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13.01.2012
 
 Date of latest renewal: 11.11.2016
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -322,9 +318,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Actavis Ltd. BLB 015-016 Bulebel Industrial Estate Zejtun ZTN 3000 Malta or
+Actavis Ltd. BLB 015-016 Bulebel Industrial Estate Zejtun ZTN 3000 Malta
 
-Balkanpharma-Dupnitsa AD 3 Samokovsko Shosse Str. 2600 Dupnitsa Bulgaria
+or
+
+Balkanpharma-Dupnitsa AD
+
+3 Samokovsko Shosse Str. 2600 Dupnitsa Bulgaria
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -340,7 +340,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 Not applicable.
 
@@ -353,8 +353,6 @@ Not applicable.
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -372,22 +370,27 @@ Each tablet contains 5 mg desloratadine.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## 7 film-coated tablets
+7 film-coated tablets
 
 - 10 film-coated tablets
+
 - 14 film-coated tablets
+
 - 20 film-coated tablets
+
 - 21 film-coated tablets
+
 - 30 film-coated tablets
+
 - 50 film-coated tablets
+
 - 90 film-coated tablets
+
 - 100 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Swallow the tablet whole with water.
-
-Read the package leaflet before use.
+Swallow the tablet whole with water. Read the package leaflet before use.
 
 Oral use
 
@@ -398,6 +401,8 @@ Keep out of the sight and reach of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
 
 EXP
 
@@ -419,13 +424,19 @@ Iceland
 
 EU/1/11/745/001 7 film-coated tablets
 
-- EU/1/11/745/002 10 film-coated tablets
-- EU/1/11/745/003 14 film-coated tablets
-- EU/1/11/745/004 20 film-coated tablets
-- EU/1/11/745/005 21 film-coated tablets
-- EU/1/11/745/006 30 film-coated tablets
-- EU/1/11/745/007 50 film-coated tablets
-- EU/1/11/745/008 90 film-coated tablets
+EU/1/11/745/002 10 film-coated tablets
+
+EU/1/11/745/003 14 film-coated tablets
+
+EU/1/11/745/004 20 film-coated tablets
+
+EU/1/11/745/005 21 film-coated tablets
+
+EU/1/11/745/006 30 film-coated tablets
+
+EU/1/11/745/007 50 film-coated tablets
+
+EU/1/11/745/008 90 film-coated tablets
 
 EU/1/11/745/009 100 film-coated tablets
 
@@ -435,7 +446,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -449,8 +460,8 @@ desloratadine actavis 5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 &lt; PC: {number} SN: {number} NN: {number} &gt;
 
@@ -458,17 +469,17 @@ desloratadine actavis 5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Desloratadine Actavis 5 mg film-coated tablets desloratadine
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 [Actavis Group PTC ehf. Logo]
 
@@ -546,7 +557,9 @@ EU/1/11/745/010 30 film-coated tablets EU/1/11/745/011 100 film-coated tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 desloratadine actavis 5 mg
@@ -589,11 +602,7 @@ Each tablet contains 5 mg desloratadine.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Swallow the tablet whole with water.
-
-Read the package leaflet before use.
-
-Oral use
+Swallow the tablet whole with water. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -669,7 +678,7 @@ Desloratadine Actavis contains desloratadine which is an antihistamine.
 
 ## How Desloratadine Actavis works
 
-Desloratadine Actavis is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Desloratadine Actavis is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Desloratadine Actavis should be used
 
@@ -728,9 +737,7 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose is one tablet once a day with water, with or without food.
 
-This medicine is for oral use.
-
-Swallow the tablet whole.
+This medicine is for oral use. Swallow the tablet whole.
 
 Regarding the duration of treatment, your doctor will determine the type of allergic rhinitis you are suffering from and will determine for how long you should take Desloratadine Actavis. If your allergic rhinitis is intermittent (presence of symptoms for less than 4 days per week or for less than 4 weeks), your doctor will recommend you a treatment schedule that will depend on the evaluation of the history of your disease.
 
@@ -786,6 +793,12 @@ Very rare: the following may affect up to 1 in 10,000 people
 - drowsiness
 - hallucinations
 - liver inflammation
+- pounding or irregular heartbeat
+- feeling sick (nausea)
+- diarrhoea
+- inability to sleep
+- seizures
+- abnormal liver function tests
 
 Not known: frequency cannot be estimated from the available data
 
@@ -795,6 +808,9 @@ Not known: frequency cannot be estimated from the available data
 - changes in the way the heart beats
 - abnormal behaviour
 - aggression
+
+<div style=\"page-break-after: always\"></div>
+
 - weight increased
 - increased appetite
 - depressed mood
@@ -806,23 +822,12 @@ Not known: frequency cannot be estimated from the available data
 
 - slow heartbeat
 - abnormal behaviour
+- change in the way the heart beats
+- aggression
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
-
-- change in the way the heart beats
-- aggression
-- pounding or irregular heartbeat
-- feeling sick (nausea)
-- diarrhoea
-- inability to sleep
-- seizures
-- abnormal liver function tests
-
-<div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Desloratadine Actavis
 
@@ -857,45 +862,51 @@ Blue coloured, round, with diameter of 6 mm, biconvex, film-coated tablets with 
 
 Desloratadine Actavis 5 mg film-coated tablets are packed in: Blister packs: 7, 10, 14, 20, 21, 30, 50, 90 or 100 tablets.
 
+<div style=\"page-break-after: always\"></div>
+
 Plastic bottles containing a desiccant and closed with a plastic cap: 30 or 100 tablets. Do not swallow the desiccant.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder Actavis Group PTC ehf. Dalshraun 1 220 Hafnarfjörður Iceland
+## Marketing Authorisation Holder
 
-<div style=\"page-break-after: always\"></div>
+Actavis Group PTC ehf.
 
-Manufacturer Actavis Ltd. BLB 015-016 Bulebel Industrial Estate Zejtun ZTN 3000
+Dalshraun 1 220 Hafnarfjörður Iceland
 
-Malta or
+## Manufacturer
 
-Balkanpharma-Dupnitsa AD 3 Samokovsko Shosse Str. 2600 Dupnitsa Bulgaria
+Actavis Ltd. BLB 015-016 Bulebel Industrial Estate Zejtun ZTN 3000 Malta
+
+or
+
+## Balkanpharma-Dupnitsa AD
+
+3 Samokovsko Shosse Str. 2600 Dupnitsa Bulgaria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
-UAB Teva Baltics
+## Lietuva
 
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл: +359 24899585
+Teл
+
+.: +359 24899585
 
 ## Luxembourg/Luxemburg
 
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
-
-Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
 
 ## Česká republika
 
@@ -905,23 +916,17 @@ Tel: +420 251007111
 
 ## Magyarország
 
-Teva Gyógyszergyár Zrt.
-
-Tel: +36 12886400
+Teva Gyógyszergyár Zrt. Tel.: +36 12886400
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
-
-Tel: +44 2075407117
+TEVA HELLAS Α.Ε. il- Greċja Tel: +30 2118805000
 
 ## Deutschland
 
@@ -947,31 +952,21 @@ Teva Norway AS
 
 Tlf: +47 66775590
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-Specifar A.B.E.E.
+TEVA HELLAS Α.Ε .
 
 Τηλ
 
 : +30 2118805000
 
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
-
 ## España
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel: +48 223459300
+Tel: +34 915359180
 
 ## France
 
@@ -979,23 +974,11 @@ Teva Santé
 
 Tél: +33 155917800
 
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
-
 ## Hrvatska
 
 Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
-
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
 
 ## Ireland
 
@@ -1003,23 +986,11 @@ Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
-
 ## Ísland
 
 Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
-
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
 
 ## Italia
 
@@ -1027,15 +998,11 @@ Teva Italia S.r.l.
 
 Tel: +39 028917981
 
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
 ## Κύπρος
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε .
+
+.
 
 Ελλάδα
 
@@ -1043,50 +1010,60 @@ Specifar A.B.E.E.
 
 30 2118805000
 
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
 ## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in MM/YYYY
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+## Österreich
 
-## ANNEX IV
+ratiopharm Arzneimittel Vertriebs-GmbH
 
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+Tel: +43 1970070
 
-<div style=\"page-break-after: always\"></div>
+## Polska
 
-## Scientific conclusions
+Teva Pharmaceuticals Polska Sp. z o.o.
 
-Taking into account the PRAC Assessment Report on the PSUR(s) for desloratadine, the scientific conclusions of the CHMP are as follows:
+Tel.: +48 223459300
 
-In view of available data from the literature including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between desloratadine and depressed mood is at least a reasonable possibility. The PRAC concluded that the product information of products containing desloratadine should be amended accordingly.
+## Portugal
 
-As described in the literature and signal section of some MAHs, WHO identified a potential safety signal of dry eyes for desloratadine during the reporting period. Based on the anticholinergic properties of desloratadine and strengthened by the reports with a short time to onset and both de- and rechallenges described, the PRAC considers that 'eye dryness' should be considered for inclusion in the product labels and patient leaflets.
+Teva Pharma - Produtos Farmacêuticos, Lda.
 
-The CHMP agrees with the scientific conclusions made by the PRAC.
+Tel: +351 214767550
 
-## Grounds for the variation to the terms of the marketing authorisation(s)
+## România
 
-On the basis of the scientific conclusions for desloratadine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing desloratadine is unchanged subject to the proposed changes to the product information.
+Teva Pharmaceuticals S.R.L.
 
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100

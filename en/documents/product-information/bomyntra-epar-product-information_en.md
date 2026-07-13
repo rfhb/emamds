@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 11:58:19
-document_pages: 48
+document_datetime: 2026-07-10 11:40:27
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bomyntra-epar-product-information_en.pdf
 document_name: bomyntra-epar-product-information_en.pdf
 version: success
-processing_time: 12.571525
-conversion_datetime: 2025-12-20 11:57:33.501802
+processing_time: 13.8918025
+conversion_datetime: 2026-07-13 12:51:14.314562
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,9 +52,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection in vial (injection).
+Bomyntra 120 mg solution for injection in vial Solution for injection (injection).
 
-Solution for injection in pre-filled syringe (injection).
+Bomyntra 120 mg solution for injection in pre-filled syringe Solution for injection (injection).
 
 Clear, colourless to slightly yellow solution with pH 5.2 free from visible particles.
 
@@ -70,9 +70,9 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 
 Bomyntra should be administered under the responsibility of a healthcare professional.
 
-Posology
-
 <div style=\"page-break-after: always\"></div>
+
+## Posology
 
 Supplementation of at least 500 mg calcium and 400 IU vitamin D daily is required in all patients, unless hypercalcaemia is present (see section 4.4).
 
@@ -156,14 +156,11 @@ ONJ has been reported commonly in patients receiving denosumab (see section 4.8)
 
 The start of treatment/new treatment course should be delayed in patients with unhealed open soft tissue lesions in the mouth. A dental examination with preventive dentistry and an individual benefitrisk assessment is recommended prior to treatment with denosumab.
 
-The following risk factors should be considered when evaluating a patient's risk of developing ONJ:
-
-- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent
-
 <div style=\"page-break-after: always\"></div>
 
-compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
+The following risk factors should be considered when evaluating a patient's risk of developing ONJ:
 
+- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
 - cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
 - poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
@@ -186,9 +183,9 @@ Clinically significant hypercalcaemia requiring hospitalisation and complicated 
 
 After treatment is discontinued, monitor patients for signs and symptoms of hypercalcaemia, consider periodic assessment of serum calcium and re-evaluate the patient's calcium and vitamin D supplementation requirements (see section 4.8).
 
-Denosumab is not recommended in patients with growing skeletons (see section 4.2). Clinically significant hypercalcaemia has also been reported in this patient group weeks to months following treatment discontinuation.
-
 <div style=\"page-break-after: always\"></div>
+
+Denosumab is not recommended in patients with growing skeletons (see section 4.2). Clinically significant hypercalcaemia has also been reported in this patient group weeks to months following treatment discontinuation.
 
 ## Others
 
@@ -210,7 +207,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose,
 
 No interaction studies have been performed.
 
-In clinical trials, denosumab has been administered in combination with standard anti-cancer treatment and in subjects previously receiving bisphosphonates. There were no clinically-relevant alterations in trough serum concentration and pharmacodynamics of denosumab (creatinine adjusted urinary N-telopeptide, uNTx/Cr) by concomitant chemotherapy and/or hormone therapy or by previous intravenous bisphosphonate exposure.
+In clinical trials, denosumab has been administered in combination with standard anti-cancer treatment and in patients previously receiving bisphosphonates. There were no clinically-relevant alterations in trough serum concentration and pharmacodynamics of denosumab (creatinine adjusted urinary Ntelopeptide, uNTx/Cr) by concomitant chemotherapy and/or hormone therapy or by previous intravenous bisphosphonate exposure.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -222,11 +219,9 @@ Denosumab is not recommended for use in pregnant women and women of child-bearin
 
 ## Breast-feeding
 
-It is unknown whether denosumab is excreted in human milk. A risk to the newborns/infants cannot be excluded. Knockout mouse studies suggest absence of RANKL during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision must be made on whether to abstain from breast-feeding or to abstain from denosumab
+It is unknown whether denosumab is excreted in human milk. A risk to the newborns/infants cannot be excluded. Knockout mouse studies suggest absence of RANKL during pregnancy may interfere with maturation of the mammary gland leading to impaired lactation post-partum (see section 5.3). A decision must be made on whether to abstain from breast-feeding or to abstain from denosumab therapy taking into account the benefit of breast-feeding to the newborn/infant and the benefit of therapy for the woman.
 
 <div style=\"page-break-after: always\"></div>
-
-therapy taking into account the benefit of breast-feeding to the newborn/infant and the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -250,7 +245,7 @@ The following convention has been used for the classification of the adverse rea
 
 Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
-| MedDRAsystem organ class                                                 | Frequency category   | Adverse reactions                                                                               |
+| MedDRA system organ class                                                | Frequency category   | Adverse reactions                                                                               |
 |--------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------|
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | New primary malignancy 1                                                                        |
 | Immune system disorders                                                  | Rare                 | Drug hypersensitivity 1                                                                         |
@@ -263,27 +258,20 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 | Gastrointestinal disorders                                               | Common               | Tooth extraction                                                                                |
 | Skin and subcutaneous tissue disorders                                   | Common               | Hyperhidrosis                                                                                   |
 | Skin and subcutaneous tissue disorders                                   | Uncommon             | Lichenoid drug eruptions 1                                                                      |
-| Musculoskeletal and connective tissue disorders                          | Very common          | Musculoskeletal pain 1                                                                          |
-| Musculoskeletal and connective tissue disorders                          | Common               | Osteonecrosis of the jaw 1                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon   | Atypical femoral fracture 1   |
-|------------|-------------------------------|
-
-1 See section Description of selected adverse reactions
-
-2 See section Other special populations
-
-3 See section 4.4
-
-4 Class effect
+| Musculoskeletal and connective   | Very common   | Musculoskeletal pain 1                           |
+|----------------------------------|---------------|--------------------------------------------------|
+| tissue disorders                 | Common        | Osteonecrosis of the jaw 1                       |
+| tissue disorders                 | Uncommon      | Atypical femoral fracture 1                      |
+| tissue disorders                 | Not known     | Osteonecrosis of the external auditory canal 3,4 |
 
 ## Description of selected adverse reactions
 
 ## Hypocalcaemia
 
-A higher incidence of hypocalcaemia among subjects treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials.
+A higher incidence of hypocalcaemia among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials.
 
 The highest incidence of hypocalcaemia was observed in a phase III trial in patients with multiple myeloma. Hypocalcaemia was reported in 16.9% of patients treated with denosumab and 12.4% of patients treated with zoledronic acid. A grade 3 decrease in serum calcium levels was experienced in 1.4% of patients treated with denosumab and 0.6% of patients treated with zoledronic acid. A grade 4 decrease in serum calcium levels was experienced in 0.4% of patients treated with denosumab and 0.1% of patients treated with zoledronic acid.
 
@@ -299,13 +287,11 @@ In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal
 
 In clinical trials, the incidence of ONJ was higher with longer duration of exposure; ONJ has also been diagnosed after stopping treatment with denosumab with the majority of cases occurring within 5 months after the last dose. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure were excluded from the clinical trials.
 
-A higher incidence of ONJ among subjects treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with denosumab (median exposure of 19.4 months; range 1 - 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
-
-In the primary treatment phases of three phase III active-controlled clinical trials in patients with
+A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with denosumab (median exposure of 19.4 months; range 1 - 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
 
 <div style=\"page-break-after: always\"></div>
 
-advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 - 40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among subjects with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most subjects were receiving or had received chemotherapy.
+In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 - 40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
 
 The trials in patients with breast or prostate cancer included an denosumab extension treatment phase (median overall exposure of 14.9 months; range: 0.1 - 67.2). ONJ was confirmed in 6.9% of patients with breast cancer and prostate cancer during the extension treatment phase.
 
@@ -317,6 +303,8 @@ In  a  phase  III  trial  in  patients  with  non-metastatic  prostate  cancer  
 
 In a long-term phase II open-label clinical trial in patients with giant cell tumour of bone (Study 6, see section 5.1), ONJ was confirmed in 6.8% of patients, including one adolescent (median number of 34 doses; range 4 - 116). At the completion of the trial, median time on trial including safety followup phase was 60.9 months (range: 0 - 112.6). The patient-year adjusted incidence of confirmed ONJ was 1.5 per 100 patient-years overall (0.2 per 100 patient-years during the first year of treatment, 1.5 in the second year, 1.8 in the third year, 2.1 in the fourth year, 1.4 in the fifth year, and 2.2 thereafter). The median time to ONJ was 41 months (range: 11 - 96).
 
+Study 7 was conducted to continue to follow subjects with GCTB who were treated in study 6 for an additional 5 or more years. ONJ was reported in 6 patients (11.8%) of the 51 exposed patients with median total 42 doses of denosumab. Three of these cases of ONJ were medically confirmed.
+
 ## Drug related hypersensitivity reactions
 
 In the post-marketing setting, events of hypersensitivity, including rare events of anaphylactic reactions, have been reported in patients receiving denosumab.
@@ -324,6 +312,10 @@ In the post-marketing setting, events of hypersensitivity, including rare events
 ## Atypical fractures of the femur
 
 In the clinical trial programme, atypical femoral fractures have been reported uncommonly in patients treated with denosumab and the risk increased with longer duration of treatment. Events have occurred during treatment and up to 9 months after treatment was discontinued (see section 4.4).
+
+In the clinical trial programme for GCTB, atypical femoral fractures have been reported commonly in patients treated with denosumab. In study 6, incidence of confirmed AFF was 0.95% (5/526) in patients with giant cell tumour of bone. In the follow up study 7, the incidence of confirmed AFF was 3.9% (2/51) of patients exposed to denosumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Musculoskeletal pain
 
@@ -333,11 +325,11 @@ In the post-marketing setting, musculoskeletal pain, including severe cases, has
 
 In the primary double blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.0 - 51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
 
-<div style=\"page-break-after: always\"></div>
-
 The cumulative incidence at one year was 1.1 % for denosumab and 0.6 % for zoledronic acid, respectively.
 
 No treatment-related pattern in individual cancers or cancer groupings was apparent.
+
+In patients with giant cell tumour of bone, incidence of new malignancy, including malignancies involving the bone and outside the bone was 3.8% (20/526) in study 6. In the follow up study 7, the incidence was 11.8% (6/51) of patients exposed to denosumab.
 
 ## Lichenoid drug eruptions
 
@@ -353,13 +345,15 @@ Clinically significant hypercalcaemia after treatment discontinuation has been r
 
 ## Renal impairment
 
-In a clinical trial of patients without advanced cancer with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis, there was a greater risk of developing hypocalcaemia in the absence of calcium supplementation. The risk of developing hypocalcaemia during denosumab treatment is greater with increasing degree of renal impairment. In a clinical trial in patients without advanced cancer, 19% of patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) and 63% of patients receiving dialysis developed hypocalcaemia despite calcium supplementation. The overall incidence of clinically significant hypocalcaemia was 9%.
+In a clinical study of patients without advanced cancer with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis, there was a greater risk of developing hypocalcaemia in the absence of calcium supplementation. The risk of developing hypocalcaemia during denosumab treatment is greater with increasing degree of renal impairment. In a clinical study in patients without advanced cancer, 19% of patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) and 63% of patients receiving dialysis developed hypocalcaemia despite calcium supplementation. The overall incidence of clinically significant hypocalcaemia was 9%.
 
 Accompanying increases in parathyroid hormone have also been observed in patients receiving denosumab with severe renal impairment or receiving dialysis. Monitoring of calcium levels and adequate intake of calcium and vitamin D is especially important in patients with renal impairment (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -372,8 +366,6 @@ There is no experience with overdose in clinical studies. denosumab has been adm
 Pharmacotherapeutic group: Drugs for treatment of bone diseases - other drugs affecting bone structure and mineralisation, ATC code: M05BX04
 
 Bomyntra is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -393,6 +385,8 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 Efficacy and safety of 120 mg denosumab subcutaneous every 4 weeks or 4 mg zoledronic acid (doseadjusted for reduced renal function) intravenous every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in intravenous-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a pre- specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
+<div style=\"page-break-after: always\"></div>
+
 Denosumab reduced the risk of developing a SRE, and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
 <div style=\"page-break-after: always\"></div>
@@ -401,30 +395,32 @@ Table 2. Efficacy results in patients with advanced malignancies involving bone
 
 |                                         | Study 1 breast cancer     | Study 1 breast cancer     | Study 2 other solid tumours** or multiple myeloma   | Study 2 other solid tumours** or multiple myeloma   | Study 3 prostate cancer   | Study 3 prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
 |-----------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                                         | denosumab                 | zoledronic acid           | denosumab                                           | zoledronic acid                                     | denosumabzoledronic       | acid                      | denosumabzoledronic        | acid                       |
+|                                         | denosumab                 | zoledronic acid           | denosumab                                           | zoledronic acid                                     | denosumab                 | zoledronic acid           | denosumab                  | zoledronic acid            |
 | N                                       | 1,026                     | 1,020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
 | First SRE                               |                           |                           |                                                     |                                                     |                           |                           |                            |                            |
 | Median time (months)                    | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
 | Difference in median time (months)      | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
 | HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
 | Non-inferiority / Superiority p- values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †                                 | 0.0007 † / 0.0619 †                                 | 0.0002 † / 0.0085 †       | 0.0002 † / 0.0085 †       | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
-| Proportion of subjects (%)              | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
+| Proportion of patients (%)              | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
 | First and subsequent SRE*               | First and subsequent SRE* | First and subsequent SRE* |                                                     |                                                     |                           |                           |                            |                            |
 | Mean number/patient                     | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
 | Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
 | Superiority p-value                     | 0.0012 †                  | 0.0012 †                  | 0.1447 †                                            | 0.1447 †                                            | 0.0085 †                  | 0.0085 †                  | < 0.0001                   | < 0.0001                   |
 | SMR per Year                            | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
 | N                                       | 1,026                     | 1,020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2,862                      | 2,861                      |
-| First SREorHCM                          | First SREorHCM            | First SREorHCM            | First SREorHCM                                      | First SREorHCM                                      | First SREorHCM            | First SREorHCM            | First SREorHCM             | First SREorHCM             |
+| First SRE or HCM                        | First SRE or HCM          | First SRE or HCM          | First SRE or HCM                                    | First SRE or HCM                                    | First SRE or HCM          | First SRE or HCM          | First SRE or HCM           | First SRE or HCM           |
 | Median time (months)                    | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
-| HR(95%CI) / RRR (%)                     | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
 | Superiority p- value                    | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
 | First radiation to bone                 | First radiation to bone   | First radiation to bone   | First radiation to bone                             | First radiation to bone                             | First radiation to bone   | First radiation to bone   | First radiation to bone    | First radiation to bone    |
 | Median time (months)                    | NR                        | NR                        | NR                                                  | NR                                                  | NR                        | 28.6                      | NR                         | 33.2                       |
-| HR(95%CI) / RRR (%)                     | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
+| HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
 | Superiority p- value                    | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
 
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
+NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events
+
+occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
@@ -434,11 +430,13 @@ Figure 1. Kaplan-Meier plots of time to first on-study SRE
 
 <!-- image -->
 
+Dmab = Denosumab 120 mg Q4W  ZA = Zoledronic Acid 4 mg Q4W
+
 N = Number of subjects randomised
 
 * = Statistically significant for superiority; ** = Statistically significant for non-inferiority
 
-## Disease progression and overall survival with bone metastases from solid tumours
+Disease progression and overall survival with bone metastases from solid tumours
 
 Disease progression was similar between denosumab and zoledronic acid in all three studies and in the pre-specified analysis of all three studies combined.
 
@@ -452,11 +450,9 @@ The time to pain improvement (i.e., ≥ 2-point decrease from baseline in BPI-SF
 
 Denosumab was evaluated in an international, randomised (1:1), double-blind, active-controlled study comparing denosumab with zoledronic acid in patients with newly diagnosed multiple myeloma, study 4.
 
-In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure
+In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 <div style=\"page-break-after: always\"></div>
-
-was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Across both study arms, 54.5% of patients intended to undergo autologous PBSC transplantation, 95.8% patients utilised/planned to utilise a novel anti-myeloma agent (novel therapies include bortezomib, lenalidomide, or thalidomide) in first-line therapy, and 60.7% of patients had a previous SRE. The number of patients across both study arms with ISS stage I, stage II, and stage III at diagnosis were 32.4%, 38.2%, and 29.3%, respectively.
 
@@ -480,7 +476,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| FirstSREorHCM                       |                       |                             |
+| First SRE or HCM                    |                       |                             |
 | Median time (months)                | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 
@@ -498,27 +494,29 @@ HCM = hypercalcaemia of malignancy
 
 ## Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
 
-The safety and efficacy of denosumab was studied in two phase II open-label, single-arm trials (studies 5 and 6) that enrolled 554 patients with giant cell tumour of bone that was either unresectable or for which surgery would be associated with severe morbidity. Patients received 120 mg denosumab subcutaneously every 4 weeks with a loading dose of 120 mg on days 8 and 15. Patients who discontinued denosumab then entered the safety follow-up phase for a minimum of 60 months. Retreatment with denosumab while in safety follow-up was allowed for subjects who initially demonstrated a response to denosumab (e.g. in the case of recurrent disease).
+The safety and efficacy of denosumab was studied in two phase II open-label, single-arm trials (studies 5 and 6) that enrolled 554 patients with giant cell tumour of bone that was either unresectable or for which surgery would be associated with severe morbidity and a prospective, multicentre, openlabel, phase IV study (study 7) that provided long-term safety follow-up for patients who completed study 6. Patients received 120 mg denosumab subcutaneously every 4 weeks with a loading dose of 120 mg on days 8 and 15. Patients who discontinued denosumab then entered the safety follow-up phase for a minimum of 60 months.
+
+Retreatment with denosumab while in safety follow-up was allowed for patients who initially demonstrated a response to denosumab (e.g. in the case of recurrent disease).
 
 Study 5 enrolled 37 adult patients with histologically confirmed unresectable or recurrent giant cell tumour of bone. The main outcome measure of the trial was response rate, defined as either at least 90% elimination of giant cells relative to baseline (or complete elimination of giant cells in cases where giant cells represent &lt; 5% of tumour cells), or a lack of progression of the target lesion by radiographic measurements in cases where histopathology was not available. Of the 35 patients included in the efficacy analysis, 85.7% (95% CI: 69.7, 95.2) had a treatment response to denosumab. All 20 patients (100%) with histology assessments met response criteria. Of the remaining 15 patients, 10 (67%) radiographic measurements showed no progression of the target lesion.
 
-Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in subjects with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
+Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
 
-In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not undergone surgery by month 6. Of the 239 subjects in cohort 2 with baseline target lesion location or on-study location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
+In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not undergone surgery by month 6. Of the 239 patients in cohort 2 with baseline target lesion location or on-study location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
+
+Study 7 enrolled 85 adult patients who were previously enrolled and completed study 6. Patients were allowed to receive denosumab treatment for GCTB, and all patients were followed for 5 years. The primary objective was to evaluate the long-term safety profile of denosumab in patients with giant cell tumour of the bone.
 
 ## Effect on pain
 
 In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
 
-## Paediatric population
-
-The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in
-
 <div style=\"page-break-after: always\"></div>
 
-patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
+## Paediatric population
 
-In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent subject with surgically unsalvageable disease (N=14) had disease recurrence during initial treatment. Thirteen of the 14 subjects with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
+The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
+
+In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patient with surgically unsalvageable disease (N=14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -532,7 +530,7 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 ## Elimination
 
-In subjects with advanced cancer, who received multiple doses of 120 mg every 4 weeks an approximate 2-fold accumulation in serum denosumab concentrations was observed and steady-state was achieved by 6 months, consistent with time-independent pharmacokinetics. In subjects with multiple myeloma who received 120 mg every 4 weeks, median trough levels varied by less than 8% between months 6 and 12. In subjects with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, steady-state levels were achieved within the first month of treatment. Between weeks 9 and 49, median trough levels varied by less than 9%. In subjects who discontinued 120 mg every 4 weeks, the mean half-life was 28 days (range 14 to 55 days).
+In patients with advanced cancer, who received multiple doses of 120 mg every 4 weeks an approximate 2-fold accumulation in serum denosumab concentrations was observed and steady-state was achieved by 6 months, consistent with time-independent pharmacokinetics. In patients with multiple myeloma who received 120 mg every 4 weeks, median trough levels varied by less than 8% between months 6 and 12. In patients with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, steady-state levels were achieved within the first month of treatment. Between weeks 9 and 49, median trough levels varied by less than 9%. In patients who discontinued 120 mg every 4 weeks, the mean half-life was 28 days (range 14 to 55 days).
 
 A population pharmacokinetic analysis did not indicate clinically significant changes in the systemic exposure of denosumab at steady-state with respect to age (18 to 87 years), race/ethnicity (Blacks, Hispanics, Asians and Caucasians explored), gender or solid tumour types or patients with multiple myeloma. Increasing body weight was associated with decreases in systemic exposure, and vice versa. The alterations were not considered clinically-relevant, since pharmacodynamic effects based on bone turnover markers were consistent across a wide range of body weight.
 
@@ -542,11 +540,11 @@ Denosumab displayed non-linear pharmacokinetics with dose over a wide dose range
 
 ## Renal impairment
 
+<div style=\"page-break-after: always\"></div>
+
 In studies of denosumab (60 mg, n = 55 and 120 mg, n = 32) in patients without advanced cancer but with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not required. There is no need for renal monitoring with denosumab dosing.
 
 ## Hepatic impairment
-
-<div style=\"page-break-after: always\"></div>
 
 No specific study in patients with hepatic impairment was performed. In general, monoclonal antibodies are not eliminated via hepatic metabolic mechanisms. The pharmacokinetics of denosumab is not expected to be affected by hepatic impairment.
 
@@ -556,7 +554,7 @@ No overall differences in safety or efficacy were observed between geriatric pat
 
 ## Paediatric population
 
-In skeletally-mature adolescents (12-17 years of age) with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, the pharmacokinetics of denosumab were similar to those observed in adult subjects with GCTB.
+In skeletally-mature adolescents (12-17 years of age) with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, the pharmacokinetics of denosumab were similar to those observed in adult patients with GCTB.
 
 ## 5.3 Preclinical safety data
 
@@ -602,13 +600,13 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial or the pre
 
 ## 6.5 Nature and contents of container
 
+<div style=\"page-break-after: always\"></div>
+
 ## Bomyntra 120 mg solution for injection in vial
 
 1.7 mL solution in a single use vial (type I glass) with stopper (fluoropolymer coated elastomeric) and seal (aluminium) with flip-off cap.
 
 Pack sizes of 1, 3 and 4 vials.
-
-<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -622,10 +620,11 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
+- The carton contains a package leaflet with the full instructions for use and handling.
 - Before administration, Bomyntra solution should be inspected visually. The solution must be free from visible particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial or the pre-filled syringe to reach room temperature (up to 25 ºC) before injecting and inject slowly.
-- The entire contents of the vial or the pre-filled syringe should be injected.
+- To avoid discomfort at the site of injection, allow the vial or pre-filled syringe to reach room temperature (up to 25 ºC) before injecting and inject slowly.
+- The entire contents of the vial or pre-filled syringe should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab in vial.
 - The vial should not be re-entered.
 
@@ -637,11 +636,13 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg von der
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1953/01 EU/1/25/1953/02 EU/1/25/1953/03 EU/1/25/1953/04 EU/1/25/1953/05
-
-EU/1/25/1953/06
+EU/1/25/1953/001 EU/1/25/1953/002 EU/1/25/1953/003 EU/1/25/1953/004 EU/1/25/1953/005 EU/1/25/1953/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+17 July 2025
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -651,12 +652,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -769,11 +767,11 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d. Ho
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1953/01 1 single use vial
+EU/1/25/1953/001 1 single use vial
 
-EU/1/25/1953/02 3 single use vials
+EU/1/25/1953/002 3 single use vials
 
-EU/1/25/1953/03 4 single use vials
+EU/1/25/1953/003 4 single use vials
 
 ## 13. BATCH NUMBER
 
@@ -791,23 +789,21 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL VIAL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL VIAL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 BOMYNTRA 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -819,8 +815,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 120 mg/1.7 mL (70 mg/ml)
 
@@ -835,7 +831,9 @@ OUTER CARTON - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BOMYNTRA 120 mg solution for injection in pre-filled syringe denosumab
+BOMYNTRA 120 mg solution for injection in pre-filled syringe
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -885,21 +883,15 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Fresenius Kabi Deutschland GmbH
-
-Else-Kroener-Strasse 1
-
-61352 Bad Homburg v.d. Hoehe
-
-Germany
+Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d. Hoehe Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1953/04 1 single use pre-filled syringe
+EU/1/25/1953/004 1 single use pre-filled syringe
 
-EU/1/25/1953/05 3 single use pre-filled syringes
+EU/1/25/1953/005 3 single use pre-filled syringes
 
-EU/1/25/1953/06 4 single use pre-filled syringes
+EU/1/25/1953/006 4 single use pre-filled syringes
 
 ## 13. BATCH NUMBER
 
@@ -927,17 +919,17 @@ NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 BOMYNTRA 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -949,8 +941,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 120 mg/1.7 mL (70 mg/ml)
 
@@ -990,7 +982,7 @@ Lot
 
 Bomyntra contains denosumab, a protein (monoclonal antibody) that works to slow down bone destruction caused by cancer spreading to the bone (bone metastasis) or by giant cell tumour of bone.
 
-Bomyntra is used in adults with advanced cancer to prevent serious complications caused by bone metastasis (such as fracture, pressure on the spinal cord or the need to receive radiation therapy or surgery).
+Bomyntra is used in adults with advanced cancer to prevent serious complications caused by bone metastasis (e.g. fracture, pressure on the spinal cord or the need to receive radiation therapy or surgery).
 
 Bomyntra is also used to treat giant cell tumour of bone, which cannot be treated by surgery or where surgery is not the best option, in adults and adolescents whose bones have stopped growing.
 
@@ -999,14 +991,14 @@ Bomyntra is also used to treat giant cell tumour of bone, which cannot be treate
 ## Do not use Bomyntra
 
 - -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
-- -if you have a very low level of calcium in your blood which has not been treated.
-- -if you have unhealed wounds from dental or oral surgery.
+- -Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
+- -Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
-Talk to your doctor before using Bomyntra.
-
-<div style=\"page-break-after: always\"></div>
+## Talk to your doctor before using Bomyntra.
 
 ## Calcium and vitamin D supplementation
 
@@ -1016,19 +1008,19 @@ You should take calcium and vitamin D supplements while being treated with Bomyn
 
 Please tell your doctor immediately if you have spasms, twitches, or cramps in your muscles, and/or numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness while being treated with Bomyntra. You may have low levels of calcium in your blood.
 
-## Kidney Problems
+## Renal impairment
 
 Tell your doctor if you have or have had severe kidney problems, kidney failure or have needed dialysis, which may increase your risk of getting low blood calcium, especially if you do not take calcium supplements.
 
 ## Problems with your mouth, teeth or jaw
 
-A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been reported in patients receiving Bomyntra injections for cancer-related conditions. Osteonecrosis of the jaw can also occur after stopping treatment.
+A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been reported commonly (may affect up to 1 in 10 people) in patients receiving Bomyntra injections for cancer-related conditions. Osteonecrosis of the jaw can also occur after stopping treatment.
 
 It is important to try to prevent osteonecrosis of the jaw developing as it may be a painful condition that can be difficult to treat. In order to reduce the risk of developing osteonecrosis of the jaw, there are some precautions you should take:
 
 - Before receiving treatment, tell your doctor/nurse (healthcare professional) if you have any problems with your mouth or teeth. Your doctor should delay the start of your treatment if you have unhealed wounds in your mouth from dental procedures or oral surgery. Your doctor may recommend a dental examination before you start treatment with Bomyntra.
 - While being treated, you should maintain good oral hygiene and receive routine dental checkups. If you wear dentures you should make sure these fit properly.
-- If you are under dental treatment or will undergo dental surgery (such as tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bomyntra.
+- If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bomyntra.
 - Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, non-healing of sores or discharge, as these could be signs of osteonecrosis of the jaw.
 
 Patients undergoing chemotherapy and/or radiotherapy, taking steroids or anti-angiogenic medicines (used to treat cancer), undergoing dental surgery, who do not receive routine dental care, have gum disease or who are smokers, may have a higher risk of developing osteonecrosis of the jaw.
@@ -1043,9 +1035,9 @@ Some patients with giant cell tumour of the bone have developed high calcium lev
 
 ## Children and adolescents
 
-Bomyntra is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of Bomyntra has not been studied in children and adolescents with other cancers that have spread to bone.
-
 <div style=\"page-break-after: always\"></div>
+
+Bomyntra is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of Bomyntra has not been studied in children and adolescents with other cancers that have spread to bone.
 
 ## Other medicines and Bomyntra
 
@@ -1062,7 +1054,7 @@ Bomyntra has not been tested in pregnant women. It is important to tell your doc
 
 If you become pregnant during treatment with Bomyntra or less than 5 months after stopping treatment with Bomyntra, please inform your doctor.
 
-It is not known whether Bomyntra is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breastfeeding or whether to stop using Bomyntra, considering the benefit of breast-feeding to the baby and the benefit of Bomyntra to the mother.
+It is not known whether Bomyntra is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breastfeeding or whether to stop taking Bomyntra, considering the benefit of breast-feeding to the baby and the benefit of Bomyntra to the mother.
 
 If you are nursing during treatment with Bomyntra, please inform your doctor. Ask your doctor or pharmacist for advice before taking any medicine.
 
@@ -1100,11 +1092,11 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Please tell your doctor immediately if you develop any of these symptoms while being treated with Bomyntra:
+Please tell your doctor immediately if you develop any of these symptoms while being treated with Bomyntra (may affect more than 1 in 10 people):
 
 - spasms, twitches, cramps in your muscles, numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness. These could be signs that you have low calcium levels in the blood. Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation, which is seen by electrocardiogram (ECG).
 
-Please tell your doctor and dentist immediately if you experience any of these symptoms while being treated with Bomyntra or after stopping treatment:
+Please tell your doctor and dentist immediately if you experience any of these symptoms while being treated with Bomyntra or after stopping treatment (may affect up to 1 in 10 people):
 
 - persistent pain in the mouth and/or jaw, and/or swelling or non-healing of sores in the mouth or jaw, discharge, numbness or feeling of heaviness in the jaw, or loosening of a tooth could be signs of bone damage in the jaw (osteonecrosis).
 
@@ -1121,7 +1113,7 @@ Common side effects (may affect up to 1 in 10 people):
 - excessive sweating,
 - in patients with advanced cancer: development of another form of cancer.
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
@@ -1129,19 +1121,17 @@ Common side effects (may affect up to 1 in 10 people):
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
-- allergic reactions (such as wheezing or difficulty breathing; swelling of the face, lips, tongue, throat  or  other  parts of the  body;  rash, itching  or  hives  on the skin).  In  rare  cases allergic reactions may be severe.
+- allergic  reactions  (e.g.  wheezing  or  difficulty  breathing;  swelling  of  the  face,  lips,  tongue, throat  or  other  parts  of  the  body;  rash,  itching  or  hives  on  the  skin).  In  rare  cases  allergic reactions may be severe.
 
 Not known (frequency cannot be estimated from the available data):
 
 - talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
 
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
-
 <div style=\"page-break-after: always\"></div>
 
-system listed in &lt;to be completed nationally&gt;. By reporting side effects you can help provide more information on the safety of this medicine.
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in &lt;Appendix V&gt;. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Bomyntra
 
@@ -1180,24 +1170,19 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg von der
 
 ## Manufacturer
 
-Fresenius Kabi Austria GmbH Hafnerstrasse 36 8055 Graz
+Fresenius Kabi Austria GmbH Hafnerstrasse 36 8055 Graz Austria
 
-Austria
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu/en
-
-<div style=\"page-break-after: always\"></div>
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
 ## The following information is intended for healthcare professionals only:
 
-- Before administration, the Bomyntra solution should be inspected visually. The solution
-- must be free from visible particles. Do not inject the solution if it is cloudy or discoloured.
+- Before administration, the Bomyntra solution should be inspected visually. The solution must be free from visible particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
 - To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
@@ -1237,7 +1222,7 @@ denosumab
 
 Bomyntra contains denosumab, a protein (monoclonal antibody) that works to slow down bone destruction caused by cancer spreading to the bone (bone metastasis) or by giant cell tumour of bone.
 
-Bomyntra is used in adults with advanced cancer to prevent serious complications caused by bone metastasis (such as fracture, pressure on the spinal cord or the need to receive radiation therapy or surgery).
+Bomyntra is used in adults with advanced cancer to prevent serious complications caused by bone metastasis (e.g. fracture, pressure on the spinal cord or the need to receive radiation therapy or surgery).
 
 Bomyntra is also used to treat giant cell tumour of bone, which cannot be treated by surgery or where surgery is not the best option, in adults and adolescents whose bones have stopped growing.
 
@@ -1246,12 +1231,12 @@ Bomyntra is also used to treat giant cell tumour of bone, which cannot be treate
 ## Do not use Bomyntra
 
 - -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
-- -if you have a very low level of calcium in your blood which has not been treated.
-- -if you have unhealed wounds from dental or oral surgery.
-
-## Warnings and precautions
+- -Your healthcare professional will not administer Bomyntra to you if you have a very low level of calcium in your blood which has not been treated.
+- -Your healthcare professional will not administer Bomyntra to you if you have unhealed wounds from dental or oral surgery.
 
 <div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
 
 ## Talk to your doctor before using Bomyntra.
 
@@ -1263,19 +1248,19 @@ You should take calcium and vitamin D supplements while being treated with Bomyn
 
 Please tell your doctor immediately if you have spasms, twitches, or cramps in your muscles, and/or numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness while being treated with Bomyntra. You may have low levels of calcium in your blood.
 
-## Kidney Problems
+## Renal impairment
 
 Tell your doctor if you have or have had severe kidney problems, kidney failure or have needed dialysis, which may increase your risk of getting low blood calcium, especially if you do not take calcium supplements.
 
 ## Problems with your mouth, teeth or jaw
 
-A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been reported in patients receiving Bomyntra injections for cancer-related conditions. Osteonecrosis of the jaw can also occur after stopping treatment.
+A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been reported commonly (may affect up to 1 in 10 people) in patients receiving Bomyntra injections for cancer-related conditions. Osteonecrosis of the jaw can also occur after stopping treatment.
 
 It is important to try to prevent osteonecrosis of the jaw developing as it may be a painful condition that can be difficult to treat. In order to reduce the risk of developing osteonecrosis of the jaw, there are some precautions you should take:
 
 - Before receiving treatment, tell your doctor/nurse (healthcare professional) if you have any problems with your mouth or teeth. Your doctor should delay the start of your treatment if you have unhealed wounds in your mouth from dental procedures or oral surgery. Your doctor may recommend a dental examination before you start treatment with Bomyntra.
 - While being treated, you should maintain good oral hygiene and receive routine dental checkups. If you wear dentures you should make sure these fit properly.
-- If you are under dental treatment or will undergo dental surgery (such as tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bomyntra.
+- If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bomyntra.
 - Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, non-healing of sores or discharge, as these could be signs of osteonecrosis of the jaw.
 
 Patients undergoing chemotherapy and/or radiotherapy, taking steroids or anti-angiogenic medicines (used to treat cancer), undergoing dental surgery, who do not receive routine dental care, have gum disease or who are smokers, may have a higher risk of developing osteonecrosis of the jaw.
@@ -1290,11 +1275,9 @@ Some patients with giant cell tumour of the bone have developed high calcium lev
 
 ## Children and adolescents
 
-Bomyntra is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of
-
 <div style=\"page-break-after: always\"></div>
 
-Bomyntra has not been studied in children and adolescents with other cancers that have spread to bone.
+Bomyntra is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of Bomyntra has not been studied in children and adolescents with other cancers that have spread to bone.
 
 ## Other medicines and Bomyntra
 
@@ -1311,7 +1294,7 @@ Bomyntra has not been tested in pregnant women. It is important to tell your doc
 
 If you become pregnant during treatment with Bomyntra or less than 5 months after stopping treatment with Bomyntra, please inform your doctor.
 
-It is not known whether Bomyntra is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breastfeeding or whether to stop using Bomyntra, considering the benefit of breast-feeding to the baby and the benefit of Bomyntra to the mother.
+It is not known whether Bomyntra is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breastfeeding or whether to stop taking Bomyntra, considering the benefit of breast-feeding to the baby and the benefit of Bomyntra to the mother.
 
 If you are nursing during treatment with Bomyntra, please inform your doctor. Ask your doctor or pharmacist for advice before taking any medicine.
 
@@ -1335,11 +1318,9 @@ This medicine contains 0.17 mg of polysorbate 20 in each pre-filled syringe whic
 
 For instructions on how to inject Bomyntra, please read the section at the end of this leaflet.
 
-The recommended dose of Bomyntra is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). You can inject the Bomyntra pre-filled syringe in your thigh or belly (except 5 cm (2 inches) around your belly button). The first self-administration with the Bomyntra pre-
+The recommended dose of Bomyntra is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). You can inject the Bomyntra pre-filled syringe in your thigh or belly (except 5 cm (2 inches) around your belly button). The first self-administration with the Bomyntra prefilled syringe should be supervised by a healthcare professional. If someone else gives you the injection, Bomyntra can be injected into your thigh, belly, or outer area of the upper arm. You or your caregiver should be trained in injection techniques by a healthcare professional. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 <div style=\"page-break-after: always\"></div>
-
-filled syringe should be supervised by a healthcare professional. If someone else gives you the injection, Bomyntra can be injected into your thigh, belly, or outer area of the upper arm. You or your caregiver should be trained in injection techniques by a healthcare professional. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 Do not shake.
 
@@ -1351,11 +1332,11 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Please tell your doctor immediately if you develop any of these symptoms while being treated with Bomyntra:
+Please tell your doctor immediately if you develop any of these symptoms while being treated with Bomyntra (may affect more than 1 in 10 people):
 
 - spasms, twitches, cramps in your muscles, numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness. These could be signs that you have low calcium levels in the blood. Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation, which is seen by electrocardiogram (ECG).
 
-Please tell your doctor and dentist immediately if you experience any of these symptoms while being treated with Bomyntra or after stopping treatment:
+Please tell your doctor and dentist immediately if you experience any of these symptoms while being treated with Bomyntra or after stopping treatment (may affect upto 1 in 10 people):
 
 - persistent pain in the mouth and/or jaw, and/or swelling or non-healing of sores in the mouth or jaw, discharge, numbness or feeling of heaviness in the jaw, or loosening of a tooth could be signs of bone damage in the jaw (osteonecrosis).
 
@@ -1380,19 +1361,17 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
-- allergic reactions (such as wheezing or difficulty breathing; swelling of the face, lips, tongue, throat  or  other  parts of the  body;  rash, itching  or  hives  on the skin).  In  rare  cases allergic reactions may be severe.
-
-Not known (frequency cannot be estimated from the available data):
-
-- talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These
+- allergic  reactions  (e.g.  wheezing  or  difficulty  breathing;  swelling  of  the  face,  lips,  tongue, throat  or  other  parts  of  the  body;  rash,  itching  or  hives  on  the  skin).  In  rare  cases  allergic reactions may be severe.
 
 <div style=\"page-break-after: always\"></div>
 
-could be signs of bone damage in the ear.
+Not known (frequency cannot be estimated from the available data):
+
+- talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in &lt;to be completed nationally&gt;. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in &lt;Appendix V&gt;. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Bomyntra
 
@@ -1400,11 +1379,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 The pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your pre-filled syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
 
@@ -1431,9 +1406,11 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d. Ho
 
 ## Manufacturer
 
-Fresenius Kabi Austria GmbH Hafnerstrasse 36 8055 Graz Austria
+Fresenius Kabi Austria GmbH Hafnerstrasse 36
 
 <div style=\"page-break-after: always\"></div>
+
+8055 Graz Austria
 
 ## This leaflet was last revised in
 
@@ -1621,7 +1598,7 @@ Figure K
 
 ## 3.2. Insert the needle
 
-Quickly insert the needle straight into the pinched skin at a 45 to 90-degree angle (see Figure L ). Do not inject into muscle or blood vessel.
+Quickly insert the needle straight into the pinched skin at a 45 to 90-degree angle (see Figure L Do not inject into muscle or blood vessel.
 
 Figure L
 
@@ -1652,6 +1629,8 @@ Figure O
 Do not put the needle cap back on the needle.
 
 ## 3.5. Treat injection site
+
+).
 
 <div style=\"page-break-after: always\"></div>
 

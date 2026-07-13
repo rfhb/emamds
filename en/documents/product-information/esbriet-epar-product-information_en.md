@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 15:31:51
+document_datetime: 2026-07-10 15:12:57
 document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/esbriet-epar-product-information_en.pdf
 document_name: esbriet-epar-product-information_en.pdf
 version: success
-processing_time: 26.3269337
-conversion_datetime: 2026-05-13 13:08:55.010105
+processing_time: 23.4094078
+conversion_datetime: 2026-07-13 12:49:23.345077
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,9 +36,11 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
-Esbriet 267 mg film-coated tablets are yellow, oval, approximately 1.3 x 0.6. cm biconvex film-coated tablets, debossed with 'PFD'. Esbriet 534 mg film-coated tablets are orange, oval, approximately 1.6 x 0.8 cm biconvex film-coated tablets, debossed with 'PFD'. Esbriet 801 mg film-coated tablets are brown, oval, approximately 2 x 0.9 cm biconvex film-coated
+Esbriet 267 mg film-coated tablets are yellow, oval, approximately 1.3 x 0.6. cm biconvex film-coated tablets, debossed with 'PFD'. Esbriet 534 mg film-coated tablets are orange, oval, approximately 1.6 x 0.8 cm biconvex film-coated
 
 tablets, debossed with 'PFD'.
+
+Esbriet 801 mg film-coated tablets are brown, oval, approximately 2 x 0.9 cm biconvex film-coated tablets, debossed with 'PFD'.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -72,7 +74,7 @@ For treatment interruption of less than 14 consecutive days, the dose can be res
 
 ## Dose adjustments and other considerations for safe use
 
-Gastrointestinal events: In patients who experience intolerance to therapy due to gastrointestinal undesirable effects, patients should be reminded to take the medicinal product with food. If symptoms persist, the dose of pirfenidone may be reduced to 267 mg - 534 mg, two to three times a day with food with re-escalation to the recommended daily dose as tolerated. If symptoms continue, patients may be instructed to interrupt treatment for one to two weeks to allow symptoms to resolve.
+Gastrointestinal events: In patients who experience intolerance to therapy due to gastrointestinal undesirable effects, patients should be reminded to take the medicinal product with food. If symptoms persist, the dose of pirfenidone may be reduced to 267 mg -534 mg, two to three times a day with food with re-escalation to the recommended daily dose as tolerated. If symptoms continue, patients may be instructed to interrupt treatment for one to two weeks to allow symptoms to resolve.
 
 Photosensitivity reaction or rash: Patients who experience a mild to moderate photosensitivity reaction or rash should be reminded to use a sunblock daily and avoid exposure to the sun (see section 4.4). The dose of pirfenidone may be reduced to 801 mg each day (267 mg three times a day). If the rash persists after 7 days, Esbriet should be discontinued for 15 days, with re-escalation to the recommended daily dose in the same manner as the dose escalation period.
 
@@ -166,11 +168,11 @@ Hyponatraemia has been reported in patients treated with Esbriet (see section 4.
 
 ## Sodium
 
-Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Approximately 70-80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
+Approximately 70 -80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
 
 Consumption of grapefruit juice is associated with inhibition of CYP1A2 and should be avoided during treatment with pirfenidone.
 
@@ -236,52 +238,52 @@ The safety of Esbriet has been evaluated in clinical studies including 1,650 vol
 
 Table 1 shows the adverse reactions reported at a frequency of ≥2% in 623 patients receiving Esbriet at the recommended dose of 2,403 mg/day in three pooled pivotal Phase 3 studies. Adverse reactions from post-marketing experience are also listed in Table 1. Adverse reactions are listed by System Organ Class (SOC) and within each frequency grouping [ Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) , not known (cannot be estimated from the available data)] the adverse reactions are presented in order of decreasing seriousness.
 
-| Table 1Adverse reactions by SOC and MedDRA frequency   | Table 1Adverse reactions by SOC and MedDRA frequency   |
-|--------------------------------------------------------|--------------------------------------------------------|
-| Infections and infestations                            | Infections and infestations                            |
-| Very Common                                            | Upper respiratory tract infection                      |
-| Common                                                 | Urinary tract infection                                |
-| Blood and lymphatic system disorders                   | Blood and lymphatic system disorders                   |
-| Uncommon                                               | Agranulocytosis 1                                      |
-| Immune system disorders                                | Immune system disorders                                |
-| Uncommon                                               | Angioedema 1                                           |
-| Not known                                              | Anaphylaxis 1                                          |
-| Metabolism and nutrition disorders                     | Metabolism and nutrition disorders                     |
-| Very Common                                            | Weight decreased; decreased appetite                   |
-| Uncommon                                               | Hyponatraemia 1                                        |
-| Psychiatric disorders                                  | Psychiatric disorders                                  |
-| Very Common                                            | Insomnia                                               |
-| Nervous system disorders                               | Nervous system disorders                               |
-| Very Common                                            | Headache; dizziness                                    |
+| Table 1 Adverse reactions by SOC and MedDRA frequency   | Table 1 Adverse reactions by SOC and MedDRA frequency   |
+|---------------------------------------------------------|---------------------------------------------------------|
+| Infections and infestations                             | Infections and infestations                             |
+| Very Common                                             | Upper respiratory tract infection                       |
+| Common                                                  | Urinary tract infection                                 |
+| Blood and lymphatic system disorders                    | Blood and lymphatic system disorders                    |
+| Uncommon                                                | Agranulocytosis 1                                       |
+| Immune system disorders                                 | Immune system disorders                                 |
+| Uncommon                                                | Angioedema 1                                            |
+| Not known                                               | Anaphylaxis 1                                           |
+| Metabolism and nutrition disorders                      | Metabolism and nutrition disorders                      |
+| Very Common                                             | Weight decreased; decreased appetite                    |
+| Uncommon                                                | Hyponatraemia 1                                         |
+| Psychiatric disorders                                   | Psychiatric disorders                                   |
+| Very Common                                             | Insomnia                                                |
+| Nervous system disorders                                | Nervous system disorders                                |
+| Very Common                                             | Headache; dizziness                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 1Adverse reactions by SOC and MedDRA frequency   | Table 1Adverse reactions by SOC and MedDRA frequency                                                                        |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Common                                                 | Somnolence; dysgeusia; lethargy                                                                                             |
-| Vascular disorders                                     | Vascular disorders                                                                                                          |
-| Common                                                 | Hot flush                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders        | Respiratory, thoracic and mediastinal disorders                                                                             |
-| Very Common                                            | Dyspnoea; cough                                                                                                             |
-| Common                                                 | Productive cough                                                                                                            |
-| Gastrointestinal disorders                             | Gastrointestinal disorders                                                                                                  |
-| Very Common                                            | Dyspepsia; nausea; diarrhoea; gastroesophageal reflux disease; vomiting; constipation                                       |
-| Common                                                 | Abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; flatulence |
-| Hepatobiliary disorders                                | Hepatobiliary disorders                                                                                                     |
-| Common                                                 | ALT increased; AST increased; gamma glutamyl transferase increased                                                          |
-| Uncommon                                               | Total serum bilirubin increased in combination with increases of ALT and AST 1 ; Drug-induced liver injury 2                |
-| Skin and subcutaneous tissue disorders                 | Skin and subcutaneous tissue disorders                                                                                      |
-| Very Common                                            | Rash                                                                                                                        |
-| Common                                                 | Photosensitivity reaction; pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic                     |
-| Not Known                                              | Stevens-Johnson syndrome 1 ; toxic epidermal necrolysis 1 ; drug reaction with eosinophilia and systemic symptoms (DRESS) 1 |
-| Musculoskeletal and connective tissue disorders        | Musculoskeletal and connective tissue disorders                                                                             |
-| Very Common                                            | Arthralgia                                                                                                                  |
-| Common                                                 | Myalgia                                                                                                                     |
-| General disorders and administration site conditions   | General disorders and administration site conditions                                                                        |
-| Very Common                                            | Fatigue                                                                                                                     |
-| Common                                                 | Asthenia; non-cardiac chest pain                                                                                            |
-| Injury poisoning and procedural complications          | Injury poisoning and procedural complications                                                                               |
-| Common                                                 | Sunburn                                                                                                                     |
+| Table 1 Adverse reactions by SOC and MedDRA frequency   | Table 1 Adverse reactions by SOC and MedDRA frequency                                                                       |
+|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Common                                                  | Somnolence; dysgeusia; lethargy                                                                                             |
+| Vascular disorders                                      | Vascular disorders                                                                                                          |
+| Common                                                  | Hot flush                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders         | Respiratory, thoracic and mediastinal disorders                                                                             |
+| Very Common                                             | Dyspnoea; cough                                                                                                             |
+| Common                                                  | Productive cough                                                                                                            |
+| Gastrointestinal disorders                              | Gastrointestinal disorders                                                                                                  |
+| Very Common                                             | Dyspepsia; nausea; diarrhoea; gastroesophageal reflux disease; vomiting; constipation                                       |
+| Common                                                  | Abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; flatulence |
+| Hepatobiliary disorders                                 | Hepatobiliary disorders                                                                                                     |
+| Common                                                  | ALT increased; AST increased; gamma glutamyl transferase increased                                                          |
+| Uncommon                                                | Total serum bilirubin increased in combination with increases of ALT and AST 1 ; Drug-induced liver injury 2                |
+| Skin and subcutaneous tissue disorders                  | Skin and subcutaneous tissue disorders                                                                                      |
+| Very Common                                             | Rash                                                                                                                        |
+| Common                                                  | Photosensitivity reaction; pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic                     |
+| Not Known                                               | Stevens-Johnson syndrome 1 ; toxic epidermal necrolysis 1 ; drug reaction with eosinophilia and systemic symptoms (DRESS) 1 |
+| Musculoskeletal and connective tissue disorders         | Musculoskeletal and connective tissue disorders                                                                             |
+| Very Common                                             | Arthralgia                                                                                                                  |
+| Common                                                  | Myalgia                                                                                                                     |
+| General disorders and administration site conditions    | General disorders and administration site conditions                                                                        |
+| Very Common                                             | Fatigue                                                                                                                     |
+| Common                                                  | Asthenia; non-cardiac chest pain                                                                                            |
+| Injury poisoning and procedural complications           | Injury poisoning and procedural complications                                                                               |
+| Common                                                  | Sunburn                                                                                                                     |
 
 2. Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see section 4.3, 4.4).
 
@@ -327,44 +329,44 @@ In study PIPF-004, the decline of percent predicted FVC from Baseline at Week 72
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 2Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   | Table 2Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   | Table 2Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-|                                                                                                               | Pirfenidone 2,403 mg/day (N = 174)                                                                            | Placebo (N = 174)                                                                                             |
-| Decline of ≥10% or death or lung transplant                                                                   | 35 (20%)                                                                                                      | 60 (34%)                                                                                                      |
-| Decline of less than 10%                                                                                      | 97 (56%)                                                                                                      | 90 (52%)                                                                                                      |
-| No decline (FVC change >0%)                                                                                   | 42 (24%)                                                                                                      | 24 (14%)                                                                                                      |
+| Table 2 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   | Table 2 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   | Table 2 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-004   |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|                                                                                                                | Pirfenidone 2,403 mg/day (N = 174)                                                                             | Placebo (N = 174)                                                                                              |
+| Decline of ≥10% or death or lung transplant                                                                    | 35 (20%)                                                                                                       | 60 (34%)                                                                                                       |
+| Decline of less than 10%                                                                                       | 97 (56%)                                                                                                       | 90 (52%)                                                                                                       |
+| No decline (FVC change >0%)                                                                                    | 42 (24%)                                                                                                       | 24 (14%)                                                                                                       |
 
 Although there was no difference between patients receiving Esbriet compared to placebo in change from Baseline to Week 72 of distance walked during a six minute walk test (6MWT) by the prespecified rank ANCOVA, in an ad hoc analysis, 37% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo in PIPF-004.
 
 In study PIPF-006, treatment with Esbriet (N=171) did not reduce the decline of percent predicted FVC from Baseline at Week 72 compared with placebo (N=173; p=0.501). However, treatment with Esbriet reduced the decline of percent predicted FVC from Baseline at Weeks 24 (p&lt;0.001), 36 (p=0.011), and 48 (p=0.005). At Week 72, a decline in FVC of ≥10% was seen in 23% of patients receiving Esbriet and 27% receiving placebo (Table 3).
 
-| Table 3Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   | Table 3Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   | Table 3Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-|                                                                                                               | Pirfenidone 2,403 mg/day (N = 171)                                                                            | Placebo (N = 173)                                                                                             |
-| Decline of ≥10% or death or lung transplant                                                                   | 39 (23%)                                                                                                      | 46 (27%)                                                                                                      |
-| Decline of less than 10%                                                                                      | 88 (52%)                                                                                                      | 89 (51%)                                                                                                      |
-| No decline(FVC change >0%)                                                                                    | 44 (26%)                                                                                                      | 38 (22%)                                                                                                      |
+| Table 3 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   | Table 3 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   | Table 3 Categorical assessment of change from Baseline to Week 72 in percent predicted FVC in study PIPF-006   |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|                                                                                                                | Pirfenidone 2,403 mg/day (N = 171)                                                                             | Placebo (N = 173)                                                                                              |
+| Decline of ≥10% or death or lung transplant                                                                    | 39 (23%)                                                                                                       | 46 (27%)                                                                                                       |
+| Decline of less than 10%                                                                                       | 88 (52%)                                                                                                       | 89 (51%)                                                                                                       |
+| No decline (FVC change >0%)                                                                                    | 44 (26%)                                                                                                       | 38 (22%)                                                                                                       |
 
 The decline in 6MWT distance from Baseline to Week 72 was significantly reduced compared with placebo in study PIPF-006 (p&lt;0.001, rank ANCOVA). Additionally, in an ad hoc analysis, 33% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance, compared to 47% of patients receiving placebo in PIPF-006.
 
-In a pooled analysis of survival in PIPF-004 and PIPF-006 the mortality rate with Esbriet 2403 mg/day group was 7.8% compared with 9.8% with placebo (HR 0.77 [95% CI, 0.47-1.28]).
+In a pooled analysis of survival in PIPF-004 and PIPF-006 the mortality rate with Esbriet 2403 mg/day group was 7.8% compared with 9.8% with placebo (HR 0.77 [95% CI, 0.47 -1.28]).
 
-PIPF-016 compared treatment with Esbriet 2,403 mg/day to placebo. Treatment was administered three times daily for 52 weeks. The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC. In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48-91%) and 42% (range: 27-170%), respectively. Two percent of patients had percent predicted FVC below 50% and 21% of patients had a percent predicted DLCO below 35% at Baseline.
+PIPF-016 compared treatment with Esbriet 2,403 mg/day to placebo. Treatment was administered three times daily for 52 weeks. The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC. In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48 -91%) and 42% (range: 27 -170%), respectively. Two percent of patients had percent predicted FVC below 50% and 21% of patients had a percent predicted DLCO below 35% at Baseline.
 
 In study PIPF-016, the decline of percent predicted FVC from Baseline at Week 52 of treatment was significantly reduced in patients receiving Esbriet (N=278) compared with patients receiving placebo (N=277; p&lt;0.000001, rank ANCOVA). Treatment with Esbriet also significantly reduced the decline of percent predicted FVC from Baseline at Weeks 13 (p&lt;0.000001), 26 (p&lt;0.000001), and 39 (p=0.000002). At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death was seen in 17% of patients receiving Esbriet compared to 32% receiving placebo (Table 4).
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 4Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   | Table 4Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   | Table 4Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-|                                                                                                               | Pirfenidone 2,403 mg/day (N = 278)                                                                            | Placebo (N = 277)                                                                                             |
-| Decline of ≥10% or death                                                                                      | 46 (17%)                                                                                                      | 88 (32%)                                                                                                      |
-| Decline of less than 10%                                                                                      | 169 (61%)                                                                                                     | 162 (58%)                                                                                                     |
-| No decline (FVC change >0%)                                                                                   | 63 (23%)                                                                                                      | 27 (10%)                                                                                                      |
+| Table 4 Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   | Table 4 Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   | Table 4 Categorical assessment of change from Baseline to Week 52 in percent predicted FVC in study PIPF-016   |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|                                                                                                                | Pirfenidone 2,403 mg/day (N = 278)                                                                             | Placebo (N = 277)                                                                                              |
+| Decline of ≥10% or death                                                                                       | 46 (17%)                                                                                                       | 88 (32%)                                                                                                       |
+| Decline of less than 10%                                                                                       | 169 (61%)                                                                                                      | 162 (58%)                                                                                                      |
+| No decline (FVC change >0%)                                                                                    | 63 (23%)                                                                                                       | 27 (10%)                                                                                                       |
 
 The decline in distance walked during a 6MWT from Baseline to Week 52 was significantly reduced in patients receiving Esbriet compared with patients receiving placebo in PIPF-016 (p=0.036, rank ANCOVA); 26% of patients receiving Esbriet showed a decline of ≥50 m in 6MWT distance compared to 36% of patients receiving placebo.
 
-In a pre-specified pooled analysis of studies PIPF-016, PIPF-004, and PIPF-006 at Month 12, all-cause mortality was significantly lower in Esbriet 2403 mg/day group (3.5%, 22 of 623 patients) compared with placebo (6.7%, 42 of 624 patients), resulting in a 48% reduction in the risk of all-cause mortality within the first 12 months (HR 0.52 [95% CI, 0.31-0.87], p=0.0107, log-rank test).
+In a pre-specified pooled analysis of studies PIPF-016, PIPF-004, and PIPF-006 at Month 12, all-cause mortality was significantly lower in Esbriet 2403 mg/day group (3.5%, 22 of 623 patients) compared with placebo (6.7%, 42 of 624 patients), resulting in a 48% reduction in the risk of all-cause mortality within the first 12 months (HR 0.52 [95% CI, 0.31 -0.87], p=0.0107, log-rank test).
 
 The study (SP3) in Japanese patients compared pirfenidone 1800 mg/day (comparable to 2403 mg/day in the US and European populations of PIPF-004/006 on a weight-normalised basis) with placebo (N=110, N=109, respectively). Treatment with pirfenidone significantly reduced mean decline in vital capacity (VC) at Week 52 (the primary endpoint) compared with placebo (-0.09±0.02 l versus -0.16±0.02 l respectively, p=0.042).
 
@@ -394,7 +396,7 @@ Pirfenidone binds to human plasma proteins, primarily to serum albumin. The over
 
 ## Biotransformation
 
-Approximately 70-80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1. In vitro data  indicate some pharmacologically relevant activity of the major metabolite (5-carboxy-pirfenidone) at concentrations in excess of peak plasma concentrations in IPF patients. This may become clinically relevant in patients with moderate renal impairment where plasma exposure to 5-carboxy-pirfenidone is increased
+Approximately 70 -80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1. In vitro data  indicate some pharmacologically relevant activity of the major metabolite (5-carboxy-pirfenidone) at concentrations in excess of peak plasma concentrations in IPF patients. This may become clinically relevant in patients with moderate renal impairment where plasma exposure to 5-carboxy-pirfenidone is increased
 
 ## Elimination
 
@@ -408,17 +410,17 @@ The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite wer
 
 ## Renal impairment
 
-No clinically relevant differences in the pharmacokinetics of pirfenidone were observed in subjects with mild to severe renal impairment compared with subjects with normal renal function. The parent substance is predominantly metabolised to 5-carboxy-pirfenidone.  The mean (SD) AUC0-∞ of 5carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p &lt; 0.0001) renal impairment groups than in the group with normal renal function; 100 (26.3) mg·h/L and 168 (67.4)  mg·h/L compared to 28.7 (4.99) mg·h/L respectively.
+No clinically relevant differences in the pharmacokinetics of pirfenidone were observed in subjects with mild to severe renal impairment compared with subjects with normal renal function. The parent substance is predominantly metabolised to 5-carboxy-pirfenidone.  The mean (SD) AUC0-∞ of 5carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p &lt; 0.0001) renal impairment groups than in the group with normal renal function; 100 (26.3) mg·h/L and 168 (67.4) mg·h/L compared to 28.7 (4.99) mg·h/L respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-| Renal Impairment   |                                  | AUC 0- ∞ (mg•hr/L)           | AUC 0- ∞ (mg•hr/L)             |
-|--------------------|----------------------------------|------------------------------|--------------------------------|
-| Group              | Statistics                       | Pirfenidone                  | 5-Carboxy-Pirfenidone          |
-| Normal n = 6       | Mean (SD) Median (25 th -75 th ) | 42.6 (17.9) 42.0 (33.1-55.6) | 28.7 (4.99) 30.8 (24.1-32.1)   |
-| Mild n = 6         | Mean (SD) Median (25 th -75 th ) | 59.1 (21.5) 51.6 (43.7-80.3) | 49.3 a (14.6) 43.0 (38.8-56.8) |
-| Moderate n = 6     | Mean (SD) Median (25 th -75 th ) | 63.5 (19.5) 66.7 (47.7-76.7) | 100 b (26.3) 96.3 (75.2-123)   |
-| Severe n = 6       | Mean (SD) Median (25 th -75 th ) | 46.7 (10.9) 49.4 (40.7-55.8) | 168 c (67.4) 150 (123-248)     |
+| Renal Impairment   |                                   | AUC 0- ∞ (mg•h r/L)            | AUC 0- ∞ (mg•h r/L)              |
+|--------------------|-----------------------------------|--------------------------------|----------------------------------|
+| Group              | Statistics                        | Pirfenidone                    | 5-Carboxy-Pirfenidone            |
+| Normal n = 6       | Mean (SD) Median (25 th - 75 th ) | 42.6 (17.9) 42.0 (33.1 - 55.6) | 28.7 (4.99) 30.8 (24.1 - 32.1)   |
+| Mild n = 6         | Mean (SD) Median (25 th - 75 th ) | 59.1 (21.5) 51.6 (43.7 - 80.3) | 49.3 a (14.6) 43.0 (38.8 - 56.8) |
+| Moderate n = 6     | Mean (SD) Median (25 th - 75 th ) | 63.5 (19.5) 66.7 (47.7 - 76.7) | 100 b (26.3) 96.3 (75.2 - 123)   |
+| Severe n = 6       | Mean (SD) Median (25 th - 75 th ) | 46.7 (10.9) 49.4 (40.7 - 55.8) | 168 c (67.4) 150 (123 - 248)     |
 
 AUC0-∞ = area under the concentration-time curve from time zero to infinity.
 
@@ -490,11 +492,12 @@ High-Density Polyethylene (HDPE) bottle with a child-resistant and tamper-eviden
 ## 534 mg film-coated tablets
 
 - 1 bottle containing 21 film-coated tablets
-- 1 bottle containing 90 film-coated tablets
+
+1 bottle containing 90 film-coated tablets
 
 801 mg film-coated tablets
 
-- 1 bottle containing 90 film-coated tablets
+1 bottle containing 90 film-coated tablets
 
 PVC/Aclar (PCTFE) aluminium foil blister Pack sizes
 
@@ -523,15 +526,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-H.A.C. Pharma
-
-Péricentre 2
-
-43 Avenue de la Côte de Nacre
-
-14000 Caen
-
-France
+H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -566,7 +561,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Roche Pharma AG Emil-Barell-Str. 1 D-79639 Grenzach-Wyhlen Germany
+Delpharm Milano S.r.l. Via Salvatore Carnevale 1 Segrate 20054 Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -589,7 +584,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new
+- information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## ● Additional risk minimisation measures
 
@@ -662,7 +658,7 @@ Read the package leaflet before use Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -710,9 +706,7 @@ esbriet 267 mg tablets
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -764,40 +758,36 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
 
 France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/667/009 21 tablets EU/1/11/667/010 90 tablets
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 esbriet 534 mg tablets
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -857,16 +847,16 @@ H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 EU/1/11/667/011 90 tablets
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -878,12 +868,10 @@ esbriet 801 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -906,8 +894,11 @@ Each tablet contains 267 mg pirfenidone.
 ## Film-coated tablet
 
 - 1 blister containing 21 film-coated tablets (21 in total)
+
 - 2 blisters each containing 21 film-coated tablets (42 in total)
+
 - 4 blisters each containing 21 film-coated tablets (84 in total)
+
 - 8 blisters each containing 21 Film-coated tablets (168 in total)
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -930,7 +921,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -966,7 +960,7 @@ Lot
 
 esbriet 267 mg tablets
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included
 
@@ -982,7 +976,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON Film-coated Tablets in Blisters Multi Pack 63 - (INCLUDING BLUE BOX)
+CARTON Film-coated Tablets in Blisters Multi Pack 63 -(INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1034,16 +1028,16 @@ France
 
 EU/1/11/667/016 63 tablets (21 + 42)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1055,16 +1049,18 @@ esbriet 267 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON Film-coated Tablets in Blisters Multi Pack 252 - (INCLUDING BLUE BOX)
+CARTON Film-coated Tablets in Blisters Multi Pack 252 -(INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1092,14 +1088,12 @@ Read the package leaflet before use Oral use
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
@@ -1107,25 +1101,23 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
-
-France
+H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
 EU/1/11/667/017 252 tablets (3x84)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1137,8 +1129,8 @@ esbriet 267 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -1176,7 +1168,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1191,25 +1183,23 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
-
-France
+H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
 EU/1/11/667/018 84 tablets (4x21)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1221,10 +1211,12 @@ esbriet 801 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1242,7 +1234,7 @@ pirfenidone
 
 Each tablet contains 801 mg pirfenidone.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1264,8 +1256,7 @@ Keep out of the sight and reach of children
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
@@ -1273,25 +1264,23 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
-
-France
+H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
 EU/1/11/667/019 252 tablets (3x84)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1303,16 +1292,18 @@ esbriet 801 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTERPACKAGING
 
-## LABEL - INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+## LABEL -INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1330,7 +1321,7 @@ Each tablet contains 267 mg pirfenidone.
 
 Film-coated tablet
 
-21 film-coated tablets. Component of a multipack, can't be sold separately
+- 21 film-coated tablets. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1346,8 +1337,7 @@ Keep out of the sight and reach of children
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
@@ -1355,18 +1345,20 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/667/016 63 tablets (21+42)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1387,7 +1379,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## LABEL - INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+## LABEL -INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1399,13 +1391,97 @@ pirfenidone
 
 Each tablet contains 267 mg pirfenidone.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Film-coated tablet
 
-42 film-coated tablets. Component of a multipack, can't be sold separately
+- 42 film-coated tablets. Component of a multipack, can't be sold separately
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
+
+France
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/11/667/016 63 tablets (21 + 42)
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+esbriet 267 mg tablets
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## LABEL -INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Esbriet 267 mg film-coated tablets
+
+pirfenidone
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains 267 mg pirfenidone.
+
+3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
+
+84 film-coated tablets. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1433,52 +1509,47 @@ H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
 
 France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/667/016 63 tablets (21 + 42)
+EU/1/11/667/017 252 tablets (3 x 84)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 esbriet 267 mg tablets
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## LABEL - INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+## LABEL -INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Esbriet 267 mg film-coated tablets
+Esbriet 801 mg film-coated tablets
 
 pirfenidone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 267 mg pirfenidone.
+Each tablet contains 801 mg pirfenidone.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1518,102 +1589,18 @@ France
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
-EU/1/11/667/017 252 tablets (3 x 84)
-
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
-
-Lot
-
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-esbriet 267 mg tablets
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## LABEL - INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Esbriet 801 mg film-coated tablets
-
-pirfenidone
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each tablet contains 801 mg pirfenidone.
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Film-coated tablet
-
-84 film-coated tablets.  Component of a multipack, can't be sold separately
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use Oral use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
-
-H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen
-
-France
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
 EU/1/11/667/019 252 tablets (3 x 84)
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1625,12 +1612,10 @@ esbriet 801 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1686,16 +1671,16 @@ H.A.C. Pharma
 
 EU/1/11/667/007 EU/1/11/667/008
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1703,8 +1688,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1738,7 +1723,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1760,25 +1745,25 @@ H.A.C. Pharma
 
 EU/1/11/667/009
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 49
 
@@ -1814,7 +1799,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1836,25 +1821,25 @@ H.A.C. Pharma
 
 EU/1/11/667/0010
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1910,16 +1895,16 @@ H.A.C. Pharma
 
 EU/1/11/667/011
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
-Lot Esbriet 267 mg film-coated tablets pirfenidone H.A.C. Pharma EXP
+Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1927,14 +1912,14 @@ Lot Esbriet 267 mg film-coated tablets pirfenidone H.A.C. Pharma EXP
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTER STRIPS   |
-|--------------------------------------------------|
-| BLISTER STRIPS                                   |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTER STRIPS   |
+|---------------------------------------------------|
+| BLISTER STRIPS                                    |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1945,31 +1930,61 @@ Lot Esbriet 267 mg film-coated tablets pirfenidone H.A.C. Pharma EXP
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot Esbriet 801 mg film-coated tablets pirfenidone H.A.C. Pharma EXP
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 | 5.   | OTHER   |
 |------|---------|
 
+## MINIMUM PARTICULARS TO APPEAR ON BLISTER STRIPS
+
+BLISTER STRIPS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Esbriet 267 mg film-coated tablets
+
+pirfenidone
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+H.A.C. Pharma
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+5. OTHER
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTER STRIPS   |
-|--------------------------------------------------|
-| BLISTER STRIPS                                   |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTER STRIPS   |
+|---------------------------------------------------|
+| BLISTER STRIPS                                    |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
+Esbriet 801 mg film-coated tablets
+
+pirfenidone
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
+
+H.A.C. Pharma
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1986,9 +2001,7 @@ Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-Package leaflet: Information for the user Esbriet 267 mg film-coated tablets Esbriet 534 mg film-coated tablets Esbriet 801 mg film-coated tablets
-
-pirfenidone
+Package leaflet: Information for the user Esbriet 267 mg film-coated tablets Esbriet 534 mg film-coated tablets Esbriet 801 mg film-coated tablets pirfenidone
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2081,7 +2094,7 @@ Do not drive or use machines if you feel dizzy or tired after taking Esbriet.
 
 ## Esbriet contains sodium
 
-Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2196,21 +2209,19 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 267 mg tablet
 
-The active substance is pirfenidone. Each film-coated tablet contains 267 mg of pirfenidone. The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet contains sodium'), povidone K30, colloidal anhydrous silica, magnesium stearate. The film coat consists of: polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc, iron oxide
+The active substance is pirfenidone. Each film-coated tablet contains 267 mg of pirfenidone. The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet contains sodium') , povidone K30, colloidal anhydrous silica, magnesium stearate.
 
-yellow (E172).
+The film coat consists of: polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc, iron oxide yellow (E172).
 
 ## 534 mg tablet
 
-The active substance is pirfenidone. Each film-coated tablet contains 534 mg of pirfenidone. contains sodium'), povidone K30, colloidal anhydrous silica, magnesium stearate.
+The active substance is pirfenidone. Each film-coated tablet contains 534 mg of pirfenidone. The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet contains sodium') , povidone K30, colloidal anhydrous silica, magnesium stearate.
 
-The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet The film coat consists of: polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc, iron oxide
-
-yellow (E172) and iron oxide red (E172).
+The film coat consists of: polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc, iron oxide yellow (E172) and iron oxide red (E172).
 
 ## 801 mg tablet
 
-The active substance is pirfenidone. Each film-coated tablet contains 801 mg of pirfenidone. The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet contains sodium'), povidone K30, colloidal anhydrous silica, magnesium stearate.
+The active substance is pirfenidone. Each film-coated tablet contains 801 mg of pirfenidone. The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see Section 2 'Esbriet contains sodium') , povidone K30, colloidal anhydrous silica, magnesium stearate.
 
 The film coat consists of: polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc, iron oxide red (E172) and iron oxide black (E172).
 
@@ -2260,174 +2271,182 @@ H.A.C. Pharma Péricentre 2 43 Avenue de la Côte de Nacre 14000 Caen France
 
 ## Manufacturer
 
-Roche Pharma AG Emil-Barell-Str. 1 D-79639 Grenzach-Wyhlen Germany
+Delpharm Milano S.r.l. Via Salvatore Carnevale 1 Segrate 20054 Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## България
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Česká republika
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Danmark
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Deutschland
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Eesti
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
-Ελλάδα ΑΡΡΙΑΝΙ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
+## Ελλάδα
 
-Τηλ : + 30 210 668 3000
+ΑΡΡΙΑΝΙ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. Τηλ : + 30 210 668 3000
 
-España
+## España
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 France H.A.C. Pharma
 
-contact-esbriet@hacpharma.com Latvija H.A.C. Pharma contact-esbriet@hacpharma.com
+contact-esbriet@hacpharma.com
+
+## Latvija
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
 
 ## Lietuva
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Luxembourg/Luxemburg
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Magyarország
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Malta
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Nederland
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Norge
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Österreich
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Polska
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
-
-<div style=\"page-break-after: always\"></div>
+contact-esbriet@hacpharma.com
 
 ## Hrvatska
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
-
-## Ireland
-
-H.A.C. Pharma
-
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
-
-## Ísland
-
-H.A.C. Pharma
-
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
-
-## Italia
-
-H.A.C. Pharma
-
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
 ## Portugal
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
+
+## Ireland
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
 
 ## România
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
+
+## Ísland
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
 
 ## Slovenija
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
+
+## Italia
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
 
 ## Slovenská republika
 
 H.A.C. Pharma
 
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
+contact-esbriet@hacpharma.com
 
-## K ύπρος Suomi/Finland
+## K ύπρος
 
 ΑΡΡΙΑΝΙ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. Τηλ : + 30 210 668 3000
+
+## Suomi/Finland
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
+
+## Sverige
+
+H.A.C. Pharma
+
+contact-esbriet@hacpharma.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 There are also links to other websites about rare diseases and treatments.
-
-H.A.C. Pharma
-
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)
-
-Sverige
-
-H.A.C. Pharma
-
-[contact-esbriet@hacpharma.com](mailto:contact-esbriet@hacpharma.com)

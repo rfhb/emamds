@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 17:55:00
+document_datetime: 2026-07-09 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ryzneuta.html
 document_name: ryzneuta.html
 version: success
-processing_time: 0.0837028
-conversion_datetime: 2026-04-05 12:28:35.96489
+processing_time: 0.1389759
+conversion_datetime: 2026-07-13 12:33:32.183603
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Ryzneuta
 
@@ -55,17 +55,17 @@ Expand section
 
 Collapse section
 
-## How is Ryzneuta used?
+### How is Ryzneuta used?
 
 Ryzneuta can only be obtained with a prescription and treatment should be started and supervised by a doctor who has experience in the treatment of cancer or blood disorders. It is given as an injection under the skin at least 24 hours after the end of each cycle of chemotherapy.
 
 For more information about using Ryzneuta, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ryzneuta work?
+### How does Ryzneuta work?
 
 Chemotherapy can cause neutropenia, which may increase the risk of infections. The active substance in Ryzneuta, efbemalenograstim alfa, is very similar to a protein called granulocyte colony-stimulating factor (G-CSF), which is involved in the production of white blood cells in the bone marrow. Ryzneuta works like G-CSF and helps the bone marrow make more white blood cells, thereby treating neutropenia.
 
-## What benefits of Ryzneuta have been shown in studies?
+### What benefits of Ryzneuta have been shown in studies?
 
 The benefits of Ryzneuta were investigated in three main studies involving patients receiving myelotoxic chemotherapy (medicines to treat cancer that kill blood cells) to treat breast cancer. The studies measured the number of days in which patients had severe neutropenia after starting chemotherapy.
 
@@ -75,23 +75,23 @@ In a second study involving 393 patients, patients given Ryzneuta were compared 
 
 A third study was carried out in 242 women who needed chemotherapy after surgery for breast cancer. In this study, patients given Ryzneuta and patients given filgrastim (another medicine to treat neutropenia, which is given once a day) experienced 0.7 days of severe neutropenia on average.
 
-## What are the risks associated with Ryzneuta?
+### What are the risks associated with Ryzneuta?
 
 For the full list of side effects and restrictions with Ryzneuta, see the package leaflet.
 
 Side effects with Ryzneuta mostly concern pain in bone and muscles. The most common side effect (which may affect more than 1 in 10 people) is bone pain. Other side effects (which may affect up to 1 in 10 people) include pain in the back, joints and extremities (arms, hands, legs and feet).
 
-## Why is Ryzneuta authorised in the EU?
+### Why is Ryzneuta authorised in the EU?
 
 In patients given chemotherapy to treat their cancer, Ryzneuta reduced the duration of severe neutropenia as much as pegfilgrastim and filgrastim (other available treatments) and no new safety concerns were identified compared to what is known of other G-CSF medicines used in clinical practice. The European Medicines Agency decided that Ryzneuta's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ryzneuta?
+### What measures are being taken to ensure the safe and effective use of Ryzneuta?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ryzneuta have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ryzneuta are continuously monitored. Suspected side effects reported with Ryzneuta are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ryzneuta
+### Other information about Ryzneuta
 
 Ryzneuta received a marketing authorisation valid throughout the EU on 21 March 2024.
 
@@ -105,7 +105,7 @@ English (EN) (108.98 KB - PDF)
 
 [View](/en/documents/overview/ryzneuta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-535)
+[Other languages (22)](#file-language-dropdown-862)
 
 български (BG) (132.84 KB - PDF)
 
@@ -137,7 +137,7 @@ Deutsch (DE) (112.16 KB - PDF)
 
 [View](/de/documents/overview/ryzneuta-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (106.92 KB - PDF)
+eesti (ET) (106.92 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -167,13 +167,13 @@ italiano (IT) (107.46 KB - PDF)
 
 [View](/it/documents/overview/ryzneuta-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (139.21 KB - PDF)
+latviešu (LV) (139.21 KB - PDF)
 
 **First published:** 13/05/2024
 
 [View](/lv/documents/overview/ryzneuta-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (130.08 KB - PDF)
+lietuvių (LT) (130.08 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -227,7 +227,7 @@ slovenščina (SL) (129.22 KB - PDF)
 
 [View](/sl/documents/overview/ryzneuta-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (106.62 KB - PDF)
+suomi (FI) (106.62 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -251,167 +251,168 @@ English (EN) (493.94 KB - PDF)
 
 Ryzneuta : EPAR - Product information
 
-English (EN) (1.14 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/en/documents/product-information/ryzneuta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-944)
+[Other languages (24)](#file-language-dropdown-775)
 
-български (BG) (1.06 MB - PDF)
+български (BG) (985.33 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/bg/documents/product-information/ryzneuta-epar-product-information_bg.pdf)
 
-español (ES) (1004.57 KB - PDF)
+español (ES) (903.83 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/es/documents/product-information/ryzneuta-epar-product-information_es.pdf)
 
-čeština (CS) (1.01 MB - PDF)
+čeština (CS) (975.65 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/cs/documents/product-information/ryzneuta-epar-product-information_cs.pdf)
 
-dansk (DA) (979.27 KB - PDF)
+dansk (DA) (920.15 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/da/documents/product-information/ryzneuta-epar-product-information_da.pdf)
 
-Deutsch (DE) (1 MB - PDF)
+Deutsch (DE) (909.53 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/de/documents/product-information/ryzneuta-epar-product-information_de.pdf)
 
-eesti keel (ET) (1015.67 KB - PDF)
+eesti (ET) (938.91 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/et/documents/product-information/ryzneuta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.04 MB - PDF)
+ελληνικά (EL) (997.17 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/el/documents/product-information/ryzneuta-epar-product-information_el.pdf)
 
-français (FR) (1019.48 KB - PDF)
+français (FR) (945.41 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/fr/documents/product-information/ryzneuta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.01 MB - PDF)
+hrvatski (HR) (970.14 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/hr/documents/product-information/ryzneuta-epar-product-information_hr.pdf)
 
-íslenska (IS) (1002.34 KB - PDF)
+italiano (IT) (925.23 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
-
-[View](/is/documents/product-information/ryzneuta-epar-product-information_is.pdf)
-
-italiano (IT) (1012.69 KB - PDF)
-
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/it/documents/product-information/ryzneuta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.05 MB - PDF)
+latviešu (LV) (952.7 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/lv/documents/product-information/ryzneuta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.02 MB - PDF)
+lietuvių (LT) (925.29 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/lt/documents/product-information/ryzneuta-epar-product-information_lt.pdf)
 
-magyar (HU) (1.01 MB - PDF)
+magyar (HU) (944.6 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/hu/documents/product-information/ryzneuta-epar-product-information_hu.pdf)
 
-Malti (MT) (1.05 MB - PDF)
+Malti (MT) (971.38 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/mt/documents/product-information/ryzneuta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1009.18 KB - PDF)
+Nederlands (NL) (907.12 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/nl/documents/product-information/ryzneuta-epar-product-information_nl.pdf)
 
-norsk (NO) (975.18 KB - PDF)
+polski (PL) (925.19 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
-
-[View](/no/documents/product-information/ryzneuta-epar-product-information_no.pdf)
-
-polski (PL) (1.03 MB - PDF)
-
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/pl/documents/product-information/ryzneuta-epar-product-information_pl.pdf)
 
-português (PT) (1001.47 KB - PDF)
+português (PT) (927.92 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/pt/documents/product-information/ryzneuta-epar-product-information_pt.pdf)
 
-română (RO) (1.06 MB - PDF)
+română (RO) (944.39 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/ro/documents/product-information/ryzneuta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.03 MB - PDF)
+slovenčina (SK) (948.63 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/sk/documents/product-information/ryzneuta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.06 MB - PDF)
+slovenščina (SL) (997.12 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/sl/documents/product-information/ryzneuta-epar-product-information_sl.pdf)
 
-Suomi (FI) (996.98 KB - PDF)
+suomi (FI) (910.88 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/fi/documents/product-information/ryzneuta-epar-product-information_fi.pdf)
 
-svenska (SV) (991.81 KB - PDF)
+svenska (SV) (910.14 KB - PDF)
 
-**First published:** 13/05/2024 **Last updated:** 01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
 
 [View](/sv/documents/product-information/ryzneuta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325073
+Íslenska (IS) (920.31 KB - PDF)
 
-01/04/2026
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
+
+[View](/is/documents/product-information/ryzneuta-epar-product-information_is.pdf)
+
+norsk (NO) (916.79 KB - PDF)
+
+**First published:** 13/05/2024 **Last updated:** 09/07/2026
+
+[View](/no/documents/product-information/ryzneuta-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000312661
+
+10/04/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -429,7 +430,7 @@ English (EN) (38.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (48.02 KB - PDF)
 
@@ -461,7 +462,7 @@ Deutsch (DE) (39.8 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (36.25 KB - PDF)
+eesti (ET) (36.25 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -485,25 +486,19 @@ hrvatski (HR) (46.9 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (38.31 KB - PDF)
-
-**First published:** 13/05/2024
-
-[View](/is/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (37.63 KB - PDF)
 
 **First published:** 13/05/2024
 
 [View](/it/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.73 KB - PDF)
+latviešu (LV) (55.73 KB - PDF)
 
 **First published:** 13/05/2024
 
 [View](/lv/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (55.72 KB - PDF)
+lietuvių (LT) (55.72 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -526,12 +521,6 @@ Nederlands (NL) (38.28 KB - PDF)
 **First published:** 13/05/2024
 
 [View](/nl/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (39.5 KB - PDF)
-
-**First published:** 13/05/2024
-
-[View](/no/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.67 KB - PDF)
 
@@ -563,7 +552,7 @@ slovenščina (SL) (44.99 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (36.42 KB - PDF)
+suomi (FI) (36.42 KB - PDF)
 
 **First published:** 13/05/2024
 
@@ -575,23 +564,28 @@ svenska (SV) (38.35 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (38.31 KB - PDF)
+
+**First published:** 13/05/2024
+
+[View](/is/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (39.5 KB - PDF)
+
+**First published:** 13/05/2024
+
+[View](/no/documents/all-authorised-presentations/ryzneuta-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ryzneuta
-
-Active substance
-
-efbemalenograstim alfa
-
-International non-proprietary name (INN) or common name
-
-efbemalenograstim alfa
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AA18
+- **Name of medicine**
+    - Ryzneuta
+- **Active substance**
+    - efbemalenograstim alfa
+- **International non-proprietary name (INN) or common name**
+    - efbemalenograstim alfa
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AA18
 
 ### Pharmacotherapeutic group
 
@@ -603,31 +597,18 @@ Ryzneuta is indicated for the reduction in the duration of neutropenia and the i
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005828
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Evive Biotechnology Ireland Limited
-
-20 Kildare Street Dublin 2 D02 T3V7 Ireland
-
-Opinion adopted
-
-25/01/2023
-
-Marketing authorisation issued
-
-21/03/2024
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/005828
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Evive Biotechnology Ireland Limited 20 Kildare Street  Dublin 2  D02 T3V7  Ireland
+- **Opinion adopted**
+    - 25/01/2023
+- **Marketing authorisation issued**
+    - 21/03/2024
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -635,13 +616,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ryzneuta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.07 KB - PDF)
+English (EN) (165.52 KB - PDF)
 
-**First published:** 03/09/2025 **Last updated:** 01/04/2026
+**First published:** 03/09/2025 **Last updated:** 09/07/2026
 
 [View](/en/documents/procedural-steps-after/ryzneuta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -653,7 +634,7 @@ English (EN) (148.23 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/ryzneuta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ryzneuta : EPAR - Public assessment report
 
@@ -683,6 +664,6 @@ English (EN) (117.15 KB - PDF)
 
 **This page was last updated on**
 
-01/04/2026
+09/07/2026
 
 ## Share this page

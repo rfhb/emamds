@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 10:29:30
+document_datetime: 2026-07-10 11:13:26
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cometriq-epar-product-information_en.pdf
 document_name: cometriq-epar-product-information_en.pdf
 version: success
-processing_time: 31.0567007
-conversion_datetime: 2026-03-01 19:30:22.436275
+processing_time: 29.6872426
+conversion_datetime: 2026-07-13 12:50:46.70594
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg cabozantinib. For the full list of excipients, see section 6.1.
+One hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg cabozantinib.
+
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -50,7 +52,7 @@ For patients in whom rearranged during transfection (RET) mutation status is not
 
 Therapy with COMETRIQ should be initiated by a physician experienced in the administration of anticancer medicinal products.
 
-## Posology
+Posology
 
 COMETRIQ (cabozantinib) capsules and CABOMETYX (cabozantinib) tablets are not bioequivalent and should not be used interchangeably (see section 5.2).
 
@@ -78,7 +80,7 @@ Concomitant medicinal products that are strong inhibitors of CYP3A4 should be us
 
 Selection of an alternative concomitant medicinal product with no or minimal potential to induce or inhibit CYP3A4 should be considered.
 
-## Elderly patients
+## Elderly
 
 No specific dose adjustment for the use of cabozantinib in older people (≥ 65 years) is recommended. However, a trend in increased rate of SAEs has been observed in subjects aged 75 years and older.
 
@@ -94,7 +96,7 @@ Cabozantinib should be used with caution in patients with mild or moderate renal
 
 In patients with mild or moderate hepatic impairment the recommended dose of cabozantinib is 60 mg once daily. Close monitoring of overall safety is recommended in these patients (see section 5.2) as dose adjustment or interruption may be required. Cabozantinib is not recommended for use in patients with severe hepatic impairment as safety and efficacy have not been established in this population.
 
-## Patients with cardiac impairment
+## Cardiac impairment
 
 There is limited data in patients with cardiac impairment. No specific dosing recommendations can be made.
 
@@ -106,11 +108,11 @@ The safety and efficacy of cabozantinib in children aged &lt;18 years have not y
 
 COMETRIQ is for oral use. The capsules should be swallowed whole and not opened. Patients should be instructed to not eat anything for at least 2 hours before through 1 hour after taking COMETRIQ.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -118,11 +120,11 @@ Dose reductions and dose interruptions occurred in 79% and 72%, respectively, of
 
 ## Hepatotoxicity
 
-Abnormalities of liver function tests (increases in alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin) have been frequently observed in patients treated with cabozantinib. It is recommended to perform liver function tests (ALT, AST and bilirubin) before initiation of cabozantinib treatment and to monitor closely during treatment. For patients with worsening of liver function tests considered related to cabozantinb treatment (i.e where no alternative cause is evident), the dose should be reduced or treatment interrupted following recommendations provided in section 4.2.
+Abnormalities of liver function tests (increases in alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin) have been frequently observed in patients treated with cabozantinib. It is recommended to perform liver function tests (ALT, AST and bilirubin) before initiation of cabozantinib treatment and to monitor closely during treatment. For patients with worsening of liver function tests considered related to cabozantinb treatment (i.e., where no alternative cause is evident), the dose should be reduced or treatment interrupted following recommendations provided in section 4.2.
 
 ## Perforations, fistulas, and intra-abdominal abscesses
 
-Serious gastrointestinal (GI) perforations and fistulas, sometimes fatal, and intra-abdominal abscesses have been observed with cabozantinib. Patients who have had recent radiotherapy, have inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis, peritonitis, or diverticulitis), have tumour infiltration of trachea, bronchi, or oesophagus, have complications from prior GI surgery (particularly when associated with delayed or incomplete healing), or have complications from prior radiation therapy to the thoracic cavity (including mediastinum) should be carefully evaluated before initiating cabozantinib therapy and subsequently they should be monitored closely for symptoms of perforations and fistulas. Non-GI fistula should be ruled out as appropriate in cases of onset of mucositis after start of therapy. Cabozantinib should be discontinued in patients who experience a GI perforation or a GI or non-GI fistula.
+Serious gastrointestinal (GI) perforations and fistulas, sometimes fatal, and intra-abdominal abscesses have been observed with cabozantinib. Patients who have had recent radiotherapy, have inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis, peritonitis, or diverticulitis), have tumour infiltration of trachea, bronchi, or oesophagus, have complications from prior GI surgery (particularly when associated with delayed or incomplete healing), or have complications from prior radiation therapy to the thoracic cavity (including mediastinum) should be carefully evaluated before initiating cabozantinib therapy and subsequently they should be monitored closely for symptoms of perforations and fistulas. Non GI fistula should be ruled out as appropriate in cases of onset of mucositis after start of therapy. Cabozantinib should be discontinued in patients who experience a GI perforation or a GI or non-GI fistula.
 
 ## Thromboembolic events
 
@@ -176,11 +178,9 @@ Cabozantinib should be used with caution in patients with a history of QT interv
 
 ## CYP3A4 inducers and inhibitors
 
-Cabozantinib is a CYP3A4 substrate. Concurrent administration of cabozantinib with the strong CYP3A4 inhibitor ketoconazole resulted in an increase in cabozantinib plasma exposure. Caution is required when
+Cabozantinib is a CYP3A4 substrate. Concurrent administration of cabozantinib with the strong CYP3A4 inhibitor ketoconazole resulted in an increase in cabozantinib plasma exposure. Caution is required when administering cabozantinib with agents that are strong CYP3A4 inhibitors. Concurrent administration of cabozantinib with the strong CYP3A4 inducer rifampicin resulted in a decrease in cabozantinib plasma exposure. Therefore, chronic administration of agents that are strong CYP3A4 inducers with cabozantinib should be avoided (see sections 4.2 and 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-administering cabozantinib with agents that are strong CYP3A4 inhibitors. Concurrent administration of cabozantinib with the strong CYP3A4 inducer rifampicin resulted in a decrease in cabozantinib plasma exposure. Therefore chronic administration of agents that are strong CYP3A4 inducers with cabozantinib should be avoided (see sections 4.2 and 4.5).
 
 ## P-glycoprotein substrates
 
@@ -202,13 +202,13 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, tha
 
 ## CYP3A4 inhibitors and inducers
 
-Administration of the strong CYP3A4 inhibitor ketoconazole (400 mg daily for 27 days) to healthy volunteers decreased cabozantinib clearance (by 29%) and increased single-dose plasma cabozantinib exposure (AUC) by 38%. Therefore co-administration of strong CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) with cabozantinib should be approached with caution.
+Administration of the strong CYP3A4 inhibitor ketoconazole (400 mg daily for 27 days) to healthy volunteers decreased cabozantinib clearance (by 29%) and increased single-dose plasma cabozantinib exposure (AUC) by 38%. Therefore, co-administration of strong CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) with cabozantinib should be approached with caution.
 
 Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum] ) with cabozantinib should therefore be avoided.
 
 ## Gastric pH modifying agents
 
-Co-administration of proton pump inhibitor (PPI) esomeprazole (40 mg daily for 6 days) with a single dose of 100 mg cabozantinib to healthy volunteers resulted in no clinically-significant effect on plasma cabozantinib exposure (AUC). No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with cabozantinib.
+Co-administration of proton pump inhibitor (PPI) esomeprazole (40 mg daily for 6 days) with a single dose of 100 mg cabozantinib to healthy volunteers resulted in no clinically significant effect on plasma cabozantinib exposure (AUC). No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with cabozantinib.
 
 ## MRP2 inhibitors
 
@@ -258,15 +258,13 @@ Cabozantinib has minor influence on the ability to drive and use machines. Adver
 
 The most common serious adverse reactions associated with cabozantinib are pneumonia, mucosal inflammation, hypocalcaemia, dysphagia, dehydration, pulmonary embolism, and hypertension. The most frequent adverse reactions of any grade (experienced by at least 20% of patients) included diarrhoea, PPES, weight decreased, decreased appetite, nausea, fatigue, dysgeusia, hair colour changes, hypertension, stomatitis, constipation, vomiting, mucosal inflammation, asthenia, and dysphonia.
 
-The most common laboratory abnormalities were increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), increased alkaline phosphatase (ALP), lymphopenia, hypocalcaemia,
+The most common laboratory abnormalities were increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), increased alkaline phosphatase (ALP), lymphopenia, hypocalcaemia, neutropenia, thrombocytopenia, hypophosphatemia, hyperbilirubinemia, hypomagnesaemia, and hypokalaemia.
 
 <div style=\"page-break-after: always\"></div>
 
-neutropenia, thrombocytopenia, hypophosphatemia, hyperbilirubinemia, hypomagnesaemia, and hypokalaemia.
-
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed in Table 1 according to MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100) , not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are listed in Table 1 according to MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -279,13 +277,13 @@ Table 1: Adverse reactions reported with cabozantinib
 | Endocrine disorders                              | Endocrine disorders                                                                                                                                                                                                   |
 | Common                                           | Hypothyroidism                                                                                                                                                                                                        |
 | Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                                                                                                                                                                    |
-| Very Common                                      | decreased appetite, hypocalcaemia c , hypokalaemia c , hypomagnesaemia c                                                                                                                                              |
+| Very common                                      | decreased appetite, hypocalcaemia c , hypokalaemia c , hypomagnesaemia c                                                                                                                                              |
 | Common                                           | dehydration * , hypoalbuminaemia c , hyperbilirubinaemia d , hypophosphatemia c                                                                                                                                       |
 | Psychiatric disorders                            | Psychiatric disorders                                                                                                                                                                                                 |
 | Common                                           | anxiety, depression, confusional state                                                                                                                                                                                |
 | Uncommon                                         | abnormal dreams, delirium                                                                                                                                                                                             |
 | Nervous system disorders                         | Nervous system disorders                                                                                                                                                                                              |
-| Very Common                                      | dysgeusia, headache, dizziness                                                                                                                                                                                        |
+| Very common                                      | dysgeusia, headache, dizziness                                                                                                                                                                                        |
 | Common                                           | cerebrovascular accident * , peripheral neuropathy, paraesthesia, ageusia, tremor                                                                                                                                     |
 | Uncommon                                         | ataxia, disturbance in attention, hepatic encephalopathy, loss of consciousness, speech disorder, posterior reversible encephalopathy syndrome *                                                                      |
 | Eye disorders                                    | Eye disorders                                                                                                                                                                                                         |
@@ -299,22 +297,22 @@ Table 1: Adverse reactions reported with cabozantinib
 | Uncommon                                         | angina pectoris, supraventricular tachycardia                                                                                                                                                                         |
 | Not Known                                        | myocardial infarction                                                                                                                                                                                                 |
 | Vascular disorders                               | Vascular disorders                                                                                                                                                                                                    |
-| Very Common                                      | hypertension *f                                                                                                                                                                                                       |
+| Very common                                      | hypertension *f                                                                                                                                                                                                       |
 | Common                                           | hypotension g , deep vein thrombosis * , venous thrombosis * , arterial thrombosis * , pallor, peripheral coldness                                                                                                    |
 | Uncommon                                         | hypertensive crisis h , embolism arterial                                                                                                                                                                             |
 | Not Known                                        | aneurysms and artery dissections                                                                                                                                                                                      |
 | Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                                                                                                                                                                      |
-| Very Common                                      | dysphonia, oropharyngeal pain                                                                                                                                                                                         |
+| Very common                                      | dysphonia, oropharyngeal pain                                                                                                                                                                                         |
 | Common                                           | non-gastrointestinal fistula * (including tracheal, pneumomediastinum, tracheo- oesophageal), pulmonary embolism * , respiratory tract haemorrhage * (including pulmonary, bronchial, tracheal), pneumonia aspiration |
 | Uncommon                                         | atelectasis, pharyngeal oedema, pneumonitis, pneumothorax                                                                                                                                                             |
 | Gastrointestinal disorders                       | Gastrointestinal disorders                                                                                                                                                                                            |
-| Very Common                                      | diarrhoea * , nausea * , stomatitis, constipation, vomiting * , abdominal pain e , dyspepsia, dysphagia, glossodynia                                                                                                  |
+| Very common                                      | diarrhoea * , nausea * , stomatitis, constipation, vomiting * , abdominal pain e , dyspepsia, dysphagia, glossodynia                                                                                                  |
 | Common                                           | gastrointestinal perforation * , gastrointestinal fistula * , gastrointestinal haemorrhage * , pancreatitis, haemorrhoids, anal fissure, anal inflammation, cheilitis                                                 |
 | Uncommon                                         | Oesophagitis                                                                                                                                                                                                          |
 | Hepatobiliary disorders                          | Hepatobiliary disorders                                                                                                                                                                                               |
 | Common                                           | Cholelithiasis                                                                                                                                                                                                        |
 | Skin and subcutaneous tissue disorders           | Skin and subcutaneous tissue disorders                                                                                                                                                                                |
-| Very Common                                      | palmar-plantar erythrodysaesthesia syndrome * , hair colour changes, rash, dry skin, alopecia, erythema                                                                                                               |
+| Very common                                      | palmar-plantar erythrodysaesthesia syndrome * , hair colour changes, rash, dry skin, alopecia, erythema                                                                                                               |
 | Common                                           | hyperkeratosis, acne, blister, hair growth abnormal, skin exfoliation, skin hypopigmentation                                                                                                                          |
 | Uncommon                                         | skin ulcer, telangiectasia                                                                                                                                                                                            |
 
@@ -323,7 +321,7 @@ Table 1: Adverse reactions reported with cabozantinib
 | Not known                                            | cutaneous vasculitis                                                                                                  |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                       |
-| Very Common                                          | arthralgia, muscle spasms, pain in extremity                                                                          |
+| Very common                                          | arthralgia, muscle spasms, pain in extremity                                                                          |
 | Common                                               | musculoskeletal chest pain, osteonecrosis of jaw *                                                                    |
 | Uncommon                                             | Rhabdomyolysis                                                                                                        |
 | Renal and urinary disorders                          | Renal and urinary disorders                                                                                           |
@@ -332,11 +330,11 @@ Table 1: Adverse reactions reported with cabozantinib
 | Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                              |
 | Uncommon                                             | amenorrhoea, vaginal haemorrhage                                                                                      |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                  |
-| Very Common                                          | fatigue, mucosal inflammation, asthenia                                                                               |
+| Very common                                          | fatigue, mucosal inflammation, asthenia                                                                               |
 | Common                                               | impaired wound healing * , chills, face oedema                                                                        |
 | Uncommon                                             | cyst, facial pain, localised oedema                                                                                   |
 | Investigations                                       | Investigations                                                                                                        |
-| Very Common                                          | weight decreased, serum ALT, AST, and ALP increased, blood LDH increased, blood TSH increased *d , thrombocytopenia a |
+| Very common                                          | weight decreased, serum ALT, AST, and ALP increased, blood LDH increased, blood TSH increased *d , thrombocytopenia a |
 | Common                                               | blood creatinine increased, lymphopenia a , neutropenia a , lipase increased                                          |
 | Uncommon                                             | activated partial thromboplastin time shortened, eosinophil count increased b , platelet count increased b            |
 
@@ -406,6 +404,8 @@ Figure 2: Kaplan-Meier curve of overall survival
 
 Placebo
 
+53
+
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Summary of key efficacy findings
@@ -433,9 +433,9 @@ Table 2: Summary of key efficacy findings
 | a                                     |                                  |                                  |
 |                                       | c                                |                                  |
 | CEA response                          |                                  |                                  |
-|                                       |                                  | c                                |
 |                                       | (47/143)                         |                                  |
 |                                       |                                  | (1/55)                           |
+|                                       |                                  | c                                |
 |                                       |                                  | (1/40)                           |
 |                                       |                                  | 13.5%                            |
 |                                       |                                  | 17.5)                            |
@@ -464,7 +464,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
+Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately
+
+- 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
 
 Repeat daily dosing of cabozantinib at 140 mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day 15.
 
@@ -504,19 +506,15 @@ No data are available to determine a difference in PK based on race.
 
 ## 5.3 Preclinical safety data
 
-Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows:
-
-In rat and dog repeat-dose toxicity studies up to 6 months duration, target organs for toxicity were GI tract, bone marrow, lymphoid tissues, kidney, adrenal and reproductive tract tissues. The no observed adverse effect level (NOAEL) for these findings were below human clinical exposure levels at intended therapeutic dose.
+Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: in rat and dog repeat-dose toxicity studies up to 6 months duration, target organs for toxicity were GI tract, bone marrow, lymphoid tissues, kidney, adrenal and reproductive tract tissues. The no observed adverse effect level (NOAEL) for these findings were below human clinical exposure levels at intended therapeutic dose.
 
 Cabozantinib has shown no mutagenic or clastogenic potential in a standard battery of genotoxicity assays. The carcinogenic potential of cabozantinib has been evaluated in two species: rasH2 transgenic mice and Sprague-Dawley rats. In the 2-year rat carcinogenicity study, cabozantinib-related neoplastic findings consisted of an increased incidence of benign pheochromocytoma, alone or in combination with malignant pheochromocytoma/complex malignant pheochromocytoma of the adrenal medulla in both sexes at exposures well below the intended exposure in humans. The clinical relevance of the observed neoplastic lesions in rats is uncertain, but likely to be low. Cabozantinib was not carcinogenic in the rasH2 mouse model at a slightly higher exposure than the intended human therapeutic exposure.
 
 Fertility studies in rats have shown reduced male and female fertility. Further, hypospermatogenesis was observe in male dogs at exposure levels below human clinical exposure levels at intended therapeutic dose.
 
-Embryo-foetal development studies were performed in rats and rabbits. In rats, cabozantinib caused postimplantation loss, foetal oedema, cleft palate/lip, dermal aplasia and kinked or rudimentary tail. In rabbits, cabozantinib produced foetal soft tissue changes (reduced spleen size, small or missing intermediate
+Embryo-foetal development studies were performed in rats and rabbits. In rats, cabozantinib caused postimplantation loss, foetal oedema, cleft palate/lip, dermal aplasia and kinked or rudimentary tail. In rabbits, cabozantinib produced foetal soft tissue changes (reduced spleen size, small or missing intermediate lung lobe) and increased foetal incidence of total malformations. NOAEL for embryo-foetal toxicity and teratogenic findings were below human clinical exposure levels at intended therapeutic dose.
 
 <div style=\"page-break-after: always\"></div>
-
-lung lobe) and increased foetal incidence of total malformations. NOAEL for embryo-foetal toxicity and teratogenic findings were below human clinical exposure levels at intended therapeutic dose.
 
 Juvenile rats (comparable to a &gt;2 year old pediatric population) administered cabozantinib showed increased WBC parameters, decreased haematopoiesis, pubescent/immature female reproductive system (without delayed vaginal opening), tooth abnormalities, reduced bone mineral content and density, liver pigmentation and bile duct hyperplasia. Findings in uterus/ovaries and decreased haematopoiesis appeared to be transient, while effects on bone parameters and liver pigmentation were sustained. Evaluations in juvenile rats (comparable to a &lt;2 year old pediatric population) have not been performed.
 
@@ -540,25 +538,27 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ºC.
-
-Store in the original package in order to protect from moisture.
+Do not store above 25 ºC. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
 PVC/PE/PCTFE-Al blisters with foil backing, sealed into a secondary heat-sealed card packaging.
 
-Blister cards containing either: 21 x 20 mg capsules (60 mg/day dose for a 7-day supply) 7 x 20 mg and 7 x 80 mg capsules (100 mg/day dose for a 7-day supply)
+Blister cards containing either:
+
+21 x 20 mg capsules (60 mg/day dose for a 7-day supply) 7 x 20 mg and 7 x 80 mg capsules (100 mg/day dose for a 7-day supply)
 
 21 x 20 mg and 7 x 80 mg capsules (140 mg/day dose for a 7-day supply)
 
 28 day pack containing:
 
-84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose for a 28 day supply) 56 capsules (4 blister cards of 7 x 20 mg and 7 x 80 mg) (100 mg/day dose for a 28 day supply)
-
-112 capsules (4 blister cards of 21 x 20mg and 7 x 80 mg) (140 mg/day dose for a 28 day supply)
+84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose for a 28 day supply)
 
 <div style=\"page-break-after: always\"></div>
+
+56 capsules (4 blister cards of 7 x 20 mg and 7 x 80 mg) (100 mg/day dose for a 28 day supply)
+
+112 capsules (4 blister cards of 21 x 20mg and 7 x 80 mg) (140 mg/day dose for a 28 day supply)
 
 ## 6.6 Special precautions for disposal
 
@@ -653,7 +653,9 @@ BLISTER CARD, 60 mg dose
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ   20 mg hard capsules cabozantinib
+COMETRIQ   20 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -743,8 +745,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -756,8 +758,8 @@ COMETRIQ 20 mg 60 mg/day dose
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -769,7 +771,9 @@ OUTER CARTON OF 28 DAY PACK, 60 mg dose (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ 20 mg hard capsules cabozantinib
+COMETRIQ 20 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -802,8 +806,6 @@ Refer to individual blister cards for dispensing instructions.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -855,6 +857,8 @@ PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -865,7 +869,9 @@ BLISTER CARD OF 28 DAY PACK, 60 mg dose (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ   20 mg hard capsules cabozantinib
+COMETRIQ   20 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -957,8 +963,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -966,10 +972,8 @@ Medicinal product subject to medical prescription.
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-29
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,7 +985,9 @@ BLISTER CARD, 100 mg dose
 
 COMETRIQ 20 mg hard capsules
 
-COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1071,8 +1077,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1084,8 +1090,8 @@ COMETRIQ 20 mg COMETRIQ 80 mg 100 mg/day dose
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1179,8 +1185,8 @@ COMETRIQ 80 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1194,7 +1200,9 @@ BLISTER CARD OF 28 DAY PACK, 100 mg dose (WITHOUT BLUE BOX)
 
 COMETRIQ 20 mg hard capsules
 
-COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1284,8 +1292,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1293,8 +1301,8 @@ Medicinal product subject to medical prescription.
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1306,7 +1314,9 @@ BLISTER CARD 140 mg dose
 
 COMETRIQ 20 mg hard capsules
 
-COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1396,8 +1406,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1409,8 +1419,8 @@ COMETRIQ 20 mg COMETRIQ 80 mg 140 mg/day dose
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1504,8 +1514,8 @@ COMETRIQ 80 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1519,7 +1529,9 @@ BLISTER CARD OF 28 DAY PACK, 140 mg dose (WITHOUT BLUE BOX)
 
 COMETRIQ 20 mg hard capsules
 
-COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1609,8 +1621,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1618,8 +1630,8 @@ Medicinal product subject to medical prescription.
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1701,14 +1713,14 @@ COMETRIQ is not recommended for children or adolescents. The effects of COMETRIQ
 
 Please tell your doctor or pharmacist if you are taking or have recently taken any other medicines, including medicines obtained without a prescription. This is because COMETRIQ can affect the way some other medicines work. Also, some medicines can affect the way COMETRIQ works. This could mean that your doctor needs to change the dose(s) that you take.
 
-- -Medicines that treat fungal infections, such as itraconazole, ketoconazole, and posaconazole
+- -Medicines used to treat fungal infections, such as itraconazole, ketoconazole, and posaconazole
 - -Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
 - -Allergy medicines such as fexofenadine
-- -Medicines to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
+- -Medicines used to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
 - -Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
-- -Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used for treating depression or depression-related conditions such as anxiety
+- -Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used to treat depression or depression-related conditions such as anxiety
 - -Medicines used to thin the blood, such as warfarin and dabigatran etexilate
-- -Medicines to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
+- -Medicines used to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
 - -Medicines for diabetes, such as saxagliptin and sitagliptin
 - -Medicines used to treat gout, such as colchicine
 - -Medicines used to treat HIV or AIDS, such as ritonavir, maraviroc and emtricitabine
@@ -1759,11 +1771,9 @@ Your doctor will decide on the right dose for you.
 
 Your capsules will come in a blister card organised by prescribed dose. Each blister card has enough capsules to last for seven days (one week).  Your capsules are also available as a 28 day pack, which contains enough capsules to last for 28 days, in 4 blister cards with seven days of capsules on each card.
 
-Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in
+Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in section 6. To help you remember your doses, write the date when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
 
 <div style=\"page-break-after: always\"></div>
-
-section 6. To help you remember your doses, write the date when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
 
 1. Push in tab
 2. Peel paper backing
@@ -1783,8 +1793,8 @@ If you have taken more COMETRIQ than you have been instructed to, talk to a doct
 
 ## If you forget to take COMETRIQ
 
-- -If there are still 12 hours or more before your next dose is due then take the missed dose as soon as you remember. Take the next dose at the normal time.
-- -If your next dose is due in less than 12 hours then do not take the dose that you have missed. Take your next dose at the normal time.
+- -If there are still 12 hours or more before your next dose is due, then take the missed dose as soon as you remember. Take the next dose at the normal time.
+- -If your next dose is due in less than 12 hours, then do not take the dose that you have missed. Take your next dose at the normal time.
 
 ## If you stop using COMETRIQ
 
@@ -1843,7 +1853,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Haemorrhoids
 - Pneumonia (lung infection)
 - Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth
-- Reduced thyroid activity ; s ymptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
+- Reduced thyroid activity ; symptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
 - Low level of white blood cells
 - Decrease in level of phosphate in the blood
 - Tear or hole or bleeding in your stomach or intestine, inflammation or tear of anus, bleeding in lungs or trachea (airway)
@@ -1900,7 +1910,7 @@ Appendix V. By reporting side effects, you can help provide more information on 
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister card after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the blister cards and carton after EXP. The expiry date refers to the last day of that month.
 
 Do not store above 25ºC. Store in the original package in order to protect from moisture.
 
@@ -1918,7 +1928,7 @@ The COMETRIQ 20 mg hard capsules contain cabozantinib ( S )-malate equivalent to
 
 The other ingredients are:
 
-- -Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid
+- -Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid (see section 2 'COMETRIQ contains sodium')
 - -Capsule shell: gelatin, and titanium dioxide (E171)
 - -The 20 mg capsules also contain black iron oxide (E172)
 - -The 80 mg capsules also contain red iron oxide (E172)
@@ -1948,6 +1958,8 @@ one orange 80 mg + three grey 20 mg
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 COMETRIQ hard capsules are also available in 28 day packs:
 
 84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose)
@@ -1956,19 +1968,11 @@ COMETRIQ hard capsules are also available in 28 day packs:
 
 112 capsules (4 blister cards of 21 x 20 mg and 7 x 80 mg) (140 mg/day dose)
 
-<div style=\"page-break-after: always\"></div>
-
 Each 28 day pack contains enough medicine for 28 days.
 
 ## Marketing Authorisation Holder
 
-Ipsen Pharma
-
-70 rue Balard
-
-75015 Paris
-
-France
+Ipsen Pharma 70 rue Balard 75015 Paris France
 
 ## Manufacturer
 
@@ -1980,101 +1984,121 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg
 
+## Italia
+
 Ipsen NV
 
+Ipsen SpA
+
 België /Belgique/Belgien
+
+Tel: + 39 02 39 22 41
 
 Tél/Tel: + 32 9 243 96 00
 
 ## France
 
-Ipsen Pharma
-
-Tél: + 33 1 58 33 50 00
-
-## България , Slovenija
-
-Biomapas UAB
-
-Литва, Litva
-
-Tel: +370 37 366307
-
-## Česká republika
-
-Ipsen Pharma, s.r.o.
-
-Tel: + 420 242 481 821
-
-## Danmark, Norge, Suomi/Finland, Sverige, Ísland
-
-Institut Produits Synthèse (IPSEN) AB Sverige/Ruotsi/Svíþjóð
-
-Tlf/Puh/Tel/Sími: +46 8 451 60 00
-
-## Deutschland, Österreich
-
-Ipsen Pharma GmbH
-
-## Italia
-
-Ipsen SpA
-
-Tel: + 39 02 39 22 41
-
 ## Latvija
+
+Ipsen Pharma
 
 Ipsen Pharma representative office
 
+Tél: + 33 1 58 33 50 00
+
 Tel: +371 67622233
 
+## България , Slovenija
+
 ## Hrvatska
+
+Biomapas UAB Литва, Litva Tel: +370 37 366307
 
 Biomapas Zagreb d.o.o.
 
 Tel: +385 17 757 094
 
+## Česká republika
+
 ## Lietuva
+
+Ipsen Pharma, s.r.o.
 
 Ipsen Pharma SAS Lietuvos filialas
 
+Tel: + 420 242 481 821
+
 Tel. + 370 700 33305
+
+## Danmark, Norge, Suomi/Finland, Sverige, Ísland
 
 ## Magyarország
 
+Institut Produits Synthèse (IPSEN) AB
+
 IPSEN Pharma Hungary Kft.
+
+Sverige/Ruotsi/Svíþjóð Tlf/Puh/Tel/Sími: +46 8 451 60 00
 
 Tel.: +361 555 5930
 
+## Deutschland, Österreich
+
 ## Nederland
+
+Ipsen Pharma GmbH Deutschland
 
 Ipsen Farmaceutica B.V.
 
-<div style=\"page-break-after: always\"></div>
+Tel: + 31 (0) 23 554 1600
 
-Deutschland
+<div style=\"page-break-after: always\"></div>
 
 Tel.: +49 89 2620 432 89
 
 ## Eesti
 
+## Polska
+
 Centralpharma Communications OÜ
+
+Ipsen Poland Sp. z o.o.
 
 Tel: +372 60 15 540
 
+Tel.: + 48 (0) 22 653 68 00
+
 ## Ελλάδα, Κύπρος, Malta
+
+## Portugal
 
 Ipsen Μονοπρόσωπη EΠΕ
 
+Ipsen Portugal - Produtos Farmacêuticos S.A.
+
+Tel: + 351 21 412 3550
+
 ## Ελλάδα/Greece
+
+## România
 
 Τηλ: + 30 210 984 3324
 
+Ipsen Pharma România SRL
+
+Tel: + 40 21 231 27 20
+
 ## España
+
+## Slovenská republika
 
 Ipsen Pharma, S.A.
 
+Ipsen Pharma
+
 Tel: + 34 936 858 100
+
+Tel: + 420 242 481 821
 
 ## Ireland, United Kingdom (Northern Ireland)
 
@@ -2087,29 +2111,3 @@ Tel: + 44 (0)1753 62 77 77
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-Tel: + 31 (0) 23 554 1600
-
-## Polska
-
-Ipsen Poland Sp. z o.o.
-
-Tel.: + 48 (0) 22 653 68 00
-
-## Portugal
-
-Ipsen Portugal - Produtos Farmacêuticos S.A.
-
-Tel: + 351 21 412 3550
-
-## România
-
-Ipsen Pharma România SRL
-
-Tel: + 40 21 231 27 20
-
-## Slovenská republika
-
-Ipsen Pharma
-
-Tel: + 420 242 481 821

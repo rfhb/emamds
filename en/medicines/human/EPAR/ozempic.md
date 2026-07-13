@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 15:40:30
+document_datetime: 2026-07-10 11:29:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ozempic.html
 document_name: ozempic.html
 version: success
-processing_time: 0.1320995
-conversion_datetime: 2026-04-25 16:32:54.940016
+processing_time: 0.1626803
+conversion_datetime: 2026-07-13 12:33:47.630525
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Ozempic
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## What is Ozempic and what is it used for?
+### What is Ozempic and what is it used for?
 
 Ozempic is a diabetes medicine used with diet and exercise to treat adults whose type 2 diabetes is not satisfactorily controlled.
 
@@ -63,17 +63,17 @@ Ozempic can be used on its own in patients who cannot take metformin (another di
 
 Ozempic contains the active substance semaglutide.
 
-## How is Ozempic used?
+### How is Ozempic used?
 
 Ozempic is available as a solution for injection in prefilled pens and can only be obtained with a prescription. It is injected under the skin of the belly, the thigh or the upper arm.
 
 The starting dose of Ozempic is 0.25 mg once a week. After four weeks, this dose should be increased to 0.5 mg. If needed, the dose can be further increased up to a maximum of 1 mg once a week. For further information, see the package leaflet.
 
-## How does Ozempic work?
+### How does Ozempic work?
 
 The active substance in Ozempic, semaglutide, is a 'GLP-1 receptor agonist'. It acts in the same way as GLP-1 (a hormone produced in the gut) by increasing the amount of insulin that the pancreas releases in response to food. This helps with the control of blood glucose levels.
 
-## What benefits of Ozempic have been shown in studies?
+### What benefits of Ozempic have been shown in studies?
 
 Studies showed that Ozempic is effective at lowering blood glucose levels and reducing the risk of health complications in patients with type 2 diabetes.
 
@@ -81,13 +81,13 @@ Five studies in over 4,000 patients showed that Ozempic lowered levels of HbA1c 
 
 A further study in over 3,000 diabetes patients at high risk of heart problems showed that overall, heart attack, stroke or death occurred less frequently in patients treated with Ozempic (6.6%) than with placebo (8.9%). When looking at the three 'events' separately, fewer patients taking Ozempic had a heart attack or stroke, but rates of death from heart problems were similar in the two groups.
 
-## What are the risks associated with Ozempic?
+### What are the risks associated with Ozempic?
 
 The most common side effects with Ozempic (which may affect more than 1 in 10 people) include problems with the digestive system, such as diarrhoea, vomiting and nausea (feeling sick). These are mild or moderate in severity and of short duration. Serious worsening of diabetic retinopathy (damage to the retina, the light sensitive membrane at the back of the eye) is common (it may affect up to 1 in 10 people).
 
 For the full list of all side effects and restrictions with Ozempic, see the package leaflet.
 
-## Why is Ozempic approved?
+### Why is Ozempic approved?
 
 Ozempic was shown to be effective at controlling blood glucose levels. Treatment with Ozempic also led to weight loss, which is considered beneficial in patients with diabetes. Ozempic was also shown to be effective at reducing the occurrence of serious health complications associated with diabetes such as heart attack and stroke.
 
@@ -95,11 +95,11 @@ Regarding safety, this was considered in line with that of other medicines of th
 
 The European Medicines Agency concluded that the benefits of Ozempic seen in studies outweighed its risk and recommended it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ozempic?
+### What measures are being taken to ensure the safe and effective use of Ozempic?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ozempic have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Ozempic
+### Other information about Ozempic
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Ozempic on 8 February 2018.
 
@@ -113,7 +113,7 @@ English (EN) (76.14 KB - PDF)
 
 [View](/en/documents/overview/ozempic-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-449)
+[Other languages (22)](#file-language-dropdown-424)
 
 български (BG) (103.55 KB - PDF)
 
@@ -145,7 +145,7 @@ Deutsch (DE) (75.85 KB - PDF)
 
 [View](/de/documents/overview/ozempic-epar-summary-public_de.pdf)
 
-eesti keel (ET) (74.46 KB - PDF)
+eesti (ET) (74.46 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 21/02/2018
 
@@ -175,13 +175,13 @@ italiano (IT) (75.96 KB - PDF)
 
 [View](/it/documents/overview/ozempic-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (98.31 KB - PDF)
+latviešu (LV) (98.31 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 21/02/2018
 
 [View](/lv/documents/overview/ozempic-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (99.97 KB - PDF)
+lietuvių (LT) (99.97 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 21/02/2018
 
@@ -235,7 +235,7 @@ slovenščina (SL) (95.11 KB - PDF)
 
 [View](/sl/documents/overview/ozempic-epar-summary-public_sl.pdf)
 
-Suomi (FI) (73.98 KB - PDF)
+suomi (FI) (73.98 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 21/02/2018
 
@@ -259,167 +259,168 @@ English (EN) (2.58 MB - PDF)
 
 Ozempic : EPAR - Product information
 
-English (EN) (1.16 MB - PDF)
+English (EN) (1.32 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/en/documents/product-information/ozempic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-951)
 
-български (BG) (1.4 MB - PDF)
+български (BG) (1.6 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/bg/documents/product-information/ozempic-epar-product-information_bg.pdf)
 
-español (ES) (1.23 MB - PDF)
+español (ES) (1.33 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/es/documents/product-information/ozempic-epar-product-information_es.pdf)
 
-čeština (CS) (1.39 MB - PDF)
+čeština (CS) (1.56 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/cs/documents/product-information/ozempic-epar-product-information_cs.pdf)
 
-dansk (DA) (1.2 MB - PDF)
+dansk (DA) (1.36 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/da/documents/product-information/ozempic-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.22 MB - PDF)
+Deutsch (DE) (1.39 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/de/documents/product-information/ozempic-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.14 MB - PDF)
+eesti (ET) (1.27 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/et/documents/product-information/ozempic-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.51 MB - PDF)
+ελληνικά (EL) (1.72 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/el/documents/product-information/ozempic-epar-product-information_el.pdf)
 
-français (FR) (1.24 MB - PDF)
+français (FR) (1.41 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/fr/documents/product-information/ozempic-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.36 MB - PDF)
+hrvatski (HR) (1.55 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/hr/documents/product-information/ozempic-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.16 MB - PDF)
+italiano (IT) (1.29 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
-
-[View](/is/documents/product-information/ozempic-epar-product-information_is.pdf)
-
-italiano (IT) (1.13 MB - PDF)
-
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/it/documents/product-information/ozempic-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.35 MB - PDF)
+latviešu (LV) (1.46 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/lv/documents/product-information/ozempic-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.35 MB - PDF)
+lietuvių (LT) (1.49 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/lt/documents/product-information/ozempic-epar-product-information_lt.pdf)
 
-magyar (HU) (1.32 MB - PDF)
+magyar (HU) (1.5 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/hu/documents/product-information/ozempic-epar-product-information_hu.pdf)
 
-Malti (MT) (1.42 MB - PDF)
+Malti (MT) (1.56 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/mt/documents/product-information/ozempic-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.24 MB - PDF)
+Nederlands (NL) (1.41 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/nl/documents/product-information/ozempic-epar-product-information_nl.pdf)
 
-norsk (NO) (1.1 MB - PDF)
+polski (PL) (1.66 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
-
-[View](/no/documents/product-information/ozempic-epar-product-information_no.pdf)
-
-polski (PL) (1.48 MB - PDF)
-
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/pl/documents/product-information/ozempic-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (1.32 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/pt/documents/product-information/ozempic-epar-product-information_pt.pdf)
 
-română (RO) (1.38 MB - PDF)
+română (RO) (1.51 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/ro/documents/product-information/ozempic-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.27 MB - PDF)
+slovenčina (SK) (1.41 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/sk/documents/product-information/ozempic-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.38 MB - PDF)
+slovenščina (SL) (1.56 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/sl/documents/product-information/ozempic-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.26 MB - PDF)
+suomi (FI) (1.43 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/fi/documents/product-information/ozempic-epar-product-information_fi.pdf)
 
-svenska (SV) (1.2 MB - PDF)
+svenska (SV) (1.38 MB - PDF)
 
-**First published:** 21/02/2018 **Last updated:** 22/04/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
 
 [View](/sv/documents/product-information/ozempic-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000295392
+Íslenska (IS) (1.33 MB - PDF)
 
-26/03/2026
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
+
+[View](/is/documents/product-information/ozempic-epar-product-information_is.pdf)
+
+norsk (NO) (1.26 MB - PDF)
+
+**First published:** 21/02/2018 **Last updated:** 10/07/2026
+
+[View](/no/documents/product-information/ozempic-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000327236
+
+21/05/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +438,7 @@ English (EN) (27.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-172)
+[Other languages (24)](#file-language-dropdown-12)
 
 български (BG) (57.66 KB - PDF)
 
@@ -469,7 +470,7 @@ Deutsch (DE) (27.32 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (25.29 KB - PDF)
+eesti (ET) (25.29 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
@@ -493,25 +494,19 @@ hrvatski (HR) (47.64 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (26.62 KB - PDF)
-
-**First published:** 21/02/2018 **Last updated:** 09/07/2025
-
-[View](/is/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (28.42 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
 [View](/it/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (48.3 KB - PDF)
+latviešu (LV) (48.3 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
 [View](/lv/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (47.48 KB - PDF)
+lietuvių (LT) (47.48 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
@@ -534,12 +529,6 @@ Nederlands (NL) (26.73 KB - PDF)
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
 [View](/nl/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (25.04 KB - PDF)
-
-**First published:** 21/02/2018 **Last updated:** 09/07/2025
-
-[View](/no/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.18 KB - PDF)
 
@@ -571,7 +560,7 @@ slovenščina (SL) (50.73 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (25.78 KB - PDF)
+suomi (FI) (25.78 KB - PDF)
 
 **First published:** 21/02/2018 **Last updated:** 09/07/2025
 
@@ -583,27 +572,30 @@ svenska (SV) (27.25 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (26.62 KB - PDF)
+
+**First published:** 21/02/2018 **Last updated:** 09/07/2025
+
+[View](/is/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (25.04 KB - PDF)
+
+**First published:** 21/02/2018 **Last updated:** 09/07/2025
+
+[View](/no/documents/all-authorised-presentations/ozempic-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ozempic
-
-Active substance
-
-semaglutide
-
-International non-proprietary name (INN) or common name
-
-semaglutide
-
-Therapeutic area (MeSH)
-
-Diabetes Mellitus
-
-Anatomical therapeutic chemical (ATC) code
-
-A10BJ06
+- **Name of medicine**
+    - Ozempic
+- **Active substance**
+    - semaglutide
+- **International non-proprietary name (INN) or common name**
+    - semaglutide
+- **Therapeutic area (MeSH)**
+    - Diabetes Mellitus
+- **Anatomical therapeutic chemical (ATC) code**
+    - A10BJ06
 
 ### Pharmacotherapeutic group
 
@@ -620,27 +612,16 @@ For study results with respect to combinations, effects on glycaemic control and
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004174
-
-Marketing authorisation holder
-
-Novo Nordisk A/S
-
-Novo Alle 1
-
-Opinion adopted
-
-09/11/2017
-
-Marketing authorisation issued
-
-08/02/2018
-
-Revision
-
-21
+- **EMA product number**
+    - EMEA/H/C/004174
+- **Marketing authorisation holder**
+    - Novo Nordisk A/S Novo Alle 1  2880 Bagsvaerd  Denmark
+- **Opinion adopted**
+    - 09/11/2017
+- **Marketing authorisation issued**
+    - 08/02/2018
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -648,13 +629,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ozempic : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (188.27 KB - PDF)
+English (EN) (207.2 KB - PDF)
 
-**First published:** 13/02/2025 **Last updated:** 22/04/2026
+**First published:** 13/02/2025 **Last updated:** 10/07/2026
 
 [View](/en/documents/procedural-steps-after/ozempic-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -674,7 +655,7 @@ English (EN) (105.83 KB - PDF)
 
 **First published:** 03/05/2023
 
-[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-202205-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-202205-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ozempic-H-C-004174-X-0021 : EPAR - Assessment report - Variation
 
@@ -694,7 +675,7 @@ English (EN) (150.06 KB - PDF)
 
 **First published:** 28/04/2021
 
-[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-202005-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-202005-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ozempic-H-C-PSUSA-00010671-201911 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -704,7 +685,7 @@ English (EN) (120.95 KB - PDF)
 
 **First published:** 11/01/2021
 
-[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-201911-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-201911-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ozempic-H-C-PSUSA-00010671-201905 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -714,9 +695,9 @@ English (EN) (137.62 KB - PDF)
 
 **First published:** 07/04/2020
 
-[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-201905-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ozempic-h-c-psusa-00010671-201905-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ozempic : EPAR - Public assessment report
 
@@ -798,6 +779,7 @@ English (EN) (6.93 MB - DOCX)
 - [Ozempic - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ozempic-0)
 - [Ozempic / Victoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ozempic-victoza)
 - [Ozempic / Victoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ozempic-victoza-0)
+- [NN2211-8841 Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001037)
 - [Effect of Glucagon-Like Peptide-1 Receptor Agonists on the Risk of Non-Arteritic Anterior Ischemic Optic Neuropathy Among Older Adults with Type 2 Diabetes: A US. Medicare Active-Comparator New-User Cohort Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000966)
 - [GLUCAGON-LIKE PEPTIDE 1 RECEPTOR AGONISTS AND OBSTRUCTIVE SLEEP APNEA RISK USING MEDICARE DATA 2007 - 2019 - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000965)
 - [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
@@ -805,6 +787,6 @@ English (EN) (6.93 MB - DOCX)
 
 **This page was last updated on**
 
-22/04/2026
+10/07/2026
 
 ## Share this page

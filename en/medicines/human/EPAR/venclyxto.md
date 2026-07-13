@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-07-08 16:00:00
+document_datetime: 2026-07-10 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/venclyxto.html
 document_name: venclyxto.html
 version: success
-processing_time: 0.2094822
-conversion_datetime: 2026-07-10 22:35:43.597078
+processing_time: 0.1989613
+conversion_datetime: 2026-07-13 12:32:52.129392
 docling_version:
   docling-serve: 1.26.0
   docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
+  docling: 2.112.0
+  docling-core: 2.87.0
   docling-ibm-models: 3.13.3
   docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
@@ -155,7 +155,7 @@ English (EN) (182.29 KB - PDF)
 
 [View](/en/documents/overview/venclyxto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-934)
+[Other languages (22)](#file-language-dropdown-676)
 
 български (BG) (194.16 KB - PDF)
 
@@ -307,7 +307,7 @@ English (EN) (1008.82 KB - PDF)
 
 [View](/en/documents/product-information/venclyxto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-238)
+[Other languages (24)](#file-language-dropdown-377)
 
 български (BG) (1.19 MB - PDF)
 
@@ -480,7 +480,7 @@ English (EN) (25.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/venclyxto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-173)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (32.04 KB - PDF)
 
@@ -669,7 +669,7 @@ Venclyxto in combination with a hypomethylating agent is indicated for the treat
 - **Marketing authorisation issued**
     - 04/12/2016
 - **Revision**
-    - 22
+    - 23
 
 ## Assessment history
 
@@ -694,6 +694,16 @@ English (EN) (286.75 KB - PDF)
 **First published:** 17/07/2017 **Last updated:** 22/10/2025
 
 [View](/en/documents/procedural-steps-after/venclyxto-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Venclyxto-PAM-0000338556 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3259843
+
+English (EN) (243.72 KB - PDF)
+
+**First published:** 10/07/2026
+
+[View](/en/documents/variation-report/venclyxto-pam-0000338556-epar-assessment-report_en.pdf)
 
 Venclyxto-VR-0000322240 : EPAR - Assessment report - Variation
 
@@ -823,7 +833,7 @@ English (EN) (18.14 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/venclyxto-epar-conclusions-granting-conditional-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-995)
 
 български (BG) (110.86 KB - PDF)
 
@@ -1029,7 +1039,7 @@ English (EN) (1.44 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/venclyxto-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-462)
 
 български (BG) (1.06 MB - DOCX)
 
@@ -1195,6 +1205,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-08/07/2026
+10/07/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 15:45:28
-document_pages: 107
+document_datetime: 2026-07-10 11:19:32
+document_pages: 108
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olazax-epar-product-information_en.pdf
 document_name: olazax-epar-product-information_en.pdf
 version: success
-processing_time: 28.5658585
-conversion_datetime: 2026-05-16 12:18:58.582708
+processing_time: 26.476133
+conversion_datetime: 2026-07-13 12:47:14.947574
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -154,11 +154,11 @@ Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting 
 
 ## QT interval
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 ms ec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 ## Thromboembolism
 
-Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+Temporal association of olanzapine treatment and venous thromboembolism has been reported unco mmonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
 ## General CNS activity
 
@@ -264,7 +264,7 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-The most frequently (se en in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
+The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -288,23 +288,23 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 <div style=\"page-break-after: always\"></div>
 
-| Orthostatic hypotension 10                        |                                                                                                                             | Thromboembolis m(including pulmonary embolism and deep vein thrombosis) (see section 4.4)   |                                                                            |                                                                 |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders 9 | Respiratory, thoracic and mediastinal disorders 9                                                                           | Respiratory, thoracic and mediastinal disorders 9                                           | Respiratory, thoracic and mediastinal disorders 9                          | Respiratory, thoracic and mediastinal disorders 9               |
-| Epistaxis Gastrointestinal disorders              | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                        | Epistaxis Gastrointestinal disorders                                       | Epistaxis Gastrointestinal disorders                            |
-|                                                   | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                           | Pancreatitis 11                                                            |                                                                 |
-| Hepatobiliary disorders                           | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                     | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                         |
-|                                                   | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                             | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                                 |
-| Skin and subcutaneous tissue disorders            | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                      | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                          |
-|                                                   | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                          |                                                                            | Drug Reaction with Eosinophi lia and Systemic Symptom s (DRESS) |
-| Musculoskeletal and connective tissue disorders   | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                             | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders                 |
-|                                                   | Arthralgia 9                                                                                                                |                                                                                             | Rhabdomyolysis 11                                                          |                                                                 |
-| Renal and urinary disorders                       | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                 | Renal and urinary disorders                                                | Renal and urinary disorders                                     |
-|                                                   |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                               |                                                                            |                                                                 |
-| Pregnancy, puerperium and perinatal conditions    | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                              | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                  |
-|                                                   |                                                                                                                             |                                                                                             |                                                                            | Drug withdraw al syndrome neonatal (see section 4.6)            |
-| Reproductive system and breast disorders          | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                    | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                        |
-|                                                   | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in                                               | Priapism 12                                                                |                                                                 |
+| Orthostatic hypotension 10                        |                                                                                                                             | Thromboembolis m (including pulmonary embolism and deep vein thrombosis) (see section 4.4)   |                                                                            |                                                                 |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders 9 | Respiratory, thoracic and mediastinal disorders 9                                                                           | Respiratory, thoracic and mediastinal disorders 9                                            | Respiratory, thoracic and mediastinal disorders 9                          | Respiratory, thoracic and mediastinal disorders 9               |
+| Epistaxis Gastrointestinal disorders              | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                         | Epistaxis Gastrointestinal disorders                                       | Epistaxis Gastrointestinal disorders                            |
+|                                                   | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                            | Pancreatitis 11                                                            |                                                                 |
+| Hepatobiliary disorders                           | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                      | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                         |
+|                                                   | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                              | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                                 |
+| Skin and subcutaneous tissue disorders            | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                       | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                          |
+|                                                   | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                           |                                                                            | Drug Reaction with Eosinophi lia and Systemic Symptom s (DRESS) |
+| Musculoskeletal and connective tissue disorders   | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                              | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders                 |
+|                                                   | Arthralgia 9                                                                                                                |                                                                                              | Rhabdomyolysis 11                                                          |                                                                 |
+| Renal and urinary disorders                       | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                  | Renal and urinary disorders                                                | Renal and urinary disorders                                     |
+|                                                   |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                                |                                                                            |                                                                 |
+| Pregnancy, puerperium and perinatal conditions    | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                               | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                  |
+|                                                   |                                                                                                                             |                                                                                              |                                                                            | Drug withdraw al syndrome neonatal (see section 4.6)            |
+| Reproductive system and breast disorders          | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                     | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                        |
+|                                                   | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in                                                | Priapism 12                                                                |                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -323,7 +323,7 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 -&lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
-5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l ) were very common.
 
 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
@@ -363,7 +363,7 @@ The following table summarises the adverse reactions reported with a greater fre
 
 Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with longterm exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very co mmon (≥ 1/ 10), common (≥1/100 to &lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥1/100 to &lt; 1/10).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -526,7 +526,7 @@ Store below 30ºC
 
 ## 6.5 Nature and contents of container
 
-Aluminium/aluminium blisters in cartons of 28, 56 tablets per carton.
+Aluminium/aluminium blisters in cartons of 28, 30, 35, 42, 56, 70, 98 tablets per carton.
 
 Not all pack sizes may be marketed
 
@@ -542,7 +542,19 @@ Glenmark Pharmaceuticals s.r.o. Hvězdova 1716/2b, 140 78 Praha 4 Czech Republic
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/597/001 EU/1/09/597/006
+EU/1/09/597/001
+
+EU/1/09/597/011
+
+EU/1/09/597/012
+
+EU/1/09/597/013
+
+EU/1/09/597/006
+
+EU/1/09/597/014
+
+EU/1/09/597/015
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -555,8 +567,6 @@ Date of renewal: 22.08.2014
 {MM/YYYY}
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA) http://www.emea.europa.eu
-
-17
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1260,7 +1270,7 @@ Neutropenia has been reported commonly when olanzapine and valproate are used co
 
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and &lt; 0.1%) when olanzapine is stoppe d abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and &lt; 0.1%) when olanzapine is stopped abruptly.
 
 ## QT interval
 
@@ -1400,22 +1410,22 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 <div style=\"page-break-after: always\"></div>
 
-| Orthostatic hypotension 10                                             |                                                                                                                             | Thromboembolis m(including pulmonary embolism and deep vein thrombosis) (see section 4.4)   |                                                                            |                                                                        |
-|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders                        | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                             | Respiratory, thoracic and mediastinal disorders                            | Respiratory, thoracic and mediastinal disorders                        |
-| Epistaxis Gastrointestinal disorders                                   | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                        | Epistaxis Gastrointestinal disorders                                       | Epistaxis Gastrointestinal disorders                                   |
-|                                                                        | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                           | Pancreatitis 11                                                            |                                                                        |
-| Hepatobiliary disorders                                                | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                     | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                                |
-|                                                                        | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                             | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                                        |
-| Skin and subcutaneous tissue disorders                                 | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                      | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                                 |
-|                                                                        | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                          |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)          |
-| Musculoskeletal and connective tissue disorders                        | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                             | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders                        |
-|                                                                        | Arthralgia 9                                                                                                                |                                                                                             | Rhabdomyolysis 11                                                          |                                                                        |
-| Renal and urinary disorders                                            | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                 | Renal and urinary disorders                                                | Renal and urinary disorders                                            |
-|                                                                        | puerperium and perinatal                                                                                                    | conditions                                                                                  |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)                    |
-| Reproductive system and breast disorders                               | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                    | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                               |
-|                                                                        | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/br east enlargement     | Priapism 12                                                                |                                                                        |
-| in males General disorders and administration site conditions Asthenia | in males General disorders and administration site conditions Asthenia                                                      | in males General disorders and administration site conditions Asthenia                      | in males General disorders and administration site conditions Asthenia     | in males General disorders and administration site conditions Asthenia |
+| Orthostatic hypotension 10                                             |                                                                                                                             | Thromboembolis m (including pulmonary embolism and deep vein thrombosis) (see section 4.4)   |                                                                            |                                                                        |
+|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders                        | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                              | Respiratory, thoracic and mediastinal disorders                            | Respiratory, thoracic and mediastinal disorders                        |
+| Epistaxis Gastrointestinal disorders                                   | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                         | Epistaxis Gastrointestinal disorders                                       | Epistaxis Gastrointestinal disorders                                   |
+|                                                                        | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                            | Pancreatitis 11                                                            |                                                                        |
+| Hepatobiliary disorders                                                | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                      | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                                |
+|                                                                        | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                              | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                                        |
+| Skin and subcutaneous tissue disorders                                 | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                       | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                                 |
+|                                                                        | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                           |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)          |
+| Musculoskeletal and connective tissue disorders                        | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                              | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders                        |
+|                                                                        | Arthralgia 9                                                                                                                |                                                                                              | Rhabdomyolysis 11                                                          |                                                                        |
+| Renal and urinary disorders                                            | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                  | Renal and urinary disorders                                                | Renal and urinary disorders                                            |
+|                                                                        | puerperium and perinatal                                                                                                    | conditions                                                                                   |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)                    |
+| Reproductive system and breast disorders                               | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                     | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                               |
+|                                                                        | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/br east enlargement      | Priapism 12                                                                |                                                                        |
+| in males General disorders and administration site conditions Asthenia | in males General disorders and administration site conditions Asthenia                                                      | in males General disorders and administration site conditions Asthenia                       | in males General disorders and administration site conditions Asthenia     | in males General disorders and administration site conditions Asthenia |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1653,7 +1663,7 @@ Store below 30ºC
 
 ## 6.5 Nature and contents of container
 
-Aluminium/aluminium blisters in cartons of 28, 56 tablets per carton
+Aluminium/aluminium blisters in cartons of 28, 30, 35, 42, 56, 70, 98 tablets per carton
 
 Not all pack sizes may be marketed
 
@@ -1669,7 +1679,9 @@ Glenmark Pharmaceuticals s.r.o. Hvězdova 1716/2b, 140 78 Praha 4 Czech Republic
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/597/003 EU/1/09/597/008
+EU/1/09/597/003 EU/1/09/597/016 EU/1/09/597/017 EU/1/09/597/018 EU/1/09/597/008 EU/1/09/597/019
+
+EU/1/09/597/020
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1682,8 +1694,6 @@ Date of renewal: 22.08.2014
 {MM/YYYY}
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA) http://www.emea.europa.eu
-
-49
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1931,13 +1941,13 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-The most freque ntly (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
+The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1/1 00 to &lt; 1/10 ), uncommon (≥1/1,000 to &lt; 1/100 ), rare (≥ 1/10,000 to &lt; 1/1,000 ), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1/100 to &lt; 1/10 ), uncommon (≥1/1,000 to &lt; 1/100 ), rare (≥ 1/10,000 to &lt; 1/1,000 ), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
 
 | Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
@@ -2505,7 +2515,7 @@ The following table lists the adverse reactions and laboratory investigations ob
 | Cardiac disorders                        | Cardiac disorders                                                                                                        |                                                                                                                                                                                                                           |                                                                                    |                                          |
 |                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillat ion, sudden death (see section 4.4) 11           |                                          |
 | Vascular disorders                       | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 |                                          |
-| Orthostatic hypotension 10               |                                                                                                                          | Thromboembolis m(including pulmonary embolism and deep vein thrombosis) (see                                                                                                                                              |                                                                                    |                                          |
+| Orthostatic hypotension 10               |                                                                                                                          | Thromboembolis m (including pulmonary embolism and deep vein thrombosis) (see                                                                                                                                             |                                                                                    |                                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2856,11 +2866,9 @@ Contains aspartame. See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Tablet
+Tablet 28 tablets 30 tablets 35 tablets 42 tablets 56 tablets 70 tablets
 
-28 tablets
-
-56 tablets
+98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2874,17 +2882,17 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store below 30 ° C
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2896,7 +2904,17 @@ Glenmark Pharmaceuticals s.r.o. Hvězdova 1716/2b, 140 78 Praha 4 Czech Republic
 
 EU/1/09/507/001
 
+EU/1/09/597/011
+
+EU/1/09/597/012
+
+EU/1/09/597/013
+
 EU/1/09/597/006
+
+EU/1/09/597/014
+
+EU/1/09/597/015
 
 ## 13. BATCH NUMBER
 
@@ -2918,27 +2936,25 @@ Olazax 5 mg tablets
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+<div style=\"page-break-after: always\"></div>
 
-SN
-
-NN
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Aluminium blisters
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Aluminium blisters                                    |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olazax 5 mg tablets
 
 Olanzapine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Glenmark Pharmaceuticals s.r.o.
 
@@ -3027,7 +3043,7 @@ Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Olazax 7.5 mg tablets
 
@@ -3043,36 +3059,50 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Aluminium blisters                                    |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Aluminium blisters
 
-<div style=\"page-break-after: always\"></div>
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olazax 7.5 mg tablets
 
 Olanzapine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Glenmark Pharmaceuticals s.r.o.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3098,7 +3128,17 @@ Tablet
 
 28 tablets
 
+30 tablets
+
+35 tablets
+
+42 tablets
+
 56 tablets
+
+70 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3112,13 +3152,15 @@ Keep out of the sight and reach  of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
 <div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store below 30 ° C
 
@@ -3132,7 +3174,17 @@ Glenmark Pharmaceuticals s.r.o. Hvězdova 1716/2b, 140 78 Praha 4 Czech Republic
 
 EU/1/09/597/003
 
+EU/1/09/597/016
+
+EU/1/09/597/017
+
+EU/1/09/597/018
+
 EU/1/09/597/008
+
+EU/1/09/597/019
+
+EU/1/09/597/020
 
 ## 13. BATCH NUMBER
 
@@ -3158,25 +3210,23 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Aluminium blisters                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Aluminium blisters                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olazax 10 mg tablets
 
 Olanzapine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Glenmark Pharmaceuticals s.r.o.
 
@@ -3192,8 +3242,6 @@ BN
 
 | 5.   | OTHER   |
 |------|---------|
-
-94
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3281,36 +3329,50 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Aluminium blisters                                    |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Aluminium blisters
 
-<div style=\"page-break-after: always\"></div>
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olazax 15 mg tablets
 
 Olanzapine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Glenmark Pharmaceuticals s.r.o.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3382,7 +3444,7 @@ BN
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3400,21 +3462,21 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Aluminium blisters
-
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Aluminium blisters                                    |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olazax 20 mg tablets
 
 Olanzapine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Glenmark Pharmaceuticals s.r.o.
 
@@ -3435,21 +3497,11 @@ BN
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Olazax 5 mg tablets
+## Package leaflet: Information for the user
 
-Olazax 7.5 mg tablets
-
-Olazax 10 mg tablets
-
-Olazax 15 mg tablets
-
-Olazax 20 mg tablets
-
-Olanzapine
+Olazax 5 mg tablets Olazax 7.5 mg tablets Olazax 10 mg tablets Olazax 15 mg tablets Olazax 20 mg tablets Olanzapine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3636,7 +3688,7 @@ yellow coloured circular flat bevelled edge tablets with 'C' debossed on one sid
 
 Olazax 10 mg:
 
-yellow coloured circular flat bevelled edge tablets with 'OL' debossed on one side and  'D' debossed on other side.
+yellow coloured circular flat bevelled edge tablets with 'OL' debossed on one side and 'D' debossed on other side.
 
 Olazax 15 mg:
 
@@ -3644,9 +3696,11 @@ yellow coloured circular flat bevelled edge tablets with 'OL' debossed on one si
 
 Olazax 20 mg:
 
-yellow coloured circular flat bevelled edge tablets  with 'OL' debossed on one side and 'F' debossed on other side.
+yellow coloured circular flat bevelled edge tablets with 'OL' debossed on one side and 'F' debossed on other side.
 
-Olazax, 5 mg, 7.5 mg, 10 mg, 15 mg, 20 mg are available in aluminium foil blisters of 28 or 56 tablets
+Olazax, 5 mg, 10 mg are available in aluminium foil blisters of 28, 30, 35, 42, 56, 70, 98 tablets
+
+Olazax, 7.5 mg, 15 mg, 20 mg are available in aluminium foil blisters of 28 or 56 tablets
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -3660,37 +3714,33 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
-Glenmark Pharmaceuticals s.r.o, Czechia
-
-Tel: +420 227 629 511
-
 Glenmark Pharmaceuticals s.r.o, Czechia
 
 Tel: +420 227 629 511
 
 ## България
 
-Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
+Glenmark Pharmaceuticals s.r.o, Czechia
 
-## Luxembourg/Luxemburg
+Tel: +420 227 629 511
+
+## Lietuva
 
 Glenmark Pharmaceuticals s.r.o, Czechia
 
 Tel: +420 227 629 511
 
-## Česká republika
-
-Glenmark Pharmaceuticals s.r.o, Czechia
-
-Magyarország
+Luxembourg/Luxemburg
 
 Glenmark Pharmaceuticals s.r.o, Czechia
 
 Tel: +420 227 629 511
 
 <div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
 
 ## Danmark
 
@@ -3746,7 +3796,9 @@ Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
 
 Detailed information on this medicine is available on the European Medicines Agency (EMA) website: http://www.emae.europa.eu
 
-Tel: +420 227 629 511
+## Magyarország
+
+Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
 
 ## Malta
 
@@ -3768,9 +3820,7 @@ Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
 
 ## Polska
 
-Neuraxpharm Polska Sp. z.o.o.
-
-Tel.: +48 783 423 453
+Neuraxpharm Polska Sp. z.o.o. Tel.: +48 783 423 453
 
 ## Portugal
 
@@ -3794,6 +3844,10 @@ Glenmark Pharmaceuticals Nordic AB Tel: + 46 (0)40 35 48 10
 
 ## Sverige
 
-Glenmark Pharmaceuticals Nordic AB Tel: + 46 (0)40 35 48 10
+Glenmark Pharmaceuticals Nordic AB
 
-United Kingdom (Northern Ireland) Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511
+Tel: + 46 (0)40 35 48 10
+
+## United Kingdom (Northern Ireland)
+
+Glenmark Pharmaceuticals s.r.o, Czechia Tel: +420 227 629 511

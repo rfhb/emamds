@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-09 16:02:00
+document_datetime: 2026-07-10 15:51:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neofordex.html
 document_name: neofordex.html
 version: success
-processing_time: 0.3063543
-conversion_datetime: 2026-06-10 13:35:35.481955
+processing_time: 0.1775318
+conversion_datetime: 2026-07-13 12:34:19.157029
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.112.0
+  docling-core: 2.87.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Neofordex
-
 # Neofordex
 
 [RSS](/en/individual-human-medicine.xml/66069)
@@ -114,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Neofordex](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-87495)
 - [More information on Neofordex](#more-information-on-neofordex-604)
 - [More information on Neofordex](#related-medicines)
 - [Topics](#topics)
@@ -186,7 +111,7 @@ English (EN) (74.94 KB - PDF)
 
 [View](/en/documents/overview/neofordex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-709)
+[Other languages (22)](#file-language-dropdown-180)
 
 български (BG) (100.35 KB - PDF)
 
@@ -334,167 +259,168 @@ English (EN) (90.12 KB - PDF)
 
 Neofordex : EPAR - Product Information
 
-English (EN) (336.03 KB - PDF)
+English (EN) (371.89 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/en/documents/product-information/neofordex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-446)
+[Other languages (24)](#file-language-dropdown-819)
 
-български (BG) (396.96 KB - PDF)
+български (BG) (661.86 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/bg/documents/product-information/neofordex-epar-product-information_bg.pdf)
 
-español (ES) (293.44 KB - PDF)
+español (ES) (312.13 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/es/documents/product-information/neofordex-epar-product-information_es.pdf)
 
-čeština (CS) (409.04 KB - PDF)
+čeština (CS) (625.47 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/cs/documents/product-information/neofordex-epar-product-information_cs.pdf)
 
-dansk (DA) (278.86 KB - PDF)
+dansk (DA) (316.34 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/da/documents/product-information/neofordex-epar-product-information_da.pdf)
 
-Deutsch (DE) (307.1 KB - PDF)
+Deutsch (DE) (338.02 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/de/documents/product-information/neofordex-epar-product-information_de.pdf)
 
-eesti (ET) (307.5 KB - PDF)
+eesti (ET) (335.12 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/et/documents/product-information/neofordex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (451 KB - PDF)
+ελληνικά (EL) (713.84 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/el/documents/product-information/neofordex-epar-product-information_el.pdf)
 
-français (FR) (313.32 KB - PDF)
+français (FR) (339.14 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/fr/documents/product-information/neofordex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (378.56 KB - PDF)
+hrvatski (HR) (543.62 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/hr/documents/product-information/neofordex-epar-product-information_hr.pdf)
 
-italiano (IT) (315.68 KB - PDF)
+italiano (IT) (346.38 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/it/documents/product-information/neofordex-epar-product-information_it.pdf)
 
-latviešu (LV) (370.83 KB - PDF)
+latviešu (LV) (587.05 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/lv/documents/product-information/neofordex-epar-product-information_lv.pdf)
 
-lietuvių (LT) (383.58 KB - PDF)
+lietuvių (LT) (619.3 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/lt/documents/product-information/neofordex-epar-product-information_lt.pdf)
 
-magyar (HU) (379.69 KB - PDF)
+magyar (HU) (506.14 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/hu/documents/product-information/neofordex-epar-product-information_hu.pdf)
 
-Malti (MT) (388.17 KB - PDF)
+Malti (MT) (611.21 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/mt/documents/product-information/neofordex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (294.79 KB - PDF)
+Nederlands (NL) (326.9 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/nl/documents/product-information/neofordex-epar-product-information_nl.pdf)
 
-polski (PL) (389.72 KB - PDF)
+polski (PL) (644.76 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/pl/documents/product-information/neofordex-epar-product-information_pl.pdf)
 
-português (PT) (319.62 KB - PDF)
+português (PT) (350.51 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/pt/documents/product-information/neofordex-epar-product-information_pt.pdf)
 
-română (RO) (414.24 KB - PDF)
+română (RO) (658.41 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/ro/documents/product-information/neofordex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (413.16 KB - PDF)
+slovenčina (SK) (607.91 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/sk/documents/product-information/neofordex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (403 KB - PDF)
+slovenščina (SL) (562.26 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/sl/documents/product-information/neofordex-epar-product-information_sl.pdf)
 
-suomi (FI) (312.72 KB - PDF)
+suomi (FI) (344.81 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/fi/documents/product-information/neofordex-epar-product-information_fi.pdf)
 
-svenska (SV) (322.12 KB - PDF)
+svenska (SV) (355.96 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/sv/documents/product-information/neofordex-epar-product-information_sv.pdf)
 
-Íslenska (IS) (278.19 KB - PDF)
+Íslenska (IS) (311.26 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/is/documents/product-information/neofordex-epar-product-information_is.pdf)
 
-norsk (NO) (275.77 KB - PDF)
+norsk (NO) (296.96 KB - PDF)
 
-**First published:** 01/04/2016 **Last updated:** 09/06/2026
+**First published:** 01/04/2016 **Last updated:** 10/07/2026
 
 [View](/no/documents/product-information/neofordex-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** N/0000350651
+**Latest procedure affecting product information:** VR/0000360192
 
-08/06/2026
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -512,7 +438,7 @@ English (EN) (17.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neofordex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-686)
 
 български (BG) (40.83 KB - PDF)
 
@@ -660,25 +586,16 @@ norsk (NO) (21.35 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Neofordex
-
-Active substance
-
-dexamethasone
-
-International non-proprietary name (INN) or common name
-
-dexamethasone
-
-Therapeutic area (MeSH)
-
-Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-H02AB02
+- **Name of medicine**
+    - Neofordex
+- **Active substance**
+    - dexamethasone
+- **International non-proprietary name (INN) or common name**
+    - dexamethasone
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - H02AB02
 
 ### Pharmacotherapeutic group
 
@@ -690,27 +607,16 @@ Treatment of multiple myeloma.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004071
-
-Marketing authorisation holder
-
-THERAVIA
-
-16 Rue Montrosier Neuilly-Sur-Seine 92200 FRANCE
-
-Opinion adopted
-
-17/12/2015
-
-Marketing authorisation issued
-
-16/03/2016
-
-Revision
-
-14
+- **EMA product number**
+    - EMEA/H/C/004071
+- **Marketing authorisation holder**
+    - THERAVIA 16 Rue Montrosier  Neuilly-Sur-Seine  92200  FRANCE
+- **Opinion adopted**
+    - 17/12/2015
+- **Marketing authorisation issued**
+    - 16/03/2016
+- **Revision**
+    - 15
 
 ## Assessment history
 
@@ -722,9 +628,9 @@ Collapse section
 
 Neofordex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.3 KB - PDF)
+English (EN) (133.71 KB - PDF)
 
-**First published:** 09/04/2026 **Last updated:** 09/06/2026
+**First published:** 09/04/2026 **Last updated:** 10/07/2026
 
 [View](/en/documents/procedural-steps-after/neofordex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -744,7 +650,7 @@ English (EN) (129.78 KB - PDF)
 
 **First published:** 29/07/2020
 
-[View](/en/documents/scientific-conclusion/neofordex-h-c-psusa-00010480-201909-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/neofordex-h-c-psusa-00010480-201909-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Neofordex-H-C-PSUSA-00010480-201809 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
@@ -754,7 +660,7 @@ English (EN) (70.77 KB - PDF)
 
 **First published:** 05/08/2019
 
-[View](/en/documents/scientific-conclusion/neofordex-h-c-psusa-00010480-201809-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/neofordex-h-c-psusa-00010480-201809-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -784,6 +690,164 @@ English (EN) (103.23 KB - PDF)
 
 18/12/2015
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Neofordex : EPAR - Product information - tracked changes
+
+English (EN) (164.82 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/en/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-709)
+
+български (BG) (117.89 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (263.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/es/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (329.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (290 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/da/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (281.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/de/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_de.doc)
+
+eesti (ET) (344.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/et/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (396 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/el/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (250 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (402 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_hr.doc)
+
+italiano (IT) (297.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/it/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_it.doc)
+
+latviešu (LV) (352 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių (LT) (325 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (350.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (345.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (309 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_nl.doc)
+
+polski (PL) (343 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_pl.doc)
+
+português (PT) (285 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (362.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (367 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (104.02 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (277 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_fi.doc)
+
+svenska (SV) (84.19 KB - DOCX)
+
+**First published:** 10/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (270.5 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/is/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_is.doc)
+
+norsk (NO) (288 KB - DOC)
+
+**First published:** 10/07/2026
+
+[View](/no/documents/product-information-tracked-changes/neofordex-epar-product-information-tracked-changes_no.doc)
+
 ## More information on Neofordex
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu310745) on 9 June 2010. Neofordex was withdrawn from the Community register of orphan medicinal products in January 2016 upon request of the marketing-authorisation holder at the time of the granting of a marketing authorisation.
@@ -798,6 +862,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-09/06/2026
+10/07/2026
 
 ## Share this page

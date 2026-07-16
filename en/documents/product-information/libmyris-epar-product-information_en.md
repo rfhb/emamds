@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-03-19 15:52:36
-document_pages: 208
+document_datetime: 2026-07-13 16:22:10
+document_pages: 206
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/libmyris-epar-product-information_en.pdf
 document_name: libmyris-epar-product-information_en.pdf
 version: success
-processing_time: 86.2215369
-conversion_datetime: 2026-03-25 12:39:06.984273
+processing_time: 70.137656
+conversion_datetime: 2026-07-16 13:33:56.653343
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -34,7 +32,7 @@ Libmyris 40 mg solution for injection in pre-filled syringe
 
 Each 0.4 ml single dose pre-filled syringe contains 40 mg adalimumab.
 
-Libmyris 40 mg solution for injection in pre-filled pen
+## Libmyris 40 mg solution for injection in pre-filled pen
 
 Each 0.4 ml single dose pre-filled pen contains 40 mg adalimumab.
 
@@ -67,11 +65,11 @@ Adalimumab has been shown to reduce the rate of progression of joint damage as m
 
 ## Juvenile idiopathic arthritis
 
-<div style=\"page-break-after: always\"></div>
-
 ## Polyarticular juvenile idiopathic arthritis
 
 Libmyris in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more DMARD. Libmyris can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Enthesitis-related arthritis
 
@@ -109,9 +107,9 @@ Libmyris is indicated for treatment of moderately to severely active Crohn's dis
 
 ## Paediatric Crohn's disease
 
-<div style=\"page-break-after: always\"></div>
-
 Libmyris is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ulcerative colitis
 
@@ -145,9 +143,9 @@ Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80
 
 The recommended dose of Libmyris for adult patients with rheumatoid arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection. Methotrexate should be continued during treatment with Libmyris.
 
-<div style=\"page-break-after: always\"></div>
-
 Glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesics can be continued during treatment with Libmyris. Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
+
+<div style=\"page-break-after: always\"></div>
 
 In monotherapy, some patients who experience a decrease in their response to Libmyris 40 mg every other week may benefit from an increase in dose to 40 mg adalimumab every week or 80 mg every other week.
 
@@ -181,9 +179,9 @@ Continued therapy beyond 12 weeks should be carefully reconsidered in a patient 
 
 Should treatment be interrupted, Libmyris 40 mg every week or 80 mg every other week may be reintroduced (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 The benefit and risk of continued long-term treatment should be periodically evaluated (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Crohn's disease
 
@@ -562,11 +560,9 @@ Libmyris may have a minor influence on the ability to drive and use machines. Ve
 
 ## Summary of the safety profile
 
-Adalimumab was studied in 9,506 patients in pivotal controlled and open-label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short-term and long standing disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (AS and axial spondyloarthritis without radiographic evidence of AS), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, HS and uveitis
+Adalimumab was studied in 9,506 patients in pivotal controlled and open-label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short-term and long standing disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (AS and axial spondyloarthritis without radiographic evidence of AS), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, HS and uveitis patients. The pivotal controlled studies involved 6,089 patients receiving adalimumab and 3,801 patients receiving placebo or active comparator during the controlled period.
 
 <div style=\"page-break-after: always\"></div>
-
-patients. The pivotal controlled studies involved 6,089 patients receiving adalimumab and 3,801 patients receiving placebo or active comparator during the controlled period.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking adalimumab and 5.4% for control treated patients.
 
@@ -713,11 +709,9 @@ Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in
 
 ## Autoantibodies
 
-Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I - V. In these trials, 11.9% of patients treated with adalimumab and 8.1% of placebo and active control - treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at Week 24. Two patients out of 3,441 treated with adalimumab in all rheumatoid arthritis and psoriatic arthritis studies developed clinical signs suggestive of new-onset lupus-like
+Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I - V. In these trials, 11.9% of patients treated with adalimumab and 8.1% of placebo and active control - treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at Week 24. Two patients out of 3,441 treated with adalimumab in all rheumatoid arthritis and psoriatic arthritis studies developed clinical signs suggestive of new-onset lupus-like syndrome. The patients improved following discontinuation of therapy. No patients developed lupus nephritis or central nervous system symptoms.
 
 <div style=\"page-break-after: always\"></div>
-
-syndrome. The patients improved following discontinuation of therapy. No patients developed lupus nephritis or central nervous system symptoms.
 
 ## Hepatobiliary events
 
@@ -779,11 +773,9 @@ A rapid decrease in CRP levels was also observed in patients with polyarticular 
 
 ## Rheumatoid arthritis
 
-Adalimumab was evaluated in over 3,000 patients in all rheumatoid arthritis clinical trials. The efficacy and safety of adalimumab were assessed in five randomised, double-blind and well-controlled
+Adalimumab was evaluated in over 3,000 patients in all rheumatoid arthritis clinical trials. The efficacy and safety of adalimumab were assessed in five randomised, double-blind and well-controlled studies. Some patients were treated for up to 120 months duration. Injection site pain of adalimumab 40 mg/0.4 ml was assessed in two randomised, active control, single-blind, two-period crossover studies.
 
 <div style=\"page-break-after: always\"></div>
-
-studies. Some patients were treated for up to 120 months duration. Injection site pain of adalimumab 40 mg/0.4 ml was assessed in two randomised, active control, single-blind, two-period crossover studies.
 
 RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti-rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week. Doses of 20, 40 or 80 mg of adalimumab or placebo were given every other week for 24 weeks.
 
@@ -817,7 +809,9 @@ Table 8: ACR responses in placebo-controlled trials (percent of patients)
 | 6 months        | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
 | 12 months       | NA                  | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks, and RA study III at 24 and 52 weeks b  40 mg adalimumab administered every other week
+a RA study I at 24 weeks, RA study II at 26 weeks, and RA study III at 24 and 52 weeks
+
+b  40 mg adalimumab administered every other week
 
 c  MTX = methotrexate
 
@@ -841,7 +835,7 @@ Table 9: ACR responses in RA study V (percent of patients)
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
 | Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.14  |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |             |                    |                        |             |             |             |
 | Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
 | Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
@@ -851,7 +845,9 @@ Table 9: ACR responses in RA study V (percent of patients)
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 In the open-label extension for RA study V, ACR response rates were maintained when followed for up to 10 years. Of 542 patients who were randomised to adalimumab 40 mg every other week, 170 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 154 patients (90.6%) had ACR 20 responses; 127 patients (74.7%) had ACR 50 responses; and 102 patients (60.0%) had ACR 70 responses.
 
@@ -870,8 +866,8 @@ Table 10: Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |              1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 11).
 
@@ -879,13 +875,15 @@ Table 11: Radiographic mean changes at Week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab/MTX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|--------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                    | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                      | < 0.001     |      0.0037 | 0.151       |
 
 a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -893,11 +891,9 @@ In the open-label extension of RA study V, the mean change from baseline at Year
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 <div style=\"page-break-after: always\"></div>
-
-assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through Week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -1056,11 +1052,9 @@ In subjects treated with adalimumab with no radiographic progression from baseli
 
 The safety and efficacy of adalimumab were studied in adult patients with chronic plaque psoriasis (≥ 10% BSA involvement and Psoriasis Area and Severity Index (PASI) ≥ 12 or ≥ 10) who were candidates for systemic therapy or phototherapy in randomised, double-blind studies. 73% of patients enroled in Psoriasis Studies I and II had received prior systemic therapy or phototherapy. The safety and efficacy of adalimumab were also studied in adult patients with moderate to severe chronic plaque psoriasis with concomitant hand and/or foot psoriasis who were candidates for systemic therapy in a randomised double-blind study (Psoriasis Study III).
 
-Psoriasis Study I (REVEAL) evaluated 1,212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week. Patients who maintained ≥ PASI 75 response at Week 33 and were originally randomised to active therapy in Period A, were rerandomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline
+Psoriasis Study I (REVEAL) evaluated 1,212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week. Patients who maintained ≥ PASI 75 response at Week 33 and were originally randomised to active therapy in Period A, were rerandomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician's Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
 
 <div style=\"page-break-after: always\"></div>
-
-Physician's Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
 
 Psoriasis Study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to Week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥ PASI 50 response at Week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt; 1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
 
@@ -1086,11 +1080,9 @@ Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enroled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
 
-A total of 233 PASI 75 responders at Week 16 and Week 33 received continuous adalimumab therapy for 52 weeks in Psoriasis Study I, and continued adalimumab in the open-label extension trial. PASI 75 and PGA of clear or minimal response rates in these patients were 74.7% and 59.0%, respectively,
+A total of 233 PASI 75 responders at Week 16 and Week 33 received continuous adalimumab therapy for 52 weeks in Psoriasis Study I, and continued adalimumab in the open-label extension trial. PASI 75 and PGA of clear or minimal response rates in these patients were 74.7% and 59.0%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks). In an analysis in which all patients who dropped out of the study for adverse events or lack of efficacy, or who dose-escalated, were considered non-responders, PASI 75 and PGA of clear or minimal response rates in these patients were 69.6% and 55.7%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks).
 
 <div style=\"page-break-after: always\"></div>
-
-after an additional 108 weeks of open-label therapy (total of 160 weeks). In an analysis in which all patients who dropped out of the study for adverse events or lack of efficacy, or who dose-escalated, were considered non-responders, PASI 75 and PGA of clear or minimal response rates in these patients were 69.6% and 55.7%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks).
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an openlabel extension study. During the withdrawal period, symptoms of psoriasis returned over time with a median time to relapse (decline to PGA 'moderate' or worse) of approximately 5 months. None of these patients experienced rebound during the withdrawal period. A total of 76.5% (218/285) of patients who entered the retreatment period had a response of PGA 'clear' or 'minimal' after 16 weeks of retreatment, irrespective of whether they relapsed during withdrawal (69.1%[123/178] and 88.8% [95/107] for patients who relapsed and who did not relapse during the withdrawal period, respectively). A similar safety profile was observed during retreatment as before withdrawal.
 
@@ -1139,15 +1131,15 @@ Table 19: Efficacy results at 12 weeks, HS studies I and II
 | Hidradenitis Suppurativa Clinical Response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%)*     | N=163 45 (27.6%) | N=163 96 (58.9%)***     |
 | ≥ 30% Reduction in Skin Pain b                       | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%)***     |
 
-* p &lt; 0.05, ***p &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* p &lt; 0.05, ***p &lt; 0.001, adalimumab versus placebo
+
+a Among all randomised patients.
 
 b Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
 
-Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in
+Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% vs 11.4%, respectively) and draining fistulas (30.0% vs 13.9%, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% vs 11.4%, respectively) and draining fistulas (30.0% vs 13.9%, respectively).
 
 Greater improvements at Week 12 from baseline compared to placebo were demonstrated in skinspecific health-related quality of life, as measured by the Dermatology Life Quality Index (DLQI; Studies HS-I and HS-II), patient global satisfaction with medicinal product treatment as measured by the Treatment Satisfaction Questionnaire - medicinal products (TSQM; Studies HS-I and HS-II), and physical health as measured by the physical component summary score of the SF-36 (Study HS-I).
 
@@ -1297,7 +1289,7 @@ Results from both studies demonstrated statistically significant reduction of th
 
 Table 24: Time to treatment failure in studies UV I and UV II
 
-| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% forHR a                                              | p value b                                                   |
+| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% for HR a                                             | p value b                                                   |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  |
 | Primary analysis (ITT)                                      |                                                             |                                                             |                                                             |                                                             |                                                             |                                                             |
@@ -1364,7 +1356,7 @@ Patients demonstrating a Paediatric ACR 30 response at Week 16 were eligible to 
 
 Table 26: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                      | MTX                  | WithoutMTX          | WithoutMTX        |
+| Stratum                                       | MTX                      | MTX                  | Without MTX         | Without MTX       |
 |-----------------------------------------------|--------------------------|----------------------|---------------------|-------------------|
 | Phase                                         |                          |                      |                     |                   |
 | OL-LI 16 weeks                                |                          |                      |                     |                   |
@@ -1412,11 +1404,9 @@ In the open label period of the study, PASI 75 and PGA clear or minimal response
 
 ## Adolescent hidradenitis suppurativa
 
-There are no clinical trials with adalimumab in adolescent patients with HS. Efficacy of adalimumab for the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and active substance effects are substantially similar to that of adults at the same
+There are no clinical trials with adalimumab in adolescent patients with HS. Efficacy of adalimumab for the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and active substance effects are substantially similar to that of adults at the same exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
 
 ## Paediatric Crohn's disease
 
@@ -1447,7 +1437,7 @@ Table 29: Paediatric CD study, PCDAI clinical remission and response
 | Clinical remission | 38.7%                               | 28.4%                          |       0.075 |
 | Clinical response  | 59.1%                               | 48.4%                          |       0.073 |
 | Week 52            |                                     |                                |             |
-| Clinical remission | 33.3%                               | 23.2%                          |       0.1   |
+| Clinical remission | 33.3%                               | 23.2%                          |       0.100 |
 | Clinical response  | 41.9%                               | 28.4%                          |       0.038 |
 
 Table 30:  Paediatric CD study, discontinuation of corticosteroids or immunomodulators and fistula remission
@@ -1456,7 +1446,7 @@ Table 30:  Paediatric CD study, discontinuation of corticosteroids or immunomodu
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
 | Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
-| Week 52                               | 69.7%                        | 60.5%                   |       0.42  |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
 | Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 
@@ -1676,7 +1666,7 @@ Libmyris 40 mg solution for injection in pre-filled syringe
 
 Pack sizes: 1, 2 or 6 pre-filled syringe(s) packed in a PVC/PE blister, with 1, 2 or 6 alcohol pad(s).
 
-## Libmyris 40 mg solution for injection in pre-filled pen
+Libmyris 40 mg solution for injection in pre-filled pen
 
 0.4 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a prefilled type I glass syringe with a fixed 29-gauge needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
 
@@ -1702,7 +1692,9 @@ EU/1/21/1590/003
 
 Libmyris 40 mg solution for injection in pre-filled pen
 
-EU/1/21/1590/004 EU/1/21/1590/005
+EU/1/21/1590/004
+
+EU/1/21/1590/005
 
 EU/1/21/1590/006
 
@@ -1710,13 +1702,13 @@ EU/1/21/1590/006
 
 Date of first authorisation: 12 November 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1759,9 +1751,9 @@ Adalimumab has been shown to reduce the rate of progression of joint damage as m
 
 Libmyris is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who are candidates for systemic therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hidradenitis suppurativa (HS)
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris is indicated for the treatment of active moderate to severe HS (acne inversa) in adults and adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
 
@@ -1795,9 +1787,9 @@ Libmyris treatment should be initiated and supervised by specialist physicians e
 
 After proper training in injection technique, patients may self-inject with Libmyris if their physician determines that it is appropriate and with medical follow-up as necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 During treatment with Libmyris, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80 mg pre-filled syringe and 80 mg pre-filled pen. Thus, it is not possible to administer Libmyris to patients that require less than a full 40 mg dose. If an alternate dose is required, other adalimumab products offering such an option should be used.
 
@@ -1829,11 +1821,11 @@ Continued therapy beyond 12 weeks should be carefully reconsidered in a patient 
 
 Should treatment be interrupted, Libmyris 40 mg every week or 80 mg every other week may be reintroduced (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 The benefit and risk of continued long-term treatment should be periodically evaluated (see section 5.1).
 
 ## Crohn's disease
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended Libmyris induction dose regimen for adult patients with moderately to severely active Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2. In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days) followed by, 80 mg at Week 2, can be used with the awareness that the risk for adverse events is higher during induction.
 
@@ -1867,11 +1859,11 @@ It is recommended that the benefit and risk of continued long-term treatment sho
 
 No dose adjustment is required.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and/or hepatic impairment
 
 Adalimumab has not been studied in these patient populations. No dose recommendations can be made.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1905,14 +1897,15 @@ The recommended dose of Libmyris for patients with Crohn's disease from 6 to 17 
 
 Table 1: Libmyris dose for paediatric patients with Crohn's disease
 
-| Patient weight   | Induction dose                                                                                                                                                                                                                                                          | Maintenance dose starting at Week 4*   |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| < 40 kg          | • 40 mg at Week 0 and 20 mg at Week 2* In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher use of the higher induction dose, the following dose may be • 80 mg at Week 0 and 40 mg at Week 2 | -                                      |
+| Patient weight   | Induction dose                                                                                                                                                                                                                                                                     | Maintenance dose starting at Week 4*   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| < 40 kg          | • 40 mg at Week 0 and 20 mg at Week 2* In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at Week 0 and 40 mg at Week 2 | -                                      |
+| ≥ 40 kg          | • 80 mg at Week 0 and 40 mg at Week 2                                                                                                                                                                                                                                              | 40 mg every other week                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| ≥ 40 kg   | • 80 mg at Week 0 and 40 mg at Week 2 In case there is a need for a more rapid response to the awareness that the risk for adverse events may   | 40 mg every other week   |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at Week 0 and 80 mg at Week 2   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 * Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80 mg pre-filled syringe and 80 mg pre-filled pen. Thus, it is not possible to administer Libmyris to patients that require less than a full 40 mg dose.
 
@@ -2018,11 +2011,9 @@ Patients should be instructed to seek medical advice if signs/symptoms suggestiv
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving adalimumab. These infections have not consistently been recognised in patients taking TNFantagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Libmyris should be promptly discontinued. Diagnosis and administration of empiric antifungal therapy in these patients
+For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Libmyris should be promptly discontinued. Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 <div style=\"page-break-after: always\"></div>
-
-should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 ## Hepatitis B reactivation
 
@@ -2422,11 +2413,9 @@ In RA study IV, the ACR 20 response of patients treated with adalimumab plus sta
 
 In RA studies I-IV, adalimumab-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
-In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with adalimumab and methotrexate led to faster and significantly greater ACR responses than
+In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with adalimumab and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 6).
 
 <div style=\"page-break-after: always\"></div>
-
-methotrexate monotherapy and adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 6).
 
 Table 6: ACR responses in RA study V (percent of patients)
 
@@ -2434,7 +2423,7 @@ Table 6: ACR responses in RA study V (percent of patients)
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
 | Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.14  |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |             |                    |                        |             |             |             |
 | Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
 | Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
@@ -2444,7 +2433,9 @@ Table 6: ACR responses in RA study V (percent of patients)
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 In the open-label extension for RA study V, ACR response rates were maintained when followed for up to 10 years. Of 542 patients who were randomised to adalimumab 40 mg every other week, 170 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 154 patients (90.6%) had ACR 20 responses; 127 patients (74.7%) had ACR 50 responses; and 102 patients (60.0%) had ACR 70 responses.
 
@@ -2463,14 +2454,16 @@ Table 7: Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |              1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 - a methotrexate
 
 b
 
-95% confidence intervals for the differences in change scores between methotrexate and adalimumab c Based on rank analysis
+95% confidence intervals for the differences in change scores between methotrexate and adalimumab
+
+c Based on rank analysis
 
 d Joint Space Narrowing
 
@@ -2480,13 +2473,15 @@ Table 8: Radiographic mean changes at Week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab/MTX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|--------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                    | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                      | < 0.001     |      0.0037 | 0.151       |
 
 - a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -2571,11 +2566,9 @@ The safety and efficacy of adalimumab were assessed in randomised, double-blind,
 
 Study HS-I (PIONEER I) evaluated 307 patients with 2 treatment periods. In Period A, patients received placebo or adalimumab at an initial dose of 160 mg at Week 0, 80 mg at Week 2, and 40 mg every week starting at Week 4 to Week 11. Concomitant antibiotic use was not allowed during the study. After 12 weeks of therapy, patients who had received adalimumab in Period A were rerandomised in Period B to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo from Week 12 to Week 35). Patients who had been randomised to placebo in Period A were assigned to receive adalimumab 40 mg every week in Period B.
 
-Study HS-II (PIONEER II) evaluated 326 patients with 2 treatment periods. In Period A, patients received placebo or adalimumab at an initial dose of 160 mg at Week 0 and 80 mg at Week 2 and 40 mg every week starting at Week 4 to Week 11. 19.3% of patients had continued baseline oral
+Study HS-II (PIONEER II) evaluated 326 patients with 2 treatment periods. In Period A, patients received placebo or adalimumab at an initial dose of 160 mg at Week 0 and 80 mg at Week 2 and 40 mg every week starting at Week 4 to Week 11. 19.3% of patients had continued baseline oral antibiotic therapy during the study. After 12 weeks of therapy, patients who had received adalimumab in Period A were re-randomised in Period B to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo from Week 12 to Week 35). Patients who had been randomised to placebo in Period A were assigned to receive placebo in Period B.
 
 <div style=\"page-break-after: always\"></div>
-
-antibiotic therapy during the study. After 12 weeks of therapy, patients who had received adalimumab in Period A were re-randomised in Period B to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo from Week 12 to Week 35). Patients who had been randomised to placebo in Period A were assigned to receive placebo in Period B.
 
 Patients participating in Studies HS-I and HS-II were eligible to enrol into an open-label extension study in which adalimumab 40 mg was administered every week. Mean exposure in all adalimumab population was 762 days. Throughout all 3 studies patients used topical antiseptic wash daily.
 
@@ -2595,7 +2588,9 @@ Table 12: Efficacy results at 12 weeks, HS studies I and II
 | ≥ 30% Reduction in Skin     | N=109        | N=122                   | N=111         | N=105                   |
 | Pain b                      | 27 (24.8%)   | 34 (27.9%)              | 23 (20.7%)    | 48 (45.7%) ***          |
 
-* p &lt; 0.05, *** p &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* p &lt; 0.05, *** p &lt; 0.001, adalimumab versus placebo
+
+a Among all randomised patients.
 
 b Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0-10; 0=no skin pain, 10=skin pain as bad as you can imagine.
 
@@ -2678,11 +2673,9 @@ In CD Study I and CD Study II, statistically significant improvement in the dise
 
 The safety and efficacy of multiple doses of adalimumab were assessed in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopy subscore of 2 to 3) in randomised, double-blind, placebo-controlled studies.
 
-In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at Weeks 0 and 2, 160 mg adalimumab at Week 0 followed by 80 mg at Week 2, or 80 mg adalimumab at
+In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at Weeks 0 and 2, 160 mg adalimumab at Week 0 followed by 80 mg at Week 2, or 80 mg adalimumab at Week 0 followed by 40 mg at Week 2. After Week 2, patients in both adalimumab arms received 40 mg eow. Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at Week 8.
 
 <div style=\"page-break-after: always\"></div>
-
-Week 0 followed by 40 mg at Week 2. After Week 2, patients in both adalimumab arms received 40 mg eow. Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at Week 8.
 
 In study UC-II, 248 patients received 160 mg of adalimumab at Week 0, 80 mg at Week 2 and 40 mg eow thereafter, and 246 patients received placebo. Clinical results were assessed for induction of remission at Week 8 and for maintenance of remission at Week 52.
 
@@ -2749,7 +2742,7 @@ Results from both studies demonstrated statistically significant reduction of th
 
 Table 17: Time to treatment failure in studies UV I and UV II
 
-| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% forHR a                                              | p value b                                                   |
+| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% for HR a                                             | p value b                                                   |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  |
 | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      |
@@ -2839,7 +2832,7 @@ Table 20:  Paediatric CD study, discontinuation of corticosteroids or immunomodu
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N=33                         | N=38                    |             |
 | Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
-| Week 52                               | 69.7%                        | 60.5%                   |       0.42  |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
 | Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
@@ -2848,7 +2841,9 @@ Table 20:  Paediatric CD study, discontinuation of corticosteroids or immunomodu
 
 1 p value for Standard Dose versus Low Dose comparison
 
-2 Immunosuppressant therapy could only be discontinued at or after Week 26 at the investigator's discretion if the subject met the clinical response criterion
+2 Immunosuppressant therapy could only be discontinued at or after Week 26 at the investigator's
+
+discretion if the subject met the clinical response criterion
 
 3 defined as a closure of all fistulas that were draining at Baseline for at least 2 consecutive postBaseline visits
 
@@ -2862,11 +2857,9 @@ One hundred patients (n=100) from the Paediatric CD Study continued in an open-l
 
 The safety and efficacy of adalimumab was assessed in a multicentre, randomised, double-blind, trial in 93 paediatric patients from 5 to 17 years of age with moderate to severe ulcerative colitis (Mayo score 6 to 12 with endoscopy subscore of 2 to 3 points, confirmed by centrally read endoscopy) who had an inadequate response or intolerance to conventional therapy. Approximately 16% of patients in the study had failed prior anti-TNF treatment. Patients who received corticosteroids at enrolment were allowed to taper their corticosteroid therapy after Week 4.
 
-In the induction period of the study, 77 patients were randomised 3:2 to receive double-blind treatment with adalimumab at an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2; or an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2. Both groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6. Following an amendment to the study design, the remaining 16 patients who enroled in the induction period received open-label
+In the induction period of the study, 77 patients were randomised 3:2 to receive double-blind treatment with adalimumab at an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2; or an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2. Both groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6. Following an amendment to the study design, the remaining 16 patients who enroled in the induction period received open-label treatment with adalimumab at the induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment with adalimumab at the induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2.
 
 At Week 8, 62 patients who demonstrated clinical response per Partial Mayo Score (PMS; defined as a decrease in PMS ≥ 2 points and ≥ 30% from Baseline) were randomised equally to receive doubleblind maintenance treatment with adalimumab at a dose of 0.6 mg/kg (maximum of 40 mg) every week (ew), or a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every other week (eow). Prior to an amendment to the study design, 12 additional patients who demonstrated clinical response per PMS were randomised to receive placebo but were not included in the confirmatory analysis of efficacy.
 
@@ -2925,13 +2918,11 @@ c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 1
 
 Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
-d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week e  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
+d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
+
+e  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints Note 3: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
 
 <div style=\"page-break-after: always\"></div>
-
-Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints Note 3: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
-
-Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
 
 ## Quality of life
 
@@ -2989,11 +2980,9 @@ In adult patients with uveitis, a loading dose of adalimumab 80 mg on Week 0 fol
 
 Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
-Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other
+Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
 <div style=\"page-break-after: always\"></div>
-
-week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
 ## Exposure-response relationship in paediatric population
 
@@ -3075,7 +3064,7 @@ Libmyris 80 mg solution for injection in pre-filled pen EU/1/21/1590/008 EU/1/21
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12 November 2021
+Date of first authorisation: 12 November 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -3288,17 +3277,17 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Libmyris 40 mg injection adalimumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3310,8 +3299,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 mg/0.4 ml
 
@@ -3456,17 +3445,17 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PEN LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Libmyris 40 mg injection adalimumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3478,8 +3467,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 mg/0.4 ml
 
@@ -3603,21 +3592,19 @@ Lot
 
 For storage information, see leaflet.
 
-80 mg/0.8 ml
+80 mg/0.8 ml Libmyris 80 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Libmyris 80 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3629,8 +3616,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 80 mg/0.8 ml
 
@@ -3759,21 +3746,19 @@ Lot
 
 For storage information, see leaflet.
 
-80 mg/0.8 ml
+80 mg/0.8 ml Libmyris 80 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PEN LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Libmyris 80 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3785,8 +3770,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 80 mg/0.8 ml
 
@@ -3797,17 +3782,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Libmyris 40 mg solution for injection in pre-filled syringe
 
 ## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -3849,11 +3830,11 @@ The active substance in Libmyris, adalimumab, is a human monoclonal antibody. Mo
 
 The target of adalimumab is a protein called tumour necrosis factor (TNFα), which is involved in the immune (defence) system and is present at increased levels in the inflammatory diseases listed above. By attaching to TNFα, Libmyris decreases the process of inflammation in these diseases.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rheumatoid arthritis
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Libmyris.
 
@@ -3889,13 +3870,13 @@ Psoriatic arthritis is an inflammatory disease of the joints that is usually ass
 
 Libmyris is used to treat psoriatic arthritis in adults. Libmyris can slow down the damage to the joints caused by the disease and can help them move more freely. You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes red, flaky, crusty patches of skin covered with silvery scales. Plaque psoriasis can also affect the nails, causing them to crumble, become thickened and lift away from the nail bed which can be painful.
 
-Libmyris is used to treat
+## Libmyris is used to treat
+
+<div style=\"page-break-after: always\"></div>
 
 - moderate to severe chronic plaque psoriasis in adults and
 - severe chronic plaque psoriasis in children and adolescents aged 4 to 17 years for whom topical therapy and phototherapies have either not worked very well or are not suitable.
@@ -3942,11 +3923,11 @@ Libmyris is used to treat
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye
 
-<div style=\"page-break-after: always\"></div>
-
 This inflammation may lead to a decrease of vision and/or the presence of floaters in the eye (black dots or wispy lines that move across the field of vision). Libmyris works by reducing this inflammation.
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Libmyris
 
@@ -3981,11 +3962,11 @@ In rare cases, these infections can be life-threatening. It is important to tell
 ## Tuberculosis
 
 - It is very important that you tell your doctor if you have ever had tuberculosis, or if you have been in close contact with someone who has had tuberculosis. If you have active tuberculosis, do not use Libmyris.
+- o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Libmyris. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
+- o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 
 <div style=\"page-break-after: always\"></div>
 
-- o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Libmyris. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
-- o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 - o If symptoms of tuberculosis (for example, cough that does not go away, weight loss, lack of energy, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
 
 ## Hepatitis B
@@ -4015,15 +3996,14 @@ In rare cases, these infections can be life-threatening. It is important to tell
 
 ## Fever, bruising, bleeding or looking pale
 
-- In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever
-
-<div style=\"page-break-after: always\"></div>
-
-that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
+- In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
 
 ## Cancer
 
 - There have been very rare cases of certain kinds of cancer in children and adult patients taking adalimumab or other TNF blockers.
+
+<div style=\"page-break-after: always\"></div>
+
 - o People with more serious rheumatoid arthritis who have had the disease for a long time may have a higher than average risk of getting lymphoma (a cancer that affects the lymph system) and leukaemia (a cancer that affects the blood and bone marrow).
 - o If you take Libmyris the risk of getting lymphoma, leukaemia, or other cancers may increase. On rare occasions, an uncommon and severe type of lymphoma has been seen in patients taking adalimumab. Some of those patients were also treated with azathioprine or 6-mercaptopurine.
 - o Tell your doctor if you are taking azathioprine or 6-mercaptopurine with Libmyris.
@@ -4061,12 +4041,12 @@ If you have questions, please ask your doctor.
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Libmyris treatment.
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Libmyris should only be used during a pregnancy if needed.
-
-<div style=\"page-break-after: always\"></div>
-
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
 - Libmyris can be used during breast-feeding.
 - If you receive Libmyris during your pregnancy, your baby may have a higher risk for getting an infection.
+
+<div style=\"page-break-after: always\"></div>
+
 - It is important that you tell your baby's doctors and other health care professionals about your Libmyris use during your pregnancy before the baby receives any vaccine. For more information on vaccines see the 'Warnings and precautions' section.
 
 ## Driving and using machines
@@ -4095,12 +4075,12 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Age or body weight                                                          | How much and how often to take?               | Notes                                         |
 | Children, adolescents and adults from 2 years of age weighing 30 kg or more | 40 mg every other week                        | Not applicable                                |
 
-<div style=\"page-break-after: always\"></div>
-
 | Enthesitis-related arthritis                                                | Enthesitis-related arthritis    | Enthesitis-related arthritis   |
 |-----------------------------------------------------------------------------|---------------------------------|--------------------------------|
 | Age or body weight                                                          | How much and how often to take? | Notes                          |
 | Children, adolescents and adults from 6 years of age weighing 30 kg or more | 40 mg every other week          | Not applicable                 |
+
+<div style=\"page-break-after: always\"></div>
 
 | Plaque psoriasis                                                          | Plaque psoriasis                                                                                                                  | Plaque psoriasis                                                                                                     |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -4114,13 +4094,15 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
 | Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Libmyris 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                                                     | Crohn's disease                                                                  |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Age or body weight                                                          | How much and how often to take?                                                                                                                                                                                                                                                                                                                                                                     | Notes                                                                            |
 | Children, adolescents and adults from 6 years of age weighing 40 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week. |
-| Children and adolescents from 6 to 17 years of age weighing less than 40 kg | First dose of 40 mg, followed by 20 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. Thereafter, the usual dose is 20 mg every other week.*                                                                                                                               | Your doctor may increase the dose frequency to 20 mg every week. *               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Children and adolescents from 6 to 17 years of age weighing less than 40 kg   | First dose of 40 mg, followed by 20 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. Thereafter, the usual dose is 20 mg every other week.*   | Your doctor may increase the dose frequency to 20 mg every week. *   |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 
 * Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80 mg pre-filled syringe and 80 mg pre-filled pen. Thus, it is not possible to administer Libmyris to patients that require less than a full 40 mg dose.
 
@@ -4129,17 +4111,17 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                              | Notes                                                                                         |
 | Adults                                                                | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
 | Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+
+| Non-infectious uveitis   | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Age or body weight       | How much and how often to take?                                                                                                   | Notes                                                                                                                                        |
+| Adults                   | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week after the first dose. | Corticosteroids or other medicines that influence the immune system may be continued while using Libmyris. Libmyris can also be given alone. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age.   |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-
-| Non-infectious uveitis                                               | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                                                                                           |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age or body weight                                                   | How much and how often to take?                                                                                                   | Notes                                                                                                                                                                                                            |
-| Adults                                                               | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week after the first dose. | Corticosteroids or other medicines that influence the immune system may be continued while using Libmyris. Libmyris can also be given alone.                                                                     |
-| Children and adolescents from 2 years of age weighing at least 30 kg | 40 mg every other week                                                                                                            | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. Libmyris is recommended for use in combination with methotrexate. |
+| Children and adolescents from 2 years of age weighing at least 30 kg   | 40 mg every other week   | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. Libmyris is recommended for use in combination with methotrexate.   |
+|------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Method and route of administration
 
@@ -4165,8 +4147,6 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Most side effects are mild to moderate. However, some may be serious and require treatment. Side effects may occur at least up to 4 months after the last Libmyris injection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tell your doctor immediately if you notice any of the following
 
 - severe rash, hives or other signs of allergic reaction
@@ -4185,6 +4165,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - arm or leg weakness
 - a bump or open sore that doesn't heal
 - signs and symptoms suggestive of blood disorders such as persistent fever, bruising, bleeding, paleness
+
+<div style=\"page-break-after: always\"></div>
 
 The symptoms described above can be signs of the below listed side effects, which have been observed with adalimumab:
 
@@ -4223,9 +4205,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - eye inflammation
 - inflammation of the eye lid and eye swelling
 - vertigo (feeling of dizziness or spinning)
-
-<div style=\"page-break-after: always\"></div>
-
 - sensation of heart beating rapidly
 - high blood pressure
 - flushing
@@ -4244,6 +4223,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - breaking of finger nails and toe nails
 - increased sweating
 - hair loss
+
+<div style=\"page-break-after: always\"></div>
+
 - new onset or worsening of psoriasis
 - muscle spasms
 - blood in urine
@@ -4279,9 +4261,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - pleural effusion (abnormal collection of fluid in the pleural space)
 - inflammation of the pancreas which causes severe pain in the abdomen and back
 - difficulty in swallowing
-
-<div style=\"page-break-after: always\"></div>
-
 - facial oedema (swelling of the face)
 - gallbladder inflammation, gallbladder stones
 - fatty liver
@@ -4299,6 +4278,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - severe allergic reaction with shock
 - multiple sclerosis
 - nerve disorders (such as eye nerve inflammation and Guillain-Barré syndrome that may cause muscle weakness, abnormal sensations, tingling in the arms and upper body)
+
+<div style=\"page-break-after: always\"></div>
+
 - heart stops pumping
 - pulmonary fibrosis (scarring of the lung)
 - intestinal perforation (hole in the intestine)
@@ -4336,9 +4318,6 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - high blood measurements for white blood cells
 - low blood measurements for platelets
 - increased uric acid in the blood
-
-<div style=\"page-break-after: always\"></div>
-
 - abnormal blood measurements for sodium
 - low blood measurements for calcium
 - low blood measurements for phosphate
@@ -4347,17 +4326,19 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - autoantibodies present in the blood
 - low blood potassium
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - elevated bilirubin measurement (liver blood test)
 
-Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1,000 people)
 
 - low blood measurements for white blood cells, red blood cells and platelet count
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Libmyris
 
@@ -4388,71 +4369,55 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Libmyris 40 mg solution for injection in pre-filled syringe with needle guard is supplied as a sterile solution of 40 mg adalimumab dissolved in 0.4 ml solution.
 
-The Libmyris pre-filled syringe is a glass syringe containing a solution of adalimumab.
-
-<div style=\"page-break-after: always\"></div>
-
-Each pack contains 1, 2 or 6 pre-filled syringe(s) packed in a blister, with 1, 2 or 6 alcohol pad(s).
+The Libmyris pre-filled syringe is a glass syringe containing a solution of adalimumab. Each pack contains 1, 2 or 6 pre-filled syringe(s) packed in a blister, with 1, 2 or 6 alcohol pad(s).
 
 Not all pack sizes may be marketed.
 
 Libmyris may be available as a pre-filled syringe and/or a pre-filled pen.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder STADA Arzneimittel AG
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## Manufacturers
 
-Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach, Germany
-
-Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
-
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach, Germany Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## България
-
-STADA Bulgaria EOOD
-
-Teл.: +359 29624626
-
-## Česká republika
-
-STADA PHARMA CZ s.r.o. Tel: +420 257888111
-
-## Danmark
-
-STADA Nordic ApS Tlf: +45 44859999
-
-Deutschland STADAPHARM GmbH Tel: +49 61016030
-
-## Eesti
-
-UAB 'STADA Baltics' Tel: +372 53072153
-
 ## Lietuva
 
 UAB 'STADA Baltics' Tel: +370 52603926
+
+## България
+
+STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Luxembourg/Luxemburg
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
+Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
+
 ## Magyarország
 
-STADA Hungary Kft
+STADA Hungary Kft Tel.: +36 18009747
 
-Tel.: +36 18009747
+## Danmark
+
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Malta
 
-Pharma.MT Ltd Tel: +356 21337008
+Pharma.MT Ltd
+
+Tel: +356 21337008
+
+## Deutschland
+
+STADAPHARM GmbH Tel: +49 61016030
 
 ## Nederland
 
@@ -4460,27 +4425,25 @@ Centrafarm B.V.
 
 Tel.: +31 765081000
 
+## Eesti
+
+UAB 'STADA Baltics' Tel: +372 53072153
+
 ## Norge
 
 STADA Nordic ApS Tlf: +45 44859999
 
 ## Ελλάδα
 
-BioARS Therapeutics A.E.
-
-Τηλ: +30 210 7717598
+BioARS Therapeutics A.E. Τηλ: +30 210 7717598
 
 ## Österreich
 
-STADA Arzneimittel GmbH
-
-Tel: +43 136785850
+STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## España
 
-Laboratorio STADA, S.L.
-
-Tel: +34 934738889
+Laboratorio STADA, S.L. Tel: +34 934738889
 
 ## Polska
 
@@ -4490,9 +4453,7 @@ Tel: +48 227377920
 
 ## France
 
-Laboratoires Biogaran
-
-Tél: +33 800970109
+Laboratoires Biogaran Tél: +33 800970109
 
 ## Portugal
 
@@ -4511,6 +4472,8 @@ Tel: +385 13764111
 STADA M&amp;D SRL
 
 Tel: +40 213160640
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
@@ -4564,9 +4527,11 @@ Tel: +45 44859999
 
 UAB 'STADA Baltics'
 
-Tel: +371 28016404
-
 <div style=\"page-break-after: always\"></div>
+
+UAB 'STADA Baltics'
+
+Tel: +371 28016404
 
 ## This leaflet was last revised in
 
@@ -4773,15 +4738,11 @@ If you have any questions contact your healthcare provider for help.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Libmyris 40 mg solution for injection in pre-filled pen
 
 ## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4823,11 +4784,11 @@ The active substance in Libmyris, adalimumab, is a human monoclonal antibody. Mo
 
 The target of adalimumab is a protein called tumour necrosis factor (TNFα), which is involved in the immune (defence) system and is present at increased levels in the inflammatory diseases listed above. By attaching to TNFα, Libmyris decreases the process of inflammation in these diseases.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rheumatoid arthritis
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Libmyris.
 
@@ -4863,13 +4824,13 @@ Psoriatic arthritis is an inflammatory disease of the joints that is usually ass
 
 Libmyris is used to treat psoriatic arthritis in adults. Libmyris can slow down the damage to the joints caused by the disease and can help them move more freely. You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes red, flaky, crusty patches of skin covered with silvery scales. Plaque psoriasis can also affect the nails, causing them to crumble, become thickened and lift away from the nail bed which can be painful.
 
-Libmyris is used to treat
+## Libmyris is used to treat
+
+<div style=\"page-break-after: always\"></div>
 
 - moderate to severe chronic plaque psoriasis in adults and
 - severe chronic plaque psoriasis in children and adolescents aged 4 to 17 years for whom topical therapy and phototherapies have either not worked very well or are not suitable.
@@ -4916,11 +4877,11 @@ Libmyris is used to treat
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye
 
-<div style=\"page-break-after: always\"></div>
-
 This inflammation may lead to a decrease of vision and/or the presence of floaters in the eye (black dots or wispy lines that move across the field of vision). Libmyris works by reducing this inflammation.
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Libmyris
 
@@ -4955,11 +4916,11 @@ In rare cases, these infections can be life-threatening. It is important to tell
 ## Tuberculosis
 
 - It is very important that you tell your doctor if you have ever had tuberculosis, or if you have been in close contact with someone who has had tuberculosis. If you have active tuberculosis, do not use Libmyris.
+- o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Libmyris. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
+- o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 
 <div style=\"page-break-after: always\"></div>
 
-- o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Libmyris. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
-- o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 - o If symptoms of tuberculosis (for example, cough that does not go away, weight loss, lack of energy, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
 
 ## Hepatitis B
@@ -4989,15 +4950,14 @@ In rare cases, these infections can be life-threatening. It is important to tell
 
 ## Fever, bruising, bleeding or looking pale
 
-- In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever
-
-<div style=\"page-break-after: always\"></div>
-
-that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
+- In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
 
 ## Cancer
 
 - There have been very rare cases of certain kinds of cancer in children and adult patients taking adalimumab or other TNF blockers.
+
+<div style=\"page-break-after: always\"></div>
+
 - o People with more serious rheumatoid arthritis who have had the disease for a long time may have a higher than average risk of getting lymphoma (a cancer that affects the lymph system) and leukaemia (a cancer that affects the blood and bone marrow).
 - o If you take Libmyris the risk of getting lymphoma, leukaemia, or other cancers may increase. On rare occasions, an uncommon and severe type of lymphoma has been seen in patients taking adalimumab. Some of those patients were also treated with azathioprine or 6-mercaptopurine.
 - o Tell your doctor if you are taking azathioprine or 6-mercaptopurine with Libmyris.
@@ -5035,12 +4995,12 @@ If you have questions, please ask your doctor.
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Libmyris treatment.
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Libmyris should only be used during a pregnancy if needed.
-
-<div style=\"page-break-after: always\"></div>
-
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
 - Libmyris can be used during breast-feeding.
 - If you receive Libmyris during your pregnancy, your baby may have a higher risk for getting an infection.
+
+<div style=\"page-break-after: always\"></div>
+
 - It is important that you tell your baby's doctors and other health care professionals about your Libmyris use during your pregnancy before the baby receives any vaccine. For more information on vaccines see the 'Warnings and precautions' section.
 
 ## Driving and using machines
@@ -5069,12 +5029,12 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Age or body weight                                                          | How much and how often to take?               | Notes                                         |
 | Children, adolescents and adults from 2 years of age weighing 30 kg or more | 40 mg every other week                        | Not applicable                                |
 
-<div style=\"page-break-after: always\"></div>
-
 | Enthesitis-related arthritis                                                | Enthesitis-related arthritis    | Enthesitis-related arthritis   |
 |-----------------------------------------------------------------------------|---------------------------------|--------------------------------|
 | Age or body weight                                                          | How much and how often to take? | Notes                          |
 | Children, adolescents and adults from 6 years of age weighing 30 kg or more | 40 mg every other week          | Not applicable                 |
+
+<div style=\"page-break-after: always\"></div>
 
 | Plaque psoriasis                                                          | Plaque psoriasis                                                                                                                  | Plaque psoriasis                                                                                                     |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -5088,13 +5048,15 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
 | Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Libmyris 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                                                     | Crohn's disease                                                                  |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Age or body weight                                                          | How much and how often to take?                                                                                                                                                                                                                                                                                                                                                                     | Notes                                                                            |
 | Children, adolescents and adults from 6 years of age weighing 40 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week. |
-| Children and adolescents from 6 to 17 years of age weighing less than 40 kg | First dose of 40 mg, followed by 20 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. Thereafter, the usual dose is 20 mg every other week.*                                                                                                                               | Your doctor may increase the dose frequency to 20 mg every week. *               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Children and adolescents from 6 to 17 years of age weighing less than 40 kg   | First dose of 40 mg, followed by 20 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 80 mg (two 40 mg injections in one day), followed by 40 mg two weeks later. Thereafter, the usual dose is 20 mg every other week.*   | Your doctor may increase the dose frequency to 20 mg every week. *   |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 
 * Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80 mg pre-filled syringe and 80 mg pre-filled pen. Thus, it is not possible to administer Libmyris to patients that require less than a full 40 mg dose.
 
@@ -5103,17 +5065,18 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                              | Notes                                                                                         |
 | Adults                                                                | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
 | Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+
+| Non-infectious uveitis                                               | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                         |
+|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age or body weight                                                   | How much and how often to take?                                                                                                   | Notes                                                                                                                                          |
+| Adults                                                               | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week after the first dose. | Corticosteroids or other medicines that influence the immune system may be continued while using Libmyris. Libmyris can also be given alone.   |
+| Children and adolescents from 2 years of age weighing at least 30 kg | 40 mg every other week                                                                                                            | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age.   |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-
-| Non-infectious uveitis                                               | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                                                                                           |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age or body weight                                                   | How much and how often to take?                                                                                                   | Notes                                                                                                                                                                                                            |
-| Adults                                                               | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week after the first dose. | Corticosteroids or other medicines that influence the immune system may be continued while using Libmyris. Libmyris can also be given alone.                                                                     |
-| Children and adolescents from 2 years of age weighing at least 30 kg | 40 mg every other week                                                                                                            | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. Libmyris is recommended for use in combination with methotrexate. |
+| Libmyris is recommended for use in combination with methotrexate.   |
+|---------------------------------------------------------------------|
 
 ## Method and route of administration
 
@@ -5142,9 +5105,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Tell your doctor immediately if you notice any of the following
 
 - severe rash, hives or other signs of allergic reaction
-
-<div style=\"page-break-after: always\"></div>
-
 - swollen face, hands, feet
 - trouble breathing, swallowing
 - shortness of breath with physical activity or upon lying down or swelling of the feet
@@ -5167,6 +5127,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 
 - injection site reactions (including pain, swelling, redness or itching)
 - respiratory tract infections (including cold, runny nose, sinus infection, pneumonia)
+
+<div style=\"page-break-after: always\"></div>
+
 - headache
 - abdominal pain
 - nausea and vomiting
@@ -5200,9 +5163,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - vertigo (feeling of dizziness or spinning)
 - sensation of heart beating rapidly
 - high blood pressure
-
-<div style=\"page-break-after: always\"></div>
-
 - flushing
 - haematoma (collection of blood outside of blood vessels)
 - cough
@@ -5225,6 +5185,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - kidney problems
 - chest pain
 - oedema (swelling)
+
+<div style=\"page-break-after: always\"></div>
+
 - fever
 - reduction in blood platelets which increases risk of bleeding or bruising
 - impaired healing
@@ -5256,9 +5219,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - difficulty in swallowing
 - facial oedema (swelling of the face)
 - gallbladder inflammation, gallbladder stones
-
-<div style=\"page-break-after: always\"></div>
-
 - fatty liver
 - night sweats
 - scar
@@ -5280,6 +5240,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - hepatitis
 - reactivation of hepatitis B
 - autoimmune hepatitis (inflammation of the liver caused by the body's own immune system)
+
+<div style=\"page-break-after: always\"></div>
+
 - cutaneous vasculitis (inflammation of blood vessels in the skin)
 - Stevens-Johnson syndrome (early symptoms include malaise, fever, headache and rash)
 - facial oedema (swelling of the face) associated with allergic reactions
@@ -5313,9 +5276,6 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - increased uric acid in the blood
 - abnormal blood measurements for sodium
 - low blood measurements for calcium
-
-<div style=\"page-break-after: always\"></div>
-
 - low blood measurements for phosphate
 - high blood sugar
 - high blood measurements for lactate dehydrogenase
@@ -5326,7 +5286,7 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 
 - elevated bilirubin measurement (liver blood test)
 
-Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1,000 people)
 
 - low blood measurements for white blood cells, red blood cells and platelet count
 
@@ -5338,11 +5298,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date which is stated on the label/blister/carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## Alternative Storage:
 
@@ -5365,8 +5325,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Libmyris 40 mg solution for injection in pre-filled pen is supplied as a sterile solution of 40 mg adalimumab dissolved in 0.4 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a pre-filled glass syringe with a fixed needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
 
-<div style=\"page-break-after: always\"></div>
-
 Each pack contains 1, 2 or 6 pre-filled pen(s) packed in a blister, with 1, 2 or 6 alcohol pad(s).
 
 Not all pack sizes may be marketed.
@@ -5381,133 +5339,53 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach Germany
 
-Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
+Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## Lietuva
-
-UAB 'STADA Baltics' Tel: +370 52603926
-
 ## България
 
-STADA Bulgaria EOOD
-
-Teл.: +359 29624626
-
-## Luxembourg/Luxemburg
-
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
+STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Česká republika
 
-STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
-
-## Magyarország
-
-STADA Hungary Kft
-
-Tel.: +36 18009747
+STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
 STADA Nordic ApS Tlf: +45 44859999
 
-## Malta
-
-Pharma.MT Ltd
-
-Tel: +356 21337008
-
 ## Deutschland
 
 STADAPHARM GmbH Tel: +49 61016030
 
-## Nederland
-
-Centrafarm B.V.
-
-Tel.: +31 765081000
-
 ## Eesti
 
-UAB 'STADA Baltics'
-
-Tel: +372 53072153
-
-## Norge
-
-STADA Nordic ApS
-
-Tlf: +45 44859999
+UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-BioARS Therapeutics A.E.
-
-Τηλ: +30 210 7717598
-
-## Österreich
-
-STADA Arzneimittel GmbH
-
-Tel: +43 136785850
+BioARS Therapeutics A.E. Τηλ: +30 210 7717598
 
 ## España
 
-Laboratorio STADA, S.L.
-
-Tel: +34 934738889
-
-## Polska
-
-STADA Pharm Sp. z o.o.
-
-Tel: +48 227377920
+Laboratorio STADA, S.L. Tel: +34 934738889
 
 ## France
 
-Laboratoires Biogaran
-
-Tél: +33 800970109
-
-## Portugal
-
-Stada, Lda.
-
-Tel: +351 211209870
+Laboratoires Biogaran Tél: +33 800970109
 
 ## Hrvatska
 
-STADA d.o.o.
-
-Tel: +385 13764111
-
-## România
-
-STADA M&amp;D SRL
-
-Tel: +40 213160640
+STADA d.o.o. Tel: +385 13764111
 
 ## Ireland
 
-Clonmel Healthcare Ltd.
-
-Tel: +353 526177777
-
-## Slovenija
-
-Stada d.o.o.
-
-Tel: +386 15896710
+Clonmel Healthcare Ltd. Tel: +353 526177777
 
 ## Ísland
 
@@ -5515,11 +5393,61 @@ STADA Arzneimittel AG
 
 Sími: +49 61016030
 
+## Lietuva
+
+UAB 'STADA Baltics' Tel: +370 52603926
+
+## Luxembourg/Luxemburg
+
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
+
+## Magyarország
+
+STADA Hungary Kft Tel.: +36 18009747
+
+## Malta
+
+Pharma.MT Ltd Tel: +356 21337008
+
+## Nederland
+
+Centrafarm B.V. Tel.: +31 765081000
+
+## Norge
+
+STADA Nordic ApS Tlf: +45 44859999
+
+## Österreich
+
+STADA Arzneimittel GmbH Tel: +43 136785850
+
+## Polska
+
+STADA Pharm Sp. z o.o. Tel: +48 227377920
+
+## Portugal
+
+Stada, Lda.
+
+Tel: +351 211209870
+
+## România
+
+STADA M&amp;D SRL Tel: +40 213160640
+
+## Slovenija
+
+Stada d.o.o.
+
+Tel: +386 15896710
+
 ## Slovenská republika
 
 STADA PHARMA Slovakia, s.r.o.
 
 Tel: +421 252621933
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -5527,23 +5455,11 @@ EG SpA
 
 Tel: +39 028310371
 
-## Suomi/Finland
-
-STADA Nordic ApS, Suomen sivuliike
-
-Puh/Tel: +358 207416888
-
 ## Κύπρος
 
 STADA Arzneimittel AG
 
 Τηλ: +30 2106664667
-
-## Sverige
-
-STADA Nordic ApS
-
-Tel: +45 44859999
 
 ## Latvija
 
@@ -5551,13 +5467,23 @@ UAB 'STADA Baltics'
 
 Tel: +371 28016404
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Suomi/Finland
+
+STADA Nordic ApS, Suomen sivuliike
+
+Puh/Tel: +358 207416888
+
+## Sverige
+
+STADA Nordic ApS
+
+Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5768,17 +5694,13 @@ Figure N
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Libmyris 80 mg solution for injection in pre-filled syringe
 
 ## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -5819,9 +5741,9 @@ The target of adalimumab is a protein called tumour necrosis factor (TNFα), whi
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
 
-<div style=\"page-break-after: always\"></div>
-
 Libmyris is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris can also be used to treat severe, active and progressive rheumatoid arthritis without previous methotrexate treatment.
 
@@ -5868,11 +5790,11 @@ Libmyris is used to treat
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Non-infectious uveitis
 
 Non-infectious uveitis is an inflammatory disease affecting certain parts of the eye.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Libmyris is used to treat
 
@@ -5907,11 +5829,11 @@ Talk to your doctor or pharmacist before using Libmyris.
 
 In rare cases, these infections can be life-threatening. It is important to tell your doctor if you get symptoms such as fever, wounds, feeling tired or dental problems. Your doctor may tell you to stop using Libmyris for some time.
 
-<div style=\"page-break-after: always\"></div>
-
 - Tell your doctor if you live or travel in regions where fungal infections (for example, histoplasmosis, coccidioidomycosis or blastomycosis) are very common.
 - Tell your doctor if you have had infections which keep coming back or other conditions that increase the risk of infections.
 - If you are over 65 years you may be more likely to get infections while taking Libmyris. You and your doctor should pay special attention to signs of infection while you are being treated with Libmyris. It is important to tell your doctor if you get symptoms of infections, such as fever, wounds, feeling tired or dental problems.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tuberculosis
 
@@ -5939,15 +5861,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 - Certain vaccines may cause infections and should not be given while receiving Libmyris.
 - o Check with your doctor before you receive any vaccines.
 - o It is recommended that children, if possible, be given all the scheduled vaccinations for their age before they start treatment with Libmyris.
-- o If you received Libmyris while you were pregnant, your baby may be at higher risk for getting such an infection for up to approximately five months after the last Libmyris dose you received during pregnancy. It is important that you tell your baby's doctors and other
-
-<div style=\"page-break-after: always\"></div>
-
-health care professionals about your Libmyris use during your pregnancy so they can decide when your baby should receive any vaccine.
+- o If you received Libmyris while you were pregnant, your baby may be at higher risk for getting such an infection for up to approximately five months after the last Libmyris dose you received during pregnancy. It is important that you tell your baby's doctors and other health care professionals about your Libmyris use during your pregnancy so they can decide when your baby should receive any vaccine.
 
 ## Heart failure
 
 - If you have mild heart failure and are being treated with Libmyris, your heart failure status must be closely monitored by your doctor. It is important to tell your doctor if you have had or have a serious heart condition. If you develop new or worsening symptoms of heart failure (e.g. shortness of breath, or swelling of your feet), you must contact your doctor immediately. Your doctor will decide if you should receive Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fever, bruising, bleeding or looking pale
 
@@ -5980,8 +5900,6 @@ You should not take Libmyris with medicines containing the following active subs
 - anakinra
 - abatacept.
 
-<div style=\"page-break-after: always\"></div>
-
 Libmyris can be taken together with:
 
 - methotrexate
@@ -5993,6 +5911,9 @@ If you have questions, please ask your doctor.
 ## Pregnancy and breast-feeding
 
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Libmyris treatment.
+
+<div style=\"page-break-after: always\"></div>
+
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Libmyris should only be used during a pregnancy if needed.
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
@@ -6016,17 +5937,19 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 
 The recommended doses for Libmyris in each of the approved uses are shown in the following table. Your doctor may prescribe another strength of Libmyris if you need a different dose.
 
-<div style=\"page-break-after: always\"></div>
-
 | Rheumatoid arthritis   | Rheumatoid arthritis            | Rheumatoid arthritis                                                                                                                                                                                                                                                                                                                                  |
 |------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Age or body weight     | How much and how often to take? | Notes                                                                                                                                                                                                                                                                                                                                                 |
 | Adults                 | 40 mg every other week          | In rheumatoid arthritis, methotrexate is continued while using Libmyris. If your doctor decides that methotrexate is inappropriate, Libmyris can be given alone. If you have rheumatoid arthritis and you do not receive methotrexate with your Libmyris therapy, your doctor may decide to give Libmyris 40 mg every week or 80 mg every other week. |
 
-| Plaque psoriasis   | Plaque psoriasis                                                                                                      | Plaque psoriasis                                                                                                     |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Age or body weight | How much and how often to take?                                                                                       | Notes                                                                                                                |
-| Adults             | First dose of 80 mg (one 80 mg injection), followed by 40 mg every other week starting one week after the first dose. | If you have an inadequate response, your doctor may increase the dose to 40 mg every week or 80 mg every other week. |
+| Plaque psoriasis   |                                                              | Notes                                               |
+|--------------------|--------------------------------------------------------------|-----------------------------------------------------|
+| Adults             | First dose of 80 mg (one 80 mg injection), followed by 40 mg | If you have an inadequate response, your doctor may |
+
+<div style=\"page-break-after: always\"></div>
+
+| every other week starting one week after the first dose.   | increase the dose to 40 mg every week or 80 mg every other week.   |
+|------------------------------------------------------------|--------------------------------------------------------------------|
 
 | Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                    | Hidradenitis suppurativa                                                                                                                                                                                                               |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6034,22 +5957,22 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Adults                                                        | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by an 80 mg dose (one 80 mg injection) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
 | Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (one 80 mg injection), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                      | If you have an inadequate response to Libmyris 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                           | Crohn's disease                                                                                                                                                                                  |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Age or body weight                                                          | How much and how often to take?                                                                                                                                                                                                                                                                                                                                           | Notes                                                                                                                                                                                            |
 | Children, adolescents and adults from 6 years of age weighing 40 kg or more | First dose of 80 mg (one 80 mg injection), followed by 40 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.                                                                                                                 |
 | Children and adolescents from 6 to 17 years of age weighing less than 40 kg | The Libmyris 80 mg pre-filled syringe should not be used in children or adolescents weighing less than 40 kg with Crohn's disease, since it is not possible to administer doses less than 80 mg.                                                                                                                                                                          | The Libmyris 80 mg pre-filled syringe should not be used in children or adolescents weighing less than 40 kg with Crohn's disease, since it is not possible to administer doses less than 80 mg. |
 
-| Ulcerative colitis                                                    | Ulcerative colitis                                                                                                                                                                                                             | Ulcerative colitis                                                                            |
-|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                | Notes                                                                                         |
-| Adults                                                                | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
-| Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (one 80 mg injection), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                      | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Ulcerative colitis   | Ulcerative colitis              | Ulcerative colitis   |
+|----------------------|---------------------------------|----------------------|
+| Age or body weight   | How much and how often to take? | Notes                |
 
 <div style=\"page-break-after: always\"></div>
+
+| Adults                                                                | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.   | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (one 80 mg injection), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
 
 | Non-infectious uveitis                                              | Non-infectious uveitis                                                                                                | Non-infectious uveitis                                                                                                                                                                                           |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6070,6 +5993,8 @@ If you accidentally inject Libmyris more frequently than told to by your doctor 
 ## If you forget to use Libmyris
 
 If you forget to give yourself an injection, you should inject the next dose of Libmyris as soon as you remember. Then take your next dose as you would have on your originally scheduled day, had you not forgotten a dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you stop using Libmyris
 
@@ -6095,9 +6020,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - coughing
 - tingling
 - numbness
-
-<div style=\"page-break-after: always\"></div>
-
 - double vision
 - arm or leg weakness
 - a bump or open sore that doesn't heal
@@ -6130,6 +6052,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - skin cancer
 - allergic reactions (including seasonal allergy)
 - dehydration
+
+<div style=\"page-break-after: always\"></div>
+
 - mood swings (including depression)
 - anxiety
 - difficulty sleeping
@@ -6155,9 +6080,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - itchy rash
 - bruising
 - inflammation of the skin (such as eczema)
-
-<div style=\"page-break-after: always\"></div>
-
 - breaking of finger nails and toe nails
 - increased sweating
 - hair loss
@@ -6189,6 +6111,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - hearing loss, buzzing
 - sensation of heart beating irregularly such as skipped beats
 - heart problems that can cause shortness of breath or ankle swelling
+
+<div style=\"page-break-after: always\"></div>
+
 - heart attack
 - a sac in the wall of a major artery, inflammation and clot of a vein, blockage of a blood vessel
 - lung diseases causing shortness of breath (including inflammation)
@@ -6213,9 +6138,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - severe allergic reaction with shock
 - multiple sclerosis
 - nerve disorders (such as eye nerve inflammation and Guillain-Barré syndrome that may cause muscle weakness, abnormal sensations, tingling in the arms and upper body)
-
-<div style=\"page-break-after: always\"></div>
-
 - heart stops pumping
 - pulmonary fibrosis (scarring of the lung)
 - intestinal perforation (hole in the intestine)
@@ -6248,7 +6170,9 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - increased lipids in the blood
 - elevated liver enzymes
 
-## Common (may affect up to 1 in 10 people)
+<div style=\"page-break-after: always\"></div>
+
+Common (may affect up to 1 in 10 people)
 
 - high blood measurements for white blood cells
 - low blood measurements for platelets
@@ -6261,18 +6185,17 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - autoantibodies present in the blood
 - low blood potassium
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - elevated bilirubin measurement (liver blood test)
-- low blood measurements for white blood cells, red blood cells and platelet count
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
+
+- low blood measurements for white blood cells, red blood cells and platelet count
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Libmyris
 
@@ -6293,6 +6216,8 @@ You should record the date when the syringe is first removed from refrigerator a
 Do not use this medicine if the liquid is cloudy, discoloured, or has flakes or particles in it.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -6319,77 +6244,67 @@ Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach Germany
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
-<div style=\"page-break-after: always\"></div>
+## STADA Arzneimittel AG
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+Stadastrasse 2-18
+
+61118 Bad Vilbel
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
+EG (Eurogenerics) NV
+
+Tél/Tel: +32 24797878
+
+## Lietuva
+
+UAB 'STADA Baltics'
+
+Tel: +370 52603926
 
 ## България
 
-STADA Bulgaria EOOD Teл.: +359 29624626
+STADA Bulgaria EOOD
 
-Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
+Teл.: +359 29624626
+
+## Luxembourg/Luxemburg
+
+EG (Eurogenerics) NV
+
+Tél/Tel: +32 24797878
+
+## Česká republika
+
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
+
+## Magyarország
+
+STADA Hungary Kft
+
+Tel.: +36 18009747
 
 ## Danmark
 
 STADA Nordic ApS Tlf: +45 44859999
 
-## Deutschland
-
-STADAPHARM GmbH Tel: +49 61016030
-
-## Eesti
-
-UAB 'STADA Baltics' Tel: +372 53072153
-
-## Ελλάδα
-
-BioARS Therapeutics A.E. Τηλ: +30 210 7717598
-
-## España
-
-Laboratorio STADA, S.L. Tel: +34 934738889
-
-## France
-
-Laboratoires Biogaran Tél: +33 800970109
-
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
-
-## Ireland
-
-Clonmel Healthcare Ltd. Tel: +353 526177777
-
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
-## Lietuva
-
-UAB 'STADA Baltics' Tel: +370 52603926
-
-## Luxembourg/Luxemburg
-
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
-
-## Magyarország
-
-STADA Hungary Kft Tel.: +36 18009747
-
 ## Malta
 
-Pharma.MT Ltd Tel: +356 21337008
+Pharma.MT Ltd
+
+Tel: +356 21337008
+
+## Deutschland
+
+STADAPHARM GmbH
+
+Tel: +49 61016030
 
 ## Nederland
 
@@ -6397,25 +6312,71 @@ Centrafarm B.V.
 
 Tel.: +31 765081000
 
+## Eesti
+
+UAB 'STADA Baltics'
+
+Tel: +372 53072153
+
 ## Norge
 
-STADA Nordic ApS Tlf: +45 44859999
+STADA Nordic ApS
+
+Tlf: +45 44859999
+
+## Ελλάδα
+
+BioARS Therapeutics A.E.
+
+Τηλ: +30 210 7717598
 
 ## Österreich
 
-STADA Arzneimittel GmbH Tel: +43 136785850
+STADA Arzneimittel GmbH
+
+Tel: +43 136785850
+
+## España
+
+Laboratorio STADA, S.L.
+
+Tel: +34 934738889
 
 ## Polska
 
-STADA Pharm Sp. z o.o. Tel: +48 227377920
+STADA Pharm Sp. z o.o.
+
+Tel: +48 227377920
+
+## France
+
+Laboratoires Biogaran
+
+Tél: +33 800970109
 
 ## Portugal
 
-Stada, Lda. Tel: +351 211209870
+Stada, Lda.
+
+Tel: +351 211209870
+
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
 
 ## România
 
-STADA M&amp;D SRL Tel: +40 213160640
+STADA M&amp;D SRL
+
+Tel: +40 213160640
+
+## Ireland
+
+Clonmel Healthcare Ltd.
+
+Tel: +353 526177777
 
 ## Slovenija
 
@@ -6423,13 +6384,17 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
 ## Slovenská republika
 
 STADA PHARMA Slovakia, s.r.o.
 
 Tel: +421 252621933
-
-<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -6437,11 +6402,23 @@ EG SpA
 
 Tel: +39 028310371
 
+## Suomi/Finland
+
+STADA Nordic ApS, Suomen sivuliike
+
+Puh/Tel: +358 207416888
+
 ## Κύπρος
 
 STADA Arzneimittel AG
 
 Τηλ: +30 2106664667
+
+## Sverige
+
+STADA Nordic ApS
+
+Tel: +45 44859999
 
 ## Latvija
 
@@ -6449,23 +6426,13 @@ UAB 'STADA Baltics'
 
 Tel: +371 28016404
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Suomi/Finland
-
-STADA Nordic ApS, Suomen sivuliike
-
-Puh/Tel: +358 207416888
-
-## Sverige
-
-STADA Nordic ApS
-
-Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6667,15 +6634,11 @@ If you have any questions contact your healthcare provider for help.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Libmyris 80 mg solution for injection in pre-filled pen
 
 ## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -6716,9 +6679,9 @@ The target of adalimumab is a protein called tumour necrosis factor (TNFα), whi
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
 
-<div style=\"page-break-after: always\"></div>
-
 Libmyris is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 Libmyris can also be used to treat severe, active and progressive rheumatoid arthritis without previous methotrexate treatment.
 
@@ -6765,13 +6728,13 @@ Libmyris is used to treat
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Libmyris.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Non-infectious uveitis
 
 Non-infectious uveitis is an inflammatory disease affecting certain parts of the eye.
 
-## Libmyris is used to treat
+<div style=\"page-break-after: always\"></div>
+
+Libmyris is used to treat
 
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye.
@@ -6804,11 +6767,11 @@ Talk to your doctor or pharmacist before using Libmyris.
 
 In rare cases, these infections can be life-threatening. It is important to tell your doctor if you get symptoms such as fever, wounds, feeling tired or dental problems. Your doctor may tell you to stop using Libmyris for some time.
 
-<div style=\"page-break-after: always\"></div>
-
 - Tell your doctor if you live or travel in regions where fungal infections (for example, histoplasmosis, coccidioidomycosis or blastomycosis) are very common.
 - Tell your doctor if you have had infections which keep coming back or other conditions that increase the risk of infections.
 - If you are over 65 years you may be more likely to get infections while taking Libmyris. You and your doctor should pay special attention to signs of infection while you are being treated with Libmyris. It is important to tell your doctor if you get symptoms of infections, such as fever, wounds, feeling tired or dental problems.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tuberculosis
 
@@ -6836,15 +6799,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 - Certain vaccines may cause infections and should not be given while receiving Libmyris.
 - o Check with your doctor before you receive any vaccines.
 - o It is recommended that children, if possible, be given all the scheduled vaccinations for their age before they start treatment with Libmyris.
-- o If you received Libmyris while you were pregnant, your baby may be at higher risk for getting such an infection for up to approximately five months after the last Libmyris dose you received during pregnancy. It is important that you tell your baby's doctors and other
-
-<div style=\"page-break-after: always\"></div>
-
-health care professionals about your Libmyris use during your pregnancy so they can decide when your baby should receive any vaccine.
+- o If you received Libmyris while you were pregnant, your baby may be at higher risk for getting such an infection for up to approximately five months after the last Libmyris dose you received during pregnancy. It is important that you tell your baby's doctors and other health care professionals about your Libmyris use during your pregnancy so they can decide when your baby should receive any vaccine.
 
 ## Heart failure
 
 - If you have mild heart failure and are being treated with Libmyris, your heart failure status must be closely monitored by your doctor. It is important to tell your doctor if you have had or have a serious heart condition. If you develop new or worsening symptoms of heart failure (e.g. shortness of breath, or swelling of your feet), you must contact your doctor immediately. Your doctor will decide if you should receive Libmyris.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fever, bruising, bleeding or looking pale
 
@@ -6877,8 +6838,6 @@ You should not take Libmyris with medicines containing the following active subs
 - anakinra
 - abatacept.
 
-<div style=\"page-break-after: always\"></div>
-
 Libmyris can be taken together with:
 
 - methotrexate
@@ -6890,6 +6849,9 @@ If you have questions, please ask your doctor.
 ## Pregnancy and breast-feeding
 
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Libmyris treatment.
+
+<div style=\"page-break-after: always\"></div>
+
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Libmyris should only be used during a pregnancy if needed.
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
@@ -6913,17 +6875,19 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 
 The recommended doses for Libmyris in each of the approved uses are shown in the following table. Your doctor may prescribe another strength of Libmyris if you need a different dose.
 
-<div style=\"page-break-after: always\"></div>
-
 | Rheumatoid arthritis   | Rheumatoid arthritis            | Rheumatoid arthritis                                                                                                                                                                                                                                                                                                                                  |
 |------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Age or body weight     | How much and how often to take? | Notes                                                                                                                                                                                                                                                                                                                                                 |
 | Adults                 | 40 mg every other week          | In rheumatoid arthritis, methotrexate is continued while using Libmyris. If your doctor decides that methotrexate is inappropriate, Libmyris can be given alone. If you have rheumatoid arthritis and you do not receive methotrexate with your Libmyris therapy, your doctor may decide to give Libmyris 40 mg every week or 80 mg every other week. |
 
-| Plaque psoriasis   | Plaque psoriasis                                                                                                      | Plaque psoriasis                                                                                                     |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Age or body weight | How much and how often to take?                                                                                       | Notes                                                                                                                |
-| Adults             | First dose of 80 mg (one 80 mg injection), followed by 40 mg every other week starting one week after the first dose. | If you have an inadequate response, your doctor may increase the dose to 40 mg every week or 80 mg every other week. |
+| Plaque psoriasis   |                                                              | Notes                                               |
+|--------------------|--------------------------------------------------------------|-----------------------------------------------------|
+| Adults             | First dose of 80 mg (one 80 mg injection), followed by 40 mg | If you have an inadequate response, your doctor may |
+
+<div style=\"page-break-after: always\"></div>
+
+| every other week starting one week after the first dose.   | increase the dose to 40 mg every week or 80 mg every other week.   |
+|------------------------------------------------------------|--------------------------------------------------------------------|
 
 | Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                    | Hidradenitis suppurativa                                                                                                                                                                                                               |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6931,22 +6895,22 @@ The recommended doses for Libmyris in each of the approved uses are shown in the
 | Adults                                                        | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by an 80 mg dose (one 80 mg injection) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
 | Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (one 80 mg injection), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                      | If you have an inadequate response to Libmyris 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                           | Crohn's disease                                                                                                                                                                              |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Age or body weight                                                          | How much and how often to take?                                                                                                                                                                                                                                                                                                                                           | Notes                                                                                                                                                                                        |
 | Children, adolescents and adults from 6 years of age weighing 40 kg or more | First dose of 80 mg (one 80 mg injection), followed by 40 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.                                                                                                             |
 | Children and adolescents from 6 to 17 years of age weighing less than 40 kg | The Libmyris 80 mg pre-filled pen should not be used in children or adolescents weighing less than 40 kg with Crohn's disease, since it is not possible to administer doses less than 80 mg.                                                                                                                                                                              | The Libmyris 80 mg pre-filled pen should not be used in children or adolescents weighing less than 40 kg with Crohn's disease, since it is not possible to administer doses less than 80 mg. |
 
-| Ulcerative colitis                                                    | Ulcerative colitis                                                                                                                                                                                                             | Ulcerative colitis                                                                            |
-|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                | Notes                                                                                         |
-| Adults                                                                | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
-| Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (one 80 mg injection), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                      | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Ulcerative colitis   |                                 |       |
+|----------------------|---------------------------------|-------|
+| Age or body weight   | How much and how often to take? | Notes |
 
 <div style=\"page-break-after: always\"></div>
+
+| Adults                                                                | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.   | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (one 80 mg injection), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days), followed by 80 mg (one 80 mg injection) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
 
 | Non-infectious uveitis                                              | Non-infectious uveitis                                                                                                | Non-infectious uveitis                                                                                                                                                                                           |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6967,6 +6931,8 @@ If you accidentally inject Libmyris more frequently than told to by your doctor 
 ## If you forget to use Libmyris
 
 If you forget to give yourself an injection, you should inject the next dose of Libmyris as soon as you remember. Then take your next dose as you would have on your originally scheduled day, had you not forgotten a dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you stop using Libmyris
 
@@ -6992,9 +6958,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - coughing
 - tingling
 - numbness
-
-<div style=\"page-break-after: always\"></div>
-
 - double vision
 - arm or leg weakness
 - a bump or open sore that doesn't heal
@@ -7027,6 +6990,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - skin cancer
 - allergic reactions (including seasonal allergy)
 - dehydration
+
+<div style=\"page-break-after: always\"></div>
+
 - mood swings (including depression)
 - anxiety
 - difficulty sleeping
@@ -7052,9 +7018,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - itchy rash
 - bruising
 - inflammation of the skin (such as eczema)
-
-<div style=\"page-break-after: always\"></div>
-
 - breaking of finger nails and toe nails
 - increased sweating
 - hair loss
@@ -7086,6 +7049,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - hearing loss, buzzing
 - sensation of heart beating irregularly such as skipped beats
 - heart problems that can cause shortness of breath or ankle swelling
+
+<div style=\"page-break-after: always\"></div>
+
 - heart attack
 - a sac in the wall of a major artery, inflammation and clot of a vein, blockage of a blood vessel
 - lung diseases causing shortness of breath (including inflammation)
@@ -7110,9 +7076,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - severe allergic reaction with shock
 - multiple sclerosis
 - nerve disorders (such as eye nerve inflammation and Guillain-Barré syndrome that may cause muscle weakness, abnormal sensations, tingling in the arms and upper body)
-
-<div style=\"page-break-after: always\"></div>
-
 - heart stops pumping
 - pulmonary fibrosis (scarring of the lung)
 - intestinal perforation (hole in the intestine)
@@ -7145,7 +7108,9 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - increased lipids in the blood
 - elevated liver enzymes
 
-## Common (may affect up to 1 in 10 people)
+<div style=\"page-break-after: always\"></div>
+
+Common (may affect up to 1 in 10 people)
 
 - high blood measurements for white blood cells
 - low blood measurements for platelets
@@ -7158,18 +7123,17 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - autoantibodies present in the blood
 - low blood potassium
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - elevated bilirubin measurement (liver blood test)
-- low blood measurements for white blood cells, red blood cells and platelet count
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
+
+- low blood measurements for white blood cells, red blood cells and platelet count
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Libmyris
 
@@ -7177,9 +7141,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label/blister/carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
 ## Alternative Storage:
 
@@ -7198,6 +7160,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is adalimumab
 - -The other ingredients are sodium chloride, sucrose, polysorbate 80 (E 433), water for injections, hydrochloric acid (for pH adjustment), sodium hydroxide (for pH adjustment)
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Libmyris looks like and contents of the pack
 
 Libmyris 80 mg solution for injection in pre-filled pen is supplied as a sterile solution of 80 mg adalimumab dissolved in 0.8 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a pre-filled glass syringe with a fixed needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
@@ -7208,15 +7172,13 @@ Not all pack sizes may be marketed.
 
 Libmyris may be available as a pre-filled syringe and/or a pre-filled pen.
 
-Marketing Authorisation Holder STADA Arzneimittel AG
+## Marketing Authorisation Holder
 
-Stadastrasse 2-18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## Manufacturers
 
 Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach Germany
-
-<div style=\"page-break-after: always\"></div>
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
@@ -7228,35 +7190,69 @@ For any information about this medicine, please contact the local representative
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
+## Lietuva
+
+UAB 'STADA Baltics'
+
+Tel: +370 52603926
+
 ## България
 
-STADA Bulgaria EOOD Teл.: +359 29624626
+STADA Bulgaria EOOD
+
+Teл.: +359 29624626
+
+## Luxembourg/Luxemburg
+
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
-## Danmark
+## Magyarország
 
-STADA Nordic ApS Tlf: +45 44859999
+STADA Hungary Kft
+
+Tel.: +36 18009747
+
+Danmark STADA Nordic ApS Tlf: +45 44859999
+
+## Malta
+
+Pharma.MT Ltd
+
+Tel: +356 21337008
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
-STADAPHARM GmbH Tel: +49 61016030
+STADAPHARM GmbH
+
+Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics' Tel: +372 53072153
+UAB 'STADA Baltics'
+
+Tel: +372 53072153
 
 ## Ελλάδα
 
-BioARS Therapeutics A.E. Τηλ: +30 210 7717598
+BioARS Therapeutics A.E.
+
+Τηλ: +30 210 7717598
 
 ## España
 
-Laboratorio STADA, S.L. Tel: +34 934738889
+Laboratorio STADA, S.L.
+
+Tel: +34 934738889
 
 ## France
 
-Laboratoires Biogaran Tél: +33 800970109
+Laboratoires Biogaran
+
+Tél: +33 800970109
 
 ## Hrvatska
 
@@ -7266,41 +7262,63 @@ Tel: +385 13764111
 
 ## Ireland
 
-Clonmel Healthcare Ltd. Tel: +353 526177777
+Clonmel Healthcare Ltd.
 
-## Lietuva
+Tel: +353 526177777
 
-UAB 'STADA Baltics' Tel: +370 52603926
+## Ísland
 
-## Luxembourg/Luxemburg
+STADA Arzneimittel AG
 
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
+Sími: +49 61016030
 
-## Magyarország
+## Italia
 
-STADA Hungary Kft
+EG SpA
 
-Tel.: +36 18009747
+Tel: +39 028310371
 
-## Malta
+## Κύπρος
 
-Pharma.MT Ltd Tel: +356 21337008
+STADA Arzneimittel AG
+
+Τηλ: +30 2106664667
+
+## Latvija
+
+UAB 'STADA Baltics'
+
+Tel: +371 28016404
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Nederland
 
-Centrafarm B.V. Tel.: +31 765081000
+Centrafarm B.V.
+
+Tel.: +31 765081000
 
 ## Norge
 
-STADA Nordic ApS Tlf: +45 44859999
+STADA Nordic ApS
+
+Tlf: +45 44859999
 
 ## Österreich
 
-STADA Arzneimittel GmbH Tel: +43 136785850
+STADA Arzneimittel GmbH
+
+Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z o.o. Tel: +48 227377920
+STADA Pharm Sp. z o.o.
+
+Tel: +48 227377920
 
 ## Portugal
 
@@ -7310,7 +7328,9 @@ Tel: +351 211209870
 
 ## România
 
-STADA M&amp;D SRL Tel: +40 213160640
+STADA M&amp;D SRL
+
+Tel: +40 213160640
 
 ## Slovenija
 
@@ -7318,23 +7338,11 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
 ## Slovenská republika
 
 STADA PHARMA Slovakia, s.r.o.
 
 Tel: +421 252621933
-
-## Italia
-
-EG SpA
-
-Tel: +39 028310371
 
 ## Suomi/Finland
 
@@ -7342,31 +7350,11 @@ STADA Nordic ApS, Suomen sivuliike
 
 Puh/Tel: +358 207416888
 
-## Κύπρος
-
-STADA Arzneimittel AG
-
-Τηλ: +30 2106664667
-
 ## Sverige
 
 STADA Nordic ApS
 
 Tel: +45 44859999
-
-## Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7529,13 +7517,9 @@ Do not lift up, or let go of the pressure from the injection site, until you hav
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-Figure K
-
-Figure L
-
 STEP 8: Remove Libmyris pre-filled pen from skin with care
+
+<!-- image -->
 
 Step 8a. When the injection is completed, slowly pull the Libmyris pre-filled pen from the skin. The orange needle sleeve will cover the needle tip (see Figure M).
 

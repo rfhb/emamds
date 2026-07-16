@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-12 15:37:01
+document_datetime: 2026-07-14 09:13:16
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dyrupeg-epar-product-information_en.pdf
 document_name: dyrupeg-epar-product-information_en.pdf
 version: success
-processing_time: 8.7780161
-conversion_datetime: 2025-12-19 22:27:09.350528
+processing_time: 6.7665837
+conversion_datetime: 2026-07-16 13:37:30.25893
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -70,11 +70,9 @@ One 6 mg dose (a single pre-filled syringe) of Dyrupeg is recommended for each c
 
 ## Paediatric population
 
-The safety and efficacy of Dyrupeg in children have not yet been established. Currently available data
+The safety and efficacy of Dyrupeg in children have not yet been established. Currently available data are described in sections 4.8, 5.1, and 5.2, but no recommendation on a posology can be made.
 
 <div style=\"page-break-after: always\"></div>
-
-are described in sections 4.8, 5.1, and 5.2, but no recommendation on a posology can be made.
 
 ## Renal impairment
 
@@ -176,7 +174,7 @@ This medicinal product contains 30 mg of sorbitol in each pre-filled syringe, wh
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, so it is essentially 'sodium -free .'
+This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, so it is essentially 'sodium-free.'
 
 ## Polysorbate 20 (E432)
 
@@ -184,11 +182,9 @@ This medicinal product contains 0.02 mg of polysorbate 20 in each pre-filled syr
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy, pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safely administered 14 days before chemotherapy.
-
 <div style=\"page-break-after: always\"></div>
 
-Concomitant use of pegfilgrastim with any chemotherapy agent has not been evaluated in patients. In animal models, concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
+Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy, pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safely administered 14 days before chemotherapy. Concomitant use of pegfilgrastim with any chemotherapy agent has not been evaluated in patients. In animal models, concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
 
 Possible interactions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials.
 
@@ -222,11 +218,11 @@ The most frequently reported adverse reactions were bone pain (very common [≥ 
 
 Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dyspnoea, erythema, flushing, and hypotension, occurred on initial or subsequent treatment with pegfilgrastim (uncommon [≥ 1/1 000 to &lt; 1/100]). Serious allergic reactions, including anaphylaxis, can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
 
-Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of GCSFs; see section 4.4 and section 'Description of selected adverse reactions' below.
-
-Splenomegaly, generally asymptomatic, is uncommon.
+Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of G-CSFs; see section 4.4 and section 'Description of selected adverse reactions' below.
 
 <div style=\"page-break-after: always\"></div>
+
+Splenomegaly, generally asymptomatic, is uncommon.
 
 Splenic rupture, including some fatal cases, is uncommonly reported following administration of pegfilgrastim (see section 4.4).
 
@@ -240,9 +236,9 @@ The data in the table below describe adverse reactions reported from clinical tr
 
 Table: List of adverse reactions
 
-| MedDRA system organ class                                                 | Adverse reactions    | Adverse reactions                 | Adverse reactions                                                                                                                                                         | Adverse reactions              |
+| MedDRA system class                                                       | Adverse reactions    | Adverse reactions                 | Adverse reactions                                                                                                                                                         | Adverse reactions              |
 |---------------------------------------------------------------------------|----------------------|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| MedDRA system organ class                                                 | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)        | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                           | Rare (≥ 1/10 000 to < 1/1 000) |
+| organ                                                                     | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)        | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                           | Rare (≥ 1/10 000 to < 1/1 000) |
 | Neoplasms benign, malignant, and unspecified (including cysts and polyps) |                      |                                   | Myelodysplastic syndrome 1 Acute myeloid leukaemia 1                                                                                                                      |                                |
 | Blood and lymphatic system disorders                                      |                      | Thrombocytopenia 1 Leukocytosis 1 | Sickle cell anaemia with crisis 2 Splenomegaly 2 Splenic rupture 2                                                                                                        |                                |
 | Immune system disorders                                                   |                      |                                   | Hypersensitivity reactions Anaphylaxis                                                                                                                                    |                                |
@@ -254,24 +250,16 @@ Table: List of adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders   | Sweet's syndrome (acute febrile neutrophilic dermatosis) 1,2 ; Cutaneous   | Steven-Johnson syndrome   |
-|------------------------------------------|----------------------------------------------------------------------------|---------------------------|
+| Skin and subcutaneous tissue disorders   | Sweet's syndrome (acute febrile neutrophilic dermatosis) 1,2 ; Cutaneous vasculitis 1,2   | Steven- Johnson syndrome   |
+|------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------|
 
-vasculitis
-
-1,2
-
-| MedDRA system organ                                  | Adverse reactions      | Adverse reactions                                                                                    | Adverse reactions                                                                                            | Adverse reactions              |
-|------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------|
-| class                                                | Very commo n (≥ 1/10 ) | Common (≥ 1/100 to < 1/10)                                                                           | Uncommon (≥ 1/1 000 to < 1/100)                                                                              | Rare (≥ 1/10 000 to < 1/1 000) |
-| Musculoskeletal and connective tissue disorders      | Bone pain              | Musculoskeletal pain (myalgia, arthralgia, pain in extremity, back pain, musculos keletal pain, neck |                                                                                                              |                                |
-| Renal and urinary disorders                          |                        | pain)                                                                                                | Glomerulonephritis 2                                                                                         |                                |
-| General disorders and administration site conditions |                        | Injection site pain 1 Non-cardiac chest pain                                                         | Injection site reactions 2                                                                                   |                                |
-| Investigations                                       |                        |                                                                                                      | Elevations in lactate dehydrogenase and alkaline phosphatase 1 Transient elevations in LFTs for ALT or AST 1 |                                |
-
-1 See section 'Description of selected adverse reactions' below.
-
-2 This adverse reaction was identified through post-marketing surveillance but not observed in randomized, controlled clinical trials in adults. The frequency category was estimated from a statistical calculation based on 1 576 patients receiving pegfilgrastim in nine randomized clinical trials.
+| MedDRA system organ                                 | Adverse reactions    | Adverse reactions                                                                                         | Adverse reactions                                                                                           | Adverse reactions              |
+|-----------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------|
+| class                                               | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)                                                                                | Uncommon (≥ 1/1 000 to < 1/100)                                                                             | Rare (≥ 1/10 000 to < 1/1 000) |
+| Musculoskeletal and connective tissue disorders     | Bone pain            | Musculoskeletal pain (myalgia, arthralgia, pain in extremity, back pain,musculoskelet al pain, neck pain) |                                                                                                             |                                |
+| Renal and urinary disorders                         |                      |                                                                                                           | Glomerulonephritis 2                                                                                        |                                |
+| General disordersand administration site conditions |                      | Injection site pain 1 Non-cardiac chest pain                                                              | Injection site reactions 2                                                                                  |                                |
+| Investigations                                      |                      |                                                                                                           | Elevations in lactate dehydrogenase and alkaline phosphatase 1 Transient elevations inLFTs for ALT or AST 1 |                                |
 
 ## Description of selected adverse reactions
 
@@ -317,11 +305,9 @@ Pharmacotherapeutic group: immunostimulants, colony-stimulating factor; ATC Code
 
 Dyrupeg is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-Human granulocyte colony-stimulating factor (G-CSF) is a glycoprotein that regulates the production and release of neutrophils from the bone marrow. Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule. Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance. Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes. Similar to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. G-CSF can
+Human granulocyte colony-stimulating factor (G-CSF) is a glycoprotein that regulates the production and release of neutrophils from the bone marrow. Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule. Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance. Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes. Similar to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. G-CSF can promote the growth of myeloid cells, including malignant cells, in vitro , and similar effects may be seen on some non-myeloid cells in vitro .
 
 <div style=\"page-break-after: always\"></div>
-
-promote the growth of myeloid cells, including malignant cells, in vitro , and similar effects may be seen on some non-myeloid cells in vitro .
 
 In two randomized, double-blind, pivotal studies in patients with high-risk stage II-IV breast cancer undergoing myelosuppressive chemotherapy consisting of doxorubicin and docetaxel, the use of pegfilgrastim, as a single once-per-cycle dose, reduced the duration of neutropenia and the incidence of febrile neutropenia similarly to that observed with daily administrations of filgrastim (a median of 11 daily administrations). In the absence of growth factor support, this regimen has been reported to result in a mean duration of grade 4 neutropenia of 5 to 7 days and a 30-40 % incidence of febrile neutropenia. In one study (n = 157), which used a 6 mg fixed dose of pegfilgrastim, the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.8 days compared with 1.6 days in  the filgrastim group (difference of 0.23 days, 95 % CI -0.15, 0.63). Over the entire study, the rate of febrile neutropenia was 13 % of pegfilgrastim-treated patients compared with 20 % of filgrastim-treated patients (difference 7 %, 95 % CI of -19 %, 5 %). In a second study (n = 310), which used a weight-adjusted dose (100 mcg/kg), the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.7 days, compared with 1.8 days in the filgrastim group (difference 0.03 days, 95 % CI -0.36, 0.30). The overall rate of febrile neutropenia was 9 % of patients treated with pegfilgrastim and 18 % of patients treated with filgrastim (difference 9 %, 95 % CI of -16.8 %, -1.1 %).
 
@@ -375,7 +361,7 @@ This medicinal product must not be mixed with other medicinal products, particul
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
 Dyrupeg may be exposed to room temperature (not above 25 °C) for a maximum single period of up to 72 hours, which does not adversely affect the stability of Dyrupeg.
 
@@ -401,7 +387,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o. Trtinova 260/1,Cakovice 19600, Prague 9 Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana, FRN 1914, Malta
 
 <div style=\"page-break-after: always\"></div>
 
@@ -434,11 +420,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biologically active substance
 
-CuraTeQ Biologics Private Limited, Survey No. 77/78, Indrakaran Village, Hyderabad  502329, India
+CuraTeQ Biologics Private Limited Survey No. 77/78, Indrakaran Village, Hyderabad  502329, India
 
 Name and address of the manufacturer responsible for batch release
 
-APL Swift Services (Malta) Ltd HF26, Hal Far Industrial Estate, Qasam Industrijali Hal Far, Birzebbugia, BBG 3000 Malta
+APL Swift Services (Malta) Ltd. HF26, Hal Far Industrial Estate, Qasam Industrijali Hal Far, Birzebbugia, BBG 3000
+
+Malta
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -475,7 +463,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -517,11 +505,17 @@ Keep out of the sight and reach of children.
 
 EXP
 
+## 9. SPECIAL STORAGE CONDITIONS
+
 Store in a refrigerator. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-CuraTeQ Biologics s.r.o, Trtinova 260/1,Cakovice, 19600, Prague 9 Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
 
 EU/1/25/1914/001
 
@@ -531,11 +525,7 @@ Dyrupeg 6 mg
 
 2D barcode carrying the unique identifier included
 
-PC
-
-SN
-
-## 9. SPECIAL STORAGE CONDITIONS
+PC SN
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -549,44 +539,41 @@ SN
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
-|------|------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Dyrupeg 6 mg solution for injection pegfilgrastim
 
 SC use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.6 mL
 
@@ -601,13 +588,11 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Dyrupeg 6 mg
+## Dyrupeg 6 mg solution for injection in a pre-filled syringe pegfilgrastim
 
-## solution for injection in a pre-filled syringe pegfilgrastim
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for instructions on how to report side effects.
 
-This medicine  is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for instructions on how to report side effects.
-
-## Read all of this leaflet carefully before you start using this medicinal product  because it contains important information for you.
+## Read all of this leaflet carefully before you start using this medicinal product because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist, or nurse.
@@ -627,7 +612,7 @@ This medicine  is subject to additional monitoring. This will allow quick identi
 
 Dyrupeg contains the active substance pegfilgrastim. Pegfilgrastim is a protein produced by biotechnology in bacteria called E . coli . It belongs to a group of proteins called cytokines and is very similar to a natural protein (granulocyte-colony stimulating factor) produced by your own body.
 
-Dyrupeg is used to reduce the duration of neutropenia (low white blood cell count) and the occurrence of febrile neutropenia (low white blood cell count with a fever), which can be caused by the use of cytotoxic chemotherapy (medicinal product  that destroy rapidly growing cells), in adults aged 18 and over. White blood cells are important as they help your body fight infection. These cells are very sensitive to the effects of chemotherapy, which can cause the number of these cells in your body to decrease. If white blood cells fall to a low level, there may not be enough left in the body to fight bacteria, and you may have an increased risk of infection.
+Dyrupeg is used to reduce the duration of neutropenia (low white blood cell count) and the occurrence of febrile neutropenia (low white blood cell count with a fever), which can be caused by the use of cytotoxic chemotherapy (medicinal product that destroy rapidly growing cells), in adults aged 18 and over. White blood cells are important as they help your body fight infection. These cells are very sensitive to the effects of chemotherapy, which can cause the number of these cells in your body to decrease. If white blood cells fall to a low level, there may not be enough left in the body to fight bacteria, and you may have an increased risk of infection.
 
 Your doctor has given you Dyrupeg to encourage your bone marrow (part of the bone that makes blood cells) to produce more white blood cells that help your body fight infection.
 
@@ -701,7 +686,7 @@ This medicine contains 30 mg sorbitol in each pre-filled syringe, which is equiv
 
 ## Dyrupeg contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say, essentially 'sodium -free .'
+This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say, essentially 'sodium-free.'
 
 ## Dyrupeg contains polysorbate 20 (E432)
 
@@ -757,7 +742,7 @@ Uncommon side effects (may affect up to 1 in 100 people):
 - increased spleen size.
 - spleen rupture. Some cases of splenic rupture were fatal. It is important that you contact your doctor immediately if you experience pain in the upper left side of the abdomen or left shoulder pain since this may relate to a problem with your spleen.
 - breathing problems. If you have a cough, fever, and difficulty breathing, please tell your doctor.
-- Sweet's syndrome ( plum-colored, raised, painful lesions on the limbs and sometimes the face and neck with fever) has occurred, but other factors may play a role.
+- Sweet's syndrome (plum-colored, raised, painful lesions on the limbs and sometimes the face and neck with fever) has occurred, but other factors may play a role.
 - cutaneous vasculitis (inflammation of the blood vessels in the skin).
 - damage to the tiny filters inside your kidneys (glomerulonephritis).
 - redness at the site of injection.
@@ -782,7 +767,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the syringe label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C -8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
 You may take Dyrupeg out of the refrigerator and keep it at room temperature (not above 25 °C) for no longer than three days. Once a syringe has been removed from the refrigerator and has reached room temperature (not above 25 °C), it must be used within three days.
 
@@ -799,7 +784,7 @@ Do not throw away any medicine via wastewater or household waste. Ask your pharm
 ## What Dyrupeg contains ?
 
 - -The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
-- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 (E432) and water for injections. See section 2, 'Dyrupeg contains sorbitol (E420), polysorbate 20 (E432), and sodium .'
+- -The other ingredients are sodium acetate, sorbitol (E420), polysorbate 20 (E432) and water for injections. See section 2, 'Dyrupeg contains sorbitol (E420), polysorbate 20 (E432), and sodium.'
 
 ## What Dyrupeg looks like and the contents of the pack ?
 
@@ -811,11 +796,11 @@ The syringes are provided with an automatic needle guard.
 
 ## Marketing Authorisation Holder
 
-CuraTeQ Biologics s.r.o, Trtinova 260/1, Cakovice, 19600, Prague,
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana,
 
 <div style=\"page-break-after: always\"></div>
 
-## Czech Republic
+## FRN 1914, Malta
 
 ## Manufacturer
 
@@ -823,63 +808,51 @@ APL Swift Services (Malta) Ltd HF26, Hal Far Industrial Estate, Qasam Industrija
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Aurobindo NV/SA
 
-Aurobindo NV/SA Tel/Tél: +32 24753540
+Tél/Tel: +32 24753540
 
 ## България
 
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Teл.: +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Česká republika
 
-Curateq Biologics s.r.o. Phone: +420220990139
+CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
 
-info@curateqbiologics.eu
+## Danmark
 
-Danmark
-
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tlf.:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Deutschland
 
-PUREN Pharma GmbH Co. KG Phone: + 49 895589090
+PUREN Pharma GmbH Co. KG Tel:  + 49 895589090
 
 ## Eesti
 
-Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Ελλάδα
 
-Curateq Biologics s.r.o. Phone: +420220990139
+CuraTeQ Biologics (Malta) Limited Τηλ: +00356 99991443 Jfarrugia@aurobindo.com
 
-info@curateqbiologics.eu
-
-España
+## España
 
 Aurovitas Spain, S.A.U. Tel: +34 91 630 86 45
 
-France
+France ARROW GENERIQUES Tél:  + 33 4 72 72 60 72
 
-ARROW GENERIQUES Phone: + 33 4 72 72 60 72
-
-Hrvatska
-
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+Hrvatska CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Lietuva
 
-UAB Orion Pharma Tel. +370 5 276 9499
+UAB Orion Pharma
+
+Tel: +370 5 276 9499
 
 ## Luxembourg/Luxemburg
 
-Aurobindo NV/SA Tel/Tél: +32 24753540
+Aurobindo NV/SA Tél/Tel: +32 24753540
 
 ## Magyarország
 
@@ -887,65 +860,61 @@ Orion Pharma Kft. Tel.: +36 1 239 9095
 
 ## Malta
 
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Nederland
 
-Aurobindo Pharma B.V. Phone: +31 35 542 99 33
+Aurobindo Pharma B.V. Tel:  +31 35 542 99 33
 
 ## Norge
 
-Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tlf:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Österreich
 
-Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Polska
 
-Aurovitas Pharma Polska Sp. z o.o. Phone: +48 22 311 20 00
+Aurovitas Pharma Polska Sp. z o.o. Tel.:  +48 22 311 20 00
 
 ## Portugal
 
-Generis Farmacutica S. A Phone: +351 21 4967120
+Generis Farmacutica S. A Tel:  +351 21 4967120
 
 ## România
 
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
-Curateq Biologics s.r.o. Phone: +420220990139
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
-info@curateqbiologics.eu
+## Ísland
 
-Ísland
+CuraTeQ Biologics (Malta) Limited
 
-Curateq Biologics s.r.o. Phone: +420220990139
+Sími:  +00356 99991443
 
-info@curateqbiologics.eu
+Jfarrugia@aurobindo.com
 
-Italia
+## Italia
 
-Aurobindo Pharma (Italia) S.r.l. Phone: +39 02 9639 2601
+Aurobindo Pharma (Italia) S.r.l.
 
-Κύπρος
+Tel:  +39 02 9639 2601
 
-Curateq Biologics s.r.o. Phone: +420220990139
+## Κύπρος
 
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Τηλ: +00356 99991443 Jfarrugia@aurobindo.com
 
-Latvija
+## Latvija
 
 Orion Corporation Orion Pharma pārstāvniecība Tel: +371 20028332
 
-## This leaflet was last revised in 08/2025
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -953,23 +922,19 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Slovenija
 
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Slovenská republika
 
-Curateq Biologics s.r.o. Phone: +420220990139
-
-info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 ## Suomi/Finland
 
-Orion Corporation Puh./Tel: +358 10 4261
+Orion Corporation Puh/Tel: +358 10 4261
 
 ## Sverige
 
-Curateq Biologics s.r.o. Phone: +420220990139 info@curateqbiologics.eu
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1044,7 +1009,9 @@ Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid 
 
 <div style=\"page-break-after: always\"></div>
 
-B PUSH the plunger with slow and constant pressure until you feel or hear a 'snap.' Push all the way down through the snap. The entire dose has to be administered to trigger the guard.
+- B PUSH the plunger with slow and constant pressure until you feel or hear a 'snap.' Push all the way down through the snap. The entire dose has to be administered to
+
+trigger the guard.
 
 <!-- image -->
 
@@ -1052,7 +1019,7 @@ Precaution: It is important to push down through the 'snap' to deliver the compl
 
 C
 
-## RELEASE your thumb. Then, LIFT the syringe of the skin.
+RELEASE your thumb. Then, LIFT the syringe of the skin.
 
 <!-- image -->
 
@@ -1081,8 +1048,6 @@ Keep the syringe and sharps disposal container out of sight and out of reach of 
 ## Warnings:
 
 Do not reuse the pre-filled syringe.
-
-Do not recycle pre-filled syringes or throw them into household waste.
 
 B
 

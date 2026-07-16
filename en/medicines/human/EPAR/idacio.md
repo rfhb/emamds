@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-05 10:23:00
+document_datetime: 2026-07-13 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idacio.html
 document_name: idacio.html
 version: success
-processing_time: 0.1138354
-conversion_datetime: 2026-06-07 11:53:52.299569
+processing_time: 0.1365158
+conversion_datetime: 2026-07-16 13:18:13.163332
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Idacio
-
 # Idacio
 
 [RSS](/en/individual-human-medicine.xml/67187)
@@ -114,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Idacio](#news-on)
-- [Related content](#related-content-890)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -215,167 +137,168 @@ English (EN) (914.95 KB - PDF)
 
 Idacio : EPAR - Product information
 
-English (EN) (2.54 MB - PDF)
+English (EN) (2.5 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/en/documents/product-information/idacio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-601)
 
 български (BG) (2.9 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/bg/documents/product-information/idacio-epar-product-information_bg.pdf)
 
-español (ES) (2.76 MB - PDF)
+español (ES) (2.72 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/es/documents/product-information/idacio-epar-product-information_es.pdf)
 
-čeština (CS) (2.77 MB - PDF)
+čeština (CS) (2.78 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/cs/documents/product-information/idacio-epar-product-information_cs.pdf)
 
-dansk (DA) (2.56 MB - PDF)
+dansk (DA) (2.45 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/da/documents/product-information/idacio-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.42 MB - PDF)
+Deutsch (DE) (3.45 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/de/documents/product-information/idacio-epar-product-information_de.pdf)
 
-eesti (ET) (2.75 MB - PDF)
+eesti (ET) (2.73 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/et/documents/product-information/idacio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.29 MB - PDF)
+ελληνικά (EL) (4.23 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/el/documents/product-information/idacio-epar-product-information_el.pdf)
 
-français (FR) (3.09 MB - PDF)
+français (FR) (2.52 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/fr/documents/product-information/idacio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.23 MB - PDF)
+hrvatski (HR) (3.22 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/hr/documents/product-information/idacio-epar-product-information_hr.pdf)
 
-italiano (IT) (2.78 MB - PDF)
+italiano (IT) (2.74 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/it/documents/product-information/idacio-epar-product-information_it.pdf)
 
-latviešu (LV) (2.46 MB - PDF)
+latviešu (LV) (2.43 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/lv/documents/product-information/idacio-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.3 MB - PDF)
+lietuvių (LT) (2.31 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/lt/documents/product-information/idacio-epar-product-information_lt.pdf)
 
-magyar (HU) (2.78 MB - PDF)
+magyar (HU) (2.79 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/hu/documents/product-information/idacio-epar-product-information_hu.pdf)
 
-Malti (MT) (3.03 MB - PDF)
+Malti (MT) (2.98 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/mt/documents/product-information/idacio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.85 MB - PDF)
+Nederlands (NL) (2.82 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/nl/documents/product-information/idacio-epar-product-information_nl.pdf)
 
-polski (PL) (2.67 MB - PDF)
+polski (PL) (2.7 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/pl/documents/product-information/idacio-epar-product-information_pl.pdf)
 
-português (PT) (2.73 MB - PDF)
+português (PT) (2.69 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/pt/documents/product-information/idacio-epar-product-information_pt.pdf)
 
-română (RO) (2.67 MB - PDF)
+română (RO) (2.64 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/ro/documents/product-information/idacio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.95 MB - PDF)
+slovenčina (SK) (2.98 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/sk/documents/product-information/idacio-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.05 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/sl/documents/product-information/idacio-epar-product-information_sl.pdf)
 
-suomi (FI) (2.77 MB - PDF)
+suomi (FI) (2.73 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/fi/documents/product-information/idacio-epar-product-information_fi.pdf)
 
-svenska (SV) (2.77 MB - PDF)
+svenska (SV) (2.46 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/sv/documents/product-information/idacio-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.32 MB - PDF)
+Íslenska (IS) (2.29 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/is/documents/product-information/idacio-epar-product-information_is.pdf)
 
-norsk (NO) (2.59 MB - PDF)
+norsk (NO) (2.56 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 05/06/2026
+**First published:** 17/04/2019 **Last updated:** 13/07/2026
 
 [View](/no/documents/product-information/idacio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000338336
+**Latest procedure affecting product information:** VR/0000335825
 
-02/06/2026
+02/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -393,7 +316,7 @@ English (EN) (77.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-983)
+[Other languages (24)](#file-language-dropdown-987)
 
 български (BG) (145.96 KB - PDF)
 
@@ -541,33 +464,24 @@ norsk (NO) (90.53 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Idacio
-
-Active substance
-
-adalimumab
-
-International non-proprietary name (INN) or common name
-
-adalimumab
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Psoriatic
-- Psoriasis
-- Spondylitis, Ankylosing
-- Uveitis
-- Hidradenitis Suppurativa
-- Colitis, Ulcerative
-- Crohn Disease
-- Arthritis, Juvenile Rheumatoid
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AB04
+- **Name of medicine**
+    - Idacio
+- **Active substance**
+    - adalimumab
+- **International non-proprietary name (INN) or common name**
+    - adalimumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Psoriatic
+        - Psoriasis
+        - Spondylitis, Ankylosing
+        - Uveitis
+        - Hidradenitis Suppurativa
+        - Colitis, Ulcerative
+        - Crohn Disease
+        - Arthritis, Juvenile Rheumatoid
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -646,31 +560,18 @@ Idacio is indicated for the treatment of paediatric chronic non-infectious anter
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004475
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Fresenius Kabi Deutschland GmbH
-
-Else-Kroner-Strasse 1
-
-Opinion adopted
-
-31/01/2019
-
-Marketing authorisation issued
-
-02/04/2019
-
-Revision
-
-14
+- **EMA product number**
+    - EMEA/H/C/004475
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Fresenius Kabi Deutschland GmbH Else-Kroner-Strasse 1  61352 Bad Homburg v.d.H.  Germany
+- **Opinion adopted**
+    - 31/01/2019
+- **Marketing authorisation issued**
+    - 02/04/2019
+- **Revision**
+    - 15
 
 ## Assessment history
 
@@ -682,9 +583,9 @@ Collapse section
 
 Idacio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.61 KB - PDF)
+English (EN) (166.27 KB - PDF)
 
-**First published:** 11/07/2025 **Last updated:** 05/06/2026
+**First published:** 11/07/2025 **Last updated:** 13/07/2026
 
 [View](/en/documents/procedural-steps-after/idacio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -724,17 +625,8 @@ English (EN) (110.45 KB - PDF)
 
 01/02/2019
 
-## Related content
-
-- [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
-
-## Topics
-
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-05/06/2026
+13/07/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 14:07:59
-document_pages: 106
+document_datetime: 2026-07-13 15:32:50
+document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abasaglar-epar-product-information_en.pdf
 document_name: abasaglar-epar-product-information_en.pdf
 version: success
-processing_time: 21.7602634
-conversion_datetime: 2026-01-22 21:21:53.840256
+processing_time: 16.2013969
+conversion_datetime: 2026-07-16 13:39:09.168331
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,7 @@ The safety and efficacy of insulin glargine have been established in adolescents
 
 ## Children below 2 years of age
 
-The safety and efficacy of insulin glargine have not been established No data are available.
+The safety and efficacy of insulin glargine have not been established. No data are available.
 
 ## Switch from other insulins to ABASAGLAR
 
@@ -314,7 +314,7 @@ Rarely, insulin may cause sodium retention and oedema particularly if previously
 
 ## Paediatric population
 
-In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults. The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions ( rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
+In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults. The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -354,7 +354,7 @@ In vitro studies indicate that the affinity of insulin glargine and its metaboli
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the t herapeutic concentrations found in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in ABASAGLAR therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 ## Pharmacodynamic effects
 
@@ -384,7 +384,7 @@ In clinical studies, antibodies that cross-react with human insulin and insulin 
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography. No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
-The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤ 1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6,264), titrated to reach FPG ≤ 95 mg/dL (5.3 mM), or standard care (n=6,273).
+The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6,264), titrated to reach FPG ≤95 mg/dL (5.3 mM), or standard care (n=6,273).
 
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
@@ -392,7 +392,7 @@ Secondary endpoints included all-cause mortality and a composite microvascular o
 
 <div style=\"page-break-after: always\"></div>
 
-Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two coprimary outcomes; for any component endpoint comprising these outcomes; for all -cause mortality; or for the composite microvascular outcome.
+Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two coprimary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
 
 Mean dose of insulin glargine by study end was 0.42 U/kg. At baseline, participants had a median HbA1c value of 6.4% and median on-treatment HbA1c values ranged from 5.9 to 6.4% in the insulin glargine group, and 6.2% to 6.6% in the standard care group throughout the duration of follow-up. The rates of severe hypoglycaemia (affected participants per 100 participant years of exposure) were 1.05 for insulin glargine and 0.30 for standard care group and the rates of confirmed non-severe hypoglycaemia were 7.71 for insulin glargine and 2.44 for standard care group. Over the course of this 6-year study, 42% of the insulin glargine group did not experience any hypoglycaemia.
 
@@ -504,19 +504,13 @@ To prevent the possible transmission of disease, each pen must be used by one pa
 
 <div style=\"page-break-after: always\"></div>
 
-Empty cartridges must not be refilled and must be properly discarded. Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins
+Empty cartridges must not be refilled and must be properly discarded. Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
 
-(see section 4.4).
-
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/944/003
 
@@ -528,9 +522,7 @@ Date of first authorisation: 9 September 2014
 
 Date of latest renewal: 25 July 2019
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -540,7 +532,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen ABASAGLAR 100 units/mL Tempo Pen solution for injection in a pre-filled pen
+ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -638,15 +630,7 @@ For further details on handling, see section 6.6.
 
 Before using ABASAGLAR solution for injection in pre-filled pen, the instructions for use included in the package leaflet must be read carefully (see section 6.6).
 
-## KwikPen
-
 The KwikPen is registered in two presentations. One delivers 1 -60 units in steps of 1 unit in a single injection and the other delivers 1 - 80 units in steps of 1 unit in a single injection. The needed dose is dialled in units. The number of units is shown in the dose window of the pen.
-
-## Tempo Pen
-
-The Tempo Pen delivers 1 - 80 units in steps of 1 unit in a single injection. The needed dose is dialled in units. The number of units is shown in the dose window of the pen. The Tempo Pen can be used with the optional transfer module Tempo Smart Button (see section 6.6).
-
-As with any insulin injection, when using the Tempo Pen, Smart Button and the mobile application, the patient should be instructed to check their blood sugar levels when considering or making decisions about another injection if they are unsure how much they have injected.
 
 ## 4.3 Contraindications
 
@@ -668,13 +652,13 @@ In case of insufficient glucose control or a tendency to hyperglycaemic or hypog
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypoglycaemia
 
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed. Due to more sustained basal insulin supply with insulin glargine, less nocturnal but more early morning hypoglycaemia can be expected.
 
 Particular caution should be exercised, and intensified blood glucose monitoring is advisable in patients in whom hypoglycaemic episodes might be of particular clinical relevance, such as in patients with significant stenoses of the coronary arteries or of the blood vessels supplying the brain (risk of cardiac or cerebral complications of hypoglycaemia) as well as in patients with proliferative retinopathy, particularly if not treated with photocoagulation (risk of transient amaurosis following hypoglycaemia).
+
+<div style=\"page-break-after: always\"></div>
 
 Patients should be aware of circumstances where warning symptoms of hypoglycaemia are diminished. The warning symptoms of hypoglycaemia may be changed, be less pronounced or be absent in certain risk groups. These include patients:
 
@@ -709,11 +693,11 @@ Adherence of the patient to the dose and dietary regimen, correct insulin admini
 
 Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis. There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions. A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia. Blood glucose monitoring is recommended after the change in the injection site, and dose adjustment of antidiabetic medications may be considered.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Intercurrent illness
 
 Intercurrent illness requires intensified metabolic monitoring. In many cases urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose. The insulin requirement is often increased. Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Insulin antibodies
 
@@ -727,10 +711,6 @@ Medication errors have been reported in which other insulins, particularly short
 
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure. This should be kept in mind if treatment with the combination of pioglitazone and ABASAGLAR is considered. If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema. Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
 
-## Tempo Pen
-
-The Tempo Pen contains a magnet (see section 6.5) that may interfere with the functions of an implantable electronic medical device, such as a pacemaker. The magnetic field extends to approximately 1.5 cm.
-
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e., essentially 'sodium-free'.
@@ -743,8 +723,6 @@ Substances that may enhance the blood-glucose-lowering effect and increase susce
 
 Substances that may reduce the blood-glucose-lowering effect include corticosteroids, danazol, diazoxide, diuretics, glucagon, isoniazid, oestrogens, progestogens, phenothiazine derivatives, somatropin, sympathomimetic medicinal products (e.g. epinephrine [adrenaline], salbutamol, terbutaline), thyroid hormones, atypical antipsychotic medicinal products (e.g. clozapine and olanzapine) and protease inhibitors.
 
-<div style=\"page-break-after: always\"></div>
-
 Beta-blockers, clonidine, lithium salts or alcohol may either potentiate or weaken the blood-glucose lowering effect of insulin. Pentamidine may cause hypoglycaemia, which may sometimes be followed by hyperglycaemia.
 
 In addition, under the influence of sympatholytic medicinal products such as beta-blockers, clonidine, guanethidine and reserpine, the signs of adrenergic counter-regulation may be reduced or absent.
@@ -755,9 +733,11 @@ In addition, under the influence of sympatholytic medicinal products such as bet
 
 For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor feto/neonatal toxicity of insulin glargine.
 
+<div style=\"page-break-after: always\"></div>
+
 Animal data do not indicate reproductive toxicity.
 
-The use of ABASAGLAR may be considered during pregnancy, if clinically needed.
+## The use of ABASAGLAR may be considered during pregnancy, if clinically needed.
 
 It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycaemia. Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters. Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia). Careful monitoring of glucose control is essential.
 
@@ -783,13 +763,13 @@ Patients should be advised to take precautions to avoid hypoglycaemia whilst dri
 
 Hypoglycaemia (very common), in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to &lt;1/10; uncommon: ≥1/1,000 to &lt;1/100; rare: ≥1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000 and not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 | MedDRA system organ classes                          | Very common                                          | Common                                               | Uncommon                                             | Rare                                                 | Very rare                                            | Not known   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------|
@@ -826,9 +806,9 @@ Immediate-type allergic reactions to insulin are rare. Such reactions to insulin
 
 A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 
-<div style=\"page-break-after: always\"></div>
-
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy. However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy. In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skin and subcutaneous tissue disorders
 
@@ -860,8 +840,6 @@ Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. A
 
 More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -869,6 +847,8 @@ More severe episodes with coma, seizure, or neurologic impairment may be treated
 Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, long-acting. ATC Code: A10AE04.
 
 ABASAGLAR is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -912,7 +892,7 @@ In clinical studies, antibodies that cross-react with human insulin and insulin 
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography. No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
-The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤ 1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6,264), titrated to reach FPG ≤ 95 mg/dL (5.3 mM), or standard care (n=6,273).
+The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6,264), titrated to reach FPG ≤95 mg/dL (5.3 mM), or standard care (n=6,273).
 
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
@@ -920,7 +900,7 @@ Secondary endpoints included all-cause mortality and a composite microvascular o
 
 <div style=\"page-break-after: always\"></div>
 
-Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two coprimary outcomes; for any component endpoint comprising these outcomes; for all -cause mortality; or for the composite microvascular outcome.
+Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two coprimary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
 
 Mean dose of insulin glargine by study end was 0.42 U/kg. At baseline, participants had a median HbA1c value of 6.4% and median on-treatment HbA1c values ranged from 5.9 to 6.4% in the insulin glargine group, and 6.2% to 6.6% in the standard care group throughout the duration of follow-up. The rates of severe hypoglycaemia (affected participants per 100 participant years of exposure) were 1.05 for insulin glargine and 0.30 for standard care group and the rates of confirmed non-severe hypoglycaemia were 7.71 for insulin glargine and 2.44 for standard care group. Over the course of this 6-year study, 42% of the insulin glargine group did not experience any hypoglycaemia.
 
@@ -1000,27 +980,17 @@ Do not store ABASAGLAR next to the freezer compartment or a freezer pack.
 
 Keep the pre-filled pen in the outer carton in order to protect from light.
 
-## In use
+In use
 
 For storage conditions after first opening of this medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-## KwikPen
-
 3 mL solution in a cartridge (type 1 colourless glass) with a plunger (halobutyl rubber) and a disc seal (laminate of polyisoprene and halobutyl rubber) with aluminium seal.
 
 The cartridge is sealed in a disposable pen injector.
 
-Packs of 5 pre-filled pens and multipacks containing 10 (2 packs of 5) pre-filled pens.
-
-## Tempo Pen
-
-3 mL solution in a cartridge (type 1 colourless glass) with a plunger (halobutyl rubber) and a disc seal (laminate of polyisoprene and halobutyl rubber) with aluminium seal. The cartridge is sealed in a disposable pen injector. The Tempo Pen contains a magnet (see section 4.4).
-
-Packs of 5 pre-filled pens and multipacks containing 10 (2 packs of 5) pre-filled pens.
-
-Not all pack sizes may be marketed.
+Packs of 5 pre-filled pens and multipacks containing 10 (2 packs of 5) pre-filled pens. Not all pack sizes may be marketed.
 
 Needles are not included in the pack.
 
@@ -1032,8 +1002,6 @@ Inspect the cartridge before use. It must only be used if the solution is clear,
 
 ABASAGLAR must not be mixed with any other insulin or diluted. Mixing or diluting can change its time/action profile and mixing can cause precipitation.
 
-<div style=\"page-break-after: always\"></div>
-
 Empty pens must never be reused and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
@@ -1042,9 +1010,7 @@ Insulin label must always be checked before each injection to avoid medication e
 
 The patient should be advised to read the instructions for use included in the package leaflet carefully before using ABASAGLAR solution for injection in pre-filled pen.
 
-## Tempo Pen
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Abasaglar dose information from the Tempo Pen to a compatible mobile application. The Tempo Pen injects insulin with or without the Tempo Smart Button attached. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application.
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1052,9 +1018,13 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/944/007 EU/1/14/944/008 EU/1/14/944/012 EU/1/14/944/013 EU/1/14/944/014
+EU/1/14/944/007
 
-EU/1/14/944/015
+EU/1/14/944/008
+
+EU/1/14/944/012
+
+EU/1/14/944/013
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1138,7 +1108,9 @@ OUTER CARTON - Cartridge. Pack of 5 and 10
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABASAGLAR 100 units/mL solution for injection in a cartridge insulin glargine
+ABASAGLAR 100 units/mL solution for injection in a cartridge
+
+insulin glargine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1232,8 +1204,8 @@ ABASAGLAR
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1279,7 +1251,9 @@ OUTER CARTON - KwikPen. Pack of 5
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen insulin glargine
+ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen
+
+insulin glargine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1371,8 +1345,8 @@ ABASAGLAR
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1384,7 +1358,9 @@ OUTER CARTON for multipack (with blue box) - KwikPen
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen insulin glargine
+ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen
+
+insulin glargine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1476,8 +1452,8 @@ ABASAGLAR
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1489,7 +1465,9 @@ INTERMEDIATE CARTON of a multipack (without blue box) - KwikPen
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen insulin glargine
+ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen
+
+insulin glargine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1569,13 +1547,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 ABASAGLAR
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1608,316 +1586,6 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON \\_\\_ Tempo Pen. Pack of 5
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-ABASAGLAR 100 units/mL Tempo Pen solution for injection in a pre-filled pen insulin glargine
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL contains 100 units insulin glargine (equivalent to 3.64 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: zinc oxide, metacresol, glycerol, hydrochloric acid and sodium hydroxide, water for injections. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-5 pens of 3 mL.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-Discard pen 28 days after first use.
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-In use:
-
-Store below 30 ºC.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/944/014
-
-5 pens
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-ABASAGLAR
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON for multipack (with blue box) - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-ABASAGLAR 100 units/mL Tempo Pen solution for injection in a pre-filled pen insulin glargine
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL contains 100 units insulin glargine (equivalent to 3.64 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: zinc oxide, metacresol, glycerol, hydrochloric acid and sodium hydroxide, water for injections. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-Multipack: 10 (2 packs of 5) pens of 3 mL.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-Discard pen 28 days after first use.
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-In use:
-
-Store below 30 ºC.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/944/015 10 (2 x 5) pens
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-ABASAGLAR
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-INTERMEDIATE CARTON of a multipack (without blue box) - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-ABASAGLAR 100 units/mL Tempo Pen solution for injection in a pre-filled pen insulin glargine
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL contains 100 units  insulin glargine (equivalent to 3.64 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: zinc oxide, metacresol, glycerol, hydrochloric acid and sodium hydroxide, water for injections. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-5 pens of 3 mL. Component of a multipack, can't be sold separately.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-Discard pen 28 days after first use.
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-In use:
-
-Store below 30 ºC.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/944/015
-
-10 (2 x 5) pens
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-ABASAGLAR
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL TEXT -Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-ABASAGLAR 100 units/mL Tempo Pen injection insulin glargine SC use
-
-## 2. METHOD OF ADMINISTRATION
-
-Read the package leaflet before use
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-3 mL
-
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2021,11 +1689,11 @@ Medicines that may cause your blood sugar level to fall (hypoglycaemia) include:
 - -fibrates (used to lower high levels of blood lipids),
 - -monoamine oxidase (MAO) inhibitors (used to treat depression),
 - -pentoxifylline, propoxyphene, salicylates (such as aspirin, used to relieve pain and lower fever),
+- -somatostatin analogues (such as octreotide, used to treat an uncommon condition in which you make too much growth hormone),
 
 <div style=\"page-break-after: always\"></div>
 
-- -somatostatin analogues (such as octreotide, used to treat an uncommon condition in which you make too much growth hormone),
-- -sulphonamide antibiotics.
+## -sulphonamide antibiotics.
 
 Medicines that may cause your blood sugar level to rise (hyperglycaemia) include:
 
@@ -2074,11 +1742,11 @@ Keep this possible problem in mind in all situations where you might put yoursel
 - -you have frequent episodes of hypoglycaemia,
 - -the first warning symptoms which help you to recognise hypoglycaemia are reduced or absent.
 
-<div style=\"page-break-after: always\"></div>
-
 ## ABASAGLAR contains sodium
 
 This medicine contains less than 1 mmol (23 mg) sodium per dose, which means it is essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use ABASAGLAR
 
@@ -2124,9 +1792,9 @@ To prevent the possible transmission of disease, each pen must be used by one pa
 
 Look at the cartridge before you use it. Only use it if the solution is clear, colourless and water-like, and has no visible particles in it. Do not shake or mix it before use.
 
-<div style=\"page-break-after: always\"></div>
-
 Always use a new cartridge if you notice that your blood sugar control is unexpectedly getting worse. This is because the insulin may have lost some of its effectiveness. If you think you may have a problem with ABASAGLAR, have it checked by your doctor or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special care before injection
 
@@ -2167,9 +1835,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of your blood sugar being too low (hypoglycaemia), take the action to increase your blood sugar levels immediately . Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-<div style=\"page-break-after: always\"></div>
-
 Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skin changes at the injection site
 
@@ -2209,15 +1877,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the carton and on the label of the cartridge after 'EXP'. The expiry date refers to the last day of that month.
 
-## Unopened cartridges
+Unopened cartridges Store in a refrigerator (2°C - 8°C). Do not freeze. Do not put ABASAGLAR next to the freezer compartment or a freezer pack.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-Do not put ABASAGLAR next to the freezer compartment or a freezer pack.
+<div style=\"page-break-after: always\"></div>
 
 Keep the cartridge in the outer carton in order to protect from light.
 
@@ -2262,7 +1926,7 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. +359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. +359 2 491 41 40
 
 ## Česká republika
 
@@ -2274,9 +1938,7 @@ Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH
-
-Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -2284,7 +1946,7 @@ Eli Lilly Nederland B.V. Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
 
 ## España
 
@@ -2308,13 +1970,11 @@ Icepharma hf. Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
 
 ## Κύπρος
 
-Phadisco Ltd Τηλ : +357 22 715000
+Phadisco Ltd Τηλ: +357 22 715000
 
 ## Lietuva
 
@@ -2334,19 +1994,17 @@ Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
+Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
+Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -2366,9 +2024,7 @@ Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
@@ -2380,17 +2036,17 @@ Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+## Latvija
 
-Latvija + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel:
+
++ 371 67364000
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Tel:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2722,11 +2378,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of your blood sugar being too low (hypoglycaemia), take the action to increase your blood sugar levels immediately . Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe
+Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
 
 <div style=\"page-break-after: always\"></div>
-
-allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
 
 ## Skin changes at the injection site
 
@@ -2819,9 +2473,7 @@ Tel. +370 (5) 2649600
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България
-
-тел. +359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. +359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -2875,7 +2527,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -2919,9 +2571,7 @@ Tel: + 39- 055 42571
 
 Phadisco Ltd
 
-Τηλ
-
-: +357 22 715000
+Τηλ: +357 22 715000
 
 ## Latvija
 
@@ -3089,7 +2739,9 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 Instructions for use
 
-## ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen insulin glargine
+## ABASAGLAR 100 units/mL KwikPen solution for injection in a pre-filled pen
+
+## insulin glargine
 
 <!-- image -->
 
@@ -3153,6 +2805,8 @@ ABASAGLAR should look clear and colourless. Do not use if it is cloudy, coloured
 
 - Push the capped needle straight onto the pen and twist the needle on until it is tight.
 
+二
+
 <!-- image -->
 
 <!-- image -->
@@ -3172,6 +2826,12 @@ ABASAGLAR should look clear and colourless. Do not use if it is cloudy, coloured
 
 - Priming your pen means removing the air from the needle and cartridge that may collect during normal use and ensures that the pen is working correctly.
 - If you do not prime before each injection, you may get too much or too little insulin.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3267,8 +2927,6 @@ If you see blood after you take the needle out of your skin, press the injection
 
 ## After your injection
 
-<!-- image -->
-
 | Step 12: • Carefully replace the outer needle shield.                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Step 13: • Unscrew the capped needle and dispose of it as directed by your healthcare professional. • Do not store the pen with the needle attached to prevent leaking, blocking the needle, and air from entering the pen. |
@@ -3302,6 +2960,12 @@ If you see blood after you take the needle out of your skin, press the injection
 
 ## Troubleshooting
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 - If you cannot remove the pen cap, gently twist the cap back and forth, and then pull the cap straight off.
@@ -3311,867 +2975,5 @@ If you see blood after you take the needle out of your skin, press the injection
 - You may have dust, food, or liquid inside the pen. Throw the pen away and get a new pen.
 
 If you have any questions or problems with your ABASAGLAR KwikPen, contact your healthcare professional for assistance.
-
-## This leaflet was last revised in
-
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## ABASAGLAR 100 units/mL Tempo Pen solution for injection in a pre-filled pen insulin glargine
-
-Read all of this leaflet carefully including the Instructions for Use of the ABASAGLAR Tempo pre-filled pen, before you start using this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What ABASAGLAR is and what it is used for
-2. What you need to know before you use ABASAGLAR
-3. How to use ABASAGLAR
-4. Possible side effects
-5. How to store ABASAGLAR
-6. Contents of the pack and other information
-
-## 1. What ABASAGLAR is and what it is used for
-
-ABASAGLAR contains insulin glargine. This is a modified insulin, very similar to human insulin.
-
-ABASAGLAR is used to treat diabetes mellitus in adults, adolescents and children aged 2 years and above.
-
-Diabetes mellitus is a disease where your body does not produce enough insulin to control the level of blood sugar. Insulin glargine has a long and steady blood-sugar-lowering action.
-
-## 2. What you need to know before you use ABASAGLAR
-
-## Do not use ABASAGLAR
-
-If you are allergic to insulin glargine or any of the other ingredients of this medicine (listed in section 6).
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before using ABASAGLAR.
-
-Follow closely the instructions for posology, monitoring (blood and urine tests), diet and physical activity (physical work and exercise) as discussed with your doctor.
-
-If your blood sugar is too low (hypoglycaemia), follow the guidance for hypoglycaemia (see box at the end of this leaflet).
-
-## Skin changes at the injection site
-
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work well if you inject into a lumpy area (See How to use Abasaglar). Contact your doctor if you are currently injecting into a lumpy area before you start injecting into a different area. Your
-
-<div style=\"page-break-after: always\"></div>
-
-doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
-
-## Travel
-
-Before travelling consult your doctor. You may need to talk about:
-
-- -the availability of your insulin in the country you are visiting,
-- -supplies of insulin etc.
-- -correct storage of your insulin while travelling,
-- -timing of meals and insulin administration while travelling,
-- -the possible effects of changing to different time zones,
-- -possible new health risks in the countries to be visited,
-- -what you should do in emergency situations when you feel unwell or become ill.
-
-## Illnesses and injuries
-
-In the following situations, the management of your diabetes may require a lot of care (for example, adjustment to insulin dose, blood and urine tests):
-
-- -If you are ill or have a major injury then your blood sugar level may increase (hyperglycaemia).
-- -If you are not eating enough your blood sugar level may become too low (hypoglycaemia).
-
-In most cases you will need a doctor. Make sure that you contact a doctor early.
-
-If you have type 1 diabetes (insulin dependent diabetes mellitus), do not stop your insulin and continue to get enough carbohydrates. Always tell people who are caring for you or treating you that you require insulin.
-
-Insulin treatment can cause the body to produce antibodies to insulin (substances that act against insulin). However, only very rarely, this will require a change to your insulin dose.
-
-Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
-
-## Insulin mix-ups
-
-You must always check the pack and the insulin label before each injection to avoid mix-ups between ABASAGLAR and other insulins.
-
-## Tempo Pen
-
-The Tempo Pen contains a magnet. If you have a medical device fitted, such as a heart pacemaker, this may not work correctly if the Tempo Pen is held too close. The magnetic field extends to approximately 1.5 cm.
-
-## Children
-
-There is no experience with the use of ABASAGLAR in children below the age of 2 years.
-
-## Other medicines and ABASAGLAR
-
-Some medicines cause changes in the blood sugar level (decrease, increase or both depending on the situation). In each case, it may be necessary to adjust your insulin dose to avoid blood sugar levels that are either too low or too high. Be careful when you start or stop taking another medicine. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Before taking a medicine ask your doctor if it can affect your blood sugar level and what action, if any, you need to take.
-
-Medicines that may cause your blood sugar level to fall (hypoglycaemia) include:
-
-- ­ all other medicines to treat diabetes,
-- ­ angiotensin converting enzyme (ACE) inhibitors (used to treat certain heart conditions or high blood pressure),
-
-<div style=\"page-break-after: always\"></div>
-
-- ­ disopyramide (used to treat certain heart conditions),
-- ­ fluoxetine (used to treat depression),
-- ­ fibrates (used to lower high levels of blood lipids),
-- ­ monoamine oxidase (MAO) inhibitors (used to treat depression),
-- ­ pentoxifylline, propoxyphene, salicylates (such as aspirin, used to relieve pain and lower fever),
-- ­ somatostatin analogues (such as octreotide, used to treat an uncommon condition in which you make too much growth hormone),
-- ­ sulphonamide antibiotics.
-
-Medicines that may cause your blood sugar level to rise (hyperglycaemia) include:
-
-- ­ corticosteroids (such as \"cortisone\" used to treat inflammation),
-- ­ danazol (medicine acting on ovulation),
-- ­ diazoxide (used to treat high blood pressure),
-- ­ diuretics (used to treat high blood pressure or excessive fluid retention),
-- ­ glucagon (pancreas hormone used to treat severe hypoglycaemia),
-- ­ isoniazid (used to treat tuberculosis),
-- ­ oestrogens and progestogens (such as in the contraceptive pill used for birth control),
-- ­ phenothiazine derivatives (used to treat psychiatric disorders),
-- ­ somatropin (growth hormone),
-- ­ sympathomimetic medicines (such as epinephrine [adrenaline], salbutamol, terbutaline used to treat asthma),
-- ­ thyroid hormones (used to treat thyroid gland disorders),
-- ­ atypical antipsychotic medicines (such as clozapine, olanzapine),
-- ­ protease inhibitors (used to treat HIV).
-
-Your blood sugar level may either rise or fall if you take:
-
-- ­ beta-blockers (used to treat high blood pressure),
-- ­ clonidine (used to treat high blood pressure),
-- ­ lithium salts (used to treat psychiatric disorders).
-
-Pentamidine (used to treat some infections caused by parasites) may cause hypoglycaemia which may sometimes be followed by hyperglycaemia.
-
-Beta-blockers like other sympatholytic medicines (such as clonidine, guanethidine, and reserpine) may weaken or suppress entirely the first warning symptoms which help you to recognise a hypoglycaemia If you are not sure whether you are taking one of those medicines ask your doctor or pharmacist.
-
-## ABASAGLAR with alcohol
-
-Your blood sugar levels may either rise or fall if you drink alcohol.
-
-## Pregnancy and breast-feeding
-
-Ask your doctor or pharmacist for advice before taking any medicine. Inform your doctor if you are planning to become pregnant, or if you are already pregnant. Your insulin dose may need to be changed during pregnancy and after giving birth. Particularly careful control of your diabetes, and prevention of hypoglycaemia, is important for the health of your baby. If you are breast-feeding consult your doctor as you may require adjustments in your insulin doses and your diet.
-
-## Driving and using machines
-
-Your ability to concentrate or react may be reduced if:
-
-- -you have hypoglycaemia (low blood sugar levels),
-- -you have hyperglycaemia (high blood sugar levels),
-- -you have problems with your sight.
-
-Keep this possible problem in mind in all situations where you might put yourself and others at risk (such as driving a car or using machines). You should contact your doctor for advice on driving if:
-
-<div style=\"page-break-after: always\"></div>
-
-- -you have frequent episodes of hypoglycaemia,
-- -the first warning symptoms which help you to recognise hypoglycaemia are reduced or absent.
-
-## ABASAGLAR contains sodium
-
-This medicine contains less than 1 mmol (23 mg) sodium per dose, which means it is essentially 'sodium-free'.
-
-## 3. How to use ABASAGLAR
-
-Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
-
-Although ABASAGLAR contains the same active substance as Toujeo (insulin glargine 300 units/mL), these medicines are not interchangeable. The switch from one insulin therapy to another requires medical prescription, medical supervision and blood glucose monitoring. Please consult your doctor for further information.
-
-## Dose
-
-Based on your life-style and the results of your blood sugar (glucose) tests and your previous insulin usage, your doctor will:
-
-- -determine how much ABASAGLAR per day you will need and at what time,
-- -tell you when to check your blood sugar level, and whether you need to carry out urine tests,
-- -tell you when you may need to inject a higher or lower dose of ABASAGLAR.
-
-ABASAGLAR is a long-acting insulin. Your doctor may tell you to use it in combination with a shortacting insulin or with tablets used to treat high blood sugar levels.
-
-Many factors may influence your blood sugar level. You should know these factors so that you are able to react correctly to changes in your blood sugar level and to prevent it from becoming too high or too low. See the box at the end of this leaflet for further information.
-
-## Use in children and adolescents
-
-ABASAGLAR can be used in adolescents and children aged 2 years and above. Use this medicine exactly as your doctor has told you.
-
-## Frequency of administration
-
-You need one injection of ABASAGLAR every day, at the same time of the day.
-
-## Method of administration
-
-ABASAGLAR is injected under the skin. Do NOT inject ABASAGLAR in a vein, since this will change its action and may cause hypoglycaemia.
-
-Your doctor will show you in which area of the skin you should inject ABASAGLAR. With each injection, change the puncture site within the particular area of skin that you are using.
-
-## How to handle ABASAGLAR Tempo Pen
-
-ABASAGLAR Tempo Pen is a pre-filled disposable pen containing insulin glargine.
-
-## Read carefully the \"ABASAGLAR Tempo Pen Instructions for Use\" included with this package leaflet. You must use the pen as described in these Instructions for Use.
-
-A new needle must be attached before each use. Only use needles that are compatible for use with ABASAGLAR Tempo Pen (see 'ABASAGLAR Tempo Pen Instructions for Use').
-
-A safety test must be performed before each injection.
-
-<div style=\"page-break-after: always\"></div>
-
-Look at the cartridge before you use the pen. Do not use ABASAGLAR Tempo Pen if you notice particles in it. Only use ABASAGLAR Tempo Pen if the solution is clear, colourless and water-like. Do not shake or mix it before use.
-
-To prevent the possible transmission of disease, each pen must be used by one patient only.
-
-Make sure that neither alcohol nor other disinfectants or other substances contaminate the insulin.
-
-Always use a new pen if you notice that your blood sugar control is unexpectedly getting worse. If you think you may have a problem with ABASAGLAR Tempo Pen, consult your doctor, pharmacist or nurse.
-
-Empty pens must not be re-filled and must be properly discarded.
-
-Do not use ABASAGLAR Tempo Pen if it is damaged or not working properly, it has to be discarded and a new Tempo Pen has to be used.
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The optional additional feature Tempo Smart Button is a product available for the Tempo Pen, which may be used for transmitting dose information to a mobile application. The Tempo Pen can be used with or without the Tempo Smart Button attached. See instructions provided with the Tempo Smart Button and the mobile application for further information.
-
-## If you use more ABASAGLAR than you should
-
-- -If you have injected too much ABASAGLAR or are unsure how much you have injected , , your blood sugar level may become too low (hypoglycaemia). Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
-
-## If you forget to use ABASAGLAR
-
-- -If you have missed a dose of ABASAGLAR or if you have not injected enough insulin or are unsure how much you have injected, your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
-- -Do not take a double dose to make up for a forgotten dose.
-
-## After injecting
-
-If you are unsure how much you have injected then check your blood sugar levels before deciding if you need another injection.
-
-## If you stop using ABASAGLAR
-
-This could lead to severe hyperglycaemia (very high blood sugar) and ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). Do not stop ABASAGLAR without speaking to a doctor, who will tell you what needs to be done.
-
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-If you notice signs of your blood sugar being too low (hypoglycaemia), take the action to increase your blood sugar levels immediately . Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out
-
-<div style=\"page-break-after: always\"></div>
-
-(become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
-
-Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
-
-## Skin changes at the injection site
-
-If you inject insulin too often at the same place, the fatty tissue may shrink (lipoatrophy, may affect up to 1 in 100 people) or thicken (lipohypertrophy, may affect up to 1 in 10 people). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis, how often they occur is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
-
-Common side effects (may affect up to 1 in 10 people)
-
-## · Skin and allergic reactions at the injection site
-
-The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. They can spread around the injection site. Most minor reactions to insulins usually disappear in a few days to a few weeks.
-
-Rare side effects (may affect up to 1 in 1,000 people)
-
-## · Eye reactions
-
-A marked change (improvement or worsening) in your blood sugar control can disturb your vision temporarily. If you have proliferative retinopathy (an eye disease related to diabetes) severe hypoglycaemic attacks may cause temporary loss of vision.
-
-## · General disorders
-
-In rare cases, insulin treatment may also cause temporary build-up of water in the body, with swelling in the calves and ankles.
-
-## Very rare side-effects (may affect up to1 in 10,000 people)
-
-In very rare cases, dysgeusia (taste disorders) and myalgia (muscular pain) can occur.
-
-## Use in children and adolescents
-
-In general, the side effects in children and adolescents of 18 years of age or less are similar to those seen in adults.
-
-Complaints of injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) are reported relatively more frequently in children and adolescents of 18 years of age or less than in adults.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store ABASAGLAR
-
-Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
-
-Do not use this medicine after the expiry date which is stated on the carton and on the label of the pen after 'EXP'. The expiry date refers to the last day of that month.
-
-## Not in-use pens
-
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Do not put ABASAGLAR next to the freezer compartment or a freezer pack.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
-
-## In-use pens
-
-Pre-filled pens in use or carried as a spare may be stored for a maximum of 28 days up to 30 °C and away from direct heat or direct light. The pen in use must not be stored in the refrigerator. Do not use it after this time period. The pen cap must be put back on the pen after each injection in order to protect from light.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What ABASAGLAR contains
-
-- -The active substance is insulin glargine. Each millilitre of the solution contains 100 units of the active substance insulin glargine (equivalent to 3.64 mg).
-- -The other ingredients are: zinc oxide, metacresol, glycerol, sodium hydroxide (see section 2 'ABASAGLAR contains sodium'), hydrochloric acid and water for injections.
-- -The Tempo Pen contains a magnet (see section 2, \"Warnings and precautions\").
-
-## What ABASAGLAR looks like and contents of the pack
-
-ABASAGLAR 100 units/mL solution for injection in a pre-filled pen, Tempo Pen, is a clear and colourless solution.
-
-ABASAGLAR is available in packs containing 5 pre-filled pens and in multipacks comprising 2 cartons, each containing 5 pre-filled pens.
-
-Not all pack sizes may be marketed.
-
-## Marketing Authorisation Holder
-
-Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
-
-## Manufacturer
-
-Lilly France S.A.S., rue du Colonel Lilly, F-67640 Fegersheim, France.
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
-
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
-## България
-
-ТП \"Ели Лили Недерланд\" Б.В. - България тел. +359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
-<div style=\"page-break-after: always\"></div>
-
-## Danmark
-
-Eli Lilly Danmark A/S
-
-Tlf.: +45 45 26 60 00
-
-## Deutschland
-
-Lilly Deutschland GmbH
-
-Tel. + 49-(0) 6172 273 2222
-
-## Eesti
-
-Eli Lilly Nederland B.V.
-
-Tel: +372 6 817 280
-
-## Ελλάδα
-
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ: +30 210 629 4600
-
-## España
-
-Lilly S.A.
-
-Tel: + 34-91 663 50 00
-
-## France
-
-Lilly France
-
-Tél: +33-(0) 1 55 49 34 34
-
-## Hrvatska
-
-Eli Lilly Hrvatska d.o.o.
-
-Tel: +385 1 2350 999
-
-## Ireland
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
-## Ísland
-
-Icepharma hf.
-
-Sími + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
-
-## Κύπρος
-
-Phadisco Ltd
-
-Τηλ
-
-: +357 22 715000
-
-## Latvija
-
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
-
-Tel:
-
-+ 371 67364000
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0)1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-<div style=\"page-break-after: always\"></div>
-
-## HYPERGLYCAEMIA AND HYPOGLYCAEMIA
-
-## Always carry some sugar (at least 20 grams) with you.
-
-## Carry some information with you to show you are diabetic.
-
-## HYPERGLYCAEMIA (high blood sugar levels)
-
-## If your blood sugar is too high (hyperglycaemia), you may not have injected enough insulin.
-
-## Why does hyperglycaemia occur?
-
-Examples include:
-
-- -you have not injected your insulin or not injected enough, or if it has become less effective, for example through incorrect storage,
-- -your insulin pen does not work properly,
-- -you are doing less exercise than usual, you are under stress (emotional distress, excitement), or you have an injury, operation, infection or fever,
-- -you are taking or have taken certain other medicines (see section 2, \"Other medicines and ABASAGLAR\").
-
-## Warning symptoms of hyperglycaemia
-
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
-
-## What should you do if you experience hyperglycaemia?
-
-Test your blood sugar level and your urine for ketones as soon as any of the above symptoms occur. Severe hyperglycaemia or ketoacidosis must always be treated by a doctor, normally in a hospital.
-
-## HYPOGLYCAEMIA (low blood sugar levels)
-
-If your blood sugar level falls too much you may become unconscious. Serious hypoglycaemia may cause a heart attack or brain damage and may be life-threatening. You normally should be able to recognise when your blood sugar is falling too much so that you can take the right actions.
-
-## Why does hypoglycaemia occur?
-
-Examples include:
-
-- -you inject too much insulin,
-- -you miss meals or delay them,
-- -you do not eat enough, or eat food containing less carbohydrate than normal (sugar and substances similar to sugar are called carbohydrates; however, artificial sweeteners are NOT carbohydrates),
-- -you lose carbohydrates due to vomiting or diarrhoea,
-- -you drink alcohol, particularly if you are not eating much,
-- -you are doing more exercise than usual or a different type of physical activity,
-- -you are recovering from an injury or operation or other stress,
-- -you are recovering from an illness or from fever,
-- -you are taking or have stopped taking certain other medicines (see section 2, \"Other medicines and ABASAGLAR\").
-
-<div style=\"page-break-after: always\"></div>
-
-## Hypoglycaemia is also more likely to occur if
-
-- -you have just begun insulin treatment or changed to another insulin preparation (when changing from your previous basal insulin to ABASAGLAR, hypoglycaemia, if it occurs, may be more likely to occur in the morning than at night),
-- -your blood sugar levels are almost normal or are unstable,
-- -you change the area of skin where you inject insulin (for example from the thigh to the upper arm),
-- -you suffer from severe kidney or liver disease, or some other disease such as hypothyroidism.
-
-## Warning symptoms of hypoglycaemia
-
-## - In your body
-
-Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
-
-## - In your brain
-
-Examples of symptoms that indicate a low sugar level in the brain: headaches, intense hunger, nausea, vomiting, tiredness, sleepiness, sleep disturbances, restlessness, aggressive behaviour, lapses in concentration, impaired reactions, depression, confusion, speech disturbances (sometimes total loss of speech), visual disorders, trembling, paralysis, tingling sensations (paraesthesia), numbness and tingling sensations in the area of the mouth, dizziness, loss of self-control, inability to look after yourself, convulsions, loss of consciousness.
-
-The first symptoms which alert you to hypoglycaemia (\"warning symptoms\") may change, be weaker or may be missing altogether if
-
-- -you are elderly, if you have had diabetes for a long time or if you suffer from a certain type of nervous disease (diabetic autonomic neuropathy),
-- -you have recently suffered hypoglycaemia (for example the day before) or if it develops slowly,
-- -you have almost normal or, at least, greatly improved blood sugar levels,
-- -you have recently changed from an animal insulin to a human insulin such as ABASAGLAR,
-- -you are taking or have taken certain other medicines (see section 2, \"Other medicines and ABASAGLAR\").
-
-In such a case, you may develop severe hypoglycaemia (and even faint) before you are aware of the problem. Be familiar with your warning symptoms. If necessary, more frequent blood sugar testing can help to identify mild hypoglycaemic episodes that may otherwise be overlooked. If you are not confident about recognising your warning symptoms, avoid situations (such as driving a car) in which you or others would be put at risk by hypoglycaemia.
-
-## What should you do if you experience hypoglycaemia?
-
-1. Do not inject insulin. Immediately take about 10 to 20 g sugar, such as glucose, sugar cubes or a sugar-sweetened beverage. Caution: Artificial sweeteners and foods with artificial sweeteners (such as diet drinks) are of no help in treating hypoglycaemia.
-
-2. Then eat something that has a long-acting effect in raising your blood sugar (such as bread or pasta). Your doctor or nurse should have discussed this with you previously.
-
-The recovery of hypoglycaemia may be delayed because ABASAGLAR has a long action.'
-
-3. If the hypoglycaemia comes back again, take another 10 to 20 g sugar.
-
-4. Speak to a doctor immediately if you are not able to control the hypoglycaemia or if it recurs. Tell your relatives, friends and close colleagues the following:
-
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
-
-<div style=\"page-break-after: always\"></div>
-
-It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
-
-<div style=\"page-break-after: always\"></div>
-
-## Instructions for use
-
-## ABASAGLAR 100units/mL Tempo Pen solution for injection in a pre-filled pen insulin glargine
-
-<!-- image -->
-
-## PLEASE READ THESE INSTRUCTIONS BEFORE USE
-
-Read the instructions for use before you start using ABASAGLAR and each time you get another ABASAGLAR Tempo Pen. There may be new information. This information does not take the place of talking to your healthcare professional about your medical condition or your treatment.
-
-ABASAGLAR Tempo Pen ('Pen') is a disposable prefilled pen containing 300 units (3 mL) of insulin glargine. You can give yourself multiple doses using one pen. The pen dials 1 unit at a time. You can give from 1 to 80 units in a single injection. If your dose is more than 80 units, you will need to give yourself more than one injection. The plunger only moves a little with each injection, and you may not notice that it moves. The plunger will only reach the end of the cartridge when you have used all 300 units in the pen.
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Abasaglar dose information from the Tempo Pen to a compatible mobile application. The Tempo Pen injects insulin with or without the Tempo Smart Button attached. Your Smart Button must be attached to a Tempo Pen to record or transfer dose data. Push the Smart Button straight down on the dose knob until you hear a snap or feel the Smart Button snap into place. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application.
-
-Do not share your pen with other people, even if the needle has been changed. Do not reuse or share needles with other people. You may give an infection to them or get an infection from them.
-
-This pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the pen.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## How to recognise your ABASAGLAR Tempo pen:
-
-- Pen colour: Light grey
-- Dose Knob: Light grey
-- Labels: Light grey with green colour bars
-
-## Supplies needed to give your injection:
-
-- Tempo Pen containing your insulin
-- Tempo Pen compatible needle (BD [Becton, Dickinson and Company] pen needles recommended)
-- Swab
-
-Needles and swab are not included.
-
-## Preparing your pen
-
-- Wash your hands with soap and water.
-- Check the pen to make sure you are taking the right type of insulin. This is especially important if you use more than 1 type of insulin.
-- Do not use your pen past the expiration date printed on the pen label or for more than 28 days after you first start using the pen.
-- Always use a new needle for each injection to help prevent infections and blocked needles.
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 1:
-
-- Pull the pen cap straight off.
-- -Do not remove the pen label.
-- Wipe the rubber seal with a swab.
-
-ABASAGLAR should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
-
-## Step 2:
-
-- Select a new needle.
-- Pull off the paper tab from the outer needle shield.
-
-## Step 3:
-
-- Push the capped needle straight onto the pen and twist the needle on until it is tight.
-
-## Step 4:
-
-- Pull off the outer needle shield. Do not throw it away.
-- Pull off the inner needle shield and throw it away.
-
-## Priming your pen
-
-## Prime before each injection.
-
-- Priming your pen means removing the air from the needle and cartridge that may collect during normal use and ensures that the pen is working correctly.
-- If you do not prime before each injection, you may get too much or too little insulin.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 5:
-
-- To prime your pen, turn the dose knob to select 2 units.
-
-## Step 6:
-
-- Hold your pen with the needle pointing up. Tap the cartridge holder gently to collect air bubbles at the top.
-
-## Step 7:
-
-- Continue holding your pen with needle pointing up. Push the dose knob in until it stops, and '0' is seen in the dose window. Hold the dose knob in and count to 5 slowly.
-
-You should see insulin at the tip of the needle.
-
-- -If you do not see insulin, repeat the priming steps, but not more than 4 times.
-- -If you still do not see insulin, change the needle and repeat the priming steps.
-
-Small air bubbles are normal and will not affect your dose.
-
-## Selecting your dose
-
-- You can give from 1 to 80 units in a single injection.
-- If your dose is more than 80 units, you will need to give more than one injection.
-- -If you need help deciding how to divide up your dose, ask your healthcare professional.
-- -You should use a new needle for each injection and repeat the priming step.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 8:
-
-- Turn the dose knob to select the number of units you need to inject. The dose indicator should line up with your dose.
-- -The pen dials 1 unit at a time.
-- -The dose knob clicks as you turn it.
-- -DO NOT dial your dose by counting the clicks because you may dial the wrong dose.
-- -The dose can be corrected by turning the dose knob in either direction until the correct dose lines up with the dose indicator.
-- -The even numbers are printed on the dial.
-- -The odd numbers, after the number 1, are shown as full lines.
-- Always check the number in the dose window to make sure you have dialled the correct dose.
-- The pen will not let you dial more than the number of units left in the pen.
-- If you need to inject more than the number of units left in the pen, you may either:
-- -inject the amount left in your pen and then use a new pen to give the rest of your dose, or
-- -get a new pen and inject the full dose.
-- It is normal to see a small amount of insulin left in the pen that you cannot inject.
-
-(Example: 12 units shown in the dose window)
-
-<!-- image -->
-
-<!-- image -->
-
-(Example: 25 units shown in the dose window)
-
-<!-- image -->
-
-## Giving your injection
-
-- Inject your insulin as your healthcare professional has shown you.
-- Change (rotate) your injection site for each injection.
-- Do not try to change your dose while injecting.
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 9:
-
-Choose your injection site.
-
-- ABASAGLAR is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms.
-- Prepare your skin as recommended by your healthcare professional.
-
-## Step 10:
-
-- Insert the needle into your skin.
-- Push the dose knob all the way in.
-- Continue to hold the dose knob in and slowly count to 5 before removing the needle.
-
-<!-- image -->
-
-Do not try to inject your insulin by turning the dose knob. You will NOT receive your insulin by turning the dose knob.
-
-## Step 11:
-
-- Pull the needle out of your skin.
-- -A drop of insulin at the needle tip is normal. It will not affect your dose.
-- Check the number in the dose window
-- -If you see '0' in the dose window, you have received the full amount you dialled.
-- -If you do not see '0' in the dose window, do not redial. Insert the needle into your skin and finish your injection.
-- -If you still do not think you received the full amount you dialled for your injection , do not start over or repeat that injection. Monitor your blood glucose as instructed by your healthcare professional.
-- -If you normally need to give 2 injections for your full dose, be sure to give your second injection.
-
-The plunger only moves a little with each injection, and you may not notice that it moves.
-
-If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or swab. Do not rub the area.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## After your injection
-
-## Step 12:
-
-- Carefully replace the outer needle shield.
-
-## Step 13:
-
-- Unscrew the capped needle and dispose of it as described below (see Disposing of pens and needles section).
-- Do not store the pen with the needle attached to prevent leaking, blocking the needle, and air from entering the pen.
-
-## Step 14:
-
-- Replace the pen cap by lining up the cap clip with the dose indicator and pushing straight on.
-
-## Disposing of pens and needles
-
-- Put used needles in a closable, puncture-resistant sharps container.
-- Do not recycle the filled sharps container.
-- Ask your healthcare professional about options to dispose of the pens and sharps container properly.
-- The directions regarding needle handling are not intended to replace local, healthcare professional or institutional policies.
-
-## Storing your pen
-
-## Unused pens
-
-- Store unused pens in the refrigerator at (2 °C to 8 °C).
-- Do not freeze ABASAGLAR. Do not use if it has been frozen.
-- Unused pens may be used until the expiration date printed on the label, if the pen has been kept in the refrigerator.
-
-## In-use pen
-
-- Store the pen you are currently using at room temperature [below (30 °C)] and away from dust, food and liquids, heat and light.
-- Throw away the pen you are using after 28 days, even if it still has insulin left in it.
-
-## General information about the safe and effective use of your pen
-
-- Keep your pen and needles out of the sight and reach of children.
-- Do not use your pen if any part looks broken or damaged.
-- Always carry an extra pen in case yours is lost or damaged.
-
-## Troubleshooting
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-- If you cannot remove the pen cap, gently twist the cap back and forth, and then pull the cap straight off.
-- If the dose knob is hard to push:
-- -Pushing the dose knob more slowly will make it easier to inject.
-- -Your needle may be blocked. Put on a new needle and prime the pen.
-- -You may have dust, food, or liquid inside the pen. Throw the pen away and get a new pen. You may need to get a prescription from your healthcare professional.
-
-If you have any questions or problems with your ABASAGLAR Tempo Pen, contact your healthcare professional for help.
 
 ## This leaflet was last revised in

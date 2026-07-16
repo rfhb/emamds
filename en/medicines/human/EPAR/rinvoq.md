@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-22 15:25:00
+document_datetime: 2026-07-15 12:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.2167592
-conversion_datetime: 2026-06-25 16:44:40.990988
+processing_time: 0.220406
+conversion_datetime: 2026-07-16 13:15:36.909453
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Rinvoq
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Rinvoq](#news-on)
 - [More information on Rinvoq](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -164,7 +163,7 @@ English (EN) (113.89 KB - PDF)
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-198)
+[Other languages (22)](#file-language-dropdown-452)
 
 български (BG) (143.84 KB - PDF)
 
@@ -316,7 +315,7 @@ English (EN) (891.85 KB - PDF)
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (1.02 MB - PDF)
 
@@ -450,6 +449,12 @@ svenska (SV) (901.44 KB - PDF)
 
 [View](/sv/documents/product-information/rinvoq-epar-product-information_sv.pdf)
 
+Íslenska (IS) (887.21 KB - PDF)
+
+**First published:** 18/12/2019 **Last updated:** 22/06/2026
+
+[View](/is/documents/product-information/rinvoq-epar-product-information_is.pdf)
+
 norsk (NO) (843.07 KB - PDF)
 
 **First published:** 18/12/2019 **Last updated:** 22/06/2026
@@ -483,7 +488,7 @@ English (EN) (38.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-307)
 
 български (BG) (39.44 KB - PDF)
 
@@ -700,7 +705,7 @@ Crohn's disease
 - **Marketing authorisation issued**
     - 16/12/2019
 - **Revision**
-    - 32
+    - 33
 
 ## Assessment history
 
@@ -725,6 +730,16 @@ English (EN) (169.28 KB - PDF)
 **First published:** 29/04/2020 **Last updated:** 24/09/2025
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Rinvoq-PAM-0000337807 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3325357
+
+English (EN) (255.98 KB - PDF)
+
+**First published:** 15/07/2026
+
+[View](/en/documents/variation-report/rinvoq-pam-0000337807-epar-assessment-report_en.pdf)
 
 Rinvoq-PAM-0000336291 : EPAR - Assessment report
 
@@ -832,7 +847,7 @@ English (EN) (93.38 KB - PDF)
 
 **First published:** 20/12/2023
 
-[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202302-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202302-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Rinvoq: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -840,9 +855,9 @@ English (EN) (139.86 KB - PDF)
 
 **First published:** 15/06/2023
 
-[View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-574)
+[Other languages (24)](#file-language-dropdown-26)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1076,7 +1091,7 @@ English (EN) (145.3 KB - PDF)
 
 **First published:** 08/06/2022
 
-[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202108-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202108-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of opinion for Rinvoq (X-12-G)
 
@@ -1096,7 +1111,7 @@ English (EN) (124.27 KB - PDF)
 
 **First published:** 10/01/2022
 
-[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202102-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rinvoq-h-c-psusa-00010823-202102-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Rinvoq-H-C-004760-P46-011 : EPAR - Assessment report
 
@@ -1182,6 +1197,10 @@ English (EN) (69.42 KB - PDF)
 
 ## News on Rinvoq
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
+
+26/06/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
 28/02/2025
@@ -1234,6 +1253,8 @@ English (EN) (69.42 KB - PDF)
 - [EMEA-001741-PIP08-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip08-22)
 - [EMEA-001741-PIP09-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip09-23)
 - [EMEA-001741-PIP10-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip10-23)
+- [Rinvoq - opinion on variation to marketing authorisation](/en/medicines/human/variation/rinvoq)
+- [Rinvoq - opinion on variation to marketing authorisation](/en/medicines/human/variation/rinvoq-0)
 - [Drug utilisation study of upadacitinib (Rinvoq™) in Europe to evaluate the effectiveness of additional risk minimisation measures - post-authorisation study](https://catalogues.ema.europa.eu/study/47974)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
@@ -1248,12 +1269,8 @@ English (EN) (69.42 KB - PDF)
 - [Long-term safety study of Rinvoq in RA patients enrolled in the Corrona RA Registry in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/47971)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-22/06/2026
+15/07/2026
 
 ## Share this page

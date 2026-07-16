@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-03 17:28:07
+document_datetime: 2026-07-15 13:04:14
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/paxneury-epar-product-information_en.pdf
 document_name: paxneury-epar-product-information_en.pdf
 version: success
-processing_time: 23.6586877
-conversion_datetime: 2025-12-26 18:29:58.739564
+processing_time: 10.2727465
+conversion_datetime: 2026-07-16 13:30:56.933736
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -90,13 +90,11 @@ For the full list of excipients, see section 6.1.
 
 ## Paxneury 1 mg prolonged-release tablet
 
-Guanfacine 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription 'I' on one side.
+Guanfacine 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription '1' on one side.
 
-Paxneury 2 mg prolonged-release tablet
+Paxneury 2 mg prolonged-release tablet Guanfacine 2 mg prolonged-release tablets are white, 14 x 6 mm oblong, biconvex tablets with the inscription 'II' on one side.
 
 <div style=\"page-break-after: always\"></div>
-
-Guanfacine 2 mg prolonged-release tablets are white, 14 x 6 mm oblong, biconvex tablets with the inscription 'II' on one side.
 
 ## Paxneury 3 mg prolonged-release tablet
 
@@ -136,11 +134,9 @@ Prior to prescribing, it is necessary to conduct a baseline evaluation to identi
 
 ## Posology
 
-Careful dose titration and monitoring is necessary at the start of treatment since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related. Patients should be advised that somnolence  and sedation can occur, particularly early in treatment or with dose increases. If somnolence and sedation are judged to be clinically concerning or
+Careful dose titration and monitoring is necessary at the start of treatment since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related. Patients should be advised that somnolence  and sedation can occur, particularly early in treatment or with dose increases. If somnolence and sedation are judged to be clinically concerning or persistent, a dose decrease or discontinuation should  be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-persistent, a dose decrease or discontinuation should  be considered.
 
 For all patients, the recommended starting dose is 1 mg of guanfacine, taken orally once a day.
 
@@ -160,9 +156,9 @@ During the first year of treatment, the patient should be assessed at least ever
 - o somnolence and sedation
 - o hypotension
 - o bradycardia
-- weight increase/risk of obesity
+- weight increase/risk of obesity should follow thereafter, with more frequent monitoring following any dose adjustments (see
 
-It is recommended clinical judgement be exercised during this period. 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustments (see section 4.4).
+It is recommended clinical judgement be exercised during this period. 6 monthly monitoring section 4.4).
 
 ## Table 1
 
@@ -190,7 +186,7 @@ Patients/caregivers should be instructed not to discontinue guanfacine without c
 
 When stopping treatment, the dose must be tapered with decrements of no more than 1 mg every 3 to  7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal  effects, in particular increases in blood pressure and heart rate (see section 4.4).
 
-In  a  maintenance of efficacy study, upon switching from guanfacine to placebo, 7/158 (4.4 %) subjects  experienced increases in  blood  pressure  to  values  above  5 mmHg  and  also  above  the 95 th percentile for age, sex and stature (see sections 4.8 and 5.1).
+In  a  maintenance  of  efficacy  study,  upon  switching  from  guanfacine  to  placebo,  7/158  (4.4 %) subjects experienced  increases  in  blood  pressure  to  values  above  5 mmHg  and  also  above  the 95 th percentile for  age, sex and stature (see sections 4.8 and 5.1).
 
 ## Missed dose
 
@@ -250,9 +246,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hypotension, bradycardia and syncope
 
-Guanfacine can cause syncope, hypotension and bradycardia. Syncope may involve risks of falls or  accidents, which could result in serious harm (see sections 4.8 and 4.7).
+Guanfacine can cause syncope, hypotension and bradycardia. Syncope may involve risks of falls or accidents, which could result in serious harm (see sections 4.8 and 4.7).
 
-Prior  to  initiation  of  treatment,  patient's  cardiovascular  status  including  heart  rate  and  blood pressure parameters, family history of sudden cardiac death/unexplained death, should be assessed to  identify  patients  at  increased  risk  of  hypotension,  bradycardia,  and  QT-prolongation/risk  of arrhythmia.
+Prior  to  initiation  of  treatment,  patient's  cardiovascular  status  including  heart  rate  and  blood pressure  parameters, family history of sudden cardiac death/unexplained death, should be assessed to  identify  patients  at  increased  risk  of  hypotension,  bradycardia,  and  QT-prolongation/risk  of arrhythmia.
 
 Monitoring of heart rate and blood pressure parameters should continue on a weekly basis during dose titration and stabilisation and at least every 3 months for the first year, taking into consideration clinical judgement. 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustment.
 
@@ -264,17 +260,15 @@ Blood pressure and pulse may increase following discontinuation of guanfacine. I
 
 ## QTc interval
 
-In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than &gt;60 ms Fridericia-correction and
+In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than &gt;60 ms Fridericia-correction and Bazett-correction were 0 (0.0 %) and 2 (0.3 %) among placebo and 1 (0.1 %) and 1 (0.1 %) among guanfacine patients. The clinical relevance of this finding is uncertain.
 
 <div style=\"page-break-after: always\"></div>
 
-Bazett-correction were 0 (0.0 %) and 2 (0.3 %) among placebo and 1 (0.1 %) and 1 (0.1 %) among guanfacine patients. The clinical relevance of this finding is uncertain.
-
-Guanfacine should be prescribed with caution in patients with a known history of QT prolongation, risk factors for torsade de pointes (e.g., heart block, bradycardia, hypokalaemia) or patients who are  taking medicinal products known to prolong the QT interval (see section 4.5). These patients should  receive further cardiac evaluation based on clinical judgement (see section 4.8).
+Guanfacine should be prescribed with caution in patients with a known history of QT prolongation, risk factors for torsade de pointes (e.g., heart block, bradycardia, hypokalaemia) or patients who are  taking medicinal products known to prolong the QT interval (see section 4.5). These patients should receive further cardiac evaluation based on clinical judgement (see section 4.8).
 
 ## Sedation and somnolence
 
-Guanfacine may cause somnolence and sedation predominantly at the start of treatment and could typically last for 2-3 weeks and longer in some cases. It is therefore recommended that patients will be closely monitored weekly during dose titration and stabilisation (see section 4.2), and every 3 months  during the first year, taking into consideration clinical judgement. Before guanfacine is used with any  other centrally active depressants (such as alcohol, sedatives, phenothiazines, barbiturates, or benzodiazepines) the potential for additive sedative effects should be considered (see section 4.5).
+Guanfacine may cause somnolence and sedation predominantly at the start of treatment and could typically last for 2-3 weeks and longer in some cases. It is therefore recommended that patients will be closely monitored weekly during dose titration and stabilisation (see section 4.2), and every 3 months  during the first year, taking into consideration clinical judgement. Before guanfacine is used with any other centrally active depressants (such as alcohol, sedatives, phenothiazines, barbiturates, or benzodiazepines) the potential for additive sedative effects should be considered (see section 4.5).
 
 Patients should not drink alcohol whilst taking guanfacine.
 
@@ -282,11 +276,11 @@ Patients are advised against operating heavy equipment, driving or cycling until
 
 ## Suicidal ideation
 
-There  have  been  post-marketing  reports  of  suicide-related  events  (including  suicidal  ideation, attempts  and  completed  suicide)  in  patients  treated  with  guanfacine.  In  most  cases,  patients had underlying psychiatric disorders. Therefore, it is recommended that caregivers and physicians monitor patients for  signs  of  suicide-related  events,  including  at  dose  initiation/optimisation and  drug  discontinuation. Patients and caregivers should be encouraged to report any distressing thoughts or feelings at any time to their healthcare professional.
+There  have  been  post-marketing  reports  of  suicide-related  events  (including  suicidal  ideation, attempts and  completed  suicide)  in  patients  treated  with  guanfacine.  In  most  cases,  patients had  underlying psychiatric disorders. Therefore, it is recommended that caregivers and physicians monitor  patients  for  signs  of  suicide-related  events,  including   at   dose   initiation/optimisation and  drug  discontinuation.  Patients and caregivers should be encouraged to report any distressing thoughts or feelings at any time to their healthcare professional.
 
 ## Aggression
 
-Aggressive behaviour or hostility has been reported in clinical trials and in the post-marketing experience of guanfacine. Patients treated with guanfacine should be monitored for the appearance of aggressive behaviour or hostility.
+Aggressive  behaviour  or  hostility  has  been  reported  in  clinical  trials  and  in  the  post-marketing experience of guanfacine. Patients treated with guanfacine should be monitored for the appearance of aggressive behaviour or hostility.
 
 ## Effects on height, weight and Body Mass index (BMI)
 
@@ -300,11 +294,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-When guanfacine is used concomitantly with CYP3A4/5 inhibitors or inducers, plasma concentrations of guanfacine may be elevated or lowered, potentially affecting the efficacy and
+When guanfacine is used concomitantly with CYP3A4/5 inhibitors or inducers, plasma concentrations of guanfacine may be elevated or lowered, potentially affecting the efficacy and safety of guanfacine.  Guanfacine can increase plasma concentrations of concomitantly administered medicinal products that  are metabolised via CYP3A4/5 (see sections 4.2, 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-safety of guanfacine.  Guanfacine can increase plasma concentrations of concomitantly administered medicinal products that  are metabolised via CYP3A4/5 (see sections 4.2, 4.4 and 5.2).
 
 Guanfacine is an in vitro inhibitor of MATE1 and the clinical relevance of MATE1 inhibition cannot  be excluded. Concomitant administration of guanfacine with MATE1 substrates may result in increases in the plasma concentrations of these medicinal products. Furthermore, based on in vitro studies, guanfacine may be an inhibitor of OCT1 at maximal portal vein concentrations. Concomitant  administration of guanfacine with OCT1 substrates with a similar Tmax (e.g., metformin) may result in increases in Cmax of these medicinal products.
 
@@ -348,7 +340,7 @@ Table 3
 
 ## Valproic acid
 
-Co-administration of guanfacine and valproic acid can result in increased concentrations of valproic acid. The mechanism of this interaction is unknown, although both guanfacine and valproic acid are metabolised by glucuronidation, possibly resulting in competitive inhibition. When guanfacine is co-administered with valproic acid, patients should be monitored for potential additive central nervous  system  (CNS)  effects  and  consideration  should  be  given  to  the  monitoring  of  serum valproic acid  concentrations.  Adjustments in the dose of valproic acid and guanfacine may be indicated when co- administered.
+Co-administration of guanfacine and valproic acid can result in increased concentrations of valproic acid. The mechanism of this interaction is unknown, although both guanfacine and valproic acid are  metabolised by glucuronidation, possibly resulting in competitive inhibition. When guanfacine is co-administered with valproic acid, patients should be monitored for potential additive central nervous  system  (CNS)  effects  and  consideration  should  be  given  to  the  monitoring  of  serum valproic  acid concentrations.  Adjustments  in  the  dose  of  valproic  acid  and  guanfacine  may  be indicated when co- administered.
 
 ## Antihypertensive medicinal products
 
@@ -364,7 +356,7 @@ In an interaction study, neither guanfacine nor Osmotic Release Oral System (ORO
 
 ## Lisdexamfetamine dimesylate
 
-In a drug interaction study, administration of guanfacine in combination with lisdexamfetamine dimesylate induced a 19 % increase in guanfacine maximum plasma concentrations, whereas exposure  (AUC) was increased by 7 %. These small changes are not expected to be clinically meaningful. In this  study, no effect on d-amphetamine exposure was observed following combination of guanfacine and  lisdexamfetamine dimesylate.
+In a drug interaction study, administration of guanfacine in combination with lisdexamfetamine dimesylate induced a 19 % increase in guanfacine maximum plasma concentrations, whereas exposure (AUC) was increased by 7 %. These small changes are not expected to be clinically meaningful. In this  study, no effect on d-amphetamine exposure was observed following combination of guanfacine and  lisdexamfetamine dimesylate.
 
 ## Food interactions
 
@@ -376,17 +368,15 @@ Guanfacine should not be administered with high fat meals due to increased expos
 
 There are no or limited amount of data from the use of guanfacine in pregnant women.  Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Guanfacine is not recommended during pregnancy and in women of childbearing potential not
+Guanfacine is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
 <div style=\"page-break-after: always\"></div>
-
-using contraception.
 
 ## Breast-feeding
 
 It is unknown whether guanfacine and its metabolites are excreted in human milk. Available pharmacodynamic and toxicological data in animals have shown excretion of guanfacine  and its metabolites in milk (see section 5.3). Therefore, a risk on the breast-fed infant cannot be excluded.
 
-A decision must be made whether to discontinue breast-feeding or to discontinue and/or abstain from guanfacine therapy taking into account the benefit of breast feeding for the child and the benefit of  therapy for the woman.
+A decision must be made whether to discontinue breast-feeding or to discontinue and/or abstain from guanfacine therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -408,7 +398,7 @@ The most frequently reported adverse reactions include somnolence (40.6 %), head
 
 The following table presents all adverse reactions based on clinical trials and spontaneous reporting. All adverse reactions from post-marketing experience are italicised.
 
-The following definitions apply to the frequency terminology used hereafter: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000  to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
+The following definitions apply to the frequency terminology used hereafter: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
 Table 4. Adverse reactions
 
@@ -420,67 +410,34 @@ Table 4. Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| Nightmare Agitation Aggression Hallucination Somnolence              | Common Uncommon Uncommon Uncommon         |
-|----------------------------------------------------------------------|-------------------------------------------|
-| Headache Sedation Dizziness                                          | Very common Very common Common Common     |
-| Bradycardia Atrioventricular block first degree                      | Common Uncommon                           |
-| Hypotension Orthostatic hypotension Pallor Hypertension Hypertensive | Common Common Uncommon Rare               |
-|                                                                      | Uncommon                                  |
-| Abdominal pain Vomiting Diarrhoea Nausea Constipation                | common Common Common Common Common Common |
-| Rash                                                                 | Common                                    |
-| Dyspepsia                                                            | Common Uncommon                           |
-| Pruritus                                                             | Uncommon                                  |
-| Convulsion Syncope/loss consciousness                                |                                           |
-| of                                                                   | Uncommon                                  |
-| Postural Hypersomnia                                                 | Uncommon                                  |
-| dizziness                                                            |                                           |
-|                                                                      | Rare                                      |
-| Tachycardia                                                          | Uncommon Uncommon                         |
-| Sinus                                                                |                                           |
-| arrhythmia                                                           |                                           |
-| encephalopathy                                                       | Very rare                                 |
-| Asthma                                                               | Very                                      |
-| Abdominal/stomach                                                    |                                           |
-| discomfort                                                           |                                           |
-| Dry mouth                                                            |                                           |
-|                                                                      | Uncommon                                  |
-|                                                                      | Common                                    |
-| Enuresis Pollakiuria                                                 | Uncommon                                  |
-| Erectile dysfunction                                                 | Not known                                 |
-| Fatigue                                                              | Very common Common                        |
-| Irritability Asthenia                                                | Uncommon Uncommon                         |
-| Chest pain                                                           |                                           |
-|                                                                      | Rare                                      |
-| Malaise                                                              |                                           |
-| Blood pressure                                                       | Common                                    |
-|                                                                      | Common                                    |
-| decreased Weight increased                                           |                                           |
-| Blood pressure                                                       |                                           |
-| Heart rate decreased                                                 |                                           |
-|                                                                      | Uncommon                                  |
-| Alanine                                                              |                                           |
-| increased                                                            |                                           |
-| aminotransferase                                                     |                                           |
-| increased                                                            | increased                                 |
-| Uncommon Uncommon                                                    | Uncommon Uncommon                         |
+|                                                      | Nightmare Agitation Aggression Hallucination                                                                             | Common Uncommon Uncommon Uncommon                              |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Nervous system disorders                             | Somnolence Headache Sedation Dizziness Lethargy Convulsion                                                               | Very common Very common Common Common Common Uncommon          |
+| Cardiac disorders                                    | Bradycardia Atrioventricular block first degree Tachycardia                                                              | Common Uncommon Uncommon                                       |
+| Vascular disorders                                   | Sinus arrhythmia Hypotension Orthostatic hypotension Pallor Hypertension Hypertensive encephalopathy                     | Uncommon Common Common Uncommon Rare Very rare                 |
+| Respiratory, thoracic, and mediastinal disorders     | Asthma                                                                                                                   | Uncommon                                                       |
+| Gastrointestinal disorders                           | Abdominal pain Vomiting Diarrhoea Nausea Constipation Abdominal/stomach discomfort Dry mouth Dyspepsia                   | Very common Common Common Common Common Common Common Uncommon |
+| Skin and subcutaneous tissue disorders               | Rash Pruritus                                                                                                            | Common Uncommon                                                |
+| Renal and urinary disorders                          | Enuresis                                                                                                                 | Common                                                         |
+| Reproductive system and breast disorders             | Pollakiuria                                                                                                              | Uncommon                                                       |
+| General disorders and administration site conditions | Erectile dysfunction Fatigue Irritability Asthenia Chest pain                                                            | Not known Very common Common Uncommon Uncommon                 |
+| Investigations                                       | Malaise Blood pressure decreased Weight increased Blood pressure increased Heart rate decreased Alanine aminotransferase | Rare Common Common Uncommon Uncommon Uncommon                  |
 
 ## Description of selected adverse reactions
 
 ## Somnolence/sedation, hypotension, bradycardia and syncope
 
-In the overall pool of guanfacine-treated patients, somnolence occurred in 40.6 % and sedation in 10.2 % of guanfacine-treated patients. Bradycardia occurred in 1.5 %, hypotension in 3.2 % and syncope  occurred in 0.7 % of all guanfacine-treated patients. The occurrence of somnolence/sedation and  hypotension was most prominent in the first few weeks of treatment
+In the overall pool of guanfacine-treated patients, somnolence occurred in 40.6 % and sedation in 10.2 % of guanfacine-treated patients. Bradycardia occurred in 1.5 %, hypotension in 3.2 % and syncope  occurred in 0.7 % of all guanfacine-treated patients. The occurrence of somnolence/sedation and  hypotension was most prominent in the first few weeks of treatment and diminished gradually thereafter.
 
 <div style=\"page-break-after: always\"></div>
 
-and diminished gradually thereafter.
-
 ## Effects on height, weight and body Mass index (BMI)
 
-Careful follow-up for weight suggests that children and adolescents who took guanfacine in the study  (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at  baseline and 12 months were 68.3 and 73.1, respectively). Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the first year, then 6 monthly taking into consideration clinical judgement with maintenance of a growth chart.
+Careful follow-up for weight suggests that children and adolescents who took guanfacine in the study  (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at  baseline and 12 months were 68.3 and 73.1, respectively). Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the  first year, then 6 monthly taking into consideration clinical judgement with maintenance of a growth chart.
 
 ## Thorough QT /QTc study
 
-The effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy  adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
+The effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy   adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
 
 In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0 %) and 2 (0.3 %) among placebo and 1 (0.1 %) and 1 (0.1 %) among  guanfacine patients. The clinical relevance of this finding is uncertain.
 
@@ -488,7 +445,7 @@ In phase II-III randomised double-blind monotherapy studies respective increases
 
 Blood pressure and pulse may increase following discontinuation of guanfacine. In postmarketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of guanfacine (see section 4.4).
 
-In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic  blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of guanfacine. However, individuals may have larger increases than reflected by the mean changes. The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose (see sections 4.2  and 5.1).
+In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic  blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of guanfacine. However, individuals may have larger increases than reflected by the mean changes. The increases in blood pressure were observed in some individuals at  the end of the follow up period which ranged between 3 and 26 weeks post final dose (see sections 4.2  and 5.1).
 
 ## Adult patients
 
@@ -518,7 +475,7 @@ Pharmacotherapeutic group: Antihypertensives, antiadrenergic agents, centrally a
 
 ## Mechanism of action
 
-Guanfacine is a selective alpha2A-adrenergic receptor agonist in that it has 15-20 times higher affinity  for this receptor subtype than for the alpha2B or alpha2C subtypes. Guanfacine is a nonstimulant. The  mode of action of guanfacine in ADHD is not fully established. Preclinical research suggests  guanfacine modulates signalling in the prefrontal cortex and basal ganglia through direct modification  of synaptic noradrenalin transmission at the alpha2A-adrenergic receptors.
+Guanfacine is a selective alpha2A-adrenergic receptor agonist in that it has 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes. Guanfacine is a nonstimulant. The  mode of action of guanfacine in ADHD is not fully established. Preclinical research suggests  guanfacine modulates signalling in the prefrontal cortex and basal ganglia through direct modification of synaptic noradrenalin transmission at the alpha2A-adrenergic receptors.
 
 ## Pharmacodynamic effects
 
@@ -528,15 +485,15 @@ Guanfacine is a known antihypertensive agent. By stimulating alpha2A-adrenergic 
 
 The effects of guanfacine in the treatment of ADHD has been examined in 5 controlled studies in children and adolescents (6 to 17 years), 3 short-term controlled trials in children and adolescents aged6 to 17 years, 1 short-term controlled study in adolescents aged 13 to 17 years, and 1 randomised withdrawal trial in children and adolescents aged 6-17 years, all of whom met the DSM-IV-TR criteria  for ADHD. The majority of patients achieved an optimised dose between 0.05-0.12 mg/kg/day.
 
-Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study  SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents: 1-7 mg/day). In this 12-week (6-12 years) or 15-week (13-17 years), randomised, double-blind,  parallel-group, placebo- and active-reference (atomoxetine), dose-titration study, guanfacine showed  significantly greater efficacy than placebo on symptoms of ADHD based upon investigator ratings on the ADHD Rating Scale (ADHD-RS). The ADHD Rating Scale is a measure of the core symptoms of  ADHD. The results with respect to the primary endpoint study are presented in Table 5.
+Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pivotal Phase 3 Study SPD503-316, to assess safety and efficacy of once-daily dosing (children:1-4 mg/day, adolescents: 1-7 mg/day). In this 12-week (6-12 years) or 15-week (13-17 years), randomised, double-blind,  parallel-group, placebo- and active-reference (atomoxetine), dose-titration study, guanfacine showed  significantly greater efficacy than placebo on symptoms of ADHD based upon investigator ratings on the ADHD Rating Scale (ADHD-RS). The ADHD Rating Scale is a measure of the core symptoms of  ADHD. The results with respect to the primary endpoint study are presented in Table 5.
 
 Table 5. Summary of primary efficacy for study SPD503-316: ADHD-RS-IV
 
 | Treatment groups   |   N | Baseline ADHD-RS-IV (SD)   | Change from baseline (SD)   | Difference from placebo (95 %CI) Effect size   | Responder s   | Difference from placebo (95 %CI)   |
 |--------------------|-----|----------------------------|-----------------------------|------------------------------------------------|---------------|------------------------------------|
-| Guanfacine         | 114 | 43.1 (5.5)                 | -23.9 (12.4)                | -8.9 (-11.9, -5.8) 0.8                         | 64.3%         | 21.9 %(9.2; 34.7)                  |
-| Atomoxetine        | 112 | 43.7 (5.9)                 | -18.6 (11.9)                | -3.8 (-6.8, -0.7) 0.3                          | 55.4%         | 13.0 %(0.0; 26.0)                  |
-| Placebo            | 111 | 43.2 (5.6)                 | -15.0 (13.1)                | NA                                             | 42.3%         | NA                                 |
+| Guanfacine         | 114 | 43.1 (5.5)                 | -23.9 (12.4)                | -8.9 (-11.9, -5.8) 0.8                         | 64.3 %        | 21.9 % (9.2; 34.7)                 |
+| Atomoxetine        | 112 | 43.7 (5.9)                 | -18.6 (11.9)                | -3.8 (-6.8, -0.7) 0.3                          | 55.4 %        | 13.0 % (0.0; 26.0)                 |
+| Placebo            | 111 | 43.2 (5.6)                 | -15.0 (13.1)                | NA                                             | 42.3 %        | NA                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -544,7 +501,7 @@ Results of the secondary endpoints were consistent with that of the primary endp
 
 In addition a 15-week, double-blind, randomised, placebo-controlled, dose-optimisation study (SPD503-312) conducted in adolescents aged 13-17 years (n=314) to confirm the efficacy, safety, and  tolerability of guanfacine (1-7 mg/day) in the treatment of ADHD. Guanfacine showed a significantly greater improvement in the ADHD-RS-IV total score compared with subjects receiving placebo.
 
-Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to  placebo-treated patients. Superiority (statistical significance) over placebo on the family and school,  and learning domains of the WFIRS-P score was not established in this study.
+Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to  placebo-treated patients. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not established in this study.
 
 Study (SPD503-315) was a 41 week long term maintenance of efficacy study which included an open-label phase (up to 13 weeks) followed by double-blind, placebo-controlled, randomised-withdrawal phase (up to 26 weeks), conducted in paediatric patients (children and adolescents aged 6-17 years old inclusive) (n=526 in the open-label phase and n=315 in the double-blind randomised-withdrawal phase) to assess the efficacy, safety, and tolerability of once-daily dosing with guanfacine (children: 1-4 mg/day, adolescents:1-7 mg/day) in the treatment of  ADHD. Guanfacine was superior to placebo in the long-term maintenance of treatment in children and  adolescents with ADHD as measured by cumulative treatment failures (49.3 % for guanfacine, and 64.9 % for placebo, p=0.006). Treatment failure was defined as a ≥50 % increase in ADHD-RS-IV total  score and a ≥2 point increase in CGI-S score compared to the respective scores at the double-blind  baseline visit. At the end of their double-blind treatment, a significantly larger proportion of subjects in the guanfacine compared with placebo group were normal or borderline mentally ill as measured by the clinical global impression of severity (CGI-S) that includes assessment of functioning. Superiority  (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P  score was not consistently established in this study.
 
@@ -556,17 +513,15 @@ Guanfacine showed significantly greater improvement compared to placebo regardle
 
 ## Co-administration with psychostimulants
 
-The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety
+The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety of  guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥24 and a CGI-S score ≥3 at  screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score.
 
 <div style=\"page-break-after: always\"></div>
-
-of  guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥24 and a CGI-S score ≥3 at  screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score.
 
 The results showed that patients treated with add-on guanfacine improved more on the ADHD-RS-IV  compared to those treated with add-on placebo (20.7 (12.6) points vs. 15.9 (11.8); difference: 4.9  (95 % CI 2.6, 7.2). No age differences were observed with respect to response to the ADHD-RS-IV.
 
 ## ADHD with oppositional symptoms study
 
-Study SPD503-307 was a 9-week, double-blind, randomised, placebo-controlled, dose-optimisation  study with guanfacine (1-4 mg/day) conducted in children aged 6-12 years with ADHD and oppositional symptoms (n=217). Oppositional symptoms were evaluated as the change from baseline to endpoint in the Oppositional Subscale of the Conners' Parent Rating Scale-revised Long Form (CPRS-R:L) score. Results show statistically significantly (p≤0.05) greater mean reductions at endpoint from Baseline (indicating improvement) in oppositional subscale of CPRS-R:L scores in the  guanfacine group compared to placebo (10.9 points vs. 6.8 for guanfacine vs. placebo, respectively) and the effect size was 0.6 (p&lt;0.001). These reductions represent a percentage reduction of 56 % vs.  33 % for guanfacine vs. placebo, respectively.
+Study SPD503-307 was a 9-week, double-blind, randomised, placebo-controlled, dose-optimisation  study with guanfacine (1-4 mg/day) conducted in children aged 6-12 years with ADHD and oppositional symptoms (n=217). Oppositional symptoms were evaluated as the change from baseline to endpoint in the Oppositional Subscale of the Conners' Parent Rating Scale-revised Long Form (CPRS-R:L) score. Results show statistically significantly (p≤0.05) greater mean reductions at endpoint from Baseline (indicating improvement) in oppositional subscale of CPRS-R:L scores in the guanfacine group compared to placebo (10.9 points vs. 6.8 for guanfacine vs. placebo, respectively) and the effect size was 0.6 (p&lt;0.001). These reductions represent a percentage reduction of 56 % vs. 33 % for guanfacine vs. placebo, respectively.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -602,7 +557,7 @@ There have been no studies performed in children with ADHD under the age of 6 ye
 
 Systemic exposure to guanfacine is similar for men and women given the same mg/kg dose.
 
-Formal pharmacokinetic studies for race have not been conducted. There is no evidence of any impact  of ethnicity on the pharmacokinetics of guanfacine.
+Formal pharmacokinetic studies for race have not been conducted. There is no evidence of any impact of ethnicity on the pharmacokinetics of guanfacine.
 
 ## 5.3 Preclinical safety data
 
@@ -616,17 +571,15 @@ No adverse effects were observed in a fertility study in female rats at doses up
 
 Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m 2  basis. Due to lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
 
-Guanfacine showed embryo foetal developmental toxicity in mice and rats  (NOAEL 0.5 mg/kg/day)  and in rabbits (NOAEL 3.0 mg/kg/day) in the presence of maternal toxicity. Due to a lack of proper  toxicokinetic data, comparison to human clinical exposure was not possible.
+Guanfacine   showed   embryo   foetal   developmental   toxicity   in   mice   and   rats   (NOAEL 0.5 mg/kg/day)  and in rabbits (NOAEL 3.0 mg/kg/day) in the presence of maternal toxicity. Due to a lack of proper  toxicokinetic data, comparison to human clinical exposure was not possible.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Hypromellose  (2208) Microcrystalline cellulose Silica, colloidal anhydrous
+Hypromellose  (2208) Microcrystalline cellulose Silica, colloidal anhydrous Lactose monohydrate Povidone K30 Crospovidone (Type A) Methacrylic acid-ethyl acrylate copolymer (Type A) Sodium laurilsulfate Polysorbate 80 Fumaric acid Glycerol dibehenate
 
 <div style=\"page-break-after: always\"></div>
-
-Lactose monohydrate Povidone K30 Crospovidone (Type A) Methacrylic acid-ethyl acrylate copolymer (Type A) Sodium laurilsulfate Polysorbate 80 Fumaric acid Glycerol dibehenate
 
 ## 6.2 Incompatibilities
 
@@ -678,7 +631,7 @@ EU/1/24/1908/001 (1 mg x 28 Prolonged-release tablets) EU/1/24/1908/002 (2 mg x 
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 26 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -791,9 +744,9 @@ EXP
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+Neuraxpharm Pharmaceuticals, S.L.
 
-Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain
+Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain
 
 EU/1/24/1908/001 (1 mg x 28 Prolonged-release tablets)
 
@@ -807,19 +760,21 @@ PC
 
 SN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## 13. BATCH NUMBER
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+16. INFORMATION IN BRAILLE
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 13. BATCH NUMBER
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 NN
 
@@ -831,17 +786,19 @@ EXP
 
 Lot
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-3. EXPIRY DATE
+## 5. OTHER
 
 ## 4. BATCH NUMBER
 
-5. OTHER
+## 3. EXPIRY DATE
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blisters
 
 <div style=\"page-break-after: always\"></div>
 
@@ -911,42 +868,48 @@ SN
 
 NN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+16. INFORMATION IN BRAILLE
+
+15. INSTRUCTIONS ON USE
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 13. BATCH NUMBER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Paxneury 2 mg prolonged-release tablets guanfacine
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -986,15 +949,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
@@ -1008,23 +967,27 @@ Paxneury 3 mg
 
 PC SN
 
-NN
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+16. INFORMATION IN BRAILLE
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 13. BATCH NUMBER
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 Paxneury 3 mg prolonged-release tablets guanfacine
 
@@ -1034,17 +997,19 @@ EXP
 
 Lot
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-## 3. EXPIRY DATE
+## 5. OTHER
 
 ## 4. BATCH NUMBER
 
-## 5. OTHER
+## 3. EXPIRY DATE
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blisters
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1094,7 +1059,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1112,21 +1077,21 @@ PC
 
 SN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+NN
 
-## 13. BATCH NUMBER
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+16. INFORMATION IN BRAILLE
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 13. BATCH NUMBER
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-NN
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 Paxneury 4 mg prolonged-release tablets guanfacine
 
@@ -1136,17 +1101,19 @@ EXP
 
 Lot
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-## 3. EXPIRY DATE
+## 5. OTHER
 
 ## 4. BATCH NUMBER
 
-## 5. OTHER
+## 3. EXPIRY DATE
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blisters
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1188,7 +1155,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1197,6 +1164,8 @@ EXP
 <div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
@@ -1208,49 +1177,45 @@ Paxneury 5 mg
 
 2D barcode carrying the unique identifier included.
 
-PC SN
+PC
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+SN
 
 NN
 
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 16. INFORMATION IN BRAILLE
+
+15. INSTRUCTIONS ON USE
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 13. BATCH NUMBER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+Blisters
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Paxneury 5 mg prolonged-release tablets guanfacine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1303,17 +1268,32 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 EU/1/24/1908/006 (6 mg x 28 Prolonged-release tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
 Paxneury 6 mg
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1321,35 +1301,19 @@ SN
 
 NN
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Paxneury 6 mg prolonged-release tablets guanfacine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Neuraxpharm Pharmaceuticals, S.L.
 
@@ -1365,8 +1329,6 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-41
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1416,9 +1378,9 @@ EXP
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+Neuraxpharm Pharmaceuticals, S.L.
 
-Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
+Avda. Barcelona 69 08970 Sant Joan Despí Barcelona-Spain
 
 EU/1/24/1908/007 (7 mg x 28 Prolonged-release tablets)
 
@@ -1432,38 +1394,42 @@ PC
 
 SN
 
-NN
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+16. INFORMATION IN BRAILLE
+
+15. INSTRUCTIONS ON USE
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 13. BATCH NUMBER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Paxneury 7 mg prolonged-release tablets guanfacine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1483,23 +1449,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Paxneury 1
-
-```
-mg prolonged-release tablets mg prolonged-release tablets mg prolonged-release tablets mg prolonged-release tablets mg prolonged-release tablets mg prolonged-release tablets mg prolonged-release tablets guanfacine
-```
-
-Paxneury 2
-
-Paxneury 3
-
-Paxneury 4
-
-Paxneury5
-
-Paxneury 6
-
-Paxneury 7
+Paxneury 1 mg prolonged-release tablets Paxneury 2 mg prolonged-release tablets Paxneury 3 mg prolonged-release tablets Paxneury 4 mg prolonged-release tablets Paxneury5 mg prolonged-release tablets Paxneury 6 mg prolonged-release tablets Paxneury 7 mg prolonged-release tablets guanfacine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1544,7 +1494,9 @@ The medicine is given as part of a treatment programme, which usually includes t
 
 ADHD can cause problems with everyday life. Children and young people with ADHD may have difficulty learning and doing homework. They can find it hard to behave well at home, at school or in other places.
 
-## 2. What you need to know before you take Paxneury Do not take Paxneury if:
+## 2. What you need to know before you take Paxneury
+
+## Do not take Paxneury if:
 
 - you are allergic to guanfacine or any of the other ingredients of this medicine (listed in  section 6).
 
@@ -1638,7 +1590,7 @@ Lactose is a type of sugar. If you have been told by your doctor that you have a
 
 ## Paxneury contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium- free'.
 
 ## 3. How to take Paxneury
 
@@ -1768,11 +1720,9 @@ Common (may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Paxneury
 
@@ -1804,7 +1754,7 @@ The other ingredients are Hypromellose (2208), methacrylic acid-ethyl acrylate c
 
 Paxneury is a prolonged-release tablet which means that the active substance is released from the tablet over a period of time. The tablets come in pack sizes of 28.
 
-- The 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription 'I' on one side.
+- The 1 mg prolonged-release tablets are white, 8 mm diameter round, biconvex tablets with the inscription '1' on one side.
 - The 2 mg prolonged-release tablets are white, 14 x 6 mm oblong, biconvex tablets with the inscription 'II' on one side.
 - The 3 mg prolonged-release tablets are white, 6 mm diameter round, biconvex tablets with the inscription '3' on one side.
 - The 4 mg prolonged-release tablets are white, 7 mm diameter round, biconvex tablets with the inscription 'IV' on one side.
@@ -1822,7 +1772,9 @@ Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barc
 
 ## Manufacturer
 
-Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain or
+Neuraxpharm Pharmaceuticals, S.L. Avda. Barcelona 69 08970 Sant Joan Despí Barcelona - Spain
+
+or
 
 Neuraxpharm Arzneimittel GmbH Elisabeth-Selbert-Strasse 23, Richrath Langenfeld (Rheinland) 40764, Germany
 
@@ -1878,7 +1830,7 @@ Neuraxpharm Pharmaceuticals, S.L. Teл.: +34 93 475 96 00
 
 ## Nederland
 
-Neuraxpharm Netherlands B.V. Tel.: +31 70 208 5211
+Neuraxpharm Netherlands B.V. Tel.: +31 85 4891 608
 
 ## Norge
 
@@ -1908,13 +1860,17 @@ Tel: +351 910 259 536
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-Teл.: +34 93 602 24 21
+Teл.:
+
++34 93 602 24 21
 
 ## România
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-Teл.: +34 93 602 24 21
+Teл.:
+
++34 93 602 24 21
 
 ## Ireland
 
@@ -1926,7 +1882,9 @@ Tel: +353 (0)1 428 7777
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-Teл.: +34 93 602 24 21
+Teл.:
+
++34 93 602 24 21
 
 ## Ísland
 
@@ -1950,13 +1908,19 @@ Tel: +39 0736 980619
 
 ## Suomi/Finland
 
-Neuraxpharm Sweden AB Puh/Tel: +46 (0)8 30 91 41 (Ruotsi/Sverige)
+Neuraxpharm Sweden AB
+
+Puh/Tel: +46 (0)8 30 91 41
+
+(Ruotsi/Sverige)
 
 ## Κύπρος
 
 Brain Therapeutics PC
 
-Τηλ: +302109931458
+Τηλ:
+
++302109931458
 
 ## Sverige
 
@@ -1968,7 +1932,9 @@ Tel: +46 (0)8 30 91 41
 
 Neuraxpharm Pharmaceuticals, S.L.
 
-Teл.: +34 93 475 96 00
+Teл.:
+
++34 93 475 96 00
 
 ## United Kingdom (Northern Ireland)
 

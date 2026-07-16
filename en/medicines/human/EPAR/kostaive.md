@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-03 16:52:00
+document_datetime: 2026-07-13 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kostaive.html
 document_name: kostaive.html
 version: success
-processing_time: 0.1244207
-conversion_datetime: 2026-06-04 22:17:53.660342
+processing_time: 0.1449657
+conversion_datetime: 2026-07-16 13:17:57.6865
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Kostaive
 
@@ -37,8 +37,8 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
-- [Safety updates](#safety-updates)
 - [News on Kostaive](#news-on)
+- [Safety updates](#safety-updates-87528)
 
 - Application under evaluation
 - CHMP opinion
@@ -48,7 +48,7 @@ Page contents
 
 Kostaive is a vaccine for preventing coronavirus disease 2019 (COVID-19) in people aged 18 years and over.
 
-Kostaive contains the active substance zapomeran, a self-amplifying messenger RNA (mRNA) molecule (known as sa-mRNA): this is a molecule with instructions for producing a protein from the original strain of SARS-CoV-2, the virus that causes COVID-19;  it also has instructions for making an enzyme called replicase, which makes additional copies of the mRNA.
+Kostaive contains the active substance zapomeran, a self-amplifying messenger RNA (mRNA) molecule (known as sa-mRNA): this is a molecule with instructions for producing a protein from the original strain of SARS-CoV-2, the virus that causes COVID-19; it also has instructions for making an enzyme called replicase, which makes additional copies of the mRNA.
 
 Expand section
 
@@ -160,7 +160,7 @@ English (EN) (138.61 KB - PDF)
 
 [View](/en/documents/overview/kostaive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-372)
+[Other languages (22)](#file-language-dropdown-317)
 
 български (BG) (146.91 KB - PDF)
 
@@ -312,7 +312,7 @@ English (EN) (579.9 KB - PDF)
 
 [View](/en/documents/product-information/kostaive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (531.7 KB - PDF)
 
@@ -466,7 +466,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -484,7 +485,7 @@ English (EN) (51.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-904)
+[Other languages (24)](#file-language-dropdown-718)
 
 български (BG) (57.93 KB - PDF)
 
@@ -632,25 +633,16 @@ norsk (NO) (50.34 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Kostaive
-
-Active substance
-
-COVID-19 sa-mRNA Vaccine
-
-International non-proprietary name (INN) or common name
-
-zapomeran
-
-Therapeutic area (MeSH)
-
-COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BN01
+- **Name of medicine**
+    - Kostaive
+- **Active substance**
+    - COVID-19 sa-mRNA Vaccine
+- **International non-proprietary name (INN) or common name**
+    - zapomeran
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -664,31 +656,18 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006207
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Seqirus Netherlands B.V.
-
-Paasheuvelweg 28
-
-Opinion adopted
-
-12/12/2024
-
-Marketing authorisation issued
-
-12/02/2025
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/006207
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Seqirus Netherlands B.V. Paasheuvelweg 28  1105 BJ Amsterdam  The Netherlands
+- **Opinion adopted**
+    - 12/12/2024
+- **Marketing authorisation issued**
+    - 12/02/2025
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -728,7 +707,21 @@ English (EN) (133.35 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kostaive_en.pdf)
 
+## News on Kostaive
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
+
+13/12/2024
+
 ## Safety updates
+
+Kostaive: Periodic safety update report assessment 28 May 2025 to 27 November 2025
+
+English (EN) (60.43 MB - PDF)
+
+**First published:** 13/07/2026
+
+[View](/en/documents/covid-19-vaccine-safety-update/kostaive-periodic-safety-update-report-assessment-28-may-2025-27-november-2025_en.pdf)
 
 Kostaive: Periodic safety update report assessment 28th November 2024 to 27th May 2025
 
@@ -740,14 +733,8 @@ English (EN) (2.9 MB - PDF)
 
 [View](/en/documents/covid-19-vaccine-safety-update/kostaive-periodic-safety-update-report-assessment-28th-november-2024-27th-may-2025_en.pdf)
 
-## News on Kostaive
-
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
-
-13/12/2024
-
 **This page was last updated on**
 
-03/06/2026
+13/07/2026
 
 ## Share this page

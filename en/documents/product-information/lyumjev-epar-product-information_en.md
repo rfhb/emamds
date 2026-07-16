@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 15:31:51
-document_pages: 177
+document_datetime: 2026-07-13 11:28:13
+document_pages: 150
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyumjev-epar-product-information_en.pdf
 document_name: lyumjev-epar-product-information_en.pdf
 version: success
-processing_time: 40.9761844
-conversion_datetime: 2026-01-22 21:29:24.981867
+processing_time: 33.1326282
+conversion_datetime: 2026-07-16 13:32:32.410051
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -29,7 +29,6 @@ docling_version:
 | Lyumjev 100 units/mL solution for injection in cartridge                     |
 | Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen        |
 | Lyumjev 100 units/mL Junior KwikPen solution for injection in pre-filled pen |
-| Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen      |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -43,7 +42,7 @@ Lyumjev 100 units/mL solution for injection in cartridge
 
 Each cartridge contains 300 units of insulin lispro in 3 mL solution.
 
-Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen
+Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen
 
 Each pre-filled pen contains 300 units of insulin lispro in 3 mL solution. Each pre-filled pen delivers 1 - 60 units in steps of 1 unit in a single injection.
 
@@ -67,13 +66,13 @@ Clear, colourless, aqueous solution.
 
 Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.2 Posology and method of administration
 
 ## Posology
 
 Lyumjev is a mealtime insulin for subcutaneous injection and should be administered zero to two minutes before the start of the meal, with the option to administer up to 20 minutes after starting the meal (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 Lyumjev 100 units/mL is suitable for continuous subcutaneous insulin infusion (CSII) and is used for both the bolus and basal insulin requirement.
 
@@ -105,11 +104,7 @@ Insulin requirements may be reduced in patients with hepatic impairment due to r
 
 ## Paediatric population
 
-Lyumjev can be used in adolescents and children from the age of 1 year (see section 5.1). There is no clinical experience with the use of Lyumjev in children below the age of 3 years. Similar to adults, dosage should be adjusted individually. Lyumjev is recommended to be administered zero to two
-
-<div style=\"page-break-after: always\"></div>
-
-minutes before the start of the meal, with the option to administer up to 20 minutes after starting the meal when needed.
+Lyumjev can be used in adolescents and children from the age of 1 year (see section 5.1). There is no clinical experience with the use of Lyumjev in children below the age of 3 years. Similar to adults, dosage should be adjusted individually. Lyumjev is recommended to be administered zero to two minutes before the start of the meal, with the option to administer up to 20 minutes after starting the meal when needed.
 
 ## Method of administration
 
@@ -117,6 +112,9 @@ Patients should be trained on proper use and injection technique before initiati
 
 - Always check insulin labels before administration.
 - Inspect Lyumjev visually before use and discard for particulate matter or discolouration.
+
+<div style=\"page-break-after: always\"></div>
+
 - Injection or infusion sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
 - Carry a spare or alternative administration method in case their delivery system breaks.
 
@@ -150,27 +148,23 @@ The instructions with each individual pen must be followed for loading the cartr
 
 To prevent the possible transmission of disease, each cartridge must be used by one patient only, even if the needle on the delivery device is changed.
 
-## Lyumjev KwikPens and Lyumjev Tempo Pen
+## Lyumjev KwikPens
 
-The KwikPen, Junior KwikPen and Tempo Pen are only suitable for subcutaneous injections.
+The KwikPen and Junior KwikPen are only suitable for subcutaneous injections.
 
 Lyumjev KwikPens are available in two concentrations: Lyumjev 100 units/mL KwikPen and Lyumjev 200 units/mL KwikPen. See the separate SmPC for Lyumjev 200 units/mL KwikPen. The KwikPen delivers 1 - 60 units in steps of 1 unit in a single injection.
 
 The Lyumjev 100 units/mL Junior KwikPen delivers 0.5 - 30 units in steps of 0.5 units in a single injection.
 
-The Lyumjev 100 units/ml Tempo Pen delivers 1 - 60 units in steps of 1 unit in a single injection.
-
-<div style=\"page-break-after: always\"></div>
-
 The number of insulin units is shown in the dose window of the pen regardless of concentration and no dose conversion should be done when transferring a patient to a new concentration or to a pen with a different dose step.
 
 Lyumjev 100 units/mL Junior KwikPen is suitable for patients who may benefit from finer insulin dose adjustments.
 
-The Tempo Pen can be used with the optional transfer module Tempo Smart Button (see section 6.6). As with any insulin injection, when using the Tempo Pen, Tempo Smart Button and the mobile application, the patient should be instructed to check their blood sugar levels when considering or making decisions about another injection if they are unsure how much they have injected.
-
 For detailed user instructions, please refer to the instructions for use provided with the package leaflet.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## CSII (insulin pump)
 
@@ -192,7 +186,7 @@ Intravenous administration of Lyumjev 100 units/mL must be performed under medic
 
 ## 4.3 Contraindications
 
-## Hypoglycaemia.
+Hypoglycaemia.
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
@@ -204,19 +198,17 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Hypoglycaemia
 
-Hypoglycaemia is the most common adverse reaction of insulin therapy (see section 4.8). The timing of hypoglycaemia usually reflects the time-action profile of the administered insulin formulations.
-
-<div style=\"page-break-after: always\"></div>
-
-Hypoglycaemia may occur earlier after an injection/infusion when compared to other mealtime insulins due to the earlier onset of action of Lyumjev (see section 5.1).
+Hypoglycaemia is the most common adverse reaction of insulin therapy (see section 4.8). The timing of hypoglycaemia usually reflects the time-action profile of the administered insulin formulations. Hypoglycaemia may occur earlier after an injection/infusion when compared to other mealtime insulins due to the earlier onset of action of Lyumjev (see section 5.1).
 
 Hypoglycaemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual. Severe hypoglycaemia can cause seizures, may lead to unconsciousness, may be life-threatening, or cause death. Symptomatic awareness of hypoglycaemia may be less pronounced in patients with longstanding diabetes.
 
 ## Hyperglycaemia
 
-The use of inadequate doses or discontinuation of treatment, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
+The use of inadequate doses or discontinuation of treatment may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
 
 Patients should be educated to recognize the signs and symptoms of ketoacidosis and to get immediate help when ketoacidosis is suspected.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Injection technique
 
@@ -240,8 +232,6 @@ Malfunction of the insulin pump or insulin infusion set can rapidly lead to hype
 
 TZDs can cause dose-related fluid retention, particularly when used in combination with insulin. Fluid retention may lead to or exacerbate heart failure. Patients treated with insulin and a TZD should be observed for signs and symptoms of heart failure. If heart failure develops, consider discontinuation of the TZD.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypersensitivity and allergic reactions
 
 Severe, life-threatening, generalised allergy, including anaphylaxis, can occur with insulin medicinal products, including Lyumjev (see section 4.8). If hypersensitivity reactions occur, discontinue Lyumjev.
@@ -254,9 +244,7 @@ To avoid medication errors between Lyumjev and other insulins, patients need to 
 
 Patients should always use a new needle for each injection to prevent infections and a blocked needle. In the event of a blocked needle it should be replaced with a new needle.
 
-## Tempo Pen
-
-The Tempo Pen contains a magnet (see section 6.5) that may interfere with the functions of an implantable electronic medical device, such as a pacemaker. The magnetic field extends to approximately 1.5 cm.
+<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -280,11 +268,7 @@ TZDs can cause dose-related fluid retention, particularly when used in combinati
 
 A large amount of data on pregnant women (more than 1 000 pregnancy outcomes) indicate no malformative nor feto/neonatal toxicity of insulin lispro. Lyumjev can be used during pregnancy if clinically needed.
 
-It is essential to maintain good control of an insulin-treated (insulin-dependent or gestational) diabetes patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. After delivery, insulin requirements normally return rapidly to pre-pregnancy values. Patients with diabetes should be advised to inform their doctor if they are
-
-<div style=\"page-break-after: always\"></div>
-
-pregnant or are contemplating pregnancy. Careful monitoring of glucose control is essential in pregnant patients with diabetes.
+It is essential to maintain good control of an insulin-treated (insulin-dependent or gestational) diabetes patient throughout pregnancy. Insulin requirements usually fall during the first trimester and increase during the second and third trimesters. After delivery, insulin requirements normally return rapidly to pre-pregnancy values. Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy. Careful monitoring of glucose control is essential in pregnant patients with diabetes.
 
 ## Breast-feeding
 
@@ -299,6 +283,8 @@ Insulin lispro did not induce fertility impairment in animal studies.
 The patient's ability to concentrate and react may be impaired as a result of hypoglycaemia. This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or using machinery).
 
 Patients should be advised to take precautions to avoid hypoglycaemia whilst driving, this is particularly important in those patients who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia. The advisability of driving should be considered in these circumstances.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -321,8 +307,6 @@ Table 1. Adverse reactions
 | Skin and subcutaneous tissue disorders               |                           |                            | Pruritus           | Cutaneous amyloidosis |
 | Skin and subcutaneous tissue disorders               |                           |                            |                    | Cutaneous amyloidosis |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Description of selected adverse reactions
 
 ## Hypoglycaemia
@@ -334,6 +318,8 @@ The symptoms of hypoglycaemia usually occur suddenly. They may include listlessn
 There were no clinically significant differences in the frequency of hypoglycaemia with administration of Lyumjev or the comparator (another medicinal product containing insulin lispro) across all studies. In studies where Lyumjev and the comparator were administered at different times relative to meals, there were no clinically relevant differences in the frequency of hypoglycaemia.
 
 Hypoglycaemia may occur earlier after an injection/infusion of Lyumjev compared to other mealtime insulins due to the earlier onset of action.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Allergic reactions
 
@@ -357,8 +343,6 @@ Administration of insulin can cause formation of insulin antibodies. The presenc
 
 Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption. Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Oedema
 
 Cases of oedema have been reported with insulin therapy, particularly if previous poor metabolic control is improved by intensified insulin therapy.
@@ -370,6 +354,8 @@ Safety and efficacy have been investigated in a therapeutic confirmatory trial i
 ## Other special populations
 
 Based on results from clinical trials with insulin lispro in general, the frequency, type and severity of adverse reactions observed in elderly patients and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population. The safety information in very elderly patients (≥ 75 years) or patients with moderate to severe renal impairment or hepatic impairment is limited (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -391,8 +377,6 @@ Pharmacotherapeutic group: Medicinal products used in diabetes, insulins and ana
 
 The primary activity of Lyumjev is the regulation of glucose metabolism. Insulins, including insulin lispro, the active substance in Lyumjev, exert their specific action through binding to insulin receptors. Receptor-bound insulin lowers blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 
-<div style=\"page-break-after: always\"></div>
-
 Lyumjev is a formulation of insulin lispro that contains citrate and treprostinil. Citrate increases local vascular permeability and treprostinil induces local vasodilation to achieve accelerated absorption of insulin lispro.
 
 ## Pharmacodynamic effects
@@ -408,6 +392,8 @@ A glucose clamp study was conducted in 40 type 1 diabetes patients given Lyumjev
 - The duration of action of Lyumjev was 5 hours, 44 minutes shorter than Humalog.
 - The total glucose infused during the clamp was comparable between Lyumjev and Humalog.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Mean glucose infusion rate (GIR) in patients with type 1 diabetes after subcutaneous injection of Lyumjev or Humalog (15 unit dose)
 
 <!-- image -->
@@ -415,8 +401,6 @@ Figure 1. Mean glucose infusion rate (GIR) in patients with type 1 diabetes afte
 Similarly, a faster early insulin action and a reduced late insulin action was observed with Lyumjev in type 2 diabetes patients.
 
 Total and maximum glucose lowering effect of Lyumjev increased with dose within the therapeutic dose range. The early onset and total insulin action were similar when Lyumjev was administered in the abdomen, upper arm, or thigh.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Postprandial Glucose (PPG) Lowering
 
@@ -437,6 +421,8 @@ The efficacy of Lyumjev was evaluated in 4 randomised, active controlled trials 
 
 PRONTO-T1D was a 26 week, treat-to-target, trial that evaluated the efficacy of Lyumjev in 1 222 patients on multiple daily injection therapy. Patients were randomised to either blinded mealtime Lyumjev, blinded mealtime Humalog, or open-label postmeal Lyumjev, all in combination with either insulin glargine or insulin degludec. Mealtime Lyumjev or Humalog was injected 0 to 2 minutes before the meal and postmeal Lyumjev was injected 20 minutes after the start of the meal.
 
+<div style=\"page-break-after: always\"></div>
+
 Efficacy results are provided in Table 2 and Figure 2.
 
 37.4% of patients treated with mealtime Lyumjev, 33.6% of patients treated with mealtime Humalog and 25.6% of patients treated with postmeal Lyumjev reached a target HbA1c of &lt; 7%.
@@ -447,7 +433,7 @@ Following the 26 week period, the two blinded treatment arms continued to 52 wee
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2 Results from 26  week basal-bolus clinical trial in patients with type 1 diabetes
+Table 2 Results from 26 week basal-bolus clinical trial in patients with type 1 diabetes
 
 |                                                  | Mealtime Lyumjev + basal insulin                 | Mealtime Humalog + basal insulin   | Postmeal Lyumjev + basal insulin   |
 |--------------------------------------------------|--------------------------------------------------|------------------------------------|------------------------------------|
@@ -482,10 +468,18 @@ Table 2 Results from 26  week basal-bolus clinical trial in patients with type 1
 | Treatment difference                             | -0.2 [-0.6, 0.1] A                               |                                    | -0.1[-0.5, 0.3] D                  |
 | Severe hypoglycaemia B (% of patients)           | 5.5%                                             | 5.7%                               | 4.6%                               |
 
+Week 26 and change from baseline values are based on the least-squares means (adjusted means).
+
+The 95% confidence interval is stated in ' [ ]' .
+
+A Meal test.
+
+B Severe hypoglycaemia is defined as episode requiring assistance of another person due to patient's neurological impairment.
+
 <div style=\"page-break-after: always\"></div>
 
 - C The difference is for mealtime Lyumjev - mealtime Humalog.
-- D The difference is for postmeal Lyumjev - mealtime Humalog.
+- D  The difference is for postmeal Lyumjev - mealtime Humalog.
 - E Statistically significant in favour of mealtime Lyumjev.
 
 Figure 2. Time course of blood glucose excursion during mixed-meal tolerance test at week 26 in patients with type 1 diabetes
@@ -567,9 +561,9 @@ C Statistically significant in favour of mealtime Lyumjev.
 
 Figure 3. Time course of blood glucose excursion during mixed-meal tolerance test at week 26 in patients with type 2 diabetes
 
-<!-- image -->
-
 PPG = Postprandial glucose Lyumjev and Humalog administered at mealtime Data are LSM (SE), *p &lt; 0.05
+
+<!-- image -->
 
 ## Type 1 Diabetes - Adults. CSII
 
@@ -693,15 +687,13 @@ This medicinal product must not be mixed with any other insulin or any other med
 
 ## 6.3 Shelf life
 
-Lyumjev 100 units/mL solution for injection in cartridge Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen Lyumjev 100 units/mL Junior KwikPen solution for injection in pre-filled pen Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen
+Lyumjev 100 units/mL solution for injection in cartridge Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen Lyumjev 100 units/mL Junior KwikPen solution for injection in pre-filled pen
 
 Before use 3 years
 
+After first use 28 days
+
 <div style=\"page-break-after: always\"></div>
-
-After first use
-
-28 days
 
 ## Lyumjev 100 units/mL solution for injection in vial
 
@@ -713,7 +705,7 @@ After first use
 
 28 days
 
-When the vial is diluted for intravenous use
+## When the vial is diluted for intravenous use
 
 Chemical, physical in-use stability has been demonstrated for 14 days at 2 - 8 °C and 20 hours at 20 - 25 °C when protected from light. From a microbiological point of view, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally be longer than 24 hours at 2 - 8 °C, unless dilution has taken place in controlled and validated aseptic conditions (see section 6.6).
 
@@ -747,8 +739,6 @@ Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen
 
 Lyumjev 100 units/mL Junior KwikPen solution for injection in pre-filled pen
 
-Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen
-
 Do not refrigerate.
 
 Keep the cap on the pen in order to protect from light.
@@ -761,13 +751,13 @@ Type I clear glass vials, sealed with halobutyl stoppers and secured with alumin
 
 10 mL vial: Packs of 1 or 2 vials or 5 (5 packs of 1) vials.
 
-<div style=\"page-break-after: always\"></div>
-
-## Lyumjev 100 units/mL solution for injection in cartridge
+Lyumjev 100 units/mL solution for injection in cartridge
 
 Type I clear glass cartridges, sealed with disc seals secured with aluminium seals and halobutyl plungers.
 
 3 mL cartridge: Packs of 2, 5 or 10 cartridges.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen
 
@@ -789,16 +779,6 @@ The medicinal product is packed in a white carton with stripes of peach, light b
 
 3 mL Junior KwikPen: Packs of 2 pre-filled pens, 5 pre-filled pens or a multipack of 10 (2 packs of 5) pre-filled pens.
 
-## Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen
-
-Type I clear glass cartridges, sealed with disc seals secured with aluminium seals and halobutyl plungers.
-
-The 3 mL cartridges are sealed in a disposable pen injector Tempo Pen. The Tempo Pen contains a magnet (see section 4.4).
-
-The medicinal product is packed in a white carton with stripes of dark blue and green bands. The Tempo Pen is taupe, the dose knob is blue with raised ridges around the entire side.
-
-3 mL Tempo Pen: Packs of 5 pre-filled pens or a multipack of 10 (2 packs of 5) pre-filled pens.
-
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
@@ -806,8 +786,6 @@ Not all pack sizes may be marketed.
 Lyumjev must look clear and colourless. It should not be used if it is cloudy, coloured, or has particles or clumps in it.
 
 Lyumjev must not be used if it has been frozen.
-
-<div style=\"page-break-after: always\"></div>
 
 A new needle must always be attached before each use. Needles must not be re-used. Needles are not included.
 
@@ -823,9 +801,7 @@ It is recommended that the system is primed before starting the infusion to the 
 
 Lyumjev 100 units/mL vial can be used to fill a continuous insulin infusion pump for a maximum of 9 days. Tubings in which the inner surface materials are made of polyethylene or polyolefin have been evaluated and found compatible with pump use.
 
-## Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Lyumjev dose information from the Tempo Pen to a compatible mobile application. The Tempo Pen injects insulin with or without the Tempo Smart Button attached. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application.
+<div style=\"page-break-after: always\"></div>
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -835,31 +811,19 @@ Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-```
-EU/1/20/1422/001 EU/1/20/1422/002 EU/1/20/1422/003 EU/1/20/1422/004 EU/1/20/1422/005 EU/1/20/1422/006 EU/1/20/1422/007 EU/1/20/1422/008 EU/1/20/1422/009 EU/1/20/1422/010 EU/1/20/1422/011 EU/1/20/1422/012 EU/1/20/1422/016
-```
+EU/1/20/1422/001 EU/1/20/1422/002 EU/1/20/1422/003 EU/1/20/1422/004 EU/1/20/1422/005 EU/1/20/1422/006 EU/1/20/1422/007 EU/1/20/1422/008 EU/1/20/1422/009 EU/1/20/1422/010 EU/1/20/1422/011
 
-<div style=\"page-break-after: always\"></div>
+EU/1/20/1422/012
 
-EU/1/20/1422/017
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 24 March 2020
 
 Date of latest renewal: 13 January 2025
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
-
-23
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -951,11 +915,9 @@ Lyumjev 200 units/mL should not be administered using a continuous subcutaneous 
 
 Lyumjev 200 units/mL should not be administered intravenously.
 
-Lyumjev is available in two concentrations: Lyumjev 200 units/mL KwikPen and Lyumjev 100 units/mL KwikPen. See the separate SmPC for Lyumjev 100 units/mL KwikPen. The KwikPen delivers 1 - 60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the
+Lyumjev is available in two concentrations: Lyumjev 200 units/mL KwikPen and Lyumjev 100 units/mL KwikPen. See the separate SmPC for Lyumjev 100 units/mL KwikPen. The KwikPen delivers 1 - 60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the dose window of the pen regardless of concentration and no dose conversion should be done when transferring a patient to a new concentration or to a pen with a different dose step.
 
 <div style=\"page-break-after: always\"></div>
-
-dose window of the pen regardless of concentration and no dose conversion should be done when transferring a patient to a new concentration or to a pen with a different dose step.
 
 For detailed user instructions, please refer to the instructions for use provided with the package leaflet.
 
@@ -981,7 +943,7 @@ Hypoglycaemia can happen suddenly and symptoms may differ in each individual and
 
 ## Hyperglycaemia
 
-The use of inadequate doses or discontinuation of treatment, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
+The use of inadequate doses or discontinuation of treatment may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
 
 Patients should be educated to recognize the signs and symptoms of ketoacidosis and to get immediate help when ketoacidosis is suspected.
 
@@ -991,11 +953,9 @@ Patients must be instructed to perform continuous rotation of the injection site
 
 ## Insulin requirements and dose adjustments
 
-Changes in insulin, insulin concentration, manufacturer, type, or method of administration may affect glycaemic control and predispose to hypoglycaemia or hyperglycaemia. These changes should be made cautiously under close medical supervision and the frequency of glucose monitoring should be
+Changes in insulin, insulin concentration, manufacturer, type, or method of administration may affect glycaemic control and predispose to hypoglycaemia or hyperglycaemia. These changes should be made cautiously under close medical supervision and the frequency of glucose monitoring should be increased. For patients with type 2 diabetes, dose adjustments in concomitant anti-diabetic treatment may be needed (see sections 4.2 and 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-increased. For patients with type 2 diabetes, dose adjustments in concomitant anti-diabetic treatment may be needed (see sections 4.2 and 4.5).
 
 In patients with renal or hepatic impairment, glucose monitoring should be intensified and dose adjusted on an individual basis (see section 4.2).
 
@@ -1065,7 +1025,7 @@ Patients should be advised to take precautions to avoid hypoglycaemia whilst dri
 
 ## Summary of safety profile
 
-The most frequently reported adverse reaction during treatment is hypoglycaemia (very common)(see sections 4.2, 4.4 and 4.9).
+The most frequently reported adverse reaction during treatment is hypoglycaemia (very common) (see sections 4.2, 4.4 and 4.9).
 
 The following related adverse reactions from clinical trials are listed below as MedDRA preferred term by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to &lt; 1/10; uncommon: ≥ 1/1 000 to &lt; 1/100; rare: ≥ 1/10 000 to &lt; 1/1 000; very rare: &lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1082,11 +1042,13 @@ Table 1. Adverse reactions
 | Skin and subcutaneous tissue disorders               |               |                          | Pruritus           | Cutaneous amyloidosis |
 | Skin and subcutaneous tissue disorders               |               |                          |                    | Cutaneous amyloidosis |
 
+*See section 4.8 Description of selected adverse events
+
 ## Description of selected adverse reactions
 
 ## Hypoglycaemia
 
-Hypoglycaemia is the most commonly observed adverse reaction in patients using insulin. The incidence of severe hypoglycaemia in the 26 week phase 3 clinical studies was 5.5% in patients with type 1 diabetes mellitus and 0.9% in patients with type 2 diabetes (see tables  2 and 3). The symptoms of hypoglycaemia usually occur suddenly. They may include listlessness, confusion, palpitations, sweating, vomiting, and headache.
+Hypoglycaemia is the most commonly observed adverse reaction in patients using insulin. The incidence of severe hypoglycaemia in the 26 week phase 3 clinical studies was 5.5% in patients with type 1 diabetes mellitus and 0.9% in patients with type 2 diabetes (see tables 2 and 3). The symptoms of hypoglycaemia usually occur suddenly. They may include listlessness, confusion, palpitations, sweating, vomiting, and headache.
 
 There were no clinically significant differences in the frequency of hypoglycaemia with administration of Lyumjev or the comparator (another medicinal product containing insulin lispro) across all studies. In studies where Lyumjev and the comparator were administered at different times relative to meals, there were no clinically relevant differences in the frequency of hypoglycaemia.
 
@@ -1239,7 +1201,7 @@ B Severe hypoglycaemia is defined as episode requiring assistance of another per
 <div style=\"page-break-after: always\"></div>
 
 - C The difference is for mealtime Lyumjev - mealtime Humalog.
-- D The difference is for postmeal Lyumjev - mealtime Humalog.
+- D  The difference is for postmeal Lyumjev - mealtime Humalog.
 - E Statistically significant in favour of mealtime Lyumjev.
 
 Figure 2. Time course of blood glucose excursion during mixed-meal tolerance test at week 26 in patients with type 1 diabetes
@@ -1321,9 +1283,9 @@ C Statistically significant in favour of mealtime Lyumjev.
 
 Figure 3. Time course of blood glucose excursion during mixed-meal tolerance test at week 26 in patients with type 2 diabetes
 
-<!-- image -->
-
 PPG = Postprandial glucose Lyumjev and Humalog administered at mealtime Data are LSM (SE), *p &lt; 0.05
+
+<!-- image -->
 
 ## Special populations
 
@@ -1454,7 +1416,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Lyumjev must look clear and colourless. It should not be used if it is cloudy, coloured, or has particles or clumps in it.
+Lyumjev must look clear and colourless. It should not be used if it is cloudy, coloured, or has particles
+
+or clumps in it.
 
 Lyumjev must not be used if it has been frozen.
 
@@ -1468,7 +1432,11 @@ Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1422/013 EU/1/20/1422/014 EU/1/20/1422/015
+EU/1/20/1422/013
+
+EU/1/20/1422/014
+
+EU/1/20/1422/015
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1482,7 +1450,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu.
 
-39
+38
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1598,13 +1566,7 @@ After first use: Do not store above 30 °C. Discard after 28 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000,
-
-3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1620,7 +1582,8 @@ EU/1/20/1422/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1710,9 +1673,7 @@ EU/1/20/1422/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lyumjev 100 units/mL
@@ -1787,7 +1748,9 @@ After first use: Do not store above 30 °C. Discard after 28 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1948,8 +1911,8 @@ Lyumjev 100 units/mL
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1977,8 +1940,7 @@ Lot
 
 3 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2154,7 +2116,7 @@ Recap the pen after use in order to protect from light.
 
 Discard after 28 days
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2278,15 +2240,17 @@ EU/1/20/1422/009
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Lyumjev 100 units/mL KwikPen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2420,8 +2384,8 @@ Lyumjev 100 units/mL Junior KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2525,8 +2489,8 @@ Lyumjev 100 units/mL Junior KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2658,336 +2622,6 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON \\_\\_ Tempo Pen. Pack of 5.
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL solution contains 100 units insulin lispro (equivalent to 3.5 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, metacresol, sodium hydroxide, hydrochloric acid, water for injections.
-
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Solution for injection.
-
-5 pens of 3 mL
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-After first use:
-
-Do not store above 30 °C.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-Discard after 28 days.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000,
-
-3528 BD Utrecht
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/20/1422/016
-
-5 pens
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Lyumjev 100 units/mL Tempo Pen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON (with blue box) multipack - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL solution contains 100 units insulin lispro (equivalent to 3.5 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, metacresol, sodium hydroxide, hydrochloric acid, water for injections.
-
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-Multipack: 10 (2 packs of 5) pens of 3 mL.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-<div style=\"page-break-after: always\"></div>
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-After first use:
-
-Do not store above 30 °C.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-Discard after 28 days.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000,
-
-3528 BD Utrecht
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/20/1422/017
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Lyumjev 100 units/mL Tempo Pen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-INTERMEDIATE CARTON (without blue box) component of a multipack - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each mL solution contains 100 units insulin lispro (equivalent to 3.5 mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, metacresol, sodium hydroxide, hydrochloric acid, water for injections.
-
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Solution for injection.
-
-5 pens of 3 mL. Component of a multipack, can't be sold separately.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Before use:
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Store in original package in order to protect from light.
-
-After first use:
-
-Do not store above 30 °C.
-
-Do not refrigerate or freeze.
-
-Recap the pen after use to protect from light.
-
-Discard after 28 days.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000,
-
-3528 BD Utrecht
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/20/1422/017
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Lyumjev 100 units/mL Tempo Pen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL TEXT -Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Lyumjev 100 units/mL Tempo Pen injection insulin lispro Subcutaneous use
-
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-3 mL
-
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
 OUTER CARTON - KwikPen.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -3066,9 +2700,7 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/20/1422/013
-
-2 pens
+EU/1/20/1422/013 2 pens
 
 EU/1/20/1422/014 5 pens
 
@@ -3090,8 +2722,8 @@ Lyumjev 200 units/mL KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3195,8 +2827,8 @@ Lyumjev 200 units/mL KwikPen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3330,9 +2962,9 @@ Use only in this pen, or severe overdose can result.
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lyumjev 100 units/ml solution for injection in vial insulin lispro
 
@@ -3379,7 +3011,9 @@ If you cannot see very well you will need help from someone who has been trained
 
 ## · Low blood sugar (hypoglycaemia).
 
-Low blood sugar can be serious and untreated hypoglycaemia may even lead to death. Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
+Low blood sugar can be serious and untreated hypoglycaemia may even lead to death.
+
+Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
 
 You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood sugar often. Making changes to the types of insulin you use may cause your blood sugar to rise or fall too much. It may be necessary to increase the frequency of blood sugar testing if you are at risk of low blood sugars. Your doctor may need to change the doses of your other diabetes medicines.
 
@@ -3551,11 +3185,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Low blood sugar (hypoglycaemia) is very common with insulin treatment (may affect more than 1 in 10 people). It can be very serious. If your blood sugar level falls too much you may become
+Low blood sugar (hypoglycaemia) is very common with insulin treatment (may affect more than 1 in 10 people). It can be very serious. If your blood sugar level falls too much you may become unconscious. Serious hypoglycaemia may cause brain damage and may be life-threatening. If you have symptoms of low blood sugar, act immediately to increase your blood sugar level. See section 3 under 'If you use more Lyumjev than you should'.
 
 <div style=\"page-break-after: always\"></div>
-
-unconscious. Serious hypoglycaemia may cause brain damage and may be life-threatening. If you have symptoms of low blood sugar, act immediately to increase your blood sugar level. See section 3 under 'If you use more Lyumjev than you should'.
 
 Allergic reactions are common (may affect up to 1 in 10 people). They may be severe and they may include the following symptoms:
 
@@ -3719,7 +3351,9 @@ T ел
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -3899,9 +3533,9 @@ For intravenous use, Lyumjev should be diluted to concentrations of 0.1 to 1.0 u
 
 Chemical and physical in-use stability has been demonstrated for 14 days at 2 - 8 °C and 20 hours at 20 - 25 °C when protected from light. From a microbiological point of view, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would not normally be longer than 24 hours at 2 - 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Lyumjev 100 units/ml solution for injection in cartridge
 
@@ -4270,7 +3904,9 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 Lietuva
 
@@ -4280,11 +3916,17 @@ Tel: +370 (5) 2649600
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. - България T ел. : + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България
+
+T ел.
+
+: + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
@@ -4294,9 +3936,9 @@ ELI LILLY ČR, s.r.o.
 
 Lilly Hungária Kft.
 
-<div style=\"page-break-after: always\"></div>
-
 Tel: + 420 234 664 111
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -4322,7 +3964,7 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ
 
@@ -4452,9 +4094,9 @@ Eli Lilly Sweden AB
 
 Tel: + 46-(0) 8 7378800
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Lyumjev 100 units/ml KwikPen solution for injection in pre-filled pen insulin lispro
 
@@ -4631,7 +4273,6 @@ Your doctor will work out your dose based on your blood sugar and body weight an
 
 - After your injection, leave the needle in the skin for 5 seconds to make sure you receive the full dose. Make sure you inject at least 1 cm from the last injection and that you 'rotate' the places you inject (upper arm, thigh, buttocks or abdomen).
 - If you do not have enough insulin in the pen to complete your dose, make a note of how much you still need to take. Prime a new pen and inject the remaining dose.
-- •
 - If you need to inject another insulin at the same time as Lyumjev, use a different injection site.
 - Do not inject directly into a vein.
 
@@ -4806,8 +4447,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Lyumjev 100 units/ml KwikPen solution for injection contains
 
 - The active substance is insulin lispro. Each ml solution contains 100 units of insulin lispro. One KwikPen contains 300 units of insulin lispro in 3 ml solution.
-- The other ingredients are metacresol, glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, water for injections. Sodium hydroxide or hydrochloric acid may have been used to adjust the pH
-- (see the end of section 2 under 'Lyumjev KwikPen contains sodium').
+- The other ingredients are metacresol, glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, water for injections. Sodium hydroxide or hydrochloric acid may have been used to adjust the pH (see the end of section 2 under 'Lyumjev KwikPen contains sodium').
 
 ## What Lyumjev KwikPen looks like and contents of the pack
 
@@ -4827,13 +4467,7 @@ Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
-Lilly France Rue du Colonel Lilly 67640 Fegersheim
-
-France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Lilly France Rue du Colonel Lilly 67640 Fegersheim France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
@@ -4845,9 +4479,7 @@ Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
@@ -4899,11 +4531,11 @@ Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
 
 Phadisco Ltd
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lietuva
 
-Eli Lilly Lietuva
-
-Tel: +370 (5) 2649600
+Eli Lilly Lietuva Tel: +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
@@ -4983,8 +4615,6 @@ Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
-D
-
 ## Instructions for Use
 
 ## Lyumjev 100 units/mL KwikPen solution for injection in pre-filled pen insulin lispro
@@ -5015,17 +4645,9 @@ People who are blind or have vision problems should not use the Pen without help
 
 Outer Needle
 
-Shield
+Shield Inner Needle Shield Needle
 
 Dose Knob
-
-Inner
-
-Needle
-
-Shield
-
-Needle
 
 Paper Tab
 
@@ -5251,13 +4873,9 @@ If you cannot see very well you will need help from someone who has been trained
 
 ## · Low blood sugar (hypoglycaemia).
 
-Low blood sugar can be serious and untreated hypoglycaemia may even lead to death.
+Low blood sugar can be serious and untreated hypoglycaemia may even lead to death. Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
 
-Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
-
-You must think carefully about when to have your meals, how often to exercise and how much to do.
-
-You must also keep a close watch on your blood sugar levels by testing your blood sugar often. Making changes to the types of insulin you use may cause your blood sugar to rise or fall too much. It may be necessary to increase the frequency of blood sugar testing if you are at risk of low blood sugars. Your doctor may need to change the doses of your other diabetes medicines.
+You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood sugar often. Making changes to the types of insulin you use may cause your blood sugar to rise or fall too much. It may be necessary to increase the frequency of blood sugar testing if you are at risk of low blood sugars. Your doctor may need to change the doses of your other diabetes medicines.
 
 ## · High blood sugar (hyperglycaemia).
 
@@ -5567,9 +5185,7 @@ The Lyumjev Junior KwikPen is taupe. The dose knob is peach with raised ridges o
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 
@@ -5629,7 +5245,9 @@ Icepharma hf. Sími: + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Κύπρος
 
@@ -5651,9 +5269,7 @@ Lilly Hungária Kft. Tel.: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Charles de Giorgio Ltd. Tel: + 356 25600 500
 
 ## Nederland
 
@@ -5665,7 +5281,9 @@ Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
+Eli Lilly Ges. m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -5696,8 +5314,6 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 ## Sverige
 
 Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
-
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5870,8 +5486,6 @@ Do not try to inject your insulin by turning the dose knob. You will not receive
 
 ## After your injection
 
-<!-- image -->
-
 | Step 13: • Carefully replace the outer needle shield.                                                                                                                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Step 14: • Unscrew the capped needle and dispose of it as described below (see ' Disposing of Pens and needles ' section). • Do not store the Pen with the needle attached to prevent leaking, blocking the needle, and air from entering the Pen. |
@@ -5896,735 +5510,6 @@ If you have any questions or problems with your Lyumjev 100 units/mL Junior Kwik
 
 ## Document Revision Date:
 
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## Lyumjev 100 units/ml Tempo Pen solution for injection in pre-filled pen insulin lispro
-
-## Each Tempo Pen delivers 1 to 60 units in steps of 1 unit in a single injection.
-
-## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, nurse or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Lyumjev Tempo Pen is and what it is used for
-2. What you need to know before you use Lyumjev Tempo Pen
-3. How to use Lyumjev Tempo Pen
-4. Possible side effects
-5. How to store Lyumjev Tempo Pen
-6. Contents of the pack and other information
-
-## 1. What Lyumjev Tempo Pen is and what it is used for
-
-Lyumjev 100 units/ml Tempo Pen solution for injection in pre-filled pen contains the active ingredient insulin lispro. Lyumjev is used to treat diabetes mellitus in adults, adolescents and children aged 1 year and above. It is a mealtime insulin that works more quickly than other medicines containing insulin lispro. Lyumjev contains ingredients that speed up absorption of insulin lispro into the body.
-
-Diabetes is a condition in which your body does not make enough insulin or does not use insulin effectively, which results in effects such as high levels of sugar in the blood. Lyumjev is an insulin medicine that is used in the treatment of diabetes and so controls blood sugar. Effective treatment of diabetes, with good control of blood sugar, prevents long-term complications from your diabetes.
-
-Treatment with Lyumjev helps to control blood sugar in the long term and prevent complications from your diabetes. Lyumjev has its maximum effect 1 to 3 hours after injection and the effect lasts for up to 5 hours. You should use Lyumjev at the start of the meal, or up to 20 minutes after starting the meal.
-
-Your doctor may tell you to use Lyumjev as well as a longer- or intermediate-acting insulin. Do not change your insulin unless your doctor tells you to.
-
-The Lyumjev 100 units/ml Tempo Pen is a disposable pre-filled pen containing 3 ml (300 units, 100 units/ml) of insulin lispro.  One Tempo Pen contains multiple doses of insulin. The Tempo Pen dials 1 unit at a time. The number of units are displayed in the dose window, always check this before your injection. You can give from 1 to 60 units in a single injection. If your dose is more than 60 units, you will need to give yourself more than one injection.
-
-<div style=\"page-break-after: always\"></div>
-
-## 2. What you need to know before you use Lyumjev Tempo Pen
-
-## Do NOT use Lyumjev Tempo Pen
-
-- if you think your blood sugar is dropping ( hypoglycaemia ). Further on, this leaflet tells you how to deal with low blood sugar (see section 3 under 'If you use more Lyumjev than you should').
-- if you are allergic to insulin lispro or any of the other ingredients of this medicine (listed in section 6).
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before using Lyumjev.
-
-If you cannot see very well you will need help from someone who has been trained to give injections.
-
-## · Low blood sugar (hypoglycaemia).
-
-Low blood sugar can be serious and untreated hypoglycaemia may even lead to death.
-
-Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
-
-You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood sugar often. Making changes to the types of insulin you use may cause your blood sugar to rise or fall too much. It may be necessary to increase the frequency of blood sugar testing if you are at risk of low blood sugars. Your doctor may need to change the doses of your other diabetes medicines.
-
-## · High blood sugar (hyperglycaemia).
-
-Stopping or not taking enough insulin may lead to high blood sugar (hyperglycaemia) and diabetic ketoacidosis, serious conditions that can even lead to death. For symptoms please see 'Common problems of diabetes'.
-
-- If your insulin treatment is being combined with one of a class of diabetes medicines called thiazolidinediones or glitazones, such as pioglitazone, tell your doctor as soon as possible if you get signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling caused by fluid retention (oedema).
-- If you have a serious allergic reaction to insulin or any of the ingredients in Lyumjev, stop using this medicine and contact emergency medical services straight away.
-- Always check the pack and the label for the name and type of the insulin when you get it from your pharmacy. Make sure you get the Lyumjev that your doctor has told you to use.
-- Keep the carton, or keep a note of the batch number on the carton.  If you have a side effect you can then provide that number when you report the side effect, see 'reporting of side effects'.
-- Always use a new needle for each injection to prevent infections and blocked needles. If a needle is blocked replace it with a new needle.
-
-## · Skin changes at the injection site.
-
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work well if you inject into a lumpy area (see 'How to use Lyumjev Tempo Pen'). Contact your doctor if you are currently injecting into a lumpy area before you start injecting into a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
-
-<div style=\"page-break-after: always\"></div>
-
-The Tempo Pen contains a magnet. If you have a medical device fitted, such as a heart pacemaker, this may not work correctly if the Tempo Pen is held too close. The magnetic field extends to approximately 1.5 cm.
-
-## Children and adolescents
-
-This medicine is not recommended for use in children below the age of 1 year.
-
-## Other medicines and Lyumjev
-
-Tell your doctor, nurse or pharmacist if you are taking, have recently taken or might take any other medicines. Some medicines affect your blood sugar level - this may mean your insulin dose has to change.
-
-Your blood sugar levels may fall (hypoglycaemia) if you take:
-
-- other medicines for diabetes (oral and injectable)
-- sulphonamide antibiotics (for infections)
-- acetylsalicylic acid (for pain and mild fever and to prevent blood clotting)
-- some antidepressants (monoamine oxidase inhibitors or selective serotonin reuptake inhibitors)
-- some angiotensin converting enzyme (ACE) inhibitors (for example captopril, enalapril) (for some heart problems or high blood pressure)
-- angiotensin II receptor blockers (for high blood pressure or heart problems)
-- somatostatin analogues (such as octreotide, which are used to treat a rare condition involving too much growth hormone)
-
-Your blood sugar levels may rise (hyperglycaemia) if you take:
-
-- danazol (for endometriosis)
-- the contraceptive pill (birth control pills)
-- thyroid hormone replacement therapy (for thyroid problems)
-- human growth hormone (for growth hormone deficiency)
-- diuretics (for high blood pressure or if you have a build-up of water in your body)
-- sympathomimetic agents (for serious allergic reactions or used in some cold remedies)
-- corticosteroids (to treat asthma or autoimmune conditions)
-
-Beta-blockers (used for high blood pressure, arrhythmia or angina) make it harder to recognise the warning signs of low blood sugar.
-
-## Lyumjev with alcohol
-
-Your blood sugar levels may either rise or fall if you drink alcohol. Therefore the amount of insulin needed may change. You should therefore monitor your blood sugar level more often than usual.
-
-## Pregnancy and breast-feeding
-
-If you are planning to have a baby, think you may be pregnant, are pregnant or breast-feeding, ask your doctor, nurse or pharmacist for advice before taking this medicine. The amount of insulin you need usually falls during the first 3 months of pregnancy and increases for the remaining 6 months. After you have had your baby your insulin requirements will likely return to how much you needed before your pregnancy.
-
-There are no restrictions on treatment with Lyumjev during breast-feeding. If you are breast-feeding, you may need to alter your insulin intake or diet.
-
-## Driving and using machines
-
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or using machines). You should contact your doctor about driving if you have:
-
-- frequent episodes of hypoglycaemia
-
-<div style=\"page-break-after: always\"></div>
-
-- reduced or absent warning signs of hypoglycaemia
-
-## Lyumjev Tempo Pen contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
-
-## 3. How to use Lyumjev Tempo Pen
-
-Always use this medicine exactly as described in this leaflet or as your doctor, pharmacist or nurse has told you. Check with them if you are not sure.
-
-They will have told you exactly how much Lyumjev to use, when to use it, and how often. They will also tell you how often to visit your diabetes clinic.
-
-To prevent the possible transmission of disease, each pen must be used by you only, even if the needle is changed.
-
-You should always have spare insulin and another injection device in case you need them.
-
-If you are blind or visually impaired you will need help from someone to  make your injections.
-
-Your doctor may tell you to use Lyumjev as well as a longer- or intermediate-acting insulin. Inject them separately. Lyumjev should not be mixed with any other insulin.
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The optional additional feature Tempo Smart Button is a product available for the Tempo Pen, which may be used for transmitting dose information to a mobile application. The Tempo Pen can be used with or without the Tempo Smart Button attached. See instructions provided with the Tempo Smart Button and the mobile application for further information.
-
-## When to inject Lyumjev
-
-Lyumjev is a mealtime insulin. You should use Lyumjev when you start to eat, or a minute or two before the meal; you also have the option to inject up to 20 minutes after starting the meal.
-
-## How much insulin to use
-
-Your doctor will work out your dose based on your blood sugar and body weight and explain:
-
-- How much Lyumjev you need at each meal.
-- How and when to check your blood sugar level.
-- How to change your insulin dose depending on your blood sugar levels.
-- What to do if you change your diet, or change how much you exercise, if you are ill or if you are using other medicines.
-- If you change the type of insulin you use, you may have to take more or less than before. This might just be for the first injection or it may be a gradual change over several weeks or months.
-
-## Do not use Lyumjev
-
-- If it does not look like water. Lyumjev must be clear, have no colour and no solid pieces in it. Check each time you inject yourself.
-- If Lyumjev has not been stored correctly (see section 5 'How to store Lyumjev').
-- If the pen is damaged in any way, do not use.
-
-## Getting the Tempo Pen ready to use (Please see instructions for use)
-
-- First wash your hands.
-- Read the instructions on how to use your pre-filled insulin pen. Please follow the instructions carefully. Here are some reminders.
-- Use a new needle. (Needles are not included).
-
-<div style=\"page-break-after: always\"></div>
-
-- Prime your Tempo Pen before each use. This checks that insulin comes out and clears the air bubbles from your Tempo Pen. There may still be some small air bubbles left in the pen. Small air bubbles are normal and will not affect your dose.
-- The number of units are displayed in the dose window, always check this before your injection.
-
-## Injecting Lyumjev
-
-- Before you make an injection, clean your skin.
-- Inject under the skin (subcutaneous injection), as you were taught by your physician or nurse.
-- After your injection, leave the needle in the skin for 5 seconds to make sure you receive the full dose. Make sure you inject at least 1 cm from the last injection and that you 'rotate' the places you inject (upper arm, thigh, buttocks or abdomen).
-- If you do not have enough insulin in the pen to complete your dose, make a note of how much you still need to take. Prime a new pen and inject the remaining dose.
-- •
-- If you need to inject another insulin at the same time as Lyumjev, use a different injection site.
-- Do not inject directly into a vein.
-
-## After injecting
-
-- As soon as you have done the injection, unscrew the needle from the Tempo Pen using the outer needle cap. This will keep the insulin sterile and stop it leaking. It also stops air entering the pen and your needle clogging. Do not share your needles . Do not share your pen . Replace the cap on your pen.
-- If you are unsure how much you have injected then check your blood sugar levels before deciding if you need another injection.
-
-## Further injections
-
-- Every time you use a Tempo Pen you must use a new needle. Before every injection, clear any air bubbles. You can see how much insulin is left by holding the Tempo Pen with the needle pointing up.
-- Once the Tempo Pen is empty, do not use it again.
-
-## If you use more Lyumjev than you should
-
-If you inject too much Lyumjev, or are unsure how much you have injected, a low blood sugar may occur. Check your blood sugar.
-
-If your blood sugar is low (hypoglycaemia) and you can treat yourself, eat glucose tablets, sugar or drink a sugary drink. Then eat fruit, biscuits, or a sandwich, as your doctor or nurse has advised you and have some rest. This will often get you over a low blood sugar or a minor insulin overdose. Check your blood sugar again after 15-20 mins until blood sugar is stabilised.
-
-If you are unable to treat yourself (severe hypoglycaemia) because you feel too dizzy, weak, confused, have difficulty talking, lose consciousness or have a seizure you may need to be treated with glucagon. This can be given by someone who knows how to use it. Eat glucose or sugar after the glucagon. If glucagon does not work, you will have to go to hospital or call emergency services. Ask your doctor to tell you about glucagon.
-
-Tell everyone you spend time with that you have diabetes. Tell them what could happen if your blood sugar gets too low, including the risk of passing out.
-
-Let them know that if you pass out, they must: turn you on your side to avoid choking, get medical help straight away and not give you any food or drink because you may choke.
-
-## If you forget to use Lyumjev
-
-If you forget to use your insulin, or you use less than you should, or are unsure how much you have injected, your blood sugar may get too high (hyperglycaemia). Check your blood sugar level to decide if an insulin dose is needed. Resume your usual dosing schedule at your next meal.
-
-<div style=\"page-break-after: always\"></div>
-
-## If you stop using Lyumjev
-
-Do not stop or change your insulin unless your doctor tells you to. If you use less Lyumjev than you should, a high blood sugar may occur.
-
-If high blood sugar (hyperglycaemia) is not treated it can be very serious and cause headaches, nausea, vomiting, abdominal pain, dehydration, unconsciousness, coma or even death (see section 4).
-
-Three simple steps to reduce your risk of hypoglycaemia or hyperglycaemia are:
-
-- Always keep a spare pen in case you lose your Tempo Pen or it gets damaged.
-- Always carry something to show you are diabetic.
-- Always carry sugar with you.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Low blood sugar (hypoglycaemia) is very common with insulin treatment (may affect more than 1 in 10 people). It can be very serious. If your blood sugar level falls too much you may become unconscious. Serious hypoglycaemia may cause brain damage and may be life-threatening. If you have symptoms of low blood sugar, act immediately to increase your blood sugar level. See section 3 under 'If you use more Lyumjev than you should'.
-
-Allergic reactions are common (may affect up to 1 in 10 people). They may be severe and they may include the following symptoms:
-
-- rash and itching over the whole body
-- difficulty in breathing
-- wheezing
-
-If you have a serious allergic reaction (including an anaphylactic attack) to insulin or any of the ingredients in Lyumjev, stop using this medicine and contact emergency medical service straight away.
-
-## Other side effects include
-
-## Common (may affect up to 1 in 10 people)
-
-Injection site reactions. Some people get redness, pain, swelling or itching around the area of the insulin injection. This usually clears up in a few minutes to a few weeks without needing to stop Lyumjev. If you have injection site reactions, tell your doctor.
-
-## Uncommon (may affect up to 1 in 100 people)
-
-Skin changes at the injection site: If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by the build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
-
-## Other potential side effects
-
-Swelling in arms or ankles due to fluid retention (oedema) particularly at the start of insulin therapy or during a change in your diabetes medicines.
-
-- blood pressure dropping
-- heart beating fast
-- sweating
-
-<div style=\"page-break-after: always\"></div>
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## Common problems of diabetes
-
-## Low blood sugar
-
-Low blood sugar (hypoglycaemia) means there is not enough sugar in the blood. This can be caused if:
-
-- you take too much Lyumjev or other insulin;
-- you miss or delay meals or change your diet;
-- you exercise or work too hard just before or after a meal;
-- you have an infection or illness (especially diarrhoea or vomiting);
-- there is a change in your need for insulin for example if you lose weight; or you have trouble with your kidneys or liver which gets worse.
-
-See section 'If you use more Lyumjev than you should'.
-
-The first symptoms of low blood sugar usually come on quickly and include the following:
-
-- tiredness
-- rapid heart beat
-- nervousness or shakiness
-- feeling sick
-- headache
-- cold sweat
-
-If you are not confident about recognising your warning symptoms, avoid situations such as driving a car, in which you or others would be put at risk by hypoglycaemia.
-
-High blood sugar (hyperglycaemia) and diabetic ketoacidosis
-
-Hyperglycaemia (too much sugar in the blood) means that the levels of glucose in your body are too high. Hyperglycaemia can be brought about by:
-
-- not taking your insulin;
-- using less insulin than your body needs;
-- an imbalance between the amount of carbohydrates you eat and the insulin you take; or
-- fever, infection or emotional stress.
-
-The early symptoms of hyperglycaemia are:
-
-- being very thirsty
-- headache
-- feeling sleepy
-- urinating more often
-
-Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. Additional symptoms include the following:
-
-- nausea and/or vomiting
-- abdominal pain
-- rapid pulse
-- heavy breathing
-- moderate or large amounts of urine ketones. Ketones are produced when your body burns fat for energy instead of glucose.
-
-If you have any of these symptoms and high sugars get medical help immediately. See section 'If you forget to use Lyumjev'.
-
-<div style=\"page-break-after: always\"></div>
-
-## Illness
-
-If you are ill, especially if you feel sick or are sick, the amount of insulin you need may change. Even when you are not eating normally, you still need insulin. Test your urine or blood, follow your 'sick rules', and tell your doctor.
-
-## 5. How to store Lyumjev Tempo Pen
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the label and the carton. The expiry date refers to the last day of that month.
-
-## Before first use
-
-Store in a refrigerator (2 ° C - 8 ° C).
-
-Do not freeze.
-
-Keep in the outer carton in order to protect from light.
-
-## After first use
-
-Do not store above 30 °C.
-
-Do not freeze.
-
-Do not refrigerate.
-
-The Tempo Pen should not be stored with the needle attached. Keep the cap on the pen in order to protect from light.
-
-Discard after 28 days even if some of the solution remains .
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Lyumjev 100 units/ml Tempo Pen solution for injection contains
-
-- The active substance is insulin lispro. Each ml solution contains 100 units of insulin lispro. One Tempo Pen contains 300 units of insulin lispro in 3 ml solution.
-- The other ingredients are metacresol, glycerol, magnesium chloride hexahydrate, sodium citrate dihydrate, treprostinil sodium, zinc oxide, water for injections. Sodium hydroxide or hydrochloric acid may have been used to adjust the pH (see the end of section 2 under 'Lyumjev Tempo Pen contains sodium').
-- The Tempo Pen contains a magnet (see section 2, \"Warnings and precautions\").
-
-## What Lyumjev Tempo Pen looks like and contents of the pack
-
-Lyumjev Tempo Pen solution for injection is a clear, colourless, aqueous solution in a pre-filled pen. Each pre-filled pen contains 300 units (3 millilitres).
-
-Pack sizes of 5 or a multipack of 2 x 5 pre-filled pens.
-
-Not all pack sizes may be marketed.
-
-The Lyumjev Tempo Pen is taupe. The dose knob is blue with raised ridges around the entire side. The label is blue, green and white.
-
-Each Lyumjev Tempo Pen delivers 1 to 60 units in steps of 1 unit in a single injection.
-
-<div style=\"page-break-after: always\"></div>
-
-## Marketing Authorisation Holder
-
-Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
-
-## Manufacturer
-
-Lilly France Rue du Colonel Lilly 67640 Fegersheim France
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## Belgique/België/Belgien
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## България
-
-ТП \"Ели Лили Недерланд\" Б.В. -България T ел. : + 359 2 491 41 40
-
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
-## Danmark
-
-Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
-
-## Deutschland
-
-Lilly Deutschland GmbH
-
-Tel: + 49-(0) 6172 273 2222
-
-## Eesti
-
-Eli Lilly Nederland B.V. Tel: + 372 6817 280
-
-## Ελλάδα
-
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ : +30 210 629 4600
-
-## España
-
-Dista S.A.
-
-Tel: + 34-91 663 50 00
-
-## France
-
-Lilly France
-
-Tél: +33-(0) 1 55 49 34 34
-
-## Hrvatska
-
-Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
-
-## Ireland
-
-Eli Lilly and Company (Ireland) Limited
-
-## Lietuva
-
-Eli Lilly Lietuva Tel: +370 (5) 2649600
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## Magyarország
-
-Lilly Hungária Kft. Tel.: + 36 1 328 5100
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
-## Nederland
-
-Eli Lilly Nederland B.V. Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L. Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: + 353-(0) 1 661 4377
-
-<div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Icepharma hf.
-
-Sími: + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
-
-## Κύπρος
-
-Phadisco Ltd
-
-Τηλ
-
-: +357 22 715000
-
-## Latvija
-
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
-
-Tel:
-
-+ 371 67364000
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Tel: +386 (0) 1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-<div style=\"page-break-after: always\"></div>
-
-## Instructions for Use
-
-## Lyumjev 100 units/mL Tempo Pen solution for injection in pre-filled pen insulin lispro
-
-<!-- image -->
-
-## PLEASE READ THESE INSTRUCTIONS BEFORE USE
-
-Read the instructions for use before you start using Lyumjev and each time you get another Lyumjev Tempo Pen. There may be new information. This information does not take the place of talking to your healthcare professional about your medical condition or your treatment.
-
-Lyumjev 100 units/mL Tempo Pen ('Pen') is a disposable pre-filled pen containing 3 mL (300 units, 100 units/mL) of insulin lispro solution for injection.
-
-- Your healthcare professional will tell you how many units to give as your dose and how to inject your prescribed dose of insulin.
-- You can give yourself more than 1 dose from the Pen.
-- Each turn of the dose knob dials 1 unit of insulin. You can give from 1 to 60 units in a single injection.
-- If your dose is more than 60 units, you will need to give yourself more than 1 injection. Always check the number in the dose window to make sure you dialed the correct dose.
-- The plunger only moves a little with each injection, and you may not notice that it moves. The plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Lyumjev dose information from the Tempo Pen to a compatible mobile application. The Tempo Pen injects insulin with or without the Tempo Smart Button attached. Your Tempo Smart Button must be attached to a Tempo Pen to record or transfer dose data. Push the Tempo Smart Button straight down on the dose knob until you hear a snap or feel the Tempo Smart Button snap into place. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application.
-
-Do not share your Lyumjev Tempo Pen with other people, even if the needle has been changed. Do not reuse or share needles with other people. You may give other people a serious infection or get a serious infection from them.
-
-People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
-
-## Lyumjev Tempo Pen Parts
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## How to recognize your Lyumjev Tempo Pen
-
-- Pen colour:
-
-Taupe
-
-- Dose Knob:
-
-Blue, with raised ridges around the entire side
-
-- Label:
-
-Blue, green and white
-
-## Supplies needed to give your injection
-
-- Lyumjev Tempo Pen
-- Tempo Pen compatible needle (BD [Becton, Dickinson and Company] Pen needles recommended)
-- Swab or gauze
-
-Needles, swab or gauze are not included.
-
-## Preparing your Pen
-
-- Wash your hands with soap and water.
-- Check the Pen to make sure you are taking the right type of insulin. This is especially important if you use more than 1 type of insulin.
-- Do not use your Pen past the expiry date printed on the label or for more than 28 days after you first start using the Pen.
-- Always use a new needle for each injection to help prevent infections and blocked needles.
-
-## Step 1:
-
-- Pull the Pen cap straight off.
-- -Do not remove the Pen label.
-- Wipe the rubber seal with a swab.
-
-## Step 2:
-
-- Check the liquid in the Pen.
-- Lyumjev should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## Priming your Pen
-
-## Prime before each injection.
-
-- Priming your Pen means removing the air from the needle and cartridge that may collect during normal use and ensures that your Pen is working correctly.
-- If you do not prime before each injection, you may get too much or too little insulin.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-- -If you still do not see insulin, change the needle and repeat priming steps 6 to 8.
-
-Small air bubbles are normal and will not affect your dose.
-
-## Selecting your dose
-
-- You can give from 1 to 60 units in a single injection.
-- If your dose is more than 60 units, you will need to give more than 1 injection.
-- -If you need help with dividing up your dose the right way, ask your healthcare professional.
-- -Use a new needle for each injection and repeat the priming steps.
-- The Pen will not let you dial more than the number of units left in the Pen.
-- If you need to inject more than the number of units left in the Pen, you may either:
-- -inject the amount left in your Pen and then use a new Pen to give the rest of your dose,
-
-<!-- image -->
-
-or
-
-- -get a new Pen and inject the full dose.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-- It is normal to see a small amount of insulin left in the Pen that you cannot inject.
-
-## Giving your injection
-
-- Inject your insulin as your healthcare professional has shown you.
-- Change (rotate) your injection site for each injection.
-- Do not try to change your dose while injecting.
-
-## Step 10:
-
-- Choose your injection site.
-
-Lyumjev is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms.
-
-- Wipe your skin with a swab, and let your skin dry before you inject your dose.
-
-## Step 11:
-
-- Insert the needle into your skin.
-- Push the dose knob all the way in.
-- Continue to hold the dose knob in and slowly count to 5 before removing the needle.
-
-<!-- image -->
-
-Do not try to inject your insulin by turning the dose knob. You will not receive your insulin by turning the dose knob.
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 12:
-
-•
-
-- Pull the needle out of your skin.
-- -A drop of insulin at the needle tip is normal. It will not affect your dose.
-- Check the number in the dose window.
-- -If you see '0' in the dose window, you have received the full amount you dialed.
-- -If you do not see '0' in the dose window, you did not receive your full dose. Do not redial. Insert the needle into your skin and finish your injection.
-- -If you still do not think you received the full amount you dialed for your injection, do not start over or repeat that injection . Monitor your blood glucose as instructed by your healthcare professional.
-- -If you normally need to give 2 injections for your full dose, be sure to give your second injection.
-
-The plunger only moves a little with each injection, and you may not notice that it moves.
-
-If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
-
-## After your injection
-
-## Step 13:
-
-- Carefully replace the outer needle shield.
-
-## Step 14:
-
-- Unscrew the capped needle and dispose of it as described below (see ' Disposing of Pens and needles ' section).
-- Do not store the Pen with the needle attached to prevent leaking, blocking the needle, and air from entering the Pen.
-
-## Step 15:
-
-- Replace the Pen cap by lining up the cap clip with the dose indicator and pushing straight on.
-
-<!-- image -->
-
 <!-- image -->
 
 <!-- image -->
@@ -6632,29 +5517,8 @@ If you see blood after you take the needle out of your skin, press the injection
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Disposing of Pens and needles
-
-- Put used needles in a sharps container or a hard plastic container with a secure lid. Do not throw needles directly into your household waste.
-- Do not recycle the filled sharps container.
-- Ask your healthcare professional about options to dispose of the Pen and the sharps container properly.
-- The directions regarding needle handling are not intended to replace local, healthcare professional or institutional policies.
-
-## Troubleshooting
-
-- If you cannot remove the Pen cap, gently twist the cap back and forth, and then pull the cap straight off.
-- If the dose knob is hard to push:
-- -pushing the dose knob more slowly will make it easier to inject.
-- -your needle may be blocked. Put on a new needle and prime the Pen.
-- -you may have dust, food, or liquid inside the Pen. Throw the Pen away and get a new Pen. You may need to get a prescription from your healthcare professional.
-
-If you have any questions or problems with your Lyumjev 100 units/mL Tempo Pen, call your healthcare professional for help or contact your local Lilly affiliate.
-
-Document Revision Date:
 
 ## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lyumjev 200 units/ml KwikPen solution for injection in pre-filled pen insulin lispro
 
@@ -6705,7 +5569,9 @@ Talk to your doctor, pharmacist or nurse before using Lyumjev.
 
 If you cannot see very well you will need help from someone who has been trained to give injections.
 
-- Low blood sugar (hypoglycaemia).
+## · Low blood sugar
+
+- (hypoglycaemia).
 
 Low blood sugar can be serious and untreated hypoglycaemia may even lead to death. Lyumjev starts to lower blood sugar faster than some other mealtime insulins. If hypoglycaemia occurs, you may experience it earlier after an injection of Lyumjev. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor or nurse. If your blood sugar levels are well controlled by your current insulin therapy or after long duration of diabetes, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed later in this leaflet. For symptoms please see 'Common problems of diabetes'.
 
@@ -7061,9 +5927,7 @@ Eli Lilly Danmark A/S Tlf.: +45 45 26 6000
 
 ## Deutschland
 
-Lilly Deutschland GmbH
-
-Tel: + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH Tel: + 49-(0) 6172 273 2222
 
 ## Eesti
 
@@ -7071,11 +5935,7 @@ Eli Lilly Nederland B.V. Tel: + 372 6817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ
-
-: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ : +30 210 629 4600
 
 ## España
 
@@ -7097,9 +5957,7 @@ Eli Lilly Lietuva Tel: +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -7139,11 +5997,11 @@ Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
 
 ## România
 
-<div style=\"page-break-after: always\"></div>
-
 Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
@@ -7332,7 +6190,7 @@ White with a blue colour bar and checkerboard design. Yellow warning on cartridg
 
 ## Selecting your dose
 
-## This Pen has been designed to deliver the dose that is shown in the dose window. Dial your usual dose as instructed by your healthcare professional.
+This Pen has been designed to deliver the dose that is shown in the dose window. Dial your usual dose as instructed by your healthcare professional.
 
 - You can give from 1 to 60 units in a single injection.
 - If your dose is more than 60 units, you will need to give more than 1 injection.
@@ -7341,11 +6199,21 @@ White with a blue colour bar and checkerboard design. Yellow warning on cartridg
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Step 9:
 
+- Turn the dose knob to select the number of units you need to inject. The dose indicator should line up with your dose.
+- -The Pen dials 1 unit at a time.
+- -The dose knob clicks as you turn it.
+- -Do not dial your dose by counting the clicks. You may dial the wrong dose. This may lead to getting too much insulin or not enough insulin.
+- -The dose can be corrected by turning the dose knob in either direction until the correct dose lines up with the dose indicator.
+- -The even numbers are printed on the dial. The example to the right shows 12 units.
+- -The odd numbers, after the number 1, are shown as full lines between the numbers. The example to the right shows 25 units.
+- Always check the number in the dose window to make sure you have dialed the correct dose.
 - The Pen will not let you dial more than the number of units left in the Pen.
 - If you need to inject more than the number of units left in the Pen, you may either:
 - -inject the amount left in your Pen and then use a new Pen to give the rest of your dose,
+
+<!-- image -->
 
 or
 

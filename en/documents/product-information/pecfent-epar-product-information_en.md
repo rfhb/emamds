@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-06-05 14:44:12
+document_datetime: 2026-07-15 10:59:46
 document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pecfent-epar-product-information_en.pdf
 document_name: pecfent-epar-product-information_en.pdf
 version: success
-processing_time: 17.3971503
-conversion_datetime: 2025-12-19 21:41:26.34335
+processing_time: 12.2001338
+conversion_datetime: 2026-07-16 13:30:31.384561
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -314,7 +314,7 @@ The clinical studies of PecFent were designed to evaluate safety and efficacy in
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported with PecFent and/or other fentanyl-containing compounds during clinical studies and post marketing experience ( frequencies defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); unknown (cannot be estimated from available data)).
+The following adverse reactions have been reported with PecFent and/or other fentanyl-containing compounds during clinical studies and post marketing experience ( frequencies defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); unknown (cannot be estimated from available data)) .
 
 |                                      | Common   | Uncommon                                       | Unknown   |
 |--------------------------------------|----------|------------------------------------------------|-----------|
@@ -357,15 +357,13 @@ Tolerance can develop on repeated use.
 
 ## Drug dependence
 
-Repeated use of PecFent can lead to drug dependence, even at  therapeutic  doses.  The risk  of  drug dependence may vary depending on a patient's individual risk factors, dosage, and duration of opioid treatment (see section 4.4).
+Repeated use of PecFent can lead to drug dependence, even at therapeutic doses.  The risk  of  drug dependence may vary depending on a patient's individual risk factors, dosage, and duration of opioid treatment (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -403,7 +401,7 @@ A double-blind, randomised, placebo-controlled crossover study has been conducte
 
 Of the patients entering the titration phase, only 7 (6.1 %) were unable to be titrated to an effective dose due to lack of efficacy and 6 (5.3 %) withdrew due to adverse events.
 
-The primary endpoint was the comparison between the summed pain intensity difference at 30 minutes after dosing (SPID30), which was 6.57 in the PecFent-treated episodes compared to 4.45 for placebo (p&lt;0.0001 ). The SPID for PecFent-treated episodes was also significantly different to placebo at 10 15, 45 and 60 minutes after administration.
+The primary endpoint was the comparison between the summed pain intensity difference at 30 minutes after dosing (SPID30), which was 6.57 in the PecFent-treated episodes compared to 4.45 for placebo (p&lt;0.0001 ). The SPID for PecFent -treated episodes was also significantly different to placebo at 10 15, 45 and 60 minutes after administration.
 
 The mean pain intensity scores (73 patients) for all PecFent-treated episodes (459 episodes) compared to those treated with placebo (200 episodes) were significantly lower at 5, 10, 15, 30, 45 and 60 minutes following administration (see Figure 1).
 
@@ -415,7 +413,7 @@ PecFent
 
 PecFent
 
-PecFent
+- PecFent
 
 The superior efficacy of PecFent over placebo was supported by data from secondary endpoints including the number of BTP episodes with clinically meaningful pain relief, defined as a reduction in pain intensity score of at least 2 (Figure 2).
 
@@ -623,7 +621,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERRESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -700,7 +698,7 @@ Educational material for the patients will contain the following:
 - Importance of reporting off-label use, misuse, abuse, addiction and overdose.
 - Need for tailoring therapy if OUD is recognised.
 
-## The prescribers of PecFent must critically select the patients and counsel them on:
+The prescribers of PecFent must critically select the patients and counsel them on:
 
 - Instructions for use of PecFent.
 - Never sharing their medication or diverting the purpose of its use.
@@ -792,7 +790,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-PecFent 100 micrograms/spray nasal spray solution fentanyl
+PecFent 100 micrograms/spray nasal spray solution
+
+fentanyl
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -890,7 +890,7 @@ EU/1/10/644/005 100 micrograms, 8 sprays, 12 bottles
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot PecFent 100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -903,15 +903,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-PecFent 100
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -969,7 +967,7 @@ Date of priming: ……….
 
 <div style=\"page-break-after: always\"></div>
 
-## 8 spray bottle:
+8 spray bottle:
 
 After first-use, use within 60 days
 
@@ -993,9 +991,6 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 12. MARKETING AUTHORISATION NUMBER(S)
 13. BATCH NUMBER
-
-Lot
-
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
@@ -1005,34 +1000,30 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-Not applicable
+Not applicable PecFent 100 micrograms/spray nasal spray fentanyl Nasal use EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| BOTTLE LABEL                                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BOTTLE LABEL                                                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-PecFent 100 micrograms/spray nasal spray fentanyl Nasal use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.95 ml - 2 sprays
 
@@ -1214,8 +1205,6 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 13. BATCH NUMBER
 
-Lot
-
 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
@@ -1228,23 +1217,23 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
-
 Not applicable
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| BOTTLE LABEL                                                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BOTTLE LABEL                                                       |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 PecFent 400 micrograms/spray nasal spray fentanyl Nasal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1256,8 +1245,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.55 ml - 8 sprays
 
@@ -1369,7 +1358,9 @@ This medicine contains fentanyl which is an opioid medicine. Repeated use of opi
 
 ## Dependence and addiction
 
-Repeated  use  of  PecFent  can  also  lead  to  dependence,  abuse  and  addiction  which  may  result  in life-threatening  overdose. The risk  of  these  side  effects  can increase  with  a  higher  dose and longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
+## This medicine contains fentanyl, which is an opioid. It can cause dependence and/or addiction.
+
+Repeated  use  of  PecFent  can  also  lead  to  dependence,  abuse  and  addiction  which  may  result  in life-threatening  overdose. The  risk  of  these  side  effects  can  increase  with  a  higher  dose  and  longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
 
 The risk of becoming dependent or addicted varies from person to person. You may have a greater risk of becoming dependent or addicted on PecFent if:
 
@@ -1399,9 +1390,11 @@ PecFent is not approved for use in children under 18 years of age.
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
 
-- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are not possible. However, if your doctor does prescribe PecFent together with sedative medicines the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
+- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are
 
 <div style=\"page-break-after: always\"></div>
+
+not possible. However, if your doctor does prescribe PecFent together with sedative medicines the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
 
 - medicines for depression called 'monoamine-oxidase inhibitors' (MAOI). Tell your doctor or pharmacist if you have taken an MAOI medicine in the past 2 weeks before using PecFent. The risk of side effects increases if you are taking medicines such as certain antidepressants or antipsychotics. PecFent may interact with these medicines and you may experience mental status changes (e.g. agitation, hallucinations, coma), and other effects such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea). Your doctor will tell you whether PecFent is suitable for you.
 - nasal sprays to treat a stuffy nose (containing a decongestant such as oxymetazoline)
@@ -1438,13 +1431,13 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 - You may feel sleepy, dizzy or have problems with your eyesight after using PecFent. If this happens, do not drive or use any tools or machines.
 - Do not drive or use tools or machines until you know how this medicine makes you feel.
 
-## PecFent contains propylparahydroxybenzoate (E216).
+PecFent contains propylparahydroxybenzoate (E216).
+
+<div style=\"page-break-after: always\"></div>
 
 May cause allergic reactions (possibly delayed), and exceptionally, bronchospasm (if you do not use the nasal spray correctly).
 
 ## 3. How to use PecFent
-
-<div style=\"page-break-after: always\"></div>
 
 Before starting treatment and regularly during treatment, your doctor will also discuss with you what you may expect from using PecFent, when and how long you need to take it, when to contact your doctor, and when you need to stop it (see also section 2).
 
@@ -1482,7 +1475,7 @@ If you are not sure about the right dose or how much PecFent to use, ask your do
 
 ## Using the PecFent bottle
 
-## Instructionsonhowtoopenandclose thechildresistantcontainer
+## Instructions on how to open and close the child resistant container
 
 <!-- image -->
 
@@ -1591,7 +1584,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - feel very dizzy or faint
 - feel very sleepy
-- •
 - get slow or shallow breathing
 - get cold clammy skin, look pale, have a weak pulse or other signs of shock.
 
@@ -1690,7 +1682,9 @@ The active substance is fentanyl.
 
 1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
 
-- PecFent 400 micrograms/spray nasal spray, solution Each ml of solution contains 4,000 micrograms fentanyl (as citrate).
+- PecFent 400 micrograms/spray nasal spray, solution
+
+Each ml of solution contains 4,000 micrograms fentanyl (as citrate).
 
 1 spray (100 microlitres) contains 400 micrograms fentanyl (as citrate).
 
@@ -1706,27 +1700,19 @@ The medicine is a clear to almost clear, colourless nasal spray, solution. It is
 
 PecFent bottles in their child resistant containers are supplied in cartons containing 1, 4 or 12 bottles. Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
-
-Grünenthal GmbH Zieglerstraße 6 52078 Aachen
+Marketing Authorisation Holder Grünenthal GmbH Zieglerstraße 6 52078 Aachen
 
 Germany
 
 ## Manufacturer
 
-L. Molteni &amp; C. dei F.lli Alitti Società di Esercizio S.p.A
-
-Strada Statale 67 Tosco Romagnola, Fraz. Granatieri - 50018 Scandicci (FI) Italy
+L. Molteni &amp; C. dei F.lli Alitti Società di Esercizio S.p.A Strada Statale 67 Tosco Romagnola, Fraz. Granatieri - 50018 Scandicci (FI) Italy
 
 ## This leaflet was last revised
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
-
-<div style=\"page-break-after: always\"></div>
-
-## B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
 
@@ -1825,19 +1811,19 @@ Consult your doctor while using PecFent if :
 
 This medicine contains fentanyl which is an opioid medicine. Repeated use of opioid painkillers can result in the drug being less effective (you become accustomed to it, known as drug tolerance). You may also become more sensitive to pain while using PecFent. This is known as hyperalgesia. Increasing the dose of PecFent may help to further reduce your pain for a while, but it may also be harmful. If you notice that your medicine becomes less effective, talk to your doctor. Your doctor will decide whether it is better for you to increase the dose or to gradually decrease your use of PecFent.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dependence and addiction
 
-<div style=\"page-break-after: always\"></div>
+## This medicine contains fentanyl, which is an opioid. It can cause dependence and/or addiction.
 
 Repeated use of PecFent can also lead to dependence, abuse and addiction which may result in lifethreatening overdose. The risk of these side effects can increase with a higher dose and longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
 
 The risk of becoming dependent or addicted varies from person to person. You may have a greater risk of becoming dependent or addicted on PecFent if:
 
-· You or anyone in your family have ever abused or been dependent on alcohol, prescription medicines or illegal drugs ('addiction').
-
+- You or anyone in your family have ever abused or been dependent on alcohol, prescription medicines or illegal drugs ('addiction').
 - You are a smoker.
-
-· You have ever had problems with your mood (depression, anxiety or a personality disorder) or have been treated by a psychiatrist for other mental illness.
+- You have ever had problems with your mood (depression, anxiety or a personality disorder) or have been treated by a psychiatrist for other mental illness.
 
 If you notice any of the following signs whilst using PecFent, it could be a sign that you have become dependent or addicted.
 
@@ -1861,13 +1847,13 @@ PecFent is not approved for use in children under 18 years of age.
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
 
-- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are not possible. However, if your doctor does prescribe PecFent together with sedative medicines the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
-- medicines for depression called 'monoamine-oxidase inhibitors' (MAOI). Tell your doctor or pharmacist if you have taken an MAOI medicine in the past 2 weeks before using PecFent.
+- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are not possible. However, if your doctor does prescribe PecFent together with sedative medicines
 
 <div style=\"page-break-after: always\"></div>
 
-The risk of side effects increases if you are taking medicines such as certain antidepressants or antipsychotics. PecFent may interact with these medicines and you may experience mental status changes (e.g. agitation, hallucinations, coma), and other effects such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea). Your doctor will tell you whether PecFent is suitable for you.
+the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
 
+- medicines for depression called 'monoamine-oxidase inhibitors' (MAOI). Tell your doctor or pharmacist if you have taken an MAOI medicine in the past 2 weeks before using PecFent. The risk of side effects increases if you are taking medicines such as certain antidepressants or antipsychotics. PecFent may interact with these medicines and you may experience mental status changes (e.g. agitation, hallucinations, coma), and other effects such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea). Your doctor will tell you whether PecFent is suitable for you.
 - nasal sprays to treat a stuffy nose (containing a decongestant such as oxymetazoline)
 - medicines that might have an effect on the way your body breaks down PecFent. These include:
 - o medicines for HIV infection (such as ritonavir, nelfinavir, amprenavir or fosamprenavir)
@@ -1906,13 +1892,11 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 May cause allergic reactions (possibly delayed), and exceptionally, bronchospasm (if you do not use the nasal spray correctly).
 
-## 3. How to use PecFent
-
-Before starting treatment and regularly during treatment, your doctor will also discuss with you what you may expect from using PecFent, when and how long you need to take it, when to contact your
-
 <div style=\"page-break-after: always\"></div>
 
-doctor, and when you need to stop it (see also section 2).
+## 3. How to use PecFent
+
+Before starting treatment and regularly during treatment, your doctor will also discuss with you what you may expect from using PecFent, when and how long you need to take it, when to contact your doctor, and when you need to stop it (see also section 2).
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -1944,13 +1928,13 @@ PecFent comes in two different strengths: a 100 microgram per spray bottle and a
 
 If you are not sure about the right dose or how much PecFent to use, ask your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Using the PecFent bottle
 
-## Instructions onhow to open and close the child resistant container
+## Instructions on how to open and close the child resistant container
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparing the PecFent bottle for use
 
@@ -1968,6 +1952,12 @@ To prime the bottle, please follow the instructions below:
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## Using PecFent
 
 ## PecFent is only to be used by spraying into your nostril.
@@ -1982,13 +1972,6 @@ To prime the bottle, please follow the instructions below:
 8. Firmly press down on the finger grips so that PecFent sprays into your nostril. When you hear a click let go of the grips. Note: You may not feel anything happen in your nose at all - do not trust this to mean the spray did not operate - rely on the click and number counter.
 9. Breathe in gently through your nose and out through your mouth.
 10. The number counter will move forward after each use and show how many sprays have been used.
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 11. If your doctor has prescribed a second spray, repeat steps 5 to 9, using the other nostril.
 
 ## Do not use more than the dose that your doctor prescribes to treat any single pain episode.
@@ -2010,6 +1993,11 @@ There are 2 full sprays in each PecFent bottle.
 ## Disposal of unused PecFent
 
 - If you can see a number, other than 2 in the counting window, you have NOT used all 2 sprays in the bottle. There are still doses of PecFent left in the bottle.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 - You must empty this remaining dose of PecFent from the bottle by aiming the nasal spray away from you (and any other people) and pressing and releasing the grips until the red number '2' appears in the counting window.
 
 ## When you see the number '2' in the counting window, there is still medicine in the bottle that you must empty.
@@ -2026,10 +2014,6 @@ There are 2 full sprays in each PecFent bottle.
 
 - If the spray is blocked, aim the spray away from you (and any other people) and push firmly down on the pump. This should clear any blockage.
 - If your nasal spray is still not working properly, dispose of the faulty bottle and start a new one. Tell your doctor what happened. Never try to fix the nasal spray yourself or take it apart. This is because it may then give you the wrong dose.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Dispose of the PecFent bottle and start a new one if:
 
@@ -2061,6 +2045,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you or your carer notice any of the side effects above, call an ambulance straight away.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common side effects (may affect up to 1 in 10 people):
 
 - not knowing where you are (disorientated)
@@ -2085,9 +2071,6 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - feeling depressed, worried, slow or nervous
 - a lack of concentration or increased activity
 - memory loss
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling 'high'
 - being less aware or responsive, losing consciousness
 - convulsion (fits)
@@ -2119,6 +2102,9 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - Severe breathing problems
 - Flushing
 - Insomnia
+
+<div style=\"page-break-after: always\"></div>
+
 - Withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating)
 - Drug tolerance, drug dependence (addiction), drug abuse (see section 2)
 
@@ -2134,8 +2120,6 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Store this medicine in a safe and secure place, where other people cannot access it. It can cause serious harm and be fatal to people who may take this medicine by accident, or intentionally when it has not been prescribed for them.
 
-<div style=\"page-break-after: always\"></div>
-
 - Do not use this medicine after the expiry date which is stated on the carton and bottle after EXP. The expiry date refers to the last day of that month.
 - Do not store PecFent above 25 ° C.
 - Do not freeze.
@@ -2150,13 +2134,13 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 The active substance is fentanyl.
 
-- PecFent 100 micrograms/spray nasal spray, solution
-
-Each ml of solution contains 1,000 micrograms  fentanyl (as citrate).
+- PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms  fentanyl (as citrate).
 
 1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
 
 The other ingredients (excipients) are pectin (E440), mannitol (E421), phenylethyl alcohol, propylparahydroxybenzoate (E216), sucrose, purified water and hydrochloric acid or sodium hydroxide for pH adjustment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What PecFent looks like and contents of the pack
 
@@ -2166,9 +2150,7 @@ PecFent 2 spray bottles in their child resistant containers are supplied in a ca
 
 ## Marketing Authorisation Holder
 
-Grünenthal GmbH Zieglerstraße 6 52078 Aachen
-
-Germany
+Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 ## Manufacturer
 
@@ -2178,4 +2160,6 @@ L. Molteni &amp; C. dei F.lli Alitti Società di Esercizio S.p.A Strada Statale 
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[http://www.ema.europa.eu/.](http://www.ema.europa.eu/)

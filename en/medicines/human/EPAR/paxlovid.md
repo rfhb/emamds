@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-18 16:40:00
+document_datetime: 2026-07-13 10:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/paxlovid.html
 document_name: paxlovid.html
 version: success
-processing_time: 0.1372579
-conversion_datetime: 2026-05-22 22:35:14.734177
+processing_time: 0.1676018
+conversion_datetime: 2026-07-16 13:16:38.820061
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Paxlovid
 
@@ -55,17 +55,17 @@ Expand section
 
 Collapse section
 
-## How is Paxlovid used?
+### How is Paxlovid used?
 
 Paxlovid can only be obtained with a prescription. For adults and children aged 6 years and older weighing at least 40 kg, the recommended dose is two tablets of nirmatrelvir and one tablet of ritonavir, to be taken together by mouth twice daily for 5 days. For children aged 6 years and older weighing at least 20 kg and less than 40 kg, the recommended dose is one tablet of nirmatrelvir and one tablet of ritonavir, to be taken together by mouth twice daily for 5 days. Paxlovid should be given as soon as possible after a diagnosis of COVID-19 has been made and within 5 days of the start of symptoms.
 
 For more information about using Paxlovid, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Paxlovid work?
+### How does Paxlovid work?
 
 Paxlovid is an antiviral medicine that reduces the ability of SARS-CoV-2 (the virus that causes COVID-19) to multiply in the body. The [active substance](https://www.ema.europa.eu/en/glossary/active-substance) , nirmatrelvir, blocks the activity of an enzyme needed by the virus to multiply. Paxlovid also contains a low dose of ritonavir, which slows the breakdown of nirmatrelvir, enabling it to remain longer in the body at levels that affect the multiplication of the virus. Together, the two active substances can help the body to overcome the infection and prevent the disease from becoming severe.
 
-## What benefits of Paxlovid have been shown in studies?
+### What benefits of Paxlovid have been shown in studies?
 
 A main study involving adults with COVID-19 and at least one underlying condition putting them at risk of severe COVID-19 looked at the effects of Paxlovid on rate of hospitalisation or death within 28 days of treatment when compared with placebo (a dummy treatment). The analysis was done in patients who received Paxlovid within 5 days after COVID-19 symptoms began and who did not receive nor were expected to receive treatment with antibodies. Over the month following treatment, the rate of hospitalisation or death was 0.8% (8 out of 1,039) for patients who received Paxlovid, compared with 6.3% (66 out of 1,046) for those who received placebo. There were no deaths in the Paxlovid group and 12 deaths in the placebo group.
 
@@ -73,7 +73,7 @@ The majority of patients in the study were infected with the Delta variant. Base
 
 A second main study involved 77 children, aged from 6 to 17 years and weighing at least 20 kg, with COVID-19 and at least one underlying condition putting them at risk of severe COVID-19. This study showed that Paxlovid behaves in a similar way in children and adults.
 
-## What are the risks associated with Paxlovid?
+### What are the risks associated with Paxlovid?
 
 For the full list of restrictions and side effects with Paxlovid, see the package leaflet.
 
@@ -81,19 +81,19 @@ The most common side effects with Paxlovid (which may affect less than 1 in 10 p
 
 Paxlovid must not be used together with medicines that are harmful at high levels in the blood and whose breakdown in the body is reduced by ritonavir. Paxlovid must also not be taken by people who have just stopped these medicines as some of the medicine may still remain in the body. Paxlovid must also not be taken with medicines that may reduce its effectiveness or by patients who are taking St John's wort (a herbal preparation used to treat depression). To identify interactions with ritonavir, a drug interaction tool is available on the website of the company marketing Paxlovid which can be accessed through a QR code in the product information and outer carton.
 
-## Why is Paxlovid authorised in the EU?
+### Why is Paxlovid authorised in the EU?
 
 Paxlovid was shown to be effective at reducing the risk of hospitalisation or death in adults with COVID-19 who are at increased risk of the disease becoming severe. Because Paxlovid was shown to behave similarly in adults and in children from 6 years of age who weigh at least 20 kg, it is expected to have similar effectiveness in children. The safety profile of Paxlovid was favourable and side effects were generally mild. The potential for ritonavir to interfere with other medicines was a concern, but this has been addressed through advice included in Paxlovid's product information. The European Medicines Agency concluded that Paxlovid's benefits are greater than its risks and it can be authorised for use in the EU.
 
 Paxlovid was originally given 'conditional authorisation'. The authorisation was then switched to standard authorisation as the company provided additional data requested by the Agency.
 
-## What measures are being taken to ensure the safe and effective use of Paxlovid?
+### What measures are being taken to ensure the safe and effective use of Paxlovid?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Paxlovid have been included in the summary of product characteristics and the package leaflet, including a link to a drug interaction tool to identify interactions with ritonavir.
 
 As for all medicines, data on the use of Paxlovid are continuously monitored. Suspected side effects reported with Paxlovid are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Paxlovid
+### Other information about Paxlovid
 
 Paxlovid received a conditional marketing authorisation valid throughout the EU on 28 January 2022. The conditional marketing authorisation was switched to a standard marketing authorisation on 24 February 2023.
 
@@ -107,7 +107,7 @@ English (EN) (126.09 KB - PDF)
 
 [View](/en/documents/overview/paxlovid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-70)
+[Other languages (22)](#file-language-dropdown-43)
 
 български (BG) (153.54 KB - PDF)
 
@@ -139,7 +139,7 @@ Deutsch (DE) (129.85 KB - PDF)
 
 [View](/de/documents/overview/paxlovid-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (121.77 KB - PDF)
+eesti (ET) (121.77 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -169,13 +169,13 @@ italiano (IT) (124.6 KB - PDF)
 
 [View](/it/documents/overview/paxlovid-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (155.15 KB - PDF)
+latviešu (LV) (155.15 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lv/documents/overview/paxlovid-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (148.3 KB - PDF)
+lietuvių (LT) (148.3 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -229,7 +229,7 @@ slovenščina (SL) (146.12 KB - PDF)
 
 [View](/sl/documents/overview/paxlovid-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (122.25 KB - PDF)
+suomi (FI) (122.25 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -259,7 +259,7 @@ English (EN) (470.65 KB - PDF)
 
 [View](/en/documents/product-information/paxlovid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-537)
+[Other languages (24)](#file-language-dropdown-186)
 
 български (BG) (625.93 KB - PDF)
 
@@ -291,7 +291,7 @@ Deutsch (DE) (530.9 KB - PDF)
 
 [View](/de/documents/product-information/paxlovid-epar-product-information_de.pdf)
 
-eesti keel (ET) (438.37 KB - PDF)
+eesti (ET) (438.37 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
@@ -315,25 +315,19 @@ hrvatski (HR) (599.55 KB - PDF)
 
 [View](/hr/documents/product-information/paxlovid-epar-product-information_hr.pdf)
 
-íslenska (IS) (504.24 KB - PDF)
-
-**First published:** 28/01/2022 **Last updated:** 18/05/2026
-
-[View](/is/documents/product-information/paxlovid-epar-product-information_is.pdf)
-
 italiano (IT) (572.06 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/paxlovid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (573.61 KB - PDF)
+latviešu (LV) (573.61 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/paxlovid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (570.87 KB - PDF)
+lietuvių (LT) (570.87 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
@@ -356,12 +350,6 @@ Nederlands (NL) (495.55 KB - PDF)
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/paxlovid-epar-product-information_nl.pdf)
-
-norsk (NO) (474.78 KB - PDF)
-
-**First published:** 28/01/2022 **Last updated:** 18/05/2026
-
-[View](/no/documents/product-information/paxlovid-epar-product-information_no.pdf)
 
 polski (PL) (581.15 KB - PDF)
 
@@ -393,7 +381,7 @@ slovenščina (SL) (557.29 KB - PDF)
 
 [View](/sl/documents/product-information/paxlovid-epar-product-information_sl.pdf)
 
-Suomi (FI) (480.46 KB - PDF)
+suomi (FI) (480.46 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 18/05/2026
 
@@ -405,6 +393,18 @@ svenska (SV) (496.99 KB - PDF)
 
 [View](/sv/documents/product-information/paxlovid-epar-product-information_sv.pdf)
 
+Íslenska (IS) (504.24 KB - PDF)
+
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
+
+[View](/is/documents/product-information/paxlovid-epar-product-information_is.pdf)
+
+norsk (NO) (474.78 KB - PDF)
+
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
+
+[View](/no/documents/product-information/paxlovid-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000310898
 
 16/04/2026
@@ -413,7 +413,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -431,7 +432,7 @@ English (EN) (36.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-279)
+[Other languages (24)](#file-language-dropdown-261)
 
 български (BG) (38.83 KB - PDF)
 
@@ -463,7 +464,7 @@ Deutsch (DE) (38.41 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (37.29 KB - PDF)
+eesti (ET) (37.29 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -487,25 +488,19 @@ hrvatski (HR) (36.47 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (37.21 KB - PDF)
-
-**First published:** 28/01/2022 **Last updated:** 04/12/2025
-
-[View](/is/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (36.59 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/it/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.79 KB - PDF)
+latviešu (LV) (36.79 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lv/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (37.84 KB - PDF)
+lietuvių (LT) (37.84 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -528,12 +523,6 @@ Nederlands (NL) (36.69 KB - PDF)
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/nl/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (37.85 KB - PDF)
-
-**First published:** 28/01/2022 **Last updated:** 04/12/2025
-
-[View](/no/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (37.74 KB - PDF)
 
@@ -565,7 +554,7 @@ slovenščina (SL) (37.12 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (36.82 KB - PDF)
+suomi (FI) (36.82 KB - PDF)
 
 **First published:** 28/01/2022 **Last updated:** 04/12/2025
 
@@ -577,29 +566,32 @@ svenska (SV) (36.04 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (37.21 KB - PDF)
+
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
+
+[View](/is/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (37.85 KB - PDF)
+
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
+
+[View](/no/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Paxlovid
-
-Active substance
-
-- nirmatrelvir
-- ritonavir
-
-International non-proprietary name (INN) or common name
-
-- nirmatrelvir
-- ritonavir
-
-Therapeutic area (MeSH)
-
-COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AE30
+- **Name of medicine**
+    - Paxlovid
+- **Active substance**
+        - nirmatrelvir
+        - ritonavir
+- **International non-proprietary name (INN) or common name**
+        - nirmatrelvir
+        - ritonavir
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AE30
 
 ### Therapeutic indication
 
@@ -607,27 +599,16 @@ Paxlovid is indicated for the treatment of coronavirus disease 2019 (COVID-19) i
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005973
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted
-
-27/01/2022
-
-Marketing authorisation issued
-
-28/01/2022
-
-Revision
-
-30
+- **EMA product number**
+    - EMEA/H/C/005973
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 27/01/2022
+- **Marketing authorisation issued**
+    - 28/01/2022
+- **Revision**
+    - 31
 
 ## Assessment history
 
@@ -635,7 +616,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Paxlovid : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -652,6 +633,16 @@ English (EN) (307.38 KB - PDF)
 **First published:** 29/04/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/paxlovid-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Paxlovid-PAM-0000338024 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3323611
+
+English (EN) (655.96 KB - PDF)
+
+**First published:** 13/07/2026
+
+[View](/en/documents/variation-report/paxlovid-pam-0000338024-epar-assessment-report_en.pdf)
 
 Paxlovid-VR-0000262540 : EPAR - Assessment report - Variation
 
@@ -749,9 +740,9 @@ English (EN) (140.35 KB - PDF)
 
 **First published:** 05/12/2023
 
-[View](/en/documents/scientific-conclusion/paxlovid-h-c-psusa-00010984-202212-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/paxlovid-h-c-psusa-00010984-202212-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Paxlovid : EPAR - Public assessment report
 
@@ -814,6 +805,6 @@ English (EN) (129.01 KB - PDF)
 
 **This page was last updated on**
 
-18/05/2026
+13/07/2026
 
 ## Share this page

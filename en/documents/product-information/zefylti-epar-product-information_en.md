@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-29 12:22:34
-document_pages: 42
+document_datetime: 2026-07-14 09:07:15
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zefylti-epar-product-information_en.pdf
 document_name: zefylti-epar-product-information_en.pdf
 version: success
-processing_time: 8.624959
-conversion_datetime: 2025-12-28 10:16:25.014206
+processing_time: 7.9282496
+conversion_datetime: 2026-07-16 13:27:58.795562
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -104,7 +104,7 @@ Once the neutrophil nadir has been passed, the daily dose of filgrastim should b
 
 | Neutrophil count                                                                                                                           | Zefylti dose adjustment                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| >1 x 10 9 /L for 3 consecutive days                                                                                                        | Reduce to 0.5 MU(5 mcg)/kg/day                                                                                                             |
+| >1 x 10 9 /L for 3 consecutive days                                                                                                        | Reduce to 0.5 MU (5 mcg)/kg/day                                                                                                            |
 | Then, if ANC remains > 1 x 10 9 /L for 3 more consecutive days                                                                             | Discontinue filgrastim                                                                                                                     |
 | If the ANC decreases to < 1 x 10 9 /L during the treatment period, the dose of Zefylti should be re-escalated according to the above steps | If the ANC decreases to < 1 x 10 9 /L during the treatment period, the dose of Zefylti should be re-escalated according to the above steps |
 | ANC = absolute neutrophil count                                                                                                            | ANC = absolute neutrophil count                                                                                                            |
@@ -137,7 +137,7 @@ For the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transpla
 
 For PBPC mobilisation in normal donors, filgrastim should be administered at 1 MU (10 mcg)/kg/day for 4 to 5 consecutive days. Leukapheresis should be started at day 5 and continued until day 6 if needed in order to collect 4 x 10 6 CD34 +  cells/kg recipient bodyweight.
 
-Method of administration
+## Method of administration
 
 Filgrastim should be given by subcutaneous injection.
 
@@ -305,7 +305,7 @@ There are no prospectively randomised comparisons of the two recommended mobilis
 
 ## Prior exposure to cytotoxic agents
 
-Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2 x 10 6 CD34 +  cells/kg) or acceleration of platelet recovery, to the same degree.
+Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2 x 10 6 CD34 + cells/kg) or acceleration of platelet recovery, to the same degree.
 
 Some cytotoxic agents exhibit particular toxicities to the haematopoietic progenitor pool, and may adversely affect progenitor mobilisation. Agents such as melphalan, carmustine (BCNU), and carboplatin, when administered over prolonged periods prior to attempts at progenitor mobilisation may reduce progenitor yield. However, the administration of melphalan, carboplatin or BCNU together with filgrastim, has been shown to be effective for progenitor mobilisation. When a PBPC transplantation is envisaged, it is advisable to plan the stem cell mobilisation procedure early in the treatment course of the patient. Particular attention should be paid to the number of progenitors mobilised in such patients before the administration of high-dose chemotherapy. If yields are inadequate, as measured by the criteria above, alternative forms of treatment, not requiring progenitor support should be considered.
 
@@ -351,11 +351,9 @@ Other blood cell changes occur, including anaemia and transient increases in mye
 
 Special care should be taken in the diagnosis of SCNs to distinguish them from other haematopoietic disorders such as aplastic anaemia, myelodysplasia, and myeloid leukaemia. Complete blood cell counts with differential and platelet counts, and an evaluation of bone marrow morphology and karyotype should be performed prior to treatment.
 
-There was a low frequency (approximately 3%) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in
+There was a low frequency (approximately 3%) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12% of patients who had normal cytogenetic evaluations at baseline were subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
 
 <div style=\"page-break-after: always\"></div>
-
-patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12% of patients who had normal cytogenetic evaluations at baseline were subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
 
 ## Other special precautions
 
@@ -523,7 +521,7 @@ There have been reports of GvHD and fatalities in patients receiving G-CSF after
 
 ## Paediatric population
 
-Data from clinical trials in paediatric patients indicate that the safety and efficacy of filgrastim are similar in both adults and children receiving cytotoxic chemotherapy suggesting no age-related differences in the pharmacokinetics of filgrastim. The only consistently reported adverse event was musculoskeletal pain, which is no different from the exp erience in the adult population. There is insufficient data to further evaluate filgrastim use in paediatric subjects.
+Data from clinical trials in paediatric patients indicate that the safety and efficacy of filgrastim are similar in both adults and children receiving cytotoxic chemotherapy suggesting no age-related differences in the pharmacokinetics of filgrastim. The only consistently reported adverse event was musculoskeletal pain, which is no different from the experience in the adult population. There is insufficient data to further evaluate filgrastim use in paediatric subjects.
 
 ## Other special populations
 
@@ -628,7 +626,7 @@ Chemical and physical in-use stability of the diluted solution for infusion has 
 
 ## 6.4 Special precautions for storage
 
-Store and transport refrigerated (2 °C -8 °C)
+Store and transport refrigerated (2 °C - 8 °C)
 
 Do not freeze.
 
@@ -680,7 +678,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o, Trtinova 260/1, Cakovice, 19600, Prague, Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana, FRN 1914, Malta
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -694,9 +692,7 @@ EU/1/24/1899/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12
-
-February 2025
+Date of first authorisation: 12 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -809,11 +805,17 @@ Store and transport refrigerated . Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600, Prague, Czech Republic
+CuraTeQ Biologics (Malta) Limited
+
+Vault 14 Level 2,
+
+Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -837,7 +839,7 @@ Lot
 
 Zefylti 30 MU/0.5 mL
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -851,17 +853,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE WITH NEEDLE GUARD                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE   |
+|----------------------------------------------------|
+| PRE-FILLED SYRINGE WITH NEEDLE GUARD               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1.     NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Zefylti 30 MU/0.5 mL solution for injection/infusion filgrastim SC or IV use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -873,8 +873,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -937,11 +937,17 @@ Store and transport refrigerated. Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600, Prague, Czech Republic
+CuraTeQ Biologics (Malta) Limited
+
+Vault 14 Level 2,
+
+Valletta Waterfront, Floriana,
+
+FRN 1914, Malta
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -963,14 +969,15 @@ Lot
 
 Zefylti 48 MU/0.5 mL
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1007,7 +1014,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-Zefylti 30 MU/0.5 mL solution for injection/infusion in pre-filled syringe Zefylti 48 MU/0.5 mL solution for injection/infusion in pre-filled syringe filgrastim
+Zefylti 30 MU/0.5 mL solution for injection/infusion in pre-filled syringe Zefylti 48 MU/0.5 mL solution for injection/infusion in pre-filled syringe
+
+filgrastim
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1107,7 +1116,7 @@ Zefylti may have a minor influence on your ability to drive and use machines. Th
 
 ## Zefylti contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
 
 ## Zefylti contains polysorbate 80 (E433)
 
@@ -1164,7 +1173,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -if you experience kidney injury (glomerulonephritis). Kidney injury has been seen in patients who received filgrastim. Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual.
 - -if you have any of the following or combination of the following side effects:
 - o swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
-- -
+
+-
 
 These could be symptoms of a condition called 'Capillary Leak Syndrome' which causes blood to leak from the small blood vessels into your body and needs urgent medical attention. if you have a combination of any of the following symptoms:
 
@@ -1181,7 +1191,7 @@ A common side effect of filgrastim use is pain in your muscles or bones (musculo
 
 In normal stem cell donors, an increase in white blood cells (leucocytosis) and a decrease of platelets may be seen. This reduces the ability of your blood to clot (thrombocytopenia). These will be monitored by your doctor.
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
 - decrease of platelets which reduces the ability of blood to clot (thrombocytopenia)
 - low red blood cell count (anaemia)
@@ -1271,7 +1281,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the pre-filled syringe after EXP. The expiry date refers to the last day of that month.
 
-Store and transport refrigerated (2 °C -8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store and transport refrigerated (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Within its shelf-life and for the purpose of ambulatory use, the patient may remove the product from the refrigerator and store it at room temperature (not above 25 °C) for one single period of up to 72 hours. At the end of this period, the product should not be put back in the refrigerator and should be disposed of.
 
@@ -1285,7 +1295,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - Zefylti 30 MU/0.5 mL solution for injection/infusion: each pre-filled syringe contains 30 million units (MU), 300 mcg of filgrastim in 0.5 mL (corresponding to 0.6 mg/mL).
 - Zefylti 48 MU/0.5 mL solution for injection/infusion: each pre-filled syringe contains 48 million units (MU), 480 mcg of filgrastim in 0.5 mL (corresponding to 0.96 mg/mL).
-- The other ingredients are sodium acetate, sorbitol (E420), polysorbate 80 (E433), nitrogen gas and water for injections. See section 2 'Zefylti contains sorbitol (E420), polysorbate 80 (E433) and sodium'
+- The other ingredients are sodium acetate, sorbitol (E420), polysorbate 80 (E433), nitrogen gas and water for injections. See section 2 'Zefylti contains sorbitol(E420), polysorbate 80 (E433) and sodium'
 
 ## What Zefylti looks like and contents of the pack
 
@@ -1295,7 +1305,7 @@ Zefylti is available in packs containing 1 and 5 pre-filled syringes (with needl
 
 ## Marketing Authorisation Holder
 
-CuraTeQ Biologics s.r.o Trtinova 260/1, Cakovice, 19600, Prague, Czech Republic
+CuraTeQ Biologics (Malta) Limited Vault 14 Level 2, Valletta Waterfront, Floriana, FRN 1914, Malta
 
 ## Manufacturer
 
@@ -1305,7 +1315,91 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in 09/2025
+België/Belgique/Belgien Aurobindo NV/SA Tel/Tél: +32 24753540
+
+България CuraTeQ Biologics (Malta) Limited Teл. : +00356 99991443 Jfarrugia@aurobindo.com
+
+Česká republika CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
+
+Danmark CuraTeQ Biologics (Malta) Limited Tlf.:  +00356 99991443 Jfarrugia@aurobindo.com
+
+Deutschland PUREN Pharma GmbH Co. KG Tel:  + 49 895589090
+
+Eesti
+
+CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
+
+Ελλάδα CuraTeQ Biologics (Malta) Limited Τηλ: +00356 99991443 Jfarrugia@aurobindo.com
+
+España Aurovitas Spain, S.A.U. Tel: +34 91 630 86 45
+
+France ARROW GENERIQUES Tél: + 33 4 72 72 60 72
+
+Hrvatska CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
+
+Ireland CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
+
+Ísland CuraTeQ Biologics (Malta) Limited Sími:  +00356 99991443 Jfarrugia@aurobindo.com Lietuva CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com Luxembourg/Luxemburg Aurobindo NV/SA Tel/Tél: +32 24753540
+
+Magyarország CuraTeQ Biologics (Malta) Limited Tel.:  +00356 99991443 Jfarrugia@aurobindo.com
+
+Malta CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
+
+Nederland
+
+Aurobindo Pharma B.V. Tel:  +31 35 542 99 33
+
+Norge CuraTeQ Biologics (Malta) Limited Tlf: +00356 99991443 Jfarrugia@aurobindo.com
+
+Österreich CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443
+
+Jfarrugia@aurobindo.com
+
+Polska Aurovitas Pharma Polska Sp. z o.o. Tel.:  +48 22 311 20 00
+
+Portugal
+
+Generis Farmacutica S. A Tel: +351 21 4967120
+
+România CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443
+
+Jfarrugia@aurobindo.com
+
+Slovenija CuraTeQ Biologics (Malta) Limited Tel: +00356 99991443 Jfarrugia@aurobindo.com
+
+Slovenská republika CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
+
+40
+
+<div style=\"page-break-after: always\"></div>
+
+## Suomi/Finland
+
+## Italia
+
+Aurobindo Pharma (Italia) S.r.l.
+
+Tel:  +39 02 9639 2601
+
+CuraTeQ Biologics (Malta) Limited Puh/Tel:  +00356 99991443 Jfarrugia@aurobindo.com
+
+## Κύπρος
+
+CuraTeQ Biologics (Malta) Limited
+
+Τηλ: +00356 99991443 Jfarrugia@aurobindo.com
+
+## Sverige
+
+CuraTeQ Biologics (Malta) Limited Tel:  +00356 99991443 Jfarrugia@aurobindo.com
+
+## Latvija
+
+CuraTeQ Biologics (Malta) Limited
+
+Tel:  +00356 99991443 Jfarrugia@aurobindo.com
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -1324,14 +1418,15 @@ This section contains information on how to give yourself an injection of Zefylt
 5. Clean the skin at the injection site using an alcohol wipe.
 6. Form a skin fold by pinching the skin between thumb and forefinger.
 7. Insert the needle into the skin fold with a quick, firm action.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
 8. Keeping your skin pinched, depress the plunger slowly and evenly until the entire dose has been given and the plunger cannot be depressed any further. Do not release the pressure on the plunger.
 9. After injecting the liquid, remove the syringe from your skin while maintaining pressure on the plunger and then let go of your skin.
 10. Let go of the plunger. The needle safety guard will rapidly move to cover the needle.
 11. Discard any unused product or waste material. Only use each syringe for one injection.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -1357,21 +1452,20 @@ When diluted in glucose 50 mg/mL (5%) solution, filgrastim is compatible with gl
 
 After dilution: Chemical and physical in-use stability of the diluted solution for infusion has been demonstrated for 24 hours at 2 °C to 8 °C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 Use of Pre-filled syringe with UltraSafe Passive Needle Guard
 
 The pre-filled syringe has an UltraSafe Needle Guard attached in order to protect from needle stick injury. When handling the pre-filled syringe, keep hands behind the needle.
 
 1. Perform the injection using the technique described above.
 2. Depress the plunger while grasping the finger flange until the entire dose has been given. The passive needle guard will NOT activate unless the ENTIRE dose has been given.
+3. Remove the syringe from your skin, then let go of the plunger and allow the needle to move up until the entire needle is guarded and locks into place.
 
-<div style=\"page-break-after: always\"></div>
+<!-- image -->
+
+<!-- image -->
 
 ## Disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
-<!-- image -->
-
-3. Remove the syringe from your skin, then let go of the plunger and allow the needle to move up until the entire needle is guarded and locks into place.
-
-<!-- image -->

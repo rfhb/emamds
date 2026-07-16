@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-01 16:20:00
+document_datetime: 2026-07-13 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hetronifly.html
 document_name: hetronifly.html
 version: success
-processing_time: 0.1632027
-conversion_datetime: 2026-07-04 13:08:48.067411
+processing_time: 0.1578804
+conversion_datetime: 2026-07-16 13:18:44.255671
 docling_version:
   docling-serve: 1.26.0
   docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -49,8 +49,12 @@ Page contents
 Hetronifly is a cancer medicine used in adults to treat
 
 - small cell lung cancer (SCLC) that has grown extensively in the lung or spread to other parts of the body (extensive-stage SCLC) and has not been treated previously. It is given together with carboplatin and etoposide (chemotherapy medicines);
-- non-squamous non-small cell lung cancer (NSCLC) that has not been treated previously and is locally advanced (has spread nearby) in people who cannot undergo surgery or receive radiotherapy or is metastatic (has spread to other parts of the body). It can only be used in people who do not have mutations (changes) in the *EGFR* , *ALK* or *ROS1* genes. It is given together with carboplatin and pemetrexed (chemotherapy medicines);
-- oesophageal squamous cell carcinoma (OSCC) that cannot be removed by surgery, is locally advanced, has come back or is metastatic. It can only be used when the tumour produces certain levels of a protein known as PD-L1. It is given together with fluoropyrimidine- and platinum-based chemotherapy (other cancer medicines).
+
+- non-squamous non-small cell lung cancer (NSCLC) that has not been treated previously and is locally advanced (has spread nearby) in people who cannot undergo surgery or receive radiotherapy or is metastatic (has spread to other parts of the body). It can only be used in people who do not have mutations (changes) in the EGFR, ALK or ROS1 genes. It is given together with carboplatin and pemetrexed (chemotherapy medicines);
+
+- squamous NSCLC that has not been treated before, is unresectable (cannot be removed by surgery), locally advanced or metastatic. It is given with carboplatin and nab-paclitaxel (chemotherapy medicines);
+
+- oesophageal squamous cell carcinoma that cannot be removed by surgery, is locally advanced, has come back or is metastatic. It can only be used when the tumour produces certain levels of a protein known as PD-L1. It is given together with fluoropyrimidine- and platinum-based chemotherapy (other cancer medicines).
 
 Hetronifly contains the active substance serplulimab.
 
@@ -62,9 +66,9 @@ Collapse section
 
 The medicine can only be obtained with a prescription and treatment should be started and monitored by a doctor experienced in the treatment of cancer.
 
-Hetronifly is given by infusion (drip) into a vein, once every two weeks for OSCC or once every three weeks for SCLC and NSCLC. The first infusion typically lasts around an hour, but if it is well tolerated, the duration of the following infusions may be reduced to around 30 minutes. If the patient develops side effects related to the infusion, the duration of the infusion may be increased.
+Hetronifly is given by infusion (drip) into a vein, once every two weeks for oesophageal squamous cell carcinoma or once every three weeks for SCLC and NSCLC. The first infusion typically lasts around an hour, but if it is well tolerated, the duration of the following infusions may be reduced to around 30 minutes. If the patient develops side effects related to the infusion, the duration of the infusion may be increased.
 
-People with OSCC need to undergo tests to check their levels of PD-L1 before starting treatment with Hetronifly.
+People with oesophageal squamous cell carcinoma need to undergo tests to check their levels of PD-L1 before starting treatment with Hetronifly.
 
 Treatment can continue for as long as the patient benefits from it but may be paused or stopped permanently if the patient develops severe side effects.
 
@@ -84,13 +88,19 @@ Hetronifly was shown to be effective in improving survival in a main study invol
 
 In one main study involving 636 adults with advanced non-squamous NSCLC who had not been previously treated, Hetronifly was shown to be effective at prolonging the time patients lived without their disease getting worse. The study included patients who were given either Hetronifly or placebo, each used alongside chemotherapy.
 
-The median length of time patients given Hetronifly with chemotherapy lived before the disease got worse was 11.0 months, compared with 5.6 months for those given placebo with chemotherapy.
+The median time patients given Hetronifly with chemotherapy lived before the disease got worse was 11.0 months, compared with 5.6 months for those given placebo with chemotherapy.
+
+**Squamous non-small cell lung cancer**
+
+A study involved 537 adults with stage IIIB/IIIC or stage IV squamous NSCLC who received either Hetronifly or placebo, both together with carboplatin and nab-paclitaxel, for four 21-day cycles. After this initial treatment phase, people continued with either Hetronifly or placebo alone.
+
+The median time patients lived without their disease getting worse was around 8.3 months with Hetronifly compared with 5.7 months with placebo. In addition, the median survival (how long patients lived) was 22.7 months with Hetronifly compared with 18.2 months with placebo.
 
 **Oesophageal squamous cell carcinoma**
 
-In a main study involving 551 adults with OSCC that could not be removed by surgery, was locally advanced, came back or was metastatic, Hetronifly was shown to be effective at improving how long patients lived survival and at prolonging the time patients lived without their disease getting worse. Patients in the study were given either Hetronifly or placebo, each used alongside chemotherapy.
+In a main study involving 551 adults with oesophageal squamous cell carcinoma that could not be removed by surgery, was locally advanced, came back or was metastatic, Hetronifly was shown to be effective at improving how long patients lived survival and at prolonging the time patients lived without their disease getting worse. Patients in the study were given either Hetronifly or placebo, each used alongside chemotherapy.
 
-The median length of time patients given Hetronifly with chemotherapy lived was 16.5 months compared with 10.7 months for those given placebo with chemotherapy. In addition, the median length of time patients given Hetronifly lived without their disease getting worse was 6.9 months, compared with 5.3 months for those given placebo.
+The median time patients given Hetronifly with chemotherapy lived was 16.5 months compared with 10.7 months for those given placebo with chemotherapy. In addition, the median time patients given Hetronifly lived without their disease getting worse was 6.9 months, compared with 5.3 months for those given placebo.
 
 Studies carried out with Hetronifly are described in more detail in the medicine's assessment reports.
 
@@ -98,15 +108,15 @@ Studies carried out with Hetronifly are described in more detail in the medicine
 
 For the full list of side effects and restrictions with Hetronifly, see the package leaflet.
 
-The most common side effects with Hetronifly given with chemotherapy (which may affect more than 1 in 10 people) include neutropenia (low levels of neutrophils, a type of white blood cell), leucopenia (low levels of white blood cells), anaemia (low levels of red blood cells), thrombocytopenia (low levels of blood platelets, components that help the blood to clot), nausea (feeling sick), reduced appetite, hypoproteinaemia (low blood protein levels), vomiting, constipation, and weakness.
+The most common side effects with Hetronifly given with chemotherapy (which may affect more than 1 in 10 people) include neutropenia (low levels of neutrophils, a type of white blood cell), leucopenia (low levels of white blood cells), anaemia (low levels of red blood cells), thrombocytopenia (low levels of blood platelets, components that help the blood to clot), nausea (feeling sick), reduced appetite, hypoproteinaemia (low blood protein levels), vomiting and weakness.
 
-Some side effects can be serious. The most frequently reported with Hetronifly when it is given with chemotherapy (which may affect up to 1 in 10 people) include thrombocytopenia, neutropenia, leucopenia, pneumonia (infection of the lungs), anaemia, and pneumonitis (inflammation in the lungs).
+Some side effects can be serious. The most frequently reported with Hetronifly when it is given with chemotherapy (which may affect up to 1 in 10 people) include thrombocytopenia, neutropenia, leucopenia, pneumonia (infection of the lungs), anaemia and pneumonitis (inflammation in the lungs).
 
 Hetronifly can cause side effects related to the activity of the immune system, which may cause inflammation of body organs and tissues. While these can be serious, most of the immune-related side effects resolve with appropriate treatment or on stopping Hetronifly. The most common immune-related side effect (which may affect more than 1 in 10 people) is hypothyroidism (an underactive thyroid gland). Other immune-related side effects (which may affect up to 1 in 10 people) include hyperthyroidism (an overactive thyroid gland), skin problems, such as rash, increased liver enzymes in the blood indicating problems with the liver, lung problems, kidney problems and colitis (inflammation of the large bowel).
 
 ### Why is Hetronifly authorised in the EU?
 
-Hetronifly was shown to be effective in prolonging survival when given with chemotherapy to adults with extensive-stage SCLC who had not been previously treated. Hetronifly in combination with chemotherapy was also shown to be more effective than placebo and chemotherapy at treating adults with advanced or metastatic non-squamous NSCLC and adults with OSCC that cannot be removed by surgery, is locally advanced, has come back or is metastatic, and produces certain levels of PD-L1.
+Hetronifly was shown to be effective in prolonging survival when given with chemotherapy to adults with extensive-stage SCLC who had not been previously treated. Hetronifly in combination with chemotherapy was also shown to be more effective than placebo and chemotherapy at treating adults with advanced or metastatic non-squamous or squamous NSCLC and adults with oesophageal squamous cell carcinoma that cannot be removed by surgery, is locally advanced, has come back or is metastatic, and produces certain levels of PD-L1.
 
 Hetronifly's safety profile is similar to that of other cancer medicines from the same class. While some of the side effects related to the activity of the immune system can be severe, these are considered manageable.
 
@@ -115,6 +125,8 @@ The European Medicines Agency therefore decided that Hetronifly's benefits are g
 ### What measures are being taken to ensure the safe and effective use of Hetronifly?
 
 The company that markets Hetronifly will provide educational materials, including a patient card, about side effects affecting the immune system and severe side effects related to the infusion. The educational materials will contain information on signs and symptoms of these side effects, the importance of monitoring patients for side effects and how they should be managed if they occur.
+
+These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the [EMA website](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/risk-minimisation-measures-rmm#national-repositories-76380) .
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Hetronifly have also been included in the summary of product characteristics and the package leaflet.
 
@@ -126,145 +138,145 @@ Hetronifly received a marketing authorisation valid throughout the EU on 04 Febr
 
 Hetronifly : EPAR - Medicine overview
 
-Reference Number: EMADOC-1829012207-48122
+Reference Number: EMADOC-1829012207-54663
 
-English (EN) (166.1 KB - PDF)
+English (EN) (168.87 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/en/documents/overview/hetronifly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-199)
+[Other languages (22)](#file-language-dropdown-808)
 
-български (BG) (180.62 KB - PDF)
+български (BG) (186.93 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/bg/documents/overview/hetronifly-epar-medicine-overview_bg.pdf)
 
-español (ES) (161.94 KB - PDF)
+español (ES) (166.65 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/es/documents/overview/hetronifly-epar-medicine-overview_es.pdf)
 
-čeština (CS) (180.56 KB - PDF)
+čeština (CS) (183.85 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/cs/documents/overview/hetronifly-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (158.68 KB - PDF)
+dansk (DA) (168.9 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/da/documents/overview/hetronifly-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (166.79 KB - PDF)
+Deutsch (DE) (173.39 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/de/documents/overview/hetronifly-epar-medicine-overview_de.pdf)
 
-eesti (ET) (155.9 KB - PDF)
+eesti (ET) (163.97 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/et/documents/overview/hetronifly-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (182.41 KB - PDF)
+ελληνικά (EL) (189.76 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/el/documents/overview/hetronifly-epar-medicine-overview_el.pdf)
 
-français (FR) (162.05 KB - PDF)
+français (FR) (169.08 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/fr/documents/overview/hetronifly-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (180.64 KB - PDF)
+hrvatski (HR) (183 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/hr/documents/overview/hetronifly-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (158.32 KB - PDF)
+italiano (IT) (166.14 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/it/documents/overview/hetronifly-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (187.71 KB - PDF)
+latviešu (LV) (187.96 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/lv/documents/overview/hetronifly-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (180.3 KB - PDF)
+lietuvių (LT) (180.47 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/lt/documents/overview/hetronifly-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (180.31 KB - PDF)
+magyar (HU) (183.64 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/hu/documents/overview/hetronifly-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (181.91 KB - PDF)
+Malti (MT) (184.5 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/mt/documents/overview/hetronifly-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (158.64 KB - PDF)
+Nederlands (NL) (168.61 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/nl/documents/overview/hetronifly-epar-medicine-overview_nl.pdf)
 
-polski (PL) (178.4 KB - PDF)
+polski (PL) (185.04 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/pl/documents/overview/hetronifly-epar-medicine-overview_pl.pdf)
 
-português (PT) (162.34 KB - PDF)
+português (PT) (168.13 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/pt/documents/overview/hetronifly-epar-medicine-overview_pt.pdf)
 
-română (RO) (179.08 KB - PDF)
+română (RO) (178.15 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/ro/documents/overview/hetronifly-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (179.71 KB - PDF)
+slovenčina (SK) (182.21 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/sk/documents/overview/hetronifly-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (176.82 KB - PDF)
+slovenščina (SL) (180.27 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/sl/documents/overview/hetronifly-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (157.45 KB - PDF)
+suomi (FI) (163.33 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/fi/documents/overview/hetronifly-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (158.41 KB - PDF)
+svenska (SV) (165.3 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 13/05/2026
+**First published:** 11/02/2025 **Last updated:** 13/07/2026
 
 [View](/sv/documents/overview/hetronifly-epar-medicine-overview_sv.pdf)
 
@@ -286,7 +298,7 @@ English (EN) (818.68 KB - PDF)
 
 [View](/en/documents/product-information/hetronifly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-122)
+[Other languages (24)](#file-language-dropdown-166)
 
 български (BG) (1014.23 KB - PDF)
 
@@ -372,7 +384,7 @@ Malti (MT) (1.02 MB - PDF)
 
 [View](/mt/documents/product-information/hetronifly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (706.03 KB - PDF)
+Nederlands (NL) (718.62 KB - PDF)
 
 **First published:** 11/02/2025 **Last updated:** 01/07/2026
 
@@ -459,7 +471,7 @@ English (EN) (52.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-767)
+[Other languages (24)](#file-language-dropdown-274)
 
 български (BG) (60.53 KB - PDF)
 
@@ -784,6 +796,6 @@ English (EN) (112.62 KB - PDF)
 
 **This page was last updated on**
 
-01/07/2026
+13/07/2026
 
 ## Share this page

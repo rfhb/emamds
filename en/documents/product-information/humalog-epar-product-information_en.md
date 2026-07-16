@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 14:35:49
-document_pages: 229
+document_datetime: 2026-07-13 15:46:15
+document_pages: 206
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/humalog-epar-product-information_en.pdf
 document_name: humalog-epar-product-information_en.pdf
 version: success
-processing_time: 51.9947301
-conversion_datetime: 2026-02-01 20:28:03.416064
+processing_time: 44.9650832
+conversion_datetime: 2026-07-16 13:35:52.559997
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,21 +24,25 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog 100 units/ml solution for injection in vial Humalog 100 units/ml solution for injection in cartridge Humalog 100 units/ml KwikPen solution for injection in a pre-filled pen Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen
+| Humalog 100 units/ml solution for injection in vial                            |
+|--------------------------------------------------------------------------------|
+| Humalog 100 units/ml solution for injection in cartridge                       |
+| Humalog 100 units/ml KwikPen solution for injection in a pre-filled pen        |
+| Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each ml contains 100 units of insulin lispro* (equivalent to 3.5mg).
 
-Vial
+## Vial
 
 Each vial contains 1000 units insulin lispro in 10 ml solution.
 
-Cartridge
+## Cartridge
 
 Each cartridge contains 300 units of insulin lispro in 3 ml solution.
 
-## KwikPen and Tempo Pen
+## KwikPen
 
 Each pre-filled pen contains 300 units of insulin lispro in 3 ml solution. Each pre-filled pen delivers 1-60 units in steps of 1 unit.
 
@@ -100,7 +104,7 @@ Humalog can be used in adolescents and children (see section 5.1).
 
 Humalog preparations should be given by subcutaneous injection.
 
-The KwikPen,Junior KwikPen and Tempo Pen are only suitable for subcutaneous injections. Humalog in cartridges is only suitable for subcutaneous injections from a Lilly reusable pen or compatible pump systems for continuous subcutaneous insulin infusion (CSII).
+The KwikPen and Junior KwikPen are only suitable for subcutaneous injections. Humalog in cartridges is only suitable for subcutaneous injections from a Lilly reusable pen or compatible pump systems for continuous subcutaneous insulin infusion (CSII).
 
 Subcutaneous administration should be in the upper arms, thighs, buttocks, or abdomen. Use of injection sites should be rotated so that the same site is not used more than approximately once a month, in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
 
@@ -112,12 +116,6 @@ Humalog KwikPen is available in two strengths. The Humalog 100 units/ml KwikPen 
 
 <div style=\"page-break-after: always\"></div>
 
-## Humalog Tempo Pen
-
-The Humalog 100 units/ml Tempo Pen delivers 1 - 60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength or to a pen with a different dose step. The Tempo Pen can be used with the optional transfer module Tempo Smart Button (see section 6.6).
-
-As with any insulin injection, when using the Tempo Pen, Smart Button and the mobile application, the patient should be instructed to check their blood sugar levels when considering or making decisions about another injection if they are unsure how much they have injected.
-
 ## Use of Humalog in an insulin infusion pump
 
 For subcutaneous injection of Humalog using a continuous infusion pump, you may fill the pump reservoir from a Humalog 100 units/ml vial. Some pumps are compatible with cartridges that can be inserted intact into the pump.
@@ -128,7 +126,7 @@ Only certain CE-marked insulin infusion pumps may be used to infuse insulin lisp
 
 If necessary, Humalog may also be administered intravenously, for example: for the control of blood glucose levels during ketoacidosis, acute illnesses or during intra and post operative periods.
 
-Humalog 100 units /ml is available in vials if administration of intravenous injection is necessary.
+Humalog 100 units/ml is available in vials if administration of intravenous injection is necessary.
 
 Intravenous injection of insulin lispro should be carried out following normal clinical practise for intravenous injections, for example by an intravenous bolus or by an infusion system. Frequent monitoring of the blood glucose levels is required.
 
@@ -146,11 +144,11 @@ Hypoglycaemia.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered medicinal product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Transferring a patient to another type or brand of insulin
 
-Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane,  etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage. For fast-acting insulins, any patient also on basal insulin must optimise dosage of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting glucose control.
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage. For fast-acting insulins, any patient also on basal insulin must optimise dosage of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting glucose control.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Vial
 
@@ -178,17 +176,13 @@ Adjustment of dosage may also be necessary if patients undertake increased physi
 
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure. This should be kept in mind, if treatment with the combination of pioglitazone and Humalog is considered. If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema. Pioglitazone should be discontinued, if any deterioration in cardiac symptoms occurs.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Avoidance of medication errors
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between the two different strengths of Humalog KwikPen as well as other insulin products.
 
 Patients must visually verify the dialled units on the dose counter of the pen. Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen. Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
 
-## Tempo Pen
-
-The Tempo Pen contains a magnet (see section 6.5) that may interfere with the functions of an implantable electronic medical device, such as a pacemaker. The magnetic field extends to approximately 1.5 cm.
+<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -214,8 +208,6 @@ It is essential to maintain good control of the insulin-treated (insulin-depende
 
 Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet or both.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 Insulin lispro did not induce fertility impairment in animal studies (see section 5.3).
@@ -225,6 +217,8 @@ Insulin lispro did not induce fertility impairment in animal studies (see sectio
 The patient's ability to concentrate and react may be impaired as a result of hypoglycaemia. This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or operating machinery).
 
 Patients should be advised to take precautions to avoid hypoglycaemia whilst driving, this is particularly important in those who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia. The advisability of driving should be considered in these circumstances.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -253,11 +247,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Local allergy in patients is common. Redness, swelling, and itching can occur at the site of insulin injection. This condition usually resolves in a few days to a few weeks. In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Systemic allergy
 
-Systemic allergy,  which is rare  but potentially more serious, is a generalised allergy to insulin. It may cause a rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating. Severe cases of generalised allergy may be life-threatening.
+Systemic allergy, which is rare but potentially more serious, is a generalised allergy to insulin. It may cause a rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating. Severe cases of generalised allergy may be life-threatening.
 
 ## Skin and subcutaneous tissue disorders
 
@@ -266,6 +258,8 @@ Lipodystrophy and cutaneous amyloidosis may occur at the injection site and dela
 ## Oedema
 
 Cases of oedema have been reported with insulin therapy, particularly if previous poor metabolic control is improved by intensified insulin therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -289,9 +283,7 @@ Sustained carbohydrate intake and observation may be necessary because hypoglyca
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group : Drugs used in diabetes, insulins and analogues for injection, fast-acting, ATC code: A10AB04
-
-<div style=\"page-break-after: always\"></div>
+Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, fast-acting, ATC code: A10AB04
 
 The primary activity of insulin lispro is the regulation of glucose metabolism.
 
@@ -303,17 +295,17 @@ Clinical trials in patients with type 1 and type 2 diabetes have demonstrated re
 
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity. The typical activity profile following subcutaneous injection is illustrated below.
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
 
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin. The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
 
-When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin.  In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
+When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin. In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
 
 In patients with type 2 diabetes on maximum doses of sulphonyl urea agents, studies have shown that the addition of insulin lispro significantly reduces HbA1c compared to sulphonyl urea alone. The reduction of HbA1c would also be expected with other insulin products e.g. soluble or isophane insulins.
-
-<div style=\"page-break-after: always\"></div>
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated a reduced number of episodes of nocturnal hypoglycaemia with insulin lispro compared to soluble human insulin. In some studies, reduction of nocturnal hypoglycaemia was associated with increased episodes of daytime hypoglycaemia.
 
@@ -324,6 +316,8 @@ Insulin lispro has been shown to be equipotent to human insulin on a molar basis
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of insulin lispro reflect a compound that is rapidly absorbed, and achieves peak blood levels 30 to 70 minutes following subcutaneous injection. When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves (as discussed in 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 Insulin lispro maintains more rapid absorption when compared to soluble human insulin in patients with renal impairment. In patients with type 2 diabetes over a wide range of renal function the pharmacokinetic differences between insulin lispro and soluble human insulin were generally maintained and shown to be independent of renal function.  Insulin lispro maintains more rapid absorption and elimination when compared to soluble human insulin in patients with hepatic impairment.
 
@@ -337,7 +331,9 @@ Insulin lispro did not induce fertility impairment, embryotoxicity or teratogeni
 
 ## 6.1 List of excipients
 
-mCresol Glycerol Dibasic sodium phosphate. 7H2O Zinc oxide Water for injections Hydrochloric acid and sodium hydroxide maybe used to adjust pH.
+mCresol Glycerol Dibasic sodium phosphate. 7H2O Zinc oxide Water for injections
+
+Hydrochloric acid and sodium hydroxide maybe used to adjust pH.
 
 ## 6.2 Incompatibilities
 
@@ -345,15 +341,13 @@ mCresol Glycerol Dibasic sodium phosphate. 7H2O Zinc oxide Water for injections 
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
-## Cartridge, KwikPen, Junior KwikPen and Tempo Pen
+## Cartridge, KwikPen and Junior KwikPen
 
 These medicinal products should not be mixed with any other insulin or any other medicinal product.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-## Before use
+Before use
 
 3 years.
 
@@ -365,13 +359,15 @@ These medicinal products should not be mixed with any other insulin or any other
 
 Do not freeze. Do not expose to excessive heat or direct sunlight.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Before use
 
 Store in a refrigerator (2°C - 8°C).
 
 ## After first use / after cartridge insertion
 
-Vial
+## Vial
 
 Store in a refrigerator (2°C - 8°C) or below 30°C.
 
@@ -379,7 +375,7 @@ Store in a refrigerator (2°C - 8°C) or below 30°C.
 
 Store below 30°C. Do not refrigerate. The pen with the inserted cartridge should not be stored with the needle attached.
 
-## KwikPen,Junior KwikPen and Tempo Pen
+## KwikPen and Junior KwikPen
 
 Store below 30°C. Do not refrigerate. The pre-filled pen should not be stored with the needle attached.
 
@@ -399,11 +395,7 @@ The solution is contained in type I flint glass cartridges, sealed with butyl or
 
 ## KwikPen
 
-The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals. Dimeticone or silicone emulsion may be used to
-
-<div style=\"page-break-after: always\"></div>
-
-treat the cartridge plunger, and/or the glass cartridge. The 3 ml cartridges are sealed in a disposable pen injector, called the 'KwikPen'. Needles are not included.
+The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals. Dimeticone or silicone emulsion may be used to treat the cartridge plunger, and/or the glass cartridge. The 3 ml cartridges are sealed in a disposable pen injector, called the 'KwikPen'. Needles are not included.
 
 3 ml KwikPen: Packs of 5 or a multipack of 10 (2 packs of 5). Not all packs may be marketed.
 
@@ -413,11 +405,7 @@ Type I glass cartridges, sealed with halobutyl disc seals secured with aluminium
 
 3 ml Junior KwikPen: Packs of 1 prefilled pen, 5 prefilled pens or a multipack of 10 (2 packs of 5) prefilled pens. Not all packs may be marketed.
 
-## Tempo Pen
-
-Type I glass cartridges, sealed with halobutyl disc seals secured with aluminium seals and bromobutyl plunger heads. Dimeticone or silicone emulsion may be used to treat the cartridge plunger. The 3 ml cartridges are sealed in a disposable pen injector, called the 'Tempo Pen'. The Tempo Pen contains a magnet (see section 4.4). Needles are not included.
-
-3 ml Tempo Pen: Packs of 5 prefilled pens or a multipack of 10 (2 packs of 5) prefilled pens. Not all packs may be marketed.
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -435,13 +423,11 @@ Do not mix insulin in vials with insulin in cartridges. See section 6.2.
 
 The vial is to be used in conjunction with an appropriate syringe (100 unit markings).
 
-- i) Humalog
+## i) Humalog
+
 1. Wash your hands.
 2. If using a new vial, flip off the plastic protective cap, but do not remove the stopper.
 3. If the therapeutic regimen requires the injection of basal insulin and Humalog at the same time, the two can be mixed in the syringe. If mixing insulins, refer to the instructions for mixing that follow in Section (ii) and 6.2.
-
-<div style=\"page-break-after: always\"></div>
-
 4. Draw air into the syringe equal to the prescribed Humalog dose. Wipe the top of the vial with a swab. Put the needle through the rubber top of the Humalog vial and inject the air into the vial.
 5. Turn the vial and syringe upside down. Hold the vial and syringe firmly in one hand.
 6. Making sure the tip of the needle is in the Humalog, withdraw the correct dose into the syringe.
@@ -451,6 +437,9 @@ The vial is to be used in conjunction with an appropriate syringe (100 unit mark
 ## ii) Mixing Humalog with longer-acting Human Insulins (see section 6.2)
 
 1. Humalog should be mixed with longer-acting human insulins only on the advice of a doctor.
+
+<div style=\"page-break-after: always\"></div>
+
 2. Draw air into the syringe equal to the amount of longer-acting insulin being taken. Insert the needle into the longer-acting insulin vial and inject the air. Withdraw the needle.
 3. Now inject air into the Humalog vial in the same manner, but do not withdraw the needle.
 4. Turn the vial and syringe upside down.
@@ -459,15 +448,13 @@ The vial is to be used in conjunction with an appropriate syringe (100 unit mark
 7. Remove the needle from the vial of Humalog and insert it into the vial of the longeracting insulin. Turn the vial and syringe upside down. Hold the vial and syringe firmly in one hand and shake gently. Making sure the tip of the needle is in the insulin, withdraw the dose of longer-acting insulin.
 8. Withdraw the needle and lay the syringe down so that the needle does not touch anything.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cartridge
 
 Humalog cartridges are to be used with a Lilly reusable insulin pen and should not be used with any other reusable pen as the dosing accuracy has not been established with other pens.
 
 The instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
 
-## KwikPen, Junior KwikPen and Tempo Pen
+## KwikPen and Junior KwikPen
 
 Before using the pre-filled pen the user manual included in the package leaflet must be read carefully. The pre-filled pen has to be used as recommended in the user manual.
 
@@ -481,13 +468,12 @@ If using a pre-filled or reusable pen refer to the detailed instructions for pre
 2. Choose a site for injection.
 3. Clean the skin as instructed.
 4. Stabilise the skin by spreading it or pinching up a large area. Insert the needle and inject as instructed.
+
+<div style=\"page-break-after: always\"></div>
+
 5. Pull the needle out and apply gentle pressure over the injection site for several seconds. Do not rub the area.
 6. Dispose of the syringe and needle safely. For an injection device use the outer needle cap, unscrew the needle and dispose of it safely.
 7. Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
-
-## Humalog Tempo Pen
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Humalog dose information from the Tempo Pen to a compatible mobile application. The Tempo Pen injects insulin with or without the Tempo Smart Button attached. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -495,13 +481,13 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 ```
-EU/1/96/007/002 EU/1/96/007/004 EU/1/96/007/020 EU/1/96/007/021 EU/1/96/007/023 EU/1/96/007/031 EU/1/96/007/032 EU/1/96/007/043 EU/1/96/007/044 EU/1/96/007/045 EU/1/96/007/046 EU/1/96/007/047
+EU/1/96/007/002 EU/1/96/007/004 EU/1/96/007/020 EU/1/96/007/021 EU/1/96/007/023 EU/1/96/007/031 EU/1/96/007/032 EU/1/96/007/043 EU/1/96/007/044
 ```
+
+EU/1/96/007/045
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
 
@@ -529,7 +515,7 @@ Each ml contains 100 units insulin lispro* (equivalent to 3.5mg).
 
 Humalog Mix25 consists of 25% insulin lispro solution and 75% insulin lispro protamine suspension.
 
-Vial
+## Vial
 
 Each vial contains 1000 units of insulin lispro in 10 ml suspension.
 
@@ -613,11 +599,9 @@ Under no circumstances should Humalog Mix25 be given intravenously.
 
 ## Transferring a patient to another type or brand of insulin
 
-Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane, etc.),
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type (regular/soluble, NPH/isophane, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage.
 
 <div style=\"page-break-after: always\"></div>
-
-species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage.
 
 ## Hypoglycaemia and hyperglycaemia
 
@@ -758,11 +742,15 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with Humalog Mix25 compared to human insulin mixture 30/70. In one clinical study there was a small (0.38 mmol/l) increase in blood glucose levels at night (3a.m.).
 
-In the figure below the pharmacodynamics of Humalog Mix25 and BASAL are illustrated.
-
 <div style=\"page-break-after: always\"></div>
 
+In the figure below the pharmacodynamics of Humalog Mix25 and BASAL are illustrated.
+
+Hypoglycemic Activity
+
 <!-- image -->
+
+24
 
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
 
@@ -775,15 +763,11 @@ In two 8-month open label crossover studies, type 2 diabetes patients who were e
 |                                                                                           | Insulin-Naive Patients n = 78   | Not Insulin-Naive Patients n = 97   |
 |-------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------|
 | Mean total daily insulin dose at endpoint                                                 | 0.63 units/kg                   | 0.42 units/kg                       |
-| Haemoglobin A1c -Reduction 1                                                              | 1.30% (mean at baseline = 8.7%) | 1.00% (mean at baseline = 8.5%)     |
-| Reduction of the mean of combined morning / evening two-hour postprandial blood glucose 1 | 3.46mM                          | 2.48mM                              |
-| Reduction of the mean fasting blood glucose 1                                             | 0.55mM                          | 0.65mM                              |
+| Haemoglobin A1c -Reduction 1                                                              | 1.30% (mean at baseline = 8.7%) | 1.00 % (mean at baseline = 8.5%)    |
+| Reduction of the mean of combined morning / evening two-hour postprandial blood glucose 1 | 3.46 mM                         | 2.48 mM                             |
+| Reduction of the mean fasting blood glucose 1                                             | 0.55 mM                         | 0.65 mM                             |
 | Incidence of hypoglycaemia at endpoint                                                    | 25%                             | 25%                                 |
 | Bodyweight gain 2                                                                         | 2.33 kg                         | 0.96 kg                             |
-
-1  from baseline to end of Humalog Mix25 treatment
-
-2 in patients randomised to Humalog Mix25 during the first crossover period
 
 <div style=\"page-break-after: always\"></div>
 
@@ -815,7 +799,7 @@ Before use
 
 3 years.
 
-## After first use /after cartridge insertion
+After first use /after cartridge insertion
 
 28 days.
 
@@ -909,7 +893,9 @@ Pens should not be used if any part looks broken or damaged.
 
 ## Injecting a dose
 
-If using a pre-filled or reusable pen refer to the detailed instructions for preparing the pen and injecting the dose, the following is a general description.
+If using a pre-filled or reusable pen refer to the detailed instructions for preparing the pen and injecting
+
+the dose, the following is a general description.
 
 1.
 
@@ -931,27 +917,29 @@ Choose a site for injection.
 
 Clean the skin as instructed.
 
-Stabilise the skin by spreading it or pinching up a large area.  Insert the needle and inject as instructed.
+Stabilise the skin by spreading it or pinching up a large area.  Insert the needle and inject
+
+as instructed.
 
 Pull the needle out and apply gentle pressure over the injection site for several seconds.
 
 Do not rub the area.
 
-Dispose of the syringe and needle safely. For an injection device use the outer needle cap, unscrew the needle and dispose of it safely.
+Dispose of the syringe and needle safely. For an injection device use the outer needle cap,
 
-Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
+unscrew the needle and dispose of it safely.
+
+Use of the injection sites should be rotated so that the same is not used more than
+
+approximately once a month.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-8.
-
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/96/007/005
 
@@ -963,9 +951,7 @@ EU/1/96/007/033
 
 EU/1/96/007/034
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
 
 Date of first authorisation: 30
 
@@ -981,7 +967,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu
 
-26
+25
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1021,7 +1007,7 @@ Humalog Mix50 is indicated for the treatment of patients with diabetes mellitus 
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 The dosage should be determined by the physician, according to the requirement of the patient.
 
@@ -1216,7 +1202,11 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 
 <div style=\"page-break-after: always\"></div>
 
+Hypoglycaemic activity
+
 <!-- image -->
+
+Time, hours
 
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
 
@@ -1232,11 +1222,9 @@ Insulin lispro maintains more rapid absorption when compared to soluble human in
 
 ## 5.3 Preclinical safety data
 
-In in vitro tests, including binding to insulin receptor sites and effects on growing cells, insulin lispro behaved in a manner that closely resembled human insulin. Studies also demonstrate that the
+In in vitro tests, including binding to insulin receptor sites and effects on growing cells, insulin lispro behaved in a manner that closely resembled human insulin. Studies also demonstrate that the dissociation of binding to the insulin receptor of insulin lispro  is equivalent to human insulin. Acute, one month and twelve month toxicology studies produced no significant toxicity findings.
 
 <div style=\"page-break-after: always\"></div>
-
-dissociation of binding to the insulin receptor of insulin lispro  is equivalent to human insulin. Acute, one month and twelve month toxicology studies produced no significant toxicity findings.
 
 Insulin lispro did not induce fertility impairment, embryotoxicity or teratogenicity in animal studies.
 
@@ -1244,7 +1232,9 @@ Insulin lispro did not induce fertility impairment, embryotoxicity or teratogeni
 
 ## 6.1 List of excipients
 
-Protamine sulphate m -Cresol Phenol Glycerol Dibasic sodium phosphate.7H 2 O Zinc oxide Water for injections Hydrochloric acid and sodium hydroxide may be used to adjust pH.
+Protamine sulphate m -Cresol Phenol Glycerol Dibasic sodium phosphate.7H 2 O Zinc oxide Water for injections
+
+Hydrochloric acid and sodium hydroxide may be used to adjust pH.
 
 ## 6.2 Incompatibilities
 
@@ -1268,7 +1258,7 @@ Before use
 
 Store in a refrigerator (2°C - 8°C).
 
-## After first use/ after cartridge insertion
+After first use/ after cartridge insertion
 
 ## Cartridge
 
@@ -1344,7 +1334,9 @@ Choose a site for injection.
 
 Clean the skin as instructed.
 
-Stabilise the skin by spreading it or pinching up a large area.  Insert the needle and inject as instructed.
+Stabilise the skin by spreading it or pinching up a large area.  Insert the needle and inject
+
+as instructed.
 
 Pull the needle out and apply gentle pressure over the injection site for several seconds.
 
@@ -1352,7 +1344,9 @@ Do not rub the area.
 
 Using the outer needle cap, unscrew the needle and dispose of it safely.
 
-Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
+Use of injection sites should be rotated so that the same site is not used more than
+
+approximately once a month.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -1394,7 +1388,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu
 
-36
+35
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1440,11 +1434,9 @@ Humalog can be used in conjunction with a longer-acting insulin or oral sulphony
 
 ## Humalog KwikPens
 
-Humalog KwikPen is available in two strengths.The Humalog 200 units/ml KwikPen (and Humalog 100 units/ml KwikPen, see separate SmPC ) delivers 1 - 60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the dose window of the pen regardless of strength and no
+Humalog KwikPen is available in two strengths.The Humalog 200 units/ml KwikPen (and Humalog 100 units/ml KwikPen, see separate SmPC ) delivers 1 - 60 units in steps of 1 unit in a single injection. The number of insulin units is shown in the dose window of the pen regardless of strength and no dose conversion should be done when transferring a patient to a new strength or to a pen with a different dose step.
 
 <div style=\"page-break-after: always\"></div>
-
-dose conversion should be done when transferring a patient to a new strength or to a pen with a different dose step.
 
 Humalog 200 units/ml KwikPen should be reserved for the treatment of patients with diabetes requiring daily doses of more than 20 units of rapid-acting insulin. The insulin lispro solution containing 200 units/ml should not be withdrawn from the pre-filled pen (the KwikPen) or mixed with any other insulin (see section 4.4 and section 6.2).
 
@@ -1490,7 +1482,7 @@ Transferring a patient to another type or brand of insulin should be done under 
 
 ## Hypoglycaemia and hyperglycaemia
 
-Conditions  which  may  make  the  early  warning  symptoms  of  hypoglycaemia  different  or  less pronounced include  long  duration  of  diabetes,  intensified  insulin  therapy,  diabetic  nerve  disease  or medicinal products such as beta-blockers.
+Conditions  which  may  make  the  early  warning  symptoms  of  hypoglycaemia  different  or  less pronounced include long duration of diabetes,  intensified insulin  therapy,  diabetic  nerve  disease  or medicinal products such as beta-blockers.
 
 A few patients who have experienced hypoglycaemic reactions after transfer from animal-source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin. Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
 
@@ -1623,7 +1615,9 @@ In addition, insulins have several anabolic and anti-catabolic actions on a vari
 
 Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to soluble insulin (30 to 45 minutes before). Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to soluble insulin.
 
-Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin. The time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity. The typical activity profile following subcutaneous injection is illustrated below.
+Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
+
+The time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity. The typical activity profile following subcutaneous injection is illustrated below.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1689,7 +1683,7 @@ After first use
 
 Do not freeze. Do not expose to excessive heat or direct sunlight.
 
-Before use
+## Before use
 
 Store in a refrigerator (2°C - 8°C).
 
@@ -1701,9 +1695,7 @@ Store below 30°C. Do not refrigerate. The pre-filled pen should not be stored w
 
 Type I glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.  Dimeticone  or  silicone  emulsion  may  be  used  to  treat  the  cartridge  plunger,  and/or  the  glass cartridge.  The  3  ml  cartridges  which  contain  600 units  insulin  lispro  (200 units/ml),  are  sealed  in  a disposable pen injector, called the 'KwikPen'. Needles are not included.
 
-```
 1 pre-filled pen of 3 ml 2 pre-filled pens of 3 ml 5 pre-filled pens of 3 ml Multipacks containing 10 (2 packs of 5) pre-filled pens of 3 ml
-```
 
 Not all packs may be marketed.
 
@@ -1753,15 +1745,11 @@ Date of last renewal: 30
 
 th April 2006
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu
-
-46
+45
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1796,9 +1784,15 @@ Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
 
 Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France. Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
 
-Humalog 100 units/ml KwikPen, Humalog Mix25 100 units/ml KwikPen, Humalog Mix50 100 units/ml KwikPen and Humalog 200 units/ml KwikPen Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France. Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
+Humalog 100 units/ml KwikPen, Humalog Mix25 100 units/ml KwikPen, Humalog Mix50 100 units/ml KwikPen and Humalog 200 units/ml KwikPen
 
-Humalog 100 units/ml Junior KwikPen and Humalog 100 units/ml Tempo Pen Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France.
+Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France.
+
+Eli Lilly Italia S.p.A., Via  Gramsci 731-733, 50019 Sesto Fiorentino, (FI) Italy.
+
+## Humalog 100 units/ml Junior KwikPen
+
+Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France.
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch
 
@@ -1891,7 +1885,11 @@ Once in use, vials may be used for up to 28 days. Vials in use should be stored 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -1949,9 +1947,7 @@ Multipack: 5 (5 packs of 1) vials of 10 ml.
 
 ## 5. METHOD AND ROUTES OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Subcutaneous and intravenous use
+Read the package leaflet before use. Subcutaneous and intravenous use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2055,7 +2051,7 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use, vials may be used for up to 28 days. Vials in use should be stored below 30 ° C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2101,8 +2097,7 @@ Lot
 
 10 ml (3.5 mg/ml)
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2228,8 +2223,7 @@ Lot
 
 3 ml (3.5 mg/ml)
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2255,7 +2249,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Suspension for injection
+Suspension for injection
 
 1 vial of 10 ml
 
@@ -2301,12 +2295,10 @@ EU/1/96/007/005
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2368,7 +2360,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Suspension for injection
+Suspension for injection
 
 5 cartridges of 3 ml
 
@@ -2496,7 +2488,7 @@ Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Suspension for injection
+Suspension for injection
 
 5 cartridges of 3 ml
 
@@ -2578,9 +2570,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL TEXT
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL TEXT
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -2834,9 +2824,7 @@ Once in use pens may be used for up to 28 days. Pens in use should be stored bel
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2994,7 +2982,9 @@ OUTER CARTON (with blue box) multipack - KwikPen
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog Mix25 100 units/ml KwikPen suspension for injection in a pre-filled pen 25% insulin lispro and 75% insulin lispro protamine suspension
+Humalog Mix25 100 units/ml KwikPen suspension for injection in a pre-filled pen
+
+25% insulin lispro and 75% insulin lispro protamine suspension
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3086,9 +3076,7 @@ INTERMEDIATE CARTON (without blue box) component of a multipack - KwikPen
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog Mix25 100 units/ml KwikPen suspension for injection in a pre-filled pen
-
-25% insulin lispro and 75% insulin lispro protamine suspension
+Humalog Mix25 100 units/ml KwikPen suspension for injection in a pre-filled pen 25% insulin lispro and 75% insulin lispro protamine suspension
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3134,15 +3122,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -3340,7 +3324,7 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3360,7 +3344,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3432,13 +3416,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -3544,7 +3526,7 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3666,7 +3648,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3700,7 +3682,9 @@ One ml solution contains 200 units of insulin lispro (equivalent to 6.9 mg)
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains glycerol, zinc oxide, trometamol, metacresol and water for injections. Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. See leaflet for further information.
+Contains glycerol, zinc oxide, trometamol, metacresol and water for injections.
+
+Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3950,13 +3934,11 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. Discard after 28 days even if some of the solution remains. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000, 3528 BD Utrecht
+Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht
 
 The Netherlands
 
@@ -4042,7 +4024,7 @@ Do not freeze. Do not expose to excessive heat or direct sunlight.
 
 Once in use pens may be used for up to 28 days. . Discard after 28 days even if some of the solution remains. Pens in use should be stored below 30 ° C and should not be refrigerated.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4060,294 +4042,11 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Humalog 100 units/ml Junior KwikPen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL TEXT
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
-
-Humalog 100 units/ml Junior KwikPen solution for injection insulin lispro Subcutaneous use
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
-
-3. EXPIRY DATE
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-3 ml
-
-| 6.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON -Tempo Pen. Pack of 5
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen. insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-One ml solution contains 100 units of insulin lispro (equivalent to 3.5mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, zinc oxide, dibasic sodium phosphate 7 H20 with m-cresol as a preservative in water for injections. Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-5 pens of 3 ml
-
-## 5. METHOD AND ROUTES OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children
-
-## 7. OTHER SPECIAL WARNING, IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze. Do not expose to excessive heat or direct sunlight.
-
-Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/96/007/046
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-If seal is broken before first use, contact pharmacist.
-
-## 16. INFORMATION IN BRAILLE
-
-Humalog Tempo Pen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON (with blue box) multipack - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-One ml solution contains 100 units of insulin lispro (equivalent to 3.5mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, zinc oxide, dibasic sodium phosphate 7 H20 with m-cresol as a preservative in water for injections. Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-Multipack: 10 (2 packs of 5) pens of 3 ml.
-
-## 5. METHOD AND ROUTES OF ADMINISTRATION
-
-Read the package leaflet before use Subcutaneous use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children
-
-## 7. OTHER SPECIAL WARNING, IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze. Do not expose to excessive heat or direct sunlight.
-
-Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/96/007/047
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Humalog Tempo Pen
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-INTERMEDIATE CARTON (without blue box) component of a multipack - Tempo Pen
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-One ml solution contains 100 units of insulin lispro (equivalent to 3.5mg).
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: glycerol, zinc oxide, dibasic sodium phosphate 7 H20 with m-cresol as a preservative in water for injections. Sodium hydroxide and/or hydrochloric acid may have been used to adjust acidity. See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection.
-
-5 pens of 3 ml. Component of a multipack, can't be sold separately.
-
-## 5. METHOD AND ROUTES OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Subcutaneous use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children
-
-## 7. OTHER SPECIAL WARNING, IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze. Do not expose to excessive heat or direct sunlight.
-
-Once in use pens may be used for up to 28 days. Pens in use should be stored below 30 ° C and should not be refrigerated.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000, 3528 BD Utrecht
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/96/007/047
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-If seal is broken before first use, contact pharmacist.
-
-## 16. INFORMATION IN BRAILLE
-
-Humalog Tempo Pen
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -4362,7 +4061,7 @@ Humalog Tempo Pen
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Humalog 100 units/ml Tempo Pen solution for injection insulin lispro Subcutaneous use
+Humalog 100 units/ml Junior KwikPen solution for injection insulin lispro Subcutaneous use
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -4389,9 +4088,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Humalog 100 units/ml solution for injection in vial insulin lispro
 
@@ -4555,11 +4254,11 @@ Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as fo
 
 blood pressure dropping
 
-- difficulty in breathing
-
-•
+- difficulty in breathing •
 
 heart beating fast
+
+- •
 
 - wheezing
 
@@ -4600,7 +4299,9 @@ The first symptoms of low blood sugar usually come on quickly and include the fo
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness
+
+•
 
 feeling sick
 
@@ -4692,17 +4393,13 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
+Česká republika ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
+Magyarország Lilly Hungária Kft. Tel: + 36 1 328 5100
 
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -4710,23 +4407,11 @@ Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 6000
 
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
 ## Deutschland
 
 Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
 
 ## Eesti
 
@@ -4736,25 +4421,13 @@ Tel:
 
 + 372 6817 280
 
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ
 
 : +30 210 629 4600
-
-## Österreich
-
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
 
 ## España
 
@@ -4762,23 +4435,11 @@ Lilly S.A.
 
 Tel: + 34-91 663 50 00
 
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
 ## France
 
 Lilly France
 
 Tél: +33-(0) 1 55 49 34 34
-
-## Portugal
-
-Lilly Portugal - Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
 
 ## Hrvatska
 
@@ -4786,23 +4447,11 @@ Eli Lilly Hrvatska d.o.o.
 
 Tel: +385 1 2350 999
 
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
 ## Ireland
 
 Eli Lilly and Company (Ireland) Limited
 
 Tel: + 353-(0) 1 661 4377
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0) 1 580 00 10
 
 ## Ísland
 
@@ -4810,23 +4459,11 @@ Icepharma hf.
 
 Sími + 354 540 8000
 
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -4835,12 +4472,6 @@ Phadisco Ltd
 Τηλ
 
 : +357 22 715000
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -4854,7 +4485,69 @@ Tel:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges. m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## Portugal
+
+Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0) 1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5034,9 +4727,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body
 
-blood pressure dropping
+- blood pressure dropping
 
 - difficulty in breathing
 
@@ -5143,11 +4836,9 @@ Medicines should not be disposed of via wastewater or household waste. Ask your 
 
 ## What Humalog looks like and contents of the pack
 
-Humalog 100 units/ml solution for injection is a sterile, clear, colourless, aqueous solution and contains 100 units of insulin lispro in each millilitre (100 units/ml) solution for injection. Each
+Humalog 100 units/ml solution for injection is a sterile, clear, colourless, aqueous solution and contains 100 units of insulin lispro in each millilitre (100 units/ml) solution for injection. Each cartridge contains 300 units (3 millilitres). The cartridges come in packs of 5 or10 cartridges. Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
-
-cartridge contains 300 units (3 millilitres). The cartridges come in packs of 5 or10 cartridges. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -5470,11 +5161,9 @@ If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or 
 
 ## If you forget to use Humalog Mix25
 
-If you take less Humalog Mix25 than you need or are unsure how much you have injected, a high blood sugar may occur.  Check your blood sugar
+If you take less Humalog Mix25 than you need or are unsure how much you have injected, a high blood sugar may occur.  Check your blood sugar If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
 
 <div style=\"page-break-after: always\"></div>
-
-If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
 
 Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
 
@@ -5492,21 +5181,11 @@ If you have any further questions on the use of this product, ask your doctor or
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
-
-- rash over the whole body
-
-- •
-
-blood pressure dropping
-
-- difficulty in breathing •
-
-heart beating fast
-
-- wheezing
-
-- sweating
+| Systemic allergy is rare ( ≥ 1/10,000 to <1/1,000) . The symptoms are as follows:   | Systemic allergy is rare ( ≥ 1/10,000 to <1/1,000) . The symptoms are as follows:   |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| rash over the whole body                                                            | • blood pressure dropping                                                           |
+| difficulty in breathing                                                             | • heart beating fast                                                                |
+| wheezing                                                                            | • sweating                                                                          |
 
 If you think you are having this sort of insulin allergy with Humalog Mix25, tell your doctor at once.
 
@@ -5572,9 +5251,7 @@ Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slo
 
 no appetite
 
-- flushed face
-
-- •
+- flushed face •
 
 fruity smell on the breath
 
@@ -5657,7 +5334,9 @@ Tel. + 49-(0) 6172 273 2222
 
 Eli Lilly Nederland B.V.
 
-Tel: + 372 6817 280
+Tel:
+
++ 372 6817 280
 
 ## Ελλάδα
 
@@ -5771,7 +5450,7 @@ Tel:
 
 + 371 67364000
 
-## This leaflet was last revised in {MM/YYYY}.
+This leaflet was last revised in {MM/YYYY}.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -5894,11 +5573,9 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 
 ## Driving and using machines
 
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving
+Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 <div style=\"page-break-after: always\"></div>
-
-a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 - frequent episodes of hypoglycaemia
 - reduced or absent warning signs of hypoglycaemia
@@ -5958,7 +5635,7 @@ If you take less Humalog Mix25 than you need or are unsure how much you have inj
 
 If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, nausea, vomiting, dehydration, unconsciousness, coma or even death (see A and B in section 4 'Possible Side Effects').
 
-Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
+## Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
 
 - Always keep spare syringes and a spare vial of Humalog Mix25, or a spare pen and cartridges, in case you lose your pen or cartridges or they get damaged.
 - Always carry something to show you are diabetic.
@@ -5978,15 +5655,11 @@ Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as fo
 
 - rash over the whole body
 
-- •
-
-blood pressure dropping
+- blood pressure dropping
 
 - difficulty in breathing
 
-- •
-
-heart beating fast
+- heart beating fast
 
 •
 
@@ -6052,9 +5725,7 @@ Hyperglycaemia can be brought about by:
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy
-
-•
+- feeling sleepy •
 
 no appetite
 
@@ -6152,9 +5823,7 @@ Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France
-
-Tél: +33-(0) 1 55 49 34 34
+Lilly France Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
@@ -6162,9 +5831,7 @@ Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -6210,7 +5877,9 @@ Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
 
 ## Portugal
 
@@ -6246,11 +5915,17 @@ Eli Lilly Sweden AB
 
 ## Latvija
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+Tel:
+
++ 371 67364000
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu.
 
 Tel: + 46-(0) 8 7378800
 
@@ -6339,11 +6014,9 @@ Are you pregnant or thinking about becoming pregnant, or are you breast-feeding?
 
 ## Driving and using machines
 
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving
+Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 <div style=\"page-break-after: always\"></div>
-
-a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
 
 - frequent episodes of hypoglycaemia
 - reduced or absent warning signs of hypoglycaemia
@@ -6467,7 +6140,9 @@ rapid heartbeat
 
 - nervousness or shakiness
 
-• feeling sick
+•
+
+feeling sick
 
 - headache
 
@@ -6477,9 +6152,7 @@ While you are not confident about recognising your warning symptoms, avoid situa
 
 ## B. Hyperglycaemia and diabetic ketoacidosis
 
-Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin.
-
-Hyperglycaemia can be brought about by:
+Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
 
 - not taking your Humalog or other insulin;
 - taking less insulin than your doctor tells you to;
@@ -6488,15 +6161,13 @@ Hyperglycaemia can be brought about by:
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy
-
-- •
+- feeling sleepy •
 
 no appetite
 
 - flushed face
 
-- •
+•
 
 fruity smell on the breath
 
@@ -6552,9 +6223,7 @@ For any information about this medicinal product, please contact the local repre
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -6588,7 +6257,9 @@ Lilly S.A. Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France Tél: +33-(0) 1 55 49 34 34
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
@@ -6638,13 +6309,13 @@ Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
+Eli Lilly Ges. m.b.H.
+
+Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -6864,7 +6535,9 @@ If you have any further questions on the use of this product, ask your doctor or
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
+Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000)
+
+. The symptoms are as follows:
 
 - rash over the whole body
 
@@ -6874,13 +6547,13 @@ blood pressure dropping
 
 - difficulty in breathing
 
+- heart beating fast
+
 - •
 
-heart beating fast
+- wheezing •
 
-- wheezing
-
-- sweating
+sweating
 
 If you think you are having this sort of insulin allergy with Humalog, tell your doctor at once.
 
@@ -7003,7 +6676,9 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. -България
+
+тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -7025,13 +6700,17 @@ Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V. Tel: + 372 6817 280
+Eli Lilly Nederland B.V.
+
+Tel: + 372 6817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
 
-Τηλ : +30 210 629 4600
+Τηλ
+
+: +30 210 629 4600
 
 ## España
 
@@ -7063,9 +6742,7 @@ Icepharma hf.
 
 ## Lietuva
 
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
+Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
@@ -7111,7 +6788,9 @@ Tel: +48 22 440 33 00
 
 ## Portugal
 
-Lilly Portugal - Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+Lilly Portugal - Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
 
 ## România
 
@@ -7155,7 +6834,7 @@ Tel:
 
 + 371 67364000
 
-This leaflet was last revised in {MM/YYYY}.
+## This leaflet was last revised in {MM/YYYY}.
 
 USER MANUAL
 
@@ -7343,8 +7022,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- •
-
 - rash over the whole body
 
 - •
@@ -7354,8 +7031,6 @@ blood pressure dropping
 - difficulty in breathing
 
 - heart beating fast
-
-- •
 
 - wheezing
 
@@ -7392,7 +7067,9 @@ Alcohol and some medicines can affect your blood sugar levels.
 
 The first symptoms of low blood sugar usually come on quickly and include the following:
 
-- tiredness •
+- tiredness
+
+•
 
 rapid heartbeat
 
@@ -7424,11 +7101,15 @@ Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slo
 - feeling sleepy
 - no appetite
 
-<div style=\"page-break-after: always\"></div>
+- flushed face •
 
-| flushed face   | fruity smell on the breath   |
-|----------------|------------------------------|
-| thirst         | feeling or being sick        |
+fruity smell on the breath
+
+- thirst
+
+- feeling or being sick
+
+<div style=\"page-break-after: always\"></div>
 
 Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
 
@@ -7477,9 +7158,7 @@ For any information about this medicinal product, please contact the local repre
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -7489,7 +7168,9 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
 
 ## Danmark
 
@@ -7503,17 +7184,11 @@ Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V.
-
-Tel:
-
-+ 372 6817 280
+Eli Lilly Nederland B.V. Tel: + 372 6817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ : +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ : +30 210 629 4600
 
 ## España
 
@@ -7573,9 +7248,7 @@ Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
+Eli Lilly Ges. m.b.H. Tel: + 43-(0) 1 711 780
 
 ## Polska
 
@@ -7637,17 +7310,13 @@ Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Sverige
 
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
+Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Humalog Mix50 100 units/ml KwikPen suspension for injection in a pre-filled pen
-
-## insulin lispro
+## Humalog Mix50 100 units/ml KwikPen suspension for injection in a pre-filled pen insulin lispro
 
 ## Each KwikPen delivers 1 - 60 units in steps of 1 units.
 
@@ -7809,8 +7478,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Systemic allergy is rare ( ≥ 1/10,000 to &lt;1/1,000) . The symptoms are as follows:
 
-- •
-
 - rash over the whole body
 
 - blood pressure dropping
@@ -7862,7 +7529,9 @@ rapid heartbeat
 
 - nervousness or shakiness
 
-• feeling sick
+•
+
+feeling sick
 
 - headache
 
@@ -7872,9 +7541,7 @@ While you are not confident about recognising your warning symptoms, avoid situa
 
 ## B. Hyperglycaemia and diabetic ketoacidosis
 
-Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin.
-
-Hyperglycaemia can be brought about by:
+Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
 
 - not taking your Humalog or other insulin;
 - taking less insulin than your doctor tells you to;
@@ -7883,15 +7550,13 @@ Hyperglycaemia can be brought about by:
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy
-
-- •
+- feeling sleepy •
 
 no appetite
 
 - flushed face
 
-- •
+•
 
 fruity smell on the breath
 
@@ -7947,7 +7612,9 @@ For any information about this medicinal product, please contact the local repre
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -7985,9 +7652,7 @@ Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France
-
-Tél: +33-(0) 1 55 49 34 34
+Lilly France Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
@@ -8148,17 +7813,19 @@ Needles and swab are not included.
 
 ## Step 1:
 
-- •
+- ·
 - Pull the Pen Cap straight off.
 - -Do not remove the Pen Label.
 - Wipe the Rubber Seal with a swab.
 
-Step 2:
+## Step 2:
 
 ## (For HUMALOG suspensions cloudy insulins only)
 
-- AND
 - Gently roll the Pen 10 times.
+
+## AND
+
 - Invert the Pen 10 times.
 
 Mixing is important to make sure you get the right dose.
@@ -8316,8 +7983,6 @@ If you see blood after you take the Needle out of your skin, press the injection
 
 <div style=\"page-break-after: always\"></div>
 
-## After your injection
-
 ## Step 14:
 
 - Carefully replace the Outer Needle Shield.
@@ -8385,7 +8050,7 @@ Document Revision Date:
 
 ## insulin lispro
 
-## Each KwikPen delivers 1 - 60 units in steps of 1 units.
+Each KwikPen delivers 1 - 60 units in steps of 1 units.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -8561,13 +8226,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:
 
-- rash over the whole body •
+- rash over the whole body
+
+- •
 
 blood pressure dropping
 
 - difficulty in breathing
 
-- heart beating fast
+• heart beating fast
 
 - wheezing
 
@@ -8609,7 +8276,9 @@ The first symptoms of low blood sugar usually come on quickly and include the fo
 
 rapid heartbeat
 
-- nervousness or shakiness •
+- nervousness or shakiness
+
+•
 
 feeling sick
 
@@ -8695,7 +8364,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -8725,7 +8394,7 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -8909,11 +8578,17 @@ This Pen is not recommended for use by the blind or visually impaired without th
 
 - Pen colour:
 
-Dark grey Dark grey with burgundy ring on the end Burgundy, '200 units/ml' in yellow box. Yellow warning on cartridge holder
+Dark grey
 
 - Dose Knob:
 
+Dark grey with burgundy ring on the end
+
 - Labels:
+
+Burgundy, '200 units/ml' in yellow box.
+
+Yellow warning on cartridge holder
 
 ## Supplies needed to give your injection:
 
@@ -9007,7 +8682,7 @@ Small air bubbles are normal and will not affect your dose.
 
 ## Selecting your dose
 
-## This pen has been designed to deliver the dose that is shown in the window. Dial your usual dose as instructed by your healthcare professional.
+This pen has been designed to deliver the dose that is shown in the window. Dial your usual dose as instructed by your healthcare professional.
 
 - You can give from 1 to 60 units in a single injection.
 - If your dose is more than 60 units, you will need to give more than one injection.
@@ -9081,8 +8756,6 @@ Pull the Needle out of your skin.
 
 The plunger only moves a little with each injection and you may not notice that it moves.
 
-If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
-
 <!-- image -->
 
 <!-- image -->
@@ -9090,6 +8763,8 @@ If you see blood after you take the Needle out of your skin, press the injection
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
 
 ## After your injection
 
@@ -9122,11 +8797,6 @@ Replace the Pen Cap by lining up the Cap Clip with the Dose Indicator and pushin
 - Do not freeze Humalog 200 units/ml solution for injection. Do not use if it has been frozen.
 - Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
 
-## In-use Pen
-
-- Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids, heat and light.
-- Throw away the Pen you are using after 28 days, even if it still has insulin left in it.
-
 <!-- image -->
 
 <!-- image -->
@@ -9134,6 +8804,11 @@ Replace the Pen Cap by lining up the Cap Clip with the Dose Indicator and pushin
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## In-use Pen
+
+- Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids, heat and light.
+- Throw away the Pen you are using after 28 days, even if it still has insulin left in it.
 
 ## General information about the safe and effective use of your Pen
 
@@ -9158,9 +8833,7 @@ Document revision date:
 
 <div style=\"page-break-after: always\"></div>
 
-## Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen
-
-## insulin lispro
+## Humalog 100 units/ml Junior KwikPen solution for injection in a pre-filled pen insulin lispro
 
 Each Junior KwikPen delivers 0.5 - 30 units in steps of 0.5 units.
 
@@ -9207,6 +8880,7 @@ Humalog 100 units/ml Junior KwikPen is a disposable pre-filled pen containing 3 
 - Do NOT mix the Humalog 100 units/ml solution for injection in your pre-filled pen (the Junior KwikPen) with any other insulins or any other medicine .
 - If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed in section 4 of this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
 - A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
+- ·
 - If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
 -  Have you recently become ill?
 -  Do you have trouble with your kidneys or liver?
@@ -9397,7 +9071,9 @@ Hyperglycaemia (too much sugar in the blood) means that your body does not have 
 
 Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
 
-- feeling sleepy •
+- feeling sleepy
+
+- •
 
 no appetite
 
@@ -9490,7 +9166,7 @@ Tel:
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ
 
@@ -9650,6 +9326,8 @@ Tel: + 46-(0) 8 7378800
 
 <!-- image -->
 
+O
+
 ## PLEASE READ THESE INSTRUCTIONS BEFORE USE
 
 Read the Instructions for Use before you start taking Humalog Junior KwikPen and each time you get another Humalog Junior KwikPen. There may be new information. This information does not take the place of talking to your healthcare professional about your medical condition or your treatment.
@@ -9670,7 +9348,7 @@ This Pen is not recommended for use by the blind or visually impaired without th
 
 <div style=\"page-break-after: always\"></div>
 
-## Paper Tab
+Paper Tab
 
 <!-- image -->
 
@@ -9812,7 +9490,7 @@ Small air bubbles are normal and will not affect your dose.
 
 ## Step 9:
 
-- •
+- ·
 
 Humalog is injected under the skin buttocks, upper legs or upper arms.
 
@@ -9908,760 +9586,5 @@ If you see blood after you take the Needle out of your skin, press the injection
 - -You may have dust, food, or liquid inside the Pen. Throw the Pen away and get a new Pen. You may need to get a prescription from your healthcare professional.
 
 If you have any questions or problems with your Humalog 100 units/ml Junior KwikPen, call your healthcare professional for help or contact your local Lilly affiliate.
-
-Document revision date:
-
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro Each Tempo Pen delivers 1 - 60 units in steps of 1 units.
-
-## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Humalog Tempo Pen is and what it is used for
-2. What you need to know before you use Humalog Tempo Pen
-3. How to use Humalog Tempo Pen
-4. Possible side effects
-5. How to store Humalog Tempo Pen
-6. Contents of the pack and other information
-
-## 1. What Humalog Tempo Pen is and what it is used for
-
-Humalog Tempo Pen is used to treat diabetes. Humalog works more quickly than normal human insulin because the insulin molecule has been changed slightly in comparison to human insulin. Insulin lispro is closely related to human insulin which is a natural hormone made by the pancreas.
-
-You get diabetes if your pancreas does not make enough insulin to control the level of glucose in your blood. Humalog is a substitute for your own insulin and is used to control glucose in the long term. It works very quickly and lasts a shorter time than soluble insulin (2 to 5 hours). You should normally use Humalog within 15 minutes of a meal.
-
-Your doctor may tell you to use Humalog Tempo Pen as well as a longer-acting insulin. Each kind of insulin comes with another patient information leaflet to tell you about it. Do not change your insulin unless your doctor tells you to.
-
-Humalog is suitable for use in adults and children.
-
-The Tempo Pen is a disposable pre-filled pen containing 3 ml (300 units, 100 units/ml) of insulin lispro.  One Tempo Pen contains multiple doses of insulin.  The Tempo Pen dials 1 unit at a time. The number of units are displayed in the dose window, always check this before your injection. You can give from 1 to 60 units in a single injection. If your dose is more than 60 units, you will need to give yourself more than one injection.
-
-## 2. What you need to know before you use Humalog Tempo Pen
-
-## Do NOT use Humalog Tempo Pen
-
-- -if you think hypoglycaemia (low blood sugar) is starting. Further in this leaflet it tells you how to deal with mild hypoglycaemia (see Section 3: If you use more Humalog than you should).
-- -if you are allergic to insulin lispro or any of the other ingredients of this medicine (listed in section 6).
-
-<div style=\"page-break-after: always\"></div>
-
-## Warnings and precautions
-
-- Always check the pack and the label of the pre-filled pen for the name and type of the insulin when you get it from your pharmacy. Make sure you get the Humalog 100 units/ml Tempo Pen that your doctor has told you to use.
-- If your blood sugar levels are well controlled by your current insulin therapy, you may not feel the warning symptoms when your blood sugar is falling too low. Warning signs are listed in section 4 of this leaflet. You must think carefully about when to have your meals, how often to exercise and how much to do. You must also keep a close watch on your blood sugar levels by testing your blood glucose often.
-- A few people who have had hypoglycaemia after switching from animal insulin to human insulin have reported that the early warning symptoms were less obvious or different. If you often have hypoglycaemia or have difficulty recognising it, please discuss this with your doctor.
-- If you answer YES to any of the following questions, tell your doctor, pharmacist or diabetes nurse
--  Have you recently become ill?
--  Do you have trouble with your kidneys or liver?
--   Are you exercising more than usual?
-- The amount of insulin you need may also change if you drink alcohol.
-- You should also tell your doctor, pharmacist or diabetes nurse if you are planning to go abroad. The time difference between countries may mean that you have to have your injections and meals at different times from when you are at home.
-- Some patients with long-standing type 2 diabetes mellitus and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible, if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
-- This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
-- The Tempo Pen contains a magnet. If you have a medical device fitted, such as a heart pacemaker, this may not work correctly if the Tempo Pen is held too close. The magnetic field extends to approximately 1.5 cm.
-
-## Skin changes at the injection site
-
-The injection site should be rotated to prevent skin changes such as lumps under the skin. The insulin may not work very well if you inject into a lumpy area (See How to use Humalog Tempo Pen). Contact your doctor if you are currently injecting into a lumpy area before you start injecting a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
-
-## Other medicines and Humalog Tempo Pen
-
-Your insulin needs may change if you are taking
-
-- the contraceptive pill,
-- steroids,
-- thyroid hormone replacement therapy,
-- oral hypoglycaemics,
-- acetyl salicylic acid,
-- sulpha antibiotics,
-- octreotide,
-- 'beta2 stimulants' (for example ritodrine, salbutamol or terbutaline),
-- beta-blockers, or
-- some antidepressants (monoamine oxidase inhibitors or selective serotonin reuptake inhibitors),
-- danazol,
-- some angiotensin converting enzyme (ACE) inhibitors (for example captopril, enalapril), and
-- angiotensin II receptor blockers.
-
-<div style=\"page-break-after: always\"></div>
-
-Please tell your doctor, if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription  (see section 'Warnings and precautions').
-
-## Humalog with alcohol
-
-Your blood sugar levels may either rise or fall if you drink alcohol. Therefore the amount of insulin needed may change.
-
-## Pregnancy and breast-feeding
-
-Are you pregnant or thinking about becoming pregnant, or are you breast-feeding? The amount of insulin you need usually falls during the first three months of pregnancy and increases for the remaining six months. If you are breast-feeding, you may need to alter your insulin intake or diet. Ask your doctor for advice.
-
-## Driving and using machines
-
-Your ability to concentrate and react may be reduced if you have hypoglycaemia. Please keep this possible problem in mind in all situations where you might put yourself and others at risk (e.g. driving a car or operating machinery). You should contact your doctor about the advisability of driving if you have:
-
-- -frequent episodes of hypoglycaemia
-- -reduced or absent warning signs of hypoglycaemia
-
-## Humalog Tempo Pen contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
-
-## 3. How to use Humalog Tempo Pen
-
-Always use this medicine exactly as your doctor has told you. You should check with your doctor if you are not sure. To prevent the possible transmission of disease, each pen must be used by you only, even if the needle is changed.
-
-## Dose
-
-- -Always check the number in the dose window to make sure you have dialled the correct dose.
-- -You should normally inject Humalog within 15 minutes of a meal. If you need to, you can inject soon after a meal. But your doctor will have told you exactly how much to use, when to use it, and how often. These instructions are only for you. Follow them exactly and visit your diabetes clinic regularly.
-- -If you change the type of insulin you use (for example from a human or animal insulin to a Humalog product), you may have to take more or less than before. This might just be for the first injection or it may be a gradual change over several weeks or months.
-- -Humalog Tempo Pen is only suitable for injecting just under the skin. Speak to your doctor if you need to inject your insulin by another method.
-
-## Preparing Humalog Tempo Pen
-
-- -Humalog is already dissolved in water, so you do not need to mix it. But you must use it only if it looks like water. It must be clear, have no colour and no solid pieces in it. Check each time you inject yourself.
-
-## Getting the Tempo Pen ready to use (Please see user manual)
-
-- -First wash your hands.
-- -Read the instructions on how to use your pre-filled insulin pen. Please follow the instructions carefully. Here are some reminders.
-- -Use a clean needle. (Needles are not included).
-- -Prime your Tempo Pen before each use. This checks that insulin comes out and clears the air bubbles from your Tempo Pen. There may still be some small air bubbles left in the pen - these are harmless. But if the air bubbles are too large it may affect the insulin dose.
-
-<div style=\"page-break-after: always\"></div>
-
-## Injecting Humalog
-
-- -Before you make an injection, clean your skin as you have been instructed. Inject under the skin, as you were taught. Do not inject directly into a vein. After your injection, leave the needle in the skin for five seconds to make sure you have taken the whole dose. Do not rub the area you have just injected. Make sure you inject at least half an inch (1 cm) from the last injection and that you 'rotate' the places you inject, as you have been taught. It doesn't matter which injection site you use, either upper arm, thigh, buttock or abdomen, your Humalog injection will still work quicker than soluble human insulin.
-- -You must not administer Humalog by the intravenous route. Inject Humalog as your physician or nurse has taught you. Only your physician can administer Humalog by the intravenous route. He will only do this under special circumstances such as surgery or if you are ill and your glucose levels are too high.
-
-## After injecting
-
-- -As soon as you have done the injection, unscrew the needle from the Tempo Pen using the outer needle cap. This will keep the insulin sterile and stop it leaking. It also stops air entering the pen and your needle clogging. Do not share your needles . Do not share your pen. Replace the cap on your pen.
-
-If you are unsure how much you have injected then check your blood sugar levels before deciding if you need another injection.
-
-## Further injections
-
-- -Every time you use a Tempo Pen you must use a new needle. Before every injection, clear any air bubbles. You can see how much insulin is left by holding the Tempo Pen with the needle pointing up. The scale on the cartridge shows about how many units you have left.
-- -Do NOT mix the Humalog 100 units/ml solution for injection in your pre-filled pen with any other insulins or any other medicine.
-- -Once the Tempo Pen is empty, do not use it again. Please get rid of it carefully - your pharmacist or diabetes nurse will tell you how to do this.
-
-## Tempo Smart Button
-
-The Tempo Pen is designed to work with the Tempo Smart Button. The optional additional feature Tempo Smart Button is a product available for the Tempo Pen, which may be used for transmitting dose information to a mobile application. The Tempo Pen can be used with or without the Tempo Smart Button attached. See instructions provided with the Tempo Smart Button and the mobile application for further information.
-
-## Using Humalog in an infusion pump
-
-- -Tempo Pen is only suitable for injecting just under the skin. Do not use the pen to administer Humalog by a different way. Other forms of Humalog 100 units/ml are available if this is necessary. Speak to your doctor if this applies to you.
-
-## If you use more Humalog than you should
-
-If you use more Humalog than you need or are unsure how much you have injected , a low blood sugar may occur.  Check your blood sugar.
-
-If your blood sugar is low (mild hypoglycaemia) , eat glucose tablets, sugar or drink a sugary drink. Then eat fruit, biscuits, or a sandwich, as your doctor has advised you and have some rest. This will often get you over mild hypoglycaemia or a minor insulin overdose. If you get worse and your breathing is shallow and your skin gets pale, tell your doctor at once. A glucagon injection can treat quite severe hypoglycaemia. Eat glucose or sugar after the glucagon injection. If you do not respond to glucagon, you will have to go to hospital. Ask your doctor to tell you about glucagon.
-
-<div style=\"page-break-after: always\"></div>
-
-## If you forget to use Humalog
-
-If you take less Humalog than you need or are unsure how much you have injected, a high blood sugar may occur.  Check your blood sugar
-
-If hypoglycaemia (low blood sugar) or hyperglycaemia (high blood sugar) is not treated they can be very serious and cause headaches, feeling sick (nausea), being sick (vomiting), loss of fluids (dehydration), unconsciousness, coma or even death (see section 4 'Possible Side Effects').
-
-Three simple steps to avoid hypoglycaemia or hyperglycaemia are:
-
-- Always carry a spare pen in case you lose your Tempo Pen or it gets damaged.
-- Always carry something to show you are diabetic.
-- Always carry sugar with you.
-
-## If you stop using Humalog.
-
-If you use less Humalog than you need, a high blood sugar may occur. Do not change your insulin unless your doctor tells you to.
-
-If you have any further questions on the use of this product, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Severe allergy is rare (may affect up to 1 in 1,000 people). The symptoms are as follows:
-
-- rash over the whole body •
-
-blood pressure dropping
-
-- difficulty in breathing •
-
-heart beating fast
-
-- wheezing
-
-- •
-
-sweating
-
-If you think you are having this sort of insulin allergy with Humalog, contact a doctor at once.
-
-Local allergy is common (may affect up to 1 in 10 people).  Some people get redness, swelling or itching around the area of the insulin injection. This usually clears up in anything from a few days to a few weeks. If this happens to you, tell your doctor.
-
-Lipodystrophy is uncommon (may affect up to 1 in 100 people). If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
-
-Oedema (e.g. swelling in arms, ankles; fluid retention) has been reported, particularly at the start of insulin therapy or during a change in therapy to improve control of your blood glucose.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## Common problems of diabetes
-
-## A. Hypoglycaemia
-
-Hypoglycaemia (low blood sugar) means there is not enough sugar in the blood. This can be caused if:
-
-- you take too much Humalog or other insulin;
-- you miss or delay meals or change your diet;
-- you exercise or work too hard just before or after a meal;
-
-<div style=\"page-break-after: always\"></div>
-
-- you have an infection or illness (especially diarrhoea or vomiting);
-- there is a change in your need for insulin; or
-- you have trouble with your kidneys or liver which gets worse.
-
-Alcohol and some medicines can affect your blood sugar levels (see section 2).
-
-The first symptoms of low blood sugar usually come on quickly and include the following:
-
-- tiredness •
-
-rapid heartbeat
-
-- nervousness or shakiness •
-
-feeling sick
-
-- headache •
-
-cold sweat
-
-While you are not confident about recognising your warning symptoms, avoid situations, e.g. driving a car, in which you or others would be put at risk by hypoglycaemia.
-
-## B. Hyperglycaemia and diabetic ketoacidosis
-
-Hyperglycaemia (too much sugar in the blood) means that your body does not have enough insulin. Hyperglycaemia can be brought about by:
-
-- not taking your Humalog or other insulin;
-- taking less insulin than your doctor tells you to;
-- eating a lot more than your diet allows; or
-- fever, infection or emotional stress.
-
-Hyperglycaemia can lead to diabetic ketoacidosis. The first symptoms come on slowly over many hours or days. The symptoms include the following:
-
-- feeling sleepy •
-
-no appetite
-
-- flushed face •
-
-fruity smell on the breath
-
-- thirst
-
-- feeling or being sick
-
-Severe symptoms are heavy breathing and a rapid pulse. Get medical help immediately.
-
-## C. Illness
-
-If you are ill, especially if you feel sick or are sick, the amount of insulin you need may change. Even when you are not eating normally, you still need insulin. Test your urine or blood, follow your 'sick rules', and tell your doctor.
-
-## 5. How to store Humalog Tempo Pen
-
-Before the first use store your Humalog Tempo Pen in a refrigerator (2 ° C - 8 ° C). Do not freeze.
-
-Keep your Humalog Tempo Pen in use at room temperature (below 30°C) and discard after 28 days even if some of the solution remains. Do not put it near heat or in the sun. Do not keep the Tempo Pen that you are using in the fridge. The Tempo Pen should not be stored with the needle attached.
-
-Keep out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the label and the carton. The expiry date refers to the last day of that month.
-
-Do not use this medicine if you notice the solution is coloured or it has solid pieces in it. You must use it only if it looks like water. Check this each time you inject yourself.
-
-Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
-
-<div style=\"page-break-after: always\"></div>
-
-## 6. Contents of the pack and other information
-
-## What Humalog 100 units/ml Tempo Pen solution for injection contains
-
-- -The active substance is insulin lispro. Each ml of solution contains 100 units (U) of insulin lispro. Each pre-filled pen (3 ml) contains 300 units (U) of insulin lispro.
-- -The other ingredients are metacresol, glycerol, dibasic sodium phosphate 7 H2O, zinc oxide and water for injections. Sodium hydroxide or hydrochloric acid may have been used to adjust the acidity.
-
-## What Humalog Tempo Pen looks like and contents of the pack
-
-Humalog 100 units/ml Tempo Pen solution for injection is a sterile, clear, colourless, aqueous solution and contains 100 units of insulin lispro in each millilitre (100 units/ml) solution for injection. Each Humalog Tempo Pen contains 300 units (3 millilitres). The Humalog Tempo Pen comes in a pack of 5 pre-filled pens or a multipack of 2 x 5 pre-filled pens. Not all pack sizes may be marketed. The Humalog 100 units/ml in your pre-filled pen is the same as the Humalog 100 units/ml, which comes in separate Humalog 100 units/ml cartridges. The pre-filled pen simply has a built in cartridge. When the pre-filled pen is empty you cannot use it again. The Tempo Pen contains a magnet (see section 2, \" Warnings and precautions \") .
-
-## Marketing Authorisation Holder
-
-Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
-
-## Manufacturer
-
-Lilly France S.A.S., Rue du Colonel Lilly, 67640 Fegersheim, France,
-
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
-
-## Belgique/België/Belgien
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## България
-
-ТП \"Ели Лили Недерланд\" Б.В. -България тел. + 359 2 491 41 40
-
-## Česká republika
-
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
-## Danmark
-
-Eli Lilly Danmark A/S
-
-Tlf.: +45 45 26 6000
-
-## Deutschland
-
-Lilly Deutschland GmbH
-
-Tel. + 49-(0) 6172 273 2222
-
-## Eesti
-
-Eli Lilly Nederland B.V.
-
-Tel: + 372 6817 280
-
-## Ελλάδα
-
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ
-
-: +30 210 629 4600
-
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges. m.b.H.
-
-Tel: + 43-(0) 1 711 780
-
-<div style=\"page-break-after: always\"></div>
-
-## España
-
-Lilly S.A.
-
-Tel: + 34-91 663 50 00
-
-## France
-
-Lilly France.
-
-Tél: +33-(0) 1 55 49 34 34
-
-## Hrvatska
-
-Eli Lilly Hrvatska d.o.o.
-
-Tel: +385 1 2350 999
-
-## Ireland
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
-
-## Ísland
-
-Icepharma hf.
-
-Sími + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A.
-
-Tel: + 39- 055 42571
-
-## Κύπρος
-
-Phadisco Ltd
-
-Τηλ
-
-: +357 22 715000
-
-## Latvija
-
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
-
-Tel:
-
-+ 371 67364000
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal - Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0) 1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
-
-<div style=\"page-break-after: always\"></div>
-
-## Instructions for use
-
-## Humalog 100 units/ml Tempo Pen solution for injection in a pre-filled pen insulin lispro
-
-<!-- image -->
-
-## PLEASE READ THESE INSTRUCTIONS BEFORE USE
-
-Read the instructions for use before you startusing your insulin and each time you get another Humalog Tempo Pen. There may be new information. This information does not take the place of talking to your healthcare professional about your medical condition or your treatment.
-
-Tempo Pen ('Pen') is a disposable prefilled Pen containing 3 ml (300 units, 100 units/ml) of insulin. You can give yourself multiple doses using one Pen. The Pen dials 1 unit at a time. You can give from 1 to 60 units in a single injection. If your dose is more than 60 units, you will need to give yourself more than one injection. The plunger only moves a little with each injection, and you may not notice that it moves. The plunger will only reach the end of the cartridge when you have used all 300 units in the Pen.
-
-The Tempo Pen is designed to work with the Tempo Smart Button.  The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Humalog dose information from the Tempo Pen to a compatible mobile application.  The Tempo Pen injects insulin with or without the Tempo Smart Button attached. Your Smart Button must be attached to a Tempo Pen to record or transfer dose data. Push the Smart Button straight down on the dose knob until you hear a snap or feel the Smart Button snap into place. To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application.
-
-Do not share your Pen with other people, even if the needle has been changed. Do not reuse or share needles with other people. You may give an infection to them or get an infection from them.
-
-This Pen is not recommended for use by the blind or visually impaired without the help of someone trained to use the Pen.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Pen Needle Parts (Needles Not Included)
-
-<!-- image -->
-
-## How to recognize your Tempo Pen:
-
-- •
-
-- Pen colour: Blue
-
-- Dose Knob: Burgundy
-
-- Labels: White with Burgundy colour bar
-
-## Supplies needed to give your injection:
-
-- Tempo Pen containing your insulin
-- Tempo Pen compatible Needle (BD [Becton, Dickinson and Company] Pen Needles recommended)
-- Swab
-
-Needles and swab are not included
-
-## Preparing your Pen
-
-- Wash your hands with soap and water.
-- Check the Pen to make sure you are taking the right type of insulin. This is especially important if you use more than 1 type of insulin.
-- Do not use your Pen past the expiration date printed on the label. After you start using the Pen, throw your Pen away after the in-use time specified in the package leaflet.
-- Always use a new needle for each injection to help prevent infections and blocked needles.
-
-## Step 1:
-
-- Pull the Pen cap straight off.
-- -Do not remove the Pen label.
-- •
-
-Wipe the rubber seal with a swab. HUMALOG should look clear and colourless. Do not use if it is cloudy, coloured, or has particles or clumps in it.
-
-## Step 2:
-
-- Select a new needle.
-- Pull off the paper tab from the outer needle shield.
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 3:
-
-- Push the capped needle straight onto the Pen and twist the needle on until it is tight.
-
-## Step 4:
-
-- Pull off the outer needle shield. Do not throw it away.
-- Pull off the inner needle shield and throw it away.
-
-## Priming your Pen
-
-## Prime before each injection.
-
-- Priming your Pen means removing the air from the needle and cartridge that may collect during normal use and ensures that the Pen is working correctly.
-- If you do not prime before each injection, you may get too much or too little insulin.
-
-## Step 5:
-
-- To prime your Pen, turn the dose knob to select 2 units.
-
-## Step 6:
-
-- Hold your Pen with the needle pointing up. Tap the cartridge holder gently to collect air bubbles at the top.
-
-## Step 7:
-
-- Continue holding your Pen with needle pointing up. Push the dose knob in until it stops, and '0' is seen in the dose window. Hold the dose knob in and count to 5 slowly.
-
-You should see insulin at the tip of the needle.
-
-- -If you do not see insulin, repeat the priming steps, but not more than 4 times.
-- -If you still do not see insulin, change the needle and repeat the priming steps.
-
-Small air bubbles are normal and will not affect your dose .
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Selecting your dose
-
-- You can give from 1 to 60 units in a single injection.
-- If your dose is more than 60 units, you will need to give more than one injection.
-- -If you need help deciding how to divide up your dose, ask your healthcare professional.
-- -You should use a new needle for each injection and repeat the priming step.
-
-## Step 8:
-
-- Turn the dose knob to select the number of units you need to inject. The dose indicator should line up with your dose.
-- -The Pen dials 1 unit at a time.
-- -The dose knob clicks as you turn it.
-- -DO NOT dial your dose by counting the clicks because you may dial the wrong dose.
-- -The dose can be corrected by turning the dose knob in either direction until the correct dose lines up with the dose indicator.
-- -The even numbers are printed on the dial.
-- -The odd numbers, after the number 1, are shown as full lines.
-- Always check the number in the dose window to make sure you have dialed the correct dose.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-(Example: 25 units shown in the dose window)
-
-- The Pen will not let you dial more than the number of units left in the Pen.
-- If you need to inject more than the number of units left in the Pen, you may either:
-- -inject the amount left in your Pen and then use a new Pen to give the rest of your dose, or
-- -get a new Pen and inject the full dose.
-- It is normal to see a small amount of insulin left in the Pen that you cannot inject.
-
-## Giving your injection
-
-- Inject your insulin as your healthcare professional has shown you.
-- Change (rotate) your injection site for each injection.
-- Do not try to change your dose while injecting.
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 9:
-
-- •
-
-Your insulin is injected under the skin buttocks, upper legs or upper arms.
-
-- Choose your injection site. (subcutaneously) of your stomach area,
-- Wipe the skin with a swab, and let the injection site dry before you inject your dose.
-
-## Step 10:
-
-- Insert the needle into your skin.
-- Push the dose knob all the way in.
-- Continue to hold the Dose knob in and slowly count to 5 before removing the needle.
-
-<!-- image -->
-
-Do not try to inject your insulin by turning the dose knob. You will NOT receive your insulin by turning the dose knob.
-
-## Step 11:
-
-- Pull the needle out of your skin.
-- -A drop of insulin at the needle tip is normal. It will not affect your dose.
-- Check the number in the dose window
-- -If you see '0' in the dose window, you have received the full amount you dialed.
-- -If you do not see '0' in the dose window, do not redial. Insert the needle into your skin and finish your injection.
-- -If you still do not think you received the full amount you dialed for your injection , do not start over or repeat that injection. Monitor your blood glucose as instructed by your healthcare professional.
-- -If you normally need to give 2 injections for your full dose, be sure to give your second injection.
-
-The plunger only moves a little with each injection, and you may not notice that it moves.
-
-If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or a swab. Do not rub the area.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## After your injection
-
-## Step 12:
-
-- Carefully replace the outer needle shield.
-
-## Step 13:
-
-- Unscrew the capped needle and dispose of it as described below (see disposing of Pens and needles section).
-- Do not store the Pen with the needle attached to prevent leaking, blocking the needle, and air from entering the Pen.
-
-## Step 14:
-
-- Replace the Pen cap by lining up the cap clip with the dose indicator and pushing straight on.
-
-## Disposing of Pens and Needles
-
-- Put used needles in a sharps container or a hard plastic container with a secure lid. Do not throw needles directly into your household waste.
-- Do not recycle the filled sharps container.
-- Ask your healthcare professional about options to dispose of the pens and the sharps container properly.
-- The directions regarding needle handling are not intended to replace local, healthcare professional or institutional policies.
-
-## Storing your Pen
-
-## Unused Pens
-
-- Store unused Pens in the refrigerator at 2°C to 8°C.
-- Do not freeze your insulin. Do not use if it has been frozen.
-- Unused Pens may be used until the expiration date printed on the label, if the Pen has been kept in the refrigerator.
-
-## In-use Pen
-
-- Store the Pen you are currently using at room temperature (below 30°C) and away from dust, food and liquids,  heat and light.
-- Throw away the Pen you are using after the time specified in the package leaflet, even if it still has insulin left in it.
-
-## General information about the safe and effective use of your Pen
-
-- Keep your Pen and needles out of the sight and reach of children.
-- Do not use your Pen if any part looks broken or damaged.
-- Always carry an extra Pen in case yours is lost or damaged.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Troubleshooting
-
-- If you cannot remove the Pen cap, gently twist the cap back and forth, and then pull the cap straight off.
-- If the dose knob is hard to push:
-- -Pushing the dose knob more slowly will make it easier to inject.
-- -Your needle may be blocked. Put on a new needle and prime the Pen.
-- -You may have dust, food, or liquid inside the Pen. Throw the Pen away and get a new Pen. You may need to get a prescription from your healthcare professional.
-
-If you have any questions or problems with your Tempo Pen, contact your healthcare professional for help or contact your local Lilly affiliate.
 
 Document revision date:

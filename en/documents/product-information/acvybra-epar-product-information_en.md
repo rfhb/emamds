@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 12:08:53
+document_datetime: 2026-07-14 10:20:40
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/acvybra-epar-product-information_en.pdf
 document_name: acvybra-epar-product-information_en.pdf
 version: success
-processing_time: 8.8894538
-conversion_datetime: 2026-02-25 11:48:40.814364
+processing_time: 7.6610044
+conversion_datetime: 2026-07-16 13:38:37.988118
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,11 +64,9 @@ Patients must be adequately supplemented with calcium and vitamin D (see section
 
 Patients treated with Acvybra should be given the package leaflet and they should be provided with the patient reminder card.
 
-The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and bisphosphonates) has not been established. The need for continued treatment should be re-evaluated
+The optimal total duration of antiresorptive treatment for osteoporosis (including both denosumab and bisphosphonates) has not been established. The need for continued treatment should be re-evaluated periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-periodically based on the benefits and potential risks of denosumab on an individual patient basis, particularly after 5 or more years of use (see section 4.4).
 
 ## Elderly (age ≥ 65)
 
@@ -191,11 +189,9 @@ In postmenopausal women with osteoporosis the pharmacokinetics and pharmacodynam
 
 There are no or limited amount of data from the use of denosumab in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
-Acvybra is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with denosumab. Any effects of denosumab are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the
+Acvybra is not recommended for use in pregnant women and women of child-bearing potential not using contraception. Women should be advised not to become pregnant during and for at least 5 months after treatment with denosumab. Any effects of denosumab are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 
 <div style=\"page-break-after: always\"></div>
-
-placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 
 ## Breast-feeding
 
@@ -223,14 +219,14 @@ The following convention has been used for the classification of the adverse rea
 
 ## Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
-| MedDRAsystem organ class    | Frequency category                       | Adverse reactions                                                                                     |
+| MedDRA system organ class   | Frequency category                       | Adverse reactions                                                                                     |
 |-----------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Infections and infestations | Common Common Uncommon Uncommon Uncommon | Urinary tract infection Upper respiratory tract infection Diverticulitis 1 Cellulitis 1 Ear infection |
 | Immune system disorders     | Rare                                     | Drug hypersensitivity 1                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRAsystem organ class                        | Frequency category                          | Adverse reactions                                                                                                                       |
+| MedDRA system organ class                       | Frequency category                          | Adverse reactions                                                                                                                       |
 |-------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |                                                 | Rare                                        | Anaphylactic reaction 1                                                                                                                 |
 | Metabolism and nutrition disorders              | Rare                                        | Hypocalcaemia 1                                                                                                                         |
@@ -397,11 +393,9 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 <div style=\"page-break-after: always\"></div>
-
-no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
@@ -495,11 +489,9 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary
+In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 <div style=\"page-break-after: always\"></div>
-
-gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
@@ -523,7 +515,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -562,7 +554,7 @@ EU/1/25/1983/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17.11.2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -636,7 +628,9 @@ Patient reminder card
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Acvybra 60 mg solution for injection in pre-filled syringe denosumab
+Acvybra 60 mg solution for injection in pre-filled syringe
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -674,8 +668,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## Store in a refrigerator.
@@ -703,6 +695,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Acvybra
@@ -715,21 +708,23 @@ Acvybra
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Acvybra 60 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -741,8 +736,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -939,7 +934,7 @@ Common side effects (may affect up to 1 in 10 people):
 - skin condition with itching, redness and/or dryness (eczema),
 - hair loss (alopecia).
 
-Uncommon side effects (may affect up to 1 in 100 people):
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 - fever, vomiting and abdominal pain or discomfort (diverticulitis),
 - ear infection,
@@ -1043,11 +1038,7 @@ betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
 
 ## Nederland
 
-betapharm Arzneimittel GmbH
-
-Tel: + 49 821 74881 0
-
-info@betapharm.de
+betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
 
 ## Norge
 
@@ -1142,9 +1133,9 @@ betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
 - It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
 - Acvybra is given as an injection into the tissue just under the skin (subcutaneous injection).
 - Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject.
-- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider. x
-- Do not attempt to activate the pre-filled syringe prior to injection. ×
-- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. Call your doctor or healthcare provider if you have any questions. ×
+- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider.
+- Do not attempt to activate the pre-filled syringe prior to injection.
+- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. Call your doctor or healthcare provider if you have any questions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1157,8 +1148,8 @@ For a more comfortable injection, leave the pre-filled syringe at room temperatu
 On a clean, well-lit work surface, place the new pre-filled syringe and the other supplies.
 
 - Do not try to warm the syringe by using a heat source such as hot water or microwave.
-- Do not leave the pre-filled syringe exposed to direct sunlight. ×
-- Do not shake the pre-filled syringe. ×
+- Do not leave the pre-filled syringe exposed to direct sunlight.
+- Do not shake the pre-filled syringe.
 - Keep the pre-filled syringe out of the sight and reach of children.
 - B Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
 
@@ -1166,13 +1157,13 @@ On a clean, well-lit work surface, place the new pre-filled syringe and the othe
 
 For safety reasons:
 
-- Do not grasp the plunger. ×
-- Do not grasp the grey needle cap. ×
+- Do not grasp the plunger.
+- Do not grasp the grey needle cap.
 
 <div style=\"page-break-after: always\"></div>
 
 - C Inspect the medicine and pre-filled syringe.
-- Do not use the pre-filled syringe if: ×
+- Do not use the pre-filled syringe if:
 - The medicine is cloudy or there are particles in it. It must be a clear, colourless to slightly yellow solution.
 - Any part appears cracked or broken.
 - The grey needle cap is missing or not securely attached.
@@ -1209,21 +1200,22 @@ Clean the injection site with an alcohol wipe. Let your skin dry.
 
 It is important to keep the skin pinched when injecting.
 
-- 0
-
 <div style=\"page-break-after: always\"></div>
-
-45°
-
-- Do not touch the cleaned area of the skin. ×
-- B PUSH the plunger with slow and constant pressure, push the plunger rod until it reaches the bottom.
-- A Hold the pinch. INSERT the needle into skin.
 
 Step 3: Inject
 
-<!-- image -->
+- A Hold the pinch. INSERT the needle into skin.
 
-.06
+。06
+
+45°
+
+\\_
+
+- Do not touch the cleaned area of the skin.
+- B PUSH the plunger with slow and constant pressure, push the plunger rod until it reaches the bottom.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1233,7 +1225,7 @@ Step 3: Inject
 
 After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.
 
-- Do not put the grey needle cap back on used pre-filled syringes. ×
+- Do not put the grey needle cap back on used pre-filled syringes.
 
 ## Step 4: Finish
 
@@ -1246,7 +1238,7 @@ Medicines should be disposed of in accordance with local requirements. Ask your 
 Keep the syringe and sharps disposal container out of sight and reach of children.
 
 - Do not reuse the pre-filled syringe.
-- Do not recycle pre-filled syringes or throw them into household waste. ×
+- Do not recycle pre-filled syringes or throw them into household waste.
 
 <div style=\"page-break-after: always\"></div>
 

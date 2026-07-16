@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-09 15:05:08
-document_pages: 35
+document_datetime: 2026-07-14 09:32:04
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bilprevda-epar-product-information_en.pdf
 document_name: bilprevda-epar-product-information_en.pdf
 version: success
-processing_time: 9.429586
-conversion_datetime: 2026-01-10 11:05:58.755454
+processing_time: 8.7422975
+conversion_datetime: 2026-07-16 13:37:53.410114
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -58,7 +58,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 
 Bilprevda should be administered under the responsibility of a healthcare professional.
 
-## Posology
+Posology
 
 Supplementation of at least 500 mg calcium and 400 IU vitamin D daily is required in all patients, unless hypercalcaemia is present (see section 4.4).
 
@@ -167,7 +167,7 @@ Hypercalcaemia following treatment discontinuation in patients with giant cell t
 
 Clinically significant hypercalcaemia requiring hospitalisation and complicated by acute renal injury has been reported in denosumab-treated patients with giant cell tumour of bone weeks to months following treatment discontinuation.
 
-After treatment is discontinued, monitor patients for signs and symptoms of hypercalcaemia, consider periodic assessment of serum calcium and reevaluate the patient's calcium and vitamin D supplementation requirements (see section 4.8).
+After treatment is discontinued, monitor patients for signs and symptoms of hypercalcaemia, consider periodic assessment of serum calcium and re-evaluate the patient's calcium and vitamin D supplementation requirements (see section 4.8).
 
 Bilprevda is not recommended in patients with growing skeletons (see section 4.2). Clinically significant hypercalcaemia has also been reported in this patient group weeks to months following treatment discontinuation.
 
@@ -185,7 +185,7 @@ Malignancy in giant cell tumour of bone or progression to metastatic disease is 
 
 This medicinal product contains sorbitol and polysorbate 20. The additive effect of concomitantly administered products containing sorbitol (or fructose) and polysorbate 20, and dietary intake of sorbitol (or fructose) and polysorbate 20 should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -347,7 +347,7 @@ There is no experience with overdose in clinical studies. Denosumab has been adm
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for treatment of bone diseases -other drugs affecting bone structure and mineralisation. ATC code: M05BX04
+Pharmacotherapeutic group: Drugs for treatment of bone diseases - other drugs affecting bone structure and mineralisation. ATC code: M05BX04
 
 Bilprevda is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -367,7 +367,7 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 ## Clinical efficacy and safety in patients with bone metastases from solid tumours
 
-Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in IVbisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5 931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a prespecified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
+Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, active-controlled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5 931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a prespecified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Denosumab reduced the risk of developing a SRE and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
@@ -389,8 +389,8 @@ Table 2 Efficacy results in patients with advanced malignancies involving bone
 | Mean number/patient                     | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
 | Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
 | Superiority p-value                     | 0.0012 †                  | 0.0012 †                  | 0.1447 †                                            | 0.1447 †                                            | 0.0085 †                  | 0.0085 †                  | < 0.0001                   | < 0.0001                   |
-| SMRper Year                             | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
-| First SREorHCM                          | First SREorHCM            | First SREorHCM            | First SREorHCM                                      | First SREorHCM                                      | First SREorHCM            | First SREorHCM            | First SREorHCM             | First SREorHCM             |
+| SMR per Year                            | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
+| First SRE or HCM                        | First SRE or HCM          | First SRE or HCM          | First SRE or HCM                                    | First SRE or HCM                                    | First SRE or HCM          | First SRE or HCM          | First SRE or HCM           | First SRE or HCM           |
 | Median time (months)                    | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
 | HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
 | Superiority p-value                     | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
@@ -399,7 +399,7 @@ Table 2 Efficacy results in patients with advanced malignancies involving bone
 | HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
 | Superiority p-value                     | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
 
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p -values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
+NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction †Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
@@ -423,11 +423,9 @@ The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF 
 
 Denosumab was evaluated in an international, randomised (1:1), double-blind, active-controlled study comparing denosumab with zoledronic acid in patients with newly diagnosed multiple myeloma, study 4.
 
-In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared
+In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 <div style=\"page-break-after: always\"></div>
-
-to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Across both study arms, 54.5% of patients intended to undergo autologous PBSC transplantation, 95.8% patients utilised/planned to utilise a novel anti-myeloma agent (novel therapies include bortezomib, lenalidomide, or thalidomide) in first-line therapy, and 60.7% of patients had a previous SRE. The number of patients across both study arms with ISS stage I, stage II, and stage III at diagnosis were 32.4%, 38.2%, and 29.3%, respectively.
 
@@ -437,7 +435,7 @@ Figure 2 Kaplan-Meier plot for time to first on-study SRE in patients with newly
 
 <!-- image -->
 
-N = number of subjects randomised
+N = number of subjects randomised NE = not estimable; HCM = hypercalcaemia of malignancy
 
 Table 3 Efficacy results for denosumab compared to zoledronic acid in patients with newly diagnosed multiple myeloma
 
@@ -451,7 +449,7 @@ Table 3 Efficacy results for denosumab compared to zoledronic acid in patients w
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| First SRE orHCM                     |                       |                             |
+| First SRE or HCM                    |                       |                             |
 | Median time (months)                | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 
@@ -464,15 +462,13 @@ Table 3 Efficacy results for denosumab compared to zoledronic acid in patients w
 | Overall survival        |                       |                             |
 | Hazard ratio (95% CI)   | 0.90 (0.70, 1.16)     | 0.90 (0.70, 1.16)           |
 
-NE = not estimable; HCM = hypercalcaemia of malignancy
-
-Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
+## Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
 
 The safety and efficacy of denosumab was studied in two phase II open-label, single-arm trials (studies 5 and 6) that enrolled 554 patients with giant cell tumour of bone that was either unresectable or for which surgery would be associated with severe morbidity. Patients received 120 mg denosumab subcutaneously every 4 weeks with a loading dose of 120 mg on days 8 and 15. Patients who discontinued denosumab then entered the safety follow-up phase for a minimum of 60 months. Retreatment with denosumab while in safety follow-up was allowed for patients who initially demonstrated a response to denosumab (e.g. in the case of recurrent disease).
 
 Study 5 enrolled 37 adult patients with histologically confirmed unresectable or recurrent giant cell tumour of bone. The main outcome measure of the trial was response rate, defined as either at least 90% elimination of giant cells relative to baseline (or complete elimination of giant cells in cases where giant cells represent &lt; 5% of tumour cells), or a lack of progression of the target lesion by radiographic measurements in cases where histopathology was not available. Of the 35 patients included in the efficacy analysis, 85.7% (95% CI: 69.7, 95.2) had a treatment response to denosumab. All 20 patients (100%) with histology assessments met response criteria. Of the remaining 15 patients, 10 (67%) radiographic measurements showed no progression of the target lesion.
 
-Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12 -17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
+Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
 
 In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not undergone surgery by month 6. Of the 239 patients in cohort 2 with baseline target lesion location or on-study location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
 
@@ -488,7 +484,7 @@ In the final analysis cohorts 1 and 2 combined, a clinically meaningful reductio
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
 
-In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13 -17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patients with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
+In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patients with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -512,11 +508,9 @@ Denosumab displayed non-linear pharmacokinetics with dose over a wide dose range
 
 ## Renal impairment
 
-In studies of denosumab (60 mg, n = 55 and 120 mg, n = 32) in patients without advanced cancer but with varying degrees of renal function, including patients on dialysis, the degree of renal impairment
+In studies of denosumab (60 mg, n = 55 and 120 mg, n = 32) in patients without advanced cancer but with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not required. There is no need for renal monitoring with denosumab dosing.
 
 <div style=\"page-break-after: always\"></div>
-
-had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not required. There is no need for renal monitoring with denosumab dosing.
 
 ## Hepatic impairment
 
@@ -528,7 +522,7 @@ No overall differences in safety or efficacy were observed between geriatric pat
 
 ## Paediatric population
 
-In skeletally-mature adolescents (12 -17 years of age) with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, the pharmacokinetics of denosumab were similar to those observed in adult patients with GCTB.
+In skeletally-mature adolescents (12-17 years of age) with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, the pharmacokinetics of denosumab were similar to those observed in adult patients with GCTB.
 
 ## 5.3 Preclinical safety data
 
@@ -544,11 +538,9 @@ In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab do
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester of pregnancy, denosumab doses resulting in 9 times greater systemic exposure than the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
 
-In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after
+In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at systemic exposures 12-fold higher than the human dose, there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 <div style=\"page-break-after: always\"></div>
-
-birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology.
 
@@ -574,7 +566,7 @@ Once removed from the refrigerator, Bilprevda may be stored at room temperature 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -626,9 +618,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Shanghai Henlius Biologics Co., Ltd. Building 1, No. 182 Wenjun Road, Songjiang District, Shanghai, China
+Shanghai Henlius Biologics Co., Ltd.
+
+Building 1, No. 182 Wenjun Road, Songjiang District, Shanghai, China
 
 Name and address of the manufacturer(s) responsible for batch release
+
+SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
 Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upper Dublin 2, D02 EK84, Ireland
 
@@ -640,7 +636,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -653,6 +649,9 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## · Additional risk minimisation measures
@@ -677,7 +676,9 @@ VIAL CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bilprevda 120 mg solution for injection denosumab
+Bilprevda 120 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -719,9 +720,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -738,13 +737,14 @@ EU/1/25/1979/001
 LOT
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Bilprevda
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -756,30 +756,32 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| VIAL LABEL                                                        |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bilprevda 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 LOT
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.7 mL
 
@@ -909,17 +911,15 @@ This medicine contains 78.2 mg sorbitol and 0.17 mg polysorbate 20 in each vial.
 
 ## Bilprevda contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodium-free'.
 
 ## 3. How to use Bilprevda
 
 Bilprevda should be administered under the responsibility of a healthcare professional.
 
-The recommended dose of Bilprevda is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). Bilprevda will be injected into your thigh, abdomen or upper arm. If
+The recommended dose of Bilprevda is 120 mg administered once every 4 weeks, as a single injection under the skin (subcutaneous). Bilprevda will be injected into your thigh, abdomen or upper arm. If you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 <div style=\"page-break-after: always\"></div>
-
-you are being treated for giant cell tumour of bone, you will receive an additional dose 1 week and 2 weeks after the first dose.
 
 Do not shake.
 
@@ -978,7 +978,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 The vial may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your vial has been left to reach room temperature (up to 25°C), do not put it back in the refrigerator and it must be used within 30 days.
 
@@ -999,75 +999,97 @@ Bilprevda is a clear to slightly opalescent, colourless to slightly yellow solut
 
 Each pack contains one single use vial.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
 SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
 ## Manufacturer
 
-Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upper Dublin 2, D02 EK84, Ireland
+Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upper Dublin 2, D02 EK84, Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+België/Belgique/Belgien SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-## België/Belgique/Belgien
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Česká republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw
 
-## Danmark
+Poland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
+
+Danmark
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Deutschland
 
-Organon Healthcare GmbH
+Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
 
-Tel: 0800 3384 726 (+49 (0) 89 2040022 10) dpoc.germany@organon.com
+dpoc.germany@organon.com
 
 ## Eesti
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-## España
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
+
+España
 
 Organon Salud, S.L. Tel: +34 91 591 12 79
 
-dpoc.spain@organon.com
-
-Lietuva SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+organon\\_info@organon.com Lietuva SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Luxembourg/Luxemburg
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-## Magyarország
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-## Malta
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+Malta
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Nederland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
+
+## Norge
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Österreich
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
+
+Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1077,15 +1099,21 @@ Organon France Tél: +33 (0) 1 57 77 32 00
 
 ## Hrvatska
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Ireland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Ísland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Italia
 
@@ -1095,17 +1123,13 @@ dpoc.italy@organon.com
 
 Κύπρος
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-## Latvija
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-SciencePharma Sp. z o.o.
+Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Chełmska 30/34, 00
-
--725 Warsaw
-
-Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## This leaflet was last revised in
 
@@ -1113,33 +1137,45 @@ Poland denosumabh@qbdgroup.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
-Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00
+## Portugal
 
--725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-România SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
+
+## România
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Slovenija
 
 SciencePharma Sp. z o.o.
 
-Chełmska 30/34, 00
+Chełmska 30/34, 00-725 Warsaw
 
--725 Warsaw
+Poland
 
-Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Slovenská republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Suomi/Finland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Sverige
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 <div style=\"page-break-after: always\"></div>
 

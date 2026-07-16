@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 15:40:00
+document_datetime: 2026-07-14 15:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qaialdo.html
 document_name: qaialdo.html
 version: success
-processing_time: 0.1066444
-conversion_datetime: 2026-03-25 12:41:41.035366
+processing_time: 0.1350245
+conversion_datetime: 2026-07-16 13:15:52.703005
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Qaialdo
 
@@ -63,7 +63,7 @@ Expand section
 
 Collapse section
 
-## How is Qaialdo used?
+### How is Qaialdo used?
 
 The medicine can only be obtained with a prescription, and children should only be treated under supervision of a paediatric specialist.
 
@@ -71,17 +71,17 @@ Qaialdo is available as a suspension (a liquid with solid particles in it) to be
 
 For more information about using Qaialdo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Qaialdo work?
+### How does Qaialdo work?
 
 The active substance in Qaialdo, spironolactone, works by blocking the effects of aldosterone, a hormone that helps control water balance in the body. The medicine blocks specific receptors (targets) for aldosterone in the kidneys. This increases the elimination of salt and water in the form of urine while keeping levels of potassium from getting too low. This, in turn, reduces oedema.
 
-## What benefits of Qaialdo have been shown in studies?
+### What benefits of Qaialdo have been shown in studies?
 
 Spironolactone has been used in the European Union for several decades to treat refractory oedema. As for every medicine, the company provided studies on the quality of Qaialdo. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
 Because Qaialdo is bioequivalent to the reference medicine, its benefits are taken as being the same as the reference medicine's.
 
-## What are the risks associated with Qaialdo?
+### What are the risks associated with Qaialdo?
 
 For the full list of side effects and restrictions with Qaialdo, see the package leaflet.
 
@@ -89,17 +89,17 @@ Because Qaialdo is bioequivalent to the reference medicine, its risks are taken 
 
 The most common side effects with Qaialdo (which may affect more than 1 in 10 people) include hyperkalaemia (high blood potassium levels, which can cause tiredness, muscle weakness, feeling sick and heart rhythm disturbances). Gynaecomastia (breast growth in men) and breast pain are seen in up to 1 in 10 males.
 
-## Why is Qaialdo authorised in the EU?
+### Why is Qaialdo authorised in the EU?
 
 Qaialdo has been shown to be comparable to the reference medicine. Therefore, the Agency's view was that, as for Aldactone, the benefits of Qaialdo outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Qaialdo?
+### What measures are being taken to ensure the safe and effective use of Qaialdo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Qaialdo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Qaialdo are continuously monitored. Suspected side effects reported with Qaialdo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Qaialdo
+### Other information about Qaialdo
 
 Qaialdo received a marketing authorisation valid throughout the EU on 26 May 2023.
 
@@ -113,7 +113,7 @@ English (EN) (130.7 KB - PDF)
 
 [View](/en/documents/overview/qaialdo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-734)
+[Other languages (22)](#file-language-dropdown-578)
 
 български (BG) (153.73 KB - PDF)
 
@@ -145,7 +145,7 @@ Deutsch (DE) (135.05 KB - PDF)
 
 [View](/de/documents/overview/qaialdo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (138.15 KB - PDF)
+eesti (ET) (138.15 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -175,13 +175,13 @@ italiano (IT) (130.29 KB - PDF)
 
 [View](/it/documents/overview/qaialdo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (166.55 KB - PDF)
+latviešu (LV) (166.55 KB - PDF)
 
 **First published:** 25/07/2023
 
 [View](/lv/documents/overview/qaialdo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (149.97 KB - PDF)
+lietuvių (LT) (149.97 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -235,7 +235,7 @@ slovenščina (SL) (148.93 KB - PDF)
 
 [View](/sl/documents/overview/qaialdo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (127.92 KB - PDF)
+suomi (FI) (127.92 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -259,167 +259,168 @@ English (EN) (101.81 KB - PDF)
 
 Qaialdo: EPAR - Product information
 
-English (EN) (254.92 KB - PDF)
+English (EN) (256.53 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/en/documents/product-information/qaialdo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-979)
+[Other languages (24)](#file-language-dropdown-893)
 
-български (BG) (387.3 KB - PDF)
+български (BG) (390.33 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/bg/documents/product-information/qaialdo-epar-product-information_bg.pdf)
 
-español (ES) (258.01 KB - PDF)
+español (ES) (446.8 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/es/documents/product-information/qaialdo-epar-product-information_es.pdf)
 
-čeština (CS) (364.82 KB - PDF)
+čeština (CS) (366.84 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/cs/documents/product-information/qaialdo-epar-product-information_cs.pdf)
 
-dansk (DA) (251.11 KB - PDF)
+dansk (DA) (252.53 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/da/documents/product-information/qaialdo-epar-product-information_da.pdf)
 
-Deutsch (DE) (269.73 KB - PDF)
+Deutsch (DE) (270.86 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/de/documents/product-information/qaialdo-epar-product-information_de.pdf)
 
-eesti keel (ET) (251.91 KB - PDF)
+eesti (ET) (434.48 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/et/documents/product-information/qaialdo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (402.89 KB - PDF)
+ελληνικά (EL) (530.97 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/el/documents/product-information/qaialdo-epar-product-information_el.pdf)
 
-français (FR) (457.02 KB - PDF)
+français (FR) (460.33 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/fr/documents/product-information/qaialdo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (509.19 KB - PDF)
+hrvatski (HR) (353.73 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/hr/documents/product-information/qaialdo-epar-product-information_hr.pdf)
 
-íslenska (IS) (441.38 KB - PDF)
+italiano (IT) (444.69 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/qaialdo-epar-product-information_is.pdf)
-
-italiano (IT) (441.91 KB - PDF)
-
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/it/documents/product-information/qaialdo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (505.02 KB - PDF)
+latviešu (LV) (507.51 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/lv/documents/product-information/qaialdo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (522.2 KB - PDF)
+lietuvių (LT) (363.78 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/lt/documents/product-information/qaialdo-epar-product-information_lt.pdf)
 
-magyar (HU) (519.64 KB - PDF)
+magyar (HU) (520.39 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/hu/documents/product-information/qaialdo-epar-product-information_hu.pdf)
 
-Malti (MT) (541.04 KB - PDF)
+Malti (MT) (546.71 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/mt/documents/product-information/qaialdo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (257.44 KB - PDF)
+Nederlands (NL) (259.23 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/nl/documents/product-information/qaialdo-epar-product-information_nl.pdf)
 
-norsk (NO) (244.6 KB - PDF)
+polski (PL) (352.57 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/qaialdo-epar-product-information_no.pdf)
-
-polski (PL) (365.41 KB - PDF)
-
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/pl/documents/product-information/qaialdo-epar-product-information_pl.pdf)
 
-português (PT) (257.4 KB - PDF)
+português (PT) (259.33 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/pt/documents/product-information/qaialdo-epar-product-information_pt.pdf)
 
-română (RO) (374.18 KB - PDF)
+română (RO) (375.86 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/ro/documents/product-information/qaialdo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (356.86 KB - PDF)
+slovenčina (SK) (359.77 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/sk/documents/product-information/qaialdo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (511.96 KB - PDF)
+slovenščina (SL) (356.18 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/sl/documents/product-information/qaialdo-epar-product-information_sl.pdf)
 
-Suomi (FI) (254.61 KB - PDF)
+suomi (FI) (438.59 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/fi/documents/product-information/qaialdo-epar-product-information_fi.pdf)
 
-svenska (SV) (251.13 KB - PDF)
+svenska (SV) (253.01 KB - PDF)
 
-**First published:** 25/07/2023 **Last updated:** 24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
 
 [View](/sv/documents/product-information/qaialdo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000333112
+Íslenska (IS) (442.93 KB - PDF)
 
-24/03/2026
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
+
+[View](/is/documents/product-information/qaialdo-epar-product-information_is.pdf)
+
+norsk (NO) (246.74 KB - PDF)
+
+**First published:** 25/07/2023 **Last updated:** 14/07/2026
+
+[View](/no/documents/product-information/qaialdo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000347805
+
+30/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +438,7 @@ English (EN) (50.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-0)
+[Other languages (24)](#file-language-dropdown-111)
 
 български (BG) (60.93 KB - PDF)
 
@@ -469,7 +470,7 @@ Deutsch (DE) (51.35 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (48.38 KB - PDF)
+eesti (ET) (48.38 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -493,25 +494,19 @@ hrvatski (HR) (67.26 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (41.8 KB - PDF)
-
-**First published:** 25/07/2023
-
-[View](/is/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.48 KB - PDF)
 
 **First published:** 25/07/2023
 
 [View](/it/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (67.1 KB - PDF)
+latviešu (LV) (67.1 KB - PDF)
 
 **First published:** 25/07/2023
 
 [View](/lv/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (67.33 KB - PDF)
+lietuvių (LT) (67.33 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -534,12 +529,6 @@ Nederlands (NL) (48.57 KB - PDF)
 **First published:** 25/07/2023
 
 [View](/nl/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (41.17 KB - PDF)
-
-**First published:** 25/07/2023
-
-[View](/no/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (66.55 KB - PDF)
 
@@ -571,7 +560,7 @@ slovenščina (SL) (65.42 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.72 KB - PDF)
+suomi (FI) (48.72 KB - PDF)
 
 **First published:** 25/07/2023
 
@@ -583,33 +572,36 @@ svenska (SV) (48.54 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (41.8 KB - PDF)
+
+**First published:** 25/07/2023
+
+[View](/is/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (41.17 KB - PDF)
+
+**First published:** 25/07/2023
+
+[View](/no/documents/all-authorised-presentations/qaialdo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Qaialdo
-
-Active substance
-
-spironolactone
-
-International non-proprietary name (INN) or common name
-
-spironolactone
-
-Therapeutic area (MeSH)
-
-- Edema
-- Heart Failure
-- Liver Cirrhosis
-- Ascites
-- Nephrotic Syndrome
-- Hyperaldosteronism
-- Essential Hypertension
-
-Anatomical therapeutic chemical (ATC) code
-
-C03DA01
+- **Name of medicine**
+    - Qaialdo
+- **Active substance**
+    - spironolactone
+- **International non-proprietary name (INN) or common name**
+    - spironolactone
+- **Therapeutic area (MeSH)**
+        - Edema
+        - Heart Failure
+        - Liver Cirrhosis
+        - Ascites
+        - Nephrotic Syndrome
+        - Hyperaldosteronism
+        - Essential Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - C03DA01
 
 ### Pharmacotherapeutic group
 
@@ -623,23 +615,14 @@ Neonates, children and adolescents should only be treated under guidance of a pa
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005535
-
-Marketing authorisation holder
-
-Lipomed GmbH
-
-Hegenheimer Strasse 2
-
-Marketing authorisation issued
-
-26/05/2023
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005535
+- **Marketing authorisation holder**
+    - Lipomed GmbH Hegenheimer Strasse 2  79576 Weil am Rhein  Germany
+- **Marketing authorisation issued**
+    - 26/05/2023
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -647,17 +630,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Qaialdo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (164.17 KB - PDF)
+English (EN) (185.52 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 24/03/2026
+**First published:** 20/08/2025 **Last updated:** 14/07/2026
 
 [View](/en/documents/procedural-steps-after/qaialdo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Qaialdo : EPAR -  Procedural steps taken and scientific information after the authorisation (archived)
+Qaialdo : EPAR - Procedural steps taken and scientific information after the authorisation (archived)
 
 English (EN) (138.71 KB - PDF)
 
@@ -675,7 +658,7 @@ English (EN) (128.64 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/qaialdo-h-c-psusa-00002780-202403-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Qaialdo : EPAR - Public assessment report
 
@@ -705,6 +688,6 @@ English (EN) (149.93 KB - PDF)
 
 **This page was last updated on**
 
-24/03/2026
+14/07/2026
 
 ## Share this page
